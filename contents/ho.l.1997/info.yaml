@@ -1,0 +1,59 @@
+abstract: 'We use the sample of emission-line nuclei derived from a recently completed
+  optical spectroscopic survey of nearby galaxies to quantify the incidence of local
+  (z ~ 0) nuclear activity. Particular attention is paid to obtaining accurate measurements
+  of the emission lines and reliable spectral classifications. The resulting database
+  contains the largest collection of star-forming nuclei and active galactic nuclei
+  (AGNs) currently known for nearby galaxies. It consists of 420 emission-line nuclei
+  detected from a nearly complete, magnitude-limited sample of 486 galaxies with BT
+  <= 12.5 mag and declination greater than 0$\,^{\circ}$ the equivalent width detection
+  limit of the brightest emission line, usually Halpha, is ~0.25 {\AA}.  As is consistent
+  with previous studies, we find detectable amounts of ionized gas in the central
+  few hundred parsecs of most galaxies (86\%); emission lines are present in essentially
+  every spiral galaxy and in a large fraction of ellipticals and lenticulars. Based
+  on their narrow-line spectra, half of the objects can be classified as H II or star-forming
+  nuclei and the other half as some form of AGN, of which we distinguish three classes:
+  Seyfert nuclei, low-ionization nuclear emission-line regions (LINERs), and transition
+  objects that we assume to be composite LINER/H II-nucleus systems. The population
+  of AGNs is consequently very large; approximately 43\% of the galaxies in our survey
+  can be regarded as ``active,'''' although, for a number of reasons, this fraction
+  is still rather uncertain. Most of the objects have much lower luminosities than
+  commonly studied AGNs; the median luminosity of the narrow Halpha line, after correcting
+  for extinction, is only 2 \texttimes{} 1039 ergs s-1. Our sample therefore occupies
+  the extreme faint end of the AGN luminosity function.  We detect signatures of a
+  broad-line region, as revealed by visible broad Halpha emission, in ~20\% of the
+  AGN sample. Seyfert nuclei, both type 1 and type 2, reside in ~10\% of all galaxies.
+  LINERs make up the bulk (1/2-3/4) of the AGN population and a significant fraction
+  (1/5-1/3) of all galaxies. A nonnegligible subset of LINERs emit broad Halpha emission,
+  furnishing direct evidence that a least some LINERs are indeed physically related
+  to the AGN phenomenon.  The dominant ionization mechanism of the nuclear emission
+  depends strongly on the morphological type and luminosity of the host galaxy. AGNs
+  are found predominantly in luminous, early-type (E-Sbc) galaxies, while H II nuclei
+  prefer less luminous, late-type (Sbc and later) systems. The various AGN subclasses
+  have broadly similar host galaxies.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...487..568H
+arxivurl: http://arxiv.org/abs/astro-ph/9704108
+author: Ho, L. C. and Filippenko, A. V. and Sargent, W. L. W.
+author_list:
+- family: Ho
+  given: L. C.
+- family: Filippenko
+  given: A. V.
+- family: Sargent
+  given: W. L. W.
+date-added: 2017-08-11 06:23:07 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304638
+eprint: astro-ph/9704108
+journal: \apj
+keywords: 'Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, Galaxies: Starburst,
+  Surveys'
+month: October
+pages: 568--578
+papis_id: 822f958eaff9dc9f4a9282cdc365b812
+ref: ho.l.1997
+title: A Search for ``Dwarf'' Seyfert Nuclei. V. Demographics of Nuclear Activity
+  in Nearby Galaxies
+type: article
+volume: '487'
+year: '1997'

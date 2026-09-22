@@ -1,0 +1,57 @@
+abstract: We present the first detailed 3D hydrodynamic implicit large eddy simulations
+  of turbulent convection of carbon burning in massive stars. Simulations begin with
+  radial profiles mapped from a carbon-burning shell within a 15 M\&sun; 1D stellar
+  evolution model. We consider models with 1283, 2563, 5123, and 10243 zones. The
+  turbulent flow properties of these carbon-burning simulations are very similar to
+  the oxygen-burning case. We performed a mean field analysis of the kinetic energy
+  budgets within the Reynolds-averaged Navier-Stokes framework. For the upper convective
+  boundary region, we find that the numerical dissipation is insensitive to resolution
+  for linear mesh resolutions above 512 grid points. For the stiffer, more stratified
+  lower boundary, our highest resolution model still shows signs of decreasing sub-grid
+  dissipation suggesting it is not yet numerically converged. We find that the widths
+  of the upper and lower boundaries are roughly 30 per cent and 10 per cent of the
+  local pressure scaleheights, respectively. The shape of the boundaries is significantly
+  different from those used in stellar evolution models. As in past oxygen-shell-burning
+  simulations, we observe entrainment at both boundaries in our carbon-shell-burning
+  simulations. In the large P{\'e}clet number regime found in the advanced phases,
+  the entrainment rate is roughly inversely proportional to the bulk Richardson number,
+  RiB (\propto{}RiB-alpha, 0.5 \lessequivlnt{} alpha \lessequivlnt{} 1.0). We thus
+  suggest the use of RiB as a means to take into account the results of 3D hydrodynamics
+  simulations in new 1D prescriptions of convective boundary mixing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017MNRAS.471..279C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1610.05173
+author: Cristini, A. and Meakin, C. and Hirschi, R. and Arnett, D. and Georgy, C.
+  and Viallet, M. and Walkington, I.
+author_list:
+- family: Cristini
+  given: A.
+- family: Meakin
+  given: C.
+- family: Hirschi
+  given: R.
+- family: Arnett
+  given: D.
+- family: Georgy
+  given: C.
+- family: Viallet
+  given: M.
+- family: Walkington
+  given: I.
+date-added: 2018-06-08 17:21:18 +0000
+date-modified: 2018-06-08 17:21:20 +0000
+doi: 10.1093/mnras/stx1535
+eprint: '1610.05173'
+journal: \mnras
+keywords: 'convection, hydrodynamics, turbulence, stars: evolution, stars: interiors,
+  stars: massive'
+month: October
+pages: 279--300
+papis_id: eff36279504586decb9f98fad2b51bcd
+primaryclass: astro-ph.SR
+ref: cristini.a.2017
+title: 3D hydrodynamic simulations of carbon burning in massive stars
+type: article
+volume: '471'
+year: '2017'

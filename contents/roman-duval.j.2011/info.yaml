@@ -1,0 +1,57 @@
+abstract: Turbulence plays a major role in the formation and evolution of molecular
+  clouds. Observationally, turbulent velocities are convolved with the density of
+  an observed region. To correct for this convolution, we investigate the relation
+  between the turbulence spectrum of model clouds, and the statistics of their synthetic
+  observations obtained from principal component analysis (PCA). We apply PCA to spectral
+  maps generated from simulated density and velocity fields, obtained from hydrodynamic
+  simulations of supersonic turbulence, and from fractional Brownian motion (fBm)
+  fields with varying velocity, density spectra, and density dispersion. We examine
+  the dependence of the slope of the PCA pseudo-structure function, alphaPCA, on intermittency,
+  on the turbulence velocity (beta v ) and density (beta n ) spectral indexes, and
+  on density dispersion. We find that PCA is insensitive to beta n  and to the log-density
+  dispersion sigma s , provided sigma s  <= 2. For sigma s  > 2, alphaPCA increases
+  with sigma s  due to the intermittent sampling of the velocity field by the density
+  field. The PCA calibration also depends on intermittency. We derive a PCA calibration
+  based on fBm structures with sigma s  <= 2 and apply it to 367 13CO spectral maps
+  of molecular clouds in the Galactic Ring Survey. The average slope of the PCA structure
+  function, langalphaPCArang = 0.62 $\pm$ 0.2, is consistent with the hydrodynamic
+  simulations and leads to a turbulence velocity exponent of langbeta v rang = 2.06
+  \$\pm\$ 0.6 for a non-intermittent, low density dispersion flow. Accounting for
+  intermittency and density dispersion, the coincidence between the PCA slope of the
+  GRS clouds and the hydrodynamic simulations suggests beta v  ~= 1.9, consistent
+  with both Burgers and compressible intermittent turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...740..120R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.4569
+author: Roman-Duval, J. and Federrath, C. and Brunt, C. and Heyer, M. and Jackson,
+  J. and Klessen, R. S.
+author_list:
+- family: Roman-Duval
+  given: J.
+- family: Federrath
+  given: C.
+- family: Brunt
+  given: C.
+- family: Heyer
+  given: M.
+- family: Jackson
+  given: J.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-11 01:28:19 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/740/2/120
+eid: '120'
+eprint: '1107.4569'
+journal: \apj
+keywords: 'ISM: clouds, ISM: kinematics and dynamics, molecular data, turbulence'
+month: October
+pages: '120'
+papis_id: da41d7282556bbac8aabdaf16b1faff8
+ref: roman_duval.j.2011
+title: 'The Turbulence Spectrum of Molecular Clouds in the Galactic Ring Survey: A
+  Density-dependent Principal Component Analysis Calibration'
+type: article
+volume: '740'
+year: '2011'

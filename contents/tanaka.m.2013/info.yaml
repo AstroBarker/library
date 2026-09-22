@@ -1,0 +1,49 @@
+abstract: Mergers of binary neutron stars (NSs) are among the most promising gravitational
+  wave (GW) sources. Next generation GW detectors are expected to detect signals from
+  NS mergers within about 200 Mpc. The detection of electromagnetic wave (EM) counterparts
+  is crucial to understanding the nature of GW sources. Among the possible EM emission
+  from the NS merger, emission powered by radioactive r-process nuclei is one of the
+  best targets for follow-up observations. However, predictions so far have not taken
+  into account detailed r-process element abundances in the ejecta. We perform for
+  the first time radiative transfer simulations of the NS merger ejecta including
+  all the r-process elements from Ga to U. We show that the opacity of the NS merger
+  ejecta is about kappa = 10 cm2 g-1, which is higher than that of Fe-rich Type Ia
+  supernova ejecta by a factor of ~100. As a result, the emission is fainter and lasts
+  longer than previously expected. The spectra are almost featureless due to the high
+  expansion velocity and bound-bound transitions of many different r-process elements.
+  We demonstrate that the emission is brighter for a higher mass ratio of the two
+  NSs and a softer equation of state adopted in the merger simulations. Because of
+  the red color of the emission, follow-up observations in red optical and near-infrared
+  (NIR) wavelengths will be the most efficient. At 200 Mpc, the expected brightness
+  of the emission is i = 22-25 AB mag, z = 21-23 AB mag, and 21-24 AB mag in the NIR
+  JHK bands. Thus, observations with wide-field 4 m- and 8 m-class optical telescopes
+  and wide-field NIR space telescopes are necessary. We also argue that the emission
+  powered by radioactive energy can be detected in the afterglow of nearby short gamma-ray
+  bursts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775..113T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.3742
+author: Tanaka, M. and Hotokezaka, K.
+author_list:
+- family: Tanaka
+  given: M.
+- family: Hotokezaka
+  given: K.
+date-added: 2017-08-10 18:09:03 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/775/2/113
+eid: '113'
+eprint: '1306.3742'
+journal: \apj
+keywords: 'gamma-ray burst: general, gravitational waves, nuclear reactions, nucleosynthesis,
+  abundances, radiative transfer, supernovae: general'
+month: October
+pages: '113'
+papis_id: 71545a4663ed543e5faffd554fe6a89b
+primaryclass: astro-ph.HE
+ref: tanaka.m.2013
+title: Radiative Transfer Simulations of Neutron Star Merger Ejecta
+type: article
+volume: '775'
+year: '2013'

@@ -1,0 +1,40 @@
+abstract: In very dense environments, neutrinos can undergo fast flavor conversions
+  on scales as short as a few centimeters provided that the angular distribution of
+  the neutrino lepton number crosses zero. This work presents the first attempt to
+  establish whether the non-negligible abundance of muons and their interactions with
+  neutrinos in the core of supernovae can affect the occurrence of such crossings.
+  For this purpose we employ state-of-the-art one-dimensional core-collapse supernova
+  simulations, considering models that include muon-neutrino interactions as well
+  as models without these reactions. Although a consistent treatment of muons in the
+  equation of state and neutrino transport does not seem to modify significantly the
+  conditions for the occurrence of fast modes, it allows for the existence of an interesting
+  phenomenon, namely fast instabilities in the $\mu-\tau$ sector. We also show that
+  crossings below the supernova shock are a relatively generic feature of the one-dimensional
+  simulations under investigation, which contrasts with the previous reports in the
+  literature. Our results highlight the importance of multi-dimensional simulations
+  with muon creation, where our results must be tested in the future.
+archiveprefix: arXiv
+author: Capozzi, Francesco and Abbar, Sajad and Bollig, Robert and Janka, H. -Thomas
+author_list:
+- family: Capozzi
+  given: Francesco
+- family: Abbar
+  given: Sajad
+- family: Bollig
+  given: Robert
+- family: Janka
+  given: H. -Thomas
+doi: 10.1103/PhysRevD.103.063013
+eprint: '2012.08525'
+file: :Capozzi2020a - Fast Neutrino Flavor Conversions in One Dimensional Core Collapse
+  Supernova Models with and without Muon Creation.pdf:PDF
+journal: Phys. Rev. D 103, 063013 (2021)
+keywords: astro-ph.HE, hep-ph
+month: December
+papis_id: 9254fb44528b23b2b404383d9162bad1
+primaryclass: astro-ph.HE
+ref: capozzi.francesco.2020a
+title: Fast neutrino flavor conversions in one-dimensional core-collapse supernova
+  models with and without muon creation
+type: article
+year: '2020'

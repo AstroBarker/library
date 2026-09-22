@@ -1,0 +1,48 @@
+abstract: Hydrodynamics of the rotational collapse of strongly magnetized massive
+  stellar cores has been studied numerically. Employing simplified microphysics and
+  a two-dimensional nonrelativistic MHD code, we have performed a parametric research
+  with respect to the strength of magnetic field and rotation, paying particular attention
+  to the systematics of dynamics. We assume initially that the rotation is almost
+  uniform and the magnetic field is constant in space and parallel to the rotation
+  axis. The initial angular velocity and magnetic field strength span 1.7-6.8 rad
+  s-1 and (1.8-5.8)\texttimes{}1012 G, respectively. We have found that the combination
+  of rotation and magnetic field can lead to a jetlike prompt explosion in the direction
+  of the rotational axis, which would not be produced by either of them alone. The
+  range of the maximum angular velocity and field strength is 2.3\texttimes{}10-3to5.8\texttimes{}10-4
+  rad s-1 and 2.3\texttimes{}1015to5.6\texttimes{}1016 G, respectively, at the end
+  of computations. Although the results appear to be consistent with those by LeBlanc
+  \& Wilson and Symbalisty, the magnetic fields behind the shock wave, not in the
+  inner core, are the main driving factor of the jet in our models. The fields are
+  amplified by the strong differential rotations in the region between the shock wave
+  and the boundary of the inner and outer cores, enhanced further by the lateral matter
+  motions induced either by an oblique shock wave (for a strong shock case) or possibly
+  by the MRI (magnetorotational instability)-like instability (for a weak shock case).
+  We have also calculated the gravitational wave forms in the quadrupole approximation.
+  Although the wave form from a nonrotating magnetic core is qualitatively different
+  from those from rotating cores, the amplitude is about an order of magnitude smaller.
+  Otherwise, we have found no substantial difference in the first burst of gravitational
+  waves among the magnetized and nonmagnetized models, since the bounce is mainly
+  driven by the combination of the matter pressure and the centrifugal force.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...608..907Y
+author: Yamada, S. and Sawai, H.
+author_list:
+- family: Yamada
+  given: S.
+- family: Sawai
+  given: H.
+date-added: 2017-08-10 20:13:27 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/420760
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Stars: Pulsars: General, Stars: Evolution, Stars:
+  Magnetic Fields, Stars: Supernovae: General-'
+month: June
+pages: 907--924
+papis_id: 0fd7b698daa0ff3001a2721f8c966cac
+ref: yamada.s.2004
+title: Numerical Study on the Rotational Collapse of Strongly Magnetized Cores of
+  Massive Stars
+type: article
+volume: '608'
+year: '2004'

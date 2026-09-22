@@ -1,0 +1,32 @@
+abstract: The equations governing the transport of neutrinos in a collapsing stellar
+  core are solved numerically. Neutrino-matter coupling is treated within the framework
+  of Weinberg's neutral current model, with various scalings of the rates to allow
+  for the existing experimental uncertainties. Special care is devoted to neutrino-electron
+  Compton scattering and to the numerical conservation of neutrinos. Previous investigations
+  have indicated a marginal effectiveness of neutrinos in producing a supernova explosion,
+  necessitating such a more accurate treatment of neutrino transport. Neutrino stresses,
+  luminosities, and energy transfer rates to matter are computed in realistic collapsing
+  stellar cores.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1977ApJ...217..565Y
+author: Yueh, W. R. and Buchler, J. R.
+author_list:
+- family: Yueh
+  given: W. R.
+- family: Buchler
+  given: J. R.
+date-added: 2017-08-11 05:30:55 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/155605
+journal: \apj
+keywords: Neutrinos, Particle Motion, Stellar Models, Supernovae, Transport Theory,
+  Boltzmann Transport Equation, Compton Effect, Energy Transfer, Integral Equations,
+  Scattering Functions
+month: October
+pages: 565--577
+papis_id: c0d141d3fe79254bc98ce71320cbe73d
+ref: yueh.w.1977
+title: Neutrino transport in supernova models - S$_N$ method
+type: article
+volume: '217'
+year: '1977'

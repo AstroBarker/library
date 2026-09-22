@@ -1,0 +1,50 @@
+abstract: Momentum deposition by radiation pressure from young, massive stars may
+  help to destroy molecular clouds and unbind stellar clusters by driving large-scale
+  outflows. We extend our previous numerical radiation hydrodynamic study of turbulent
+  star-forming clouds to analyze the detailed interaction between non-ionizing UV
+  radiation and the cloud material. Our simulations trace the evolution of gas and
+  star particles through self-gravitating collapse, star formation, and cloud destruction
+  via radiation-driven outflows. These models are idealized in that we include only
+  radiation feedback and adopt an isothermal equation of state. Turbulence creates
+  a structure of dense filaments and large holes through which radiation escapes,
+  such that only ~50\% of the radiation is (cumulatively) absorbed by the end of star
+  formation. The surface density distribution of gas by mass as seen by the central
+  cluster is roughly lognormal with {sigma }{ln{{Sigma }}}=1.3{--}1.7, similar to
+  the externally projected surface density distribution. This allows low surface density
+  regions to be driven outwards to nearly 10 times their initial escape speed {v}{esc}.
+  Although the velocity distribution of outflows is broadened by the lognormal surface
+  density distribution, the overall efficiency of momentum injection to the gas cloud
+  is reduced because much of the radiation escapes. The mean outflow velocity is approximately
+  twice the escape speed from the initial cloud radius. Our results are also informative
+  for understanding galactic-scale wind driving by radiation, in particular, the relationship
+  between velocity and surface density for individual outflow structures and the resulting
+  velocity and mass distributions arising from turbulent sources.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJ...850..112R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1711.06737
+author: Raskutti, S. and Ostriker, E. C. and Skinner, M. A.
+author_list:
+- family: Raskutti
+  given: S.
+- family: Ostriker
+  given: E. C.
+- family: Skinner
+  given: M. A.
+date-added: 2017-12-05 16:12:40 +0000
+date-modified: 2017-12-05 16:36:24 +0000
+doi: 10.3847/1538-4357/aa965e
+eid: '112'
+eprint: '1711.06737'
+journal: \apj
+keywords: 'hydrodynamics, ISM: clouds, methods: numerical, radiative transfer, stars:
+  formation'
+month: December
+pages: '112'
+papis_id: 64ec205404e05562a8a7dbd34f3dc539
+ref: raskutti.s.2017
+title: Numerical Simulations of Turbulent Molecular Clouds Regulated by Radiation
+  Feedback Forces. II. Radiation\ndashGas Interactions and Outflows
+type: article
+volume: '850'
+year: '2017'

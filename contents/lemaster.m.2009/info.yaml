@@ -1,0 +1,41 @@
+abstract: We study energy dissipation and heating by supersonic MHD turbulence in
+  molecular clouds using Athena, a new higher order Godunov code. We analyze the dependence
+  of the saturation amplitude, energy dissipation characteristics, power spectra,
+  sonic scaling, and indicators of intermittency in the turbulence on factors such
+  as the magnetic field strength, driving scale, energy injection rate, and numerical
+  resolution. While convergence in the energies is reached at moderate resolutions,
+  we find that the power spectra require much higher resolutions that are difficult
+  to obtain. In a 10243 hydro run, we find a power law relationship between the velocity
+  dispersion and the spatial scale on which it is measured, while for an MHD run at
+  the same resolution, we find no such power law. The time variability and temperature
+  intermittency in the turbulence both show a dependence on the driving scale, indicating
+  that numerically driving turbulence by an arbitrary mechanism may not allow a realistic
+  representation of these properties. We also note similar features in the power spectrum
+  of the compressive component of velocity for supersonic MHD turbulence as in the
+  velocity spectrum of an initially spherical MHD blast wave, implying that the power
+  law form does not rule out shocks, rather than a turbulent cascade, playing a significant
+  role in the regulation of energy transfer between spatial scales.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691.1092L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.4005
+author: Lemaster, M. N. and Stone, J. M.
+author_list:
+- family: Lemaster
+  given: M. N.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 22:40:29 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/2/1092
+eprint: '0809.4005'
+journal: \apj
+keywords: 'ISM: clouds, ISM: magnetic fields, stars: formation, turbulence'
+month: February
+pages: 1092--1108
+papis_id: b49910cf1653d8cee136029a924fe8bd
+ref: lemaster.m.2009
+title: Dissipation and Heating in Supersonic Hydrodynamic and MHD Turbulence
+type: article
+volume: '691'
+year: '2009'

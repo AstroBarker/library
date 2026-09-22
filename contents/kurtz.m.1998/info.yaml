@@ -1,0 +1,47 @@
+abstract: RVSAO is a set of programs to obtain redshifts and radial velocities from
+  digital spectra. RVSAO operates in the IRAF environment. The heart of the system
+  is xcsao, which implements the cross-correlation method and is a direct descendant
+  of the system built by Tonry \& Davis. emsao uses intelligent heuristics to search
+  for emission lines in spectra, and then fits them to obtain a redshift. sumspec
+  shifts and sums spectra to build templates for cross-correlation. linespec builds
+  synthetic spectra given a list of spectral lines. bcvcorr corrects velocities for
+  the motion of the Earth. We discuss in detail the parameters necessary to run xcsao
+  and emsao properly. We discuss the reliability and error associated with xcsao-derived
+  redshifts. We develop an internal error estimator, and we show how large, stable
+  surveys can be used to develop more accurate error estimators. We also develop a
+  new methodology for building spectral templates for galaxy redshifts, using the
+  new templates for the FAST spectrograph as an example. We show how to obtain correlation
+  velocities using emission-line templates. Emission-line correlations are substantially
+  more efficient than the previous standard technique, automated emission-line fitting.
+  Using this machinery, the blunder rate for redshift measurements can be kept near
+  zero; the automation rate for FAST spectra is ~95\%. We use emsao to measure the
+  instrumental zero-point offset and instrumental stability of the Z-Machine and FAST
+  spectrographs. We compare the use of RVSAO with new methods, which use singular
+  value decomposition and chi^2 fitting techniques, and conclude that the methods
+  we use are either equal or superior. We show that a two-dimensional spectral classification
+  of galaxy spectra can be developed using our emission- and absorption-line templates
+  as physically orthogonal basis vectors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998PASP..110..934K
+arxivurl: http://arxiv.org/abs/astro-ph/9803252
+author: Kurtz, M. J. and Mink, D. J.
+author_list:
+- family: Kurtz
+  given: M. J.
+- family: Mink
+  given: D. J.
+date-added: 2017-08-11 02:23:19 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/316207
+eprint: astro-ph/9803252
+journal: \pasp
+keywords: 'INSTRUMENTATION: SPECTROGRAPHS, METHODS: DATA ANALYSIS, TECHNIQUES: RADIAL
+  VELOCITIES'
+month: August
+pages: 934--977
+papis_id: 50c8f803bb97a16b0ad02a9d770b9a01
+ref: kurtz.m.1998
+title: 'RVSAO 2.0: Digital Redshifts and Radial Velocities'
+type: article
+volume: '110'
+year: '1998'

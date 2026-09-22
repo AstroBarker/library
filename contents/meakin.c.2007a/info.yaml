@@ -1,0 +1,49 @@
+abstract: We describe the results of 3D numerical simulations of oxygen shell burning
+  and hydrogen core burning in a 23 Msolar stellar model. A detailed comparison is
+  made to stellar mixing-length theory (MLT) for the shell-burning model. Simulations
+  in 2D are significantly different from 3D, in terms of both flow morphology and
+  velocity amplitude. Convective mixing regions are better predicted using a dynamic
+  boundary condition based on the bulk Richardson number than by purely local, static
+  criteria like Schwarzschild or Ledoux. MLT gives a good description of the velocity
+  scale and temperature gradient for shell convection; however, there are other important
+  effects that it does not capture, mostly related to the dynamical motion of the
+  boundaries between convective and nonconvective regions. There is asymmetry between
+  upflows and downflows, so the net kinetic energy flux is not zero. The motion of
+  convective boundaries is a source of gravity waves; this is a necessary consequence
+  of the deceleration of convective plumes. Convective ``overshooting'' is best described
+  as an elastic response by the convective boundary, rather than ballistic penetration
+  of the stable layers by turbulent eddies. The convective boundaries are rife with
+  internal and interfacial wave motions, and a variety of instabilities arise that
+  induce mixing through a process best described as turbulent entrainment. We find
+  that the rate at which material entrainment proceeds at the boundaries is consistent
+  with analogous laboratory experiments and simulation and observation of terrestrial
+  atmospheric mixing. In particular, the normalized entrainment rate E=uE/sigmaH is
+  well described by a power-law dependence on the bulk Richardson number RiB=DeltabL/sigma2H
+  for the conditions studied, 20<~RiB<~420. We find E=ARi-nB, with best-fit values
+  logA=0.027+/-0.38 and n=1.05+/-0.21. We discuss the applicability of these results
+  to stellar evolution calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...667..448M
+arxivurl: http://arxiv.org/abs/astro-ph/0611315
+author: Meakin, C. A. and Arnett, D.
+author_list:
+- family: Meakin
+  given: C. A.
+- family: Arnett
+  given: D.
+date-added: 2017-08-10 15:05:17 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/520318
+eprint: astro-ph/0611315
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Evolution, Stars: General, Stars: Interiors, Stars: Supernovae: General,
+  Turbulence, Waves'
+month: September
+pages: 448--475
+papis_id: c194dde2996e88943ad5d5231cde55f4
+ref: meakin.c.2007a
+title: Turbulent Convection in Stellar Interiors. I. Hydrodynamic Simulation
+type: article
+volume: '667'
+year: '2007'

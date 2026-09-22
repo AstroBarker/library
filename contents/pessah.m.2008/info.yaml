@@ -1,0 +1,49 @@
+abstract: We carry out a comprehensive analysis of the behavior of the magnetorotational
+  instability (MRI) in viscous, resistive plasmas. We find exact, nonlinear solutions
+  of the nonideal magnetohydrodynamic (MHD) equations describing the local dynamics
+  of an incompressible, differentially rotating background threaded by a vertical
+  magnetic field when disturbances with wavenumbers perpendicular to the shear are
+  considered. We provide a geometrical description of these viscous, resistive MRI
+  modes and show how their physical structure is modified as a function of the Reynolds
+  and magnetic Reynolds numbers. We demonstrate that when finite dissipative effects
+  are considered, velocity and magnetic field disturbances are no longer orthogonal
+  (as is the case in the ideal MHD limit) unless the magnetic Prandtl number is unity.
+  We generalize previous results found in the ideal limit and show that a series of
+  key properties of the mean Reynolds and Maxwell stresses also hold for the viscous,
+  resistive MRI. In particular, we show that the Reynolds stress is always positive
+  and the Maxwell stress is always negative. Therefore, even in the presence of viscosity
+  and resistivity, the total mean angular momentum transport is always directed outward.
+  We also find that, for any combination of the Reynolds and magnetic Reynolds numbers,
+  magnetic disturbances dominate both the energetics and the transport of angular
+  momentum and that the total mean energy density is an upper bound for the total
+  mean stress responsible for angular momentum transport. The ratios between the Maxwell
+  and Reynolds stresses and between magnetic and kinetic energy densities increase
+  with decreasing Reynolds numbers for any magnetic Reynolds number; the lowest limit
+  of both ratios is reached in the ideal MHD regime. The analytical results presented
+  here provide new benchmarks for the various algorithms employed to solve the viscous,
+  resistive MHD equations in the shearing box approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...684..498P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.4570
+author: Pessah, M. E. and Chan, C.-k.
+author_list:
+- family: Pessah
+  given: M. E.
+- family: Chan
+  given: C.-k.
+date-added: 2017-08-11 00:09:15 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/589915
+eid: 498-514
+eprint: '0801.4570'
+journal: \apj
+keywords: accretion, accretion disks, black hole physics, instabilities, MHD, turbulence
+month: September
+pages: 498--514
+papis_id: 4c992ac3413b03b89bd80c907984da27
+ref: pessah.m.2008
+title: Viscous, Resistive Magnetorotational Modes
+type: article
+volume: '684'
+year: '2008'

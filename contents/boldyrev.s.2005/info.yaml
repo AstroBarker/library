@@ -1,0 +1,33 @@
+abstract: We propose a phenomenological model for incompressible magnetohydrodynamic
+  turbulence. We argue that nonlinear-wave interaction weakens as the energy cascade
+  proceeds to small scales; however, the anisotropy of fluctuations along the large-scale
+  magnetic field increases, which makes turbulence strong at all scales. To explain
+  the weakening of the interaction, we propose that small-scale fluctuations of the
+  velocity and magnetic fields become increasingly dynamically aligned as their scale
+  decreases, so that turbulent ``eddies'' become locally anisotropic in the plane
+  perpendicular to the large-scale magnetic field. In the limit of weak anisotropy,
+  that is, weak large-scale magnetic field, our model reproduces the Goldreich-Sridhar
+  spectrum, while the limit of strong anisotropy, that is, strong large-scale magnetic
+  field, corresponds to the Iroshnikov-Kraichnan scaling of the spectrum. This is
+  in good agreement with recent numerical results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...626L..37B
+arxivurl: http://arxiv.org/abs/astro-ph/0503053
+author: Boldyrev, S.
+author_list:
+- family: Boldyrev
+  given: S.
+date-added: 2017-08-10 22:31:13 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431649
+eprint: astro-ph/0503053
+journal: \apjl
+keywords: 'Magnetohydrodynamics: MHD, Turbulence'
+month: June
+pages: L37-L40
+papis_id: 5d26d03936e78171d71dd1835c62581e
+ref: boldyrev.s.2005
+title: On the Spectrum of Magnetohydrodynamic Turbulence
+type: article
+volume: '626'
+year: '2005'

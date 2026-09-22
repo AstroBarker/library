@@ -1,0 +1,54 @@
+abstract: We performed three-dimensional simulations of proton-rich material entrainment
+  into 12C-rich He-shell flash convection and the subsequent H-ingestion flash that
+  took place in the post-asymptotic giant branch star Sakurai's object. Observations
+  of the transient nature and anomalous abundance features are available to validate
+  our method and assumptions, with the aim of applying them to very low-metallicity
+  stars in the future. We include nuclear energy feedback from H burning and cover
+  the full 4pi geometry of the shell. Runs on 7683 and 15363 grids agree well with
+  each other and have been followed for 1500 minutes and 1200 minutes. After an 850
+  minute long quiescent entrainment phase, the simulations enter into a global non-spherical
+  oscillation that is launched and sustained by individual ignition events of H-rich
+  fluid pockets. Fast circumferential flows collide at the antipode and cause the
+  formation and localized ignition of the next H-overabundant pocket. The cycle repeats
+  for more than a dozen times while its amplitude decreases. During the global oscillation,
+  the entrainment rate increases temporarily by a factor of \approx{}100. Entrained
+  entropy quenches convective motions in the upper layer until the burning of entrained
+  H establishes a separate convection zone. The lower-resolution run hints at the
+  possibility that another global oscillation, perhaps even more violent, will follow.
+  The location of the H-burning convection zone agrees with a one-dimensional model
+  in which the mixing efficiency is calibrated to reproduce the light curve. The simulations
+  have been performed at the NSF Blue Waters supercomputer at NCSA.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...792L...3H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.4584
+author: Herwig, F. and Woodward, P. R. and Lin, P.-H. and Knox, M. and Fryer, C.
+author_list:
+- family: Herwig
+  given: F.
+- family: Woodward
+  given: P. R.
+- family: Lin
+  given: P.-H.
+- family: Knox
+  given: M.
+- family: Fryer
+  given: C.
+date-added: 2017-08-10 18:11:01 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/2041-8205/792/1/L3
+eid: L3
+eprint: '1310.4584'
+journal: \apjl
+keywords: 'convection, hydrodynamics, instabilities, stars: AGB and post-AGB, stars:
+  individual: V4334 Sagittarii, stars: interiors'
+month: September
+pages: L3
+papis_id: 02f43f25fb08b218a92b5280ef482e1f
+primaryclass: astro-ph.SR
+ref: herwig.f.2014
+title: Global Non-spherical Oscillations in Three-dimensional 4$π$ Simulations of
+  the H-ingestion Flash
+type: article
+volume: '792'
+year: '2014'

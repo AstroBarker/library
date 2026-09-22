@@ -1,0 +1,56 @@
+abstract: The relevance of the standing accretion shock instability (SASI) compared
+  to neutrino-driven convection in three-dimensional (3D) supernova-core environments
+  is still highly controversial. Studying a 27 M \&sun; progenitor, we demonstrate,
+  for the first time, that violent SASI activity can develop in 3D simulations with
+  detailed neutrino transport despite the presence of convection. This result was
+  obtained with the PROMETHEUS-VERTEX code with the same sophisticated neutrino treatment
+  so far used only in one-dimensional and two-dimensional (2D) models. While buoyant
+  plumes initially determine the nonradial mass motions in the postshock layer, bipolar
+  shock sloshing with growing amplitude sets in during a phase of shock retraction
+  and turns into a violent spiral mode whose growth is only quenched when the infall
+  of the Si/SiO interface leads to strong shock expansion in response to a dramatic
+  decrease of the mass accretion rate. In the phase of large-amplitude SASI sloshing
+  and spiral motions, the postshock layer exhibits nonradial deformation dominated
+  by the lowest-order spherical harmonics (l = 1, m = 0, ) in distinct contrast to
+  the higher multipole structures associated with neutrino-driven convection. We find
+  that the SASI amplitudes, shock asymmetry, and nonradial kinetic energy in three
+  dimensions can exceed those of the corresponding 2D case during extended periods
+  of the evolution. We also perform parameterized 3D simulations of a 25 M \&sun;
+  progenitor, using a simplified, gray neutrino transport scheme, an axis-free Yin-Yang
+  grid, and different amplitudes of random seed perturbations. They confirm the importance
+  of the SASI for another progenitor, its independence of the choice of spherical
+  grid, and its preferred growth for fast accretion flows connected to small shock
+  radii and compact proto-neutron stars as previously found in 2D setups.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...770...66H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.6269
+author: Hanke, F. and Müller, B. and Wongwathanarat, A. and Marek, A. and Janka, H.-T.
+author_list:
+- family: Hanke
+  given: F.
+- family: Müller
+  given: B.
+- family: Wongwathanarat
+  given: A.
+- family: Marek
+  given: A.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:39:15 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/770/1/66
+eid: '66'
+eprint: '1303.6269'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, neutrinos, supernovae: general'
+month: June
+pages: '66'
+papis_id: d95f81940e8d281a00deb5acf5d8101d
+primaryclass: astro-ph.SR
+ref: hanke.f.2013
+title: SASI Activity in Three-dimensional Neutrino-hydrodynamics Simulations of Supernova
+  Cores
+type: article
+volume: '770'
+year: '2013'

@@ -1,0 +1,43 @@
+abstract: The effects of the ultraviolet (UV) background radiation on the formation
+  of subgalactic clouds are studied by means of one-dimensional hydrodynamical simulations.
+  The radiative transfer of the ionizing photons caused by the absorption by H I,
+  He I, and He II, neglecting the emission, is explicitly taken into account. We find
+  that the complete suppression of collapse occurs for the clouds with circular velocities
+  typically in the range Vc~15-40 km s-1 and the 50\% reduction in the cooled gas
+  mass with Vc~20-55 km s-1. These values depend most sensitively on the collapse
+  epoch of the cloud, the shape of the UV spectrum, and the evolution of the UV intensity.
+  Compared with the optically thin case, previously investigated by Thoul \& Weinberg
+  in 1996, the absorption of the external UV photons by the intervening medium systematically
+  lowers the above threshold values by DeltaVc~5 km s-1. Whether the gas can contract
+  or keeps expanding is roughly determined by the balance between the gravitational
+  force and the thermal pressure gradient when it is maximally exposed to the external
+  UV flux. Based on our simulation results, we discuss a number of implications on
+  galaxy formation, cosmic star formation history, and the observations of quasar
+  absorption lines. In the Appendix, we derive analytical formulae for the photoionization
+  coefficients and heating rates, which incorporate the frequency/direction-dependent
+  transfer of external photons.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...529..615K
+arxivurl: http://arxiv.org/abs/astro-ph/9908084
+author: Kitayama, T. and Ikeuchi, S.
+author_list:
+- family: Kitayama
+  given: T.
+- family: Ikeuchi
+  given: S.
+date-added: 2017-08-11 06:52:37 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308296
+eprint: astro-ph/9908084
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, COSMOLOGY: DIFFUSE RADIATION, GALAXIES: FORMATION, RADIATIVE
+  TRANSFER, Cosmology: Theory, Cosmology: Diffuse Radiation, Galaxies: Formation,
+  Radiative Transfer'
+month: February
+pages: 615--634
+papis_id: 3434fc10da9d683890257c76a4395993
+ref: kitayama.t.2000
+title: Formation of Subgalactic Clouds under Ultraviolet Background Radiation
+type: article
+volume: '529'
+year: '2000'

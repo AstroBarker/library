@@ -1,0 +1,37 @@
+abstract: We apply an ad hoc model for dynamical ignition in three-dimensional numerical
+  simulations of thermonuclear supernovae assuming pure deflagrations. The model makes
+  use of the statistical description of temperature fluctuations in the pre-supernova
+  core proposed by Wunsch \& Woosley (2004, ApJ, 616, 1102). Randomness in time is
+  implemented by means of a Poisson process. We are able to vary the explosion energy
+  and nucleosynthesis depending on the free parameter of the model which controls
+  the rapidity of the ignition process. However, beyond a certain threshold, the strength
+  of the explosion saturates and the outcome appears to be robust with respect to
+  the number of ignitions. In the most energetic explosions, we find about 0.75~M\&sun;
+  of iron group elements. Other than in simulations with simultaneous multi-spot ignition,
+  the amount of unburned carbon and oxygen at radial velocities of a few 103 km s-1
+  tends to be reduced for an ever increasing number of ignition events and, accordingly,
+  more pronounced layering results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...446..627S
+arxivurl: http://arxiv.org/abs/astro-ph/0510427
+author: Schmidt, W. and Niemeyer, J. C.
+author_list:
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+date-added: 2017-08-10 15:37:24 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1051/0004-6361:20054145
+eprint: astro-ph/0510427
+journal: \aap
+keywords: 'stars: supernovae: general, methods:, numerical, stars: evolution, stars:
+  interiors'
+month: February
+pages: 627--633
+papis_id: ba0e82d7b4ef2f3086d1017a35deb98f
+ref: schmidt.w.2006b
+title: Thermonuclear supernova simulations with stochastic ignition
+type: article
+volume: '446'
+year: '2006'

@@ -1,0 +1,48 @@
+abstract: We model the X-ray properties of millisecond pulsars (MSPs) by considering
+  hot-spot emission from a weakly magnetized neutron star (NS) covered by a hydrogen
+  atmosphere. We investigate the limitations of using the thermal X-ray pulse profiles
+  of MSPs to constrain the mass-to-radius (M/R) ratio of the NS. The accuracy is strongly
+  dependent on the viewing angle and magnetic inclination, but is ultimately limited
+  only by photon statistics. We demonstrate that valuable information regarding NSs
+  can be extracted, even from data of fairly limited photon statistics through modeling
+  of archival observations of the nearby isolated PSRs J0030+0451 and J2124-3358.
+  The X-ray emission from these pulsars is consistent with the presence of an atmosphere
+  and a dipolar field configuration. For both MSPs, the favorable geometry allows
+  us to place limits on the allowed M/R of NSs. Assuming 1.4 M\&sun;, the stellar
+  radius is constrained to be R > 9.4 km and R > 7.8 km (68\% confidence) for PSRs
+  J0030+0451 and J2124-3358, respectively. We explore the prospects of using future
+  observatories such as Constellation-X and XEUS to conduct X-ray-timing searches
+  for MSPs not detectable at radio wavelengths due to unfavorable viewing geometry.
+  We are also able to place strong constraints on the magnetic field evolution model
+  proposed by Ruderman. The pulse profiles indicate that the magnetic field of an
+  MSP does not have a tendency to align itself with the spin axis or migrate toward
+  one of the spin poles during the low-mass X-ray binary phase.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...689..407B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.4030
+author: Bogdanov, S. and Grindlay, J. E. and Rybicki, G. B.
+author_list:
+- family: Bogdanov
+  given: S.
+- family: Grindlay
+  given: J. E.
+- family: Rybicki
+  given: G. B.
+date-added: 2017-08-10 22:34:04 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/592341
+eid: 407-415
+eprint: '0801.4030'
+journal: \apj
+keywords: 'pulsars: general, pulsars: individual: PSR J0030+0451 PSR J2124{\ndash}3358,
+  stars: neutron, X-rays: stars'
+month: December
+pages: 407--415
+papis_id: c71a230690c08dc68fbd66b95d7b8114
+ref: bogdanov.s.2008
+title: 'Thermal X-Rays from Millisecond Pulsars: Constraining the Fundamental Properties
+  of Neutron Stars'
+type: article
+volume: '689'
+year: '2008'

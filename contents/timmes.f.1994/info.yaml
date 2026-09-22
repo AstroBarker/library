@@ -1,0 +1,53 @@
+abstract: We determine the speeds, and many other physical properties, of flame fronts
+  that propagate inward into degenerate and semidegenerate cores of carbon and oxygen
+  (CO) and neon and oxygen (NeOMg) white dwarfs when such flames are bounded on their
+  exterior by a convective region. Combustion in such fronts, per se, is incomplete,
+  with only a small part of the initial mass function burned. A condition of balanced
+  power is set up in the star where the rate of energy emitted as neutrinos from the
+  convective region equals the power available from the unburned fuel that crosses
+  the burning front. The propagation of the burning front itself is in turn limited
+  by the temperature at the base of the convective shell, while cannot greatly exceed
+  the adiabatic value. Solving for consistency between these two conditions gives
+  a unique speed for the flame. Typical values for CO white dwarfs are a few hundredths
+  of a centimeter per second. Flames in NeOMg mixtures are slower. Tables are presented
+  in a form that can easily be implemented in stellar evolution codes and yield the
+  rate at which the convective shell advances into the interior. Combining these velocities
+  with the local equations for stellar structure, we find a minimum density for each
+  gravitational potential below with the local equations for stellar structure, we
+  find a minimum density for each gravitational potential below which the flame cannot
+  propagate, and must die. Although detailed stellar models will have to be constructed
+  to resolve some issues conclusively, our results that a CO white dwarf inginted
+  at its edge will not burn carbon all the way to its center unless the mass of the
+  white dwarf exceeds 0.8 solar mass. On the other hand, it is difficult to ignite
+  carbon burning by compression alone anywhere in a white dwarf whose mass does not
+  exceed 1.0 solar mass. Thus, compressionally ignited shell carbon burning in an
+  accreting CO dwarf almost certainly propagates all the way to the center of the
+  star. Implications for neutron star formation, and Type Ia supernova models, are
+  briefly discussed. These are also applicable to massive stars in the about 10-12
+  solar mass range which ignite neon burning off center.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...420..348T
+author: Timmes, F. X. and Woosley, S. E. and Taam, R. E.
+author_list:
+- family: Timmes
+  given: F. X.
+- family: Woosley
+  given: S. E.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 15:05:22 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173565
+journal: \apj
+keywords: Abundance, Degenerate Matter, Stellar Interiors, Supernovae, Wave Propagation,
+  White Dwarf Stars, Carbon, Conductive Heat Transfer, Neon, Nuclear Fusion, Oxygen,
+  Reaction Kinetics, Stellar Evolution
+month: January
+pages: 348--363
+papis_id: fc062da0224425373a94f83adc683d87
+ref: timmes.f.1994
+title: 'The conductive propagation of nuclear flames. 2: Convectively bounded flames
+  in C + O and O + NE + MG cores'
+type: article
+volume: '420'
+year: '1994'

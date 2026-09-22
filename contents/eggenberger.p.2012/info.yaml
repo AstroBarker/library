@@ -1,0 +1,50 @@
+abstract: 'Context. Recent asteroseismic observations have led to the determination
+  of rotational frequency splittings for l = 1 mixed modes in red giants.  Aims: We
+  investigate how these observed splittings can constrain the modelling of the physical
+  processes transporting angular momentum in stellar interiors.  Methods: We first
+  compare models including a comprehensive treatment of shellular rotation only, with
+  the rotational splittings observed for the red giant KIC 8366239. We then study
+  how these asteroseismic constraints can give us information about the efficiency
+  of an additional mechanism for the internal transport of angular momentum. This
+  is done by computing rotating models of KIC 8366239 that include a constant viscosity
+  corresponding to this physical process, in addition to the treatment of shellular
+  rotation.  Results: We find that models of red giant stars including shellular rotation
+  only predict steep rotation profiles, which are incompatible with the measurements
+  of rotational splittings in the red giant KIC 8366239. Meridional circulation and
+  shear mixing alone are found to produce an insufficient internal coupling so that
+  an additional mechanism for the internal transport of angular momentum is needed
+  during the post-main sequence evolution. We show that the viscosity nuadd corresponding
+  to this mechanism is strongly constrained to be nuadd = 3 \texttimes{} 104 cm2 s-1
+  thanks to the observed ratio of the splittings for modes in the wings to those at
+  the centre of the dipole forests. Such a value of viscosity may suggest that the
+  same unknown physical process is at work during the main sequence and the post-main
+  sequence evolution.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...544L...4E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.1023
+author: Eggenberger, P. and Montalbán, J. and Miglio, A.
+author_list:
+- family: Eggenberger
+  given: P.
+- family: Montalbán
+  given: J.
+- family: Miglio
+  given: A.
+date-added: 2017-08-10 17:05:57 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1051/0004-6361/201219729
+eid: L4
+eprint: '1207.1023'
+journal: \aap
+keywords: 'stars: rotation, stars: oscillations'
+month: August
+pages: L4
+papis_id: dd1fd3a394f9f703e665a004f430cedc
+primaryclass: astro-ph.SR
+ref: eggenberger.p.2012
+title: Angular momentum transport in stellar interiors constrained by rotational splittings
+  of mixed modes in red giants
+type: article
+volume: '544'
+year: '2012'

@@ -1,0 +1,44 @@
+abstract: In this paper, we investigate the extent to which observations of molecular
+  clouds can correctly identify and measure star-forming clumps. We produced a synthetic
+  column density map and a synthetic spectral-line data cube from the simulated collapse
+  of a 5000 M\&sun; molecular cloud. By correlating the clumps found in the simulation
+  to those found in the synthetic observations, clump masses derived from spectral-line
+  data cubes were found to be quite close to the true physical properties of the clumps.
+  We also find that the "observed" clump mass function (CMF) derived from the column
+  density map is shifted by a factor of ~3 higher than the true CMF, due to projection
+  of low-density material along the line of sight. Alves et al. first proposed that
+  a shift of a CMF to higher masses by a factor of three can be attributed to a star
+  formation efficiency of 30\%. Our results indicate that this finding may instead
+  be due to an overestimate of clump masses determined from column density observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756..119W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.5535
+author: Ward, R. L. and Wadsley, J. and Sills, A. and Petitclerc, N.
+author_list:
+- family: Ward
+  given: R. L.
+- family: Wadsley
+  given: J.
+- family: Sills
+  given: A.
+- family: Petitclerc
+  given: N.
+date-added: 2017-08-11 01:43:21 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/756/2/119
+eid: '119'
+eprint: '1207.5535'
+journal: \apj
+keywords: 'ISM: clouds, ISM: structure, stars: formation, stars: luminosity function,
+  mass function'
+month: September
+pages: '119'
+papis_id: d46dc19753ef8d3f0cf2bc0f65f58ea8
+primaryclass: astro-ph.GA
+ref: ward.r.2012
+title: 'Connecting the Dots: Analyzing Synthetic Observations of Star-forming Clumps
+  in Molecular Clouds'
+type: article
+volume: '756'
+year: '2012'

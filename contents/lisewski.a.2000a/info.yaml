@@ -1,0 +1,45 @@
+abstract: We present a statistical model which shows the influence of turbulence on
+  a thermonuclear flame propagating in C+O white dwarf matter. Based on a Monte Carlo
+  description of turbulence, it provides a method for investigating the physics in
+  the so-called distributed burning regime. Using this method, we perform numerical
+  simulations of turbulent flames and show that in this particular regime the flamelet
+  model for the turbulent flame velocity loses its validity. In fact, at high turbulent
+  intensities, burning in the distributed regime can lead to a deceleration of the
+  turbulent flame and thus induce a competing process to turbulent effects that cause
+  a higher flame speed. It is also shown that in dense C+O matter turbulent heat transport
+  is described adequately by the Peclet number rather than by the Reynolds number,
+  which means that flame propagation is decoupled from small-scale turbulence. Finally,
+  at the onset of our results we argue that the available turbulent energy in an exploding
+  C+O white dwarf is probably too low to make a deflagration-to-detonation transition
+  possible.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...537..405L
+arxivurl: http://arxiv.org/abs/astro-ph/9909508
+author: Lisewski, A. M. and Hillebrandt, W. and Woosley, S. E. and Niemeyer, J. C.
+  and Kerstein, A. R.
+author_list:
+- family: Lisewski
+  given: A. M.
+- family: Hillebrandt
+  given: W.
+- family: Woosley
+  given: S. E.
+- family: Niemeyer
+  given: J. C.
+- family: Kerstein
+  given: A. R.
+date-added: 2017-08-11 03:51:56 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309015
+eprint: astro-ph/9909508
+journal: \apj
+keywords: 'Methods: Statistical, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Supernovae: General, Turbulence'
+month: July
+pages: 405--413
+papis_id: 7a7ae5678a9894589d288e61cc12f88c
+ref: lisewski.a.2000a
+title: 'Distributed Burning in Type IA Supernovae: A Statistical Approach'
+type: article
+volume: '537'
+year: '2000'

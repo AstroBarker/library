@@ -1,0 +1,50 @@
+abstract: 'We studied the role of turbulent resistivity in the core-collapse of a
+  strongly magnetized massive star, carrying out two-dimensional resistive-MHD simulations.
+  Three cases with different initial strengths of magnetic field and rotation are
+  investigated: (1) a strongly magnetized rotating core, (2) a moderately magnetized
+  rotating core, and (3) a very strongly magnetized non-rotating core. In each case,
+  one ideal-MHD model and two resistive-MHD models are computed. As a result of these
+  computations, each model shows an eruption of matter assisted by magnetic acceleration
+  (and also by centrifugal acceleration in the rotating cases). We found that resistivity
+  attenuates the explosion in cases 1 and 2, while it enhances the explosion in case
+  3. We also found that in the rotating cases, the main mechanisms for the amplification
+  of a magnetic field in the post-bounce phase are an outward advection of the magnetic
+  field and a twisting of poloidal magnetic field lines by differential rotation,
+  which are somewhat dampened down with the presence of resistivity. Although magnetorotational
+  instability seems to occur in the rotating models, it plays only a minor role in
+  magnetic field amplification. Another impact of resistivity is that on the aspect
+  ratio. In the rotating cases, a large aspect ratio of the ejected matter, >2.5,
+  attained in an ideal-MHD model is reduced to some extent in a resistive model. These
+  results indicate that resistivity possibly plays an important role in the dynamics
+  of strongly magnetized supernovae.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764...10S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.6817
+author: Sawai, H. and Yamada, S. and Kotake, K. and Suzuki, H.
+author_list:
+- family: Sawai
+  given: H.
+- family: Yamada
+  given: S.
+- family: Kotake
+  given: K.
+- family: Suzuki
+  given: H.
+date-added: 2017-08-10 18:28:04 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/1/10
+eid: '10'
+eprint: '1211.6817'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, stars: magnetars, supernovae:
+  general'
+month: February
+pages: '10'
+papis_id: 78b1f358947827320cc208617dfdbfd4
+primaryclass: astro-ph.HE
+ref: sawai.h.2013
+title: Effects of Resistivity on Magnetized Core-collapse Supernovae
+type: article
+volume: '764'
+year: '2013'

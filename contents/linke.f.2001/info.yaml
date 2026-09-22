@@ -1,0 +1,53 @@
+abstract: We present the results of numerical simulations of the spherically symmetric
+  gravitational collapse of supermassive stars (SMS). The collapse is studied using
+  a general relativistic hydrodynamics code. The coupled system of Einstein and fluid
+  equations is solved employing coordinates adapted to a foliation of the spacetime
+  by means of outgoing null hypersurfaces. The code contains an equation of state
+  which includes effects due to radiation, electrons and baryons, and detailed microphysics
+  to account for electron-positron pairs. In addition energy losses by thermal neutrino
+  emission are included. We are able to follow the collapse of SMS from the onset
+  of instability up to the point of black hole formation. Several SMS with masses
+  in the range 5x 105 Msun-109 Msun are simulated. In all models an apparent horizon
+  forms initially, enclosing the innermost 25\% of the stellar mass. From the computed
+  neutrino luminosities, estimates of the energy deposition by nu bar nu-annihilation
+  are obtained. Only a small fraction of this energy is deposited near the surface
+  of the star, where, as proposed recently by Fuller \& Shi (\cite{Fuller98}), it
+  could cause the ultrarelativistic flow believed to be responsible for gamma -ray
+  bursts. Our simulations show that for collapsing SMS with masses larger than 5x
+  105 Msun the energy deposition is at least two orders of magnitude too small to
+  explain the energetics of observed long-duration bursts at cosmological redshifts.
+  In addition, in the absence of rotational effects the energy is deposited in a region
+  containing most of the stellar mass. Therefore relativistic ejection of matter is
+  impossible.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...376..568L
+arxivurl: http://arxiv.org/abs/astro-ph/0103144
+author: Linke, F. and Font, J. A. and Janka, H.-T. and Müller, E. and Papadopoulos,
+  P.
+author_list:
+- family: Linke
+  given: F.
+- family: Font
+  given: J. A.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+- family: Papadopoulos
+  given: P.
+date-added: 2017-08-10 21:49:15 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1051/0004-6361:20010993
+eprint: astro-ph/0103144
+journal: \aap
+keywords: 'HYDRODYNAMICS, METHODS: NUMERICAL, RELATIVITY, GAMMA RAY BURSTS, ELEMENTARY
+  PARTICLES, NEUTRINOS'
+month: September
+pages: 568--579
+papis_id: 591e16ecdce03e131396d01730177699
+ref: linke.f.2001
+title: 'Spherical collapse of supermassive stars: Neutrino emission and gamma-ray
+  bursts'
+type: article
+volume: '376'
+year: '2001'

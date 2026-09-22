@@ -1,0 +1,55 @@
+abstract: 'We study the relation between the density profiles of dark matter halos
+  and their mass assembly histories using a statistical sample of halos in a high-resolution
+  N-body simulation of the LambdaCDM cosmology. For each halo at z=0, we identify
+  its merger history tree and determine concentration parameters cvir for all progenitors,
+  thus providing a structural merger tree for each halo. We fit the mass accretion
+  histories by a universal function with one parameter, the formation epoch ac, defined
+  when the log mass accretion rate dlogM/dloga falls below a critical value S. We
+  find that late-forming galaxies tend to be less concentrated, such that cvir ``observed''''
+  at any epoch ao is strongly correlated with ac via cvir=c1ao/ac. Scatter about this
+  relation is mostly due to measurement errors in cvir and ac, implying that the actual
+  spread in cvir for halos of a given mass can be mostly attributed to scatter in
+  ac. We demonstrate that this relation can also be used to predict the mass and redshift
+  dependence of cvir and the scatter about the median cvir(M,z) using accretion histories
+  derived from the extended Press-Schechter (EPS) formalism, after adjusting for a
+  constant offset between the formation times as predicted by EPS and as measured
+  in the simulations; this new ingredient can thus be easily incorporated into semianalytic
+  models of galaxy formation. The correlation found between halo concentration and
+  mass accretion rate suggests a physical interpretation: for high mass infall rates,
+  the central density is related to the background density; when the mass infall rate
+  slows, the central density stays approximately constant, and the halo concentration
+  just grows as Rvir. Because of the direct connection between halo concentration
+  and velocity rotation curves and because of probable connections between halo mass
+  assembly history and star formation history, the tight correlation between these
+  properties provides an essential new ingredient for galaxy formation modeling.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...568...52W
+arxivurl: http://arxiv.org/abs/astro-ph/0108151
+author: Wechsler, R. H. and Bullock, J. S. and Primack, J. R. and Kravtsov, A. V.
+  and Dekel, A.
+author_list:
+- family: Wechsler
+  given: R. H.
+- family: Bullock
+  given: J. S.
+- family: Primack
+  given: J. R.
+- family: Kravtsov
+  given: A. V.
+- family: Dekel
+  given: A.
+date-added: 2017-08-11 05:14:52 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338765
+eprint: astro-ph/0108151
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Dark Matter, Galaxies: Evolution, Galaxies:
+  Formation, Galaxies: Halos, Galaxies: Structure'
+month: March
+pages: 52--70
+papis_id: b7ac6b3b874452b5463540cde4b068ad
+ref: wechsler.r.2002
+title: Concentrations of Dark Halos from Their Assembly Histories
+type: article
+volume: '568'
+year: '2002'

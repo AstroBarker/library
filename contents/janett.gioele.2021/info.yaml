@@ -1,0 +1,50 @@
+abstract: Context. Several numerical problems require the interpolation of discrete
+  data that present various types of discontinuities. The radiative transfer is a
+  typical example of such a problem. This calls for high-order well-behaved techniques
+  to interpolate both smooth and discontinuous data. Aims. The final aim is to propose
+  new techniques suitable for applications in the context of numerical radiative transfer.
+  Methods. We have proposed and tested two different techniques. Essentially non-oscillatory
+  (ENO) techniques generate several candidate interpolations based on different substencils.
+  The smoothest candidate interpolation is determined from a measure for the local
+  smoothness, thereby enabling the essential non-oscillatory property. Weighted ENO
+  (WENO) techniques use a convex combination of all candidate substencils to obtain
+  high-order accuracy in smooth regions while keeping the essentially non-oscillatory
+  property. In particular, we have outlined and tested a novel well-performing fourth-order
+  WENO interpolation technique for both uniform and nonuniform grids. Results. Numerical
+  tests prove that the fourth-order WENO interpolation guarantees fourth-order accuracy
+  in smooth regions of the interpolated functions. In the presence of discontinuities,
+  the fourth-order WENO interpolation enables the non-oscillatory property, avoiding
+  oscillations. Unlike B\'ezier and monotonic high-order Hermite interpolations, it
+  does not degenerate to a linear interpolation near smooth extrema of the interpolated
+  function. Conclusions. The novel fourth-order WENO interpolation guarantees high
+  accuracy in smooth regions, while effectively handling discontinuities. This interpolation
+  technique might be particularly suitable for several problems, including a number
+  of radiative transfer applications such as multidimensional problems, multigrid
+  methods, and formal solutions.
+archiveprefix: arXiv
+author: Janett, Gioele and Steiner, Oskar and Ballester, Ernest Alsina and Belluzzi,
+  Luca and Mishra, Siddhartha
+author_list:
+- family: Janett
+  given: Gioele
+- family: Steiner
+  given: Oskar
+- family: Ballester
+  given: Ernest Alsina
+- family: Belluzzi
+  given: Luca
+- family: Mishra
+  given: Siddhartha
+eprint: '2110.11885'
+file: :janett\_2021 - A Novel Fourth Order WENO Interpolation Technique. a Possible
+  New Tool Designed for Radiative Transfer.pdf:PDF
+groups: Numerical Methods - General
+keywords: math.NA, astro-ph.SR, cs.NA
+month: October
+papis_id: 6d7338772e3de05129dfb8cfe4dcb347
+primaryclass: math.NA
+ref: janett.gioele.2021
+title: A novel fourth-order WENO interpolation technique. A possible new tool designed
+  for radiative transfer
+type: article
+year: '2021'

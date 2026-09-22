@@ -1,0 +1,34 @@
+abstract: Understanding the explosion mechanism of core collapse supernovae is a problem
+  that has plagued nuclear astrophysicists since the first computational models of
+  this phenomenon were carried out in the 1960s. Our current theories of this violent
+  phenomenon center around multi-dimensional effects involving radiation-hydrodynamic
+  flows of hot, dense matter and neutrinos. Modeling these multi-dimensional radiative
+  flows presents a computational challenge that will continue to stress high-performance
+  computing beyond the teraflops to the petaflop level. In this paper we describe
+  a few of the scientific discoveries that we have made via terascale computational
+  simulations of supernovae under the auspices of the SciDAC-funded Terascale Supernova
+  Initiative.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005JPhCS..16..380S
+arxivurl: http://arxiv.org/abs/astro-ph/0507294
+author: Swesty, F. D. and Myra, E. S.
+author_list:
+- family: Swesty
+  given: F. D.
+- family: Myra
+  given: E. S.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-11 00:37:06 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1088/1742-6596/16/1/052
+editor: '{Dunning}, Jr., T.~H.'
+eprint: astro-ph/0507294
+month: January
+pages: 380--389
+papis_id: 4d994bb6ffb34eba169f079914cbd228
+ref: swesty.f.2005
+series: Journal of Physics Conference Series
+title: Multigroup models of the convective epoch in core collapse supernovae
+type: inproceedings
+volume: '16'
+year: '2005'

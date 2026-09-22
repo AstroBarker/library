@@ -1,0 +1,48 @@
+abstract: We use two-dimensional and three-dimensional hybrid (kinetic ions-fluid
+  electrons) simulations to investigate particle acceleration and magnetic field amplification
+  at non-relativistic astrophysical shocks. We show that diffusive shock acceleration
+  operates for quasi-parallel configurations (i.e., when the background magnetic field
+  is almost aligned with the shock normal) and, for large sonic and Alfv{\'e}nic Mach
+  numbers, produces universal power-law spectra vpropp -4, where p is the particle
+  momentum. The maximum energy of accelerated ions increases with time, and it is
+  only limited by finite box size and run time. Acceleration is mainly efficient for
+  parallel and quasi-parallel strong shocks, where 10\%-20\% of the bulk kinetic energy
+  can be converted to energetic particles and becomes ineffective for quasi-perpendicular
+  shocks. Also, the generation of magnetic turbulence correlates with efficient ion
+  acceleration and vanishes for quasi-perpendicular configurations. At very oblique
+  shocks, ions can be accelerated via shock drift acceleration, but they only gain
+  a factor of a few in momentum and their maximum energy does not increase with time.
+  These findings are consistent with the degree of polarization and the morphology
+  of the radio and X-ray synchrotron emission observed, for instance, in the remnant
+  of SN 1006. We also discuss the transition from thermal to non-thermal particles
+  in the ion spectrum (supra-thermal region) and we identify two dynamical signatures
+  peculiar of efficient particle acceleration, namely, the formation of an upstream
+  precursor and the alteration of standard shock jump conditions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...783...91C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.2943
+author: Caprioli, D. and Spitkovsky, A.
+author_list:
+- family: Caprioli
+  given: D.
+- family: Spitkovsky
+  given: A.
+date-added: 2017-08-10 19:17:47 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/783/2/91
+eid: '91'
+eprint: '1310.2943'
+journal: \apj
+keywords: 'acceleration of particles, ISM: supernova remnants, magnetic fields, shock
+  waves'
+month: March
+pages: '91'
+papis_id: e9cadcde591789fe343d22b6168a037c
+primaryclass: astro-ph.HE
+ref: caprioli.d.2014
+title: Simulations of Ion Acceleration at Non-relativistic Shocks. I. Acceleration
+  Efficiency
+type: article
+volume: '783'
+year: '2014'

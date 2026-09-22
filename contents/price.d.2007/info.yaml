@@ -1,0 +1,32 @@
+abstract: This paper presents splash, a publicly available interactive visualisation
+  tool for Smoothed Particle Hydrodynamics (SPH) simulations. Visualisation of SPH
+  data is more complicated than for grid-based codes because the data are defined
+  on a set of irregular points and therefore requires a mapping procedure to a two
+  dimensional pixel array. This means that, in practise, many authors simply produce
+  particle plots which offer a rather crude representation of the simulation output.
+  Here we describe the techniques and algorithms which are utilised in splash in order
+  to provide the user with a fast, interactive and meaningful visualisation of one,
+  two and three dimensional SPH results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007PASA...24..159P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.0832
+author: Price, D. J.
+author_list:
+- family: Price
+  given: D. J.
+date-added: 2017-08-10 18:04:14 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1071/AS07022
+eprint: '0709.0832'
+journal: \pasa
+keywords: 'hydrodynamics, methods: numerical'
+month: October
+pages: 159--173
+papis_id: 81a525cd0dd3b64564428dbe069e6f48
+ref: price.d.2007
+title: 'splash: An Interactive Visualisation Tool for Smoothed Particle Hydrodynamics
+  Simulations'
+type: article
+volume: '24'
+year: '2007'

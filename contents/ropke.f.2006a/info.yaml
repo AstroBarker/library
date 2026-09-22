@@ -1,0 +1,52 @@
+abstract: 'Context: .The use of type Ia supernovae as distance indicators for cosmology
+  has initiated a search for theoretical arguments supporting the empirical calibration
+  methods applied. As a first step, a sound understanding of the origin of the observed
+  diversity in type Ia supernova properties is needed. Aims: .Here we present a systematic
+  study of effects resulting from changing some physical parameters of three-dimensional
+  deflagration models of thermonuclear supernovae. Methods: .The high computational
+  costs of such models restricted this survey to simple setups which are known to
+  result in weak explosions and therefore we point out trends rather then setting
+  the absolute scale of the variance. In our study we vary the progenitor''s carbon-to-oxygen
+  ratio and its central density prior to ignition because both properties are not
+  well determined by stellar evolution theory and they may change from supernova to
+  supernova. Next we compute for these explosion models the nucleosynthesis yields
+  in a post-processing step. This, in addition, allows us to study variations in the
+  progenitor''s metallicity by means of different 22Ne mass fractions in the initial
+  composition. Results: .We find that the progenitor''s carbon-to-oxygen ratio and
+  its central density affect the energy release of the models and thus the expansion
+  velocity of the supernova. Moreover, we find that changing the metallicity and the
+  central density changes the production of radioactive 56Ni and thus affects the
+  luminosity. In contrast, the carbon-to-oxygen ratio has little effect on the 56Ni
+  production. Conclusions: .Implications of the variations of the explosion energy
+  and the produced 56Ni mass for type Ia supernova diversity are discussed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...453..203R
+arxivurl: http://arxiv.org/abs/astro-ph/0506107
+author: Röpke, F. K. and Gieseler, M. and Reinecke, M. and Travaglio, C. and Hillebrandt,
+  W.
+author_list:
+- family: Röpke
+  given: F. K.
+- family: Gieseler
+  given: M.
+- family: Reinecke
+  given: M.
+- family: Travaglio
+  given: C.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 17:38:57 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1051/0004-6361:20053430
+eprint: astro-ph/0506107
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, nuclear reactions, nucleosynthesis,
+  abundances, methods: numerical'
+month: July
+pages: 203--217
+papis_id: 00e775c36eaf0255e6990dc3a2934c48
+ref: ropke.f.2006a
+title: Type Ia supernova diversity in three-dimensional models
+type: article
+volume: '453'
+year: '2006'

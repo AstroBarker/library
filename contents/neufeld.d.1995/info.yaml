@@ -1,0 +1,38 @@
+abstract: We consider the radiative cooling of fully shielded molecular astrophysical
+  gas over a wide range of temperatures (10K <= T <= 2500K) and H2 densities (l03
+  cm-3 <= n(H2) <= 1010 cm-3). Our model for the radiative cooling of molecular gas
+  includes a detailed treatment of the interstellar chemistry that determines the
+  abundances of important coolant molecules, and a detailed treatment of the excitation
+  of the species H2, CO, H2O, HC1, O2, C, O, and their isotopic variants where important.
+  We present results for the total radiative cooling rate and for the cooling rate
+  due to individual coolant species, as a function of the gas temperature, density,
+  and optical depth. We have also computed the individual millimeter, submillimeter,
+  and far-infrared line strengths that contribute to the total radiative cooling rate,
+  and we have obtained example spectra for the submillimeter emission expected from
+  molecular cloud cores. Many of the important cooling lines will be detectable using
+  the Infrared Space Observatory and the Submillimeter Wave Astronomy Satellite.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJS..100..132N
+author: Neufeld, D. A. and Lepp, S. and Melnick, G. J.
+author_list:
+- family: Neufeld
+  given: D. A.
+- family: Lepp
+  given: S.
+- family: Melnick
+  given: G. J.
+date-added: 2017-08-11 06:06:20 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192211
+journal: \apjs
+keywords: 'ISM: CLOUDS, ISM: MOLECULES, MOLECULAR PROCESSES, RADIATIVE TRANSFER, RADIO
+  LINES: ISM'
+month: September
+pages: '132'
+papis_id: 99aa87c9cf0a66191f00d112c955bd41
+ref: neufeld.d.1995
+title: 'Thermal Balance in Dense Molecular Clouds: Radiative Cooling Rates and Emission-Line
+  Luminosities'
+type: article
+volume: '100'
+year: '1995'

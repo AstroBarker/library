@@ -1,0 +1,81 @@
+abstract: 'Aims: We study the impact of a subsolar metallicity on various properties
+  of non-rotating and rotating stars, such as surface velocities and abundances, lifetimes,
+  evolutionary tracks, and evolutionary scenarios.  Methods: We provide a grid of
+  single star models covering a mass range of 0.8 to 120 M\&sun; with an initial metallicity
+  Z = 0.002 with and without rotation. We discuss the impact of a change in the metallicity
+  by comparing the current tracks with models computed with exactly the same physical
+  ingredients but with a metallicity Z = 0.014 (solar).  Results: We show that the
+  width of the main-sequence (MS) band in the upper part of the Hertzsprung-Russell
+  diagram (HRD), for luminosity above log (L/L\&sun;) > 5.5, is very sensitive to
+  rotational mixing. Strong mixing significantly reduces the MS width. Here for the
+  first time over the whole mass range, we confirm that surface enrichments are stronger
+  at low metallicity provided that comparisons are made for equivalent initial mass,
+  rotation, and evolutionary stage. We show that the enhancement factor due to a lowering
+  of the metallicity (all other factors kept constant) increases when the initial
+  mass decreases. Present models predict an upper luminosity for the red supergiants
+  (RSG) of log (L/L\&sun;) around 5.5 at Z = 0.002 in agreement with the observed
+  upper limit of RSG in the Small Magellanic Cloud. We show that models using shear
+  diffusion coefficient, which is calibrated to reproduce the surface enrichments
+  observed for MS B-type stars at Z = 0.014, can also reproduce the stronger enrichments
+  observed at low metallicity. In the framework of the present models, we discuss
+  the factors governing the timescale of the first crossing of the Hertzsprung gap
+  after the MS phase. We show that any process favouring a deep localisation of the
+  H-burning shell (steep gradient at the border of the H-burning convective core,
+  low CNO content), and/or the low opacity of the H-rich envelope favour a blue position
+  in the HRD for the whole, or at least a significant fraction, of the core He-burning
+  phase.  Evolutionnary tracks are only available at the CDS via anonymous ftp to
+  http://cdsarc.u-strasbg.fr (ftp://130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/558/A103'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...558A.103G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.2914
+author: Georgy, C. and Ekström, S. and Eggenberger, P. and Meynet, G. and Haemmerlé,
+  L. and Maeder, A. and Granada, A. and Groh, J. H. and Hirschi, R. and Mowlavi, N.
+  and Yusof, N. and Charbonnel, C. and Decressin, T. and Barblan, F.
+author_list:
+- family: Georgy
+  given: C.
+- family: Ekström
+  given: S.
+- family: Eggenberger
+  given: P.
+- family: Meynet
+  given: G.
+- family: Haemmerlé
+  given: L.
+- family: Maeder
+  given: A.
+- family: Granada
+  given: A.
+- family: Groh
+  given: J. H.
+- family: Hirschi
+  given: R.
+- family: Mowlavi
+  given: N.
+- family: Yusof
+  given: N.
+- family: Charbonnel
+  given: C.
+- family: Decressin
+  given: T.
+- family: Barblan
+  given: F.
+date-added: 2017-08-11 08:19:12 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1051/0004-6361/201322178
+eid: A103
+eprint: '1308.2914'
+journal: \aap
+keywords: 'stars: general, stars: evolution, stars: rotation, stars: massive, stars:
+  low-mass'
+month: October
+pages: A103
+papis_id: d33013d0c2f37fbb713418bc3fae0e0b
+primaryclass: astro-ph.SR
+ref: georgy.c.2013
+title: Grids of stellar models with rotation. III. Models from 0.8 to 120 M$_&sun;$
+  at a metallicity Z = 0.002
+type: article
+volume: '558'
+year: '2013'

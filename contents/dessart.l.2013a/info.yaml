@@ -1,0 +1,51 @@
+abstract: We explore the properties of Type II-Plateau (II-P) supernovae (SNe) together
+  with their red supergiant (RSG) star progenitors. Using MESA STAR, we modulate the
+  parameters (e.g. mixing length, overshoot, rotation, metallicity) that control the
+  evolution of a 15 M\&sun; main-sequence star to produce a variety of physical pre-SN
+  models and SN II-P ejecta. We extend previous modelling of SN II-P radiation to
+  include photospheric and nebular phases, as well as multiband light curves and spectra.
+  Our treatment does not assume local thermodynamic equilibrium, is time dependent,
+  treats explicitly the effects of line blanketing and incorporates non-thermal processes.
+  We find that the colour properties of SNe II-P require large model atoms for Fe
+  I and Fe II, much larger than previously adopted. The colour properties also imply
+  RSG progenitors of limited extent (\texttildelow{}500 R\&sun;) - larger progenitor
+  stars produce an SN II-P radiation that remains too blue for too long. This finding
+  calls for a reduction of RSG radii, perhaps through a strengthening of convective
+  energy transport in RSG envelopes. Increased overshoot and rotation reduce the ratio
+  of ejecta to helium-core mass, similarly to an increase in main-sequence mass, and
+  thus complicate the inference of progenitor masses. In contrast to the great sensitivity
+  on progenitor radius, SN II-P colour evolution appears insensitive to variations
+  in explosion energy. Finally, we document the numerous SN II-P signatures that vary
+  with progenitor metallicity, revealing their potential for metallicity determinations
+  in the nearby and distant Universe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.433.1745D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.3386
+author: Dessart, L. and Hillier, D. J. and Waldman, R. and Livne, E.
+author_list:
+- family: Dessart
+  given: L.
+- family: Hillier
+  given: D. J.
+- family: Waldman
+  given: R.
+- family: Livne
+  given: E.
+date-added: 2017-08-11 07:46:48 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt861
+eprint: '1305.3386'
+journal: \mnras
+keywords: 'radiative transfer, stars: atmospheres, stars: evolution, supernovae: general,
+  supernovae: individual: 1999em'
+month: August
+pages: 1745--1763
+papis_id: 8aba6c9919c4352b2b404311c2740d21
+primaryclass: astro-ph.SR
+ref: dessart.l.2013a
+title: 'Type II-Plateau supernova radiation: dependences on progenitor and explosion
+  properties'
+type: article
+volume: '433'
+year: '2013'

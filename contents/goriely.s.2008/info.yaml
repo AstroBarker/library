@@ -1,0 +1,47 @@
+abstract: 'Context: Nuclear reaction rates of astrophysical applications are traditionally
+  determined on the basis of Hauser-Feshbach reaction codes. These codes adopt a number
+  of approximations that have never been tested, such as a simplified width fluctuation
+  correction, the neglect of delayed or multiple-particle emission during the electromagnetic
+  decay cascade, or the absence of the pre-equilibrium contribution at increasing
+  incident energies.   Aims: The reaction code TALYS has been recently updated to
+  estimate the Maxwellian-averaged reaction rates that are of astrophysical relevance.
+  These new developments enable the reaction rates to be calculated with increased
+  accuracy and reliability and the approximations of previous codes to be investigated.   Methods:
+  The TALYS predictions for the thermonuclear rates of relevance to astrophysics are
+  detailed and compared with those derived by widely-used codes for the same nuclear
+  ingredients.   Results: It is shown that TALYS predictions may differ significantly
+  from those of previous codes, in particular for nuclei for which no or little nuclear
+  data is available. The pre-equilibrium process is shown to influence the astrophysics
+  rates of exotic neutron-rich nuclei significantly. For the first time, the Maxwellian-averaged
+  (n,2n) reaction rate is calculated for all nuclei and its competition with the radiative
+  capture rate is discussed.   Conclusions: The TALYS code provides a new tool to
+  estimate all nuclear reaction rates of relevance to astrophysics with improved accuracy
+  and reliability.  Data tables are only available in electronic form at the CDS via
+  anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/487/767'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...487..767G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.2239
+author: Goriely, S. and Hilaire, S. and Koning, A. J.
+author_list:
+- family: Goriely
+  given: S.
+- family: Hilaire
+  given: S.
+- family: Koning
+  given: A. J.
+date-added: 2017-08-10 18:06:39 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1051/0004-6361:20078825
+eprint: '0806.2239'
+journal: \aap
+keywords: nuclear reactions, nucleosynthesis, abundances
+month: August
+pages: 767--774
+papis_id: bbe7b8cbaae9f5bb62285356c02cbc58
+ref: goriely.s.2008
+title: Improved predictions of nuclear reaction rates with the TALYS reaction code
+  for astrophysical applications
+type: article
+volume: '487'
+year: '2008'

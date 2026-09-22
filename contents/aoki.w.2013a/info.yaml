@@ -1,0 +1,69 @@
+abstract: Chemical compositions are determined based on high-resolution spectroscopy
+  for 137 candidate extremely metal-poor (EMP) stars selected from the Sloan Digital
+  Sky Survey (SDSS) and its first stellar extension, the Sloan Extension for Galactic
+  Understanding and Exploration (SEGUE). High-resolution spectra with moderate signal-to-noise
+  (S/N) ratios were obtained with the High Dispersion Spectrograph of the Subaru Telescope.
+  Most of the sample (approximately 80\%) are main-sequence turnoff stars, including
+  dwarfs and subgiants. Four cool main-sequence stars, the most metal-deficient such
+  stars known, are included in the remaining sample. Good agreement is found between
+  effective temperatures estimated by the SEGUE stellar parameter pipeline, based
+  on the SDSS/SEGUE medium-resolution spectra, and those estimated from the broadband
+  (V - K)0 and (g - r)0 colors. Our abundance measurements reveal that 70 stars in
+  our sample have [Fe/H] < -3, adding a significant number of EMP stars to the currently
+  known sample. Our analyses determine the abundances of eight elements (C, Na, Mg,
+  Ca, Ti, Cr, Sr, and Ba) in addition to Fe. The fraction of carbon-enhanced metal-poor
+  stars ([C/Fe] > +0.7) among the 25 giants in our sample is as high as 36\%, while
+  only a lower limit on the fraction (9\%) is estimated for turnoff stars. This paper
+  is the first of a series of papers based on these observational results. The following
+  papers in this series will discuss the higher-resolution and higher-S/N observations
+  of a subset of this sample, the metallicity distribution function, binarity, and
+  correlations between the chemical composition and kinematics of extremely metal-poor
+  stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013AJ....145...13A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.1946
+author: Aoki, W. and Beers, T. C. and Lee, Y. S. and Honda, S. and Ito, H. and Takada-Hidai,
+  M. and Frebel, A. and Suda, T. and Fujimoto, M. Y. and Carollo, D. and Sivarani,
+  T.
+author_list:
+- family: Aoki
+  given: W.
+- family: Beers
+  given: T. C.
+- family: Lee
+  given: Y. S.
+- family: Honda
+  given: S.
+- family: Ito
+  given: H.
+- family: Takada-Hidai
+  given: M.
+- family: Frebel
+  given: A.
+- family: Suda
+  given: T.
+- family: Fujimoto
+  given: M. Y.
+- family: Carollo
+  given: D.
+- family: Sivarani
+  given: T.
+date-added: 2017-08-10 18:46:15 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-6256/145/1/13
+eid: '13'
+eprint: '1210.1946'
+journal: \aj
+keywords: 'Galaxy: halo, stars: abundances, stars: atmospheres, stars: Population
+  II'
+month: January
+pages: '13'
+papis_id: 7dd079bba78aa0f5e4497c74c95ee078
+primaryclass: astro-ph.SR
+ref: aoki.w.2013a
+title: High-resolution Spectroscopy of Extremely Metal-poor Stars from SDSS/SEGUE.
+  I. Atmospheric Parameters and Chemical Compositions
+type: article
+volume: '145'
+year: '2013'

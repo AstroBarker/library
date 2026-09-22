@@ -1,0 +1,61 @@
+abstract: We investigate the launching of jets and outflows from magnetically diffusive
+  accretion disks. Using the PLUTO code, we solve the time-dependent resistive magnetohydrodynamic
+  equations taking into account the disk and jet evolution simultaneously. The main
+  question we address is which kind of disks launch jets and which kind of disks do
+  not? In particular, we study how the magnitude and distribution of the (turbulent)
+  magnetic diffusivity affect mass loading and jet acceleration. We apply a turbulent
+  magnetic diffusivity based on alpha-prescription, but also investigate examples
+  where the scale height of diffusivity is larger than that of the disk gas pressure.
+  We further investigate how the ejection efficiency is governed by the magnetic field
+  strength. Our simulations last for up to 5000 dynamical timescales corresponding
+  to 900 orbital periods of the inner disk. As a general result, we observe a continuous
+  and robust outflow launched from the inner part of the disk, expanding into a collimated
+  jet of superfast-magnetosonic speed. For long timescales, the disk's internal dynamics
+  change, as due to outflow ejection and disk accretion the disk mass decreases. For
+  magnetocentrifugally driven jets, we find that for (1) less diffusive disks, (2)
+  a stronger magnetic field, (3) a low poloidal diffusivity, or (4) a lower numerical
+  diffusivity (resolution), the mass loading of the outflow is increased---resulting
+  in more powerful jets with high-mass flux. For weak magnetization, the (weak) outflow
+  is driven by the magnetic pressure gradient. We consider in detail the advection
+  and diffusion of magnetic flux within the disk and we find that the disk and outflow
+  magnetization may substantially change in time. This may have severe impact on the
+  launching and formation process---an initially highly magnetized disk may evolve
+  into a disk of weak magnetization which cannot drive strong outflows. We further
+  investigate the jet asymptotic velocity and the jet rotational velocity in respect
+  of the different launching scenarios. We find a lower degree of jet collimation
+  than previous studies, most probably due to our revised outflow boundary condition.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...65S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.6086
+author: Sheikhnezami, S. and Fendt, C. and Porth, O. and Vaidya, B. and Ghanbari,
+  J.
+author_list:
+- family: Sheikhnezami
+  given: S.
+- family: Fendt
+  given: C.
+- family: Porth
+  given: O.
+- family: Vaidya
+  given: B.
+- family: Ghanbari
+  given: J.
+date-added: 2017-08-10 23:02:34 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/757/1/65
+eid: '65'
+eprint: '1207.6086'
+journal: \apj
+keywords: 'accretion, accretion disks, galaxies: active, galaxies: jets, ISM: jets
+  and outflows, magnetohydrodynamics: MHD, stars: pre-main sequence'
+month: September
+pages: '65'
+papis_id: 638dbf4293e0ed4a0f76521280b11ba8
+primaryclass: astro-ph.HE
+ref: sheikhnezami.s.2012
+title: Bipolar Jets Launched from Magnetically Diffusive Accretion Disks. I. Ejection
+  Efficiency versus Field Strength and Diffusivity
+type: article
+volume: '757'
+year: '2012'

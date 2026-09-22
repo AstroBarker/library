@@ -1,0 +1,46 @@
+abstract: The minimum mass that a virialized gas cloud must have in order to be able
+  to cool in a Hubble time is computed, using a detailed treatment of the chemistry
+  of molecular hydrogen. With a simple model for halo profiles, we reduce the problem
+  to that of numerically integrating a system of chemical equations. The results agree
+  well with numerically expensive three-dimensional simulations, and our approach
+  has the advantage of being able to explore large regions of parameter space rapidly.
+  The minimum baryonic mass Mb is found to be strongly redshift dependent, dropping
+  from 106 M\&sun; at z ~ 15 to 5 x 10^3 M\&sun; at z ~ 100 as molecular cooling becomes
+  effective. For z > 100, Mb rises again, as cosmic microwave background photons inhibit
+  H2 formation through the H- channel. Finally, for z > 200, the H^{+}2 channel for
+  H2 formation becomes effective, driving Mb down toward Mb ~ 10^3 M\&sun;. With a
+  standard cold dark matter power spectrum with sigma 8 = 0.7, this implies that a
+  fraction 10-3 of all baryons may have formed luminous objects by z = 30, which could
+  be sufficient to reheat the universe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...474....1T
+arxivurl: http://arxiv.org/abs/astro-ph/9603007
+author: Tegmark, M. and Silk, J. and Rees, M. J. and Blanchard, A. and Abel, T. and
+  Palla, F.
+author_list:
+- family: Tegmark
+  given: M.
+- family: Silk
+  given: J.
+- family: Rees
+  given: M. J.
+- family: Blanchard
+  given: A.
+- family: Abel
+  given: T.
+- family: Palla
+  given: F.
+date-added: 2017-08-11 06:55:36 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303434
+eprint: astro-ph/9603007
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, COSMOLOGY: EARLY UNIVERSE, GALAXIES: FORMATION'
+month: January
+pages: '1'
+papis_id: 73638e89eeb6ccf7016e8bab653c8de6
+ref: tegmark.m.1997
+title: How Small Were the First Cosmological Objects?
+type: article
+volume: '474'
+year: '1997'

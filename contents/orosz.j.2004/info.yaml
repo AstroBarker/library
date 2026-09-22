@@ -1,0 +1,62 @@
+abstract: We present R-band photometry of the X-ray transient and candidate black
+  hole binary XTE J1650-500 obtained between 2003 May and August with the 6.5 m Clay
+  telescope. A timing analysis of these data reveals a photometric period of 0.3205+/-0.0007
+  days (i.e., 7.63 hr) with a possible alias at 0.3785 days (9.12 hr). Our photometry
+  completely rules out the previously published spectroscopic period of 0.212 days
+  (5.09 hr). Consequently, we reanalyzed the 15 archival ESO VLT spectra (obtained
+  2002 June by Sanchez-Fernandez et al.) that were the basis of the previously published
+  spectroscopic period. We used a ``rest-frame search'' technique that is well suited
+  for cases in which the signal-to-noise ratio of individual spectra is low. For each
+  of roughly 1.1 million binary ephemerides, we summed all of the spectra in a trial
+  rest frame of the secondary star, and each rest-frame spectrum was cross-correlated
+  against a template spectrum. We then searched for the set of orbital parameters
+  that produced the strongest cross-correlation value. The results confirmed the photometric
+  period of 0.3205 days and ruled out the alias period near 0.38 days. The best value
+  for the velocity semiamplitude of the companion star is K2=435+/-30 km s-1, and
+  the corresponding optical mass function is f(M)=2.73+/-0.56 Msolar. The spectral
+  type of the companion star is not well constrained because we only have six template
+  spectra available to us. The K4 V template provides the best match; next-best matches
+  are provided by the G5 V and K2 III templates. We also find that the accretion disk
+  dominates the light in the R band where the disk fraction is 80\% or higher, although
+  this value should be treated with caution owing to the poor signal-to-noise ratio
+  and the limited number of templates. The amplitude of the phased R-band light curve
+  is 0.2 mag, which gives a lower limit to the inclination of 50deg+/-3deg in the
+  limiting case of no contribution to the R-band light curve from the accretion disk.
+  If the mass ratio of XTE J1650-500 is similar to the mass ratios of other black
+  hole binaries, such as A0620-00 or GRS 1124-683 (e.g., Q>~10), then our lower limit
+  to the inclination gives an upper limit to the mass of the black hole in XTE J1650-500
+  of M1<~7.3 Msolar. However, the mass can be considerably lower if the R-band flux
+  is dominated by the accretion disk. For example, if the accretion disk does contribute
+  80\% of the flux, as our preliminary results suggest, then the black hole mass would
+  be only about 4 Msolar.  Based on observations made with the Magellan 6.5 m Clay
+  telescope at Las Campanas Observatory of the Carnegie Institution and with European
+  Southern Observatory (ESO) telescopes at the Paranal Observatory under program ID
+  69.D-0644(A).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...616..376O
+arxivurl: http://arxiv.org/abs/astro-ph/0404343
+author: Orosz, J. A. and McClintock, J. E. and Remillard, R. A. and Corbel, S.
+author_list:
+- family: Orosz
+  given: J. A.
+- family: McClintock
+  given: J. E.
+- family: Remillard
+  given: R. A.
+- family: Corbel
+  given: S.
+date-added: 2017-08-11 00:41:03 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/424892
+eprint: astro-ph/0404343
+journal: \apj
+keywords: 'Stars: Binaries: Spectroscopic, Black Hole Physics, Stars: Individual:
+  Alphanumeric: XTE J1650-500, X-Rays: Binaries, X-Rays: Stars'
+month: November
+pages: 376--382
+papis_id: cb045f8156061731738ea7f7832550ea
+ref: orosz.j.2004
+title: Orbital Parameters for the Black Hole Binary XTE J1650-500
+type: article
+volume: '616'
+year: '2004'

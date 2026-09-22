@@ -1,0 +1,50 @@
+abstract: 'We present the results of 2.5-dimensional MHD simulations of jet formation
+  by magnetic accretion disks in which both ejection and accretion of disk plasma
+  are included self-consistently. Although the jets in nonsteady MHD simulations have
+  often been described as transient phenomena resulting from a particular choice of
+  initial conditions, we found that the characteristics of the nonsteady jets are
+  very similar to those of steady jets: (1) The ejection point of the jet, which corresponds
+  to the slow magnetosonic point in steady MHD jet theory, is determined by the effective
+  potential resulting from gravitational and centrifugal forces along a field line.
+  (2) The dependences of the velocity (vz) and mass outflow rate (Mw) on the initial
+  magnetic field strength are approximately Mw~B0andvz~((Omega2FB20)/(Mw))1/3~B1/30
+  ,  where B0 is the initial poloidal magnetic field strength and OmegaF is the ``angular
+  velocity of the field line'''' (essentially the Keplerian angular velocity where
+  the jet is ejected). These are consistent with the results of one-dimensional steady
+  solutions, although their explanation is a little more complicated in the 2.5-dimensional
+  case, because of an avalanche-like accretion flow that is present. The dependence
+  of the accretion rate (Ma) on the initial field strength is given by Ma~Bb0 where
+  b ~ 1.4 from the simulations and b ~= 2 from the semianalytical results. We also
+  confirm that the velocity of the jet is of order the Keplerian velocity of the disk
+  for a wide range of parameters. We conclude that the ejection mechanism of nonsteady
+  jets found in the 2.5-dimensional simulations can be understood using the steady
+  state theory even when nonsteady avalanche-like accretion occurs along the surface
+  of the disk. Nevertheless, it must be stressed that the jet and accretion never
+  reach a steady state in our simulations, in which the back-reaction of the jet on
+  the disk is included self-consistently.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...508..186K
+author: Kudoh, T. and Matsumoto, R. and Shibata, K.
+author_list:
+- family: Kudoh
+  given: T.
+- family: Matsumoto
+  given: R.
+- family: Shibata
+  given: K.
+date-added: 2017-08-10 14:49:41 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306377
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, GALAXIES: JETS, ISM: JETS AND OUTFLOWS, METHODS:
+  NUMERICAL, MAGNETOHYDRODYNAMICS: MHD, Accretion, Accretion Disks, Galaxies: Jets,
+  ISM: Jets and Outflows, Methods: Numerical, Magnetohydrodynamics: MHD'
+month: November
+pages: 186--199
+papis_id: bdb77e7a1c851e59921303cadd928f3c
+ref: kudoh.t.1998
+title: Magnetically Driven Jets from Accretion Disks. III. 2.5-dimensional Nonsteady
+  Simulations for Thick Disk Case
+type: article
+volume: '508'
+year: '1998'

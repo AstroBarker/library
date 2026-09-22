@@ -1,0 +1,46 @@
+abstract: We introduce GRay, a massively parallel integrator designed to trace the
+  trajectories of billions of photons in a curved spacetime. This graphics-processing-unit
+  (GPU)-based integrator employs the stream processing paradigm, is implemented in
+  CUDA C/C++, and runs on nVidia graphics cards. The peak performance of GRay using
+  single-precision floating-point arithmetic on a single GPU exceeds 300 GFLOP (or
+  1 ns per photon per time step). For a realistic problem, where the peak performance
+  cannot be reached, GRay is two orders of magnitude faster than existing central-processing-unit-based
+  ray-tracing codes. This performance enhancement allows more effective searches of
+  large parameter spaces when comparing theoretical predictions of images, spectra,
+  and light curves from the vicinities of compact objects to observations. GRay can
+  also perform on-the-fly ray tracing within general relativistic magnetohydrodynamic
+  algorithms that simulate accretion flows around compact objects. Making use of this
+  algorithm, we calculate the properties of the shadows of Kerr black holes and the
+  photon rings that surround them. We also provide accurate fitting formulae of their
+  dependencies on black hole spin and observer inclination, which can be used to interpret
+  upcoming observations of the black holes at the center of the Milky Way, as well
+  as M87, with the Event Horizon Telescope.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...777...13C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.5057
+author: Chan, C.-k. and Psaltis, D. and Özel, F.
+author_list:
+- family: Chan
+  given: C.-k.
+- family: Psaltis
+  given: D.
+- family: Özel
+  given: F.
+date-added: 2017-08-10 22:26:09 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/777/1/13
+eid: '13'
+eprint: '1303.5057'
+journal: \apj
+keywords: 'gravitation, methods: numerical, radiative transfer'
+month: November
+pages: '13'
+papis_id: dd9cd01c8eb89c2a88dcffc2ceff4fc0
+primaryclass: astro-ph.IM
+ref: chan.c_k.2013
+title: 'GRay: A Massively Parallel GPU-based Code for Ray Tracing in Relativistic
+  Spacetimes'
+type: article
+volume: '777'
+year: '2013'

@@ -1,0 +1,49 @@
+abstract: The initial mass function (IMF) of metal-free stars that form in the initial
+  starburst of massive (virial temperatures >~104 K) metal-free protogalaxies is studied.
+  In particular, we focus on the effect of H2 photodissociation by preexisting stars
+  on the fragmentation mass scale, presumedly determined by the Jeans mass at the
+  end of the initial free-fall phase, i.e., at the so-called loitering phase, characterized
+  by the temporary temperature minimum. Photodissociation diminishes the Jeans mass
+  at the loitering phase, thereby reducing the fragmentation mass scale of primordial
+  clouds. Thus, in a given cloud, far-ultraviolet (FUV) radiation from the first star,
+  which is supposedly very massive (~103Msolar), reduces the mass scale for subsequent
+  fragmentation. Through a series of similar processes the IMF for metal-free stars
+  is established. If FUV radiation exceeds a threshold level, the star-forming clumps
+  collapse solely through atomic cooling. Correspondingly, the fragmentation scale
+  drops discontinuously from a few \texttimes{} 10Msolar to subsolar scales. In compact
+  clouds (<~1.6 kpc for clouds of gas mass 108Msolar), this level of radiation field
+  is attained and subsolar-mass stars are formed, even in a metal-free environment.
+  Consequently, the IMF becomes bimodal, with peaks at a few tenths Msolar and a few
+  \texttimes{} 10 Msolar. The high-mass portion of the IMF, xihigh(m\textasteriskcentered),
+  is found to be a very steep function of the stellar mass m\textasteriskcentered,
+  xihigh(m\textasteriskcentered)~m-5\textasteriskcentered. Therefore, the typical
+  mass scale of metal-free stars is significantly smaller than that of the very first
+  stars. In an appendix we study the thermal instability in collapsing primordial
+  prestellar cores and discuss why the thermal instability occurring during the three-body
+  H2 formation does not appear to manifest itself in causing further fragmentation
+  of such cores.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...599..746O
+arxivurl: http://arxiv.org/abs/astro-ph/0308514
+author: Omukai, K. and Yoshii, Y.
+author_list:
+- family: Omukai
+  given: K.
+- family: Yoshii
+  given: Y.
+date-added: 2017-08-11 05:45:21 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379319
+eprint: astro-ph/0308514
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Stars: Formation, Stars: Luminosity
+  Function, Mass Function'
+month: December
+pages: 746--758
+papis_id: f797d5c9b7fde8d300e68d5fdee93c6d
+ref: omukai.k.2003a
+title: 'The Mass Spectrum of Metal-free Stars Resulting from Photodissociation Feedback:
+  A Scenario for the Formation of Low-Mass Population III Stars'
+type: article
+volume: '599'
+year: '2003'

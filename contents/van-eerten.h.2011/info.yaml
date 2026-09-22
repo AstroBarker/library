@@ -1,0 +1,46 @@
+abstract: We present results for a large number of gamma-ray burst (GRB) afterglow
+  light curve calculations, done by combining high-resolution two-dimensional relativistic
+  hydrodynamics simulations using RAM with a synchrotron radiation code. Results were
+  obtained for jet energies, circumburst medium densities, and jet angles typical
+  for short and underluminous GRBs, different observer angles, and observer frequencies
+  from low radio (75 MHz) to X-ray (1.5 keV). We summarize the light curves through
+  smooth power-law fits with up to three breaks, covering jet breaks for small observer
+  angles, the rising phase for large observer angles, and the rise and decay of the
+  counterjet. All light curve data are publicly available on the Web. The data can
+  be used for model fits to observational data and as an aid for predicting observations
+  by future telescopes such as LOFAR or the Square Kilometer Array and will benefit
+  the study of neutron star mergers using different channels, such as gravitational-wave
+  observations with LIGO or Virgo. For small observer angles, we find jet break times
+  that vary significantly between frequencies, with the break time in the radio substantially
+  postponed. Increasing the observer angle also postpones the measured jet break time.
+  The rising phase of the light curve for large observer angle has a complex shape
+  that cannot always be summarized by a simple power law. Except for very large observer
+  angles, the counterjet is a distinct feature in the light curve, although in practice
+  the signal will be exceedingly difficult to observe by then.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...733L..37V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.4571
+author: van Eerten, H. J. and MacFadyen, A. I.
+author_list:
+- family: van Eerten
+  given: H. J.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-10 19:39:13 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/2041-8205/733/2/L37
+eid: L37
+eprint: '1102.4571'
+journal: \apjl
+keywords: 'acceleration of particles, gamma-ray burst: general, hydrodynamics, methods:
+  numerical'
+month: June
+pages: L37
+papis_id: b86e450647ff3c1217af1ed9d5c876ad
+primaryclass: astro-ph.HE
+ref: van_eerten.h.2011
+title: Synthetic Off-axis Light Curves for Low-energy Gamma-Ray Bursts
+type: article
+volume: '733'
+year: '2011'

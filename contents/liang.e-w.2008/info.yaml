@@ -1,0 +1,52 @@
+abstract: The Swift XRT data for 179 GRBs (050124 to 070129) and the optical afterglow
+  data for 57 pre- and post-Swift GRBs are analyzed to explore whether the observed
+  breaks in the afterglow light curves can be interpreted as jet breaks, as well as
+  their implications for jet energetics. We find that no burst is included in our
+  "Platinum" sample, in which the data fully satisfy the jet break criteria. By relaxing
+  one or more of the requirements for a jet break, candidates to various degrees are
+  identified. In the X-ray band, 42 of 103 well-sampled X-ray light curves have a
+  decay slope gtrsim1.5 in the postbreak segment (the "Bronze" sample), and 27 of
+  these also satisfy the closure relations of the forward-shock models ("Silver" sample).
+  The numbers of "Bronze" and "Silver" candidates in the optical light curves are
+  27 and 23, respectively. The X-ray break time is earlier than that in the optical
+  bands. Among 13 bursts having both optical and X-ray light curves, only seven have
+  an achromatic break, and even in these cases, only in one band do the data satisfy
+  the closure relations ("Gold" sample). These results raise concerns about interpreting
+  the breaks as jet breaks and further inferring GRB energetics. Assuming that the
+  "Silver" and "Gold" breaks are jet breaks, we derive jet opening angles (thetaj)
+  and kinetic energies (EK) or lower limits on them and find that the EK distribution
+  is much more scattered than the pre-Swift sample, but a tentative anticorrelation
+  between thetaj and EK,iso is found, indicating that the EK could still be quasi-universal.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...675..528L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.2942
+author: Liang, E.-W. and Racusin, J. L. and Zhang, B. and Zhang, B.-B. and Burrows,
+  D. N.
+author_list:
+- family: Liang
+  given: E.-W.
+- family: Racusin
+  given: J. L.
+- family: Zhang
+  given: B.
+- family: Zhang
+  given: B.-B.
+- family: Burrows
+  given: D. N.
+date-added: 2017-08-11 07:00:53 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/524701
+eid: 528-552
+eprint: '0708.2942'
+journal: \apj
+keywords: 'gamma rays: bursts, radiation mechanisms: non-thermal, X-rays'
+month: March
+pages: 528--552
+papis_id: 36fbf0f7b3eed6026606b153a2138b19
+ref: liang.e_w.2008
+title: A Comprehensive Analysis of Swift XRT Data. III. Jet Break Candidates in X-Ray
+  and Optical Afterglow Light Curves
+type: article
+volume: '675'
+year: '2008'

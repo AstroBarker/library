@@ -1,0 +1,46 @@
+abstract: We carry out three-dimensional MHD simulations of star formation in turbulent,
+  magnetized clouds, including ambipolar diffusion and feedback from protostellar
+  outflows. The calculations focus on relatively diffuse clouds threaded by a strong
+  magnetic field capable of resisting severe tangling by turbulent motions and retarding
+  global gravitational contraction in the cross field direction. They are motivated
+  by observations of the Taurus molecular cloud complex (and, to a lesser extent,
+  Pipe Nebula), which shows an ordered large-scale magnetic field, as well as elongated
+  condensations that are generally perpendicular to the large-scale field. We find
+  that stars form in earnest in such clouds when enough material has settled gravitationally
+  along the field lines that the mass-to-flux ratios of the condensations approach
+  the critical value. Only a small fraction (of order 1\% or less) of the nearly magnetically
+  critical, condensed material is turned into stars per local free-fall time, however.
+  The slow star formation takes place in condensations that are moderately supersonic;
+  it is regulated primarily by magnetic fields, rather than turbulence. The quiescent
+  condensations are surrounded by diffuse halos that are much more turbulent, as observed
+  in the Taurus complex. Strong support for magnetic regulation of star formation
+  in this complex comes from the extremely slow conversion of the already condensed,
+  relatively quiescent C18O gas into stars, at a rate 2 orders of magnitude below
+  the maximum, free-fall value. We analyze the properties of dense cores, including
+  their mass spectrum, which resembles the stellar initial mass function.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...687..354N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.4201
+author: Nakamura, F. and Li, Z.-Y.
+author_list:
+- family: Nakamura
+  given: F.
+- family: Li
+  given: Z.-Y.
+date-added: 2017-08-11 01:27:46 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/591641
+eid: 354-375
+eprint: '0804.4201'
+journal: \apj
+keywords: 'ISM: clouds, ISM: magnetic fields, MHD, stars: formation, turbulence'
+month: November
+pages: 354--375
+papis_id: cc502eecb16d9556fe8c90f84dfadd72
+ref: nakamura.f.2008
+title: 'Magnetically Regulated Star Formation in Three Dimensions: The Case of the
+  Taurus Molecular Cloud Complex'
+type: article
+volume: '687'
+year: '2008'

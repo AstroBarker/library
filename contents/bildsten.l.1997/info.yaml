@@ -1,0 +1,45 @@
+abstract: We present an analytic calculation of the thermonuclear depletion of lithium
+  in contracting, fully convective, pre-main-sequence stars of mass M <~ 0.5 M\&sun;.
+  Previous numerical work relies on still uncertain physics (atmospheric opacities
+  and convection, in particular) to calculate the effective temperature as a unique
+  function of stellar mass. We assume that the star's effective temperature, Teff,
+  is fixed during Hayashi contraction and allow its actual value to be a free parameter
+  constrained by observation. Using this approximation, we compute lithium burning
+  analytically and explore the dependence of lithium depletion on Teff, M, and composition.
+  Our calculations yield the radius, age, and luminosity of a pre-main-sequence star
+  as a function of lithium depletion. This allows for more direct comparisons with
+  observations of lithium-depleted stars. Our results agree with those numerical calculations
+  that explicitly determine stellar structure during Hayashi contraction. In agreement
+  with Basri, Marcy, \& Graham, we show that the absence of lithium in the Pleiades
+  star HHJ 3 implies that it is older than 100 Myr. We also suggest a generalized
+  method for dating Galactic clusters younger than 100 Myr (i.e., those with contracting
+  stars of M >~ 0.08 M\&sun;) and for constraining the masses of lithium-depleted
+  stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...482..442B
+arxivurl: http://arxiv.org/abs/astro-ph/9612155
+author: Bildsten, L. and Brown, E. F. and Matzner, C. D. and Ushomirsky, G.
+author_list:
+- family: Bildsten
+  given: L.
+- family: Brown
+  given: E. F.
+- family: Matzner
+  given: C. D.
+- family: Ushomirsky
+  given: G.
+date-added: 2017-08-11 04:25:02 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304151
+eprint: astro-ph/9612155
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution, Stars:
+  Interiors, Stars: Pre-Main-Sequence'
+month: June
+pages: 442--447
+papis_id: 0dade9ac5ac977a3ef762985e1edcced
+ref: bildsten.l.1997
+title: Lithium Depletion in Fully Convective Pre-Main-Sequence Stars
+type: article
+volume: '482'
+year: '1997'

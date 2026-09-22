@@ -1,0 +1,87 @@
+abstract: We detect three (plus one less certain) z 850-dropout sources in two separate
+  fields (Hubble Ultra Deep Field and NICP34) of our UDF05 Hubble Space Telescope
+  Near-Infrared Camera and Multi-Object Spectrometer images. These z ~ 7 Lyman-break
+  Galaxy (LBG) candidates allow us to constrain the Luminosity Function (LF) of the
+  star-forming galaxy population at those epochs. By assuming a change in only M \textasteriskcentered
+  and adopting a linear evolution in redshift, anchored to the measured values at
+  z ~ 6, the best-fit evolution coefficient is found to be 0.43 $\pm$ 0.19 mag per
+  unit redshift (0.36 \$\pm\$ 0.18, if including all four candidates), which provides
+  a value of M \textasteriskcentered(z = 7.2) = -19.7 \$\pm\$ 0.3. This implies a
+  drop in the luminosity density in LBGs by a factor of ~2-2.5 over the ~ 170 Myr
+  that separate z ~ 6 and z ~ 7, and a steady evolution for the LBG LF out to z ~
+  7, at the same rate that is observed throughout the z ~ 3-6 period. This puts a
+  strong constraint on the star-formation histories of z ~ 6 galaxies, whose ensemble
+  star-formation rate (SFR) density must be lower by a factor of 2 at ~ 170 Myr before
+  the epoch at which they are observed. In particular, a large fraction of stars in
+  the z ~ 6 LBG population must form at redshifts well above z ~ 7. The rate of ionizing
+  photons produced by the LBG population consistently decreases with the decrease
+  in the cosmic SFR density. Extrapolating this steady evolution of the LF out to
+  higher redshifts, we estimate that galaxies would be able to reionize the universe
+  by z ~ 6, provided that the faint-end slope of the z > 7 LF steepens to alpha ~
+  -1.9 and that faint galaxies with luminosities below the current detection limits
+  contribute a substantial fraction of the required ionizing photons. This scenario,
+  however, gives an integrated optical depth to electron scattering that is ~2sigma
+  below the Wilkinson Microwave Anisotropy Probe-5 measurement. Therefore, altogether,
+  our results indicate that, should galaxies be the primary contributors to reionization,
+  either the currently detected evolution of the galaxy population slows down at z
+  gsim 7, or the LF evolution must be compensated by a decrease in metallicity and
+  a corresponding increase in ionization efficiency at these early epochs.  Mostly
+  based on data obtained with the Hubble Space Telescope operated by Association of
+  Universities for Research in Astronomy (AURA), Inc. for NASA under contract NAS5-26555.
+  Partly based on data from the Spitzer Space Telescope operated by Jet Propulsion
+  Laboratory, California Institute of Technology under NASA contract 1407.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...690.1350O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.4874
+author: Oesch, P. A. and Carollo, C. M. and Stiavelli, M. and Trenti, M. and Bergeron,
+  L. E. and Koekemoer, A. M. and Lucas, R. A. and Pavlovsky, C. M. and Beckwith, S.
+  V. W. and Dahlen, T. and Ferguson, H. C. and Gardner, J. P. and Lilly, S. J. and
+  Mobasher, B. and Panagia, N.
+author_list:
+- family: Oesch
+  given: P. A.
+- family: Carollo
+  given: C. M.
+- family: Stiavelli
+  given: M.
+- family: Trenti
+  given: M.
+- family: Bergeron
+  given: L. E.
+- family: Koekemoer
+  given: A. M.
+- family: Lucas
+  given: R. A.
+- family: Pavlovsky
+  given: C. M.
+- family: Beckwith
+  given: S. V. W.
+- family: Dahlen
+  given: T.
+- family: Ferguson
+  given: H. C.
+- family: Gardner
+  given: J. P.
+- family: Lilly
+  given: S. J.
+- family: Mobasher
+  given: B.
+- family: Panagia
+  given: N.
+date-added: 2017-08-10 20:20:35 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/690/2/1350
+eprint: '0804.4874'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: formation, galaxies: high-redshift, galaxies:
+  luminosity function, mass function'
+month: January
+pages: 1350--1357
+papis_id: ca9d648a36e8dcc96163feb207943577
+ref: oesch.p.2009
+title: The UDF05 Follow-Up of the Hubble Ultra Deep Field. II. Constraints on Reionization
+  from Z-Dropout Galaxies
+type: article
+volume: '690'
+year: '2009'

@@ -1,0 +1,69 @@
+abstract: 'In a companion paper, Seitenzahl et al. have presented a set of three-dimensional
+  delayed detonation models for thermonuclear explosions of near-Chandrasekhar-mass
+  white dwarfs (WDs). Here, we present multidimensional radiative transfer simulations
+  that provide synthetic light curves and spectra for those models. The model sequence
+  explores both changes in the strength of the deflagration phase (which is controlled
+  by the ignition configuration in our models) and the WD central density. In agreement
+  with previous studies, we find that the strength of the deflagration significantly
+  affects the explosion and the observables. Variations in the central density also
+  have an influence on both brightness and colour, but overall it is a secondary parameter
+  in our set of models. In many respects, the models yield a good match to the observed
+  properties of normal Type Ia supernovae (SNe Ia): peak brightness, rise/decline
+  time-scales and synthetic spectra are all in reasonable agreement. There are, however,
+  several differences. In particular, the models are systematically too red around
+  maximum light, manifest spectral line velocities that are a little too high and
+  yield I-band light curves that do not match observations. Although some of these
+  discrepancies may simply relate to approximations made in the modelling, some pose
+  real challenges to the models. If viewed as a complete sequence, our models do not
+  reproduce the observed light-curve width-luminosity relation (WLR) of SNe Ia: all
+  our models show rather similar B-band decline rates, irrespective of peak brightness.
+  This suggests that simple variations in the strength of the deflagration phase in
+  Chandrasekhar-mass deflagration-to-detonation models do not readily explain the
+  observed diversity of normal SNe Ia. This may imply that some other parameter within
+  the Chandrasekhar-mass paradigm is key to the WLR, or that a substantial fraction
+  of normal SNe Ia arise from an alternative explosion scenario.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.436..333S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.4833
+author: Sim, S. A. and Seitenzahl, I. R. and Kromer, M. and Ciaraldi-Schoolmann, F.
+  and Röpke, F. K. and Fink, M. and Hillebrandt, W. and Pakmor, R. and Ruiter, A.
+  J. and Taubenberger, S.
+author_list:
+- family: Sim
+  given: S. A.
+- family: Seitenzahl
+  given: I. R.
+- family: Kromer
+  given: M.
+- family: Ciaraldi-Schoolmann
+  given: F.
+- family: Röpke
+  given: F. K.
+- family: Fink
+  given: M.
+- family: Hillebrandt
+  given: W.
+- family: Pakmor
+  given: R.
+- family: Ruiter
+  given: A. J.
+- family: Taubenberger
+  given: S.
+date-added: 2017-08-11 07:18:54 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1574
+eprint: '1308.4833'
+journal: \mnras
+keywords: 'hydrodynamics, radiative transfer, methods: numerical, binaries: close,
+  supernovae: general, white dwarfs'
+month: November
+pages: 333--347
+papis_id: b8a2765457398a9d4897e7a8e31e3fc9
+primaryclass: astro-ph.HE
+ref: sim.s.2013
+title: Synthetic light curves and spectra for three-dimensional delayed-detonation
+  models of Type Ia supernovae
+type: article
+volume: '436'
+year: '2013'

@@ -1,0 +1,51 @@
+abstract: We calculate the tidal response of helium and carbon/oxygen (C/O) white
+  dwarf (WD) binaries inspiraling due to gravitational wave emission. We show that
+  resonance locks, previously considered in binaries with an early-type star, occur
+  universally in WD binaries. In a resonance lock, the orbital and spin frequencies
+  evolve in lockstep, so that the tidal forcing frequency is approximately constant
+  and a particular normal mode remains resonant, producing efficient tidal dissipation
+  and nearly synchronous rotation. We show that analogous locks between the spin and
+  orbital frequencies can occur not only with global standing modes, but even when
+  damping is so efficient that the resonant tidal response becomes a travelling wave.
+  We derive simple analytic formulas for the tidal quality factor {Q}\_t and tidal
+  heating rate during a g-mode resonance lock, and verify our results numerically.
+  We find that {Q}\_t\texttildelow{} 10^7 for orbital periods \lessequivlnt{}1-2 h
+  in C/O WDs, and {Q}\_t\texttildelow{} 10^9 for Porb \lessequivlnt{} 3-10 h in helium
+  WDs. Typically tidal heating occurs sufficiently close to the surface that the energy
+  should be observable as surface emission. Moreover, near an orbital period of \texttildelow{}10
+  min, the tidal heating rate reaches \texttildelow{}10-2 L\&sun;, rivalling the luminosities
+  of our fiducial WD models. Recent observations of the 13-minute double-WD binary
+  J0651 are roughly consistent with our theoretical predictions. Tides naturally tend
+  to generate differential rotation; however, we show that the fossil magnetic field
+  strength of a typical WD can maintain solid-body rotation down to at least Porb
+  \texttildelow{} 10 min even in the presence of a tidal torque concentrated near
+  the WD surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.433..332B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.1393
+author: Burkart, J. and Quataert, E. and Arras, P. and Weinberg, N. N.
+author_list:
+- family: Burkart
+  given: J.
+- family: Quataert
+  given: E.
+- family: Arras
+  given: P.
+- family: Weinberg
+  given: N. N.
+date-added: 2017-08-10 20:43:44 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt726
+eprint: '1211.1393'
+journal: \mnras
+keywords: instabilities, waves, white dwarfs
+month: July
+pages: 332--352
+papis_id: 03e9a3ebb9912a65cac2a296276483c0
+primaryclass: astro-ph.SR
+ref: burkart.j.2013
+title: Tidal resonance locks in inspiraling white dwarf binaries
+type: article
+volume: '433'
+year: '2013'

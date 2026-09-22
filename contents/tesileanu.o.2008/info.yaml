@@ -1,0 +1,51 @@
+abstract: 'Context: Time-dependent cooling processes are of paramount importance in
+  the evolution of astrophysical gaseous nebulae and, in particular, when radiative
+  shocks are present. Given the recent improvements in resolution of the observational
+  data, simulating these processes in a more realistic manner in magnetohydrodynamic
+  (MHD) codes will provide a unique tool for model discrimination.  Aims: The present
+  work introduces a necessary set of tools that can be used to model radiative astrophysical
+  flows in the optically-thin plasma limit. We aim to provide reliable and accurate
+  predictions of emission line ratios and radiative cooling losses in astrophysical
+  simulations of shocked flows. Moreover, we discuss numerical implementation aspects
+  to ease future improvements and implementation in other MHD numerical codes.  Methods:
+  The most important source of radiative cooling for our plasma conditions comes from
+  the collisionally-excited line radiation. We evolve a chemical network, including
+  29 ion species, to compute the ionization balance in non-equilibrium conditions.
+  The numerical methods are implemented in the PLUTO code for astrophysical fluid
+  dynamics and particular attention has been devoted to resolve accuracy and efficiency
+  issues arising from cooling timescales considerably shorter than the dynamical ones.  Results:
+  After a series of validations and tests, typical astrophysical setups are simulated
+  in 1D and 2D, employing both the present cooling model and a simplified one. The
+  influence of the cooling model on structure morphologies can become important, especially
+  for emission line diagnostic purposes.  Conclusions: The tests make us confident
+  that the use of the presented detailed radiative cooling treatment will allow more
+  accurate predictions in terms of emission line intensities and shock dynamics in
+  various astrophysical setups.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...488..429T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.3657
+author: Teşileanu, O. and Mignone, A. and Massaglia, S.
+author_list:
+- family: Teşileanu
+  given: O.
+- family: Mignone
+  given: A.
+- family: Massaglia
+  given: S.
+date-added: 2017-08-10 23:46:37 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:200809461
+eprint: '0807.3657'
+journal: \aap
+keywords: 'radiation mechanisms: thermal, line: formation, ISM: Herbig-Haro objects,
+  ISM: jets and outflows, methods: numerical, magnetohydrodynamics (MHD)'
+month: September
+pages: 429--440
+papis_id: 6eb913a3c976d1f089038c1aeab449cb
+ref: tesileanu.o.2008
+title: 'Simulating radiative astrophysical flows with the PLUTO code: a non-equilibrium,
+  multi-species cooling function'
+type: article
+volume: '488'
+year: '2008'

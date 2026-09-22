@@ -1,0 +1,65 @@
+abstract: We present discovery imaging and spectroscopy for nine new z ~ 6 quasars
+  found in the Canada-France High-z Quasar Survey (CFHQS) bringing the total number
+  of CFHQS quasars to 19. By combining the CFHQS with the more luminous Sloan Digital
+  Sky Survey sample, we are able to derive the quasar luminosity function from a sample
+  of 40 quasars at redshifts 5.74 < z < 6.42. Our binned luminosity function shows
+  a slightly lower normalization and flatter slope than found in previous work. The
+  binned data also suggest a break in the luminosity function at M 1450 \approx{}
+  -25. A double power-law maximum likelihood fit to the data is consistent with the
+  binned results. The luminosity function is strongly constrained (1sigma uncertainty
+  <0.1 dex) over the range -27.5 < M 1450 < -24.7. The best-fit parameters are Phi(M\textasteriskcentered1450)
+  = 1.14 \texttimes{} 10-8 Mpc-3 mag-1, break magnitude M\textasteriskcentered1450
+  = -25.13, and bright end slope beta = -2.81. However, the covariance between beta
+  and M\textasteriskcentered1450 prevents strong constraints being placed on either
+  parameter. For a break magnitude in the range -26 < M\textasteriskcentered1450 <
+  -24, we find -3.8 < beta < -2.3 at 95\% confidence. We calculate the z = 6 quasar
+  intergalactic ionizing flux and show it is between 20 and 100 times lower than that
+  necessary for reionization. Finally, we use the luminosity function to predict how
+  many higher redshift quasars may be discovered in future near-IR imaging surveys.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010AJ....139..906W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.0281
+author: Willott, C. J. and Delorme, P. and Reylé, C. and Albert, L. and Bergeron,
+  J. and Crampton, D. and Delfosse, X. and Forveille, T. and Hutchings, J. B. and
+  McLure, R. J. and Omont, A. and Schade, D.
+author_list:
+- family: Willott
+  given: C. J.
+- family: Delorme
+  given: P.
+- family: Reylé
+  given: C.
+- family: Albert
+  given: L.
+- family: Bergeron
+  given: J.
+- family: Crampton
+  given: D.
+- family: Delfosse
+  given: X.
+- family: Forveille
+  given: T.
+- family: Hutchings
+  given: J. B.
+- family: McLure
+  given: R. J.
+- family: Omont
+  given: A.
+- family: Schade
+  given: D.
+date-added: 2017-08-10 20:18:17 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-6256/139/3/906
+eprint: '0912.0281'
+journal: \aj
+keywords: 'cosmology: observations, quasars: emission lines, quasars: general'
+month: March
+pages: 906--918
+papis_id: 1ed54f68833f539ae3dff788bbe56e20
+ref: willott.c.2010
+title: 'The Canada-France High-z Quasar Survey: Nine New Quasars and the Luminosity
+  Function at Redshift 6'
+type: article
+volume: '139'
+year: '2010'

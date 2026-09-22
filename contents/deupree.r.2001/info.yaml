@@ -1,0 +1,37 @@
+abstract: A variety of fully two-dimensional, rotating zero-age main-sequence models
+  are presented. The models include four rotation rates for each of five masses between
+  3 and 20 Msolar. The sequence of models for each mass might be regarded as having
+  one small, one moderate, and two fairly rapid rotations. The convective core rotation
+  law and overshooting are determined by two-dimensional, fully implicit hydrodynamic
+  calculations. All models exhibit convective core overshooting. The slowly rotating
+  models show primarily radial convective motion, while the instantaneous flow patterns
+  of the more rapidly rotating models show that the motion is primarily parallel to
+  the rotation axis. The resulting core rotation rate may be fitted by a power law
+  in the distance from the rotation axis, with a cutoff at small distances from the
+  axis, at least for the moderately and rapidly rotating models. The rotation law
+  in the radiative region external to the convective core was chosen to be uniform
+  for the first models calculated, but some models with negative power laws were constructed.
+  These showed that the power law could not be too steep, or the model developed a
+  density inversion near the rotation axis because the pressure gradient must essentially
+  balance the rotational variation, since the gradient of the gravitational potential
+  is too shallow to aid significantly in the balance.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...552..268D
+author: Deupree, R. G.
+author_list:
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-11 00:16:37 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/320464
+journal: \apj
+keywords: 'Stars: Evolution, Stars: Interiors, Stars: Rotation'
+month: May
+pages: 268--277
+papis_id: 91cc28674cd6e33c27c9f37ae6d26d83
+ref: deupree.r.2001
+title: Stellar Evolution with Arbitrary Rotation Laws. IV. Survey of Zero-Age Main-Sequence
+  Models
+type: article
+volume: '552'
+year: '2001'

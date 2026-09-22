@@ -1,0 +1,33 @@
+abstract: 'An application of Monte Carlo techniques to the problem of neutrino transport
+  in energy space is presented. A Monte Carlo treatment of the neutrino distribution
+  function is outlined, an idealized infinite-medium model is adopted, and the general
+  nature of neutrino-electron scattering is indicated. A simple neutrino-confinement
+  model is introduced, and the sensitivity of the Monte Carlo code to variations in
+  numerical parameters is tested. Results are obtained which suggest that: (1) neutrino-electron
+  scattering may play a negligible role in neutrino equilibration; (2) neutrino-matter
+  equilibration is likely for densities of at least about 1 trillion g/cu cm; and
+  (3) it may not be possible to maintain even a nonequilibrium steady-state neutrino
+  distribution over dynamical time scales for densities less than about 100 billion
+  g/cu cm. Uncertainties and implications of the results which may affect the treatment
+  of neutrino transport in stellar cores are considered.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978ApJS...37..287T
+author: Tubbs, D. L.
+author_list:
+- family: Tubbs
+  given: D. L.
+date-added: 2017-08-11 02:33:03 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/190529
+journal: \apjs
+keywords: Gravitational Collapse, Monte Carlo Method, Neutrinos, Particle Motion,
+  Supernovae, Thermodynamic Equilibrium, Chemical Equilibrium, Electron Capture, Electron
+  Scattering, Energy Transfer, Mathematical Models, Probability Distribution Functions
+month: July
+pages: 287--312
+papis_id: 3d84adfd3b961207ec4bc608cdd29d49
+ref: tubbs.d.1978
+title: Direct-simulation neutrino transport - Aspects of equilibration
+type: article
+volume: '37'
+year: '1978'

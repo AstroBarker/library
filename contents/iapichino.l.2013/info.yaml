@@ -1,0 +1,44 @@
+abstract: The injection of turbulence in the circumgalactic medium at redshift z =
+  2 is investigated using the mesh-based hydrodynamic code ENZO and a sub-grid-scale
+  (SGS) model for unresolved turbulence. Radiative cooling and heating by a uniform
+  Ultraviolet (UV) background are included in our runs and compared with the effect
+  of turbulence modelling. Mechanisms of gas exchange between galaxies and the surrounding
+  medium, as well as metal enrichment, are not taken into account, and turbulence
+  is here driven solely by structure formation (mergers and shocks). We find that
+  turbulence, both at resolved and SGS scales, impacts mostly the warm-hot intergalactic
+  medium (WHIM), with temperature between 105 and 107 K, mainly located around collapsed
+  and shock-heated structures, and in filaments. Typical values of the ratio of turbulent
+  to thermal pressure is 0.1 in the WHIM, corresponding to a volume-weighted average
+  of the SGS turbulent to thermal Doppler broadening bt/btherm = 0.26, on length scales
+  below the grid resolution of 25 kpc h- 1. In the diffuse intergalactic medium, defined
+  in a range of baryon overdensity delta between 1 and 50, the importance of turbulence
+  is smaller, but grows as a function of gas density, and the Doppler broadening ratio
+  is fitted by the function bt/btherm = 0.023 \texttimes{} delta0.58.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.432.2529I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.3465
+author: Iapichino, L. and Viel, M. and Borgani, S.
+author_list:
+- family: Iapichino
+  given: L.
+- family: Viel
+  given: M.
+- family: Borgani
+  given: S.
+date-added: 2017-08-10 15:37:41 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1093/mnras/stt611
+eprint: '1304.3465'
+journal: \mnras
+keywords: 'hydrodynamics, turbulence, methods: numerical, galaxies: formation, inter-galactic
+  medium'
+month: July
+pages: 2529--2540
+papis_id: d7b329080ddaef7492299e013a080c59
+primaryclass: astro-ph.CO
+ref: iapichino.l.2013
+title: Turbulence driven by structure formation in the circumgalactic medium
+type: article
+volume: '432'
+year: '2013'

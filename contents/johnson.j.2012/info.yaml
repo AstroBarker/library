@@ -1,0 +1,47 @@
+abstract: The collapse of baryons into extremely massive stars with masses gsim104
+  M \&sun; in a small fraction of protogalaxies at z >~ 10 is a promising candidate
+  for the origin of supermassive black holes (SMBHs), some of which grow to a billion
+  solar masses by z ~ 7. We determine the maximum masses such stars can attain by
+  accreting primordial gas. We find that at relatively low accretion rates the strong
+  ionizing radiation of these stars limits their masses to M \textasteriskcentered
+  ~ 103 M \&sun; (\dot{M}\_acc/10-3 M \&sun; yr-1)8/7, where \dot{M}\_acc is the rate
+  at which the star gains mass. However, at the higher central infall rates usually
+  found in numerical simulations of protogalactic collapse (gsim0.1 M \&sun; yr-1),
+  the lifetime of the star instead limits its final mass to ~106 M \&sun;. Furthermore,
+  for the spherical accretion rates at which the star can grow, its ionizing radiation
+  is confined deep within the protogalaxy, so the evolution of the star is decoupled
+  from that of its host galaxy. Lyalpha emission from the surrounding H II region
+  is trapped in these heavy accretion flows and likely reprocessed into strong Balmer
+  series emission, which may be observable by the James Webb Space Telescope. This,
+  strong He II lambda1640, and continuum emission are likely to be the key observational
+  signatures of the progenitors of SMBHs at high redshift.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...750...66J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.2726
+author: Johnson, J. L. and Whalen, D. J. and Fryer, C. L. and Li, H.
+author_list:
+- family: Johnson
+  given: J. L.
+- family: Whalen
+  given: D. J.
+- family: Fryer
+  given: C. L.
+- family: Li
+  given: H.
+date-added: 2017-08-10 21:44:40 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/750/1/66
+eid: '66'
+eprint: '1112.2726'
+journal: \apj
+keywords: 'accretion, accretion disks, cosmology: theory, early universe, galaxies:
+  formation, H II regions, stars: formation'
+month: May
+pages: '66'
+papis_id: 4c8a613e8fa08cd7016d42c06203dd5e
+ref: johnson.j.2012
+title: The Growth of the Stellar Seeds of Supermassive Black Holes
+type: article
+volume: '750'
+year: '2012'

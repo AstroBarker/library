@@ -1,0 +1,43 @@
+abstract: 'Results of numerical calculations of Type II supernova light curves are
+  presented. The model progenitor stars have 6 Msolar cores and various envelopes,
+  originating from a numerically evolved 20 Msolar star. Five parameters that affect
+  the light curves are examined: the ejected mass, the progenitor radius, the explosion
+  energy, the 56Ni mass, and the extent of 56Ni mixing. The following effects have
+  been found: (1) the larger the progenitor radius, the brighter the early-time light
+  curve, with little effect on the late-time light curve; (2) the larger the envelope
+  mass, the fainter the early light curve and the flatter the slope of the late light
+  curve; (3) the larger the explosion energy, the brighter the early light curve and
+  the steeper the slope of the late light curve; (4) the larger the 56Ni mass, the
+  brighter the overall light curve after 20-50 days, with no effect on the early light
+  curve; and (5) the more extensive the 56Ni mixing, the brighter the early light
+  curve and the steeper the late light curve. The primary parameters affecting the
+  light-curve shape are the progenitor radius and the ejected mass. The secondary
+  parameters are the explosion energy, 56Ni mass, and 56Ni mixing. I find that while
+  in principle the general shape and absolute magnitude of a light curve indicate
+  a unique set of parameters, in practice it is difficult to avoid some ambiguity
+  in the parameters. I find that the nickel-powered diffusion wave and the recombination
+  of helium produce a prominent secondary peak in all our calculations. The feature
+  is less prominent when compositional mixing, both 56Ni mixing and mixing between
+  the hydrogen and helium layers, occurs. The model photospheric temperatures and
+  velocities are presented, for comparison to observation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...617.1233Y
+arxivurl: http://arxiv.org/abs/astro-ph/0409284
+author: Young, T. R.
+author_list:
+- family: Young
+  given: T. R.
+date-added: 2017-08-11 08:17:31 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/425675
+eprint: astro-ph/0409284
+journal: \apj
+keywords: 'Hydrodynamics, Radiative Transfer, Stars: Supernovae: General'
+month: December
+pages: 1233--1250
+papis_id: 24f26938412afaf809e9747479daed58
+ref: young.t.2004
+title: A Parameter Study of Type II Supernova Light Curves Using 6 M$_solar$ He Cores
+type: article
+volume: '617'
+year: '2004'

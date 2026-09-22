@@ -1,0 +1,46 @@
+abstract: Black holes of a billion solar masses are observed in the infant Universe
+  a few hundred million years after the big bang. The direct collapse of protogalactic
+  gas clouds in primordial haloes with Tvir >= 104 K provides the most promising way
+  to assemble massive black holes. In this study, we aim to determine the characteristic
+  mass scale of seed black holes and the time evolution of the accretion rates resulting
+  from the direct collapse model. We explore the formation of supermassive black holes
+  via cosmological large eddy simulations (LES) by employing sink particles and following
+  their evolution for 20 000 yr after the formation of the first sink. As the resulting
+  protostars were shown to have cool atmospheres in the presence of strong accretion,
+  we assume here that UV feedback is negligible during this calculation. We confirm
+  this result in a comparison run without sinks. Our findings show that black hole
+  seeds with characteristic mass of 105 M\&sun; are formed in the presence of strong
+  Lyman-Werner flux which leads to an isothermal collapse. The characteristic mass
+  is about two times higher in LES compared to the implicit large eddy simulations.
+  The accretion rates increase with time and reach a maximum value of 10 M\&sun; yr-1
+  after 104 yr. Our results show that the direct collapse model is clearly feasible
+  as it provides the expected mass of the seed black holes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.436.2989L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.1097
+author: Latif, M. A. and Schleicher, D. R. G. and Schmidt, W. and Niemeyer, J. C.
+author_list:
+- family: Latif
+  given: M. A.
+- family: Schleicher
+  given: D. R. G.
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+date-added: 2017-08-10 15:37:11 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1093/mnras/stt1786
+eprint: '1309.1097'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: formation, cosmology: theory, early Universe'
+month: December
+pages: 2989--2996
+papis_id: a9c9cb7741178614a7220f4d36c385b9
+ref: latif.m.2013b
+title: The characteristic black hole mass resulting from direct collapse in the early
+  Universe
+type: article
+volume: '436'
+year: '2013'

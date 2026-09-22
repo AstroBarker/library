@@ -1,0 +1,51 @@
+abstract: The accurate description of neutrino opacities is central to both the core-collapse
+  supernova (CCSN) phenomenon and the validity of the explosion mechanism itself.
+  In this work, we study in a systematic fashion the role of a variety of well-selected
+  neutrino opacities in CCSN simulations where the multi-energy, three-flavor neutrino
+  transport is solved using the isotropic diffusion source approximation (IDSA) scheme.
+  To verify our code, we first present results from one-dimensional (1D) simulations
+  following the core collapse, bounce, and \texttildelow{}250 ms postbounce of a 15
+  {M}\&sun;  star using a standard set of neutrino opacities by Bruenn. A detailed
+  comparison with published results supports the reliability of our three-flavor IDSA
+  scheme using the standard opacity set. We then investigate in 1D simulations how
+  individual opacity updates lead to differences with the baseline run with the standard
+  opacity set. Through detailed comparisons with previous work, we check the validity
+  of our implementation of each update in a step-by-step manner. Individual neutrino
+  opacities with the largest impact on the overall evolution in 1D simulations are
+  selected for systematic comparisons in our two-dimensional (2D) simulations. Special
+  attention is given to the criterion of explodability in the 2D models. We discuss
+  the implications of these results as well as its limitations and the requirements
+  for future, more elaborate CCSN modeling.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...853..170K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1801.02703
+author: Kotake, K. and Takiwaki, T. and Fischer, T. and Nakamura, K. and Martínez-Pinedo,
+  G.
+author_list:
+- family: Kotake
+  given: K.
+- family: Takiwaki
+  given: T.
+- family: Fischer
+  given: T.
+- family: Nakamura
+  given: K.
+- family: Martínez-Pinedo
+  given: G.
+date-added: 2018-08-26 21:28:27 -0400
+date-modified: 2018-08-26 21:28:29 -0400
+doi: 10.3847/1538-4357/aaa716
+eid: '170'
+eprint: '1801.02703'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: February
+pages: '170'
+papis_id: 7c1b875c416c2f0beda06697c7cbf4dd
+primaryclass: astro-ph.HE
+ref: kotake.k.2018
+title: Impact of Neutrino Opacities on Core-collapse Supernova Simulations
+type: article
+volume: '853'
+year: '2018'

@@ -1,0 +1,48 @@
+abstract: We present the detailed isotopic composition for 13, 15, 20, and 25 Msun
+  stars, based on induced super- nova calculations, which lead to explosive Si, 0,
+  Ne, and C burning during the supernova outburst. The calculations made use of inferred
+  mass cuts between the central neutron star and the ejected envelope by requiring
+  ejected 56Ni masses in agreement with supernova light curve observations. Specific
+  emphasis is put on the treatment of the innermost layers, which experience complete
+  Si burning with an alpha-rich freezeout and are the source of 56Ni, the Fe group
+  composition in general, and some intermediate-mass alpha elements like Ti. However,
+  the uncertainty of the mass cut and the delay time between core collapse and the
+  explosion via neutrino heating put limits on the possible accuracy. The predictions
+  are compared with abundances from specific supernova observations (e.g., SN 1987A,
+  1993J) or supernova remnants (e.g., G292.O +1.8, N132D). The amount of detected
+  16O and 12C or products from carbon and explosive oxygen burning can constrain our
+  knowledge of the effective 12C(alpha, gamma)16O rate in He burning. The 57Ni/56Ni
+  ratio (observed via y-rays from 56,57Co decay or spectral features changing during
+  the decay) can give constraints on Ye in the innermost ejected zones. This helps
+  to locate the position of the mass cut and to estimate the necessary delay time
+  between collapse and explosion, in order to permit the required mass accretion DeltaMacc.  Provided
+  that the stellar precollapse models are reliable, this allows additional insight
+  into the exact working of the supernova explosion mechanism. While this has been
+  only possible for one supernova until present (SN 1987A, a 20 Msun star), we can
+  also compare the ejected composition from other progenitor masses to abundances
+  in low-metallicity stars, which reflect the average Type II supernova composition,
+  integrated over an initial mass function of progenitor stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...460..408T
+author: Thielemann, F.-K. and Nomoto, K. and Hashimoto, M.-A.
+author_list:
+- family: Thielemann
+  given: F.-K.
+- family: Nomoto
+  given: K.
+- family: Hashimoto
+  given: M.-A.
+date-added: 2017-08-10 15:00:52 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176980
+journal: \apj
+keywords: 'NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: INTERIORS, STARS:
+  NEUTRON, STARS: SUPERNOVAE: GENERAL'
+month: March
+pages: '408'
+papis_id: 8bc6b66b1c1c52401f1abbc764d4bf43
+ref: thielemann.f_k.1996
+title: Core-Collapse Supernovae and Their Ejecta
+type: article
+volume: '460'
+year: '1996'

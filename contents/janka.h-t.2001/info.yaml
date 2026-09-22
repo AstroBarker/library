@@ -1,0 +1,63 @@
+abstract: Energy deposition by neutrinos can rejuvenate the stalled bounce shock and
+  can provide the energy for the supernova explosion of a massive star. This neutrino-heating
+  mechanism, though investigated by numerical simulations and analytic studies, is
+  not finally accepted or proven as the trigger of the explosion. Part of the problem
+  is that different groups have obtained seemingly discrepant results, and the complexity
+  of the hydrodynamic models often hampers a clear and simple interpretation of the
+  results. This demands a deeper theoretical understanding of the requirements of
+  a successful shock revival. A toy model is developed here for discussing the neutrino
+  heating phase analytically. The neutron star atmosphere between the neutrinosphere
+  and the supernova shock can well be considered to be in hydrostatic equilibrium,
+  with a layer of net neutrino cooling below the gain radius and a layer of net neutrino
+  heating above. Since the mass infall rate to the shock is in general different from
+  the rate at which gas is advected into the neutron star, the mass in the gain layer
+  varies with time. Moreover, the gain layer receives additional energy input by neutrinos
+  emitted from the neutrinosphere and the cooling layer. Therefore the determination
+  of the shock evolution requires a time-dependent treatment. To this end the hydrodynamical
+  equations of continuity and energy are integrated over the volume of the gain layer
+  to obtain conservation laws for the total mass and energy in this layer. The radius
+  and velocity of the supernova shock can then be calculated from global properties
+  of the gain layer as solutions of an initial value problem, which expresses the
+  fact that the behavior of the shock is controlled by the cumulative effects of neutrino
+  heating and mass accumulation in the gain layer. The described toy model produces
+  steady-state accretion and mass outflow from the nascent neutron star as special
+  cases. The approach is useful to illuminate the conditions that can lead to delayed
+  explosions and in this sense supplements detailed numerical simulations. On grounds
+  of the model developed here, a criterion is derived for the requirements of shock
+  revival. It confirms the existence of a minimum neutrino luminosity that is needed
+  for shock expansion, but also demonstrates the importance of a sufficiently large
+  mass infall rate to the shock. If the neutrinospheric luminosity or accretion rate
+  by the shock are too low, the shock is weakened because the gain layer loses more
+  mass than is resupplied by inflow. On the other hand, very high infall rates damp
+  the shock expansion and above some threshold, the development of positive total
+  energy in the neutrino-heating layer is prevented. Time-dependent solutions for
+  the evolution of the gain layer show that the total specific energy transferred
+  to nucleons by neutrinos is limited by about 1052 erg Msun-1 ( ~ 5 MeV per nucleon).
+  This excludes the possibility of very energetic explosions by the neutrino-heating
+  mechanism, because the typical mass in the gain layer is about 0.1 Msun and does
+  not exceed a few tenths of a solar mass. The toy model also allows for a crude discussion
+  of the global effects of convective energy transport in the neutrino-heating layer.
+  Transfer of energy from the region of maximum heating to radii closer behind the
+  shock mainly reduces the loss of energy by the inward flow of neutrino-heated matter
+  through the gain radius.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...368..527J
+arxivurl: http://arxiv.org/abs/astro-ph/0008432
+author: Janka, H.-T.
+author_list:
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 16:17:03 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1051/0004-6361:20010012
+eprint: astro-ph/0008432
+journal: \aap
+keywords: 'SUPERNOVAE: GENERAL, ELEMENTARY PARTICLES: NEUTRINOS, HYDRODYNAMICS, ACCRETION'
+month: March
+pages: 527--560
+papis_id: f422403e6a682a3b7f944edba385dbe8
+ref: janka.h_t.2001
+title: Conditions for shock revival by neutrino heating in core-collapse supernovae
+type: article
+volume: '368'
+year: '2001'

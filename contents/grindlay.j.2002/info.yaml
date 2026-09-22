@@ -1,0 +1,61 @@
+abstract: 'We report Chandra observations of the complete sample of millisecond pulsars
+  (MSPs) with precise radio positions in the globular clusters 47 Tuc (NGC 104) and
+  NGC 6397. The X-ray luminosities and colors are derived or constrained and compared
+  to X-ray MSPs previously detected in the field as well as one previously detected
+  in a globular cluster (M28). The 47 Tuc MSPs are predominantly soft sources suggestive
+  of thermal emission from small (rX<0.6 km) polar caps on the neutron star rather
+  than magnetospheric emission and are a relatively homogeneous sample, with most
+  X-ray luminosities in a surprisingly narrow range [LX~(1-4)\texttimes{}1030 ergs
+  s-1]. We use previously derived intrinsic P values and find a new relation between
+  LX and spin-down luminosity, E:LX~Ebeta, with beta~0.5+/-0.2 versus ~1.0 for both
+  pulsars and MSPs in the field. Adding the single MSP in NGC 6397 constrains betato0.5+/-0.15.
+  This LX-E relation and also the LX/E versus spin-down age are each similar to that
+  found by Harding \& Muslimov for thermal emission from polar cap heating. However,
+  the cluster MSPs are relatively longer lived (in thermal X-rays) than either the
+  models or field MSPs, which may have additional magnetospheric (nonthermal) components.
+  We suggest that the cluster MSPs may have altered surface magnetic field topology
+  (e.g., multipole), or their neutron stars are more massive from repeated accretion
+  episodes due to encounters and repeated exchange interactions. MSP binary companions
+  on or just off the main sequence (e.g., NGC 6397) are likely to have been reexchanged
+  and might show anomalous P and E values due to relaxation of misaligned core-crust
+  spins. The radial distribution of ~40 soft Chandra sources in 47 Tuc is consistent
+  with a ~1.4Msolar component in a multimass King model and with the identified MSP
+  sample. The implied total MSP population in 47 Tuc with LX>~1030 ergs s-1 is ~35-90
+  and can constrain the relative beaming in radio versus soft X-rays. NGC 6397 is
+  relatively deficient in MSPs: its single detected example may have been reexchanged
+  out of the cluster core.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...581..470G
+arxivurl: http://arxiv.org/abs/astro-ph/0208280
+author: Grindlay, J. E. and Camilo, F. and Heinke, C. O. and Edmonds, P. D. and Cohn,
+  H. and Lugger, P.
+author_list:
+- family: Grindlay
+  given: J. E.
+- family: Camilo
+  given: F.
+- family: Heinke
+  given: C. O.
+- family: Edmonds
+  given: P. D.
+- family: Cohn
+  given: H.
+- family: Lugger
+  given: P.
+date-added: 2017-08-11 05:06:53 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344150
+eprint: astro-ph/0208280
+journal: \apj
+keywords: 'Stars: Binaries: General, Galaxy: Globular Clusters: General, Galaxy: Globular
+  Clusters: Individual: Name: 47 Tucanae, Stars: Pulsars: General, Stars: Neutron,
+  X-Rays: Stars'
+month: December
+pages: 470--484
+papis_id: 96acd0242cc1c24ce849242444ba4ead
+ref: grindlay.j.2002
+title: Chandra Study of a Complete Sample of Millisecond Pulsars in 47 Tucanae and
+  NGC 6397
+type: article
+volume: '581'
+year: '2002'

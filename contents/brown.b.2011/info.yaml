@@ -1,0 +1,61 @@
+abstract: Young solar-type stars rotate rapidly and many are magnetically active.
+  Some appear to undergo magnetic cycles similar to the 22 yr solar activity cycle.
+  We conduct simulations of dynamo action in rapidly rotating suns with the three-dimensional
+  magnetohydrodynamic anelastic spherical harmonic (ASH) code to explore dynamo action
+  achieved in the convective envelope of a solar-type star rotating at five times
+  the current solar rotation rate. We find that dynamo action builds substantial organized
+  global-scale magnetic fields in the midst of the convection zone. Striking magnetic
+  wreaths span the convection zone and coexist with the turbulent convection. A surprising
+  feature of this wreath-building dynamo is its rich time dependence. The dynamo exhibits
+  cyclic activity and undergoes quasi-periodic polarity reversals where both the global-scale
+  poloidal and toroidal fields change in sense on a roughly 1500 day timescale. These
+  magnetic activity patterns emerge spontaneously from the turbulent flow and are
+  more organized temporally and spatially than those realized in our previous simulations
+  of the solar dynamo. We assess in detail the competing processes of magnetic field
+  creation and destruction within our simulations that contribute to the global-scale
+  reversals. We find that the mean toroidal fields are built primarily through an
+  Omega-effect, while the mean poloidal fields are built by turbulent correlations
+  which are not well represented by a simple alpha-effect. During a reversal the magnetic
+  wreaths propagate toward the polar regions, and this appears to arise from a poleward
+  propagating dynamo wave. As the magnetic fields wax and wane in strength and flip
+  in polarity, the primary response in the convective flows involves the axisymmetric
+  differential rotation which varies on similar timescales. Bands of relatively fast
+  and slow fluid propagate toward the poles on timescales of roughly 500 days and
+  are associated with the magnetic structures that propagate in the same fashion.
+  In the Sun, similar patterns are observed in the poleward branch of the torsional
+  oscillations, and these may represent poleward propagating magnetic fields deep
+  below the solar surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...731...69B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.1993
+author: Brown, B. P. and Miesch, M. S. and Browning, M. K. and Brun, A. S. and Toomre,
+  J.
+author_list:
+- family: Brown
+  given: B. P.
+- family: Miesch
+  given: M. S.
+- family: Browning
+  given: M. K.
+- family: Brun
+  given: A. S.
+- family: Toomre
+  given: J.
+date-added: 2017-08-10 17:58:00 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/731/1/69
+eid: '69'
+eprint: '1102.1993'
+journal: \apj
+keywords: 'convection, magnetohydrodynamics: MHD, stars: interiors, stars: magnetic
+  field, stars: rotation, Sun: interior'
+month: April
+pages: '69'
+papis_id: acfad4b9be54d5c40769d5f66c859e4b
+primaryclass: astro-ph.SR
+ref: brown.b.2011
+title: Magnetic Cycles in a Convective Dynamo Simulation of a Young Solar-type Star
+type: article
+volume: '731'
+year: '2011'

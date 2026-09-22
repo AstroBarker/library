@@ -1,0 +1,45 @@
+abstract: A new code and methodology are introduced for solving the general relativistic
+  magnetohydrodynamic (GRMHD) equations in fixed background spacetimes using time-explicit,
+  finite-volume discretization. The code has options for solving the GRMHD equations
+  using traditional artificial viscosity (AV) or nonoscillatory central difference
+  (NOCD) methods, or a new extended AV (eAV) scheme using artificial viscosity together
+  with a dual energy/flux-conserving formulation. The dual-energy approach allows
+  for accurate modeling of highly relativistic flows at boost factors well beyond
+  what has been achieved to date by standard artificial viscosity methods. It provides
+  the benefit of Godunov methods in capturing high Lorentz boosted flows, but without
+  complicated Riemann solvers, and the advantages of traditional artificial viscosity
+  methods in their speed and flexibility. In addition, the GRMHD equations are solved
+  on an unstructured grid that supports local adaptive mesh refinement using a fully
+  threaded oct-tree (in three dimensions) network to traverse the grid hierarchy across
+  levels and immediate neighbors. A number of tests are presented to demonstrate robustness
+  of the numerical algorithms and adaptive mesh framework over a wide spectrum of
+  problems, boosts, and astrophysical applications, including relativistic shock tubes,
+  shock collisions, magnetosonic shocks, Alfv{\'e}n wave propagation, blast waves,
+  magnetized Bondi flow, and the magnetorotational instability in Kerr black hole
+  spacetimes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...635..723A
+arxivurl: http://arxiv.org/abs/astro-ph/0509254
+author: Anninos, P. and Fragile, P. C. and Salmonson, J. D.
+author_list:
+- family: Anninos
+  given: P.
+- family: Fragile
+  given: P. C.
+- family: Salmonson
+  given: J. D.
+date-added: 2017-08-11 02:10:31 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/497294
+eprint: astro-ph/0509254
+journal: \apj
+keywords: 'Hydrodynamics, Methods: Numerical, Magnetohydrodynamics: MHD, Relativity'
+month: December
+pages: 723--740
+papis_id: 0c938e262245f85d7780dcbe98a3a688
+ref: anninos.p.2005
+title: 'Cosmos++: Relativistic Magnetohydrodynamics on Unstructured Grids with Local
+  Adaptive Refinement'
+type: article
+volume: '635'
+year: '2005'

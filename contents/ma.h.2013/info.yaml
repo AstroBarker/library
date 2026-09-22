@@ -1,0 +1,51 @@
+abstract: A leading model for Type Ia supernovae (SNe Ia) begins with a white dwarf
+  near the Chandrasekhar mass that ignites a degenerate thermonuclear runaway close
+  to its center and explodes. In a series of papers, we shall explore the consequences
+  of ignition at several locations within such dwarfs. Here we assume central ignition,
+  which has been explored before, but is worth revisiting, if only to validate those
+  previous studies and to further elucidate the relevant physics for future work.
+  A perturbed sphere of hot iron ash with a radius of ~100 km is initialized at the
+  middle of the star. The subsequent explosion is followed in several simulations
+  using a thickened flame model in which the flame speed is either fixed---within
+  the range expected from turbulent combustion---or based on the local turbulent intensity.
+  Global results, including the explosion energy and bulk nucleosynthesis (e.g., 56Ni
+  of 0.48-0.56 M \&sun;) turn out to be insensitive to this speed. In all completed
+  runs, the energy released by the nuclear burning is adequate to unbind the star,
+  but not enough to give the energy and brightness of typical SNe Ia. As found previously,
+  the chemical stratification observed in typical events is not reproduced. These
+  models produce a large amount of unburned carbon and oxygen in central low velocity
+  regions, which is inconsistent with spectroscopic observations, and the intermediate
+  mass elements and iron group elements are strongly mixed during the explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...771...58M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.2433
+author: Ma, H. and Woosley, S. E. and Malone, C. M. and Almgren, A. and Bell, J.
+author_list:
+- family: Ma
+  given: H.
+- family: Woosley
+  given: S. E.
+- family: Malone
+  given: C. M.
+- family: Almgren
+  given: A.
+- family: Bell
+  given: J.
+date-added: 2017-08-10 15:35:16 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/771/1/58
+eid: '58'
+eprint: '1305.2433'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, nuclear reactions, nucleosynthesis, abundances,
+  supernovae: general, turbulence, white dwarfs'
+month: July
+pages: '58'
+papis_id: 948df3a41bf37d0dbb53fe1d467a0174
+primaryclass: astro-ph.HE
+ref: ma.h.2013
+title: Carbon Deflagration in Type Ia Supernova. I. Centrally Ignited Models
+type: article
+volume: '771'
+year: '2013'

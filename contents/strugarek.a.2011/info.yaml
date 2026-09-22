@@ -1,0 +1,45 @@
+abstract: 'Context. The reason for the observed thinness of the solar tachocline is
+  still not well understood. One of the explanations that have been proposed is that
+  a primordial magnetic field renders the rotation uniform in the radiation zone.  Aims:
+  We test here the validity of this magnetic scenario through 3D numerical MHD simulations
+  that encompass both the radiation zone and the convection zone.  Methods: The numerical
+  simulations are performed with the anelastic spherical harmonics (ASH) code. The
+  computational domain extends from 0.07R\&sun; to 0.97R\&sun;.  Results: In the parameter
+  regime we explored, a dipolar fossil field aligned with the rotation axis cannot
+  remain confined in the radiation zone. When the field lines are allowed to interact
+  with turbulent unstationary convective motions at the base of the convection zone,
+  3D effects prevent the field confinement.  Conclusions: In agreement with previous
+  work, we find that a dipolar fossil field, even when it is initially buried deep
+  inside the radiation zone, will spread into the convective zone. According to Ferraro''s
+  law of iso-rotation, it then imprints on the radiation zone the latitudinal differential
+  rotation of the convection zone, which is not observed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...532A..34S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.3665
+author: Strugarek, A. and Brun, A. S. and Zahn, J.-P.
+author_list:
+- family: Strugarek
+  given: A.
+- family: Brun
+  given: A. S.
+- family: Zahn
+  given: J.-P.
+date-added: 2017-08-10 17:09:36 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201116518
+eid: A34
+eprint: '1107.3665'
+journal: \aap
+keywords: 'Sun: interior, Sun: rotation, magnetohydrodynamics (MHD), convection, magnetic
+  fields'
+month: August
+pages: A34
+papis_id: 7bf76f392da512df7a6f07996164a983
+primaryclass: astro-ph.SR
+ref: strugarek.a.2011
+title: 'Magnetic confinement of the solar tachocline: II. Coupling to a convection
+  zone'
+type: article
+volume: '532'
+year: '2011'

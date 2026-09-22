@@ -1,0 +1,53 @@
+abstract: The evolution of rotating stars with zero-age main-sequence (ZAMS) masses
+  in the range 8-25 Msolar is followed through all stages of stable evolution. The
+  initial angular momentum is chosen such that the star's equatorial rotational velocity
+  on the ZAMS ranges from zero to ~70\% of breakup. The stars rotate rigidly on the
+  ZAMS as a consequence of angular momentum redistribution during the pre-main-sequence
+  evolution. Redistribution of angular momentum and chemical species are then followed
+  as a consequence of Eddington-Sweet circulation, Solberg-H{\o}iland instability,
+  the Goldreich-Schubert-Fricke instability, and secular and dynamic shear instability.
+  The effects of the centrifugal force on the stellar structure are included. Convectively
+  unstable zones are assumed to tend toward rigid rotation, and uncertain mixing efficiencies
+  are gauged by observations. We find, as noted in previous work, that rotation increases
+  the helium core masses and enriches the stellar envelopes with products of hydrogen
+  burning. We determine, for the first time, the angular momentum distribution in
+  typical presupernova stars along with their detailed chemical structure. Angular
+  momentum loss due to (nonmagnetic) stellar winds and the redistribution of angular
+  momentum during core hydrogen burning are of crucial importance for the specific
+  angular momentum of the core. Neglecting magnetic fields, we find angular momentum
+  transport from the core to the envelope to be unimportant after core helium burning.
+  We obtain specific angular momenta for the iron core and overlying material of 1016-1017
+  cm2 s-1. These values are insensitive to the initial angular momentum and to uncertainties
+  in the efficiencies of rotational mixing. They are small enough to avoid triaxial
+  deformations of the iron core before it collapses, but could lead to neutron stars
+  which rotate close to breakup. They are also in the range required for the collapsar
+  model of gamma-ray bursts. The apparent discrepancy with the measured rotation rates
+  of young pulsars is discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...528..368H
+arxivurl: http://arxiv.org/abs/astro-ph/9904132
+author: Heger, A. and Langer, N. and Woosley, S. E.
+author_list:
+- family: Heger
+  given: A.
+- family: Langer
+  given: N.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:02:07 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308158
+eprint: astro-ph/9904132
+journal: \apj
+keywords: 'HYDRODYNAMICS, METHODS: NUMERICAL, STARS EARLY-TYPE, STARS: EVOLUTION,
+  STARS: INTERIORS, STARS ROTATION, Hydrodynamics, Methods: Numerical, stars early-type,
+  Stars: Evolution, Stars: Interiors, stars rotation'
+month: January
+pages: 368--396
+papis_id: a646047b11eacb97c5280ba4da65cdc3
+ref: heger.a.2000
+title: Presupernova Evolution of Rotating Massive Stars. I. Numerical Method and Evolution
+  of the Internal Stellar Structure
+type: article
+volume: '528'
+year: '2000'

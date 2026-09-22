@@ -1,0 +1,36 @@
+abstract: I use cosmological simulations that incorporate a physically motivated approximation
+  to three-dimensional radiative transfer that recovers correct asymptotic ionization
+  front propagation speeds for some cosmologically relevant density distributions
+  to investigate the process of the reionization of the universe by ionizing radiation
+  from protogalaxies. Reionization proceeds in three stages and occupies a large redshift
+  range from z~15 until z~5. During the first, ``preoverlap'' stage, H II regions
+  gradually expand into the low-density intergalactic medium, leaving behind neutral
+  high-density protrusions. During the second, ``overlap'' stage, that occurs in about
+  10\% of the Hubble time, H II regions merge and the ionizing background rises by
+  a large factor. During the third, ``postoverlap'' stage, remaining high-density
+  regions are being gradually ionized as the required ionizing photons are being produced.
+  Residual fluctuations in the ionizing background reach significant (more than 10\%)
+  levels for the Lyalpha forest absorption systems with column densities above 1014-1015
+  cm-2 at z=3-4.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...535..530G
+arxivurl: http://arxiv.org/abs/astro-ph/9909383
+author: Gnedin, N. Y.
+author_list:
+- family: Gnedin
+  given: N. Y.
+date-added: 2017-08-10 20:22:23 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308876
+eprint: astro-ph/9909383
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Galaxies: Intergalactic Medium,
+  Cosmology: Large-Scale Structure of Universe'
+month: June
+pages: 530--554
+papis_id: 0d42572918641f73b326481f4bfdb767
+ref: gnedin.n.2000
+title: Cosmological Reionization by Stellar Sources
+type: article
+volume: '535'
+year: '2000'

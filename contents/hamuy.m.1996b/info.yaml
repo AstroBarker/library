@@ -1,0 +1,49 @@
+abstract: We present a family of six BVI template light curves for SNe Ia for days
+  -5 and +80, based on high-quality data gathered at CTIO. These templates display
+  a wide range of light-curve morphologies, with initial decline rates of their B
+  light curves between {DELTA}m\_15\_(B) = 0.87^m^ and 1.93^m^. We use these templates
+  to study the general morphology of SNe Ia light curves. We find that several of
+  the main features of the BVI templates correlate tightly with {DELTA}m\_15\_(B).
+  In particular, the V light curves, which are probably a reasonably good approximation
+  of the bolometric light curves, display an orderly progression in shapes between
+  the most-luminous, slowest-declining events and the least-luminous, fastest-declining
+  SNe. This supports the idea that the observed spectroscopic and photometric sequences
+  of SNe Ia are due primarily to one parameter. Nevertheless, SNe with very similar
+  initial decline rates do show significant differences in their light curve properties
+  when examined in detail, suggesting the influence of one or more secondary parameters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996AJ....112.2438H
+arxivurl: http://arxiv.org/abs/astro-ph/9609063
+author: Hamuy, M. and Phillips, M. M. and Suntzeff, N. B. and Schommer, R. A. and
+  Maza, J. and Smith, R. C. and Lira, P. and Aviles, R.
+author_list:
+- family: Hamuy
+  given: M.
+- family: Phillips
+  given: M. M.
+- family: Suntzeff
+  given: N. B.
+- family: Schommer
+  given: R. A.
+- family: Maza
+  given: J.
+- family: Smith
+  given: R. C.
+- family: Lira
+  given: P.
+- family: Aviles
+  given: R.
+date-added: 2017-08-10 18:22:28 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/118193
+eprint: astro-ph/9609063
+journal: \aj
+keywords: 'STARS: FUNDAMENTAL PARAMETERS, SUPERNOVAE: GENERAL'
+month: December
+pages: '2438'
+papis_id: c0afda9f6ce170cf2661fdd5371066db
+ref: hamuy.m.1996b
+title: The Morphology of Type IA Supernovae Light Curves
+type: article
+volume: '112'
+year: '1996'

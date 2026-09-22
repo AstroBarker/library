@@ -1,0 +1,42 @@
+abstract: We propose a new model for progenitor systems of Type Ia supernovae. The
+  model consists of an accreting white dwarf and a lobe-filling, low-mass red giant.
+  When the mass accretion rate exceeds a certain critical rate, there is no static
+  envelope solution on the white dwarf. For this case, we find a new strong wind solution,
+  which replaces the static envelope solution. Even if the mass-losing star has a
+  deep convective envelope, the strong wind stabilizes the mass transfer until the
+  mass ratio, q, between the mass-losing star and the mass-accreting white dwarf reaches
+  1.15, i.e., q < 1.15. A part of the transferred matter can be accumulated on the
+  white dwarf at a rate that is limited to M dot cr = 9.0 x 10-7 (MWD/Msolar - 0.50)
+  Msolar yr-1, and the rest is blown off in the wind. The photospheric temperature
+  is kept around T ~ 1 x 105--2 x 105 K during the wind phase. After the wind stops,
+  the temperature quickly increases up to ~1 x 106 K. The white dwarf steadily burns
+  hydrogen and accretes helium, thereby being able to increase its mass up to 1.38
+  Msolar and explode as a Type Ia supernova. The expected birth rate of this type
+  of supernovae is consistent with the observed rate of Type Ia supernovae. The hot
+  white dwarf may not be observed during the strong wind phase due to self-absorption
+  by the wind itself. The Strong wind stops when the mass transfer rate decreases
+  below M dot cr. Then it can be observed as a supersoft X-ray source.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...470L..97H
+author: Hachisu, I. and Kato, M. and Nomoto, K.
+author_list:
+- family: Hachisu
+  given: I.
+- family: Kato
+  given: M.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 19:43:48 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/310303
+journal: \apjl
+keywords: 'STARS: BINARIES: CLOSE, STARS: BINARIES: SYMBIOTIC, STARS: MASS LOSS, STARS:
+  NOVAE, CATACLYSMIC VARIABLES, STARS: SUPERNOVAE: GENERAL, X-RAYS: STARS'
+month: October
+pages: L97
+papis_id: 03069dbd0dc8bb269344896f5cf3fc66
+ref: hachisu.i.1996
+title: A New Model for Progenitor Systems of Type IA Supernovae
+type: article
+volume: '470'
+year: '1996'

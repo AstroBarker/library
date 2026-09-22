@@ -1,0 +1,43 @@
+abstract: We investigate the formation of hot coronae and vertical outflows in accretion
+  disks by magnetorotational turbulence. We perform local three-dimensional magnetohydrodynamical
+  (MHD) simulations with the vertical stratification by explicitly solving an energy
+  equation with various effective ratios of specific heats, gamma. Initially imposed
+  weak vertical magnetic fields are effectively amplified by magnetorotational instability
+  and winding caused by the differential rotation. In the isothermal case (gamma =
+  1), the disk winds are driven mainly by the Poynting flux associated with the MHD
+  turbulence and show quasi-periodic intermittency. In contrast, in the non-isothermal
+  cases with gamma >= 1.1, the regions above 1-2 scale heights from the midplane are
+  effectively heated to form coronae with temperature ~50 times the initial value,
+  which are connected to the cooler midplane region through the pressure-balanced
+  transition regions. As a result, the disk winds are driven mainly by the gas pressure,
+  exhibiting more time-steady nature, although the nondimensional time-averaged mass
+  loss rates are similar to that of the isothermal case. Sound-like waves are confined
+  in the cool midplane region in these cases, and the amplitude of the density fluctuations
+  is larger than that of the isothermal case.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...780...46I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.6427
+author: Io, Y. and Suzuki, T. K.
+author_list:
+- family: Io
+  given: Y.
+- family: Suzuki
+  given: T. K.
+date-added: 2017-08-10 14:53:44 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/780/1/46
+eid: '46'
+eprint: '1308.6427'
+journal: \apj
+keywords: 'accretion, accretion disks, magnetohydrodynamics: MHD, planetary systems,
+  protoplanetary disks, stars: coronae, stars: winds, outflows, turbulence'
+month: January
+pages: '46'
+papis_id: 754c3877b5ee98e7d9fac3fa1b38ca34
+primaryclass: astro-ph.SR
+ref: io.y.2014
+title: Driving Disk Winds and Heating Hot Coronae by MRI Turbulence
+type: article
+volume: '780'
+year: '2014'

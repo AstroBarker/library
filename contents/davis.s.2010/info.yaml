@@ -1,0 +1,45 @@
+abstract: We examine the effects of density stratification on magnetohydrodynamic
+  turbulence driven by the magnetorotational instability in local simulations that
+  adopt the shearing box approximation. Our primary result is that, even in the absence
+  of explicit dissipation, the addition of vertical gravity leads to convergence in
+  the turbulent energy densities and stresses as the resolution increases, contrary
+  to results for zero net flux, unstratified boxes. The ratio of total stress to midplane
+  pressure has a mean of ~0.01, although there can be significant fluctuations on
+  long (gsim50 orbits) timescales. We find that the time-averaged stresses are largely
+  insensitive to both the radial and the vertical aspect ratios of our simulation
+  domain. For simulations with explicit dissipation, we find that stratification extends
+  the range of Reynolds and magnetic Prandtl numbers for which turbulence is sustained,
+  but the behavior of such simulations on long timescales is highly variable. Confirming
+  the results of previous studies, we find oscillations in the large-scale toroidal
+  field with periods of ~10 orbits and describe the dynamo process that underlies
+  these cycles. We discuss possible origins for the different convergence properties
+  of the stratified and unstratified domains and identify open questions that remain
+  to be answered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713...52D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.1570
+author: Davis, S. W. and Stone, J. M. and Pessah, M. E.
+author_list:
+- family: Davis
+  given: S. W.
+- family: Stone
+  given: J. M.
+- family: Pessah
+  given: M. E.
+date-added: 2017-08-10 14:58:00 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/1/52
+eprint: '0909.1570'
+journal: \apj
+keywords: 'accretion, accretion disks, hydrodynamics, methods: numerical'
+month: April
+pages: 52--65
+papis_id: 843ef61a7eac49397f27deb0ca9e1870
+primaryclass: astro-ph.HE
+ref: davis.s.2010
+title: Sustained Magnetorotational Turbulence in Local Simulations of Stratified Disks
+  with Zero Net Magnetic Flux
+type: article
+volume: '713'
+year: '2010'

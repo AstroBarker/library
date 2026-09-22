@@ -1,0 +1,38 @@
+abstract: Astrophysical electron and positron emission, continuum electron and positron
+  capture rates, and associated neutrino energy loss rates are calculated for free
+  nucleons and 226 nuclei with masses between A = 21 and 60. Where available, measured
+  nuclear level information and matrix elements are used. Simple shell model arguments
+  are used in estimating Gamow-Teller sum rules and collective state resonance excitation
+  energies. The discrete state contribution to the rates, dominated by experimental
+  information and the Fermi transitions, determines the nuclear rates in the regime
+  of temperatures and densities that is characteristic of the hydrostatic phases of
+  presupernova stellar evolution. At the higher temperatures and densities characteristic
+  of the supernova collapse phase, the nuclear rates are dominated by the Gamow-Teller
+  and Fermi collective resonance contributions. Also included is the effect of neutron
+  shell closure blocking of electron capture on neutron-rich nuclei.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982ApJ...252..715F
+author: Fuller, G. M. and Fowler, W. A. and Newman, M. J.
+author_list:
+- family: Fuller
+  given: G. M.
+- family: Fowler
+  given: W. A.
+- family: Newman
+  given: M. J.
+date-added: 2017-08-11 04:11:16 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/159597
+journal: \apj
+keywords: Neutrinos, Nuclear Reactions, Particle Emission, Stellar Evolution, Supernovae,
+  Weak Energy Interactions, Electron Emission, Energy Dissipation, Equations Of State,
+  Gravitational Collapse, Stellar Models, Stellar Structure
+month: January
+pages: 715--740
+papis_id: 06a8c850614ca90524fa6588705a3cab
+ref: fuller.g.1982b
+title: Stellar weak interaction rates for intermediate-mass nuclei. II - A = 21 to
+  A = 60
+type: article
+volume: '252'
+year: '1982'

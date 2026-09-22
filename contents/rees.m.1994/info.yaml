@@ -1,0 +1,37 @@
+abstract: The 'event' that triggers a gamma-ray burst cannot last for more than a
+  few seconds. This is, however, long compared with the dynamical timescale of a compact
+  stellar-mass object (approximately 10 (exp-3) s). Energy is assumed to be released
+  as an outflow with high mean Lorentz factor Gamma. But a compact stellar-mass collapse
+  or merger is, realistically, likely to generate a mass (or energy) flux that is
+  unsteady on some timescales in the range 10-3 - 10 s. If Gamma fluctuates by a factor
+  of approximately 2 around its mean value, relative motions within the outflowing
+  material will themselves (in the comoving frame) be relativistic, and can give rise
+  to internal shocks. For Gamma approximately 102, the resultant dissipation occurs
+  outside the 'photosphere' and can convert a substantial fraction of the overall
+  outflow energy into nonthermal radiation. This suggests a mechanism for cosmological
+  bursts that demands less extreme assumptions (in respect of Gamma-values, freedom
+  from baryonic contamination, etc.) than earlier proposals.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...430L..93R
+arxivurl: http://arxiv.org/abs/astro-ph/9404038
+author: Rees, M. J. and Meszaros, P.
+author_list:
+- family: Rees
+  given: M. J.
+- family: Meszaros
+  given: P.
+date-added: 2017-08-11 02:02:40 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/187446
+eprint: astro-ph/9404038
+journal: \apjl
+keywords: Compacting, Gamma Ray Bursts, Mathematical Models, Stellar Mass, Baryons,
+  Collapse, Lorentz Contraction, Relativistic Velocity, Shock Waves
+month: August
+pages: L93-L96
+papis_id: 260308ef04d42eb905224b624ca3d955
+ref: rees.m.1994
+title: Unsteady outflow models for cosmological gamma-ray bursts
+type: article
+volume: '430'
+year: '1994'

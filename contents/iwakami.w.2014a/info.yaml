@@ -1,0 +1,49 @@
+abstract: In this study, we conduct three-dimensional hydrodynamic simulations systematically
+  to investigate the flow patterns behind the accretion shock waves that are commonly
+  formed in the post-bounce phase of core-collapse supernovae. Adding small perturbations
+  to spherically symmetric, steady, shocked accretion flows, we compute the subsequent
+  evolutions to find what flow pattern emerges as a consequence of hydrodynamical
+  instabilities such as convection and standing accretion shock instability for different
+  neutrino luminosities and mass accretion rates. Depending on these two controlling
+  parameters, various flow patterns are indeed realized. We classify them into three
+  basic patterns and two intermediate ones; the former includes sloshing motion (SL),
+  spiral motion (SP), and multiple buoyant bubble formation (BB); the latter consists
+  of spiral motion with buoyant-bubble formation (SPB) and spiral motion with pulsationally
+  changing rotational velocities (SPP). Although the post-shock flow is highly chaotic,
+  there is a clear trend in the pattern realization. The sloshing and spiral motions
+  tend to be dominant for high accretion rates and low neutrino luminosities, and
+  multiple buoyant bubbles prevail for low accretion rates and high neutrino luminosities.
+  It is interesting that the dominant pattern is not always identical between the
+  semi-nonlinear and nonlinear phases near the critical luminosity; the intermediate
+  cases are realized in the latter case. Running several simulations with different
+  random perturbations, we confirm that the realization of flow pattern is robust
+  in most cases.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...786..118I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.0829
+author: Iwakami, W. and Nagakura, H. and Yamada, S.
+author_list:
+- family: Iwakami
+  given: W.
+- family: Nagakura
+  given: H.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 18:13:17 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/786/2/118
+eid: '118'
+eprint: '1308.0829'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, supernovae: general'
+month: May
+pages: '118'
+papis_id: 8dad876dc5d457b40f7504f8ca1d35f2
+primaryclass: astro-ph.HE
+ref: iwakami.w.2014a
+title: Parametric Study of Flow Patterns behind the Standing Accretion Shock Wave
+  for Core-Collapse Supernovae
+type: article
+volume: '786'
+year: '2014'

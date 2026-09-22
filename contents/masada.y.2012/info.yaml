@@ -1,0 +1,51 @@
+abstract: Bearing in mind the application of core-collapse supernovae, we study the
+  nonlinear properties of the magnetorotational instability (MRI) by means of three-dimensional
+  simulations in the framework of a local shearing box approximation. By systematically
+  changing the shear rates that symbolize the degree of differential rotation in nascent
+  proto-neutron stars (PNSs), we derive a scaling relation between the turbulent stress
+  sustained by the MRI and the shear-vorticity ratio. Our parametric survey shows
+  a power-law scaling between the turbulent stress (langlangw totrangrang) and the
+  shear-vorticity ratio (gq ) as langlangw totrangrangvpropg delta  q  with an index
+  of delta ~ 0.5. The MRI-amplified magnetic energy has a similar scaling relative
+  to the turbulent stress, while the Maxwell stress has a slightly smaller power-law
+  index (~0.36). By modeling the effect of viscous heating rates from MRI turbulence,
+  we show that the stronger magnetic fields, or the larger shear rates initially imposed,
+  lead to higher dissipation rates. For a rapidly rotating PNS with a spin period
+  in milliseconds and with strong magnetic fields of 1015 G, the energy dissipation
+  rate is estimated to exceed 1051 erg s-1. Our results suggest that the conventional
+  magnetohydrodynamic (MHD) mechanism of core-collapse supernovae is likely to be
+  affected by MRI-driven turbulence, which we speculate, on the one hand, could harm
+  the MHD-driven explosions due to the dissipation of the shear rotational energy
+  at the PNS surface; or, on the other hand, its energy deposition might be potentially
+  favorable for the working of the neutrino-heating mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759..110M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2360
+author: Masada, Y. and Takiwaki, T. and Kotake, K. and Sano, T.
+author_list:
+- family: Masada
+  given: Y.
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+- family: Sano
+  given: T.
+date-added: 2017-08-10 16:20:10 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/2/110
+eid: '110'
+eprint: '1209.2360'
+journal: \apj
+keywords: 'instabilities, magnetic fields, magnetohydrodynamics: MHD, supernovae:
+  general, turbulence'
+month: November
+pages: '110'
+papis_id: bd0f323418c810a39aa7d137987f596b
+primaryclass: astro-ph.SR
+ref: masada.y.2012
+title: Local Simulations of the Magnetorotational Instability in Core-collapse Supernovae
+type: article
+volume: '759'
+year: '2012'

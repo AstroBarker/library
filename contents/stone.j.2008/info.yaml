@@ -1,0 +1,48 @@
+abstract: A new code for astrophysical magnetohydrodynamics (MHD) is described. The
+  code has been designed to be easily extensible for use with static and adaptive
+  mesh refinement. It combines higher order Godunov methods with the constrained transport
+  (CT) technique to enforce the divergence-free constraint on the magnetic field.
+  Discretization is based on cell-centered volume averages for mass, momentum, and
+  energy, and face-centered area averages for the magnetic field. Novel features of
+  the algorithm include (1) a consistent framework for computing the time- and edge-averaged
+  electric fields used by CT to evolve the magnetic field from the time- and area-averaged
+  Godunov fluxes, (2) the extension to MHD of spatial reconstruction schemes that
+  involve a dimensionally split time advance, and (3) the extension to MHD of two
+  different dimensionally unsplit integration methods. Implementation of the algorithm
+  in both C and FORTRAN95 is detailed, including strategies for parallelization using
+  domain decomposition. Results from a test suite which includes problems in one-,
+  two-, and three-dimensions for both hydrodynamics and MHD are given, not only to
+  demonstrate the fidelity of the algorithms, but also to enable comparisons to other
+  methods. The source code is freely available for download on the web.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..178..137S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.0402
+author: Stone, J. M. and Gardiner, T. A. and Teuben, P. and Hawley, J. F. and Simon,
+  J. B.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Gardiner
+  given: T. A.
+- family: Teuben
+  given: P.
+- family: Hawley
+  given: J. F.
+- family: Simon
+  given: J. B.
+date-added: 2017-08-10 20:05:02 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/588755
+eid: 137-177
+eprint: '0804.0402'
+journal: \apjs
+keywords: 'hydrodynamics, MHD, methods: numerical'
+month: September
+pages: 137--177
+papis_id: e057e347ae2cce804d4833eae8c0b7c0
+ref: stone.j.2008
+title: 'Athena: A New Code for Astrophysical MHD'
+type: article
+volume: '178'
+year: '2008'

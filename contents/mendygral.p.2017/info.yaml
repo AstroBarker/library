@@ -1,0 +1,52 @@
+abstract: We present a new code for astrophysical magnetohydrodynamics specifically
+  designed and optimized for high performance and scaling on modern and future supercomputers.
+  We describe a novel hybrid OpenMP/MPI programming model that emerged from a collaboration
+  between Cray, Inc. and the University of Minnesota. This design utilizes MPI-RMA
+  optimized for thread scaling, which allows the code to run extremely efficiently
+  at very high thread counts ideal for the latest generation of multi-core and many-core
+  architectures. Such performance characteristics are needed in the era of ``exascale''
+  computing. We describe and demonstrate our high-performance design in detail with
+  the intent that it may be used as a model for other, future astrophysical codes
+  intended for applications demanding exceptional performance.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJS..228...23M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1701.07452
+author: Mendygral, P. J. and Radcliffe, N. and Kandalla, K. and Porter, D. and O'Neill,
+  B. J. and Nolting, C. and Edmon, P. and Donnert, J. M. F. and Jones, T. W.
+author_list:
+- family: Mendygral
+  given: P. J.
+- family: Radcliffe
+  given: N.
+- family: Kandalla
+  given: K.
+- family: Porter
+  given: D.
+- family: O'Neill
+  given: B. J.
+- family: Nolting
+  given: C.
+- family: Edmon
+  given: P.
+- family: Donnert
+  given: J. M. F.
+- family: Jones
+  given: T. W.
+date-added: 2017-08-10 13:56:29 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/1538-4365/aa5b9c
+eid: '23'
+eprint: '1701.07452'
+journal: \apjs
+keywords: 'magnetohydrodynamics: MHD, methods: numerical'
+month: February
+pages: '23'
+papis_id: 7772dc25b7a8173facd717548378bc1a
+primaryclass: astro-ph.IM
+ref: mendygral.p.2017
+title: 'WOMBAT: A Scalable and High-performance Astrophysical Magnetohydrodynamics
+  Code'
+type: article
+volume: '228'
+year: '2017'

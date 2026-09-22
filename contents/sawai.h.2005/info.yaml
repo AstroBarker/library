@@ -1,0 +1,48 @@
+abstract: We perform two-dimensional numerical simulations on the core collapse of
+  a massive star with strong magnetic fields and differential rotations using the
+  numerical code ZEUS-2D. Changing field configurations and laws of differential rotation
+  parametrically, we compute 14 models and investigate the effects of these parameters
+  on the dynamics. In our models we do not solve the neutrino transport but instead
+  employ a phenomenological parametric EOS that takes into account the neutrino emissions.
+  As a result of the calculations, we find that the field configuration plays a significant
+  role in the dynamics of the core if the initial magnetic field is large enough.
+  Models with initially concentrated fields produce more energetic explosions and
+  more prolate shock waves than the uniform field. Quadrupole-like fields produce
+  a remarkably collimated and fast jet, which might be important for gamma-ray bursts
+  (GRBs). The Lorentz forces exerted in the region where the plasma beta is less than
+  unity are responsible for these dynamics. The pure toroidal field, on the other
+  hand, does not lead to any explosion or matter ejection. This suggests that the
+  presupernova models, in which toroidal fields are predominant are disadvantageous
+  for the magnetorotation-induced supernova considered here. Models with initially
+  weak magnetic fields do not lead to explosion or matter ejection, either. In these
+  models magnetic fields play no role, as they do not grow on the timescale considered
+  in this paper and the magnetic pressure could be comparable to the matter pressure.
+  This is because the exponential field growth as expected in MRI is not seen in our
+  models. The magnetic field is amplified mainly by field compression and field wrapping
+  in our simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...631..446S
+arxivurl: http://arxiv.org/abs/astro-ph/0505611
+author: Sawai, H. and Kotake, K. and Yamada, S.
+author_list:
+- family: Sawai
+  given: H.
+- family: Kotake
+  given: K.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 18:49:46 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/432529
+eprint: astro-ph/0505611
+journal: \apj
+keywords: 'Methods: Numerical, Magnetohydrodynamics: MHD, Stars: Pulsars: General,
+  Stars: Magnetic Fields, Stars: Supernovae: General'
+month: September
+pages: 446--455
+papis_id: 9c0d537492969f48828a6703892e6a32
+ref: sawai.h.2005
+title: Core-Collapse Supernovae with Nonuniform Magnetic Fields
+type: article
+volume: '631'
+year: '2005'

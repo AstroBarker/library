@@ -1,0 +1,50 @@
+abstract: Cold accretion disks with temperatures below ~3000 K are likely to be composed
+  of highly neutral gas. The magnetorotational instability may cease to operate in
+  such disks, so it is of interest to consider purely hydrodynamic mechanisms of generating
+  turbulence and angular momentum transport. With this motivation, we investigate
+  the growth of hydrodynamic perturbations in a linear shear flow sandwiched between
+  two parallel walls. The unperturbed flow is similar to plane Couette flow, but with
+  a Coriolis force included. Although there are no exponentially growing eigenmodes
+  in this system, nevertheless, because of the nonnormal nature of the eigenmodes,
+  it is possible to have a large transient growth in the energy of perturbations.
+  For a constant angular momentum disk, we find that the perturbation with maximum
+  growth is axisymmetric with vertical structure. The energy grows by more than a
+  factor of 100 for a Reynolds number R=300 and more than a factor of 1000 for R=1000.
+  Turbulence can be easily excited in such a disk, as found in previous numerical
+  simulations. For a Keplerian disk, on the other hand, similar perturbations with
+  vertical structure grow by no more than a factor of 4, explaining why the same simulations
+  did not find turbulence in this system. However, certain other two-dimensional perturbations
+  with no vertical structure do exhibit modest growth. For the optimum two-dimensional
+  perturbation, the energy grows by a factor of ~100 for R~104.5 and by a factor of
+  1000 for R~106. Such large Reynolds numbers are hard to achieve in numerical simulations,
+  and so the nonlinear development of these kinds of perturbations is only beginning
+  to be investigated. It is conceivable that these nearly two-dimensional disturbances
+  might lead to self-sustained three-dimensional turbulence, although this remains
+  to be demonstrated. The Reynolds numbers of cold astrophysical disks are much larger
+  even than 106; therefore, hydrodynamic turbulence may be possible in disks through
+  transient growth.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629..383M
+arxivurl: http://arxiv.org/abs/astro-ph/0412193
+author: Mukhopadhyay, B. and Afshordi, N. and Narayan, R.
+author_list:
+- family: Mukhopadhyay
+  given: B.
+- family: Afshordi
+  given: N.
+- family: Narayan
+  given: R.
+date-added: 2017-08-11 04:19:44 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431419
+eprint: astro-ph/0412193
+journal: \apj
+keywords: Accretion, Accretion Disks, Hydrodynamics, Instabilities, Turbulence
+month: August
+pages: 383--396
+papis_id: a2368aca6be1f7e0964cbf73da92551e
+ref: mukhopadhyay.b.2005
+title: 'Bypass to Turbulence in Hydrodynamic Accretion Disks: An Eigenvalue Approach'
+type: article
+volume: '629'
+year: '2005'

@@ -1,0 +1,68 @@
+abstract: We present improved black hole masses for 35 active galactic nuclei (AGNs)
+  based on a complete and consistent reanalysis of broad emission-line reverberation-mapping
+  data. From objects with multiple line measurements, we find that the highest precision
+  measure of the virial product ctauDeltaV2/G, where tau is the emission-line lag
+  relative to continuum variations and DeltaV is the emission-line width, is obtained
+  by using the cross-correlation function centroid (as opposed to the cross-correlation
+  function peak) for the time delay and the line dispersion (as opposed to FWHM) for
+  the line width and by measuring the line width in the variable part of the spectrum.
+  Accurate line-width measurement depends critically on avoiding contaminating features,
+  in particular the narrow components of the emission lines. We find that the precision
+  (or random component of the error) of reverberation-based black hole mass measurements
+  is typically around 30\%, comparable to the precision attained in measurement of
+  black hole masses in quiescent galaxies by gas or stellar dynamical methods. Based
+  on results presented in a companion paper by Onken et al., we provide a zero-point
+  calibration for the reverberation-based black hole mass scale by using the relationship
+  between black hole mass and host-galaxy bulge velocity dispersion. The scatter around
+  this relationship implies that the typical systematic uncertainties in reverberation-based
+  black hole masses are smaller than a factor of 3. We present a preliminary version
+  of a mass-luminosity relationship that is much better defined than any previous
+  attempt. Scatter about the mass-luminosity relationship for these AGNs appears to
+  be real and could be correlated with either Eddington ratio or object inclination.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...613..682P
+arxivurl: http://arxiv.org/abs/astro-ph/0407299
+author: Peterson, B. M. and Ferrarese, L. and Gilbert, K. M. and Kaspi, S. and Malkan,
+  M. A. and Maoz, D. and Merritt, D. and Netzer, H. and Onken, C. A. and Pogge, R.
+  W. and Vestergaard, M. and Wandel, A.
+author_list:
+- family: Peterson
+  given: B. M.
+- family: Ferrarese
+  given: L.
+- family: Gilbert
+  given: K. M.
+- family: Kaspi
+  given: S.
+- family: Malkan
+  given: M. A.
+- family: Maoz
+  given: D.
+- family: Merritt
+  given: D.
+- family: Netzer
+  given: H.
+- family: Onken
+  given: C. A.
+- family: Pogge
+  given: R. W.
+- family: Vestergaard
+  given: M.
+- family: Wandel
+  given: A.
+date-added: 2017-08-11 06:23:57 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/423269
+eprint: astro-ph/0407299
+journal: \apj
+keywords: 'Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, Galaxies: Quasars:
+  Emission Lines'
+month: October
+pages: 682--699
+papis_id: b3f93b73cc236f01b5086591effb63b6
+ref: peterson.b.2004
+title: Central Masses and Broad-Line Region Sizes of Active Galactic Nuclei. II. A
+  Homogeneous Analysis of a Large Reverberation-Mapping Database
+type: article
+volume: '613'
+year: '2004'

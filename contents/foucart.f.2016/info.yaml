@@ -1,0 +1,57 @@
+abstract: Binary neutron star mergers are promising sources of gravitational waves
+  for ground-based detectors such as Advanced LIGO. Neutron-rich material ejected
+  by these mergers may also be the main source of r-process elements in the Universe,
+  while radioactive decays in the ejecta can power bright electromagnetic postmerger
+  signals. Neutrino-matter interactions play a critical role in the evolution of the
+  composition of the ejected material, which significantly impacts the outcome of
+  nucleosynthesis and the properties of the associated electromagnetic signal. In
+  this work, we present a simulation of a binary neutron star merger using an improved
+  method for estimating the average neutrino energies in our energy-integrated neutrino
+  transport scheme. These energy estimates are obtained by evolving the neutrino number
+  density in addition to the neutrino energy and flux densities. We show that significant
+  changes are observed in the composition of the polar ejecta when comparing our new
+  results with earlier simulations in which the neutrino spectrum was assumed to be
+  the same everywhere in optically thin regions. In particular, we find that material
+  ejected in the polar regions is less neutron rich than previously estimated. Our
+  new estimates of the composition of the polar ejecta make it more likely that the
+  color and time scale of the electromagnetic signal depend on the orientation of
+  the binary with respect to an observer's line of sight. These results also indicate
+  that important observable properties of neutron star mergers are sensitive to the
+  neutrino energy spectrum, and may need to be studied through simulations including
+  a more accurate, energy-dependent neutrino transport scheme.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016PhRvD..94l3016F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1607.07450
+author: Foucart, F. and O'Connor, E. and Roberts, L. and Kidder, L. E. and Pfeiffer,
+  H. P. and Scheel, M. A.
+author_list:
+- family: Foucart
+  given: F.
+- family: O'Connor
+  given: E.
+- family: Roberts
+  given: L.
+- family: Kidder
+  given: L. E.
+- family: Pfeiffer
+  given: H. P.
+- family: Scheel
+  given: M. A.
+date-added: 2018-03-04 21:54:55 +0000
+date-modified: 2018-03-04 21:54:56 +0000
+doi: 10.1103/PhysRevD.94.123016
+eid: '123016'
+eprint: '1607.07450'
+journal: \prd
+month: December
+number: '12'
+pages: '123016'
+papis_id: 5d00e99d881fe62bf8d7161c15900343
+primaryclass: astro-ph.HE
+ref: foucart.f.2016
+title: Impact of an improved neutrino energy estimate on outflows in neutron star
+  merger simulations
+type: article
+volume: '94'
+year: '2016'

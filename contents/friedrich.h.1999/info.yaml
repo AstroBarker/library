@@ -1,0 +1,30 @@
+abstract: We study the initial boundary value problem for Einstein's vacuum field
+  equation. We prescribe initial data on an orientable, compact, 3-dimensional manifold
+  S with boundary Sigma!=? and boundary conditions on the manifold T= Re+0\texttimes{}Sigma.
+  We assume the boundaries Sigma and { 0 }\texttimes{}, Sigma of S and T to be identified
+  in the natural way. Furthermore, we prescribe certain gauge source functions which
+  determine the evolution of the fields. Provided that all data are smooth and certain
+  consistency conditions are met on Sigma, we show that there exists a smooth solution
+  to Einstein's equation Ric[g] = 0 on a manifold which has (after an identification)
+  a neighbourhood of S in T\cup{}S as a boundary. The solution is such that S is space-like,
+  the initial data are induced by the solution on S, and, in the region of T where
+  the solution is defined, T is time-like and the boundary conditions are satisfied.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999CMaPh.201..619F
+author: Friedrich, H. and Nagy, G.
+author_list:
+- family: Friedrich
+  given: H.
+- family: Nagy
+  given: G.
+date-added: 2017-08-11 06:16:30 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1007/s002200050571
+journal: Communications in Mathematical Physics
+pages: 619--655
+papis_id: c56001cc8502ec62ce084a4f20e0f542
+ref: friedrich.h.1999
+title: The Initial Boundary Value Problem for Einstein's Vacuum Field Equation
+type: article
+volume: '201'
+year: '1999'

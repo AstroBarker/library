@@ -1,0 +1,56 @@
+abstract: 'We infer the velocity distribution of radio pulsars based on large-scale
+  0.4 GHz pulsar surveys. We do so by modeling the evolution of the locations, velocities,
+  spins, and radio luminosities of pulsars, calculating pulsed flux according to a
+  beaming model and random orientation angles of spin and beam, applying selection
+  effects of pulsar surveys, and comparing model distributions of measurable pulsar
+  properties with survey data using a likelihood function. The surveys analyzed have
+  well-defined characteristics and cover ~95\% of the sky. We maximize the likelihood
+  in a six-dimensional space of observables P, P, DM, \vert{}b\vert{}, mu, and F (period,
+  period derivative, dispersion measure, Galactic latitude, proper motion, and flux
+  density, respectively). The models we test are described by 12 parameters that characterize
+  a population''s birth rate, luminosity, shutoff of radio emission, birth locations,
+  and birth velocities. We infer that the radio beam luminosity (1) is comparable
+  to the energy flux of relativistic particles in models for spin-driven magnetospheres,
+  signifying that radio emission losses reach nearly 100\% for the oldest pulsars,
+  and (2) scales approximately as E1/2, which in magnetosphere models is proportional
+  to the voltage drop available for acceleration of particles. We find that a two-component
+  velocity distribution with characteristic velocities of 90 and 500 km s-1 is greatly
+  preferred to any one-component distribution; this preference is largely immune to
+  variations in other population parameters, such as the luminosity or distance scale
+  or the assumed spin-down law. We explore some consequences of the preferred birth
+  velocity distribution: (1) roughly 50\% of pulsars in the solar neighborhood will
+  escape the Galaxy, while ~15\% have velocities greater than 1000 km s-1 (2) observational
+  bias against high-velocity pulsars is relatively unimportant for surveys that reach
+  high Galactic \vert{}z\vert{} distances but is severe for spatially bounded surveys;
+  (3) an important low-velocity population exists that increases the fraction of neutron
+  stars retained by globular clusters and is consistent with the number of old objects
+  that accrete from the interstellar medium; (4) under standard assumptions for supernova
+  remnant expansion and pulsar spin-down, ~10\% of pulsars younger than 20 kyr will
+  appear to lie outside of their host remnants. Finally, we comment on the ramifications
+  of our birth velocity distribution for binary survival and the population of inspiraling
+  binary neutron stars relevant to some GRB models and potential sources for LIGO.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...568..289A
+arxivurl: http://arxiv.org/abs/astro-ph/0106159
+author: Arzoumanian, Z. and Chernoff, D. F. and Cordes, J. M.
+author_list:
+- family: Arzoumanian
+  given: Z.
+- family: Chernoff
+  given: D. F.
+- family: Cordes
+  given: J. M.
+date-added: 2017-08-11 01:05:58 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338805
+eprint: astro-ph/0106159
+journal: \apj
+keywords: 'Methods: Statistical, Stars: Pulsars: General, Stars: Neutron'
+month: March
+pages: 289--301
+papis_id: 21888a07487e4eda9742d99a8e7334bd
+ref: arzoumanian.z.2002
+title: The Velocity Distribution of Isolated Radio Pulsars
+type: article
+volume: '568'
+year: '2002'

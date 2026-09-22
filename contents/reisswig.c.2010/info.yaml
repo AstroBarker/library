@@ -1,0 +1,47 @@
+abstract: The accurate modeling of gravitational radiation is a key issue for gravitational
+  wave astronomy. As simulation codes reach higher accuracy, systematic errors inherent
+  in current numerical relativity wave extraction methods become evident, and may
+  lead to a wrong astrophysical interpretation of the data. In this paper, we give
+  a detailed description of the Cauchy-characteristic extraction technique applied
+  to binary black hole inspiral and merger evolutions to obtain gravitational waveforms
+  that are defined unambiguously, that is, at future null infinity. By this method,
+  we remove finite-radius approximations and the need to extrapolate data from the
+  near zone. Further, we demonstrate that the method is free of gauge effects and
+  thus is affected only by numerical error. Various consistency checks reveal that
+  energy and angular momentum are conserved to high precision and agree very well
+  with extrapolated data. In addition, we revisit the computation of the gravitational
+  recoil and find that finite-radius extrapolation very well approximates the result
+  at {\cal J}^+ . However, the (non-convergent) systematic differences in the extrapolated
+  data are of the same order of magnitude as the (convergent) discretization error
+  of the Cauchy evolution, thus highlighting the need for correct wave extraction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27g5014R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.1285
+author: Reisswig, C. and Bishop, N. T. and Pollney, D. and Szilágyi, B.
+author_list:
+- family: Reisswig
+  given: C.
+- family: Bishop
+  given: N. T.
+- family: Pollney
+  given: D.
+- family: Szilágyi
+  given: B.
+date-added: 2017-08-10 20:29:46 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0264-9381/27/7/075014
+eid: '075014'
+eprint: '0912.1285'
+journal: Classical and Quantum Gravity
+month: April
+number: '7'
+pages: '075014'
+papis_id: 176e6e94a0d87d5354c21c69d640fe64
+primaryclass: gr-qc
+ref: reisswig.c.2010
+title: 'Characteristic extraction in numerical relativity: binary black hole merger
+  waveforms at null infinity'
+type: article
+volume: '27'
+year: '2010'

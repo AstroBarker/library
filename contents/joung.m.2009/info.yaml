@@ -1,0 +1,49 @@
+abstract: Feedback from massive stars is one of the least understood aspects of galaxy
+  formation. We perform a suite of vertically stratified local interstellar medium
+  (ISM) models in which supernova (SN) rates and vertical gas column densities are
+  systematically varied based on the Schmidt-Kennicutt law. Our simulations have a
+  sufficiently high spatial resolution (1.95 pc) to follow the hydrodynamic interactions
+  among multiple SNe that structure the interstellar medium. At a given SN rate, we
+  find that the mean mass-weighted sound speed and velocity dispersion decrease as
+  the inverse square root of gas density. The sum of thermal and turbulent pressures
+  is nearly constant in the midplane, so the effective equation of state is isobaric.
+  In contrast, across our four models having SN rates that range from 1 to 512 times
+  the Galactic SN rate, the mass-weighted velocity dispersion remains in the range
+  4-6 km s-1. Hence, gas averaged over ~100 pc regions follows P vprop rhoalpha with
+  alpha \approx{} 1, indicating that the effective equation of state on this scale
+  is close to isothermal. Simulated H I emission lines have widths of 10-18 km s-1,
+  comparable to observed values. In our highest SN rate model, superbubble blow-outs
+  occur, and the turbulent pressure on large scales is gsim4 times higher than the
+  thermal pressure. We find a tight correlation between the thermal and turbulent
+  pressures averaged over ~100 pc regions in the midplane of each model, as well as
+  across the four ISM models. We construct a subgrid model for turbulent pressure
+  based on analytic arguments and explicitly calibrate it against our stratified ISM
+  simulations. The subgrid model provides a simple yet physically motivated way to
+  include SN feedback in cosmological simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..137J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3747
+author: Joung, M. R. and Mac Low, M.-M. and Bryan, G. L.
+author_list:
+- family: Joung
+  given: M. R.
+- family: Mac Low
+  given: M.-M.
+- family: Bryan
+  given: G. L.
+date-added: 2017-08-10 15:34:49 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/1/137
+eprint: '0811.3747'
+journal: \apj
+keywords: 'galaxies: formation, ISM: kinematics and dynamics, ISM: structure, methods:
+  numerical, turbulence'
+month: October
+pages: 137--149
+papis_id: 346e36319cd73c64fa2b6b5bd0a3751d
+ref: joung.m.2009
+title: Dependence of Interstellar Turbulent Pressure on Supernova Rate
+type: article
+volume: '704'
+year: '2009'

@@ -1,0 +1,105 @@
+abstract: 'Context. A new class of super-luminous transients has recently been identified.
+  These objects reach absolute luminosities of Mu < -21, lack hydrogen in their spectra,
+  and are exclusively discovered by non-targeted surveys because they are associated
+  with very faint galaxies.  Aims: We aim to contribute to a better understanding
+  of these objects by studying SN 2006oz, a newly-recognized member of this class.  Methods:
+  We present multi-color light curves of SN 2006oz from the SDSS-II SN Survey that
+  cover its rise time, as well as an optical spectrum that shows that the explosion
+  occurred at z ~ 0.376. We fitted black-body functions to estimate the temperature
+  and radius evolution of the photosphere and used the parametrized code SYNOW to
+  model the spectrum. We constructed a bolometric light curve and compared it with
+  explosion models. In addition, we conducted a deep search for the host galaxy with
+  the 10 m GTC telescope.  Results: The very early light curves show a dip in the
+  g- and r-bands and a possible initial cooling phase in the u-band before rising
+  to maximum light. The bolometric light curve shows a precursor plateau with a duration
+  of 6-10 days in the rest-frame. A lower limit of Mu < - 21.5 can be placed on the
+  absolute peak luminosity of the SN, while the rise time is constrained to be at
+  least 29 days. During our observations, the emitting sphere doubled its radius to
+  ~2 \texttimes{} 1015 cm, while the temperature remained hot at ~15 000 K. As for
+  other similar SNe, the spectrum is best modeled with elements including O ii and
+  Mg ii, while we tentatively suggest that Fe iii might be present. The host galaxy
+  is detected in gri with 25.74 $\pm$ 0.19, 24.43 \$\pm\$ 0.06, and 24.14 \$\pm\$
+  0.12, respectively. It is a faint dwarf galaxy with Mg = -16.9.  Conclusions: We
+  suggest that the precursor plateau might be related to a recombination wave in a
+  circumstellar medium (CSM) and discuss whether this is a common property of all
+  similar explosions. The subsequent rise can be equally well described by input from
+  a magnetar or by ejecta-CSM interaction, but the models are not well constrained
+  owing to the lack of post-maximum observations, and CSM interaction has difficulties
+  accounting for the precursor plateau self-consistently. Radioactive decay is less
+  likely to be the mechanism that powers the luminosity. The host is a moderately
+  young and star-forming, but not a starburst, galaxy.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...541A.129L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.5393
+author: Leloudas, G. and Chatzopoulos, E. and Dilday, B. and Gorosabel, J. and Vinko,
+  J. and Gallazzi, A. and Wheeler, J. C. and Bassett, B. and Fischer, J. A. and Frieman,
+  J. A. and Fynbo, J. P. U. and Goobar, A. and Jelínek, M. and Malesani, D. and Nichol,
+  R. C. and Nordin, J. and Östman, L. and Sako, M. and Schneider, D. P. and Smith,
+  M. and Sollerman, J. and Stritzinger, M. D. and Thöne, C. C. and de Ugarte Postigo,
+  A.
+author_list:
+- family: Leloudas
+  given: G.
+- family: Chatzopoulos
+  given: E.
+- family: Dilday
+  given: B.
+- family: Gorosabel
+  given: J.
+- family: Vinko
+  given: J.
+- family: Gallazzi
+  given: A.
+- family: Wheeler
+  given: J. C.
+- family: Bassett
+  given: B.
+- family: Fischer
+  given: J. A.
+- family: Frieman
+  given: J. A.
+- family: Fynbo
+  given: J. P. U.
+- family: Goobar
+  given: A.
+- family: Jelínek
+  given: M.
+- family: Malesani
+  given: D.
+- family: Nichol
+  given: R. C.
+- family: Nordin
+  given: J.
+- family: Östman
+  given: L.
+- family: Sako
+  given: M.
+- family: Schneider
+  given: D. P.
+- family: Smith
+  given: M.
+- family: Sollerman
+  given: J.
+- family: Stritzinger
+  given: M. D.
+- family: Thöne
+  given: C. C.
+- family: de Ugarte Postigo
+  given: A.
+date-added: 2017-08-10 17:18:23 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1051/0004-6361/201118498
+eid: A129
+eprint: '1201.5393'
+journal: \aap
+keywords: 'supernovae: general, supernovae: individual: SN 2006oz, stars: massive'
+month: May
+pages: A129
+papis_id: ae241a8337032bcc7b027b1d68d51fe7
+primaryclass: astro-ph.SR
+ref: leloudas.g.2012
+title: 'SN 2006oz: rise of a super-luminous supernova observed by the SDSS-II SN Survey'
+type: article
+volume: '541'
+year: '2012'

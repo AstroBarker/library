@@ -1,0 +1,48 @@
+abstract: We have developed an implicit, multigroup, time-dependent, spherical neutrino
+  transport code based on the Feautrier variables, the tangent-ray method, and accelerated
+  Lambda iteration. The code achieves high angular resolution, is good to O(v/c),
+  is equivalent to a Boltzmann solver (without gravitational redshifts), and solves
+  the transport equation at all optical depths with precision. In this paper, we present
+  our formulation of the relevant numerics and microphysics and explore protoneutron
+  star atmospheres for snapshot postbounce models. Our major focus is on spectra,
+  neutrino-matter heating rates, Eddington factors, angular distributions, and phase-space
+  occupancies. In addition, we investigate the influence on neutrino spectra and heating
+  of final-state electron blocking, stimulated absorption, velocity terms in the transport
+  equation, neutrino-nucleon scattering asymmetry, and weak magnetism and recoil effects.
+  Furthermore, we compare the emergent spectra and heating rates obtained using full
+  transport with those obtained using representative flux-limited transport formulations
+  to gauge their accuracy and viability. Finally, we derive useful formulae for the
+  neutrino source strength due to nucleon-nucleon bremsstrahlung and determine bremsstrahlung's
+  influence on the emergent numu and nutau neutrino spectra. These studies are in
+  preparation for new calculations of spherically symmetric core-collapse supernovae,
+  proto-neutron star winds, and neutrino signals.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...539..865B
+arxivurl: http://arxiv.org/abs/astro-ph/9905132
+author: Burrows, A. and Young, T. and Pinto, P. and Eastman, R. and Thompson, T. A.
+author_list:
+- family: Burrows
+  given: A.
+- family: Young
+  given: T.
+- family: Pinto
+  given: P.
+- family: Eastman
+  given: R.
+- family: Thompson
+  given: T. A.
+date-added: 2017-08-10 19:40:45 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309244
+eprint: astro-ph/9905132
+journal: \apj
+keywords: 'Elementary Particles, Methods: Numerical, Radiative Transfer, Stars: Interiors,
+  Stars: Neutron, Stars: Supernovae: General'
+month: August
+pages: 865--887
+papis_id: f4403884ceb739f381a184bdb36b3741
+ref: burrows.a.2000
+title: A New Algorithm for Supernova Neutrino Transport and Some Applications
+type: article
+volume: '539'
+year: '2000'

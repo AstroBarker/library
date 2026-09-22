@@ -1,0 +1,40 @@
+abstract: In the primordial universe, low-mass structures with virial temperatures
+  less than 104 K were unable to cool by atomic line transitions, leading to a strong
+  suppression of star formation. On the other hand, these "minihalos" were highly
+  prone to triggered star formation by interactions from nearby galaxy outflows. In
+  Gray \& Scannapieco, we explored the impact of nonequilibrium chemistry on these
+  interactions. Here we turn our attention to the role of metals, carrying out a series
+  of high-resolution three-dimensional adaptive mesh refinement simulations that include
+  both metal cooling and a subgrid turbulent mixing model. Despite the presence of
+  an additional coolant, we again find that outflow-minihalo interactions produce
+  a distribution of dense, massive stellar clusters. We also find that these clusters
+  are evenly enriched with metals to a final abundance of Z \approx{} 10-2 Z sun.
+  As in our previous simulations, all of these properties suggest that these interactions
+  may have given rise to present-day halo globular clusters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...733...88G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.4369
+author: Gray, W. J. and Scannapieco, E.
+author_list:
+- family: Gray
+  given: W. J.
+- family: Scannapieco
+  given: E.
+date-added: 2017-08-10 15:43:23 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/733/2/88
+eid: '88'
+eprint: '1103.4369'
+journal: \apj
+keywords: 'galaxies: abundances, galaxies: formation, galaxies: high-redshift, galaxies:
+  star clusters: general, globular clusters: general, shock waves'
+month: June
+pages: '88'
+papis_id: 72eef57034ad9782ddf1d9209f64e63a
+ref: gray.w.2011
+title: Formation of Compact Stellar Clusters by High-redshift Galaxy Outflows. II.
+  Effect of Turbulence and Metal-line Cooling
+type: article
+volume: '733'
+year: '2011'

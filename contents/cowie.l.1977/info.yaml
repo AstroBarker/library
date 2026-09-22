@@ -1,0 +1,40 @@
+abstract: Analytic solutions are obtained for the rate of evaporative mass loss from
+  an isolated spherical cloud embedded in a hot tenuous gas, neglecting effects of
+  radiation and magnetic fields. Consideration is given only to the case of spherical
+  clouds, where the evaporative mass-loss rate is an eigenvalue of the time-independent
+  energy-conservation equation. The upper bound on the heat flux which may be carried
+  by electrons is found to be smaller than previously expected, it is assumed that
+  the exact heat flux should closely approximate this maximum value in collisionless
+  gases, and such a theory is shown to give good numerical agreement with solar-wind
+  observations. A straightforward solution is obtained for those cases where the classical
+  thermal-conduction formula is applicable throughout the interface, and limitations
+  are given under which analytic solutions can be found when the classical formula
+  does not apply throughout the interface. The results of the present theory are compared
+  with those of a previous and less accurate analysis which considered conducting
+  fronts analogous to ionization fronts. Cloud evaporation within supernova remnants
+  is discussed, and it is concluded that the present results should provide a reasonable
+  approximation even in such an extreme case.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1977ApJ...211..135C
+author: Cowie, L. L. and McKee, C. F.
+author_list:
+- family: Cowie
+  given: L. L.
+- family: McKee
+  given: C. F.
+date-added: 2017-08-10 23:47:22 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/154911
+journal: \apj
+keywords: Evaporation, High Temperature Gases, Interstellar Gas, Nebulae, Supernova
+  Remnants, Conductive Heat Transfer, Heat Flux, Mass Flow Rate, Solar Wind, Temperature
+  Profiles
+month: January
+pages: 135--146
+papis_id: b7fc644ea1d26d7d8004068ef4bfa781
+ref: cowie.l.1977
+title: The evaporation of spherical clouds in a hot gas. I - Classical and saturated
+  mass loss rates
+type: article
+volume: '211'
+year: '1977'

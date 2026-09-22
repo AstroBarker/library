@@ -1,0 +1,58 @@
+abstract: We investigate the use of a wide variety of spectroscopic measurements to
+  determine distances to low-redshift Type Ia supernovae (SN Ia) in the Hubble flow
+  observed through the CfA Supernova Program. We consider linear models for predicting
+  distances to SN Ia using light-curve width and color parameters (determined using
+  the SALT2 light-curve fitter) and a spectroscopic indicator, and evaluate the resulting
+  Hubble diagram scatter using a cross-validation procedure. We confirm the ability
+  of spectral flux ratios alone at maximum light to reduce the scatter of Hubble residuals
+  by ~10\% [ weighted rms, or WRMS = 0.189 $\pm$ 0.026 mag for the flux ratio R(6630/4400)]
+  with respect to the standard combination of light-curve width and color, for which
+  WRMS = 0.204 \$\pm\$ 0.029 mag. When used in combination with the SALT2 color parameter,
+  the color-corrected flux ratio R^c(6420/5290) at maximum light leads to an even
+  lower scatter (WRMS = 0.175 \$\pm\$ 0.025 mag), although the improvement has low
+  statistical significance (<2sigma) given the size of our sample (26 SN Ia). We highlight
+  the importance of an accurate relative flux calibration and the failure of this
+  method for highly-reddened objects. Comparison with synthetic spectra from 2D delayed-detonation
+  explosion models shows that the correlation of R(6630/4400) with SN Ia absolute
+  magnitudes can be largely attributed to intrinsic color variations and not to reddening
+  by dust in the host galaxy. We consider flux ratios at other ages, as well as the
+  use of pairs of flux ratios, revealing the presence of small-scale intrinsic spectroscopic
+  variations in the iron-group-dominated absorption features around ~4300 {\AA} and
+  ~4800 {\AA}. The best flux ratio overall is the color-corrected R^c(4610/4260) at
+  t = -2.5 d from maximum light, which leads to ~30\% lower scatter (WRMS = 0.143
+  \$\pm\$ 0.020 mag) with respect to the standard combination of light-curve width
+  and color, at ~ 2sigma significance. We examine other spectroscopic indicators related
+  to line-profile morphology (absorption velocity, pseudo-equivalent width etc.),
+  but none appear to lead to a significant improvement over the standard light-curve
+  width and color parameters. We discuss the use of spectra in measuring more precise
+  distances to SN Ia and the implications for future surveys which seek to determine
+  the properties of dark energy.  Appendices are only available in electronic form
+  at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...526A..81B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.0005
+author: Blondin, S. and Mandel, K. S. and Kirshner, R. P.
+author_list:
+- family: Blondin
+  given: S.
+- family: Mandel
+  given: K. S.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-11 01:13:48 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1051/0004-6361/201015792
+eid: A81
+eprint: '1012.0005'
+journal: \aap
+keywords: 'supernovae: general, cosmology: observations'
+month: February
+pages: A81
+papis_id: c7783b56c52865921d887a5eb6f4c655
+primaryclass: astro-ph.CO
+ref: blondin.s.2011
+title: Do spectra improve distance measurements of Type Ia supernovae?
+type: article
+volume: '526'
+year: '2011'

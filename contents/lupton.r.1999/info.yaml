@@ -1,0 +1,37 @@
+abstract: We describe a modification of the usual definition of astronomical magnitudes,
+  replacing the usual logarithm with an inverse hyperbolic sine function; we call
+  these modified magnitudes ``asinh magnitudes.'' For objects detected at signal-to-noise
+  ratios of greater than about 5, our modified definition is essentially identical
+  to the traditional one; for fainter objects (including those with a formally negative
+  flux), our definition is well behaved, tending to a definite value with finite errors
+  as the flux goes to zero. This new definition is especially useful when considering
+  the colors of faint objects, as the difference of two ``asinh'' magnitudes measures
+  the usual flux ratio for bright objects, while avoiding the problems caused by dividing
+  two very uncertain values for faint objects. The Sloan Digital Sky Survey data products
+  will use this scheme to express all magnitudes in their catalogs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999AJ....118.1406L
+arxivurl: http://arxiv.org/abs/astro-ph/9903081
+author: Lupton, R. H. and Gunn, J. E. and Szalay, A. S.
+author_list:
+- family: Lupton
+  given: R. H.
+- family: Gunn
+  given: J. E.
+- family: Szalay
+  given: A. S.
+date-added: 2017-08-10 16:00:47 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/301004
+eprint: astro-ph/9903081
+journal: \aj
+keywords: 'CATALOGS, METHODS: STATISTICAL, TECHNIQUES: PHOTOMETRIC'
+month: September
+pages: 1406--1410
+papis_id: 20211dab8260b4742f86ed6a6acd9dc3
+ref: lupton.r.1999
+title: A Modified Magnitude System that Produces Well-Behaved Magnitudes, Colors,
+  and Errors Even for Low Signal-to-Noise Ratio Measurements
+type: article
+volume: '118'
+year: '1999'

@@ -1,0 +1,43 @@
+abstract: The success or failure of the neutrino-transport mechanism for producing
+  a supernova in an evolved massive star is known to be sensitive not only to the
+  mass of the iron core that collapses, but also to the density gradient in the silicon
+  and oxygen shells surrounding that core. Here we study the systematics of a presupernova
+  core's "compactness" as a function of the mass of the star and the physics used
+  in its calculation. Fine-meshed surveys of presupernova evolution are calculated
+  for stars from 15 to 65 M \&sun;. The metallicity and the efficiency of semiconvection
+  and overshoot mixing are both varied and bare carbon-oxygen cores are explored as
+  well as full hydrogenic stars. Two different codes, KEPLER and MESA, are used for
+  the study. A complex interplay of carbon and oxygen burning, especially in shells,
+  can cause rapid variations in the compactness for stars of very nearly the same
+  mass. On larger scales, the distribution of compactness with main sequence mass
+  is found to be robustly non-monotonic, implying islands of "explodabilty," particularly
+  around 8-20 M \&sun; and 25-30 M \&sun;. The carbon-oxygen (CO) core mass of a presupernova
+  star is a better, (though still ambiguous) discriminant of its core structure than
+  the main sequence mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...783...10S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1311.6546
+author: Sukhbold, T. and Woosley, S. E.
+author_list:
+- family: Sukhbold
+  given: T.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:01:15 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/783/1/10
+eid: '10'
+eprint: '1311.6546'
+journal: \apj
+keywords: 'convection, nuclear reactions, nucleosynthesis, abundances, stars: evolution,
+  stars: interiors, stars: neutron, supernovae: general'
+month: March
+pages: '10'
+papis_id: 118b23014c10ca7850524c4142ba6c7f
+primaryclass: astro-ph.SR
+ref: sukhbold.t.2014
+title: The Compactness of Presupernova Stellar Cores
+type: article
+volume: '783'
+year: '2014'

@@ -1,0 +1,46 @@
+abstract: It is expected on both evolutionary and empirical grounds that many merging
+  neutron star (NS) binaries are composed of a highly magnetized NS in orbit with
+  a relatively low magnetic field NS. I study the magnetic interactions of these binaries
+  using the framework of a unipolar inductor model. The electromotive force generated
+  across the non-magnetic NS as it moves through the magnetosphere sets up a circuit
+  connecting the two stars. The exact features of this circuit depend on the uncertain
+  resistance in the space between the stars  {R}\_space. Nevertheless, I show that
+  there are interesting observational and/or dynamical effects irrespective of its
+  exact value. When  {R}\_space is large, electric dissipation as great as ~1046 erg
+  s-1 (for magnetar-strength fields) occurs in the magnetosphere, which would exhibit
+  itself as a hard X-ray precursor in the seconds leading up to merger. With less
+  certainty, there may also be an associated radio transient. When  {R}\_space is
+  small, electric dissipation largely occurs in the surface layers of the magnetic
+  NS. This can reach ~1049 erg s-1 during the final ~1 s before merger, similar to
+  the energetics and timescales of short gamma-ray bursts. In addition, for dipole
+  fields greater than \approx{}1012 G and a small  {R}\_space, magnetic torques spin
+  up the magnetized NS. This drains angular momentum from the binary and accelerates
+  the inspiral. A faster coalescence results in less orbits occurring before merger,
+  which would impact matched-filtering gravitational-wave searches by ground-based
+  laser interferometers and could create difficulties for studying alternative theories
+  of gravity with compact inspirals.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755...80P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.6482
+author: Piro, A. L.
+author_list:
+- family: Piro
+  given: A. L.
+date-added: 2017-08-10 19:37:36 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/1/80
+eid: '80'
+eprint: '1205.6482'
+journal: \apj
+keywords: 'binaries: close, gamma-ray burst: general, gravitational waves, stars:
+  magnetic field, stars: neutron'
+month: August
+pages: '80'
+papis_id: 2711351d3634ddf2d0e230ddbc30ca89
+primaryclass: astro-ph.HE
+ref: piro.a.2012
+title: Magnetic Interactions in Coalescing Neutron Star Binaries
+type: article
+volume: '755'
+year: '2012'

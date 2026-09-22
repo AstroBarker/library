@@ -1,0 +1,57 @@
+abstract: We have used a combination of stellar population synthesis and photoionization
+  models to develop a set of ionization parameter and abundance diagnostics based
+  only on the use of the strong optical emission lines. These models are applicable
+  to both extragalactic H II regions and star-forming galaxies. We show that, because
+  our techniques solve explicitly for both the ionization parameter and the chemical
+  abundance, the diagnostics presented here are an improvement on earlier techniques
+  based on strong emission-line ratios. Our techniques are applicable at all metallicities.
+  In particular, for metallicities above half solar, the ratio [N II]/[O II] provides
+  a very reliable diagnostic since it is ionization parameter independent and does
+  not have a local maximum. This ratio has not previously been used historically because
+  of worries about reliable calibration over such a long baseline, and reddening correction
+  concerns. However, we show that the use of classical reddening curves and standard
+  calibration are quite sufficient to allow this [N II]/[O II] diagnostic to be used
+  with confidence as a reliable abundance indicator. As we had shown, the commonly
+  used abundance diagnostic R23 depends strongly on the ionization parameter, while
+  the commonly used ionization parameter diagnostic [O III]/[O II] depends strongly
+  on abundance. The iterative method of solution presented here allows both of these
+  parameters to be obtained without recourse to the use of temperature-sensitive line
+  ratios involving faint emission lines. We compare three commonly used abundance
+  diagnostic techniques and show that individually, they contain systematic and random
+  errors. This is a problem affecting many abundance diagnostics, and the errors generally
+  have not been properly studied or understood due to the lack of a reliable comparison
+  abundance, except for very low metallicities, where the [O III] lambda4363 auroral
+  line is used. Here we show that the average of these techniques provides a fairly
+  reliable comparison abundance indicator against which to test new diagnostic methods.
+  The cause of the systematic effects are discussed, and we present a new ``optimal''
+  abundance diagnostic method based on the use of line ratios involving [N II], [O
+  II], [O III], [S II], and the Balmer lines. This combined diagnostic appears to
+  suffer no apparent systematic errors, can be used over the entire abundance range
+  and significantly reduces the random error inherent in previous techniques. Finally,
+  we give a recommended procedure for the derivation of abundances in the case that
+  only spectra of limited wavelength coverage are available so that the optimal method
+  can no longer be used.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJS..142...35K
+arxivurl: http://arxiv.org/abs/astro-ph/0206495
+author: Kewley, L. J. and Dopita, M. A.
+author_list:
+- family: Kewley
+  given: L. J.
+- family: Dopita
+  given: M. A.
+date-added: 2017-08-11 05:20:46 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/341326
+eprint: astro-ph/0206495
+journal: \apjs
+keywords: 'Galaxies: Abundances, Galaxies: Evolution, Galaxies: Starburst, ISM: Abundances'
+month: September
+pages: 35--52
+papis_id: c38f07081c714bfc29036752c296dd9b
+ref: kewley.l.2002a
+title: Using Strong Lines to Estimate Abundances in Extragalactic H II Regions and
+  Starburst Galaxies
+type: article
+volume: '142'
+year: '2002'

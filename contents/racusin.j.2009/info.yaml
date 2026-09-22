@@ -1,0 +1,58 @@
+abstract: We present a systematic temporal and spectral study of all Swift-X-ray Telescope
+  observations of gamma-ray burst (GRB) afterglows discovered between 2005 January
+  and 2007 December. After constructing and fitting all light curves and spectra to
+  power-law models, we classify the components of each afterglow in terms of the canonical
+  X-ray afterglow and test them against the closure relations of the forward shock
+  models for a variety of parameter combinations. The closure relations are used to
+  identify potential jet breaks with characteristics including the uniform jet model
+  with and without lateral spreading and energy injection, and a power-law structured
+  jet model, all with a range of parameters. With this technique, we survey the X-ray
+  afterglows with strong evidence for jet breaks (~12\% of our sample), and reveal
+  cases of potential jet breaks that do not appear plainly from the light curve alone
+  (another ~30\%), leading to insight into the missing jet break problem. Those X-ray
+  light curves that do not show breaks or have breaks that are not consistent with
+  one of the jet models are explored to place limits on the times of unseen jet breaks.
+  The distribution of jet break times ranges from a few hours to a few weeks with
+  a median of ~1 day, similar to what was found pre-Swift. On average, Swift GRBs
+  have lower isotropic equivalent gamma-ray energies, which in turn result in lower
+  collimation corrected gamma-ray energies than those of pre-Swift GRBs. Finally,
+  we explore the implications for GRB jet geometry and energetics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698...43R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0812.4780
+author: Racusin, J. L. and Liang, E. W. and Burrows, D. N. and Falcone, A. and Sakamoto,
+  T. and Zhang, B. B. and Zhang, B. and Evans, P. and Osborne, J.
+author_list:
+- family: Racusin
+  given: J. L.
+- family: Liang
+  given: E. W.
+- family: Burrows
+  given: D. N.
+- family: Falcone
+  given: A.
+- family: Sakamoto
+  given: T.
+- family: Zhang
+  given: B. B.
+- family: Zhang
+  given: B.
+- family: Evans
+  given: P.
+- family: Osborne
+  given: J.
+date-added: 2017-08-11 07:01:21 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/1/43
+eprint: '0812.4780'
+journal: \apj
+keywords: 'gamma rays: bursts, radiation mechanisms: non-thermal, X-rays: bursts'
+month: June
+pages: 43--74
+papis_id: 5bac50a64f9b3f4299bb4483f0bdac70
+ref: racusin.j.2009
+title: Jet Breaks and Energetics of Swift Gamma-Ray Burst X-Ray Afterglows
+type: article
+volume: '698'
+year: '2009'

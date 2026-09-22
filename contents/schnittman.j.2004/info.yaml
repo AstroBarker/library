@@ -1,0 +1,46 @@
+abstract: Observations from the Rossi X-Ray Timing Explorer have shown the existence
+  of high-frequency quasi-periodic oscillations (HFQPOs) in the X-ray flux from accreting
+  black hole binary systems. In at least two systems, these HFQPOs come in pairs with
+  a 2:3 frequency commensurability. We employ a simple ``hot spot'' model to explain
+  the position and amplitude of the HFQPO peaks. Using the exact geodesic equations
+  for the Kerr metric, we calculate the trajectories of massive test particles, which
+  are treated as isotropic, monochromatic emitters in their rest frames. Photons are
+  traced from the accretion disk to a distant observer to produce time- and frequency-dependent
+  images of the orbiting hot spot and background disk. The power spectrum of the X-ray
+  light curve consists of multiple peaks at integral combinations of the black hole
+  coordinate frequencies. In particular, if the radial frequency is one-third of the
+  azimuthal frequency (as is the case near the innermost stable circular orbit), beat
+  frequencies appear in the power spectrum at two-thirds and four-thirds of the fundamental
+  azimuthal orbital frequency, in agreement with observations. In addition, we model
+  the effects of shearing the hot spot in the disk, producing an arc of emission that
+  also follows a geodesic orbit, as well as the effects of nonplanar orbits that experience
+  Lens-Thirring precession around the black hole axis. By varying the arc length,
+  we are able to explain the relative amplitudes of the QPOs at either 2nu or 3nu
+  in observations from XTE J1550-564 and GRO J1655-40. In the context of this model,
+  the observed power spectra allow us to infer values for the black hole mass and
+  angular momentum and also constrain the parameters of the model, such as the hot
+  spot size and luminosity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...606.1098S
+arxivurl: http://arxiv.org/abs/astro-ph/0309458
+author: Schnittman, J. D. and Bertschinger, E.
+author_list:
+- family: Schnittman
+  given: J. D.
+- family: Bertschinger
+  given: E.
+date-added: 2017-08-10 22:22:10 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/383180
+eprint: astro-ph/0309458
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, X-Rays: Binaries'
+month: May
+pages: 1098--1111
+papis_id: cfe3d5c96f5fa51ec4abcc51550e11cb
+ref: schnittman.j.2004
+title: The Harmonic Structure of High-Frequency Quasi-periodic Oscillations in Accreting
+  Black Holes
+type: article
+volume: '606'
+year: '2004'

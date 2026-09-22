@@ -1,0 +1,59 @@
+abstract: We investigate massive star formation in turbulent, magnetized, parsec-scale
+  clumps of molecular clouds including protostellar outflow feedback using three-dimensional
+  numerical simulations of effective resolution 20483. The calculations are carried
+  out using a block structured adaptive mesh refinement code that solves the ideal
+  magnetohydrodynamic equations including self-gravity and implements accreting sink
+  particles. We find that, in the absence of regulation by magnetic fields and outflow
+  feedback, massive stars form readily in a turbulent, moderately condensed clump
+  of ~1600 M sun (containing ~102 initial Jeans masses), along with a cluster of hundreds
+  of lower mass stars. The massive stars are fed at high rates by (1) transient dense
+  filaments produced by large-scale turbulent compression at early times and (2) by
+  the clump-wide global collapse resulting from turbulence decay at late times. In
+  both cases, the bulk of the massive star's mass is supplied from outside a 0.1 pc-sized
+  "core" that surrounds the star. In our simulation, the massive star is clump-fed
+  rather than core-fed. The need for large-scale feeding makes the massive star formation
+  prone to regulation by outflow feedback, which directly opposes the feeding processes.
+  The outflows reduce the mass accretion rates onto the massive stars by breaking
+  up the dense filaments that feed the massive star formation at early times, and
+  by collectively slowing down the global collapse that fuels the massive star formation
+  at late times. The latter is aided by a moderate magnetic field of strength in the
+  observed range (corresponding to a dimensionless clump mass-to-flux ratio lambda~
+  a few); the field allows the outflow momenta to be deposited more efficiently inside
+  the clump. We conclude that the massive star formation in our simulated turbulent,
+  magnetized, parsec-scale clump is outflow-regulated and clump-fed. An important
+  implication is that the formation of low-mass stars in a dense clump can affect
+  the formation of massive stars in the same clump, through their outflow feedback
+  on the clump dynamics. In a companion paper, we discuss the properties of the lower
+  mass cluster members formed along with the massive stars, including their mass distribution
+  and spatial clustering.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...709...27W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.4129
+author: Wang, P. and Li, Z.-Y. and Abel, T. and Nakamura, F.
+author_list:
+- family: Wang
+  given: P.
+- family: Li
+  given: Z.-Y.
+- family: Abel
+  given: T.
+- family: Nakamura
+  given: F.
+date-added: 2017-08-10 15:33:13 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/709/1/27
+eprint: '0908.4129'
+journal: \apj
+keywords: 'ISM: jets and outflows, magnetic fields, methods: numerical, magnetohydrodynamics:
+  MHD, stars: formation, turbulence'
+month: January
+pages: 27--41
+papis_id: e1cc43711517fddf8d3c4ac9f6625dc1
+primaryclass: astro-ph.SR
+ref: wang.p.2010
+title: Outflow Feedback Regulated Massive Star Formation in Parsec-Scale Cluster-Forming
+  Clumps
+type: article
+volume: '709'
+year: '2010'

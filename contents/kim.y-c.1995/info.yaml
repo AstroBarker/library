@@ -1,0 +1,44 @@
+abstract: In an attempt to understand the properties of convective energy transport
+  in the solar convective zone, a numerical model has been constructed for turbulent
+  flows in a compressible, radiation-coupled, nonmagnetic, gravitationally stratified
+  medium using a realistic equation of state and realistic opacities. The time-dependent,
+  three-dimensional hydrodynamic equations are solved with minimal simplifications.
+  The statistical information obtained from the present simulation provides an improved
+  understanding of solar photospheric convection. The characteristics of solar convection
+  in shallow regions is parameterized and compared with the results of Chan \& Sofia's
+  (1989) simulations of deep and efficient convection. We assess the importance of
+  the zones of partial ionization in the simulation and confirm that the radiative
+  energy transfer is negligible throughout the region except in the uppermost scale
+  heights of the convection zone, a region of very high superadiabaticity. When the
+  effects of partial ionization are included, the dynamics of flows are altered significantly.
+  However, we confirm the Chan \& Sofia result that kinetic energy flux is nonnegligible
+  and can have a negative value in the convection zone.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...442..422K
+author: Kim, Y.-C. and Fox, P. A. and Sofia, S. and Demarque, P.
+author_list:
+- family: Kim
+  given: Y.-C.
+- family: Fox
+  given: P. A.
+- family: Sofia
+  given: S.
+- family: Demarque
+  given: P.
+date-added: 2017-08-11 06:44:38 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175450
+journal: \apj
+keywords: Energy Transfer, Hydrodynamics, Mathematical Models, Solar Convection (Astronomy),
+  Solar Interior, Turbulent Flow, Boundary Conditions, Density Distribution, Hydrodynamic
+  Equations, Ionization, Radiative Transfer, Stellar Models, Temperature Profiles,
+  Thermal Conductivity
+month: March
+pages: 422--433
+papis_id: da11f6d28648795245e81b8e7ecf4c81
+ref: kim.y_c.1995
+title: Modeling of shallow and inefficient convection in the outer layers of the Sun
+  using realistic physics
+type: article
+volume: '442'
+year: '1995'

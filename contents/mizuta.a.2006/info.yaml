@@ -1,0 +1,49 @@
+abstract: 'We investigate the dynamics of an outflow propagating in a progenitor in
+  the context of the collapsar model for GRBs through two-dimensional axisymmetric
+  relativistic hydrodynamic simulations. Initially, we locally inject an outflow near
+  the center of a progenitor. We calculate 25 models, in total, by fixing its total
+  input energy (1051 ergs s-1) and radius of the injected outflow (7\texttimes{}107
+  cm) while varying its bulk Lorentz factor, Gamma0=1.05-5, and its specific internal
+  energy, \ensuremath{\epsilon}0/c2=0.1-30 (with c being speed of light). We find
+  a smooth but dramatic transition from a collimated jet to an expanding outflow among
+  calculated models. The half opening angle of the outflow (thetasim) is sensitive
+  to Gamma0 we find thetasim<2deg for Gamma0>~3. The maximum Lorentz factor is, on
+  the other hand, sensitive to both Gamma0 and \ensuremath{\epsilon}0: roughly Gammamax~Gamma0(1+\ensuremath{\epsilon}0/c2).
+  In particular, a very high Lorentz factor of Gammamax>~100 is achieved in one model.
+  A variety of opening angles can arise by changing \ensuremath{\epsilon}0, even when
+  the maximum Lorentz factor is fixed. The jet structure totally depends on Gamma0.
+  When Gamma0 is high, high-pressure progenitor gas heated by the bow shock collimates
+  the outflow to form a narrow, relativistic jet. When Gamma0 is low, on the contrary,
+  the outflow expands soon after the injection, since the bow shock is weak and thus
+  the pressure of the progenitor gas is not high enough to confine the flow. Our finding
+  will explain a smooth transition between the GRBs, X-ray-rich GRBs (XRRs), and X-ray
+  flashes (XRFs) by the same model but with different \ensuremath{\epsilon}0 values.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...651..960M
+arxivurl: http://arxiv.org/abs/astro-ph/0607544
+author: Mizuta, A. and Yamasaki, T. and Nagataki, S. and Mineshige, S.
+author_list:
+- family: Mizuta
+  given: A.
+- family: Yamasaki
+  given: T.
+- family: Nagataki
+  given: S.
+- family: Mineshige
+  given: S.
+date-added: 2017-08-11 05:19:08 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/507861
+eprint: astro-ph/0607544
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Hydrodynamics, Relativity, Shock Waves, Stars: Supernovae:
+  General'
+month: November
+pages: 960--978
+papis_id: 8e4fe6b2bcdaa35a1912f7401344351e
+ref: mizuta.a.2006
+title: 'Collimated Jet or Expanding Outflow: Possible Origins of Gamma-Ray Bursts
+  and X-Ray Flashes'
+type: article
+volume: '651'
+year: '2006'

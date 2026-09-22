@@ -1,0 +1,33 @@
+abstract: Rigorous estimates for the total - (kinetic) energy plus pressure - flux
+  in {mathbb{R}^3} are obtained from the three dimensional Navier-Stokes equations.
+  The bounds are used to establish a condition - involving Taylor length scale and
+  the size of the domain - sufficient for existence of the inertial range and the
+  energy cascade in decaying turbulence (zero driving force, non-increasing global
+  energy). Several manifestations of the locality of the flux under this condition
+  are obtained. All the scales involved are actual physical scales in {mathbb{R}^3}
+  and no regularity or homogeneity/scaling assumptions are made.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011CMaPh.305..199D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.2193
+author: Dascaliuc, R. and Grujić, Z.
+author_list:
+- family: Dascaliuc
+  given: R.
+- family: Grujić
+  given: Z.
+date-added: 2017-08-10 22:31:05 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1007/s00220-011-1219-8
+eprint: '1101.2193'
+journal: Communications in Mathematical Physics
+month: July
+pages: 199--220
+papis_id: e441b712c09eb345d52ee293f4294e39
+primaryclass: math.AP
+ref: dascaliuc.r.2011
+title: Energy Cascades and Flux Locality in Physical Scales of the 3D Navier-Stokes
+  Equations
+type: article
+volume: '305'
+year: '2011'

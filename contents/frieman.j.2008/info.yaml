@@ -1,0 +1,258 @@
+abstract: The Sloan Digital Sky Survey-II (SDSS-II) has embarked on a multi-year project
+  to identify and measure light curves for intermediate-redshift (0.05 < z < 0.35)
+  Type Ia supernovae (SNe Ia) using repeated five-band (ugriz) imaging over an area
+  of 300 sq. deg. The survey region is a stripe 2.5$\,^{\circ}$ wide centered on the
+  celestial equator in the Southern Galactic Cap that has been imaged numerous times
+  in earlier years, enabling construction of a deep reference image for the discovery
+  of new objects. Supernova imaging observations are being acquired between September
+  1 and November 30 of 2005-7. During the first two seasons, each region was imaged
+  on average every five nights. Spectroscopic follow-up observations to determine
+  supernova type and redshift are carried out on a large number of telescopes. In
+  its first two three-month seasons, the survey has discovered and measured light
+  curves for 327 spectroscopically confirmed SNe Ia, 30 probable SNe Ia, 14 confirmed
+  SNe Ib/c, 32 confirmed SNe II, plus a large number of photometrically identified
+  SNe Ia, 94 of which have host-galaxy spectra taken so far. This paper provides an
+  overview of the project and briefly describes the observations completed during
+  the first two seasons of operation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....135..338F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.2749
+author: Frieman, J. A. and Bassett, B. and Becker, A. and Choi, C. and Cinabro, D.
+  and DeJongh, F. and Depoy, D. L. and Dilday, B. and Doi, M. and Garnavich, P. M.
+  and Hogan, C. J. and Holtzman, J. and Im, M. and Jha, S. and Kessler, R. and Konishi,
+  K. and Lampeitl, H. and Marriner, J. and Marshall, J. L. and McGinnis, D. and Miknaitis,
+  G. and Nichol, R. C. and Prieto, J. L. and Riess, A. G. and Richmond, M. W. and
+  Romani, R. and Sako, M. and Schneider, D. P. and Smith, M. and Takanashi, N. and
+  Tokita, K. and van der Heyden, K. and Yasuda, N. and Zheng, C. and Adelman-McCarthy,
+  J. and Annis, J. and Assef, R. J. and Barentine, J. and Bender, R. and Blandford,
+  R. D. and Boroski, W. N. and Bremer, M. and Brewington, H. and Collins, C. A. and
+  Crotts, A. and Dembicky, J. and Eastman, J. and Edge, A. and Edmondson, E. and Elson,
+  E. and Eyler, M. E. and Filippenko, A. V. and Foley, R. J. and Frank, S. and Goobar,
+  A. and Gueth, T. and Gunn, J. E. and Harvanek, M. and Hopp, U. and Ihara, Y. and
+  Ivezić, Ž. and Kahn, S. and Kaplan, J. and Kent, S. and Ketzeback, W. and Kleinman,
+  S. J. and Kollatschny, W. and Kron, R. G. and Krzesi\ŉski, J. and Lamenti, D. and
+  Leloudas, G. and Lin, H. and Long, D. C. and Lucey, J. and Lupton, R. H. and Malanushenko,
+  E. and Malanushenko, V. and McMillan, R. J. and Mendez, J. and Morgan, C. W. and
+  Morokuma, T. and Nitta, A. and Ostman, L. and Pan, K. and Rockosi, C. M. and Romer,
+  A. K. and Ruiz-Lapuente, P. and Saurage, G. and Schlesinger, K. and Snedden, S.
+  A. and Sollerman, J. and Stoughton, C. and Stritzinger, M. and Subba Rao, M. and
+  Tucker, D. and Vaisanen, P. and Watson, L. C. and Watters, S. and Wheeler, J. C.
+  and Yanny, B. and York, D.
+author_list:
+- family: Frieman
+  given: J. A.
+- family: Bassett
+  given: B.
+- family: Becker
+  given: A.
+- family: Choi
+  given: C.
+- family: Cinabro
+  given: D.
+- family: DeJongh
+  given: F.
+- family: Depoy
+  given: D. L.
+- family: Dilday
+  given: B.
+- family: Doi
+  given: M.
+- family: Garnavich
+  given: P. M.
+- family: Hogan
+  given: C. J.
+- family: Holtzman
+  given: J.
+- family: Im
+  given: M.
+- family: Jha
+  given: S.
+- family: Kessler
+  given: R.
+- family: Konishi
+  given: K.
+- family: Lampeitl
+  given: H.
+- family: Marriner
+  given: J.
+- family: Marshall
+  given: J. L.
+- family: McGinnis
+  given: D.
+- family: Miknaitis
+  given: G.
+- family: Nichol
+  given: R. C.
+- family: Prieto
+  given: J. L.
+- family: Riess
+  given: A. G.
+- family: Richmond
+  given: M. W.
+- family: Romani
+  given: R.
+- family: Sako
+  given: M.
+- family: Schneider
+  given: D. P.
+- family: Smith
+  given: M.
+- family: Takanashi
+  given: N.
+- family: Tokita
+  given: K.
+- family: van der Heyden
+  given: K.
+- family: Yasuda
+  given: N.
+- family: Zheng
+  given: C.
+- family: Adelman-McCarthy
+  given: J.
+- family: Annis
+  given: J.
+- family: Assef
+  given: R. J.
+- family: Barentine
+  given: J.
+- family: Bender
+  given: R.
+- family: Blandford
+  given: R. D.
+- family: Boroski
+  given: W. N.
+- family: Bremer
+  given: M.
+- family: Brewington
+  given: H.
+- family: Collins
+  given: C. A.
+- family: Crotts
+  given: A.
+- family: Dembicky
+  given: J.
+- family: Eastman
+  given: J.
+- family: Edge
+  given: A.
+- family: Edmondson
+  given: E.
+- family: Elson
+  given: E.
+- family: Eyler
+  given: M. E.
+- family: Filippenko
+  given: A. V.
+- family: Foley
+  given: R. J.
+- family: Frank
+  given: S.
+- family: Goobar
+  given: A.
+- family: Gueth
+  given: T.
+- family: Gunn
+  given: J. E.
+- family: Harvanek
+  given: M.
+- family: Hopp
+  given: U.
+- family: Ihara
+  given: Y.
+- family: Ivezić
+  given: Ž.
+- family: Kahn
+  given: S.
+- family: Kaplan
+  given: J.
+- family: Kent
+  given: S.
+- family: Ketzeback
+  given: W.
+- family: Kleinman
+  given: S. J.
+- family: Kollatschny
+  given: W.
+- family: Kron
+  given: R. G.
+- family: Krzesi\ŉski
+  given: J.
+- family: Lamenti
+  given: D.
+- family: Leloudas
+  given: G.
+- family: Lin
+  given: H.
+- family: Long
+  given: D. C.
+- family: Lucey
+  given: J.
+- family: Lupton
+  given: R. H.
+- family: Malanushenko
+  given: E.
+- family: Malanushenko
+  given: V.
+- family: McMillan
+  given: R. J.
+- family: Mendez
+  given: J.
+- family: Morgan
+  given: C. W.
+- family: Morokuma
+  given: T.
+- family: Nitta
+  given: A.
+- family: Ostman
+  given: L.
+- family: Pan
+  given: K.
+- family: Rockosi
+  given: C. M.
+- family: Romer
+  given: A. K.
+- family: Ruiz-Lapuente
+  given: P.
+- family: Saurage
+  given: G.
+- family: Schlesinger
+  given: K.
+- family: Snedden
+  given: S. A.
+- family: Sollerman
+  given: J.
+- family: Stoughton
+  given: C.
+- family: Stritzinger
+  given: M.
+- family: Subba Rao
+  given: M.
+- family: Tucker
+  given: D.
+- family: Vaisanen
+  given: P.
+- family: Watson
+  given: L. C.
+- family: Watters
+  given: S.
+- family: Wheeler
+  given: J. C.
+- family: Yanny
+  given: B.
+- family: York
+  given: D.
+date-added: 2017-08-10 21:15:04 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1088/0004-6256/135/1/338
+eprint: '0708.2749'
+journal: \aj
+keywords: 'supernovae: general, surveys'
+month: January
+pages: 338--347
+papis_id: b6756cee0cfd33753f704fa1d5148ce9
+ref: frieman.j.2008
+title: 'The Sloan Digital Sky Survey-II Supernova Survey: Technical Summary'
+type: article
+volume: '135'
+year: '2008'

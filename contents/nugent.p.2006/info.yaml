@@ -1,0 +1,70 @@
+abstract: We present the first high-redshift Hubble diagram for Type II-P supernovae
+  (SNe II-P) based on five events at redshift up to z~0.3. This diagram was constructed
+  using photometry from the Canada-France-Hawaii Telescope Supernova Legacy Survey
+  and absorption-line spectroscopy from the Keck Observatory. The method used to measure
+  distances to these supernovae is based on recent work by Hamuy \& Pinto and exploits
+  a correlation between the absolute brightness of SNe II-P and the expansion velocities
+  derived from the minimum of the Fe II lambda5169 P Cygni feature observed during
+  the plateau phases. We present three refinements to this method that significantly
+  improve the practicality of measuring the distances of SNe II-P at cosmologically
+  interesting redshifts. These are an extinction correction measurement based on the
+  V-I colors at day 50, a cross-correlation measurement for the expansion velocity,
+  and the ability to extrapolate such velocities accurately over almost the entire
+  plateau phase. We apply this revised method to our data set of high-redshift SNe
+  II-P and find that the resulting Hubble diagram has a scatter of only 0.26 mag,
+  thus demonstrating the feasibility of measuring the expansion history, with present
+  facilities, using a method independent of that based on supernovae of Type Ia.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...645..841N
+arxivurl: http://arxiv.org/abs/astro-ph/0603535
+author: Nugent, P. and Sullivan, M. and Ellis, R. and Gal-Yam, A. and Leonard, D.
+  C. and Howell, D. A. and Astier, P. and Carlberg, R. G. and Conley, A. and Fabbro,
+  S. and Fouchez, D. and Neill, J. D. and Pain, R. and Perrett, K. and Pritchet, C.
+  J. and Regnault, N.
+author_list:
+- family: Nugent
+  given: P.
+- family: Sullivan
+  given: M.
+- family: Ellis
+  given: R.
+- family: Gal-Yam
+  given: A.
+- family: Leonard
+  given: D. C.
+- family: Howell
+  given: D. A.
+- family: Astier
+  given: P.
+- family: Carlberg
+  given: R. G.
+- family: Conley
+  given: A.
+- family: Fabbro
+  given: S.
+- family: Fouchez
+  given: D.
+- family: Neill
+  given: J. D.
+- family: Pain
+  given: R.
+- family: Perrett
+  given: K.
+- family: Pritchet
+  given: C. J.
+- family: Regnault
+  given: N.
+date-added: 2017-08-10 18:18:30 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/504413
+eprint: astro-ph/0603535
+journal: \apj
+keywords: 'Cosmology: Distance Scale, Stars: Supernovae: General'
+month: July
+pages: 841--850
+papis_id: 16f92464e93ece672fd7d666fe1955ee
+ref: nugent.p.2006
+title: Toward a Cosmological Hubble Diagram for Type II-P Supernovae
+type: article
+volume: '645'
+year: '2006'

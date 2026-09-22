@@ -1,0 +1,52 @@
+abstract: Core collapse in a massive rotating star may pause before nuclear density
+  is reached, if the core contains total angular momentum J>~1049 g cm2 s-1. In such
+  aborted or ``fizzled'' collapses, temporary equilibrium objects form that, although
+  rapidly rotating, are secularly and dynamically stable because of the high electron
+  fraction per baryon Ye>0.3 and the high entropy per baryon Sb/k~1-2 of the core
+  material at neutrino trapping. These fizzled collapses are called ``fizzlers.''
+  In the absence of prolonged infall from the surrounding star, the evolution of fizzlers
+  is driven by deleptonization, which causes them to contract and spin up until they
+  either become stable neutron stars or reach the dynamic instability point for barlike
+  modes. The barlike instability case is of current interest because the bars would
+  be sources of gravitational wave (GW) radiation. In this paper, we use linear and
+  nonlinear techniques, including three-dimensional hydrodynamic simulations, to study
+  the behavior of fizzlers that have deleptonized to the point of reaching dynamic
+  bar instability. The simulations show that the GW emission produced by bar-unstable
+  fizzlers has rms strain amplitude r15h=10-23 to 10-22 for an observer on the rotation
+  axis, with wave frequency of roughly 60-600 Hz. Here h is the strain and r15= (r/15
+  Mpc) is the distance to the fizzler in units of 15 Mpc. If the bars that form by
+  dynamic instability can maintain GW emission at this level for 100 periods or more,
+  they may be detectable by the Laser Interferometer Gravitational-Wave Observatory
+  at the distance of the Virgo Cluster. They would be detectable as burst sources,
+  defined as sources that persist for ~10 cycles or less, if they occurred in the
+  Local Group of galaxies. The long-term behavior of the bars is the crucial issue
+  for the detection of fizzler events. The bars present at the end of our simulations
+  are dynamically stable but will evolve on longer timescales because of a variety
+  of effects, such as shock heating, infall, deleptonization, and cooling, as well
+  as gravitational radiation and Newtonian gravitational coupling to surrounding material.
+  Long-term simulations including these effects will be necessary to determine the
+  ultimate fate and GW production of fizzlers with certainty.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...587..341I
+author: Imamura, J. N. and Pickett, B. K. and Durisen, R. H.
+author_list:
+- family: Imamura
+  given: J. N.
+- family: Pickett
+  given: B. K.
+- family: Durisen
+  given: R. H.
+date-added: 2017-08-11 04:48:12 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/368176
+journal: \apj
+keywords: 'Gravitational Waves, Hydrodynamics, Instabilities, Stars: Neutron, Stars:
+  Rotation, Stars: Supernovae: General'
+month: April
+pages: 341--355
+papis_id: 927a1193b549259433cb77d507c38815
+ref: imamura.j.2003
+title: The Nonlinear Evolution of Massive Stellar Core Collapses That ``Fizzle''
+type: article
+volume: '587'
+year: '2003'

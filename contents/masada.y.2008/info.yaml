@@ -1,0 +1,44 @@
+abstract: Axisymmetric magnetorotational instability (MRI) in viscous accretion disks
+  is investigated by linear analysis and two-dimensional nonlinear simulations. The
+  linear growth of the viscous MRI is characterized by the Reynolds number defined
+  as RMRI \equiv{} v2A/nu Omega , where vA is the Alfv{\'e}n velocity, nu is the kinematic
+  viscosity, and Omega is the angular velocity of the disk. Although the linear growth
+  rate is suppressed considerably as the Reynolds number decreases, the nonlinear
+  behavior is found to be almost independent of RMRI. At the nonlinear evolutionary
+  stage, a two-channel flow continues growing and the Maxwell stress increases until
+  the end of calculations even though the Reynolds number is much smaller than unity.
+  A large portion of the injected energy to the system is converted to the magnetic
+  energy. The gain rate of the thermal energy, on the other hand, is found to be much
+  larger than the viscous heating rate. Nonlinear behavior of the MRI in the viscous
+  regime and its difference from that in the highly resistive regime can be explained
+  schematically by using the characteristics of the linear dispersion relation. Applying
+  our results to the case with both the viscosity and resistivity, it is anticipated
+  that the critical value of the Lundquist number SMRI \equiv{} v2A/eta Omega for
+  active turbulence depends on the magnetic Prandtl number SMRI ,c propto Pm1/2 in
+  the regime of Pm gg 1 and remains constant when Pm ll 1, where Pm \equiv{} SMRI/RMRI
+  = nu/eta and eta is the magnetic diffusivity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...689.1234M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0808.2338
+author: Masada, Y. and Sano, T.
+author_list:
+- family: Masada
+  given: Y.
+- family: Sano
+  given: T.
+date-added: 2017-08-11 00:07:58 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/592601
+eid: 1234-1243
+eprint: '0808.2338'
+journal: \apj
+keywords: 'accretion, accretion disks, methods: numerical, MHD, turbulence'
+month: December
+pages: 1234--1243
+papis_id: 565d388d65f6797f349ac8333a1c4969
+ref: masada.y.2008
+title: Axisymmetric Magnetorotational Instability in Viscous Accretion Disks
+type: article
+volume: '689'
+year: '2008'

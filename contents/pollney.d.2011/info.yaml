@@ -1,0 +1,41 @@
+abstract: 'In addition to the dominant oscillatory gravitational wave signals produced
+  during binary inspirals, a non-oscillatory component arises from the nonlinear "memory"
+  effect, sourced by the emitted gravitational radiation. The memory grows significantly
+  during the late-inspiral and merger, modifying the signal by an almost step-function
+  profile, and making it difficult to model by approximate methods. We use numerical
+  evolutions of binary black holes (BHs) to evaluate the nonlinear memory during late-inspiral,
+  merger, and ringdown. We identify two main components of the signal: the monotonically
+  growing portion corresponding to the memory, and an oscillatory part which sets
+  in roughly at the time of merger and is due to the BH ringdown. Counterintuitively,
+  the ringdown is most prominent for models with the lowest total spin. Thus, the
+  case of maximally spinning BHs anti-aligned to the orbital angular momentum exhibits
+  the highest signal-to-noise ratio (S/N) for interferometric detectors. The largest
+  memory offset, however, occurs for highly spinning BHs, with an estimated value
+  of h tot 20 ~= 0.24 in the maximally spinning case. These results are central to
+  determining the detectability of nonlinear memory through pulsar timing array measurements.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...732L..13P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.4209
+author: Pollney, D. and Reisswig, C.
+author_list:
+- family: Pollney
+  given: D.
+- family: Reisswig
+  given: C.
+date-added: 2017-08-10 20:30:04 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/2041-8205/732/1/L13
+eid: L13
+eprint: '1004.4209'
+journal: \apjl
+keywords: black hole physics, gravitation, gravitational waves
+month: May
+pages: L13
+papis_id: 3d1cc9de67f5c9926ede7e23c9b1f463
+primaryclass: gr-qc
+ref: pollney.d.2011
+title: Gravitational Memory in Binary Black Hole Mergers
+type: article
+volume: '732'
+year: '2011'

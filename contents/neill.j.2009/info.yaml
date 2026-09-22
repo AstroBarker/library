@@ -1,0 +1,92 @@
+abstract: We use multi-wavelength, matched aperture, integrated photometry from the
+  Galaxy Evolution Explorer (GALEX), the Sloan Digital Sky Survey, and the RC3 to
+  estimate the physical properties of 166 nearby galaxies hosting 168 well-observed
+  Type Ia supernovae (SNe Ia). The ultraviolet (UV) imaging of local SN Ia hosts from
+  GALEX allows a direct comparison with higher-redshift hosts measured at optical
+  wavelengths that correspond to the rest-frame UV. Our data corroborate well-known
+  features that have been seen in other SN Ia samples. Specifically, hosts with active
+  star formation produce brighter and slower SNe Ia on average, and hosts with luminosity-weighted
+  ages older than 1 Gyr produce on average more faint, fast, and fewer bright, slow
+  SNe Ia than younger hosts. New results include that in our sample, the faintest
+  and fastest SNe Ia occur only in galaxies exceeding a stellar mass threshold of
+  ~1010 M sun, leading us to conclude that their progenitors must arise in populations
+  that are older and/or more metal rich than the general SN Ia population. A low host
+  extinction subsample hints at a residual trend in peak luminosity with host age,
+  after correcting for light-curve shape, giving the appearance that older hosts produce
+  less-extincted SNe Ia on average. This has implications for cosmological fitting
+  of SNe Ia, and suggests that host age could be useful as a parameter in the fitting.
+  Converting host mass to metallicity and computing 56Ni mass from the supernova light
+  curves, we find that our local sample is consistent with a model that predicts a
+  shallow trend between stellar metallicity and the 56Ni mass that powers the explosion,
+  but we cannot rule out the absence of a trend. We measure a correlation between
+  56Ni mass and host age in the local universe that is shallower and not as significant
+  as that seen at higher redshifts. The details of the age-56Ni mass correlations
+  at low and higher redshift imply a luminosity-weighted age threshold of ~3 Gyr for
+  SN Ia hosts, above which they are less likely to produce SNe Ia with 56Ni masses
+  above ~0.5 M sun.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...707.1449N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0911.0690
+author: Neill, J. D. and Sullivan, M. and Howell, D. A. and Conley, A. and Seibert,
+  M. and Martin, D. C. and Barlow, T. A. and Foster, K. and Friedman, P. G. and Morrissey,
+  P. and Neff, S. G. and Schiminovich, D. and Wyder, T. K. and Bianchi, L. and Donas,
+  J. and Heckman, T. M. and Lee, Y.-W. and Madore, B. F. and Milliard, B. and Rich,
+  R. M. and Szalay, A. S.
+author_list:
+- family: Neill
+  given: J. D.
+- family: Sullivan
+  given: M.
+- family: Howell
+  given: D. A.
+- family: Conley
+  given: A.
+- family: Seibert
+  given: M.
+- family: Martin
+  given: D. C.
+- family: Barlow
+  given: T. A.
+- family: Foster
+  given: K.
+- family: Friedman
+  given: P. G.
+- family: Morrissey
+  given: P.
+- family: Neff
+  given: S. G.
+- family: Schiminovich
+  given: D.
+- family: Wyder
+  given: T. K.
+- family: Bianchi
+  given: L.
+- family: Donas
+  given: J.
+- family: Heckman
+  given: T. M.
+- family: Lee
+  given: Y.-W.
+- family: Madore
+  given: B. F.
+- family: Milliard
+  given: B.
+- family: Rich
+  given: R. M.
+- family: Szalay
+  given: A. S.
+date-added: 2017-08-11 08:08:08 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/707/2/1449
+eprint: '0911.0690'
+journal: \apj
+keywords: 'galaxies: evolution, supernovae: general'
+month: December
+pages: 1449--1465
+papis_id: 0d95f3fee0783c7e93b6a4eadcb9ae37
+ref: neill.j.2009
+title: The Local Hosts of Type Ia Supernovae
+type: article
+volume: '707'
+year: '2009'

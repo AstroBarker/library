@@ -1,0 +1,31 @@
+abstract: We present analytic fits to charge exchange rate coefficients over the full
+  range of temperatures which occurs in photoionized or shock-heated plasmas. We consider
+  reactions between neutral hydrogen and all elements with parent ion charge q = 1-4
+  up to Z = 30. Many rates were obtained from various sources in the literature. For
+  reactions for which no data were available, we calculated rates using the Landau-Zener
+  formalism. For these new reactions, we tabulate both total and state-specific rate
+  coefficients. Ml are fitted with a consistent, accurate formula. These fits may
+  be incorporated easily into spectral synthesis codes, and we make available an electronic
+  form of our results. We draw attention to the most important reactions without high-quality
+  rate coefficients to encourage further work.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJS..106..205K
+author: Kingdon, J. B. and Ferland, G. J.
+author_list:
+- family: Kingdon
+  given: J. B.
+- family: Ferland
+  given: G. J.
+date-added: 2017-08-11 06:04:24 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/192335
+journal: \apjs
+keywords: ATOMIC DATA, ATOMIC PROCESSES
+month: September
+pages: '205'
+papis_id: bde2e69c8e57003e17838bb5aef30a13
+ref: kingdon.j.1996
+title: Rate Coefficients for Charge Transfer between Hydrogen and the First 30 Elements
+type: article
+volume: '106'
+year: '1996'

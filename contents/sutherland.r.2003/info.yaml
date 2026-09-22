@@ -1,0 +1,42 @@
+abstract: We address a numerical instability that arises in the directionally split
+  computation of hydrodynamic flows when shock fronts are parallel to a grid plane.
+  Transverse oscillations in pressure, density, and temperature are produced that
+  are exacerbated by thermal instability when cooling is present, forming postshock
+  ``stripes.'' The resulting postshock striping substantially modifies the flow. We
+  briefly review methods, based upon additional transverse dissipation, that have
+  been introduced to counteract this instability. We then introduce a different method
+  (a ``local oscillation filter'') based upon additional fluxes at the remapping stage
+  of the PPM algorithm and compare this method to other approaches involving either
+  grid-jittering or artificial diffusion. The test problem is a radiative wall shock
+  with an embedded shear layer. Grid-jittering effectively counteracts striping. However,
+  elsewhere on the grid, the shear layer is unphysically diffused and this is highlighted
+  in an extreme case. The artificial diffusion method removes stripes and permits
+  other high velocity gradient regions of the flow to evolve in a physically acceptable
+  manner. The local oscillation filter performs slightly better in this regard but
+  also does not broaden the shock, preserving the excellent shock capturing features
+  of PPM. It also has the advantage of only acting on a smaller fraction of the cells
+  in a two- or three-dimensional simulation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..147..187S
+author: Sutherland, R. S. and Bisset, D. K. and Bicknell, G. V.
+author_list:
+- family: Sutherland
+  given: R. S.
+- family: Bisset
+  given: D. K.
+- family: Bicknell
+  given: G. V.
+date-added: 2017-08-11 04:40:46 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/374795
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Radiative Transfer, Shock Waves'
+month: July
+pages: 187--195
+papis_id: 8ad1d61a52d0af936f13453a3a194123
+ref: sutherland.r.2003
+title: The Numerical Simulation of Radiative Shocks. I. The Elimination of Numerical
+  Shock Instabilities Using a Local Oscillation Filter
+type: article
+volume: '147'
+year: '2003'

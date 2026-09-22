@@ -1,0 +1,117 @@
+abstract: We present optical and near-infrared (NIR) photometry and spectroscopy of
+  the Type IIb supernova (SN) 2011dh for the first 100 days. We complement our extensive
+  dataset with Swift ultra-violet (UV) and Spitzer mid-infrared (MIR) data to build
+  a UV to MIR bolometric lightcurve using both photometric and spectroscopic data.
+  Hydrodynamical modelling of the SN based on this bolometric lightcurve have been
+  presented in Bersten et al. (2012, ApJ, 757, 31). We find that the absorption minimum
+  for the hydrogen lines is never seen below ~11 000 km s-1 but approaches this value
+  as the lines get weaker. This suggests that the interface between the helium core
+  and hydrogen rich envelope is located near this velocity in agreement with the Bersten
+  et al. (2012) He4R270 ejecta model. Spectral modelling of the hydrogen lines using
+  this ejecta model supports the conclusion and we find a hydrogen mass of 0.01-0.04
+  M\&sun; to be consistent with the observed spectral evolution. We estimate that
+  the photosphere reaches the helium core at 5-7 days whereas the helium lines appear
+  between ~10 and ~15 days, close to the photosphere and then move outward in velocity
+  until ~40 days. This suggests that increasing non-thermal excitation due to decreasing
+  optical depth for the gamma-rays is driving the early evolution of these lines.
+  The Spitzer 4.5 mum band shows a significant flux excess, which we attribute to
+  CO fundamental band emission or a thermal dust echo although further work using
+  late time data is needed. Thedistance and in particular the extinction, where we
+  use spectral modelling to put further constraints, is discussed in some detail as
+  well as the sensitivity of the hydrodynamical modelling to errors in these quantities.
+  We also provide and discuss pre- and post-explosion observations of the SN site
+  which shows a reduction by ~75 percent in flux at the position of the yellow supergiant
+  coincident with SN 2011dh. The B, V and r band decline rates of 0.0073, 0.0090 and
+  0.0053 mag day-1 respectively are consistent with the remaining flux being emitted
+  by the SN. Hence we find that the star was indeed the progenitor of SN 2011dh as
+  previously suggested by Maund et al. (2011, ApJ, 739, L37) and which is also consistent
+  with the results from the hydrodynamical modelling.  Figures 2, 3, Tables 3-10,
+  and Appendices are available in electronic form at http://www.aanda.orgThe photometric
+  tables are only available at the CDS via anonymous ftp to http://cdsarc.u-strasbg.fr
+  (ftp://130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/562/A17
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...562A..17E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.1851
+author: Ergon, M. and Sollerman, J. and Fraser, M. and Pastorello, A. and Taubenberger,
+  S. and Elias-Rosa, N. and Bersten, M. and Jerkstrand, A. and Benetti, S. and Botticella,
+  M. T. and Fransson, C. and Harutyunyan, A. and Kotak, R. and Smartt, S. and Valenti,
+  S. and Bufano, F. and Cappellaro, E. and Fiaschi, M. and Howell, A. and Kankare,
+  E. and Magill, L. and Mattila, S. and Maund, J. and Naves, R. and Ochner, P. and
+  Ruiz, J. and Smith, K. and Tomasella, L. and Turatto, M.
+author_list:
+- family: Ergon
+  given: M.
+- family: Sollerman
+  given: J.
+- family: Fraser
+  given: M.
+- family: Pastorello
+  given: A.
+- family: Taubenberger
+  given: S.
+- family: Elias-Rosa
+  given: N.
+- family: Bersten
+  given: M.
+- family: Jerkstrand
+  given: A.
+- family: Benetti
+  given: S.
+- family: Botticella
+  given: M. T.
+- family: Fransson
+  given: C.
+- family: Harutyunyan
+  given: A.
+- family: Kotak
+  given: R.
+- family: Smartt
+  given: S.
+- family: Valenti
+  given: S.
+- family: Bufano
+  given: F.
+- family: Cappellaro
+  given: E.
+- family: Fiaschi
+  given: M.
+- family: Howell
+  given: A.
+- family: Kankare
+  given: E.
+- family: Magill
+  given: L.
+- family: Mattila
+  given: S.
+- family: Maund
+  given: J.
+- family: Naves
+  given: R.
+- family: Ochner
+  given: P.
+- family: Ruiz
+  given: J.
+- family: Smith
+  given: K.
+- family: Tomasella
+  given: L.
+- family: Turatto
+  given: M.
+date-added: 2017-08-11 07:09:58 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1051/0004-6361/201321850
+eid: A17
+eprint: '1305.1851'
+journal: \aap
+keywords: 'supernovae: general, supernovae: individual: SN 2011dh, galaxies: clusters:
+  individual: M51'
+month: February
+pages: A17
+papis_id: 1630ed7e5f418907cc8e6467c57cae3a
+primaryclass: astro-ph.SR
+ref: ergon.m.2014
+title: Optical and near-infrared observations of SN 2011dh - The first 100 days
+type: article
+volume: '562'
+year: '2014'

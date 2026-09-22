@@ -1,0 +1,31 @@
+abstract: A fully implicit two-dimensional hydrodynamic and hydrostatic code has been
+  developed for studying stellar evolution with arbitrary rotation laws. The technique,
+  a simultaneous linearization of the two-dimensional corservation laws and all the
+  boundary conditions, is described in detail. Several evolutionary sequences with
+  uniform and nonuniform rotation are evolved through core hydrogen burning. For uniform
+  rotation, the main-sequence models are compared with those of another code obtained
+  under nearly identical conditions. The method appears to be robust and shows promise
+  of being able to deal with the determination of the evolution of the rotation law
+  during the course of the stellar evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1990ApJ...357..175D
+author: Deupree, R. G.
+author_list:
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-11 00:17:00 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/168903
+journal: \apj
+keywords: Computational Astrophysics, Stellar Evolution, Stellar Interiors, Stellar
+  Rotation, Two Dimensional Models, Boundary Value Problems, Conservation Laws, Main
+  Sequence Stars, Stellar Models
+month: July
+pages: 175--187
+papis_id: 760182c4a232042854c9b641f43ba9ca
+ref: deupree.r.1990
+title: Stellar evolution with arbitrary rotation laws. I - Mathematical techniques
+  and test cases
+type: article
+volume: '357'
+year: '1990'

@@ -1,0 +1,50 @@
+abstract: Mixing by the Rayleigh-Taylor (R-T) instability in incompressible magnetic
+  fluids is studied with two- and three-dimensional ideal MHD simulations. Evolution
+  and amplification of magnetic fields in the Rayleigh- Taylor instability are explored
+  in the linear and nonlinear regime for various perturbations. In a single-mode perturbation,
+  both tangential and normal magnetic fields to the density interface decrease the
+  growth of instabilities, while a tangential field is more efficient in stabilizing
+  the flow, as predicted by linear theory. However, the growth of a multiple-mode
+  perturbation in the nonlinear regime tends to be enhanced by a normal magnetic field
+  because the flow is collimated along the field lines. A strong tangential field
+  suppresses the growth of short-wavelength modes, as expected from linear theory.
+  Three-dimensional numerical simulations are carried out to study the amplification
+  of magnetic fields in the turbulent mixing layer developed by the instability in
+  the nonlinear regime. We find the following results. (1) The turbulent flow amplifies
+  the magnetic field more efficiently in three-dimensions than in two-dimensions.
+  (2) The peak of the magnetic energy spectrum occurs at high wavenumbers, which means
+  that the field is amplified preferentially on small scales. (3) The peak of the
+  kinetic energy spectrum is at scales significantly longer than the grid scale, is
+  independent of grid resolution, and reflects the characteristic size of the R-T
+  fingers at a given time. (4) Secondary Kelvin-Helmholtz instabilities generate vortex
+  rings and ring-structured magnetic fields. However, the stretching of field lines
+  by R-T fingers is the dominant amplification mechanism. (5) The final structures
+  are very sensitive to the initial magnetic field and numerical resolution. (6) The
+  magnetic field component along the gravity vector dominates as the instabilities
+  grow. This dominance is stronger in three dimensions than in two dimensions, but
+  it becomes less dominant as the resolution increases. (7) Higher resolution produces
+  a greater total magnetic energy and a smaller total kinetic energy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...453..332J
+author: Jun, B.-I. and Norman, M. L. and Stone, J. M.
+author_list:
+- family: Jun
+  given: B.-I.
+- family: Norman
+  given: M. L.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 22:01:19 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176393
+journal: \apj
+keywords: 'INSTABILITIES, MAGNETIC FIELDS, METHODS: NUMERICAL, MAGNETOHYDRODYNAMICS:
+  MHD, TURBULENCE'
+month: November
+pages: '332'
+papis_id: 61da2265d1ad63e6c73bec4e94482aa7
+ref: jun.b_i.1995
+title: A Numerical Study of Rayleigh-Taylor Instability in Magnetic Fluids
+type: article
+volume: '453'
+year: '1995'

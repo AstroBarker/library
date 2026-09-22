@@ -1,0 +1,78 @@
+abstract: 'We present the photometric calibration of the Advanced Camera for Surveys
+  (ACS). The ACS was installed in the Hubble Space Telescope (HST) in 2002 March.
+  It comprises three cameras: the Wide Field Channel (WFC), optimized for deep near-IR
+  survey imaging programs; the High Resolution Channel (HRC), a high-resolution imager
+  that fully samples the HST point-spread function (PSF) in the visible; and the Solar
+  Blind Channel (SBC), a far-UV imager. A significant amount of data has been collected
+  to characterize the on-orbit performance of the three channels. We give here an
+  overview of the performance and calibration of the two CCD cameras (WFC and HRC)
+  and a description of the best techniques for reducing ACS CCD data. The overall
+  performance is as expected from prelaunch testing of the camera. Surprises were
+  a better-than-predicted sensitivity in the visible and near-IR for both the WFC
+  and HRC and an unpredicted dip in the HRC UV response at ~3200 {\AA}. On-orbit observations
+  of spectrophotometric standard stars have been used to revise the prelaunch estimate
+  of the instrument response curves to best match predicted and observed count rates.
+  Synthetic photometry has been used to determine zero points for all filters in three
+  magnitude systems and to derive interstellar extinction values for the ACS photometric
+  systems. Due to the CCD internal scattering of long-wavelength photons, the width
+  of the PSF increases significantly in the near-IR, and the aperture correction for
+  photometry with near-IR filters depends on the spectral energy distribution of the
+  source. We provide a detailed recipe to correct for the latter effect. Transformations
+  between the ACS photometric systems and the UBVRI and WFPC2 systems are presented.
+  In general, two sets of transformations are available: one based on the observation
+  of two star clusters; the other on synthetic photometry. We discuss the accuracy
+  of these transformations and their sensitivity to details of the spectra being transformed.
+  Initial signs of detector degradation due to the HST radiative environment are already
+  visible. We discuss the impact on the data in terms of dark rate increase, charge
+  transfer inefficiency, and ``hot'''' pixel population.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005PASP..117.1049S
+arxivurl: http://arxiv.org/abs/astro-ph/0507614
+author: Sirianni, M. and Jee, M. J. and Benítez, N. and Blakeslee, J. P. and Martel,
+  A. R. and Meurer, G. and Clampin, M. and De Marchi, G. and Ford, H. C. and Gilliland,
+  R. and Hartig, G. F. and Illingworth, G. D. and Mack, J. and McCann, W. J.
+author_list:
+- family: Sirianni
+  given: M.
+- family: Jee
+  given: M. J.
+- family: Benítez
+  given: N.
+- family: Blakeslee
+  given: J. P.
+- family: Martel
+  given: A. R.
+- family: Meurer
+  given: G.
+- family: Clampin
+  given: M.
+- family: De Marchi
+  given: G.
+- family: Ford
+  given: H. C.
+- family: Gilliland
+  given: R.
+- family: Hartig
+  given: G. F.
+- family: Illingworth
+  given: G. D.
+- family: Mack
+  given: J.
+- family: McCann
+  given: W. J.
+date-added: 2017-08-10 21:16:13 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/444553
+eprint: astro-ph/0507614
+journal: \pasp
+keywords: 'Instrumentation: Detectors, Instrumentation: Photometers, Techniques: Photometric,
+  Methods: Data Analysis'
+month: October
+pages: 1049--1112
+papis_id: a9c5749353fbc044bb7171a62e07995c
+ref: sirianni.m.2005
+title: The Photometric Performance and Calibration of the Hubble Space Telescope Advanced
+  Camera for Surveys
+type: article
+volume: '117'
+year: '2005'

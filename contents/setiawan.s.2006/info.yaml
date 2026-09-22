@@ -1,0 +1,63 @@
+abstract: By means of three-dimensional hydrodynamic simulations with an Eulerian
+  PPM code we investigate the time-dependent evolution and properties of accretion
+  tori around nonrotating and rotating stellar-mass black holes, using a pseudo-Newtonian
+  (Paczynski \& Wiita or Artemova-Bj{\"o}rnsson-Novikov) potential to approximate
+  the effects of general relativity. The simulations are performed with three nested
+  Cartesian grids to ensure sufficient resolution near the central black hole on the
+  one hand and a large computational volume on the other. The black hole and torus
+  are considered as the remnant of a binary neutron star or neutron-star black-hole
+  merger. Referring to results from previous hydrodynamical simulations of such events,
+  we assume the initial configurations to consist of a black hole with a mass of about
+  4 M\_\&sun; girded by a toroidal accretion disk with a mass in the range from about
+  0.01 M\_\&sun; to 0.2 M\_\&sun;. We simulate the torus evolution without and with
+  physical shear viscosity, employing a simple alpha-model for the gas viscosity.
+  As in our previous work on merging neutron star binaries and neutron star/black
+  hole binaries, we use the equation of state of Lattimer and Swesty. The energy loss
+  and lepton number change due to neutrino emission from the hot torus are treated
+  by a neutrino-trapping scheme. The energy deposition by neutrino-antineutrino annihilation
+  around the disk is evaluated in a post-processing step. The time-dependent efficiency
+  of converting gravitational energy to neutrinos, expressed by the ratio of neutrino
+  luminosity to accretion rate of rest-mass energy, can reach maximum values of up
+  to about 10\%. The corresponding efficiency of converting neutrino energy into a
+  pair-photon fireball by neutrino annihilation peaks at values of several percent.
+  Interestingly, we find that the rate of neutrino-antineutrino annihilation decays
+  with time much less steeply than the total neutrino luminosity does with the decreasing
+  gas mass of the torus, because the ongoing protonization of the initially neutron-rich
+  disk matter leads to a rather stable product of neutrino and antineutrino luminosities.
+  The neutrino luminosity and total energy release of the torus increase steeply with
+  higher viscosity, larger torus mass, and larger black hole spin in corotation with
+  the disk, in particular when the spin parameter is a \gtrapprox{} 0.8. The latter
+  dependence is moderated in case of a high disk viscosity. For rotation rates as
+  expected for post-merger black holes (a\gtrapprox{} 0.5) and reasonable values of
+  the alpha viscosity of the torus (alpha \texttildelow{} 0.1), torus masses in the
+  investigated range can release sufficient energy in neutrinos to account for the
+  energetics of the well-localized short gamma-ray bursts recently detected by Hete
+  and Swift, if collimation of the ultrarelativistic outflows into about 1\% of the
+  sky is invoked, as predicted by recent hydrodynamic jet simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...458..553S
+arxivurl: http://arxiv.org/abs/astro-ph/0509300
+author: Setiawan, S. and Ruffert, M. and Janka, H.-T.
+author_list:
+- family: Setiawan
+  given: S.
+- family: Ruffert
+  given: M.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 18:08:35 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20054193
+eprint: astro-ph/0509300
+journal: \aap
+keywords: 'accretion, accretion disks, hydrodynamics, elementary particles, gamma
+  rays: bursts, stars: neutron'
+month: November
+pages: 553--567
+papis_id: 6fa412a9187498e6ba3671db71a052d4
+ref: setiawan.s.2006
+title: Three-dimensional simulations of non-stationary accretion by remnant black
+  holes of compact object mergers
+type: article
+volume: '458'
+year: '2006'

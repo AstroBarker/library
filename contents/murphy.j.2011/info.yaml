@@ -1,0 +1,49 @@
+abstract: Simulations of core-collapse supernovae (CCSNe) result in successful explosions
+  once the neutrino luminosity exceeds a critical curve, and recent simulations indicate
+  that turbulence further enables explosion by reducing this critical neutrino luminosity.
+  We propose a theoretical framework to derive this result and take the first steps
+  by deriving the governing mean-field equations. Using Reynolds decomposition, we
+  decompose flow variables into background and turbulent flows and derive self-consistent
+  averaged equations for their evolution. As basic requirements for the CCSN problem,
+  these equations naturally incorporate steady-state accretion, neutrino heating and
+  cooling, non-zero entropy gradients, and turbulence terms associated with buoyant
+  driving, redistribution, and dissipation. Furthermore, analysis of two-dimensional
+  (2D) CCSN simulations validate these Reynolds-averaged equations, and we show that
+  the physics of turbulence entirely accounts for the differences between 1D and 2D
+  CCSN simulations. As a prelude to deriving the reduction in the critical luminosity,
+  we identify the turbulent terms that most influence the conditions for explosion.
+  Generically, turbulence equations require closure models, but these closure models
+  depend upon the macroscopic properties of the flow. To derive a closure model that
+  is appropriate for CCSNe, we cull the literature for relevant closure models and
+  compare each with 2D simulations. These models employ local closure approximations
+  and fail to reproduce the global properties of neutrino-driven turbulence. Motivated
+  by the generic failure of these local models, we propose an original model for turbulence
+  which incorporates global properties of the flow. This global model accurately reproduces
+  the turbulence profiles and evolution of 2D CCSN simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742...74M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.5496
+author: Murphy, J. W. and Meakin, C.
+author_list:
+- family: Murphy
+  given: J. W.
+- family: Meakin
+  given: C.
+date-added: 2017-08-10 18:30:43 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/742/2/74
+eid: '74'
+eprint: '1106.5496'
+journal: \apj
+keywords: 'convection, hydrodynamics, instabilities, methods: analytical, methods:
+  numerical, shock waves, supernovae: general, turbulence'
+month: December
+pages: '74'
+papis_id: 70028240a347b05b696421855636ee78
+primaryclass: astro-ph.SR
+ref: murphy.j.2011
+title: A Global Turbulence Model for Neutrino-driven Convection in Core-collapse Supernovae
+type: article
+volume: '742'
+year: '2011'

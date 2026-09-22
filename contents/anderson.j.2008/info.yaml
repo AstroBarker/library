@@ -1,0 +1,64 @@
+abstract: The ACS Survey of Globular Clusters has used Hubble Space Telescope's Wide-Field
+  Channel to obtain uniform imaging of 65 of the nearest globular clusters to provide
+  an extensive homogeneous data set for a broad range of scientific investigations.
+  The survey goals required not only a uniform observing strategy, but also a uniform
+  reduction strategy. To this end, we designed a sophisticated software program to
+  process the cluster data in an automated way. The program identifies stars simultaneously
+  in the multiple dithered exposures for each cluster and measures them using the
+  best available point-spread function models. We describe here in detail the program's
+  rationale, algorithms, and output. The routine was also designed to perform artificial-star
+  tests, and we ran a standard set of ~105 tests for each cluster in the survey. The
+  catalog described here will be exploited in a number of upcoming papers and will
+  eventually be made available to the public via the World Wide Web.  Based on observations
+  with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science
+  Institute, which is operated by AURA, Inc., under NASA contract NAS 5-26555.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....135.2055A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.2025
+author: Anderson, J. and Sarajedini, A. and Bedin, L. R. and King, I. R. and Piotto,
+  G. and Reid, I. N. and Siegel, M. and Majewski, S. R. and Paust, N. E. Q. and Aparicio,
+  A. and Milone, A. P. and Chaboyer, B. and Rosenberg, A.
+author_list:
+- family: Anderson
+  given: J.
+- family: Sarajedini
+  given: A.
+- family: Bedin
+  given: L. R.
+- family: King
+  given: I. R.
+- family: Piotto
+  given: G.
+- family: Reid
+  given: I. N.
+- family: Siegel
+  given: M.
+- family: Majewski
+  given: S. R.
+- family: Paust
+  given: N. E. Q.
+- family: Aparicio
+  given: A.
+- family: Milone
+  given: A. P.
+- family: Chaboyer
+  given: B.
+- family: Rosenberg
+  given: A.
+date-added: 2017-08-11 05:04:41 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1088/0004-6256/135/6/2055
+eprint: '0804.2025'
+journal: \aj
+keywords: 'catalogs, globular clusters: general, techniques: image processing, techniques:
+  photometric'
+month: June
+pages: 2055--2073
+papis_id: 6bb72bdf33f03aa240cb215bd298e64d
+ref: anderson.j.2008
+title: The Acs Survey of Globular Clusters. V. Generating a Comprehensive Star Catalog
+  for each Cluster
+type: article
+volume: '135'
+year: '2008'

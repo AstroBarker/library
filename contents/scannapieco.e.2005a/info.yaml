@@ -1,0 +1,35 @@
+abstract: 'We explore the idea that the Type Ia supernova (SN Ia) rate consists of
+  two components: a prompt piece that is proportional to the star formation rate (SFR),
+  and an extended piece that is proportional to the total stellar mass. We fit the
+  parameters of this model to the local observations by Mannucci and collaborators
+  and then study its impact on three important problems. On cosmic scales, the model
+  reproduces the observed SN Ia rate density below z=1 and predicts that it will track
+  the measured SFR density at higher redshift, reaching a value of (1-3.5)\texttimes{}10-4
+  yr-1 Mpc-3 at z=2. In galaxy clusters, a large prompt contribution helps explain
+  the Fe content of the intracluster medium. Within the Galaxy, the model reproduces
+  the observed stellar [O/Fe] abundance ratios if we allow a short (~0.7 Gyr) delay
+  in the prompt component. Ongoing medium-z SN surveys will yield more accurate parameters
+  for our model.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629L..85S
+arxivurl: http://arxiv.org/abs/astro-ph/0507456
+author: Scannapieco, E. and Bildsten, L.
+author_list:
+- family: Scannapieco
+  given: E.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 17:29:22 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/452632
+eprint: astro-ph/0507456
+journal: \apjl
+keywords: 'Galaxies: Evolution, Stars: Supernovae: General'
+month: August
+pages: L85-L88
+papis_id: b914650f3998288d5fa46bf83d5833e5
+ref: scannapieco.e.2005a
+title: The Type Ia Supernova Rate
+type: article
+volume: '629'
+year: '2005'

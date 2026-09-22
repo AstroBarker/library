@@ -1,0 +1,49 @@
+abstract: Polarization has been detected at early times for all types of supernovae
+  (SNe), indicating that all such systems result from or quickly develop some form
+  of asymmetry. In addition, the detection of strong line polarization in SNe is suggestive
+  of chemical inhomogeneities ("clumps") in the layers above the photosphere, which
+  may reflect hydrodynamical instabilities during the explosion. We have developed
+  a fast, flexible, approximate semi-analytic code for modeling polarized line radiative
+  transfer within three-dimensional inhomogeneous rapidly expanding atmospheres. Given
+  a range of model parameters, the code generates random sets of clumps in the expanding
+  ejecta and calculates the emergent line profile and Stokes parameters for each configuration.
+  The ensemble of these configurations represents the effects both of various host
+  geometries and of different viewing angles. We present results for the first part
+  of our survey of model geometries, specifically the effects of the number and size
+  of clumps (and the related effect of filling factor) on the emergent spectrum and
+  Stokes parameters. Our simulations show that random clumpiness can produce line
+  polarization in the range observed in SNe Ia, as well as the Q-U loops that are
+  frequently seen in all SNe. We have also developed a method to connect the results
+  of our simulations to robust observational parameters such as maximum polarization
+  and polarized equivalent width in the line. Our models, in connection with spectropolarimetric
+  observations, can constrain the three-dimensional structure of SN ejecta and offer
+  important insight into the SN explosion physics and the nature of their progenitor
+  systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...720.1500H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.4256
+author: Hole, K. T. and Kasen, D. and Nordsieck, K. H.
+author_list:
+- family: Hole
+  given: K. T.
+- family: Kasen
+  given: D.
+- family: Nordsieck
+  given: K. H.
+date-added: 2017-08-10 22:54:38 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/720/2/1500
+eprint: '1007.4256'
+journal: \apj
+keywords: 'line: profiles, methods: numerical, polarization, radiative transfer, supernovae:
+  general'
+month: September
+pages: 1500--1512
+papis_id: 6afe0608214324690bcfaebd3b0dccdf
+primaryclass: astro-ph.HE
+ref: hole.k.2010
+title: Spectropolarimetric Signatures of Clumpy Supernova Ejecta
+type: article
+volume: '720'
+year: '2010'

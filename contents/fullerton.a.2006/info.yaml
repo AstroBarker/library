@@ -1,0 +1,44 @@
+abstract: We have determined accurate values of the product of the mass-loss rate
+  and the ion fraction of P+4, M\textperiodcentered{}q(P+4), for a sample of 40 Galactic
+  O-type stars by fitting stellar wind profiles to observations of the P V resonance
+  doublet obtained with FUSE, ORFEUS BEFS, and Copernicus. When P+4 is the dominant
+  ion in the wind [i.e., 0.5<~q(P+4)<=1], M\textperiodcentered{}q(P+4) approximates
+  the mass-loss rate to within a factor of <~2. Theory predicts that P+4 is the dominant
+  ion in the winds of O7-O9.7 stars, although an empirical estimator suggests that
+  the range O4-O7 may be more appropriate. However, we find that the mass-loss rates
+  obtained from P V wind profiles are systematically smaller than those obtained from
+  fits to Halpha emission profiles or radio free-free emission by median factors of
+  ~130 (if P+4 is dominant between O7 and O9.7) or ~20 (if P+4 is dominant between
+  O4 and O7). These discordant measurements can be reconciled if the winds of O stars
+  in the relevant temperature range are strongly clumped on small spatial scales.
+  We use a simplified two-component model to investigate the volume filling factors
+  of the denser regions. This clumping implies that mass-loss rates determined from
+  ``rho2'' diagnostics have been systematically overestimated by factors of 10 or
+  more, at least for a subset of O stars. Reductions in the mass-loss rates of this
+  size have important implications for the evolution of massive stars and quantitative
+  estimates of the feedback that hot-star winds provide to their interstellar environments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...637.1025F
+arxivurl: http://arxiv.org/abs/astro-ph/0510252
+author: Fullerton, A. W. and Massa, D. L. and Prinja, R. K.
+author_list:
+- family: Fullerton
+  given: A. W.
+- family: Massa
+  given: D. L.
+- family: Prinja
+  given: R. K.
+date-added: 2017-08-11 03:11:41 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/498560
+eprint: astro-ph/0510252
+journal: \apj
+keywords: 'Stars: Early-Type, Stars: Mass Loss, Stars: Winds, Outflows'
+month: February
+pages: 1025--1039
+papis_id: 78f520e136acf517766c4a48d7a4a909
+ref: fullerton.a.2006
+title: The Discordance of Mass-Loss Estimates for Galactic O-Type Stars
+type: article
+volume: '637'
+year: '2006'

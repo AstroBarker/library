@@ -1,0 +1,64 @@
+abstract: We investigate the relation between star formation rate (SFR) and gas surface
+  densities in Galactic star-forming regions using a sample of young stellar objects
+  (YSOs) and massive dense clumps. Our YSO sample consists of objects located in 20
+  large molecular clouds from the Spitzer cores to disks (c2d) and Gould's Belt (GB)
+  surveys. These data allow us to probe the regime of low-mass star formation, essentially
+  invisible to tracers of high-mass star formation used to establish extragalactic
+  SFR-gas relations. We estimate the gas surface density (Sigmagas) from extinction
+  (AV ) maps and YSO SFR surface densities (SigmaSFR) from the number of YSOs, assuming
+  a mean mass and lifetime. We also divide the clouds into evenly spaced contour levels
+  of AV , counting only Class I and Flat spectral energy distribution YSOs, which
+  have not yet migrated from their birthplace. For a sample of massive star-forming
+  clumps, we derive SFRs from the total infrared luminosity and use HCN gas maps to
+  estimate gas surface densities. We find that c2d and GB clouds lie above the extragalactic
+  SFR-gas relations (e.g., Kennicutt-Schmidt law) by factors of up to 17. Cloud regions
+  with high Sigmagas lie above extragalactic relations up to a factor of 54 and overlap
+  with high-mass star-forming regions. We use 12CO and 13CO gas maps of the Perseus
+  and Ophiuchus clouds from the COMPLETE survey to estimate gas surface densities
+  and compare to measurements from AV maps. We find that 13CO, with the standard conversions
+  to total gas, underestimates the AV -based mass by factors of ~4-5. 12CO may underestimate
+  the total gas mass at Sigmagas >~ 200 M sun pc-2 by gsim30\%; however, this small
+  difference in mass estimates does not explain the large discrepancy between Galactic
+  and extragalactic relations. We find evidence for a threshold of star formation
+  (Sigmath) at 129 $\pm$ 14 M sun pc-2. At Sigmagas>Sigmath, the Galactic SFR-gas
+  relation is linear. A possible reason for the difference between Galactic and extragalactic
+  relations is that much of Sigmagas is below Sigmath in extragalactic studies, which
+  detect all the CO-emitting gas. If the Kennicutt-Schmidt relation (SigmaSFR vprop
+  Sigma1.4 gas) and a linear relation between dense gas and star formation are assumed,
+  the fraction of dense star-forming gas (f dense) increases as ~Sigma0.4 gas. When
+  Sigmagas reaches ~300 Sigmath, the fraction of dense gas is ~1, creating a maximal
+  starburst.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...723.1019H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.1621
+author: Heiderman, A. and Evans II, N. J. and Allen, L. E. and Huard, T. and Heyer,
+  M.
+author_list:
+- family: Heiderman
+  given: A.
+- family: Evans II
+  given: N. J.
+- family: Allen
+  given: L. E.
+- family: Huard
+  given: T.
+- family: Heyer
+  given: M.
+date-added: 2017-08-11 01:36:18 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/723/2/1019
+eid: 1019-1037
+eprint: '1009.1621'
+journal: \apj
+keywords: 'dust, extinction, galaxies: ISM, galaxies: star formation, infrared: stars,
+  ISM: clouds, stars: formation'
+month: November
+pages: 1019--1037
+papis_id: a38f3d8aedf3d1bd8746b6c45432f0fb
+ref: heiderman.a.2010
+title: 'The Star Formation Rate and Gas Surface Density Relation in the Milky Way:
+  Implications for Extragalactic Studies'
+type: article
+volume: '723'
+year: '2010'

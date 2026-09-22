@@ -1,0 +1,59 @@
+abstract: With the successful launch of the Swift Gamma-Ray Burst Explorer, a rich
+  trove of early X-ray afterglow data has been collected by its onboard X-Ray Telescope
+  (XRT). Some interesting features are emerging, including a distinct rapidly decaying
+  component preceding the conventional afterglow component in many sources, a shallow
+  decay component before the more ``normal'' decay component observed in a good fraction
+  of GRBs, and X-ray flares in nearly half of the afterglows. In this paper we systematically
+  analyze the possible physical processes that shape the properties of the early X-ray
+  afterglow light curves and use the data to constrain various models. We suggest
+  that the steep decay component is consistent with the tail emission of the prompt
+  gamma-ray bursts and/or the X-ray flares. This provides strong evidence that the
+  prompt emission and afterglow emission are likely two distinct components, supporting
+  the internal origin of the GRB prompt emission. The shallow decay segment observed
+  in a group of GRBs suggests that very likely the forward shock keeps being refreshed
+  for some time. This might be caused by either a long-lived central engine, or a
+  wide distribution of the shell Lorentz factors, or else possibly the deceleration
+  of a Poynting flux-dominated flow. X-ray flares suggest that the GRB central engine
+  is very likely still active after the prompt gamma-ray emission is over, but with
+  a reduced activity at later times. In some cases, the central engine activity even
+  extends to days after the burst triggers. Analyses of early X-ray afterglow data
+  reveal that GRBs are indeed highly relativistic events and that early afterglow
+  data of many bursts, starting from the beginning of the XRT observations, are consistent
+  with the afterglow emission from an ISM environment.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...642..354Z
+arxivurl: http://arxiv.org/abs/astro-ph/0508321
+author: Zhang, B. and Fan, Y. Z. and Dyks, J. and Kobayashi, S. and Mészáros, P. and
+  Burrows, D. N. and Nousek, J. A. and Gehrels, N.
+author_list:
+- family: Zhang
+  given: B.
+- family: Fan
+  given: Y. Z.
+- family: Dyks
+  given: J.
+- family: Kobayashi
+  given: S.
+- family: Mészáros
+  given: P.
+- family: Burrows
+  given: D. N.
+- family: Nousek
+  given: J. A.
+- family: Gehrels
+  given: N.
+date-added: 2017-08-11 04:46:54 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500723
+eprint: astro-ph/0508321
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal, Shock Waves'
+month: May
+pages: 354--370
+papis_id: 4c52a0d900096a923209eb9f41a710b6
+ref: zhang.b.2006
+title: 'Physical Processes Shaping Gamma-Ray Burst X-Ray Afterglow Light Curves: Theoretical
+  Implications from the Swift X-Ray Telescope Observations'
+type: article
+volume: '642'
+year: '2006'

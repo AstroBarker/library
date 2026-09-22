@@ -1,0 +1,55 @@
+abstract: Monte Carlo approaches to radiation transport have several attractive properties
+  such as simplicity of implementation, high accuracy, and good parallel scaling.
+  Moreover, Monte Carlo methods can handle complicated geometries and are relatively
+  easy to extend to multiple spatial dimensions, which makes them potentially interesting
+  in modeling complex multi-dimensional astrophysical phenomena such as core-collapse
+  supernovae. The aim of this paper is to explore Monte Carlo methods for modeling
+  neutrino transport in core-collapse supernovae. We generalize the Implicit Monte
+  Carlo photon transport scheme of Fleck \& Cummings and gray discrete-diffusion scheme
+  of Densmore et al. to energy-, time-, and velocity-dependent neutrino transport.
+  Using our 1D spherically-symmetric implementation, we show that, similar to the
+  photon transport case, the implicit scheme enables significantly larger timesteps
+  compared with explicit time discretization, without sacrificing accuracy, while
+  the discrete-diffusion method leads to significant speed-ups at high optical depth.
+  Our results suggest that a combination of spectral, velocity-dependent, Implicit
+  Monte Carlo and discrete-diffusion Monte Carlo methods represents a robust approach
+  for use in neutrino transport calculations in core-collapse supernovae. Our velocity-dependent
+  scheme can easily be adapted to photon transport.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755..111A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.2915
+author: Abdikamalov, E. and Burrows, A. and Ott, C. D. and Löffler, F. and O'Connor,
+  E. and Dolence, J. C. and Schnetter, E.
+author_list:
+- family: Abdikamalov
+  given: E.
+- family: Burrows
+  given: A.
+- family: Ott
+  given: C. D.
+- family: Löffler
+  given: F.
+- family: O'Connor
+  given: E.
+- family: Dolence
+  given: J. C.
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 19:41:28 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/2/111
+eid: '111'
+eprint: '1203.2915'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, radiative transfer, stars: evolution, stars:
+  neutron, supernovae: general'
+month: August
+pages: '111'
+papis_id: 27ce1bf695686c964f42f83ee1a16869
+primaryclass: astro-ph.SR
+ref: abdikamalov.e.2012
+title: A New Monte Carlo Method for Time-dependent Neutrino Radiation Transport
+type: article
+volume: '755'
+year: '2012'

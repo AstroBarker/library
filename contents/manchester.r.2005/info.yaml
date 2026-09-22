@@ -1,0 +1,39 @@
+abstract: We have compiled a new and complete catalog of the main properties of the
+  1509 pulsars for which published information currently exists. The catalog includes
+  all spin-powered pulsars, as well as anomalous X-ray pulsars and soft gamma-ray
+  repeaters showing coherent pulsed emission, but excludes accretion-powered systems.
+  References are given for all data listed. We have also developed a new World Wide
+  Web interface for accessing and displaying either tabular or plotted data with the
+  option of selecting pulsars to be displayed via logical conditions on parameter
+  expressions. The Web interface has an ``expert'' mode giving access to a wider range
+  of parameters and allowing the use of custom databases. For users with locally installed
+  software and database on Unix or Linux systems, the catalog may be accessed from
+  a command-line interface. C-language functions to access specified parameters are
+  also available. The catalog is updated from time to time to include new information.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005AJ....129.1993M
+arxivurl: http://arxiv.org/abs/astro-ph/0412641
+author: Manchester, R. N. and Hobbs, G. B. and Teoh, A. and Hobbs, M.
+author_list:
+- family: Manchester
+  given: R. N.
+- family: Hobbs
+  given: G. B.
+- family: Teoh
+  given: A.
+- family: Hobbs
+  given: M.
+date-added: 2017-08-10 15:44:43 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428488
+eprint: astro-ph/0412641
+journal: \aj
+keywords: 'Catalogs, Stars: Pulsars: General'
+month: April
+pages: 1993--2006
+papis_id: 64c6b4c4dcb9a2747ad03897d2103f25
+ref: manchester.r.2005
+title: The Australia Telescope National Facility Pulsar Catalogue
+type: article
+volume: '129'
+year: '2005'

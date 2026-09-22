@@ -1,0 +1,42 @@
+abstract: We use high-resolution N-body simulations to study the equilibrium density
+  profiles of dark matter halos in hierarchically clustering universes. We find that
+  all such profiles have the same shape, independent of the halo mass, the initial
+  density fluctuation spectrum, and the values of the cosmological parameters. Spherically
+  averaged equilibrium profiles are well fitted over two decades in radius by a simple
+  formula originally proposed to describe the structure of galaxy clusters in a cold
+  dark matter universe. In any particular cosmology, the two scale parameters of the
+  fit, the halo mass and its characteristic density, are strongly correlated. Low-mass
+  halos are significantly denser than more massive systems, a correlation that reflects
+  the higher collapse redshift of small halos. The characteristic density of an equilibrium
+  halo is proportional to the density of the universe at the time it was assembled.
+  A suitable definition of this assembly time allows the same proportionality constant
+  to be used for all the cosmologies that we have tested. We compare our results with
+  previous work on halo density profiles and show that there is good agreement. We
+  also provide a step-by-step analytic procedure, based on the Press-Schechter formalism,
+  that allows accurate equilibrium profiles to be calculated as a function of mass
+  in any hierarchical model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...490..493N
+arxivurl: http://arxiv.org/abs/astro-ph/9611107
+author: Navarro, J. F. and Frenk, C. S. and White, S. D. M.
+author_list:
+- family: Navarro
+  given: J. F.
+- family: Frenk
+  given: C. S.
+- family: White
+  given: S. D. M.
+date-added: 2017-08-10 21:39:40 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304888
+eprint: astro-ph/9611107
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Dark Matter, Galaxies: Halos, Methods: Numerical'
+month: December
+pages: 493--508
+papis_id: 107902f201e9899c0f9a8cd4ecb95733
+ref: navarro.j.1997
+title: A Universal Density Profile from Hierarchical Clustering
+type: article
+volume: '490'
+year: '1997'

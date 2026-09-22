@@ -1,0 +1,47 @@
+abstract: We analyze the linear stability of a stalled accretion shock in a perfect
+  gas with a parameterized cooling function L~rhobeta-alphaPalpha. The instability
+  is dominated by the l=1 mode if the shock radius exceeds 2-3 times the accretor
+  radius, depending on the parameters of the cooling function. The growth rate and
+  oscillation period are comparable to those observed in the numerical simulations
+  of Blondin \& Mezzacappa. The instability mechanism is analyzed by separately measuring
+  the efficiencies of the purely acoustic cycle and the advective-acoustic cycle.
+  These efficiencies are estimated directly from the eigenspectrum and also through
+  a WKB analysis in the high-frequency limit. Both methods prove that the advective-acoustic
+  cycle is unstable and that the purely acoustic cycle is stable. Extrapolating these
+  results to low frequency leads us to interpret the dominant mode as an advective-acoustic
+  instability, different from the purely acoustic interpretation of Blondin \& Mezzacappa.
+  A simplified characterization of the instability is proposed, based on an advective-acoustic
+  cycle between the shock and the radius r\nabla{} where the velocity gradients of
+  the stationary flow are strongest. The importance of the coupling region in this
+  mechanism calls for a better understanding of the conditions for an efficient advective-acoustic
+  coupling in a decelerated, nonadiabatic flow, in order to extend these results to
+  core-collapse supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...654.1006F
+arxivurl: http://arxiv.org/abs/astro-ph/0606640
+author: Foglizzo, T. and Galletti, P. and Scheck, L. and Janka, H.-T.
+author_list:
+- family: Foglizzo
+  given: T.
+- family: Galletti
+  given: P.
+- family: Scheck
+  given: L.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 18:36:35 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/509612
+eprint: astro-ph/0606640
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Hydrodynamics, Instabilities, Shock Waves,
+  Stars: Supernovae: General'
+month: January
+pages: 1006--1021
+papis_id: 5ae4b827c6dbfb8cfe384bdfae446ff5
+ref: foglizzo.t.2007
+title: 'Instability of a Stalled Accretion Shock: Evidence for the Advective-Acoustic
+  Cycle'
+type: article
+volume: '654'
+year: '2007'

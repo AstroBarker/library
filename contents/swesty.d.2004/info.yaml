@@ -1,0 +1,41 @@
+abstract: Flux-limited diffusion has become a popular method for treating radiation
+  transport in multidimensional astrophysical simulation codes with multi-group flux-limited
+  diffusion (MGFLD) undergoing increasing use in a number of applications. The most
+  computationally demanding aspect of this technique is the solution of the large
+  linear systems that arise from the implicit finite-difference scheme that is used
+  to solve the underlying integro-PDEs that describe MGFLD. The solution of these
+  linear systems often dominates the computational cost of carrying out astrophysical
+  simulations. Hence, efficient methods for solving these systems are highly desirable.
+  In this paper we examine the numerical efficiency of a number of iterative Krylov
+  subspace methods for the solution of the MGFLD linear systems arising from a series
+  of challenging test problems. The problems we employ were designed to test the capabilities
+  of the linear-system solvers under difficult conditions. The algorithms and preconditioners
+  we examine in this study were selected on the basis that they are relatively easy
+  to parallelize. We find that certain algorithm/preconditioner combinations consistently
+  outperform others for a series of test problems. Additionally, we find that the
+  method of preparing the linear system for solution by scaling the system has a dramatic
+  effect on the convergence behavior of the iterative methods.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJS..153..369S
+author: Swesty, D. F. and Smolarski, D. C. and Saylor, P. E.
+author_list:
+- family: Swesty
+  given: D. F.
+- family: Smolarski
+  given: D. C.
+- family: Saylor
+  given: P. E.
+date-added: 2017-08-11 05:30:50 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/420785
+journal: \apjs
+keywords: 'Methods: Numerical, Radiative Transfer'
+month: July
+pages: 369--387
+papis_id: 50e1b458a3abb142c078c7660fe97c40
+ref: swesty.d.2004
+title: A Comparison of Algorithms for the Efficient Solution of the Linear Systems
+  Arising from Multigroup Flux-limited Diffusion Problems
+type: article
+volume: '153'
+year: '2004'

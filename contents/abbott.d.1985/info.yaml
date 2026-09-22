@@ -1,0 +1,33 @@
+abstract: A Monte Carlo technique for treating multiline transfer in stellar winds
+  is described and tested. With a line list containing many thousands of transitions
+  and with fairly realistic treatments of ionization, excitation, and line formation,
+  the resulting code allows the dynamical effects of overlapping lines to be investigated
+  quantitatively, as well as providing the means of directly synthesizing the complete
+  spectrum of a star and its wind. As a direct result of this improved treatment of
+  multiline transfer, the computed mass loss rate for Zeta Puppis is now found to
+  agree with the observed rate. The synthesized spectrum of Zeta Puppis also agrees
+  with observational data. These results confirm that line driving is the dominant
+  acceleration mechanism in this star's wind.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1985ApJ...288..679A
+author: Abbott, D. C. and Lucy, L. B.
+author_list:
+- family: Abbott
+  given: D. C.
+- family: Lucy
+  given: L. B.
+date-added: 2017-08-11 05:26:52 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/162834
+journal: \apj
+keywords: Computational Astrophysics, Early Stars, Radiative Transfer, Stellar Spectra,
+  Stellar Winds, Atomic Energy Levels, Line Spectra, Monte Carlo Method, Particle
+  Acceleration, Stellar Mass Ejection, Ultraviolet Spectra
+month: January
+pages: 679--693
+papis_id: fb5f8db49cd4b0de04ecee44c50b5642
+ref: abbott.d.1985
+title: Multiline transfer and the dynamics of stellar winds
+type: article
+volume: '288'
+year: '1985'

@@ -1,0 +1,40 @@
+abstract: We present new equations of state (EOS) for hydrogen and helium, intended
+  for applications to low-mass stars (M < 1 Msun), brown dwarfs, and giant planets.
+  They cover the range 2.10 <log T(K) < 7.06 and 4 <log P (dyn cm-2) < 19 and include
+  new physical treatments of partial dissociation and ionization caused by both pressure
+  and temperature effects. The hydrogen EOS is based on a careful study of nonideal
+  interactions. In the case of helium, the principal features of the EOS physics are
+  retained in a simplified model. The calculation is based on the free energy,minimization
+  method, and a detailed account of the physical model has been published elsewhere.
+  Mixtures of hydrogen and helium are obtained with the additive volume rule and an
+  additional ideal entropy-of-mixing term. In this paper, we present extensive tabular
+  results for both the H and He EOS, together with a critical analysis.  Part of this
+  analysis is based on a comparison with other EOS commonly used in astrophysics.
+  Both EOS everywhere satisfy the requirements of thermal and mechanical stability
+  and are thermodynamically consistent over most of the phase diagram. A complete
+  set of the tables is available in the AAS CD-ROM Series, Vol. 5, and by anonymous
+  FTP.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJS...99..713S
+author: Saumon, D. and Chabrier, G. and van Horn, H. M.
+author_list:
+- family: Saumon
+  given: D.
+- family: Chabrier
+  given: G.
+- family: van Horn
+  given: H. M.
+date-added: 2017-08-10 20:42:10 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192204
+journal: \apjs
+keywords: 'EQUATION OF STATE, STARS: INTERIORS, STARS: LOW-MASS, BROWN DWARFS, STARS:
+  PLANETARY SYSTEMS'
+month: August
+pages: '713'
+papis_id: 8df74316b942b1689a646ab637a59db9
+ref: saumon.d.1995
+title: An Equation of State for Low-Mass Stars and Giant Planets
+type: article
+volume: '99'
+year: '1995'

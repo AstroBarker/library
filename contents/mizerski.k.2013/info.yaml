@@ -1,0 +1,44 @@
+abstract: Magnetic buoyancy instability plays an important role in the evolution of
+  astrophysical magnetic fields. Here we revisit the problem introduced by Gilman
+  of the short-wavelength linear stability of a plane layer of compressible isothermal
+  fluid permeated by a horizontal magnetic field of strength decreasing with height.
+  Dissipation of momentum and magnetic field is neglected. By the use of a Rayleigh-Schr{\"o}dinger
+  perturbation analysis, we explain in detail the limit in which the transverse horizontal
+  wavenumber of the perturbation, denoted by k, is large (i.e., short horizontal wavelength)
+  and show that the fastest growing perturbations become localized in the vertical
+  direction as k is increased. The growth rates are determined by a function of the
+  vertical coordinate z since, in the large k limit, the eigenmodes are strongly localized
+  in the vertical direction. We consider in detail the case of two-dimensional perturbations
+  varying in the directions perpendicular to the magnetic field, which, for sufficiently
+  strong field gradients, are the most unstable. The results of our analysis are backed
+  up by comparison with a series of initial value problems. Finally, we extend the
+  analysis to three-dimensional perturbations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..205...16M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.4728
+author: Mizerski, K. A. and Davies, C. R. and Hughes, D. W.
+author_list:
+- family: Mizerski
+  given: K. A.
+- family: Davies
+  given: C. R.
+- family: Hughes
+  given: D. W.
+date-added: 2017-08-10 17:56:58 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0067-0049/205/2/16
+eid: '16'
+eprint: '1302.4728'
+journal: \apjs
+keywords: 'instabilities, magnetic fields, magnetohydrodynamics: MHD, stars: magnetic
+  field, sunspots'
+month: April
+pages: '16'
+papis_id: d1947617d6d4647ca17b5b2c4d63e830
+primaryclass: astro-ph.SR
+ref: mizerski.k.2013
+title: Short-wavelength Magnetic Buoyancy Instability
+type: article
+volume: '205'
+year: '2013'

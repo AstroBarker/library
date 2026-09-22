@@ -1,0 +1,38 @@
+abstract: We use a combined gravity/hydrodynamics code to simulate the formation of
+  structure in a random 22 Mpc cube of a cold dark matter universe. Adiabatic compression
+  and shocks heat much of the gas to temperatures of 10 exp 6 - 10 exp 7 K, but a
+  fraction of the gas cools radiatively to about 10 exp 4 K and condenses into discrete,
+  highly overdense lumps. We identify these lumps with galaxies. The high-mass end
+  of their baryonic mass function fits the form of the observed galaxy luminosity
+  function. They retain independent identities after their dark halos merge, so gravitational
+  clustering produces groups of galaxies embedded in relatively smooth envelopes of
+  hot gas and dark matter. The galaxy correlation function is approximately an r exp
+  -2.1 power law from separations of 35 kpc to 7 Mpc. Galaxy fluctuations are biased
+  relative to dark matter fluctuations by a factor b about 1.5. We find no significant
+  'velocity bias' between galaxies and dark matter particles. However, virial analysis
+  of the simulation's richest group leads to an estimated Omega of about 0.3, even
+  though the simulation adopts Omega = 1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...399L.109K
+author: Katz, N. and Hernquist, L. and Weinberg, D. H.
+author_list:
+- family: Katz
+  given: N.
+- family: Hernquist
+  given: L.
+- family: Weinberg
+  given: D. H.
+date-added: 2017-08-11 07:24:39 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/186619
+journal: \apjl
+keywords: Dark Matter, Galactic Evolution, Universe, Baryons, Galactic Mass, Hydrodynamic
+  Equations, Luminosity
+month: November
+pages: L109-L112
+papis_id: 3ae97e6d7a8041e2985f9dbc186ebcc9
+ref: katz.n.1992
+title: Galaxies and gas in a cold dark matter universe
+type: article
+volume: '399'
+year: '1992'

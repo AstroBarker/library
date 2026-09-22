@@ -1,0 +1,56 @@
+abstract: In the implicit large eddy simulation (ILES) paradigm, the dissipative nature
+  of high-resolution shock-capturing schemes is exploited to provide an implicit model
+  of turbulence. The ILES approach has been applied to different contexts, with varying
+  degrees of success. It is the de-facto standard in many astrophysical simulations
+  and in particular in studies of core-collapse supernovae (CCSN). Recent 3D simulations
+  suggest that turbulence might play a crucial role in core-collapse supernova explosions,
+  however the fidelity with which turbulence is simulated in these studies is unclear.
+  Especially considering that the accuracy of ILES for the regime of interest in CCSN,
+  weakly compressible and strongly anisotropic, has not been systematically assessed
+  before. Anisotropy, in particular, could impact the dissipative properties of the
+  flow and enhance the turbulent pressure in the radial direction, favouring the explosion.
+  In this paper we assess the accuracy of ILES using numerical methods most commonly
+  employed in computational astrophysics by means of a number of local simulations
+  of driven, weakly compressible, anisotropic turbulence. Our simulations employ several
+  different methods and span a wide range of resolutions. We report a detailed analysis
+  of the way in which the turbulent cascade is influenced by the numerics. Our results
+  suggest that anisotropy and compressibility in CCSN turbulence have little effect
+  on the turbulent kinetic energy spectrum and a Kolmogorov scaling is obtained in
+  the inertial range. We find that, on the one hand, the kinetic energy dissipation
+  rate at large scales is correctly captured even at low resolutions, suggesting that
+  very high "effective Reynolds number" can be achieved at the largest scales of the
+  simulation. On the other hand, the dynamics at intermediate scales appears to be
+  completely dominated by the so-called bottleneck effect, i.e., the pile up of kinetic
+  energy close to the dissipation range due to the partial suppression of the energy
+  cascade by numerical viscosity. An inertial range is not recovered until the point
+  where high resolution \texttildelow{}5123, which would be difficult to realize in
+  global simulations, is reached. We discuss the consequences for CCSN simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ComAC...2....7R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1501.03169
+author: Radice, D. and Couch, S. M. and Ott, C. D.
+author_list:
+- family: Radice
+  given: D.
+- family: Couch
+  given: S. M.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-10 14:05:38 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1186/s40668-015-0011-0
+eid: '7'
+eprint: '1501.03169'
+journal: Computational Astrophysics and Cosmology
+keywords: 'turbulence, methods: numerical, supernovae'
+month: August
+pages: '7'
+papis_id: cef36831710086aef9e5ac882b759d24
+primaryclass: astro-ph.HE
+ref: radice.d.2015
+title: Implicit large eddy simulations of anisotropic weakly compressible turbulence
+  with application to core-collapse supernovae
+type: article
+volume: '2'
+year: '2015'

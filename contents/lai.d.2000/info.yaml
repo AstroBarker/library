@@ -1,0 +1,37 @@
+abstract: When a self-gravitating spherical gas cloud collapses or accretes onto a
+  central mass, the inner region of the cloud develops a density profile rho~r-3/2
+  and the velocity approaches free fall. We show that in this region nonspherical
+  perturbations grow with decreasing radius. In the linear regime, the tangential
+  velocity perturbation increases as r-1, while the Lagrangian density perturbation,
+  Deltarho/rho, grows as r-1/2. Faster growth occurs if the central collapsed object
+  maintains a finite multiple moment, in which case Deltarho/rho increases as r-l,
+  where l specifies the angular degree of the perturbation. These scaling relations
+  are different from those obtained for the collapse of a homogeneous cloud. Our numerical
+  calculations indicate that nonspherical perturbations are damped in the subsonic
+  region and that they grow and approach the asymptotic scalings in the supersonic
+  region. The implications of our results to asymmetric supernova collapse and to
+  black hole accretion are briefly discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...535..402L
+arxivurl: http://arxiv.org/abs/astro-ph/9906400
+author: Lai, D. and Goldreich, P.
+author_list:
+- family: Lai
+  given: D.
+- family: Goldreich
+  given: P.
+date-added: 2017-08-10 22:15:57 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308821
+eprint: astro-ph/9906400
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Hydrodynamics, Methods: Numerical, Stars: Supernovae:
+  General'
+month: May
+pages: 402--411
+papis_id: 7da72dd9741832f30f56470e2fa8865f
+ref: lai.d.2000
+title: Growth of Perturbations in Gravitational Collapse and Accretion
+type: article
+volume: '535'
+year: '2000'

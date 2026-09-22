@@ -1,0 +1,66 @@
+abstract: We present our methods for generating a catalogue of 7000 synthetic images
+  and 40 000 integrated spectra of redshift z = 0 galaxies from the Illustris simulation.
+  The mock data products are produced by using stellar population synthesis models
+  to assign spectral energy distributions (SED) to each star particle in the galaxies.
+  The resulting synthetic images and integrated SEDs therefore properly reflect the
+  spatial distribution, stellar metallicity distribution, and star formation history
+  of the galaxies. From the synthetic data products, it is possible to produce monochromatic
+  or colour-composite images, perform SED fitting, classify morphology, determine
+  galaxy structural properties, and evaluate the impacts of galaxy viewing angle.
+  The main contribution of this paper is to describe the production, format, and composition
+  of the image catalogue that makes up the Illustris Simulation Observatory. As a
+  demonstration of this resource, we derive galactic stellar mass estimates by applying
+  the SED fitting code FAST to the synthetic galaxy products, and compare the derived
+  stellar masses against the true stellar masses from the simulation. We find from
+  this idealized experiment that systematic biases exist in the photometrically derived
+  stellar mass values that can be reduced by using a fixed metallicity in conjunction
+  with a minimum galaxy age restriction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.447.2753T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1411.3717
+author: Torrey, P. and Snyder, G. F. and Vogelsberger, M. and Hayward, C. C. and Genel,
+  S. and Sijacki, D. and Springel, V. and Hernquist, L. and Nelson, D. and Kriek,
+  M. and Pillepich, A. and Sales, L. V. and McBride, C. K.
+author_list:
+- family: Torrey
+  given: P.
+- family: Snyder
+  given: G. F.
+- family: Vogelsberger
+  given: M.
+- family: Hayward
+  given: C. C.
+- family: Genel
+  given: S.
+- family: Sijacki
+  given: D.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+- family: Nelson
+  given: D.
+- family: Kriek
+  given: M.
+- family: Pillepich
+  given: A.
+- family: Sales
+  given: L. V.
+- family: McBride
+  given: C. K.
+date-added: 2017-08-11 07:28:28 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2592
+eprint: '1411.3717'
+journal: \mnras
+keywords: 'methods: numerical, astronomical data bases: miscellaneous, catalogues,
+  galaxies: evolution, galaxies: formation, galaxies: photometry'
+month: March
+pages: 2753--2771
+papis_id: ed7d747963db5084d4a71daf3e915edd
+ref: torrey.p.2015
+title: Synthetic galaxy images and spectra from the Illustris simulation
+type: article
+volume: '447'
+year: '2015'

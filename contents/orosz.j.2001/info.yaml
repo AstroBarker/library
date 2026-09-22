@@ -1,0 +1,71 @@
+abstract: Spectroscopic observations of the fast X-ray transient and superluminal
+  jet source SAX J1819.3-2525 (V4641 Sgr) reveal a best-fitting period of Pspect=2.81678+/-0.00056
+  days and a semiamplitude of K2=211.0+/-3.1 km s-1. The optical mass function is
+  f(M)=2.74+/-0.12 Msolar. We find a photometric period of Pphoto=2.81730+/-0.00001
+  days using a light curve measured from photographic plates. The folded light curve
+  resembles an ellipsoidal light curve with two maxima of roughly equal height and
+  two minima of unequal depth per orbital cycle. The secondary star is a late B-type
+  star that has evolved off the main sequence. Using a moderate resolution spectrum
+  (R=7000) we measure Teff=10500+/-200 K, logg=3.5+/-0.1, and Vrotsini=123+/-4 km
+  s-1 (1 sigma errors). Assuming synchronous rotation, our measured value of the projected
+  rotational velocity implies a mass ratio of Q\equiv{}M1/M2=1.50+/-0.08 (1 sigma).
+  The lack of X-ray eclipses implies an upper limit to the inclination of i<=70.7d.
+  On the other hand, the large amplitude of the folded light curve (~0.5 mag) implies
+  a large inclination (i>~60deg). Using the above mass function, mass ratio, and inclination
+  range, the mass of the compact object is in the range 8.73<=M1<=11.70 Msolar and
+  the mass of the secondary star is in the range 5.49<=M2<=8.14 Msolar (90\% confidence).
+  The mass of the compact object is well above the maximum mass of a stable neutron
+  star, and we conclude that V4641 Sgr contains a black hole. The B-star secondary
+  is by far the most massive, the hottest, and the most luminous secondary of the
+  dynamically confirmed black hole X-ray transients. We find that the alpha-process
+  elements nitrogen, oxygen, calcium, magnesium, and titanium may be overabundant
+  in the secondary star by factors of 2-10 times with respect to the Sun. Finally,
+  assuming E(B-V)=0.32+/-0.10, we find a distance 7.40<=d<=12.31 kpc (90\% confidence).
+  This large distance and the high proper motions observed for the radio counterpart
+  make V4641 Sgr possibly the most superluminal galactic source known, with an apparent
+  expansion velocity of >~9.5c and a bulk Lorentz factor of Gamma>~9.5, assuming that
+  the jets were ejected during one of the bright X-ray flares observed with the Rossi
+  X-ray Timing Explorer. Based on observations collected at the European Southern
+  Observatory, Chile (program 65.H-0360) and the William Herschel Telescope, operated
+  on the island of La Palma by the Isaac Newton Group in the Spanish Observatorio
+  del Roque de los Muchachos of the Instituto de Astrofisica de Canarias.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...555..489O
+arxivurl: http://arxiv.org/abs/astro-ph/0103045
+author: Orosz, J. A. and Kuulkers, E. and van der Klis, M. and McClintock, J. E. and
+  Garcia, M. R. and Callanan, P. J. and Bailyn, C. D. and Jain, R. K. and Remillard,
+  R. A.
+author_list:
+- family: Orosz
+  given: J. A.
+- family: Kuulkers
+  given: E.
+- family: van der Klis
+  given: M.
+- family: McClintock
+  given: J. E.
+- family: Garcia
+  given: M. R.
+- family: Callanan
+  given: P. J.
+- family: Bailyn
+  given: C. D.
+- family: Jain
+  given: R. K.
+- family: Remillard
+  given: R. A.
+date-added: 2017-08-11 00:39:05 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321442
+eprint: astro-ph/0103045
+journal: \apj
+keywords: 'Stars: Binaries: Spectroscopic, Black Hole Physics, Stars: Individual:
+  Constellation Name: V4641 Sagittarii, X-Rays: Stars'
+month: July
+pages: 489--503
+papis_id: 374b561f3f3e7d85ee48d517385d8763
+ref: orosz.j.2001
+title: A Black Hole in the Superluminal Source SAX J1819.3-2525 (V4641 Sgr)
+type: article
+volume: '555'
+year: '2001'

@@ -1,0 +1,48 @@
+abstract: A new method of polarimetric calibration is presented in which the instrumental
+  response is derived from regular observations of PSR J0437-4715 based on the assumption
+  that the mean polarized emission from this millisecond pulsar remains constant over
+  time. The technique is applicable to any experiment in which high-fidelity polarimetry
+  is required over long timescales; it is demonstrated by calibrating 7.2 years of
+  high-precision timing observations of PSR J1022+1001 made at the Parkes Observatory.
+  Application of the new technique followed by arrival time estimation using matrix
+  template matching yields post-fit residuals with an uncertainty-weighted standard
+  deviation of 880 ns, two times smaller than that of arrival time residuals obtained
+  via conventional methods of calibration and arrival time estimation. The precision
+  achieved by this experiment yields the first significant measurements of the secular
+  variation of the projected semimajor axis, the precession of periastron, and the
+  Shapiro delay; it also places PSR J1022+1001 among the 10 best pulsars regularly
+  observed as part of the Parkes Pulsar Timing Array (PPTA) project. It is shown that
+  the timing accuracy of a large fraction of the pulsars in the PPTA is currently
+  limited by the systematic timing error due to instrumental polarization artifacts.
+  More importantly, long-term variations of systematic error are correlated between
+  different pulsars, which adversely affects the primary objectives of any pulsar
+  timing array experiment. These limitations may be overcome by adopting the techniques
+  presented in this work, which relax the demand for instrumental polarization purity
+  and thereby have the potential to reduce the development cost of next-generation
+  telescopes such as the Square Kilometre Array.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..204...13V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.3446
+author: van Straten, W.
+author_list:
+- family: van Straten
+  given: W.
+date-added: 2017-08-10 22:07:30 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0067-0049/204/1/13
+eid: '13'
+eprint: '1212.3446'
+journal: \apjs
+keywords: 'methods: data analysis, polarization, pulsars: general, pulsars: individual:
+  PSR J1022+1001 PSR J0437-4715, techniques: polarimetric'
+month: January
+pages: '13'
+papis_id: 6d45c008878dcef30d9f34c0628ce264
+primaryclass: astro-ph.IM
+ref: van_straten.w.2013
+title: High-fidelity Radio Astronomical Polarimetry Using a Millisecond Pulsar as
+  a Polarized Reference Source
+type: article
+volume: '204'
+year: '2013'

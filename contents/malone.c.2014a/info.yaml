@@ -1,0 +1,59 @@
+abstract: We present high-resolution, full-star simulations of the post-ignition phase
+  of Type Ia supernovae using the compressible hydrodynamics code Castro. Initial
+  conditions, including the turbulent velocity field and ignition site, are imported
+  directly from a simulation of the last few hours of presupernova convection using
+  a low Mach number code, Maestro. Adaptive mesh refinement allows the initial burning
+  front to be modeled with an effective resolution of 36,8643 zones (136 m zone-1).
+  The initial rise and expansion of the deflagration front are tracked until burning
+  reaches the star's edge and the role of the background turbulence on the flame is
+  investigated. The effect of artificially moving the ignition location closer to
+  the star's center is explored. The degree to which turbulence affects the burning
+  front decreases with increasing ignition radius since the buoyancy force is stronger
+  at larger radii. Even central ignition---in the presence of a background convective
+  flow field---is rapidly carried off-center as the flame is carried by the flow field.
+  We compare our results to analytic models for burning thermals, and find that they
+  reproduce the general trends of the bubble's size and mass, but underpredict the
+  amount of buoyant acceleration due to simplifying assumptions of the bubble's properties.
+  Overall, we find that the amount of mass that burns prior to flame break out is
+  small, consistent with a "gravitationally confined detonation" occurring at a later
+  epoch, but additional burning will occur following breakout that may modify this
+  conclusion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...782...11M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.4042
+author: Malone, C. M. and Nonaka, A. and Woosley, S. E. and Almgren, A. S. and Bell,
+  J. B. and Dong, S. and Zingale, M.
+author_list:
+- family: Malone
+  given: C. M.
+- family: Nonaka
+  given: A.
+- family: Woosley
+  given: S. E.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Dong
+  given: S.
+- family: Zingale
+  given: M.
+date-added: 2017-08-10 15:40:09 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/782/1/11
+eid: '11'
+eprint: '1309.4042'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: February
+pages: '11'
+papis_id: 1a73354b6c3793a8f04bdf9f33c1dfea
+primaryclass: astro-ph.SR
+ref: malone.c.2014a
+title: The Deflagration Stage of Chandrasekhar Mass Models for Type Ia Supernovae.
+  I. Early Evolution
+type: article
+volume: '782'
+year: '2014'

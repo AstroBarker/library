@@ -1,0 +1,56 @@
+abstract: 'Context. Light elements and nitrogen surface abundances together can constrain
+  the mixing efficiencies in massive stars on the main sequence, because moderate
+  mixing in the surface layers leads to depletion of light elements but only later
+  to enrichment in nitrogen.  Aims: We want to test the rotational mixing prescriptions
+  included in the Geneva stellar evolution code (GENEC) by following the evolution
+  of surface abundances of light isotopes in massive stars.  Methods: The GENEC is
+  a 1D code containing sophisticated prescriptions for rotational mixing. We implemented
+  an extended reaction network into this code including the light elements Li, Be,
+  and B, which allowed us to perform calculations testing the rotation-induced mixing.  Results:
+  We followed 9, 12, and 15 M\_\&sun; models with rotation from the zero age main
+  sequence up to the end of He burning. The calculations show the expected behaviour
+  with faster depletion of light isotopes for faster rotating stars and more massive
+  stars.  Conclusions: We find that the mixing prescriptions used in the present rotating
+  models for massive single stars can account for most of the observations; however,
+  the uncertainties are quite large, making it hard to draw a firm conclusion on the
+  mixing scenario.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...522A..39F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.1779
+author: Frischknecht, U. and Hirschi, R. and Meynet, G. and Ekström, S. and Georgy,
+  C. and Rauscher, T. and Winteler, C. and Thielemann, F.-K.
+author_list:
+- family: Frischknecht
+  given: U.
+- family: Hirschi
+  given: R.
+- family: Meynet
+  given: G.
+- family: Ekström
+  given: S.
+- family: Georgy
+  given: C.
+- family: Rauscher
+  given: T.
+- family: Winteler
+  given: C.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-10 20:36:50 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1051/0004-6361/201014340
+eid: A39
+eprint: '1007.1779'
+journal: \aap
+keywords: 'stars: abundances, stars: massive, stars: rotation'
+month: November
+pages: A39
+papis_id: 017d709467ded1accb5fdad732a5800b
+primaryclass: astro-ph.SR
+ref: frischknecht.u.2010
+title: Constraints on rotational mixing from surface evolution of light elements in
+  massive stars
+type: article
+volume: '522'
+year: '2010'

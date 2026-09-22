@@ -1,0 +1,51 @@
+abstract: We have calculated a grid of massive star wind models and mass-loss rates
+  for a wide range of metal abundances between 1/100 <= Z/Zsun <= 10. The calculation
+  of this grid completes the Vink et al. (2000) mass-loss recipe with an additional
+  parameter Z. We have found that the exponent of the power law dependence of mass
+  loss vs. metallicity is constant in the range between 1/30 <= Z/Zsun <= 3. The mass-loss
+  rate scales as dot M ~ Z0.85 vinfty p with p = -1.23 for stars with T\_eff >~ 25
+  000 K, and p = -1.60 for the B supergiants with T\_eff <~ 25 000 K. Taking also
+  into account the metallicity dependence of vinfty , using the power law dependence
+  vinfty  ~ Z0.13 from Leitherer et al. (1992), the overall result of mass loss as
+  a function of metallicity can be represented by dot M ~ Z0.69 for stars with T\_eff
+  >~ 25 000 K, and dot M ~ Z0.64 for B supergiants with T\_eff <~ 25 000 K. Although
+  it is derived that the exponent of the mass loss vs. metallicity dependence is constant
+  over a large range in Z, one should be aware of the presence of bi-stability jumps
+  at specific temperatures. Here the character of the line driving changes drastically
+  due to recombinations of dominant metal species resulting in jumps in the mass loss.
+  We have investigated the physical origins of these jumps and have derived formulae
+  that combine mass loss recipes for both sides of such jumps. As observations of
+  different galaxies show that the ratio Fe/O varies with metallicity, we make a distinction
+  between the metal abundance Z derived on the basis of iron or oxygen lines. Our
+  mass-loss predictions are successful in explaining the observed mass-loss rates
+  for Galactic and Small Magellanic Cloud O-type stars, as well as in predicting the
+  observed Galactic bi-stability jump. Hence, we believe that our predictions are
+  reliable and suggest that our mass-loss recipe be used in future evolutionary calculations
+  of massive stars at different metal abundance. A computer routine to calculate mass
+  loss is publicly available.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...369..574V
+arxivurl: http://arxiv.org/abs/astro-ph/0101509
+author: Vink, J. S. and de Koter, A. and Lamers, H. J. G. L. M.
+author_list:
+- family: Vink
+  given: J. S.
+- family: de Koter
+  given: A.
+- family: Lamers
+  given: H. J. G. L. M.
+date-added: 2017-08-10 14:20:04 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1051/0004-6361:20010127
+eprint: astro-ph/0101509
+journal: \aap
+keywords: 'STARS: EARLY-TYPE, STARS: MASS-LOSS, STARS: SUPERGIANTS, STARS: WINDS,
+  STARS: EVOLUTION'
+month: April
+pages: 574--588
+papis_id: 6f8150fda230d5620c415b2cd6c774cd
+ref: vink.j.2001a
+title: Mass-loss predictions for O and B stars as a function of metallicity
+type: article
+volume: '369'
+year: '2001'

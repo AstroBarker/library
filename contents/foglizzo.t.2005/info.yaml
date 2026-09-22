@@ -1,0 +1,41 @@
+abstract: The instability of Bondi-Hoyle-Lyttleton accretion, observed in numerical
+  simulations, is analyzed through known physical mechanisms and possible numerical
+  artefacts. The mechanisms of the longitudinal and transverse instabilities, established
+  within the accretion line model, are clarified. They cannot account for the instability
+  of BHL accretion at moderate Mach number when the pressure forces within the shock
+  cone are taken into account. The advective-acoustic instability is considered in
+  the context of BHL accretion when the shock is detached from the accretor. This
+  mechanism naturally explains the stability of the flow when the shock is weak, and
+  the instability when the accretor is small. In particular, it is a robust proof
+  of the instability of 3D accretion when gamma=5/3 if the accretor is small enough,
+  even for moderate shock strength (M\texttildelow{} 3). The numerical artefacts that
+  may be present in existing numerical simulations are reviewed, with particular attention
+  paid to the advection of entropy/vorticity perturbations and the artificial acoustic
+  feedback from the accretor boundary condition. Several numerical tests are proposed
+  to test these mechanisms.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...435..397F
+arxivurl: http://arxiv.org/abs/astro-ph/0502168
+author: Foglizzo, T. and Galletti, P. and Ruffert, M.
+author_list:
+- family: Foglizzo
+  given: T.
+- family: Galletti
+  given: P.
+- family: Ruffert
+  given: M.
+date-added: 2017-08-11 06:29:57 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1051/0004-6361:20042201
+eprint: astro-ph/0502168
+journal: \aap
+keywords: accretion, accretion disks, hydrodynamics, instabilities, shock waves, black
+  hole physics
+month: May
+pages: 397--411
+papis_id: 9f3edd3fe50b306007cbd6ebc6b1a82d
+ref: foglizzo.t.2005
+title: A fresh look at the unstable simulations of Bondi-Hoyle-Lyttleton accretion
+type: article
+volume: '435'
+year: '2005'

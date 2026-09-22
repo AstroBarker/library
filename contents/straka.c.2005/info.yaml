@@ -1,0 +1,46 @@
+abstract: We present a comprehensive set of stellar evolution models for Procyon A
+  in an effort to guide future measurements of both traditional stellar parameters
+  and seismic frequencies toward constraining the amount of core overshoot in Procyon
+  A and possibly other stars. Current observational measurements of Procyon A when
+  combined with traditional stellar modeling only place a large upper limit on overshoot
+  of alphaOV<1.1. By carrying out a detailed pulsation analysis, we further demonstrate
+  how p- and g-mode averaged spacings can be used to gain better estimates of the
+  core size. For both p- and g-modes, the frequency spacings for models without overshoot
+  are clearly separated from the models with overshoot. In addition, measurements
+  of the l=0 averaged small p-mode spacings could be used to establish Procyon A's
+  evolutionary stage. For a fixed implementation of overshoot and under favorable
+  circumstances, the g-mode spacings can be used to determine the overshoot extent
+  to an accuracy of +/-0.05HP. However, we stress that considerable confusion is added
+  due to the unknown treatment of the overshoot region. This ambiguity might be removed
+  by analyzing many different stars. A simple nonlocal convection theory developed
+  by Kuhfuss is implemented in our stellar evolution code and contrasted with the
+  traditional approaches. We show that this theory supports a moderate increase of
+  the amount of convective overshoot with stellar mass of DeltaalphaOV~=+0.10 between
+  1.5 and 15 Msolar. This theory places an upper limit on Procyon A's core overshoot
+  extent of ~0.4HP, which matches the limit imposed by Roxburgh's integral criterion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629.1075S
+arxivurl: http://arxiv.org/abs/astro-ph/0505009
+author: Straka, C. W. and Demarque, P. and Guenther, D. B.
+author_list:
+- family: Straka
+  given: C. W.
+- family: Demarque
+  given: P.
+- family: Guenther
+  given: D. B.
+date-added: 2017-08-10 20:42:29 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431542
+eprint: astro-ph/0505009
+journal: \apj
+keywords: 'Convection, Stars: Evolution, Stars: Individual: Name: Procyon A, Stars:
+  Interiors, Stars: Oscillations'
+month: August
+pages: 1075--1090
+papis_id: c32b8a76643c9bbb4c322534e8c38b5b
+ref: straka.c.2005
+title: 'Core Overshoot: An Improved Treatment and Constraints from Seismic Data'
+type: article
+volume: '629'
+year: '2005'

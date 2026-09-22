@@ -1,0 +1,36 @@
+abstract: We obtained a series of four observations of the isolated neutron star Geminga
+  over an 18 month period using the Advanced Camera for Surveys (ACS) Wide Field Camera
+  (WFC) on the Hubble Space Telescope in order to determine its trigonometric parallax.
+  We find the parallax pi=4.0.3 mas, corresponding to a distance to Geminga of 250<Stack>
+  -62 +120 </Stack> pc, a result 60\% larger than the previously published value.
+  The proper motion is 178.2\.8 mas/year. In this paper, we describe the analysis
+  techniques in detail since the amplitude of the parallactic shift is smaller than
+  the camera's pixel size. We fit each star in the images with an appropriate effective
+  PSF and applied a distortion correction to generate stellar positions accurate to
+  0.01 pixels (\texttildelow{}0.5 mas). The 134 stars common to all images serve to
+  establish a reference frame for alignment of the image series. Our observations
+  were made around the times of maximum parallactic shift. We discuss the implications
+  of this new distance measurement for the inferred radius of Geminga, and the neutron
+  star equation of state.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007Ap\%26SS.308..225F
+author: Faherty, J. and Walter, F. M. and Anderson, J.
+author_list:
+- family: Faherty
+  given: J.
+- family: Walter
+  given: F. M.
+- family: Anderson
+  given: J.
+date-added: 2017-08-11 07:50:08 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1007/s10509-007-9368-0
+journal: \apss
+month: April
+pages: 225--230
+papis_id: 6c806e4db371d2564292472663892f86
+ref: faherty.j.2007
+title: The trigonometric parallax of the neutron star Geminga
+type: article
+volume: '308'
+year: '2007'

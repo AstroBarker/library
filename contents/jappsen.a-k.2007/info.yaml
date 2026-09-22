@@ -1,0 +1,48 @@
+abstract: We study the influence of low levels of metal enrichment on the cooling
+  and collapse of ionized gas in small protogalactic halos using three-dimensional,
+  smoothed particle hydrodynamics simulations. Our initial conditions represent protogalaxies
+  forming within a ``fossil'' H II region, a previously ionized H II region which
+  has not yet had time to cool and recombine. Prior to cosmological reionization,
+  such regions should be relatively common, since the characteristic lifetimes of
+  the likely ionizing sources are significantly shorter than a Hubble time. We show
+  that in these regions, H2 is the dominant and most effective coolant, and that it
+  is the amount of H2 formed that determines whether or not the gas can collapse and
+  form stars. At the low metallicities (Z<10-3 Zsolar) thought to be associated with
+  the transition from Population III to early Population II star formation, metal-line
+  cooling has an almost negligible effect on the evolution of low-density gas, altering
+  the density and temperature evolution of the gas by less than 1\% compared to the
+  metal-free case at densities below 1 cm-3 and temperatures above 2000 K. Although
+  there is evidence that metal-line cooling becomes more effective at higher density,
+  we find no significant differences in behavior from the metal-free case at any density
+  below our sink particle creation threshold at n=500 cm-3. Increasing the metallicity
+  also increases the importance of metal-line cooling, but it does not significantly
+  affect the dynamical evolution of the low-density gas until Z~0.1 Zsolar. This result
+  holds regardless of whether or not an ultraviolet background is present.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...660.1332J
+arxivurl: http://arxiv.org/abs/astro-ph/0511400
+author: Jappsen, A.-K. and Glover, S. C. O. and Klessen, R. S. and Mac Low, M.-M.
+author_list:
+- family: Jappsen
+  given: A.-K.
+- family: Glover
+  given: S. C. O.
+- family: Klessen
+  given: R. S.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 06:02:06 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/513085
+eprint: astro-ph/0511400
+journal: \apj
+keywords: 'Galaxies: Formation, Molecular Processes, Stars: Formation'
+month: May
+pages: 1332--1343
+papis_id: 7a212eeee8affa770d76e11f0351cb43
+ref: jappsen.a_k.2007
+title: Star Formation at Very Low Metallicity. II. On the Insignificance of Metal-Line
+  Cooling During the Early Stages of Gravitational Collapse
+type: article
+volume: '660'
+year: '2007'

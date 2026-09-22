@@ -1,0 +1,52 @@
+abstract: We examine the effects of different assumptions about the initial conditions,
+  angular momentum loss law, and angular momentum transport on the angular momentum
+  evolution of 0.5-1.2 solar mass stars. We first perform a parameter variation study
+  to test the sensitivity of the surface rotation rate as a function of mass and age
+  to changes in the initial conditions and input physics. We then check to see if
+  the distribution of initial conditions for a given physical scenario is consistent
+  for open clusters of different ages.  The behavior of the rapid rotators is highly
+  sensitive to the saturation threshold for angular momentum loss (omegacrit), above
+  which angular momentum loss scales linearly with the rotation rate. Very high values
+  for omegacrit suppress rapid rotation prior to the main sequence, and very low values
+  permit rapid rotation to survive for too long. For solid-body (SB) and differential
+  rotation (DR) models, higher mass models rotate more rapidly than lower mass models
+  for the same initial conditions and omegacrit. DR models differ from SB models in
+  both the direct effect of core-envelope decoupling and a change in the calibration
+  of the angular momentum loss law needed to reproduce the solar rotation at the age
+  of the Sun; the effects of both are discussed. Slow rotation in young clusters can
+  be achieved with modest disk lifetimes (3-10 Myr) for the DR models and longer disk
+  lifetimes for the SB models (10 or more Myr). In addition, the slowly rotating DR
+  models spin down during the early main sequence more than the slowly rotating SB
+  models do.  When compared with the cluster data, the observed mass dependence of
+  the rapid rotator phenomenon can be reproduced only with a mass-dependent omegacrit
+  for both the SB and DR models. A scaling of omegacrit inversely proportional to
+  the convective overturn timescale can reproduce the observed mass-dependent spindown.
+  The observed spindown of the slow rotators in the young open clusters is in better
+  agreement with the DR than the SB models. We also discuss observational tests to
+  distinguish different classes of models using low-mass stars and rotation periods
+  in open clusters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...480..303K
+author: Krishnamurthi, A. and Pinsonneault, M. H. and Barnes, S. and Sofia, S.
+author_list:
+- family: Krishnamurthi
+  given: A.
+- family: Pinsonneault
+  given: M. H.
+- family: Barnes
+  given: S.
+- family: Sofia
+  given: S.
+date-added: 2017-08-11 00:14:23 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303958
+journal: \apj
+keywords: 'Stars: Evolution, Stars: Formation, Stars: Interiors, Stars: Rotation'
+month: May
+pages: 303--323
+papis_id: c8a615d7b88c0ce3f3635fa880e5a918
+ref: krishnamurthi.a.1997
+title: Theoretical Models of the Angular Momentum Evolution of Solar-Type Stars
+type: article
+volume: '480'
+year: '1997'

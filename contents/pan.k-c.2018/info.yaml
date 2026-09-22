@@ -1,0 +1,54 @@
+abstract: 'We investigate axisymmetric black hole (BH) formation and its gravitational
+  wave (GW) and neutrino signals with self-consistent core-collapse supernova simulations
+  of a non-rotating 40 M \&sun; progenitor star using the isotropic diffusion source
+  approximation for the neutrino transport and a modified gravitational potential
+  for general relativistic effects. We consider four different neutron star (NS) equations
+  of state (EoS): LS220, SFHo, BHBLambdavarphi, and DD2, and study the impact of the
+  EoS on BH formation dynamics and GW emission. We find that the BH formation time
+  is sensitive to the EoS from 460 to >1300 ms and is delayed in multiple dimensions
+  for \texttildelow{}100-250 ms due to the finite entropy effects. Depending on the
+  EoS, our simulations show the possibility that shock revival can occur along with
+  the collapse of the proto-neutron star (PNS) to a BH. The gravitational waveforms
+  contain four major features that are similar to previous studies but show extreme
+  values: (1) a low-frequency signal (\texttildelow{}300-500 Hz) from core-bounce
+  and prompt convection, (2) a strong signal from the PNS g-mode oscillation among
+  other features, (3) a high-frequency signal from the PNS inner-core convection,
+  and (4) signals from the standing accretion shock instability and convection. The
+  peak frequency at the onset of BH formation reaches to \texttildelow{}2.3 kHz. The
+  characteristic amplitude of a 10 kpc object at peak frequency is detectable but
+  close to the noise threshold of the Advanced LIGO and KAGRA, suggesting that the
+  next-generation GW detector will need to improve the sensitivity at the kHz domain
+  to better observe stellar-mass BH formation from core-collapse supernovae or failed
+  supernovae.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...857...13P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.01690
+author: Pan, K.-C. and Liebendörfer, M. and Couch, S. M. and Thielemann, F.-K.
+author_list:
+- family: Pan
+  given: K.-C.
+- family: Liebendörfer
+  given: M.
+- family: Couch
+  given: S. M.
+- family: Thielemann
+  given: F.-K.
+date-added: 2018-08-27 15:18:40 -0400
+date-modified: 2018-08-27 15:18:42 -0400
+doi: 10.3847/1538-4357/aab71d
+eid: '13'
+eprint: '1710.01690'
+journal: \apj
+keywords: 'gravitational waves, hydrodynamics, instabilities, neutrinos, stars: black
+  hole, supernovae: general'
+month: April
+pages: '13'
+papis_id: 71c966971dfd659caa6b44a0d86302cb
+primaryclass: astro-ph.HE
+ref: pan.k_c.2018
+title: Equation of State Dependent Dynamics and Multi-messenger Signals from Stellar-mass
+  Black Hole Formation
+type: article
+volume: '857'
+year: '2018'

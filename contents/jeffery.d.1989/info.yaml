@@ -1,0 +1,36 @@
+abstract: The Sobolev-P method, a generalization of the Sobolev method, is developed
+  for the treatment of the polarization state of radiation and the polarizing effect
+  of resonance line scattering. The polarization state of the radiation is described
+  by the Stokes parameters. The photon angular redistribution is described by a linear
+  combination of the Rayleigh and isotropic phase matrices. Using this form of photon
+  redistribution the Sobolev-P method formulas are derived for the case of axisymmetric
+  systems. For continuum radiative transfer it is shown that quantitatively accurate
+  calculations can be done using the Sobolev-P method and a discretized continuous
+  opacity approximation. Sample synthetic flux and polarization spectra for model
+  axisymmetric supernova systems calculated using Sobolev-P method are reported. A
+  comparison of these sample results with spectropolarimetric data for SN 1987A shows
+  some qualitative agreement of the features and indicates that it is pausible that
+  SN 1987A has a length-width asymmetry of order 20 percent.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989ApJS...71..951J
+author: Jeffery, D. J.
+author_list:
+- family: Jeffery
+  given: D. J.
+date-added: 2017-08-10 22:55:52 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191404
+journal: \apjs
+keywords: Computational Astrophysics, Polarized Radiation, Resonance Lines, Resonance
+  Scattering, Sobolev Space, Supernova 1987a, Balmer Series, Electron Density (Concentration),
+  Radiative Transfer, Stellar Atmospheres, Stellar Spectra
+month: December
+pages: 951--981
+papis_id: f74abf2daa58d26e33895d87b36500ae
+ref: jeffery.d.1989
+title: The Sobolev-P method - A generalization of the Sobolev method for the treatment
+  of the polarization state of radiation and the polarizing effect of resonance line
+  scattering
+type: article
+volume: '71'
+year: '1989'

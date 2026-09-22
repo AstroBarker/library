@@ -1,0 +1,44 @@
+abstract: In a companion paper we studied the detailed evolution of stellar collision
+  products that occurred in an N-body simulation of the old open cluster M 67 and
+  compared our detailed models to simple prescriptions. In this paper we extend this
+  work by studying the evolution of the collision products in open clusters as a function
+  of mass and age of the progenitor stars. We calculated a grid of head-on collisions
+  covering the section of parameter space relevant for collisions in open clusters.
+  We create detailed models of the merger remnants using an entropy-sorting algorithm
+  and follow their subsequent evolution during the initial contraction phase, through
+  the main sequence and up to the giant branch with our detailed stellar evolution
+  code. We compare the location of our models in a colour-magnitude diagram to the
+  observed blue straggler population of the old open clusters M 67 and NGC 188 and
+  find that they cover the observed blue straggler region of both clusters. For M
+  67, collisions need to have taken place recently. Differences between the evolution
+  tracks of the collision products and normal main sequence stars can be understood
+  quantitatively using a simple analytic model. We present an analytic recipe that
+  can be used in an N-body code to transform a precomputed evolution track for a normal
+  star into an evolution track for a collision product.  Tables 4 and 5 are only available
+  in electronic form at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...488.1017G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.0865
+author: Glebbeek, E. and Pols, O. R.
+author_list:
+- family: Glebbeek
+  given: E.
+- family: Pols
+  given: O. R.
+date-added: 2017-08-10 19:37:01 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:200809931
+eprint: '0806.0865'
+journal: \aap
+keywords: 'stars: blue stragglers, stars: formation, methods: numerical, methods:
+  N-body simulations, Galaxy: open clusters and associations: general'
+month: September
+pages: 1017--1025
+papis_id: 22bc7935373786dd6caf4c26fccfb9af
+ref: glebbeek.e.2008
+title: Evolution of stellar collision products in open clusters. II. A grid of low-mass
+  collisions
+type: article
+volume: '488'
+year: '2008'

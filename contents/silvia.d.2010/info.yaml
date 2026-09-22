@@ -1,0 +1,49 @@
+abstract: We investigate through hydrodynamic simulations the destruction of newly
+  formed dust grains by sputtering in the reverse shocks of supernova (SN) remnants.
+  Using an idealized setup of a planar shock impacting a dense, spherical clump, we
+  implant a population of Lagrangian particles into the clump to represent a distribution
+  of dust grains in size and composition. We then post-process the simulation output
+  to calculate the grain sputtering for a variety of species and size distributions.
+  We explore the parameter space appropriate for this problem by altering the overdensity
+  of the ejecta clumps and the speed of the reverse shocks. Since radiative cooling
+  could lower the temperature of the medium in which the dust is embedded and potentially
+  protect the dust by slowing or halting grain sputtering, we study the effects of
+  different cooling methods over the timescale of the simulations. In general, our
+  results indicate that grains with radii less than 0.1 mum are sputtered to much
+  smaller radii and often destroyed completely, while larger grains survive their
+  interaction with the reverse shock. We also find that, for high ejecta densities,
+  the percentage of dust that survives is strongly dependent on the relative velocity
+  between the clump and the reverse shock, causing up to 50\% more destruction for
+  the highest velocity shocks. The fraction of dust destroyed varies widely across
+  grain species, ranging from total destruction of Al2O3 grains to minimal destruction
+  of Fe grains (only 20\% destruction in the most extreme cases). C and SiO2 grains
+  show moderate to strong sputtering as well, with 38\% and 80\% mass loss. The survival
+  rate of grains formed by early SNe is crucial in determining whether or not they
+  can act as the "dust factories" needed to explain high-redshift dust.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715.1575S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.4793
+author: Silvia, D. W. and Smith, B. D. and Shull, J. M.
+author_list:
+- family: Silvia
+  given: D. W.
+- family: Smith
+  given: B. D.
+- family: Shull
+  given: J. M.
+date-added: 2017-08-11 07:52:24 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/715/2/1575
+eprint: '1001.4793'
+journal: \apj
+keywords: 'dust, extinction, hydrodynamics, ISM: supernova remnants, shock waves'
+month: June
+pages: 1575--1590
+papis_id: 3dde230dcc3cfdf39656377270b26ac5
+ref: silvia.d.2010
+title: Numerical Simulations of Supernova Dust Destruction. I. Cloud-crushing and
+  Post-processed Grain Sputtering
+type: article
+volume: '715'
+year: '2010'

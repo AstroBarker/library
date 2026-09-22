@@ -1,0 +1,43 @@
+abstract: We perform a self-consistent calculation of the thermal structure in the
+  crust of a superbursting neutron star. In particular, we follow the nucleosynthetic
+  evolution of an accreted fluid element from its deposition into the atmosphere down
+  to a depth where the electron Fermi energy is 20 MeV. We include temperature-dependent
+  continuum electron capture rates and realistic sources of heat loss by thermal neutrino
+  emission from the crust and core. We show that, in contrast to previous calculations,
+  electron captures to excited states and subsequent gamma-emission significantly
+  reduce the local heat loss due to weak-interaction neutrinos. Depending on the initial
+  composition, these reactions release up to a factor of 10 times more heat at densities<1011
+  g cm-3 than obtained previously. This heating reduces the ignition depth of superbursts.
+  In particular, it reduces the discrepancy noted by Cumming et al. between the temperatures
+  needed for unstable 12C ignition on timescales consistent with observations and
+  the reduction in crust temperature from Cooper pair neutrino emission.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662.1188G
+arxivurl: http://arxiv.org/abs/astro-ph/0609828
+author: Gupta, S. and Brown, E. F. and Schatz, H. and Möller, P. and Kratz, K.-L.
+author_list:
+- family: Gupta
+  given: S.
+- family: Brown
+  given: E. F.
+- family: Schatz
+  given: H.
+- family: Möller
+  given: P.
+- family: Kratz
+  given: K.-L.
+date-added: 2017-08-10 17:48:48 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/517869
+eprint: astro-ph/0609828
+journal: \apj
+keywords: 'Dense Matter, Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Neutron,
+  X-Rays: Binaries, X-Rays: Bursts'
+month: June
+pages: 1188--1197
+papis_id: bc4266f3370a2c3bca1a02905e381bdf
+ref: gupta.s.2007
+title: 'Heating in the Accreted Neutron Star Ocean: Implications for Superburst Ignition'
+type: article
+volume: '662'
+year: '2007'

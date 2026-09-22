@@ -1,0 +1,46 @@
+abstract: Differentially rotating disks are subject to the axisymmetric instability
+  for perfectly conducting plasma in the presence of poloidal magnetic fields (Balbus
+  \& Hawley 1991). For nonaxisymmetric perturbations, we find localized unstable eigenmodes
+  whose eigenfunction is confined between two Alfven singularities at omegaD = +/-
+  omegaA, where omegaD is the Doppler-shifted wave frequency and omegaA = kparallel
+  nuA is the Alfven frequency. The radial width of the unstable eigenfunction is Delta
+  x is approximately omegaA/(AKy), where A is Oort's constant and ky is the azimuthal
+  wavenumber. The growth rate of the fundamental mode is larger for smaller values
+  of ky/kz. The maximum growth rate when ky/kz is approximately 0.1 is approximately
+  0.2 Omega for the Keplerian disk with local angular velocity Omega. It is found
+  that the purely growing mode disappears when ky/kz is greater than 0.12. In a perfectly
+  conducting disk, the instability grows even when the seed magnetic field is infitesimal.
+  Inclusion of the resistivity, however, leads to the appearance of an instability
+  threshold. When the resistivity eta depends on the instability-induced turbulent
+  magnetic fields delta B as eta (mean value of delta B squared), the marginal stability
+  condition self consistently determines the alpha-parameter of the angular momentum
+  transport due to magnetic stress. For fully ionized disks, the magnetic viscosity
+  parameter alphaB is between 0.001 and 1. Our three-dimensional MHD simulation confirms
+  these unstable eigenmodes. It also shows that the alpha-parameter observed in simulation
+  is between 0.01 and 1, in agreement with theory. The observationally required smaller
+  alpha in the quiescent phase of accretion disks in dwarf novae may be explained
+  by the decreased inoization due to the temperature drop.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...445..767M
+author: Matsumoto, R. and Tajima, T.
+author_list:
+- family: Matsumoto
+  given: R.
+- family: Tajima
+  given: T.
+date-added: 2017-08-10 14:48:12 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175739
+journal: \apj
+keywords: Accretion Disks, Flow Stability, Magnetization, Magnetohydrodynamic Flow,
+  Shear Flow, Three Dimensional Models, Viscosity, Angular Velocity, Eigenvectors,
+  Magnetic Field Configurations, Poloidal Flux, Stress Tensors, Toroidal Plasmas
+month: June
+pages: 767--779
+papis_id: 6f7b7846b615060064045f9c69dc8258
+ref: matsumoto.r.1995
+title: Magnetic viscosity by localized shear flow instability in magnetized accretion
+  disks
+type: article
+volume: '445'
+year: '1995'

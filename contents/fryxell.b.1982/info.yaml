@@ -1,0 +1,33 @@
+abstract: The spherically symmetric calculations of a thermonuclear explosion on a
+  neutron star is extended to two dimensions. Assuming a simple dipolar field, accretion
+  will be focused onto a small region at the polar cap. For a suitable accretion rate
+  hydrogen burns stably by the beta-limited CNO cycle, forming a layer of helium;
+  a thermonuclear runaway initiates at a point at the base of the helium layer. The
+  detonation model is hydrodynamically calculated using a two-dimensional hydrodynamic
+  code. The wave is found to propagate across the helium lake at 9000 km/s without
+  dying out, igniting all the helium and liberating 2.4 x 10 to the 39th ergs. The
+  rise time of the burst, determined by the time required to propagate the detonation
+  across the helium layer, is about 50 microseconds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982ApJ...258..733F
+author: Fryxell, B. A. and Woosley, S. E.
+author_list:
+- family: Fryxell
+  given: B. A.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 17:01:23 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/160121
+journal: \apj
+keywords: Gamma Ray Bursts, Magnetohydrodynamic Flow, Neutron Stars, Stellar Mass
+  Accretion, Thermonuclear Reactions, Two Dimensional Models, Detonation Waves, Helium,
+  Hydrogen, Stellar Atmospheres, Stellar Models
+month: July
+pages: 733--739
+papis_id: 95f670cac72e40ebb55c04363a0cdbfc
+ref: fryxell.b.1982
+title: A two-dimensional model for gamma-ray bursts
+type: article
+volume: '258'
+year: '1982'

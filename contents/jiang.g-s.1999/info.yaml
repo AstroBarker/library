@@ -1,0 +1,36 @@
+abstract: We present a high-order accurate weighted essentially non-oscillatory (WENO)
+  finite difference scheme for solving the equations of ideal magnetohydrodynamics
+  (MHD). This scheme is a direct extension of a WENO scheme, which has been successfully
+  applied to hydrodynamic problems. The WENO scheme follows the same idea of an essentially
+  non-oscillatory (ENO) scheme with an advantage of achieving higher-order accuracy
+  with fewer computations. Both ENO and WENO can be easily applied to two and three
+  spatial dimensions by evaluating the fluxes dimension-by-dimension. Details of the
+  WENO scheme as well as the construction of a suitable eigen-system, which can properly
+  decompose various families of MHD waves and handle the degenerate situations, are
+  presented. Numerical results are shown to perform well for the one-dimensional Brio-Wu
+  Riemann problems, the two-dimensional Kelvin-Helmholtz instability problems, and
+  the two-dimensional Orszag-Tang MHD vortex system. They also demonstrate the importance
+  of maintaining the divergence free condition for the magnetic field in achieving
+  numerical stability. The tests also show the advantages of using the higher-order
+  scheme. The new 5th-order WENO MHD code can attain an accuracy comparable with that
+  of the second-order schemes with many fewer grid points.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999JCoPh.150..561J
+author: Jiang, G.-S. and Wu, C.-c.
+author_list:
+- family: Jiang
+  given: G.-S.
+- family: Wu
+  given: C.-c.
+date-added: 2017-08-10 13:55:11 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1006/jcph.1999.6207
+journal: Journal of Computational Physics
+month: April
+pages: 561--594
+papis_id: c55bf29b9061d014b0f9261dac093b49
+ref: jiang.g_s.1999
+title: A High-Order WENO Finite Difference Scheme for the Equations of Ideal Magnetohydrodynamics
+type: article
+volume: '150'
+year: '1999'

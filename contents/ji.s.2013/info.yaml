@@ -1,0 +1,64 @@
+abstract: Type Ia supernovae (SNe Ia) play a crucial role as standardizable cosmological
+  candles, though the nature of their progenitors is a subject of active investigation.
+  Recent observational and theoretical work has pointed to merging white dwarf binaries,
+  referred to as the double-degenerate channel, as the possible progenitor systems
+  for some SNe Ia. Additionally, recent theoretical work suggests that mergers which
+  fail to detonate may produce magnetized, rapidly rotating white dwarfs. In this
+  paper, we present the first multidimensional simulations of the post-merger evolution
+  of white dwarf binaries to include the effect of the magnetic field. In these systems,
+  the two white dwarfs complete a final merger on a dynamical timescale, and are tidally
+  disrupted, producing a rapidly rotating white dwarf merger surrounded by a hot corona
+  and a thick, differentially rotating disk. The disk is strongly susceptible to the
+  magnetorotational instability (MRI), and we demonstrate that this leads to the rapid
+  growth of an initially dynamically weak magnetic field in the disk, the spin-down
+  of the white dwarf merger, and to the subsequent central ignition of the white dwarf
+  merger. Additionally, these magnetized models exhibit new features not present in
+  prior hydrodynamic studies of white dwarf mergers, including the development of
+  MRI turbulence in the hot disk, magnetized outflows carrying a significant fraction
+  of the disk mass, and the magnetization of the white dwarf merger to field strengths
+  ~2 \texttimes{} 108 G. We discuss the impact of our findings on the origins, circumstellar
+  media, and observed properties of SNe Ia and magnetized white dwarfs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...773..136J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.5700
+author: Ji, S. and Fisher, R. T. and García-Berro, E. and Tzeferacos, P. and Jordan,
+  G. and Lee, D. and Lorén-Aguilar, P. and Cremer, P. and Behrends, J.
+author_list:
+- family: Ji
+  given: S.
+- family: Fisher
+  given: R. T.
+- family: García-Berro
+  given: E.
+- family: Tzeferacos
+  given: P.
+- family: Jordan
+  given: G.
+- family: Lee
+  given: D.
+- family: Lorén-Aguilar
+  given: P.
+- family: Cremer
+  given: P.
+- family: Behrends
+  given: J.
+date-added: 2017-08-11 07:21:12 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/773/2/136
+eid: '136'
+eprint: '1302.5700'
+journal: \apj
+keywords: 'ISM: supernova remnants, magnetohydrodynamics: MHD, supernovae: general,
+  supernovae: individual: 2011fe, white dwarfs'
+month: August
+pages: '136'
+papis_id: bdd6a1b3c642c061bada05604dfcf7e8
+primaryclass: astro-ph.SR
+ref: ji.s.2013
+title: 'The Post-merger Magnetized Evolution of White Dwarf Binaries: The Double-degenerate
+  Channel of Sub-Chandrasekhar Type Ia Supernovae and the Formation of Magnetized
+  White Dwarfs'
+type: article
+volume: '773'
+year: '2013'

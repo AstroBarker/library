@@ -1,0 +1,40 @@
+abstract: In hierarchical models of structure formation, an early cosmic UV background
+  (UVB) is produced by the small (Tvir<~104 K) halos that collapse before reionization.
+  The UVB at energies below 13.6 eV suppresses the formation of stars or black holes
+  inside small halos by photodissociating their only cooling agent, molecular H2.
+  We self-consistently compute the buildup of the early UVB in Press-Schechter models,
+  coupled with H2 photodissociation both in the intergalactic medium (IGM) and inside
+  virialized halos. We find that the intergalactic H2 has a negligible effect on the
+  UVB, both because its initial optical depth is small (<~0.1) and because it is photodissociated
+  at an early stage. If the UV sources in the first collapsed halos are stars, then
+  their UV flux suppresses further star formation inside small halos. This results
+  in a pause in the buildup of the UVB, and reionization is delayed until larger halos
+  (Tvir>~104 K) collapse. If the small halos host miniquasars with hard spectra extending
+  to ~1 keV, then their X-rays balance the effects of the UVB, the negative feedback
+  does not occur, and reionization could be caused by the small halos.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...534...11H
+arxivurl: http://arxiv.org/abs/astro-ph/9903336
+author: Haiman, Z. and Abel, T. and Rees, M. J.
+author_list:
+- family: Haiman
+  given: Z.
+- family: Abel
+  given: T.
+- family: Rees
+  given: M. J.
+date-added: 2017-08-11 05:59:04 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308723
+eprint: astro-ph/9903336
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, COSMOLOGY: DIFFUSE RADIATION, COSMOLOGY: EARLY UNIVERSE,
+  GALAXIES: FORMATION, MOLECULAR PROCESSES, RADIATIVE TRANSFER'
+month: May
+pages: 11--24
+papis_id: 53abce64dc9877ffcd2f40aba4a7e8ef
+ref: haiman.z.2000
+title: The Radiative Feedback of the First Cosmological Objects
+type: article
+volume: '534'
+year: '2000'

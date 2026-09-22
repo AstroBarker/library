@@ -1,0 +1,42 @@
+abstract: We present the newly-incorporated gray radiation hydrodynamics capabilities
+  of the FLASH code based on a radiation flux-limiter aware hydrodynamics numerical
+  implementation designed specifically for applications in astrophysical problems.
+  The newly incorporated numerical methods consist of changes in the unsplit hydrodynamics
+  solver and adjustments in the flux-limited radiation diffusion unit. Our method
+  can treat problems in both the strong and weak radiation-matter coupling limits
+  as well as transitions between the two regimes. Appropriate extensions in the "Helmholtz"
+  equation of state are implemented to treat two-temperature astrophysical plasmas
+  involving the interaction between radiation and matter and the addition of a new
+  opacity unit based on the OPAL opacity database, commonly used for astrophysical
+  fluids. A set of radiation-hydrodynamics test problems is presented aiming to showcase
+  the new capabilities of FLASH and to provide direct comparison to other codes like
+  CASTRO. To illustrate the capacity of FLASH to simulate phenomena occuring in stellar
+  explosions, such as shock break--out, radiative precursors and supernova ejecta
+  heating due to the decays of radioactive nickel-56 and cobalt-56, we also present
+  1D supernova simulations and compare the computed lightcurves to those of the SNEC
+  code. The latest public release of FLASH with these enhanced capabilities is available
+  for download and use by the broader astrophysics community.
+adscomment: 15 pages, 9 figures, Submitted to ApJ
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv171210091C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.10091
+author: Chatzopoulos, E. and Weide, K.
+author_list:
+- family: Chatzopoulos
+  given: E.
+- family: Weide
+  given: K.
+date-added: 2018-01-22 18:50:53 +0000
+date-modified: 2018-01-22 18:50:54 +0000
+eprint: '1712.10091'
+journal: ArXiv e-prints
+keywords: Astrophysics - Solar and Stellar Astrophysics, Astrophysics - High Energy
+  Astrophysical Phenomena
+month: December
+papis_id: a54bd25ca0f9e3b3e83508f57df9c967
+primaryclass: astro-ph.SR
+ref: chatzopoulos.e.2017
+title: Gray Radiation Hydrodynamics with the FLASH Code for Astrophysical Applications
+type: article
+year: '2017'

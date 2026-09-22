@@ -1,0 +1,42 @@
+abstract: A new general relativistic magnetohydrodynamics (GRMHD) code ``RAISHIN''
+  used to simulate jet generation by rotating and non-rotating black holes with a
+  geometrically thin Keplarian accretion disk finds that the jet develops a spine-sheath
+  structure in the rotating black hole case. Spine-sheath structure and strong magnetic
+  fields significantly modify the Kelvin-Helmholtz (KH) velocity shear driven instability.
+  The RAISHIN code has been used in its relativistic magnetohydrodynamic (RMHD) configuration
+  to study the effects of strong magnetic fields and weakly relativistic sheath motion,
+  c/2, on the KH instability associated with a relativistic, gamma=2.5, jet spine-sheath
+  interaction. In the simulations sound speeds up to {\texttildelow{}}c/sqrt{3} and
+  Alfv{\'e}n wave speeds up to \texttildelow{}0.56 c are considered. Numerical simulation
+  results are compared to theoretical predictions from a new normal mode analysis
+  of the RMHD equations. Increased stability of a weakly magnetized system resulting
+  from c/2 sheath speeds and stabilization of a strongly magnetized system resulting
+  from c/2 sheath speeds is found.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007Ap\%26SS.311..281H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.1916
+author: Hardee, P. and Mizuno, Y. and Nishikawa, K.-I.
+author_list:
+- family: Hardee
+  given: P.
+- family: Mizuno
+  given: Y.
+- family: Nishikawa
+  given: K.-I.
+date-added: 2017-08-10 16:34:14 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1007/s10509-007-9529-1
+eprint: '0706.1916'
+journal: \apss
+keywords: 'Galaxies: jets, Gamma rays: bursts, ISM: jets and outflows, Methods: analytical,
+  MHD, Relativity, Instabilities'
+month: October
+pages: 281--286
+papis_id: 6a29e0d0f69019b43f5019ef9da644ac
+ref: hardee.p.2007
+title: GRMHD/RMHD simulations \amp stability of magnetized spine-sheath relativistic
+  jets
+type: article
+volume: '311'
+year: '2007'

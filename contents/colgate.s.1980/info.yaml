@@ -1,0 +1,37 @@
+abstract: 'The luminosity of type I supernovae is recalculated, and the energy deposition
+  by both gamma rays and positrons is determined using a numerical Monte Carlo program.
+  Three independent physical phenomena are considered: the diffusive release of thermal
+  radiation that determines the height and width of the optical peak; the initial
+  fast decay of the optical peak by a factor of roughly 100 as determined by the progressive
+  transparency to gamma rays, and the apparent 56 day half-life that results from
+  the progressive escape of the positron fraction of the 77 day Co-56 decay. To obtain
+  agreement with observations, each phenomenon requires that the expanding nebula
+  be described by a single relation yielding a value of 0.22 plus or minus 0.05 for
+  the product of the ejected mass (in solar masses), and the expansion velocity (in
+  units of 10 to the 9th cm/s) taken to the -2nd power. It is concluded that the type
+  I supernova light curve with its exponential tail is well explained by the radioactive
+  decay of Ni-56.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1980ApJ...237L..81C
+author: Colgate, S. A. and Petschek, A. G. and Kriese, J. T.
+author_list:
+- family: Colgate
+  given: S. A.
+- family: Petschek
+  given: A. G.
+- family: Kriese
+  given: J. T.
+date-added: 2017-08-11 08:06:42 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/183239
+journal: \apjl
+keywords: Gamma Rays, Radioactive Decay, Stellar Luminosity, Supernovae, Beta Particles,
+  Light Curve, Monte Carlo Method, Nickel Isotopes, Positrons, Stellar Models
+month: May
+pages: L81-L85
+papis_id: b013d6687e02819b1f263e86ed1d646d
+ref: colgate.s.1980
+title: The luminosity of type I supernovae
+type: article
+volume: '237'
+year: '1980'

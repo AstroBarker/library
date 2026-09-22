@@ -1,0 +1,54 @@
+abstract: We have conducted experiments on the Omega laser at the University of Rochester
+  that have produced jets of supersonic Ti impacting and being deflected by a ball
+  of high density plastic. These mm-sized jets of dense plasma are highly complex,
+  have large Reynolds numbers, and, given sufficient time and shear, should produce
+  a fully turbulent flow. The experiments are diagnosed with a point-projection backlighter,
+  resulting in a single image per shot. Simulations of the 3D hydrodynamics capture
+  the large-scale features of the experimental data fairly well while missing some
+  of the smaller scale turbulent-like phenomena. This is to be expected given the
+  limited characterization of the targets as well as the finite resolution of the
+  3D simulations. If Euler scaling holds, these experiments should model larger astrophysical
+  jets in objects such as HH 110 where an outflow can be seen colliding with a molecular
+  cloud. However, Euler scaling demands that not only the isothermal internal Mach
+  numbers of the two systems be similar but also that any dissipative mechanisms,
+  such as radiative cooling or viscous dissipation, be of equal importance relative
+  to each other. Similar equations of state are required as well. We discuss such
+  issues in the context of these experiments and simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007Ap\%26SS.307...57C
+author: Coker, R. F. and Wilde, B. H. and Foster, J. M. and Blue, B. E. and Rosen,
+  P. A. and Williams, R. J. R. and Hartigan, P. and Frank, A. and Back, C. A.
+author_list:
+- family: Coker
+  given: R. F.
+- family: Wilde
+  given: B. H.
+- family: Foster
+  given: J. M.
+- family: Blue
+  given: B. E.
+- family: Rosen
+  given: P. A.
+- family: Williams
+  given: R. J. R.
+- family: Hartigan
+  given: P.
+- family: Frank
+  given: A.
+- family: Back
+  given: C. A.
+date-added: 2017-08-11 04:59:09 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1007/s10509-006-9268-8
+journal: \apss
+keywords: 'Hydrodynamics, ISM: Herbig-Haro objects, ISM: Jets and outflows, Methods:
+  Laboratory'
+month: January
+pages: 57--62
+papis_id: b514c1a6ff2d6913f8d4a88c2f14162b
+ref: coker.r.2007
+title: Numerical Simulations and Astrophysical Applications of Laboratory Jets at
+  Omega
+type: article
+volume: '307'
+year: '2007'

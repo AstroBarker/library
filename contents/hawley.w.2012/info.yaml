@@ -1,0 +1,46 @@
+abstract: We systematically explore zero impact parameter collisions of white dwarfs
+  (WDs) with the Eulerian adaptive grid code FLASH for 0.64 + 0.64 M \&sun; and 0.81
+  + 0.81 M \&sun; mass pairings. Our models span a range of effective linear spatial
+  resolutions from 5.2 \texttimes{} 107 to 1.2 \texttimes{} 107 cm. However, even
+  the highest resolution models do not quite achieve strict numerical convergence,
+  due to the challenge of properly resolving small-scale burning and energy transport.
+  The lack of strict numerical convergence from these idealized configurations suggests
+  that quantitative predictions of the ejected elemental abundances that are generated
+  by binary WD collision and merger simulations should be viewed with caution. Nevertheless,
+  the convergence trends do allow some patterns to be discerned. We find that the
+  0.64 + 0.64 M \&sun; head-on collision model produces 0.32 M \&sun; of 56Ni and
+  0.38 M \&sun; of 28Si, while the 0.81 + 0.81 M \&sun; head-on collision model produces
+  0.39 M \&sun; of 56Ni and 0.55 M \&sun; of 28Si at the highest spatial resolutions.
+  Both mass pairings produce ~0.2 M \&sun; of unburned 12C+16O. We also find the 0.64
+  + 0.64 M \&sun; head-on collision begins carbon burning in the central region of
+  the stalled shock between the two WDs, while the more energetic 0.81 + 0.81 M \&sun;
+  head-on collision raises the initial post-shock temperature enough to burn the entire
+  stalled shock region to nuclear statistical equilibrium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759...39H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.3749
+author: Hawley, W. P. and Athanassiadou, T. and Timmes, F. X.
+author_list:
+- family: Hawley
+  given: W. P.
+- family: Athanassiadou
+  given: T.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-10 17:42:14 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/1/39
+eid: '39'
+eprint: '1209.3749'
+journal: \apj
+keywords: 'binaries: general, supernovae: general, white dwarfs'
+month: November
+pages: '39'
+papis_id: 4b196a5f725e2588291f8303515b858b
+primaryclass: astro-ph.SR
+ref: hawley.w.2012
+title: Zero Impact Parameter White Dwarf Collisions in FLASH
+type: article
+volume: '759'
+year: '2012'

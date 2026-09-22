@@ -1,0 +1,49 @@
+abstract: We present and discuss evolutionary synthesis models for massive stellar
+  populations generated with the Starburst99 code in combination with a new set of
+  stellar evolution models accounting for rotation. The new stellar evolution models
+  were compiled from several data releases of the Geneva group and cover heavy-element
+  abundances ranging from twice solar to one-fifth solar. The evolution models were
+  computed for rotation velocities on the zero-age main sequence of 0 and 300 km s-1
+  and with the latest revision of stellar mass-loss rates. Since the mass coverage
+  is incomplete, in particular at nonsolar chemical composition, our parameter study
+  is still preliminary and must be viewed as exploratory. Stellar population properties
+  computed with Starburst99 and the new evolution models show some marked differences
+  in comparison with models obtained using earlier tracks. Since individual stars
+  now tend to be more luminous and bluer when on the blue side of the Hertzsprung-Russell
+  diagram, the populations mirror this trend. For instance, increases by factors of
+  2 or more are found for the light-to-mass ratios at ultraviolet to near-infrared
+  wavelengths, as well as for the output of hydrogen-ionizing photons. If these results
+  are confirmed once the evolution models have matured, recalibrations of certain
+  star formation and initial mass function indicators will be required.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...663..995V
+arxivurl: http://arxiv.org/abs/astro-ph/0703699
+author: Vázquez, G. A. and Leitherer, C. and Schaerer, D. and Meynet, G. and Maeder,
+  A.
+author_list:
+- family: Vázquez
+  given: G. A.
+- family: Leitherer
+  given: C.
+- family: Schaerer
+  given: D.
+- family: Meynet
+  given: G.
+- family: Maeder
+  given: A.
+date-added: 2017-08-10 20:33:36 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518589
+eprint: astro-ph/0703699
+journal: \apj
+keywords: 'galaxies: individual (SMC), galaxies: individual (LMC), Galaxies: Individual:
+  Messier Number: M31, Galaxies: Individual: Alphanumeric: IC 10, Galaxies: Stellar
+  Content, Stars: Evolution'
+month: July
+pages: 995--1020
+papis_id: 5e705c34a9b74fab1b8d07df1b6168f8
+ref: vazquez.g.2007
+title: Models for Massive Stellar Populations with Rotation
+type: article
+volume: '663'
+year: '2007'

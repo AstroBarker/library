@@ -1,0 +1,33 @@
+abstract: The linear-eddy approach for modeling molecular mixing in turbulent flow
+  involves stochastic simulation on a 1D domain with sufficient resolution to include
+  all physically relevant lengthscales. In each realization, molecular diffusion is
+  implemented deterministically, punctuated by a sequence of instantaneous, statistically
+  independent 'rearrangement events' (measure-preserving maps) representing turbulent
+  stirring. The model reproduces key features of scalar power spectra, including dependences
+  of spectral amplitudes and transition wavenumbers on Reynolds and Schmidt numbers.
+  Computed scaling exponents governing scalar powe spectra, higher-order fluctuation
+  statistics such as structure functions, and the spatial distribution of scalar level
+  crossings are close to measured exponents. It is inferred that the characterization
+  of stirring as a sequence of independent events (the model analogue of eddies) leads
+  to a useful representation of mixing-field microstructure.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991JFM...231..361K
+author: Kerstein, A. R.
+author_list:
+- family: Kerstein
+  given: A. R.
+date-added: 2017-08-11 05:08:19 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1017/S0022112091003439
+journal: Journal of Fluid Mechanics
+keywords: Computerized Simulation, Molecular Diffusion, Power Spectra, Turbulent Flow,
+  Ficks Equation, Monte Carlo Method, Probability Density Functions, Spatial Distribution
+month: October
+pages: 361--394
+papis_id: ad5249f4b0860001db32beaffe17a0c3
+ref: kerstein.a.1991
+title: Linear-eddy modelling of turbulent transport. VI - Microstructure of diffusive
+  scalar mixing fields
+type: article
+volume: '231'
+year: '1991'

@@ -1,0 +1,64 @@
+abstract: 'We introduce the Illustris Project, a series of large-scale hydrodynamical
+  simulations of galaxy formation. The highest resolution simulation, Illustris-1,
+  covers a volume of (106.5 Mpc)3, has a dark mass resolution of 6.26 \texttimes{}
+  106 M\&sun;, and an initial baryonic matter mass resolution of 1.26 \texttimes{}
+  106 M\&sun;. At z = 0 gravitational forces are softened on scales of 710 pc, and
+  the smallest hydrodynamical gas cells have an extent of 48 pc. We follow the dynamical
+  evolution of 2 \texttimes{} 18203 resolution elements and in addition passively
+  evolve 18203 Monte Carlo tracer particles reaching a total particle count of more
+  than 18 billion. The galaxy formation model includes: primordial and metal-line
+  cooling with self-shielding corrections, stellar evolution, stellar feedback, gas
+  recycling, chemical enrichment, supermassive black hole growth, and feedback from
+  active galactic nuclei. Here we describe the simulation suite, and contrast basic
+  predictions of our model for the present-day galaxy population with observations
+  of the local universe. At z = 0 our simulation volume contains about 40 000 well-resolved
+  galaxies covering a diverse range of morphologies and colours including early-type,
+  late-type and irregular galaxies. The simulation reproduces reasonably well the
+  cosmic star formation rate density, the galaxy luminosity function, and baryon conversion
+  efficiency at z = 0. It also qualitatively captures the impact of galaxy environment
+  on the red fractions of galaxies. The internal velocity structure of selected well-resolved
+  disc galaxies obeys the stellar and baryonic Tully-Fisher relation together with
+  flat circular velocity curves. In the well-resolved regime, the simulation reproduces
+  the observed mix of early-type and late-type galaxies. Our model predicts a halo
+  mass dependent impact of baryonic effects on the halo mass function and the masses
+  of haloes caused by feedback from supernova and active galactic nuclei.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.444.1518V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1405.2921
+author: Vogelsberger, M. and Genel, S. and Springel, V. and Torrey, P. and Sijacki,
+  D. and Xu, D. and Snyder, G. and Nelson, D. and Hernquist, L.
+author_list:
+- family: Vogelsberger
+  given: M.
+- family: Genel
+  given: S.
+- family: Springel
+  given: V.
+- family: Torrey
+  given: P.
+- family: Sijacki
+  given: D.
+- family: Xu
+  given: D.
+- family: Snyder
+  given: G.
+- family: Nelson
+  given: D.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:29:14 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1093/mnras/stu1536
+eprint: '1405.2921'
+journal: \mnras
+keywords: 'methods: numerical, cosmology: theory'
+month: October
+pages: 1518--1547
+papis_id: 05dc17f434bc04cc601b7025d0d6b7b5
+ref: vogelsberger.m.2014
+title: 'Introducing the Illustris Project: simulating the coevolution of dark and
+  visible matter in the Universe'
+type: article
+volume: '444'
+year: '2014'

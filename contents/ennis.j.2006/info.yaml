@@ -1,0 +1,58 @@
+abstract: We present Spitzer IRAC images and representative 5.27-38.5 mum IRS spectra
+  of the Cas A SNR. We find that various IRAC channels are each most sensitive to
+  a different spectral and physical component. Channel 1 (3.6 mum) provides an excellent
+  match to the radio synchrotron images. Where channel 1 is strong with respect to
+  the other IRAC channels, the longer wavelength spectra show a broad continuum gently
+  peaking around 26 mum, with weak or no lines. We suggest that this is due to unenriched
+  progenitor circumstellar dust behind the outer shock. Where channel 4 (8 mum) is
+  relatively brightest, the long-wavelength spectra show a strong, 2-3 mum wide peak
+  at 21 mum, likely due to silicates and protosilicates. Strong ionic lines of [Ar
+  II], [Ar III], [S IV], and [Ne II] also appear in these regions. We suggest that
+  in these locations, the dust and ionic emission originate from the explosion's O-burning
+  layers. The regions where channels 2 (4.5 mum) and 3 (5.6 mum) are strongest relative
+  to channel 4 show a spectrum that rises gradually to 38 mum, becoming flatter longward
+  of 21 mum, along with higher ratios of [Ne II] to [Ar II]. We suggest that the dust
+  and ionic emission in these locations arise primarily from the C- and Ne-burning
+  layers. All of these findings are consistent with asymmetries deep in the explosion,
+  producing variations in the velocity structure in different directions, but generally
+  preserving the nucleosynthetic layering. At each location, the dust and ionic lines
+  in the mid-infrared and the hotter and more highly ionized optical and X-ray emission
+  are then dominated by the layer currently encountering the reverse shock in that
+  direction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...652..376E
+arxivurl: http://arxiv.org/abs/astro-ph/0610838
+author: Ennis, J. A. and Rudnick, L. and Reach, W. T. and Smith, J. D. and Rho, J.
+  and DeLaney, T. and Gomez, H. and Kozasa, T.
+author_list:
+- family: Ennis
+  given: J. A.
+- family: Rudnick
+  given: L.
+- family: Reach
+  given: W. T.
+- family: Smith
+  given: J. D.
+- family: Rho
+  given: J.
+- family: DeLaney
+  given: T.
+- family: Gomez
+  given: H.
+- family: Kozasa
+  given: T.
+date-added: 2017-08-11 01:04:35 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/508142
+eprint: astro-ph/0610838
+journal: \apj
+keywords: 'ISM: Dust, Extinction, Infrared: ISM, ISM: Individual: Name: Cassiopeia
+  A, Nuclear Reactions, Nucleosynthesis, Abundances, ISM: Supernova Remnants'
+month: November
+pages: 376--386
+papis_id: e5843094bab714496eea8f2329fdc3e7
+ref: ennis.j.2006
+title: Spitzer IRAC Images and Sample Spectra of Cassiopeia A's Explosion
+type: article
+volume: '652'
+year: '2006'

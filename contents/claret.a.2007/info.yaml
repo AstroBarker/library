@@ -1,0 +1,40 @@
+abstract: 'Aims:We have selected 13 double-line eclipsing binary systems (DLEBS),
+  strategically positioned in the HR diagram, to infer the mass dependence of the
+  core overshooting parameter alpha\_ov.   Methods: In order to compare the data from
+  these DLEBS with the theoretical predictions we computed four grids of evolutionary
+  stellar models with variable amounts of core overshooting (alpha\_ov = 0.0, 0.2,
+  0.4, and 0.6) in addition to those previously computed. In some particular cases
+  specific models were computed for the precise observed masses. This procedure avoids
+  interpolations and extrapolations, and only considers chemical compositions within
+  the limits of the usual primordial helium abundance and enrichment law.   Results:
+  We used the ratio TR \equiv{} Teff 2/Teff 1 instead of the effective temperatures
+  themselves as we consider it a much better constrained parameter. This is because
+  it is directly derived from the analysis of light curves and is independent of calibrations,
+  distances, and model atmospheres. In contrast to previous studies on the subject,
+  we have found that standard models or models with moderate core overshooting (alpha\_ov
+  \approx{} 0.2) are able to match the absolute dimensions of key DLEBS such as V380
+  Cyg or V453 Cyg. The resulting log M - alpha\_ov diagram indicates that the dependence
+  of alpha\_ov on mass is more uncertain and less pronounced that previously established.
+  This result is also consistent with the analysis of colour-magnitude diagrams for
+  clusters and with previous comparisons of stellar models with larger samples of
+  DLEBS.  Figures 1-12 are only available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...475.1019C
+author: Claret, A.
+author_list:
+- family: Claret
+  given: A.
+date-added: 2017-08-10 20:41:33 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1051/0004-6361:20078024
+journal: \aap
+keywords: 'stars: binaries: eclipsing, stars: evolution, stars: interiors'
+month: December
+pages: 1019--1025
+papis_id: d509082401473d7e60ebaa53c71d3dce
+ref: claret.a.2007
+title: Does convective core overshooting depend on stellar mass?. Tests using double-lined
+  eclipsing binaries
+type: article
+volume: '475'
+year: '2007'

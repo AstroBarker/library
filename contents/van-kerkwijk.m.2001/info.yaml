@@ -1,0 +1,53 @@
+abstract: We present spectroscopy and Halpha imaging of a faint nebula surrounding
+  the X-ray bright, nearby neutron star RX J1856.5-3754. The nebula shows no strong
+  lines other than the hydrogen Balmer lines and has a cometary-like morphology, with
+  the apex being approximately 1 arcsec ahead of the neutron star, and the tail extending
+  up to at least 25 arcsec behind it. We find that the current observations can be
+  satisfactorily accounted for by two different models. In the first, the nebula is
+  similar to ``Balmer-dominated'' cometary nebulae seen around several radio pulsars,
+  and is due to a bow shock in the ambient gas arising from the supersonic motion
+  of a neutron star with a relativistic wind. In this case, the emission arises from
+  shocked ambient gas; we find that the observations require an ambient neutral hydrogen
+  number density nH0 =~ 0.8 cm-3 and a rotational energy loss dot{E} =~ 6\textasteriskcenteredE31
+  erg s-1. In the second model, the nebula is an ionisation nebula, but of a type
+  not observed before (though expected to exist), in which the ionisation and heating
+  are very rapid compared to recombination and cooling. Because of the hard ionising
+  photons, the plasma is heated up to ~70 000 K and the emission is dominated by collisional
+  excitation. The cometary morphology arises naturally as a consequence of the lack
+  of emission from the plasma near and behind the neutron star (which is ionised completely)
+  and of thermal expansion. We confirm this using a detailed hydrodynamical simulation.
+  We find that to reproduce the observations for this case, the neutral hydrogen number
+  density should be nH0 =~ 3 cm-3 and the extreme ultraviolet flux of the neutron
+  star should be slightly in excess, by a factor ~1.7, over what is expected from
+  a black-body fit to the optical and X-ray fluxes of the source. For this case, the
+  rotational energy loss is less than 2\textasteriskcenteredE32 erg s-1. Independent
+  of the model, we find that RX J1856.5-3754 is not kept hot by accretion. If it is
+  young and cooling, the lack of pulsations at X-ray wavelengths is puzzling. Using
+  phenomenological arguments, we suggest that RX J1856.5-3754 may have a relatively
+  weak, few 1011 G, magnetic field. If so, it would be ironic that the two brightest
+  nearby neutron stars, RX J1856.5-3754 and RX J0720.4-3125, may well represent the
+  extreme ends of the neutron star magnetic field distribution, one a weak field neutron
+  star and another a magnetar. Based on observations collected at the European Southern
+  Observatory, Paranal, Chile (ESO Programmes 63.H-0416 and 65.H-0643).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...380..221V
+author: van Kerkwijk, M. H. and Kulkarni, S. R.
+author_list:
+- family: van Kerkwijk
+  given: M. H.
+- family: Kulkarni
+  given: S. R.
+date-added: 2017-08-11 04:14:53 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1051/0004-6361:20011386
+journal: \aap
+keywords: 'STARS: INDIVIDUAL: <ASTROBJ > RX J1856.5-3754</ASTROBJ, STARS: NEUTRON,
+  HII'
+month: December
+pages: 221--237
+papis_id: 4d07e5292eb650d0c9f2e29a076e23a1
+ref: van_kerkwijk.m.2001
+title: An unusual H$α$ nebula around the nearby neutron star <ASTROBJ>RX J1856.5-3754</ASTROBJ>
+type: article
+volume: '380'
+year: '2001'

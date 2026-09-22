@@ -1,0 +1,47 @@
+abstract: Neutrino transport and neutrino interactions in dense matter play a crucial
+  role in stellar core collapse, supernova explosions and neutron star formation.
+  Here we present a detailed description of a new numerical code for treating the
+  time and energy dependent neutrino transport in hydrodynamical simulations of such
+  events. The code is based on a variable Eddington factor method to deal with the
+  integro-differential character of the Boltzmann equation. The moments of the neutrino
+  distribution function and the energy and lepton number exchange with the stellar
+  medium are determined by iteratively solving the zeroth and first order moment equations
+  in combination with a model Boltzmann equation. The latter is discretized on a grid
+  of tangent rays. The integration of the transport equations and the neutrino source
+  terms is performed in a time-implicit way. In the present version of the program,
+  the transport part is coupled to an explicit hydrodynamics code which follows the
+  evolution of the stellar plasma by a finite-volume method with piecewise parabolic
+  interpolation, using a Riemann solver to calculate the hydrodynamic states. The
+  neutrino source terms are implemented in an operator-split step. Neutrino transport
+  and hydrodynamics can be calculated with different spatial grids and different time
+  steps. The structure of the described code is modular and offers a high degree of
+  flexibility for an application to relativistic and multi-dimensional problems at
+  different levels of refinement and accuracy. We critically evaluate results for
+  a number of test cases, including neutrino transport in rapidly moving stellar media
+  and approximate relativistic core collapse, and suggest a path for generalizing
+  the code to be used in multi-dimensional simulations of convection in neutron stars
+  and supernovae. Appendices A and B and all their figures are only available at http://www.edpsciences.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...396..361R
+arxivurl: http://arxiv.org/abs/astro-ph/0203101
+author: Rampp, M. and Janka, H.-T.
+author_list:
+- family: Rampp
+  given: M.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:30:42 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1051/0004-6361:20021398
+eprint: astro-ph/0203101
+journal: \aap
+keywords: 'stars: supernovae: general, elementary particles, hydrodynamics, neutrinos'
+month: December
+pages: 361--392
+papis_id: 87aa7e8f0eb6f3949f8b6afbec20b178
+ref: rampp.m.2002a
+title: Radiation hydrodynamics with neutrinos. Variable Eddington factor method for
+  core-collapse supernova simulations
+type: article
+volume: '396'
+year: '2002'

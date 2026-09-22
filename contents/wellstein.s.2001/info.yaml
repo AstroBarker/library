@@ -1,0 +1,63 @@
+abstract: We present evolutionary calculations for 74 close binaries systems with
+  initial primary masses in the range 12...25Msun, and initial secondary masses between
+  6 and 24Msun. The initial periods were chosen such that mass overflow starts during
+  the core hydrogen burning phase of the primary (Case A), or shortly thereafter (Case
+  B). We use a newly developed binary code with up-to-date physics input. Of particular
+  relevance is the use of OPAL opacities, and the time-dependent treatment of semiconvective
+  and thermohaline mixing. We assume conservative evolution for contact-free systems,
+  i.e., no mass or angular momentum loss from those system except due to stellar winds.
+  We investigate the borderline between contact-free evolution and contact, as a function
+  of the initial system parameters. The fraction of the parameter space where binaries
+  may evolve while avoiding contact - which we found already small for the least massive
+  systems considered - becomes even smaller for larger initial primary masses. At
+  the upper end of the considered mass range, no contact-free Case B systems exist.
+  While for primary masses of 16Msun and higher the Case A systems dominate the contact-free
+  range, at primary masses of 12Msun contact-free systems are more frequent for Case
+  B. We identify the drop of the exponent x in the main sequence mass-luminosity relation
+  of the form L~ Mx as the main cause for this behaviour. For systems which evolve
+  into contact, we find that this can occur for distinctively different reasons. While
+  Case A systems are prone to contact due to reverse mass transfer during or after
+  the primary's main sequence phase, all systems obtain contact for initial mass ratios
+  below ~ 0.65, with a merger as the likely outcome. We also investigate the effect
+  of the treatment of convection, and found it relevant for contact and supernova
+  order in Case A systems, particularly for the highest considered masses. For Case
+  B systems we find contact for initial periods above ~ 10 d. However, in that case
+  (and for not too large periods) contact occurs only after the mass ratio has been
+  reversed, due to the increased fraction of the donor's convective envelope. As most
+  of the mass transfer occurs conservatively before contact is established, this delayed
+  contact is estimated to yield to the ejection of only a fraction of the donor star's
+  envelope. Our models yield the value of beta , i.e., the fraction of the primaries
+  envelope which is accreted by the secondary. We derive the observable properties
+  of our systems after the major mass transfer event, where the mass gainer is a main
+  sequence or supergiant O or early B type star, and the mass loser is a helium star.
+  We point out that the assumption of conservative evolution for contact-free systems
+  could be tested by finding helium star companions to O stars. Those are also predicted
+  by non-conservative models, but with different periods and mass ratios. We describe
+  strategies for increasing the probability to find helium star companions in observational
+  search programs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...369..939W
+arxivurl: http://arxiv.org/abs/astro-ph/0102244
+author: Wellstein, S. and Langer, N. and Braun, H.
+author_list:
+- family: Wellstein
+  given: S.
+- family: Langer
+  given: N.
+- family: Braun
+  given: H.
+date-added: 2017-08-10 14:13:09 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1051/0004-6361:20010151
+eprint: astro-ph/0102244
+journal: \aap
+keywords: 'STARS: EVOLUTION, STARS: BINARIES, STARS: BLUE STRAGGLERS, STARS: CIRCUMSTELLAR
+  MATTER'
+month: April
+pages: 939--959
+papis_id: 982fdf784b1a3400c34fcbe35f8c0f80
+ref: wellstein.s.2001
+title: Formation of contact in massive close binaries
+type: article
+volume: '369'
+year: '2001'

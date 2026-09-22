@@ -1,0 +1,49 @@
+abstract: Tidal dissipation in compact white dwarf (WD) binary systems significantly
+  influences the physical conditions (such as surface temperature and rotation rate)
+  of the WDs prior to mass transfer or merger. In these systems, the dominant tidal
+  effects involve the excitation of gravity waves and their dissipation in the outer
+  envelope of the star. We calculate the amplitude of tidally excited gravity waves
+  in low-mass (0.3 M\&sun;) helium (He) core WDs as a function of the tidal forcing
+  frequency omega. Like carbon-oxygen (CO) WDs studied in our previous paper, we find
+  that the dimensionless tidal torque F(omega) (inversely proportional to the effective
+  tidal quality factor) depends on omega in an erratic way. On average, F(omega) scales
+  approximately as omega6, and is several orders of magnitude smaller for He WDs than
+  for CO WDs. We find that tidal torques can begin to synchronize the WD rotation
+  when the orbital period is less than about an hour, although a nearly constant asynchronization
+  is maintained even at small periods. We examine where the tidally excited gravity
+  waves experience non-linear breaking or resonant absorption at a critical layer,
+  allowing us to estimate the location and magnitude of tidal heating in the WD envelope.
+  We then incorporate tidal heating in the MESA stellar evolution code, calculating
+  the physical conditions of the WD as a function of orbital period for different
+  WD models. We find that tidal heating makes a significant contribution to the WD
+  luminosity for short-period (\texttildelow{}10 min) systems such as SDSS J0651+2844.
+  We also find that for WDs containing a hydrogen envelope, tidal heating can trigger
+  runaway hydrogen shell burning, leading to a nova-like event before the onset of
+  mass transfer.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430..274F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.0624
+author: Fuller, J. and Lai, D.
+author_list:
+- family: Fuller
+  given: J.
+- family: Lai
+  given: D.
+date-added: 2017-08-10 20:39:11 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts606
+eprint: '1211.0624'
+journal: \mnras
+keywords: 'binaries: close, stars: individual: SDSS J0651+2844, stars: oscillations,
+  stars: rotation, white dwarfs, novae, cataclysmic variables'
+month: March
+pages: 274--287
+papis_id: b8c029aba0e03b7917f484f348ed614c
+primaryclass: astro-ph.SR
+ref: fuller.j.2013
+title: 'Dynamical tides in compact white dwarf binaries: helium core white dwarfs,
+  tidal heating and observational signatures'
+type: article
+volume: '430'
+year: '2013'

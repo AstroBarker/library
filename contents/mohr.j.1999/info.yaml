@@ -1,0 +1,51 @@
+abstract: We present a systematic analysis of the intracluster medium (ICM) in an
+  X-ray flux limited sample of 45 galaxy clusters. Using archival ROSAT Position-Sensitive
+  Proportional Counter (PSPC) data and published ICM temperatures, we present best-fit
+  double and single beta model profiles, and extract ICM central densities and radial
+  distributions. We use the data and an ensemble of numerical cluster simulations
+  to quantify sources of uncertainty for all reported parameters. We examine the ensemble
+  properties within the context of models of structure formation and feedback from
+  galactic winds. We present best-fit ICM mass-temperature MICM-<TX> relations for
+  MICM calculated within r500 and 1 h-150 Mpc. These relations exhibit small scatter
+  (17\%), providing evidence of regularity in large, X-ray flux limited cluster ensembles.
+  Interestingly, the slope of the MICM-<TX> relation (at limiting radius r500) is
+  steeper than the self-similar expectation by 4.3 sigma. We show that there is a
+  mild dependence of ICM mass fraction fICM on <TX> the clusters with ICM temperatures
+  below 5 keV have a mean ICM mass fraction <fICM>=0.160+/-0.008, which is significantly
+  lower than that of the hotter clusters <fICM>=0.212+/-0.006 (90\% confidence intervals).
+  In apparent contradiction with previously published analyses, our large, X-ray flux
+  limited cluster sample provides no evidence for a more extended radial ICM distribution
+  in low-<TX> clusters down to the sample limit of 2.4 keV. By analyzing simulated
+  clusters we find that density variations enhance the cluster X-ray emission and
+  cause MICM and fICM to be overestimated by ~12\%. Additionally, we use the simulations
+  to estimate an fICM depletion factor at r500. We use the bias corrected mean fICM
+  within the hotter cluster subsample as a lower limit on the cluster baryon fraction.
+  In combination with nucleosynthesis constraints this measure provides a firm upper
+  limit on the cosmological density parameter for clustered matter OmegaM<=(0.36+/-0.01)
+  h-1/250.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...517..627M
+arxivurl: http://arxiv.org/abs/astro-ph/9901281
+author: Mohr, J. J. and Mathiesen, B. and Evrard, A. E.
+author_list:
+- family: Mohr
+  given: J. J.
+- family: Mathiesen
+  given: B.
+- family: Evrard
+  given: A. E.
+date-added: 2017-08-11 05:16:50 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307227
+eprint: astro-ph/9901281
+journal: \apj
+keywords: 'GALAXIES: CLUSTERS: GENERAL, GALAXIES: INTERGALACTIC MEDIUM, X-RAYS: GALAXIES,
+  Galaxies: Clusters: General, Galaxies: Intergalactic Medium, X-Rays: Galaxies'
+month: June
+pages: 627--649
+papis_id: 26665a225c217b45ea951c8584501f1e
+ref: mohr.j.1999
+title: Properties of the Intracluster Medium in an Ensemble of Nearby Galaxy Clusters
+type: article
+volume: '517'
+year: '1999'

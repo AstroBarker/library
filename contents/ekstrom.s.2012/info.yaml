@@ -1,0 +1,82 @@
+abstract: 'Aims: Many topical astrophysical research areas, such as the properties
+  of planet host stars, the nature of the progenitors of different types of supernovae
+  and gamma ray bursts, and the evolution of galaxies, require complete and homogeneous
+  sets of stellar models at different metallicities in order to be studied during
+  the whole of cosmic history. We present here a first set of models for solar metallicity,
+  where the effects of rotation are accounted for in a homogeneous way.  Methods:
+  We computed a grid of 48 different stellar evolutionary tracks, both rotating and
+  non-rotating, at Z = 0.014, spanning a wide mass range from 0.8 to 120 M\&sun;.
+  For each of the stellar masses considered, electronic tables provide data for 400
+  stages along the evolutionary track and at each stage, a set of 43 physical data
+  are given. These grids thus provide an extensive and detailed data basis for comparisons
+  with the observations. The rotating models start on the zero-age main sequence (ZAMS)
+  with a rotation rate upsiloini/upsilocrit = 0.4. The evolution is computed until
+  the end of the central carbon-burning phase, the early asymptotic giant branch (AGB)
+  phase, or the core helium-flash for, respectively, the massive, intermediate, and
+  both low and very low mass stars. The initial abundances are those deduced by Asplund
+  and collaborators, which best fit the observed abundances of massive stars in the
+  solar neighbourhood. We update both the opacities and nuclear reaction rates, and
+  introduce new prescriptions for the mass-loss rates as stars approach the Eddington
+  and/or the critical velocity. We account for both atomic diffusion and magnetic
+  braking in our low-mass star models.  Results: The present rotating models provide
+  a good description of the average evolution of non-interacting stars. In particular,
+  they reproduce the observed main-sequence width, the positions of the red giant
+  and supergiant stars in the Hertzsprung-Russell (HR) diagram, the observed surface
+  compositions and rotational velocities. Very interestingly, the enhancement of the
+  mass loss during the red-supergiant stage, when the luminosity becomes supra-Eddington
+  in some outer layers, help models above 15-20 M\&sun; to lose a significant part
+  of their hydrogen envelope and evolve back into the blue part of the HR diagram.
+  This result has interesting consequences for the blue to red supergiant ratio, the
+  minimum mass for stars to become Wolf-Rayet stars, and the maximum initial mass
+  of stars that explode as type II-P supernovae.  Tracks and isochrones are available
+  at the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/537/A146'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...537A.146E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.5049
+author: Ekström, S. and Georgy, C. and Eggenberger, P. and Meynet, G. and Mowlavi,
+  N. and Wyttenbach, A. and Granada, A. and Decressin, T. and Hirschi, R. and Frischknecht,
+  U. and Charbonnel, C. and Maeder, A.
+author_list:
+- family: Ekström
+  given: S.
+- family: Georgy
+  given: C.
+- family: Eggenberger
+  given: P.
+- family: Meynet
+  given: G.
+- family: Mowlavi
+  given: N.
+- family: Wyttenbach
+  given: A.
+- family: Granada
+  given: A.
+- family: Decressin
+  given: T.
+- family: Hirschi
+  given: R.
+- family: Frischknecht
+  given: U.
+- family: Charbonnel
+  given: C.
+- family: Maeder
+  given: A.
+date-added: 2017-08-10 14:19:22 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1051/0004-6361/201117751
+eid: A146
+eprint: '1110.5049'
+journal: \aap
+keywords: 'stars: general, stars: evolution, stars: massive, stars: low-mass, stars:
+  rotation'
+month: January
+pages: A146
+papis_id: f2b18a9e1a7ab5e1b72c6e0803f1d075
+primaryclass: astro-ph.SR
+ref: ekstrom.s.2012
+title: Grids of stellar models with rotation. I. Models from 0.8 to 120 M$_&sun;$
+  at solar metallicity (Z = 0.014)
+type: article
+volume: '537'
+year: '2012'

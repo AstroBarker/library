@@ -1,0 +1,83 @@
+abstract: The role of neutrino heating and convective processes in the explosion mechanism
+  of Type-II supernovae is investigated by one- and two-dimensional hydrodynamical
+  simulations of the long-time evolution of the collapsed stellar core after the bounce
+  at nuclear matter density and after the associated formation of the supernova shock.
+  The parameters describing the neutrino emission from the collapsed stellar core
+  are systematically varied. The possibility to obtain explosions turns out to be
+  very sensitive to the physical conditions in and at the protoneutron star, in particular
+  to its contraction and to the neutrino cooling inside of the gain radius. Yet, above
+  a certain threshold for the core neutrino luminosity, stable and energetic explosions
+  can be obtained in spherical symmetry, provided the energy deposition by neutrinos
+  remains strong for a sufficiently long period. The explosion energy and time scale
+  critically depend on the neutrino fluxes during the shock revival phase and on their
+  temporal decay during the first few 100ms after shock formation. The threshold luminosity
+  is a very sensitive function of the shock stagnation radius, because small radii
+  of the stalled prompt shock lead to significantly higher neutrino loss from the
+  hot and compact postshock layers, cause the region of neutrino heating to be very
+  narrow, and reduce the heating time scale of the matter due to the high infall velocity.
+  Repeating the simulations in two dimensions we find that strong convective processes
+  occur in the collapsed stellar core in two spatially separate regions. One region
+  of convection lies inside the neutrinosphere and another one is located in the neutrino-heated
+  layer below the shock front. The convective mixing around the neutrinosphere is
+  mainly driven by the negative lepton gradient, which is maintained by rapid loss
+  of leptons from the semitransparent layers at the neutrinosphere. This considerably
+  speeds up the deleptonization of the outer layers of the collapsed stellar core.
+  Even 0.5 seconds after bounce a quasi-stationary pattern of convective motion is
+  still present in the protoneutron star. Three-dimensional simulations reveal that
+  rising and sinking convective elements have about half the size as in two dimensions
+  with angular diameters between 10deg and 15deg, which causes corresponding anisotropies
+  of the neutrino emission from the core. The large-scale convective overturn that
+  takes place between the shock and the position of maximum neutrino heating is able
+  to efficiently transport energy from the heated layer into the postshock region.
+  This helps to stabilize the shock revival during the critical phase. It also leads
+  to a faster increase and earlier saturation of the explosion energy, both because
+  neutrino-heated material quickly moves out of the heating region and energy loss
+  by the re-emission of neutrinos is reduced. The overturn pattern shows downflows
+  of matter in narrow flux tubes and rising bubbles with typical angular extensions
+  of 30deg to 60deg (in two dimensions). The material falling towards the neutron
+  star loses lepton number, but readily absorbs energy in the neutrino-heated region,
+  before it rises again. When the explosion gains momentum, this matter is not accreted
+  onto the cooler, neutron-rich protoneutron star any more. After about 200-300ms
+  the convective shell gets decoupled from the heating region and starts to move away
+  from the neutron star to expand in an essentially self-similar way as a thick layer
+  behind the outward propagating shock. The nearly spherically symmetrical "hot-bubble"
+  region begins to develop and turbulence around the protoneutron star ceases. When
+  the supernova shock passes the entropy step of the Si-O-interface about 400-500ms
+  after bounce, the density inversion between the low-density hot-bubble region and
+  the inhomogeneous shell steepens into a strong reverse shock that forms a sharp
+  discontinuity in the neutrino wind from the nascent neutron star. The supernova
+  shock is significantly deformed and velocity, density, temperature, and entropy
+  in the postshock region exhibit large-scale variations with a contrast of up to
+  a factor of 3. This must have consequences for the formation and spatial distribution
+  of nucleosynthesis products and might help to explain the clumpiness, anisotropies,
+  envelope and mantle mixing, and large velocities of iron group nuclei which were
+  observed in the ejecta of SN 1987A and other supernovae. Although in this respect
+  of essential importance, convection in the postshock region does not seem to be
+  indispensable to get successful Type-II explosions via the neutrino-heating mechanism,
+  nor do our simulations allow for the conclusion that its presence inevitably makes
+  the mechanism successful and the explosions very energetic. As in spherical symmetry,
+  the explosion energy and time scale are influenced by the contraction of the cooling
+  neutron star and are very sensitive to the neutrino energy deposition and the size
+  of the neutrino fluxes during a period of several hundred milliseconds after core
+  bounce.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996A\%26A...306..167J
+author: Janka, H.-T. and Mueller, E.
+author_list:
+- family: Janka
+  given: H.-T.
+- family: Mueller
+  given: E.
+date-added: 2017-08-10 13:51:33 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+journal: \aap
+keywords: 'SUPERNOVAE: GENERAL, ELEMENTARY PARTICLES: NEUTRINOS, TURBULENCE, CONVECTION,
+  SUPERNOVAE: INDIVIDUAL: SN 1987A'
+month: February
+pages: '167'
+papis_id: ad0beffdd194932e094b6b725d71f568
+ref: janka.h_t.1996
+title: Neutrino heating, convection, and the mechanism of Type-II supernova explosions.
+type: article
+volume: '306'
+year: '1996'

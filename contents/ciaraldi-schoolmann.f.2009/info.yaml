@@ -1,0 +1,50 @@
+abstract: We analyze the statistical properties of the turbulent velocity field in
+  the deflagration model for Type Ia supernovae. In particular, we consider the question
+  of whether turbulence is isotropic and consistent with the Kolmogorov theory at
+  small length scales. Using numerical data from a high-resolution simulation of a
+  thermonuclear supernova explosion, spectra of the turbulence energy and velocity
+  structure functions are computed. We show that the turbulent velocity field is isotropic
+  at small length scales and follows a scaling law that is consistent with the Kolmogorov
+  theory until most of the nuclear fuel is burned. At length scales greater than a
+  certain characteristic scale that agrees with the prediction of Niemeyer \& Woosley,
+  turbulence becomes anisotropic. Here, the radial velocity fluctuations follow the
+  scaling law of the Rayleigh-Taylor instability, whereas the angular component still
+  obeys the Kolmogorov scaling. In the late phase of the explosion, this characteristic
+  scale drops below the numerical resolution of the simulation. The analysis confirms
+  that a subgrid-scale model for the unresolved turbulence energy is required for
+  the consistent calculation of the flame speed in deflagration models of Type Ia
+  supernovae, and that the assumption of isotropy on these scales is appropriate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...696.1491C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.4254
+author: Ciaraldi-Schoolmann, F. and Schmidt, W. and Niemeyer, J. C. and Röpke, F.
+  K. and Hillebrandt, W.
+author_list:
+- family: Ciaraldi-Schoolmann
+  given: F.
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+- family: Röpke
+  given: F. K.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:37:00 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/696/2/1491
+eprint: '0901.4254'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, methods: statistical, supernovae: general,
+  turbulence'
+month: May
+pages: 1491--1497
+papis_id: d4e9c1b805d24de41426eb0462340c06
+primaryclass: astro-ph.SR
+ref: ciaraldi_schoolmann.f.2009
+title: Turbulence in a Three-Dimensional Deflagration Model for Type Ia Supernovae.
+  I. Scaling Properties
+type: article
+volume: '696'
+year: '2009'

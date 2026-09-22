@@ -1,0 +1,70 @@
+abstract: We present an improved dynamical model of the X-ray binary and microquasar
+  XTE J1550-564 based on new moderate-resolution optical spectroscopy and near-infrared
+  photometry obtained with the 6.5 m Magellan Telescopes at Las Campanas Observatory.
+  Twelve spectra of the source were obtained using the Magellan Echellette Spectrograph
+  between 2008 May 6 and August 4. In addition, several hundred images of the field
+  were obtained between 2006 May and 2009 July in the J and KS filters using the PANIC
+  camera. The agreement between the 2006/2007 and 2008 J and KS light curves is not
+  perfect, and the differences can plausibly be attributed to a hot spot on the accretion
+  disk during the 2006/2007 observations. By combining our new radial velocity measurements
+  with previous measurements obtained in 2001 May at the 8.2 m Very Large Telescope
+  and with light curves, we find an orbital period of P = 1.5420333 $\pm$ 0.0000024
+  days and a radial velocity semiamplitude of K 2 = 363.14 \$\pm\$ 5.97 km s-1, which
+  together imply an optical mass function of f(M) = 7.65 \$\pm\$ 0.38 M sun. We find
+  that the projected rotational velocity of the secondary star is 55 \$\pm\$ 5 km
+  s-1, which implies a very extreme mass ratio of Q \equiv{} M/M 2 \approx{} 30. Using
+  a model of a Roche lobe-filling star and an azimuthally symmetric accretion disk,
+  we fit simultaneously optical light curves from 2001, near-infrared light curves
+  from 2008, and all of the radial velocity measurements to derive system parameters.
+  We find an inclination of 74fdg7 \$\pm\$ 3fdg8 and component masses of M 2 = 0.30
+  \$\pm\$ 0.07 M sun and M = 9.10 \$\pm\$ 0.61 M sun for the secondary star and black
+  hole, respectively. We note that these results depend on the assumption that in
+  2008, the disk did not have a hot spot, and that the fraction of light contributed
+  by the accretion disk did not change between the spectroscopic and photometric observations.
+  By considering two measured values of the disk fraction and by modeling various
+  combinations of NIR and optical light curves, we show that our adopted black hole
+  mass is probably not seriously in error, where the black hole mass ranges between
+  M = 8.91 \$\pm\$ 1.10 M sun and M = 13.94 \$\pm\$ 1.64 M sun. The radius of the
+  secondary star for the adopted model is 1.75 \$\pm\$ 0.12 R sun. Using this radius,
+  the average KS magnitude, and an extinction of AK = 0.507 \$\pm\$ 0.050 mag, we
+  find a distance of 4.38+0.58 -0.41 kpc, which is in good agreement with a recent
+  distance estimate based on H I absorption lines.  This paper includes data gathered
+  with the 6.5 m Magellan Telescopes located at Las Campanas Observatory, Chile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...730...75O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.2499
+author: Orosz, J. A. and Steiner, J. F. and McClintock, J. E. and Torres, M. A. P.
+  and Remillard, R. A. and Bailyn, C. D. and Miller, J. M.
+author_list:
+- family: Orosz
+  given: J. A.
+- family: Steiner
+  given: J. F.
+- family: McClintock
+  given: J. E.
+- family: Torres
+  given: M. A. P.
+- family: Remillard
+  given: R. A.
+- family: Bailyn
+  given: C. D.
+- family: Miller
+  given: J. M.
+date-added: 2017-08-11 00:39:57 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/730/2/75
+eid: '75'
+eprint: '1101.2499'
+journal: \apj
+keywords: 'binaries: close, black hole physics, stars: individual: XTE J1550{\ndash}564,
+  X-rays: binaries'
+month: April
+pages: '75'
+papis_id: 48cae6c2a27317558a4137d67b3ca343
+primaryclass: astro-ph.SR
+ref: orosz.j.2011
+title: An Improved Dynamical Model for the Microquasar XTE J1550-564
+type: article
+volume: '730'
+year: '2011'

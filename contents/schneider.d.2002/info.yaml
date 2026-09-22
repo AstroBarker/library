@@ -1,0 +1,179 @@
+abstract: We present the first edition of the Sloan Digital Sky Survey (SDSS) Quasar
+  Catalog. The catalog consists of the 3814 objects (3000 discovered by the SDSS)
+  in the initial SDSS public data release that have at least one emission line with
+  a full width at half-maximum larger than 1000 km s-1, luminosities brighter than
+  Mi\textasteriskcentered=-23, and highly reliable redshifts. The area covered by
+  the catalog is 494 deg2; the majority of the objects were found in SDSS commissioning
+  data using a multicolor selection technique. The quasar redshifts range from 0.15
+  to 5.03. For each object the catalog presents positions accurate to better than
+  0.2" rms per coordinate, five-band (ugriz) CCD-based photometry with typical accuracy
+  of 0.05 mag, radio and X-ray emission properties, and information on the morphology
+  and selection method. Calibrated spectra of all objects in the catalog, covering
+  the wavelength region 3800-9200 {\AA} at a spectral resolution of 1800-2100, are
+  also available. Since the quasars were selected during the commissioning period,
+  a time when the quasar selection algorithm was undergoing frequent revisions, the
+  sample is not homogeneous and is not intended for statistical analysis. Based on
+  observations obtained with the Sloan Digital Sky Survey, which is owned and operated
+  by the Astrophysical Research Consortium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....123..567S
+arxivurl: http://arxiv.org/abs/astro-ph/0110629
+author: Schneider, D. P. and Richards, G. T. and Fan, X. and Hall, P. B. and Strauss,
+  M. A. and Vanden Berk, D. E. and Gunn, J. E. and Newberg, H. J. and Reichard, T.
+  A. and Stoughton, C. and Voges, W. and Yanny, B. and Anderson, S. F. and Annis,
+  J. and Bahcall, N. A. and Bauer, A. and Bernardi, M. and Blanton, M. R. and Boroski,
+  W. N. and Brinkmann, J. and Briggs, J. W. and Brunner, R. and Burles, S. and Carey,
+  L. and Castander, F. J. and Connolly, A. J. and Csabai, I. and Doi, M. and Friedman,
+  S. and Frieman, J. A. and Fukugita, M. and Heckman, T. M. and Hennessy, G. S. and
+  Hindsley, R. B. and Hogg, D. W. and Ivezić, Ž. and Kent, S. and Knapp, G. R. and
+  Kunzst, P. Z. and Lamb, D. Q. and Leger, R. F. and Long, D. C. and Loveday, J. and
+  Lupton, R. H. and Margon, B. and Meiksin, A. and Merelli, A. and Munn, J. A. and
+  Newcomb, M. and Nichol, R. C. and Owen, R. and Pier, J. R. and Pope, A. and Rockosi,
+  C. M. and Saxe, D. H. and Schlegel, D. and Siegmund, W. A. and Smee, S. and Snir,
+  Y. and SubbaRao, M. and Szalay, A. S. and Thakar, A. R. and Uomoto, A. and Waddell,
+  P. and York, D. G.
+author_list:
+- family: Schneider
+  given: D. P.
+- family: Richards
+  given: G. T.
+- family: Fan
+  given: X.
+- family: Hall
+  given: P. B.
+- family: Strauss
+  given: M. A.
+- family: Vanden Berk
+  given: D. E.
+- family: Gunn
+  given: J. E.
+- family: Newberg
+  given: H. J.
+- family: Reichard
+  given: T. A.
+- family: Stoughton
+  given: C.
+- family: Voges
+  given: W.
+- family: Yanny
+  given: B.
+- family: Anderson
+  given: S. F.
+- family: Annis
+  given: J.
+- family: Bahcall
+  given: N. A.
+- family: Bauer
+  given: A.
+- family: Bernardi
+  given: M.
+- family: Blanton
+  given: M. R.
+- family: Boroski
+  given: W. N.
+- family: Brinkmann
+  given: J.
+- family: Briggs
+  given: J. W.
+- family: Brunner
+  given: R.
+- family: Burles
+  given: S.
+- family: Carey
+  given: L.
+- family: Castander
+  given: F. J.
+- family: Connolly
+  given: A. J.
+- family: Csabai
+  given: I.
+- family: Doi
+  given: M.
+- family: Friedman
+  given: S.
+- family: Frieman
+  given: J. A.
+- family: Fukugita
+  given: M.
+- family: Heckman
+  given: T. M.
+- family: Hennessy
+  given: G. S.
+- family: Hindsley
+  given: R. B.
+- family: Hogg
+  given: D. W.
+- family: Ivezić
+  given: Ž.
+- family: Kent
+  given: S.
+- family: Knapp
+  given: G. R.
+- family: Kunzst
+  given: P. Z.
+- family: Lamb
+  given: D. Q.
+- family: Leger
+  given: R. F.
+- family: Long
+  given: D. C.
+- family: Loveday
+  given: J.
+- family: Lupton
+  given: R. H.
+- family: Margon
+  given: B.
+- family: Meiksin
+  given: A.
+- family: Merelli
+  given: A.
+- family: Munn
+  given: J. A.
+- family: Newcomb
+  given: M.
+- family: Nichol
+  given: R. C.
+- family: Owen
+  given: R.
+- family: Pier
+  given: J. R.
+- family: Pope
+  given: A.
+- family: Rockosi
+  given: C. M.
+- family: Saxe
+  given: D. H.
+- family: Schlegel
+  given: D.
+- family: Siegmund
+  given: W. A.
+- family: Smee
+  given: S.
+- family: Snir
+  given: Y.
+- family: SubbaRao
+  given: M.
+- family: Szalay
+  given: A. S.
+- family: Thakar
+  given: A. R.
+- family: Uomoto
+  given: A.
+- family: Waddell
+  given: P.
+- family: York
+  given: D. G.
+date-added: 2017-08-11 02:37:44 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338434
+eprint: astro-ph/0110629
+journal: \aj
+keywords: 'Catalogs, Galaxies: Quasars: General, Surveys'
+month: February
+pages: 567--577
+papis_id: 06c2a9fe7f7de2a82efa87b23d2483b0
+ref: schneider.d.2002
+title: The Sloan Digital Sky Survey Quasar Catalog. I. Early Data Release
+type: article
+volume: '123'
+year: '2002'

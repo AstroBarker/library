@@ -1,0 +1,42 @@
+abstract: The explosion of a white dwarf star in a Type Ia supernova (SN Ia) explosion
+  leads to the burning and ejection of stellar material at a few percent of the speed
+  of light. The spectacle we observe in the months that follow is from the leaking
+  of radiation from this glowing mass of radioactive debris. The modeling of SN Ia
+  light curves and spectra represents a complex problem in time-dependent radiative
+  transfer. Here we discuss numerical methods, in particular Monte Carlo methods,
+  for calculating 3D multi-wavelength radiative transport on massively parallel machines.
+  Our approach involves a newly developed domain decomposition technique in which
+  the memory load is distributed over multiple processors and photon packets are communicated
+  from node to node. We present results for 2-dimensional models that explore white
+  dwarf explosions over a range of explosion paradigms and ignition conditions. These
+  models give insight into how variations in the initial conditions of the explosion
+  affect the light curve we finally observe. We conclude with an outlook (and some
+  initial results) for large scale 3D radiation transport calculations of SNe Ia in
+  an era of petascale computing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008JPhCS.125a2007K
+author: Kasen, D. and Thomas, R. C. and Röpke, F. and Woosley, S. E.
+author_list:
+- family: Kasen
+  given: D.
+- family: Thomas
+  given: R. C.
+- family: Röpke
+  given: F.
+- family: Woosley
+  given: S. E.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 18:37:57 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1088/1742-6596/125/1/012007
+eid: '012007'
+month: July
+pages: '012007'
+papis_id: a915784fe70f574bc862f3f966642843
+ref: kasen.d.2008
+series: Journal of Physics Conference Series
+title: Multidimensional radiative transfer calculations of the light curves and spectra
+  of Type Ia supernovae
+type: inproceedings
+volume: '125'
+year: '2008'

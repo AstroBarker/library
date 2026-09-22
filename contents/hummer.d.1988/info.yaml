@@ -1,0 +1,37 @@
+abstract: The authors have formulated a new equation of state for material in stellar
+  envelopes, subject to the limits T \lessapprox{} 107K and rho \lessapprox{} 10-2g
+  cm-3. Under these conditions, the method of free energy minimization can be used
+  to allow for nonideal effects; this method ensures thermodynamic consistency among
+  the material properties. A chemical picture is used in which atomic and molecular
+  particles retain their identities. An occupation probability formalism is used to
+  represent the effects of the plasma in establishing a finite partition function,
+  and attention is paid to representing these effects in a way that is consistent
+  from the point of view of statistical mechanics. The use of the static screened
+  Coulomb potential to calculate level shifts and to estimate the cutoff of the internal
+  partition function is shown by elementary arguments to be invalid. For most of the
+  parameter space relevant to stellar envelopes, perturbations arising from the plasma
+  ions are shown to be dominant in establishing the internal partition functions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1988ApJ...331..794H
+author: Hummer, D. G. and Mihalas, D.
+author_list:
+- family: Hummer
+  given: D. G.
+- family: Mihalas
+  given: D.
+date-added: 2017-08-11 07:38:26 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/166600
+journal: \apj
+keywords: Equations Of State, Stellar Atmospheres, Stellar Envelopes, Stellar Interiors,
+  Charged Particles, Cosmic Plasma, Coulomb Potential, Perturbation Theory, Probability
+  Density Functions
+month: August
+pages: 794--814
+papis_id: a445457da83d25fdaaf86df27abe7d36
+ref: hummer.d.1988
+title: The equation of state for stellar envelopes. I - an occupation probability
+  formalism for the truncation of internal partition functions
+type: article
+volume: '331'
+year: '1988'

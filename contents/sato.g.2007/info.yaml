@@ -1,0 +1,77 @@
+abstract: 'We analyze Swift gamma-ray bursts (GRBs) and X-ray afterglows for three
+  GRBs with spectroscopic redshift determinations: GRB 050401, XRF 050416a, and GRB
+  050525a. We find that the relation between spectral peak energy and isotropic energy
+  of prompt emissions (the Amati relation) is consistent with that for the bursts
+  observed in the pre-Swift  era. However, we find that the X-ray afterglow light
+  curves, which extend up to 10-70 days, show no sign of the jet break that is expected
+  in the standard framework of collimated outflows. We do so by showing that none
+  of the X-ray afterglow light curves in our sample satisfy the relation between the
+  spectral and temporal indices that is predicted for the phase after jet break. The
+  jet break time can be predicted by inverting the tight empirical relation between
+  the peak energy of the spectrum and the collimation-corrected energy of the prompt
+  emission (the Ghirlanda relation). We find that there are no temporal breaks within
+  the predicted time intervals in X-ray band. This requires either that the Ghirlanda
+  relation has a larger scatter than previously thought, that the temporal break in
+  X-rays is masked by some additional source of X-ray emission, or that it does not
+  happen for some unknown reason.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...657..359S
+arxivurl: http://arxiv.org/abs/astro-ph/0611148
+author: Sato, G. and Yamazaki, R. and Ioka, K. and Sakamoto, T. and Takahashi, T.
+  and Nakazawa, K. and Nakamura, T. and Toma, K. and Hullinger, D. and Tashiro, M.
+  and Parsons, A. M. and Krimm, H. A. and Barthelmy, S. D. and Gehrels, N. and Burrows,
+  D. N. and O'Brien, P. T. and Osborne, J. P. and Chincarini, G. and Lamb, D. Q.
+author_list:
+- family: Sato
+  given: G.
+- family: Yamazaki
+  given: R.
+- family: Ioka
+  given: K.
+- family: Sakamoto
+  given: T.
+- family: Takahashi
+  given: T.
+- family: Nakazawa
+  given: K.
+- family: Nakamura
+  given: T.
+- family: Toma
+  given: K.
+- family: Hullinger
+  given: D.
+- family: Tashiro
+  given: M.
+- family: Parsons
+  given: A. M.
+- family: Krimm
+  given: H. A.
+- family: Barthelmy
+  given: S. D.
+- family: Gehrels
+  given: N.
+- family: Burrows
+  given: D. N.
+- family: O'Brien
+  given: P. T.
+- family: Osborne
+  given: J. P.
+- family: Chincarini
+  given: G.
+- family: Lamb
+  given: D. Q.
+date-added: 2017-08-11 07:02:05 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510610
+eprint: astro-ph/0611148
+journal: \apj
+keywords: 'Gamma Rays: Bursts, ISM: Jets and Outflows, Radiation Mechanisms: Nonthermal'
+month: March
+pages: 359--366
+papis_id: f0160feabc8137952e6d9c28b77bf2ee
+ref: sato.g.2007
+title: Swift Discovery of Gamma-Ray Bursts without a Jet Break Feature in Their X-Ray
+  Afterglows
+type: article
+volume: '657'
+year: '2007'

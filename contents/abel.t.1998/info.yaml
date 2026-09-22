@@ -1,0 +1,53 @@
+abstract: We investigate the formation of the first primordial star clusters from
+  high-sigma perturbations in a cold dark matter-dominated universe. For this purpose,
+  we have developed a powerful two-level hierarchical cosmological code with a realistic
+  and robust treatment of multispecies primordial gas chemistry, paying special attention
+  to the formation and destruction of H2 molecules, nonequilibrium ionization, and
+  cooling processes. We performed three-dimensional simulations at small scales and
+  at high redshifts and find that, analogous to simulations of large-scale structure,
+  a complex system of voids, filaments, sheets, and spherical knots form at the intersections
+  of filaments. On the total mass scales covered by our simulations (1 \texttimes{}
+  105 to 1 \texttimes{} 109 M\&sun;), which collapse at redshifts z > 25, we find
+  that only within the spherical knots can enough H2 be formed (nH2/nH>~5\texttimes{}10-4)
+  to cool the gas appreciably. The time dependence of the formation of H2 molecules
+  and the final H2 fraction in the simulations agree with the theoretical predictions
+  of Abel and Tegmark et al. remarkably well. Using a different H2 cooling function
+  (that of Lepp \& Shull), we repeat the calculations of Tegmark et al. We find a
+  minimum mass that is able to collapse and cool via H2 for a given redshift that
+  is an order of magnitude lower than that found by Tegmark et al. Furthermore, we
+  discuss the possible implications for theories of primordial star formation from
+  the extensive merging of small structure inherent in hierarchical models. In our
+  simulation, typically only 5\%-8\% percent of the total baryonic mass in the collapsing
+  structures is found to cool significantly. Assuming the Padoan model for star formation,
+  our results would predict the very first stellar systems to be as small as ~50 M\&sun;.
+  Some implications for primordial globular cluster formation scenarios are also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...508..518A
+arxivurl: http://arxiv.org/abs/astro-ph/9705131
+author: Abel, T. and Anninos, P. and Norman, M. L. and Zhang, Y.
+author_list:
+- family: Abel
+  given: T.
+- family: Anninos
+  given: P.
+- family: Norman
+  given: M. L.
+- family: Zhang
+  given: Y.
+date-added: 2017-08-10 22:20:31 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306410
+eprint: astro-ph/9705131
+journal: \apj
+keywords: 'GALAXIES: STAR CLUSTERS, HYDRODYNAMICS, METHODS: NUMERICAL, MOLECULAR PROCESSES,
+  STARS: FORMATION, Galaxies: Star Clusters, Hydrodynamics, Methods: Numerical, Molecular
+  Processes, Stars: Formation'
+month: December
+pages: 518--529
+papis_id: 29a612cf66f35de0755a83d9fa894ea6
+ref: abel.t.1998
+title: First Structure Formation. I. Primordial Star-forming Regions in Hierarchical
+  Models
+type: article
+volume: '508'
+year: '1998'

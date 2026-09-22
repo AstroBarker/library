@@ -1,0 +1,58 @@
+abstract: Cold fronts in cluster cool cores should be erased on short timescales by
+  thermal conduction, unless protected by magnetic fields that are "draped" parallel
+  to the front surfaces, suppressing conduction perpendicular to the sloshing fronts.
+  We present a series of MHD simulations of cold front formation in the core of a
+  galaxy cluster with anisotropic thermal conduction, exploring a parameter space
+  of conduction strengths parallel and perpendicular to the field lines. Including
+  conduction has a strong effect on the temperature distribution of the core and the
+  appearance of the cold fronts. Though magnetic field lines are draping parallel
+  to the front surfaces, preventing conduction directly across them, the temperature
+  jumps across the fronts are nevertheless reduced. The geometry of the field is such
+  that the cold gas below the front surfaces can be connected to hotter regions outside
+  via field lines along directions perpendicular to the plane of the sloshing motions
+  and along sections of the front that are not perfectly draped. This results in the
+  heating of this gas below the front on a timescale of a Gyr, but the sharpness of
+  the density and temperature jumps may nevertheless be preserved. By modifying the
+  gas density distribution below the front, conduction may indirectly aid in suppressing
+  Kelvin-Helmholtz instabilities. If conduction along the field lines is unsuppressed,
+  we find that the characteristic sharp jumps seen in Chandra observations of cold
+  front clusters do not form. Therefore, the presence of cold fronts in hot clusters
+  is in contradiction with our simulations with full Spitzer conduction. This suggests
+  that the presence of cold fronts in hot clusters could be used to place upper limits
+  on conduction in the bulk of the intracluster medium. Finally, the combination of
+  sloshing and anisotropic thermal conduction can result in a larger flux of heat
+  to the core than either process in isolation. While still not sufficient to prevent
+  a cooling catastrophe in the very central (r ~ 5 kpc) regions of the cool core (where
+  something else is required, such as active galactic nucleus feedback), it reduces
+  significantly the mass of gas that experiences a cooling catastrophe outside those
+  small radii.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...762...69Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.6005
+author: ZuHone, J. A. and Markevitch, M. and Ruszkowski, M. and Lee, D.
+author_list:
+- family: ZuHone
+  given: J. A.
+- family: Markevitch
+  given: M.
+- family: Ruszkowski
+  given: M.
+- family: Lee
+  given: D.
+date-added: 2017-08-11 07:40:42 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/762/2/69
+eid: '69'
+eprint: '1204.6005'
+journal: \apj
+keywords: 'conduction, galaxies: clusters: general, instabilities, magnetohydrodynamics:
+  MHD, X-rays: galaxies: clusters'
+month: January
+pages: '69'
+papis_id: e342f67eeca95570341d404c2dd375bc
+ref: zuhone.j.2013
+title: Cold Fronts and Gas Sloshing in Galaxy Clusters with Anisotropic Thermal Conduction
+type: article
+volume: '762'
+year: '2013'

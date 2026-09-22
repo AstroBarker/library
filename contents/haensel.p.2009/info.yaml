@@ -1,0 +1,50 @@
+abstract: 'Aims: We calculate Keplerian (mass shedding) configurations of rigidly
+  rotating neutron stars and strange stars with crusts. We check the validity of the
+  empirical formula for Keplerian frequency, f\_K, proposed by Lattimer \& Prakash,
+  f\_K(M)=C (M/M\_\&sun;)1/2(R/10~km)-3/2, where M is the (gravitational) mass of
+  the Keplerian configuration, R is the (circumferential) radius of the non-rotating
+  configuration of the same gravitational mass, and C=1.04~kHz.  Methods: Numerical
+  calculations are performed using precise 2D codes based on the multi-domain spectral
+  methods. We use a representative set of equations of state (EOSs) of neutron stars
+  and quark stars.  Results: We show that the empirical formula for f\_K(M) holds
+  within a few percent for neutron stars with realistic EOSs, provided 0.5~M\_\&sun;<M<0.9~M\_max^stat,
+  where M\_max^stat is the maximum allowable mass of non-rotating neutron stars for
+  an EOS, and C=C\_NS=1.08~kHz. Similar precision is obtained for strange stars with
+  0.5~M\_\&sun;<M<0.9~M\_max^stat. For maximal crust masses we obtain C\_SS=1.15 kHz,
+  and the value of C\_SS is not very sensitive to the crust mass. All our Cs are significantly
+  larger than the analytic value from the relativistic Roche model, C\_Roche=1.00
+  kHz. For 0.5~M\_\&sun;<M<0.9~M\_max^stat, the equatorial radius of the Keplerian
+  configuration of mass M, R\_K(M), is, to a very good approximation, proportional
+  to the radius of the non-rotating star of the same mass, R\_K(M)=a R(M), with a\_NS\approx{}
+  a\_SS \approx{} 1.44. The value of a\_SS is very weakly dependent on the mass of
+  the crust of the strange star. Both a values are smaller than the analytic value
+  a\_Roche=1.5 from the relativistic Roche model.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...502..605H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.1268
+author: Haensel, P. and Zdunik, J. L. and Bejger, M. and Lattimer, J. M.
+author_list:
+- family: Haensel
+  given: P.
+- family: Zdunik
+  given: J. L.
+- family: Bejger
+  given: M.
+- family: Lattimer
+  given: J. M.
+date-added: 2017-08-11 04:17:31 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1051/0004-6361/200811605
+eprint: '0901.1268'
+journal: \aap
+keywords: 'dense matter, equation of state, stars: neutron, stars: rotation'
+month: August
+pages: 605--610
+papis_id: e6f2b6a716873ce182f9ddeb10c03f8b
+primaryclass: astro-ph.SR
+ref: haensel.p.2009
+title: Keplerian frequency of uniformly rotating neutron stars and strange stars
+type: article
+volume: '502'
+year: '2009'

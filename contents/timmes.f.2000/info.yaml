@@ -1,0 +1,47 @@
+abstract: We compare the nuclear energy generation rate and abundance levels given
+  by an alpha-chain nuclear reaction network that contains only seven isotopes with
+  a standard 13 isotope alpha-chain reaction network. The energy generation rate of
+  these two small networks are also compared to the energy generation rate given by
+  a 489 isotope reaction network with weak reactions turned on and off. The comparison
+  between the seven isotope and alpha-chain reaction networks indicate the extent
+  to which one can be replaced by the other, and the comparison with the 489 isotope
+  reaction network roughly indicates under what physical conditions it is safe to
+  use the seven isotope and alpha-chain reaction networks. The seven isotope reaction
+  network reproduces the nuclear energy generation rate of the standard alpha-chain
+  reaction network to within 30\%, but often much better, during hydrostatic and explosive
+  helium, carbon, and oxygen burning. It will also provide energy generation rates
+  within 30\% of an alpha-chain reaction network for silicon burning at densities
+  less than 107 g cm-3. Provided there remains an equal number of protons and neutrons
+  (Ye=0.5) over the course of the evolution, and that flows through alpha-particle
+  channels dominate, then both of the small reaction networks return energy generation
+  rates that are compatible with the energy generation rate returned by the 489 reaction
+  network. If Ye is significantly different from 0.5, or if there are substantial
+  flows through neutron and protons channels, then it is not generally safe to employ
+  any alpha-chain based reaction network. The relative accuracy of the seven isotope
+  reaction network, combined with its reduction in the computational cost, suggest
+  that it is a suitable replacement for alpha-chain reaction networks for parameter
+  space surveys of a wide class of multidimensional stellar models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..129..377T
+author: Timmes, F. X. and Hoffman, R. D. and Woosley, S. E.
+author_list:
+- family: Timmes
+  given: F. X.
+- family: Hoffman
+  given: R. D.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:23:02 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/313407
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Nuclear Reactions, Nucleosynthesis,
+  Abundances, Stars: General'
+month: July
+pages: 377--398
+papis_id: e41597766d7da017e20237f2484b2557
+ref: timmes.f.2000
+title: An Inexpensive Nuclear Energy Generation Network for Stellar Hydrodynamics
+type: article
+volume: '129'
+year: '2000'

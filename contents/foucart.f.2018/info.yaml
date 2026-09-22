@@ -1,0 +1,56 @@
+abstract: Neutrino-matter interactions play an important role in the post-merger evolution
+  of neutron star-neutron star and black hole-neutron star mergers. Most notably,
+  they determine the properties of the bright optical/infrared transients observable
+  after a merger. Unfortunately, Boltzmann's equations of radiation transport remain
+  too costly to be evolved directly in merger simulations. Simulations rely instead
+  on approximate transport algorithms with unquantified modeling errors. In this paper,
+  we use for the first time a time-dependent general relativistic Monte-Carlo (MC)
+  algorithm to solve Boltzmann's equations and estimate important properties of the
+  neutrino distribution function ~10ms after a neutron star merger. We do not fully
+  couple the MC algorithm to the fluid evolution, but use a short evolution of the
+  merger remnant to critically assess errors in our approximate gray two-moment transport
+  scheme. We demonstrate that the analytical closure used by the moment scheme is
+  highly inaccurate in the polar regions, but performs well elsewhere. While the average
+  energy of polar neutrinos is reasonably well captured by the two-moment scheme,
+  estimates for the neutrino energy become less accurate at lower latitudes. The two-moment
+  formalism also overestimates the density of neutrinos in the polar regions by ~50\%,
+  and underestimates the neutrino pair-annihilation rate at the poles by factors of
+  2-3. Although the latter is significantly more accurate than one might have expected
+  before this study, our results indicate that predictions for the properties of polar
+  outflows and for the creation of a baryon-free region at the poles are likely to
+  be affected by errors in the two-moment scheme, thus limiting our ability to reliably
+  model kilonovae and gamma-ray bursts.
+adscomment: 15 pages, 10 figures
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180602349F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.02349
+author: Foucart, F. and Duez, M. D. and Kidder, L. E. and Nguyen, R. and Pfeiffer,
+  H. P. and Scheel, M. A.
+author_list:
+- family: Foucart
+  given: F.
+- family: Duez
+  given: M. D.
+- family: Kidder
+  given: L. E.
+- family: Nguyen
+  given: R.
+- family: Pfeiffer
+  given: H. P.
+- family: Scheel
+  given: M. A.
+date-added: 2018-06-08 13:00:58 +0000
+date-modified: 2018-06-08 13:00:59 +0000
+eprint: '1806.02349'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, General Relativity and
+  Quantum Cosmology
+month: June
+papis_id: 2968129a5543b1edb7307cf92638d424
+primaryclass: astro-ph.HE
+ref: foucart.f.2018
+title: Evaluating radiation transport errors in merger simulations using a Monte-Carlo
+  algorithm
+type: article
+year: '2018'

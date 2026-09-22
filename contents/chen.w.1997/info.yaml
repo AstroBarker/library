@@ -1,0 +1,57 @@
+abstract: We have collected the available data from the literature and from public
+  data archives covering the past two decades for the long-term X-ray and optical
+  light curves of X-ray nova (XN) outbursts. XN outbursts are due to episodic accretion
+  events, primarily in low-mass X-ray binaries normally characterized by low mass
+  transfer rates. Dynamical studies indicate that most XNs contain a black hole. The
+  soft X-ray emission during outburst traces the accretion rate through the inner
+  edge of the accretion disk, while the optical light curve traces the physical conditions
+  at the outer disk--thus, collectively, they contain information on the time-dependent
+  behavior of accretion processes through the disks.  In this paper, we carry out
+  for the first time a systematic, statistical study of XN light curves that are classified
+  into five morphological types. Basic light-curve parameters, such as the outburst
+  peak flux, amplitude, luminosity, rise and decay timescales, the observed and expected
+  outburst durations, and the total energy radiated, are tabulated and discussed.
+  We find that the rise timescales have a flat distribution while the decay timescales
+  have a much narrower and near-Gaussian distribution, centered around 30 days and
+  dominated by the strongest outbursts. The peak luminosity is also distributed like
+  a Gaussian, centered around 0.2 in Eddington units, while the total energy released
+  has a much broader distribution around 1044 ergs. We find no intrinsic difference
+  between black hole and neutron star systems in their distribution of peak amplitudes.  We
+  identify and discuss additional light-curve features, such as precursors, plateaus,
+  and secondary maxima. The plateaus exhibited in the light curves of black hole sources
+  are found to have, on average, longer durations, and they are followed by longer
+  decays. The identified secondary maxima seem to occur mostly in black hole systems.
+  For the frequency of outbursts, we find that the average XN outburst rate is about
+  2.6 yr-1 for events greater than 0.3 crab and that the mean recurrence time between
+  outbursts from a single source is 6 yr. The spatial and log N-log S distribution
+  of the XN sources, with limited statistics, agrees with a source population in the
+  Galactic disk, as observed from a point at a distance of 8.5 kpc from the Galactic
+  center. Finally, we point out that the observed XN light-curve properties can be
+  explained in general by a disk thermal instability model, although some important
+  problems still remain.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...491..312C
+arxivurl: http://arxiv.org/abs/astro-ph/9707138
+author: Chen, W. and Shrader, C. R. and Livio, M.
+author_list:
+- family: Chen
+  given: W.
+- family: Shrader
+  given: C. R.
+- family: Livio
+  given: M.
+date-added: 2017-08-11 00:39:26 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304921
+eprint: astro-ph/9707138
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Stars: Novae, Cataclysmic
+  Variables, X-Rays: Stars'
+month: December
+pages: 312--338
+papis_id: 33d93f91160b970d5404e44c78b8bbe8
+ref: chen.w.1997
+title: The Properties of X-Ray and Optical Light Curves of X-Ray Novae
+type: article
+volume: '491'
+year: '1997'

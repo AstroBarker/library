@@ -1,0 +1,39 @@
+abstract: We performed a series of high-resolution (up to 10243) direct numerical
+  simulations of hydro and magnetohydrodynamic (MHD) turbulence. Our simulations correspond
+  to the "strong" MHD turbulence regime that cannot be treated perturbatively. We
+  found that for simulations with normal viscosity the slopes for energy spectra of
+  MHD are similar to ones in hydro, although slightly more shallower. However, for
+  simulations with hyperviscosity the slopes were very different, for instance, the
+  slopes for hydro simulations showed a pronounced and well defined bottleneck effect,
+  while the MHD slopes were relatively much less affected. We believe that this is
+  indicative of MHD strong turbulence being less local than the Kolmogorov turbulence.
+  This calls for revision of MHD strong turbulence models that assume local "as-in-hydro
+  case" cascading. Nonlocality of MHD turbulence casts doubt on numerical determination
+  of the slopes with currently available (5123-10243) numerical resolutions, including
+  simulations with normal viscosity. We also measure various so-called alignment effects
+  and discuss their influence on the turbulent cascade.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...702.1190B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0812.0812
+author: Beresnyak, A. and Lazarian, A.
+author_list:
+- family: Beresnyak
+  given: A.
+- family: Lazarian
+  given: A.
+date-added: 2017-08-10 22:32:10 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/702/2/1190
+eprint: '0812.0812'
+journal: \apj
+keywords: 'ISM: kinematics and dynamics, MHD, turbulence'
+month: September
+pages: 1190--1198
+papis_id: 98d98e7baefacbc5adee691f4d903d25
+ref: beresnyak.a.2009
+title: Comparison of Spectral Slopes of Magnetohydrodynamic and Hydrodynamic Turbulence
+  and Measurements of Alignment Effects
+type: article
+volume: '702'
+year: '2009'

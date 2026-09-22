@@ -1,0 +1,30 @@
+abstract: We describe a finite-volume method for solving the Poisson equation on oct-tree
+  adaptive meshes using direct solvers for individual mesh blocks. The method is a
+  modified version of the method presented by Huang and Greengard, which works with
+  finite-difference meshes and does not allow for shared boundaries between refined
+  patches. Our algorithm is implemented within the FLASH code framework and makes
+  use of the PARAMESH library, permitting efficient use of parallel computers. We
+  describe the algorithm and present test results that demonstrate its accuracy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..176..293R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.4397
+author: Ricker, P. M.
+author_list:
+- family: Ricker
+  given: P. M.
+date-added: 2017-08-10 22:16:42 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/526425
+eid: 293-300
+eprint: '0710.4397'
+journal: \apjs
+keywords: 'gravitation, methods: numerical'
+month: May
+pages: 293--300
+papis_id: 7c8b634b42067da352ca12c90775c74b
+ref: ricker.p.2008
+title: A Direct Multigrid Poisson Solver for Oct-Tree Adaptive Meshes
+type: article
+volume: '176'
+year: '2008'

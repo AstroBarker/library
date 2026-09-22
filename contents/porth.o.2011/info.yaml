@@ -1,0 +1,51 @@
+abstract: The goal of this paper is to derive signatures of synchrotron radiation
+  from state-of-the-art simulation models of collimating relativistic magnetohydrodynamic
+  (MHD) jets featuring a large-scale helical magnetic field. We perform axisymmetric
+  special relativistic MHD simulations of the jet acceleration region using the PLUTO
+  code. The computational domain extends from the slow-magnetosonic launching surface
+  of the disk up to 60002 Schwarzschild radii allowing jets to reach highly relativistic
+  Lorentz factors. The Poynting-dominated disk wind develops into a jet with Lorentz
+  factors of Gamma ~= 8 and is collimated to 1$\,^{\circ}$. In addition to the disk
+  jet, we evolve a thermally driven spine jet emanating from a hypothetical black
+  hole corona. Solving the linearly polarized synchrotron radiation transport within
+  the jet, we derive very long baseline interferometry radio and (sub-) millimeter
+  diagnostics such as core shift, polarization structure, intensity maps, spectra,
+  and Faraday rotation measure (RM) directly from the Stokes parameters. We also investigate
+  depolarization and the detectability of a lambda2-law RM depending on beam resolution
+  and observing frequency. We find non-monotonic intrinsic RM profiles that could
+  be detected at a resolution of 100 Schwarzschild radii. In our collimating jet geometry,
+  the strict bimodality in the polarization direction (as predicted by Pariev et al.)
+  can be circumvented. Due to relativistic aberration, asymmetries in the polarization
+  vectors across the jet can hint at the spin direction of the central engine.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737...42P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.4258
+author: Porth, O. and Fendt, C. and Meliani, Z. and Vaidya, B.
+author_list:
+- family: Porth
+  given: O.
+- family: Fendt
+  given: C.
+- family: Meliani
+  given: Z.
+- family: Vaidya
+  given: B.
+date-added: 2017-08-10 23:04:23 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/1/42
+eid: '42'
+eprint: '1105.4258'
+journal: \apj
+keywords: 'galaxies: active, galaxies: jets, ISM: jets and outflows, magnetohydrodynamics:
+  MHD, radiation mechanisms: non-thermal, relativistic processes'
+month: August
+pages: '42'
+papis_id: d496ae3e8d2a7f007b8fcc838e69e26f
+primaryclass: astro-ph.HE
+ref: porth.o.2011
+title: Synchrotron Radiation of Self-collimating Relativistic Magnetohydrodynamic
+  Jets
+type: article
+volume: '737'
+year: '2011'

@@ -1,0 +1,52 @@
+abstract: A series of numerical simulations of magnetorotational core-collapse supernovae
+  are carried out. Dipole-like configurations which are offset northward are assumed
+  for the initially strong magnetic fields, along with rapid differential rotations.
+  The aim of our study is to investigate the effects of the offset magnetic field
+  on magnetar kicks and on supernova dynamics. Note that we study a regime where the
+  proto-neutron star formed after collapse has a large magnetic field strength approaching
+  that of a "magnetar," a highly magnetized slowly rotating neutron star. As a result,
+  equatorially asymmetric explosions occur with the formation of the bipolar jets.
+  We find that the jets are fast and light in the north and slow and heavy in the
+  south for rapid cases, while they are fast and heavy in the north and slow and light
+  in the south for slow-rotation cases. The resulting magnetar kick velocities are
+  ~300-1000 km s-1. We find that the acceleration is mainly due to the magnetic pressure,
+  while the somewhat weaker magnetic tension works in the opposite direction, due
+  to the stronger magnetic field in the northern hemisphere. Note that observations
+  of magnetar proper motions are very scarce; our results supply a prediction for
+  future observations. Namely, magnetars possibly have large kick velocities, several
+  hundred km s-1, as ordinary neutron stars do, and in extreme cases they could have
+  kick velocities up to 1000 km s-1. In each model, the formed protomagnetar is a
+  slow rotator with a rotational period of more than 10 ms. It is also found that,
+  in rapid-rotation models, the final configuration of the magnetic field in the protomagnetar
+  is a collimated dipole-like field pinched by the torus of toroidal field lines,
+  whereas in the protomagnetar produced in the slow-rotation model the poloidal field
+  is totally dominant.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...672..465S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.1795
+author: Sawai, H. and Kotake, K. and Yamada, S.
+author_list:
+- family: Sawai
+  given: H.
+- family: Kotake
+  given: K.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 20:13:41 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/523624
+eid: 465-478
+eprint: '0709.1795'
+journal: \apj
+keywords: 'methods: numerical, MHD, pulsars: general, stars: magnetic fields, supernovae:
+  general'
+month: January
+pages: 465--478
+papis_id: 08036cdf83bc120dd8ad46e936fd6262
+ref: sawai.h.2008
+title: 'Numerical Simulations of Equatorially Asymmetric Magnetized Supernovae: Formation
+  of Magnetars and Their Kicks'
+type: article
+volume: '672'
+year: '2008'

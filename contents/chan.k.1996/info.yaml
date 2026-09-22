@@ -1,0 +1,35 @@
+abstract: Treating the turbulence statistically to obtain moments of the fluid equations
+  has been a traditional way to describe stellar convection analytically. Associated
+  with this approach, a well-known difficulty is the problem of closure. For practical
+  reasons, hypothetical closures are normally applied to the low-order moments (second,
+  third, or fourth). In this paper, based on the results of a large eddy simulation
+  of a rather deep convection zone (approximately seven pressure scale heights), we
+  examine various forms of algebraic and diffusive-type closures for the second-,
+  third-, and fourth-order moments involving the vertical velocity and temperature
+  fluctuation. Some popular closures are found to perform poorly. On the other hand,
+  we show that the flux of kinetic energy (essentially a third-order moment) can be
+  estimated (in terms of second- and first-order moments) by combining an algebraic
+  approximation in the lower region (including the overshoot region) and a diffusive-type
+  approximation in the upper region of the convection zone.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...466..372C
+author: Chan, K. L. and Sofia, S.
+author_list:
+- family: Chan
+  given: K. L.
+- family: Sofia
+  given: S.
+date-added: 2017-08-11 03:56:20 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177516
+journal: \apj
+keywords: 'STARS: INTERIORS, CONVECTION, TURBULENCE'
+month: July
+pages: '372'
+papis_id: 19bcd5eed03624463b72202817482aaa
+ref: chan.k.1996
+title: Turbulent Compressible Convection in a Deep Atmosphere. V. Higher Order Statistical
+  Moments for a Deeper Case
+type: article
+volume: '466'
+year: '1996'

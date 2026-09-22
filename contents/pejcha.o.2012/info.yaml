@@ -1,0 +1,49 @@
+abstract: Although it is known that the stalled accretion shock in models of core-collapse
+  supernovae turns into explosion when the neutrino luminosity from the proto-neutron
+  star (PNS) exceeds a critical value (L crit nu, core) (the "neutrino mechanism"),
+  the physics of L crit nu, core has never been systematically explored. We solve
+  the accretion problem between the PNS surface and the accretion shock. We quantify
+  the deep connection between the general problem of accretion flows with bounding
+  shocks and the neutrino mechanism. In particular, we show that there is a maximum,
+  critical sound speed above which the shock jump conditions cannot be satisfied and
+  steady-state accretion is impossible. This physics is general and does not depend
+  on a specific heating mechanism. For the simple model of pressure-less free fall
+  onto a shock bounding an isothermal accretion flow, we show that shock solutions
+  are possible only for sound speed cT < c crit  T  and that c 2  T /v esc 2 = 3/16
+  = 0.1875 at c crit  T . We generalize this result to the supernova problem, showing
+  that the same physics determines L crit nu, core. The critical condition for explosion
+  can be written as c 2  S /v 2 esc ~= 0.19, where cS is the adiabatic sound speed.
+  This "antesonic" condition describes L crit nu, core over a broad range of parameters,
+  and other criteria proposed in the literature fail to capture this physics. We show
+  that the accretion luminosity reduces L crit nu, core non-trivially. A larger PNS
+  radius decreases L crit nu, core, implying that a stiff high-density equation of
+  state may be preferred. Finally, using an analytic model, we provide evidence that
+  the reduction of L crit nu, core seen in recent multi-dimensional simulations results
+  from reduced cooling efficiency, rather than an increased heating rate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...746..106P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.4864
+author: Pejcha, O. and Thompson, T. A.
+author_list:
+- family: Pejcha
+  given: O.
+- family: Thompson
+  given: T. A.
+date-added: 2017-08-10 18:56:48 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/746/1/106
+eid: '106'
+eprint: '1103.4864'
+journal: \apj
+keywords: 'accretion, accretion disks, hydrodynamics, instabilities, shock waves,
+  supernovae: general'
+month: February
+pages: '106'
+papis_id: 0c5b57b4c41d838680854d5b19197923
+primaryclass: astro-ph.HE
+ref: pejcha.o.2012
+title: The Physics of the Neutrino Mechanism of Core-collapse Supernovae
+type: article
+volume: '746'
+year: '2012'

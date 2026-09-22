@@ -1,0 +1,28 @@
+abstract: 'In the computation of discontinuous solutions of hyperbolic conservation
+  laws, TVD (total-variation-diminishing), TVB (total-variation-bounded), and the
+  recently developed ENO (essentially non-oscillatory) schemes have proven to be very
+  useful. In this paper two improvements are discussed: a simple TVD Runge-Kutta type
+  time discretization, and an ENO construction procedure based on fluxes rather than
+  on cell averages. These improvements simplify the schemes considerably-especially
+  for multi-dimensional problems with forcing terms. Preliminary numerical results
+  are also given.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1988JCoPh..77..439S
+author: Shu, C.-W. and Osher, S.
+author_list:
+- family: Shu
+  given: C.-W.
+- family: Osher
+  given: S.
+date-added: 2017-08-10 13:59:26 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1016/0021-9991(88)90177-5
+journal: Journal of Computational Physics
+month: August
+pages: 439--471
+papis_id: 03e20aa39d7d833117999cae975f6646
+ref: shu.c_w.1988
+title: Efficient Implementation of Essentially Non-oscillatory Shock-Capturing Schemes
+type: article
+volume: '77'
+year: '1988'

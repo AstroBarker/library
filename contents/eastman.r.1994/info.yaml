@@ -1,0 +1,45 @@
+abstract: The light curve and other observable diagnostics are presented for what
+  should be a typical Type II 'plateau' supernova, the explosion of a 15 solar mass
+  red supergiant. The calculations are carried out using a multi-frequency radiation
+  transport code that includes opacity from all important mechanisms-bound-bound,
+  bound-free, free-free, and electron scattering. It is found that the inclusion of
+  opacity sources besides electron scattering increases the computed lenght of the
+  plateau in the 15 solar mass model by approximately 30 days. Especially important
+  is the ultraviolet cutoff caused by a thick forest of lines. Deposition and escape
+  of gamma-rays from radioactive decay are also accurately simulated. We find that
+  the presence of 0.06 solar mass of ejected Ni-56 extends the length of the plateau
+  from approximately 100 days to approximately 140 dys. Because of the large hydrogen
+  envleope and radius in this model, mixing does not appreciably alter the bolometric
+  light curve, although it does change the gamma-ray light curve significantly. With
+  0.06 solar mass of ejected Ni-56, the unmixed (mixed) model peaks in escaping gamma-rays
+  at 576 (466) days with gamma-ray luminosity of 3 x 1038 ergs/s. Except for the local
+  group, the gamma-rays from an extragalactic 15 solar mass SNe IIp will be too faint
+  to detect with any existing detectors. However, a Galactic SNe IIp would be quite
+  bright and easily detectable.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...430..300E
+author: Eastman, R. G. and Woosley, S. E. and Weaver, T. A. and Pinto, P. A.
+author_list:
+- family: Eastman
+  given: R. G.
+- family: Woosley
+  given: S. E.
+- family: Weaver
+  given: T. A.
+- family: Pinto
+  given: P. A.
+date-added: 2017-08-11 03:09:28 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174404
+journal: \apj
+keywords: Gamma Rays, Light Curve, Stellar Interiors, Stellar Luminosity, Stellar
+  Mass Ejection, Stellar Models, Stellar Radiation, Supernovae, Computerized Simulation,
+  Nickel Isotopes, Radioactive Decay, Stellar Envelopes
+month: July
+pages: 300--310
+papis_id: dd2e86a0406d1080c8e4ef576c379a47
+ref: eastman.r.1994
+title: Theoretical light curve of a Type 2p supernova
+type: article
+volume: '430'
+year: '1994'

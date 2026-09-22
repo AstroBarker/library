@@ -1,0 +1,47 @@
+abstract: We examine contributions of second-order physical processes to the results
+  of stellar evolution calculations that are amenable to direct observational testing.
+  In the first paper in the series, we established baseline results using only physics
+  that were common to modern stellar evolution codes. In this paper we establish how
+  much of the discrepancy between observations and baseline models is due to particular
+  elements of new physics in the areas of mixing, diffusion, equations of state, and
+  opacities. We then consider the impact of the observational uncertainties on the
+  maximum predictive accuracy achievable by a stellar evolution code. The Sun is an
+  optimal case because of the precise and abundant observations and the relative simplicity
+  of the underlying stellar physics. The standard model is capable of matching the
+  structure of the Sun as determined by helioseismology and gross surface observables
+  to better than a percent. Given an initial mass and surface composition within the
+  observational errors, and no current observables as additional constraints for which
+  the models can be optimized, it is not possible to predict the Sun's current state
+  to better than ~7\%. Convectively induced mixing in radiative regions, terrestrially
+  calibrated by multidimensional numerical hydrodynamic simulations, dramatically
+  improves the predictions for radii, luminosity, and apsidal motions of eclipsing
+  binaries while simultaneously maintaining consistency with observed light element
+  depletion and turnoff ages in young clusters. Systematic errors in core size for
+  models of massive binaries disappear with more complete mixing physics, and acceptable
+  fits are achieved for all of the binaries without calibration of free parameters.
+  The lack of accurate abundance determinations for binaries is now the main obstacle
+  to improving stellar models using this type of test.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...618..908Y
+arxivurl: http://arxiv.org/abs/astro-ph/0409658
+author: Young, P. A. and Arnett, D.
+author_list:
+- family: Young
+  given: P. A.
+- family: Arnett
+  given: D.
+date-added: 2017-08-10 19:06:47 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/426131
+eprint: astro-ph/0409658
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Stars: Abundances, Stars: Evolution, Stars:
+  Fundamental Parameters'
+month: January
+pages: 908--918
+papis_id: de75b9569b9b0857909819c0fba95b72
+ref: young.p.2005
+title: Observational Tests and Predictive Stellar Evolution. II. Nonstandard Models
+type: article
+volume: '618'
+year: '2005'

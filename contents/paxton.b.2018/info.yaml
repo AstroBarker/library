@@ -1,0 +1,72 @@
+abstract: We update the capabilities of the software instrument Modules for Experiments
+  in Stellar Astrophysics (MESA) and enhance its ease of use and availability. Our
+  new approach to locating convective boundaries is consistent with the physics of
+  convection, and yields reliable values of the convective-core mass during both hydrogen-
+  and helium-burning phases. Stars with M< 8 M\&sun; become white dwarfs and cool
+  to the point where the electrons are degenerate and the ions are strongly coupled,
+  a realm now available to study with MESA due to improved treatments of element diffusion,
+  latent heat release, and blending of equations of state. Studies of the final fates
+  of massive stars are extended in MESA by our addition of an approximate Riemann
+  solver that captures shocks and conserves energy to high accuracy during dynamic
+  epochs. We also introduce a 1D capability for modeling the effects of Rayleigh-Taylor
+  instabilities that, in combination with the coupling to a public version of the  STELLA
+  radiation transfer instrument, creates new avenues for exploring Type II supernova
+  properties. These capabilities are exhibited with exploratory models of pair-instability
+  supernovae, pulsational pair-instability supernovae, and the formation of stellar-mass
+  black holes. The applicability of MESA is now widened by the capability to import
+  multidimensional hydrodynamic models into MESA. We close by introducing software
+  modules for handling floating point exceptions and stellar model optimization, as
+  well as four new software tools - MESA-Web, MESA-Docker, pyMESA, and  mesastar.org
+  - to enhance MESA's education and research impact.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJS..234...34P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.08424
+author: Paxton, B. and Schwab, J. and Bauer, E. B. and Bildsten, L. and Blinnikov,
+  S. and Duffell, P. and Farmer, R. and Goldberg, J. A. and Marchant, P. and Sorokina,
+  E. and Thoul, A. and Townsend, R. H. D. and Timmes, F. X.
+author_list:
+- family: Paxton
+  given: B.
+- family: Schwab
+  given: J.
+- family: Bauer
+  given: E. B.
+- family: Bildsten
+  given: L.
+- family: Blinnikov
+  given: S.
+- family: Duffell
+  given: P.
+- family: Farmer
+  given: R.
+- family: Goldberg
+  given: J. A.
+- family: Marchant
+  given: P.
+- family: Sorokina
+  given: E.
+- family: Thoul
+  given: A.
+- family: Townsend
+  given: R. H. D.
+- family: Timmes
+  given: F. X.
+date-added: 2018-04-25 23:35:20 +0000
+date-modified: 2018-04-25 23:35:21 +0000
+doi: 10.3847/1538-4365/aaa5a8
+eid: '34'
+eprint: '1710.08424'
+journal: \apjs
+keywords: 'convection, diffusion, hydrodynamics, methods: numerical, stars: evolution,
+  supernovae: general'
+month: February
+pages: '34'
+papis_id: db6971ed6b250bcc41af3e8f77fbd52c
+primaryclass: astro-ph.SR
+ref: paxton.b.2018
+title: 'Modules for Experiments in Stellar Astrophysics (MESA): Convective Boundaries,
+  Element Diffusion, and Massive Star Explosions'
+type: article
+volume: '234'
+year: '2018'

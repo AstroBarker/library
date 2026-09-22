@@ -1,0 +1,67 @@
+abstract: Beyond Fe, there is a class of 35 proton-rich nuclides, between 74Se and
+  196Hg, called p-nuclei. They are bypassed by the s and r neutron capture processes
+  and are typically 10-1000 times less abundant than the s- and/or r-isotopes in the
+  solar system. The bulk of p-isotopes is created in the "gamma processes" by sequences
+  of photodisintegrations and beta decays in explosive conditions in both core collapse
+  supernovae (SNe II) and in Type Ia supernovae (SNe Ia). SNe II contribute to the
+  production of p-nuclei through explosive neon and oxygen burning. However, the major
+  problem in SN II ejecta is a general underproduction of the light p-nuclei for A
+  < 120. We explore SNe Ia as p-process sites in the framework of a two-dimensional
+  SN Ia delayed detonation model as well as pure deflagration models. The white dwarf
+  precursor is assumed to have reached the Chandrasekhar mass in a binary system by
+  mass accretion from a giant/main-sequence companion. We use enhanced s-seed distributions,
+  with seeds directly obtained from a sequence of thermal pulse instabilities both
+  in the asymptotic giant branch phase and in the accreted material. We apply the
+  tracer-particle method to reconstruct the nucleosynthesis by the thermal histories
+  of Lagrangian particles, passively advected in the hydrodynamic calculations. For
+  each particle, we follow the explosive nucleosynthesis with a detailed nuclear reaction
+  network for all isotopes up to 209Bi. We select tracers within the typical temperature
+  range for p-process production, (1.5-3.7) \texttimes{} 109 K, and analyze in detail
+  their behavior, exploring the influence of different s-process distributions on
+  the p-process nucleosynthesis. In addition, we discuss the sensitivity of p-process
+  production to parameters of the explosion mechanism, taking into account the consequences
+  on Fe and alpha elements. We find that SNe Ia can produce a large amount of p-nuclei,
+  both the light p-nuclei below A = 120 and the heavy-p nuclei, at quite flat average
+  production factors, tightly related to the s-process seed distribution. For the
+  first time, we find a stellar source able to produce both light and heavy p-nuclei
+  almost at the same level as 56Fe, including the debated neutron magic 92, 94Mo and
+  96, 98Ru. We also find that there is an important contribution from the p-process
+  nucleosynthesis to the s-only nuclei 80Kr, 86Sr, to the neutron magic 90Zr, and
+  to the neutron-rich 96Zr. Finally, we investigate the metallicity effect on p-process
+  production in our models. Starting with different s-process seed distributions for
+  two metallicities Z = 0.02 and Z = 0.001, running two-dimensional SN Ia models with
+  different initial composition, we estimate that SNe Ia can contribute to at least
+  50\% of the solar p-process composition. A more detailed analysis of the role of
+  SNe Ia in Galactic chemical evolution of p-nuclei is in preparation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...739...93T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.0582
+author: Travaglio, C. and Röpke, F. K. and Gallino, R. and Hillebrandt, W.
+author_list:
+- family: Travaglio
+  given: C.
+- family: Röpke
+  given: F. K.
+- family: Gallino
+  given: R.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 20:36:27 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/739/2/93
+eid: '93'
+eprint: '1106.0582'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general'
+month: October
+pages: '93'
+papis_id: 4712c85b4a92887049e0668381138e82
+primaryclass: astro-ph.SR
+ref: travaglio.c.2011
+title: 'Type Ia Supernovae as Sites of the p-process: Two-dimensional Models Coupled
+  to Nucleosynthesis'
+type: article
+volume: '739'
+year: '2011'

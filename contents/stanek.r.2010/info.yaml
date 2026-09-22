@@ -1,0 +1,55 @@
+abstract: 'The joint likelihood of observable cluster signals reflects the astrophysical
+  evolution of the coupled baryonic and dark matter components in massive halos, and
+  its knowledge will enhance cosmological parameter constraints in the coming era
+  of large, multiwavelength cluster surveys. We present a computational study of intrinsic
+  covariance in cluster properties using halo populations derived from Millennium
+  Gas Simulations (MGS). The MGS are re-simulations of the original 500 h -1 Mpc Millennium
+  Simulation performed with gas dynamics under two different physical treatments:
+  shock heating driven by gravity only (GO) and a second treatment with cooling and
+  preheating (PH). We examine relationships among structural properties and observable
+  X-ray and Sunyaev-Zel''dovich (SZ) signals for samples of thousands of halos with
+  M 200 >= 5 \texttimes{} 1013 h -1 M sun and z < 2. While the X-ray scaling behavior
+  of PH model halos at low redshift offers a good match to local clusters, the model
+  exhibits non-standard features testable with larger surveys, including weakly running
+  slopes in hot gas observable-mass relations and ~10\% departures from self-similar
+  redshift evolution for 1014 h -1 M sun halos at redshift z ~ 1. We find that the
+  form of the joint likelihood of signal pairs is generally well described by a multivariate,
+  log-normal distribution, especially in the PH case which exhibits less halo substructure
+  than the GO model. At fixed mass and epoch, joint deviations of signal pairs display
+  mainly positive correlations, especially the thermal SZ effect paired with either
+  hot gas fraction (r = 0.88/0.69 for PH/GO at z = 0) or X-ray temperature (r = 0.62/0.83).
+  The levels of variance in X-ray luminosity, temperature, and gas mass fraction are
+  sensitive to the physical treatment, but offsetting shifts in the latter two measures
+  maintain a fixed 12\% scatter in the integrated SZ signal under both gas treatments.
+  We discuss halo mass selection by signal pairs, and find a minimum mass scatter
+  of 4\% in the PH model by combining thermal SZ and gas fraction measurements.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715.1508S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.1599
+author: Stanek, R. and Rasia, E. and Evrard, A. E. and Pearce, F. and Gazzola, L.
+author_list:
+- family: Stanek
+  given: R.
+- family: Rasia
+  given: E.
+- family: Evrard
+  given: A. E.
+- family: Pearce
+  given: F.
+- family: Gazzola
+  given: L.
+date-added: 2017-08-10 22:36:12 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/715/2/1508
+eprint: '0910.1599'
+journal: \apj
+keywords: 'galaxies: clusters: general, galaxies: clusters: intracluster medium'
+month: June
+pages: 1508--1523
+papis_id: 6285158dc6d76b82e4e8f1c951ff409f
+ref: stanek.r.2010
+title: 'Massive Halos in Millennium Gas Simulations: Multivariate Scaling Relations'
+type: article
+volume: '715'
+year: '2010'

@@ -1,0 +1,49 @@
+abstract: 'Context. The space missions CoRoT and Kepler provide high-quality data
+  that allow us to test the transport of angular momentum in stars by the seismic
+  determination of the internal rotation profile.  Aims: Our aim is to test the validity
+  of seismic diagnostics for red giant rotation that are based on a perturbative method
+  and to investigate the oscillation spectra when the validity does not hold.  Methods:
+  We use a non-perturbative approach implemented in the ACOR code that accounts for
+  the effect of rotation on pulsations and solves the pulsation eigenproblem directly
+  for dipolar oscillation modes.  Results: We find that the limit of the perturbation
+  to first order can be expressed in terms of the rotational splitting compared to
+  the frequency separation between consecutive dipolar modes. Above this limit, non-perturbative
+  computations are necessary, but only one term in the spectral expansion of modes
+  is sufficient as long as the core rotation rate remains significantly smaller than
+  the pulsation frequencies. Each family of modes with different azimuthal symmetry,
+  m, has to be considered separately. In particular, in case of rapid core rotation,
+  the density of the spectrum differs significantly from one m-family of modes to
+  another, so that the differences between the period spacings associated with each
+  m-family can constitute a promising guideline toward a proper seismic diagnostic
+  for rotation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...554A..80O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.0162
+author: Ouazzani, R.-M. and Goupil, M. J. and Dupret, M.-A. and Marques, J. P.
+author_list:
+- family: Ouazzani
+  given: R.-M.
+- family: Goupil
+  given: M. J.
+- family: Dupret
+  given: M.-A.
+- family: Marques
+  given: J. P.
+date-added: 2017-08-10 19:13:46 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1051/0004-6361/201220547
+eid: A80
+eprint: '1303.0162'
+journal: \aap
+keywords: 'asteroseismology, stars: interiors, stars: solar-type, stars: oscillations,
+  stars: rotation, stars: low-mass'
+month: June
+pages: A80
+papis_id: 1c81d47dea1b1425f4c7a5f28de5833d
+primaryclass: astro-ph.SR
+ref: ouazzani.r_m.2013
+title: Non-perturbative effect of rotation on dipolar mixed modes in red giant stars
+type: article
+volume: '554'
+year: '2013'

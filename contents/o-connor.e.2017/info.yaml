@@ -1,0 +1,47 @@
+abstract: Core-collapse supernova explosions are driven by a central engine that converts
+  a small fraction of the gravitational binding energy released during core collapse
+  to outgoing kinetic energy. The suspected mode for this energy conversion is the
+  neutrino mechanism, where a fraction of the neutrinos emitted from the newly formed
+  protoneutron star are absorbed by and heat the matter behind the supernova shock.
+  Accurate neutrino-matter interaction terms are crucial for simulating these explosions.
+  In this proceedings for IAUS 331, SN 1987A, 30 years later, we explore several corrections
+  to the neutrino-nucleon scattering opacity and demonstrate the effect on the dynamics
+  of the core-collapse supernova central engine via two dimensional neutrino-radiation-hydrodynamics
+  simulations. Our results reveal that the explosion properties are sensitive to corrections
+  to the neutral-current scattering cross section at the 10-20\% level, but only for
+  densities at or above ~1012 g cm-3.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017IAUS..331..107O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.08253
+author: O'Connor, E. and Horowitz, C. J. and Lin, Z. and Couch, S.
+author_list:
+- family: O'Connor
+  given: E.
+- family: Horowitz
+  given: C. J.
+- family: Lin
+  given: Z.
+- family: Couch
+  given: S.
+booktitle: Supernova 1987A:30 years later - Cosmic Rays and Nuclei from Supernovae
+  and their Aftermaths
+date-added: 2018-05-19 20:39:16 +0000
+date-modified: 2018-05-19 20:39:17 +0000
+doi: 10.1017/S1743921317004586
+editor: '{Marcowith}, A. and {Renaud}, M. and {Dubner}, G. and {Ray}, A. and {Bykov},
+  A.'
+eprint: '1712.08253'
+keywords: '(stars:) supernovae: general, stars: neutron, methods: numerical, radiative
+  transfer, neutrinos, hydrodynamics, scattering'
+month: February
+pages: 107--112
+papis_id: 7bfab2b9117316d3dab9f87d03d4ab47
+primaryclass: astro-ph.HE
+ref: o_connor.e.2017
+series: IAU Symposium
+title: Core-Collapse Supernova Simulations including Neutrino Interactions from the
+  Virial EOS
+type: inproceedings
+volume: '331'
+year: '2017'

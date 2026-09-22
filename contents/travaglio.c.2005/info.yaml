@@ -1,0 +1,40 @@
+abstract: We investigate the metallicity effect (measured by the original 22Ne content)
+  on the detailed nucleosynthetic yields for 3D hydrodynamical simulations of the
+  thermonuclear burning phase in type Ia supernovae (SNe Ia). Calculations are based
+  on post-processes of the ejecta, using passively advected tracer particles. The
+  nuclear reaction network employed in computing the explosive nucleosynthesis contains
+  383 nuclear species, ranging from neutrons, proton, and alpha-particles to 98Mo.
+  we use the high resolution multi-point ignition (bubbles) model b30\_3d\_768, and
+  we cover a metallicity range between 0.1\texttimes{} Z\_\&sun; and 3\texttimes{}
+  Z\_\&sun;. We find a linear dependence of the ejected 56Ni mass on the progenitor's
+  metallicity, with a variation in the 56Ni mass of ~25\% in the metallicity range
+  explored. The largest variation in 56Ni occurs at metallicity greater than solar.
+  Almost no variations are shown in the unburned material 12C and 16O. The largest
+  metallicity effect is seen in the alpha-elements. Implications for the observed
+  scatter in the peak luminosities of SNe Ia are also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...443.1007T
+arxivurl: http://arxiv.org/abs/astro-ph/0507510
+author: Travaglio, C. and Hillebrandt, W. and Reinecke, M.
+author_list:
+- family: Travaglio
+  given: C.
+- family: Hillebrandt
+  given: W.
+- family: Reinecke
+  given: M.
+date-added: 2017-08-11 08:07:02 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1051/0004-6361:20052883
+eprint: astro-ph/0507510
+journal: \aap
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general'
+month: December
+pages: 1007--1011
+papis_id: f1deb3cd20b24c8ed225bf2c47cd16e3
+ref: travaglio.c.2005
+title: Metallicity effect in multi-dimensional SNIa nucleosynthesis
+type: article
+volume: '443'
+year: '2005'

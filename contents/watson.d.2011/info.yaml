@@ -1,0 +1,48 @@
+abstract: The metallicity and dust-to-metals ratio of the Galaxy are fundamental parameters
+  in understanding the interstellar medium (ISM). Currently, there is still some uncertainty
+  surrounding these parameters. In this paper, the dust-to-metals ratio in the Galaxy
+  is determined using the photoelectric absorption of the soft X-ray afterglows of
+  a large sample of several hundred gamma-ray bursts (GRBs) to determine the metal
+  column density in combination with Galactic dust maps to determine the line-of-sight
+  dust extinction through the Galaxy in the direction of the GRB. GRB afterglows often
+  have large extragalactic soft X-ray absorptions and therefore the GRB sample's upper-bound
+  will define the Galactic dust-to-metals relation. Using a two-dimensional two-sample
+  Kolmogorov-Smirnoff test, we determine this upper-bound and so derive the dust-to-metals
+  ratio of the Galaxy. We find NH= 2.2+0.3\_{-0.4\texttimes{}1021} cm-2AV as- assuming
+  solar, Anders \& Grevesse (1989, Geochim. Cosmochim. Acta, 53, 197), metallicity.
+  This result is consistent with previous findings using bright X-ray sources in the
+  Galaxy. Using the same technique but substituting the H i maps from the Leiden-Argentine-Bonn
+  survey for the dust maps, allows us to place a limit on the metallicity in the Galaxy.
+  We find a metallicity consistent with the Anders \& Grevesse (1989) solar values
+  often used in X-ray fitting. Based on this and previous studies, we suggest that
+  the metallicity of a typical ISM sightline through the Galaxy is  0.25 dex higher
+  than the current best estimate of the solar metallicity. We further show that the
+  dust-to-gas ratio seems to be correlated with the total gas column density, and
+  that this may be due to the metallicity gradient observed toward the Galactic centre.
+  Based on the non-constant nature of the dust-to-gas ratio, we propose that the dust
+  column density, at NH = 2.2 \texttimes{} 1021 cm-2 AV, represents a better proxy
+  for the soft X-ray absorption column density than H i maps.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...533A..16W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.6031
+author: Watson, D.
+author_list:
+- family: Watson
+  given: D.
+date-added: 2017-08-10 16:46:53 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201117120
+eid: A16
+eprint: '1107.6031'
+journal: \aap
+keywords: 'ISM: abundances, dust, extinction, Galaxy: abundances, X-rays: ISM, gamma-ray
+  burst: general'
+month: September
+pages: A16
+papis_id: 06659f9b957895a1a358af8f07c7946c
+ref: watson.d.2011
+title: The Galactic dust-to-metals ratio and metallicity using gamma-ray bursts
+type: article
+volume: '533'
+year: '2011'

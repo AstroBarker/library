@@ -1,0 +1,46 @@
+abstract: Aims.We re-examine the effects of Compton scattering on the emergent spectra
+  of hot DA white dwarfs in the soft X-ray range. Earlier studies have implied that
+  sensitive X-ray observations at wavelengths lambda < 50 {\AA} might be capable of
+  probing the flux deficits predicted by the redistribution of electron-scattered
+  X-ray photons toward longer wavelengths.Methods.We adopt two independent numerical
+  approaches to the inclusion of Compton scattering in the computation of pure hydrogen
+  atmospheres in hydrostatic equilibrium. One employs the Kompaneets diffusion approximation
+  formalism, while the other uses the cross-sections and redistribution functions
+  of Guilbert. Models and emergent spectra are computed for stellar parameters representative
+  of HZ 43 and Sirius B, and for models with an effective temperature T\_eff = 100
+  000 K.Results.The differences between emergent spectra computed for Compton and
+  Thomson scattering cases are completely negligible in the case of both HZ 43 and
+  Sirius B models, and are also negligible for all practical purposes for models with
+  temperatures as high as T\_eff = 100 000 K. Models of the soft X-ray flux from these
+  stars are instead dominated by uncertainties in their fundamental parameters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...455..679S
+arxivurl: http://arxiv.org/abs/astro-ph/0605318
+author: Suleimanov, V. and Madej, J. and Drake, J. J. and Rauch, T. and Werner, K.
+author_list:
+- family: Suleimanov
+  given: V.
+- family: Madej
+  given: J.
+- family: Drake
+  given: J. J.
+- family: Rauch
+  given: T.
+- family: Werner
+  given: K.
+date-added: 2017-08-11 02:49:51 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1051/0004-6361:20065102
+eprint: astro-ph/0605318
+journal: \aap
+keywords: 'radiative transfer, scattering, methods: numerical, stars: white dwarfs,
+  stars: atmospheres, X-rays: stars'
+month: August
+pages: 679--684
+papis_id: d2817d43a6e37a430ea5c2b6cda5b26f
+ref: suleimanov.v.2006
+title: On the relevance of Compton scattering for the soft X-ray spectra of hot DA
+  white dwarfs
+type: article
+volume: '455'
+year: '2006'

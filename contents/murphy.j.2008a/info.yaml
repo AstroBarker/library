@@ -1,0 +1,47 @@
+abstract: We investigate the criteria for successful core-collapse supernova explosions
+  by the neutrino mechanism. We find that a critical-luminosity/mass accretion rate
+  condition distinguishes nonexploding from exploding models in hydrodynamic one-dimensional
+  (1D) and two-dimensional (2D) simulations. We present 95 such simulations that parametrically
+  explore the dependence on neutrino luminosity, mass accretion rate, resolution,
+  and dimensionality. While radial oscillations mediate the transition between 1D
+  accretion (nonexploding) and exploding simulations, the nonradial standing accretion
+  shock instability characterizes 2D simulations. We find that it is useful to compare
+  the average dwell time of matter in the gain region with the corresponding heating
+  timescale, but that tracking the residence time distribution function of tracer
+  particles better describes the complex flows in multidimensional simulations. Integral
+  quantities such as the net heating rate, heating efficiency, and mass in the gain
+  region decrease with time in nonexploding models but, for 2D exploding models, increase
+  before, during, and after explosion. At the onset of explosion in 2D, the heating
+  efficiency is ~2\%-~5\% and the mass in the gain region is ~0.005 to ~0.01 M\&sun;.
+  Importantly, we find that the critical luminosity for explosions in 2D is ~70\%
+  of the critical luminosity required in 1D. This result is not sensitive to resolution
+  or whether the 2D computational domain is a quadrant or the full 180$\,^{\circ}$.
+  We suggest that the relaxation of the explosion condition in going from 1D to 2D
+  (and to, perhaps, 3D) is of a general character and is not limited by the parametric
+  nature of this study.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...688.1159M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0805.3345
+author: Murphy, J. W. and Burrows, A.
+author_list:
+- family: Murphy
+  given: J. W.
+- family: Burrows
+  given: A.
+date-added: 2017-08-10 14:28:35 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/592214
+eid: 1159-1175
+eprint: '0805.3345'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, methods: numerical, shock waves, supernovae:
+  general'
+month: December
+pages: 1159--1175
+papis_id: ebe1b2326892d1cc57e9c53c3167ea20
+ref: murphy.j.2008a
+title: Criteria for Core-Collapse Supernova Explosions by the Neutrino Mechanism
+type: article
+volume: '688'
+year: '2008'

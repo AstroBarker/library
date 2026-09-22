@@ -1,0 +1,62 @@
+abstract: 'Context. The origin of subluminous Type Ia supernovae (SNe Ia) has long
+  eluded any explanation, because all Chandrasekhar-mass models have severe problems
+  reproducing them. Recently, it has been proposed that violent mergers of two white
+  dwarfs of 0.9 M\&sun; could lead to subluminous SNe Ia events that resemble 1991bg-like
+  SNe Ia.  Aims: Here we investigate whether this scenario still works for mergers
+  of two white dwarfs with a mass ratio below one. We aim to determine the range of
+  mass ratios for which a detonation still forms during the merger, as only those
+  events will lead to an SN Ia. This range is an important ingredient for population
+  synthesis and one decisive point for judging the viability of the scenario. In addition,
+  we perform a resolution study of one of the models. Finally we discuss the connection
+  between violent white dwarf mergers with a primary mass of 0.9 M\&sun; and 1991bg-like
+  SNe Ia.  Methods: The latest version of the smoothed particle hydrodynamics code
+  Gadget3 was used to evolve binary systems with different mass ratios until they
+  merge. We analyzed the result and looked for hot spots in which detonations can
+  form.  Results: We show that mergers of two white dwarfs with a primary white dwarf
+  mass of \approx{} 0.9 M\&sun; and a mass ratio more than about 0.8 robustly reach
+  the conditions we require for igniting a detonation and thus produce thermonuclear
+  explosions during the merger itself. We also find that, while our simulations do
+  not yet completely resolve the hot spots, increasing the resolution leads to conditions
+  that are even more likely to ignite detonations. Additionally, we compare the abundance
+  structure of the ejecta of the thermonuclear explosion of two merged white dwarfs
+  with data inferred from observations of a 1991bg-like SN Ia (SN 2005bl). The abundance
+  distributions of intermediate mass and iron group elements in velocity space agree
+  qualitatively, and our model reproduces the lack of material at high velocities
+  inferred from the observations.  Conclusions: The violent merger scenario constitutes
+  a robust possibility for two merging white dwarfs to produce a thermonuclear explosion.
+  Mergers with a primary white dwarf mass of \approx{} 0.9 M\&sun; are very promising
+  candidates for explaining subluminous SNe Ia. This would imply that subluminous
+  SNe Ia form a distinct class of objects, which are not produced in the standard
+  single white dwarf scenario for SNe Ia, but instead arise from a different progenitor
+  channel and explosion mechanism.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A.117P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.1354
+author: Pakmor, R. and Hachinger, S. and Röpke, F. K. and Hillebrandt, W.
+author_list:
+- family: Pakmor
+  given: R.
+- family: Hachinger
+  given: S.
+- family: Röpke
+  given: F. K.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-11 00:45:26 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/201015653
+eid: A117
+eprint: '1102.1354'
+journal: \aap
+keywords: 'supernovae: general, hydrodynamics, binaries: close'
+month: April
+pages: A117
+papis_id: 72463ce98a8ee947dd63c22fa7f8f441
+primaryclass: astro-ph.SR
+ref: pakmor.r.2011
+title: Violent mergers of nearly equal-mass white dwarf as progenitors of subluminous
+  Type Ia supernovae
+type: article
+volume: '528'
+year: '2011'

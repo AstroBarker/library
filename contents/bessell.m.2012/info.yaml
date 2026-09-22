@@ -1,0 +1,36 @@
+abstract: We have calculated improved photonic passbands for the UBVRI, Hipparcos
+  Hp, and Tycho BT and VT standard systems using the extensive spectrophotometric
+  libraries of NGSL and MILES. Using the Hp passband, we adjusted the absolute flux
+  levels of stars in the spectrophotometric libraries so that their synthetic Hp magnitudes
+  matched the precise Hipparcos Catalogue value. Synthetic photometry based on the
+  renormalized fluxes was compared with the standard UBVRI, BT and VT magnitudes,
+  and revised synthetic zero points were determined. The Hipparcos and Tycho photometry
+  system zero points were also compared with the V-magnitude zero points of the SAAO
+  UBVRI system, the homogenized UBV system, and the Walraven VB system. The confusion
+  in the literature concerning broadband magnitudes, fluxes, passbands, and the choice
+  of appropriate mean wavelengths is detailed and discussed in the Appendix.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PASP..124..140B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.2698
+author: Bessell, M. and Murphy, S.
+author_list:
+- family: Bessell
+  given: M.
+- family: Murphy
+  given: S.
+date-added: 2017-08-10 20:11:23 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1086/664083
+eprint: '1112.2698'
+journal: \pasp
+month: February
+pages: '140'
+papis_id: 27849d1e26ccc980340ff24a902f2a3a
+primaryclass: astro-ph.SR
+ref: bessell.m.2012
+title: Spectrophotometric Libraries, Revised Photonic Passbands, and Zero Points for
+  UBVRI, Hipparcos, and Tycho Photometry
+type: article
+volume: '124'
+year: '2012'

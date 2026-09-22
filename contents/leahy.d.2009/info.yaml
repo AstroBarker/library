@@ -1,0 +1,44 @@
+abstract: 'The accretion-powered (non-X-ray burst) pulsations of XTE J1814-338 are
+  modeled to determine neutron star parameters and their uncertainties. The model
+  is a rotating circular hot spot and includes: (1) an isotropic blackbody spectral
+  component; (2) an anisotropic Comptonized spectral component; (3) relativistic time
+  delays and light bending; and (4) the oblate shape of the star due to rotation.
+  This model is the simplest possible model that is consistent with the data. The
+  resulting best-fit parameters of the model favor stiff equations of state (EOS),
+  as can be seen from the 3sigma allowed regions in the mass-radius diagram. We analyzed
+  all data combined from a 23 day period of the 2003 outburst, and separately analyzed
+  data from two days of the outburst. The allowed mass-radius regions for both cases
+  only allow EOS that are stiffer than the EOS of Akmal and colleagues, consistent
+  with the large mass that has been inferred for the pulsar NGC 6440B. The stiff EOS
+  inferred by this analysis is not compatible with the soft EOS inferred from a similar
+  analysis of SAX J1808.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691.1235L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.0824
+author: Leahy, D. A. and Morsink, S. M. and Chung, Y.-Y. and Chou, Y.
+author_list:
+- family: Leahy
+  given: D. A.
+- family: Morsink
+  given: S. M.
+- family: Chung
+  given: Y.-Y.
+- family: Chou
+  given: Y.
+date-added: 2017-08-11 04:15:27 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/2/1235
+eprint: '0806.0824'
+journal: \apj
+keywords: 'pulsars: individual: XTE J1814{\ndash}338, relativity, stars: neutron,
+  stars: rotation, X-rays: binaries'
+month: February
+pages: 1235--1242
+papis_id: 8d113c90c0d4d60efa0ecc82c9fb3c71
+ref: leahy.d.2009
+title: Constraints on the Properties of the Neutron Star XTE J1814-338 from Pulse-Shape
+  Models
+type: article
+volume: '691'
+year: '2009'

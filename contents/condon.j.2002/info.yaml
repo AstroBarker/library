@@ -1,0 +1,37 @@
+abstract: Galaxies from the entire Uppsala Galaxy Catalog (UGC) have been identified
+  with 4583 radio sources stronger than 2.5 mJy at 1.4 GHz from the NRAO VLA Sky Survey
+  (NVSS). The complete sample of 3398 galaxies brighter than mp=14.5 in the area defined
+  by delta>-2deg30' and \vert{}b\vert{}>20deg yielded the UGC/NVSS sample of 1966
+  radio sources. Their dominant energy sources were classified as stars (85\%) or
+  active galactic nuclei (15\%). The luminosity function of star-forming galaxies
+  agrees well with the far-infrared (FIR) luminosity function converted to 1.4 GHz
+  by the FIR/radio correlation. The spectral power density of star-forming galaxies
+  is USF=(1.53+/-0.07)\texttimes{}1019 W Hz-1 Mpc-3 (statistical errors only) if H0=70
+  km s-1 Mpc-1. We used a model consistent with the observed FIR/radio correlation
+  to estimate the corresponding star formation rate density within the past tau~3\texttimes{}108
+  yr; it is rhoSF(M>0.1Msolar)~0.018 Msolar yr-1 Mpc-3. The radio sources in star-forming
+  galaxies may be evolving even at moderately low redshifts (z~0.1).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....124..675C
+author: Condon, J. J. and Cotton, W. D. and Broderick, J. J.
+author_list:
+- family: Condon
+  given: J. J.
+- family: Cotton
+  given: W. D.
+- family: Broderick
+  given: J. J.
+date-added: 2017-08-11 03:29:13 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/341650
+journal: \aj
+keywords: 'Catalogs, Galaxies: Evolution, Galaxies: General, Galaxies: Luminosity
+  Function, Mass Function, Galaxies: Starburst, Radio Continuum'
+month: August
+pages: 675--689
+papis_id: 35b9cd5f63afdb6f558c8bb6851da78c
+ref: condon.j.2002
+title: Radio Sources and Star Formation in the Local Universe
+type: article
+volume: '124'
+year: '2002'

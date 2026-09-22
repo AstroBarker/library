@@ -1,0 +1,30 @@
+abstract: We present an adaptive algorithm for low Mach number reacting flows with
+  complex chemistry. Our approach uses a form of the low Mach number equations that
+  discretely conserves both mass and energy. The discretization methodology is based
+  on a robust projection formulation that accommodates large density contrasts. The
+  algorithm uses an operator-split treatment of stiff reaction terms and includes
+  effects of differential diffusion. The basic computational approach is embedded
+  in an adaptive projection framework that uses structured hierarchical grids with
+  subcycling in time that preserves the discrete conservation properties of the underlying
+  single-grid algorithm. We present numerical examples illustrating the performance
+  of the method on both premixed and non-premixed flames.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000CTM.....4..535D
+author: Day, M. S. and Bell, J. B.
+author_list:
+- family: Day
+  given: M. S.
+- family: Bell
+  given: J. B.
+date-added: 2017-08-11 04:39:36 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1088/1364-7830/4/4/309
+journal: Combustion Theory and Modelling
+month: December
+pages: 535--556
+papis_id: 4ab349e5b7370dd752e8de6410535c11
+ref: day.m.2000
+title: Numerical simulation of laminar reacting flows with complex chemistry
+type: article
+volume: '4'
+year: '2000'

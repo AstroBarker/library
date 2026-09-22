@@ -1,0 +1,43 @@
+abstract: 'Aims: We study the changes in the properties of turbulence driven by the
+  magnetorotational instability in a shearing box, as the computational domain size
+  in the radial direction is varied relative to the height. Methods: We perform 3D
+  simulations in the shearing box approximation, with a net magnetic flux, and we
+  consider computational domains with different aspect ratios.  Results: We find that
+  in boxes of aspect ratio unity the transport of angular momentum is strongly intermittent
+  and dominated by channel solutions in agreement with previous work. In contrast,
+  in boxes with larger aspect ratios, the channel solutions and the associated intermittent
+  behavior disappear. Conclusions: There is strong evidence that, as the aspect ratio
+  becomes larger, the characteristics of the solution become aspect ratio independent.
+  We conclude that shearing box calculations with an aspect ratio of unity or near
+  unity may introduce spurious effects.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...487....1B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0805.1172
+author: Bodo, G. and Mignone, A. and Cattaneo, F. and Rossi, P. and Ferrari, A.
+author_list:
+- family: Bodo
+  given: G.
+- family: Mignone
+  given: A.
+- family: Cattaneo
+  given: F.
+- family: Rossi
+  given: P.
+- family: Ferrari
+  given: A.
+date-added: 2017-08-11 00:08:17 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1051/0004-6361:200809730
+eprint: '0805.1172'
+journal: \aap
+keywords: accretion, accretion disks, instabilities, turbulence, magnetic fields,
+  magnetohydrodynamics (MHD)
+month: August
+pages: 1--5
+papis_id: 48a7cda465d9b2176e4a231a3ff677e6
+ref: bodo.g.2008
+title: Aspect ratio dependence in magnetorotational instability shearing box simulations
+type: article
+volume: '487'
+year: '2008'

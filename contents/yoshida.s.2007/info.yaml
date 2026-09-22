@@ -1,0 +1,46 @@
+abstract: The acoustic-revival mechanism in core-collapse supernovae, proposed recently
+  by the Arizona group led by A. Burrows, is an interesting new scenario. With an
+  aim to understanding the elementary processes involved in this mechanism, we have
+  calculated the eigenfrequencies and eigenfunctions for the g-mode oscillations of
+  a nonrotating proto-neutron star. The possible excitation of these modes by the
+  standing accretion shock instability, or SASI, is discussed. We have formulated
+  the forced oscillations of g-modes due to external pressure perturbations exerted
+  on the proto-neutron star's surface. The driving pressure fluctuations have been
+  adopted from our previous computations of axisymmetric SASI in the nonlinear regime.
+  We pay particular attention to low-l modes, since these are the modes that are dominant
+  in SASI and what Burrows et al. claim to have played an important role in their
+  acoustic-revival scenario. Here l is the index of the spherical harmonic functions,
+  Yml. Although the frequency spectrum of nonlinear SASI is broadened substantially
+  by nonlinear couplings, the typical frequency is still much smaller than those of
+  the g-modes, leading to a severe impedance mismatch. As a result, the excitations
+  of various g-modes are rather inefficient, and the energy of the saturated g-modes
+  is ~1050 ergs or less, with the g2 mode being the largest in our model. Here the
+  g2 mode has two radial nodes and is confined to the interior of the convective region.
+  The energy transfer rate from the g-modes to outgoing sound waves is estimated from
+  the growth of the g-modes to be ~1051 ergs s-1 in the models studied in this paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665.1268Y
+arxivurl: http://arxiv.org/abs/astro-ph/0701643
+author: Yoshida, S. and Ohnishi, N. and Yamada, S.
+author_list:
+- family: Yoshida
+  given: S.
+- family: Ohnishi
+  given: N.
+- family: Yamada
+  given: S.
+date-added: 2017-08-11 05:36:09 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519303
+eprint: astro-ph/0701643
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Neutrinos, Stars: Supernovae: General'
+month: August
+pages: 1268--1276
+papis_id: fa06ff00f9ad796fe9af8338aee2a2b5
+ref: yoshida.s.2007
+title: Excitation of g-Modes in a Proto-Neutron Star by the Standing Accretion Shock
+  Instability
+type: article
+volume: '665'
+year: '2007'

@@ -1,0 +1,36 @@
+abstract: A model is developed for the transport of heat and solute in a system of
+  double-diffusive layers under astrophysical conditions (where viscosity and solute
+  diffusivity are low compared with the thermal diffusivity). The process of formation
+  of the layers is not part of the model but, as observed in geophysical and laboratory
+  settings, is assumed to be faster than the life time of the semiconvective zone.
+  The thickness of the layers is a free parameter of the model. When the energy flux
+  of the star is specified, the effective semiconvective diffusivities are only weakly
+  dependent on this parameter. An estimate is given of the evolution of layer thickness
+  with time in a semiconvective zone. The model predicts that the density ratio has
+  a maximum for which a stationary layered state can exist, Rrho \lessequivlnt{} Le-1/2.
+  Comparison of the model predictions with a grid of numerical simulations is presented
+  in a companion paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...552A..76S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.4005
+author: Spruit, H. C.
+author_list:
+- family: Spruit
+  given: H. C.
+date-added: 2017-08-10 15:03:32 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1051/0004-6361/201220575
+eid: A76
+eprint: '1302.4005'
+journal: \aap
+keywords: convection
+month: April
+pages: A76
+papis_id: 05073995efee7b629d3e678004edf55a
+primaryclass: astro-ph.SR
+ref: spruit.h.2013
+title: 'Semiconvection: theory'
+type: article
+volume: '552'
+year: '2013'

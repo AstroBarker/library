@@ -1,0 +1,47 @@
+abstract: The neutrino flux and spectra formation in a supernova core is studied by
+  using a Monte Carlo code. The dominant opacity contribution for numu is elastic
+  scattering on nucleons numuN-->Nnumu, where numu always stands for either numu or
+  nutau. In addition, we switch on or off a variety of processes that allow for the
+  exchange of energy or the creation and destruction of neutrino pairs, notably nucleon
+  bremsstrahlung NN-->NNnumunumu, the pair annihilation processes e+e--->numunumu
+  and nuenue-->numunumu, recoil and weak magnetism in elastic nucleon scattering,
+  elastic scattering on electrons numue+/--->e+/-numu, and elastic scattering on electron
+  neutrinos and antineutrinos numunue-->nuenumu and numunue-->nuenumu. The least important
+  processes are neutrino-neutrino scattering and e+e- annihilation. The formation
+  of the spectra and fluxes of numu is dominated by the nucleonic processes, i.e.,
+  bremsstrahlung and elastic scattering with recoil, but also nuenue annihilation
+  and numue+/- scattering contribute significantly. When all processes are included,
+  the spectral shape of the emitted neutrino flux is always ``pinched,'' i.e., the
+  width of the spectrum is smaller than that of a thermal spectrum with the same average
+  energy. In all of our cases we find that the average numu energy exceeds the average
+  nue energy by only a small amount, 10\% being a typical number. Weak-magnetism effects
+  cause the opacity of numu to differ slightly from that of numu, translating into
+  differences of the luminosities and average energies of a few percent. Depending
+  on the density, temperature, and composition profile, the flavor-dependent luminosities
+  Lnue, Lnue, and Lnumu can mutually differ from each other by up to a factor of 2
+  in either direction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...590..971K
+arxivurl: http://arxiv.org/abs/astro-ph/0208035
+author: Keil, M. T. and Raffelt, G. G. and Janka, H.-T.
+author_list:
+- family: Keil
+  given: M. T.
+- family: Raffelt
+  given: G. G.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:29:54 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/375130
+eprint: astro-ph/0208035
+journal: \apj
+keywords: 'Diffusion, Neutrinos, Scattering, Stars: Supernovae: General'
+month: June
+pages: 971--991
+papis_id: cbc9c0fc6389600e13cda1ad1c504f4c
+ref: keil.m.2003
+title: Monte Carlo Study of Supernova Neutrino Spectra Formation
+type: article
+volume: '590'
+year: '2003'

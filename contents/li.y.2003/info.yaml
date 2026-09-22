@@ -1,0 +1,43 @@
+abstract: We study the effect of varying the equation of state on the formation of
+  stellar clusters in turbulent molecular clouds using three-dimensional, smoothed
+  particle hydrodynamics simulations. Our results show that the equation of state
+  helps determine how strongly self-gravitating gas fragments. The degree of fragmentation
+  decreases with increasing polytropic exponent gamma in the range 0.2<gamma<1.4,
+  although the total amount of mass accreted onto collapsed fragments appears to remain
+  roughly constant through that range. Low values of gamma are expected to lead to
+  the formation of dense clusters of low-mass stars, while gamma>1 probably results
+  in the formation of isolated and massive stars. Fragmentation and collapse ceases
+  entirely for gamma>1.4, as expected from analytic arguments. The mass spectrum of
+  overdense gas clumps is roughly lognormal for non-self-gravitating turbulent gas,
+  but changes to a power law under the action of gravity. The spectrum of collapsed
+  cores, on the other hand, remains lognormal for gamma<=1 but flattens markedly for
+  gamma>1. The density probability function approaches lognormal, with widths that
+  decrease with increasing gamma. Primordial gas may have effective gamma>1, in which
+  case these results could help explain why models of the formation of the first stars
+  tend to produce isolated, massive objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...592..975L
+arxivurl: http://arxiv.org/abs/astro-ph/0302606
+author: Li, Y. and Klessen, R. S. and Mac Low, M.-M.
+author_list:
+- family: Li
+  given: Y.
+- family: Klessen
+  given: R. S.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:42:37 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/375780
+eprint: astro-ph/0302606
+journal: \apj
+keywords: 'Equation of State, Hydrodynamics, ISM: Clouds, Stars: Formation, Turbulence'
+month: August
+pages: 975--985
+papis_id: 92637b1a051191a2e38db27a6fed58e6
+ref: li.y.2003
+title: 'The Formation of Stellar Clusters in Turbulent Molecular Clouds: Effects of
+  the Equation of State'
+type: article
+volume: '592'
+year: '2003'

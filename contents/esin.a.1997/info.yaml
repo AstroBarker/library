@@ -1,0 +1,60 @@
+abstract: Black hole X-ray binaries (BHXBs) are known to display five distinct spectral
+  states. In order of increasing luminosity these are the quiescent state, low state,
+  intermediate state, high state, and very high state. We present a self-consistent
+  model of accretion flows around black holes that unifies all of these states except
+  the very high state. The model is an extension of the following paradigm, which
+  has been applied successfully to the quiescent state. The accretion flow consists
+  of two zones, an inner advection-dominated accretion flow (ADAF) that extends from
+  the black hole horizon to a transition radius rtr, and an outer thin accretion disk
+  that is present beyond rtr. Above the disk is a hot corona, which is a continuation
+  of the inner ADAF. The model consistently treats the dynamics of the accreting gas,
+  the thermal balance of the ions and electrons in the two-temperature ADAF and corona,
+  and the radiation processes that produce the observed spectrum.  At low mass accretion
+  rates, m<~0.01 (in Eddington units), the inner ADAF zone in the model radiates extremely
+  inefficiently, and the outer thin disk is restricted to large radii (rtr ~ 102-104,
+  in Schwarzschild units). The luminosity therefore is low, and this configuration
+  is identified with the quiescent state. For m>~0.01 and up to a critical value mcrit~0.08,
+  the radiative efficiency of the ADAF increases rapidly and the system becomes fairly
+  luminous. The spectrum is very hard and peaks around 100 keV. This is the low state.
+  The exact value of mcrit depends on the viscosity parameter alpha (mcrit~1.3alpha2
+  the paper assumes alpha = 0.25). For values of m>mcrit and up to a second critical
+  value about 10\% higher, the ADAF progressively shrinks in size, the transition
+  radius decreases, and the X-ray spectrum changes continuously from hard to soft.
+  We identify this stage with the intermediate state. Finally, when m is sufficiently
+  large, the inner ADAF zone disappears altogether and the thin accretion disk extends
+  down to the marginally stable orbit. The spectrum is dominated by an ultrasoft component
+  with a weak hard tail. This is the high state. Model spectra calculated with this
+  unified scenario agree well with observations of the quiescent, low, intermediate,
+  and high states. Moreover, the model provides a natural explanation for the low
+  state to high state transition in BHXBs. We also make a tentative proposal for the
+  very high state, but this aspect of the model is less secure.  An important feature
+  of the model is that it is essentially parameter free. We test the model against
+  observations of the soft X-ray transient Nova Muscae during its 1991 outburst. The
+  model reproduces the observed light curves and spectra surprisingly well and makes
+  a number of predictions that can be tested by observations of other BHXBs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...489..865E
+arxivurl: http://arxiv.org/abs/astro-ph/9705237
+author: Esin, A. A. and McClintock, J. E. and Narayan, R.
+author_list:
+- family: Esin
+  given: A. A.
+- family: McClintock
+  given: J. E.
+- family: Narayan
+  given: R.
+date-added: 2017-08-11 03:17:22 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304829
+eprint: astro-ph/9705237
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, X-rays: stars'
+month: November
+pages: 865--889
+papis_id: b7fe53845c04a6c71b419e38bd743d2b
+ref: esin.a.1997
+title: 'Advection-Dominated Accretion and the Spectral States of Black Hole X-Ray
+  Binaries: Application to Nova Muscae 1991'
+type: article
+volume: '489'
+year: '1997'

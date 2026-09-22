@@ -1,0 +1,46 @@
+abstract: For the initial mass range (140 M sun < M < 260 M sun) stars die in a thermonuclear
+  runaway triggered by the pair-production instability. The supernovae they make can
+  be remarkably energetic (up to ~1053 erg) and synthesize considerable amounts of
+  radioactive isotopes. Here we model the evolution, explosion, and observational
+  signatures of representative pair instability supernovae (PI SNe) spanning a range
+  of initial masses and envelope structures. The predicted light curves last for hundreds
+  of days and range in luminosity from very dim to extremely bright (L ~ 1044 erg
+  s-1). The most massive events are bright enough to be seen at high redshift, but
+  the extended light curve duration (~1 yr)---prolonged by cosmological time-dilation---may
+  make it difficult to detect them as transients. A more promising approach may be
+  to search for the brief and luminous outbreak occurring when the explosion shock
+  wave first reaches the stellar surface. Using a multi-wavelength radiation-hydrodynamics
+  code we calculate that, in the rest frame, the shock breakout transients of PI SNe
+  reach luminosities of 1045-1046 erg s-1, peak at wavelengths ~30-170 {\AA}, and
+  last for several hours. We discuss how observations of the light curves, spectra,
+  and breakout emission can be used to constrain the mass, radius, and metallicity
+  of the progenitor.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...734..102K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.3336
+author: Kasen, D. and Woosley, S. E. and Heger, A.
+author_list:
+- family: Kasen
+  given: D.
+- family: Woosley
+  given: S. E.
+- family: Heger
+  given: A.
+date-added: 2017-08-10 19:02:52 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/734/2/102
+eid: '102'
+eprint: '1101.3336'
+journal: \apj
+keywords: 'dark ages, reionization, first stars, nuclear reactions, nucleosynthesis,
+  abundances, stars: massive, stars: Population III, supernovae: general'
+month: June
+pages: '102'
+papis_id: 0eb31d1ad0fe842ee1cbbce4f998a6ea
+primaryclass: astro-ph.HE
+ref: kasen.d.2011
+title: 'Pair Instability Supernovae: Light Curves, Spectra, and Shock Breakout'
+type: article
+volume: '734'
+year: '2011'

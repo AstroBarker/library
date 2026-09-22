@@ -1,0 +1,89 @@
+abstract: 'Many astrophysical applications involve magnetized turbulent flows with
+  shock waves. Ab initio star formation simulations require a robust representation
+  of supersonic turbulence in molecular clouds on a wide range of scales imposing
+  stringent demands on the quality of numerical algorithms. We employ simulations
+  of supersonic super-Alfv{\''e}nic turbulence decay as a benchmark test problem to
+  assess and compare the performance of nine popular astrophysical MHD methods actively
+  used to model star formation. The set of nine codes includes: ENZO, FLASH, KT-MHD,
+  LL-MHD, PLUTO, PPML, RAMSES, STAGGER, and ZEUS. These applications employ a variety
+  of numerical approaches, including both split and unsplit, finite difference and
+  finite volume, divergence preserving and divergence cleaning, a variety of Riemann
+  solvers, and a range of spatial reconstruction and time integration techniques.
+  We present a comprehensive set of statistical measures designed to quantify the
+  effects of numerical dissipation in these MHD solvers. We compare power spectra
+  for basic fields to determine the effective spectral bandwidth of the methods and
+  rank them based on their relative effective Reynolds numbers. We also compare numerical
+  dissipation for solenoidal and dilatational velocity components to check for possible
+  impacts of the numerics on small-scale density statistics. Finally, we discuss the
+  convergence of various characteristics for the turbulence decay test and the impact
+  of various components of numerical schemes on the accuracy of solutions. The nine
+  codes gave qualitatively the same results, implying that they are all performing
+  reasonably well and are useful for scientific applications. We show that the best
+  performing codes employ a consistently high order of accuracy for spatial reconstruction
+  of the evolved fields, transverse gradient interpolation, conservation law update
+  step, and Lorentz force computation. The best results are achieved with divergence-free
+  evolution of the magnetic field using the constrained transport method and using
+  little to no explicit artificial viscosity. Codes that fall short in one or more
+  of these areas are still useful, but they must compensate for higher numerical dissipation
+  with higher numerical resolution. This paper is the largest, most comprehensive
+  MHD code comparison on an application-like test problem to date. We hope this work
+  will help developers improve their numerical algorithms while helping users to make
+  informed choices about choosing optimal applications for their specific astrophysical
+  problems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737...13K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.5525
+author: Kritsuk, A. G. and Nordlund, Å. and Collins, D. and Padoan, P. and Norman,
+  M. L. and Abel, T. and Banerjee, R. and Federrath, C. and Flock, M. and Lee, D.
+  and Li, P. S. and Müller, W.-C. and Teyssier, R. and Ustyugov, S. D. and Vogel,
+  C. and Xu, H.
+author_list:
+- family: Kritsuk
+  given: A. G.
+- family: Nordlund
+  given: Å.
+- family: Collins
+  given: D.
+- family: Padoan
+  given: P.
+- family: Norman
+  given: M. L.
+- family: Abel
+  given: T.
+- family: Banerjee
+  given: R.
+- family: Federrath
+  given: C.
+- family: Flock
+  given: M.
+- family: Lee
+  given: D.
+- family: Li
+  given: P. S.
+- family: Müller
+  given: W.-C.
+- family: Teyssier
+  given: R.
+- family: Ustyugov
+  given: S. D.
+- family: Vogel
+  given: C.
+- family: Xu
+  given: H.
+date-added: 2017-08-10 23:28:45 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/1/13
+eid: '13'
+eprint: '1103.5525'
+journal: \apj
+keywords: 'ISM: structure, magnetohydrodamics: MHD, methods: numerical, turbulence'
+month: August
+pages: '13'
+papis_id: ce67ac0f21fe28c404117181d9130b38
+primaryclass: astro-ph.SR
+ref: kritsuk.a.2011
+title: Comparing Numerical Methods for Isothermal Magnetized Supersonic Turbulence
+type: article
+volume: '737'
+year: '2011'

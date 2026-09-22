@@ -1,0 +1,44 @@
+abstract: We present high-resolution simulations on the impact of ionizing radiation
+  of massive O stars on the surrounding turbulent interstellar medium (ISM). The simulations
+  are performed with the newly developed software iVINE which combines ionization
+  with smoothed particle hydrodynamics (SPH) and gravitational forces. We show that
+  radiation from hot stars penetrates the ISM, efficiently heats cold low-density
+  gas and amplifies overdensities seeded by the initial turbulence. The formation
+  of observed pillar-like structures in star-forming regions (e.g. in M16) can be
+  explained by this scenario. At the tip of the pillars gravitational collapse can
+  be induced, eventually leading to the formation of low-mass stars. Detailed analysis
+  of the evolution of the turbulence spectra shows that UV radiation of O stars indeed
+  provides an excellent mechanism to sustain and even drive turbulence in the parental
+  molecular cloud.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694L..26G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.2113
+author: Gritschneder, M. and Naab, T. and Walch, S. and Burkert, A. and Heitsch, F.
+author_list:
+- family: Gritschneder
+  given: M.
+- family: Naab
+  given: T.
+- family: Walch
+  given: S.
+- family: Burkert
+  given: A.
+- family: Heitsch
+  given: F.
+date-added: 2017-08-11 01:36:48 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/694/1/L26
+eprint: '0901.2113'
+journal: \apjl
+keywords: 'ISM: structure, methods: numerical, stars: formation, turbulence, ultraviolet:
+  ISM'
+month: March
+pages: L26-L30
+papis_id: 96710c5fefd6f0f9660ab4fea8bcf770
+primaryclass: astro-ph.SR
+ref: gritschneder.m.2009
+title: Driving Turbulence and Triggering Star Formation by Ionizing Radiation
+type: article
+volume: '694'
+year: '2009'

@@ -1,0 +1,79 @@
+abstract: A Chandra X-Ray Observatory ACIS-S imaging observation is used to study
+  the population of X-ray sources in the nearby Sab galaxy M81 (NGC 3031). A total
+  of 177 sources are detected with 124 located within the D25 isophote to a limiting
+  X-ray luminosity of ~3\texttimes{}1036 ergs s-1. Source positions, count rates,
+  luminosities in the 0.3-8.0 keV band, limiting optical magnitudes, and potential
+  counterpart identifications are tabulated. Spectral and timing analysis of the 36
+  brightest sources are reported including the low-luminosity active galactic nucleus,
+  SN 1993J, and the Einstein-discovered ultraluminous X-ray source X6. The nucleus
+  accounts for ~86\%, or 5\texttimes{}1040 ergs s-1, of the total X-ray emission from
+  M81. Its spectrum is well fitted by an absorbed power law with photon index 1.98+/-0.08,
+  consistent with previous observations (average index 1.9). SN 1993J has softened
+  and faded since its discovery. At an age of 2594 days, SN 1993J displayed a complex
+  thermal spectrum from a reverse shock rich in Fe L and highly ionized Mg, Si, and
+  S but lacking O. A hard X-ray component, emitted by a forward shock, is also present.
+  X6 is spatially coincident with a stellar object with optical brightness and colors
+  consistent with an O9-B1 main-sequence star. It is also coincident with a weak radio
+  source with a flux density of ~95 muJy at lambda=3.6 cm. The continuum-dominated
+  X-ray spectrum of X6 is most closely reproduced by a blackbody disk model suggesting
+  the X-ray source is an ~18 Msolar object accreting at nearly its Eddington limit.  The
+  non-nuclear point source population of M81 accounts for 88\% of the non-nuclear
+  X-ray luminosity of 8.1\texttimes{}1039 ergs s-1. The remaining (unresolved) X-ray
+  emission is confined within ~2 kpc of the galactic center. The spatial distribution
+  of this emission and of the resolved X-ray bulge sources closely follows that of
+  the bulge optical light. In particular, there is no evidence for an X-ray signature
+  accompanying the filamentary Halpha or excess UV emission seen in the central <~1.0
+  kpc of the galaxy. The shape of the luminosity function of the bulge sources is
+  a power law with a break at ~4\texttimes{}1037 ergs s-1 suggesting the presence
+  of an aging (~400 Myr) population of low-mass X-ray binaries. Extrapolating this
+  luminosity function to lower luminosities accounts for only ~10\% of the unresolved
+  X-ray emission. Spectroscopically, the unresolved emission can be represented as
+  a combination of soft, kT~0.3 keV, optically thin plasma emission and of a Gamma=1.6
+  power law. The unresolved bulge X-ray emission is therefore most likely a combination
+  of hot gas and of one or more large and distinct populations of low-luminosity X-ray
+  sources confined in the gravitational potential and tracing the old population of
+  bulge stars. The distribution of disk sources shows a remarkably strong correlation
+  with spiral arms with the brightest disk sources located closest to spiral arms.
+  The luminosity function of sources near the spiral arms is a pure power law (slope
+  -0.48+/-0.03), while that of sources further away exhibits a break or cutoff in
+  the power-law distribution with no high-luminosity members. This is interpreted
+  as a natural consequence of the passage of spiral density waves that leave the brightest
+  (when averaged over their lifetimes) and shortest-lived X-ray sources immediately
+  downstream of the spiral arms. Consistent with model predictions, we conclude that
+  the shapes of the X-ray luminosity functions of the different galactic components
+  of M81 are most likely governed by the birth rates and lifespans of their constituent
+  X-ray source populations and that the luminosity functions can be used as a measure
+  of the star formation histories of their environments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..144..213S
+arxivurl: http://arxiv.org/abs/astro-ph/0206160
+author: Swartz, D. A. and Ghosh, K. K. and McCollough, M. L. and Pannuti, T. G. and
+  Tennant, A. F. and Wu, K.
+author_list:
+- family: Swartz
+  given: D. A.
+- family: Ghosh
+  given: K. K.
+- family: McCollough
+  given: M. L.
+- family: Pannuti
+  given: T. G.
+- family: Tennant
+  given: A. F.
+- family: Wu
+  given: K.
+date-added: 2017-08-11 06:35:18 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/345084
+eprint: astro-ph/0206160
+journal: \apjs
+keywords: 'Galaxies: Individual: Messier Number: M81, Stars: Supernovae: Individual:
+  Alphanumeric: SN 1993J, X-Rays: Binaries, X-Rays: Galaxies, X-Rays: Stars'
+month: February
+pages: 213--242
+papis_id: fd681e9a379c36a65ac8f465a0071e5e
+ref: swartz.d.2003
+title: Chandra X-Ray Observations of the Spiral Galaxy M81
+type: article
+volume: '144'
+year: '2003'

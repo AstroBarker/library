@@ -1,0 +1,31 @@
+abstract: The missing contact surface in the approximate Riemann solver of Harten,
+  Lax, and van Leer is restored. This is achieved following the same principles as
+  in the original solver. We also present new ways of obtaining wave-speed estimates.
+  The resulting solver is as accurate and robust as the exact Riemann solver, but
+  it is simpler and computationally more efficient than the latter, particulaly for
+  non-ideal gases. The improved Riemann solver is implemented in the second-order
+  WAF method and tested for one-dimensional problems with exact solutions and for
+  a two-dimensional problem with experimental results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ShWav...4...25T
+author: Toro, E. F. and Spruce, M. and Speares, W.
+author_list:
+- family: Toro
+  given: E. F.
+- family: Spruce
+  given: M.
+- family: Speares
+  given: W.
+date-added: 2017-08-11 04:40:51 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1007/BF01414629
+journal: Shock Waves
+keywords: Finite difference scheme, Numerical simulation, Riemann solver
+month: July
+pages: 25--34
+papis_id: d4ba89729d0e1333677b6079302e8845
+ref: toro.e.1994
+title: Restoration of the contact surface in the HLL-Riemann solver
+type: article
+volume: '4'
+year: '1994'

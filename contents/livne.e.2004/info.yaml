@@ -1,0 +1,51 @@
+abstract: We have developed a time-dependent, multi-energy group, multiangle (Sn)
+  Boltzmann transport scheme for radiation hydrodynamics simulations in one and two
+  spatial dimensions. The implicit transport is coupled to both one-dimensional (spherically
+  symmetric) and two-dimensional (axially symmetric) versions of the explicit Newtonian
+  hydrodynamics code VULCAN. The two-dimensional variant, VULCAN/2D, can be operated
+  in general structured or unstructured grids, and although the code can address many
+  problems in astrophysics, it was constructed specifically to study the core-collapse
+  supernova problem. Furthermore, VULCAN/2D can simulate the radiation hydrodynamic
+  evolution of differentially rotating bodies. We summarize the equations solved and
+  methods incorporated into the algorithm and present the results of a time-dependent
+  two-dimensional test calculation. A more complete description of the algorithm is
+  postponed to another paper. We highlight a two-dimensional test run that follows
+  the immediate postbounce evolution of a collapsed core for 22 ms. We present the
+  relationship between the anisotropies of the overturning matter field and the distribution
+  of the corresponding flux vectors as a function of energy group. This is the first
+  two-dimensional multigroup, multiangle, time-dependent radiation hydrodynamics calculation
+  ever performed in core-collapse studies. Although the transport module of the code
+  is not gray and does not use flux limiters (however, there is a flux-limited variant
+  of VULCAN/2D), it still does not include energy redistribution and most velocity-dependent
+  terms.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...609..277L
+arxivurl: http://arxiv.org/abs/astro-ph/0312633
+author: Livne, E. and Burrows, A. and Walder, R. and Lichtenstadt, I. and Thompson,
+  T. A.
+author_list:
+- family: Livne
+  given: E.
+- family: Burrows
+  given: A.
+- family: Walder
+  given: R.
+- family: Lichtenstadt
+  given: I.
+- family: Thompson
+  given: T. A.
+date-added: 2017-08-10 19:41:04 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421012
+eprint: astro-ph/0312633
+journal: \apj
+keywords: 'Hydrodynamics, Neutrinos, Radiative Transfer, Stars: Supernovae: General'
+month: July
+pages: 277--287
+papis_id: c742d3c5e3d6ad0eb02039ce6070f525
+ref: livne.e.2004
+title: Two-dimensional, Time-dependent, Multigroup, Multiangle Radiation Hydrodynamics
+  Test Simulation in the Core-Collapse Supernova Context
+type: article
+volume: '609'
+year: '2004'

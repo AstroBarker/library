@@ -1,0 +1,51 @@
+abstract: 'Large excesses of 44Ca in certain presolar graphite and silicon carbide
+  grains give strong evidence for 44Ti production in supernovae. Furthermore, recent
+  detection of the 44Ti gamma line from the Cas A supernova remnant by the Compton
+  Gamma Ray Observatory Compton Telescope shows that radioactive 44Ti is produced
+  in supernovae. These make the 44Ti abundance an observable diagnostic of supernovae.
+  Through use of a nuclear reaction network, we have systematically varied reaction
+  rates and groups of reaction rates to experimentally identify those that govern
+  44Ti abundance in core-collapse supernova nucleosynthesis. We survey the nuclear-rate
+  dependence by repeated calculations of the identical adiabatic expansion, with peak
+  temperature and density chosen to be 5.5 \texttimes{} 109 K and 107 g cm-3, respectively,
+  to approximate the conditions in detailed supernova models. We find that, for equal
+  total numbers of neutrons and protons (eta = 0), 44Ti production is most sensitive
+  to the following reaction rates: 44Ti(alpha, p)47V, alpha(2alpha, gamma)12C, 44Ti(alpha,
+  gamma)48Cr, and 45V(p, gamma)46Cr. We tabulate the most sensitive reactions in order
+  of their importance to the 44Ti production near the standard values of currently
+  accepted reaction rates, at both a reduced reaction rate (times 0.01) and an increased
+  reaction rate (times 100) relative to their standard values. Although most reactions
+  retain their importance for eta > 0, that of 45V(p, gamma)46Cr drops rapidly for
+  eta >= 0.0004. Other reactions assume greater significance at greater neutron excess:
+  12C(alpha, gamma)16O, 40Ca(alpha, gamma)44Ti, 27Al(alpha, n)30P, 30Si(alpha, n)33S.
+  Because many of these rates are unknown experimentally, our results suggest the
+  most important targets for future cross section measurements governing the value
+  of this observable abundance.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...504..500T
+arxivurl: http://arxiv.org/abs/astro-ph/9806211
+author: The, L.-S. and Clayton, D. D. and Jin, L. and Meyer, B. S.
+author_list:
+- family: The
+  given: L.-S.
+- family: Clayton
+  given: D. D.
+- family: Jin
+  given: L.
+- family: Meyer
+  given: B. S.
+date-added: 2017-08-11 01:04:05 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/306057
+eprint: astro-ph/9806211
+journal: \apj
+keywords: 'NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: SUPERNOVAE: GENERAL,
+  Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Supernovae: General'
+month: September
+pages: 500--515
+papis_id: 8e49b072c2ce3f69bbec675a21b0d321
+ref: the.l_s.1998
+title: Nuclear Reactions Governing the Nucleosynthesis of $^44$Ti
+type: article
+volume: '504'
+year: '1998'

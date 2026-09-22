@@ -1,0 +1,39 @@
+abstract: The hydrodynamic processes operating within stellar interiors are far richer
+  than represented by the best stellar evolution model available. Although it is now
+  widely understood, through astrophysical simulation and relevant terrestrial experiment,
+  that many of the basic assumptions which underlie our treatments of stellar evolution
+  are flawed, we lack a suitable, comprehensive replacement. This is due to a deficiency
+  in our fundamental understanding of the transport and mixing properties of a turbulent,
+  reactive, magnetized plasma; a deficiency in knowledge which stems from the richness
+  and variety of solutions which characterize the inherently non-linear set of governing
+  equations. The exponential increase in availability of computing resources, however,
+  is ushering in a new era of understanding complex hydrodynamic flows; and although
+  this field is still in its formative stages, the sophistication already achieved
+  is leading to a dramatic paradigm shift in how we model astrophysical fluid dynamics.
+  We highlight here some recent results from a series of multi-dimensional stellar
+  interior calculations which are part of a program designed to improve our one-dimensional
+  treatment of massive star evolution and stellar evolution in general.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008IAUS..252..439M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.4542
+author: Meakin, C. A.
+author_list:
+- family: Meakin
+  given: C. A.
+booktitle: The Art of Modeling Stars in the 21st Century
+date-added: 2017-08-10 16:26:26 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1017/S1743921308023466
+editor: '{Deng}, L. and {Chan}, K.~L.'
+eprint: '0806.4542'
+keywords: 'Hydrodynamics, convection, stars: evolution, methods: numerical'
+month: October
+pages: 439--449
+papis_id: e6bf77fe1926a81d56225e38272aaf55
+ref: meakin.c.2008
+series: IAU Symposium
+title: Hydrodynamic Processes in Massive Stars
+type: inproceedings
+volume: '252'
+year: '2008'

@@ -1,0 +1,39 @@
+abstract: We derive mass-luminosity relationships for very low mass stars (0.06 <
+  m/M\&sun; < 0.6) for different metallicities. Calculations are conducted with the
+  different nongray atmosphere models presently available to illustrate the uncertainties
+  in the stellar models. The theoretical mass-magnitude relation reproduces accurately
+  the observed relationship in the V band (Henry \& McCarthy) but still underestimates
+  the flux in the K band by ~0.5 mag, a consequence of the still inaccurate water
+  opacities. Calculations based on the gray approximation are shown to yield incorrect
+  results over the entire mass range of interest. We also show that the fate of objects
+  near the hydrogen-burning limit depends significantly on the treatment of the atmosphere.
+  Nongray effects yield cooler and less luminous objects for a given mass near the
+  stellar/substellar transition, and thus a lower hydrogen-burning minimum mass, m
+  ~ 0.07 M\&sun;, for solar metallicity. The depletion of lithium along evolution
+  is considered in detail, and we give age versus lithium-abundance relations that
+  provide useful guides to determine the mass and the age of spectroscopically observed
+  low-mass objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...459L..91C
+author: Chabrier, G. and Baraffe, I. and Plez, B.
+author_list:
+- family: Chabrier
+  given: G.
+- family: Baraffe
+  given: I.
+- family: Plez
+  given: B.
+date-added: 2017-08-11 04:21:43 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/309951
+journal: \apjl
+keywords: 'STARS: LOW-MASS, BROWN DWARFS, STARS: EVOLUTION, STARS: LUMINOSITY FUNCTION,
+  MASS FUNCTION'
+month: March
+pages: L91
+papis_id: dd3fa50587d8d067c1abf20d439ce18d
+ref: chabrier.g.1996
+title: Mass-Luminosity Relationship and Lithium Depletion for Very Low Mass Stars
+type: article
+volume: '459'
+year: '1996'

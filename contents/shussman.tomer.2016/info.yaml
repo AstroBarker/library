@@ -1,0 +1,42 @@
+abstract: Observations of type II supernova early light, from breakout until recombination,
+  can be used to constrain the explosion energy and progenitor properties. Currently
+  available for this purpose are purely analytic models, which are accurate only to
+  within an order of magnitude, and detailed numerical simulations, which are more
+  accurate but are applied to any event separately. In this paper we derive an analytic
+  model that is calibrated by numerical simulations. This model is much more accurate
+  than previous analytic models, yet it is as simple to use. To derive the model we
+  analyze simulated light curves from numerical explosion of $124$ red supergiant
+  progenitors, calculated using the stellar evolution code MESA. We find that although
+  the structure of the progenitors we consider varies, the resulting light curves
+  can be described rather well based only on the explosion energy, ejecta mass and
+  progenitor radius. Our calibrated analytic model, which is based on these three
+  parameters, reproduces the bolometric luminosity within \$25\%-35\%\$ accuracy and
+  the observed temperature within \$15\%\$ accuracy (compared to previous analytic
+  models which are indeed found to be accurate only to within an order of magnitude).
+  We also consider deviations of the early time spectrum from blackbody, and find
+  that the Rayleigh-Jeans regime is slightly shallower (roughly \$L\_\nu \propto \nu^{1.4}\$).
+  This modified spectrum affects the optical/near-UV light curve mostly during the
+  first day when the typical observed temperature is \$\gg 10^4 ~^\circ\$K. We use
+  our results to study the optical and near-UV early light curves from first light
+  until recombination and briefly discuss what can be learned from current and future
+  observations. Light curves generated using our calibrated model can be downloaded
+  at http://www.astro.tau.ac.il/~tomersh/.
+archiveprefix: arXiv
+author: Shussman, Tomer and Waldman, Roni and Nakar, Ehud
+author_list:
+- family: Shussman
+  given: Tomer
+- family: Waldman
+  given: Roni
+- family: Nakar
+  given: Ehud
+eprint: '1610.05323'
+file: :http\://arxiv.org/pdf/1610.05323v1:PDF
+keywords: astro-ph.HE
+month: October
+papis_id: 1b5b601fe5387dfd48dec113deba38a2
+primaryclass: astro-ph.HE
+ref: shussman.tomer.2016
+title: Type II supernovae Early Light Curves
+type: article
+year: '2016'

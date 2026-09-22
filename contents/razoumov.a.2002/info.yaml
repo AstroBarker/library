@@ -1,0 +1,43 @@
+abstract: We present new calculations of the inhomogeneous process of cosmological
+  reionization by carefully following the radiative transfer in precomputed hydrodynamic
+  simulations of galaxy formation. These new computations represent an important step
+  on the way toward fully self-consistent and adaptive calculations, which will eventually
+  cover the enormous range of scales from sizes of individual minihalos to the mean
+  free path of ionizing photons in the postoverlap universe. The goal of such simulations
+  is to include enough realistic physics to accurately model the formation of early
+  structures and the end of the ``dark ages.'' Our new calculations demonstrate that
+  the process by which the ionized regions percolate the universe is complex and that
+  the idea of voids being ionized before overdense regions is too simplistic. It seems
+  that observational information pertaining to the reionization epoch may now be in
+  our grasp, through the detection of Gunn-Peterson troughs at z~6. If so, then the
+  comparison of information from many lines of sight with simulations such as ours
+  may allow us to disentangle details of the ionization history and trace the early
+  formation of structure.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...572..695R
+arxivurl: http://arxiv.org/abs/astro-ph/0109111
+author: Razoumov, A. O. and Norman, M. L. and Abel, T. and Scott, D.
+author_list:
+- family: Razoumov
+  given: A. O.
+- family: Norman
+  given: M. L.
+- family: Abel
+  given: T.
+- family: Scott
+  given: D.
+date-added: 2017-08-10 20:14:35 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340451
+eprint: astro-ph/0109111
+journal: \apj
+keywords: 'Galaxies: Formation, Galaxies: Intergalactic Medium, Methods: Numerical,
+  Radiative Transfer'
+month: June
+pages: 695--704
+papis_id: 193e5808b7bf25442f2a42cda86f3d66
+ref: razoumov.a.2002
+title: Cosmological Hydrogen Reionization with Three-dimensional Radiative Transfer
+type: article
+volume: '572'
+year: '2002'

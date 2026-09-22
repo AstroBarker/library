@@ -1,0 +1,39 @@
+abstract: We present here a series of numerical simulations of the development of
+  Kelvin-Helmholtz instability in a relativistically hot plasma. The physical parameters
+  in the unperturbed state are chosen to be representative of local conditions encountered
+  in Pulsar Wind Nebulae (PWNe), with a main magnetic field perpendicular to a mildly
+  relativistic shear layers. By using a numerical code for Relativistic MHD, we investigate
+  the effect of an additional magnetic field component aligned with the shear velocity,
+  and we follow the evolution of the instability to the saturation and turbulent regimes.
+  Based on the resulting flow structure, we then compute synchrotron maps in order
+  to evaluate the signature of Kelvin-Helmholtz instability on the emission and we
+  investigate how the time scale and the amplitude of the synchrotron modulations
+  depend on shear velocity and magnetic field. Finally we compare our results to the
+  observed variable features in the Crab Nebula. We show that the Kelvin-Helmholtz
+  instability cannot account for the wisps variability, but it might be responsible
+  for the time dependent filamentary structure observed in the main torus.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...454..393B
+arxivurl: http://arxiv.org/abs/astro-ph/0603481
+author: Bucciantini, N. and Del Zanna, L.
+author_list:
+- family: Bucciantini
+  given: N.
+- family: Del Zanna
+  given: L.
+date-added: 2017-08-10 23:48:39 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1051/0004-6361:20054491
+eprint: astro-ph/0603481
+journal: \aap
+keywords: 'instabilities, magnetohydrodynamics (MHD), methods: numerical, ISM: supernova
+  remnant, relativity, radiation mechanisms: non-thermal'
+month: August
+pages: 393--400
+papis_id: c4a1566de412829e62f18487661256ec
+ref: bucciantini.n.2006
+title: Local Kelvin-Helmholtz instability and synchrotron modulation in Pulsar Wind
+  Nebulae
+type: article
+volume: '454'
+year: '2006'

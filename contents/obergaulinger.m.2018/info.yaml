@@ -1,0 +1,43 @@
+abstract: We study the effects of magnetic fields and rotation on the core collapse
+  of a star of an initial mass of M=20 {M}o  using axisymmetric simulations coupling
+  special relativistic magnetohydrodynamics, an approximately relativistic gravitational
+  potential, and spectral neutrino transport. We compare models of the same core with
+  different, artificially added profiles of rotation and magnetic field. A model with
+  weak field and slow rotation does not produce an explosion, while stronger fields
+  and fast rotation open the possibility of explosions. Whereas the neutrino luminosities
+  of the exploding models are the same as or even less than those of the non-exploding
+  model, magnetic fields locally in equipartition with the gas pressure provide a
+  strong contribution to the shock revival and the acceleration of bipolar outflows.
+  Among the amplification processes generating such strong fields, we find the magneto-rotational
+  instability. However, our limited grid resolution allows us to find it only in limited
+  regions of the model with the strongest pre-collapse field ({10}11 {{G}}) and fastest
+  rotation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018JPhG...45h4001O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.00393
+author: Obergaulinger, M. and Just, O. and Aloy, M. A.
+author_list:
+- family: Obergaulinger
+  given: M.
+- family: Just
+  given: O.
+- family: Aloy
+  given: M. A.
+date-added: 2018-08-27 15:13:29 -0400
+date-modified: 2018-08-27 15:13:31 -0400
+doi: 10.1088/1361-6471/aac982
+eprint: '1806.00393'
+journal: Journal of Physics G Nuclear Physics
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar
+  and Stellar Astrophysics
+month: August
+number: '8'
+pages: 084001
+papis_id: 7cd3c3cf045209feb1f10940756bcfb7
+primaryclass: astro-ph.HE
+ref: obergaulinger.m.2018
+title: Core collapse with magnetic fields and rotation
+type: article
+volume: '45'
+year: '2018'

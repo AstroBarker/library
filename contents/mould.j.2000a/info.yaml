@@ -1,0 +1,96 @@
+abstract: Since the launch of Hubble Space Telescope (HST) 9 yr ago, Cepheid distances
+  to 25 galaxies have been determined for the purpose of calibrating secondary distance
+  indicators. Eighteen of these have been measured by the HST Key Project team, six
+  by the Supernova Calibration Project, and one independently by Tanvir. Collectively,
+  this work sets out an array of survey markers over the region within 25 Mpc of the
+  Milky Way. A variety of secondary distance indicators can now be calibrated, and
+  the accompanying four papers employ the full set of 25 galaxies to consider the
+  Tully-Fisher relation, the fundamental plane of elliptical galaxies, Type Ia supernovae,
+  and surface brightness fluctuations. When calibrated with Cepheid distances, each
+  of these methods yields a measurement of the Hubble constant and a corresponding
+  measurement uncertainty. We combine these measurements in this paper, together with
+  a model of the velocity field, to yield the best available estimate of the value
+  of H0 within the range of these secondary distance indicators and its uncertainty.
+  The uncertainty in the result is modeled in an extensive simulation we call the
+  ``virtual Key Project.'' The velocity-field model includes the influence of the
+  Virgo cluster, the Great Attractor, and the Shapley supercluster, but does not play
+  a significant part in determining the result. The result is H0=71+/-6 km s-1 Mpc-1.
+  The largest contributor to the uncertainty of this 67\% confidence level result
+  is the distance of the Large Magellanic Cloud, which has been assumed to be 50+/-3
+  kpc. This takes up the first 6.5\% of our 9\% error budget. Other contributors are
+  the photometric calibration of the WFPC2 instrument, which takes up 4.5\%, deviations
+  from uniform Hubble flow in the volume sampled (<~2\%), the composition sensitivity
+  of the Cepheid period-luminosity relation (4\%), and departures from a universal
+  reddening law (~1\%). These are the major components that , when combined in quadrature,
+  make up the 9\% total uncertainty. If the LMC distance modulus were systematically
+  smaller by 1 sigma than that adopted here, the derived value of the Hubble constant
+  would increase by 4 km s-1 Mpc-1. Most of the significant systematic errors are
+  capable of amelioration in future work. These include the uncertainty in the photometric
+  calibration of WFPC2, the LMC distance, and the reddening correction. A NICMOS study
+  is in its preliminary reduction phase, addressing the last of these concerns. Various
+  empirical analyses have suggested that Cepheid distance moduli are affected by metallicity
+  differences. If we adopted the composition sensitivity obtained in the Key Project's
+  study of M101, and employed the oxygen abundances measured spectroscopically in
+  each of the Cepheid fields we have studied, the value of the Hubble constant would
+  be reduced by 4\%+/-2\% to 68+/-6 km s-1 Mpc-1.  Based on observations with the
+  NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science Institute,
+  which is operated by AURA, Inc., under NASA contract NAS 5-26555.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...529..786M
+arxivurl: http://arxiv.org/abs/astro-ph/9909260
+author: Mould, J. R. and Huchra, J. P. and Freedman, W. L. and Kennicutt Jr., R. C.
+  and Ferrarese, L. and Ford, H. C. and Gibson, B. K. and Graham, J. A. and Hughes,
+  S. M. G. and Illingworth, G. D. and Kelson, D. D. and Macri, L. M. and Madore, B.
+  F. and Sakai, S. and Sebo, K. M. and Silbermann, N. A. and Stetson, P. B.
+author_list:
+- family: Mould
+  given: J. R.
+- family: Huchra
+  given: J. P.
+- family: Freedman
+  given: W. L.
+- family: Kennicutt Jr.
+  given: R. C.
+- family: Ferrarese
+  given: L.
+- family: Ford
+  given: H. C.
+- family: Gibson
+  given: B. K.
+- family: Graham
+  given: J. A.
+- family: Hughes
+  given: S. M. G.
+- family: Illingworth
+  given: G. D.
+- family: Kelson
+  given: D. D.
+- family: Macri
+  given: L. M.
+- family: Madore
+  given: B. F.
+- family: Sakai
+  given: S.
+- family: Sebo
+  given: K. M.
+- family: Silbermann
+  given: N. A.
+- family: Stetson
+  given: P. B.
+date-added: 2017-08-11 03:47:03 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308304
+eprint: astro-ph/9909260
+journal: \apj
+keywords: 'STARS: VARIABLES: CEPHEIDS, COSMOLOGY: OBSERVATIONS, COSMOLOGY: DISTANCE
+  SCALE, GALAXIES: DISTANCES AND REDSHIFTS, Stars: Variables: Cepheids, Cosmology:
+  Observations, Cosmology: Distance Scale, Galaxies: Distances and Redshifts'
+month: February
+pages: 786--794
+papis_id: a17a2a85db16473894de5e0e95182ffb
+ref: mould.j.2000a
+title: The Hubble Space Telescope Key Project on the Extragalactic Distance Scale.
+  XXVIII. Combining the Constraints on the Hubble Constant
+type: article
+volume: '529'
+year: '2000'

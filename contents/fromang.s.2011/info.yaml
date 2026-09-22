@@ -1,0 +1,53 @@
+abstract: 'Context. Based on the viscous disk theory, a number of recent studies have
+  suggested there is large-scale meridional circulation in protoplanetary disks. Such
+  a flow could account for the presence of crystalline silicates, including calcium-
+  and aluminum-rich inclusions (CAIs), at large distances from the sun.  Aims: This
+  paper aims at examining whether such large-scale flows exist in turbulent protoplanetary
+  disks.  Methods: High-resolution global hydrodynamical and magnetohydrodynamical
+  (MHD) numerical simulations of turbulent protoplanetary disks were used to infer
+  the properties of the flow in such disks.  Results: By performing hydrodynamic simulations
+  using explicit viscosity, we demonstrate that our numerical setup does not suffer
+  from any numerical artifact. The aforementioned meridional circulation is easily
+  recovered in viscous and laminar disks and is quickly established. In MHD simulations,
+  the magnetorotational instability drives turbulence in the disks. Averaging out
+  the turbulent fluctuations on a long timescale, the results fail to show any large-scale
+  meridional circulation. A detailed analysis of the simulations show that this lack
+  of meridional circulation is due to the turbulent stress tensor having a vertical
+  profile different from the viscous stress tensor. A simple model is provided that
+  successfully accounts for the structure of the flow in the bulk of the disk. In
+  addition to those results, possible deviations from standard vertically averaged
+  alpha disk models are suggested by the simulations and should be the focus of future
+  work.  Conclusions: Global MHD numerical simulations of fully ionized and turbulent
+  protoplanetary disks are not consistent with the existence of a large-scale meridional
+  flow. As a consequence, the presence of crystalline silicates at large distance
+  of the central star cannot be accounted for by that process as suggested by recent
+  models based on viscous disk theory.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...534A.107F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.0671
+author: Fromang, S. and Lyra, W. and Masset, F.
+author_list:
+- family: Fromang
+  given: S.
+- family: Lyra
+  given: W.
+- family: Masset
+  given: F.
+date-added: 2017-08-10 14:59:52 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1051/0004-6361/201016068
+eid: A107
+eprint: '1102.0671'
+journal: \aap
+keywords: 'methods: numerical, magnetohydrodynamics (MHD), accretion, accretion disks,
+  protoplanetary disks'
+month: October
+pages: A107
+papis_id: 13ca085f0a378269e2fe7c30cff93bb2
+primaryclass: astro-ph.EP
+ref: fromang.s.2011
+title: Meridional circulation in turbulent protoplanetary disks
+type: article
+volume: '534'
+year: '2011'

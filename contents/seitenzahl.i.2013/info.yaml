@@ -1,0 +1,56 @@
+abstract: 'Context. Manganese is predominantly synthesised in Type Ia supernova (SN
+  Ia) explosions. Owing to the entropy dependence of the Mn yield in explosive thermonuclear
+  burning, SNe Ia involving near Chandrasekhar-mass (MCh) white dwarfs (WDs) are predicted
+  to produce Mn-to-Fe ratios that significantly exceed those of SN Ia explosions involving
+  sub-Chandrasekhar mass primary WDs. Of all current supernova explosion models, only
+  SN Ia models involving near-MCh WDs produce [Mn/Fe] \greaterequivlnt{} 0.0.  Aims:
+  Using the specific yields for competing SN Ia scenarios, we aim to constrain the
+  relative fractions of exploding near-MCh to sub-MCh primary WDs in the Galaxy.  Methods:
+  We extract the Mn yields from three-dimensional thermonuclear supernova simulations
+  that refer to different initial setups and progenitor channels. We then compute
+  the chemical evolution of Mn in the solar neighborhood, assuming SNe Ia are made
+  up of different relative fractions of the considered explosion models.  Results:
+  We find that due to the entropy dependence of freeze-out yields from nuclear statistical
+  equilibrium, [Mn/Fe] depends strongly on the mass of the exploding WD, with near-MCh
+  WDs producing substantially higher [Mn/Fe] than sub-MCh WDs. Of all nucleosynthetic
+  sources potentially influencing the chemical evolution of Mn, only explosion models
+  involving the thermonuclear incineration of near-MCh WDs predict solar or super-solar
+  [Mn/Fe]. Consequently, we find in our chemical evolution calculations that the observed
+  [Mn/Fe] in the solar neighborhood at [Fe/H] \greaterequivlnt{} 0.0 cannot be reproduced
+  without near-MCh SN Ia primaries. Assuming that 50\% of all SNe Ia stem from explosive
+  thermonuclear burning in near-MCh WDs results in a good match to data.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...559L...5S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.2397
+author: Seitenzahl, I. R. and Cescutti, G. and Röpke, F. K. and Ruiter, A. J. and
+  Pakmor, R.
+author_list:
+- family: Seitenzahl
+  given: I. R.
+- family: Cescutti
+  given: G.
+- family: Röpke
+  given: F. K.
+- family: Ruiter
+  given: A. J.
+- family: Pakmor
+  given: R.
+date-added: 2017-08-11 07:12:41 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1051/0004-6361/201322599
+eid: L5
+eprint: '1309.2397'
+journal: \aap
+keywords: 'supernovae: general, nuclear reactions, nucleosynthesis, abundances, Galaxy:
+  abundances, Galaxy: evolution'
+month: November
+pages: L5
+papis_id: b95fabbf763e6a28e0779030e6de16b6
+primaryclass: astro-ph.SR
+ref: seitenzahl.i.2013
+title: 'Solar abundance of manganese: a case for near Chandrasekhar-mass Type Ia supernova
+  progenitors'
+type: article
+volume: '559'
+year: '2013'

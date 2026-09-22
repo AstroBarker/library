@@ -1,0 +1,82 @@
+abstract: 'Context. Classical novae (CNe) represent the major class of supersoft X-ray
+  sources (SSSs) in the central region of the galaxy M 31.  Aims: We performed a dedicated
+  monitoring of the M 31 central region with XMM-Newton and Chandra between Nov. 2007
+  and Feb. 2008 and between Nov. 2008 and Feb. 2009, respectively, to find SSS counterparts
+  of CNe, determine the duration of their SSS phase, and derive physical outburst
+  parameters.  Methods: We systematically searched our data for X-ray counterparts
+  of CNe, determined their X-ray light curves and characterised their spectra using
+  blackbody fits and white dwarf (WD) atmosphere models. Additionally, we determined
+  luminosity upper limits for all previously known X-ray emitting novae that are not
+  detected any more and for all CNe in our field of view with optical outbursts between
+  one year before the start of the X-ray monitoring (Oct. 2006) and its end (Feb.
+  2009).  Results: We detected 17 X-ray counterparts of CNe in M 31, only four of
+  which were previously known. These latter sources are still active 12.5, 11.0, 7.4
+  and 4.8 years after the optical outburst. In addition, we detected three known SSSs
+  without a nova counterpart. Four novae displayed short SSS phases (<100 d). Based
+  on these results and previous studies we compiled a catalogue of all novae with
+  SSS counterparts in M 31 known so far. We used this catalogue to derive correlations
+  between the following X-ray and optical nova parameters: turn-on time, turn-off
+  time, blackbody temperature (X-ray), t2 decay time and expansion velocity of the
+  ejected envelope (optical). Temperatures derived from blackbody fits and WD atmosphere
+  models were found to characterise the effective SSS temperatures almost equally
+  well. Furthermore, we found a first hint for the existence of a difference between
+  SSS parameters of novae associated with the stellar populations of the M 31 bulge
+  and disk. Additionally, we conducted a Monte Carlo Markov chain simulation on the
+  intrinsic fraction of novae with SSS phase. This simulation showed that the high
+  fraction of novae without detected SSS emission might be explained by the inevitably
+  incomplete coverage with X-ray observations in combination with a large part of
+  novae with short SSS states, as expected from the WD mass distribution.  Conclusions:
+  Our results confirm that novae are the major class of SSSs in the central region
+  of M 31. The catalogue of novae with X-ray counterpart, mainly based on our X-ray
+  monitoring, contains valuable insight into the physics of the nova process. In order
+  to verify our results with an increased sample, more monitoring observations are
+  needed.  Partly based on observations with XMM-Newton, an ESA Science Mission with
+  instruments and contributions directly funded by ESA Member States and NASA.All
+  tables are available in electronic form at http://www.aanda.orgTable 9 is also available
+  at the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/533/A52'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...533A..52H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.1461
+author: Henze, M. and Pietsch, W. and Haberl, F. and Hernanz, M. and Sala, G. and
+  Hatzidimitriou, D. and Della Valle, M. and Rau, A. and Hartmann, D. H. and Burwitz,
+  V.
+author_list:
+- family: Henze
+  given: M.
+- family: Pietsch
+  given: W.
+- family: Haberl
+  given: F.
+- family: Hernanz
+  given: M.
+- family: Sala
+  given: G.
+- family: Hatzidimitriou
+  given: D.
+- family: Della Valle
+  given: M.
+- family: Rau
+  given: A.
+- family: Hartmann
+  given: D. H.
+- family: Burwitz
+  given: V.
+date-added: 2017-08-10 19:47:24 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1051/0004-6361/201015887
+eid: A52
+eprint: '1010.1461'
+journal: \aap
+keywords: 'galaxies: individual: M 31, novae, cataclysmic variables, X-rays: binaries,
+  stars: general'
+month: September
+pages: A52
+papis_id: c002a79cb591da302f144c4f09cb1eb9
+primaryclass: astro-ph.HE
+ref: henze.m.2011
+title: X-ray monitoring of classical novae in the central region of M 31. II. Autumn
+  and winter 2007/2008 and 2008/2009
+type: article
+volume: '533'
+year: '2011'

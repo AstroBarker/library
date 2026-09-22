@@ -1,0 +1,26 @@
+abstract: We detail several algorithmic changes to the ADER Multi-Moment Finite-Volume
+  Methods (ADER + MMFV) of Norman and Finkel (2012) [2]. The DT recurrence relations
+  are improved, flux and source term differential transforms are saved, each are expanded
+  as polynomials, quadrature is removed from the algorithm, integration is performed
+  analytically, and a different Riemann solver admitting direct use of time-averaged
+  fluxes is used. These algorithmic changes were implemented and tested, and smooth
+  1-D shallow water experiments confirm the same or slightly better accuracy as well
+  as 2-3\texttimes{} lower runtimes compared to Norman and Finkel (2012) [2].
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013JCoPh.243..176N
+author: Norman, M. R.
+author_list:
+- family: Norman
+  given: M. R.
+date-added: 2017-08-10 14:02:49 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1016/j.jcp.2013.03.003
+journal: Journal of Computational Physics
+month: June
+pages: 176--178
+papis_id: 43a46599336cdc7f3e6eca2e64b4cc42
+ref: norman.m.2013
+title: Algorithmic improvements for schemes using the ADER time discretization
+type: article
+volume: '243'
+year: '2013'

@@ -1,0 +1,54 @@
+abstract: 'We propose a new explanation for the origin of angular momentum in galaxies
+  and their dark halos, in which the halos obtain their spin through the cumulative
+  acquisition of angular momentum from satellite accretion. In our model, the buildup
+  of angular momentum is a random walk process associated with the mass assembly history
+  of the halo''s major progenitor. We assume no correlation between the angular momenta
+  of accreted objects. The main role of tidal torques in this approach is to produce
+  the random tangential velocities of merging satellites. Using the extended Press-Schechter
+  approximation, we calculate the growth of mass, angular momentum, and spin parameter
+  lambda for many halos. Our random walk model reproduces the key features of the
+  angular momentum of halos found in LambdaCDM N-body simulations: a lognormal distribution
+  in lambda with an average of <lambda>~0.045 and dispersion sigmalambda=0.56, independent
+  of mass and redshift. The evolution of the spin parameter in individual halos in
+  this model is quite different from the steady increase with time of angular momentum
+  in the tidal torque picture. We find both in N-body simulations and in our random
+  walk model that the value of lambda changes significantly with time for a halo''s
+  major progenitor. It typically has a sharp increase due to major mergers and a steady
+  decline during periods of gradual accretion of small satellites. The model predicts
+  that, on average, the lambda of ~1012 Msolar halos that had major mergers after
+  redshift z=3 should be substantially larger than the lambda of those that did not.
+  Perhaps surprisingly, this suggests that halos that host later forming elliptical
+  galaxies should rotate faster than halos of spiral galaxies.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...581..799V
+arxivurl: http://arxiv.org/abs/astro-ph/0105349
+author: Vitvitska, M. and Klypin, A. A. and Kravtsov, A. V. and Wechsler, R. H. and
+  Primack, J. R. and Bullock, J. S.
+author_list:
+- family: Vitvitska
+  given: M.
+- family: Klypin
+  given: A. A.
+- family: Kravtsov
+  given: A. V.
+- family: Wechsler
+  given: R. H.
+- family: Primack
+  given: J. R.
+- family: Bullock
+  given: J. S.
+date-added: 2017-08-11 04:01:36 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344361
+eprint: astro-ph/0105349
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Dark Matter, Galaxies: Evolution, Galaxies:
+  Interactions'
+month: December
+pages: 799--809
+papis_id: 5a63f76a93ba5be7741222f1e01c9e6c
+ref: vitvitska.m.2002
+title: The Origin of Angular Momentum in Dark Matter Halos
+type: article
+volume: '581'
+year: '2002'

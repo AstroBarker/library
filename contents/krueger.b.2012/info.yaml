@@ -1,0 +1,55 @@
+abstract: We present a study exploring a systematic effect on the brightness of Type
+  Ia supernovae using numerical models that assume the single-degenerate paradigm.
+  Our investigation varied the central density of the progenitor white dwarf at flame
+  ignition, and considered its impact on the explosion yield, particularly the production
+  and distribution of radioactive 56Ni, which powers the light curve. We performed
+  a suite of two-dimensional simulations with randomized initial conditions, allowing
+  us to characterize the statistical trends that we present. The simulations indicate
+  that the production of Fe-group material is statistically independent of progenitor
+  central density, but the mass of stable Fe-group isotopes is tightly correlated
+  with central density, with a decrease in the production of 56Ni at higher central
+  densities. These results imply that progenitors with higher central densities produce
+  dimmer events. We provide details of the post-explosion distribution of 56Ni in
+  the models, including the lack of a consistent centrally located deficit of 56Ni,
+  which may be compared to observed remnants. By performing a self-consistent extrapolation
+  of our model yields and considering the main-sequence lifetime of the progenitor
+  star and the elapsed time between the formation of the white dwarf and the onset
+  of accretion, we develop a brightness-age relation that improves our prediction
+  of the expected trend for single degenerates and we compare this relation with observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757..175K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.1986
+author: Krueger, B. K. and Jackson, A. P. and Calder, A. C. and Townsley, D. M. and
+  Brown, E. F. and Timmes, F. X.
+author_list:
+- family: Krueger
+  given: B. K.
+- family: Jackson
+  given: A. P.
+- family: Calder
+  given: A. C.
+- family: Townsley
+  given: D. M.
+- family: Brown
+  given: E. F.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-10 17:37:13 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/757/2/175
+eid: '175'
+eprint: '1208.1986'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general, white dwarfs'
+month: October
+pages: '175'
+papis_id: ffd0e7bd93389a06f9c45494c6bd6290
+primaryclass: astro-ph.SR
+ref: krueger.b.2012
+title: 'Evaluating Systematic Dependencies of Type Ia Supernovae: The Influence of
+  Central Density'
+type: article
+volume: '757'
+year: '2012'

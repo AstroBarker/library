@@ -1,0 +1,53 @@
+abstract: We study the multi-dimensional properties of neutrino transfer inside supernova
+  cores by solving the Boltzmann equations for neutrino distribution functions in
+  genuinely six-dimensional phase space. Adopting representative snapshots of the
+  post-bounce core from other supernova simulations in three dimensions, we solve
+  the temporal evolution to stationary states of neutrino distribution functions using
+  our Boltzmann solver. Taking advantage of the multi-angle and multi-energy feature
+  realized by the S  n  method in our code, we reveal the genuine characteristics
+  of spatially three-dimensional neutrino transfer, such as nonradial fluxes and nondiagonal
+  Eddington tensors. In addition, we assess the ray-by-ray approximation, turning
+  off the lateral-transport terms in our code. We demonstrate that the ray-by-ray
+  approximation tends to propagate fluctuations in thermodynamical states around the
+  neutrino sphere along each radial ray and overestimate the variations between the
+  neutrino distributions on different radial rays. We find that the difference in
+  the densities and fluxes of neutrinos between the ray-by-ray approximation and the
+  full Boltzmann transport becomes ~20\%, which is also the case for the local heating
+  rate, whereas the volume-integrated heating rate in the Boltzmann transport is found
+  to be only slightly larger (~2\%) than the counterpart in the ray-by-ray approximation
+  due to cancellation among different rays. These results suggest that we should carefully
+  assess the possible influences of various approximations in the neutrino transfer
+  employed in current simulations of supernova dynamics. Detailed information on the
+  angle and energy moments of neutrino distribution functions will be profitable for
+  the future development of numerical methods in neutrino-radiation hydrodynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJS..216....5S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1403.4476
+author: Sumiyoshi, K. and Takiwaki, T. and Matsufuru, H. and Yamada, S.
+author_list:
+- family: Sumiyoshi
+  given: K.
+- family: Takiwaki
+  given: T.
+- family: Matsufuru
+  given: H.
+- family: Yamada
+  given: S.
+date-added: 2017-08-11 07:11:47 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0067-0049/216/1/5
+eid: '5'
+eprint: '1403.4476'
+journal: \apjs
+keywords: 'methods: numerical, neutrinos, radiative transfer, stars: massive, stars:
+  neutron, supernovae: general'
+month: January
+pages: '5'
+papis_id: 6dca30fa44c1df7a38a06972c10cad08
+primaryclass: astro-ph.HE
+ref: sumiyoshi.k.2015
+title: Multi-dimensional Features of Neutrino Transfer in Core-collapse Supernovae
+type: article
+volume: '216'
+year: '2015'

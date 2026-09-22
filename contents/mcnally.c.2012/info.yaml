@@ -1,0 +1,46 @@
+abstract: Recently, there has been a significant level of discussion of the correct
+  treatment of Kelvin-Helmholtz instability (KHI) in the astrophysical community.
+  This discussion relies largely on how the KHI test is posed and analyzed. We pose
+  a stringent test of the initial growth of the instability. The goal is to provide
+  a rigorous methodology for verifying a code on two-dimensional KHI. We ran the problem
+  in the Pencil Code, Athena, Enzo, NDSPMHD, and Phurbas. A strict comparison, judgment,
+  or ranking, between codes is beyond the scope of this work, though this work provides
+  the mathematical framework needed for such a study. Nonetheless, how the test is
+  posed circumvents the issues raised by tests starting from a sharp contact discontinuity
+  yet it still shows the poor performance of smoothed particle hydrodynamics (SPH).
+  We then comment on the connection between this behavior to the underlying lack of
+  zeroth-order consistency in SPH interpolation. We comment on the tendency of some
+  methods, particularly those with very low numerical diffusion, to produce secondary
+  Kelvin-Helmholtz billows on similar tests. Though the lack of a fixed, physical
+  diffusive scale in the Euler equations lies at the root of the issue, we suggest
+  that in some methods an extra diffusion operator should be used to damp the growth
+  of instabilities arising from grid noise. This statement applies particularly to
+  moving-mesh tessellation codes, but also to fixed-grid Godunov schemes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..201...18M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.1764
+author: McNally, C. P. and Lyra, W. and Passy, J.-C.
+author_list:
+- family: McNally
+  given: C. P.
+- family: Lyra
+  given: W.
+- family: Passy
+  given: J.-C.
+date-added: 2017-08-10 22:17:26 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0067-0049/201/2/18
+eid: '18'
+eprint: '1111.1764'
+journal: \apjs
+keywords: 'hydrodynamics, instabilities, methods: numerical'
+month: August
+pages: '18'
+papis_id: 94cba45645a02c254e6b07c0b0a57e7a
+primaryclass: astro-ph.IM
+ref: mcnally.c.2012
+title: A Well-posed Kelvin-Helmholtz Instability Test and Comparison
+type: article
+volume: '201'
+year: '2012'

@@ -1,0 +1,58 @@
+abstract: 'Context. The injection of hydrogen into the convection shell powered by
+  helium burning during the core helium flash is commonly encountered during the evolution
+  of metal-free and extremely metal-poor low-mass stars. Multidimensional hydrodynamic
+  simulations indicate that the hydrogen injection may also occur in more metal-rich
+  stars due to turbulent entrainment that accelerates the growth of the shell convection
+  zone and increases its size. However, one-dimensional stellar models cast doubts
+  that helium-flash hydrogen mixing does occur as it requires the crossing of an entropy
+  barrier at the helium-hydrogen interface.  Aims: With specifically designed multidimensional
+  hydrodynamic simulations, we aim to prove that an entropy barrier is no obstacle
+  to the growth of the helium-burning shell convection zone in the helium core of
+  a metal-rich Population I star, i.e. convection can penetrate into the hydrogen-rich
+  layers for these stars, too. We study whether this is also possible in one-dimensional
+  stellar evolutionary calculations.  Methods: We artificially shift the hydrogen-rich
+  layer closer to the outer edge of the helium-burning shell convection zone in a
+  Population I star with a mass of 1.25 M\&sun;, and simulate the subsequent evolution
+  in two and three dimensions, respectively. We also perform stellar evolutionary
+  calculations of the core helium flash in metal-rich stars implementing turbulent
+  entrainment by means of a simple prescription. These simulations were performed
+  with the Eulerian hydrodynamical code HERAKLES and the stellar evolution code STAREVOL,
+  respectively.  Results: Our hydrodynamical simulations show that the helium-burning
+  shell convection zone in the helium core moves across the entropy barrier and reaches
+  the hydrogen-rich layers. This leads to a mixing of protons into the hotter layers
+  of the core and to a rapid increase in the nuclear energy production at the upper
+  edge of the helium-burning convection shell - the hydrogen injection flash. As a
+  result, a second convection zone appears in the hydrogen-rich layers. In contrast
+  to one-dimensional models, the entropy barrier separating the two convective shells
+  from each other is largely permeable to chemical transport when allowing for multidimensional
+  flow and consequently hydrogen is continuously mixed deep into the helium core.
+  We find it difficult to replicate this behavior using one-dimensional stellar evolutionary
+  calculations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...533A..53M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.3260
+author: Mocák, M. and Siess, L. and Müller, E.
+author_list:
+- family: Mocák
+  given: M.
+- family: Siess
+  given: L.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 16:27:35 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1051/0004-6361/201116940
+eid: A53
+eprint: '1106.3260'
+journal: \aap
+keywords: 'stars: evolution, hydrodynamics, convection'
+month: September
+pages: A53
+papis_id: a584cca354c1fa0f31b9de3f37ddb7d7
+primaryclass: astro-ph.SR
+ref: mocak.m.2011a
+title: Multidimensional hydrodynamic simulations of the hydrogen injection flash
+type: article
+volume: '533'
+year: '2011'

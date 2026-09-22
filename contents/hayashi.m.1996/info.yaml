@@ -1,0 +1,45 @@
+abstract: We propose a model of hard X-ray flares in protostars observed by the ASCA
+  satellite. We assumed that the dipole magnetic field of the protostar threads the
+  protostellar disk and carried out 2.5 dimensional magnetohydrodynamic (MHD) simulations
+  of the disk-star interaction. The closed magnetic loops connecting the central star
+  and the disk are twisted by the rotation of the disk. As the twist accumulates,
+  magnetic loops expand and finally approach the open field configuration. A current
+  sheet is formed inside the expanding loops. In the presence of resistivity, magnetic
+  reconnection takes place in the current sheet. Outgoing magnetic island and postflare
+  loops are formed as a result of the reconnection. The timescale of this "flare"
+  is the order of the rotation period of the disk. The released magnetic energy partly
+  goes into the thermal energy and heats up the flaring plasma up to 108 K. The length
+  of the flaring loop is several times the radius of the central star, consistent
+  with observations. The speed of the hot plasmoid ejected by the reconnection is
+  200--400 km s-1 when the footpoint of the loop is at 0.03 AU from 1 Msolar protostar.
+  The hot plasma outflow can explain the speed and mass flow rate of optical jets.
+  Dense, cold, magnetically accelerated wind (v ~ 150--250 km s-1) emanates from the
+  surface of the disk along the partially open magnetic field lines threading the
+  disk. This dense, cold wind may correspond to high-velocity neutral winds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...468L..37H
+arxivurl: http://arxiv.org/abs/astro-ph/9606157
+author: Hayashi, M. R. and Shibata, K. and Matsumoto, R.
+author_list:
+- family: Hayashi
+  given: M. R.
+- family: Shibata
+  given: K.
+- family: Matsumoto
+  given: R.
+date-added: 2017-08-10 20:00:07 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/310222
+eprint: astro-ph/9606157
+journal: \apjl
+keywords: 'STARS: ACTIVITY, STARS: PRE-MAIN-SEQUENCE, ISM: JETS AND OUTFLOWS, ACCRETION,
+  ACCRETION DISKS, MAGNETOHYDRODYNAMICS: MHD'
+month: September
+pages: L37
+papis_id: f8292f1637a725c6058df8b6325a4cbb
+ref: hayashi.m.1996
+title: X-Ray Flares and Mass Outflows Driven by Magnetic Interaction between a Protostar
+  and Its Surrounding Disk
+type: article
+volume: '468'
+year: '1996'

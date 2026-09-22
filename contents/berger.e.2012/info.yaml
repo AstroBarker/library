@@ -1,0 +1,66 @@
+abstract: We present continued radio observations of the tidal disruption event Swift
+  J164449.3+573451 extending to deltat \approx{} 216 days after discovery. The data
+  were obtained with the EVLA, AMI Large Array, CARMA, the SMA, and the VLBA+Effelsberg
+  as part of a long-term program to monitor the expansion and energy scale of the
+  relativistic outflow, and to trace the parsec-scale environment around a previously
+  dormant supermassive black hole (SMBH). The new observations reveal a significant
+  change in the radio evolution starting at deltat \approx{} 1 month, with a brightening
+  at all frequencies that requires an increase in the energy by about an order of
+  magnitude, and an overall density profile around the SMBH of rhovpropr -3/2 (0.1-1.2
+  pc) with a significant flattening at r \approx{} 0.4-0.6 pc. The increase in energy
+  cannot be explained with continuous injection from an Lvpropt -5/3 tail, which is
+  observed in the X-rays. Instead, we conclude that the relativistic jet was launched
+  with a wide range of Lorentz factors, obeying E(> Gamma j )vpropGamma-2.5  j . The
+  similar ratios of duration to dynamical timescale for Sw 1644+57 and gamma-ray bursts
+  (GRBs) suggest that this result may be applicable to GRB jets as well. The radial
+  density profile may be indicative of Bondi accretion, with the inferred flattening
+  at r ~ 0.5 pc in good agreement with the Bondi radius for a ~few \texttimes{} 106
+  M \&sun; black hole. The density at ~0.5 pc is about a factor of 30 times lower
+  than inferred for the Milky Way Galactic Center, potentially due to a smaller number
+  of mass-shedding massive stars. From our latest observations (deltat \approx{} 216
+  days) we find that the jet energy is E  j, iso \approx{} 5 \texttimes{} 1053 erg
+  (Ej \approx{} 2.4 \texttimes{} 1051 erg for theta j  = 0.1), the radius is r \approx{}
+  1.2 pc, the Lorentz factor is Gamma j  \approx{} 2.2, the ambient density is n \approx{}
+  0.2 cm-3, and the projected angular size is r proj \approx{} 25 muas, below the
+  resolution of the VLBA+Effelsberg. Assuming no future changes in the observed evolution
+  and a final integrated total energy of Ej \approx{} 1052 erg, we predict that the
+  radio emission from Sw 1644+57 should be detectable with the EVLA for several decades
+  and will be resolvable with very long baseline interferometry in a few years.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...748...36B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.1697
+author: Berger, E. and Zauderer, A. and Pooley, G. G. and Soderberg, A. M. and Sari,
+  R. and Brunthaler, A. and Bietenholz, M. F.
+author_list:
+- family: Berger
+  given: E.
+- family: Zauderer
+  given: A.
+- family: Pooley
+  given: G. G.
+- family: Soderberg
+  given: A. M.
+- family: Sari
+  given: R.
+- family: Brunthaler
+  given: A.
+- family: Bietenholz
+  given: M. F.
+date-added: 2017-08-11 02:02:24 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/748/1/36
+eid: '36'
+eprint: '1112.1697'
+journal: \apj
+keywords: 'galaxies: nuclei, techniques: interferometric'
+month: March
+pages: '36'
+papis_id: 5f4bb5637238be5f69c0582770d7cc8f
+primaryclass: astro-ph.HE
+ref: berger.e.2012
+title: Radio Monitoring of the Tidal Disruption Event Swift J164449.3+573451. I. Jet
+  Energetics and the Pristine Parsec-scale Environment of a Supermassive Black Hole
+type: article
+volume: '748'
+year: '2012'

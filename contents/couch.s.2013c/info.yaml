@@ -1,0 +1,43 @@
+abstract: 'We study the dependence of the delayed neutrino-heating mechanism for core-collapse
+  supernovae on the equation of state (EOS). Using a simplified treatment of the neutrino
+  physics with a parameterized neutrino luminosity, we explore the relationship between
+  explosion time, mass accretion rate, and neutrino luminosity for a 15 M \&sun; progenitor
+  in 1D and 2D. We test the EOS most commonly used in core-collapse simulations: the
+  models of Lattimer \& Swesty and the model of Shen et al. We find that for a given
+  neutrino luminosity, "stiffer" EOS, where stiffness is determined by a combination
+  of nuclear matter properties not just incompressibility, K, explode later than "softer"
+  EOS. The EOS of Shen et al., being the stiffest EOS, by virtue of larger incompressibility
+  and symmetry energy slope, L, explodes later than any of the Lattimer \& Swesty
+  EOS models. Amongst the Lattimer \& Swesty EOS that all share the same value of
+  L, the explosion time increases with increasing nuclear incompressibility, K. We
+  find that this holds in both 1D and 2D, while for all of the models, explosions
+  are obtained more easily in 2D than in 1D. We argue that this EOS dependence is
+  due in part to a greater amount of acoustic flux from denser proto-neutron star
+  atmospheres that result from a softer EOS. We also discuss the relevance of approximate
+  instability criteria to realistic simulations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...765...29C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.4724
+author: Couch, S. M.
+author_list:
+- family: Couch
+  given: S. M.
+date-added: 2017-08-10 18:57:12 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/765/1/29
+eid: '29'
+eprint: '1206.4724'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, shock waves, stars: interiors, supernovae:
+  general'
+month: March
+pages: '29'
+papis_id: 7b4e5fe9bd4857d3adc9ba2d1a16569c
+primaryclass: astro-ph.HE
+ref: couch.s.2013c
+title: The Dependence of the Neutrino Mechanism of Core-collapse Supernovae on the
+  Equation of State
+type: article
+volume: '765'
+year: '2013'

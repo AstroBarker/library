@@ -1,0 +1,61 @@
+abstract: Phase-referenced multifrequency VLBI observations of supernova 1993J in
+  the nearby galaxy M81 at 34 epochs from t=30 to ~3000 days after shock breakout
+  show the detailed characteristics of the non-self-similar expansion. For the first
+  year, the supernova expanded almost freely, with the outer radius of the radio shell
+  ro~tm(t) and m(t)=0.919+/-0.019. During the following 4 years the deceleration grew
+  to m(t)=0.781+/-0.009, the expansion velocity slowed down by about half from originally
+  v0~17,200 km s-1 to just ~8900 km s-1, and the supernova swept up a mass of ~0.3
+  Msolar. Momentum conservation suggests that this mass is about equal to the mass
+  of the shocked ejecta, likely composed of all the low-mass envelope of the progenitor
+  left over after mass transfer to a purported binary companion, therefore supporting
+  the binary scenario. Subsequently the deceleration changed again, this time decreasing
+  to m(t)=0.860+/-0.011 from t=5 to 8 yr, consistent with hydrodynamic simulations.
+  This late upturn of m(t) may be caused by the massive inner ejecta, which have reached
+  the increasingly decelerated shocked ejecta, passing now through the reverse shock
+  and pushing the low-mass envelope. This upturn of m(t) is mirrored by changes in
+  the slope of the radio light curves and a flattening of the radio spectra, all consistent
+  with power laws, with spectral indices changing from alpha=-0.85+/-0.03 to -0.64+/-0.03.
+  The magnetic field in the radio shell region is inferred to decrease from originally
+  ~r-0.99o to ~r-1.45o toward the end of our observations. After 7 years the radio
+  light curves start to drop rapidly, suggesting that the supernova is now expanding
+  into a zone of the circumstellar medium with a steep density profile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...581..404B
+author: Bartel, N. and Bietenholz, M. F. and Rupen, M. P. and Beasley, A. J. and Graham,
+  D. A. and Altunin, V. I. and Venturi, T. and Umana, G. and Cannon, W. H. and Conway,
+  J. E.
+author_list:
+- family: Bartel
+  given: N.
+- family: Bietenholz
+  given: M. F.
+- family: Rupen
+  given: M. P.
+- family: Beasley
+  given: A. J.
+- family: Graham
+  given: D. A.
+- family: Altunin
+  given: V. I.
+- family: Venturi
+  given: T.
+- family: Umana
+  given: G.
+- family: Cannon
+  given: W. H.
+- family: Conway
+  given: J. E.
+date-added: 2017-08-11 06:37:16 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344198
+journal: \apj
+keywords: 'Stars: Supernovae: Individual: Alphanumeric: SN 1993J, Techniques: Interferometric'
+month: December
+pages: 404--426
+papis_id: 98956149084daf785b735cfd786a3843
+ref: bartel.n.2002
+title: SN 1993J VLBI. II. Related Changes of the Deceleration, Flux Density Decay,
+  and Spectrum
+type: article
+volume: '581'
+year: '2002'

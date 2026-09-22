@@ -1,0 +1,40 @@
+abstract: 'In this paper we present two new results. The first concerns the proper
+  identification of the critical Richardson number Ri(cr) above which there is no
+  longer turbulent mixing. Thus far, all studies have assumed that: Ri (cr) = Riell
+  (cr) = 1/4. However, since Riell(cr) determines the upper limit of a laminar regime
+  (superscript l), it has little relevance to stars where the problem is not to determine
+  the end point of a laminar regime but the endpoint of turbulence. We show that the
+  latter is characterized by Rit (cr), where t stands for turbulence, and has a value
+  four times larger than (1): Ri (cr) = Rit (cr) \approx{} 4 Riell (cr)\approx{} 1.
+  We also show that use of (2) instead of (1) changes the conclusions of recent studies.
+  Inclusion of radiative losses (characterized by the Peclet number Pe) which weaken
+  stable stratification and help turbulence, further changes (2) to (r stands for
+  radiative): Ri (cr) = Rir (cr) ~ (1+Pe)Pe-1 Rit (cr) which, for Pe<1, allows turbulence
+  to survive far longer than (2). Finally, turbulent convection generates gravity
+  waves that propagate into the radiative region and act as an additional source of
+  energy. This further changes Eq. (3) to (gw stands for gravity waves): Ri (cr) =
+  Rigw (cr) =Rir (1+etagw) where etagw >1. In conclusion, the successive inclusion
+  of relevant physical processes leads to a chain of increasing values of Ri (cr):
+  Ri (cr) = Riell (cr) --> Rit (cr)--> Ri^r (cr)--> Rigw (cr). The second result concerns
+  the dependence of the diffusivity D on Omega . We show that the commonly used expression
+  Dchi-1~ (Omega/N)2 is not correct for the regime Pe<1 that characterizes a stably
+  stratified regime. The proper Omega -dependence is: Dchi-1~ (Omega/N)4.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...384.1119C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2017-08-11 00:24:22 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1051/0004-6361:20011773
+journal: \aap
+keywords: 'SUN: GENERAL, SUN: INTERIOR, CONVECTION, TURBULENCE'
+month: March
+pages: 1119--1123
+papis_id: 19949b5a44ffcc6a465d3322218b7570
+ref: canuto.v.2002
+title: Critical Richardson numbers and gravity waves
+type: article
+volume: '384'
+year: '2002'

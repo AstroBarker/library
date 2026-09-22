@@ -1,0 +1,50 @@
+abstract: We present multidimensional simulations of the early convective phase preceding
+  ignition in a Type I X-ray burst using the low Mach number hydrodynamics code, MAESTRO.
+  A low Mach number approach is necessary in order to perform long-time integration
+  required to study such phenomena. Using MAESTRO, we are able to capture the expansion
+  of the atmosphere due to large-scale heating while capturing local compressibility
+  effects such as those due to reactions and thermal diffusion. We also discuss the
+  preparation of one-dimensional initial models and the subsequent mapping into our
+  multidimensional framework. Our method of initial model generation differs from
+  that used in previous multidimensional studies, which evolved a system through multiple
+  bursts in one dimension before mapping onto a multidimensional grid. In our multidimensional
+  simulations, we find that the resolution necessary to properly resolve the burning
+  layer is an order of magnitude greater than that used in the earlier studies mentioned
+  above. We characterize the convective patterns that form and discuss their resulting
+  influence on the state of the convective region, which is important in modeling
+  the outburst itself.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...728..118M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.0609
+author: Malone, C. M. and Nonaka, A. and Almgren, A. S. and Bell, J. B. and Zingale,
+  M.
+author_list:
+- family: Malone
+  given: C. M.
+- family: Nonaka
+  given: A.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Zingale
+  given: M.
+date-added: 2017-08-10 16:58:15 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/728/2/118
+eid: '118'
+eprint: '1012.0609'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: neutron, X-rays:
+  bursts'
+month: February
+pages: '118'
+papis_id: 09ac69b2840cba3f332b9aa85c27db34
+primaryclass: astro-ph.HE
+ref: malone.c.2011
+title: Multidimensional Modeling of Type I X-ray Bursts. I. Two-dimensional Convection
+  Prior to the Outburst of a Pure $^4$He Accretor
+type: article
+volume: '728'
+year: '2011'

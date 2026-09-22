@@ -1,0 +1,50 @@
+abstract: Following a simulation approach of recent publications, we explore the viability
+  of the neutrino-heating explosion mechanism's dependence on the spatial dimension.
+  Our results disagree with previous findings. While we also observe that two-dimensional
+  (2D) models explode for lower driving neutrino luminosity than spherically symmetric
+  (1D) models, we do not find that explosions in 3D occur easier and earlier than
+  in 2D. Moreover, we find that the average entropy of matter in the gain layer hardly
+  depends on the dimension and thus is not a good diagnostic quantity for the readiness
+  to explode. Instead, mass, integrated entropy, total neutrino-heating rate, and
+  non-radial kinetic energy in the gain layer are higher when models are closer to
+  explosion. Coherent, large-scale mass motions as typically associated with the standing
+  accretion-shock instability (SASI) are observed to be supportive for explosions
+  because they drive strong shock expansion and thus enlarge the gain layer. While
+  2D models with better angular resolution clearly explode more easily, the opposite
+  trend is seen in 3D. We interpret this as a consequence of the turbulent energy
+  cascade, which transports energy from small to large spatial scales in 2D, thus
+  fostering SASI activity. In contrast, the energy flow in 3D is in the opposite direction,
+  feeding fragmentation and vortex motions on smaller scales and thus making the 3D
+  evolution with finer grid resolution more similar to 1D. More favorable conditions
+  for explosions in 3D may therefore be tightly linked to efficient growth of low-order
+  SASI modes including nonaxisymmetric ones.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755..138H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4355
+author: Hanke, F. and Marek, A. and Müller, B. and Janka, H.-T.
+author_list:
+- family: Hanke
+  given: F.
+- family: Marek
+  given: A.
+- family: Müller
+  given: B.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:32:10 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/2/138
+eid: '138'
+eprint: '1108.4355'
+journal: \apj
+keywords: 'hydrodynamics, stars: interiors, supernovae: general, neutrinos'
+month: August
+pages: '138'
+papis_id: d478e2dd1e6154f9db92a4e80cb92d9d
+primaryclass: astro-ph.SR
+ref: hanke.f.2012
+title: Is Strong SASI Activity the Key to Successful Neutrino-driven Supernova Explosions?
+type: article
+volume: '755'
+year: '2012'

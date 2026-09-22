@@ -1,0 +1,51 @@
+abstract: We present a comprehensive observational and theoretical analysis of the
+  amplitudes and profiles of oscillations that occur during thermonuclear X-ray bursts
+  from weakly magnetized neutron stars in low-mass X-ray binaries. Our sample contains
+  59 oscillations from six sources observed with the Rossi X-Ray Timing Explorer.
+  The oscillations that we examined occurred primarily during the decaying portions
+  of bursts and lasted for several seconds each. We find that the oscillations are
+  as large as 15\% during the declines of the bursts and that they appear and disappear
+  because of intrinsic variations in their fractional amplitudes. However, the maxima
+  in the amplitudes are not related to the underlying flux in the burst. We derive
+  folded profiles for each oscillation train to study the pulse morphologies. The
+  mean rms amplitudes of the oscillations are 5\%, although the eclipsing source MXB
+  1659-298 routinely produces 10\% oscillations in weak bursts. We also produce combined
+  profiles from all of the oscillations from each source. Using these pulse profiles,
+  we place upper limits on the fractional amplitudes of harmonic and half-frequency
+  signals of 0.3\% and 0.6\%, respectively (95\% confidence). These correspond to
+  less than 5\% of the strongest signal at integer harmonics and less than 10\% of
+  the main signal at half-integer harmonics. We then compare the pulse morphologies
+  with theoretical profiles from models with one or two antipodal bright regions on
+  the surface of a rotating neutron star. We find that if one bright region is present
+  on the star, it must either lie near the rotational pole or cover nearly half the
+  neutron star in order to be consistent with the observed lack of harmonic signals.
+  If an antipodal pattern is present, the hot regions must form very near the rotational
+  equator. We discuss how these geometric constraints challenge current models for
+  the production of surface brightness variations during the cooling phases of X-ray
+  bursts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...581..550M
+arxivurl: http://arxiv.org/abs/astro-ph/0204501
+author: Muno, M. P. and Özel, F. and Chakrabarty, D.
+author_list:
+- family: Muno
+  given: M. P.
+- family: Özel
+  given: F.
+- family: Chakrabarty
+  given: D.
+date-added: 2017-08-10 22:25:51 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344152
+eprint: astro-ph/0204501
+journal: \apj
+keywords: 'Stars: Neutron, X-Rays: Bursts, X-Rays: Stars'
+month: December
+pages: 550--561
+papis_id: 31c42aaa347e6b9cb6146a718a2e69b4
+ref: muno.m.2002
+title: The Amplitude Evolution and Harmonic Content of Millisecond Oscillations in
+  Thermonuclear X-Ray Bursts
+type: article
+volume: '581'
+year: '2002'

@@ -1,0 +1,96 @@
+abstract: R-band intensity measurements along the light curve of Type Ia supernovae
+  (SNe Ia) discovered by the Supernova Cosmology Project (SCP) are fitted in brightness
+  to templates allowing a free parameter the time-axis width factor w\equiv{}s(1+z).
+  The data points are then individually aligned in the time axis, normalized, and
+  K-corrected back to the rest frame, after which the nearly 1300 normalized intensity
+  measurements are found to lie on a well-determined common rest-frame B-band curve,
+  which we call the ``composite curve.'' The same procedure is applied to 18 low-redshift
+  Cal{\'a}n/Tololo SNe with z<0.11 these nearly 300 B-band photometry points are found
+  to lie on the composite curve equally well. The SCP search technique produces several
+  measurements before maximum light for each supernova. We demonstrate that the linear
+  stretch factor, s, which parameterizes the light-curve timescale, appears independent
+  of z, and applies equally well to the declining and rising parts of the light curve.
+  In fact, the B-band template that best fits this composite curve fits the individual
+  supernova photometry data when stretched by a factor s with chi2/dof~1-thus, as
+  well as any parameterization can, given the current data sets. The measurement of
+  the date of explosion, however, is model dependent and not tightly constrained by
+  the current data. We also demonstrate the 1+z light-curve time-axis broadening expected
+  from cosmological expansion. This argues strongly against alternative explanations,
+  such as tired light, for the redshift of distant objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...558..359G
+arxivurl: http://arxiv.org/abs/astro-ph/0104382
+author: Goldhaber, G. and Groom, D. E. and Kim, A. and Aldering, G. and Astier, P.
+  and Conley, A. and Deustua, S. E. and Ellis, R. and Fabbro, S. and Fruchter, A.
+  S. and Goobar, A. and Hook, I. and Irwin, M. and Kim, M. and Knop, R. A. and Lidman,
+  C. and McMahon, R. and Nugent, P. E. and Pain, R. and Panagia, N. and Pennypacker,
+  C. R. and Perlmutter, S. and Ruiz-Lapuente, P. and Schaefer, B. and Walton, N. A.
+  and York, T.
+author_list:
+- family: Goldhaber
+  given: G.
+- family: Groom
+  given: D. E.
+- family: Kim
+  given: A.
+- family: Aldering
+  given: G.
+- family: Astier
+  given: P.
+- family: Conley
+  given: A.
+- family: Deustua
+  given: S. E.
+- family: Ellis
+  given: R.
+- family: Fabbro
+  given: S.
+- family: Fruchter
+  given: A. S.
+- family: Goobar
+  given: A.
+- family: Hook
+  given: I.
+- family: Irwin
+  given: M.
+- family: Kim
+  given: M.
+- family: Knop
+  given: R. A.
+- family: Lidman
+  given: C.
+- family: McMahon
+  given: R.
+- family: Nugent
+  given: P. E.
+- family: Pain
+  given: R.
+- family: Panagia
+  given: N.
+- family: Pennypacker
+  given: C. R.
+- family: Perlmutter
+  given: S.
+- family: Ruiz-Lapuente
+  given: P.
+- family: Schaefer
+  given: B.
+- family: Walton
+  given: N. A.
+- family: York
+  given: T.
+date-added: 2017-08-10 18:16:33 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/322460
+eprint: astro-ph/0104382
+journal: \apj
+keywords: 'Cosmology: Cosmological Parameters, Galaxies: High-Redshift, Stars: Supernovae:
+  General'
+month: September
+pages: 359--368
+papis_id: 7d5e3768109ffc22808c2ab2bee601aa
+ref: goldhaber.g.2001
+title: Timescale Stretch Parameterization of Type Ia Supernova B-Band Light Curves
+type: article
+volume: '558'
+year: '2001'

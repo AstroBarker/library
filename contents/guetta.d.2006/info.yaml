@@ -1,0 +1,37 @@
+abstract: We compare the luminosity function and rate inferred from the BATSE peak
+  flux distribution of short hard bursts (SHBs) with the redshift and luminosity distributions
+  of SHBs observed by Swift/HETE II. While the Swift/HETE II SHB sample is incompatible
+  with the SHB population that follows the star formation rate, it is compatible with
+  an SHB rate that reflects a distribution of delay times after the SFR. This would
+  be the case if SHBs were associated with binary neutron star mergers. The available
+  data allows, however, different interpretations. For example, a population whose
+  rate is independent of the redshift fits the data very well. The implied SHB rates
+  that we find range from ~8 to ~30~h703 Gpc-3 yr-1. This rate, which is comparable
+  to the rate of neutron star mergers estimated from statistics of binary pulsars,
+  is a much higher rate than what was previously estimated. We stress that our analysis,
+  which is based on observed SHBs, is limited to bursts with luminosities above 1049
+  erg/s. Weaker bursts may exist, but if so they are hardly detected by BATSE of Swift,
+  so their rate is very weakly constrained by current observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...453..823G
+arxivurl: http://arxiv.org/abs/astro-ph/0511239
+author: Guetta, D. and Piran, T.
+author_list:
+- family: Guetta
+  given: D.
+- family: Piran
+  given: T.
+date-added: 2017-08-10 15:55:40 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1051/0004-6361:20054498
+eprint: astro-ph/0511239
+journal: \aap
+keywords: 'cosmology: observations, gamma rays: bursts, gravitational waves'
+month: July
+pages: 823--828
+papis_id: d8babc5bd7a2b951d6bc2cba0410945e
+ref: guetta.d.2006
+title: The BATSE-Swift luminosity and redshift distributions of short-duration GRBs
+type: article
+volume: '453'
+year: '2006'

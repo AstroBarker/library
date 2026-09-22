@@ -1,0 +1,44 @@
+abstract: We assess the robustness of a low Mach number hydrodynamics algorithm for
+  modeling helium shell convection on the surface of a white dwarf in the context
+  of the sub-Chandrasekhar model for Type Ia supernovae. We use the low Mach number
+  stellar hydrodynamics code, MAESTRO, to perform three-dimensional, spatially adaptive
+  simulations of convection leading up to the point of the ignition of a burning front.
+  We show that the low Mach number hydrodynamics model provides a robust description
+  of the system.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764...97Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.4380
+author: Zingale, M. and Nonaka, A. and Almgren, A. S. and Bell, J. B. and Malone,
+  C. M. and Orvedahl, R. J.
+author_list:
+- family: Zingale
+  given: M.
+- family: Nonaka
+  given: A.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Malone
+  given: C. M.
+- family: Orvedahl
+  given: R. J.
+date-added: 2017-08-10 17:00:21 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/764/1/97
+eid: '97'
+eprint: '1212.4380'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: February
+pages: '97'
+papis_id: 0f3651ceec06a06777d44b050745ef11
+primaryclass: astro-ph.SR
+ref: zingale.m.2013
+title: Low Mach Number Modeling of Convection in Helium Shells on Sub-Chandrasekhar
+  White Dwarfs. I. Methodology
+type: article
+volume: '764'
+year: '2013'

@@ -1,0 +1,100 @@
+abstract: Flash-X is a highly composable multiphysics software system that can be         used
+  to simulate physical phenomena in several scientific         domains. It derives
+  some of its solvers from FLASH, which was         first released in 2000. Flash-X
+  has a new framework that relies         on abstractions and asynchronous communications
+  for performance         portability across a range of increasingly heterogeneous         hardware
+  platforms. Flash-X is meant primarily for solving         Eulerian formulations
+  of applications with compressible and/or         incompressible reactive flows.
+  It also has a built-in, versatile         Lagrangian framework that can be used
+  in many different ways,         including implementing tracers, particle-in-cell
+  simulations,         and immersed boundary methods.
+archiveprefix: arXiv
+author: Dubey, Anshu and Weide, Klaus and O'Neal, Jared and Dhruv, Akash and Couch,
+  Sean and Harris, J. Austin and Klosterman, Tom and Jain, Rajeev and Rudi, Johann
+  and Messer, Bronson and Pajkos, Michael and Carlson, Jared and Chu, Ran and Wahib,
+  Mohamed and Chawdhary, Saurabh and Ricker, Paul M. and Lee, Dongwook and Antypas,
+  Katie and Riley, Katherine M. and Daley, Christopher and Ganapathy, Murali and Timmes,
+  Francis X. and Townsley, Dean M. and Vanella, Marcos and Bachan, John and Rich,
+  Paul M. and Kumar, Shravan and Endeve, Eirik and Hix, W. Raphael and Mezzacappa,
+  Anthony and Papatheodore, Thomas
+author_list:
+- family: Dubey
+  given: Anshu
+- family: Weide
+  given: Klaus
+- family: O'Neal
+  given: Jared
+- family: Dhruv
+  given: Akash
+- family: Couch
+  given: Sean
+- family: Harris
+  given: J. Austin
+- family: Klosterman
+  given: Tom
+- family: Jain
+  given: Rajeev
+- family: Rudi
+  given: Johann
+- family: Messer
+  given: Bronson
+- family: Pajkos
+  given: Michael
+- family: Carlson
+  given: Jared
+- family: Chu
+  given: Ran
+- family: Wahib
+  given: Mohamed
+- family: Chawdhary
+  given: Saurabh
+- family: Ricker
+  given: Paul M.
+- family: Lee
+  given: Dongwook
+- family: Antypas
+  given: Katie
+- family: Riley
+  given: Katherine M.
+- family: Daley
+  given: Christopher
+- family: Ganapathy
+  given: Murali
+- family: Timmes
+  given: Francis X.
+- family: Townsley
+  given: Dean M.
+- family: Vanella
+  given: Marcos
+- family: Bachan
+  given: John
+- family: Rich
+  given: Paul M.
+- family: Kumar
+  given: Shravan
+- family: Endeve
+  given: Eirik
+- family: Hix
+  given: W. Raphael
+- family: Mezzacappa
+  given: Anthony
+- family: Papatheodore
+  given: Thomas
+doi: 10.1016/j.softx.2022.101168
+eid: '101168'
+eprint: '2208.11630'
+groups: Code/Software
+journal: SoftwareX
+keywords: Multiphysics, Simulation software, High-performance computing, Performance
+  portability, Physics - Computational Physics, Astrophysics - Instrumentation and
+  Methods for Astrophysics, Computer Science - Mathematical Software
+month: July
+pages: '101168'
+papis_id: 77b12be4eeab6f75e0cda79b32d93397
+primaryclass: physics.comp-ph
+ref: dubey.anshu.2022
+title: 'Flash-X: A multiphysics simulation software instrument'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2022SoftX..1901168D
+volume: '19'
+year: '2022'

@@ -1,0 +1,56 @@
+abstract: 'Context. The red supergiant (RSG) Betelgeuse is an irregular variable star.
+  Convection may play an important role in understanding this variability. Interferometric
+  observations can be interpreted using sophisticated simulations of stellar convection.  Aims:
+  We compare the visibility curves and closure phases obtained from our 3D simulation
+  of RSG convection with CO5BOLD to various interferometric observations of Betelgeuse
+  from the optical to the H band to characterize and measure the convection pattern
+  on this star.  Methods: We use a 3D radiative-hydrodynamics (RHD) simulation to
+  compute intensity maps in different filters and thus derive interferometric observables
+  using the post-processing radiative transfer code OPTIM3D. The synthetic visibility
+  curves and closure phases are compared to observations.  Results: We provide a robust
+  detection of the granulation pattern on the surface of Betelgeuse in both the optical
+  and the H band based on excellent fits to the observed visibility points and closure
+  phases. We determine that the Betelgeuse surface in the H band is covered by small
+  to medium scale (5-15 mas) convection-related surface structures and a large (\approx{}30
+  mas) convective cell. In this spectral region, H2O molecules are the main absorbers
+  and contribute to both the small structures and the position of the first null of
+  the visibility curve (i.e., the apparent stellar radius).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...515A..12C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.1407
+author: Chiavassa, A. and Haubois, X. and Young, J. S. and Plez, B. and Josselin,
+  E. and Perrin, G. and Freytag, B.
+author_list:
+- family: Chiavassa
+  given: A.
+- family: Haubois
+  given: X.
+- family: Young
+  given: J. S.
+- family: Plez
+  given: B.
+- family: Josselin
+  given: E.
+- family: Perrin
+  given: G.
+- family: Freytag
+  given: B.
+date-added: 2017-08-11 03:56:09 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1051/0004-6361/200913907
+eid: A12
+eprint: '1003.1407'
+journal: \aap
+keywords: 'stars: individual: Betelgeuse, stars: atmospheres, hydrodynamics, radiative
+  transfer, techniques: interferometric'
+month: June
+pages: A12
+papis_id: 557f2f3b15982bd70a7d5fe6720381ab
+primaryclass: astro-ph.SR
+ref: chiavassa.a.2010
+title: Radiative hydrodynamics simulations of red supergiant stars. II. Simulations
+  of convection on Betelgeuse match interferometric observations
+type: article
+volume: '515'
+year: '2010'

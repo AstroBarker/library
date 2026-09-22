@@ -1,0 +1,67 @@
+abstract: 'Current and upcoming cosmological observations allow us to probe structures
+  on smaller and smaller scales, entering highly nonlinear regimes. In order to obtain
+  theoretical predictions in these regimes, large cosmological simulations have to
+  be carried out. The promised high accuracy from observations makes the simulation
+  task very demanding: the simulations have to be at least as accurate as the observations.
+  This requirement can only be fulfilled by carrying out an extensive code verification
+  program. The first step of such a program is the comparison of different cosmology
+  codes including gravitational interactions only. In this paper, we extend a recently
+  carried out code comparison project to include five more simulation codes. We restrict
+  our analysis to a small cosmological volume which allows us to investigate properties
+  of halos. For the matter power spectrum and the mass function, the previous results
+  hold, with the codes agreeing at the 10\% level over wide dynamic ranges. We extend
+  our analysis to the comparison of halo profiles and investigate the halo count as
+  a function of local density. We introduce and discuss ParaView as a flexible analysis
+  tool for cosmological simulations, the use of which immensely simplifies the code
+  comparison task.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008CS\%26D....1a5003H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.1270
+author: Heitmann, K. and Lukić, Z. and Fasel, P. and Habib, S. and Warren, M. S. and
+  White, M. and Ahrens, J. and Ankeny, L. and Armstrong, R. and O'Shea, B. and Ricker,
+  P. M. and Springel, V. and Stadel, J. and Trac, H.
+author_list:
+- family: Heitmann
+  given: K.
+- family: Lukić
+  given: Z.
+- family: Fasel
+  given: P.
+- family: Habib
+  given: S.
+- family: Warren
+  given: M. S.
+- family: White
+  given: M.
+- family: Ahrens
+  given: J.
+- family: Ankeny
+  given: L.
+- family: Armstrong
+  given: R.
+- family: O'Shea
+  given: B.
+- family: Ricker
+  given: P. M.
+- family: Springel
+  given: V.
+- family: Stadel
+  given: J.
+- family: Trac
+  given: H.
+date-added: 2017-08-10 22:36:00 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1088/1749-4699/1/1/015003
+eid: '015003'
+eprint: '0706.1270'
+journal: Computational Science and Discovery
+month: October
+number: '1'
+pages: '015003'
+papis_id: 4f720a30e279c0d5236b8b4aa90f6211
+ref: heitmann.k.2008
+title: The cosmic code comparison project
+type: article
+volume: '1'
+year: '2008'

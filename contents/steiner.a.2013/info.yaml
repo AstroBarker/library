@@ -1,0 +1,48 @@
+abstract: Many of the currently available equations of state for core-collapse supernova
+  simulations give large neutron star radii and do not provide large enough neutron
+  star masses, both of which are inconsistent with some recent neutron star observations.
+  In addition, one of the critical uncertainties in the nucleon-nucleon interaction,
+  the nuclear symmetry energy, is not fully explored by the currently available equations
+  of state. In this article, we construct two new equations of state which match recent
+  neutron star observations and provide more flexibility in studying the dependence
+  on nuclear matter properties. The equations of state are also provided in tabular
+  form, covering a wide range in density, temperature, and asymmetry, suitable for
+  astrophysical simulations. These new equations of state are implemented into our
+  spherically symmetric core-collapse supernova model, which is based on general relativistic
+  radiation hydrodynamics with three-flavor Boltzmann neutrino transport. The results
+  are compared with commonly used equations of state in supernova simulations of 11.2
+  and 40 M \&sun; progenitors. We consider only equations of state which are fitted
+  to nuclear binding energies and other experimental and observational constraints.
+  We find that central densities at bounce are weakly correlated with L and that there
+  is a moderate influence of the symmetry energy on the evolution of the electron
+  fraction. The new models also obey the previously observed correlation between the
+  time to black hole formation and the maximum mass of an s = 4 neutron star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774...17S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.2184
+author: Steiner, A. W. and Hempel, M. and Fischer, T.
+author_list:
+- family: Steiner
+  given: A. W.
+- family: Hempel
+  given: M.
+- family: Fischer
+  given: T.
+date-added: 2017-08-10 17:51:31 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/1/17
+eid: '17'
+eprint: '1207.2184'
+journal: \apj
+keywords: 'equation of state, dense matter, hydrodynamics, stars: neutron, supernovae:
+  general'
+month: September
+pages: '17'
+papis_id: 285d67376ef569621b4cd41a7e97ec09
+primaryclass: astro-ph.SR
+ref: steiner.a.2013
+title: Core-collapse Supernova Equations of State Based on Neutron Star Observations
+type: article
+volume: '774'
+year: '2013'

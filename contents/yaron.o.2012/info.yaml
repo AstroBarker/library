@@ -1,0 +1,50 @@
+abstract: We have entered an era of massive data sets in astronomy. In particular,
+  the number of supernova (SN) discoveries and classifications has substantially increased
+  over the years from few tens to thousands per year. It is no longer the case that
+  observations of a few prototypical events encapsulate most spectroscopic information
+  about SNe, motivating the development of modern tools to collect, archive, organize,
+  and distribute spectra in general and SN spectra in particular. For this reason,
+  we have developed the Weizmann Interactive Supernova Data Repository (WISeREP)---an
+  SQL-based database (DB) with an interactive Web-based graphical interface. The system
+  serves as an archive of high-quality SN spectra, including both historical (legacy)
+  data and data that are accumulated by ongoing modern programs. The archive provides
+  information about objects, their spectra, and related metadata. Utilizing interactive
+  plots, we provide a graphical interface to visualize data, perform line identification
+  of the major relevant species, determine object redshifts, classify SNe, and measure
+  expansion velocities. Guest users may view and download spectra or other data that
+  have been placed in the public domain. Registered users may also view and download
+  data that are proprietary to specific programs with which they are associated. The
+  DB currently holds more than 8000 spectra, of which more than 5000 are public; the
+  latter include published spectra from the Palomar Transient Factory (PTF), all of
+  the SUSPECT (Supernova Spectrum) archive, the Caltech-Core-Collapse Program (CCCP),
+  the CfA SN spectra archive, and published spectra from the University of California,
+  Berkeley, SNDB repository. It offers an efficient and convenient way to archive
+  data and share it with colleagues, and we expect that data stored in this way will
+  be easy to access, increasing its visibility, usefulness, and scientific impact.
+  We encourage the SN community worldwide to make use of the data and tools provided
+  by WISeREP and to contribute data to be made globally available and archived for
+  posterity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PASP..124..668Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.1891
+author: Yaron, O. and Gal-Yam, A.
+author_list:
+- family: Yaron
+  given: O.
+- family: Gal-Yam
+  given: A.
+date-added: 2017-08-10 16:01:35 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1086/666656
+eprint: '1204.1891'
+journal: \pasp
+month: July
+pages: '668'
+papis_id: cb9c1958e7bd706b716f3afd2c7dfa23
+primaryclass: astro-ph.IM
+ref: yaron.o.2012
+title: WISeREP\mdashAn Interactive Supernova Data Repository
+type: article
+volume: '124'
+year: '2012'

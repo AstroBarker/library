@@ -1,0 +1,38 @@
+abstract: 'We perform direct three-dimensional numerical simulations for magnetohydrodynamic
+  (MHD) turbulence in a periodic box of size 2pi threaded by strong uniform magnetic
+  fields. We use a pseudospectral code with hyperviscosity and hyperdiffusivity to
+  solve the incompressible MHD equations. We analyze the structure of the eddies as
+  a function of scale. A straightforward calculation of anisotropy in wavevector space
+  shows that the anisotropy is scale independent. We discuss why this is not the true
+  scaling law and how the curvature of large-scale magnetic fields affects the power
+  spectrum and leads to the wrong conclusion. When we correct for this effect, we
+  find that the anisotropy of eddies depends on their size: smaller eddies are more
+  elongated than larger ones along local magnetic field lines. The results are consistent
+  with the scaling law k\vert{}\vert{}~k2/3\perp{} recently proposed by Goldreich
+  \& Sridhar. Here k\vert{}\vert{} (and k\perp{}) are wavenumbers measured relative
+  to the local magnetic field direction. However, we see some systematic deviations
+  that may be a sign of limitations to the model or our inability to fully resolve
+  the inertial range of turbulence in our simulations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...539..273C
+arxivurl: http://arxiv.org/abs/astro-ph/0003403
+author: Cho, J. and Vishniac, E. T.
+author_list:
+- family: Cho
+  given: J.
+- family: Vishniac
+  given: E. T.
+date-added: 2017-08-10 22:40:05 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309213
+eprint: astro-ph/0003403
+journal: \apj
+keywords: 'ISM: General, Magnetic Fields, Magnetohydrodynamics: MHD, Turbulence'
+month: August
+pages: 273--282
+papis_id: 0c4ad9f259c1eb5fc0ed30d4de10fadf
+ref: cho.j.2000
+title: The Anisotropy of Magnetohydrodynamic Alfvénic Turbulence
+type: article
+volume: '539'
+year: '2000'

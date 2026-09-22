@@ -1,0 +1,84 @@
+abstract: We describe the calibration status and data products pertaining to the GR2
+  and GR3 data releases of the Galaxy Evolution Explorer (GALEX). These releases have
+  identical pipeline calibrations that are significantly improved over the GR1 data
+  release. GALEX continues to survey the sky in the far-ultraviolet (FUV, ~154 nm)
+  and near-ultraviolet (NUV, ~232 nm) bands, providing simultaneous imaging with a
+  pair of photon-counting, microchannel plate, delay line readout detectors. These
+  1.25$\,^{\circ}$ field of view detectors are well suited to ultraviolet observations
+  because of their excellent red rejection and negligible background. A dithered mode
+  of observing and photon list output pose complex requirements on the data processing
+  pipeline, entangling detector calibrations, and aspect reconstruction algorithms.
+  Recent improvements have achieved photometric repeatability of 0.05 and 0.03 mAB
+  in the FUV and NUV, respectively. We have detected a long-term drift of order 1\%
+  FUV and 6\% NUV over the mission. Astrometric precision is of order 0.5" rms in
+  both bands. In this paper we provide the GALEX user with a broad overview of the
+  calibration issues likely to be confronted in the current release. Improvements
+  are likely as the GALEX mission continues into an extended phase with a healthy
+  instrument, no consumables, and increased opportunities for guest investigations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..173..682M
+author: Morrissey, P. and Conrow, T. and Barlow, T. A. and Small, T. and Seibert,
+  M. and Wyder, T. K. and Budavári, T. and Arnouts, S. and Friedman, P. G. and Forster,
+  K. and Martin, D. C. and Neff, S. G. and Schiminovich, D. and Bianchi, L. and Donas,
+  J. and Heckman, T. M. and Lee, Y.-W. and Madore, B. F. and Milliard, B. and Rich,
+  R. M. and Szalay, A. S. and Welsh, B. Y. and Yi, S. K.
+author_list:
+- family: Morrissey
+  given: P.
+- family: Conrow
+  given: T.
+- family: Barlow
+  given: T. A.
+- family: Small
+  given: T.
+- family: Seibert
+  given: M.
+- family: Wyder
+  given: T. K.
+- family: Budavári
+  given: T.
+- family: Arnouts
+  given: S.
+- family: Friedman
+  given: P. G.
+- family: Forster
+  given: K.
+- family: Martin
+  given: D. C.
+- family: Neff
+  given: S. G.
+- family: Schiminovich
+  given: D.
+- family: Bianchi
+  given: L.
+- family: Donas
+  given: J.
+- family: Heckman
+  given: T. M.
+- family: Lee
+  given: Y.-W.
+- family: Madore
+  given: B. F.
+- family: Milliard
+  given: B.
+- family: Rich
+  given: R. M.
+- family: Szalay
+  given: A. S.
+- family: Welsh
+  given: B. Y.
+- family: Yi
+  given: S. K.
+date-added: 2017-08-11 02:41:34 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/520512
+journal: \apjs
+keywords: 'Space Vehicles, Surveys, Telescopes, Ultraviolet: General'
+month: December
+pages: 682--697
+papis_id: e7832247ece95dc6176f45a6ac4acb45
+ref: morrissey.p.2007
+title: The Calibration and Data Products of GALEX
+type: article
+volume: '173'
+year: '2007'

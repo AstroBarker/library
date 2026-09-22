@@ -1,0 +1,47 @@
+abstract: We derive estimates for the characteristics of gravitational radiation from
+  stellar collapse, using recent models of the core collapse of Chandrasekhar-massed
+  white dwarfs (accretion-induced collapse), core-collapse supernovae and collapsars,
+  and the collapse of very massive stars (>~300 Msolar). We study gravitational wave
+  emission mechanisms using several estimation techniques, including two-dimensional
+  numerical computation of quadrupole wave emission, estimates of bar-mode strength,
+  estimates of r-mode emission, and estimates of waves from black hole ringing. We
+  also review the rate at which the relevant collapses are believed to occur, which
+  has a major impact on their relevance as astrophysical sources. Although the latest
+  supernova progenitor simulations produce cores rotating much slower than those used
+  in the past, we find that bar-mode and r-mode instabilities from core-collapse supernovae
+  remain among the leading candidate sources for second-generation detectors at the
+  Laser Interferometer Gravitational-Wave Observatory (LIGO II). Accretion-induced
+  collapse (AIC) of a white dwarf could produce gravitational wave signals similar
+  to those from core collapse. In the models that we examine, such collapses are not
+  unstable to bar modes; we note that models recently examined by Liu \& Lindblom,
+  which have slightly more angular momentum, are certainly unstable to bar formation.
+  Because AIC events are probably 1000 times less common than core-collapse supernovae,
+  the typical AIC event will be much farther away, and thus the observed waves will
+  be much weaker. In the most optimistic circumstances, we find that it may be possible
+  to detect gravitational waves from the collapse of 300 Msolar Population III stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...565..430F
+arxivurl: http://arxiv.org/abs/astro-ph/0106113
+author: Fryer, C. L. and Holz, D. E. and Hughes, S. A.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Holz
+  given: D. E.
+- family: Hughes
+  given: S. A.
+date-added: 2017-08-10 14:43:18 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/324034
+eprint: astro-ph/0106113
+journal: \apj
+keywords: 'Black Hole Physics, Gravitational Waves, Stars: Neutron, Stars: Supernovae:
+  General'
+month: January
+pages: 430--446
+papis_id: 143638eee0e1e6e4bfa448ca6764a4d0
+ref: fryer.c.2002
+title: Gravitational Wave Emission from Core Collapse of Massive Stars
+type: article
+volume: '565'
+year: '2002'

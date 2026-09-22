@@ -1,0 +1,59 @@
+abstract: We present the results of a spectroscopic monitoring campaign of the OB-star
+  companions to the eclipsing X-ray pulsars SMC X-1, LMC X-4 and Cen X-3. High-resolution
+  optical spectra obtained with UVES on the ESO Very Large Telescope are used to determine
+  the radial-velocity orbit of the OB (super)giants with high precision. The excellent
+  quality of the spectra provides the opportunity to measure the radial-velocity curve
+  based on individual lines, and to study the effect of possible distortions of the
+  line profiles due to e.g. X-ray heating on the derived radial-velocity amplitude.
+  Several spectral lines show intrinsic variations with orbital phase. The magnitude
+  of these variations depends on line strength, and thus provides a criterion to select
+  lines that do not suffer from distortions. The undistorted lines show a larger radial-velocity
+  amplitude than the distorted lines, consistent with model predictions. Application
+  of our line-selection criteria results in a mean radial-velocity amplitude K\_opt
+  of 20.2 $\pm$ 1.1, 35.1 \$\pm\$ 1.5, and 27.5 \$\pm\$ 2.3 km s-1 (1 sigma errors),
+  for the OB companion to SMC X-1, LMC X-4 and Cen X-3, respectively. Adding information
+  on the projected rotational velocity of the OB companion (derived from our spectra),
+  the duration of X-ray eclipse and orbital parameters of the X-ray pulsar (obtained
+  from literature), we arrive at a neutron star mass of 1.06^+0.11-0.10, 1.25^+0.11-0.10
+  and 1.34^+0.16-0.14 M\&sun; for SMC X-1, LMC X-4 and Cen X-3, respectively. The
+  mass of SMC X-1 is near the minimum mass (~1 M\&sun;) expected for a neutron star
+  produced in a supernova. We discuss the implications of the measured mass distribution
+  on the neutron-star formation mechanism, in relation to the evolutionary history
+  of the massive binaries.  Based on observations obtained at the European Southern
+  Observatory at Paranal, Chile (ESO program 68.D-0568). Tables 2, 5 and Figs. 2,
+  3 are only available in electronic form at http://www.aanda.org Fits data to Table
+  3 are only available in electronic form at the CDS via anonymous ftp to cdsarc.u-strasbg.fr
+  (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/473/523
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...473..523V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.2802
+author: van der Meer, A. and Kaper, L. and van Kerkwijk, M. H. and Heemskerk, M. H.
+  M. and van den Heuvel, E. P. J.
+author_list:
+- family: van der Meer
+  given: A.
+- family: Kaper
+  given: L.
+- family: van Kerkwijk
+  given: M. H.
+- family: Heemskerk
+  given: M. H. M.
+- family: van den Heuvel
+  given: E. P. J.
+date-added: 2017-08-10 23:31:49 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1051/0004-6361:20066025
+eprint: '0707.2802'
+journal: \aap
+keywords: 'stars: binaries: eclipsing, stars: neutron, stars: general, equation of
+  state, accretion, accretion disks'
+month: October
+pages: 523--538
+papis_id: 8a6c51659e38bd2683adc08969aba45a
+ref: van_der_meer.a.2007
+title: Determination of the mass of the neutron star in <ASTROBJ>SMC X-1</ASTROBJ>,
+  <ASTROBJ>LMC X-4</ASTROBJ>, and <ASTROBJ>Cen X-3</ASTROBJ> with VLT/UVES
+type: article
+volume: '473'
+year: '2007'

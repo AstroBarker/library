@@ -1,0 +1,47 @@
+abstract: Neutrino transport and neutrino-matter interactions are known to play an
+  important role in the evolution of neutron star mergers, and of their post-merger
+  remnants. Neutrinos cool remnants, drive post-merger winds, and deposit energy in
+  the low-density polar regions where relativistic jets may eventually form. Neutrinos
+  also modify the composition of the ejected material, impacting the outcome of nucleosynthesis
+  in merger outflows and the properties of the optical/infrared transients that they
+  power (kilonovae). So far, merger simulations have largely relied on approximate
+  treatments of the neutrinos (leakage, moments) that simplify the equations of radiation
+  transport in a way that makes simulations more affordable, but also introduces unquantifiable
+  errors in the results. To improve on these methods, we recently published a first
+  simulation of neutron star mergers using a low-cost Monte-Carlo algorithm for neutrino
+  radiation transport. Our transport code limits costs in optically thick regions
+  by placing a hard ceiling on the value of the absorption opacity of the fluid, yet
+  all approximations made within the code are designed to vanish in the limit of infinite
+  numerical resolution. We provide here an in-depth description of this algorithm,
+  of its implementation in the SpEC merger code, and of the expected impact of our
+  approximations in optically thick regions. We argue that the latter is a subdominant
+  source of error at the accuracy reached by current simulations, and for the interactions
+  currently included in our code. We also provide tests of the most important features
+  of this code.
+archiveprefix: arXiv
+author: Foucart, Francois and Duez, Matthew D. and Hebert, Francois and Kidder, Lawrence
+  E. and Pfeiffer, Harald P. and Scheel, Mark A.
+author_list:
+- family: Foucart
+  given: Francois
+- family: Duez
+  given: Matthew D.
+- family: Hebert
+  given: Francois
+- family: Kidder
+  given: Lawrence E.
+- family: Pfeiffer
+  given: Harald P.
+- family: Scheel
+  given: Mark A.
+eprint: '2103.16588'
+file: :foucart2021 - Implementation of Monte Carlo Transport in the General Relativistic
+  SpEC Code.pdf:PDF
+keywords: astro-ph.HE, gr-qc
+month: March
+papis_id: c04d9daf0c694e479f95ebaaba7f2150
+primaryclass: astro-ph.HE
+ref: foucart.francois.2021
+title: Implementation of Monte-Carlo transport in the general relativistic SpEC code
+type: article
+year: '2021'

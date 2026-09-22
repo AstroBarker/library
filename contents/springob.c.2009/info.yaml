@@ -1,0 +1,48 @@
+abstract: We present the SFI++ dataset, a homogeneously derived catalog of photometric
+  and rotational properties and the Tully-Fisher distances and peculiar velocities
+  derived from them. We make use of digital optical images, optical long-slit spectra,
+  and global HI line profiles to extract parameters of relevance to disk scaling relations,
+  incorporating several previously published datasets as well as a new photometric
+  sample of some 2000 objects. According to the completeness of available redshift
+  samples over the sky area, we exploit both a modified percolation algorithm and
+  the Voronoi-Delaunay method to assign individual galaxies to groups as well as clusters,
+  thereby reducing scatter introduced by local orbital motions. We also provide corrections
+  to the peculiar velocities for both homogeneous and inhomogeneous Malmquist bias,
+  making use of the 2MASS Redshift Survey density field to approximate large scale
+  structure. We summarize the sample selection criteria, corrections made to raw observational
+  parameters, the grouping techniques, and our procedure for deriving peculiar velocities.
+  The final SFI++ peculiar velocity catalog of 4861 field and cluster galaxies is
+  large enough to permit the study not just of the global statistics of large scale
+  flows but also of the {\it details} of the local velocity field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..182..474S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.0647
+author: Springob, C. M. and Masters, K. L. and Haynes, M. P. and Giovanelli, R. and
+  Marinoni, C.
+author_list:
+- family: Springob
+  given: C. M.
+- family: Masters
+  given: K. L.
+- family: Haynes
+  given: M. P.
+- family: Giovanelli
+  given: R.
+- family: Marinoni
+  given: C.
+date-added: 2017-08-10 16:39:20 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0067-0049/182/1/474
+eprint: '0705.0647'
+journal: \apjs
+month: May
+pages: 474--475
+papis_id: c70836fd98e07cccfd64847e50d9d22d
+ref: springob.c.2009
+title: 'Erratum: ``SFI++ II: A New I-Band Tully-Fisher Catalog, Derivation of Peculiar
+  Velocities and Data Set Properties'''' <A href=``bib_query?2007ApJS..172..599S''''>
+  (2007, ApJS, 172, 599)</A>'
+type: article
+volume: '182'
+year: '2009'

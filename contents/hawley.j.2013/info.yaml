@@ -1,0 +1,53 @@
+abstract: 'Global disk simulations provide a powerful tool for investigating accretion
+  and the underlying magnetohydrodynamic turbulence driven by magneto-rotational instability
+  (MRI). Using them to accurately predict quantities such as stress, accretion rate,
+  and surface brightness profile requires that purely numerical effects, arising from
+  both resolution and algorithm, be understood and controlled. We use the flux-conservative
+  Athena code to conduct a series of experiments on disks having a variety of magnetic
+  topologies to determine what constitutes adequate resolution. We develop and apply
+  several resolution metrics: langQz rang and langQ phirang, the ratio of the grid
+  zone size to the characteristic MRI wavelength, alphamag, the ratio of the Maxwell
+  stress to the magnetic pressure, and \langle B\_R^2\rangle /\langle B\_\phi ^2\rangle,
+  the ratio of radial to toroidal magnetic field energy. For the initial conditions
+  considered here, adequate resolution is characterized by langQz rang >= 15, langQ
+  phirang >= 20, alphamag \approx{} 0.45, and \langle B\_R^2\rangle /\langle B\_\phi
+  ^2\rangle \approx 0.2. These values are associated with >=35 zones per scaleheight
+  H, a result consistent with shearing box simulations. Numerical algorithm is also
+  important. Use of the Harten-Lax-van Leer-Einfeldt flux solver or second-order interpolation
+  can significantly degrade the effective resolution compared to the Harten-Lax-van
+  Leer discontinuities flux solver and third-order interpolation. Resolution at this
+  standard can be achieved only with large numbers of grid zones, arranged in a fashion
+  that matches the symmetries of the problem and the scientific goals of the simulation.
+  Without it, however, quantitative measures important to predictions of observables
+  are subject to large systematic errors.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...772..102H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.0243
+author: Hawley, J. F. and Richers, S. A. and Guan, X. and Krolik, J. H.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Richers
+  given: S. A.
+- family: Guan
+  given: X.
+- family: Krolik
+  given: J. H.
+date-added: 2017-08-10 14:47:55 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/772/2/102
+eid: '102'
+eprint: '1306.0243'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, magnetohydrodynamics: MHD,
+  methods: numerical'
+month: August
+pages: '102'
+papis_id: bd24387eabaa8e628a5bcde1712b672f
+primaryclass: astro-ph.IM
+ref: hawley.j.2013
+title: Testing Convergence for Global Accretion Disks
+type: article
+volume: '772'
+year: '2013'

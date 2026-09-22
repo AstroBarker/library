@@ -1,0 +1,52 @@
+abstract: 'Spectroscopic confirmation of galaxies at z ~ 7 and above has been extremely
+  difficult, owing to a drop in intensity of Lyalpha emission in comparison with samples
+  at z ~ 6. This crucial finding could potentially signal the ending of cosmic reionization.
+  However, it is based on small data sets, often incomplete and heterogeneous in nature.
+  We introduce a flexible Bayesian framework, useful to interpret such evidence. Within
+  this framework, we implement two simple phenomenological models: a smooth one where
+  the distribution of Lyalpha is attenuated by a factor epsilons with respect to z
+  ~ 6 and a patchy one where a fraction epsilonp is absorbed/non-emitted while the
+  rest is unabsorbed. From a compilation of 39 observed z ~ 7 galaxies, we find epsilons
+  = 0.69 $\pm$ 0.12 and epsilonp = 0.66 \$\pm\$ 0.16. The models can be used to compute
+  fractions of emitters above any equivalent width W. For W > 25 {\AA}, we find X
+  25  z = 7 = 0.37 \$\pm\$ 0.11 (0.14 \$\pm\$ 0.06) for galaxies fainter (brighter)
+  than M UV = -20.25 for the patchy model, consistent with previous work, but with
+  smaller uncertainties by virtue of our full use of the data. At z ~ 8 we combine
+  new deep (5sigma flux limit 10-17 erg s-1 cm-2) Keck/NIRSPEC observations of a bright
+  Y-dropout identified by our Brightest of Reionization Galaxies Survey, with those
+  of three objects from the literature and find that the inference is inconclusive.
+  We compute predictions for future near-infrared spectroscopic surveys and show that
+  it is challenging but feasible to constrain the distribution of Lyalpha emitters
+  at z ~ 8 and distinguish between models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747...27T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.0016
+author: Treu, T. and Trenti, M. and Stiavelli, M. and Auger, M. W. and Bradley, L.
+  D.
+author_list:
+- family: Treu
+  given: T.
+- family: Trenti
+  given: M.
+- family: Stiavelli
+  given: M.
+- family: Auger
+  given: M. W.
+- family: Bradley
+  given: L. D.
+date-added: 2017-08-10 20:25:34 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/1/27
+eid: '27'
+eprint: '1201.0016'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: high-redshift'
+month: March
+pages: '27'
+papis_id: 7de63f00103a8908d5ff697243a2e43d
+ref: treu.t.2012
+title: Inferences on the Distribution of Ly$α$ Emission of z ̃ 7 and z \̃ 8 Galaxies
+type: article
+volume: '747'
+year: '2012'

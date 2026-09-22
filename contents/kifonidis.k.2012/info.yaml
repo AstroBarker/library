@@ -1,0 +1,60 @@
+abstract: 'Aims: We describe and study a family of new multigrid iterative solvers
+  for the multidimensional, implicitly discretized equations of hydrodynamics. Schemes
+  of this class are free of the Courant-Friedrichs-Lewy condition. They are intended
+  for simulations in which widely differing wave propagation timescales are present.
+  A preferred solver in this class is identified. Applications to some simple stiff
+  test problems that are governed by the compressible Euler equations, are presented
+  to evaluate the convergence behavior, and the stability properties of this solver.
+  Algorithmic areas are determined where further work is required to make the method
+  sufficiently efficient and robust for future application to difficult astrophysical
+  flow problems.  Methods: The basic equations are formulated and discretized on non-orthogonal,
+  structured curvilinear meshes. Roe''s approximate Riemann solver and a second-order
+  accurate reconstruction scheme are used for spatial discretization. Implicit Runge-Kutta
+  (ESDIRK) schemes are employed for temporal discretization. The resulting discrete
+  equations are solved with a full-coarsening, non-linear multigrid method. Smoothing
+  is performed with multistage-implicit smoothers. These are applied here to the time-dependent
+  equations by means of dual time stepping.  Results: For steady-state problems, our
+  results show that the efficiency of the present approach is comparable to the best
+  implicit solvers for conservative discretizations of the compressible Euler equations
+  that can be found in the literature. The use of red-black as opposed to symmetric
+  Gauss-Seidel iteration in the multistage-smoother is found to have only a minor
+  impact on multigrid convergence. This should enable scalable parallelization without
+  having to seriously compromise the method''s algorithmic efficiency. For time-dependent
+  test problems, our results reveal that the multigrid convergence rate degrades with
+  increasing Courant numbers (i.e. time step sizes). Beyond a Courant number of nine
+  thousand, even complete multigrid breakdown is observed. Local Fourier analysis
+  indicates that the degradation of the convergence rate is associated with the coarse-grid
+  correction algorithm. An implicit scheme for the Euler equations that makes use
+  of the present method was, nevertheless, able to outperform a standard explicit
+  scheme on a time-dependent problem with a Courant number of order 1000.  Conclusions:
+  For steady-state problems, the described approach enables the construction of parallelizable,
+  efficient, and robust implicit hydrodynamics solvers. The applicability of the method
+  to time-dependent problems is presently restricted to cases with moderately high
+  Courant numbers. This is due to an insufficient coarse-grid correction of the employed
+  multigrid algorithm for large time steps. Further research will be required to help
+  us to understand and overcome the observed multigrid convergence difficulties for
+  time-dependent problems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...544A..47K
+author: Kifonidis, K. and Müller, E.
+author_list:
+- family: Kifonidis
+  given: K.
+- family: Müller
+  given: E.
+date-added: 2017-08-11 00:43:11 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1051/0004-6361/201116979
+eid: A47
+journal: \aap
+keywords: 'methods: numerical, hydrodynamics, magnetohydrodynamics (MHD), relativistic
+  processes, radiative transfer, stars: evolution'
+month: August
+pages: A47
+papis_id: 32f4ff514f365cf8526fcc089d093437
+ref: kifonidis.k.2012
+title: On multigrid solution of the implicit equations of hydrodynamics. Experiments
+  for the compressible Euler equations in general coordinates
+type: article
+volume: '544'
+year: '2012'

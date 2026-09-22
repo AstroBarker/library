@@ -1,0 +1,41 @@
+abstract: 'Context. Many problems in astrophysics feature flows which are close to
+  hydrostatic equilibrium. However, standard numerical schemes for compressible hydrodynamics
+  may be deficient in approximating this stationary state, where the pressure gradient
+  is nearly balanced by gravitational forces.  Aims: We aim to develop a second-order
+  well-balanced scheme for the Euler equations. The scheme is designed to mimic a
+  discrete version of the hydrostatic balance. It therefore can resolve a discrete
+  hydrostatic equilibrium exactly (up to machine precision) and propagate perturbations,
+  on top of this equilibrium, very accurately.  Methods: A local second-order hydrostatic
+  equilibrium preserving pressure reconstruction is developed. Combined with a standard
+  central gravitational source term discretization and numerical fluxes that resolve
+  stationary contact discontinuities exactly, the well-balanced property is achieved.  Results:
+  The resulting well-balanced scheme is robust and simple enough to be very easily
+  implemented within any existing computer code that solves time explicitly or implicitly
+  the compressible hydrodynamics equations. We demonstrate the performance of the
+  well-balanced scheme for several astrophysically relevant applications: wave propagation
+  in stellar atmospheres, a toy model for core-collapse supernovae, convection in
+  carbon shell burning, and a realistic proto-neutron star.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016A\%26A...587A..94K
+author: Käppeli, R. and Mishra, S.
+author_list:
+- family: Käppeli
+  given: R.
+- family: Mishra
+  given: S.
+date-added: 2017-09-20 13:27:39 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1051/0004-6361/201527815
+eid: A94
+journal: \aap
+keywords: 'hydrodynamics, methods: numerical, convection, stars: interiors, stars:
+  neutron'
+month: March
+pages: A94
+papis_id: d0464b9a9b0838516ed9419def232f11
+ref: kappeli.r.2016
+title: A well-balanced finite volume scheme for the Euler equations with gravitation.
+  The exact preservation of hydrostatic equilibrium with arbitrary entropy stratification
+type: article
+volume: '587'
+year: '2016'

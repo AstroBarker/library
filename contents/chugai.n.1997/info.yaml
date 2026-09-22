@@ -1,0 +1,67 @@
+abstract: The Hubble Space Telescope 2000-8000 {\AA} spectrum of SN 1987A observed
+  on 1995 January 7 (7.87 yr after the explosion) is dominated by Halpha and UV lines,
+  including Mg II-Mg I lambda2825 (equal to Halpha in luminosity), Fe II UV 2 (two-thirds
+  the intensity of Halpha), Fe II UV 3 (one-half the intensity of Halpha), and a 3730
+  {\AA} emission feature identified with a blend of [O II] lambda3727 and Fe I emission
+  lines. [O I] lambda6300 and lines of [Ca II] and Na I, as well as some Fe II optical
+  forbidden and permitted lines are present at visual wavelengths. Also present are
+  a number of weak emission features, which are presumably metal lines produced by
+  photon degradation as a result of reprocessing of UV radiation into metal lines.
+  Modeling the Mg II-Mg I lines provides the velocity of the outer visible radius
+  of the envelope, 9000 +/- 500 km s-1 in the Mg II lambda2800 line, which is consistent
+  with the earlier direct HST imaging at near-UV wavelengths. The UV/optical emission
+  lines originate from the radioactive luminescence of the cool gas (T ~ 130-160 K).
+  The metal lines reflect the instantaneous reprocessing of the energy deposited from
+  44Ti radioactive decays through collisions with fast electrons, while the Halpha
+  emission primarily comes from the recombination of previously ionized hydrogen.
+  The overall luminosity of the Fe II emission lines, ~1035 ergs s-1, can be explained
+  if the bulk of the positrons from a mass (1-2) \texttimes{} 10-4 M\&sun; of 44Ti
+  release their energy in the iron-rich material, which suggests the presence of a
+  magnetic field B > 5 \texttimes{} 10-13 G prohibiting the escape of positrons into
+  oxygen and hydrogen gas. The ionized fraction in the iron-rich material is small
+  (0.2-0.3), and the total UV/optical emission from Fe I should be comparable to that
+  from Fe II. Most of the 1036 ergs s-1 deposited by the 44Ti positrons should be
+  emitted in the Fe II 26 mum line. The observed Halpha luminosity decrease, by 5
+  orders of magnitude between the ages of 1 to 8 yr, is reproduced in a time-dependent
+  model of ionization and cooling with the ``standard'' amount of radioactive nuclides.
+  However, an additional source of energy at the present epoch with a deposition rate
+  30 ergs s-1 g-1 (~1036 ergs s-1 in the whole envelope) is not ruled out. The present
+  average temperature in the hydrogen envelope predicted by the time-dependent model
+  is 130 K, which is lower than the value T ~ 350 K obtained from the observed Balmer
+  continuum shape. However, the shape is affected by a possible contribution of metal
+  lines to the Balmer continuum. The luminosity of the [O I] lambda6300 doublet is
+  consistent with that expected for the deposited energy of gamma-rays from (1-2)
+  \texttimes{} 10-4 M\&sun; of 44Ti for an assumed 1.5-2 M\&sun; of oxygen. If the
+  oxygen mass does not exceed 2 M\&sun;, 1 \texttimes{} 10-4 M\&sun; is a lower limit
+  for the amount of 44Ti in SN 1987A. The maximum fraction of the 44Ti positron energy
+  deposited into oxygen-rich material does not exceed 5\%, which is consistent with
+  positron trapping in Fe-rich material. The [O I] lambda6300 line intensity rules
+  out the presence of a central source of gamma-radiation (hnu > 100 keV) with a luminosity
+  Lgamma > 4 \texttimes{} 1036 ergs s-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...483..925C
+author: Chugai, N. N. and Chevalier, R. A. and Kirshner, R. P. and Challis, P. M.
+author_list:
+- family: Chugai
+  given: N. N.
+- family: Chevalier
+  given: R. A.
+- family: Kirshner
+  given: R. P.
+- family: Challis
+  given: P. M.
+date-added: 2017-08-10 15:28:22 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304253
+journal: \apj
+keywords: 'Line: Formation, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Supernovae: Individual: Alphanumeric: SN 1987A'
+month: July
+pages: 925--940
+papis_id: 15b001ac29ba0f94179a7baf7f886200
+ref: chugai.n.1997
+title: 'Hubble Space Telescope Spectrum of SN 1987A at an Age of 8 Years: Radioactive
+  Luminescence of Cool Gas'
+type: article
+volume: '483'
+year: '1997'

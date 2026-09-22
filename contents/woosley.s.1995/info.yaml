@@ -1,0 +1,49 @@
+abstract: The nucleosynthetic yield of isotopes lighter than A = 66 (zinc) is determined
+  for a grid of stellar masses and metallicities including stars of 11, 12, 13, 15,
+  18, 19, 20, 22, 25, 30, 35, and 40 Msun and metallicities Z = 0, l0-4, 0.01, 0.1,
+  and 1 times solar (a slightly reduced mass grid is employed for nonsolar metallicities).
+  Altogether 78 different model supernova explosions are calculated. In each case
+  nucleosynthesis has already been determined for 200 isotopes in each of 600 to 1200
+  zones of the presupernova star, including the effects of time dependent convection.
+  Here each star is exploded using a piston to give a specified final kinetic energy
+  at infinity (typically 1.2 \texttimes{} 1051 ergs), and the explosive modifications
+  to the nucleosynthesis, including the effects of neutrino irradiation, determined.
+  A single value of the critical 12C(alpha,gamma) 16O reaction rate corresponding
+  to 8(300 keV) = 170 keV barns is used in all calculations. The synthesis of each
+  isotope is discussed along with its sensitivity to model parameters. In each case,
+  the final mass of the collapsed remnant is also determined and often found not to
+  correspond to the location of the piston (typically the edge of the iron core),
+  but to a "mass cut" farther out. This mass cut is sensitive not only to the explosion
+  energy, but also to the presupernova structure, stellar mass, and the metallicity.
+  Unless the explosion mechanism, for unknown reasons, provides a much larger characteristic
+  energy in more massive stars, it appears likely that stars larger than about 30
+  Msun will experience considerable reimplosion of heavy elements following the initial
+  launch of a successful shock.  While such explosions will produce a viable, bright
+  Type II supernova light curve, lacking perhaps the radioactive tail, they will have
+  dramatically reduced yields of heavy elements and may leave black hole remnants
+  of up to 10 and more solar masses. The production of black holes may be particularly
+  favored for stars of low metallicity, both because of their more compact structure
+  and reduced mass loss.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJS..101..181W
+author: Woosley, S. E. and Weaver, T. A.
+author_list:
+- family: Woosley
+  given: S. E.
+- family: Weaver
+  given: T. A.
+date-added: 2017-08-10 15:07:20 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192237
+journal: \apjs
+keywords: 'HYDRODYNAMICS, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: EVOLUTION,
+  STARS: INTERIORS, STARS: SUPERNOVAE: GENERAL'
+month: November
+pages: '181'
+papis_id: 23fca8301e957c221eba5ad0b4c58e54
+ref: woosley.s.1995
+title: The Evolution and Explosion of Massive Stars. II. Explosive Hydrodynamics and
+  Nucleosynthesis
+type: article
+volume: '101'
+year: '1995'

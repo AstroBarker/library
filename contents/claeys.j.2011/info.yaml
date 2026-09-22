@@ -1,0 +1,68 @@
+abstract: 'Massive stars that lose their hydrogen-rich envelope down to a few tenths
+  of a solar mass explode as extended type IIb supernovae, an intriguing subtype that
+  links the hydrogen-rich type II supernovae with the hydrogen-poor type Ib and Ic.
+  The progenitors may be very massive single stars that lose their envelope due to
+  their stellar wind, but mass stripping due to interaction with a companion star
+  in a binary system is currently considered to be the dominant formation channel.
+  Anticipating the upcoming automated transient surveys, we computed an extensive
+  grid of binary models with the Eggleton binary evolution code. We identify the limited
+  range of initial orbital periods and mass ratios required to produce type IIb binary
+  progenitors. The rate we predict from our standard models, which assume conservative
+  mass transfer, is about six times smaller than the current rate indicated by observations.
+  It is larger but still comparable to the rate expected from massive single stars.
+  We evaluate extensively the effect of various assumptions such as the adopted accretion
+  efficiency, the binary fraction and distributions for the initial binary parameters.
+  To recover the observed rate we must generously allow for uncertainties and consider
+  low accretion efficiencies in combination with limited angular momentum loss from
+  the system. Motivated by the claims of detection and non-detection of companions
+  for a few IIb supernovae, we investigate the properties of the secondary star at
+  the moment of explosion. We identify three cases: (1) the companion is predicted
+  to appear as a hot O star in about 90\% of the cases, as a result of mass accretion
+  during its main sequence evolution, (2) the companion becomes an over-luminous B
+  star in about 3\% of the cases, if mass accretion occurred while crossing the Hertzsprung
+  gap or (3) in systems with very similar initial masses the companion will appear
+  as a K supergiant. The second case, which applies to the well-studied case of SN
+  1993J and possibly to SN 2001ig, is the least common case and requires that the
+  companion very efficiently accretes the transferred material - in contrast to what
+  is required to recover the overall IIb rate. We note that relative rates quoted
+  above depend on the assumed efficiency of semi-convective mixing: for inefficient
+  semi-convection the presence of blue supergiant companions is expected to be more
+  common, occurring in up to about 40\% of the cases. Our study demonstrates that
+  type IIb supernovae have the potential to teach us about the physics of binary interaction
+  and about stellar processes such as internal mixing and possibly stellar-wind mass
+  loss. The fast increasing number of type IIb detections from automated surveys may
+  lead to more solid constraints on these model uncertainties in the near future.  Appendix
+  A is only available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A.131C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.1732
+author: Claeys, J. S. W. and de Mink, S. E. and Pols, O. R. and Eldridge, J. J. and
+  Baes, M.
+author_list:
+- family: Claeys
+  given: J. S. W.
+- family: de Mink
+  given: S. E.
+- family: Pols
+  given: O. R.
+- family: Eldridge
+  given: J. J.
+- family: Baes
+  given: M.
+date-added: 2017-08-10 14:17:02 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201015410
+eid: A131
+eprint: '1102.1732'
+journal: \aap
+keywords: 'stars: evolution, binaries: general, supernovae: general'
+month: April
+pages: A131
+papis_id: 8faf7443fe6c4d3bde3c1fee34eb0df2
+primaryclass: astro-ph.SR
+ref: claeys.j.2011
+title: Binary progenitor models of type IIb supernovae
+type: article
+volume: '528'
+year: '2011'

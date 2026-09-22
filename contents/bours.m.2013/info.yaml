@@ -1,0 +1,50 @@
+abstract: 'Context. There is general agreement that supernovae Ia correspond to the
+  thermonuclear runaway of a white dwarf that is part of a compact binary, but the
+  details of the progenitor systems are still unknown and much debated. One of the
+  proposed progenitor theories is the single-degenerate channel in which a white dwarf
+  accretes from a companion, grows in mass, reaches a critical mass limit, and is
+  then consumed after thermonuclear runaway sets in. However, there are major disagreements
+  about the theoretical delay time distribution and the corresponding time-integrated
+  supernova Ia rate from this channel.  Aims: We investigate whether the differences
+  are due to the uncertainty in the common envelope phase and the fraction of transferred
+  mass that is retained by the white dwarf. This so-called retention efficiency may
+  have a strong influence on the final amount and timing of supernovae Ia.  Methods:
+  Using the population synthesis code SeBa, we simulated large numbers of binaries
+  for various assumptions on common envelopes and retention efficiencies. We compare
+  the resulting supernova Ia rates and delay time distributions with each other and
+  with those from the literature, including observational data.  Results: For the
+  three assumed retention efficiencies, the integrated rate varies by a factor 3-4
+  to even more than a factor 100, so in extreme cases, the retention efficiency strongly
+  suppresses the single-degenerate channel. Our different assumptions for the common
+  envelope phase change the integrated rate by a factor 2-3. Although our results
+  do recover the trend in the theoretical predictions from different binary population
+  synthesis codes, they do not fully explain the large disagreement among them.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...552A..24B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.2629
+author: Bours, M. C. P. and Toonen, S. and Nelemans, G.
+author_list:
+- family: Bours
+  given: M. C. P.
+- family: Toonen
+  given: S.
+- family: Nelemans
+  given: G.
+date-added: 2017-08-11 07:16:44 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1051/0004-6361/201220692
+eid: A24
+eprint: '1302.2629'
+journal: \aap
+keywords: 'binaries: close, stars: evolution, white dwarfs, supernovae: general'
+month: April
+pages: A24
+papis_id: 7f9dff26a162530cbd8f5e05f39b1b5b
+primaryclass: astro-ph.SR
+ref: bours.m.2013
+title: Single degenerate supernova type Ia progenitors. Studying the influence of
+  different mass retention efficiencies
+type: article
+volume: '552'
+year: '2013'

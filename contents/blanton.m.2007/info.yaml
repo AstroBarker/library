@@ -1,0 +1,39 @@
+abstract: Template fits to observed galaxy fluxes allow calculation of K-corrections
+  and conversions among observations of galaxies at various wavelengths. We present
+  a method for creating model-based template sets given a set of heterogeneous photometric
+  and spectroscopic galaxy data. Our technique, nonnegative matrix factorization,
+  is akin to principal component analysis (PCA), except that it is constrained to
+  produce nonnegative templates, it can use a basis set of models (rather than the
+  delta-function basis of PCA), and it naturally handles uncertainties, missing data,
+  and heterogeneous data (including broadband fluxes at various redshifts). The particular
+  implementation we present here is suitable for ultraviolet, optical, and near-infrared
+  observations in the redshift range 0<z<1.5. Since we base our templates on stellar
+  population synthesis models, the results are interpretable in terms of approximate
+  stellar masses and star formation histories. We present templates fitted with this
+  method to data from Galaxy Evolution Explorer, Sloan Digital Sky Survey spectroscopy
+  and photometry, the Two Micron All Sky Survey, the Deep Extragalactic Evolutionary
+  Probe, and the Great Observatories Origins Deep Survey. In addition, we present
+  software for using such data to estimate K-corrections.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007AJ....133..734B
+arxivurl: http://arxiv.org/abs/astro-ph/0606170
+author: Blanton, M. R. and Roweis, S.
+author_list:
+- family: Blanton
+  given: M. R.
+- family: Roweis
+  given: S.
+date-added: 2017-08-10 18:23:48 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510127
+eprint: astro-ph/0606170
+journal: \aj
+keywords: 'galaxies: fundamental parameters, galaxies: photometry, galaxies: statistics'
+month: February
+pages: 734--754
+papis_id: d5705af386a7697ab30ca22233b96843
+ref: blanton.m.2007
+title: K-Corrections and Filter Transformations in the Ultraviolet, Optical, and Near-Infrared
+type: article
+volume: '133'
+year: '2007'

@@ -1,0 +1,36 @@
+abstract: A new, comprehensive set of low-temperature opacity data has been assembled.
+  From this basic data set, Rosseland and Planck mean opacities have been computed
+  for temperatures between 12,500 and 700 K. In addition to the usual continuous absorbers,
+  atomic line absorption (with more than 8 million lines), molecular line absorption
+  (with nearly 60 million lines), and grain absorption and scattering (by silicates,
+  iron, carbon, and SiC) have been accounted for. The absorption due to lines is computed
+  monochromatically and included in the mean with the opacity sampling technique.
+  Grains are assumed to form in chemical equilibrium with the gas and to form into
+  a continuous distribution of ellipsoids. Agreement of these opacities with other
+  recent tabulations of opacities for temperatures above 5000 K is excellent. It is
+  shown that opacities which neglect molecules become unreliable for temperatures
+  below 5000 K. Triatomic molecules become important absorbers at 3200 K. Similarly,
+  grains must be included in the computation for temperatures below 1700 K.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...437..879A
+author: Alexander, D. R. and Ferguson, J. W.
+author_list:
+- family: Alexander
+  given: D. R.
+- family: Ferguson
+  given: J. W.
+date-added: 2017-08-10 18:36:00 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175039
+journal: \apj
+keywords: Cosmic Dust, Emission Spectra, Low Temperature, Molecular Spectra, Opacity,
+  Plancks Constant, Radiative Transfer, Absorption Spectra, Equations Of State, Numerical
+  Analysis, Rayleigh Scattering, Temperature Distribution, Triatomic Molecules
+month: December
+pages: 879--891
+papis_id: 098164c9f34e8fc1acc51e002812eded
+ref: alexander.d.1994
+title: Low-temperature Rosseland opacities
+type: article
+volume: '437'
+year: '1994'

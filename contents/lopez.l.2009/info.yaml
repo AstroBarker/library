@@ -1,0 +1,52 @@
+abstract: 'We introduce methods to quantify the X-ray morphologies of supernova remnants
+  (SNRs) observed with the Chandra X-ray Telescope. These include a power-ratio technique
+  to measure morphological asymmetries, correlation-length analysis to probe chemical
+  segregation and distribution, and wavelet-transform analysis to quantify the X-ray
+  substructure. We demonstrate the utility and accuracy of these techniques on relevant
+  synthetic data. Additionally, we show the methods'' capabilities by applying them
+  to the 55 ks Chandra Advanced CCD Imaging Spectrometer observation of the galactic
+  SNR W49B. We analyze the images of prominent emission lines in W49B and use the
+  results to discern physical properties. We find that the iron morphology is very
+  distinct from the other elements: it is statistically more asymmetric, more segregated,
+  and has 25\% larger emitting substructures than the lighter ions. Comparatively,
+  the silicon, sulfur, argon, and calcium are well mixed, more isotropic, and have
+  smaller, equally sized emitting substructures. Based on fits of XMM-Newton spectra
+  in regions identified as iron rich and iron poor, we determine that the iron in
+  W49B must have been anisotropically ejected. We measure the abundance ratios in
+  many regions, and we find that large, local variations are persistent throughout
+  the remnant. We compare the mean, global abundance ratios to those predicted by
+  spherical and bipolar core-collapse explosions; the results are consistent with
+  a bipolar origin from a ~25 M sun progenitor. We calculate the filling factor of
+  iron from the volume of its emitting substructures, enabling more precise mass estimates
+  than previous studies. Overall, this work is a first step toward rigorously describing
+  the physical properties of SNRs for comparison within and between sources.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691..875L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.0009
+author: Lopez, L. A. and Ramirez-Ruiz, E. and Pooley, D. A. and Jeltema, T. E.
+author_list:
+- family: Lopez
+  given: L. A.
+- family: Ramirez-Ruiz
+  given: E.
+- family: Pooley
+  given: D. A.
+- family: Jeltema
+  given: T. E.
+date-added: 2017-08-10 17:27:56 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/1/875
+eprint: '0810.0009'
+journal: \apj
+keywords: 'methods: data analysis, nuclear reactions, nucleosynthesis, abundances,
+  supernova remnants, techniques: image processing, X-rays: ISM'
+month: January
+pages: 875--893
+papis_id: cf5b7a3b76ac09dde0ed6b382ec8e91c
+ref: lopez.l.2009
+title: 'Tools for Dissecting Supernova Remnants Observed with Chandra: Methods and
+  Application to the Galactic Remnant W49B'
+type: article
+volume: '691'
+year: '2009'

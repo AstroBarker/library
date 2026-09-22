@@ -1,0 +1,43 @@
+abstract: A model for general relativistic magnetohydrodynamic (GRMHD) disk outflows
+  with neutrino-driven mass ejection is developed and employed to calculate the structure
+  of the outflow in the subslow magnetosonic region and the mass loading of the outflow,
+  under conditions anticipated in the central engines of gamma-ray bursts (GRBs).
+  The dependence of the mass flux on the conditions in the disk, on magnetic field
+  geometry, and on other factors is carefully examined for a range of neutrino luminosities
+  expected in hyperaccreting black holes. The fraction of neutrino luminosity that
+  is ultimately being converted to kinetic energy flux is shown to be a sensitive
+  function of the effective neutrino temperature at the flow injection point and the
+  shape of magnetic field lines in the subslow region but is practically independent
+  of the strength of poloidal and toroidal magnetic fields. We conclude that magnetic
+  launching of ultrarelativistic polar outflows from the innermost parts of the disk
+  is in principle possible provided the neutrino luminosity is sufficiently low, Lnu<~1052
+  ergs s-1 or so. The conditions found to be optimal for the launching of an ultrarelativistic
+  jet are also the conditions favorable for a large neutron-to-proton ratio in the
+  disk, suggesting that a large neutron excess in GRB jets, as often conjectured,
+  may be possible. However, the outflow time appears to be comparable to the neutronization
+  timescale, implying that the electron fraction should evolve during the initial
+  acceleration phase. Further analysis is required to determine the composition profile
+  in the wind.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...648..510L
+arxivurl: http://arxiv.org/abs/astro-ph/0602358
+author: Levinson, A.
+author_list:
+- family: Levinson
+  given: A.
+date-added: 2017-08-11 01:49:04 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505635
+eprint: astro-ph/0602358
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Gamma Rays: Bursts, Magnetohydrodynamics: MHD,
+  Nuclear Reactions, Nucleosynthesis, Abundances, Relativity'
+month: September
+pages: 510--522
+papis_id: 6d1311ca0253bdb0ddd0ea29bf81c933
+ref: levinson.a.2006
+title: General Relativistic, Neutrino-assisted Magnetohydrodynamic Winds-Theory and
+  Application to Gamma-Ray Bursts. I. Schwarzschild Geometry
+type: article
+volume: '648'
+year: '2006'

@@ -1,0 +1,56 @@
+abstract: We present new results from accurate and fully general-relativistic simulations
+  of the coalescence of unmagnetized binary neutron stars with various mass ratios.
+  The evolution of the stars is followed through the inspiral phase, the merger, and
+  the prompt collapse to a black hole, up until the appearance of a thick accretion
+  disc, which is studied as it enters and remains in a regime of quasi-steady accretion.
+  Although a simple ideal-fluid equation of state with Gamma = 2 is used, this work
+  presents a systematic study within a fully general-relativistic framework of the
+  properties of the resulting black-hole-torus system produced by the merger of unequal-mass
+  binaries. More specifically, we show that (1) the mass of the torus increases considerably
+  with the mass asymmetry, and equal-mass binaries do not produce significant tori
+  if they have a total baryonic mass Mtot >~ 3.7 Modot; (2) tori with masses Mtor
+  ~ 0.2 Modot are measured for binaries with Mtot ~ 3.4 Modot and mass ratios q ~
+  0.75-0.85 (3) the mass of the torus can be estimated by the simple expression \widetilde{M}\_tor(q,M\_{tot})
+  = \left[c\_1 (1-q) + c\_2\right](M\_{max}-M\_{tot}), involving the maximum mass
+  for the binaries and coefficients constrained from the simulations, and suggesting
+  that the tori can have masses as large as {\widetilde{M}}\_tor \sim 0.35\,M\_{\odot
+  } for Mtot ~ 2.8 Modot and q ~ 0.75-0.85 (4) using a novel technique to analyze
+  the evolution of the tori, we find no evidence for the onset of non-axisymmetric
+  instabilities and that very little, if any, of their mass is unbound; (5) finally,
+  for all the binaries considered, we compute the complete gravitational waveforms
+  and the recoils imparted to the black holes, discussing the prospects of the detection
+  of these sources for a number of present and future detectors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27k4105R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.3074
+author: Rezzolla, L. and Baiotti, L. and Giacomazzo, B. and Link, D. and Font, J.
+  A.
+author_list:
+- family: Rezzolla
+  given: L.
+- family: Baiotti
+  given: L.
+- family: Giacomazzo
+  given: B.
+- family: Link
+  given: D.
+- family: Font
+  given: J. A.
+date-added: 2017-08-10 16:05:50 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0264-9381/27/11/114105
+eid: '114105'
+eprint: '1001.3074'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '114105'
+papis_id: e5a08937be4bf6357697e21d5029a999
+primaryclass: gr-qc
+ref: rezzolla.l.2010
+title: 'Accurate evolutions of unequal-mass neutron-star binaries: properties of the
+  torus and short GRB engines'
+type: article
+volume: '27'
+year: '2010'

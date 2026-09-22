@@ -1,0 +1,43 @@
+abstract: This paper describes the STAROX stellar evolution code for the calculation
+  of the evolution of a model of a spherical star. The code calculates a model at
+  time t  k , that is the run of pressure, density, temperature, radius, energy flux
+  and related variables on a mesh in mass M  i , given the distribution of chemical
+  elements X  j ( i) at t  k  and the model at the previous time step t  k-1. It then
+  advances the chemical composition to the next time step t  k+1 and calculates a
+  new model at time t  k+1. This process is iterated to convergence. The model equations
+  are solved by Newton Raphson relaxation; the chemical equations are solved by an
+  iterative procedure, each element being advanced in turn, and the process repeated
+  to convergence. Convection is modelled by a mixing length model and convective mixing
+  is treated as a diffusive process; chemical overshooting can be incorporated in
+  parametric form. The equation of state is taken from OPAL tables and the opacity
+  from a blend of OPAL and Alexander tables. Nuclear reaction rates are from NACRE
+  but only cover the p  p chain and CNO cycle. The atmospheric layers are incorporated
+  in the model by applying the surface boundary condition at small optical depth (
+  tau\approx{}0.001). The mesh in mass M  i  is usually taken as fixed except that
+  there is a moveable mesh point at the boundary of a convective core. Results are
+  given for models of mass 0.9 and 5.0 M \&sun; with initial composition X=0.7, Z=0.02
+  evolved to a state where the central hydrogen abundance is X  c =0.35, and for a
+  model of mass 2.0 M \&sun; with initial X=0.72, Z=0.02, evolved to X  c =0.01 and
+  with core overshooting. In this latter case we compute two models one with and one
+  without a moveable mesh point at the boundary of the convective core to illustrate
+  the importance of having such a moveable mesh point for the determination of the
+  Brunt V{\"a}is{\"a}l{\"a} frequency in the layers outside the core.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008Ap\%26SS.316...75R
+author: Roxburgh, I. W.
+author_list:
+- family: Roxburgh
+  given: I. W.
+date-added: 2017-08-11 04:28:13 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1007/s10509-007-9673-7
+journal: \apss
+keywords: Stars, Stellar evolution
+month: August
+pages: 75--82
+papis_id: c3744e80447ba83e0c8ac02e8c54ece2
+ref: roxburgh.i.2008
+title: The STAROX stellar evolution code
+type: article
+volume: '316'
+year: '2008'

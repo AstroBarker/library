@@ -1,0 +1,49 @@
+abstract: We employ an ensemble of 24 hydrodynamic cluster simulations to create spatially
+  and spectrally resolved images of quality comparable to Chandra's expected performance.
+  Emission from simulation mass elements is represented using the XSPEC ``MEKAL''
+  program assuming 0.3 solar metallicity and the resulting spectra are fitted with
+  a single-temperature model. Despite significant departures from isothermality in
+  the cluster gas, single-temperature models produce acceptable fits to 20,000 source
+  photon spectra. The spectral fit temperature Ts is generally lower than the mass-weighted
+  average temperature Tm due to the influence of soft line emission from cooler gas
+  being accreted as part of the hierarchical clustering process. The nature of this
+  deviation depends on the bandpass used for spectral fitting. In a Chandra-like bandpass
+  of 0.5 to 9.5 keV we find a nearly uniform fractional bias of (Tm-Ts)/Ts~=20\%,
+  although smaller clusters sometimes demonstrate much greater deviations. If the
+  minimum energy threshold is raised to 2 keV, however, the effect of line emission
+  on the spectrum is greatly decreased and Ts becomes a nearly unbiased estimator
+  of Tm for smaller clusters. The fractional deviation in Ts relative to Tm is scale-dependent
+  in this bandpass and follows the approximate relation (Tm-Ts)/Ts=0.2log10Tm. This
+  results in an observed MICM-Ts relationship for the simulations with slope of about
+  1.6, intermediate between the virial relation M~T3/2m and the observed relation
+  MICM~T2. Tracking each cluster in the ensemble at 16 epochs in its evolutionary
+  history, we catalog merger events with mass ratios exceeding 10\% in order to investigate
+  the relationship between spectral temperature and proximity to a major merger event.
+  Clusters that are very cool relative to the mean mass-temperature relationship lie
+  preferentially close to a major merger, suggesting a viable observational method
+  to cull a subset of dynamically young clusters from the general population.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...546..100M
+arxivurl: http://arxiv.org/abs/astro-ph/0004309
+author: Mathiesen, B. F. and Evrard, A. E.
+author_list:
+- family: Mathiesen
+  given: B. F.
+- family: Evrard
+  given: A. E.
+date-added: 2017-08-11 05:16:26 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/318249
+eprint: astro-ph/0004309
+journal: \apj
+keywords: 'Cosmology: Observations, Galaxies: Clusters: General, Galaxies: Intergalactic
+  Medium, X-Rays: General'
+month: January
+pages: 100--116
+papis_id: 0ef9ecd280cc4db0983c1255e074f7bc
+ref: mathiesen.b.2001
+title: Four Measures of the Intracluster Medium Temperature and Their Relation to
+  a Cluster's Dynamical State
+type: article
+volume: '546'
+year: '2001'

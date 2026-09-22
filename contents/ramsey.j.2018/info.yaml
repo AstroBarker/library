@@ -1,0 +1,36 @@
+abstract: We describe a simple and effective algorithm for solving Poisson's equation
+  in the context of self-gravity within the DISPATCH astrophysical fluid framework.
+  The algorithm leverages the fact that DISPATCH stores multiple time slices and uses
+  asynchronous time-stepping to produce a scheme that does not require any explicit
+  global communication or sub-cycling, only the normal, local communication between
+  patches and the iterative solution to Poisson's equation. We demonstrate that the
+  implementation is suitable for both collections of patches of a single resolution
+  and for hierarchies of adaptively resolved patches. Benchmarks are presented that
+  demonstrate the accuracy, effectiveness and efficiency of the scheme.
+adscomment: '10 pages, 2 figures, proceedings of the ASTRONUM 2017 conference; Journal
+  of Physics: Conference Series, Volume 1031, 2018; doi:10.1088/1742-6596/1031/1/012021'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180610098R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.10098
+author: Ramsey, J. P. and Haugbølle, T. and Nordlund, Å.
+author_list:
+- family: Ramsey
+  given: J. P.
+- family: Haugbølle
+  given: T.
+- family: Nordlund
+  given: Å.
+date-added: 2018-06-27 15:37:13 +0000
+date-modified: 2018-06-27 15:37:14 +0000
+eprint: '1806.10098'
+journal: ArXiv e-prints
+keywords: Astrophysics - Instrumentation and Methods for Astrophysics
+month: June
+papis_id: f0ee6ca3e95da8c185eb0a238781e243
+primaryclass: astro-ph.IM
+ref: ramsey.j.2018
+title: A simple and efficient solver for self-gravity in the DISPATCH astrophysical
+  simulation framework
+type: article
+year: '2018'

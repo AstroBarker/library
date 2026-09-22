@@ -1,0 +1,39 @@
+abstract: We present a new numerical code for spherical hydrodynamics in general relativity.
+  The code can handle gravitational collapse to a neutron star or to a black hole
+  without the appearance of singularities. Moreover, the variables and equations in
+  the code are very similar to those appearing in traditional Lagrangian supernova
+  codes. Any such existing code can thus be easily adapted to treat collapse where
+  the final fate is uncertain and may be either a neutron star or a black hole. The
+  code is based on the formulation of Hernandez \& Misner, in which retarded time
+  is used as coordinate. This prevents the computational grid from penetrating inside
+  any black hole that may form. We present the equations and a complete finite difference
+  scheme for the adiabatic evolution of a fluid that obeys a gamma-law equation of
+  state. We summarize the results of several testbed calculations performed to check
+  our code. We also give the transformation of the analytic Oppenheimer-Snyder solution
+  for homogeneous dust collapse to our coordinate system.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...443..717B
+author: Baumgarte, T. W. and Shapiro, S. L. and Teukolsky, S. A.
+author_list:
+- family: Baumgarte
+  given: T. W.
+- family: Shapiro
+  given: S. L.
+- family: Teukolsky
+  given: S. A.
+date-added: 2017-08-11 04:38:14 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175563
+journal: \apj
+keywords: Black Holes (Astronomy), Computerized Simulation, Gravitational Collapse,
+  Hydrodynamics, Neutron Stars, Relativity, Supernovae, Adiabatic Conditions, Computational
+  Grids, Computer Programs, Cosmic Dust, Equations Of State, Finite Difference Theory,
+  Lagrangian Function, Time
+month: April
+pages: 717--734
+papis_id: 878ea8278b468b409e22ceb894196ce6
+ref: baumgarte.t.1995
+title: Computing supernova collapse to neutron stars and black holes
+type: article
+volume: '443'
+year: '1995'

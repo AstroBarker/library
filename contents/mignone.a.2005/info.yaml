@@ -1,0 +1,39 @@
+abstract: We present an extension of the piecewise parabolic method to special relativistic
+  fluid dynamics in multidimensions. The scheme is conservative, dimensionally unsplit,
+  and suitable for a general equation of state. Temporal evolution is second-order
+  accurate and employs characteristic projection operators; spatial interpolation
+  is piecewise parabolic making the scheme third-order accurate in smooth regions
+  of the flow away from discontinuities. The algorithm is written for a general system
+  of orthogonal curvilinear coordinates and can be used for computations in non-Cartesian
+  geometries. A nonlinear iterative Riemann solver based on the two-shock approximation
+  is used in flux calculation. In this approximation, an initial discontinuity decays
+  into a set of discontinuous waves only implying that, in particular, rarefaction
+  waves are treated as flow discontinuities. We also present a new and simple equation
+  of state that approximates the exact result for the relativistic perfect gas with
+  high accuracy. The strength of the new method is demonstrated in a series of numerical
+  tests and more complex simulations in one, two, and three dimensions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJS..160..199M
+arxivurl: http://arxiv.org/abs/astro-ph/0505200
+author: Mignone, A. and Plewa, T. and Bodo, G.
+author_list:
+- family: Mignone
+  given: A.
+- family: Plewa
+  given: T.
+- family: Bodo
+  given: G.
+date-added: 2017-08-10 22:17:55 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/430905
+eprint: astro-ph/0505200
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Relativity, Shock Waves'
+month: September
+pages: 199--219
+papis_id: 0e2f7420eaccb843784d8668bd2554ad
+ref: mignone.a.2005
+title: The Piecewise Parabolic Method for Multidimensional Relativistic Fluid Dynamics
+type: article
+volume: '160'
+year: '2005'

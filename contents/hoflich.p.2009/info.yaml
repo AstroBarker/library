@@ -1,0 +1,60 @@
+abstract: We investigate two potential mechanisms that will produce X-ray and gamma-ray
+  flashes from Type Ia supernovae (SN-Ia). The first mechanism is the breakout of
+  the thermonuclear burning front as it reaches the surface of the white dwarf (WD).
+  The second mechanism is the interaction of the rapidly expanding envelope with material
+  within an accretion disk in the progenitor system. Our study is based on the delayed
+  detonation scenario because this can account for the majority of light curves, spectra,
+  and statistical properties of "Branch-normal" SN-Ia. Based on detailed radiation-hydro
+  calculations which include nuclear networks, we find that both mechanisms produce
+  brief flashes of high-energy radiation with peak luminosities of 1048-1050 erg s-1.
+  The breakout from the WD surface produces flashes with a rapid exponential decay
+  by 3-4 orders of magnitude on timescales of a few tenths of a second and with most
+  of the radiation in the X-ray and soft gamma-ray range. The shocks produced in gases
+  in and around the binary will produce flashes with a characteristic duration of
+  a few seconds with most of the radiation coming out as X-rays and gamma-rays. In
+  both mechanisms, we expect a fast rise and slow decline and, after the peak, an
+  evolution from hard to softer radiation due to adiabatic expansion. In many cases,
+  flashes from both mechanisms will be superposed. The X- and gamma-ray visibility
+  of an SN-Ia will depend strongly on self-absorption within the progenitor system,
+  specifically on the properties of the accretion disk and its orientation toward
+  the observer. Such X-ray and gamma-ray flashes could be detected as triggered events
+  by gamma-ray burst (GRB) detectors on satellites, with events in current GRB catalogs.
+  We have searched through the GRB catalogs (for the BATSE, HETE, and Swift experiments)
+  for GRBs that occur at the extrapolated time of explosion and in the correct direction
+  for known Type Ia supernovae with radial velocity of less than 3000 km s-1. For
+  the Burst and Transient Source Experiment (BATSE) about 12.9 $\pm$ 3.6 nearby SNe
+  Ia should have been detected, but only 0.8 \$\pm\$ 0.7 non-coincidental matches
+  have been found. With the High Energy Transient Explorer (HETE) and Swift satellites,
+  we expect to see 5.6 \$\pm\$ 1.3 SN-Ia flashes from known nearby SNe Ia but, yet,
+  no SN-Ia flashes were detected. With the trigger thresholds for these experiments
+  and the upper limits on the SN-Ia distances, we show that the bolometric peak luminosity
+  of SN-Ia flashes must be less ~1046 erg s-1. Our observational limit is several
+  orders-of-magnitude smaller than the peak luminosities predicted for both the early
+  flashes. We attribute this difference to the absorption of the X- and gamma-rays
+  by the accretion disk of large-scale height or common envelope that would be smothering
+  the WD.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...705..483H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.1357
+author: Höflich, P. and Schaefer, B. E.
+author_list:
+- family: Höflich
+  given: P.
+- family: Schaefer
+  given: B. E.
+date-added: 2017-08-11 06:07:02 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/705/1/483
+eprint: '0909.1357'
+journal: \apj
+keywords: 'supernovae: general, shock waves, gamma rays: bursts'
+month: November
+pages: 483--495
+papis_id: ab15d095d890e32bd077d190b54a6c5a
+primaryclass: astro-ph.HE
+ref: hoflich.p.2009
+title: X-ray and Gamma-ray Flashes from Type Ia Supernovae?
+type: article
+volume: '705'
+year: '2009'

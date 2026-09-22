@@ -1,0 +1,53 @@
+abstract: 'We present an extensive study of accretion onto neutron stars in which
+  the velocity of the neutron star and structure of the surrounding medium is such
+  that the Bondi-Royle accretion exceeds 10-4 Msun yr-1. Two types of initial conditions
+  are considered for a range of entropies and chemical compositions: an atmosphere
+  in pressure equilibrium above the neutron star, and a freely falling inflow of matter
+  from infinity (also parameterized by the infall rate). We then evolve the system
+  with one- and two-dimensional hydrodynamic codes to determine the outcome. For most
+  cases, hypercritical (also termed "super Eddington") accretion caused by rapid neutrino
+  cooling allows the neutron star to accrete above the Bondi-Hoyle rate as previously
+  pointed out by Chevalier.  However, for a subset of simulations which corresponds
+  to evolutionarily common events, convection driven by neutrino heating can lead
+  to explosions by a mechanism similar to that found in core-collapse supernovae.  Armed
+  with the results from our calculations, we are in a position to predict the fate
+  of a range of rapid-infall neutron star accretors present in certain low-mass X-ray
+  binaries, common envelope systems, supernova fallbacks, and Thorne-Zytkow objects
+  (TZOs). A majority of the common envelope systems that we considered led to explosions
+  expelling the envelope, halting the neutron star''s inward spiral, and allowing
+  the formation of close binary systems. As a result, the smothered neutron stars
+  produced in the collisions studied by Davies \& Benz may also explode, probably
+  preventing them from forming millisecond pulsars. For the most massive supernovae,
+  in which the fallback of material toward the neutron star after a successful explosion
+  is large, we find that a black hole is formed in a few seconds. Finally, we argue
+  that the current set of TZO formation scenarios is inadequate and leads instead
+  to hypercritical accretion and black hole formation. Moreover, it appears that many
+  of the current TZ models have structures ill suited for modeling by mixing-length
+  convection. This has prompted us to develop a simple test to determine the viability
+  of this approximation for a variety of convective systems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...460..801F
+arxivurl: http://arxiv.org/abs/astro-ph/9509144
+author: Fryer, C. L. and Benz, W. and Herant, M.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Benz
+  given: W.
+- family: Herant
+  given: M.
+date-added: 2017-08-11 00:56:07 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/177011
+eprint: astro-ph/9509144
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, STARS: BINARIES: CLOSE, HYDRODYNAMICS, STARS:
+  NEUTRON'
+month: April
+pages: '801'
+papis_id: 75558391004715031c211c5da5db9c96
+ref: fryer.c.1996
+title: The Dynamics and Outcomes of Rapid Infall onto Neutron Stars
+type: article
+volume: '460'
+year: '1996'

@@ -1,0 +1,44 @@
+abstract: The ever increasing processing capabilities of the supercomputers available
+  to computational scientists today, combined with the need for higher and higher
+  resolution computational grids, has resulted in deluges of simulation data. Yet
+  the computational resources and tools required to make sense of these vast numerical
+  outputs through subsequent analysis are often far from adequate, making such analysis
+  of the data a painstaking, if not a hopeless, task. In this paper, we describe a
+  new tool for the scientific investigation of massive computational datasets. This
+  tool (VAPOR) employs data reduction, advanced visualization, and quantitative analysis
+  operations to permit the interactive exploration of vast datasets using only a desktop
+  PC equipped with a commodity graphics card. We describe VAPORs use in the study
+  of two problems. The first, motivated by stellar envelope convection, investigates
+  the hydrodynamic stability of compressible thermal starting plumes as they descend
+  through a stratified layer of increasing density with depth. The second looks at
+  current sheet formation in an incompressible helical magnetohydrodynamic flow to
+  understand the early spontaneous development of quasi two-dimensional (2D) structures
+  embedded within the 3D solution. Both of the problems were studied at sufficiently
+  high spatial resolution, a grid of 5042 by 2048 points for the first and 15363 points
+  for the second, to overwhelm the interactive capabilities of typically available
+  analysis resources.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007NJPh....9..301C
+author: Clyne, J. and Mininni, P. and Norton, A. and Rast, M.
+author_list:
+- family: Clyne
+  given: J.
+- family: Mininni
+  given: P.
+- family: Norton
+  given: A.
+- family: Rast
+  given: M.
+date-added: 2017-08-11 07:53:50 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1088/1367-2630/9/8/301
+journal: New Journal of Physics
+month: August
+pages: '301'
+papis_id: 62313c0dbbec7744ed9379a8ee2839b8
+ref: clyne.j.2007
+title: 'Interactive desktop analysis of high resolution simulations: application to
+  turbulent plume dynamics and current sheet formation'
+type: article
+volume: '9'
+year: '2007'

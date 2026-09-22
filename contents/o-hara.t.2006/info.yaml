@@ -1,0 +1,58 @@
+abstract: 'We use X-ray morphological measurements and the scatter of clusters about
+  observed and simulated scaling relations to examine the impact of merging and core-related
+  phenomena on the structure of galaxy clusters. We use a range of X-ray and near-infrared
+  (near-IR) scaling relations; all observed scaling relations constructed from emission-weighted
+  mean temperature and intracluster medium mass, X-ray luminosity, isophotal size,
+  and near-IR luminosity show a separation between clusters identified as cool core
+  (CC) and those identified as non-cool core (NCC). We attribute this partially to
+  a simple temperature bias in CC clusters and partially to other cool core-related
+  structural changes. Scaling relations constructed from observables that are largely
+  independent of core structure show smaller separation between CC and NCC populations.
+  We attempt to minimize CC-related separation in scaling relations via two methods:
+  by applying a uniform scale factor to CC cluster temperatures and determining the
+  scale factor for each relation that minimizes the separation between CC and NCC
+  populations, and by introducing cluster central surface brightness as a third parameter
+  in observable-temperature scaling relations. We find an average temperature bias
+  factor of 1.07+/-0.02 between the CC and NCC populations; the three-parameter approach
+  reduces scatter in scaling relations more than a simple CC temperature scaling.
+  We examine the scatter about the best-fit observable-temperature-brightness scaling
+  relations and compare the intrinsic scatter within subsamples split by CC/NCC and
+  four different morphological merger indicators. CC clusters and clusters with less
+  substructure generally exhibit higher scatter about scaling relations. The larger
+  structural variations in CC clusters are present well outside the core, suggesting
+  that a process more global than core radiative instability is at work. Simulations
+  without cooling mechanisms also show no correlation between substructure and larger
+  scatter about scaling relations, indicating that any merger-related scatter increases
+  are subtle. Taken together, the observational and simulation results indicate that
+  cool core-related phenomena-not merging processes-are the primary contributor to
+  scatter in scaling relations. Our analysis does not appear to support the scenario
+  in which clusters evolve cool cores over time unless they experience major mergers.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...639...64O
+arxivurl: http://arxiv.org/abs/astro-ph/0510064
+author: O'Hara, T. B. and Mohr, J. J. and Bialek, J. J. and Evrard, A. E.
+author_list:
+- family: O'Hara
+  given: T. B.
+- family: Mohr
+  given: J. J.
+- family: Bialek
+  given: J. J.
+- family: Evrard
+  given: A. E.
+date-added: 2017-08-11 05:13:06 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/499327
+eprint: astro-ph/0510064
+journal: \apj
+keywords: 'Galaxies: Clusters: General, Galaxies: Intergalactic Medium, X-Rays: Galaxies:
+  Clusters'
+month: March
+pages: 64--80
+papis_id: cfcf7ccd721ec34dfa6c3de56516d214
+ref: o_hara.t.2006
+title: Effects of Mergers and Core Structure on the Bulk Properties of Nearby Galaxy
+  Clusters
+type: article
+volume: '639'
+year: '2006'

@@ -1,0 +1,60 @@
+abstract: While working on an adaptive mesh refinement (AMR) scheme for divergence-free
+  magnetohydrodynamics (MHD), Balsara discovered a unique strategy for the reconstruction
+  of divergence-free vector fields. Balsara also showed that for one-dimensional variations
+  in flow and field quantities the reconstruction reduces exactly to the total variation
+  diminishing (TVD) reconstruction. In a previous paper by Balsara the innovations
+  were put to use in studying AMR-MHD. While the other consequences of the invention
+  especially as they pertain to numerical scheme design were mentioned, they were
+  not explored in any detail. In this paper we begin such an exploration. We study
+  the problem of divergence-free numerical MHD and show that the work done so far
+  still has four key unresolved issues. We resolve those issues in this paper. It
+  is shown that the magnetic field can be updated in divergence-free fashion with
+  a formulation that is better than the one in Balsara \& Spicer. The problem of reconstructing
+  MHD flow variables with spatially second-order accuracy is also studied. Some ideas
+  from weighted essentially non-oscillatory (WENO) reconstruction, as they apply to
+  numerical MHD, are developed. Genuinely multidimensional reconstruction strategies
+  for numerical MHD are also explored. The other goal of this paper is to show that
+  the same well-designed second-order-accurate schemes can be formulated for more
+  complex geometries such as cylindrical and spherical geometry. Being able to do
+  divergence-free reconstruction in those geometries also resolves the problem of
+  doing AMR in those geometries; the appendices contain detailed formulae for the
+  same. The resulting MHD scheme has been implemented in Balsara's RIEMANN framework
+  for parallel, self-adaptive computational astrophysics. The present work also shows
+  that divergence-free reconstruction and the divergence-free time update can be done
+  for numerical MHD on unstructured meshes. As a result, we establish important analogies
+  between MHD on structured meshes and MHD on unstructured meshes because such analogies
+  can guide the design of MHD schemes and AMR-MHD techniques on unstructured meshes.
+  The present paper also lays out the roadmap for designing MHD schemes for structured
+  and unstructured meshes that have better than second-order accuracy in space and
+  time. All the schemes designed here are shown to be second-order-accurate. We also
+  show that the accuracy does not depend on the quality of the Riemann solver. We
+  have compared the numerical dissipation of the unsplit MHD schemes presented here
+  with the dimensionally split MHD schemes that have been used in the past and found
+  the former to be superior. The dissipation does depend on the Riemann solver, but
+  the dependence becomes weaker as the quality of the interpolation is improved. Several
+  stringent test problems are presented to show that the methods work, including problems
+  involving high-velocity flows in low-plasma-beta magnetospheric environments. Similar
+  advances can be made in other fields, such as electromagnetics, radiation MHD, and
+  incompressible flow, that rely on a Stokes-law type of update strategy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJS..151..149B
+arxivurl: http://arxiv.org/abs/astro-ph/0308249
+author: Balsara, D. S.
+author_list:
+- family: Balsara
+  given: D. S.
+date-added: 2017-08-10 22:17:44 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/381377
+eprint: astro-ph/0308249
+journal: \apjs
+keywords: 'Methods: Numerical, Magnetohydrodynamics: MHD'
+month: March
+pages: 149--184
+papis_id: e2bd9e0f0c60c7cc8563997339ef1da5
+ref: balsara.d.2004a
+title: Second-Order-accurate Schemes for Magnetohydrodynamics with Divergence-free
+  Reconstruction
+type: article
+volume: '151'
+year: '2004'

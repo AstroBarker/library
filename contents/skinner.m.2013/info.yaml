@@ -1,0 +1,49 @@
+abstract: We describe a module for the Athena code that solves the gray equations
+  of radiation hydrodynamics (RHD), based on the first two moments of the radiative
+  transfer equation. We use a combination of explicit Godunov methods to advance the
+  gas and radiation variables including the non-stiff source terms, and a local implicit
+  method to integrate the stiff source terms. We adopt the M 1 closure relation and
+  include all leading source terms to  {O}(beta tau). We employ the reduced speed
+  of light approximation (RSLA) with subcycling of the radiation variables in order
+  to reduce computational costs. Our code is dimensionally unsplit in one, two, and
+  three space dimensions and is parallelized using MPI. The streaming and diffusion
+  limits are well described by the M 1 closure model, and our implementation shows
+  excellent behavior for a problem with a concentrated radiation source containing
+  both regimes simultaneously. Our operator-split method is ideally suited for problems
+  with a slowly varying radiation field and dynamical gas flows, in which the effect
+  of the RSLA is minimal. We present an analysis of the dispersion relation of RHD
+  linear waves highlighting the conditions of applicability for the RSLA. To demonstrate
+  the accuracy of our method, we utilize a suite of radiation and RHD tests covering
+  a broad range of regimes, including RHD waves, shocks, and equilibria, which show
+  second-order convergence in most cases. As an application, we investigate radiation-driven
+  ejection of a dusty, optically thick shell in the ISM. Finally, we compare the timing
+  of our method with other well-known iterative schemes for the RHD equations. Our
+  code implementation, Hyperion, is suitable for a wide variety of astrophysical applications
+  and will be made freely available on the Web.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..206...21S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.0010
+author: Skinner, M. A. and Ostriker, E. C.
+author_list:
+- family: Skinner
+  given: M. A.
+- family: Ostriker
+  given: E. C.
+date-added: 2017-08-10 20:04:37 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0067-0049/206/2/21
+eid: '21'
+eprint: '1306.0010'
+journal: \apjs
+keywords: 'methods: numerical, radiative transfer'
+month: June
+pages: '21'
+papis_id: fdde9062b8b5486f2a9c14304f31c357
+primaryclass: astro-ph.IM
+ref: skinner.m.2013
+title: A Two-moment Radiation Hydrodynamics Module in Athena Using a Time-explicit
+  Godunov Method
+type: article
+volume: '206'
+year: '2013'

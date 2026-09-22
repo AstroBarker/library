@@ -1,0 +1,91 @@
+abstract: 'In the framework of the ESO Large Programme ``First Stars'''', very high-quality
+  spectra of some 70 very metal-poor dwarfs and giants were obtained with the ESO
+  VLT and UVES spectrograph. These stars are likely to have descended from the first
+  generation(s) of stars formed after the Big Bang, and their detailed composition
+  provides constraints on issues such as the nature of the first supernovae, the efficiency
+  of mixing processes in the early Galaxy, the formation and evolution of the halo
+  of the Galaxy, and the possible sources of reionization of the Universe. This paper
+  presents the abundance analysis of an homogeneous sample of 35 giants selected from
+  the HK survey of Beers et al. (\cite{BPS92}, \cite{Be99}), emphasizing stars of
+  extremely low metallicity: 30 of our 35 stars are in the range -4.1 <[Fe/H]< -2.7,
+  and 22 stars have [Fe/H] < -3.0. Our new VLT/UVES spectra, at a resolving power
+  of R\texttildelow{}45 000 and with signal-to-noise ratios of 100-200 per pixel over
+  the wavelength range 330-1000 nm, are greatly superior to those of the classic studies
+  of McWilliam et al. (\cite{MPS95}) and Ryan et al. (\cite{RNB96}).  The immediate
+  objective of the work is to determine precise, comprehensive, and homogeneous element
+  abundances for this large sample of the most metal-poor giants presently known.
+  In the analysis we combine the spectral line modeling code ``Turbospectrum'''' with
+  OSMARCS model atmospheres, which treat continuum scattering correctly and thus allow
+  proper interpretation of the blue regions of the spectra, where scattering becomes
+  important relative to continuous absorption (lambda < 400 nm). We obtain detailed
+  information on the trends of elemental abundance ratios and the star-to-star scatter
+  around those trends, enabling us to separate the relative contributions of cosmic
+  scatter and observational/analysis errors.  Abundances of 17 elements from C to
+  Zn have been measured in all stars, including K and Zn, which have not previously
+  been detected in stars with [Fe/H] < -3.0. Among the key results, we discuss the
+  oxygen abundance (from the forbidden [OI] line), the different and sometimes complex
+  trends of the abundance ratios with metallicity, the very tight relationship between
+  the abundances of certain elements (e.g., Fe and Cr), and the high [Zn/Fe] ratio
+  in the most metal-poor stars. Within the error bars, the trends of the abundance
+  ratios with metallicity are consistent with those found in earlier literature, but
+  in many cases the scatter around the average trends is much smaller than found in
+  earlier studies, which were limited to lower-quality spectra. We find that the cosmic
+  scatter in several element ratios may be as low as 0.05 dex.  The evolution of the
+  abundance trends and scatter with declining metallicity provides strong constraints
+  on the yields of the first supernovae and their mixing into the early ISM. The abundance
+  ratios found in our sample do not match the predicted yields from pair-instability
+  hypernovae, but are consistent with element production by supernovae with progenitor
+  masses up to 100 M\&sun;. Moreover, the composition of the ejecta that have enriched
+  the matter  Based on observations obtained in the frame of the ESO programme ID
+  165.N-0276(A).  Full Tables 3 and 8 are available in electronic form at the CDS
+  via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/416/1117
+  This work has made use of the SIMBAD database.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...416.1117C
+arxivurl: http://arxiv.org/abs/astro-ph/0311082
+author: Cayrel, R. and Depagne, E. and Spite, M. and Hill, V. and Spite, F. and François,
+  P. and Plez, B. and Beers, T. and Primas, F. and Andersen, J. and Barbuy, B. and
+  Bonifacio, P. and Molaro, P. and Nordström, B.
+author_list:
+- family: Cayrel
+  given: R.
+- family: Depagne
+  given: E.
+- family: Spite
+  given: M.
+- family: Hill
+  given: V.
+- family: Spite
+  given: F.
+- family: François
+  given: P.
+- family: Plez
+  given: B.
+- family: Beers
+  given: T.
+- family: Primas
+  given: F.
+- family: Andersen
+  given: J.
+- family: Barbuy
+  given: B.
+- family: Bonifacio
+  given: P.
+- family: Molaro
+  given: P.
+- family: Nordström
+  given: B.
+date-added: 2017-08-10 21:46:46 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1051/0004-6361:20034074
+eprint: astro-ph/0311082
+journal: \aap
+month: March
+pages: 1117--1138
+papis_id: cc9235546a0d8649da4e4883e8c54dd2
+ref: cayrel.r.2004
+title: First stars V - Abundance patterns from C to Zn and supernova yields in the
+  early Galaxy
+type: article
+volume: '416'
+year: '2004'

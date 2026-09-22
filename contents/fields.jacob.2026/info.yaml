@@ -1,0 +1,40 @@
+abstract: 'We present an implementation of an HLLD approximate Riemann solver for
+  the AthenaK astrophysics code with support for full general relativistic magnetohydrodynamics
+  via a tetrad frame transformation. Our implementation uses an initial guess for
+  the HLLD iterative solve which eliminates the need for an additional conserved-to-primitive
+  inversion, which greatly accelerates performance without affecting accuracy. Additionally,
+  by coupling the method with a first-order flux correction, we are able to use the
+  method reliably even when the magnetization exceeds $10^4$, which we achieve in
+  a SANE accretion disk. Our SANE disk shows that HLLD leads to a more strongly magnetized
+  funnel and more accurate horizon fluxes when compared with HLLE. We further apply
+  the new HLLD implementation to an equal-mass binary neutron star merger. For our
+  long-lived remnant, HLLD enhances the magnetic shear stresses in the outer layers
+  and leads to weaker differential rotation. However, due to weaker gravitational
+  wave emissions in the post-merger phase, the remnant is consistently less compact
+  while producing more dynamical ejecta and a more massive disk. The cost of this
+  new solver is relatively modest thanks to the improved initial guess: our accretion
+  disk tests are only ${\sim}10-25\%$ slower than HLLE, and for our binary neutron
+  star runs with a microphysical equation of state, we find that HLLD is only ${\sim}3\%$
+  slower than HLLE across all runs.'
+author: Fields, Jacob and Wong, George N. and Stone, James M.
+author_list:
+- family: Fields
+  given: Jacob
+- family: Wong
+  given: George N.
+- family: Stone
+  given: James M.
+doc_url: https://arxiv.org/pdf/2609.06150v1
+eprint: 2609.06150v1
+eprintclass: astro-ph.HE
+eprinttype: arxiv
+files:
+- fields-jacob-2026.pdf
+month: 9
+papis_id: bfd1e0d6346c3a8e941987b84016da3b
+ref: fields.jacob.2026
+time-added: 2026-09-17-12:02:56
+title: An HLLD Implementation for General Relativistic Magnetohydrodynamics in AthenaK
+type: article
+url: http://arxiv.org/abs/2609.06150v1
+year: 2026

@@ -1,0 +1,53 @@
+abstract: 'Context. Even though turbulent motions are found everywhere in astrophysical
+  systems, the origin of this turbulence is poorly understood. When cosmic structures
+  form, they grow in mass via accretion from their surrounding environment.  Aims:
+  We propose that accretion is able to drive internal turbulent motions in a wide
+  range of astrophysical objects and study this process in the case of galaxies, molecular
+  clouds, and protoplanetary disks.  Methods: We use a combination of numerical simulations
+  and analytical arguments to predict the level of turbulence as a function of the
+  accretion rate, the dissipation scale, and the density contrast, and compare our
+  models with observational data.  Results: We find that in Milky Way type galaxies
+  the observed level of turbulence in the interstellar medium can be explained by
+  accretion, provided that the galaxies gain mass at a rate comparable to the rate
+  at which they form stars. This process is particularly relevant in the extended
+  outer disks beyond the star-forming radius. For it to drive turbulence in dwarf
+  galaxies, the accretion rate needs to exceed the star formation rate by a large
+  factor, so we expect other sources to dominate. We also calculate the rate at which
+  molecular clouds grow in mass when they build up from the atomic component of the
+  galactic gas and find that their internal turbulence is likely to be driven by accretion
+  as well. It is the very process of cloud formation that excites turbulent motions
+  on small scales by establishing the turbulent cascade. In the case of T Tauri disks,
+  we show that accretion can drive subsonic turbulence if the rate at which gas falls
+  onto the disk is comparable to the rate at which disk material accretes onto the
+  central star. This also explains the observed relation of accretion rate and stellar
+  mass, dot{M} \propto{} M\_star1.8. The efficiency required to convert infall motion
+  into turbulence is a few percent in all three cases.  Conclusions: We conclude that
+  accretion-driven turbulence is a universal concept with far-reaching implications
+  for a wide range of astrophysical objects.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...520A..17K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.0288
+author: Klessen, R. S. and Hennebelle, P.
+author_list:
+- family: Klessen
+  given: R. S.
+- family: Hennebelle
+  given: P.
+date-added: 2017-08-11 01:34:37 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/200913780
+eid: A17
+eprint: '0912.0288'
+journal: \aap
+keywords: 'accretion, accretion disks, turbulence, ISM: kinematics and dynamics, galaxies:
+  kinematic and dynamics, planetary systems: protoplanetary disks, galaxies: ISM'
+month: September
+pages: A17
+papis_id: fbdedb29fca77dc2431c68027c1e0edf
+ref: klessen.r.2010
+title: 'Accretion-driven turbulence as universal process: galaxies, molecular clouds,
+  and protostellar disks'
+type: article
+volume: '520'
+year: '2010'

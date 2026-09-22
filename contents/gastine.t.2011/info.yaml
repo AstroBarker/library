@@ -1,0 +1,46 @@
+abstract: 'Context. We study the convection-pulsation coupling that occurs in cold
+  Cepheids close to the red edge of the classical instability strip. In these stars,
+  the surface convective zone is supposed to stabilise the radial oscillations excited
+  by the kappa-mechanism.  Aims: We study the influence of the convective motions
+  on the amplitude and the nonlinear saturation of acoustic modes excited by kappa-mechanism.
+  We are interested in determining the physical conditions needed to lead to a quenching
+  of oscillations by convection.  Methods: We compute two-dimensional nonlinear simulations
+  (DNS) of the convection-pulsation coupling, in which the oscillations are sustained
+  by a continuous physical process: the kappa-mechanism. Thanks to both a frequential
+  analysis and a projection of the physical fields onto an acoustic subspace, we study
+  how the convective motions affect the unstable radial oscillations.  Results: Depending
+  on the initial physical conditions, two main behaviours are obtained. (i) Either
+  the unstable fundamental acoustic mode has a large amplitude, carries the bulk of
+  the kinetic energy, and shows a nonlinear saturation similar to the purely radiative
+  case; (ii) or the convective motions significantly affect the mode amplitude, which
+  remains very weak. In this second case, convection is quenching the acoustic oscillations.
+  We interpret these discrepancies in terms of the difference in density contrast:
+  larger stratification leads to smaller convective plumes that do not affect the
+  purely radial modes much, while large-scale vortices may quench the oscillations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A...6G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.4020
+author: Gastine, T. and Dintrans, B.
+author_list:
+- family: Gastine
+  given: T.
+- family: Dintrans
+  given: B.
+date-added: 2017-08-10 18:35:09 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/201015631
+eid: A6
+eprint: '1008.4020'
+journal: \aap
+keywords: 'hydrodynamics, convection, instabilities, stars: oscillations, methods:
+  numerical, stars: variables: Cepheids'
+month: April
+pages: A6
+papis_id: 95cbe41485ee545c3cb650869cc12b41
+primaryclass: astro-ph.SR
+ref: gastine.t.2011
+title: Convective quenching of stellar pulsations
+type: article
+volume: '528'
+year: '2011'

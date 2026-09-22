@@ -1,0 +1,49 @@
+abstract: We study the dynamical stability against bar-mode deformation of rapidly
+  and differentially rotating stars in the first post-Newtonian approximation of general
+  relativity. We vary the compaction of the star M/R (where M is the gravitational
+  mass and R the equatorial circumferential radius) between 0.01 and 0.05 to isolate
+  the influence of relativistic gravitation on the instability. For compactions in
+  this moderate range, the critical value of beta\equiv{}T/W for the onset of the
+  dynamical instability (where T is the rotational kinetic energy and W the gravitational
+  binding energy) slightly decreases from ~0.26 to ~0.25 with increasing compaction
+  for our choice of the differential rotational law. Combined with our earlier findings
+  based on simulations in full general relativity for stars with higher compaction,
+  we conclude that relativistic gravitation enhances the dynamical bar-mode instability,
+  i.e., the onset of instability occurs for smaller values of beta in relativistic
+  gravity than in Newtonian gravity. We also find that once a triaxial structure forms
+  after the bar-mode perturbation saturates in dynamically unstable stars, the triaxial
+  shape is maintained, at least for several rotational periods. To check the reliability
+  of our numerical integrations, we verify that the general relativistic Kelvin-Helmholtz
+  circulation is well conserved, in addition to rest-mass energy, total mass energy,
+  and linear and angular momentum. Conservation of circulation indicates that our
+  code is not seriously affected by numerical viscosity. We determine the amplitude
+  and frequency of the quasi-periodic gravitational waves emitted during the bar formation
+  process using the quadrupole formula.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...548..919S
+arxivurl: http://arxiv.org/abs/astro-ph/0010201
+author: Saijo, M. and Shibata, M. and Baumgarte, T. W. and Shapiro, S. L.
+author_list:
+- family: Saijo
+  given: M.
+- family: Shibata
+  given: M.
+- family: Baumgarte
+  given: T. W.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 05:33:50 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/319016
+eprint: astro-ph/0010201
+journal: \apj
+keywords: 'Gravitation, Hydrodynamics, Instabilities, Relativity, Stars: Neutron,
+  Stars: Rotation'
+month: February
+pages: 919--931
+papis_id: 00365cc6279e883b97e2da025700987f
+ref: saijo.m.2001
+title: 'Dynamical Bar Instability in Rotating Stars: Effect of General Relativity'
+type: article
+volume: '548'
+year: '2001'

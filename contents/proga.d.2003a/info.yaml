@@ -1,0 +1,49 @@
+abstract: We report on the second phase of our study of slightly rotating accretion
+  flows onto black holes. We consider magnetohydrodynamical (MHD) accretion flows
+  with a spherically symmetric density distribution at the outer boundary but with
+  spherical symmetry broken by the introduction of a small, latitude-dependent angular
+  momentum and a weak radial magnetic field. We study accretion flows by means of
+  numerical two-dimensional, axisymmetric, MHD simulations with and without resistive
+  heating. Our main result is that the properties of the accretion flow depend mostly
+  on an equatorial accretion torus that is made of the material that has too much
+  angular momentum to be accreted directly. The torus accretes, however, because of
+  the transport of angular momentum due to the magnetorotational instability (MRI).
+  Initially, accretion is dominated by the polar funnel, as in the hydrodynamic inviscid
+  case, where material has zero or very low angular momentum. At the later phase of
+  the evolution, the torus thickens toward the poles and develops a corona or an outflow
+  or both. Consequently, the mass accretion through the funnel is stopped. The accretion
+  of rotating gas through the torus is significantly reduced compared with the accretion
+  of nonrotating gas (i.e., the Bondi rate). It is also much smaller than the accretion
+  rate in the inviscid, weakly rotating case. Our results do not change if we switch
+  on or off resistive heating. Overall our simulations are very similar to those presented
+  by Stone, Pringle, Hawley, and Balbus despite different initial and outer boundary
+  conditions. Thus, we confirm that MRI is very robust and controls the nature of
+  radiatively inefficient accretion flows. Although the time-averaged properties of
+  our models approach a steady state, we find that the instantaneous mass-accretion
+  rate in the latter stages of our simulations is highly time-dependent, with the
+  inner flow displaying three generic flow patterns.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...592..767P
+arxivurl: http://arxiv.org/abs/astro-ph/0303093
+author: Proga, D. and Begelman, M. C.
+author_list:
+- family: Proga
+  given: D.
+- family: Begelman
+  given: M. C.
+date-added: 2017-08-10 14:58:36 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/375773
+eprint: astro-ph/0303093
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Active, Galaxies:
+  Nuclei, Methods: Numerical, Magnetohydrodynamics: MHD'
+month: August
+pages: 767--781
+papis_id: d49149ec1d55275cb451d64a494cf75b
+ref: proga.d.2003a
+title: 'Accretion of Low Angular Momentum Material onto Black Holes: Two-dimensional
+  Magnetohydrodynamic Case'
+type: article
+volume: '592'
+year: '2003'

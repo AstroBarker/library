@@ -1,0 +1,52 @@
+abstract: We present a quantitative study on the properties at death of fast-rotating
+  massive stars evolved at low-metallicity---objects that are proposed as likely progenitors
+  of long-duration gamma-ray bursts (LGRBs). We perform one-dimensional+rotation stellar-collapse
+  simulations on the progenitor models of Woosley and Heger, and critically assess
+  their potential for the formation of a black hole and a Keplerian disk (namely,
+  a collapsar) or a proto-magnetar. We note that theoretical uncertainties in the
+  treatment of magnetic fields and the approximate handling of rotation compromise
+  the accuracy of stellar-evolution models. We find that only the fastest rotating
+  progenitors achieve sufficient compactness for black hole formation while the bulk
+  of models possess a core density structure typical of garden-variety core-collapse
+  supernova (SN) progenitors evolved without rotation and at solar metallicity. Of
+  the models that do have sufficient compactness for black hole formation, most of
+  them also retain a large amount of angular momentum in the core, making them prone
+  to a magneto-rotational explosion, therefore preferentially leaving behind a proto-magnetar.
+  A large progenitor angular-momentum budget is often the sole criterion invoked in
+  the community today to assess the suitability for producing a collapsar. This simplification
+  ignores equally important considerations such as the core compactness, which conditions
+  black hole formation, the core angular momentum, which may foster a magneto-rotational
+  explosion preventing black hole formation, or the metallicity and the residual envelope
+  mass which must be compatible with inferences from observed LGRB/SNe. Our study
+  suggests that black hole formation is non-trivial, that there is room for accommodating
+  both collapsars and proto-magnetars as LGRB progenitors, although proto-magnetars
+  seem much more easily produced by current stellar-evolutionary models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...754...76D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.1926
+author: Dessart, L. and O'Connor, E. and Ott, C. D.
+author_list:
+- family: Dessart
+  given: L.
+- family: O'Connor
+  given: E.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-10 19:27:37 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/754/1/76
+eid: '76'
+eprint: '1203.1926'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, stars: evolution, stars: mass-loss,
+  stars: rotation, supernovae: general'
+month: July
+pages: '76'
+papis_id: 7cb7066f17b8a383d2e86b3d4378f3f7
+primaryclass: astro-ph.HE
+ref: dessart.l.2012
+title: The Arduous Journey to Black Hole Formation in Potential Gamma-Ray Burst Progenitors
+type: article
+volume: '754'
+year: '2012'

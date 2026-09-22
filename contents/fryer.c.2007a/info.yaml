@@ -1,0 +1,38 @@
+abstract: 'The results of a three-dimensional SNSPH simulation of the core collapse
+  of a 23 Msolar star are presented. This simulation did not launch an explosion until
+  over 600 ms after collapse, allowing an ideal opportunity to study the evolution
+  and structure of the convection below the accretion shock to late times. This late-time
+  convection allows us to study several of the recent claims in the literature about
+  the role of convection: is it dominated by an l=1 mode driven by vortical-acoustic
+  (or other) instability, does it produce strong neutron star kicks, and, finally,
+  is it the key to a new explosion mechanism? The convective region buffets the neutron
+  star, imparting a 150-200 km s-1 kick. Because the l=1 mode does not dominate the
+  convection, the neutron star does not achieve large (>450 km s-1) velocities. Finally,
+  the neutron star in this simulation moves but does not develop strong oscillations,
+  the energy source for a recently proposed supernova engine. We discuss the implications
+  these results have for supernovae, hypernovae (and gamma-ray bursts), and stellar-mass
+  black holes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...659.1438F
+arxivurl: http://arxiv.org/abs/astro-ph/0612154
+author: Fryer, C. L. and Young, P. A.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Young
+  given: P. A.
+date-added: 2017-08-10 18:30:32 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/513003
+eprint: astro-ph/0612154
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Supernovae: General'
+month: April
+pages: 1438--1448
+papis_id: 4709b9feb4e7d7a88b7efc547ee155da
+ref: fryer.c.2007a
+title: Late-Time Convection in the Collapse of a 23 M$_solar$ Star
+type: article
+volume: '659'
+year: '2007'

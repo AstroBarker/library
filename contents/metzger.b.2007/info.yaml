@@ -1,0 +1,48 @@
+abstract: We solve the one-dimensional neutrino-heated nonrelativistic magnetohydrodynamic
+  (MHD) wind problem for conditions that range from slowly rotating (spin period P>~10
+  ms) proto-neutron stars (PNSs) with field strengths typical of radio pulsars (B<~1013
+  G) to ``protomagnetars'' with B~1014-1015 G in their hypothesized rapidly rotating
+  initial states (P~1 ms). We use the relativistic axisymmetric simulations of Bucciantini
+  and coworkers to map our split-monopole results onto a more physical dipole geometry
+  and to estimate the spin-down of PNSs when their winds are relativistic. We then
+  quantify the effects of rotation and magnetic fields on the mass loss, energy loss,
+  and r-process nucleosynthesis in PNS winds. We describe the evolution of PNS winds
+  through the Kelvin-Helmholtz cooling epoch, emphasizing the transition between (1)
+  thermal neutrino-driven, (2) nonrelativistic magnetically dominated, and (3) relativistic
+  magnetically dominated outflows. In the latter, spin-down is enhanced relative to
+  the canonical force-free rate because of additional open magnetic flux caused by
+  neutrino-driven mass loss. We find that protomagnetars with P~1 ms and B>~1015 G
+  drive winds with luminosities, energies, and Lorentz factors (magnetization sigma~0.1-1000)
+  consistent with those required to produce long-duration gamma-ray bursts and hyperenergetic
+  supernovae (SNe). A significant fraction of the rotational energy may be extracted
+  in only a few seconds, sufficiently rapidly to alter the energy of the SN remnant,
+  its morphology, and potentially its nucleosynthesis. We show that winds from protomagnetars
+  with P~2-10 ms produce conditions more favorable for the r-process than winds from
+  slowly rotating, nonmagnetized PNSs; in addition, energy and momentum deposition
+  by convectively excited waves further increase the likelihood of a successful r-process.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...659..561M
+arxivurl: http://arxiv.org/abs/astro-ph/0608682
+author: Metzger, B. D. and Thompson, T. A. and Quataert, E.
+author_list:
+- family: Metzger
+  given: B. D.
+- family: Thompson
+  given: T. A.
+- family: Quataert
+  given: E.
+date-added: 2017-08-10 18:45:07 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512059
+eprint: astro-ph/0608682
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Magnetic Fields, Stars: Neutron, Stars: Winds, Outflows, Stars: Supernovae: General'
+month: April
+pages: 561--579
+papis_id: 0ac9efd56191a69e5276159bf95b7604
+ref: metzger.b.2007
+title: Proto-Neutron Star Winds with Magnetic Fields and Rotation
+type: article
+volume: '659'
+year: '2007'

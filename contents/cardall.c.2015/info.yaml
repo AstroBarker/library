@@ -1,0 +1,36 @@
+abstract: Aside from numerical algorithms and problem setup, large-scale physics simulations
+  on distributed-memory supercomputers require more basic utilitarian functionality,
+  such as physical units and constants; display to the screen or standard output device;
+  message passing; I/O to disk; and runtime parameter management and usage statistics.
+  Here we describe and make available Fortran 2003 classes furnishing extensible object-oriented
+  implementations of this sort of rudimentary functionality, along with individual
+  'unit test' programs and larger example problems demonstrating their use. These
+  classes compose the Basics division of our developing astrophysics simulation code
+  GENASIS  (General Astrophysical Simulation System), but their fundamental nature
+  makes them useful for physics simulations in many fields.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015CoPhC.196..506C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1507.02506
+author: Cardall, C. Y. and Budiardja, R. D.
+author_list:
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+date-added: 2017-08-30 20:08:12 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1016/j.cpc.2015.06.001
+eprint: '1507.02506'
+journal: Computer Physics Communications
+keywords: Simulation framework, Object-oriented programming, Fortran 2003
+month: November
+pages: 506--534
+papis_id: de79b4fee3962ae6f503d5f749f7a1cb
+primaryclass: astro-ph.IM
+ref: cardall.c.2015
+title: 'GENASIS Basics: Object-oriented utilitarian functionality for large-scale
+  physics simulations'
+type: article
+volume: '196'
+year: '2015'

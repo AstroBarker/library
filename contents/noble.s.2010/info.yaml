@@ -1,0 +1,48 @@
+abstract: 'We explore the parameter dependence of inner disk stress in black hole
+  accretion by contrasting the results of a number of simulations, all employing three-dimensional
+  general relativistic MHD in a Schwarzschild spacetime. Five of these simulations
+  were performed with the intrinsically conservative code HARM3D, which allows careful
+  regulation of the disk aspect ratio, H/R; our simulations span a range in H/R from
+  0.06 to 0.17. We contrast these simulations with two previously reported simulations
+  in a Schwarzschild spacetime in order to investigate possible dependence of the
+  inner disk stress on magnetic topology. In all cases, much care was devoted to technical
+  issues: ensuring adequate resolution and azimuthal extent, and averaging only over
+  those time periods when the accretion flow is in approximate inflow equilibrium.
+  We find that the time-averaged radial dependence of fluid-frame electromagnetic
+  stress is almost completely independent of both disk thickness and poloidal magnetic
+  topology. It rises smoothly inward at all radii (exhibiting no feature associated
+  with the innermost stable circular orbit, ISCO) until just outside the event horizon,
+  where the stress plummets to zero. Reynolds stress can also be significant near
+  the ISCO and in the plunging region; the magnitude of this stress, however, depends
+  on both disk thickness and magnetic topology. The two stresses combine to make the
+  net angular momentum accreted per unit rest mass 7\%-15\% less than the angular
+  momentum of the ISCO.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...711..959N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.4809
+author: Noble, S. C. and Krolik, J. H. and Hawley, J. F.
+author_list:
+- family: Noble
+  given: S. C.
+- family: Krolik
+  given: J. H.
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-10 14:56:22 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/711/2/959
+eprint: '1001.4809'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, magnetohydrodynamics: MHD,
+  radiative transfer'
+month: March
+pages: 959--973
+papis_id: 25a398ae697cdde6bf621f73bbdda034
+primaryclass: astro-ph.HE
+ref: noble.s.2010
+title: 'Dependence of Inner Accretion Disk Stress on Parameters: The Schwarzschild
+  Case'
+type: article
+volume: '711'
+year: '2010'

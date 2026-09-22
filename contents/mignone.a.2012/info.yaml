@@ -1,0 +1,62 @@
+abstract: 'Context. Explicit numerical computations of hypersonic or super-fast differentially
+  rotating disks are subject to the time-step constraint imposed by the Courant condition,
+  according to which waves cannot travel more than a fraction of a cell during a single
+  time-step update. When the bulk orbital velocity largely exceeds any other wave
+  speed (e.g., sound or Alfv{\''e}n), as computed in the rest frame, the time step
+  is considerably reduced and an unusually large number of steps may be necessary
+  to complete the computation.  Aims: We present a robust numerical scheme to overcome
+  the Courant limitation by improving and extending the algorithm previously known
+  as FARGO (fast advection in rotating gaseous objects) to the equations of magnetohydrodynamics
+  (MHD) using a more general formalism. The proposed scheme conserves total angular
+  momentum and energy to machine precision and works in cartesian, cylindrical, or
+  spherical coordinates. The algorithm has been implemented in the next release of
+  the PLUTO code for astrophysical gasdynamics and is suitable for local or global
+  simulations of accretion or proto-planetary disk models.  Methods: By decomposing
+  the total velocity into an average azimuthal contribution and a residual term, the
+  algorithm approaches the solution of the MHD equations through two separate steps
+  corresponding to a linear transport operator in the direction of orbital motion
+  and a standard nonlinear solver applied to the MHD equations written in terms of
+  the residual velocity. Since the former step is not subject to any stability restriction,
+  the Courant condition is computed only in terms of the residual velocity, leading
+  to substantially larger time steps. The magnetic field is advanced in time using
+  the constrained transport method in order to fulfill the divergence-free condition.
+  Furthermore, conservation of total energy and angular momentum is enforced at the
+  discrete level by properly expressing the source terms in terms of upwind Godunov
+  fluxes available during the standard solver.  Results: Our results show that applications
+  of the proposed orbital-advection scheme to problems of astrophysical relevance
+  provides, at reduced numerical cost, equally accurate and less dissipative results
+  than standard time-marching schemes.  Freely distributed at http://plutocode.ph.unito.it.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...545A.152M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.2955
+author: Mignone, A. and Flock, M. and Stute, M. and Kolb, S. M. and Muscianisi, G.
+author_list:
+- family: Mignone
+  given: A.
+- family: Flock
+  given: M.
+- family: Stute
+  given: M.
+- family: Kolb
+  given: S. M.
+- family: Muscianisi
+  given: G.
+date-added: 2017-08-10 19:15:29 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1051/0004-6361/201219557
+eid: A152
+eprint: '1207.2955'
+journal: \aap
+keywords: 'methods: numerical, accretion, accretion disks, protoplanetary disks, magnetohydrodynamics
+  (MHD), turbulence'
+month: September
+pages: A152
+papis_id: 86d3912c0b7e293c39aadc0ac1f80d50
+primaryclass: astro-ph.IM
+ref: mignone.a.2012
+title: A conservative orbital advection scheme for simulations of magnetized shear
+  flows with the PLUTO code
+type: article
+volume: '545'
+year: '2012'

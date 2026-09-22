@@ -1,0 +1,52 @@
+abstract: The ever-expanding depth and quality of photometric and spectroscopic observations
+  of stellar populations increase the need for theoretical models in regions of age-composition
+  parameter space that are largely unexplored at present. Stellar evolution models
+  that employ the most advanced physics and cover a wide range of compositions are
+  needed to extract the most information from current observations of both resolved
+  and unresolved stellar populations. The Dartmouth Stellar Evolution Database is
+  a collection of stellar evolution tracks and isochrones that spans a range of [Fe/H]
+  from -2.5 to +0.5, [alpha/Fe] from -0.2 to +0.8 (for [Fe/H] <= 0) or +0.2 (for [Fe/H]
+  > 0), and initial He mass fractions from Y = 0.245 to 0.40. Stellar evolution tracks
+  were computed for masses between 0.1 and 4 M\&sun;, allowing isochrones to be generated
+  for ages as young as 250 Myr. For the range in masses where the core He flash occurs,
+  separate He-burning tracks were computed starting from the zero age horizontal branch.
+  The tracks and isochrones have been transformed to the observational plane in a
+  variety of photometric systems including standard UBV(RI)C, Stromgren uvby, SDSS
+  ugriz, 2MASS JHKs, and HST ACS/WFC and WFPC2. The Dartmouth Stellar Evolution Database
+  is accessible through a Web site at http://stellar.dartmouth.edu/~models/ where
+  all tracks, isochrones, and additional files can be downloaded.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..178...89D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.4473
+author: Dotter, A. and Chaboyer, B. and Jevremović, D. and Kostov, V. and Baron, E.
+  and Ferguson, J. W.
+author_list:
+- family: Dotter
+  given: A.
+- family: Chaboyer
+  given: B.
+- family: Jevremović
+  given: D.
+- family: Kostov
+  given: V.
+- family: Baron
+  given: E.
+- family: Ferguson
+  given: J. W.
+date-added: 2017-08-10 20:54:55 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/589654
+eid: 89-101
+eprint: '0804.4473'
+journal: \apjs
+keywords: 'globular clusters: general, open clusters and associations: general, stars:
+  evolution'
+month: September
+pages: 89--101
+papis_id: b80ed5a7ce94804b4da17c409916c7a8
+ref: dotter.a.2008
+title: The Dartmouth Stellar Evolution Database
+type: article
+volume: '178'
+year: '2008'

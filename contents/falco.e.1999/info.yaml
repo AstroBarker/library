@@ -1,0 +1,65 @@
+abstract: The Zwicky Catalog of galaxies (ZC), with mZw<=15.5, has been the basis
+  for the Center for Astrophysics (CfA) redshift surveys. To date, analyses of the
+  ZC and redshift surveys based on it have relied on heterogeneous sets of galaxy
+  coordinates and redshifts. Here we correct some of the inadequacies of previous
+  catalogs by providing (1) coordinates with <~2" errors for all of the 19,369 catalog
+  galaxies, (2) homogeneously estimated redshifts for the majority (98\%) of the data
+  taken at the CfA (14,632 spectra), and (3) an estimate of the remaining ``blunder''
+  rate for both the CfA redshifts and for those compiled from the literature. For
+  the reanalyzed CfA data we include a calibrated, uniformly determined error and
+  an indication of the presence of emission lines in each spectrum. We provide redshifts
+  for 7257 galaxies in the CfA2 redshift survey not previously published; for another
+  5625 CfA redshifts we list the remeasured or uniformly rereduced value. Among our
+  new measurements, 1807 are members of UZC ``multiplets'' associated with the original
+  Zwicky catalog position in the coordinate range where the catalog is 98\% complete.
+  These multiplets provide new candidates for examination of tidal interactions among
+  galaxies. All of the new redshifts correspond to UZC galaxies with properties recorded
+  in the CfA redshift compilation known as ZCAT. About 1000 of our new measurements
+  were motivated either by inadequate signal-to-noise in the original spectrum or
+  by an ambiguous identification of the galaxy associated with a ZCAT redshift. The
+  redshift catalog we include here is ~96\% complete to mZw<=15.5 and ~98\% complete
+  (12,925 galaxies out of a total of 13,150) for the right ascension ranges  20h<=alpha1950<=4h
+  and 8h<=alpha1950<=17h and declination range -2.5$\,^{\circ}$<=delta1950<=50\$\,^{\circ}\$.
+  This more complete region includes all of the CfA2 survey as analyzed to date. The
+  Great Wall structure persists throughout the northern survey region. Dedicated to
+  the memory of Jim Peters, whose friendship, skill, and dedication were essential
+  to this work.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999PASP..111..438F
+arxivurl: http://arxiv.org/abs/astro-ph/9904265
+author: Falco, E. E. and Kurtz, M. J. and Geller, M. J. and Huchra, J. P. and Peters,
+  J. and Berlind, P. and Mink, D. J. and Tokarz, S. P. and Elwell, B.
+author_list:
+- family: Falco
+  given: E. E.
+- family: Kurtz
+  given: M. J.
+- family: Geller
+  given: M. J.
+- family: Huchra
+  given: J. P.
+- family: Peters
+  given: J.
+- family: Berlind
+  given: P.
+- family: Mink
+  given: D. J.
+- family: Tokarz
+  given: S. P.
+- family: Elwell
+  given: B.
+date-added: 2017-08-11 02:25:36 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/316343
+eprint: astro-ph/9904265
+journal: \pasp
+keywords: 'ASTROMETRY, CATALOGS, COSMOLOGY: OBSERVATIONS, GALAXIES: DISTANCES AND
+  REDSHIFTS'
+month: April
+pages: 438--452
+papis_id: cf21de76e2f4ac3020c0096155472ca8
+ref: falco.e.1999
+title: The Updated Zwicky Catalog (UZC)
+type: article
+volume: '111'
+year: '1999'

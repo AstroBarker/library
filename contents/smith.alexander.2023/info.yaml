@@ -1,0 +1,40 @@
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: https://ui.adsabs.harvard.edu/abs/2023ApJ...947...65S
+author: Smith, Alexander I. and Johnson, Eric T. and Chen, Zhi and Eiden, Kiran and
+  Willcox, Donald E. and Boyd, Brendan and Cao, Lyra and DeGrendele, Christopher J.
+  and Zingale, Michael
+author_list:
+- family: Smith
+  given: Alexander I.
+- family: Johnson
+  given: Eric T.
+- family: Chen
+  given: Zhi
+- family: Eiden
+  given: Kiran
+- family: Willcox
+  given: Donald E.
+- family: Boyd
+  given: Brendan
+- family: Cao
+  given: Lyra
+- family: DeGrendele
+  given: Christopher J.
+- family: Zingale
+  given: Michael
+doi: 10.3847/1538-4357/acbaff
+eid: '65'
+groups: Code/Software
+journal: \apj
+keywords: Nuclear astrophysics, Nucleosynthesis, Nuclear fusion, Astrophysical processes,
+  Reaction rates, Astronomy software, Computational astronomy, 1129, 1131, 2324, 104,
+  2081, 1855, 293
+month: April
+number: '2'
+pages: '65'
+papis_id: 42fa4d42a5d90bf6a29e6f5cc319e468
+ref: smith.alexander.2023
+title: 'pynucastro: A Python Library for Nuclear Astrophysics'
+type: article
+volume: '947'
+year: '2023'

@@ -1,0 +1,41 @@
+abstract: The progenitor channel responsible for the majority of Type Ia supernovae
+  is still uncertain. One emergent scenario involves the detonation of a He-rich layer
+  surrounding a C/O white dwarf, which sends a shock wave into the core. The quasi-spherical
+  shock wave converges and strengthens at an off-center location, forming a second,
+  C-burning, detonation that disrupts the whole star. In this paper, we examine this
+  second detonation of the double detonation scenario using a combination of analytic
+  and numeric techniques. We perform a spatially resolved study of the imploding shock
+  wave and outgoing detonation and calculate the critical imploding shock strengths
+  needed to achieve a core C detonation. We find that He detonations in recent two-dimensional
+  simulations yield converging shock waves that are strong enough to ignite C detonations
+  in high-mass C/O cores, with the caveat that a truly robust answer requires multi-dimensional
+  detonation initiation calculations. We also find that convergence-driven detonations
+  in low-mass C/O cores and in O/Ne cores are harder to achieve and are perhaps unrealized
+  in standard binary evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...785...61S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.6925
+author: Shen, K. J. and Bildsten, L.
+author_list:
+- family: Shen
+  given: K. J.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 15:27:20 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/785/1/61
+eid: '61'
+eprint: '1305.6925'
+journal: \apj
+keywords: 'binaries: close, nuclear reactions, nucleosynthesis, abundances, shock
+  waves, supernovae: general, white dwarfs'
+month: April
+pages: '61'
+papis_id: 9e5b3f9033e294e0e0d4e71a3b4c8067
+primaryclass: astro-ph.HE
+ref: shen.k.2014
+title: The Ignition of Carbon Detonations via Converging Shock Waves in White Dwarfs
+type: article
+volume: '785'
+year: '2014'

@@ -1,0 +1,42 @@
+abstract: 'This paper presents a study of quasi-steady spherical accretion in the
+  early universe, before the formation of the first stars and galaxies. The main motivation
+  is to derive the basic formulas that will be used in a companion paper to calculate
+  the accretion luminosity of primordial black holes and their effect on the cosmic
+  ionization history. The following cosmological effects are investigated: the coupling
+  of the gas to the CMB photon fluid (i.e., Compton drag), Hubble expansion, and the
+  growth of the dark matter halo seeded by the gravitational potential of the central
+  point mass. The gas equations of motion are solved assuming either a polytropic
+  or an isothermal equation of state. We consider the cases in which the accreting
+  object is a point mass or a spherical dark matter halo with power-law density profile,
+  as predicted by the theory of ``secondary infall.'''' Analytical solutions for the
+  sonic radius and fitting formulas for the accretion rate are provided. Different
+  accretion regimes exist, depending on the mass of the accreting object. If the black
+  hole mass is smaller than ~50-100 Msolar, gas accretion is unaffected by Compton
+  drag. A point mass and an extended dark halo of equal mass accrete at the same rate
+  if M>~5000 Msolar, while smaller mass dark halos accrete less efficiently than the
+  equivalent point mass. For masses M>~3\texttimes{}104 Msolar, the viscous term due
+  to the Hubble expansion becomes important, and the assumption of quasi-steady flow
+  fails. The steady Bondi solutions transition to the time-dependent self-similar
+  solutions for ``cold'''' cosmological infall.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662...53R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.0864
+author: Ricotti, M.
+author_list:
+- family: Ricotti
+  given: M.
+date-added: 2017-08-11 05:46:25 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/516562
+eprint: '0706.0864'
+journal: \apj
+keywords: 'Black Hole Physics, Cosmology: Theory'
+month: June
+pages: 53--61
+papis_id: 0481a8782e1aac2ee237cf99a294ace9
+ref: ricotti.m.2007
+title: Bondi Accretion in the Early Universe
+type: article
+volume: '662'
+year: '2007'

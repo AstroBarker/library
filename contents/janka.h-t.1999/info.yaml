@@ -1,0 +1,48 @@
+abstract: Hydrodynamic simulations of the merger of stellar mass black hole-neutron
+  star binaries are compared with mergers of binary neutron stars. The simulations
+  are Newtonian but take into account the emission and back-reaction of gravitational
+  waves. The use of a physical nuclear equation of state allows us to include the
+  effects of neutrino emission. For low neutron star-to-black hole mass ratios, the
+  neutron star transfers mass to the black hole during a few cycles of orbital decay
+  and subsequent widening before finally being disrupted, whereas for ratios near
+  unity the neutron star is destroyed during its first approach. A gas mass between
+  ~0.3 and ~0.7 Msolar is left in an accretion torus around the black hole and radiates
+  neutrinos at a luminosity of several times 1053 ergs s-1 during an estimated accretion
+  timescale of about 0.1 s. The emitted neutrinos and antineutrinos annihilate into
+  e+/- pairs with efficiencies of 1\%-3\% and rates of up to ~2\texttimes{}1052 ergs
+  s-1, thus depositing an energy Enunu\textasciimacron{}<~1051 ergs above the poles
+  of the black hole in a region that contains less than 10-5 Msolar of baryonic matter.
+  This could allow for relativistic expansion with Lorentz factors around 100 and
+  is sufficient to explain apparent burst luminosities Lgamma~Enunu\textasciimacron{}/(fOmegatgamma)
+  up to several times 1053 ergs s-1 for burst durations tgamma~0.1-1 s, if the gamma
+  emission is collimated in two moderately focused jets in a fraction fOmega=2deltaOmega/(4pi)~(1/100)-(1/10)
+  of the sky.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...527L..39J
+arxivurl: http://arxiv.org/abs/astro-ph/9908290
+author: Janka, H.-T. and Eberl, T. and Ruffert, M. and Fryer, C. L.
+author_list:
+- family: Janka
+  given: H.-T.
+- family: Eberl
+  given: T.
+- family: Ruffert
+  given: M.
+- family: Fryer
+  given: C. L.
+date-added: 2017-08-10 17:59:55 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/312397
+eprint: astro-ph/9908290
+journal: \apjl
+keywords: 'STARS: BINARIES: CLOSE, BLACK HOLE PHYSICS, GAMMA RAYS: BURSTS, STARS:
+  NEUTRON, Stars: Binaries: Close, Black Hole Physics, Gamma Rays: Bursts, Stars:
+  Neutron'
+month: December
+pages: L39-L42
+papis_id: 8eca4ff49bbfd9c134a88c26fd514ffd
+ref: janka.h_t.1999
+title: Black Hole-Neutron Star Mergers as Central Engines of Gamma-Ray Bursts
+type: article
+volume: '527'
+year: '1999'

@@ -1,0 +1,41 @@
+abstract: New X-ray observatories (Chandra and XMM-Newton) are providing a wealth
+  of high-resolution X-ray spectra in which hydrogen- and helium-like ions are usually
+  strong features. We present results from a new collisional-radiative plasma code,
+  the Astrophysical Plasma Emission Code (APEC), which uses atomic data in the companion
+  Astrophysical Plasma Emission Database (APED) to calculate spectral models for hot
+  plasmas. APED contains the requisite atomic data such as collisional and radiative
+  rates, recombination cross sections, dielectronic recombination rates, and satellite
+  line wavelengths. We compare the APEC results to other plasma codes for hydrogen-
+  and helium-like diagnostics and test the sensitivity of our results to the number
+  of levels included in the models. We find that dielectronic recombination with hydrogen-like
+  ions into high (n=6-10) principal quantum numbers affects some helium-like line
+  ratios from low-lying (n=2) transitions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...556L..91S
+arxivurl: http://arxiv.org/abs/astro-ph/0106478
+author: Smith, R. K. and Brickhouse, N. S. and Liedahl, D. A. and Raymond, J. C.
+author_list:
+- family: Smith
+  given: R. K.
+- family: Brickhouse
+  given: N. S.
+- family: Liedahl
+  given: D. A.
+- family: Raymond
+  given: J. C.
+date-added: 2017-08-10 17:31:04 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/322992
+eprint: astro-ph/0106478
+journal: \apjl
+keywords: 'Atomic Data, Atomic Processes, Plasmas, Radiation Mechanisms: Thermal,
+  X-Rays: General'
+month: August
+pages: L91-L95
+papis_id: 101058beba07ccdd498104171b60d53f
+ref: smith.r.2001
+title: 'Collisional Plasma Models with APEC/APED: Emission-Line Diagnostics of Hydrogen-like
+  and Helium-like Ions'
+type: article
+volume: '556'
+year: '2001'

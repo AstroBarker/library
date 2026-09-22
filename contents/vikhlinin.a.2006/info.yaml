@@ -1,0 +1,59 @@
+abstract: We present gas and total mass profiles for 13 low-redshift, relaxed clusters
+  spanning a temperature range 0.7-9 keV, derived from all available Chandra data
+  of sufficient quality. In all clusters, gas-temperature profiles are measured to
+  large radii (Vikhlinin et al.) so that direct hydrostatic mass estimates are possible
+  to nearly r500 or beyond. The gas density was accurately traced to larger radii;
+  its profile is not described well by a beta model, showing continuous steepening
+  with radius. The derived rhotot profiles and their scaling with mass generally follow
+  the Navarro-Frenk-White model with concentration expected for dark matter halos
+  in LambdaCDM cosmology. However, in three cool clusters, we detect a central mass
+  component in excess of the Navarro-Frenk-White profile, apparently associated with
+  their cD galaxies. In the inner region (r<0.1r500), the gas density and temperature
+  profiles exhibit significant scatter and trends with mass, but they become nearly
+  self-similar at larger radii. Correspondingly, we find that the slope of the mass-temperature
+  relation for these relaxed clusters is in good agreement with the simple self-similar
+  behavior, M500~Talpha, where alpha=(1.5-1.6)+/-0.1, if the gas temperatures are
+  measured excluding the central cool cores. The normalization of this M-T relation
+  is significantly, by ~30\%, higher than most previous X-ray determinations. We derive
+  accurate gas mass fraction profiles, which show an increase with both radius and
+  cluster mass. The enclosed fgas profiles within r2500~=0.4r500 have not yet reached
+  any asymptotic value and are still far (by a factor of 1.5-2) from the universal
+  baryon fraction according to the cosmic microwave background (CMB) observations.
+  The fgas trends become weaker and its values closer to universal at larger radii,
+  in particular, in spherical shells r2500<r<r500.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..691V
+arxivurl: http://arxiv.org/abs/astro-ph/0507092
+author: Vikhlinin, A. and Kravtsov, A. and Forman, W. and Jones, C. and Markevitch,
+  M. and Murray, S. S. and Van Speybroeck, L.
+author_list:
+- family: Vikhlinin
+  given: A.
+- family: Kravtsov
+  given: A.
+- family: Forman
+  given: W.
+- family: Jones
+  given: C.
+- family: Markevitch
+  given: M.
+- family: Murray
+  given: S. S.
+- family: Van Speybroeck
+  given: L.
+date-added: 2017-08-11 05:15:20 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500288
+eprint: astro-ph/0507092
+journal: \apj
+keywords: 'Cosmology: Observations, Cosmology: Dark Matter, Galaxies: Clusters: General,
+  X-Rays: Galaxies: Clusters'
+month: April
+pages: 691--709
+papis_id: 66a368d22ae7927c40b87221f34941b9
+ref: vikhlinin.a.2006
+title: 'Chandra Sample of Nearby Relaxed Galaxy Clusters: Mass, Gas Fraction, and
+  Mass-Temperature Relation'
+type: article
+volume: '640'
+year: '2006'

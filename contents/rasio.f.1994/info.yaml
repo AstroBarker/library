@@ -1,0 +1,54 @@
+abstract: We performed a series of three-dimensional hydrodynamic calculations of
+  binary coalescence using the smoothed particle hydrodynamics (SPH) method. The initial
+  conditions are exact polytropic equilibrium configurations on the verge of dynamical
+  instability. We consider synchronized equilbria only and concentrate on stiff equations
+  of state, with adiabatic Gamma greater than 5/3. We assume that the polytropic constants
+  (K identically equal to P/(rhoGamma) are the same for both components. These conditions
+  apply well to models of neutron star binaries. Accordingly, we discuss our results
+  in the context of the Laser Interferometer Gravitational-Wave Observatory (LIGO)
+  project, and we calculate the emission of gravitational radiation in the quadruple
+  approximation. The fully nonlinear development of the instability is followed using
+  SPH until a new equilibrium configuration is reached by the system. We find that
+  the properties of this final configuration depend sensitively on both the compressibility
+  and mass ratio. An axisymmetric merged configuration is always produced when the
+  adiabatic exponent Gamma approximately less than 2.3. As a consequence, the emission
+  of gravitational radiation shuts off abruptly right after the onset of dynamical
+  instability. In contrast, triaxial merged configurations are obtained when Gamma
+  approximately greater than 2.3, and the system continues to emit gravitational waves
+  after the final coalescence. Systems with mass ratios q not equal to 1 typically
+  become dynamically unstable before the onset of mass transfer. Stable mass transfer
+  from one neutron star to another in a close binary is therefore probably ruled out.
+  For a mass ratio q approximately less than 0.5, however, dynamical mass transfer
+  can temporarily retard the coalescence by causing a rapid reexpansion of the binary
+  into a new, slightly eccentric but dynamically stable orbit. The maximum amplitude
+  hmax and peak luminosity Lmax of the gravitational waves emitted during the final
+  coalescence are nearly independent of Gamma, but depend sensitively on the mass
+  ratio q. The approximate scalings we find are hmax varies as q2 and Lmax varies
+  as q6 for q close to unity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...432..242R
+arxivurl: http://arxiv.org/abs/astro-ph/9401027
+author: Rasio, F. A. and Shapiro, S. L.
+author_list:
+- family: Rasio
+  given: F. A.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 03:43:39 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174566
+eprint: astro-ph/9401027
+journal: \apj
+keywords: Astronomical Models, Binary Stars, Coalescing, Dynamic Stability, Equations
+  Of State, Hydrodynamics, Mathematical Models, Neutron Stars, Nonthermal Radiation,
+  Polytropic Processes, Stellar Interiors, Adiabatic Equations, Gravitational Waves,
+  Mass Transfer, Quadrupoles
+month: September
+pages: 242--261
+papis_id: 0b5c4658b592d3e8a51643feec336c12
+ref: rasio.f.1994
+title: 'Hydrodynamics of binary coalescence. 1: Polytropes with stiff equations of
+  state'
+type: article
+volume: '432'
+year: '1994'

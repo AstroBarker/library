@@ -1,0 +1,48 @@
+abstract: We present three-dimensional implicit large eddy simulations of the turbulent
+  convection in the envelope of a 5 M \&sun; red giant star and in the oxygen-burning
+  shell of a 23 M \&sun; supernova progenitor. The numerical models are analyzed in
+  the framework of one-dimensional Reynolds-Averaged Navier-Stokes equations. The
+  effects of pressure fluctuations are more important in the red giant model, owing
+  to larger stratification of the convective zone. We show how this impacts different
+  terms in the mean-field equations. We clarify the driving sources of kinetic energy,
+  and show that the rate of turbulent dissipation is comparable to the convective
+  luminosity. Although our flows have low Mach numbers and are nearly adiabatic, our
+  analysis is general and can be applied to photospheric convection as well. The robustness
+  of our analysis of turbulent convection is supported by the insensitivity of the
+  mean-field balances to linear mesh resolution. We find robust results for the turbulent
+  convection zone and the stable layers in the oxygen-burning shell model, and robust
+  results everywhere in the red giant model, but the mean fields are not well converged
+  in the narrow boundary regions (which contain steep gradients) in the oxygen-burning
+  shell model. This last result illustrates the importance of unresolved physics at
+  the convective boundary, which governs the mixing there.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769....1V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.6365
+author: Viallet, M. and Meakin, C. and Arnett, D. and Mocák, M.
+author_list:
+- family: Viallet
+  given: M.
+- family: Meakin
+  given: C.
+- family: Arnett
+  given: D.
+- family: Mocák
+  given: M.
+date-added: 2017-08-10 15:04:43 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/769/1/1
+eid: '1'
+eprint: '1212.6365'
+journal: \apj
+keywords: 'convection, hydrodynamics, stars: evolution, stars: interiors, turbulence'
+month: May
+pages: '1'
+papis_id: 2e2de6da0c4e8e962db801aab036fd1c
+primaryclass: astro-ph.SR
+ref: viallet.m.2013a
+title: Turbulent Convection in Stellar Interiors. III. Mean-field Analysis and Stratification
+  Effects
+type: article
+volume: '769'
+year: '2013'

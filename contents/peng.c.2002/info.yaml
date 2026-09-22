@@ -1,0 +1,54 @@
+abstract: 'We present a two-dimensional fitting algorithm (GALFIT) designed to extract
+  structural components from galaxy images, with emphasis on closely modeling light
+  profiles of spatially well-resolved, nearby galaxies observed with the Hubble Space
+  Telescope. Our algorithm improves on previous techniques in two areas: by being
+  able to simultaneously fit a galaxy with an arbitrary number of components and with
+  optimization in computation speed, suited for working on large galaxy images. We
+  use two-dimensional models such as the ``Nuker'''' law, the S{\''e}rsic (de Vaucouleurs)
+  profile, an exponential disk, and Gaussian or Moffat functions. The azimuthal shapes
+  are generalized ellipses that can fit disky and boxy components. Some potential
+  applications of our program include: standard modeling of global galaxy profiles;
+  extracting bars, stellar disks, double nuclei, and compact nuclear sources; and
+  measuring absolute dust extinction or surface brightness fluctuations after removing
+  the galaxy model. When examined in detail, we find that even simple looking galaxies
+  generally require at least three components to be modeled accurately, rather than
+  the one or two components more often employed. Many galaxies with complex isophotes,
+  ellipticity changes, and position angle twists can be modeled accurately in two
+  dimensions. We illustrate this by way of 11 case studies, which include regular
+  and barred spiral galaxies, highly disky lenticular galaxies, and elliptical galaxies
+  displaying various levels of complexities. A useful extension of this algorithm
+  is to accurately extract nuclear point sources in galaxies. We compare two-dimensional
+  and one-dimensional extraction techniques on simulated images of galaxies having
+  nuclear slopes with different degrees of cuspiness, and we then illustrate the application
+  of the program to several examples of nearby galaxies with weak nuclei. Based on
+  observations with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope
+  Science Institute, which is operated by the Association of Universities for Research
+  in Astronomy (AURA), Inc., under NASA contract NAS 5-26555.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....124..266P
+arxivurl: http://arxiv.org/abs/astro-ph/0204182
+author: Peng, C. Y. and Ho, L. C. and Impey, C. D. and Rix, H.-W.
+author_list:
+- family: Peng
+  given: C. Y.
+- family: Ho
+  given: L. C.
+- family: Impey
+  given: C. D.
+- family: Rix
+  given: H.-W.
+date-added: 2017-08-10 17:21:47 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340952
+eprint: astro-ph/0204182
+journal: \aj
+keywords: 'Galaxies: Bulges, Galaxies: Fundamental Parameters, Galaxies: Nuclei, Galaxies:
+  Structure, Techniques: Image Processing, Techniques: Photometric'
+month: July
+pages: 266--293
+papis_id: 31a246324a22b0a1fb9a33c8165f812f
+ref: peng.c.2002
+title: Detailed Structural Decomposition of Galaxy Images
+type: article
+volume: '124'
+year: '2002'

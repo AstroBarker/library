@@ -1,0 +1,77 @@
+abstract: 'Context. Type Ib/c supernovae (SNe Ib/c) have been investigated in several
+  single-object studies; however, there is still a paucity of works concerning larger,
+  homogeneous samples of these hydrogen-poor transients, in particular regarding the
+  premaximum phase of their light curves.  Aims: In this paper we present and analyze
+  the early-time optical light curves (LCs, ugriz) of 20 SNe Ib/c from the Sloan Digital
+  Sky Survey (SDSS) SN survey II, aiming to study their observational and physical
+  properties, as well as to derive their progenitor parameters.  Methods: High-cadence,
+  multiband LCs are fitted with a functional model and the best-fit parameters are
+  compared among the SN types. Bolometric LCs (BLCs) are constructed for the entire
+  sample. We also computed the black-body (BB) temperature (TBB) and photospheric
+  radius (Rph) evolution for each SN via BB fits on the spectral energy distributions.
+  In addition, the bolometric properties are compared to both hydrodynamical and analytical
+  model expectations.  Results: Complementing our sample with literature data, we
+  find that SNe Ic and Ic-BL (broad-line) have shorter rise times than those of SNe
+  Ib and IIb. The decline rate parameter, Deltam15, is similar among the different
+  subtypes. SNe Ic appear brighter and bluer than SNe Ib, but this difference vanishes
+  if we consider host galaxy extinction corrections based on colors. Templates for
+  SN Ib/c LCs are presented. Our SNe have typical TBB of ~10 000 K at the peak and
+  Rph of ~1015 cm. Analysis of the BLCs of SNe Ib and Ic gives typical ejecta masses
+  Mej\approx{} 3.6-5.7 M\&sun;, energies EK\approx{} 1.5-1.7\texttimes{}1051 erg,
+  and M(56Ni) \approx{} 0.3 M\&sun;. Higher values for EK and M(56Ni) are estimated
+  for SNe Ic-BL (Mej\approx{} 5.4 M\&sun;, EK\approx{} 10.7\texttimes{}1051 erg, M(56Ni)
+  \approx{} 1.1 M\&sun;). For the majority of SNe Ic and Ic-BL, we can put strong
+  limits (<2-4 days) on the duration of the expected early-time plateau. Less stringent
+  limits can be placed on the duration of the plateau for the sample of SNe Ib. In
+  the single case of SN Ib 2006lc, a >5.9 days plateau seems to be detected. The rising
+  part of the BLCs is reproduced by power laws with index <2. For two events (SN 2005hm
+  and SN 2007qx), we find signatures of a possible shock break-out cooling tail.  Conclusions:
+  Based on the limits for the plateau length and on the slow rise of the BLCs, we
+  find that in most of our SNe Ic and Ic-BL the 56Ni is mixed out to the outer layers,
+  suggesting that SN Ic progenitors are de facto helium poor. The derived progenitor
+  parameters (56Ni, EK, Mej) are consistent with previous works.  Figures 1, 7 and
+  Tables 1-7 are available in electronic form at http://www.aanda.orgLight curve templates
+  are only available at the CDS via anonymous ftp to http://cdsarc.u-strasbg.fr (ftp://130.79.128.5)
+  or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/574/A60'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015A\%26A...574A..60T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1408.4084
+author: Taddia, F. and Sollerman, J. and Leloudas, G. and Stritzinger, M. D. and Valenti,
+  S. and Galbany, L. and Kessler, R. and Schneider, D. P. and Wheeler, J. C.
+author_list:
+- family: Taddia
+  given: F.
+- family: Sollerman
+  given: J.
+- family: Leloudas
+  given: G.
+- family: Stritzinger
+  given: M. D.
+- family: Valenti
+  given: S.
+- family: Galbany
+  given: L.
+- family: Kessler
+  given: R.
+- family: Schneider
+  given: D. P.
+- family: Wheeler
+  given: J. C.
+date-added: 2017-08-11 08:14:20 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1051/0004-6361/201423915
+eid: A60
+eprint: '1408.4084'
+journal: \aap
+keywords: 'supernovae: general'
+month: February
+pages: A60
+papis_id: 84dbc90c1b89f34198ec1c109a7a4ed5
+primaryclass: astro-ph.HE
+ref: taddia.f.2015
+title: Early-time light curves of Type Ib/c supernovae from the SDSS-II Supernova
+  Survey
+type: article
+volume: '574'
+year: '2015'

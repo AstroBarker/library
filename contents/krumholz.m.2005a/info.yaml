@@ -1,0 +1,39 @@
+abstract: The classical Bondi-Hoyle formula gives the accretion rate onto a point
+  particle of a gas with a uniform density and velocity. However, the Bondi-Hoyle
+  problem considers only gas with no net vorticity, while in a real astrophysical
+  situation accreting gas invariably has at least a small amount of vorticity. We
+  therefore consider the related case of accretion of gas with constant vorticity,
+  for the cases of both small and large vorticity. We confirm the findings of earlier
+  two-dimensional simulations that even a small amount of vorticity can substantially
+  change both the accretion rate and the morphology of the gas flow lines. We show
+  that in three dimensions the resulting flow field is nonaxisymmetric and time-dependent.
+  The reduction in accretion rate is due to an accumulation of circulation near the
+  accreting particle. Using a combination of simulations and analytic treatment, we
+  provide an approximate formula for the accretion rate of gas onto a point particle
+  as a function of the vorticity of the surrounding gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...618..757K
+arxivurl: http://arxiv.org/abs/astro-ph/0409454
+author: Krumholz, M. R. and McKee, C. F. and Klein, R. I.
+author_list:
+- family: Krumholz
+  given: M. R.
+- family: McKee
+  given: C. F.
+- family: Klein
+  given: R. I.
+date-added: 2017-08-11 05:42:56 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/426051
+eprint: astro-ph/0409454
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Hydrodynamics, Stars: Formation,
+  Stars: Neutron'
+month: January
+pages: 757--768
+papis_id: b9f00eb02a6ac26765b53a462153f9c5
+ref: krumholz.m.2005a
+title: Bondi Accretion in the Presence of Vorticity
+type: article
+volume: '618'
+year: '2005'

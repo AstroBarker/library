@@ -1,0 +1,103 @@
+abstract: We present the modeling of SINFONI integral field dynamics of 18 star-forming
+  galaxies at z ~ 2 from Halpha line emission. The galaxies are selected from the
+  larger sample of the SINS survey, based on the prominence of ordered rotational
+  motions with respect to more complex merger-induced dynamics. The quality of the
+  data allows us to carefully select systems with kinematics dominated by rotation,
+  and to model the gas dynamics across the whole galaxy using suitable exponential
+  disk models. We obtain a good correlation between the dynamical mass and the stellar
+  mass, finding that large gas fractions (M gas \approx{} M \textasteriskcentered)
+  are required to explain the difference between the two quantities. We use the derived
+  stellar mass and maximum rotational velocity V max from the modeling to construct
+  for the first time the stellar mass Tully-Fisher relation at z ~ 2.2. The relation
+  obtained shows a slope similar to what is observed at lower redshift, but we detect
+  an evolution of the zero point. We find that at z ~ 2.2 there is an offset in log(M
+  \textasteriskcentered) for a given rotational velocity of 0.41 $\pm$ 0.11 with respect
+  to the local universe. This result is consistent with the predictions of the latest
+  N-body/hydrodynamical simulations of disk formation and evolution, which invoke
+  gas accretion onto the forming disk in filaments and cooling flows. This scenario
+  is in agreement with other dynamical evidence from SINS, where gas accretion from
+  the halo is required to reproduce the observed properties of a large fraction of
+  the z ~ 2 galaxies.  Based on observations obtained at the Very Large Telescope
+  (VLT) of the European Southern Observatory, Paranal, Chile, in the context of guaranteed
+  time programs 073.B-9018, 074.A-9011, 075.A-0466, 076.A-0527, 077.A-0576, 078.A-0600,
+  078.A-0055, 079.A-0341, 080.A-0330, and 080.A-0635.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...697..115C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.4701
+author: Cresci, G. and Hicks, E. K. S. and Genzel, R. and Schreiber, N. M. F. and
+  Davies, R. and Bouché, N. and Buschkamp, P. and Genel, S. and Shapiro, K. and Tacconi,
+  L. and Sommer-Larsen, J. and Burkert, A. and Eisenhauer, F. and Gerhard, O. and
+  Lutz, D. and Naab, T. and Sternberg, A. and Cimatti, A. and Daddi, E. and Erb, D.
+  K. and Kurk, J. and Lilly, S. L. and Renzini, A. and Shapley, A. and Steidel, C.
+  C. and Caputi, K.
+author_list:
+- family: Cresci
+  given: G.
+- family: Hicks
+  given: E. K. S.
+- family: Genzel
+  given: R.
+- family: Schreiber
+  given: N. M. F.
+- family: Davies
+  given: R.
+- family: Bouché
+  given: N.
+- family: Buschkamp
+  given: P.
+- family: Genel
+  given: S.
+- family: Shapiro
+  given: K.
+- family: Tacconi
+  given: L.
+- family: Sommer-Larsen
+  given: J.
+- family: Burkert
+  given: A.
+- family: Eisenhauer
+  given: F.
+- family: Gerhard
+  given: O.
+- family: Lutz
+  given: D.
+- family: Naab
+  given: T.
+- family: Sternberg
+  given: A.
+- family: Cimatti
+  given: A.
+- family: Daddi
+  given: E.
+- family: Erb
+  given: D. K.
+- family: Kurk
+  given: J.
+- family: Lilly
+  given: S. L.
+- family: Renzini
+  given: A.
+- family: Shapley
+  given: A.
+- family: Steidel
+  given: C. C.
+- family: Caputi
+  given: K.
+date-added: 2017-08-10 15:53:34 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/697/1/115
+eprint: '0902.4701'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: high-redshift, galaxies: kinematics and
+  dynamics, infrared: galaxies'
+month: May
+pages: 115--132
+papis_id: 38b85a79e943c0c9b08792387e0c384f
+primaryclass: astro-ph.CO
+ref: cresci.g.2009
+title: 'The SINS Survey: Modeling the Dynamics of z ̃ 2 Galaxies and the High-z Tully-Fisher
+  Relation'
+type: article
+volume: '697'
+year: '2009'

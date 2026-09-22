@@ -1,0 +1,55 @@
+abstract: 'We consider simple models based on core collapse or pair-formation supernovae
+  (SNe) to account for the light curve of the transient SCP06F6. A radioactive decay
+  diffusion model provides estimates of the mass of the required radioactive nickel
+  and the ejecta as functions of the unknown redshift. An opacity change such as by
+  dust formation or a recombination front may account for the rapid decline from maximum.
+  Within this class of model, the redshift must be less than z ~ 1 or the nickel mass
+  would exceed the total mass of the ejecta; the radiated energy would exceed the
+  kinetic energy, and kinematic and photometric estimates of the radius would disagree.
+  We particularly investigate two specific redshifts: z = 0.143, for which Gaensicke
+  et al. have proposed that the unidentified broad absorption features in the spectrum
+  of SCP06F6 are C2 Swan bands, and z = 0.57 based on a crude agreement with the Ca
+  H\&K and UV iron-peak absorption features that are characteristic of SNe of various
+  types. For the lower redshift, we obtain a nickel mass of 0.3 M sun and an ejected
+  envelope mass of ~ 38 M sun, while for the latter case we find 4.8 M sun and 20
+  M sun, respectively, for fiducial parameters. The kinetic energy of the ejecta,
+  while dependent on uncertain parameters, is generally large, ~1052 erg, throughout
+  this range of redshift. The ejected masses and kinetic energies are smaller for
+  a more tightly constrained model invoking envelope recombination. We also discuss
+  the possibilities of circumstellar matter (CSM) shell diffusion and shock interaction
+  models. In general, optically thick CSM diffusion models can fit the data with the
+  underlying energy coming from an energetic buried SN. Models in which the CSM is
+  of lower density so that the shock energy is both rapidly thermalized and radiated
+  tend not to be self-consistent. We suggest that a model of SCP06F6 worth further
+  exploration is one in which the redshift is ~0.57, the spectral features are Ca
+  and iron-peak elements, and the light curve is powered by the diffusive release
+  of a substantial amount of energy from nickel decay or from an energetic SN buried
+  in the ejecta of an LBV-like event.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704.1251C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.1798
+author: Chatzopoulos, E. and Wheeler, J. C. and Vinko, J.
+author_list:
+- family: Chatzopoulos
+  given: E.
+- family: Wheeler
+  given: J. C.
+- family: Vinko
+  given: J.
+date-added: 2017-08-11 03:48:29 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/2/1251
+eprint: '0909.1798'
+journal: \apj
+keywords: 'circumstellar matter, hydrodynamics, stars: evolution, supernovae: general,
+  supernovae: individual: SNSCP06F6'
+month: October
+pages: 1251--1261
+papis_id: fc723f45b4d31aed03a82ef679c7fb3b
+primaryclass: astro-ph.HE
+ref: chatzopoulos.e.2009
+title: Modeling the Light Curve of the Transient SCP06F6
+type: article
+volume: '704'
+year: '2009'

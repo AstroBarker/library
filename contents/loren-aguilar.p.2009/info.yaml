@@ -1,0 +1,47 @@
+abstract: 'Context: The coalescence of two white dwarfs is the final outcome of a
+  sizeable fraction of binary stellar systems. Moreover, this process has been proposed
+  to explain several interesting astrophysical phenomena. Aims: We present the results
+  of a set of high-resolution simulations of the merging process of two white dwarfs.  Methods:
+  We use an up-to-date smoothed particle hydrodynamics code that incorporates very
+  detailed input physics and an improved treatment of the artificial viscosity. Our
+  simulations have been done using a large number of particles (~4\texttimes{}10^5)
+  and covering the full range of masses and chemical compositions of the coalescing
+  white dwarfs. We also compare the time evolution of the system during the first
+  phases of the coalescence with what is obtained using a simplified treatment of
+  mass transfer; we discuss in detail the characteristics of the final configuration;
+  we assess the possible observational signatures of the merger, such as the associated
+  gravitational waveforms and the fallback X-ray flares; and we study the long-term
+  evolution of the coalescence. Results: The mass transfer rates obtained during the
+  first phases of the merger episode agree with the theoretical expectations. In all
+  the cases studied, the merged configuration is a central compact object surrounded
+  by a self-gravitating Keplerian disk, except in the case where two equal-mass white
+  dwarfs coalesce.  Conclusions: We find that the overall evolution the system and
+  the main characteristics of the of the final object agree with other previous studies
+  in which lower resolutions were used. We also find that the fallback X-ray luminosities
+  are close to 1047 erg/s. The gravitational waveforms are characterized by the sudden
+  disappearance of the signal in a few orbital periods.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...500.1193L
+author: Lorén-Aguilar, P. and Isern, J. and García-Berro, E.
+author_list:
+- family: Lorén-Aguilar
+  given: P.
+- family: Isern
+  given: J.
+- family: García-Berro
+  given: E.
+date-added: 2017-08-11 01:19:50 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1051/0004-6361/200811060
+journal: \aap
+keywords: 'stars: white dwarfs, stars: interiors, stars:, binaries: close, hydrodynamics,
+  accretion, accretion disks'
+month: June
+pages: 1193--1205
+papis_id: fd4de7c7b672d0cbfcb738c1999336a2
+ref: loren_aguilar.p.2009
+title: High-resolution smoothed particle hydrodynamics simulations of the merger of
+  binary white dwarfs
+type: article
+volume: '500'
+year: '2009'

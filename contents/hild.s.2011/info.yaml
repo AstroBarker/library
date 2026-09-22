@@ -1,0 +1,337 @@
+abstract: Advanced gravitational wave detectors, currently under construction, are
+  expected to directly observe gravitational wave signals of astrophysical origin.
+  The Einstein Telescope (ET), a third-generation gravitational wave detector, has
+  been proposed in order to fully open up the emerging field of gravitational wave
+  astronomy. In this paper we describe sensitivity models for ET and investigate potential
+  limits imposed by fundamental noise sources. A special focus is set on evaluating
+  the frequency band below 10 Hz where a complex mixture of seismic, gravity gradient,
+  suspension thermal and radiation pressure noise dominates. We develop the most accurate
+  sensitivity model, referred to as ET-D, for a third-generation detector so far,
+  including the most relevant fundamental noise contributions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011CQGra..28i4013H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.0908
+author: Hild, S. and Abernathy, M. and Acernese, F. and Amaro-Seoane, P. and Andersson,
+  N. and Arun, K. and Barone, F. and Barr, B. and Barsuglia, M. and Beker, M. and
+  Beveridge, N. and Birindelli, S. and Bose, S. and Bosi, L. and Braccini, S. and
+  Bradaschia, C. and Bulik, T. and Calloni, E. and Cella, G. and Chassande Mottin,
+  E. and Chelkowski, S. and Chincarini, A. and Clark, J. and Coccia, E. and Colacino,
+  C. and Colas, J. and Cumming, A. and Cunningham, L. and Cuoco, E. and Danilishin,
+  S. and Danzmann, K. and De Salvo, R. and Dent, T. and De Rosa, R. and Di Fiore,
+  L. and Di Virgilio, A. and Doets, M. and Fafone, V. and Falferi, P. and Flaminio,
+  R. and Franc, J. and Frasconi, F. and Freise, A. and Friedrich, D. and Fulda, P.
+  and Gair, J. and Gemme, G. and Genin, E. and Gennai, A. and Giazotto, A. and Glampedakis,
+  K. and Gräf, C. and Granata, M. and Grote, H. and Guidi, G. and Gurkovsky, A. and
+  Hammond, G. and Hannam, M. and Harms, J. and Heinert, D. and Hendry, M. and Heng,
+  I. and Hennes, E. and Hough, J. and Husa, S. and Huttner, S. and Jones, G. and Khalili,
+  F. and Kokeyama, K. and Kokkotas, K. and Krishnan, B. and Li, T. G. F. and Lorenzini,
+  M. and Lück, H. and Majorana, E. and Mandel, I. and Mandic, V. and Mantovani, M.
+  and Martin, I. and Michel, C. and Minenkov, Y. and Morgado, N. and Mosca, S. and
+  Mours, B. and Müller\ndashEbhardt, H. and Murray, P. and Nawrodt, R. and Nelson,
+  J. and Oshaughnessy, R. and Ott, C. D. and Palomba, C. and Paoli, A. and Parguez,
+  G. and Pasqualetti, A. and Passaquieti, R. and Passuello, D. and Pinard, L. and
+  Plastino, W. and Poggiani, R. and Popolizio, P. and Prato, M. and Punturo, M. and
+  Puppo, P. and Rabeling, D. and Rapagnani, P. and Read, J. and Regimbau, T. and Rehbein,
+  H. and Reid, S. and Ricci, F. and Richard, F. and Rocchi, A. and Rowan, S. and Rüdiger,
+  A. and Santamaría, L. and Sassolas, B. and Sathyaprakash, B. and Schnabel, R. and
+  Schwarz, C. and Seidel, P. and Sintes, A. and Somiya, K. and Speirits, F. and Strain,
+  K. and Strigin, S. and Sutton, P. and Tarabrin, S. and Thüring, A. and van den Brand,
+  J. and van Veggel, M. and van den Broeck, C. and Vecchio, A. and Veitch, J. and
+  Vetrano, F. and Vicere, A. and Vyatchanin, S. and Willke, B. and Woan, G. and Yamamoto,
+  K.
+author_list:
+- family: Hild
+  given: S.
+- family: Abernathy
+  given: M.
+- family: Acernese
+  given: F.
+- family: Amaro-Seoane
+  given: P.
+- family: Andersson
+  given: N.
+- family: Arun
+  given: K.
+- family: Barone
+  given: F.
+- family: Barr
+  given: B.
+- family: Barsuglia
+  given: M.
+- family: Beker
+  given: M.
+- family: Beveridge
+  given: N.
+- family: Birindelli
+  given: S.
+- family: Bose
+  given: S.
+- family: Bosi
+  given: L.
+- family: Braccini
+  given: S.
+- family: Bradaschia
+  given: C.
+- family: Bulik
+  given: T.
+- family: Calloni
+  given: E.
+- family: Cella
+  given: G.
+- family: Chassande Mottin
+  given: E.
+- family: Chelkowski
+  given: S.
+- family: Chincarini
+  given: A.
+- family: Clark
+  given: J.
+- family: Coccia
+  given: E.
+- family: Colacino
+  given: C.
+- family: Colas
+  given: J.
+- family: Cumming
+  given: A.
+- family: Cunningham
+  given: L.
+- family: Cuoco
+  given: E.
+- family: Danilishin
+  given: S.
+- family: Danzmann
+  given: K.
+- family: De Salvo
+  given: R.
+- family: Dent
+  given: T.
+- family: De Rosa
+  given: R.
+- family: Di Fiore
+  given: L.
+- family: Di Virgilio
+  given: A.
+- family: Doets
+  given: M.
+- family: Fafone
+  given: V.
+- family: Falferi
+  given: P.
+- family: Flaminio
+  given: R.
+- family: Franc
+  given: J.
+- family: Frasconi
+  given: F.
+- family: Freise
+  given: A.
+- family: Friedrich
+  given: D.
+- family: Fulda
+  given: P.
+- family: Gair
+  given: J.
+- family: Gemme
+  given: G.
+- family: Genin
+  given: E.
+- family: Gennai
+  given: A.
+- family: Giazotto
+  given: A.
+- family: Glampedakis
+  given: K.
+- family: Gräf
+  given: C.
+- family: Granata
+  given: M.
+- family: Grote
+  given: H.
+- family: Guidi
+  given: G.
+- family: Gurkovsky
+  given: A.
+- family: Hammond
+  given: G.
+- family: Hannam
+  given: M.
+- family: Harms
+  given: J.
+- family: Heinert
+  given: D.
+- family: Hendry
+  given: M.
+- family: Heng
+  given: I.
+- family: Hennes
+  given: E.
+- family: Hough
+  given: J.
+- family: Husa
+  given: S.
+- family: Huttner
+  given: S.
+- family: Jones
+  given: G.
+- family: Khalili
+  given: F.
+- family: Kokeyama
+  given: K.
+- family: Kokkotas
+  given: K.
+- family: Krishnan
+  given: B.
+- family: Li
+  given: T. G. F.
+- family: Lorenzini
+  given: M.
+- family: Lück
+  given: H.
+- family: Majorana
+  given: E.
+- family: Mandel
+  given: I.
+- family: Mandic
+  given: V.
+- family: Mantovani
+  given: M.
+- family: Martin
+  given: I.
+- family: Michel
+  given: C.
+- family: Minenkov
+  given: Y.
+- family: Morgado
+  given: N.
+- family: Mosca
+  given: S.
+- family: Mours
+  given: B.
+- family: Müller\ndashEbhardt
+  given: H.
+- family: Murray
+  given: P.
+- family: Nawrodt
+  given: R.
+- family: Nelson
+  given: J.
+- family: Oshaughnessy
+  given: R.
+- family: Ott
+  given: C. D.
+- family: Palomba
+  given: C.
+- family: Paoli
+  given: A.
+- family: Parguez
+  given: G.
+- family: Pasqualetti
+  given: A.
+- family: Passaquieti
+  given: R.
+- family: Passuello
+  given: D.
+- family: Pinard
+  given: L.
+- family: Plastino
+  given: W.
+- family: Poggiani
+  given: R.
+- family: Popolizio
+  given: P.
+- family: Prato
+  given: M.
+- family: Punturo
+  given: M.
+- family: Puppo
+  given: P.
+- family: Rabeling
+  given: D.
+- family: Rapagnani
+  given: P.
+- family: Read
+  given: J.
+- family: Regimbau
+  given: T.
+- family: Rehbein
+  given: H.
+- family: Reid
+  given: S.
+- family: Ricci
+  given: F.
+- family: Richard
+  given: F.
+- family: Rocchi
+  given: A.
+- family: Rowan
+  given: S.
+- family: Rüdiger
+  given: A.
+- family: Santamaría
+  given: L.
+- family: Sassolas
+  given: B.
+- family: Sathyaprakash
+  given: B.
+- family: Schnabel
+  given: R.
+- family: Schwarz
+  given: C.
+- family: Seidel
+  given: P.
+- family: Sintes
+  given: A.
+- family: Somiya
+  given: K.
+- family: Speirits
+  given: F.
+- family: Strain
+  given: K.
+- family: Strigin
+  given: S.
+- family: Sutton
+  given: P.
+- family: Tarabrin
+  given: S.
+- family: Thüring
+  given: A.
+- family: van den Brand
+  given: J.
+- family: van Veggel
+  given: M.
+- family: van den Broeck
+  given: C.
+- family: Vecchio
+  given: A.
+- family: Veitch
+  given: J.
+- family: Vetrano
+  given: F.
+- family: Vicere
+  given: A.
+- family: Vyatchanin
+  given: S.
+- family: Willke
+  given: B.
+- family: Woan
+  given: G.
+- family: Yamamoto
+  given: K.
+date-added: 2017-08-11 03:41:45 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0264-9381/28/9/094013
+eid: 094013
+eprint: '1012.0908'
+journal: Classical and Quantum Gravity
+month: May
+number: '9'
+pages: 094013
+papis_id: 3d67881e9403e41e941f7ee0f7d60dda
+primaryclass: gr-qc
+ref: hild.s.2011
+title: Sensitivity studies for third-generation gravitational wave observatories
+type: article
+volume: '28'
+year: '2011'

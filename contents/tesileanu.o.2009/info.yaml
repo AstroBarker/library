@@ -1,0 +1,63 @@
+abstract: 'Context: The coupling between time-dependent, multidimensional MHD numerical
+  codes and radiative line emission is of utmost importance in the studies of the
+  interplay between dynamical and radiative processes in many astrophysical environments,
+  with particular interest for problems involving radiative shocks. There is a widespread
+  consensus that line emitting knots observed in Herbig-Haro jets can be interpreted
+  as radiative shocks. Velocity perturbations at the jet base steepen into shocks
+  to emit the observed spectra. To derive the observable characteristics of the emitted
+  spectra, such as line intensity ratios, one has to study physical processes that
+  involve the solution of the MHD equations coupled with radiative cooling in non-equilibrium
+  conditions. Aims: In this paper we address two different aspects relevant to the
+  time-dependent calculations of the line intensity ratios of forbidden transitions,
+  resulting from the excitation by planar, time-dependent radiative shocks traveling
+  in a stratified medium. The first one concerns the impact of the radiation and ionization
+  processes included in the cooling model, and the second one the effects of the numerical
+  grid resolution.   Methods: Dealing with both dynamical and radiative processes
+  in the same numerical scheme means to treat phenomena characterized by different
+  time and length scales. This may be especially arduous and computationally expensive
+  when discontinuities are involved, such as in the case of shocks. Adaptive mesh
+  refinement (AMR) methods have been introduced in order to alleviate these difficulties.
+  In this paper we apply the AMR methodology to the treatment of radiating shocks
+  and show how this method is able to vastly reduce the integration time.   Results:
+  The technique is applied to the knots of the HH 30 jet to obtain the observed line
+  intensity ratios and derive the physical parameters, such as density, temperature
+  and ionization fraction. We consider the impact of two different cooling functions
+  and different grid resolutions on the results.   Conclusions: We conclude that the
+  use of different cooling routines has effects on results whose weight depends upon
+  the line ratio considered. Moreover, we find the minimum numerical resolution of
+  the simulation grid behind the shock to achieve convergence in the results. This
+  is crucial for the forthcoming 2D calculations of radiative shocks.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...507..581T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.1225
+author: Teşileanu, O. and Massaglia, S. and Mignone, A. and Bodo, G. and Bacciotti,
+  F.
+author_list:
+- family: Teşileanu
+  given: O.
+- family: Massaglia
+  given: S.
+- family: Mignone
+  given: A.
+- family: Bodo
+  given: G.
+- family: Bacciotti
+  given: F.
+date-added: 2017-08-10 23:48:17 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1051/0004-6361/200912262
+eprint: '0910.1225'
+journal: \aap
+keywords: 'ISM: jets and outflows, ISM: Herbig-Haro objects, magnetohydrodynamics
+  (MHD), shock waves, methods: numerical'
+month: November
+pages: 581--588
+papis_id: bce763a479d423dd10a7707808340eb4
+primaryclass: astro-ph.SR
+ref: tesileanu.o.2009
+title: 'Time-dependent MHD shocks and line intensity ratios in the HH 30 jet: a focus
+  on cooling function and numerical resolution'
+type: article
+volume: '507'
+year: '2009'

@@ -1,0 +1,51 @@
+abstract: Afterglow light curves are constructed analytically for realistic gamma-ray
+  burst remnants decelerating in either a homogeneous interstellar medium or a stellar
+  wind environment, taking into account the radiative loss of the blast wave, which
+  affects the temporal behaviors significantly. Inverse Compton scattering, which
+  plays an important role when the energy equipartition factor \ensuremath{\epsilon}e
+  of electrons is much larger than that of the magnetic field (\ensuremath{\epsilon}B),
+  is considered. The inverse Compton effect prolongs the fast cooling phase markedly,
+  during which the relativistic shock is semiradiative and the radiation efficiency
+  is approximately constant, \ensuremath{\epsilon}=\ensuremath{\epsilon}e. It is further
+  shown that the shock is still semiradiative for quite a long time after it transits
+  into the slow cooling phase because of a slow decreasing rate of the radiation efficiency
+  of electrons. The temporal decaying index of the X-ray afterglow light curve in
+  this semiradiative phase is (3p-2+2\ensuremath{\epsilon})/(4-\ensuremath{\epsilon})
+  in the interstellar medium case and [3p-2-(p-2)\ensuremath{\epsilon}]/2(2-\ensuremath{\epsilon})
+  in the stellar wind case, where p is the distribution index of the shock-accelerated
+  electrons. Taking p=2.2-2.3 as implied from the common shock acceleration mechanism
+  and assuming \ensuremath{\epsilon}e~1/3, the temporal index is more consistent with
+  the observed <alphaX>~1.3 than the commonly used adiabatic one. The observability
+  of the inverse Compton component in soft X-ray afterglows is also investigated.
+  To manifest as a bump or even dominant in the X-ray afterglows during the relativistic
+  stage, the density must be larger than ~1-10 cm-3 in the interstellar medium case,
+  or the wind parameter A\textasteriskcentered must be larger than ~1 in the stellar
+  wind case.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...619..968W
+arxivurl: http://arxiv.org/abs/astro-ph/0411024
+author: Wu, X. F. and Dai, Z. G. and Huang, Y. F. and Lu, T.
+author_list:
+- family: Wu
+  given: X. F.
+- family: Dai
+  given: Z. G.
+- family: Huang
+  given: Y. F.
+- family: Lu
+  given: T.
+date-added: 2017-08-11 01:58:45 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/426666
+eprint: astro-ph/0411024
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Hydrodynamics, ISM: Jets and Outflows, Radiation Mechanisms:
+  Nonthermal, Relativity, Stars: Mass Loss'
+month: February
+pages: 968--982
+papis_id: 440a889521a1ccf6126eab72d3702392
+ref: wu.x.2005
+title: Analytical Light Curves in the Realistic Model for Gamma-Ray Burst Afterglows
+type: article
+volume: '619'
+year: '2005'

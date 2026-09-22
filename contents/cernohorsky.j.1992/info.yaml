@@ -1,0 +1,33 @@
+abstract: We implement a general relativistic neutrino transport scheme appropriate
+  to problems in stellar collapse and neutron star formation. In this scheme the spectral
+  energy and momentum balance equations are solved as a coupled set. We perform transport
+  calculations on two frozen stellar background models neglecting the feedback of
+  the neutrinos on the matter. We compare with schemes that ignore either relativity
+  or momentum balance or both. The work performed by the neutrino stress on the matter
+  is taken into account and has an important effect. In particular, if there is a
+  hydrodynamical shock in the system, this work contribution boosts the energy deposition
+  behind the shock. This may enhance the chances for a successful neutrino driven
+  supernova explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...398..190C
+author: Cernohorsky, J. and van Weert, C. G.
+author_list:
+- family: Cernohorsky
+  given: J.
+- family: van Weert
+  given: C. G.
+date-added: 2017-08-11 07:11:14 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171848
+journal: \apj
+keywords: Gravitational Collapse, Neutrinos, Neutron Stars, Relativistic Particles,
+  Star Formation, Transport Theory, Computational Astrophysics, Shock Waves, Spectral
+  Energy Distribution, Stellar Composition, Stellar Interiors, Stellar Models
+month: October
+pages: 190--202
+papis_id: 3084d7ba9fada3c95ce38aefbbd35c9c
+ref: cernohorsky.j.1992
+title: Relativistic two-moment neutrino transport
+type: article
+volume: '398'
+year: '1992'

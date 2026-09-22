@@ -1,0 +1,46 @@
+abstract: 'We make a quantitative prediction for the detection rate of orphan gamma-ray
+  burst (GRB) afterglows as a function of flux sensitivity in X-ray, optical, and
+  radio wave bands, based on a recent model of collimated GRB afterglows. We find
+  that the orphan afterglow rate strongly depends on the opening angle of the jet
+  (roughly ~theta-2jet), as expected from simple geometrical consideration, if the
+  total jet energy is kept constant as suggested by recent studies. The relative beaming
+  factor brel, i.e., the ratio of all afterglow rates including orphans to those associated
+  with observable prompt GRBs, could be as high as brel>~100 for searches deeper than
+  R~24, depending on afterglow parameters. To make the most plausible predictions,
+  we average the model emission for 10 sets of afterglow parameters obtained through
+  fits to 10 well-observed, collimated GRB jets, weighted by the sky coverage of each
+  jet. Our model expectations are consistent with the results (or constraints) obtained
+  by all past searches. We estimate the number of orphan afterglows in the first 1500
+  deg2 field of the Sloan Digital Sky Survey (SDSS) to be about 0.2. The relative
+  beaming factor brel is rapidly increasing with the search sensitivity: brel~3 for
+  the SDSS sensitivity to transient objects in the northern sky (R~19), ~14 for the
+  past high-z supernova searches (R~23), and ~50 for the sensitivity of the Subaru
+  Suprime-Cam (R~26). Predictions are made for the current facilities and future projects
+  in X-ray, optical, and radio bands. Among them, the southern sky observation of
+  the SDSS (sensitive to transients down to R~23) could detect ~40 orphan afterglows
+  during the 5 yr operation. The Allen Telescope Array would find about 200 afterglows
+  in a radio band at ~0.1-1 mJy with brel~15.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...576..120T
+arxivurl: http://arxiv.org/abs/astro-ph/0204258
+author: Totani, T. and Panaitescu, A.
+author_list:
+- family: Totani
+  given: T.
+- family: Panaitescu
+  given: A.
+date-added: 2017-08-11 02:39:56 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/341738
+eprint: astro-ph/0204258
+journal: \apj
+keywords: 'Gamma Rays: Bursts, ISM: Jets and Outflows, Surveys'
+month: September
+pages: 120--134
+papis_id: 5c17c3f46f32df3e6929cd26db273e67
+ref: totani.t.2002
+title: 'Orphan Afterglows of Collimated Gamma-Ray Bursts: Rate Predictions and Prospects
+  for Detection'
+type: article
+volume: '576'
+year: '2002'

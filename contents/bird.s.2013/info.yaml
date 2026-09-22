@@ -1,0 +1,54 @@
+abstract: We examine the distribution of neutral hydrogen in cosmological simulations
+  carried out with the new moving-mesh code AREPO and compare it with the corresponding
+  GADGET simulations based on the smoothed particle hydrodynamics (SPH) technique.
+  The two codes use identical gravity solvers and baryonic physics implementations,
+  but very different methods for solving the Euler equations, allowing us to assess
+  how numerical effects associated with the hydro solver impact the results of simulations.
+  Here we focus on an analysis of the neutral gas, as detected in quasar absorption
+  lines. We find that the high column density regime probed by damped Lyalpha (DLA)
+  and Lyman limit systems (LLS) exhibits significant differences between the codes.
+  GADGET produces spurious artefacts in large haloes in the form of gaseous clumps,
+  boosting the LLS cross-section. Furthermore, it forms haloes with denser central
+  baryonic cores than AREPO, which leads to a substantially greater DLA cross-section
+  from smaller haloes. AREPO thus produces a significantly lower cumulative abundance
+  of DLAs, which is intriguingly in much closer agreement with observations. The column
+  density function, however, is not altered enough to significantly reduce the discrepancy
+  with the observed value. For the low column density gas probed by the Lyalpha forest,
+  the codes differ only at the level of a few per cent, suggesting that this regime
+  is quite well described by both methods, a fact that is reassuring for the many
+  Lyalpha studies carried out with SPH thus far. While the residual differences are
+  smaller than the errors on current Lyalpha forest data, we note that this will likely
+  change for future precision experiments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.429.3341B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2118
+author: Bird, S. and Vogelsberger, M. and Sijacki, D. and Zaldarriaga, M. and Springel,
+  V. and Hernquist, L.
+author_list:
+- family: Bird
+  given: S.
+- family: Vogelsberger
+  given: M.
+- family: Sijacki
+  given: D.
+- family: Zaldarriaga
+  given: M.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:31:39 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts590
+eprint: '1209.2118'
+journal: \mnras
+keywords: 'galaxies: formation, intergalactic medium, cosmology: theory'
+month: March
+pages: 3341--3352
+papis_id: a101ca72b45c85173252d3ce54279825
+ref: bird.s.2013
+title: 'Moving-mesh cosmology: properties of neutral hydrogen in absorption'
+type: article
+volume: '429'
+year: '2013'

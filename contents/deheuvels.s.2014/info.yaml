@@ -1,0 +1,113 @@
+abstract: 'Context. We still do not understand which physical mechanisms are responsible
+  for the transport of angular momentum inside stars. The recent detection of mixed
+  modes that contain the clear signature of rotation in the spectra of Kepler subgiants
+  and red giants gives us the opportunity to make progress on this question.  Aims:
+  Our aim is to probe the radial dependence of the rotation profiles for a sample
+  of Kepler targets. For this purpose, subgiants and early red giants are particularly
+  interesting targets because their rotational splittings are more sensitive to the
+  rotation outside the deeper core than is the case for their more evolved counterparts.  Methods:
+  We first extracted the rotational splittings and frequencies of the modes for six
+  young Kepler red giants. We then performed a seismic modeling of these stars using
+  the evolutionary codes Cesam2k and astec. By using the observed splittings and the
+  rotational kernels of the optimal models, we inverted the internal rotation profiles
+  of the six stars.  Results: We obtain estimates of the core rotation rates for these
+  stars, and upper limits to the rotation in their convective envelope. We show that
+  the rotation contrast between the core and the envelope increases during the subgiant
+  branch. Our results also suggest that the core of subgiants spins up with time,
+  while their envelope spins down. For two of the stars, we show that a discontinuous
+  rotation profile with a deep discontinuity reproduces the observed splittings significantly
+  better than a smooth rotation profile. Interestingly, the depths that are found
+  to be most probable for the discontinuities roughly coincide with the location of
+  the H-burning shell, which separates the layers that contract from those that expand.  Conclusions:
+  We characterized the differential rotation pattern of six young giants with a range
+  of metallicities, and with both radiative and convective cores on the main sequence.
+  This will bring observational constraints to the scenarios of angular momentum transport
+  in stars. Moreover, if the existence of sharp gradients in the rotation profiles
+  of young red giants is confirmed, it is expected to help in distinguishing between
+  the physical processes that could transport angular momentum in the subgiant and
+  red giant branches.  Appendices and Tables 3-9 are available in electronic form
+  at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...564A..27D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.3096
+author: Deheuvels, S. and Doğan, G. and Goupil, M. J. and Appourchaux, T. and Benomar,
+  O. and Bruntt, H. and Campante, T. L. and Casagrande, L. and Ceillier, T. and Davies,
+  G. R. and De Cat, P. and Fu, J. N. and García, R. A. and Lobel, A. and Mosser, B.
+  and Reese, D. R. and Regulo, C. and Schou, J. and Stahn, T. and Thygesen, A. O.
+  and Yang, X. H. and Chaplin, W. J. and Christensen-Dalsgaard, J. and Eggenberger,
+  P. and Gizon, L. and Mathis, S. and Molenda-Żakowicz, J. and Pinsonneault, M.
+author_list:
+- family: Deheuvels
+  given: S.
+- family: Doğan
+  given: G.
+- family: Goupil
+  given: M. J.
+- family: Appourchaux
+  given: T.
+- family: Benomar
+  given: O.
+- family: Bruntt
+  given: H.
+- family: Campante
+  given: T. L.
+- family: Casagrande
+  given: L.
+- family: Ceillier
+  given: T.
+- family: Davies
+  given: G. R.
+- family: De Cat
+  given: P.
+- family: Fu
+  given: J. N.
+- family: García
+  given: R. A.
+- family: Lobel
+  given: A.
+- family: Mosser
+  given: B.
+- family: Reese
+  given: D. R.
+- family: Regulo
+  given: C.
+- family: Schou
+  given: J.
+- family: Stahn
+  given: T.
+- family: Thygesen
+  given: A. O.
+- family: Yang
+  given: X. H.
+- family: Chaplin
+  given: W. J.
+- family: Christensen-Dalsgaard
+  given: J.
+- family: Eggenberger
+  given: P.
+- family: Gizon
+  given: L.
+- family: Mathis
+  given: S.
+- family: Molenda-Żakowicz
+  given: J.
+- family: Pinsonneault
+  given: M.
+date-added: 2017-08-10 17:07:03 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1051/0004-6361/201322779
+eid: A27
+eprint: '1401.3096'
+journal: \aap
+keywords: 'asteroseismology, stars: rotation, stars: interiors, stars: evolution'
+month: April
+pages: A27
+papis_id: f0c5f885635e1b4cb0f7f0ed738a48ff
+primaryclass: astro-ph.SR
+ref: deheuvels.s.2014
+title: Seismic constraints on the radial dependence of the internal rotation profiles
+  of six Kepler subgiants and young red giants
+type: article
+volume: '564'
+year: '2014'

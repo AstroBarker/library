@@ -1,0 +1,84 @@
+abstract: 'One method of discriminating between the many Type Ia progenitor scenarios
+  is by searching for contaminating hydrogen and helium stripped from the companion
+  star. However, this requires an understanding of the effect of the impact of the
+  supernova shell on different companion stars to predict the amount of mass stripped
+  and its distribution in velocity and solid angle for the types of binary scenarios
+  that have been proposed as Type Ia progenitor models. We present several high-resolution
+  two-dimensional numerical simulations of the impact of a Type Ia supernova explosion
+  with hydrogen-rich main-sequence, subgiant, and red giant companions. The binary
+  parameters were chosen to represent several classes of single-degenerate Type Ia
+  progenitor models that have been suggested in the literature. We use realistic stellar
+  models and supernova debris profiles to represent each binary system. For each scenario,
+  we explore the hydrodynamics of the supernova-secondary interaction, calculate the
+  amount of stellar material stripped from the secondary and the kick delivered by
+  the impact, and construct the velocity and solid angle distributions of the stripped
+  material. We find that the main-sequence and subgiant companions lose 0.15-0.17
+  Msolar as a result of the impact of the supernova shell, 15\% of their mass. The
+  red giant companions lose 0.53-0.54 Msolar, 96\%-98\% of their envelopes. The characteristic
+  velocity of the stripped hydrogen is less than 103 km s-1 for all the scenarios:
+  420-590 km s-1 for the red giant companions, 820 km s-1 for the main-sequence companion,
+  and 890 km s-1 for the subgiant companion. The stripped hydrogen and helium contaminate
+  a wide solid angle behind the companion: 115$\,^{\circ}$ from the downstream axis
+  for the red giant, 66\$\,^{\circ}\$ for the main-sequence star, and 72\$\,^{\circ}\$
+  for the subgiant. With such low velocities, the bulk of the stripped hydrogen and
+  helium is embedded within the low-velocity iron of the supernova ejecta. The hydrogen
+  and helium may be visible in the late-time spectra as narrow emission lines.  Although
+  most of the stripped material is ejected at low velocities, all the numerical simulations
+  yield a small high-velocity tail. The main-sequence, subgiant, and red giant companions
+  are just under the upper limit determined by Della Valle et al. in 1996 from observations
+  of SN 1990M taken near maximum light. The main-sequence companion receives a kick
+  of 86 km s-1, and the subgiant receives a kick of 49 km s-1. In all cases, the kick
+  to the remnant is smaller than the original orbital velocity. Because it is too
+  small to intercept more than a negligible amount of momentum, the red giant core
+  will not receive an appreciable kick.  The impact of the supernova ejecta with the
+  secondary star creates a hole in the supernova debris with an angular size of ~30\$\,^{\circ}\$
+  in the high-velocity ejecta and with an angular size of ~40\$\,^{\circ}\$ in the
+  low-velocity ejecta. This corresponds to 7\%-12\% of the ejecta''s surface. Because
+  we explore binary scenarios that are close enough, or almost close enough, to be
+  in Roche lobe overflow, the degree of asymmetry is similar for all the models. The
+  asymmetry in the supernova debris could have observational consequences beyond the
+  change in morphology of the supernova remnant. The asymmetry in the supernova atmosphere
+  will result in distorted P Cygni profiles that might indicate the presence of the
+  companion star, but it will be difficult to use the degree of asymmetry alone to
+  discriminate between a main-sequence, subgiant, or red giant companion.  The impact
+  of the supernova shell will have consequences for the future evolution of the secondary
+  star. After the impact, the main-sequence star is puffed up, much like a pre-main-sequence
+  star. The luminosity will rise dramatically, to as high as ~5000 Lsolar, as the
+  extended envelope relaxes back into thermal equilibrium. The subgiant companion
+  will follow a similar sequence of events. The star will not be contaminated by much
+  supernova debris from the initial impact, but it may accrete low-velocity iron-group
+  elements (or oxygen and silicon if the ejecta is radially mixed) at late times.  A
+  He pre-white dwarf will be left behind after a supernova explosion with a red giant
+  companion. Almost all of the envelope will be ejected by the impact, but a residual
+  amount of material (~0.02 Msolar) will form an extended, hydrogen-rich envelope
+  around the degenerate core. The star will evolve away from the red giant branch
+  on a timescale of 105-106 yr. On its post-red giant track, it may appear as an underluminous
+  O or B star before passing through an sdO or sdB phase on its way to a standard
+  He white dwarf cooling track. This binary scenario could be a possible pathway for
+  the formation of a subset of single, low-mass He white dwarfs.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..128..615M
+arxivurl: http://arxiv.org/abs/astro-ph/9908116
+author: Marietta, E. and Burrows, A. and Fryxell, B.
+author_list:
+- family: Marietta
+  given: E.
+- family: Burrows
+  given: A.
+- family: Fryxell
+  given: B.
+date-added: 2017-08-10 20:08:59 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/313392
+eprint: astro-ph/9908116
+journal: \apjs
+keywords: 'Stars: Binaries: Close, Stars: Supernovae: General'
+month: June
+pages: 615--650
+papis_id: 0720c3162aeff10832790adde82d940d
+ref: marietta.e.2000
+title: 'Type IA Supernova Explosions in Binary Systems: The Impact on the Secondary
+  Star and Its Consequences'
+type: article
+volume: '128'
+year: '2000'

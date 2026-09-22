@@ -1,0 +1,53 @@
+abstract: Using flow models based on axisymmetric general relativistic magnetohydrodynamics
+  simulations, we construct radiative models for Sgr A\textasteriskcentered. Spectral
+  energy distributions (SEDs) that include the effects of thermal synchrotron emission
+  and absorption, and Compton scattering, are calculated using a Monte Carlo technique.
+  Images are calculated using a ray-tracing scheme. All models are scaled so that
+  the 230 GHz flux density is 3.4 Jy. The key model parameters are the dimensionless
+  black hole spin a \textasteriskcentered, the inclination i, and the ion-to-electron
+  temperature ratio T i/T e. We find that (1) models with T i/T e = 1 are inconsistent
+  with the observed submillimeter spectral slope; (2) the X-ray flux is a strongly
+  increasing function of a \textasteriskcentered; (3) the X-ray flux is a strongly
+  increasing function of i; (4) 230 GHz image size is a complicated function of i,
+  a \textasteriskcentered, and T i/T e, but the T i/T e = 10 models are generally
+  large and at most marginally consistent with the 230 GHz very long baseline interferometry
+  (VLBI) data; (5) for models with T i/T e = 10 and i = 85$\,^{\circ}$ the event horizon
+  is cloaked behind a synchrotron photosphere at 230 GHz and will not be seen by VLBI,
+  but these models overproduce near-infrared and X-ray flux; (6) in all models whose
+  SEDs are consistent with observations, the event horizon is uncloaked at 230 GHz;
+  (7) the models that are most consistent with the observations have a \textasteriskcentered
+  ~ 0.9. We finish with a discussion of the limitations of our model and prospects
+  for future improvements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...706..497M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.5431
+author: Mościbrodzka, M. and Gammie, C. F. and Dolence, J. C. and Shiokawa, H. and
+  Leung, P. K.
+author_list:
+- family: Mościbrodzka
+  given: M.
+- family: Gammie
+  given: C. F.
+- family: Dolence
+  given: J. C.
+- family: Shiokawa
+  given: H.
+- family: Leung
+  given: P. K.
+date-added: 2017-08-10 22:24:24 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/706/1/497
+eprint: '0909.5431'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, Galaxy: center, MHD, radiative
+  transfer'
+month: November
+pages: 497--507
+papis_id: b3e63ae6e70ca2ae0383c34987100674
+primaryclass: astro-ph.HE
+ref: moscibrodzka.m.2009
+title: Radiative Models of SGR A\textasteriskcentered from GRMHD Simulations
+type: article
+volume: '706'
+year: '2009'

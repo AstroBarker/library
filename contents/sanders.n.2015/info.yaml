@@ -1,0 +1,115 @@
+abstract: 'In recent years, wide-field sky surveys providing deep multiband imaging
+  have presented a new path for indirectly characterizing the progenitor populations
+  of core-collapse supernovae (SNe): systematic light-curve studies. We assemble a
+  set of 76 grizy-band Type IIP SN light curves from Pan-STARRS1, obtained over a
+  constant survey program of 4 yr and classified using both spectroscopy and machine-learning-based
+  photometric techniques. We develop and apply a new Bayesian model for the full multiband
+  evolution of each light curve in the sample. We find no evidence of a subpopulation
+  of fast-declining explosions (historically referred to as "Type IIL" SNe). However,
+  we identify a highly significant relation between the plateau phase decay rate and
+  peak luminosity among our SNe IIP. These results argue in favor of a single parameter,
+  likely determined by initial stellar mass, predominantly controlling the explosions
+  of red supergiants. This relation could also be applied for SN cosmology, offering
+  a standardizable candle good to an intrinsic scatter of <~ 0.2 mag. We compare each
+  light curve to physical models from hydrodynamic simulations to estimate progenitor
+  initial masses and other properties of the Pan-STARRS1 Type IIP SN sample. We show
+  that correction of systematic discrepancies between modeled and observed SN IIP
+  light-curve properties and an expanded grid of progenitor properties are needed
+  to enable robust progenitor inferences from multiband light-curve samples of this
+  kind. This work will serve as a pathfinder for photometric studies of core-collapse
+  SNe to be conducted through future wide-field transient searches.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...799..208S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.2004
+author: Sanders, N. E. and Soderberg, A. M. and Gezari, S. and Betancourt, M. and
+  Chornock, R. and Berger, E. and Foley, R. J. and Challis, P. and Drout, M. and Kirshner,
+  R. P. and Lunnan, R. and Marion, G. H. and Margutti, R. and McKinnon, R. and Milisavljevic,
+  D. and Narayan, G. and Rest, A. and Kankare, E. and Mattila, S. and Smartt, S. J.
+  and Huber, M. E. and Burgett, W. S. and Draper, P. W. and Hodapp, K. W. and Kaiser,
+  N. and Kudritzki, R. P. and Magnier, E. A. and Metcalfe, N. and Morgan, J. S. and
+  Price, P. A. and Tonry, J. L. and Wainscoat, R. J. and Waters, C.
+author_list:
+- family: Sanders
+  given: N. E.
+- family: Soderberg
+  given: A. M.
+- family: Gezari
+  given: S.
+- family: Betancourt
+  given: M.
+- family: Chornock
+  given: R.
+- family: Berger
+  given: E.
+- family: Foley
+  given: R. J.
+- family: Challis
+  given: P.
+- family: Drout
+  given: M.
+- family: Kirshner
+  given: R. P.
+- family: Lunnan
+  given: R.
+- family: Marion
+  given: G. H.
+- family: Margutti
+  given: R.
+- family: McKinnon
+  given: R.
+- family: Milisavljevic
+  given: D.
+- family: Narayan
+  given: G.
+- family: Rest
+  given: A.
+- family: Kankare
+  given: E.
+- family: Mattila
+  given: S.
+- family: Smartt
+  given: S. J.
+- family: Huber
+  given: M. E.
+- family: Burgett
+  given: W. S.
+- family: Draper
+  given: P. W.
+- family: Hodapp
+  given: K. W.
+- family: Kaiser
+  given: N.
+- family: Kudritzki
+  given: R. P.
+- family: Magnier
+  given: E. A.
+- family: Metcalfe
+  given: N.
+- family: Morgan
+  given: J. S.
+- family: Price
+  given: P. A.
+- family: Tonry
+  given: J. L.
+- family: Wainscoat
+  given: R. J.
+- family: Waters
+  given: C.
+date-added: 2017-08-11 08:18:00 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/799/2/208
+eid: '208'
+eprint: '1404.2004'
+journal: \apj
+keywords: 'supernovae: general, surveys'
+month: February
+pages: '208'
+papis_id: 115f1f6dbb6f7a8df2d9f1fa58a0b2c3
+primaryclass: astro-ph.HE
+ref: sanders.n.2015
+title: 'Toward Characterization of the Type IIP Supernova Progenitor Population: A
+  Statistical Sample of Light Curves from Pan-STARRS1'
+type: article
+volume: '799'
+year: '2015'

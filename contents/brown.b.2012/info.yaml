@@ -1,0 +1,46 @@
+abstract: Typical flows in stellar interiors are much slower than the speed of sound.
+  To follow the slow evolution of subsonic motions, various sound-proof equations
+  are in wide use, particularly in stellar astrophysical fluid dynamics. These low-Mach
+  number equations include the anelastic equations. Generally, these equations are
+  valid in nearly adiabatically stratified regions like stellar convection zones,
+  but may not be valid in the sub-adiabatic, stably stratified stellar radiative interiors.
+  Understanding the coupling between the convection zone and the radiative interior
+  is a problem of crucial interest and may have strong implications for solar and
+  stellar dynamo theories as the interface between the two, called the tachocline
+  in the Sun, plays a crucial role in many solar dynamo theories. Here, we study the
+  properties of gravity waves in stably stratified atmospheres. In particular, we
+  explore how gravity waves are handled in various sound-proof equations. We find
+  that some anelastic treatments fail to conserve energy in stably stratified atmospheres,
+  instead conserving pseudo-energies that depend on the stratification, and we demonstrate
+  this numerically. One anelastic equation set does conserve energy in all atmospheres
+  and we provide recommendations for converting low-Mach number anelastic codes to
+  this set of equations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756..109B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.2804
+author: Brown, B. P. and Vasil, G. M. and Zweibel, E. G.
+author_list:
+- family: Brown
+  given: B. P.
+- family: Vasil
+  given: G. M.
+- family: Zweibel
+  given: E. G.
+date-added: 2017-08-10 16:36:42 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/756/2/109
+eid: '109'
+eprint: '1207.2804'
+journal: \apj
+keywords: 'stars: interiors, Sun: interior'
+month: September
+pages: '109'
+papis_id: a381af6c78b59a7940224beeeec16961
+primaryclass: astro-ph.SR
+ref: brown.b.2012
+title: Energy Conservation and Gravity Waves in Sound-proof Treatments of Stellar
+  Interiors. Part I. Anelastic Approximations
+type: article
+volume: '756'
+year: '2012'

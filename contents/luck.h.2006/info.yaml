@@ -1,0 +1,240 @@
+abstract: Of all the large interferometric gravitational-wave detectors, the German/British
+  project GEO600 is the only one which uses dual recycling. During the four weeks
+  of the international S4 data-taking run it reached an instrumental duty cycle of
+  97\% with a peak sensitivity of 7 \texttimes{} 10-22 Hz-1/2 at 1 kHz. This paper
+  describes the status during S4 and improvements thereafter.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23S..71L
+author: Lück, H. and Hewitson, M. and Ajith, P. and Allen, B. and Aufmuth, P. and
+  Aulbert, C. and Babak, S. and Balasubramanian, R. and Barr, B. W. and Berukoff,
+  S. and Bunkowski, A. and Cagnoli, G. and Cantley, C. A. and Casey, M. M. and Chelkowski,
+  S. and Chen, Y. and Churches, D. and Cokelaer, T. and Colacino, C. N. and Crooks,
+  D. R. M. and Cutler, C. and Danzmann, K. and Dupuis, R. J. and Elliffe, E. and Fallnich,
+  C. and Franzen, A. and Freise, A. and Gholami, I. and Goßler, S. and Grant, A. and
+  Grote, H. and Grunewald, S. and Harms, J. and Hage, B. and Heinzel, G. and Heng,
+  I. S. and Hepstonstall, A. and Heurs, M. and Hild, S. and Hough, J. and Itoh, Y.
+  and Jones, G. and Jones, R. and Huttner, S. H. and Kötter, K. and Krishnan, B. and
+  Kwee, P. and Luna, M. and Machenschalk, B. and Malec, M. and Mercer, R. A. and Meier,
+  T. and Messenger, C. and Mohanty, S. and Mossavi, K. and Mukherjee, S. and Murray,
+  P. and Newton, G. P. and Papa, M. A. and Perreur-Lloyd, M. and Pitkin, M. and Plissi,
+  M. V. and Prix, R. and Quetschke, V. and Re, V. and Regimbau, T. and Rehbein, H.
+  and Reid, S. and Ribichini, L. and Robertson, D. I. and Robertson, N. A. and Robinson,
+  C. and Romano, J. D. and Rowan, S. and Rüdiger, A. and Sathyaprakash, B. S. and
+  Schilling, R. and Schnabel, R. and Schutz, B. F. and Seifert, F. and Sintes, A.
+  M. and Smith, J. R. and Sneddon, P. H. and Strain, K. A. and Taylor, I. and Taylor,
+  R. and Thüring, A. and Ungarelli, C. and Vahlbruch, H. and Vecchio, A. and Veitch,
+  J. and Ward, H. and Weiland, U. and Welling, H. and Wen, L. and Williams, P. and
+  Willke, B. and Winkler, W. and Woan, G. and Zhu, R.
+author_list:
+- family: Lück
+  given: H.
+- family: Hewitson
+  given: M.
+- family: Ajith
+  given: P.
+- family: Allen
+  given: B.
+- family: Aufmuth
+  given: P.
+- family: Aulbert
+  given: C.
+- family: Babak
+  given: S.
+- family: Balasubramanian
+  given: R.
+- family: Barr
+  given: B. W.
+- family: Berukoff
+  given: S.
+- family: Bunkowski
+  given: A.
+- family: Cagnoli
+  given: G.
+- family: Cantley
+  given: C. A.
+- family: Casey
+  given: M. M.
+- family: Chelkowski
+  given: S.
+- family: Chen
+  given: Y.
+- family: Churches
+  given: D.
+- family: Cokelaer
+  given: T.
+- family: Colacino
+  given: C. N.
+- family: Crooks
+  given: D. R. M.
+- family: Cutler
+  given: C.
+- family: Danzmann
+  given: K.
+- family: Dupuis
+  given: R. J.
+- family: Elliffe
+  given: E.
+- family: Fallnich
+  given: C.
+- family: Franzen
+  given: A.
+- family: Freise
+  given: A.
+- family: Gholami
+  given: I.
+- family: Goßler
+  given: S.
+- family: Grant
+  given: A.
+- family: Grote
+  given: H.
+- family: Grunewald
+  given: S.
+- family: Harms
+  given: J.
+- family: Hage
+  given: B.
+- family: Heinzel
+  given: G.
+- family: Heng
+  given: I. S.
+- family: Hepstonstall
+  given: A.
+- family: Heurs
+  given: M.
+- family: Hild
+  given: S.
+- family: Hough
+  given: J.
+- family: Itoh
+  given: Y.
+- family: Jones
+  given: G.
+- family: Jones
+  given: R.
+- family: Huttner
+  given: S. H.
+- family: Kötter
+  given: K.
+- family: Krishnan
+  given: B.
+- family: Kwee
+  given: P.
+- family: Luna
+  given: M.
+- family: Machenschalk
+  given: B.
+- family: Malec
+  given: M.
+- family: Mercer
+  given: R. A.
+- family: Meier
+  given: T.
+- family: Messenger
+  given: C.
+- family: Mohanty
+  given: S.
+- family: Mossavi
+  given: K.
+- family: Mukherjee
+  given: S.
+- family: Murray
+  given: P.
+- family: Newton
+  given: G. P.
+- family: Papa
+  given: M. A.
+- family: Perreur-Lloyd
+  given: M.
+- family: Pitkin
+  given: M.
+- family: Plissi
+  given: M. V.
+- family: Prix
+  given: R.
+- family: Quetschke
+  given: V.
+- family: Re
+  given: V.
+- family: Regimbau
+  given: T.
+- family: Rehbein
+  given: H.
+- family: Reid
+  given: S.
+- family: Ribichini
+  given: L.
+- family: Robertson
+  given: D. I.
+- family: Robertson
+  given: N. A.
+- family: Robinson
+  given: C.
+- family: Romano
+  given: J. D.
+- family: Rowan
+  given: S.
+- family: Rüdiger
+  given: A.
+- family: Sathyaprakash
+  given: B. S.
+- family: Schilling
+  given: R.
+- family: Schnabel
+  given: R.
+- family: Schutz
+  given: B. F.
+- family: Seifert
+  given: F.
+- family: Sintes
+  given: A. M.
+- family: Smith
+  given: J. R.
+- family: Sneddon
+  given: P. H.
+- family: Strain
+  given: K. A.
+- family: Taylor
+  given: I.
+- family: Taylor
+  given: R.
+- family: Thüring
+  given: A.
+- family: Ungarelli
+  given: C.
+- family: Vahlbruch
+  given: H.
+- family: Vecchio
+  given: A.
+- family: Veitch
+  given: J.
+- family: Ward
+  given: H.
+- family: Weiland
+  given: U.
+- family: Welling
+  given: H.
+- family: Wen
+  given: L.
+- family: Williams
+  given: P.
+- family: Willke
+  given: B.
+- family: Winkler
+  given: W.
+- family: Woan
+  given: G.
+- family: Zhu
+  given: R.
+date-added: 2017-08-11 03:41:13 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1088/0264-9381/23/8/S10
+journal: Classical and Quantum Gravity
+month: April
+pages: S71-S78
+papis_id: e309c5864397103c758cddda6b68e1d7
+ref: luck.h.2006
+title: Status of the GEO600 detector
+type: article
+volume: '23'
+year: '2006'

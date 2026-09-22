@@ -1,0 +1,50 @@
+abstract: 'This paper presents a new code for performing multidimensional radiation
+  hydrodynamic (RHD) simulations on parallel computers involving anisotropic radiation
+  fields and nonequilibrium effects. The radiation evolution modules described here
+  encapsulate the physics provided by the serial algorithm of Stone et al. but add
+  new functionality both with regard to physics and numerics. In detailing our method,
+  we have documented both the analytic and discrete forms of the radiation moment
+  solution and the variable tensor Eddington factor (VTEF) closure term. We have described
+  three different methods for computing a short-characteristic formal solution to
+  the transfer equation, from which our VTEF closure term is derived. Two of these
+  techniques include time dependence, a primary physics enhancement of the method
+  not present in the Stone algorithm. An additional physics modification is the adoption
+  of a matter-radiation coupling scheme which is particularly robust for nonequilibrium
+  problems and which also reduces the operations cost of our radiation moment solution.
+  Two key numerical components of our implementation are highlighted: the biconjugate
+  gradient linear system solver, written for general use on massively parallel computers,
+  and our techniques for parallelizing both the radiation moment solution and the
+  transfer solution. Additionally, we present a suite of test problems with a much
+  broader scope than that covered in the Stone work; new tests include nonequilibrium
+  Marshak waves, two-dimensional ``shadow'''' tests showing the one-sided illumination
+  of an opaque cloud, and full RHD+VTEF calculations of radiating shocks. We use the
+  results of these tests to assess the virtues and vices of the method as currently
+  implemented, and we identify a key area in which the method may be improved. We
+  conclude that radiation moment solutions closed with variable tensor Eddington factors
+  show a qualitative improvement over results obtained with flux-limited diffusion,
+  and further that this approach has a bright future in the context of parallel RHD
+  simulations in astrophysics.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..147..197H
+arxivurl: http://arxiv.org/abs/astro-ph/0207260
+author: Hayes, J. C. and Norman, M. L.
+author_list:
+- family: Hayes
+  given: J. C.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 20:00:18 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/374658
+eprint: astro-ph/0207260
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Radiative Transfer'
+month: July
+pages: 197--220
+papis_id: ae5058ae87a4c76dcd5265df228c6e27
+ref: hayes.j.2003
+title: 'Beyond Flux-limited Diffusion: Parallel Algorithms for Multidimensional Radiation
+  Hydrodynamics'
+type: article
+volume: '147'
+year: '2003'

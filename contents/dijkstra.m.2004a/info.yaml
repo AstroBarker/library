@@ -1,0 +1,40 @@
+abstract: The cosmic ultraviolet ionizing background impacts the formation of dwarf
+  galaxies in the low-redshift universe (z<~3) by suppressing gas infall into galactic
+  halos with circular velocities up to vcirc~75kms-1. Using a one-dimensional, spherically
+  symmetric hydrodynamics code (Thoul \& Weinberg), we examine the effect of an ionizing
+  background on low-mass galaxies forming at high redshifts (z>~10). We find that
+  the importance of photoionization feedback is greatly reduced because (1) at high
+  redshift, dwarf galaxy-sized objects can self-shield against the ionizing background,
+  (2) collisional cooling processes at high redshift are more efficient, (3) the amplitude
+  of the ionizing background at high redshift is lower, and (4) the ionizing radiation
+  turns on when the perturbation that will become the dwarf galaxy has already grown
+  to a substantial overdensity. We find that because of these reasons, gas can collect
+  inside halos with circular velocities as low as vcirc~10kms-1 at z>10. This result
+  has important implications for the reionization history of the universe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...601..666D
+arxivurl: http://arxiv.org/abs/astro-ph/0308042
+author: Dijkstra, M. and Haiman, Z. and Rees, M. J. and Weinberg, D. H.
+author_list:
+- family: Dijkstra
+  given: M.
+- family: Haiman
+  given: Z.
+- family: Rees
+  given: M. J.
+- family: Weinberg
+  given: D. H.
+date-added: 2017-08-11 06:54:03 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380603
+eprint: astro-ph/0308042
+journal: \apj
+keywords: 'Galaxies: Dwarf, Galaxies: Formation, X-Rays: Diffuse Background'
+month: February
+pages: 666--675
+papis_id: ea8d221018f1f88f56703361d51f70ce
+ref: dijkstra.m.2004a
+title: Photoionization Feedback in Low-Mass Galaxies at High Redshift
+type: article
+volume: '601'
+year: '2004'

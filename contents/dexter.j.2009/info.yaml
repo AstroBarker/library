@@ -1,0 +1,32 @@
+abstract: Relativistic radiative transfer problems require the calculation of photon
+  trajectories in curved spacetime. We present a novel technique for rapid and accurate
+  calculation of null geodesics in the Kerr metric. The equations of motion from the
+  Hamilton-Jacobi equation are reduced directly to Carlson's elliptic integrals, simplifying
+  algebraic manipulations and allowing all coordinates to be computed semianalytically
+  for the first time. We discuss the method, its implementation in a freely available
+  FORTRAN code, and its application to toy problems from the literature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...696.1616D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0903.0620
+author: Dexter, J. and Agol, E.
+author_list:
+- family: Dexter
+  given: J.
+- family: Agol
+  given: E.
+date-added: 2017-08-10 22:23:46 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/696/2/1616
+eprint: '0903.0620'
+journal: \apj
+keywords: accretion, accretion disks, black hole physics, radiative transfer, relativity
+month: May
+pages: 1616--1629
+papis_id: 3ad56bc30b7f09ca7596596e0c072f28
+primaryclass: astro-ph.HE
+ref: dexter.j.2009
+title: A Fast New Public Code for Computing Photon Orbits in a Kerr Spacetime
+type: article
+volume: '696'
+year: '2009'

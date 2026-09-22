@@ -1,0 +1,54 @@
+abstract: The observed samples of supernovae (SNe) and double compact objects (DCOs)
+  provide several critical constraints on population synthesis models. The parameters
+  of these models must be carefully chosen to reproduce, among other factors, (1)
+  the formation rates of double neutron star (NS-NS) binaries and white dwarf-neutron
+  star (WD-NS) binaries, estimated from binary samples, and (2) the Type II and Ib/c
+  SN rates. Even allowing for extremely conservative accounting of the uncertainties
+  in observational and theoretical predictions, we find that only a few plausible
+  population synthesis models (roughly 9\%) are consistent with DCO and SN rates empirically
+  determined from observations. As a proof of concept, we describe the information
+  that can be extracted about population synthesis models given these observational
+  tests, including surprisingly good agreement with the neutron star kick distributions
+  inferred from pulsar proper-motion measurements. In the present study, we find that
+  the current observational constraints favor kicks described by a single Maxwellian
+  with a characteristic velocity of about 350 km s-1 (i.e., at maximum likelihood;
+  kick velocities between 100 and 700 km s-1 remain within the 90\% confidence interval
+  of unimodal distributions), mass-loss fractions during nonconservative but stable
+  mass transfer episodes of about 90\%, and common envelope parameters of about 0.15-0.5.
+  Finally, we use the subset of astrophysically consistent models to predict the rates
+  at which black hole-neutron star (BH-NS) and NS-NS binaries merge in the Milky Way
+  and the nearby universe, assuming that Milky Way-like galaxies dominate. Inevitably,
+  the resulting probability distributions for merger rates depend on our assumed priors
+  for the population model input parameters. In this study we adopt relatively conservative
+  priors (flat) for all model parameters covering a rather wide range of values. However,
+  as we gain confidence in our knowledge of these inputs, the range of merger rates
+  consistent with our knowledge should shift and narrow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...672..479O
+arxivurl: http://arxiv.org/abs/astro-ph/0610076
+author: O'Shaughnessy, R. and Kim, C. and Kalogera, V. and Belczynski, K.
+author_list:
+- family: O'Shaughnessy
+  given: R.
+- family: Kim
+  given: C.
+- family: Kalogera
+  given: V.
+- family: Belczynski
+  given: K.
+date-added: 2017-08-11 07:57:02 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/523620
+eid: 479-488
+eprint: astro-ph/0610076
+journal: \apj
+keywords: 'binaries: close, black hole physics, stars: evolution, stars: neutron'
+month: January
+pages: 479--488
+papis_id: 752b40303b0ae8cd2c6de04244d51e7b
+ref: o_shaughnessy.r.2008
+title: Constraining Population Synthesis Models via Empirical Binary Compact Object
+  Merger and Supernova Rates
+type: article
+volume: '672'
+year: '2008'

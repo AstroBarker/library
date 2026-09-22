@@ -1,0 +1,63 @@
+abstract: We present the first high-resolution, soft X-ray spectrum of the prototypical
+  Seyfert 2 galaxy, NGC 1068. This spectrum was obtained with the XMM-Newton Reflection
+  Grating Spectrometer (RGS). Emission lines from H-like and He-like low-Z ions (from
+  C to Si) and Fe L-shell ions dominate the spectrum. Strong, narrow radiative recombination
+  continua (RRCs) for several ions are also present, implying that most of the observed
+  soft X-ray emission arises in low-temperature plasma (kTe~a few eV). This plasma
+  is photoionized by the inferred nuclear continuum (obscured along our line of sight),
+  as expected in the unified model of active galactic nuclei (AGNs). We find excess
+  emission (compared to pure recombination) in all resonance lines (1s-->np) up to
+  the photoelectric edge, demonstrating the importance of photoexcitation as well.
+  We introduce a simple model of a cone of plasma irradiated by the nuclear continuum;
+  the line emission we observe along our line of sight perpendicular to the cone is
+  produced through recombination/radiative cascade following photoionization and radiative
+  decay following photoexcitation. A remarkably good fit is obtained to the H-like
+  and He-like ionic line series, with inferred radial ionic column densities consistent
+  with recent observations of warm absorbers in Seyfert 1 galaxies. Previous Chandra
+  imaging revealed a large (extending out to ~500 pc) ionization cone containing most
+  of the X-ray flux, implying that the warm absorber in NGC 1068 is a large-scale
+  outflow. To explain the ionic column densities, a broad, flat distribution in the
+  logarithm of the ionization parameter (xi=LX/ner2) is necessary, spanning logxi=0-3.
+  This suggests either radially stratified ionization zones, the existence of a broad
+  density distribution (spanning a few orders of magnitude) at each radius, or some
+  combination of both.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...575..732K
+arxivurl: http://arxiv.org/abs/astro-ph/0203290
+author: Kinkhabwala, A. and Sako, M. and Behar, E. and Kahn, S. M. and Paerels, F.
+  and Brinkman, A. C. and Kaastra, J. S. and Gu, M. F. and Liedahl, D. A.
+author_list:
+- family: Kinkhabwala
+  given: A.
+- family: Sako
+  given: M.
+- family: Behar
+  given: E.
+- family: Kahn
+  given: S. M.
+- family: Paerels
+  given: F.
+- family: Brinkman
+  given: A. C.
+- family: Kaastra
+  given: J. S.
+- family: Gu
+  given: M. F.
+- family: Liedahl
+  given: D. A.
+date-added: 2017-08-11 06:31:08 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/341482
+eprint: astro-ph/0203290
+journal: \apj
+keywords: 'Galaxies: Individual: NGC Number: NGC 1068, Galaxies: Seyfert, Line: Formation,
+  X-Rays: Galaxies'
+month: August
+pages: 732--746
+papis_id: b63dc17eec77f583593b9471f0cd8508
+ref: kinkhabwala.a.2002
+title: XMM-Newton Reflection Grating Spectrometer Observations of Discrete Soft X-Ray
+  Emission Features from NGC 1068
+type: article
+volume: '575'
+year: '2002'

@@ -1,0 +1,46 @@
+abstract: We present numerical magnetohydrodynamic (MHD) simulations of a magnetized
+  accretion disk launching trans-Alfv{\'e}nic jets. These simulations, performed in
+  a 2.5-dimensional time-dependent polytropic resistive MHD framework, model a resistive
+  accretion disk threaded by an initial vertical magnetic field. The resistivity is
+  only important inside the disk and is prescribed as eta=alphamVAHexp(- 2Z2/H2),
+  where VA stands for Alfv{\'e}n speed, H is the disk scale height, and the coefficient
+  alpham is smaller than unity. By performing the simulations over several tens of
+  dynamical disk timescales, we show that the launching of a collimated outflow occurs
+  self-consistently and the ejection of matter is continuous and quasi-stationary.
+  These are the first ever simulations of resistive accretion disks launching nontransient
+  ideal MHD jets. Roughly 15\% of accreted mass is persistently ejected. This outflow
+  is safely characterized as a jet since the flow becomes superfast magnetosonic,
+  well collimated, and reaches a quasi-stationary state. We present a complete illustration
+  and explanation of the ``accretion-ejection'' mechanism that leads to jet formation
+  from a magnetized accretion disk. In particular, the magnetic torque inside the
+  disk brakes the matter azimuthally and allows for accretion, while it is responsible
+  for an effective magnetocentrifugal acceleration in the jet. As such, the magnetic
+  field channels the disk angular momentum and powers the jet acceleration and collimation.
+  The jet originates from the inner disk region where equipartition between thermal
+  and magnetic forces is achieved. A hollow, superfast magnetosonic shell of dense
+  material is the natural outcome of the inward advection of a primordial field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...581..988C
+arxivurl: http://arxiv.org/abs/astro-ph/0208459
+author: Casse, F. and Keppens, R.
+author_list:
+- family: Casse
+  given: F.
+- family: Keppens
+  given: R.
+date-added: 2017-08-10 23:01:06 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344340
+eprint: astro-ph/0208459
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Galaxies: Jets, ISM: Jets and Outflows, Magnetohydrodynamics:
+  MHD'
+month: December
+pages: 988--1001
+papis_id: fd7649ce7cdebe1a27a38f2781f2ceff
+ref: casse.f.2002
+title: 'Magnetized Accretion-Ejection Structures: 2.5-dimensional Magnetohydrodynamic
+  Simulations of Continuous Ideal Jet Launching from Resistive Accretion Disks'
+type: article
+volume: '581'
+year: '2002'

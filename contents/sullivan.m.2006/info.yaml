@@ -1,0 +1,107 @@
+abstract: We show that Type Ia supernovae (SNe Ia) are formed within both very young
+  and old stellar populations, with observed rates that depend on the stellar mass
+  and mean star formation rates (SFRs) of their host galaxies. Models in which the
+  SN Ia rate depends solely on host galaxy stellar mass are ruled out with >99\% confidence.
+  Our analysis is based on 100 spectroscopically confirmed SNe Ia, plus 24 photometrically
+  classified events, all from the Supernova Legacy Survey (SNLS) and distributed over
+  0.2<z<0.75. We estimate stellar masses and SFRs for the SN Ia host galaxies by fitting
+  their broadband spectral energy distributions with the galaxy spectral synthesis
+  code P{\'E}GASE.2. We show that the SN Ia rate per unit mass is proportional to
+  the specific SFR of the parent galaxies-more vigorously star-forming galaxies host
+  more SNe Ia per unit stellar mass, broadly equivalent to the trend of increasing
+  SN Ia rate in later type galaxies seen in the local universe. Following earlier
+  suggestions for a simple ``two-component'' model approximating the SN Ia rate, we
+  find bivariate linear dependencies of the SN Ia rate on both the stellar masses
+  and the mean SFRs of the host systems. We find that the SN Ia rate can be well represented
+  as the sum of 5.3+/-1.1\texttimes{}10-14 SNe yr-1 Msolar-1 and 3.9+/-0.7\texttimes{}10-4
+  SNe yr-1 (Msolar yr-1)-1 of star formation. We also demonstrate a dependence of
+  distant SN Ia light-curve shapes on star formation in the host galaxy, similar to
+  trends observed locally. Passive galaxies, with no star formation, preferentially
+  host faster declining/dimmer SNe Ia, while brighter events are found in systems
+  with ongoing star formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...648..868S
+arxivurl: http://arxiv.org/abs/astro-ph/0605455
+author: Sullivan, M. and Le Borgne, D. and Pritchet, C. J. and Hodsman, A. and Neill,
+  J. D. and Howell, D. A. and Carlberg, R. G. and Astier, P. and Aubourg, E. and Balam,
+  D. and Basa, S. and Conley, A. and Fabbro, S. and Fouchez, D. and Guy, J. and Hook,
+  I. and Pain, R. and Palanque-Delabrouille, N. and Perrett, K. and Regnault, N. and
+  Rich, J. and Taillet, R. and Baumont, S. and Bronder, J. and Ellis, R. S. and Filiol,
+  M. and Lusset, V. and Perlmutter, S. and Ripoche, P. and Tao, C.
+author_list:
+- family: Sullivan
+  given: M.
+- family: Le Borgne
+  given: D.
+- family: Pritchet
+  given: C. J.
+- family: Hodsman
+  given: A.
+- family: Neill
+  given: J. D.
+- family: Howell
+  given: D. A.
+- family: Carlberg
+  given: R. G.
+- family: Astier
+  given: P.
+- family: Aubourg
+  given: E.
+- family: Balam
+  given: D.
+- family: Basa
+  given: S.
+- family: Conley
+  given: A.
+- family: Fabbro
+  given: S.
+- family: Fouchez
+  given: D.
+- family: Guy
+  given: J.
+- family: Hook
+  given: I.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Perrett
+  given: K.
+- family: Regnault
+  given: N.
+- family: Rich
+  given: J.
+- family: Taillet
+  given: R.
+- family: Baumont
+  given: S.
+- family: Bronder
+  given: J.
+- family: Ellis
+  given: R. S.
+- family: Filiol
+  given: M.
+- family: Lusset
+  given: V.
+- family: Perlmutter
+  given: S.
+- family: Ripoche
+  given: P.
+- family: Tao
+  given: C.
+date-added: 2017-08-11 07:21:23 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/506137
+eprint: astro-ph/0605455
+journal: \apj
+keywords: 'Cosmology: Distance Scale, Galaxies: Evolution, Stars: Supernovae: General,
+  Surveys'
+month: September
+pages: 868--883
+papis_id: 447a32cec127662f53ac6b8e0a140162
+ref: sullivan.m.2006
+title: Rates and Properties of Type Ia Supernovae as a Function of Mass and Star Formation
+  in Their Host Galaxies
+type: article
+volume: '648'
+year: '2006'

@@ -1,0 +1,51 @@
+abstract: Using a version of the ZEUS code, we carry out two-dimensional simulations
+  of self-gravitating shearing sheets, with application to QSO accretion disks at
+  a few thousand Schwarzschild radii, corresponding to a few hundredths of a parsec
+  for a 100-million-solar-mass black hole. Radiation pressure and optically thick
+  radiative cooling are implemented via vertical averages. We determine dimensionless
+  versions of the maximum surface density, accretion rate, and effective viscosity
+  that can be sustained by density-wave turbulence without fragmentation. Where fragments
+  do form, we study the final masses that result. The maximum Shakura-Sunyaev viscosity
+  parameter is approximately 0.4. Fragmentation occurs when the cooling time is less
+  than about twice the shearing time, as found by Gammie and others, but can also
+  occur at very long cooling times in sheets that are strongly radiation-pressure
+  dominated. For accretion at the Eddington rate onto a 108 solar-mass black hole,
+  fragmentation occurs beyond 4000 Schwarzschild radii, r S. Near this radius, initial
+  fragment masses are several hundred suns, consistent with estimates from linear
+  stability; final masses after merging increase with the size of the sheet, reaching
+  several thousand suns in our largest simulations. With increasing black hole mass
+  at a fixed Eddington ratio, self-gravity prevails at smaller multiples of r S, where
+  radiation pressure is more important and the cooling time is longer compared to
+  the dynamical time; nevertheless, fragmentation can occur and produces larger initial
+  fragment masses. Because the internal thermal and gravitational energies of these
+  massive, radiation-pressure-dominated fragments nearly cancel, small errors in energy
+  conservation can cause spurious results such as spontaneous dissolution of isolated
+  bodies, unless special care is taken. This is likely to be a challenge for all Eulerian
+  codes in self-gravitating regimes where radiation pressure dominates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...730...45J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.3541
+author: Jiang, Y.-F. and Goodman, J.
+author_list:
+- family: Jiang
+  given: Y.-F.
+- family: Goodman
+  given: J.
+date-added: 2017-08-11 00:47:16 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/730/1/45
+eid: '45'
+eprint: '1011.3541'
+journal: \apj
+keywords: 'accretion, accretion disks, galaxies: active, gravitation, methods: numerical,
+  stars: formation'
+month: March
+pages: '45'
+papis_id: fff57564c747030d3d284f8fe9fe1922
+primaryclass: astro-ph.HE
+ref: jiang.y_f.2011
+title: Star Formation in a Quasar Disk
+type: article
+volume: '730'
+year: '2011'

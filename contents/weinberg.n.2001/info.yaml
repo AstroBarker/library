@@ -1,0 +1,50 @@
+abstract: The discovery of high-amplitude brightness oscillations during type I X-ray
+  bursts from six low-mass X-ray binaries has provided a powerful new tool to study
+  the properties of matter at supranuclear densities, the effects of strong gravity,
+  and the propagation of thermonuclear burning. There is substantial evidence that
+  these brightness oscillations are produced by spin modulation of one or two localized
+  hot spots confined to the stellar surface. It is therefore important to calculate
+  the expected light curves produced by such hot spots under various physical assumptions,
+  so that comparison with the observed light curves may most sensitively yield information
+  about the underlying physical quantities. In this paper we make general relativistic
+  calculations of the light curves and oscillation amplitudes produced by a rotating
+  neutron star with one or two hot spots as a function of spot size, stellar compactness,
+  rotational velocity at the stellar surface, spot location, orientation of the line
+  of sight of the observer, and the angular dependence of the surface specific intensity.
+  For the case of two emitting spots we also investigate the effects of having spot
+  separations less than 180deg and the effects of having asymmetries in the brightness
+  of the two spots. We find that stellar rotation and beaming of the emission tend
+  to increase the observed oscillation amplitudes whereas greater compactness and
+  larger spot size tend to decrease them. We also show that when two emitting spots
+  are either nonantipodal or asymmetric in brightness, significant power at the first
+  harmonic is generated. By applying these results to 4U 1636-536, the two emitting
+  spots of which produce power at the first harmonic, we place strong constraints
+  on the neutron star's magnetic field geometry. We also show that the data on the
+  phase lags between photons of different energies in the persistent pulsations in
+  SAX J1808-58 can be fitted well with a model in which the observed hard leads are
+  due to Doppler beaming.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...546.1098W
+arxivurl: http://arxiv.org/abs/astro-ph/0001544
+author: Weinberg, N. and Miller, M. C. and Lamb, D. Q.
+author_list:
+- family: Weinberg
+  given: N.
+- family: Miller
+  given: M. C.
+- family: Lamb
+  given: D. Q.
+date-added: 2017-08-10 22:23:33 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/318279
+eprint: astro-ph/0001544
+journal: \apj
+keywords: 'Equation of State, Gravitation, Relativity, Stars: Neutron, X-Rays: Bursts'
+month: January
+pages: 1098--1106
+papis_id: b7453812aaf56c09f7f6308f5bf4201c
+ref: weinberg.n.2001
+title: Oscillation Waveforms and Amplitudes from Hot Spots on Neutron Stars
+type: article
+volume: '546'
+year: '2001'

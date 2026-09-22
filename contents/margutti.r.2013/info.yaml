@@ -1,0 +1,90 @@
+abstract: 'We present a comprehensive statistical analysis of Swift X-ray light curves
+  of gamma-ray bursts (GRBs) collecting data from more than 650 GRBs discovered by
+  Swift and other facilities. The unprecedented sample size allows us to constrain
+  the rest-frame X-ray properties of GRBs from a statistical perspective, with particular
+  reference to intrinsic time-scales and the energetics of the different light-curve
+  phases in a common rest-frame 0.3-30 keV energy band. Temporal variability episodes
+  are also studied and their properties constrained. Two fundamental questions drive
+  this effort: (i) Does the X-ray emission retain any kind of `memory'' of the prompt
+  gamma-ray phase? (ii) Where is the dividing line between long and short GRB X-ray
+  properties? We show that short GRBs decay faster, are less luminous and less energetic
+  than long GRBs in the X-rays, but are interestingly characterized by similar intrinsic
+  absorption. We furthermore reveal the existence of a number of statistically significant
+  relations that link the X-ray to prompt gamma-ray parameters in long GRBs; short
+  GRBs are outliers of the majority of these two-parameter relations. However and
+  more importantly, we report on the existence of a universal three-parameter scaling
+  that links the X-ray and the gamma-ray energy to the prompt spectral peak energy
+  of both long and short GRBs: EX, iso\propto{}E1.00 $\pm$ 0.06gamma, iso/E0.60 \$\pm\$
+  0.10pk.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428..729M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.1059
+author: Margutti, R. and Zaninoni, E. and Bernardini, M. G. and Chincarini, G. and
+  Pasotti, F. and Guidorzi, C. and Angelini, L. and Burrows, D. N. and Capalbi, M.
+  and Evans, P. A. and Gehrels, N. and Kennea, J. and Mangano, V. and Moretti, A.
+  and Nousek, J. and Osborne, J. P. and Page, K. L. and Perri, M. and Racusin, J.
+  and Romano, P. and Sbarufatti, B. and Stafford, S. and Stamatikos, M.
+author_list:
+- family: Margutti
+  given: R.
+- family: Zaninoni
+  given: E.
+- family: Bernardini
+  given: M. G.
+- family: Chincarini
+  given: G.
+- family: Pasotti
+  given: F.
+- family: Guidorzi
+  given: C.
+- family: Angelini
+  given: L.
+- family: Burrows
+  given: D. N.
+- family: Capalbi
+  given: M.
+- family: Evans
+  given: P. A.
+- family: Gehrels
+  given: N.
+- family: Kennea
+  given: J.
+- family: Mangano
+  given: V.
+- family: Moretti
+  given: A.
+- family: Nousek
+  given: J.
+- family: Osborne
+  given: J. P.
+- family: Page
+  given: K. L.
+- family: Perri
+  given: M.
+- family: Racusin
+  given: J.
+- family: Romano
+  given: P.
+- family: Sbarufatti
+  given: B.
+- family: Stafford
+  given: S.
+- family: Stamatikos
+  given: M.
+date-added: 2017-08-10 16:46:10 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts066
+eprint: '1203.1059'
+journal: \mnras
+keywords: 'radiation mechanism: non-thermal, gamma-ray burst: general'
+month: January
+pages: 729--742
+papis_id: e521433ca6ef6290357fdebdf5ac13ff
+primaryclass: astro-ph.HE
+ref: margutti.r.2013
+title: 'The prompt-afterglow connection in gamma-ray bursts: a comprehensive statistical
+  analysis of Swift X-ray light curves'
+type: article
+volume: '428'
+year: '2013'

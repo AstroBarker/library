@@ -1,0 +1,46 @@
+abstract: We present multidimensional simulations of the post-explosion hydrodynamics
+  in three different 15 M sun supernova models with zero, 10-4 Z sun, and Z sun metallicities.
+  We follow the growth of the Rayleigh-Taylor (RT) instability that mixes together
+  the stellar layers in the wake of the explosion. Models are initialized with spherically
+  symmetric explosions and perturbations are seeded by the grid. Calculations are
+  performed in two-dimensional (2D) axisymmetric and three-dimensional (3D) Cartesian
+  coordinates using the new Eulerian hydrodynamics code, CASTRO. We find as in previous
+  work that RT perturbations initially grow faster in 3D than in 2D. As the RT fingers
+  interact with one another, mixing proceeds to a greater degree in 3D than in 2D,
+  reducing the local Atwood number and slowing the growth rate of the instability
+  in 3D relative to 2D. By the time mixing has stopped, the width of the mixed region
+  is similar in the 2D and 3D simulations provided the RT fingers show significant
+  interaction. Our results imply that 2D simulations of light curves and nucleosynthesis
+  in supernovae that die as red giants may capture the features of an initially spherically
+  symmetric explosion in far less computational time than required by a full 3D simulation.
+  However, capturing large departures from spherical symmetry requires a significantly
+  perturbed explosion. Large-scale asymmetries cannot develop through an inverse cascade
+  of merging RT structures; they must arise from asymmetries in the initial explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...723..353J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.3336
+author: Joggerst, C. C. and Almgren, A. and Woosley, S. E.
+author_list:
+- family: Joggerst
+  given: C. C.
+- family: Almgren
+  given: A.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 22:16:22 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/723/1/353
+eprint: '1009.3336'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, supernovae: general'
+month: November
+pages: 353--363
+papis_id: 964c6834977da4cb900e0971a465c9fd
+primaryclass: astro-ph.HE
+ref: joggerst.c.2010a
+title: Three-dimensional Simulations of Rayleigh-Taylor Mixing in Core-collapse Supernovae
+  with Castro
+type: article
+volume: '723'
+year: '2010'

@@ -1,0 +1,382 @@
+abstract: We use 73 h of stereoscopic data taken with the MAGIC telescopes to investigate
+  the very high-energy (VHE) gamma-ray emission of the Crab pulsar. Our data show
+  a highly significant pulsed signal in the energy range from 50 to 400 GeV in both
+  the main pulse (P1) and the interpulse (P2) phase regions. We provide the widest
+  spectra to date of the VHE components of both peaks, and these spectra extend to
+  the energy range of satellite-borne observatories. The good resolution and background
+  rejection of the stereoscopic MAGIC system allows us to cross-check the correctness
+  of each spectral point of the pulsar by comparison with the corresponding (strong
+  and well-known) Crab nebula flux. The spectra of both P1 and P2 are compatible with
+  power laws with photon indices of 4.0 $\pm$ 0.8 (P1) and 3.42 \$\pm\$ 0.26 (P2),
+  respectively, and the ratio P1/P2 between the photon counts of the two pulses is
+  0.54 \$\pm\$ 0.12. The VHE emission can be understood as an additional component
+  produced by the inverse Compton scattering of secondary and tertiary e\$\pm\$ pairs
+  on IR-UV photons.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...540A..69A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1109.6124
+author: Aleksić, J. and Alvarez, E. A. and Antonelli, L. A. and Antoranz, P. and Asensio,
+  M. and Backes, M. and Barrio, J. A. and Bastieri, D. and Becerra González, J. and
+  Bednarek, W. and Berdyugin, A. and Berger, K. and Bernardini, E. and Biland, A.
+  and Blanch, O. and Bock, R. K. and Boller, A. and Bonnoli, G. and Borla Tridon,
+  D. and Braun, I. and Bretz, T. and Cañellas, A. and Carmona, E. and Carosi, A. and
+  Colin, P. and Colombo, E. and Contreras, J. L. and Cortina, J. and Cossio, L. and
+  Covino, S. and Dazzi, F. and de Angelis, A. and de Caneva, G. and de Cea Del Pozo,
+  E. and de Lotto, B. and Delgado Mendez, C. and Diago Ortega, A. and Doert, M. and
+  Domínguez, A. and Dominis Prester, D. and Dorner, D. and Doro, M. and Eisenacher,
+  D. and Elsaesser, D. and Ferenc, D. and Fonseca, M. V. and Font, L. and Fruck, C.
+  and García López, R. J. and Garczarczyk, M. and Garrido, D. and Giavitto, G. and
+  Godinović, N. and Hadasch, D. and Häfner, D. and Herrero, A. and Hildebrand, D.
+  and Höhne-Mönch, D. and Hose, J. and Hrupec, D. and Jogler, T. and Kellermann, H.
+  and Klepser, S. and Krähenbühl, T. and Krause, J. and Kushida, J. and La Barbera,
+  A. and Lelas, D. and Leonardo, E. and Lewandowska, N. and Lindfors, E. and Lombardi,
+  S. and López, M. and López-Oramas, A. and Lorenz, E. and Makariev, M. and Maneva,
+  G. and Mankuzhiyil, N. and Mannheim, K. and Maraschi, L. and Mariotti, M. and Martínez,
+  M. and Mazin, D. and Meucci, M. and Miranda, J. M. and Mirzoyan, R. and Moldón,
+  J. and Moralejo, A. and Munar-Adrover, P. and Niedzwiecki, A. and Nieto, D. and
+  Nilsson, K. and Nowak, N. and Orito, R. and Paneque, D. and Paoletti, R. and Pardo,
+  S. and Paredes, J. M. and Partini, S. and Perez-Torres, M. A. and Persic, M. and
+  Peruzzo, L. and Pilia, M. and Pochon, J. and Prada, F. and Prada Moroni, P. G. and
+  Prandini, E. and Puerto Gimenez, I. and Puljak, I. and Reichardt, I. and Reinthal,
+  R. and Rhode, W. and Ribó, M. and Rico, J. and Rügamer, S. and Saggion, A. and Saito,
+  K. and Saito, T. Y. and Salvati, M. and Satalecka, K. and Scalzotto, V. and Scapin,
+  V. and Schultz, C. and Schweizer, T. and Shayduk, M. and Shore, S. N. and Sillanpää,
+  A. and Sitarek, J. and Šnidarić, I. and Sobczynska, D. and Spanier, F. and Spiro,
+  S. and Stamatescu, V. and Stamerra, A. and Steinke, B. and Storz, J. and Strah,
+  N. and Surić, T. and Takalo, L. and Takami, H. and Tavecchio, F. and Temnikov, P.
+  and Terzić, T. and Tescaro, D. and Teshima, M. and Tibolla, O. and Torres, D. F.
+  and Treves, A. and Uellenbeck, M. and Vankov, H. and Vogler, P. and Wagner, R. M.
+  and Weitzel, Q. and Zabalza, V. and Zandanel, F. and Zanin, R. and Hirotani, K.
+author_list:
+- family: Aleksić
+  given: J.
+- family: Alvarez
+  given: E. A.
+- family: Antonelli
+  given: L. A.
+- family: Antoranz
+  given: P.
+- family: Asensio
+  given: M.
+- family: Backes
+  given: M.
+- family: Barrio
+  given: J. A.
+- family: Bastieri
+  given: D.
+- family: Becerra González
+  given: J.
+- family: Bednarek
+  given: W.
+- family: Berdyugin
+  given: A.
+- family: Berger
+  given: K.
+- family: Bernardini
+  given: E.
+- family: Biland
+  given: A.
+- family: Blanch
+  given: O.
+- family: Bock
+  given: R. K.
+- family: Boller
+  given: A.
+- family: Bonnoli
+  given: G.
+- family: Borla Tridon
+  given: D.
+- family: Braun
+  given: I.
+- family: Bretz
+  given: T.
+- family: Cañellas
+  given: A.
+- family: Carmona
+  given: E.
+- family: Carosi
+  given: A.
+- family: Colin
+  given: P.
+- family: Colombo
+  given: E.
+- family: Contreras
+  given: J. L.
+- family: Cortina
+  given: J.
+- family: Cossio
+  given: L.
+- family: Covino
+  given: S.
+- family: Dazzi
+  given: F.
+- family: de Angelis
+  given: A.
+- family: de Caneva
+  given: G.
+- family: de Cea Del Pozo
+  given: E.
+- family: de Lotto
+  given: B.
+- family: Delgado Mendez
+  given: C.
+- family: Diago Ortega
+  given: A.
+- family: Doert
+  given: M.
+- family: Domínguez
+  given: A.
+- family: Dominis Prester
+  given: D.
+- family: Dorner
+  given: D.
+- family: Doro
+  given: M.
+- family: Eisenacher
+  given: D.
+- family: Elsaesser
+  given: D.
+- family: Ferenc
+  given: D.
+- family: Fonseca
+  given: M. V.
+- family: Font
+  given: L.
+- family: Fruck
+  given: C.
+- family: García López
+  given: R. J.
+- family: Garczarczyk
+  given: M.
+- family: Garrido
+  given: D.
+- family: Giavitto
+  given: G.
+- family: Godinović
+  given: N.
+- family: Hadasch
+  given: D.
+- family: Häfner
+  given: D.
+- family: Herrero
+  given: A.
+- family: Hildebrand
+  given: D.
+- family: Höhne-Mönch
+  given: D.
+- family: Hose
+  given: J.
+- family: Hrupec
+  given: D.
+- family: Jogler
+  given: T.
+- family: Kellermann
+  given: H.
+- family: Klepser
+  given: S.
+- family: Krähenbühl
+  given: T.
+- family: Krause
+  given: J.
+- family: Kushida
+  given: J.
+- family: La Barbera
+  given: A.
+- family: Lelas
+  given: D.
+- family: Leonardo
+  given: E.
+- family: Lewandowska
+  given: N.
+- family: Lindfors
+  given: E.
+- family: Lombardi
+  given: S.
+- family: López
+  given: M.
+- family: López-Oramas
+  given: A.
+- family: Lorenz
+  given: E.
+- family: Makariev
+  given: M.
+- family: Maneva
+  given: G.
+- family: Mankuzhiyil
+  given: N.
+- family: Mannheim
+  given: K.
+- family: Maraschi
+  given: L.
+- family: Mariotti
+  given: M.
+- family: Martínez
+  given: M.
+- family: Mazin
+  given: D.
+- family: Meucci
+  given: M.
+- family: Miranda
+  given: J. M.
+- family: Mirzoyan
+  given: R.
+- family: Moldón
+  given: J.
+- family: Moralejo
+  given: A.
+- family: Munar-Adrover
+  given: P.
+- family: Niedzwiecki
+  given: A.
+- family: Nieto
+  given: D.
+- family: Nilsson
+  given: K.
+- family: Nowak
+  given: N.
+- family: Orito
+  given: R.
+- family: Paneque
+  given: D.
+- family: Paoletti
+  given: R.
+- family: Pardo
+  given: S.
+- family: Paredes
+  given: J. M.
+- family: Partini
+  given: S.
+- family: Perez-Torres
+  given: M. A.
+- family: Persic
+  given: M.
+- family: Peruzzo
+  given: L.
+- family: Pilia
+  given: M.
+- family: Pochon
+  given: J.
+- family: Prada
+  given: F.
+- family: Prada Moroni
+  given: P. G.
+- family: Prandini
+  given: E.
+- family: Puerto Gimenez
+  given: I.
+- family: Puljak
+  given: I.
+- family: Reichardt
+  given: I.
+- family: Reinthal
+  given: R.
+- family: Rhode
+  given: W.
+- family: Ribó
+  given: M.
+- family: Rico
+  given: J.
+- family: Rügamer
+  given: S.
+- family: Saggion
+  given: A.
+- family: Saito
+  given: K.
+- family: Saito
+  given: T. Y.
+- family: Salvati
+  given: M.
+- family: Satalecka
+  given: K.
+- family: Scalzotto
+  given: V.
+- family: Scapin
+  given: V.
+- family: Schultz
+  given: C.
+- family: Schweizer
+  given: T.
+- family: Shayduk
+  given: M.
+- family: Shore
+  given: S. N.
+- family: Sillanpää
+  given: A.
+- family: Sitarek
+  given: J.
+- family: Šnidarić
+  given: I.
+- family: Sobczynska
+  given: D.
+- family: Spanier
+  given: F.
+- family: Spiro
+  given: S.
+- family: Stamatescu
+  given: V.
+- family: Stamerra
+  given: A.
+- family: Steinke
+  given: B.
+- family: Storz
+  given: J.
+- family: Strah
+  given: N.
+- family: Surić
+  given: T.
+- family: Takalo
+  given: L.
+- family: Takami
+  given: H.
+- family: Tavecchio
+  given: F.
+- family: Temnikov
+  given: P.
+- family: Terzić
+  given: T.
+- family: Tescaro
+  given: D.
+- family: Teshima
+  given: M.
+- family: Tibolla
+  given: O.
+- family: Torres
+  given: D. F.
+- family: Treves
+  given: A.
+- family: Uellenbeck
+  given: M.
+- family: Vankov
+  given: H.
+- family: Vogler
+  given: P.
+- family: Wagner
+  given: R. M.
+- family: Weitzel
+  given: Q.
+- family: Zabalza
+  given: V.
+- family: Zandanel
+  given: F.
+- family: Zanin
+  given: R.
+- family: Hirotani
+  given: K.
+date-added: 2017-08-10 22:30:00 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1051/0004-6361/201118166
+eid: A69
+eprint: '1109.6124'
+journal: \aap
+keywords: 'pulsars: individual: Crab pulsar, gamma rays: stars'
+month: April
+pages: A69
+papis_id: 862abed71a6f83c4c3bf0c6a6e1a759a
+primaryclass: astro-ph.HE
+ref: aleksic.j.2012
+title: Phase-resolved energy spectra of the Crab pulsar in the range of 50-400 GeV
+  measured with the MAGIC telescopes
+type: article
+volume: '540'
+year: '2012'

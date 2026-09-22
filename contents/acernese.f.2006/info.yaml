@@ -1,0 +1,308 @@
+abstract: We report on the status of the Virgo detector, under commissioning. We will
+  focus on the last year's activity. The two commissioning runs performed during 2005
+  allowed us to reach a sensitivity of h ~ 6 \texttimes{} 10-22. The data obtained
+  during the runs were used to test a few data analysis algorithms, namely coalescing
+  binaries and burst searches. The main improvements made on the detector during this
+  year will be described, as well as the plans and activities foreseen in the coming
+  years.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23S.635A
+author: Acernese, F. and Amico, P. and Alshourbagy, M. and Antonucci, F. and Aoudia,
+  S. and Avino, S. and Babusci, D. and Ballardin, G. and Barone, F. and Barsotti,
+  L. and Barsuglia, M. and Beauville, F. and Bigotta, S. and Birindelli, S. and Bizouard,
+  M. A. and Boccara, C. and Bondu, F. and Bosi, L. and Bradaschia, C. and Braccini,
+  S. and Brillet, A. and Brisson, V. and Brocco, L. and Buskulic, D. and Calloni,
+  E. and Campagna, E. and Cavalier, F. and Cavalieri, R. and Cella, G. and Cesarini,
+  E. and Chassande-Mottin, E. and Corda, C. and Cottone, F. and Clapson, A.-C. and
+  Cleva, F. and Coulon, J.-P. and Cuoco, E. and Dari, A. and Dattilo, V. and Davier,
+  M. and De Rosa, R. and Di Fiore, L. and Di Virgilio, A. and Dujardin, B. and Eleuteri,
+  A. and Enard, D. and Ferrante, I. and Fidecaro, F. and Fiori, I. and Flaminio, R.
+  and Fournier, J.-D. and Francois, O. and Frasca, S. and Frasconi, F. and Freise,
+  A. and Gammaitoni, L. and Garufi, F. and Gennai, A. and Giazotto, A. and Giordano,
+  G. and Giordano, L. and Gouaty, R. and Grosjean, D. and Guidi, G. and Hebri, S.
+  and Heitmann, H. and Hello, P. and Holloway, L. and Karkar, S. and Kreckelbergh,
+  S. and La Penna, P. and Laval, M. and Leroy, N. and Letendre, N. and Lorenzini,
+  M. and Loriette, V. and Loupias, M. and Losurdo, G. and Mackowski, J.-M. and Majorana,
+  E. and Man, C. N. and Mantovani, M. and Marchesoni, F. and Marion, F. and Marque,
+  J. and Martelli, F. and Masserot, A. and Mazzoni, M. and Milano, L. and Moins, C.
+  and Moreau, J. and Morgado, N. and Mours, B. and Pai, A. and Palomba, C. and Paoletti,
+  F. and Pardi, S. and Pasqualetti, A. and Passaquieti, R. and Passuello, D. and Perniola,
+  B. and Piergiovanni, F. and Pinard, L. and Poggiani, R. and Punturo, M. and Puppo,
+  P. and Qipiani, K. and Rapagnani, P. and Reita, V. and Remillieux, A. and Ricci,
+  F. and Ricciardi, I. and Ruggi, P. and Russo, G. and Solimeno, S. and Spallicci,
+  A. and Stanga, R. and Taddei, R. and Tonelli, M. and Toncelli, A. and Tournefier,
+  E. and Travasso, F. and Vajente, G. and Verkindt, D. and Vetrano, F. and Viceré,
+  A. and Vinet, J.-Y. and Vocca, H. and Yvert, M. and Zhang, Z.
+author_list:
+- family: Acernese
+  given: F.
+- family: Amico
+  given: P.
+- family: Alshourbagy
+  given: M.
+- family: Antonucci
+  given: F.
+- family: Aoudia
+  given: S.
+- family: Avino
+  given: S.
+- family: Babusci
+  given: D.
+- family: Ballardin
+  given: G.
+- family: Barone
+  given: F.
+- family: Barsotti
+  given: L.
+- family: Barsuglia
+  given: M.
+- family: Beauville
+  given: F.
+- family: Bigotta
+  given: S.
+- family: Birindelli
+  given: S.
+- family: Bizouard
+  given: M. A.
+- family: Boccara
+  given: C.
+- family: Bondu
+  given: F.
+- family: Bosi
+  given: L.
+- family: Bradaschia
+  given: C.
+- family: Braccini
+  given: S.
+- family: Brillet
+  given: A.
+- family: Brisson
+  given: V.
+- family: Brocco
+  given: L.
+- family: Buskulic
+  given: D.
+- family: Calloni
+  given: E.
+- family: Campagna
+  given: E.
+- family: Cavalier
+  given: F.
+- family: Cavalieri
+  given: R.
+- family: Cella
+  given: G.
+- family: Cesarini
+  given: E.
+- family: Chassande-Mottin
+  given: E.
+- family: Corda
+  given: C.
+- family: Cottone
+  given: F.
+- family: Clapson
+  given: A.-C.
+- family: Cleva
+  given: F.
+- family: Coulon
+  given: J.-P.
+- family: Cuoco
+  given: E.
+- family: Dari
+  given: A.
+- family: Dattilo
+  given: V.
+- family: Davier
+  given: M.
+- family: De Rosa
+  given: R.
+- family: Di Fiore
+  given: L.
+- family: Di Virgilio
+  given: A.
+- family: Dujardin
+  given: B.
+- family: Eleuteri
+  given: A.
+- family: Enard
+  given: D.
+- family: Ferrante
+  given: I.
+- family: Fidecaro
+  given: F.
+- family: Fiori
+  given: I.
+- family: Flaminio
+  given: R.
+- family: Fournier
+  given: J.-D.
+- family: Francois
+  given: O.
+- family: Frasca
+  given: S.
+- family: Frasconi
+  given: F.
+- family: Freise
+  given: A.
+- family: Gammaitoni
+  given: L.
+- family: Garufi
+  given: F.
+- family: Gennai
+  given: A.
+- family: Giazotto
+  given: A.
+- family: Giordano
+  given: G.
+- family: Giordano
+  given: L.
+- family: Gouaty
+  given: R.
+- family: Grosjean
+  given: D.
+- family: Guidi
+  given: G.
+- family: Hebri
+  given: S.
+- family: Heitmann
+  given: H.
+- family: Hello
+  given: P.
+- family: Holloway
+  given: L.
+- family: Karkar
+  given: S.
+- family: Kreckelbergh
+  given: S.
+- family: La Penna
+  given: P.
+- family: Laval
+  given: M.
+- family: Leroy
+  given: N.
+- family: Letendre
+  given: N.
+- family: Lorenzini
+  given: M.
+- family: Loriette
+  given: V.
+- family: Loupias
+  given: M.
+- family: Losurdo
+  given: G.
+- family: Mackowski
+  given: J.-M.
+- family: Majorana
+  given: E.
+- family: Man
+  given: C. N.
+- family: Mantovani
+  given: M.
+- family: Marchesoni
+  given: F.
+- family: Marion
+  given: F.
+- family: Marque
+  given: J.
+- family: Martelli
+  given: F.
+- family: Masserot
+  given: A.
+- family: Mazzoni
+  given: M.
+- family: Milano
+  given: L.
+- family: Moins
+  given: C.
+- family: Moreau
+  given: J.
+- family: Morgado
+  given: N.
+- family: Mours
+  given: B.
+- family: Pai
+  given: A.
+- family: Palomba
+  given: C.
+- family: Paoletti
+  given: F.
+- family: Pardi
+  given: S.
+- family: Pasqualetti
+  given: A.
+- family: Passaquieti
+  given: R.
+- family: Passuello
+  given: D.
+- family: Perniola
+  given: B.
+- family: Piergiovanni
+  given: F.
+- family: Pinard
+  given: L.
+- family: Poggiani
+  given: R.
+- family: Punturo
+  given: M.
+- family: Puppo
+  given: P.
+- family: Qipiani
+  given: K.
+- family: Rapagnani
+  given: P.
+- family: Reita
+  given: V.
+- family: Remillieux
+  given: A.
+- family: Ricci
+  given: F.
+- family: Ricciardi
+  given: I.
+- family: Ruggi
+  given: P.
+- family: Russo
+  given: G.
+- family: Solimeno
+  given: S.
+- family: Spallicci
+  given: A.
+- family: Stanga
+  given: R.
+- family: Taddei
+  given: R.
+- family: Tonelli
+  given: M.
+- family: Toncelli
+  given: A.
+- family: Tournefier
+  given: E.
+- family: Travasso
+  given: F.
+- family: Vajente
+  given: G.
+- family: Verkindt
+  given: D.
+- family: Vetrano
+  given: F.
+- family: Viceré
+  given: A.
+- family: Vinet
+  given: J.-Y.
+- family: Vocca
+  given: H.
+- family: Yvert
+  given: M.
+- family: Zhang
+  given: Z.
+date-added: 2017-08-10 22:33:22 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1088/0264-9381/23/19/S01
+journal: Classical and Quantum Gravity
+month: October
+pages: S635-S642
+papis_id: a53062a15f375eeae4f5ed2a9987cc67
+ref: acernese.f.2006
+title: The Virgo status
+type: article
+volume: '23'
+year: '2006'

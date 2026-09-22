@@ -1,0 +1,48 @@
+abstract: Type Ia supernovae are thought to be caused by thermonuclear explosions
+  of a carbon-oxygen white dwarf in close binary systems. In the single-degenerate
+  scenario (SDS), the companion star is non-degenerate and can be significantly affected
+  by the explosion. We explore this interaction by means of multi-dimensional adaptive
+  mesh refinement simulations using the FLASH code. We consider several different
+  companion types, including main-sequence-like stars (MS), red giants (RG), and helium
+  stars (He). In addition, we include the symmetry-breaking effects of orbital motion,
+  rotation of the non-degenerate star, and Roche-lobe overflow. A detailed study of
+  a sub-grid model for Type Ia supernovae is also presented. We find that the dependence
+  of the unbound stellar mass and kick velocity on the initial binary separation can
+  be fitted by power-law relations. By using the tracer particles in FLASH, the process
+  leading to the unbinding of matter is dominated by ablation, which has usually been
+  neglected in past analytical studies. The level of Ni/Fe contamination of the companion
+  that results from the passage of the supernova ejecta is found to be ~10-5 M \&sun;
+  for the MS star, ~10-4 M \&sun; for the He star, and ~10-8 M \&sun; for the RG.
+  The spinning MS companion star loses about half of its initial angular momentum
+  during the impact, causing the rotational velocity to drop to a quarter of the original
+  rotational velocity, suggesting that the Tycho G star is a promising progenitor
+  candidate in the SDS.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...750..151P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.1932
+author: Pan, K.-C. and Ricker, P. M. and Taam, R. E.
+author_list:
+- family: Pan
+  given: K.-C.
+- family: Ricker
+  given: P. M.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 20:10:05 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/750/2/151
+eid: '151'
+eprint: '1203.1932'
+journal: \apj
+keywords: 'binaries: close, methods: numerical, supernovae: general'
+month: May
+pages: '151'
+papis_id: e655975d02872af942acf36aba167003
+primaryclass: astro-ph.HE
+ref: pan.k_c.2012a
+title: Impact of Type Ia Supernova Ejecta on Binary Companions in the Single-degenerate
+  Scenario
+type: article
+volume: '750'
+year: '2012'

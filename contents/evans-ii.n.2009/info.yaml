@@ -1,0 +1,99 @@
+abstract: The c2d Spitzer Legacy project obtained images and photometry with both
+  IRAC and MIPS instruments for five large, nearby molecular clouds. Three of the
+  clouds were also mapped in dust continuum emission at 1.1 mm, and optical spectroscopy
+  has been obtained for some clouds. This paper combines information drawn from studies
+  of individual clouds into a combined and updated statistical analysis of star-formation
+  rates and efficiencies, numbers and lifetimes for spectral energy distribution (SED)
+  classes, and clustering properties. Current star-formation efficiencies range from
+  3\% to 6\%; if star formation continues at current rates for 10 Myr, efficiencies
+  could reach 15-30\%. Star-formation rates and rates per unit area vary from cloud
+  to cloud; taken together, the five clouds are producing about 260 M sun of stars
+  per Myr. The star-formation surface density is more than an order of magnitude larger
+  than would be predicted from the Kennicutt relation used in extragalactic studies,
+  reflecting the fact that those relations apply to larger scales, where more diffuse
+  matter is included in the gas surface density. Measured against the dense gas probed
+  by the maps of dust continuum emission, the efficiencies are much higher, with stellar
+  masses similar to masses of dense gas, and the current stock of dense cores would
+  be exhausted in 1.8 Myr on average. Nonetheless, star formation is still slow compared
+  to that expected in a free-fall time, even in the dense cores. The derived lifetime
+  for the Class I phase is 0.54 Myr, considerably longer than some estimates. Similarly,
+  the lifetime for the Class 0 SED class, 0.16 Myr, with the notable exception of
+  the Ophiuchus cloud, is longer than early estimates. If photometry is corrected
+  for estimated extinction before calculating class indicators, the lifetimes drop
+  to 0.44 Myr for Class I and to 0.10 for Class 0. These lifetimes assume a continuous
+  flow through the Class II phase and should be considered median lifetimes or half-lives.
+  Star formation is highly concentrated to regions of high extinction, and the youngest
+  objects are very strongly associated with dense cores. The great majority (90\%)
+  of young stars lie within loose clusters with at least 35 members and a stellar
+  density of 1 M sun pc-3. Accretion at the sound speed from an isothermal sphere
+  over the lifetime derived for the Class I phase could build a star of about 0.25
+  M sun, given an efficiency of 0.3. Building larger mass stars by using higher mass
+  accretion rates could be problematic, as our data confirm and aggravate the "luminosity
+  problem" for protostars. At a given T bol, the values for L bol are mostly less
+  than predicted by standard infall models and scatter over several orders of magnitude.
+  These results strongly suggest that accretion is time variable, with prolonged periods
+  of very low accretion. Based on a very simple model and this sample of sources,
+  half the mass of a star would be accreted during only 7\% of the Class I lifetime,
+  as represented by the eight most luminous objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..181..321E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.1059
+author: Evans II, N. J. and Dunham, M. M. and Jørgensen, J. K. and Enoch, M. L. and
+  Merín, B. and van Dishoeck, E. F. and Alcalá, J. M. and Myers, P. C. and Stapelfeldt,
+  K. R. and Huard, T. L. and Allen, L. E. and Harvey, P. M. and van Kempen, T. and
+  Blake, G. A. and Koerner, D. W. and Mundy, L. G. and Padgett, D. L. and Sargent,
+  A. I.
+author_list:
+- family: Evans II
+  given: N. J.
+- family: Dunham
+  given: M. M.
+- family: Jørgensen
+  given: J. K.
+- family: Enoch
+  given: M. L.
+- family: Merín
+  given: B.
+- family: van Dishoeck
+  given: E. F.
+- family: Alcalá
+  given: J. M.
+- family: Myers
+  given: P. C.
+- family: Stapelfeldt
+  given: K. R.
+- family: Huard
+  given: T. L.
+- family: Allen
+  given: L. E.
+- family: Harvey
+  given: P. M.
+- family: van Kempen
+  given: T.
+- family: Blake
+  given: G. A.
+- family: Koerner
+  given: D. W.
+- family: Mundy
+  given: L. G.
+- family: Padgett
+  given: D. L.
+- family: Sargent
+  given: A. I.
+date-added: 2017-08-11 01:44:47 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0067-0049/181/2/321
+eid: 321-350
+eprint: '0811.1059'
+journal: \apjs
+keywords: 'dust, extinction, infrared: stars, ISM: clouds, stars: formation'
+month: April
+pages: 321--350
+papis_id: a3242742464105951bba7d503e18b673
+ref: evans_ii.n.2009
+title: 'The Spitzer c2d Legacy Results: Star-Formation Rates and Efficiencies; Evolution
+  and Lifetimes'
+type: article
+volume: '181'
+year: '2009'

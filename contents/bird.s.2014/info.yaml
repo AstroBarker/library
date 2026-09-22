@@ -1,0 +1,54 @@
+abstract: We examine the abundance, clustering and metallicity of Damped Lyman alpha
+  Absorbers (DLAs) in a suite of hydrodynamic cosmological simulations using the moving
+  mesh code AREPO. We incorporate models of supernova and AGN feedback, as well as
+  molecular hydrogen formation. We compare our simulations to the column density distribution
+  function at z = 3, the total DLA abundance at z = 2-4, the measured DLA bias at
+  z = 2.3 and the DLA metallicity distribution at z = 2-4. Our preferred models produce
+  populations of DLAs in good agreement with most of these observations. The exception
+  is the DLA abundance at z < 3, which we show requires stronger feedback in 1011-12
+  h-1 M\&sun; mass haloes. While the DLA population probes a wide range of halo masses,
+  we find the cross-section is dominated by haloes of mass 1010-1011 h-1 M\&sun; and
+  virial velocities 50-100 km s-1. The simulated DLA population has a linear theory
+  bias of 1.7, whereas the observations require 2.17 $\pm$ 0.2. We show, however,
+  that non-linear growth increases the bias in our simulations to 2.3 at k = 1 h Mpc-1,
+  the smallest scale observed. The scale-dependence of the bias is, however, very
+  different in the simulations compared against the observations. We show that, of
+  the observations we consider, the DLA abundance and column density function provide
+  the strongest constraints on the feedback model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.445.2313B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1405.3994
+author: Bird, S. and Vogelsberger, M. and Haehnelt, M. and Sijacki, D. and Genel,
+  S. and Torrey, P. and Springel, V. and Hernquist, L.
+author_list:
+- family: Bird
+  given: S.
+- family: Vogelsberger
+  given: M.
+- family: Haehnelt
+  given: M.
+- family: Sijacki
+  given: D.
+- family: Genel
+  given: S.
+- family: Torrey
+  given: P.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:30:09 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu1923
+eprint: '1405.3994'
+journal: \mnras
+keywords: 'galaxies: formation, intergalactic medium, cosmology: theory'
+month: December
+pages: 2313--2324
+papis_id: fbddd958f3e836edaa92405cab6348fa
+ref: bird.s.2014
+title: Damped Lyman $α$ absorbers as a probe of stellar feedback
+type: article
+volume: '445'
+year: '2014'

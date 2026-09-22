@@ -1,0 +1,41 @@
+abstract: We present bolometric light curves of Type II plateau supernovae obtained
+  using a newly developed, one-dimensional Lagrangian hydrodynamic code with flux-limited
+  radiation diffusion. Using our code we calculate the bolometric light curve and
+  photospheric velocities of SN 1999em, obtaining a remarkably good agreement with
+  observations despite the simplifications used in our calculation. The physical parameters
+  used in our calculation are E = 1.25 foe, M = 19 M sun, R = 800 R sun, and M Ni
+  = 0.056 M sun. We find that an extensive mixing of 56Ni is needed in order to reproduce
+  a plateau as flat as that shown by the observations. We also study the possibility
+  to fit the observations with lower values of the initial mass consistently with
+  upper limits that have been inferred from pre-supernova imaging of SN 1999em in
+  connection with stellar evolution models. We cannot find a set of physical parameters
+  that reproduce well the observations for models with pre-supernova mass of <=12
+  M sun, although models with 14 M sun cannot be fully discarded.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...729...61B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.0467
+author: Bersten, M. C. and Benvenuto, O. and Hamuy, M.
+author_list:
+- family: Bersten
+  given: M. C.
+- family: Benvenuto
+  given: O.
+- family: Hamuy
+  given: M.
+date-added: 2017-08-11 03:07:26 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/729/1/61
+eid: '61'
+eprint: '1101.0467'
+journal: \apj
+keywords: 'hydrodynamics, supernovae: general, supernovae: individual: SN 1999em'
+month: March
+pages: '61'
+papis_id: 5b551bebe5c7c4e8a53054f5da684283
+primaryclass: astro-ph.SR
+ref: bersten.m.2011
+title: Hydrodynamical Models of Type II Plateau Supernovae
+type: article
+volume: '729'
+year: '2011'

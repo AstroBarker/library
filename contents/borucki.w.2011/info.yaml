@@ -1,0 +1,199 @@
+abstract: 'On 2011 February 1 the Kepler mission released data for 156,453 stars observed
+  from the beginning of the science observations on 2009 May 2 through September 16.
+  There are 1235 planetary candidates with transit-like signatures detected in this
+  period. These are associated with 997 host stars. Distributions of the characteristics
+  of the planetary candidates are separated into five class sizes: 68 candidates of
+  approximately Earth-size (R p < 1.25 R \oplus{}), 288 super-Earth-size (1.25 R \oplus{}
+  <= R p < 2 R \oplus{}), 662 Neptune-size (2 R \oplus{} <= R p < 6 R \oplus{}), 165
+  Jupiter-size (6 R \oplus{} <= R p < 15 R \oplus{}), and 19 up to twice the size
+  of Jupiter (15 R \oplus{} <= R p < 22 R \oplus{}). In the temperature range appropriate
+  for the habitable zone, 54 candidates are found with sizes ranging from Earth-size
+  to larger than that of Jupiter. Six are less than twice the size of the Earth. Over
+  74\% of the planetary candidates are smaller than Neptune. The observed number versus
+  size distribution of planetary candidates increases to a peak at two to three times
+  the Earth-size and then declines inversely proportional to the area of the candidate.
+  Our current best estimates of the intrinsic frequencies of planetary candidates,
+  after correcting for geometric and sensitivity biases, are 5\% for Earth-size candidates,
+  8\% for super-Earth-size candidates, 18\% for Neptune-size candidates, 2\% for Jupiter-size
+  candidates, and 0.1\% for very large candidates; a total of 0.34 candidates per
+  star. Multi-candidate, transiting systems are frequent; 17\% of the host stars have
+  multi-candidate systems, and 34\% of all the candidates are part of multi-candidate
+  systems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...736...19B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.0541
+author: Borucki, W. J. and Koch, D. G. and Basri, G. and Batalha, N. and Brown, T.
+  M. and Bryson, S. T. and Caldwell, D. and Christensen-Dalsgaard, J. and Cochran,
+  W. D. and DeVore, E. and Dunham, E. W. and Gautier III, T. N. and Geary, J. C. and
+  Gilliland, R. and Gould, A. and Howell, S. B. and Jenkins, J. M. and Latham, D.
+  W. and Lissauer, J. J. and Marcy, G. W. and Rowe, J. and Sasselov, D. and Boss,
+  A. and Charbonneau, D. and Ciardi, D. and Doyle, L. and Dupree, A. K. and Ford,
+  E. B. and Fortney, J. and Holman, M. J. and Seager, S. and Steffen, J. H. and Tarter,
+  J. and Welsh, W. F. and Allen, C. and Buchhave, L. A. and Christiansen, J. L. and
+  Clarke, B. D. and Das, S. and Désert, J.-M. and Endl, M. and Fabrycky, D. and Fressin,
+  F. and Haas, M. and Horch, E. and Howard, A. and Isaacson, H. and Kjeldsen, H. and
+  Kolodziejczak, J. and Kulesa, C. and Li, J. and Lucas, P. W. and Machalek, P. and
+  McCarthy, D. and MacQueen, P. and Meibom, S. and Miquel, T. and Prsa, A. and Quinn,
+  S. N. and Quintana, E. V. and Ragozzine, D. and Sherry, W. and Shporer, A. and Tenenbaum,
+  P. and Torres, G. and Twicken, J. D. and Van Cleve, J. and Walkowicz, L. and Witteborn,
+  F. C. and Still, M.
+author_list:
+- family: Borucki
+  given: W. J.
+- family: Koch
+  given: D. G.
+- family: Basri
+  given: G.
+- family: Batalha
+  given: N.
+- family: Brown
+  given: T. M.
+- family: Bryson
+  given: S. T.
+- family: Caldwell
+  given: D.
+- family: Christensen-Dalsgaard
+  given: J.
+- family: Cochran
+  given: W. D.
+- family: DeVore
+  given: E.
+- family: Dunham
+  given: E. W.
+- family: Gautier III
+  given: T. N.
+- family: Geary
+  given: J. C.
+- family: Gilliland
+  given: R.
+- family: Gould
+  given: A.
+- family: Howell
+  given: S. B.
+- family: Jenkins
+  given: J. M.
+- family: Latham
+  given: D. W.
+- family: Lissauer
+  given: J. J.
+- family: Marcy
+  given: G. W.
+- family: Rowe
+  given: J.
+- family: Sasselov
+  given: D.
+- family: Boss
+  given: A.
+- family: Charbonneau
+  given: D.
+- family: Ciardi
+  given: D.
+- family: Doyle
+  given: L.
+- family: Dupree
+  given: A. K.
+- family: Ford
+  given: E. B.
+- family: Fortney
+  given: J.
+- family: Holman
+  given: M. J.
+- family: Seager
+  given: S.
+- family: Steffen
+  given: J. H.
+- family: Tarter
+  given: J.
+- family: Welsh
+  given: W. F.
+- family: Allen
+  given: C.
+- family: Buchhave
+  given: L. A.
+- family: Christiansen
+  given: J. L.
+- family: Clarke
+  given: B. D.
+- family: Das
+  given: S.
+- family: Désert
+  given: J.-M.
+- family: Endl
+  given: M.
+- family: Fabrycky
+  given: D.
+- family: Fressin
+  given: F.
+- family: Haas
+  given: M.
+- family: Horch
+  given: E.
+- family: Howard
+  given: A.
+- family: Isaacson
+  given: H.
+- family: Kjeldsen
+  given: H.
+- family: Kolodziejczak
+  given: J.
+- family: Kulesa
+  given: C.
+- family: Li
+  given: J.
+- family: Lucas
+  given: P. W.
+- family: Machalek
+  given: P.
+- family: McCarthy
+  given: D.
+- family: MacQueen
+  given: P.
+- family: Meibom
+  given: S.
+- family: Miquel
+  given: T.
+- family: Prsa
+  given: A.
+- family: Quinn
+  given: S. N.
+- family: Quintana
+  given: E. V.
+- family: Ragozzine
+  given: D.
+- family: Sherry
+  given: W.
+- family: Shporer
+  given: A.
+- family: Tenenbaum
+  given: P.
+- family: Torres
+  given: G.
+- family: Twicken
+  given: J. D.
+- family: Van Cleve
+  given: J.
+- family: Walkowicz
+  given: L.
+- family: Witteborn
+  given: F. C.
+- family: Still
+  given: M.
+date-added: 2017-08-10 23:27:55 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/736/1/19
+eid: '19'
+eprint: '1102.0541'
+journal: \apj
+keywords: 'planetary systems, stars: statistics, planets and satellites: detection,
+  surveys'
+month: July
+pages: '19'
+papis_id: 233d8fc79a922529ba29816ff0b49b59
+primaryclass: astro-ph.EP
+ref: borucki.w.2011
+title: Characteristics of Planetary Candidates Observed by Kepler. II. Analysis of
+  the First Four Months of Data
+type: article
+volume: '736'
+year: '2011'

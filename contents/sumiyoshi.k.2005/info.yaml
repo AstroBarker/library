@@ -1,0 +1,52 @@
+abstract: We study the evolution of a supernova core from the beginning of the gravitational
+  collapse of a 15 Msolar star up to 1 s after core bounce. We present results of
+  spherically symmetric simulations of core-collapse supernovae by solving general
+  relativistic nu-radiation hydrodynamics in the implicit time differencing. We aim
+  to explore the evolution of shock waves in the long term and investigate the formation
+  of proto-neutron stars together with supernova neutrino signatures. These studies
+  are done to examine the influence of the equation of state (EOS) on the postbounce
+  evolution of shock waves in the late phase and the resulting thermal evolution of
+  proto-neutron stars. We compare two sets of EOSs, namely, those by Lattimer and
+  Swesty (LS-EOS) and by Shen et al. (SH-EOS). We found that, for both EOSs, the core
+  does not explode and the shock wave stalls similarly in the first 100 ms after bounce.
+  A revival of the shock wave does not occur even after a long period in either case.
+  However, the recession of the shock wave appears different beyond 200 ms after bounce,
+  having different thermal evolution of the central core. A more compact proto-neutron
+  star is found for LS-EOS than SH-EOS with a difference in the central density by
+  a factor of ~2 and a difference of ~10 MeV in the peak temperature. The resulting
+  spectra of supernova neutrinos are different to an extent that may be detectable
+  by terrestrial neutrino detectors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629..922S
+arxivurl: http://arxiv.org/abs/astro-ph/0506620
+author: Sumiyoshi, K. and Yamada, S. and Suzuki, H. and Shen, H. and Chiba, S. and
+  Toki, H.
+author_list:
+- family: Sumiyoshi
+  given: K.
+- family: Yamada
+  given: S.
+- family: Suzuki
+  given: H.
+- family: Shen
+  given: H.
+- family: Chiba
+  given: S.
+- family: Toki
+  given: H.
+date-added: 2017-08-10 14:43:10 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431788
+eprint: astro-ph/0506620
+journal: \apj
+keywords: 'Equation of State, Hydrodynamics, Neutrinos, Stars: Neutron, Stars: Supernovae:
+  General'
+month: August
+pages: 922--932
+papis_id: e26d2456fbbb7dd6cfbc49969bc82d7f
+ref: sumiyoshi.k.2005
+title: 'Postbounce Evolution of Core-Collapse Supernovae: Long-Term Effects of the
+  Equation of State'
+type: article
+volume: '629'
+year: '2005'

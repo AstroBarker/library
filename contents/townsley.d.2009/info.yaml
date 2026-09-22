@@ -1,0 +1,67 @@
+abstract: We present a theoretical framework for formal study of systematic effects
+  in supernovae Type Ia (SNe Ia) that utilizes two-dimensional simulations to implement
+  a form of the deflagration-detonation transition (DDT) explosion scenario. The framework
+  is developed from a randomized initial condition that leads to a sample of simulated
+  SNe Ia whose 56Ni masses have a similar average and range to those observed, and
+  have many other modestly realistic features such as the velocity extent of intermediate-mass
+  elements. The intended purpose is to enable statistically well defined studies of
+  both physical and theoretical parameters of the SNe Ia explosion simulation. We
+  present here a thorough description of the outcome of the SNe Ia explosions produced
+  by our current simulations. A first application of this framework is utilized to
+  study the dependence of the SNe Ia on the 22Ne content, which is known to be directly
+  influenced by the progenitor stellar population's metallicity. Our study is very
+  specifically tailored to measure how the 22Ne content influences the competition
+  between the rise of plumes of burned material and the expansion of the star before
+  these plumes reach DDT conditions. This influence arises from the dependence of
+  the energy release, progenitor structure, and laminar flame speed on 22Ne content.
+  For this study, we explore these three effects for a fixed carbon content and DDT
+  density. By setting the density at which nucleosynthesis takes place during the
+  detonation phase of the explosion, the competition between plume rise and stellar
+  expansion controls the amount of material in nuclear statistical equilibrium (NSE)
+  and therefore 56Ni produced. Of particular interest is how this influence of 22Ne
+  content compares to the direct modification of the 56Ni mass via the inherent neutron
+  excess as discussed by Timmes et al. Although the outcome following from any particular
+  ignition condition can change dramatically with 22Ne content, with a sample of 20
+  ignition conditions we find that the systematic change in the expansion of the star
+  prior to detonation is not large enough to compete with the dependence discussed
+  by Timmes et al. In fact, our results show no statistically significant dependence
+  of the predetonation expansion on 22Ne content, pointing to the morphology of the
+  ignition condition as being the dominant dynamical driver of the 56Ni yield of the
+  explosion. However, variations in the DDT density, which were specifically excluded
+  here, are also expected to be important and to depend systematically on 22Ne content.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...701.1582T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.4384
+author: Townsley, D. M. and Jackson, A. P. and Calder, A. C. and Chamulak, D. A. and
+  Brown, E. F. and Timmes, F. X.
+author_list:
+- family: Townsley
+  given: D. M.
+- family: Jackson
+  given: A. P.
+- family: Calder
+  given: A. C.
+- family: Chamulak
+  given: D. A.
+- family: Brown
+  given: E. F.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-11 08:04:01 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/701/2/1582
+eprint: '0906.4384'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general, white dwarfs'
+month: August
+pages: 1582--1604
+papis_id: 14d79457165a47bc022fad39e9621d08
+primaryclass: astro-ph.SR
+ref: townsley.d.2009
+title: 'Evaluating Systematic Dependencies of Type Ia Supernovae: The Influence of
+  Progenitor $^22$Ne Content on Dynamics'
+type: article
+volume: '701'
+year: '2009'

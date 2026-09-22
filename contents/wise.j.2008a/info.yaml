@@ -1,0 +1,44 @@
+abstract: The first stars form in dark matter halos of masses ~106 M\&sun; as suggested
+  by an increasing number of numerical simulations. Radiation feedback from these
+  stars expels most of the gas from the shallow potential well of their surrounding
+  dark matter halos. We use cosmological adaptive mesh refinement simulations that
+  include self-consistent Population III star formation and feedback to examine the
+  properties of assembling early dwarf galaxies. Accurate radiative transport is modeled
+  with adaptive ray tracing. We include supernova explosions and follow the metal
+  enrichment of the intergalactic medium. The calculations focus on the formation
+  of several dwarf galaxies and their progenitors. In these halos, baryon fractions
+  in 108 M\&sun; halos decrease by a factor of 2 with stellar feedback and by a factor
+  of 3 with supernova explosions. We find that radiation feedback and supernova explosions
+  increase gaseous spin parameters up to a factor of 4 and vary with time. Stellar
+  feedback, supernova explosions, and H2 cooling create a complex, multiphase interstellar
+  medium whose densities and temperatures can span up to 6 orders of magnitude at
+  a given radius. The pair-instability supernovae of Population III stars alone enrich
+  the halos with virial temperatures of 104 K to approximately 10-3 of solar metallicity.
+  We find that 40\% of the heavy elements resides in the intergalactic medium (IGM)
+  at the end of our calculations. The highest metallicity gas exists in supernova
+  remnants and very dilute regions of the IGM.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...685...40W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.3160
+author: Wise, J. H. and Abel, T.
+author_list:
+- family: Wise
+  given: J. H.
+- family: Abel
+  given: T.
+date-added: 2017-08-10 21:46:12 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/590417
+eid: 40-56
+eprint: '0710.3160'
+journal: \apj
+keywords: 'cosmology: theory, galaxies: dwarf, galaxies: high-redshift, stars: formation'
+month: September
+pages: 40--56
+papis_id: 62c056d46059d511f9ad47bbe09da357
+ref: wise.j.2008a
+title: Resolving the Formation of Protogalaxies. III. Feedback from the First Stars
+type: article
+volume: '685'
+year: '2008'

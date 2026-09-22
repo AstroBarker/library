@@ -1,0 +1,46 @@
+abstract: We constrain the properties of massive binaries by comparing radial velocity
+  data on early-type stars in Cygnus OB2 with the expectations of Monte Carlo models.
+  Our comparisons test several popular prescriptions for massive binary parameters.
+  We explore a range of true binary fraction, F, a range of power-law slopes, alpha,
+  describing the distribution of companion masses between the limits qlow and 1, and
+  a range of power-law slopes, beta, describing the distribution of orbital separations
+  between the limits rin and rout. We also consider distributions of secondary masses
+  described by a Miller-Scalo type IMF and by a two-component IMF that includes a
+  substantial ``twin'' population with M2~=M1. Several seemingly disparate prescriptions
+  for massive binary characteristics can be reconciled by adopting carefully chosen
+  values for F, rin, and rout. We show that binary fractions F<0.7 are less probable
+  than F>=0.8 for reasonable choices of rin and rout. Thus, the true binary fraction
+  is high. For F=1.0 and a distribution of orbital separations near the canonical
+  ``Opik's law distribution (i.e., flat; beta=0), the power-law slope of the mass
+  ratio distribution is alpha=-0.6 to 0.0. For F~=0.8, alpha is somewhat larger, in
+  the range -0.4 to 1.0. In any case, the secondary star mass function is inconsistent
+  with a Miller-Scalo-like IMF unless the lower end is truncated below ~2-4 Msolar.
+  In other words, massive stars preferentially have massive companions. The best-fitting
+  models are described by a Salpeter or Miller-Scalo IMF for 60\% of secondary star
+  masses with the other ~40\% of secondaries having M2~=M1, i.e., ``twins.'' These
+  model parameters simultaneously predict the fraction of Type Ib/c supernovae to
+  be 30\%-40\% of all core-collapse supernovae, in agreement with recent observational
+  estimates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670..747K
+author: Kobulnicky, H. A. and Fryer, C. L.
+author_list:
+- family: Kobulnicky
+  given: H. A.
+- family: Fryer
+  given: C. L.
+date-added: 2017-08-10 18:39:34 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/522073
+journal: \apj
+keywords: 'Stars: Binaries: General, Stars: Binaries: Spectroscopic, Gamma Rays: Bursts,
+  Stars: Early-Type, Stars: Supernovae: General, Techniques: Radial Velocities, X-Rays:
+  Binaries'
+month: November
+pages: 747--765
+papis_id: aa345a7615c1fbba5d2de2d4c4ea9fc6
+ref: kobulnicky.h.2007
+title: A New Look at the Binary Characteristics of Massive Stars
+type: article
+volume: '670'
+year: '2007'

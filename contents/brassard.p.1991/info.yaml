@@ -1,0 +1,43 @@
+abstract: The fundamental issue of the region of period formaton in a degenerate star
+  is examined, with special attention given to the treatment of the Brunt-Vaisala
+  frequency. It is shown that, in order to obtain reliable numerical results in degenerate
+  stellar models, the Brunt-Vaisala frequency must be appropriately transformed, because
+  it is defined in terms of a difference between two numbers which become nearly equal
+  in highly degenerate matter, causing serious numerical problems and systematic errors.
+  An alternative expression is derived, which is valid for multicomponent nonideal
+  partially degenerate and partially ionized plasmas such as those encountered in
+  white dwarf envelopes. This expression is used to compute the period structure of
+  the same white dwarf considered by Pesnell (1987). It is shown that the implicit
+  numerical differencing used in the Lagrangian pulsation code of Pesnell leads to
+  very serious difficulties when used with models of degenerate stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...367..601B
+author: Brassard, P. and Fontaine, G. and Wesemael, F. and Kawaler, S. D. and Tassoul,
+  M.
+author_list:
+- family: Brassard
+  given: P.
+- family: Fontaine
+  given: G.
+- family: Wesemael
+  given: F.
+- family: Kawaler
+  given: S. D.
+- family: Tassoul
+  given: M.
+date-added: 2017-08-10 20:55:23 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/169655
+journal: \apj
+keywords: Adiabatic Conditions, Brunt-Vaisala Frequency, Computational Astrophysics,
+  Star Formation, Stellar Oscillations, White Dwarf Stars, Degenerate Matter, Stellar
+  Models, Stellar Structure
+month: February
+pages: 601--611
+papis_id: aa2d93cdc770120082ff9da3a02efceb
+ref: brassard.p.1991
+title: Adiabatic properties of pulsating DA white dwarfs. I - The treatment of the
+  Brunt-Vaisala frequency and the region of period formation
+type: article
+volume: '367'
+year: '1991'

@@ -1,0 +1,52 @@
+abstract: 'The role of turbulence and magnetic fields is studied for star formation
+  in molecular clouds. We derive and compare six theoretical models for the star formation
+  rate (SFR)---the Krumholz \& McKee (KM), Padoan \& Nordlund (PN), and Hennebelle
+  \& Chabrier (HC) models, and three multi-freefall versions of these, suggested by
+  HC---all based on integrals over the log-normal distribution of turbulent gas. We
+  extend all theories to include magnetic fields and show that the SFR depends on
+  four basic parameters: (1) virial parameter alphavir (2) sonic Mach number  {M};
+  (3) turbulent forcing parameter b, which is a measure for the fraction of energy
+  driven in compressive modes; and (4) plasma \beta =2 {M}\_A^2/ {M}^2 with the Alfv{\''e}n
+  Mach number  {M}\_A. We compare all six theories with MHD simulations, covering
+  cloud masses of 300 to 4 \texttimes{} 106 M \&sun; and Mach numbers  {M}=3-50 and  {M}\_A=1-\infty{},
+  with solenoidal (b = 1/3), mixed (b = 0.4), and compressive turbulent (b = 1) forcings.
+  We find that the SFR increases by a factor of four between  {M}=5 and 50 for compressive
+  turbulent forcing and alphavir ~ 1. Comparing forcing parameters, we see that the
+  SFR is more than 10 times higher with compressive than solenoidal forcing for  {M}=10
+  simulations. The SFR and fragmentation are both reduced by a factor of two in strongly
+  magnetized, trans-Alfv{\''e}nic turbulence compared to hydrodynamic turbulence.
+  All simulations are fit simultaneously by the multi-freefall KM and multi-freefall
+  PN theories within a factor of two over two orders of magnitude in SFR. The simulated
+  SFRs cover the range and correlation of SFR column density with gas column density
+  observed in Galactic clouds, and agree well for star formation efficiencies SFE
+  = 1\%-10\% and local efficiencies epsilon = 0.3-0.7 due to feedback. We conclude
+  that the SFR is primarily controlled by interstellar turbulence, with a secondary
+  effect coming from magnetic fields.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...761..156F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2856
+author: Federrath, C. and Klessen, R. S.
+author_list:
+- family: Federrath
+  given: C.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-10 15:32:28 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/761/2/156
+eid: '156'
+eprint: '1209.2856'
+journal: \apj
+keywords: 'ISM: clouds, ISM: kinematics and dynamics, ISM: structure, magnetohydrodynamics:
+  MHD, stars: formation, turbulence'
+month: December
+pages: '156'
+papis_id: bcd2e70fd674c777c03d608eda22272e
+primaryclass: astro-ph.SR
+ref: federrath.c.2012
+title: 'The Star Formation Rate of Turbulent Magnetized Clouds: Comparing Theory,
+  Simulations, and Observations'
+type: article
+volume: '761'
+year: '2012'

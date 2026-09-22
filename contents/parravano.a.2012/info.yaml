@@ -1,0 +1,51 @@
+abstract: The mass distribution of prestellar cores is obtained for clouds with arbitrary
+  internal mass distributions using a selection criterion based on the thermal and
+  turbulent Jeans mass and applied hierarchically from small to large scales. We have
+  checked this methodology by comparing our results for a log-normal density probability
+  distribution function with the theoretical core mass function (CMF) derived by Hennebelle
+  \& Chabrier, namely a power law at large scales and a log-normal cutoff at low scales,
+  but our method can be applied to any mass distributions representing a star-forming
+  cloud. This methodology enables us to connect the parental cloud structure with
+  the mass distribution of the cores and their spatial distribution, providing an
+  efficient tool for investigating the physical properties of the molecular clouds
+  that give rise to the prestellar core distributions observed. Simulated fractional
+  Brownian motion (fBm) clouds with the Hurst exponent close to the value H = 1/3
+  give the best agreement with the theoretical CMF derived by Hennebelle \& Chabrier
+  and Chabrier's system initial mass function. Likewise, the spatial distribution
+  of the cores derived from our methodology shows a surface density of companions
+  compatible with those observed in Trapezium and Ophiucus star-forming regions. This
+  method also allows us to analyze the properties of the mass distribution of cores
+  for different realizations. We found that the variations in the number of cores
+  formed in different realizations of fBm clouds (with the same Hurst exponent) are
+  much larger than the expected root {\cal N} statistical fluctuations, increasing
+  with H.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...754..150P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.0873
+author: Parravano, A. and Sánchez, N. and Alfaro, E. J.
+author_list:
+- family: Parravano
+  given: A.
+- family: Sánchez
+  given: N.
+- family: Alfaro
+  given: E. J.
+date-added: 2017-08-11 01:42:28 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/754/2/150
+eid: '150'
+eprint: '1206.0873'
+journal: \apj
+keywords: 'evolution, ISM: structure, stars: formation, stars: luminosity function,
+  mass function'
+month: August
+pages: '150'
+papis_id: 0a5284ae8c4d00e3e93d9032688edcc3
+primaryclass: astro-ph.SR
+ref: parravano.a.2012
+title: The Dependence of Prestellar Core Mass Distributions on the Structure of the
+  Parental Cloud
+type: article
+volume: '754'
+year: '2012'

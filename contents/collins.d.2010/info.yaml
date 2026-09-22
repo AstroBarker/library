@@ -1,0 +1,43 @@
+abstract: In this work, we present EnzoMHD, the extension of the cosmological code
+  Enzo to include the effects of magnetic fields through the ideal magnetohydrodynamics
+  approximation. We use a higher order Godunov method for the computation of interface
+  fluxes. We use two constrained transport methods to compute the electric field from
+  those interface fluxes, which simultaneously advances the induction equation and
+  maintains the divergence of the magnetic field. A second-order divergence-free reconstruction
+  technique is used to interpolate the magnetic fields in the block-structured adaptive
+  mesh refinement framework already extant in Enzo. This reconstruction also preserves
+  the divergence of the magnetic field to machine precision. We use operator splitting
+  to include gravity and cosmological expansion. We then present a series of cosmological
+  and non-cosmological test problems to demonstrate the quality of solution resulting
+  from this combination of solvers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..186..308C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.2594
+author: Collins, D. C. and Xu, H. and Norman, M. L. and Li, H. and Li, S.
+author_list:
+- family: Collins
+  given: D. C.
+- family: Xu
+  given: H.
+- family: Norman
+  given: M. L.
+- family: Li
+  given: H.
+- family: Li
+  given: S.
+date-added: 2017-08-10 23:29:07 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0067-0049/186/2/308
+eprint: '0902.2594'
+journal: \apjs
+keywords: 'cosmology: theory, methods: numerical, magnetohydrodynamics: MHD'
+month: February
+pages: 308--333
+papis_id: a79cf440550a3a67c21da77435833c79
+primaryclass: astro-ph.IM
+ref: collins.d.2010
+title: Cosmological Adaptive Mesh Refinement Magnetohydrodynamics with Enzo
+type: article
+volume: '186'
+year: '2010'

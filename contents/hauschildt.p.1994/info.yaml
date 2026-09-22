@@ -1,0 +1,38 @@
+abstract: Numerical modeling of supernova spectra, light curves, and hydrodynamics
+  requires physical inputs, numerical techniques, approximations, and assumptions
+  which must be thoroughly understood in order to study the details of supernova explosions.
+  Here, we discuss some of these in the context of the early evolution of supernova
+  1987A. Gray radiation-hydrodynamics is used to calculate the bolometric light curve
+  and the hydrodynamic evolution of the supernova. Synthetic spectra are then obtained
+  for the resulting density and velocity structure. The spectrum calculations are
+  performed using a special-relativistic treatment of the radiative transfer equation
+  in the comoving frame, line blanketing by about 105 spectral lines, and departures
+  from local thermodynamic equilibrium (LTE) for H I, He I, Mg II, and Ca II. We find
+  that we are able to simultaneously fit the early light curve and spectra reasonably
+  well, using a progenitor model from Arnett (1991a), without fine-tuning the free
+  parameters. Temperature structures and radiative equilibrium, non-LTE effects, homologous
+  expansion, and mean opacities are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...424..905H
+author: Hauschildt, P. H. and Ensman, L. M.
+author_list:
+- family: Hauschildt
+  given: P. H.
+- family: Ensman
+  given: L. M.
+date-added: 2017-08-11 01:20:38 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173939
+journal: \apj
+keywords: Hydrodynamics, Light Curve, Radiative Transfer, Relativity, Stellar Evolution,
+  Stellar Models, Stellar Spectra, Supernova 1987a, Calcium, Density Distribution,
+  Helium, Hydrogen, Magnesium, Mathematical Models, Numerical Analysis, Opacity, Temperature
+  Distribution, Velocity Distribution
+month: April
+pages: 905--923
+papis_id: 9f7a377590d5b78ea7d6fa071ea5920c
+ref: hauschildt.p.1994
+title: Analysis of the early spectra and light curve of SN 1987A
+type: article
+volume: '424'
+year: '1994'

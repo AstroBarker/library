@@ -1,0 +1,58 @@
+abstract: We critically examine the constraints on internal angular momentum transport
+  which can be inferred from the spin-down of open cluster stars. The rotation distribution
+  inferred from rotation velocities and periods is consistent for larger and more
+  recent samples, but smaller samples of rotation periods appear biased toward shorter
+  periods relative to vsin i studies. We therefore focus on whether the rotation period
+  distributions observed in star forming regions can be evolved into the observed
+  ones in the Pleiades, NGC 2516, M 34, M 35, M 37, and M 50 with plausible assumptions
+  about star-disk coupling and angular momentum loss from magnetized solar-like winds.
+  Solid-body (SB) models are consistent with the data for low-mass fully convective
+  stars but highly inconsistent for higher mass stars where the surface convection
+  zone can decouple for angular momentum purposes from the radiative interior. The
+  Tayler-Spruit magnetic angular momentum transport mechanism, commonly employed in
+  models of high-mass stars, predicts SB rotation on extremely short timescales of
+  less than 1 Myr and is therefore unlikely to operate in solar-type pre-main-sequence
+  (pre-MS) and MS stars at the predicted rate. Models with core-envelope decoupling
+  can explain the spin-down of 1.0 and 0.8 solar mass slow rotators with characteristic
+  coupling timescales of 55 $\pm$ 25 Myr and 175 \$\pm\$ 25 Myr, respectively. The
+  upper envelope of the rotation distribution is more strongly coupled than the lower
+  envelope of the rotation distribution, in accord with theoretical predictions that
+  the angular momentum transport timescale should be shorter for more rapidly rotating
+  stars. Constraints imposed by the solar rotation curve are also discussed. We argue
+  that neither hydrodynamic mechanisms nor our revised and less efficient prescription
+  for the Tayler-Spruit dynamo can reproduce both spin-down and the internal solar
+  rotation profile by themselves. It is likely that a successful model of angular
+  momentum evolution will involve more than one mechanism. Further observational studies,
+  especially of clusters younger than 100 Myr, will provide important additional constraints
+  on the internal rotation of stars and could firmly rule out or confirm the operation
+  of major classes of theoretical mechanisms.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...716.1269D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0911.1121
+author: Denissenkov, P. A. and Pinsonneault, M. and Terndrup, D. M. and Newsham, G.
+author_list:
+- family: Denissenkov
+  given: P. A.
+- family: Pinsonneault
+  given: M.
+- family: Terndrup
+  given: D. M.
+- family: Newsham
+  given: G.
+date-added: 2017-08-10 19:13:24 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/716/2/1269
+eprint: '0911.1121'
+journal: \apj
+keywords: 'stars: evolution, stars: interiors, Sun: rotation'
+month: June
+pages: 1269--1287
+papis_id: f62137a598a9c16897e88656d708b046
+primaryclass: astro-ph.SR
+ref: denissenkov.p.2010
+title: 'Angular Momentum Transport in Solar-type Stars: Testing the Timescale for
+  Core-Envelope Coupling'
+type: article
+volume: '716'
+year: '2010'

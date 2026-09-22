@@ -1,0 +1,41 @@
+abstract: Observations indicate that normalized surface differential rotation decreases
+  for fast-rotating stars, that is, \vert{} DeltaOmega \vert{}/Omega ~ Omega-0.3.
+  An increase of \vert{} DeltaOmega \vert{}/Omega is provided, however, by the current
+  Reynolds stress theory of differential rotation in stellar convection zones, without
+  the inclusion of meridional flow. We compute both the pole-equator difference of
+  the surface angular velocity and the meridional drift for various Taylor numbers
+  to demonstrate that the inclusion of meridional flow in the computations for fast
+  rotation yields a systematic reduction of the resulting differential rotation. Our
+  model's adiabatic and density-stratified convection zone, with stress-free surfaces
+  and a thickness of 0.3 stellar radii, yields the relation \vert{} DeltaOmega \vert{}/Omega
+  ~ Omega-(0.15 ... 0.30) for stars with faster rotation than the Sun, in agreement
+  with previous observations. If the Coriolis number rather than the Taylor number
+  is varied, we find a maximum differential rotation of 20\%. For stars with fast
+  rotation, exponents of up to n' ~= 0.4 are found. All rotation laws exhibit superrotating
+  equators.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...494..691R
+author: Rüdiger, G. and von Rekowski, B. and Donahue, R. A. and Baliunas, S. L.
+author_list:
+- family: Rüdiger
+  given: G.
+- family: von Rekowski
+  given: B.
+- family: Donahue
+  given: R. A.
+- family: Baliunas
+  given: S. L.
+date-added: 2017-08-10 20:52:27 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305216
+journal: \apj
+keywords: 'HYDRODYNAMICS, STARS: ROTATION, TURBULENCE, Hydrodynamics, Stars: Rotation,
+  Turbulence'
+month: February
+pages: 691--699
+papis_id: 6ce9b47e64af4f86b4f9d4318f886368
+ref: rudiger.g.1998
+title: Differential Rotation and Meridional Flow for Fast-rotating Solar-Type Stars
+type: article
+volume: '494'
+year: '1998'

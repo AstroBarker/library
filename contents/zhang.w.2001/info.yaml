@@ -1,0 +1,49 @@
+abstract: 'There is growing observational evidence that gamma-ray bursts (GRBs) are
+  powered by black holes accreting rapidly through a disk. The supernova-like outburst
+  that accompanies some gamma-ray bursts suggest that some long-duration GRBs may
+  be driven by the accretion of a rotating stellar core onto a central black hole.
+  Such a system can be produced when a compact remnant spirals into the core of its
+  binary companion. During the inspiral, orbital angular momentum is injected into
+  the helium core. By the time the compact remnant reaches the center of the helium
+  core, it too has gained angular momentum as well as mass, producing a rapidly accreting
+  black hole (or neutron star) at the center of a rotating stellar core. Whether or
+  not such a merger (termed He-merger) can produce a GRB depends upon the initial
+  mass and spin of the central black hole, as well as the angular momentum in the
+  stellar core. In this paper, we use a three-dimensional smooth particle hydrodynamics
+  code to follow the He-merger process and make quantitative estimates of the initial
+  mass and spin of the central compact remnant, as well as the angular momentum in
+  the accreting helium core. During the inspiral, a 2 Msolar compact remnant gains
+  ~0.5-3.5 Msolar  depending on the mass of the helium core (more massive cores provide
+  more accretion). The accretion rates on the central remnant are initially very high,
+  105 Msolar yr-1 up to 106 Msolar yr-1 (the accretion rate increases with increasing
+  helium star mass), and the central remnant quickly becomes a black hole if it was
+  not one already. From these accretion rates, we estimate GRB explosion energies.
+  In all mergers, magnetically driven jets are expected to produce GRB explosions
+  with energies above 1051 ergs. For neutrino-annihilation-driven explosions, the
+  GRB energy increases dramatically with helium star mass: the merger of a 2 Msolar
+  compact remnant with a 4 Msolar helium star only produces a 1047 ergs explosion
+  in ~500 s, whereas the merger of a 2 Msolar compact remnant with a 16 Msolar helium
+  star produces a greater than 1052 ergs explosion in ~65 s.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...550..357Z
+arxivurl: http://arxiv.org/abs/astro-ph/0011236
+author: Zhang, W. and Fryer, C. L.
+author_list:
+- family: Zhang
+  given: W.
+- family: Fryer
+  given: C. L.
+date-added: 2017-08-11 02:12:50 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319734
+eprint: astro-ph/0011236
+journal: \apj
+keywords: 'Stars: Binaries: Close, Black Hole Physics, Gamma Rays: Bursts'
+month: March
+pages: 357--367
+papis_id: 24c31f459f18d4cffbe894d3a5669fc6
+ref: zhang.w.2001
+title: 'The Merger of a Helium Star and a Black Hole: Gamma-Ray Bursts'
+type: article
+volume: '550'
+year: '2001'

@@ -1,0 +1,48 @@
+abstract: When applied to Be/X-ray binaries, the viscous decretion disc model, which
+  can successfully account for most properties of Be stars, naturally predicts the
+  truncation of the circumstellar disc. The distance at which the circumstellar disc
+  is truncated depends mainly on the orbital parameters and the viscosity. In systems
+  with low eccentricity, the disc is expected to be truncated at the 3:1 resonance
+  radius, for which the gap between the disc outer radius and the critical lobe radius
+  of the Be star is so wide that, under normal conditions, the neutron star cannot
+  accrete enough gas at periastron passage to show periodic X-ray outbursts (type
+  I outbursts). These systems will display only occasional giant X-ray outbursts (type
+  II outbursts). On the other hand, in systems with high orbital eccentricity, the
+  disc truncation occurs at a much higher resonance radius, which is very close to
+  or slightly beyond the critical lobe radius at periastron unless the viscosity is
+  very low. In these systems, disc truncation cannot be efficient, allowing the neutron
+  star to capture gas from the disc at every periastron passage and display type I
+  outbursts regularly. In contrast to the rather robust results for systems with low
+  eccentricity and high eccentricity, the result for systems with moderate eccentricity
+  depends on rather subtle details. Systems in which the disc is truncated in the
+  vicinity of the critical lobe will regularly display type I outbursts, whereas those
+  with the disc significantly smaller than the critical lobe will show only type II
+  outbursts under normal conditions and temporary type I outbursts when the disc is
+  strongly disturbed. In Be/X-ray binaries, material will be accreted via the first
+  Lagrangian point with low velocities relative to the neutron star and carrying high
+  angular momentum. This may result in the temporary formation of accretion discs
+  during type I outbursts, something that seems to be confirmed by observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...377..161O
+arxivurl: http://arxiv.org/abs/astro-ph/0108037
+author: Okazaki, A. T. and Negueruela, I.
+author_list:
+- family: Okazaki
+  given: A. T.
+- family: Negueruela
+  given: I.
+date-added: 2017-08-10 19:33:00 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1051/0004-6361:20011083
+eprint: astro-ph/0108037
+journal: \aap
+keywords: 'STARS: CIRCUMSTELLAR MATTER, EMISSION-LINE, BE, BINARIES: CLOSE, NEUTRON,
+  X-RAY: STARS, BURSTS'
+month: October
+pages: 161--174
+papis_id: 6459affc4eede01c9a50aac167277267
+ref: okazaki.a.2001
+title: A natural explanation for periodic X-ray outbursts in Be/X-ray binaries
+type: article
+volume: '377'
+year: '2001'

@@ -1,0 +1,48 @@
+abstract: 'Aims:We calculate energy release associated with a first order phase transition
+  at the center of a rotating neutron star. This quantity is equal to the difference
+  in mass-energies between the initial normal phase configuration and the final configuration
+  containing a superdense matter core, with total baryon number and angular momentum
+  kept constant.   Methods: The calculations of the energy release are based on precise
+  numerical 2D calculations, in which both the polytropic equations of state (EOS)
+  as well as realistic EOS of the normal phase are used. Presented results are obtained
+  for a broad range of metastability of initial configuration and size of the new
+  superdense phase core in the final configuration. When the equatorial radius of
+  the dense core of the superdense phase is much smaller than the stellar equatorial
+  radius, analytical expressions for the energy release are obtained.  Results: For
+  a fixed "overpressure", deltaoverline{P}, defined as the relative excess of central
+  pressure of a collapsing metastable star over the pressure of the equilibrium first-order
+  phase transition, the energy release Delta E remarkably does not depend on the stellar
+  angular momentum and coincides with that for nonrotating stars with the same deltaoverline{P}.
+  The energy release is proportional to (deltaoverline{P})2.5 for small deltaoverline{P},
+  when sufficiently precise brute force 2D numerical calculations are not possible.
+  At higher deltaoverline{P}, results of 1D calculations of Delta E(deltaoverline{P})
+  for non-rotating stars are shown to reproduce, with very high precision, the exact
+  2D results for rotating stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...465..533Z
+arxivurl: http://arxiv.org/abs/astro-ph/0610188
+author: Zdunik, J. L. and Bejger, M. and Haensel, P. and Gourgoulhon, E.
+author_list:
+- family: Zdunik
+  given: J. L.
+- family: Bejger
+  given: M.
+- family: Haensel
+  given: P.
+- family: Gourgoulhon
+  given: E.
+date-added: 2017-08-11 06:14:40 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1051/0004-6361:20066515
+eprint: astro-ph/0610188
+journal: \aap
+keywords: 'dense matter, equation of state, stars: neutron, stars: rotation'
+month: April
+pages: 533--539
+papis_id: 34e04e0992708949916c2e67885accb6
+ref: zdunik.j.2007
+title: Energy release associated with a first-order phase transition in a rotating
+  neutron star core
+type: article
+volume: '465'
+year: '2007'

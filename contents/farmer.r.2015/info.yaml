@@ -1,0 +1,48 @@
+abstract: We explore the detailed and broad properties of carbon burning in Super
+  Asymptotic Giant Branch (SAGB) stars with 2755 MESA stellar evolution models. The
+  location of first carbon ignition, quenching location of the carbon-burning flames
+  and flashes, angular frequency of the carbon core, and carbon core mass are studied
+  as a function of the zero-age main sequence (ZAMS) mass, initial rotation rate,
+  and mixing parameters such as convective overshoot, semiconvection, thermohaline,
+  and angular momentum transport. In general terms, we find that these properties
+  of carbon burning in SAGB models are not a strong function of the initial rotation
+  profile, but are a sensitive function of the overshoot parameter. We quasi-analytically
+  derive an approximate ignition density, rhoign \approx{} 2.1 \texttimes{} 106 g
+  cm-3, to predict the location of first carbon ignition in models that ignite carbon
+  off-center. We also find that overshoot moves the ZAMS mass boundaries where off-center
+  carbon ignition occurs at a nearly uniform rate of DeltaMZAMS/Deltafov \approx{}
+  1.6 {M}\&sun; . For zero overshoot, fov = 0.0, our models in the ZAMS mass range
+  \approx{}8.9-11 {M}\&sun;  show off-center carbon ignition. For canonical amounts
+  of overshooting, fov = 0.016, the off-center carbon ignition range shifts to \approx{}7.2-8.8
+  {M}\&sun; . Only systems with fov >= 0.01 and ZAMS mass \approx{}7.2-8.0 {M}\&sun;  show
+  carbon burning is quenched a significant distance from the center. These results
+  suggest a careful assessment of overshoot modeling approximations on claims that
+  carbon burning quenches an appreciable distance from the center of the carbon core.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...807..184F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1506.01093
+author: Farmer, R. and Fields, C. E. and Timmes, F. X.
+author_list:
+- family: Farmer
+  given: R.
+- family: Fields
+  given: C. E.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-10 14:10:57 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/807/2/184
+eid: '184'
+eprint: '1506.01093'
+journal: \apj
+keywords: 'stars: evolution, stars: interiors, stars: rotation, supernovae: general'
+month: July
+pages: '184'
+papis_id: cf16019d2ee12e6e3d7f0a649bed95b4
+primaryclass: astro-ph.SR
+ref: farmer.r.2015
+title: On Carbon Burning in Super Asymptotic Giant Branch Stars
+type: article
+volume: '807'
+year: '2015'

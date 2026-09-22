@@ -1,0 +1,50 @@
+abstract: We derive octupole-level secular perturbation equations for hierarchical
+  triple systems, using classical Hamiltonian perturbation techniques. Our equations
+  describe the secular evolution of the orbital eccentricities and inclinations over
+  timescales that are long compared to the orbital periods. By extending previous
+  work done to leading (quadrupole) order to octupole level (i.e., including terms
+  of order alpha3, where alpha\equiv{}a1/a2<1 is the ratio of semimajor axes), we
+  obtain expressions that are applicable to a much wider range of parameters. In particular,
+  our results can be applied to high-inclination as well as coplanar systems, and
+  our expressions are valid for almost all mass ratios for which the system is in
+  a stable hierarchical configuration. In contrast, the standard quadrupole-level
+  theory of Kozai gives a vanishing result in the limit of zero relative inclination.
+  The classical planetary perturbation theory, while valid to all orders in alpha,
+  applies only to orbits of low-mass objects orbiting a common central mass, with
+  low eccentricities and low relative inclinations. For triple systems containing
+  a close inner binary, we also discuss the possible interaction between the classical
+  Newtonian perturbations and the general relativistic precession of the inner orbit.
+  In some cases we show that this interaction can lead to resonances and a significant
+  increase in the maximum amplitude of eccentricity perturbations. We establish the
+  validity of our analytic expressions by providing detailed comparisons with the
+  results of direct numerical integrations of the three-body problem obtained for
+  a large number of representative cases. In addition, we show that our expressions
+  reduce correctly to previously published analytic results obtained in various limiting
+  regimes. We also discuss applications of the theory in the context of several observed
+  triple systems of current interest, including the millisecond pulsar PSR B1620-26
+  in M4, the giant planet in 16 Cygni, and the protostellar binary TMR-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...535..385F
+author: Ford, E. B. and Kozinsky, B. and Rasio, F. A.
+author_list:
+- family: Ford
+  given: E. B.
+- family: Kozinsky
+  given: B.
+- family: Rasio
+  given: F. A.
+date-added: 2017-08-10 13:57:33 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308815
+journal: \apj
+keywords: 'Stars: Binaries: General, Celestial Mechanics, Stellar Dynamics, Stars:
+  Planetary Systems, stars: individual (TMR-1, 16 Cygni), pulsars: individual (PSR
+  B1620-26)'
+month: May
+pages: 385--401
+papis_id: bca070d1eb28308f99a322639cf08fb3
+ref: ford.e.2000
+title: Secular Evolution of Hierarchical Triple Star Systems
+type: article
+volume: '535'
+year: '2000'

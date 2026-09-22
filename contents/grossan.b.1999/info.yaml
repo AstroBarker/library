@@ -1,0 +1,61 @@
+abstract: IR and radio-band observations of heavily extinguished regions in starburst
+  galaxies suggest a high supernova (SN) rate associated with such regions. Optically
+  measured SN rates may therefore underestimate the total SN rate by factors of up
+  to 10, as a result of the very high extinction (A\_B~10-20 mag) to core-collapse
+  SNe in starburst regions. The IR/radio SN rates come from a variety of indirect
+  means, however, which suffer from model dependence and other problems. We describe
+  a direct measurement of the SN rate from a regular patrol of starburst galaxies
+  done with K'-band imaging to minimize the effects of extinction. A collection of
+  K'-band measurements of core-collapse SNe near maximum light is presented. Such
+  measurements (excluding 1987A) are not well reported in the literature. Results
+  of a preliminary K'-band search, using the MIRC camera at the Wyoming Infrared Observatory
+  and an improved search strategy using the new ORCA optics, are described. A monthly
+  patrol of a sample of IRAS bright (mostly starburst) galaxies within 25 Mpc should
+  yield 1-6 SNe yr^-1, corresponding to the range of estimated SN rates. Our initial
+  MIRC search with low resolution (2.2" pixels) failed to find extinguished SNe in
+  the IRAS galaxies, limiting the SN rate outside the nucleus (at greater than 15"
+  radius) to less than 3.8 far-IR SN rate units (SNe per century per 10^10 L\_solar
+  measured at 60 and 100 mum, or FIRSRU) at 90\% confidence. The MIRC camera had insufficient
+  resolution to search nuclear starburst regions, where starburst and SN activity
+  is concentrated; therefore, we were unable to rigorously test the hypothesis of
+  high SN rates in heavily obscured star-forming regions. We conclude that high-resolution
+  nuclear SN searches in starburst galaxies with small fields are more productive
+  than low-resolution, large-field searches, even for our sample of large (often several
+  arcminutes) galaxies. With our ORCA high-resolution optics, we could limit the total
+  SN rate to less than 1.3 FIRSRU at 90\% confidence in 3 years of observations, lower
+  than most estimates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999AJ....118..705G
+arxivurl: http://arxiv.org/abs/astro-ph/9812253
+author: Grossan, B. and Spillar, E. and Tripp, R. and Pirzkal, N. and Sutin, B. M.
+  and Johnson, P. and Barnaby, D.
+author_list:
+- family: Grossan
+  given: B.
+- family: Spillar
+  given: E.
+- family: Tripp
+  given: R.
+- family: Pirzkal
+  given: N.
+- family: Sutin
+  given: B. M.
+- family: Johnson
+  given: P.
+- family: Barnaby
+  given: D.
+date-added: 2017-08-10 23:53:51 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/300962
+eprint: astro-ph/9812253
+journal: \aj
+keywords: 'ISM: DUST, EXTINCTION, GALAXIES: NUCLEI, GALAXIES: STARBURST, INFRARED
+  RADIATION, INSTRUMENTATION: MISCELLANEOUS, STARS: SUPERNOVAE: GENERAL'
+month: August
+pages: 705--718
+papis_id: 7fb151ac1a6059ca4baca02464bc461a
+ref: grossan.b.1999
+title: An Infrared Search for Extinguished Supernovae in Starburst Galaxies
+type: article
+volume: '118'
+year: '1999'

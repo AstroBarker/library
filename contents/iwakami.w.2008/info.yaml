@@ -1,0 +1,39 @@
+abstract: We studied the standing accretion shock instability (SASI) for a core-collapse
+  supernova explosion. SASI induces a nonspherically symmetric motion of a standing
+  spherical shock wave. In order to investigate the growth of SASI, we solved the
+  three-dimensional compressible Euler equations using ZEUS-MP/2 code based on the
+  finite-difference method with a staggered mesh of spherical polar geometry. Although
+  the von Neumann and Richtmyer artificial viscosity is used in ZEUS-MP/2 code to
+  capture shock waves, we propose utilizing a tensor artificial viscosity in order
+  to overcome the numerical instability regarded as the carbuncle phenomenon. This
+  numerical instability emerges around the grid polar axis and precludes mode analysis
+  of SASI.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008JPhCS.112d2021I
+author: Iwakami, W. and Ohnishi, N. and Kotake, K. and Yamada, S. and Sawada, K.
+author_list:
+- family: Iwakami
+  given: W.
+- family: Ohnishi
+  given: N.
+- family: Kotake
+  given: K.
+- family: Yamada
+  given: S.
+- family: Sawada
+  given: K.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 18:14:19 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1088/1742-6596/112/4/042021
+eid: '042021'
+month: May
+pages: '042021'
+papis_id: 845e80fb69050678f8c59e4877a659fe
+ref: iwakami.w.2008
+series: Journal of Physics Conference Series
+title: Numerical methods for three-dimensional analysis of shock instability in supernova
+  cores
+type: inproceedings
+volume: '112'
+year: '2008'

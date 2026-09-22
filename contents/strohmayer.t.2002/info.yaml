@@ -1,0 +1,55 @@
+abstract: 'We present a detailed observational and theoretical study of a ~3 hr long
+  X-ray burst (the ``superburst'''') observed by the Rossi X-Ray Timing Explorer (RXTE)
+  from the low-mass X-ray binary 4U 1820-30. This is the longest X-ray burst ever
+  observed from this source and perhaps one of the longest ever observed in great
+  detail from any source. We show that the superburst is thermonuclear in origin.
+  Its peak luminosity of ~3.4\texttimes{}1038 ergs s-1 is consistent with the helium
+  Eddington limit for a neutron star at ~7 kpc as well as the peak luminosity of other,
+  shorter, thermonuclear bursts from the same source. The superburst begins in the
+  decaying tail of a more typical (~20 s duration) thermonuclear burst. These shorter,
+  more frequent bursts are well-known helium flashes from this source. The level of
+  the accretion-driven flux as well as the observed energy release of upward of 1.5\texttimes{}1042
+  ergs indicate that helium could not be the energy source for the superburst. We
+  outline the physics relevant to carbon production and burning on helium-accreting
+  neutron stars and present calculations of the thermal evolution and stability of
+  a carbon layer and show that this process is the most likely explanation for the
+  superburst. Ignition at the temperatures in the deep carbon ``ocean'''' requires
+  more than 30 times the mass of carbon inferred from the observed burst energetics
+  unless the He flash is able to trigger a deflagration from a much smaller mass of
+  carbon. We show, however, that for large columns of accreted carbon fuel, a substantial
+  fraction of the energy released in the carbon-burning layer is radiated away as
+  neutrinos, and the heat that is conducted from the burning layer in large part flows
+  inward, only to be released on timescales longer than the observed burst. Thus,
+  the energy released during the event possibly exceeds that observed in X-rays by
+  more than a factor of 10, making the scenario of burning a large mass of carbon
+  at great depths consistent with the observed fluence without invoking any additional
+  trigger. A strong constraint on this scenario is the recurrence time: to accrete
+  an ignition column of 1013 g cm-2 takes ~13/(M/3\texttimes{}1017 g s-1) yr. Spectral
+  analysis during the superburst reveals the presence of a broad emission line between
+  5.8 and 6.4 keV and an edge at 8-9 keV, likely due to reflection of the burst flux
+  from the inner accretion disk in 4U 1820-30. We believe that this is the first time
+  such a signature has been unambiguously detected in the spectrum of an X-ray burst.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...566.1045S
+arxivurl: http://arxiv.org/abs/astro-ph/0108420
+author: Strohmayer, T. E. and Brown, E. F.
+author_list:
+- family: Strohmayer
+  given: T. E.
+- family: Brown
+  given: E. F.
+date-added: 2017-08-11 08:12:20 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338337
+eprint: astro-ph/0108420
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Individual: Alphanumeric:
+  4U 1820-30, Stars: Neutron, X-Rays: Binaries, X-Rays: Bursts'
+month: February
+pages: 1045--1059
+papis_id: 2b162d64933a11c15feb889a3ca62b6b
+ref: strohmayer.t.2002
+title: A Remarkable 3 Hour Thermonuclear Burst from 4U 1820-30
+type: article
+volume: '566'
+year: '2002'

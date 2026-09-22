@@ -1,0 +1,41 @@
+abstract: Using numerical methods, we systematically study in the framework of ideal
+  MHD the effect of magnetic fields on heat transfer within a turbulent gas. We measure
+  the rates of passive scalar diffusion within magnetized fluids and make the comparisons
+  (1) between MHD and hydrodynamic simulations, (2) between different MHD runs with
+  different values of the external magnetic field (up to the energy equipartition
+  value), and (3) between thermal conductivities parallel and perpendicular to the
+  magnetic field. We do not find apparent suppression of diffusion rates by the presence
+  of magnetic fields, which implies that magnetic fields do not suppress heat diffusion
+  by turbulent motions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...589L..77C
+arxivurl: http://arxiv.org/abs/astro-ph/0302503
+author: Cho, J. and Lazarian, A. and Honein, A. and Knaepen, B. and Kassinos, S. and
+  Moin, P.
+author_list:
+- family: Cho
+  given: J.
+- family: Lazarian
+  given: A.
+- family: Honein
+  given: A.
+- family: Knaepen
+  given: B.
+- family: Kassinos
+  given: S.
+- family: Moin
+  given: P.
+date-added: 2017-08-11 03:58:28 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/376492
+eprint: astro-ph/0302503
+journal: \apjl
+keywords: 'Galaxies: Clusters: General, ISM: General, Magnetohydrodynamics: MHD, Turbulence'
+month: June
+pages: L77-L80
+papis_id: e5a7eb48637b00193c992ff8299c9d30
+ref: cho.j.2003
+title: Thermal Conduction in Magnetized Turbulent Gas
+type: article
+volume: '589'
+year: '2003'

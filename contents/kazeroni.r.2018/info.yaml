@@ -1,0 +1,48 @@
+abstract: A toy model of the post-shock region of core-collapse supernovae is used
+  to study the non-linear development of turbulent motions driven by convection in
+  the presence of advection. Our numerical simulations indicate that buoyant perturbations
+  of density are able to trigger self-sustained convection only when the instability
+  is not linearly stabilized by advection. Large amplitude perturbations produced
+  by strong shock oscillations or combustion inhomogeneities before the collapse of
+  the progenitor are efficiently shredded through phase mixing and generate a turbulent
+  cascade. Our model enables us to investigate several physical arguments that had
+  been proposed to explain the impact of the dimensionality on the onset of explosions
+  in global simulations of core-collapse supernovae. Three-dimensional (3D) simulations
+  are found to lead to higher entropy values than two-dimensional (2D) ones. We attribute
+  this to greater turbulent mixing and dissipation of the kinetic energy into heat
+  in 3D. Our results show that the increase of entropy is enhanced with finer numerical
+  resolution and larger perturbation amplitude.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.480..261K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1802.08125
+author: Kazeroni, R. and Krueger, B. K. and Guilet, J. and Foglizzo, T. and Pomarède,
+  D.
+author_list:
+- family: Kazeroni
+  given: R.
+- family: Krueger
+  given: B. K.
+- family: Guilet
+  given: J.
+- family: Foglizzo
+  given: T.
+- family: Pomarède
+  given: D.
+date-added: 2018-08-26 20:58:13 -0400
+date-modified: 2018-08-26 20:58:15 -0400
+doi: 10.1093/mnras/sty1742
+eprint: '1802.08125'
+journal: \mnras
+keywords: 'accretion, accretion discs, hydrodynamics, instabilities, shock waves,
+  turbulence, supernovae: general'
+month: October
+pages: 261--280
+papis_id: 952ea5bdb1314ffa9e2dc7f546414e67
+primaryclass: astro-ph.SR
+ref: kazeroni.r.2018
+title: The non-linear onset of neutrino-driven convection in two- and three-dimensional
+  core-collapse supernovae
+type: article
+volume: '480'
+year: '2018'

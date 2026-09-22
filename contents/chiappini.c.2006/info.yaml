@@ -1,0 +1,44 @@
+abstract: We investigate the effect of new stellar models taking rotation into account
+  and computing for a metallicity Z = 10-8 on the chemical evolution of the earliest
+  phases of the Milky Way. These models were computed under the assumption that the
+  ratio of the initial rotation velocity to the critical velocity of stars is roughly
+  constant with metallicity. This naturally leads to faster rotation at lower metallicity,
+  as metal-poor stars are more compact than metal-rich ones. We find that the new
+  Z = 10-8 stellar yields have a tremendous impact on the nitrogen enrichment of the
+  interstellar medium for log(O/H) + 12 < 7 (or [Fe/H]< -3). We show that including
+  Z = 10-8 stellar yields in chemical evolution models, both high N/O and C/O ratios
+  are obtained in the very-metal poor metallicity range, in agreement with observations.
+  Our results give further support to the idea that stars at very low metallicities
+  could have rotational velocities of the order of 600-800 km s-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...449L..27C
+arxivurl: http://arxiv.org/abs/astro-ph/0602459
+author: Chiappini, C. and Hirschi, R. and Meynet, G. and Ekström, S. and Maeder, A.
+  and Matteucci, F.
+author_list:
+- family: Chiappini
+  given: C.
+- family: Hirschi
+  given: R.
+- family: Meynet
+  given: G.
+- family: Ekström
+  given: S.
+- family: Maeder
+  given: A.
+- family: Matteucci
+  given: F.
+date-added: 2017-08-11 00:23:01 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1051/0004-6361:20064866
+eprint: astro-ph/0602459
+journal: \aap
+keywords: 'stars: rotation, Galaxy: evolution'
+month: April
+pages: L27-L30
+papis_id: 14bb5016d7126af13e539984e379ef7b
+ref: chiappini.c.2006
+title: A strong case for fast stellar rotation at very low metallicities
+type: article
+volume: '449'
+year: '2006'

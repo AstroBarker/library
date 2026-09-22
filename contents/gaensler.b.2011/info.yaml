@@ -1,0 +1,61 @@
+abstract: The interstellar medium of the Milky Way is multiphase, magnetized and turbulent.
+  Turbulence in the interstellar medium produces a global cascade of random gas motions,
+  spanning scales ranging from 100 parsecs to 1,000 kilometres (ref. 4). Fundamental
+  parameters of interstellar turbulence such as the sonic Mach number (the speed of
+  sound) have been difficult to determine, because observations have lacked the sensitivity
+  and resolution to image the small-scale structure associated with turbulent motion.
+  Observations of linear polarization and Faraday rotation in radio emission from
+  the Milky Way have identified unusual polarized structures that often have no counterparts
+  in the total radiation intensity or at other wavelengths, and whose physical significance
+  has been unclear. Here we report that the gradient of the Stokes vector (Q, U),
+  where Q and U are parameters describing the polarization state of radiation, provides
+  an image of magnetized turbulence in diffuse, ionized gas, manifested as a complex
+  filamentary web of discontinuities in gas density and magnetic field. Through comparison
+  with simulations, we demonstrate that turbulence in the warm, ionized medium has
+  a relatively low sonic Mach number, Ms<~2. The development of statistical tools
+  for the analysis of polarization gradients will allow accurate determinations of
+  the Mach number, Reynolds number and magnetic field strength in interstellar turbulence
+  over a wide range of conditions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011Natur.478..214G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.2896
+author: Gaensler, B. M. and Haverkorn, M. and Burkhart, B. and Newton-McGee, K. J.
+  and Ekers, R. D. and Lazarian, A. and McClure-Griffiths, N. M. and Robishaw, T.
+  and Dickey, J. M. and Green, A. J.
+author_list:
+- family: Gaensler
+  given: B. M.
+- family: Haverkorn
+  given: M.
+- family: Burkhart
+  given: B.
+- family: Newton-McGee
+  given: K. J.
+- family: Ekers
+  given: R. D.
+- family: Lazarian
+  given: A.
+- family: McClure-Griffiths
+  given: N. M.
+- family: Robishaw
+  given: T.
+- family: Dickey
+  given: J. M.
+- family: Green
+  given: A. J.
+date-added: 2017-08-11 01:29:02 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1038/nature10446
+eprint: '1110.2896'
+journal: \nat
+month: October
+pages: 214--217
+papis_id: 24345de5cfa69286f53abf475f32a7b8
+primaryclass: astro-ph.GA
+ref: gaensler.b.2011
+title: Low-Mach-number turbulence in interstellar gas revealed by radio polarization
+  gradients
+type: article
+volume: '478'
+year: '2011'

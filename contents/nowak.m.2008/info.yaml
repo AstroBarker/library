@@ -1,0 +1,63 @@
+abstract: We present simultaneous Chandra High-Energy Transmission Gratings (HETG)
+  and Rossi X-ray Timing Explorer (RXTE) observations of a "soft state" of the black
+  hole candidate 4U 1957+11. These spectra, having limited hard X-ray excess, are
+  an excellent test of disk atmosphere models that include effects of black hole spin.
+  The HETG data show, by modeling the broadband continuum and direct fitting of absorption
+  edges, that the disk spectrum is only very mildly absorbed, with NH = (1-2) \texttimes{}
+  1021 cm-2. These data additionally reveal lambdalambda13.449 Ne IX absorption consistent
+  with the warm/hot phase of the interstellar medium. The fitted disk model implies
+  an inclined disk around a low-mass black hole rotating with normalized spin a\textasteriskcentered
+  \approx{} 1. We show, however, that pure Schwarzschild models describe the data
+  extremely well, albeit with large disk atmosphere ``color-correction'' factors.
+  Standard correction factors can be attained if one incorporates mild Comptonization.
+  We find that the Chandra observations do not uniquely determine spin, even with
+  this otherwise extremely well-measured, nearly pure disk spectrum. XMM-Newton RXTE
+  observations, taken only six weeks later, are equally unconstraining. This lack
+  of constraint is partly driven by the unknown mass and distance of 4U 1957+11; however,
+  it is also driven by the limited Chandra and XMM-Newton bandpasses. We therefore
+  present a series of 48 RXTE observations taken at different brightness/hardness
+  levels. These data prefer a spin of a\textasteriskcentered \approx{} 1, even when
+  including a mild Comptonization component; however, they also show evolution of
+  the color-correction factors. If the rapid-spin models with standard correction
+  factors are to be believed, then the RXTE observations predict that 4U 1957+11 can
+  range from a 3 M\&sun; black hole at 10 kpc with a\textasteriskcentered \approx{}
+  0.83 to a 16 M\&sun; black hole at 22 kpc with a\textasteriskcentered \approx{}
+  1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...689.1199N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.3005
+author: Nowak, M. A. and Juett, A. and Homan, J. and Yao, Y. and Wilms, J. and Schulz,
+  N. S. and Canizares, C. R.
+author_list:
+- family: Nowak
+  given: M. A.
+- family: Juett
+  given: A.
+- family: Homan
+  given: J.
+- family: Yao
+  given: Y.
+- family: Wilms
+  given: J.
+- family: Schulz
+  given: N. S.
+- family: Canizares
+  given: C. R.
+date-added: 2017-08-11 03:18:44 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/592227
+eid: 1199-1214
+eprint: '0809.3005'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, radiation mechanisms: thermal,
+  X-rays: binaries'
+month: December
+pages: 1199--1214
+papis_id: 5f315701a6aa74611b6af8b50ef1ee97
+ref: nowak.m.2008
+title: 'Disk-dominated States of 4U 1957+11: Chandra, XMM-Newton, and RXTE Observations
+  of Ostensibly the Most Rapidly Spinning Galactic Black Hole'
+type: article
+volume: '689'
+year: '2008'

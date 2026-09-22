@@ -1,0 +1,46 @@
+abstract: 'We investigate the generation of magnetic fields by the Biermann battery
+  in cosmological ionization fronts, using new simulations of the reionization of
+  the universe by stars in protogalaxies. Two mechanisms are primarily responsible
+  for magnetogenesis: (1) the breakout of ionization fronts from protogalaxies and
+  (2) the propagation of ionization fronts through the high-density neutral filaments
+  that are part of the cosmic web. The first mechanism is dominant prior to overlapping
+  of ionized regions (z~7), whereas the second continues to operate even after that
+  epoch. However, after overlap the field strength increase is largely due to the
+  gas compression occurring as cosmic structures form. As a consequence, the magnetic
+  field at z~5 closely traces the gas density, and it is highly ordered on megaparsec
+  scales. The mean mass-weighted field strength is B0~10-19 G in the simulation box.
+  There is a relatively well-defined, nearly linear correlation between B0 and the
+  baryonic mass of virialized objects, with B0~10-18 G in the most massive objects
+  (M~109 Msolar) in our simulations. This is a lower limit, as lack of numerical resolution
+  prevents us from following small-scale dynamical processes that could amplify the
+  field in protogalaxies. Although the field strengths we compute are probably adequate
+  as seed fields for a galactic dynamo, the field is too small to have had significant
+  effects on galaxy formation, on thermal conduction, or on cosmic-ray transport in
+  the intergalactic medium. It could, however, be observed in the intergalactic medium
+  through innovative methods based on analysis of gamma-ray burst photon arrival times.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...539..505G
+arxivurl: http://arxiv.org/abs/astro-ph/0001066
+author: Gnedin, N. Y. and Ferrara, A. and Zweibel, E. G.
+author_list:
+- family: Gnedin
+  given: N. Y.
+- family: Ferrara
+  given: A.
+- family: Zweibel
+  given: E. G.
+date-added: 2017-08-11 07:42:32 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309272
+eprint: astro-ph/0001066
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Galaxies: Intergalactic Medium,
+  Cosmology: Large-Scale Structure of Universe'
+month: August
+pages: 505--516
+papis_id: ca4b274ad2c4a7c5fb31658101ce3392
+ref: gnedin.n.2000b
+title: Generation of the Primordial Magnetic Fields during Cosmological Reionization
+type: article
+volume: '539'
+year: '2000'

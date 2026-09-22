@@ -1,0 +1,55 @@
+abstract: Supernova (SN) 2008bk is a well-observed low-luminosity Type II event         visually
+  associated with a low-mass red-supergiant progenitor.         To model SN 2008bk,
+  we evolve a 12 M$_{{\ensuremath{\odot}}}$         star from the main sequence until
+  core collapse, when it has a         total mass of 9.88 M\$\_{{\ensuremath{\odot}}}\$,
+  a He-core mass of         3.22 M\$\_{{\ensuremath{\odot}}}\$ and a radius of 502         R\$\_{{\ensuremath{\odot}}}\$.
+  We then artificially trigger an         explosion that produces 8.29 M\$\_{{\ensuremath{\odot}}}\$
+  of         ejecta with a total energy of 2.5 {\texttimes} {}10\$^{50}\$ erg         and
+  {\ensuremath{\sim}}0.009 M\$\_{{\ensuremath{\odot}}}\$ of         \$^{56}\$Ni. We
+  model the subsequent evolution of the ejecta with         non-local thermodynamic
+  equilibrium time-dependent radiative         transfer. Although somewhat too luminous
+  and energetic, this         model reproduces satisfactorily the multiband light
+  curves and         multi-epoch spectra of SN 2008bk, confirming the suitability
+  of         a low-mass massive star progenitor. As in other low-luminosity         SNe
+  II, the structured H{\ensuremath{\alpha}} profile at the end         of the plateau
+  phase is probably caused by Ba II 6496.9 {\r{A}}         rather than asphericity.
+  We discuss the sensitivity of our         results to changes in progenitor radius
+  and mass, as well as         chemical mixing. A 15 per cent increase in progenitor
+  radius         causes a 15 per cent increase in luminosity and a 0.2 mag V-band         brightening
+  of the plateau but leaves its length unaffected. An         increase in ejecta mass
+  by 10 per cent lengthens the plateau by         {\ensuremath{\sim}}10 d. Chemical
+  mixing introduces slight         changes to the bolometric light curve, limited
+  to the end of the         plateau, but has a large impact on colours and spectra
+  at         nebular times.
+archiveprefix: arXiv
+author: Lisakov, S. M. and Dessart, Luc and Hillier, D. John and Waldman, Roni and
+  Livne, Eli
+author_list:
+- family: Lisakov
+  given: S. M.
+- family: Dessart
+  given: Luc
+- family: Hillier
+  given: D. John
+- family: Waldman
+  given: Roni
+- family: Livne
+  given: Eli
+doi: 10.1093/mnras/stw3035
+eprint: '1611.06809'
+groups: Observation, Light Curves
+journal: \mnras
+keywords: 'hydrodynamics, radiative transfer, supernovae: general, supernovae: individual:
+  SN 2008bk, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - High Energy
+  Astrophysical Phenomena'
+month: April
+number: '1'
+pages: 34--48
+papis_id: 2bca96574d5fbe1576973c25e5555503
+primaryclass: astro-ph.SR
+ref: lisakov.s.2017
+title: A study of the low-luminosity Type II-Plateau supernova 2008bk
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2017MNRAS.466...34L
+volume: '466'
+year: '2017'

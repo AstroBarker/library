@@ -1,0 +1,48 @@
+abstract: This paper describes the design and implementation of our new multi-group,
+  multi-dimensional radiation hydrodynamics (RHD) code \fornax{} and provides a suite
+  of code tests to validate its application in a wide range of physical regimes. Instead
+  of focusing exclusively on tests of neutrino radiation hydrodynamics relevant to
+  the core-collapse supernova problem for which \fornax{} is primarily intended, we
+  present here classical and rigorous demonstrations of code performance relevant
+  to a broad range of multi-dimensional hydrodynamic and multi-group radiation hydrodynamic
+  problems. Our code solves the comoving-frame radiation moment equations using the
+  $M1$ closure, utilizes conservative high-order reconstruction, employs semi-explicit
+  matter and radiation transport via a high-order time stepping scheme, and is suitable
+  for application to a wide range of astrophysical problems. To this end, we first
+  describe the philosophy, algorithms, and methodologies of \fornax{} and then perform
+  numerous stringent code tests, that collectively and vigorously exercise the code,
+  demonstrate the excellent numerical fidelity with which it captures the many physical
+  effects of radiation hydrodynamics, and show excellent strong scaling well above
+  100k MPI tasks.
+adscomment: Submitted to the Astrophysical Journal Supplement Series
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180607390S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.07390
+author: Skinner, M. A. and Dolence, J. C. and Burrows, A. and Radice, D. and Vartanyan,
+  D.
+author_list:
+- family: Skinner
+  given: M. A.
+- family: Dolence
+  given: J. C.
+- family: Burrows
+  given: A.
+- family: Radice
+  given: D.
+- family: Vartanyan
+  given: D.
+date-added: 2018-06-21 13:11:06 +0000
+date-modified: 2018-06-21 13:11:07 +0000
+eprint: '1806.07390'
+journal: ArXiv e-prints
+keywords: Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics
+  - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics,
+  Physics - Computational Physics
+month: June
+papis_id: 41eaefaba947d7d91a426176a9833bbf
+primaryclass: astro-ph.IM
+ref: skinner.m.2018
+title: 'Fornax: a Flexible Code for Multiphysics Astrophysical Simulations'
+type: article
+year: '2018'

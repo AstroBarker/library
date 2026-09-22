@@ -1,0 +1,62 @@
+abstract: 'We numerically investigate the effect of feedback from the ionization heating
+  from massive stars on the evolution of giant molecular clouds (GMCs) and their star
+  formation efficiency (SFE), which we treat as an instantaneous, time-dependent quantity.
+  We follow the GMCs'' evolution from their formation to advanced star-forming stages.
+  After an initial period of contraction, the collapsing clouds begin forming stars,
+  whose feedback evaporates part of the clouds'' mass, opposing the continuing accretion
+  from the infalling gas. Our results are as follows: (1) in the presence of feedback,
+  the clouds attain levels of the SFE that are consistent at all times with observational
+  determinations for regions of comparable star formation rates. (2) However, the
+  dense gas mass is larger in general in the presence of feedback, while the total
+  mass (dense gas + stars) is nearly insensitive to the presence of feedback, suggesting
+  that it is determined mainly by the accretion, while the feedback inhibits mainly
+  the conversion of dense gas to stars, because it acts directly to reheat and disperse
+  the gas that is directly on its way to forming stars. (3) The factor by which the
+  SFE is reduced upon the inclusion of feedback is a decreasing function of the cloud''s
+  mass, for clouds of size ~10 pc. This naturally explains the larger observed SFEs
+  of massive-star-forming regions. (4) The clouds may attain a pseudo-virialized state,
+  with a value of the virial mass very similar to the actual cloud mass. However,
+  this state differs from true virialization in that the clouds, rather than being
+  equilibrium entities, are the centers of a larger-scale collapse, in which accretion
+  replenishes the mass consumed by star formation. (5) The higher-density regions
+  within the clouds are in a similar situation, accreting gas infalling from the less-dense,
+  more extended regions of the clouds. (6) The density probability density functions
+  of the regions containing the clouds in general exhibit a shape characteristic of
+  thermally bistable flows, and extend down to densities corresponding to the warm
+  atomic medium, because the warm gas interpenetrates the clouds. The general picture
+  arising from our simulations is that the gas involved in the gravitational contraction
+  leading to star formation extends to large scales and is not confined to the local
+  environment of the final collapse, where the effect of the feedback is active, in
+  agreement with recent proposals of a gravitationally driven mass cascade from large
+  to small scales.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715.1302V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.0802
+author: Vázquez-Semadeni, E. and Colín, P. and Gómez, G. C. and Ballesteros-Paredes,
+  J. and Watson, A. W.
+author_list:
+- family: Vázquez-Semadeni
+  given: E.
+- family: Colín
+  given: P.
+- family: Gómez
+  given: G. C.
+- family: Ballesteros-Paredes
+  given: J.
+- family: Watson
+  given: A. W.
+date-added: 2017-08-11 01:33:50 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/715/2/1302
+eprint: '1001.0802'
+journal: \apj
+keywords: 'H II regions, ISM: clouds, stars: formation, turbulence'
+month: June
+pages: 1302--1317
+papis_id: 4bbaf59093afa9e1b20f3cab63a361de
+ref: vazquez_semadeni.e.2010
+title: Molecular Cloud Evolution. III. Accretion Versus Stellar Feedback
+type: article
+volume: '715'
+year: '2010'

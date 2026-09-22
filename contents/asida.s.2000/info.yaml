@@ -1,0 +1,35 @@
+abstract: Two-dimensional hydrodynamical simulations of a convective oxygen burning
+  shell in the presupernova evolution of a 20 Msolar star are extended to later times.
+  We used the VULCAN code to simulate longer evolution times than previously possible.
+  Our results confirm the previous work of Baz{\`a}n \& Arnett over their time span
+  (400 s). However, at 1200 s we could identify a new steady state that is significantly
+  different from the original one-dimensional model. There is considerable overshooting
+  at both the top and bottom boundaries of the convection zone. Beyond the boundaries,
+  the convective velocity falls off exponentially, with excitation of internal modes.
+  The resulting mixing greatly affects the evolution of the simulations. Connections
+  with other works of simulation of convection, in which such behavior is found in
+  a different context, are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...545..435A
+arxivurl: http://arxiv.org/abs/astro-ph/0006451
+author: Asida, S. M. and Arnett, D.
+author_list:
+- family: Asida
+  given: S. M.
+- family: Arnett
+  given: D.
+date-added: 2017-08-11 03:53:37 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317774
+eprint: astro-ph/0006451
+journal: \apj
+keywords: 'Convection, Methods: Numerical, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Supernovae: General'
+month: December
+pages: 435--443
+papis_id: 991c5b297892cbb94f051c49f1cb9254
+ref: asida.s.2000
+title: 'Further Adventures: Oxygen Burning in a Convective Shell'
+type: article
+volume: '545'
+year: '2000'

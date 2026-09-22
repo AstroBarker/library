@@ -1,0 +1,52 @@
+abstract: Nucleosynthesis, light curves, explosion energies, and remnant masses are
+  calculated for a grid of supernovae (SNe) resulting from massive stars with solar
+  metallicity and masses from 9.0 to 120 {M}\&sun; . The full evolution is followed
+  using an adaptive reaction network of up to 2000 nuclei. A novel aspect of the survey
+  is the use of a one-dimensional neutrino transport model for the explosion. This
+  explosion model has been calibrated to give the observed energy for SN 1987A, using
+  five standard progenitors, and for the Crab SN using a 9.6 {M}\&sun;  progenitor.
+  As a result of using a calibrated central engine, the final kinetic energy of the
+  SN is variable and sensitive to the structure of each pre-SN star. Many progenitors
+  with extended core structures do not explode, but become black holes (BHs), and
+  the masses of exploding stars do not form a simply connected set. The resulting
+  nucleosynthesis agrees reasonably well with the Sun provided that a reasonable contribution
+  from SNe Ia is also allowed, but with a deficiency of light s-process isotopes.
+  The resulting neutron star initial mass function has a mean gravitational mass near
+  1.4 {M}\&sun; . The average BH mass is about 9 {M}\&sun;  if only the helium core
+  implodes, and 14 {M}\&sun;  if the entire pre-SN star collapses. Only \texttildelow{}10\%
+  of SNe come from stars over 20 {M}\&sun; , and some of these are Type Ib or Ic.
+  Some useful systematics of Type IIp light curves are explored.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...821...38S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1510.04643
+author: Sukhbold, T. and Ertl, T. and Woosley, S. E. and Brown, J. M. and Janka, H.-T.
+author_list:
+- family: Sukhbold
+  given: T.
+- family: Ertl
+  given: T.
+- family: Woosley
+  given: S. E.
+- family: Brown
+  given: J. M.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:00:23 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/821/1/38
+eid: '38'
+eprint: '1510.04643'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: black holes, stars:
+  massive, stars: neutron, supernovae: general'
+month: April
+pages: '38'
+papis_id: 276969ccc3b82ee01e0bc4a688338eba
+primaryclass: astro-ph.HE
+ref: sukhbold.t.2016
+title: Core-collapse Supernovae from 9 to 120 Solar Masses Based on Neutrino-powered
+  Explosions
+type: article
+volume: '821'
+year: '2016'

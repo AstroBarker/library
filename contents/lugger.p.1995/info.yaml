@@ -1,0 +1,49 @@
+abstract: We present U-band CCD surface brightness profiles for 15 of the 21 globular
+  clusters that have been identified as having collapsed cores by Djorgovski \& King
+  (1986). Fourteen of the clusters were observed with the Cerro Tololo 4 m telescope;
+  NGC 7078 was observed with the Canada-France-Hawaii 3.6 m telescope (CFHT). We have
+  fitted the profiles with seeing-convolved power laws, both with and without cores,
+  to assess the evidence for central power-law structure and to place upper limits
+  on core radius rc. We find nine of the clusters (NGC 5946, NGC 6284, NGC 6293, NGC
+  6325, NGC 6342, NGC 6558, NGC 6624, NGC 6681, and NGC 7078) to have unresolved cores,
+  with upper limits rc less than or = 1.9 arcsecs. Three of the clusters (NGC 6453,
+  NGC 6522, and NGC 7099) have marginally resolved cores, with upper limits in the
+  range 2.7 arcsecs less than or = rc less than or = 3.4 arcsecs. The remaining three
+  clusters (NGC 6355, NGC 6397, and NGC 6752) have resolved cores. Of the latter three
+  clusters, NGC 6355 and NGC 6752 are consistent with single-mass King model structure.
+  The median cluster distances are 9.2 kpc for those with unresolved cores, 7.2 kpc
+  for those with marginally resolved cores, and 4.1 kpc for those with resolved cores.
+  The 13 clusters that do not resemble single-mass King models have central power-law
+  structure with surface brightness slopes in the range of d ln S/d ln r = -0.6 to
+  -0.8. These slopes are consistent with the models of Grabhorn et al. (1992) for
+  clusters evolving beyond core collapse. The models include a centrally concentrated
+  population of nonluminous remnants with masses in the range 1.2-1.4 solar mass,
+  thus providing evidence for significant neutron star populations in most of our
+  cluster sample. This finding is consistent with the observation of centrally concentrated
+  low-mass X-ray binary and millisecond pulsar populations in several clusters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...439..191L
+author: Lugger, P. M. and Cohn, H. N. and Grindlay, J. E.
+author_list:
+- family: Lugger
+  given: P. M.
+- family: Cohn
+  given: H. N.
+- family: Grindlay
+  given: J. E.
+date-added: 2017-08-11 05:06:26 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175164
+journal: \apj
+keywords: Astronomical Photometry, Brightness Distribution, Cores, Globular Clusters,
+  Astronomical Models, Autocorrelation, Charge Coupled Devices, Power Series, Statistical
+  Analysis, Stellar Spectrophotometry
+month: January
+pages: 191--201
+papis_id: 4cdeec55d728760929ac884cb4d4431b
+ref: lugger.p.1995
+title: 'CCD photometry of globular cluster core structure. 2: U-band profiles for
+  15 candidate collapsed-core clusters'
+type: article
+volume: '439'
+year: '1995'

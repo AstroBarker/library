@@ -1,0 +1,48 @@
+abstract: 'Over a broad range of initial inclinations and eccentricities, an appreciable
+  fraction of hierarchical triple star systems with similar masses are essentially
+  unaffected by the Kozai-Lidov mechanism (KM) until the primary in the central binary
+  evolves into a compact object. Once it does, it may be much less massive than the
+  other components in the ternary, enabling the "eccentric Kozai mechanism (EKM)":
+  the mutual inclination between the inner and outer binaries can flip signs driving
+  the inner binary to very high eccentricity, leading to a close binary or collision.
+  We demonstrate this "mass-loss-induced eccentric Kozai" (MIEK) mechanism by considering
+  an example system and defining an ad hoc minimal separation between the inner two
+  members at which tidal effects become important. For fixed initial masses and semimajor
+  axes, but uniform distributions of eccentricity and cosine of the mutual inclination,
+  ~10\% of systems interact tidally or collide while the primary is on the main sequence
+  (MS) due to the KM or EKM. Those affected by the EKM are not captured by earlier
+  quadrupole-order secular calculations. We show that fully ~30\% of systems interact
+  tidally or collide for the first time as the primary swells to AU scales, mostly
+  as a result of the KM. Finally, ~2\% of systems interact tidally or collide for
+  the first time after the primary sheds most of its mass and becomes a white dwarf
+  (WD), mostly as a result of the MIEK mechanism. These findings motivate a more detailed
+  study of mass loss in triple systems and the formation of close neutron star (NS)/WD-MS
+  and NS/WD-NS/WD binaries without an initial common envelope phase.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...766...64S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.1053
+author: Shappee, B. J. and Thompson, T. A.
+author_list:
+- family: Shappee
+  given: B. J.
+- family: Thompson
+  given: T. A.
+date-added: 2017-08-10 16:15:55 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/766/1/64
+eid: '64'
+eprint: '1204.1053'
+journal: \apj
+keywords: 'binaries: close, binaries: general, instabilities, stars: evolution, stars:
+  kinematics and dynamics, stars: mass-loss, supernovae: general, white dwarfs'
+month: March
+pages: '64'
+papis_id: fd62902b68a7e2a67ac5c93c1de7f634
+primaryclass: astro-ph.SR
+ref: shappee.b.2013a
+title: 'The Mass-loss-induced Eccentric Kozai Mechanism: A New Channel for the Production
+  of Close Compact Object-Stellar Binaries'
+type: article
+volume: '766'
+year: '2013'

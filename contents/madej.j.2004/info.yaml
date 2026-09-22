@@ -1,0 +1,42 @@
+abstract: Compton scattering plays a crucial role in determining the structure of
+  the atmosphere of an X-ray burster and its theoretical spectrum. Our paper presents
+  a description of the plane-parallel model atmosphere of a very hot neutron star
+  and its theoretical flux spectrum of outgoing radiation. Our model equations take
+  into account all bound-free and free-free monochromatic opacities relevant to hydrogen-helium
+  chemical composition and take into account the effects of Compton scattering of
+  radiation in thermal plasma with fully relativistic thermal velocities. We use Compton
+  scattering terms in the equation of transfer, which precisely describe photon-electron
+  energy and momentum exchange for photons with initial energies exceeding the electron
+  rest mass of 511 keV. Model atmosphere equations are solved with the variable Eddington
+  factors technique. The grid of H-He model atmospheres and flux spectra is computed
+  on a dense mesh of 107K<=Teff<=3\texttimes{}107K and a surface gravity of logg.
+  In many cases, the assumed logg approached the critical gravity loggcr, i.e., the
+  Eddington limit. We confirm that H-He spectra of X-ray bursters deviate from blackbody
+  spectra and discuss their shapes. The table of color to effective temperature ratios
+  shows that theoretical values of Tc/Teff do not exceed 1.9 in H-He atmospheres in
+  hydrostatic and radiative equilibrium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...602..904M
+author: Madej, J. and Joss, P. C. and Róża\ŉska, A.
+author_list:
+- family: Madej
+  given: J.
+- family: Joss
+  given: P. C.
+- family: Róża\ŉska
+  given: A.
+date-added: 2017-08-11 02:47:56 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/379761
+journal: \apj
+keywords: 'Radiative Transfer, Scattering, Stars: Atmospheres, Stars: Neutron, X-Rays:
+  Bursts'
+month: February
+pages: 904--912
+papis_id: cf99a1601743910c661f370bfdc8e3a6
+ref: madej.j.2004
+title: 'Model Atmospheres and X-Ray Spectra of Bursting Neutron Stars: Hydrogen-Helium
+  Comptonized Spectra'
+type: article
+volume: '602'
+year: '2004'

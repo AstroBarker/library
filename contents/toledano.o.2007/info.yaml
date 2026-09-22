@@ -1,0 +1,58 @@
+abstract: 'Context: Stellar oscillations are excited in non-synchronously rotating
+  stars in binary systems due to the tidal forces. Tangential components of the tides
+  can drive a shear flow which behaves as a differentially forced rotating structure
+  in a stratified outer medium.   Aims: The aims of this paper are to show that our
+  single-layer approximation for the calculation of the forced oscillations yields
+  results that are consistent with the predictions for the synchronization timescales
+  in circular orbits, tau\_sync   a^6, thus providing a simplified means of computing
+  the energy dissipation rates, dot{E}. Furthermore, by calibrating our model results
+  to fit the relationship between synchronization timescales and orbital separation,
+  we are able to constrain the value of the kinematical viscosity parameter, nu. Methods:
+  We compute the values of dot{E} for a set of 5 M\_\&sun; + 4 M\_\&sun; model binary
+  systems with different orbital separations, a, and use these to estimate the synchronization
+  timescales.  Results: The resulting tau\_synch vs. a relation is comparable to that
+  of Zahn (1977, A\&A, 57, 383) for convective envelopes, providing a calibration
+  method for the values of nu. For the 4+5 M\_\&sun; binary modeled in this paper,
+  nu is in the range 0.0015-0.0043 R\_\&sun; 2 /day for orbital periods in the range
+  2.5-25 d. In addition, dot{E} is found to decrease by  2 orders of magnitude as
+  synchronization is approached, implying that binary systems may approach synchronization
+  relatively quickly but that it takes a much longer timescale to actually attain
+  this condition.  Conclusions: .The relevance of these results is threefold: 1) our
+  model allows an estimate for the numerical value of nu under arbitrary conditions
+  in the binary system; 2) it can be used to calculate the energy dissipation rates
+  throughout the orbital cycle for any value of eccentricity and stellar rotational
+  velocity; and 3) it provides values of the tangential component of the velocity
+  perturbation at any time throughout the orbit and predicts the location on the stellar
+  surface where the largest shear instabilities may be occurring. We suggest that
+  one of the possible implication of the asymmetric distribution of dot{E} over the
+  stellar surface is the generation of localized regions of enhanced surface activity.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...461.1057T
+arxivurl: http://arxiv.org/abs/astro-ph/0610563
+author: Toledano, O. and Moreno, E. and Koenigsberger, G. and Detmers, R. and Langer,
+  N.
+author_list:
+- family: Toledano
+  given: O.
+- family: Moreno
+  given: E.
+- family: Koenigsberger
+  given: G.
+- family: Detmers
+  given: R.
+- family: Langer
+  given: N.
+date-added: 2017-08-11 04:03:48 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20065776
+eprint: astro-ph/0610563
+journal: \aap
+keywords: 'stars: oscillations, stars: rotation, stars: binaries: general'
+month: January
+pages: 1057--1063
+papis_id: 32d0e5e4c6e4528987440b790b7c227d
+ref: toledano.o.2007
+title: Tides in asynchronous binary systems
+type: article
+volume: '461'
+year: '2007'

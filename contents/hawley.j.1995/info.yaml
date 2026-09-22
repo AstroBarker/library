@@ -1,0 +1,40 @@
+abstract: We have performed three-dimensional magnetohydrodynamic numerical simulations
+  of an accretion disk to study the nonlinear development of the magnetorotational
+  instability. We use a disk model that is local in the sense that it incorporates
+  tidal and Coriolis forces but neglects background gradients in pressure and density.
+  For simplicity we omit the vertical component of gravity and employ periodic boundary
+  conditions in the vertical and azimuthal directions, and shearing-periodic boundary
+  conditions in the radial direction. Our numerical method is an implementation of
+  the "method of characteristics-constrained transport" algorithm. Most of the simulations
+  begin with either a purely vertical or purely azimuthal magnetic field. Our major
+  result is that turbulence is initiated and sustained by the magnetic instability.
+  We provide a detailed characterization of the saturated turbulent state. The turbulence
+  is anisotropic in a sense that implies an outward flux of angular momentum. The
+  turbulent energy and angular momentum flux is dominated by magnetic stress rather
+  than Reynolds stress. Most of the energy and angular momentum flux is concentrated
+  at the largest scales. We find that the magnetic energy density in the saturated
+  state is proportional to the product of the size of the simulation box and the initial
+  field strength and is independent of the sound speed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...440..742H
+author: Hawley, J. F. and Gammie, C. F. and Balbus, S. A.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Gammie
+  given: C. F.
+- family: Balbus
+  given: S. A.
+date-added: 2017-08-10 14:57:10 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175311
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, INSTABILITIES, MAGNETOHYDRODYNAMICS: MHD'
+month: February
+pages: '742'
+papis_id: 6dc083745b7ceb8fd9a13d484284b772
+ref: hawley.j.1995
+title: Local Three-dimensional Magnetohydrodynamic Simulations of Accretion Disks
+type: article
+volume: '440'
+year: '1995'

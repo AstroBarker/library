@@ -1,0 +1,47 @@
+abstract: For radio pulsars in orbit with a compact companion, pulsar timing observations
+  have proved to be a powerful tool for identifying the physical nature of the companion.
+  Unfortunately, perhaps the most intriguing system where such a tool could be used,
+  a pulsar in orbit with a black hole, has yet to be discovered. In this paper we
+  give a detailed investigation of what one can learn about the black hole companion
+  via timing observations of the pulsar. We present an analytic calculation for the
+  propagation delay caused by the frame-dragging effect and show that it has the same
+  functional behavior as the modulation of the observed rotational phase of the pulsar
+  caused by the deflection of the radio signals in the gravitational field of the
+  companion (bending delay). Thus, contrary to statements of other authors, the frame-dragging
+  delay is unlikely to be separately measurable in pulsar binaries where the companion
+  is a stellar-mass black hole. We demonstrate, however, that the precession of the
+  binary orbit caused by the relativistic spin-orbit coupling can lead to observable
+  effects that can be used to set a lower limit to the black hole spin or possibly
+  allow the determination of its magnitude and orientation. We give parameter estimates
+  for two possible systems, a 10 Msolar black hole in orbit either with a young (~0.1
+  s) pulsar or with a millisecond pulsar. Finally, we discuss the measurability of
+  the quadrupole moment of the rotating black hole companion that would test the presence
+  of a Kerr black hole. As an interesting side result of our calculations, we can
+  give a further argument why the companion of PSR J0045-7319 cannot be a Kerr black
+  hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...514..388W
+arxivurl: http://arxiv.org/abs/astro-ph/9811052
+author: Wex, N. and Kopeikin, S. M.
+author_list:
+- family: Wex
+  given: N.
+- family: Kopeikin
+  given: S. M.
+date-added: 2017-08-11 04:33:56 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306933
+eprint: astro-ph/9811052
+journal: \apj
+keywords: 'STARS: BINARIES: GENERAL, BLACK HOLE PHYSICS, GRAVITATION, STARS: PULSARS:
+  GENERAL, STARS: PULSARS: INDIVIDUAL: ALPHANUMERIC: PSR J0045-7319, Stars: Binaries:
+  General, Black Hole Physics, Gravitation, Stars: Pulsars: General, Stars: Pulsars:
+  Individual: Alphanumeric: PSR J0045-7319'
+month: March
+pages: 388--401
+papis_id: e6492354fb8a116f5733fc66c2ec14bb
+ref: wex.n.1999
+title: Frame Dragging and Other Precessional Effects in Black Hole Pulsar Binaries
+type: article
+volume: '514'
+year: '1999'

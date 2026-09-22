@@ -1,0 +1,58 @@
+abstract: Rotation is thought to be a major factor in the evolution of massive stars---especially
+  at low metallicity---with consequences for their chemical yields, ionizing flux,
+  and final fate. Deriving the birth spin distribution is of high priority given its
+  importance as a constraint on theories of massive star formation and as input for
+  models of stellar populations in the local universe and at high redshift. Recently,
+  it has become clear that the majority of massive stars interact with a binary companion
+  before they die. We investigate how this affects the distribution of rotation rates,
+  through stellar winds, expansion, tides, mass transfer, and mergers. For this purpose,
+  we simulate a massive binary-star population typical for our Galaxy assuming continuous
+  star formation. We find that, because of binary interaction, 20+5 -10\% of all massive
+  main-sequence stars have projected rotational velocities in excess of 200 km s-1.
+  We evaluate the effect of uncertain input distributions and physical processes and
+  conclude that the main uncertainties are the mass transfer efficiency and the possible
+  effect of magnetic braking, especially if magnetic fields are generated or amplified
+  during mass accretion and stellar mergers. The fraction of rapid rotators we derive
+  is similar to that observed. If indeed mass transfer and mergers are the main cause
+  for rapid rotation in massive stars, little room remains for rapidly rotating stars
+  that are born single. This implies that spin-down during star formation is even
+  more efficient than previously thought. In addition, this raises questions about
+  the interpretation of the surface abundances of rapidly rotating stars as evidence
+  for rotational mixing. Furthermore, our results allow for the possibility that all
+  early-type Be stars result from binary interactions and suggest that evidence for
+  rotation in explosions, such as long gamma-ray bursts, points to a binary origin.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764..166D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.3742
+author: de Mink, S. E. and Langer, N. and Izzard, R. G. and Sana, H. and de Koter,
+  A.
+author_list:
+- family: de Mink
+  given: S. E.
+- family: Langer
+  given: N.
+- family: Izzard
+  given: R. G.
+- family: Sana
+  given: H.
+- family: de Koter
+  given: A.
+date-added: 2017-08-10 14:19:54 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/2/166
+eid: '166'
+eprint: '1211.3742'
+journal: \apj
+keywords: 'binaries: close, binaries: spectroscopic, Galaxy: stellar content, stars:
+  early-type, stars: massive, stars: rotation'
+month: February
+pages: '166'
+papis_id: 9a59db6ee6c058c28838196f22cb6bc9
+primaryclass: astro-ph.SR
+ref: de_mink.s.2013
+title: 'The Rotation Rates of Massive Stars: The Role of Binary Interaction through
+  Tides, Mass Transfer, and Mergers'
+type: article
+volume: '764'
+year: '2013'

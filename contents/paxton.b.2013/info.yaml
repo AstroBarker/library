@@ -1,0 +1,72 @@
+abstract: We substantially update the capabilities of the open source software package
+  Modules for Experiments in Stellar Astrophysics (MESA), and its one-dimensional
+  stellar evolution module, MESA star. Improvements in MESA star's ability to model
+  the evolution of giant planets now extends its applicability down to masses as low
+  as one-tenth that of Jupiter. The dramatic improvement in asteroseismology enabled
+  by the space-based Kepler and CoRoT missions motivates our full coupling of the
+  ADIPLS adiabatic pulsation code with MESA star. This also motivates a numerical
+  recasting of the Ledoux criterion that is more easily implemented when many nuclei
+  are present at non-negligible abundances. This impacts the way in which MESA star
+  calculates semi-convective and thermohaline mixing. We exhibit the evolution of
+  3-8 M \&sun; stars through the end of core He burning, the onset of He thermal pulses,
+  and arrival on the white dwarf cooling sequence. We implement diffusion of angular
+  momentum and chemical abundances that enable calculations of rotating-star models,
+  which we compare thoroughly with earlier work. We introduce a new treatment of radiation-dominated
+  envelopes that allows the uninterrupted evolution of massive stars to core collapse.
+  This enables the generation of new sets of supernovae, long gamma-ray burst, and
+  pair-instability progenitor models. We substantially modify the way in which MESA
+  star solves the fully coupled stellar structure and composition equations, and we
+  show how this has improved the scaling of MESA's calculational speed on multi-core
+  processors. Updates to the modules for equation of state, opacity, nuclear reaction
+  rates, and atmospheric boundary conditions are also provided. We describe the MESA
+  Software Development Kit that packages all the required components needed to form
+  a unified, maintained, and well-validated build environment for MESA. We also highlight
+  a few tools developed by the community for rapid visualization of MESA star results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..208....4P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.0319
+author: Paxton, B. and Cantiello, M. and Arras, P. and Bildsten, L. and Brown, E.
+  F. and Dotter, A. and Mankovich, C. and Montgomery, M. H. and Stello, D. and Timmes,
+  F. X. and Townsend, R.
+author_list:
+- family: Paxton
+  given: B.
+- family: Cantiello
+  given: M.
+- family: Arras
+  given: P.
+- family: Bildsten
+  given: L.
+- family: Brown
+  given: E. F.
+- family: Dotter
+  given: A.
+- family: Mankovich
+  given: C.
+- family: Montgomery
+  given: M. H.
+- family: Stello
+  given: D.
+- family: Timmes
+  given: F. X.
+- family: Townsend
+  given: R.
+date-added: 2017-08-10 15:03:44 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0067-0049/208/1/4
+eid: '4'
+eprint: '1301.0319'
+journal: \apjs
+keywords: 'asteroseismology, methods: numerical, planets and satellites: physical
+  evolution, stars: evolution, stars: massive, stars: rotation'
+month: September
+pages: '4'
+papis_id: a31a6fa70f0542ef4f32d3311382169a
+primaryclass: astro-ph.SR
+ref: paxton.b.2013
+title: 'Modules for Experiments in Stellar Astrophysics (MESA): Planets, Oscillations,
+  Rotation, and Massive Stars'
+type: article
+volume: '208'
+year: '2013'

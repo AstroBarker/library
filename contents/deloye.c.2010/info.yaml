@@ -1,0 +1,39 @@
+abstract: We have developed a new method for calculating common envelope (CE) events
+  based on explicit consideration of the donor star's structural response to adiabatic
+  mass loss. In contrast to existing CE prescriptions, which specify a priori the
+  donor's remnant mass, we determine this quantity self-consistently and find that
+  it depends on binary and CE parameters. This aspect of our model is particularly
+  important to realistic modeling for upper main-sequence star donors without strongly
+  degenerate cores (and hence without a clear core/envelope boundary). We illustrate
+  the central features of our method by considering CE events involving 10 M sun donors
+  on or before their red giant branch. For such donors, the remnant core mass can
+  be as much as 30\% larger than the star's He-core mass. Applied across a population
+  of such binaries, our methodology results in a significantly broader remnant mass
+  and final orbital separation distribution and a 20\% increase in CE survival rates
+  as compared to previous prescriptions for the CE phase.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...719L..28D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.1036
+author: Deloye, C. J. and Taam, R. E.
+author_list:
+- family: Deloye
+  given: C. J.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 23:27:14 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/2041-8205/719/1/L28
+eprint: '1007.1036'
+journal: \apjl
+keywords: 'binaries: close, stars: evolution'
+month: August
+pages: L28-L31
+papis_id: a0d0631ccb498f298c4d92b69e42ad05
+primaryclass: astro-ph.SR
+ref: deloye.c.2010
+title: Adiabatic Mass Loss and the Outcome of the Common Envelope Phase of Binary
+  Evolution
+type: article
+volume: '719'
+year: '2010'

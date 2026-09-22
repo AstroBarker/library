@@ -1,0 +1,63 @@
+abstract: We report on a method, PUSH, for artificially triggering core-collapse supernova
+  explosions of massive stars in spherical symmetry. We explore basic explosion properties
+  and calibrate PUSH to reproduce SN 1987A observables. Our simulations are based
+  on the GR hydrodynamics code AGILE combined with the neutrino transport scheme isotropic
+  diffusion source approximation for electron neutrinos and advanced spectral leakage
+  for the heavy flavor neutrinos. To trigger explosions in the otherwise non-exploding
+  simulations, the PUSH method increases the energy deposition in the gain region
+  proportionally to the heavy flavor neutrino fluxes. We explore the progenitor range
+  18-21 {{M}}\&sun; . Our studies reveal a distinction between high compactness (HC;
+  compactness parameter {xi }1.75\gt 0.45) and low compactness (LC; {xi }1.75\lt 0.45)
+  progenitor models, where LC models tend to explode earlier, with a lower explosion
+  energy, and with a lower remnant mass. HC models are needed to obtain explosion
+  energies around 1 Bethe, as observed for SN 1987A. However, all the models with
+  sufficiently high explosion energy overproduce 56Ni and fallback is needed to reproduce
+  the observed nucleosynthesis yields. 57-58Ni yields depend sensitively on the electron
+  fraction and on the location of the mass cut with respect to the shell structure
+  of the progenitor. We identify a progenitor and a suitable set of parameters that
+  fit the explosion properties of SN 1987A assuming 0.1 {{M}}\&sun;  of fallback.
+  We predict a neutron star with a gravitational mass of 1.50 {{M}}\&sun; . We find
+  correlations between explosion properties and the compactness of the progenitor
+  model in the explored mass range. However, a more complete analysis will require
+  exploring of a larger set of progenitors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...806..275P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1501.02845
+author: Perego, A. and Hempel, M. and Fröhlich, C. and Ebinger, K. and Eichler, M.
+  and Casanova, J. and Liebendörfer, M. and Thielemann, F.-K.
+author_list:
+- family: Perego
+  given: A.
+- family: Hempel
+  given: M.
+- family: Fröhlich
+  given: C.
+- family: Ebinger
+  given: K.
+- family: Eichler
+  given: M.
+- family: Casanova
+  given: J.
+- family: Liebendörfer
+  given: M.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-10 14:09:39 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/806/2/275
+eid: '275'
+eprint: '1501.02845'
+journal: \apj
+keywords: 'hydrodynamics, stars: neutron, supernovae: general, supernovae: individual:
+  SN 1987'
+month: June
+pages: '275'
+papis_id: 383db6d1c57bed89fcfa84159115697f
+primaryclass: astro-ph.SR
+ref: perego.a.2015
+title: 'PUSHing Core-collapse Supernovae to Explosions in Spherical Symmetry I: the
+  Model and the Case of SN 1987A'
+type: article
+volume: '806'
+year: '2015'

@@ -1,0 +1,60 @@
+abstract: Modeling core-collapse supernova with neutrino transport in three dimensions
+  requires tremendous computing resources and some level of approximations. We present
+  a first comparison study of core-collapse supernovae in 3D with different physics
+  approximations and hydrodynamic codes. We aim to assess the impact of the hydrodynamic
+  code, approximations for the neutrino and gravity treatments and rotation, on the
+  simulation of core-collapse supernovae in 3D. We use four different hydrodynamic
+  codes in this work (ELEPHANT, FLASH, fGR1, and SPHYNX), jointly with two different
+  neutrino treatments (IDSA and M1) plus three different gravity treatments (Newtonian,
+  1D General Relativity correction, and full GR). Additional parameters discussed
+  in this study are the inclusion of neutrino-electron scattering via a parametrized
+  deleptonization and the influence of rotation. The four codes compared in this work
+  include Eulerian and fully Lagrangian (SPH) codes for first time. They show agreement
+  in the overall evolution of the collapse phase and early postbounce within the range
+  of 10\% (20\% in few cases). The comparison of the different neutrino treatments
+  highlights the need to further investigate the antineutrino luminosities in IDSA,
+  which tend to be rather high. We also pinpoint the need of including a more detailed
+  heavy-lepton neutrino leakage. When comparing with a full GR code, including an
+  M1 transport method, we confirmed the influence of neutrino-electron scattering
+  during the collapse phase, which is adequately captured by the parametrized deleptonization
+  scheme. Also the effective general relativistic potential reproduces the overall
+  dynamic evolution correctly in all Newtonian codes. Additionally, we could verify
+  that rotation aids to the shock expansion and were able to estimate the overall
+  angular momentum losses for each code in rotating scenarios.
+adscomment: 19 pages, 11 figures, 4 Tables. Submitted to AA
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180609184C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.09184
+author: Cabezón, R. M. and Pan, K.-C. and Liebendörfer, M. and Kuroda, T. and Ebinger,
+  K. and Heinimann, O. and Thielemann, F.-K. and Perego, A.
+author_list:
+- family: Cabezón
+  given: R. M.
+- family: Pan
+  given: K.-C.
+- family: Liebendörfer
+  given: M.
+- family: Kuroda
+  given: T.
+- family: Ebinger
+  given: K.
+- family: Heinimann
+  given: O.
+- family: Thielemann
+  given: F.-K.
+- family: Perego
+  given: A.
+date-added: 2018-06-26 16:49:45 +0000
+date-modified: 2018-06-26 16:49:47 +0000
+eprint: '1806.09184'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena
+month: June
+papis_id: 6b78c0764f2e70eb4a953f6e16465c4c
+primaryclass: astro-ph.HE
+ref: cabezon.r.2018
+title: Core-collapse supernovae in the hall of mirrors. A three-dimensional code-comparison
+  project
+type: article
+year: '2018'

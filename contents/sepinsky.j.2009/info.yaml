@@ -1,0 +1,46 @@
+abstract: We investigate the secular evolution of the orbital semimajor axis and eccentricity
+  due to mass transfer in eccentric binaries, allowing for both mass and angular momentum
+  loss from the system. Adopting a delta function mass transfer rate at the periastron
+  of the binary orbit, we find that, depending on the initial binary properties at
+  the onset of mass transfer, the orbital semimajor axis and eccentricity can either
+  increase or decrease at a rate linearly proportional to the magnitude of the mass
+  transfer rate at periastron. The range of initial binary mass ratios and eccentricities
+  that lead to increasing orbital semimajor axes and eccentricities broadens with
+  increasing degrees of mass loss from the system and narrows with increasing orbital
+  angular momentum loss from the binary. Comparison with tidal evolution timescales
+  shows that the usual assumption of rapid circularization at the onset of mass transfer
+  in eccentric binaries is not justified, irrespective of the degree of systemic mass
+  and angular momentum loss. This work extends our previous results for conservative
+  mass transfer in eccentric binaries and can be incorporated into binary evolution
+  and population synthesis codes to model non-conservative mass transfer in eccentric
+  binaries.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...702.1387S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0903.0621
+author: Sepinsky, J. F. and Willems, B. and Kalogera, V. and Rasio, F. A.
+author_list:
+- family: Sepinsky
+  given: J. F.
+- family: Willems
+  given: B.
+- family: Kalogera
+  given: V.
+- family: Rasio
+  given: F. A.
+date-added: 2017-08-10 16:08:04 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/702/2/1387
+eprint: '0903.0621'
+journal: \apj
+keywords: 'binaries: close, celestial mechanics, stars: mass loss'
+month: September
+pages: 1387--1392
+papis_id: 1b0025592f028696d8e69ba05516d486
+primaryclass: astro-ph.SR
+ref: sepinsky.j.2009
+title: Interacting Binaries with Eccentric Orbits. II. Secular Orbital Evolution due
+  to Non-conservative Mass Transfer
+type: article
+volume: '702'
+year: '2009'

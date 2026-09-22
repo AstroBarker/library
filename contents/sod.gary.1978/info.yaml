@@ -1,0 +1,25 @@
+abstract: The finite difference methods of Godunov, Hyman, Lax and Wendroff (two-step),
+  MacCormack, Rusanov, the upwind scheme, the hybrid scheme of Harten and Zwas, the
+  antidiffusion method of Boris and Book, the artificial compression method of Harten,
+  and Glimm's method, a random choice method, are discussed. The methods are used
+  to integrate the one-dimensional Eulerian form of the equations of gas dynamics
+  in Cartesian coordinates for an inviscid, nonheat-conducting fluid. The test problem
+  was a typical shock tube problem. The results are compared and demonstrate that
+  Glimm's method has several advantages.
+author: Sod, Gary A
+author_list:
+- family: Sod
+  given: Gary A
+doi: https://doi.org/10.1016/0021-9991(78)90023-2
+issn: 0021-9991
+journal: Journal of Computational Physics
+number: '1'
+pages: 1--31
+papis_id: 7018b92f5badce8fdf016432ebf7f19c
+ref: sod.gary.1978
+title: A survey of several finite difference methods for systems of nonlinear hyperbolic
+  conservation laws
+type: article
+url: http://www.sciencedirect.com/science/article/pii/0021999178900232
+volume: '27'
+year: '1978'

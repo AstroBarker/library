@@ -1,0 +1,37 @@
+abstract: We present numerical simulations of convective overshoot in a two-dimensional
+  model of the solar equatorial plane. The model equations are solved in the anelastic
+  approximation with enhanced thermal conductivity and viscosity for numerical stability.
+  The simulated domain extends from 0.001 to 0.93 Rsolar, spanning both convective
+  and radiative regions. We show that convective penetration leads to a slightly extended,
+  mildly subadiabatic temperature gradient beneath the convection zone, spanning approximately
+  0.05Hp, below which there is a rapid transition to a strongly subadiabatic region.
+  A slightly higher temperature is maintained in the overshoot region by adiabatic
+  heating from overshooting plumes. This enhanced temperature may partially account
+  for the sound speed discrepancy between the standard solar model and helioseismology.
+  Simulations conducted with tracer particles suggest that a fully mixed region exists
+  down to at least 0.684 Rsolar.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...653..765R
+arxivurl: http://arxiv.org/abs/astro-ph/0601668
+author: Rogers, T. M. and Glatzmaier, G. A. and Jones, C. A.
+author_list:
+- family: Rogers
+  given: T. M.
+- family: Glatzmaier
+  given: G. A.
+- family: Jones
+  given: C. A.
+date-added: 2017-08-10 15:17:57 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/508482
+eprint: astro-ph/0601668
+journal: \apj
+keywords: 'Convection, Sun: Interior'
+month: December
+pages: 765--773
+papis_id: 62728713ac1fccedfad24013bbaf3c0f
+ref: rogers.t.2006
+title: Numerical Simulations of Penetration and Overshoot in the Sun
+type: article
+volume: '653'
+year: '2006'

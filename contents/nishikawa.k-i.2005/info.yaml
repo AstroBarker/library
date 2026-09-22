@@ -1,0 +1,52 @@
+abstract: We have performed a fully three-dimensional general relativistic magnetohydrodynamic
+  (GRMHD) simulation of jet formation from a thin accretion disk around a Schwarzschild
+  black hole with a free-falling corona. The initial simulation results show that
+  a bipolar jet (velocity ~0.3c) is created, as shown by previous two-dimensional
+  axisymmetric simulations with mirror symmetry at the equator. The three-dimensional
+  simulation ran over 100 light crossing time units (tauS=rS/c, where rS\equiv{}2GM/c2),
+  which is considerably longer than the previous simulations. We show that the jet
+  is initially formed as predicted owing in part to magnetic pressure from the twisting
+  of the initially uniform magnetic field and from gas pressure associated with shock
+  formation in the region around r=3rS. At later times, the accretion disk becomes
+  thick and the jet fades resulting in a wind that is ejected from the surface of
+  the thickened (torus-like) disk. It should be noted that no streaming matter from
+  a donor is included at the outer boundary in the simulation (an isolated black hole
+  not binary black hole). The wind flows outward with a wider angle than the initial
+  jet. The widening of the jet is consistent with the outward-moving torsional Alfv{\'e}n
+  waves. This evolution of disk-jet coupling suggests that the jet fades with a thickened
+  accretion disk because of the lack of streaming material from an accompanying star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...625...60N
+arxivurl: http://arxiv.org/abs/astro-ph/0403032
+author: Nishikawa, K.-I. and Richardson, G. and Koide, S. and Shibata, K. and Kudoh,
+  T. and Hardee, P. and Fishman, G. J.
+author_list:
+- family: Nishikawa
+  given: K.-I.
+- family: Richardson
+  given: G.
+- family: Koide
+  given: S.
+- family: Shibata
+  given: K.
+- family: Kudoh
+  given: T.
+- family: Hardee
+  given: P.
+- family: Fishman
+  given: G. J.
+date-added: 2017-08-11 05:30:07 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/429360
+eprint: astro-ph/0403032
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Active, Galaxies:
+  Jets, Magnetohydrodynamics: MHD'
+month: May
+pages: 60--71
+papis_id: ddf5c14b7b327cc75efe4c008d59f9a5
+ref: nishikawa.k_i.2005
+title: A General Relativistic Magnetohydrodynamic Simulation of Jet Formation
+type: article
+volume: '625'
+year: '2005'

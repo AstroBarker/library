@@ -1,0 +1,43 @@
+abstract: 'Recent observations suggest that some supernovae may be the result of an
+  explosion into an optically thick circumstellar material, the product of pre-explosion
+  mass loss (wind) by the progenitor star. This scenario has been studied previously
+  both analytically and numerically. However, many previous studies base their analysis
+  on the diffusion approximation for radiation transfer, which is inappropriate in
+  the optically thin outer layers of the wind. Here we study the deviations from diffusion
+  and calculate light curves more accurately using a Monte Carlo approach to photon
+  transfer. We distinguish between "compact" winds, for which the diffusion approximation
+  is appropriate, and "extended" winds, which require a more delicate treatment of
+  the radiation. We show that this effect is more significant than that of the light-travel
+  time difference to a distant observer, which has a secondary influence on the light
+  curves of extended-wind systems. We also comment on the applicability of the widely
+  used flux-limited diffusion approximation in this context: we find that it generally
+  does not reproduce the Monte Carlo results. The flux-limited diffusion approximation
+  leads to results that are not only quantitatively but also qualitatively wrong in
+  the extended-wind regime.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...780...18G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.6434
+author: Ginzburg, S. and Balberg, S.
+author_list:
+- family: Ginzburg
+  given: S.
+- family: Balberg
+  given: S.
+date-added: 2017-08-10 16:04:32 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/780/1/18
+eid: '18'
+eprint: '1308.6434'
+journal: \apj
+keywords: 'circumstellar matter, radiative transfer, shock waves, stars: mass-loss,
+  supernovae: general'
+month: January
+pages: '18'
+papis_id: 2559807551a35fc9afd34d5abb465f8b
+primaryclass: astro-ph.HE
+ref: ginzburg.s.2014
+title: Light Curves from Supernova Shock Breakout through an Extended Wind
+type: article
+volume: '780'
+year: '2014'

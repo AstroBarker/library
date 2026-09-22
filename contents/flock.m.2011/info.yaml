@@ -1,0 +1,55 @@
+abstract: We present full 2pi global three-dimensional stratified magnetohydrodynamic
+  (MHD) simulations of accretion disks. We interpret our results in the context of
+  protoplanetary disks. We investigate the turbulence driven by the magnetorotational
+  instability (MRI) using the PLUTO Godunov code in spherical coordinates with the
+  accurate and robust HLLD Riemann solver. We follow the turbulence for more than
+  1500 orbits at the innermost radius of the domain to measure the overall strength
+  of turbulent motions and the detailed accretion flow pattern. We find that regions
+  within two scale heights of the midplane have a turbulent Mach number of about 0.1
+  and a magnetic pressure two to three orders of magnitude less than the gas pressure,
+  while in those outside three scale heights the magnetic pressure equals or exceeds
+  the gas pressure and the turbulence is transonic, leading to large density fluctuations.
+  The strongest large-scale density disturbances are spiral density waves, and the
+  strongest of these waves has m = 5. No clear meridional circulation appears in the
+  calculations because fluctuating radial pressure gradients lead to changes in the
+  orbital frequency, comparable in importance to the stress gradients that drive the
+  meridional flows in viscous models. The net mass flow rate is well reproduced by
+  a viscous model using the mean stress distribution taken from the MHD calculation.
+  The strength of the mean turbulent magnetic field is inversely proportional to the
+  radius, so the fields are approximately force-free on the largest scales. Consequently,
+  the accretion stress falls off as the inverse square of the radius.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...735..122F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.4565
+author: Flock, M. and Dzyurkevich, N. and Klahr, H. and Turner, N. J. and Henning,
+  T.
+author_list:
+- family: Flock
+  given: M.
+- family: Dzyurkevich
+  given: N.
+- family: Klahr
+  given: H.
+- family: Turner
+  given: N. J.
+- family: Henning
+  given: T.
+date-added: 2017-08-10 14:50:52 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/735/2/122
+eid: '122'
+eprint: '1104.4565'
+journal: \apj
+keywords: 'accretion, accretion disks, magnetic fields, magnetic reconnection, magnetohydrodynamics:
+  MHD, protoplanetary disks'
+month: July
+pages: '122'
+papis_id: 9b6b2a2afb67c19a71baaf9f121b0e01
+primaryclass: astro-ph.EP
+ref: flock.m.2011
+title: Turbulence and Steady Flows in Three-dimensional Global Stratified Magnetohydrodynamic
+  Simulations of Accretion Disks
+type: article
+volume: '735'
+year: '2011'

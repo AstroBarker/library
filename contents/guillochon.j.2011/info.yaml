@@ -1,0 +1,51 @@
+abstract: The discovery of Jupiter-mass planets in close orbits about their parent
+  stars has challenged models of planet formation. Recent observations have shown
+  that a number of these planets have highly inclined, sometimes retrograde orbits
+  about their parent stars, prompting much speculation as to their origin. It is known
+  that migration alone cannot account for the observed population of these misaligned
+  hot Jupiters, which suggests that dynamical processes after the gas disk dissipates
+  play a substantial role in yielding the observed inclination and eccentricity distributions.
+  One particularly promising candidate is planet-planet scattering, which is not very
+  well understood in the nonlinear regime of tides. Through three-dimensional hydrodynamical
+  simulations of multi-orbit encounters, we show that planets that are scattered into
+  an orbit about their parent stars with closest approach distance being less than
+  approximately three times the tidal radius are either destroyed or completely ejected
+  from the system. We find that as few as 9 and as many as 12 of the currently known
+  hot Jupiters have a maximum initial apastron for scattering that lies well within
+  the ice line, implying that these planets must have migrated either before or after
+  the scattering event that brought them to their current positions. If stellar tides
+  are unimportant (Q \textasteriskcentered >~ 107), disk migration is required to
+  explain the existence of the hot Jupiters present in these systems. Additionally,
+  we find that the disruption and/or ejection of Jupiter-mass planets deposits a Sun's
+  worth of angular momentum onto the host star. For systems in which planet-planet
+  scattering is common, we predict that planetary hosts have up to a 35\% chance of
+  possessing an obliquity relative to the invariable plane of greater than 90$\,^{\circ}$.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...732...74G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.2382
+author: Guillochon, J. and Ramirez-Ruiz, E. and Lin, D.
+author_list:
+- family: Guillochon
+  given: J.
+- family: Ramirez-Ruiz
+  given: E.
+- family: Lin
+  given: D.
+date-added: 2017-08-11 02:05:10 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/732/2/74
+eid: '74'
+eprint: '1012.2382'
+journal: \apj
+keywords: 'chaos, gravitation, hydrodynamics, planet-star interactions, stars: rotation,
+  ultraviolet: planetary systems'
+month: May
+pages: '74'
+papis_id: 83b628c40224e488dfbdbfecd46f66a2
+primaryclass: astro-ph.EP
+ref: guillochon.j.2011
+title: Consequences of the Ejection and Disruption of Giant Planets
+type: article
+volume: '732'
+year: '2011'

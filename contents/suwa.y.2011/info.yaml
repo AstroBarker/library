@@ -1,0 +1,51 @@
+abstract: By performing a series of one- and two-dimensional (1D and 2D) hydrodynamic
+  simulations with spectral neutrino transport, we study possible impacts of collective
+  neutrino oscillations on the dynamics of core-collapse supernovae. To model the
+  spectral swapping, which is one of the possible outcome of the collective neutrino
+  oscillations, we parameterize the onset time when the spectral swap begins, the
+  radius where the spectral swap occurs, and the threshold energy above which the
+  spectral interchange between heavy-lepton neutrinos and electron/anti-electron neutrinos
+  takes place. By doing so, we systematically study how the neutrino heating enhanced
+  by the spectral swapping could affect the shock evolution as well as the matter
+  ejection. We also investigate the progenitor dependence using a suite of progenitor
+  models (13, 15, 20, and 25 M sun). We find that there is a critical heating rate
+  induced by the spectral swapping that triggers explosions, and which significantly
+  differs between the progenitors. The critical heating rate is generally smaller
+  for 2D than for 1D due to the multidimensionality that enhances the neutrino heating
+  efficiency. For the progenitors employed in this paper, the final remnant masses
+  are estimated to range between 1.1-1.5 M sun. For our 2D model of the 15 M sun progenitor,
+  we find a set of oscillation parameters that could account for strong supernova
+  explosions (~1051 erg), simultaneously leaving behind a remnant mass close to ~1.4
+  M sun.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738..165S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.5487
+author: Suwa, Y. and Kotake, K. and Takiwaki, T. and Liebendörfer, M. and Sato, K.
+author_list:
+- family: Suwa
+  given: Y.
+- family: Kotake
+  given: K.
+- family: Takiwaki
+  given: T.
+- family: Liebendörfer
+  given: M.
+- family: Sato
+  given: K.
+date-added: 2017-08-10 14:42:27 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/2/165
+eid: '165'
+eprint: '1106.5487'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, radiative transfer, supernovae: general'
+month: September
+pages: '165'
+papis_id: 27814dc3cfd00cfe1deac1c38090d59f
+primaryclass: astro-ph.HE
+ref: suwa.y.2011
+title: Impacts of Collective Neutrino Oscillations on Core-collapse Supernova Explosions
+type: article
+volume: '738'
+year: '2011'

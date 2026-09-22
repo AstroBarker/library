@@ -1,0 +1,40 @@
+abstract: The discovery of rapidly rising and fading supernovae powered by circumstellar
+  interaction has suggested the pre-supernova mass eruption phase as a critical phenomenon
+  in massive star evolution. It is important to understand the mass and radial extent
+  of the circumstellar medium (CSM) from theoretically predicted mass ejection mechanisms.
+  In this work, we study the wave heating process in massive hydrogen-poor stars,
+  running a suite of stellar models in order to predict the wave energy and pre-explosion
+  time scale of surface energy deposition. We survey stellar models with main sequence
+  progenitor masses from 20--70 $M_{\odot}$ and metallicity from 0.002 to 0.02. Most
+  of these models predict that less than \$\sim \! 10^{47} \, {\rm erg}\$ is deposited
+  in the envelope, with the majority of the energy deposited in the last week of stellar
+  evolution. This translates to CSM masses less than \$\sim \! 10^{-2} \, M\_\odot\$
+  that extend to less than \$\sim \! 10^{14} \, {\rm cm}\$, too small to greatly impact
+  the light curves or spectra of the subsequent supernovae, except perhaps during
+  the shock breakout phase. However, a few models predict somewhat higher wave energy
+  fluxes, for which we perform hydrodynamical simulations of the mass ejection process.
+  Radiative transfer simulations of the subsequent supernovae predict a bright but
+  brief shock-cooling phase that could be detected in some type Ib/c supernovae if
+  they are discovered within a couple days of explosion.
+archiveprefix: arXiv
+author: Leung, Shing-Chi and Wu, Samantha and Fuller, Jim
+author_list:
+- family: Leung
+  given: Shing-Chi
+- family: Wu
+  given: Samantha
+- family: Fuller
+  given: Jim
+eprint: '2110.01565'
+file: :leung\_2021 - Wave Driven Mass Loss of Stripped Envelope Massive Stars\_ Progenitor
+  Dependence, Mass Ejection, and Supernovae.pdf:PDF
+groups: Progenitor
+keywords: astro-ph.SR, astro-ph.HE
+month: October
+papis_id: 5f3d82df14877cac207dae501d4d118d
+primaryclass: astro-ph.SR
+ref: leung.shing_chi.2021
+title: 'Wave-driven mass loss of stripped envelope massive stars: progenitor-dependence,
+  mass ejection, and supernovae'
+type: article
+year: '2021'

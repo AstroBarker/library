@@ -1,0 +1,83 @@
+abstract: We present a set of 11 Type Ia supernova (SN Ia) light curves with dense,
+  premaximum sampling. These supernovae (SNe), in galaxies behind the Large Magellanic
+  Cloud (LMC), were discovered by the SuperMACHO survey. The SNe span a redshift range
+  of z=0.11-0.35. Our light curves contain some of the earliest premaximum observations
+  of SNe Ia to date. We also give a functional model that describes the SN Ia light-curve
+  shape (in our VR band). Our function uses the ``expanding fireball'' model of Goldhaber
+  et al. to describe the rising light curve immediately after explosion but constrains
+  it to smoothly join the remainder of the light curve. We fit this model to a composite
+  observed VR-band light curve of three SNe between redshifts of 0.135 and 0.165.
+  These SNe have not been K-corrected or adjusted to account for reddening. In this
+  redshift range, the observed VR band most closely matches the rest-frame V band.
+  Using the best fit to our functional description of the light curve, we find the
+  time between explosion and observed VR-band maximum to be 17.6+/-1.3(stat)+/-0.07(sys)
+  rest-frame days for a SN Ia with a VR-band Deltam-10 of 0.52 mag. For the redshifts
+  sampled, the observed VR-band time of maximum brightness should be the same as the
+  rest-frame V-band maximum to within 1.1 rest-frame days.  This paper includes data
+  gathered with the 6.5 m Magellan telescopes located at Las Campanas Observatory,
+  Chile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007AJ....133..403G
+arxivurl: http://arxiv.org/abs/astro-ph/0608639
+author: Garg, A. and Stubbs, C. W. and Challis, P. and Wood-Vasey, W. M. and Blondin,
+  S. and Huber, M. E. and Cook, K. and Nikolaev, S. and Rest, A. and Smith, R. C.
+  and Olsen, K. and Suntzeff, N. B. and Aguilera, C. and Prieto, J. L. and Becker,
+  A. and Miceli, A. and Miknaitis, G. and Clocchiatti, A. and Minniti, D. and Morelli,
+  L. and Welch, D. L.
+author_list:
+- family: Garg
+  given: A.
+- family: Stubbs
+  given: C. W.
+- family: Challis
+  given: P.
+- family: Wood-Vasey
+  given: W. M.
+- family: Blondin
+  given: S.
+- family: Huber
+  given: M. E.
+- family: Cook
+  given: K.
+- family: Nikolaev
+  given: S.
+- family: Rest
+  given: A.
+- family: Smith
+  given: R. C.
+- family: Olsen
+  given: K.
+- family: Suntzeff
+  given: N. B.
+- family: Aguilera
+  given: C.
+- family: Prieto
+  given: J. L.
+- family: Becker
+  given: A.
+- family: Miceli
+  given: A.
+- family: Miknaitis
+  given: G.
+- family: Clocchiatti
+  given: A.
+- family: Minniti
+  given: D.
+- family: Morelli
+  given: L.
+- family: Welch
+  given: D. L.
+date-added: 2017-08-10 17:15:01 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510118
+eprint: astro-ph/0608639
+journal: \aj
+keywords: 'Magellanic Clouds, supernovae: general, surveys'
+month: February
+pages: 403--419
+papis_id: 6684c3ae8155c25cfda48af8c25770f3
+ref: garg.a.2007
+title: Light Curves of Type Ia Supernovae from Near the Time of Explosion
+type: article
+volume: '133'
+year: '2007'

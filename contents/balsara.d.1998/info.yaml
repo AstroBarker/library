@@ -1,0 +1,38 @@
+abstract: In this paper a total variation diminishing (TVD) scheme is constructed
+  for solving the equations of ideal adiabatic and isothermal MHD. It is based on
+  an extremely efficient formulation of the MHD Riemann problems for either case.
+  Piecewise linear interpolation is applied to the characteristic variables along
+  with steepening of linearly degenerate characteristic fields. A predictor-corrector
+  formulation is used to achieve second-order-accurate temporal update. An artificial
+  viscosity and hyperviscosity are formulated using the characteristic variables.
+  The viscosity and hyperviscosity are designed so that they never damage the TVD
+  property. An accurate formulation of the divergence cleaning step is presented.
+  This formulation is more accurate than the one that has been used so far. The scheme
+  designed is second-order accurate in space and time. It has been implemented in
+  the author's RIEMANN code for numerical MHD. A variety of test problems are presented.
+  They test all aspects of numerical MHD including (1) handling of exotic wave structures
+  that occur in MHD, (2) treatment of multiple discontinuities, (3) handling of very
+  strong shocks, and (4) multidimensional problems. The scheme displays robust and
+  accurate behavior in each case. An extremely efficient implementation has been achieved
+  for massively parallel processor (MPP) machines displaying the ability of this scheme
+  to sustain scalable, load-balanced performance in MPP environments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJS..116..133B
+author: Balsara, D. S.
+author_list:
+- family: Balsara
+  given: D. S.
+date-added: 2017-08-10 21:03:07 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/313093
+journal: \apjs
+keywords: 'MAGNETOHYDRODYNAMICS: MHD, METHODS: NUMERICAL, Methods: Numerical, Magnetohydrodynamics:
+  MHD'
+month: May
+pages: 133--153
+papis_id: d81ca0e0d9224c38670658fd9e42ce19
+ref: balsara.d.1998
+title: Total Variation Diminishing Scheme for Adiabatic and Isothermal Magnetohydrodynamics
+type: article
+volume: '116'
+year: '1998'

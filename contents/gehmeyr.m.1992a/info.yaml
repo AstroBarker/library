@@ -1,0 +1,33 @@
+abstract: An adaptive-grid algorithm is employed to obtain full-amplitude oscillations
+  of a radiative and a convective RR Lyrae model that sits near the red edge. It is
+  shown that this numerical technique is superior to the traditional one in that it
+  is capable of computing smooth radial velocity and light curves. This success is
+  achieved because the adaptive grid is able to detect the ionization zones and to
+  track them during the pulsation cycles. A phenomenological model for turbulent-convective
+  energy transport is employed. The pulsations of the RR Lyrae are computed for the
+  radiative and the convective case. The convective and the radiative simulations
+  are discussed for both the hydrostatic and the full-amplitude models. It is demonstrated
+  that the phenomenon of convective overshooting leads to a secondary maximum on the
+  branch of rising light right after the instant of minimum radius. This feature is
+  shown to be a true signature of the hydrogen convection zone.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...399..272G
+author: Gehmeyr, M.
+author_list:
+- family: Gehmeyr
+  given: M.
+date-added: 2017-08-10 18:32:19 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171922
+journal: \apj
+keywords: 'CONVECTION, STARS: INTERIORS, STARS: OSCILLATIONS, STARS: VARIABLES: OTHER
+  RR LYRAE'
+month: November
+pages: '272'
+papis_id: 03892fecabd15312dadeb1780d8e9b73
+ref: gehmeyr.m.1992a
+title: On Nonlinear Radial Oscillations in Convective RR Lyrae Stars. II. Comparison
+  of a Radiative and a Convective Model
+type: article
+volume: '399'
+year: '1992'

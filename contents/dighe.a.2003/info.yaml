@@ -1,0 +1,43 @@
+abstract: IceCube, a future km3 antarctic ice Cherenkov neutrino telescope, is highly
+  sensitive to a galactic supernova (SN) neutrino burst. The Cherenkov light corresponding
+  to the total energy deposited by the SN neutrinos in the ice can be measured relative
+  to background fluctuations with a statistical precision much better than 1\%. If
+  the SN is viewed through the Earth, the matter effect on neutrino oscillations can
+  change the signal by more than 5\%, depending on the flavour-dependent source spectra
+  and the neutrino mixing parameters. Therefore, IceCube together with another high-statistics
+  experiment like Hyper-Kamiokande can detect the Earth effect, an observation that
+  would identify specific neutrino mixing scenarios that are difficult to pin down
+  with long-baseline experiments. In particular, the normal mass hierarchy can be
+  clearly detected if the third mixing angle is not too small, sin2theta13gtrsim10-3.
+  The small flavour-dependent differences of the SN neutrino fluxes and spectra that
+  are found in state-of-the-art simulations suffice for this purpose. Although the
+  absolute calibration uncertainty at IceCube may exceed 5\%, the Earth effect would
+  typically vary by a large amount over the duration of the SN signal, obviating the
+  need for a precise calibration. Therefore, IceCube with its unique geographic location
+  and expected longevity can play a decisive role as a `co-detector' to measure SN
+  neutrino oscillations. It is also a powerful stand-alone SN detector that can verify
+  the delayed-explosion scenario.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003JCAP...06..005D
+author: Dighe, A. S. and Keil, M. T. and Raffelt, G. G.
+author_list:
+- family: Dighe
+  given: A. S.
+- family: Keil
+  given: M. T.
+- family: Raffelt
+  given: G. G.
+date-added: 2017-08-11 04:46:05 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1088/1475-7516/2003/06/005
+eid: '005'
+eprint: hep-ph/0303210
+journal: \jcap
+month: June
+pages: '005'
+papis_id: 08f5275440c929d91e74516d1579d5c3
+ref: dighe.a.2003
+title: Detecting the neutrino mass hierarchy with a supernova at IceCube
+type: article
+volume: '6'
+year: '2003'

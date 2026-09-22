@@ -1,0 +1,102 @@
+abstract: We present ugriz light curves for 146 spectroscopically-confirmed or spectroscopically-probable
+  Type Ia supernovae (SNe) from the 2005 season of the Sloan Digital Sky Survey-II
+  Supernova (SN) survey. The light curves have been constructed using a photometric
+  technique that we call scene modeling, which is described in detail here; the major
+  feature is that SN brightnesses are extracted from a stack of images without spatial
+  resampling or convolution of the image data. This procedure produces accurate photometry
+  along with accurate estimates of the statistical uncertainty, and can be used to
+  derive photometry taken with multiple telescopes. We discuss various tests of this
+  technique that demonstrate its capabilities. We also describe the methodology used
+  for the calibration of the photometry, and present calibrated magnitudes and fluxes
+  for all of the spectroscopic SNe Ia from the 2005 season.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....136.2306H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.4277
+author: Holtzman, J. A. and Marriner, J. and Kessler, R. and Sako, M. and Dilday,
+  B. and Frieman, J. A. and Schneider, D. P. and Bassett, B. and Becker, A. and Cinabro,
+  D. and DeJongh, F. and Depoy, D. L. and Doi, M. and Garnavich, P. M. and Hogan,
+  C. J. and Jha, S. and Konishi, K. and Lampeitl, H. and Marshall, J. L. and McGinnis,
+  D. and Miknaitis, G. and Nichol, R. C. and Prieto, J. L. and Riess, A. G. and Richmond,
+  M. W. and Romani, R. and Smith, M. and Takanashi, N. and Tokita, K. and van der
+  Heyden, K. and Yasuda, N. and Zheng, C.
+author_list:
+- family: Holtzman
+  given: J. A.
+- family: Marriner
+  given: J.
+- family: Kessler
+  given: R.
+- family: Sako
+  given: M.
+- family: Dilday
+  given: B.
+- family: Frieman
+  given: J. A.
+- family: Schneider
+  given: D. P.
+- family: Bassett
+  given: B.
+- family: Becker
+  given: A.
+- family: Cinabro
+  given: D.
+- family: DeJongh
+  given: F.
+- family: Depoy
+  given: D. L.
+- family: Doi
+  given: M.
+- family: Garnavich
+  given: P. M.
+- family: Hogan
+  given: C. J.
+- family: Jha
+  given: S.
+- family: Konishi
+  given: K.
+- family: Lampeitl
+  given: H.
+- family: Marshall
+  given: J. L.
+- family: McGinnis
+  given: D.
+- family: Miknaitis
+  given: G.
+- family: Nichol
+  given: R. C.
+- family: Prieto
+  given: J. L.
+- family: Riess
+  given: A. G.
+- family: Richmond
+  given: M. W.
+- family: Romani
+  given: R.
+- family: Smith
+  given: M.
+- family: Takanashi
+  given: N.
+- family: Tokita
+  given: K.
+- family: van der Heyden
+  given: K.
+- family: Yasuda
+  given: N.
+- family: Zheng
+  given: C.
+date-added: 2017-08-10 21:10:57 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1088/0004-6256/136/6/2306
+eprint: '0908.4277'
+journal: \aj
+keywords: 'supernovae: general, techniques: photometric'
+month: December
+pages: 2306--2320
+papis_id: be754406a8499a28a7945759bebc2813
+ref: holtzman.j.2008
+title: 'The Sloan Digital Sky Survey-II: Photometry and Supernova IA Light Curves
+  from the 2005 Data'
+type: article
+volume: '136'
+year: '2008'

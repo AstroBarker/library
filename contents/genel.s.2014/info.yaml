@@ -1,0 +1,62 @@
+abstract: We present an overview of galaxy evolution across cosmic time in the Illustris
+  simulation. Illustris is an N-body/hydrodynamical simulation that evolves 2 \texttimes{}
+  18203 resolution elements in a (106.5 Mpc)3 box from cosmological initial conditions
+  down to z = 0 using the AREPO moving-mesh code. The simulation uses a state-of-the-art
+  set of physical models for galaxy formation that was tuned to reproduce the z =
+  0 stellar mass function and the history of the cosmic star formation rate density.
+  We find that Illustris successfully reproduces a plethora of observations of galaxy
+  populations at various redshifts, for which no tuning was performed, and provide
+  predictions for future observations. In particular, we discuss (a) the buildup of
+  galactic mass, showing stellar mass functions and the relations between stellar
+  mass and halo mass from z = 7 to 0, (b) galaxy number density profiles around massive
+  central galaxies out to z = 4, (c) the gas and total baryon content of both galaxies
+  and their haloes for different redshifts, and as a function of mass and radius,
+  and (d) the evolution of galaxy specific star formation rates up to z = 8. In addition,
+  we (i) present a qualitative analysis of galaxy morphologies from z = 5 to 0, for
+  the stellar as well as the gaseous components, and their appearance in Hubble Space
+  Telescope mock observations, (ii) follow galaxies selected at z = 2 to their z =
+  0 descendants, and quantify their growth and merger histories, and (iii) track massive
+  z = 0 galaxies to high redshift and study their joint evolution in star formation
+  activity and compactness. We conclude with a discussion of several disagreements
+  with observations, and lay out possible directions for future research.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.445..175G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1405.3749
+author: Genel, S. and Vogelsberger, M. and Springel, V. and Sijacki, D. and Nelson,
+  D. and Snyder, G. and Rodriguez-Gomez, V. and Torrey, P. and Hernquist, L.
+author_list:
+- family: Genel
+  given: S.
+- family: Vogelsberger
+  given: M.
+- family: Springel
+  given: V.
+- family: Sijacki
+  given: D.
+- family: Nelson
+  given: D.
+- family: Snyder
+  given: G.
+- family: Rodriguez-Gomez
+  given: V.
+- family: Torrey
+  given: P.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:27:23 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu1654
+eprint: '1405.3749'
+journal: \mnras
+keywords: 'hydrodynamics, methods: numerical, galaxies: evolution, galaxies: formation,
+  galaxies: high-redshift, cosmology: theory'
+month: November
+pages: 175--200
+papis_id: 0ce9a6574daf3c1c1a9237f338edc03a
+ref: genel.s.2014
+title: 'Introducing the Illustris project: the evolution of galaxy populations across
+  cosmic time'
+type: article
+volume: '445'
+year: '2014'

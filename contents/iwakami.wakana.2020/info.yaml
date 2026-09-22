@@ -1,0 +1,53 @@
+abstract: We report on the core-collapse supernova simulation we conducted for a 11.2
+  M progenitor model in three-dimensional space up to 20 ms after bounce, using a
+  radiation hydrodynamics code with full Boltzmann neutrino transport. We solve the
+  six-dimensional Boltzmann equations for three neutrino species and the three-dimensional
+  compressible Euler equations with Furusawa and Togashi's nuclear equation of state.
+  We focus on the prompt convection at 10 ms after bounce and investigate how neutrinos
+  are transported in the convective matter. We apply a new analysis based on the eigenvalues
+  and eigenvectors of the Eddington tensor and make a comparison between the Boltzmann
+  transport results and the M1 closure approximation in the transition regime between
+  the optically thick and thin limits. We visualize the eigenvalues and eigenvectors
+  using an ellipsoid, in which each principal axis is parallel to one of the eigenvectors
+  and has a length proportional to the corresponding eigenvalue. This approach enables
+  us to understand the difference between the Eddington tensor derived directly from
+  the Boltzmann simulation and the one given by the M1 prescription from a new perspective.
+  We find that the longest principal axis of the ellipsoid is almost always nearly
+  parallel to the energy flux in the M1 closure approximation whereas in the Boltzmann
+  simulation it becomes perpendicular in some transition regions, where the mean free
+  path is 0.1 times the radius. In three spatial dimensions, the convective motions
+  make it difficult to predict where this happens and to possibly improve the closure
+  relation there.
+archiveprefix: arXiv
+author: Iwakami, Wakana and Okawa, Hirotada and Nagakura, Hiroki and Harada, Akira
+  and Furusawa, Shun and Sumiyoshi, Kosuke and Matsufuru, Hideo and Yamada, Shoichi
+author_list:
+- family: Iwakami
+  given: Wakana
+- family: Okawa
+  given: Hirotada
+- family: Nagakura
+  given: Hiroki
+- family: Harada
+  given: Akira
+- family: Furusawa
+  given: Shun
+- family: Sumiyoshi
+  given: Kosuke
+- family: Matsufuru
+  given: Hideo
+- family: Yamada
+  given: Shoichi
+doi: 10.3847/1538-4357/abb8cf
+eprint: '2004.02091'
+file: :Iwakami2020 - Simulations of the Early Post Bounce Phase of Core Collapse Supernovae
+  in Three Dimensional Space with Full Boltzmann Neutrino Transport.pdf:PDF
+keywords: astro-ph.HE
+month: April
+papis_id: 3bf8a73a24d1ca81785d2fca910b6b23
+primaryclass: astro-ph.HE
+ref: iwakami.wakana.2020
+title: Simulations of the Early Post-Bounce Phase of Core-Collapse Supernovae in Three-Dimensional
+  Space with Full Boltzmann Neutrino Transport
+type: article
+year: '2020'

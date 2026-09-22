@@ -1,0 +1,55 @@
+abstract: We report the results of new SPH calculations of parabolic collisions between
+  a subgiant or slightly evolved red giant star and a neutron star (NS). Such collisions
+  are likely to provide the dominant formation mechanism for ultracompact X-ray binaries
+  (UCXBs) observed today in old globular clusters. In particular, we compute collisions
+  of a 1.4 Msolar NS with realistically modeled parent stars of initial masses 0.8
+  and 0.9 Msolar, each at three different evolutionary stages (corresponding to three
+  different core masses mc and radii R). The distance of closest approach for the
+  initial orbit varies from rp=0.04R (nearly head-on) to 1.3R (grazing). These collisions
+  lead to the formation of a tight binary, composed of the NS and the subgiant or
+  red giant core, embedded in an extremely diffuse common envelope (CE) typically
+  of mass ~0.1-0.3 Msolar. Our calculations follow the binary for many hundreds of
+  orbits, ensuring that the orbital parameters we determine at the end of the calculations
+  are close to final. Some of the fluid initially in the giant's envelope, from 0.003
+  to 0.023 Msolar in the cases we considered, is left bound to the NS. The eccentricities
+  of the resulting binaries range from about 0.2 for our most grazing collision to
+  about 0.9 for the nearly head-on cases. In almost all the cases we consider, gravitational
+  radiation alone will cause sufficiently fast orbital decay to form a UCXB within
+  a Hubble time, and often on a much shorter timescale. Our hydrodynamics code implements
+  the recent SPH equations of motion derived with a variational approach by Springel
+  \& Hernquist and by Monaghan. Numerical noise is reduced by enforcing an analytic
+  constraint equation that relates the smoothing lengths and densities of SPH particles.
+  We present tests of these new methods to help demonstrate their improved accuracy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..441L
+arxivurl: http://arxiv.org/abs/astro-ph/0509511
+author: Lombardi Jr., J. C. and Proulx, Z. F. and Dooley, K. L. and Theriault, E.
+  M. and Ivanova, N. and Rasio, F. A.
+author_list:
+- family: Lombardi Jr.
+  given: J. C.
+- family: Proulx
+  given: Z. F.
+- family: Dooley
+  given: K. L.
+- family: Theriault
+  given: E. M.
+- family: Ivanova
+  given: N.
+- family: Rasio
+  given: F. A.
+date-added: 2017-08-11 00:54:39 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/499938
+eprint: astro-ph/0509511
+journal: \apj
+keywords: 'Stars: Binaries: Close, Galaxies: Star Clusters, Galaxy: Globular Clusters:
+  General, Hydrodynamics, Stellar Dynamics, X-Rays: Binaries'
+month: March
+pages: 441--458
+papis_id: 55cd5506dba896355a0662abef925e7c
+ref: lombardi_jr.j.2006
+title: Stellar Collisions and Ultracompact X-Ray Binary Formation
+type: article
+volume: '640'
+year: '2006'

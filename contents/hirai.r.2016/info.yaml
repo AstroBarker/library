@@ -1,0 +1,41 @@
+abstract: A new computationally efficient method has been introduced to treat self-gravity
+  in Eulerian hydrodynamical simulations. It is applied simply by modifying the Poisson
+  equation into an inhomogeneous wave equation. This roughly corresponds to the weak
+  field limit of the Einstein equations in general relativity, and as long as the
+  gravitation propagation speed is taken to be larger than the hydrodynamical characteristic
+  speed, the results agree with solutions for the Poisson equation. The solutions
+  almost perfectly agree if the domain is taken large enough, or appropriate boundary
+  conditions are given. Our new method cannot only significantly reduce the computational
+  time compared with existent methods, but is also fully compatible with massive parallel
+  computation, nested grids, and adaptive mesh refinement techniques, all of which
+  can accelerate the progress in computational astrophysics and cosmology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016PhRvD..93h3006H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1602.05700
+author: Hirai, R. and Nagakura, H. and Okawa, H. and Fujisawa, K.
+author_list:
+- family: Hirai
+  given: R.
+- family: Nagakura
+  given: H.
+- family: Okawa
+  given: H.
+- family: Fujisawa
+  given: K.
+date-added: 2017-12-06 17:10:02 +0000
+date-modified: 2017-12-06 17:10:03 +0000
+doi: 10.1103/PhysRevD.93.083006
+eid: 083006
+eprint: '1602.05700'
+journal: \prd
+month: April
+number: '8'
+pages: 083006
+papis_id: 12f30e4cde662400f7b6045c88c32718
+primaryclass: astro-ph.IM
+ref: hirai.r.2016
+title: Hyperbolic self-gravity solver for large scale hydrodynamical simulations
+type: article
+volume: '93'
+year: '2016'

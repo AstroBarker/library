@@ -1,0 +1,49 @@
+abstract: Compressible turbulence shapes the structure of the interstellar medium
+  of our Galaxy and likely plays an important role also during structure formation
+  in the early Universe. The density probability distribution function (PDF) and the
+  power spectrum of such compressible, supersonic turbulence are the key ingredients
+  for theories of star formation. However, both the PDF and the spectrum are still
+  a matter of debate, because theoretical predictions are limited and simulations
+  of supersonic turbulence require enormous resolutions to capture the inertial-range
+  scaling. To advance our limited knowledge of compressible turbulence, we here present
+  and analyse the world's largest simulations of supersonic turbulence. We compare
+  hydrodynamic models with numerical resolutions of 2563-40963 mesh points and with
+  two distinct driving mechanisms, solenoidal (divergence-free) driving and compressive
+  (curl-free) driving. We find convergence of the density PDF, with compressive driving
+  exhibiting a much wider and more intermittent density distribution than solenoidal
+  driving by fitting to a recent theoretical model for intermittent density PDFs.
+  Analysing the power spectrum of the turbulence, we find a pure velocity scaling
+  close to Burgers turbulence with P(v) \propto{} k-2 for both driving modes in our
+  hydrodynamical simulations with Mach number {M}=17. The spectrum of the density-weighted
+  velocity rho1/3v, however, does not provide the previously suggested universal scaling
+  for supersonic turbulence. We find that the power spectrum P(rho1/3v) scales with
+  wavenumber as k-1.74 for solenoidal driving, close to incompressible Kolmogorov
+  turbulence (k-5/3), but is significantly steeper with k-2.10 for compressive driving.
+  We show that this is consistent with a recent theoretical model for compressible
+  turbulence that predicts P(rho1/3v) \propto{} k-19/9 in the presence of a strong
+  nabla \cdot {v} component as is produced by compressive driving and remains remarkably
+  constant throughout the supersonic turbulent cascade.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.436.1245F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.3989
+author: Federrath, C.
+author_list:
+- family: Federrath
+  given: C.
+date-added: 2017-08-11 06:58:51 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1093/mnras/stt1644
+eprint: '1306.3989'
+journal: \mnras
+keywords: 'hydrodynamics, turbulence, methods: numerical, ISM: clouds, ISM: kinematics
+  and dynamics, ISM: structure'
+month: December
+pages: 1245--1257
+papis_id: 0edad04ed40608c61c4d69acf30b4e74
+primaryclass: astro-ph.SR
+ref: federrath.c.2013
+title: On the universality of supersonic turbulence
+type: article
+volume: '436'
+year: '2013'

@@ -1,0 +1,50 @@
+abstract: In this work, recent advances on the study of reconnection in turbulence
+  are reviewed. Using direct numerical simulations of decaying incompressible two-dimensional
+  magnetohydrodynamics (MHD), it was found that in fully developed turbulence complex
+  processes of reconnection locally occur (Servidio et al., 2009, 2010a). In this
+  complex scenario, reconnection is spontaneous but locally driven by the fields,
+  with the boundary conditions provided by the turbulence. Matching classical turbulence
+  analysis with a generalized Sweet-Parker theory, the statistical features of these
+  multiple-reconnection events have been identified. A discussion on the accuracy
+  of our algorithms is provided, highlighting the necessity of adequate spatial resolution.
+  Applications to the study of solar wind discontinuities are reviewed, comparing
+  simulations to spacecraft observations. New results are shown, studying the time
+  evolution of these local reconnection events. A preliminary study on the comparison
+  between MHD and Hall MHD is reported. Our new approach to the study of reconnection
+  as an element of turbulence has broad applications to space plasmas, shedding a
+  new light on the study of magnetic reconnection in nature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011NPGeo..18..675S
+author: Servidio, S. and Dmitruk, P. and Greco, A. and Wan, M. and Donato, S. and
+  Cassak, P. A. and Shay, M. A. and Carbone, V. and Matthaeus, W. H.
+author_list:
+- family: Servidio
+  given: S.
+- family: Dmitruk
+  given: P.
+- family: Greco
+  given: A.
+- family: Wan
+  given: M.
+- family: Donato
+  given: S.
+- family: Cassak
+  given: P. A.
+- family: Shay
+  given: M. A.
+- family: Carbone
+  given: V.
+- family: Matthaeus
+  given: W. H.
+date-added: 2017-08-10 22:31:52 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.5194/npg-18-675-2011
+journal: Nonlinear Processes in Geophysics
+month: October
+pages: 675--695
+papis_id: 1a5d92e9c6596f134689cbc725e0abc0
+ref: servidio.s.2011
+title: Magnetic reconnection as an element of turbulence
+type: article
+volume: '18'
+year: '2011'

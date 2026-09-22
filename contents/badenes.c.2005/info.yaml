@@ -1,0 +1,43 @@
+abstract: 'The supernova remnants (SNRs) left behind by Type Ia supernovae (SNe) provide
+  an excellent opportunity for the study of these enigmatic objects. In a previous
+  work we showed that it is possible to use the X-ray spectra of young Type Ia SNRs
+  to explore the physics of Type Ia SNe and identify the relevant mechanism underlying
+  these explosions. Our simulation technique is based on hydrodynamic and nonequilibrium
+  ionization calculations of the interaction of a grid of Type Ia explosion models
+  with the surrounding ambient medium, coupled to an X-ray spectral code. In this
+  work we explore the influence of two key parameters on the shape of the X-ray spectrum
+  of the ejecta: the density of the ambient medium around the SN progenitor and the
+  efficiency of collisionless electron heating at the reverse shock. We also discuss
+  the performance of recent three-dimensional simulations of Type Ia SN explosions
+  in the context of the X-ray spectra of young SNRs. We find a better agreement with
+  the observations for Type Ia SN models with stratified ejecta than for three-dimensional
+  deflagration models with well-mixed ejecta. We conclude that our grid of Type Ia
+  SNR models can improve our understanding of these objects and their relationship
+  to the SNe that originated them.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...624..198B
+arxivurl: http://arxiv.org/abs/astro-ph/0501301
+author: Badenes, C. and Borkowski, K. J. and Bravo, E.
+author_list:
+- family: Badenes
+  given: C.
+- family: Borkowski
+  given: K. J.
+- family: Bravo
+  given: E.
+date-added: 2017-08-11 02:16:22 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428829
+eprint: astro-ph/0501301
+journal: \apj
+keywords: 'Hydrodynamics, ISM: General, Nuclear Reactions, Nucleosynthesis, Abundances,
+  ISM: Supernova Remnants, Stars: Supernovae: General, X-Rays: ISM'
+month: May
+pages: 198--212
+papis_id: abe982453ab6a0f703c7d07ad2473586
+ref: badenes.c.2005
+title: Thermal X-Ray Emission from Shocked Ejecta in Type Ia Supernova Remnants. II.
+  Parameters Affecting the Spectrum
+type: article
+volume: '624'
+year: '2005'

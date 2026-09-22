@@ -1,0 +1,54 @@
+abstract: We investigate explosive nucleosynthesis in a non-rotating 15 M sun star
+  with solar metallicity that explodes by a neutrino-heating supernova (SN) mechanism
+  aided by both standing accretion shock instability (SASI) and convection. To trigger
+  explosions in our two-dimensional hydrodynamic simulations, we approximate the neutrino
+  transport with a simple light-bulb scheme and systematically change the neutrino
+  fluxes emitted from the protoneutron star. By a post-processing calculation, we
+  evaluate abundances and masses of the SN ejecta for nuclei with a mass number <=70,
+  employing a large nuclear reaction network. Aspherical abundance distributions,
+  which are observed in nearby core-collapse SN remnants, are obtained for the non-rotating
+  spherically symmetric progenitor, due to the growth of a low-mode SASI. The abundance
+  pattern of the SN ejecta is similar to that of the solar system for models whose
+  masses range between (0.4-0.5) M sun of the ejecta from the inner region (<=10,
+  000 km) of the precollapse core. For the models, the explosion energies and the
+  56Ni masses are ~= 1051erg and (0.05-0.06) M sun, respectively; their estimated
+  baryonic masses of the neutron star are comparable to the ones observed in neutron-star
+  binaries. These findings may have little uncertainty because most of the ejecta
+  is composed of matter that is heated via the shock wave and has relatively definite
+  abundances. The abundance ratios for Ne, Mg, Si, and Fe observed in the Cygnus loop
+  are reproduced well with the SN ejecta from an inner region of the 15 M sun progenitor.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738...61F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.2606
+author: Fujimoto, S.-i. and Kotake, K. and Hashimoto, M.-a. and Ono, M. and Ohnishi,
+  N.
+author_list:
+- family: Fujimoto
+  given: S.-i.
+- family: Kotake
+  given: K.
+- family: Hashimoto
+  given: M.-a.
+- family: Ono
+  given: M.
+- family: Ohnishi
+  given: N.
+date-added: 2017-08-10 22:52:32 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/1/61
+eid: '61'
+eprint: '1106.2606'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general'
+month: September
+pages: '61'
+papis_id: d06576c5593b44f3eb47931e5b170780
+primaryclass: astro-ph.HE
+ref: fujimoto.s_i.2011
+title: Explosive Nucleosynthesis in the Neutrino-driven Aspherical Supernova Explosion
+  of a Non-rotating 15 M $_sun$ Star with Solar Metallicity
+type: article
+volume: '738'
+year: '2011'

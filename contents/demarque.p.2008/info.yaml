@@ -1,0 +1,38 @@
+abstract: The stellar evolution code YREC is outlined with emphasis on its applications
+  to helio- and asteroseismology. The procedure for calculating calibrated solar and
+  stellar models is described. Other features of the code such as a non-local treatment
+  of convective core overshoot, and the implementation of a parametrized description
+  of turbulence in stellar models, are considered in some detail. The code has been
+  extensively used for other astrophysical applications, some of which are briefly
+  mentioned at the end of the paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008Ap\%26SS.316...31D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.4003
+author: Demarque, P. and Guenther, D. B. and Li, L. H. and Mazumdar, A. and Straka,
+  C. W.
+author_list:
+- family: Demarque
+  given: P.
+- family: Guenther
+  given: D. B.
+- family: Li
+  given: L. H.
+- family: Mazumdar
+  given: A.
+- family: Straka
+  given: C. W.
+date-added: 2017-08-11 04:22:33 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1007/s10509-007-9698-y
+eprint: '0710.4003'
+journal: \apss
+month: August
+pages: 31--41
+papis_id: 6ba52e2958e1028e61b916b4630203b3
+ref: demarque.p.2008
+title: 'YREC: the Yale rotating stellar evolution code. Non-rotating version, seismology
+  applications'
+type: article
+volume: '316'
+year: '2008'

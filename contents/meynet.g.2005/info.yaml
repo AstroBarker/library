@@ -1,0 +1,52 @@
+abstract: Grids of models of massive stars (M >= 20 M\&sun;) with rotation are computed
+  for metallicities Z ranging from that of the Small Magellanic Cloud (SMC) to that
+  of the Galactic Centre. The hydrostatic effects of rotation, the rotational mixing
+  and the enhancements of the mass loss rates by rotation are included. The evolution
+  of the surface rotational velocities of the most massive O-stars mainly depends
+  on the mass loss rates and thus on the initial Z value. The minimum initial mass
+  for a star for entering the Wolf-Rayet (WR) phase is lowered by rotation. For all
+  metallicities, rotating stars enter the WR phase at an earlier stage of evolution
+  and the WR lifetimes are increased, mainly as a result of the increased duration
+  of the eWNL phase. Models of WR stars predict in general rather low rotation velocities
+  (<50 km s-1) with a few possible exceptions, particularly at metallicities lower
+  than solar where WR star models have in general faster rotation and more chance
+  to reach the break-up limit. The properties of the WR populations as predicted by
+  the rotating models are in general in much better agreement with the observations
+  in nearby galaxies. Some possible remaining difficulties in these comparisons are
+  mentioned. The evolution of the chemical abundances is largely influenced by rotation
+  in all phases from the MS phase to the WN and WC phases. We also show that the interval
+  of initial masses going through the LBV stage is changing with Z and Omega. The
+  observed variation with metallicity of the fractions of type Ib/Ic supernovae with
+  respect to type II supernovae as found by Prantzos \& Boissier (\cite{Pr03}) is
+  very well reproduced by the rotating models, while non-rotating models predict much
+  too low ratios. This indicates that the minimum initial masses of single stars going
+  through a WR phase are consistently predicted. At Z = 0.040, stars with initial
+  masses above 50 M\&sun; reach a final mass at the time of supernova explosion between
+  5 and 7.5 M\&sun;, while at Z = 0.004, like in the SMC, the final masses of stars
+  are in the range of 17-29 M\&sun;. On the whole, rotation appears to be an essential
+  parameter even for the WR properties. Detailed tables describing the evolutionary
+  tracks are available on the web.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...429..581M
+arxivurl: http://arxiv.org/abs/astro-ph/0408319
+author: Meynet, G. and Maeder, A.
+author_list:
+- family: Meynet
+  given: G.
+- family: Maeder
+  given: A.
+date-added: 2017-08-11 00:18:18 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1051/0004-6361:20047106
+eprint: astro-ph/0408319
+journal: \aap
+keywords: 'stars: evolution, stars: rotation, stars: Wolf-Rayet'
+month: January
+pages: 581--598
+papis_id: 9aadfc0341a1fd09b29f544528112b96
+ref: meynet.g.2005
+title: Stellar evolution with rotation. XI. Wolf-Rayet star populations at different
+  metallicities
+type: article
+volume: '429'
+year: '2005'

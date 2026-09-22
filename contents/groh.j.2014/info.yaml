@@ -1,0 +1,51 @@
+abstract: 'We present the first quantitative spectroscopic modeling of an early-time
+  supernova (SN) that interacts with its progenitor wind. Using the radiative transfer
+  code CMFGEN, we investigate the recently reported 15.5 h post-explosion spectrum
+  of the type IIb SN 2013cu. We are able to directly measure the chemical abundances
+  of a SN progenitor and find a relatively H-rich wind, with H and He abundances (by
+  mass) of X = 0.46 $\pm$ 0.2 and Y = 0.52 \$\pm\$ 0.2, respectively. The wind is
+  enhanced in N and depleted in C relative to solar values (mass fractions of 8.2
+  \texttimes{} 10-3 and 1.0 \texttimes{} 10-5, respectively). We obtain that a slow,
+  dense wind or circumstellar medium surrounds the precursor at the pre-SN stage,
+  with a wind terminal velocity vwind \lessequivlnt{} 100 km s-1 and mass-loss rate
+  of M ~= 3 \texttimes{} 10-3 (vwind/ 100 km s-1) M\&sun; yr-1. These values are lower
+  than previous analytical estimates, although M/upsilo\infty{} is consistent with
+  previous work. We also compute a CMFGEN model to constrain the progenitor spectral
+  type; the high M and low vwind imply that the star had an effective temperature
+  of ~= 8000 K immediately before the SN explosion. Our models suggest that the progenitor
+  was either an unstable luminous blue variable or a yellow hypergiant undergoing
+  an eruptive phase, and rule out a Wolf-Rayet star. We classify the post-explosion
+  spectra at 15.5 h as XWN5(h) and advocate for the use of the prefix "X" (eXplosion)
+  to avoid confusion between post-explosion, non-stellar spectra, and those of massive
+  stars. We show that the XWN spectrum results from the ionization of the progenitor
+  wind after the SN, and that the progenitor spectral type is significantly different
+  from the early post-explosion spectral type owing to the huge differences in the
+  ionization structure before and after the SN event. We find the following temporal
+  evolution: LBV/YHG --> XWN5(h) --> SN IIb. Future early-time spectroscopy in the
+  UV will further constrain the properties of SN precursors, such as their metallicities.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...572L..11G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1408.5397
+author: Groh, J. H.
+author_list:
+- family: Groh
+  given: J. H.
+date-added: 2017-08-10 14:07:50 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1051/0004-6361/201424852
+eid: L11
+eprint: '1408.5397'
+journal: \aap
+keywords: 'supernovae: general, stars: evolution, supernovae: individual: SN 2013cu,
+  stars: winds, outflows'
+month: December
+pages: L11
+papis_id: dd84370ab44bc29127666be6d8754c4d
+primaryclass: astro-ph.HE
+ref: groh.j.2014
+title: Early-time spectra of supernovae and their precursor winds. The luminous blue
+  variable/yellow hypergiant progenitor of SN 2013cu
+type: article
+volume: '572'
+year: '2014'

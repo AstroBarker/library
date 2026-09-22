@@ -1,0 +1,42 @@
+abstract: We describe computational tools that have been developed to simulate dynamical
+  mass transfer in semidetached, polytropic binaries that are initially executing
+  synchronous rotation upon circular orbits. Initial equilibrium models are generated
+  with a self-consistent field algorithm; models are then evolved in time with a parallel,
+  explicit, Eulerian hydrodynamics code with no assumptions made about the symmetry
+  of the system. Poisson's equation is solved along with the equations of ideal fluid
+  mechanics to allow us to treat the nonlinear tidal distortion of the components
+  in a fully self-consistent manner. We present results from several standard numerical
+  experiments that have been conducted to assess the general viability and validity
+  of our tools, and from benchmark simulations that follow the evolution of two detached
+  systems through five full orbits (up to approximately 90 stellar dynamical times).
+  These benchmark runs allow us to gauge the level of quantitative accuracy with which
+  simulations of semidetached systems can be performed using presently available computing
+  resources. We find that we should be able to resolve mass transfer at levels M/M>few\texttimes{}10-5
+  per orbit through approximately 20 orbits with each orbit taking about 30 hours
+  of computing time on parallel computing platforms.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJS..138..121M
+arxivurl: http://arxiv.org/abs/astro-ph/0107308
+author: Motl, P. M. and Tohline, J. E. and Frank, J.
+author_list:
+- family: Motl
+  given: P. M.
+- family: Tohline
+  given: J. E.
+- family: Frank
+  given: J.
+date-added: 2017-08-11 03:43:01 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/324159
+eprint: astro-ph/0107308
+journal: \apjs
+keywords: 'accretions, accretions disks, Stars: Binaries: Close, Hydrodynamics, Methods:
+  Numerical'
+month: January
+pages: 121--148
+papis_id: 0df4e02bc0fb18417993d76ac07e08ae
+ref: motl.p.2002
+title: Numerical Methods for the Simulation of Dynamical Mass Transfer in Binaries
+type: article
+volume: '138'
+year: '2002'

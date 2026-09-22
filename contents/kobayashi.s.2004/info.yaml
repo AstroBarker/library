@@ -1,0 +1,41 @@
+abstract: Gravitational waves and X-ray flares are expected from tidal disruption
+  of stars by a massive black hole. Using a relativistic smoothed particle hydrodynamics
+  code, we investigate the fate of main-sequence and helium stars in plunge orbits
+  passing near Schwarzschild or Kerr black holes of mass ~105-106 Msolar. We show
+  that quadrupole gravitational waves emitted during the tidal disruption process
+  are described reasonably well by a point-particle approximation even in the strong-encounter
+  case. An additional hydrodynamic calculation based on the Godunov method indicates
+  that shocks develop for sufficiently high tidal compressions. The shock heating
+  results in an X-ray flare, which for solar-type stars disrupted by ~106 Msolar black
+  holes is in the keV range associated with the gravitational wave signal. The hardness
+  and duration of the X-ray flare may serve as a diagnostic of the mass of the central
+  black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...615..855K
+arxivurl: http://arxiv.org/abs/astro-ph/0404173
+author: Kobayashi, S. and Laguna, P. and Phinney, E. S. and Mészáros, P.
+author_list:
+- family: Kobayashi
+  given: S.
+- family: Laguna
+  given: P.
+- family: Phinney
+  given: E. S.
+- family: Mészáros
+  given: P.
+date-added: 2017-08-10 21:24:26 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/424684
+eprint: astro-ph/0404173
+journal: \apj
+keywords: 'Black Hole Physics, Galaxies: Nuclei, Gravitational Waves, Hydrodynamics,
+  X-Rays: Bursts'
+month: November
+pages: 855--865
+papis_id: 0a137a01d9ceadbf99d5463a7f376776
+ref: kobayashi.s.2004
+title: Gravitational Waves and X-Ray Signals from Stellar Disruption by a Massive
+  Black Hole
+type: article
+volume: '615'
+year: '2004'

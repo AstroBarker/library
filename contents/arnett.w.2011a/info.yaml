@@ -1,0 +1,46 @@
+abstract: Three-dimensional (3D) hydrodynamic simulations of shell oxygen burning
+  exhibit bursty, recurrent fluctuations in turbulent kinetic energy. These are shown
+  to be due to a general instability of the convective cell, requiring only a localized
+  source of heating or cooling. Such fluctuations are shown to be suppressed in simulations
+  of stellar evolution which use the mixing-length theory. Quantitatively similar
+  behavior occurs in the model of a convective roll (cell) of Lorenz, which is known
+  to have a strange attractor that gives rise to chaotic fluctuations in time of velocity
+  and, as we show, luminosity. Study of simulations suggests that the behavior of
+  a Lorenz convective roll may resemble that of a cell in convective flow. We examine
+  some implications of this simplest approximation and suggest paths for improvement.
+  Using the Lorenz model as representative of a convective cell, a multiple-cell model
+  of a convective layer gives total luminosity fluctuations which are suggestive of
+  irregular variables (red giants and supergiants), and of the long secondary period
+  feature in semiregular asymptotic giant branch variables. This "tau-mechanism" is
+  a new source for stellar variability, which is inherently nonlinear (unseen in linear
+  stability analysis), and one closely related to intermittency in turbulence. It
+  was already implicit in the 3D global simulations of Woodward et al. This fluctuating
+  behavior is seen in extended two-dimensional simulations of CNeOSi burning shells,
+  and may cause instability which leads to eruptions in progenitors of core-collapse
+  supernovae prior to collapse.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...741...33A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.1848
+author: Arnett, W. D. and Meakin, C.
+author_list:
+- family: Arnett
+  given: W. D.
+- family: Meakin
+  given: C.
+date-added: 2017-08-10 15:07:44 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/741/1/33
+eid: '33'
+eprint: '1012.1848'
+journal: \apj
+keywords: 'stars: individual: Betelgeuse, stars: oscillations'
+month: November
+pages: '33'
+papis_id: 10160974bf3e3780a5e6bc7ad3c39ffd
+primaryclass: astro-ph.SR
+ref: arnett.w.2011a
+title: 'Turbulent Cells in Stars: Fluctuations in Kinetic Energy and Luminosity'
+type: article
+volume: '741'
+year: '2011'

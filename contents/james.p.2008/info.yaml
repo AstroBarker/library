@@ -1,0 +1,60 @@
+abstract: 'Aims: We present an analysis of the star formation properties of field
+  galaxies within the local volume out to a recession velocity limit of 3000 km s-1.  Methods:
+  A parent sample of 863 star-forming galaxies is used to calculate a B-band luminosity
+  function. This is then populated with star formation information from a subsample
+  of 327 galaxies, for which we have Halpha imaging, firstly by calibrating a relationship
+  between galaxy B-band luminosity and star formation rate, and secondly by a Monte
+  Carlo simulation of a representative sample of galaxies, in which star formation
+  information is randomly sampled from the observed subset.  Results: The total star
+  formation rate density of the local Universe is found to be between 0.016 and 0.023
+  M\&sun; yr-1 Mpc-3 with the uncertainties dominated by the internal extinction correction
+  used in converting measured Halpha fluxes to star formation rates. If our internally
+  derived B-band luminosity function is replaced by one from the Sloan Digital Sky
+  Survey blue sequence, the star formation rate densities are ~60\% of the above values.
+  We also calculate the contribution to the total star formation rate density from
+  galaxies of different luminosities and Hubble T-types. The largest contribution
+  comes from bright galaxies with MB\texttildelow{} -20 mag, and the total contribution
+  from galaxies fainter than MB= -15.5 mag is less than 10\%. Almost 60\% of the star
+  formation rate density comes from galaxies of types Sb, Sbc or Sc; 9\% from galaxies
+  earlier than Sb and 33\% from galaxies later than Sc. Finally, 75-80\% of the total
+  star formation in the local Universe is shown to be occurring in disk regions, defined
+  as being >1 kpc from the centres of galaxies. Conclusions: The star formation rate
+  density estimates found here are consistent with values from the recent literature
+  using a range of different star formation indicators. Even though they are numerous,
+  dwarf galaxies contribute little to the star formation in the local Universe, and
+  the bulk of the star formation takes place in L\textasteriskcentered spirals.  Based
+  on observations made with the Jacobus Kapteyn Telescope operated on the island of
+  La Palma by the Isaac Newton Group in the Spanish Observatorio del Roque de los
+  Muchachos of the Instituto de Astrof{\''\i}sica de Canarias.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...482..507J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0802.4421
+author: James, P. A. and Knapen, J. H. and Shane, N. S. and Baldry, I. K. and de Jong,
+  R. S.
+author_list:
+- family: James
+  given: P. A.
+- family: Knapen
+  given: J. H.
+- family: Shane
+  given: N. S.
+- family: Baldry
+  given: I. K.
+- family: de Jong
+  given: R. S.
+date-added: 2017-08-11 03:31:15 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1051/0004-6361:20078560
+eprint: '0802.4421'
+journal: \aap
+keywords: 'galaxies: general, galaxies: spiral, galaxies: irregular, galaxies: fundamental
+  parameters, galaxies: stellar content, galaxies: statistics'
+month: May
+pages: 507--516
+papis_id: ed8580f39f5ee0e3d9bd49bca6b62d8b
+ref: james.p.2008
+title: The H$α$ Galaxy survey. IV. Star formation in the local Universe
+type: article
+volume: '482'
+year: '2008'

@@ -1,0 +1,46 @@
+abstract: We present a self-consistent model for stellar turbulent convection that
+  is similar in spirit to the CM model (Canuto \& Mazzitelli 1991) since it accounts
+  for the full spectrum of the turbulent eddies rather than only one eddy, as done
+  in the mixing length theory (MLT). The model differs from the CM model in the treatment
+  of the rate of energy input nS(k) from the source that generates the turbulence.
+  In the present model, nS(k) is controlled by both the source and the turbulence
+  it ultimately generates, thus ensuring a self-consistent modeling of the turbulence.
+  This improves the CM model in which nS(k) was taken to be equal to the growth rate
+  of the linear unstable convective modes.  However, since the formulation of a self-consistent
+  treatment is far from simple, we were forced to use a representation of the nonlinear
+  interactions less complete than the one in the CM model. The ensuing equations were
+  solved numerically for a wide range of convective efficiencies. The results are
+  the convective flux, the mean square turbulent velocity, the root mean squared turbulent
+  pressure and the turbulent viscosity.  We implemented the model in the ATON stellar
+  structure code and computed the evolution of a solar model. The results are generally
+  similar to those of the CM model and thus quite different from the MLT. The present
+  model requires a smaller overshoot into the upper radiative zone than does the CM
+  model, in accord with recent empirical estimates. Application to Population II stars
+  and comparison with the very metal-poor globular cluster M68 yields an age in the
+  range 11-12 Gyr. This is somewhat younger than the CM age, which in turn is younger
+  than the corresponding MLT age, a result of possible cosmological interest
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...473..550C
+arxivurl: http://arxiv.org/abs/astro-ph/9609001
+author: Canuto, V. M. and Goldman, I. and Mazzitelli, I.
+author_list:
+- family: Canuto
+  given: V. M.
+- family: Goldman
+  given: I.
+- family: Mazzitelli
+  given: I.
+date-added: 2017-08-11 03:56:28 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/178166
+eprint: astro-ph/9609001
+journal: \apj
+keywords: 'CONVECTION, STARS: EVOLUTION, STARS: INTERIORS, SUN: INTERIOR, TURBULENCE'
+month: December
+pages: '550'
+papis_id: 82fee6cb3262f393a61b45fbfb841375
+ref: canuto.v.1996
+title: 'Stellar Turbulent Convection: A Self-consistent Model'
+type: article
+volume: '473'
+year: '1996'

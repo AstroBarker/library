@@ -1,0 +1,27 @@
+abstract: The Aarhus code is the result of a long development, starting in 1974, and
+  still ongoing. A novel feature is the integration of the computation of adiabatic
+  oscillations for specified models as part of the code. It offers substantial flexibility
+  in terms of microphysics and has been carefully tested for the computation of solar
+  models. However, considerable development is still required in the treatment of
+  nuclear reactions, diffusion and convective mixing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008Ap\%26SS.316...13C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.3114
+author: Christensen-Dalsgaard, J.
+author_list:
+- family: Christensen-Dalsgaard
+  given: J.
+date-added: 2017-08-10 20:48:15 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1007/s10509-007-9675-5
+eprint: '0710.3114'
+journal: \apss
+month: August
+pages: 13--24
+papis_id: 0fc6e1b5f425a50104d5be73c03293f3
+ref: christensen_dalsgaard.j.2008a
+title: ASTEC\mdashthe Aarhus STellar Evolution Code
+type: article
+volume: '316'
+year: '2008'

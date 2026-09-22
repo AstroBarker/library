@@ -1,0 +1,55 @@
+abstract: The mixed morphology class of supernova remnants has centrally peaked X-ray
+  emission along with a shell-like morphology in radio emission. White \& Long proposed
+  that these remnants are evolving in a cloudy medium wherein the clouds are evaporated
+  via thermal conduction once being overrun by the expanding shock. Their analytical
+  model made detailed predictions regarding temperature, density, and emission profiles
+  as well as shock evolution. We present numerical hydrodynamical models in 2D and
+  3D including thermal conduction, testing the White \& Long model and presenting
+  results for the evolution and emission from remnants evolving in a cloudy medium.
+  We find that, while certain general results of the White \& Long model hold, such
+  as the way the remnants expand and the flattening of the X-ray surface brightness
+  distribution, in detail there are substantial differences. In particular we find
+  that the X-ray luminosity is dominated by emission from shocked cloud gas early
+  on, leading to a bright peak, which then declines and flattens as evaporation becomes
+  more important. In addition, the effects of thermal conduction on the intercloud
+  gas, which is not included in the White \& Long model, are important and lead to
+  further flattening of the X-ray brightness profile as well as lower X-ray emission
+  temperatures.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJ...846...77S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1708.02646
+author: Slavin, J. D. and Smith, R. K. and Foster, A. and Winter, H. D. and Raymond,
+  J. C. and Slane, P. O. and Yamaguchi, H.
+author_list:
+- family: Slavin
+  given: J. D.
+- family: Smith
+  given: R. K.
+- family: Foster
+  given: A.
+- family: Winter
+  given: H. D.
+- family: Raymond
+  given: J. C.
+- family: Slane
+  given: P. O.
+- family: Yamaguchi
+  given: H.
+date-added: 2018-04-25 23:51:14 +0000
+date-modified: 2018-04-25 23:51:14 +0000
+doi: 10.3847/1538-4357/aa8552
+eid: '77'
+eprint: '1708.02646'
+journal: \apj
+keywords: 'hydrodynamics, ISM: clouds, ISM: supernova remnants, X-rays: ISM'
+month: September
+pages: '77'
+papis_id: f0c52d51a9839f030b776aeb0282fb20
+primaryclass: astro-ph.HE
+ref: slavin.j.2017
+title: Numerical Simulations of Supernova Remnant Evolution in a Cloudy Interstellar
+  Medium
+type: article
+volume: '846'
+year: '2017'

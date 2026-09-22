@@ -1,0 +1,27 @@
+abstract: The calculation of limits for small numbers of astronomical counts is based
+  on standard equations derived from Poisson and binomial statistics; although the
+  equations are straightforward, their direct use is cumbersome and involves both
+  table-interpolations and several mathematical operations. Convenient tables and
+  approximate formulae are here presented for confidence limits which are based on
+  such Poisson and binomial statistics. The limits in the tables are given for all
+  confidence levels commonly used in astrophysics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1986ApJ...303..336G
+author: Gehrels, N.
+author_list:
+- family: Gehrels
+  given: N.
+date-added: 2017-08-10 16:01:25 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/164079
+journal: \apj
+keywords: Astrophysics, Binomial Theorem, Confidence Limits, Data Processing, Poisson
+  Density Functions, Approximation, Tables (Data)
+month: April
+pages: 336--346
+papis_id: f925c7d47fe731842c741ddedffded9b
+ref: gehrels.n.1986
+title: Confidence limits for small numbers of events in astrophysical data
+type: article
+volume: '303'
+year: '1986'

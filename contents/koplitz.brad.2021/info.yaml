@@ -1,0 +1,57 @@
+abstract: We constrained the progenitor masses for 169 supernova remnants (SNRs),         eight
+  historically observed supernovae (SNe), and the black hole         formation candidate
+  in NGC 6946, finding that they are         consistent with originating from a standard
+  initial mass         function. Additionally, there were 16 remnants that showed
+  no         sign of nearby star formation consistent with a core-collapse         SN,
+  making them good Type Ia candidates. Using Hubble Space         Telescope broadband
+  imaging, we measured the stellar photometry         of ACS/WFC fields in the F435W,
+  F555W, F606W, and F814W filters,         as well as WFC3/UVIS fields in F438W, F606W,
+  and F814W. We then         fitted this photometry with stellar evolutionary models
+  to         determine the ages of the young populations present at the         positions
+  of the SNRs and SNe. We then inferred a progenitor         mass probability distribution
+  from the fitted age distribution.         For 37 SNRs, we tested how different filter
+  combinations         affected the inferred masses. We find that filters sensitive
+  to         H{\ensuremath{\alpha}}, [N II], and [S II] gas emission can bias         mass
+  estimates for remnants that rely on our technique. Using a         Kolmogorov-Smirnov
+  test analysis on our most reliable         measurements, we find that the progenitor
+  mass distribution is         well matched by a power-law index of $-{2.6}_{-0.6}^{+0.5}$,         which
+  is consistent with a standard initial mass function.
+archiveprefix: arXiv
+author: Koplitz, Brad and Johnson, Jared and Williams, Benjamin F. and Long, Knox
+  S. and Blair, William P. and Murphy, Jeremiah W. and Dolphin, Andrew and Hillis,
+  Tristan
+author_list:
+- family: Koplitz
+  given: Brad
+- family: Johnson
+  given: Jared
+- family: Williams
+  given: Benjamin F.
+- family: Long
+  given: Knox S.
+- family: Blair
+  given: William P.
+- family: Murphy
+  given: Jeremiah W.
+- family: Dolphin
+  given: Andrew
+- family: Hillis
+  given: Tristan
+doi: 10.3847/1538-4357/abfb7b
+eid: '58'
+eprint: '2104.11118'
+journal: \apj
+keywords: Supernovae, Stellar evolution, Massive stars, Stellar populations, 1668,
+  1599, 732, 1622, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics
+  - Solar and Stellar Astrophysics
+month: July
+number: '1'
+pages: '58'
+papis_id: 0d0462c4850c799b1126de899d068258
+primaryclass: astro-ph.HE
+ref: koplitz.brad.2021
+title: The Masses of Supernova Remnant Progenitors in NGC 6946
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2021ApJ...916...58K
+volume: '916'
+year: '2021'

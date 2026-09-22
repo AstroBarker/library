@@ -1,0 +1,53 @@
+abstract: Imaging data from the Sloan Digital Sky Survey are used to measure the empirical
+  size-richness relation for a large sample of galaxy clusters. Using population subtraction
+  methods, we determine the radius at which the cluster galaxy number density is 200Omegam-1
+  times the mean galaxy density, without assuming a model for the radial distribution
+  of galaxies in clusters. If these galaxies are unbiased on megaparsec scales, this
+  galaxy density-based R200 reflects the characteristic radii of clusters. We measure
+  the scaling of this characteristic radius with richness over an order of magnitude
+  in cluster richness, from rich clusters to poor groups. We use this information
+  to examine the radial profiles of galaxies in clusters as a function of cluster
+  richness, finding that the concentration of the galaxy distribution decreases with
+  richness and is systematically lower than the concentrations measured for dark matter
+  profiles in N-body simulations. Using these scaled radii, we investigate the behavior
+  of the cluster luminosity function and find that it is well matched by a Schechter
+  function for galaxies brighter than Mr=-18 only after the central galaxy has been
+  removed. We find that the luminosity function varies with richness and with distance
+  from the cluster center, underscoring the importance of using an aperture that scales
+  with cluster mass to compare physically equivalent regions of these different systems.
+  We note that the lowest richness systems in our catalog have properties consistent
+  with those expected of the earliest forming halos; our cluster-finding algorithm,
+  in addition to reliably finding clusters, may be efficient at finding fossil groups.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...633..122H
+arxivurl: http://arxiv.org/abs/astro-ph/0410467
+author: Hansen, S. M. and McKay, T. A. and Wechsler, R. H. and Annis, J. and Sheldon,
+  E. S. and Kimball, A.
+author_list:
+- family: Hansen
+  given: S. M.
+- family: McKay
+  given: T. A.
+- family: Wechsler
+  given: R. H.
+- family: Annis
+  given: J.
+- family: Sheldon
+  given: E. S.
+- family: Kimball
+  given: A.
+date-added: 2017-08-11 05:16:15 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/444554
+eprint: astro-ph/0410467
+journal: \apj
+keywords: 'Cosmology: Observations, Galaxies: Clusters: General'
+month: November
+pages: 122--137
+papis_id: 5ddea06b0086fa8b283b18321415c63e
+ref: hansen.s.2005
+title: Measurement of Galaxy Cluster Sizes, Radial Profiles, and Luminosity Functions
+  from SDSS Photometric Data
+type: article
+volume: '633'
+year: '2005'

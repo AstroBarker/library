@@ -1,0 +1,51 @@
+abstract: Shock acceleration is a ubiquitous phenomenon in astrophysical plasmas.
+  Plasma waves and their associated instabilities (e.g., the Buneman instability,
+  two-streaming instability, and the Weibel instability) created in the shocks are
+  responsible for particle (electron, positron, and ion) acceleration. Using a three-dimensional
+  relativistic electromagnetic particle code, we have investigated particle acceleration
+  associated with a relativistic jet front propagating through an ambient plasma with
+  and without initial magnetic fields. We find only small differences in the results
+  between no ambient and weak ambient magnetic fields. Simulations show that the Weibel
+  instability created in the collisionless shock front accelerates particles perpendicular
+  and parallel to the jet propagation direction. While some Fermi acceleration may
+  occur at the jet front, the majority of electron acceleration takes place behind
+  the jet front and cannot be characterized as Fermi acceleration. The simulation
+  results show that this instability is responsible for generating and amplifying
+  highly nonuniform, small-scale magnetic fields, which contribute to the electron's
+  transverse deflection behind the jet head. The ``jitter'' radiation from deflected
+  electrons has different properties than synchrotron radiation which is calculated
+  in a uniform magnetic field. This jitter radiation may be important to understanding
+  the complex time evolution and/or spectral structure in gamma-ray bursts, relativistic
+  jets, and supernova remnants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...595..555N
+arxivurl: http://arxiv.org/abs/astro-ph/0305091
+author: Nishikawa, K.-I. and Hardee, P. and Richardson, G. and Preece, R. and Sol,
+  H. and Fishman, G. J.
+author_list:
+- family: Nishikawa
+  given: K.-I.
+- family: Hardee
+  given: P.
+- family: Richardson
+  given: G.
+- family: Preece
+  given: R.
+- family: Sol
+  given: H.
+- family: Fishman
+  given: G. J.
+date-added: 2017-08-11 05:11:10 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/377260
+eprint: astro-ph/0305091
+journal: \apj
+keywords: Acceleration of Particles, Instabilities, Shock Waves
+month: September
+pages: 555--563
+papis_id: 2bcefde040f3169ec6841e282df575c5
+ref: nishikawa.k_i.2003
+title: Particle Acceleration in Relativistic Jets Due to Weibel Instability
+type: article
+volume: '595'
+year: '2003'

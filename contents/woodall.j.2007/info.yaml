@@ -1,0 +1,38 @@
+abstract: 'Aims:We present a new version of the UMIST Database for Astrochemistry,
+  the fourth such version to be released to the public. The current version contains
+  some 4573 binary gas-phase reactions, an increase of 10\% from the previous (1999)
+  version, among 420 species, of which 23 are new to the database.  Methods: Major
+  updates have been made to ion-neutral reactions, neutral-neutral reactions, particularly
+  at low temperature, and dissociative recombination reactions. We have included for
+  the first time the interstellar chemistry of fluorine. In addition to the usual
+  database, we have also released a reaction set in which the effects of dipole-enhanced
+  ion-neutral rate coefficients are included. Results: These two reactions sets have
+  been used in a dark cloud model and the results of these models are presented and
+  discussed briefly. The database and associated software are available on the World
+  Wide Web at www.udfa.net.  Tables 1, 2, 4 and 9 are only available in electronic
+  form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...466.1197W
+author: Woodall, J. and Agúndez, M. and Markwick-Kemper, A. J. and Millar, T. J.
+author_list:
+- family: Woodall
+  given: J.
+- family: Agúndez
+  given: M.
+- family: Markwick-Kemper
+  given: A. J.
+- family: Millar
+  given: T. J.
+date-added: 2017-08-11 06:03:52 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20064981
+journal: \aap
+keywords: 'molecular data, molecular processes, ISM: molecules, astrochemistry'
+month: May
+pages: 1197--1204
+papis_id: ac692d4b8b3525fb693499dbca202d04
+ref: woodall.j.2007
+title: The UMIST database for astrochemistry 2006
+type: article
+volume: '466'
+year: '2007'

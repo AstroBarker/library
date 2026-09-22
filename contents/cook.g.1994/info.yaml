@@ -1,0 +1,43 @@
+abstract: 'We construct equilibrium sequences of rotating neutron stars in general
+  relativity. We compare results for 14 nuclear matter equations of state. We determine
+  a number of important physical parameters for such stars, including the maximum
+  mass and maximum spin rate. The stability of the configurations to quasi-radial
+  perturbations is assessed. We employ a numerical scheme particularly well suited
+  to handle rapid rotation and large departures from spherical symmetry. We provide
+  an extensive tabulation of models for future reference. Two classes of evolutionary
+  sequences of fixed baryon rest mass and entropy are explored: normal sequences,
+  which behave very much like Newtonian sequences, and supramassive sequences, which
+  exist for neutron stars solely because of general relativistic effects. Adiabatic
+  dissipation of energy and angular momentum causes a star to evolve in quasi-stationary
+  fashion along an evolutionary sequence. Supramassive sequences have masses exceeding
+  the maximum mass of a nonrotating neutron star. A supramassive star evolves toward
+  eventual catastrophic collapse to a black hole. Prior to collapse, the star actually
+  spins up as it loses angular momentum, an effect that may provide an observable
+  precursor to gravitational collapse to a black hole.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...424..823C
+author: Cook, G. B. and Shapiro, S. L. and Teukolsky, S. A.
+author_list:
+- family: Cook
+  given: G. B.
+- family: Shapiro
+  given: S. L.
+- family: Teukolsky
+  given: S. A.
+date-added: 2017-08-10 15:46:37 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173934
+journal: \apj
+keywords: Equations Of State, Pulsars, Relativity, Stellar Evolution, Stellar Models,
+  Stellar Rotation, Angular Momentum, Black Holes (Astronomy), Computational Grids,
+  Computerized Simulation, Equilibrium Methods, Numerical Analysis, Stability, Stellar
+  Mass
+month: April
+pages: 823--845
+papis_id: b80a3440d21b4c7b998f02396d2e16b7
+ref: cook.g.1994
+title: 'Rapidly rotating neutron stars in general relativity: Realistic equations
+  of state'
+type: article
+volume: '424'
+year: '1994'

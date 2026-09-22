@@ -1,0 +1,66 @@
+abstract: Following on from a recently completed radial-velocity survey of the old
+  (7 Gyr) open cluster NGC 188 in which we studied in detail the solar-type hard binaries
+  and blue stragglers of the cluster, here we investigate the dynamical evolution
+  of NGC 188 through a sophisticated N-body model. Importantly, we employ the observed
+  binary properties of the young (180 Myr) open cluster M35, where possible, to guide
+  our choices for parameters of the initial binary population. We apply pre-main-sequence
+  tidal circularization and a substantial increase to the main-sequence tidal circularization
+  rate, both of which are necessary to match the observed tidal circularization periods
+  in the literature, including that of NGC 188. At 7 Gyr the main-sequence solar-type
+  hard-binary population in the model matches that of NGC 188 in both binary frequency
+  and distributions of orbital parameters. This agreement between the model and observations
+  is in a large part due to the similarities between the NGC 188 and M35 solar-type
+  binaries. Indeed, among the 7 Gyr main-sequence binaries in the model, only those
+  with P >~ 1000 days begin to show potentially observable evidence for modifications
+  by dynamical encounters, even after 7 Gyr of evolution within the star cluster.
+  This emphasizes the importance of defining accurate initial conditions for star
+  cluster models, which we propose is best accomplished through comparisons with observations
+  of young open clusters like M35. Furthermore, this finding suggests that observations
+  of the present-day binaries in even old open clusters can provide valuable information
+  on their primordial binary populations. However, despite the model's success at
+  matching the observed solar-type main-sequence population, the model underproduces
+  blue stragglers and produces an overabundance of long-period circular main-sequence-white-dwarf
+  binaries as compared with the true cluster. We explore several potential solutions
+  to the paucity of blue stragglers and conclude that the model dramatically underproduces
+  blue stragglers through mass-transfer processes. We suggest that common-envelope
+  evolution may have been incorrectly imposed on the progenitors of the spurious long-period
+  circular main-sequence-white-dwarf binaries, which perhaps instead should have gone
+  through stable mass transfer to create blue stragglers, thereby bringing both the
+  number and binary frequency of the blue straggler population in the model into agreement
+  with the true blue stragglers in NGC 188. Thus, improvements in the physics of mass
+  transfer and common-envelope evolution employed in the model may in fact solve both
+  discrepancies with the observations. This project highlights the unique accessibility
+  of open clusters to both comprehensive observational surveys and full-scale N-body
+  simulations, both of which have only recently matured sufficiently to enable such
+  a project, and underscores the importance of open clusters to the study of star
+  cluster dynamics.  WIYN Open Cluster Study. LI.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013AJ....145....8G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.1575
+author: Geller, A. M. and Hurley, J. R. and Mathieu, R. D.
+author_list:
+- family: Geller
+  given: A. M.
+- family: Hurley
+  given: J. R.
+- family: Mathieu
+  given: R. D.
+date-added: 2017-08-10 16:08:50 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-6256/145/1/8
+eid: '8'
+eprint: '1210.1575'
+journal: \aj
+keywords: 'binaries: spectroscopic, blue stragglers, methods: numerical, open clusters
+  and associations: individual: NGC 188'
+month: January
+pages: '8'
+papis_id: 730bd22ebe38fccb6ff478e73a3cedbc
+primaryclass: astro-ph.SR
+ref: geller.a.2013
+title: 'Direct N-body Modeling of the Old Open Cluster NGC 188: A Detailed Comparison
+  of Theoretical and Observed Binary Star and Blue Straggler Populations'
+type: article
+volume: '145'
+year: '2013'

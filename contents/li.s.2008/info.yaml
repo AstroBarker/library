@@ -1,0 +1,39 @@
+abstract: In this era of precision cosmology, a detailed physical understanding on
+  the evolution of cosmic baryons is required. Cosmic magnetic fields, though still
+  poorly understood, may represent an important component in the global cosmic energy
+  flow that affects the baryon dynamics. We have developed an Eulerian-based cosmological
+  magnetohydrodynamics code (CosmoMHD) with modern shock capturing schemes to study
+  the formation and evolution of cosmic structures in the presence of magnetic fields.
+  We have implemented several high-resolution finite-volume and finite-difference
+  methods for solving the MHD equations with cosmology. The divergence-free condition
+  of the magnetic fields is preserved at a level of computer round-off error via the
+  constraint transport method. We have also implemented a high-resolution method via
+  dual-equation formulation to track the thermal energy of the baryons accurately
+  in very high Mach number or high Alfv{\'e}n-Mach number regions. Several numerical
+  tests have demonstrated the efficacy of the proposed schemes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..174....1L
+arxivurl: http://arxiv.org/abs/astro-ph/0611863
+author: Li, S. and Li, H. and Cen, R.
+author_list:
+- family: Li
+  given: S.
+- family: Li
+  given: H.
+- family: Cen
+  given: R.
+date-added: 2017-08-11 03:19:34 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/521302
+eid: 1-12
+eprint: astro-ph/0611863
+journal: \apjs
+keywords: 'cosmology: theory, methods: numerical, MHD, shock waves'
+month: January
+pages: 1--12
+papis_id: a003bec0c7cd258ff73d3b959ac87dc8
+ref: li.s.2008
+title: 'CosmoMHD: A Cosmological Magnetohydrodynamics Code'
+type: article
+volume: '174'
+year: '2008'

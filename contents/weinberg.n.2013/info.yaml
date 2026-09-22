@@ -1,0 +1,55 @@
+abstract: A weakly nonlinear fluid wave propagating within a star can be unstable
+  to three-wave interactions. The resonant parametric instability is a well-known
+  form of three-wave interaction in which a primary wave of frequency omega a  excites
+  a pair of secondary waves of frequency omega b  + omega c  ~= omega a . Here we
+  consider a nonresonant form of three-wave interaction in which a low-frequency primary
+  wave excites a high-frequency p-mode and a low-frequency g-mode such that omega
+  b  + omega c  Gt omega a . We show that a p-mode can couple so strongly to a g-mode
+  of similar radial wavelength that this type of nonresonant interaction is unstable
+  even if the primary wave amplitude is small. As an application, we analyze the stability
+  of the tide in coalescing neutron star binaries to p-g mode coupling. We find that
+  the equilibrium tide and dynamical tide are both p-g unstable at gravitational wave
+  frequencies f gw >~ 20 Hz and drive short wavelength p-g mode pairs to significant
+  energies on very short timescales (much less than the orbital decay time due to
+  gravitational radiation). Resonant parametric coupling to the tide is, by contrast,
+  either stable or drives modes at a much smaller rate. We do not solve for the saturation
+  of the p-g instability and therefore we cannot say precisely how it influences the
+  evolution of neutron star binaries. However, we show that if even a single daughter
+  mode saturates near its wave breaking amplitude, the p-g instability of the equilibrium
+  tide will (1) induce significant orbital phase errors (Deltaphi >~ 1 radian) that
+  accumulate primarily at low frequencies (f gw <~ 50 Hz) and (2) heat the neutron
+  star core to a temperature of T ~ 1010 K. Since there are at least ~100 unstable
+  p-g daughter pairs, Deltaphi and T are potentially much larger than these values.
+  Tides might therefore significantly influence the gravitational wave signal and
+  electromagnetic emission from coalescing neutron star binaries at much larger orbital
+  separations than previously thought.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769..121W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.2292
+author: Weinberg, N. N. and Arras, P. and Burkart, J.
+author_list:
+- family: Weinberg
+  given: N. N.
+- family: Arras
+  given: P.
+- family: Burkart
+  given: J.
+date-added: 2017-08-10 17:53:33 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/769/2/121
+eid: '121'
+eprint: '1302.2292'
+journal: \apj
+keywords: 'binaries: close, gravitation, hydrodynamics, stars: interiors, stars: neutron,
+  stars: oscillations, waves'
+month: June
+pages: '121'
+papis_id: e7bbfce533736ca0f0018a878cbda7f9
+primaryclass: astro-ph.SR
+ref: weinberg.n.2013
+title: 'An Instability due to the Nonlinear Coupling of p-modes to g-modes: Implications
+  for Coalescing Neutron Star Binaries'
+type: article
+volume: '769'
+year: '2013'

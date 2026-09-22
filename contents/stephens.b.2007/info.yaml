@@ -1,0 +1,48 @@
+abstract: The capacity to model magnetohydrodynamical (MHD) flows in dynamical, strongly
+  curved spacetimes significantly extends the reach of numerical relativity in addressing
+  many problems at the forefront of theoretical astrophysics. We have developed and
+  tested an evolution code for the coupled Einstein Maxwell-MHD equations which combines
+  a BSSN solver with a high resolution shock capturing scheme. As one application,
+  we evolve magnetized, differentially rotating neutron stars under the influence
+  of a small seed magnetic field. Of particular significance is the behaviour found
+  for hypermassive neutron stars (HMNSs), which have rest masses greater than the
+  mass limit allowed by uniform rotation for a given equation of state. The remnant
+  of a binary neutron star merger is likely to be a HMNS. We find that magnetic braking
+  and the magnetorotational instability lead to the collapse of HMNSs and the formation
+  of rotating black holes surrounded by massive, hot accretion tori and collimated
+  magnetic field lines. Such tori radiate strongly in neutrinos, and the resulting
+  neutrino antineutrino annihilation (possibly in concert with energy extraction by
+  MHD effects) could provide enough energy to power short-hard gamma-ray bursts. To
+  explore the range of outcomes, we also evolve differentially rotating neutron stars
+  with lower masses and angular momenta than the HMNS models. Instead of collapsing,
+  the non-hypermassive models form nearly uniformly rotating central objects which,
+  in cases with significant angular momentum, are surrounded by massive tori.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S.207S
+author: Stephens, B. C. and Duez, M. D. and Liu, Y. T. and Shapiro, S. L. and Shibata,
+  M.
+author_list:
+- family: Stephens
+  given: B. C.
+- family: Duez
+  given: M. D.
+- family: Liu
+  given: Y. T.
+- family: Shapiro
+  given: S. L.
+- family: Shibata
+  given: M.
+date-added: 2017-08-11 06:12:26 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1088/0264-9381/24/12/S14
+eprint: gr-qc/0610103
+journal: Classical and Quantum Gravity
+month: June
+pages: S207-S219
+papis_id: 70c44811343a027e10701db59346cc31
+ref: stephens.b.2007
+title: Collapse and black hole formation in magnetized, differentially rotating neutron
+  stars
+type: article
+volume: '24'
+year: '2007'

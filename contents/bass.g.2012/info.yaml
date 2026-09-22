@@ -1,0 +1,64 @@
+abstract: KIC 6131659 is a long-period (17.5 days) eclipsing binary discovered by
+  the Kepler mission. We analyzed six quarters of Kepler data along with supporting
+  ground-based photometric and spectroscopic data to obtain accurate values for the
+  mass and radius of both stars, namely, M 1 = 0.922 $\pm$ 0.007 M \&sun;, R 1 = 0.8800
+  \$\pm\$ 0.0028 R \&sun;, and M 2 = 0.685 \$\pm\$ 0.005 M \&sun;, R 2 = 0.6395 \$\pm\$
+  0.0061 R \&sun;. There is a well-known issue with low-mass (M <~ 0.8 M \&sun;) stars
+  (in cases where the mass and radius measurement uncertainties are smaller than 2\%
+  or 3\%) where the measured radii are almost always 5\% to 15\% larger than expected
+  from evolutionary models, i.e., the measured radii are all above the model isochrones
+  in a mass-radius plane. In contrast, the two stars in KIC 6131659 were found to
+  sit on the same theoretical isochrone in the mass-radius plane. Until recently,
+  all of the well-studied eclipsing binaries with low-mass stars had periods of less
+  than about three days. The stars in such systems may have been inflated by high
+  levels of stellar activity induced by tidal effects in these close binaries. KIC
+  6131659 shows essentially no evidence of enhanced stellar activity, and our measurements
+  support the hypothesis that the unusual mass-radius relationship observed in most
+  low-mass stars is influenced by strong magnetic activity created by the rapid rotation
+  of the stars in tidally locked, short-period systems. Finally, using short cadence
+  data, we show that KIC 6131657 has one of the smallest measured non-zero eccentricities
+  of a binary with two main-sequence stars, where ecos omega = (4.57 \$\pm\$ 0.02)
+  \texttimes{} 10-5.  Based on observations obtained with the Hobby-Eberly Telescope,
+  which is a joint project of the University of Texas at Austin, the Pennsylvania
+  State University, Stanford University, Ludwig-Maximilians-Universit{\"a}t M{\"u}nchen,
+  and Georg-August-Universit{\"a}t G{\"o}ttingen.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...761..157B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.1068
+author: Bass, G. and Orosz, J. A. and Welsh, W. F. and Windmiller, G. and Ames Gregg,
+  T. and Fetherolf, T. and Wade, R. A. and Quinn, S. N.
+author_list:
+- family: Bass
+  given: G.
+- family: Orosz
+  given: J. A.
+- family: Welsh
+  given: W. F.
+- family: Windmiller
+  given: G.
+- family: Ames Gregg
+  given: T.
+- family: Fetherolf
+  given: T.
+- family: Wade
+  given: R. A.
+- family: Quinn
+  given: S. N.
+date-added: 2017-08-10 20:51:50 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/761/2/157
+eid: '157'
+eprint: '1211.1068'
+journal: \apj
+keywords: 'binaries: eclipsing, stars: fundamental parameters, stars: low-mass'
+month: December
+pages: '157'
+papis_id: b4ea2c0403577140d70278c5be8d7e3e
+primaryclass: astro-ph.SR
+ref: bass.g.2012
+title: Kepler Studies of Low-mass Eclipsing Binaries. I. Parameters of the Long-period
+  Binary KIC 6131659
+type: article
+volume: '761'
+year: '2012'

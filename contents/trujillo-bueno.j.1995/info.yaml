@@ -1,0 +1,47 @@
+abstract: Iterative schemes based on Gauss-Seidel (G-S) and optimal successive over-relaxation
+  (SOR) iteration are shown to provide a dramatic increase in the speed with which
+  non-LTE radiation transfer (RT) problems can be solved. The convergence rates of
+  these new RT methods are identical to those of upper triangular nonlocal approximate
+  operator splitting techniques, but the computing time per iteration and the memory
+  requirements are similar to those of a local operator splitting method. In addition
+  to these properties, both methods are particularly suitable for multidimensional
+  geometry, since they neither require the actual construction of nonlocal approximate
+  operators nor the application of any matrix inversion procedure.  Compared with
+  the currently used Jacobi technique, which is based on the optimal local approximate
+  operator (see Olson, Auer, \& Buchler 1986), the G-S method presented here is faster
+  by a factor 2. It gives excellent smoothing of the high-frequency error components,
+  which makes it the iterative scheme of choice for multigrid radiative transfer.
+  This G-S method can also be suitably combined with standard acceleration techniques
+  to achieve even higher performance.  Although the convergence rate of the optimal
+  SOR scheme developed here for solving non-LTE RT problems is much higher than G-S,
+  the computing time per iteration is also minimal, i.e., virtually identical to that
+  of a local operator splitting method. While the conventional optimal local operator
+  scheme provides the converged solution after a total CPU time (measured in arbitrary
+  units) approximately equal to the number n of points per decade of optical depth,
+  the time needed by this new method based on the optimal SOR iterations is only \&surd;n/2\&surd;2.  This
+  method is competitive with those that result from combining the above-mentioned
+  Jacobi and G-S schemes with the best acceleration techniques.  Contrary to what
+  happens with the local operator splitting strategy currently in use, these novel
+  methods remain effective even under extreme non-LTE conditions in very fine grids.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...455..646T
+author: Trujillo Bueno, J. and Fabiani Bendicho, P.
+author_list:
+- family: Trujillo Bueno
+  given: J.
+- family: Fabiani Bendicho
+  given: P.
+date-added: 2017-08-11 00:46:55 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176612
+journal: \apj
+keywords: 'METHODS: NUMERICAL, RADIATIVE TRANSFER, STARS: ATMOSPHERES'
+month: December
+pages: '646'
+papis_id: a1f0cf79a8af7a224397d2530ff77532
+ref: trujillo_bueno.j.1995
+title: A Novel Iterative Scheme for the Very Fast and Accurate Solution of Non-LTE
+  Radiative Transfer Problems
+type: article
+volume: '455'
+year: '1995'

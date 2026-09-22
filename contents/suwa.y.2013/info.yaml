@@ -1,0 +1,63 @@
+abstract: By implementing the widely used equations of state (EOS) from Lattimer \&
+  Swesty (LS) and H. Shen et al. (SHEN) in core-collapse supernova simulations, we
+  explore possible impacts of these EOS on the post-bounce dynamics prior to the onset
+  of neutrino-driven explosions. Our spherically symmetric (1D) and axially symmetric
+  (2D) models are based on neutrino radiation hydrodynamics including spectral transport,
+  which is solved by the isotropic diffusion source approximation. We confirm that
+  in 1D simulations neutrino-driven explosions cannot be obtained for any of the employed
+  EOS. Impacts of the EOS on the post-bounce hydrodynamics are more clearly visible
+  in 2D simulations. In 2D models of a 15 M \&sun; progenitor using the LS EOS, the
+  stalled bounce shock expands to increasingly larger radii, which is not the case
+  when using the SHEN EOS. Keeping in mind that the omission of the energy drain by
+  heavy-lepton neutrinos in the present scheme could facilitate explosions, we find
+  that 2D models of an 11.2 M \&sun; progenitor produce neutrino-driven explosions
+  for all the EOS under investigation. Models using the LS EOS are slightly more energetic
+  compared with those with the SHEN EOS. The more efficient neutrino heating in the
+  LS models coincides with a higher electron antineutrino luminosity and a larger
+  mass that is enclosed within the gain region. The models based on the LS EOS also
+  show a more vigorous and aspherical downflow of accreting matter to the surface
+  of the protoneutron star (PNS). The accretion pattern is essential for the production
+  and strength of outgoing pressure waves, which can push in turn the shock to larger
+  radii and provide more favorable conditions for the explosion. Based on our models,
+  we investigate several diagnostic indicators of the explosion that have been suggested
+  in the literature, e.g., the amplitude of the standing accretion shock instability
+  mode, the mass-weighted average entropy in the gain region, the PNS radius, the
+  antesonic condition, the ratio of advection and heating timescales, the neutrino
+  heating efficiency, and the growth parameter of convection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764...99S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.6101
+author: Suwa, Y. and Takiwaki, T. and Kotake, K. and Fischer, T. and Liebendörfer,
+  M. and Sato, K.
+author_list:
+- family: Suwa
+  given: Y.
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+- family: Fischer
+  given: T.
+- family: Liebendörfer
+  given: M.
+- family: Sato
+  given: K.
+date-added: 2017-08-10 14:42:14 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/1/99
+eid: '99'
+eprint: '1206.6101'
+journal: \apj
+keywords: 'equation of state, hydrodynamics, neutrinos, stars: neutron, supernovae:
+  general'
+month: February
+pages: '99'
+papis_id: a35c68cd5e45e1b2d5bbb96ceb10caf1
+primaryclass: astro-ph.HE
+ref: suwa.y.2013
+title: On the Importance of the Equation of State for the Neutrino-driven Supernova
+  Explosion Mechanism
+type: article
+volume: '764'
+year: '2013'

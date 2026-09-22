@@ -1,0 +1,52 @@
+abstract: In young dense clusters repeated collisions between massive stars may lead
+  to the formation of a very massive star (above 100 M\&sun;). In the past, the study
+  of the long-term evolution of merger remnants has mostly focused on collisions between
+  low-mass stars (up to about 2 M\&sun;) in the context of blue-straggler formation.
+  The evolution of collision products of more massive stars has not been as thoroughly
+  investigated. In this paper, we study the long-term evolution of a number of stellar
+  mergers formed by the head-on collision of a primary star with a mass of 5-40 M\&sun;
+  with a lower mass star at three points in its evolution in order to better understand
+  their evolution. We use smooth particle hydrodynamics calculations to model the
+  collision between the stars. The outcome of this calculation is reduced to one dimension
+  and imported into a stellar evolution code. We follow the subsequent evolution of
+  the collision product through the main sequence at least until the onset of helium
+  burning. We find that little hydrogen is mixed into the core of the collision products,
+  in agreement with previous studies of collisions between low-mass stars. For collisions
+  involving evolved stars, we find that during the merger the surface nitrogen abundance
+  can be strongly enhanced. The evolution of most of the collision products proceeds
+  analogously to that of normal stars with the same mass, but with a larger radius
+  and luminosity. However, the evolution of collision products that form with a hydrogen-depleted
+  core is markedly different from that of normal stars with the same mass. They undergo
+  a long-lived period of hydrogen-shell burning close to the main-sequence band in
+  the Hertzsprung-Russell diagram and spend the initial part of core-helium burning
+  as compact blue supergiants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.434.3497G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.2445
+author: Glebbeek, E. and Gaburov, E. and Portegies Zwart, S. and Pols, O. R.
+author_list:
+- family: Glebbeek
+  given: E.
+- family: Gaburov
+  given: E.
+- family: Portegies Zwart
+  given: S.
+- family: Pols
+  given: O. R.
+date-added: 2017-08-10 14:13:57 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1268
+eprint: '1307.2445'
+journal: \mnras
+keywords: 'blue stragglers, stars: evolution, stars: general, stars: interior, globular
+  clusters: general'
+month: October
+pages: 3497--3510
+papis_id: 32fa80a7186a80e137873ebd26a486bf
+primaryclass: astro-ph.SR
+ref: glebbeek.e.2013
+title: Structure and evolution of high-mass stellar mergers
+type: article
+volume: '434'
+year: '2013'

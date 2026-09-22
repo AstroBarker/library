@@ -1,0 +1,56 @@
+abstract: Turbulent neutral hydrogen (H I) line widths are often thought to be driven
+  primarily by star formation (SF), but the timescale for converting SF energy to
+  H I kinetic energy is unclear. As a complication, studies on the connection between
+  H I line widths and SF in external galaxies often use broadband tracers for the
+  SF rate, which must implicitly assume that SF histories (SFHs) have been constant
+  over the timescale of the tracer. In this paper, we compare measures of H I energy
+  to time-resolved SFHs in a number of nearby dwarf galaxies. We find that H I energy
+  surface density is strongly correlated only with SF that occurred 30-40 Myr ago.
+  This timescale corresponds to the approximate lifetime of the lowest mass supernova
+  progenitors (~8 M \&sun;). This analysis suggests that the coupling between SF and
+  the neutral interstellar medium is strongest on this timescale, due either to an
+  intrinsic delay between the release of the peak energy from SF or to the coherent
+  effects of many supernova explosions during this interval. At SigmaSFR > 10-3 M
+  \&sun; yr-1 kpc-2, we find a mean coupling efficiency between SF energy and H I
+  energy of epsilon = 0.11 $\pm$ 0.04 using the 30-40 Myr timescale. However, unphysical
+  efficiencies are required in lower SigmaSFR systems, implying that SF is not the
+  primary driver of H I kinematics at SigmaSFR < 10-3 M \&sun; yr-1 kpc-2.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...772..124S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.2420
+author: Stilp, A. M. and Dalcanton, J. J. and Warren, S. R. and Weisz, D. R. and Skillman,
+  E. and Ott, J. and Williams, B. F. and Dolphin, A. E.
+author_list:
+- family: Stilp
+  given: A. M.
+- family: Dalcanton
+  given: J. J.
+- family: Warren
+  given: S. R.
+- family: Weisz
+  given: D. R.
+- family: Skillman
+  given: E.
+- family: Ott
+  given: J.
+- family: Williams
+  given: B. F.
+- family: Dolphin
+  given: A. E.
+date-added: 2017-08-11 08:14:35 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/772/2/124
+eid: '124'
+eprint: '1306.2420'
+journal: \apj
+keywords: 'galaxies: dwarf, galaxies: irregular, galaxies: ISM, galaxies: kinematics
+  and dynamics, galaxies: star formation, ISM: kinematics and dynamics'
+month: August
+pages: '124'
+papis_id: 8f0aa9207d3bf88e83d01c8f9387f18c
+ref: stilp.a.2013
+title: Timescales on which Star Formation Affects the Neutral Interstellar Medium
+type: article
+volume: '772'
+year: '2013'

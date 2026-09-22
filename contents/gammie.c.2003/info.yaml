@@ -1,0 +1,35 @@
+abstract: We describe a conservative, shock-capturing scheme for evolving the equations
+  of general relativistic magnetohydrodynamics. The fluxes are calculated using the
+  Harten, Lax, \& van Leer scheme. A variant of constrained transport, proposed earlier
+  by T{\'o}th, is used to maintain a divergence-free magnetic field. Only the covariant
+  form of the metric in a coordinate basis is required to specify the geometry. We
+  describe code performance on a full suite of test problems in both special and general
+  relativity. On smooth flows we show that it converges at second order. We conclude
+  by showing some results from the evolution of a magnetized torus near a rotating
+  black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...589..444G
+arxivurl: http://arxiv.org/abs/astro-ph/0301509
+author: Gammie, C. F. and McKinney, J. C. and Tóth, G.
+author_list:
+- family: Gammie
+  given: C. F.
+- family: McKinney
+  given: J. C.
+- family: Tóth
+  given: G.
+date-added: 2017-08-10 21:02:38 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/374594
+eprint: astro-ph/0301509
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Methods: Numerical, Magnetohydrodynamics:
+  MHD'
+month: May
+pages: 444--457
+papis_id: 622e0d57a7c9bc3de9175b8c17ea4aba
+ref: gammie.c.2003
+title: 'HARM: A Numerical Scheme for General Relativistic Magnetohydrodynamics'
+type: article
+volume: '589'
+year: '2003'

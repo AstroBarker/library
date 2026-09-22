@@ -1,0 +1,224 @@
+abstract: The Space Telescope Imaging Spectrograph (STIS) was successfully installed
+  into the Hubble Space Telescope (HST) in 1997 February, during the second HST servicing
+  mission, STS-82. STIS is a versatile spectrograph, covering the 115-1000 nm wavelength
+  range in a variety of spectroscopic and imaging modes that take advantage of the
+  angular resolution, unobstructed wavelength coverage, and dark sky offered by the
+  HST. In the months since launch, a number of performance tests and calibrations
+  have been carried out and are continuing. These tests demonstrate that the instrument
+  is performing very well. We present here a synopsis of the results to date.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...492L..83K
+author: Kimble, R. A. and Woodgate, B. E. and Bowers, C. W. and Kraemer, S. B. and
+  Kaiser, M. E. and Gull, T. R. and Heap, S. R. and Danks, A. C. and Boggess, A. and
+  Green, R. F. and Hutchings, J. B. and Jenkins, E. B. and Joseph, C. L. and Linsky,
+  J. L. and Maran, S. P. and Moos, H. W. and Roesler, F. and Timothy, J. G. and Weistrop,
+  D. E. and Grady, J. F. and Loiacono, J. J. and Brown, L. W. and Brumfield, M. D.
+  and Content, D. A. and Feinberg, L. D. and Isaacs, M. N. and Krebs, C. A. and Krueger,
+  V. L. and Melcher, R. W. and Rebar, F. J. and Vitagliano, H. D. and Yagelowich,
+  J. J. and Meyer, W. W. and Hood, D. F. and Argabright, V. S. and Becker, S. I. and
+  Bottema, M. and Breyer, R. R. and Bybee, R. L. and Christon, P. R. and Delamere,
+  A. W. and Dorn, D. A. and Downey, S. and Driggers, P. A. and Ebbets, D. C. and Gallegos,
+  J. S. and Garner, H. and Hetlinger, J. C. and Lettieri, R. L. and Ludtke, C. W.
+  and Michika, D. and Nyquist, R. and Rose, D. M. and Stocker, R. B. and Sullivan,
+  J. F. and Van Houten, C. N. and Woodruff, R. A. and Baum, S. A. and Hartig, G. F.
+  and Balzano, V. and Biagetti, C. and Blades, J. C. and Bohlin, R. C. and Clampin,
+  M. and Doxsey, R. and Ferguson, H. C. and Goudfrooij, P. and Hulbert, S. J. and
+  Kutina, R. and McGrath, M. and Lindler, D. J. and Beck, T. L. and Feggans, J. K.
+  and Plait, P. C. and Sandoval, J. L. and Hill, R. S. and Collins, N. R. and Cornett,
+  R. H. and Fowler, W. B. and Hill, R. J. and Landsman, W. B. and Malumuth, E. M.
+  and Standley, C. and Blouke, M. and Grusczak, A. and Reed, R. and Robinson, R. D.
+  and Valenti, J. A. and Wolfe, T.
+author_list:
+- family: Kimble
+  given: R. A.
+- family: Woodgate
+  given: B. E.
+- family: Bowers
+  given: C. W.
+- family: Kraemer
+  given: S. B.
+- family: Kaiser
+  given: M. E.
+- family: Gull
+  given: T. R.
+- family: Heap
+  given: S. R.
+- family: Danks
+  given: A. C.
+- family: Boggess
+  given: A.
+- family: Green
+  given: R. F.
+- family: Hutchings
+  given: J. B.
+- family: Jenkins
+  given: E. B.
+- family: Joseph
+  given: C. L.
+- family: Linsky
+  given: J. L.
+- family: Maran
+  given: S. P.
+- family: Moos
+  given: H. W.
+- family: Roesler
+  given: F.
+- family: Timothy
+  given: J. G.
+- family: Weistrop
+  given: D. E.
+- family: Grady
+  given: J. F.
+- family: Loiacono
+  given: J. J.
+- family: Brown
+  given: L. W.
+- family: Brumfield
+  given: M. D.
+- family: Content
+  given: D. A.
+- family: Feinberg
+  given: L. D.
+- family: Isaacs
+  given: M. N.
+- family: Krebs
+  given: C. A.
+- family: Krueger
+  given: V. L.
+- family: Melcher
+  given: R. W.
+- family: Rebar
+  given: F. J.
+- family: Vitagliano
+  given: H. D.
+- family: Yagelowich
+  given: J. J.
+- family: Meyer
+  given: W. W.
+- family: Hood
+  given: D. F.
+- family: Argabright
+  given: V. S.
+- family: Becker
+  given: S. I.
+- family: Bottema
+  given: M.
+- family: Breyer
+  given: R. R.
+- family: Bybee
+  given: R. L.
+- family: Christon
+  given: P. R.
+- family: Delamere
+  given: A. W.
+- family: Dorn
+  given: D. A.
+- family: Downey
+  given: S.
+- family: Driggers
+  given: P. A.
+- family: Ebbets
+  given: D. C.
+- family: Gallegos
+  given: J. S.
+- family: Garner
+  given: H.
+- family: Hetlinger
+  given: J. C.
+- family: Lettieri
+  given: R. L.
+- family: Ludtke
+  given: C. W.
+- family: Michika
+  given: D.
+- family: Nyquist
+  given: R.
+- family: Rose
+  given: D. M.
+- family: Stocker
+  given: R. B.
+- family: Sullivan
+  given: J. F.
+- family: Van Houten
+  given: C. N.
+- family: Woodruff
+  given: R. A.
+- family: Baum
+  given: S. A.
+- family: Hartig
+  given: G. F.
+- family: Balzano
+  given: V.
+- family: Biagetti
+  given: C.
+- family: Blades
+  given: J. C.
+- family: Bohlin
+  given: R. C.
+- family: Clampin
+  given: M.
+- family: Doxsey
+  given: R.
+- family: Ferguson
+  given: H. C.
+- family: Goudfrooij
+  given: P.
+- family: Hulbert
+  given: S. J.
+- family: Kutina
+  given: R.
+- family: McGrath
+  given: M.
+- family: Lindler
+  given: D. J.
+- family: Beck
+  given: T. L.
+- family: Feggans
+  given: J. K.
+- family: Plait
+  given: P. C.
+- family: Sandoval
+  given: J. L.
+- family: Hill
+  given: R. S.
+- family: Collins
+  given: N. R.
+- family: Cornett
+  given: R. H.
+- family: Fowler
+  given: W. B.
+- family: Hill
+  given: R. J.
+- family: Landsman
+  given: W. B.
+- family: Malumuth
+  given: E. M.
+- family: Standley
+  given: C.
+- family: Blouke
+  given: M.
+- family: Grusczak
+  given: A.
+- family: Reed
+  given: R.
+- family: Robinson
+  given: R. D.
+- family: Valenti
+  given: J. A.
+- family: Wolfe
+  given: T.
+date-added: 2017-08-10 23:21:32 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/311102
+journal: \apjl
+keywords: 'INSTRUMENTATION: SPECTROGRAPHS, SPACE VEHICLES, TECHNIQUES: SPECTROSCOPIC,
+  ULTRAVIOLET: GENERAL, Instrumentation: Spectrographs, Space Vehicles, Techniques:
+  Spectroscopic, Ultraviolet: General'
+month: January
+pages: L83-L93
+papis_id: 76aaa1359afe0ae79e2265bb3d1e9ede
+ref: kimble.r.1998
+title: The On-Orbit Performance of the Space Telescope Imaging Spectrograph
+type: article
+volume: '492'
+year: '1998'

@@ -1,0 +1,39 @@
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: https://ui.adsabs.harvard.edu/abs/2021ApJS..253...21P
+archiveprefix: arXiv
+author: Pochik, David and Barker, Brandon L. and Endeve, Eirik and Buffaloe, Jesse
+  and Dunham, Samuel J. and Roberts, Nick and Mezzacappa, Anthony
+author_list:
+- family: Pochik
+  given: David
+- family: Barker
+  given: Brandon L.
+- family: Endeve
+  given: Eirik
+- family: Buffaloe
+  given: Jesse
+- family: Dunham
+  given: Samuel J.
+- family: Roberts
+  given: Nick
+- family: Mezzacappa
+  given: Anthony
+doi: 10.3847/1538-4365/abd700
+eid: '21'
+eprint: '2011.04680'
+groups: Numerical Methods - DG, Code/Software
+journal: \apjs
+keywords: Computational methods, Core-collapse supernovae, Hydrodynamical simulations,
+  Nuclear astrophysics, 1965, 304, 767, 1129, Astrophysics - High Energy Astrophysical
+  Phenomena, Physics - Computational Physics
+month: March
+number: '1'
+pages: '21'
+papis_id: 2aaecaa3e870796cb5c9a8d0f66feb54
+primaryclass: astro-ph.HE
+ref: pochik.david.2021
+title: 'thornado-hydro: A Discontinuous Galerkin Method for Supernova Hydrodynamics
+  with Nuclear Equations of State'
+type: article
+volume: '253'
+year: '2021'

@@ -1,0 +1,63 @@
+abstract: 'Context. Vela X-1, a prototypical high-mass X-ray binary (HMXB), hosts
+  a neutron star (NS) in a close orbit around an early-B supergiant donor star. Accretion
+  of the donor star''s wind onto the NS powers its strong X-ray luminosity. To understand
+  the physics of HMXBs, detailed knowledge about the donor star winds is required.  Aims:
+  To gain a realistic picture of the donor star in Vela X-1, we constructed a hydrodynamically
+  consistent atmosphere model describing the wind stratification while properly reproducing
+  the observed donor spectrum. To investigate how X-ray illumination affects the stellar
+  wind, we calculated additional models for different X-ray luminosity regimes.  Methods:
+  We used the recently updated version of the Potsdam Wolf-Rayet code to consistently
+  solve the hydrodynamic equation together with the statistical equations and the
+  radiative transfer.  Results: The wind flow in Vela X-1 is driven by ions from various
+  elements, with Fe III and S III leading in the outer wind. The model-predicted mass-loss
+  rate is in line with earlier empirical studies. The mass-loss rate is almost unaffected
+  by the presence of the accreting NS in the wind. The terminal wind velocity is confirmed
+  at v\infty{}\approx{} 600 km s-1. On the other hand, the wind velocity in the inner
+  region where the NS is located is only \approx{}100 km s-1, which is not expected
+  on the basis of a standard beta-velocity law. In models with an enhanced level of
+  X-rays, the velocity field in the outer wind can be altered. If the X-ray flux is
+  too high, the acceleration breaks down because the ionization increases.  Conclusions:
+  Accounting for radiation hydrodynamics, our Vela X-1 donor atmosphere model reveals
+  a low wind speed at the NS location, and it provides quantitative information on
+  wind driving in this important HMXB.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018A\%26A...610A..60S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1708.02947
+author: Sander, A. A. C. and Fürst, F. and Kretschmar, P. and Oskinova, L. M. and
+  Todt, H. and Hainich, R. and Shenar, T. and Hamann, W.-R.
+author_list:
+- family: Sander
+  given: A. A. C.
+- family: Fürst
+  given: F.
+- family: Kretschmar
+  given: P.
+- family: Oskinova
+  given: L. M.
+- family: Todt
+  given: H.
+- family: Hainich
+  given: R.
+- family: Shenar
+  given: T.
+- family: Hamann
+  given: W.-R.
+date-added: 2018-04-25 23:54:22 +0000
+date-modified: 2018-04-25 23:54:23 +0000
+doi: 10.1051/0004-6361/201731575
+eid: A60
+eprint: '1708.02947'
+journal: \aap
+keywords: 'stars: mass-loss, stars: winds, outflows, stars: early-type, stars: atmospheres,
+  stars: massive, X-rays: binaries'
+month: February
+pages: A60
+papis_id: 64dfc503f928523b6ee57b403c09b46f
+primaryclass: astro-ph.SR
+ref: sander.a.2018
+title: Coupling hydrodynamics with comoving frame radiative transfer. II. Stellar
+  wind stratification in the high-mass X-ray binary Vela X-1
+type: article
+volume: '610'
+year: '2018'

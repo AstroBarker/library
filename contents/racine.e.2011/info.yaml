@@ -1,0 +1,54 @@
+abstract: In this paper, we examine the mode of dynamo action in the implicit large-eddy
+  magnetohydrodynamical simulation of solar convection reported upon in Ghizaru et
+  al. Motivated by the presence of a strong and well-defined large-scale axisymmetric
+  magnetic component undergoing regular polarity reversals, we define the fluctuating
+  component of the magnetic field as the difference between the total field and its
+  zonal average. The subsequent analysis follows the physical logic and mathematical
+  formulation of mean-field electrodynamics, whereby a turbulent electromotive force
+  (EMF) is computed by the suitable averaging of cross-correlations between fluctuating
+  flow and field components and expressed in terms of the mean field via a linear
+  truncated tensorial expansion. We use singular value decomposition to perform a
+  linear least-squares fit of the temporal variation of the EMF to that of the large-scale
+  magnetic component, which yields the components of the full alpha-tensor. Its antisymmetric
+  component, describing general turbulent pumping, is also extracted. The alpha-tensor
+  so calculated reproduces a number of features already identified in local, Cartesian
+  simulations of magnetohydrodynamical rotating convection, including an alphaphiphi
+  component positive in the northern solar hemisphere, peaking at high latitudes,
+  and reversing sign near the bottom of the convection zone; downward turbulent pumping
+  throughout the convecting layer; and significant equatorward turbulent pumping at
+  mid latitudes, and poleward at high latitudes in subsurface layers. We also find
+  that the EMF contributes significantly to the regeneration of the large-scale toroidal
+  magnetic component, which from the point of view of mean-field dynamo models would
+  imply that the simulation operates as an alpha2Omega dynamo. We find little significant
+  evidence of alpha-quenching by the large-scale magnetic field. The amplitude of
+  the magnetic cycle appears instead to be regulated primarily by a magnetically driven
+  reduction of the differential rotation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...735...46R
+author: Racine, É. and Charbonneau, P. and Ghizaru, M. and Bouchat, A. and Smolarkiewicz,
+  P. K.
+author_list:
+- family: Racine
+  given: É.
+- family: Charbonneau
+  given: P.
+- family: Ghizaru
+  given: M.
+- family: Bouchat
+  given: A.
+- family: Smolarkiewicz
+  given: P. K.
+date-added: 2017-08-11 07:54:24 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/735/1/46
+eid: '46'
+journal: \apj
+keywords: 'convection, magnetohydrodynamics: MHD, Sun: dynamo, Sun: interior'
+month: July
+pages: '46'
+papis_id: 55a8cf611c0f42adeca17d5542a2fc12
+ref: racine.e.2011
+title: On the Mode of Dynamo Action in a Global Large-eddy Simulation of Solar Convection
+type: article
+volume: '735'
+year: '2011'

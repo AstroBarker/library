@@ -1,0 +1,62 @@
+abstract: In the double-detonation scenario for Type Ia supernovae, it is suggested
+  that a detonation initiates in a shell of helium-rich material accreted from a companion
+  star by a sub-Chandrasekhar-mass white dwarf. This shell detonation drives a shock
+  front into the carbon-oxygen white dwarf that triggers a secondary detonation in
+  the core. The core detonation results in a complete disruption of the white dwarf.
+  Earlier studies concluded that this scenario has difficulties in accounting for
+  the observed properties of Type Ia supernovae since the explosion ejecta are surrounded
+  by the products of explosive helium burning in the shell. Recently, however, it
+  was proposed that detonations might be possible for much less massive helium shells
+  than previously assumed (Bildsten et al.). Moreover, it was shown that even detonations
+  of these minimum helium shell masses robustly trigger detonations of the carbon-oxygen
+  core (Fink et al.). Therefore, it is possible that the impact of the helium layer
+  on observables is less than previously thought. Here, we present time-dependent
+  multi-wavelength radiative transfer calculations for models with minimum helium
+  shell mass and derive synthetic observables for both the optical and gamma-ray spectral
+  regions. These differ strongly from those found in earlier simulations of sub-Chandrasekhar-mass
+  explosions in which more massive helium shells were considered. Our models predict
+  light curves that cover both the range of brightnesses and the rise and decline
+  times of observed Type Ia supernovae. However, their colors and spectra do not match
+  the observations. In particular, their B - V colors are generally too red. We show
+  that this discrepancy is mainly due to the composition of the burning products of
+  the helium shell of the Fink et al. models which contain significant amounts of
+  titanium and chromium. Using a toy model, we also show that the burning products
+  of the helium shell depend crucially on its initial composition. This leads us to
+  conclude that good agreement between sub-Chandrasekhar-mass explosions and observed
+  Type Ia supernovae may still be feasible but further study of the shell properties
+  is required.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...719.1067K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.4489
+author: Kromer, M. and Sim, S. A. and Fink, M. and Röpke, F. K. and Seitenzahl, I.
+  R. and Hillebrandt, W.
+author_list:
+- family: Kromer
+  given: M.
+- family: Sim
+  given: S. A.
+- family: Fink
+  given: M.
+- family: Röpke
+  given: F. K.
+- family: Seitenzahl
+  given: I. R.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:23:34 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0004-637X/719/2/1067
+eprint: '1006.4489'
+journal: \apj
+keywords: 'methods: numerical, radiative transfer, supernovae: general'
+month: August
+pages: 1067--1082
+papis_id: 26c5646f4ea768f6ca6bfee72199771e
+primaryclass: astro-ph.HE
+ref: kromer.m.2010
+title: 'Double-detonation Sub-Chandrasekhar Supernovae: Synthetic Observables for
+  Minimum Helium Shell Mass Models'
+type: article
+volume: '719'
+year: '2010'

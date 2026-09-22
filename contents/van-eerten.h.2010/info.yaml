@@ -1,0 +1,47 @@
+abstract: Starting as highly relativistic collimated jets, gamma-ray burst outflows
+  gradually slow down and become nonrelativistic spherical blast waves. Although detailed
+  analytical solutions describing the afterglow emission received by an on-axis observer
+  during both the early and late phases of the outflow evolution exist, a calculation
+  of the received flux during the intermediate phase and for an off-axis observer
+  requires either a more simplified analytical model or direct numerical simulations
+  of the outflow dynamics. In this paper, we present light curves for off-axis observers
+  covering the long-term evolution of the blast wave, calculated from a high-resolution
+  two-dimensional relativistic hydrodynamics simulation using a synchrotron radiation
+  model. We compare our results to earlier analytical work and calculate the consequence
+  of the observer angle with respect to the jet axis both for the detection of orphan
+  afterglows and for jet break fits to the observational data. We confirm earlier
+  results in the literature finding that only a very small number of local type Ibc
+  supernovae can harbor an orphan afterglow. For off-axis observers, the observable
+  jet break can be delayed up to several weeks, potentially leading to overestimation
+  of the beaming-corrected total energy. In addition we find that, when using our
+  off-axis light curves to create synthetic Swift X-ray data, jet breaks are likely
+  to remain hidden in the data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722..235V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.5125
+author: van Eerten, H. and Zhang, W. and MacFadyen, A.
+author_list:
+- family: van Eerten
+  given: H.
+- family: Zhang
+  given: W.
+- family: MacFadyen
+  given: A.
+date-added: 2017-08-10 22:14:27 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/1/235
+eprint: '1006.5125'
+journal: \apj
+keywords: 'acceleration of particles, gamma-ray burst: general, hydrodynamics, methods:
+  numerical, relativistic processes, shock waves'
+month: October
+pages: 235--247
+papis_id: 0ede7a40f7949c5ac07c836ee1c4cc58
+primaryclass: astro-ph.HE
+ref: van_eerten.h.2010
+title: Off-axis Gamma-ray Burst Afterglow Modeling Based on a Two-dimensional Axisymmetric
+  Hydrodynamics Simulation
+type: article
+volume: '722'
+year: '2010'

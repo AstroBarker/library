@@ -1,0 +1,43 @@
+abstract: A numerical model of isotropic homogeneous turbulence with helical forcing
+  is investigated. The resulting flow, which is essentially the prototype of the alpha2
+  dynamo of mean field dynamo theory, produces strong dynamo action with an additional
+  large-scale field on the scale of the box (at wavenumber k=1; forcing is at k=5).
+  This large-scale field is nearly force free and exceeds the equipartition value.
+  As the magnetic Reynolds number Rm increases, the saturation field strength and
+  the growth rate of the dynamo increase. However, the time it takes to build up the
+  large-scale field from equipartition to its final superequipartition value increases
+  with magnetic Reynolds number. The large-scale field generation can be identified
+  as being due to nonlocal interactions originating from the forcing scale, which
+  is characteristic of the alpha-effect. Both alpha and turbulent magnetic diffusivity
+  etat are determined simultaneously using numerical experiments where the mean field
+  is modified artificially. Both quantities are quenched in an Rm-dependent fashion.
+  The evolution of the energy of the mean field matches that predicted by an alpha2
+  dynamo model with similar alpha and etat quenchings. For this model an analytic
+  solution is given that matches the results of the simulations. The simulations are
+  numerically robust in that the shape of the spectrum at large scales is unchanged
+  when changing the resolution from 303 to 1203 mesh points, or when increasing the
+  magnetic Prandtl number (viscosity/magnetic diffusivity) from 1 to 100. Increasing
+  the forcing wavenumber to 30 (i.e., increasing the scale separation) makes the inverse
+  cascade effect more pronounced, although it remains otherwise qualitatively unchanged.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...550..824B
+arxivurl: http://arxiv.org/abs/astro-ph/0006186
+author: Brandenburg, A.
+author_list:
+- family: Brandenburg
+  given: A.
+date-added: 2017-08-11 01:50:49 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319783
+eprint: astro-ph/0006186
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Turbulence'
+month: April
+pages: 824--840
+papis_id: fcb272c320582a707e7e209cfe1eb236
+ref: brandenburg.a.2001
+title: The Inverse Cascade and Nonlinear Alpha-Effect in Simulations of Isotropic
+  Helical Hydromagnetic Turbulence
+type: article
+volume: '550'
+year: '2001'

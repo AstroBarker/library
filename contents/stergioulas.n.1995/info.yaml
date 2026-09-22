@@ -1,0 +1,49 @@
+abstract: We present the first direct comparison of codes based on two different numerical
+  methods for constructing rapidly rotating relativistic stars. A code based on the
+  Komatsu-Eriguchi-Hachisu (KEH) method (Komatsu et al. 1989), written by Stergioulas,
+  is compared to the Butterworth-Ipser code (BI), as modified by Friedman, Ipser,
+  \& Parker. We compare models obtained by each method and evaluate the accuracy and
+  efficiency of the two codes. The agreement is surprisingly good, and error bars
+  in the published numbers for maximum frequencies based on BI are dominated not by
+  the code inaccuracy but by the number of models used to approximate a continuous
+  sequence of stars. The BI code is faster per iteration, and it converges more rapidly
+  at low density, while KEH converges more rapidly at high density; KEH also converges
+  in regions where BI does not, allowing one to compute some models unstable against
+  collapse that are inaccessible to the BI code. A relatively large discrepancy recently
+  reported (Eriguchi et al. 1994) for models based on Friedman-Pandharipande equation
+  of state is found to arise from the use of two different versions of the equation
+  of state. For two representative equations of state, the two-dimensional space of
+  equilibrium configurations is displayed as a surface in a three-dimensional space
+  of angular momentum, mass, and central density. We find, for a given equation of
+  state, that equilibrium models with maximum values of mass, baryon mass, and angular
+  momentum are (generically) either all unstable to collapse or are all stable. In
+  the first case, the stable model with maximum angular velocity is also the model
+  with maximum mass, baryon mass, and angular momentum. In the second case, the stable
+  models with maximum values of these quantities are all distinct. Our implementation
+  of the KEH method will be available as a public domain program for interested users.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...444..306S
+arxivurl: http://arxiv.org/abs/astro-ph/9411032
+author: Stergioulas, N. and Friedman, J. L.
+author_list:
+- family: Stergioulas
+  given: N.
+- family: Friedman
+  given: J. L.
+date-added: 2017-08-10 17:54:18 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175605
+eprint: astro-ph/9411032
+journal: \apj
+keywords: Computational Astrophysics, Computerized Simulation, Numerical Analysis,
+  Relativistic Velocity, Stellar Models, Stellar Rotation, Computer Programs, Efficiency,
+  Equations Of State, Neutron Stars, Stability
+month: May
+pages: 306--311
+papis_id: 8a57414037962d0194068f058174f61f
+ref: stergioulas.n.1995
+title: Comparing models of rapidly rotating relativistic stars constructed by two
+  numerical methods
+type: article
+volume: '444'
+year: '1995'

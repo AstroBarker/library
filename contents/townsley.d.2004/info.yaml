@@ -1,0 +1,42 @@
+abstract: White dwarfs (WDs) experience a thermal renaissance when they receive mass
+  from a stellar companion in a binary. For accretion rates of less than 10-8Msolaryr-1,
+  the freshly accumulated hydrogen/helium envelope ignites in a thermally unstable
+  manner that results in a classical nova (CN) outburst and ejection of material.
+  We have undertaken a theoretical study of the impact of the accumulating envelope
+  on the thermal state of the underlying WD. This has allowed us to find the equilibrium
+  WD core temperatures (Tc), the CN ignition masses (Mign), and the thermal luminosities
+  for WDs accreting at rates of 10-11 to 10-8 Msolar yr-1. These accretion rates are
+  most appropriate for WDs in cataclysmic variables (CVs) of Porb<~7 hr, many of which
+  accrete sporadically as dwarf novae. We have included 3He in the accreted material
+  at levels appropriate for CVs and find that it significantly modifies the CN ignition
+  mass. We compare our results with several others from the CN literature and find
+  that the inclusion of 3He leads to lower values of Mign for <M>>~10-10Msolaryr-1
+  and that for <M> values below this the particular author's assumption concerning
+  Tc, which we calculate consistently, is a determining factor. Initial comparisons
+  of our CN ignition masses with measured ejected masses find reasonable agreement
+  and point to ejection of material comparable to that accreted.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...600..390T
+arxivurl: http://arxiv.org/abs/astro-ph/0306080
+author: Townsley, D. M. and Bildsten, L.
+author_list:
+- family: Townsley
+  given: D. M.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 19:46:48 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379647
+eprint: astro-ph/0306080
+journal: \apj
+keywords: 'Stars: Binaries: Close, Stars: Novae, Cataclysmic Variables, Nuclear Reactions,
+  Nucleosynthesis, Abundances, Stars: Dwarf Novae, Stars: White Dwarfs'
+month: January
+pages: 390--403
+papis_id: fb75993065bc791a146ffa0df7f90579
+ref: townsley.d.2004
+title: Theoretical Modeling of the Thermal State of Accreting White Dwarfs Undergoing
+  Classical Nova Cycles
+type: article
+volume: '600'
+year: '2004'

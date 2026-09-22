@@ -1,0 +1,33 @@
+abstract: Two-dimensional conservation equations of mass, momentum, and energy are
+  integrated over time by finite-difference techniques for several pulsating RR Lyrae
+  models. Convective motion is generated naturally in convectively unstable regions
+  from computer roundoff error. Time dependence is governed solely by the integration
+  of the equations. The numerical approach and assumptions are discussed in detail.
+  The analysis is primarily concerned with the dependence of convection on pulsation
+  phase, which is the result most independent of the various approximations. Cases
+  in which convection plays a major role and where its effects are comparatively minor
+  are both considered. Based on the time dependence, the suppression of radial pulsation
+  is discussed, and a preliminary determination is made of the position of the red
+  edge.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1977ApJ...211..509D
+author: Deupree, R. G.
+author_list:
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-10 18:34:28 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/154958
+journal: \apj
+keywords: Cepheid Variables, Convective Flow, Stellar Envelopes, Stellar Models, Conservation
+  Equations, Finite Difference Theory, Numerical Integration, Pulsed Radiation, Time
+  Dependence
+month: January
+pages: 509--526
+papis_id: 0cfcda505184354dc8669acf19a6b8de
+ref: deupree.r.1977
+title: The theoretical red edge of the RR Lyrae gap. I - Dependence of convection
+  on pulsation phase
+type: article
+volume: '211'
+year: '1977'

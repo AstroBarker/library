@@ -1,0 +1,50 @@
+abstract: 'We present detailed comparisons of the intracluster medium (ICM) in cosmological
+  Eulerian cluster simulations with deep Chandra observations of nearby relaxed clusters.
+  To assess the impact of galaxy formation, we compare two sets of simulations, one
+  performed in the nonradiative regime and another with radiative cooling and several
+  physical processes critical to various aspects of galaxy formation: star formation,
+  metal enrichment, and stellar feedback. We show that the observed ICM properties
+  outside cluster cores are well reproduced in the simulations that include cooling
+  and star formation, while the nonradiative simulations predict an overall shape
+  of the ICM profiles inconsistent with observations. In particular, we find that
+  the ICM entropy in our runs with cooling is enhanced to the observed levels at radii
+  as large as half of the virial radius. We also find that outside cluster cores entropy
+  scaling with the mean ICM temperature in both simulations and Chandra observations
+  is consistent with being self-similar within current error bars. We find that the
+  pressure profiles of simulated clusters are also close to self-similar and exhibit
+  little cluster-to-cluster scatter. We provide analytic fitting formulae for the
+  pressure profiles of the simulated and observed clusters. The X-ray observable mass
+  relations for our simulated sample agree with the Chandra measurements to ~10\%-20\%
+  in normalization. We show that this systematic difference could be caused by the
+  subsonic gas motions, unaccounted for in X-ray hydrostatic mass estimates. The much
+  improved agreement of simulations and observations in the ICM profiles and scaling
+  relations is encouraging, and the existence of tight relations of X-ray observables,
+  such as YX, and total cluster mass and the simple redshift evolution of these relations
+  hold promise for the use of clusters as cosmological probes. However, the disagreement
+  between the predicted and observed fractions of cluster baryons in stars remains
+  a major puzzle.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...668....1N
+arxivurl: http://arxiv.org/abs/astro-ph/0703661
+author: Nagai, D. and Kravtsov, A. V. and Vikhlinin, A.
+author_list:
+- family: Nagai
+  given: D.
+- family: Kravtsov
+  given: A. V.
+- family: Vikhlinin
+  given: A.
+date-added: 2017-08-11 05:12:56 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521328
+eprint: astro-ph/0703661
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Clusters: General, Methods: Numerical'
+month: October
+pages: 1--14
+papis_id: db741b6ab05131547c15f9f3fc1ae809
+ref: nagai.d.2007
+title: Effects of Galaxy Formation on Thermodynamics of the Intracluster Medium
+type: article
+volume: '668'
+year: '2007'

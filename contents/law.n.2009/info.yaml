@@ -1,0 +1,126 @@
+abstract: 'The Palomar Transient Factory (PTF) is a fully-automated, wide-field survey
+  aimed at a systematic exploration of the optical transient sky. The transient survey
+  is performed using a new 8.1 square degree camera installed on the 48 inch Samuel
+  Oschin telescope at Palomar Observatory; colors and light curves for detected transients
+  are obtained with the automated Palomar 60 inch telescope. PTF uses 80\% of the
+  1.2 m and 50\% of the 1.5 m telescope time. With an exposure of 60 s the survey
+  reaches a depth of mg'' \approx{} 21.3 and mR \approx{} 20.6 (5sigma, median seeing).
+  Four major experiments are planned for the five-year project: (1) a 5 day cadence
+  supernova search; (2) a rapid transient search with cadences between 90 s and 1
+  day (3) a search for eclipsing binaries and transiting planets in Orion; and (4)
+  a 3pi sr deep H-alpha survey. PTF provides automatic, real-time transient classification
+  and follow-up, as well as a database including every source detected in each frame.
+  This paper summarizes the PTF project, including several months of on-sky performance
+  tests of the new survey camera, the observing plans, and the data reduction strategy.
+  We conclude by detailing the first 51 PTF optical transient detections, found in
+  commissioning data.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009PASP..121.1395L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.5350
+author: Law, N. M. and Kulkarni, S. R. and Dekany, R. G. and Ofek, E. O. and Quimby,
+  R. M. and Nugent, P. E. and Surace, J. and Grillmair, C. C. and Bloom, J. S. and
+  Kasliwal, M. M. and Bildsten, L. and Brown, T. and Cenko, S. B. and Ciardi, D. and
+  Croner, E. and Djorgovski, S. G. and van Eyken, J. and Filippenko, A. V. and Fox,
+  D. B. and Gal-Yam, A. and Hale, D. and Hamam, N. and Helou, G. and Henning, J. and
+  Howell, D. A. and Jacobsen, J. and Laher, R. and Mattingly, S. and McKenna, D. and
+  Pickles, A. and Poznanski, D. and Rahmer, G. and Rau, A. and Rosing, W. and Shara,
+  M. and Smith, R. and Starr, D. and Sullivan, M. and Velur, V. and Walters, R. and
+  Zolkower, J.
+author_list:
+- family: Law
+  given: N. M.
+- family: Kulkarni
+  given: S. R.
+- family: Dekany
+  given: R. G.
+- family: Ofek
+  given: E. O.
+- family: Quimby
+  given: R. M.
+- family: Nugent
+  given: P. E.
+- family: Surace
+  given: J.
+- family: Grillmair
+  given: C. C.
+- family: Bloom
+  given: J. S.
+- family: Kasliwal
+  given: M. M.
+- family: Bildsten
+  given: L.
+- family: Brown
+  given: T.
+- family: Cenko
+  given: S. B.
+- family: Ciardi
+  given: D.
+- family: Croner
+  given: E.
+- family: Djorgovski
+  given: S. G.
+- family: van Eyken
+  given: J.
+- family: Filippenko
+  given: A. V.
+- family: Fox
+  given: D. B.
+- family: Gal-Yam
+  given: A.
+- family: Hale
+  given: D.
+- family: Hamam
+  given: N.
+- family: Helou
+  given: G.
+- family: Henning
+  given: J.
+- family: Howell
+  given: D. A.
+- family: Jacobsen
+  given: J.
+- family: Laher
+  given: R.
+- family: Mattingly
+  given: S.
+- family: McKenna
+  given: D.
+- family: Pickles
+  given: A.
+- family: Poznanski
+  given: D.
+- family: Rahmer
+  given: G.
+- family: Rau
+  given: A.
+- family: Rosing
+  given: W.
+- family: Shara
+  given: M.
+- family: Smith
+  given: R.
+- family: Starr
+  given: D.
+- family: Sullivan
+  given: M.
+- family: Velur
+  given: V.
+- family: Walters
+  given: R.
+- family: Zolkower
+  given: J.
+date-added: 2017-08-10 15:57:29 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1086/648598
+eprint: '0906.5350'
+journal: \pasp
+month: December
+pages: '1395'
+papis_id: d06432f3b688576b3907ad3438a3f18e
+primaryclass: astro-ph.IM
+ref: law.n.2009
+title: 'The Palomar Transient Factory: System Overview, Performance, and First Results'
+type: article
+volume: '121'
+year: '2009'

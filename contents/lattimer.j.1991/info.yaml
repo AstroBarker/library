@@ -1,0 +1,35 @@
+abstract: An equation of state for hot, dense matter is presented in a form that is
+  sufficiently rapid to use directly in hydrodynamical simulations, for example, in
+  stellar collapse calculations. It contains an adjustable nuclear force that accurately
+  models both potential and mean-field interactions, and it allows for the input of
+  various nuclear parameters, some of which are not yet experimentally well-determined.
+  These include the bulk incompressibility parameter, the bulk and surface symmetry
+  energies, the symmetric matter surface tension, and the nucleon effective masses.
+  This permits parametric studies of the equation of state in astrophysical situations.
+  The equation of state is modelled after the Lattimer, Lamb, Pethick and Ravenhall
+  LLPR compressible liquid-drop model for nuclei, and includes the effects of interactions
+  and degeneracy of the nucleons outside nuclei. Account is also taken of nuclear
+  deformations and the phase transitions from nuclei to uniform nuclear matter at
+  subnuclear densities. Comparisons of this equation of state are made to the results
+  of the LLPR model and the Cooperstein-Baron equation of state. The effects of varying
+  the bulk incompressibility are also investigated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991NuPhA.535..331L
+author: Lattimer, J. M. and Douglas Swesty, F.
+author_list:
+- family: Lattimer
+  given: J. M.
+- family: Douglas Swesty
+  given: F.
+date-added: 2017-08-10 14:06:56 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1016/0375-9474(91)90452-C
+journal: Nuclear Physics A
+month: December
+pages: 331--376
+papis_id: fac4f0a579839d3cae834752a7a02873
+ref: lattimer.j.1991
+title: A generalized equation of state for hot, dense matter
+type: article
+volume: '535'
+year: '1991'

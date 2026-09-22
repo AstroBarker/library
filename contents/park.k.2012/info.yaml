@@ -1,0 +1,48 @@
+abstract: This paper, the second in a series on radiation-regulated accretion onto
+  black holes (BHs) from galactic scales, focuses on the effects of radiation pressure
+  and angular momentum of the accreting gas. We simulate accretion onto intermediate-mass
+  black holes, but we derive general scaling relationships that are solutions of the
+  Bondi problem with radiation feedback valid for any mass of the BH M bh. Thermal
+  pressure of the ionized sphere around the BH regulates the accretion rate, producing
+  periodic and short-lived luminosity bursts. We find that for ambient gas densities
+  exceeding n cr H, \infty{}vpropM -1 bh, the period of the oscillations decreases
+  rapidly and the duty cycle increases from 6\%, in agreement with observations of
+  the fraction of active galactic nuclei at z ~ 3, to 50\%. The mean accretion rate
+  becomes Eddington limited for n H, \infty{} > n Edd H, \infty{} ~= n cr H, \infty{}
+  T \infty{}, 4 -1 where T \infty{}, 4 is the gas temperature in units of 104 K. In
+  the sub-Eddington regime, the mean accretion rate onto BHs is about 1\%T 2.5 \infty{},
+  4 of the Bondi rate, and thus is proportional to the thermal pressure of the ambient
+  medium. The period of the oscillations coincides with the depletion timescale of
+  the gas inside the ionized bubble surrounding the BH. Gas depletion is dominated
+  by a pressure gradient pushing the gas outward if n H, \infty{} < n cr H, \infty{}
+  and by accretion onto the BH otherwise. Generally, for n H, \infty{} < n cr H, \infty{}
+  angular momentum does not significantly affect the accretion rate and period of
+  the oscillations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747....9P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.4634
+author: Park, K. and Ricotti, M.
+author_list:
+- family: Park
+  given: K.
+- family: Ricotti
+  given: M.
+date-added: 2017-08-10 21:51:24 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/1/9
+eid: '9'
+eprint: '1110.4634'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, dark ages, reionization,
+  first stars, hydrodynamics, methods: numerical, radiative transfer'
+month: March
+pages: '9'
+papis_id: cd72443acce17916cb8ed735a98832b7
+primaryclass: astro-ph.CO
+ref: park.k.2012
+title: Accretion onto Black Holes from Large Scales Regulated by Radiative Feedback.
+  II. Growth Rate and Duty Cycle
+type: article
+volume: '747'
+year: '2012'

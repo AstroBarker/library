@@ -1,0 +1,47 @@
+abstract: The initial interaction of a supernova with its surrounding medium gives
+  rise to a double shell structure bounded by shock waves, in which the deceleration
+  of the supernova gas is subject to hydrodynamic instabilities. For the case where
+  the surrounding medium is a circumstellar wind, the high density at early times
+  can give rise to radiative cooling of the shocked supernova gas, in which case the
+  shocked supernova gas forms a very thin shell. We analyze the instability in the
+  thin shell approximation and find an expression for the linear growth rate that
+  can be compared to results from adiabatic calculations. For perturbed wavelengths
+  that are larger than the adiabatic supernova shell thickness, there is excellent
+  agreement between the two growth rates; at smaller wavelengths, the thin shell growth
+  rate becomes larger than that in the adiabatic case. The results show that the thin
+  shell analysis incorporates the salient physical situation for the instability.
+  Numerical simulations confirm the instability analysis in the linear regime and
+  allow the instability to be studied in the nonlinear regime. With radiative cooling,
+  the instability saturates at an amplitude comparable to that found for the adiabatic
+  case - at about half the shell thickness for one case. It appears that once the
+  density contrast becomes large, the outcome of the instability no longer depends
+  on the density contrast. The importance of the instability for radio supernovae
+  is that cool, partially ionized gas is mixed into the region that may give rise
+  to radio synchrotron emission. The resulting free-free absorption may be a factor
+  in the turn-on of radio supernovae. Variations in the shell column density around
+  the shocked shell can be a factor in the absorption of X-rays from the reverse shock
+  front. The clumpiness can also give fluctuations in the emission-line profiles of
+  shocked ejecta gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...444..312C
+author: Chevalier, R. and Blondin, J. M.
+author_list:
+- family: Chevalier
+  given: R.
+- family: Blondin
+  given: J. M.
+date-added: 2017-08-10 18:38:49 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175606
+journal: \apj
+keywords: Hydrodynamics, Radiant Cooling, Shells (Structural Forms), Shock Waves,
+  Stability, Stellar Envelopes, Supernova Remnants, Perturbation, Simulation, Stellar
+  Mass Ejection, Stellar Winds
+month: May
+pages: 312--317
+papis_id: 655ab95379f8fa3835c518396c3890ea
+ref: chevalier.r.1995
+title: 'Hydrodynamic instabilities in supernova remnants: Early radiative cooling'
+type: article
+volume: '444'
+year: '1995'

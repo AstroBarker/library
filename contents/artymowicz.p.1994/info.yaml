@@ -1,0 +1,48 @@
+abstract: We investigate the gravitational interaction of a generally eccentric binary
+  star system with circumbinary and circumstellar gaseous disks. The disks are assumed
+  to be coplanar with the binary, geometrically thin, and primarily governed by gas
+  pressure and (turbulent) viscosity but not self-gravity. Both ordinary and eccentric
+  Lindblad resonances are primarily responsible for truncating the disks in binaries
+  with arbitrary eccentricity and nonextreme mass ratio. Starting from a smooth disk
+  configuration, after the gravitational field of the binary truncates the disk on
+  the dynamical timescale, a quasi-equilibrium is achieved, in which the resonant
+  and viscous torques balance each other and any changes in the structure of the disk
+  (e.g., due to global viscous evolution) occur slowly, preserving the average size
+  of the gap. We analytically compute the approximate sizes of disks (or disk gaps)
+  as a function of binary mass ratio and eccentricity in this quasi-equilibrium. Comparing
+  the gap sizes with results of direct simulations using the smoothed particle hydrodynamics
+  (SPH), we obtain a good agreement. As a by-product of the computations, we verify
+  that standard SPH codes can adequately represent the dynamics of disks with moderate
+  viscosity, Reynolds number R approximately 103. For typical viscous disk parameters,
+  and with a denoting the binary semimajor axis, the inner edge location of a circumbinary
+  disk varies from 1.8a to 2.6a with binary eccentricity increasing from 0 to 0.25.
+  For eccentricities 0 less than e less than 0.75, the minimum separation between
+  a component star and the circumbinary disk inner edge is greater than a. Our calculations
+  are relevant, among others, to protobinary stars and the recently discovered T Tau
+  pre-main-sequence binaries. We briefly examine the case of a pre-main-sequence spectroscopic
+  binary GW Ori and conclude that circumbinary disk truncation to the size required
+  by one proposed spectroscopic model cannot be due to Linblad resonances, even if
+  the disk is nonviscous.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...421..651A
+author: Artymowicz, P. and Lubow, S. H.
+author_list:
+- family: Artymowicz
+  given: P.
+- family: Lubow
+  given: S. H.
+date-added: 2017-08-11 01:47:43 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173679
+journal: \apj
+keywords: Accretion Disks, Binary Stars, Orbital Resonances (Celestial Mechanics),
+  Pre-Main Sequence Stars, Stellar Envelopes, Stellar Gravitation, Stellar Mass Accretion,
+  Stellar Systems, Astronomical Spectroscopy, Stellar Models, Stellar Spectra
+month: February
+pages: 651--667
+papis_id: 246fc086847653223e6a9d9a0722e9e2
+ref: artymowicz.p.1994
+title: 'Dynamics of binary-disk interaction. 1: Resonances and disk gap sizes'
+type: article
+volume: '421'
+year: '1994'

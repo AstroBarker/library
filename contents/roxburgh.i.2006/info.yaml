@@ -1,0 +1,39 @@
+abstract: 'Aims.We show how to construct 2-dimensional models of rapidly rotating
+  stars in hydrostatic equilibrium for any Omega(r,theta), given the density rho\_m(r)
+  along any one angle theta\_m. If the hydrogen abundance X\_m(r) is given on thetam
+  then the adiabatic exponent Gamma\_1(r,theta) can by determined, yielding a self
+  consistent acoustic model that can be used to investigate the oscillation properties
+  of rapidly rotating stars. Methods: .The system of equations governing the hydrostatic
+  structure is solved by iteration using the method of characteristics and spectral
+  expansion, subject to the condition that rho(r,theta)=rho\_m(r) on theta=theta\_m.
+  Gamma\_1(r,theta) is calculated from the equation of state under the assumption
+  that X(r,theta\_m)=X\_m(r) and is constant on surfaces of constant entropy. Alternatively
+  Gamma1 can be approximated by taking X constant in the equation of state and equal
+  to the surface value. Results: .Results are presented for an evolved main sequence
+  star of 2~M\_\&sun; with the angular velocity a function only of radius Omega=Omega(r),
+  evolved to a central hydrogen abundance of X\_c=0.35. The model is first calculated
+  using a spherically averaged stellar evolution code, where the averaged centrifugal
+  force 2Omega2 r/3 is added to gravity. The resulting rho\_m(r), X\_m(r) are then
+  used as input to determine the 2-dimensional model. Conclusions: .The procedure
+  described here gives self consistent hydrostatic and acoustic models of rapidly
+  rotating stars for any Omega(r,theta).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...454..883R
+author: Roxburgh, I. W.
+author_list:
+- family: Roxburgh
+  given: I. W.
+date-added: 2017-08-11 00:14:03 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1051/0004-6361:20065109
+journal: \aap
+keywords: 'stars: rotation, stars: evolution'
+month: August
+pages: 883--888
+papis_id: bd241497013e3008acad68b289b45bb0
+ref: roxburgh.i.2006
+title: 2-dimensional models of rapidly rotating stars. II. Hydrostatic and acoustic
+  models with $Ømega$=\$Ømega\$(r,þetas)
+type: article
+volume: '454'
+year: '2006'

@@ -1,0 +1,43 @@
+abstract: We use two-dimensional stellar models and a two-dimensional finite difference
+  integration of the linearized pulsation equations to calculate nonradial oscillations.
+  This approach allows us to directly calculate the pulsation modes for a distorted
+  rotating star without treating the rotation as a perturbation. We are also able
+  to express the finite difference solution in the horizontal direction as a sum of
+  multiple spherical harmonics for any given mode. Using these methods, we have investigated
+  the effects of increasing rotation and the number of spherical harmonics on the
+  calculated eigenfrequencies and eigenfunctions and compared the results to perturbation
+  theory. We use 10 M\&sun; models with velocities ranging from 0 to 420 km s-1 (0.89Omegac)
+  and examine low-order p-modes. We find that one spherical harmonic remains reasonable
+  up to a rotation rate around 300 km s-1 (0.69Omegac) for the radial fundamental
+  mode, but can fail at rotation rates as low as 90 km s-1 (0.23Omegac) for the l
+  = 2 p2 mode, based on the eigenfrequencies alone. Depending on the mode in question,
+  a single spherical harmonic may fail at lower rotation rates if the shape of the
+  eigenfunction is taken into consideration. Perturbation theory, in contrast, remains
+  valid up to relatively high rotation rates for most modes. We find the lowest failure
+  surface equatorial velocity is 120 km s-1 (0.30Omegac) for the l = 2 p2 mode, but
+  failure velocities between 240 and 300 km s-1 (0.58Omegac-0.69Omegac) are more typical.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...679.1499L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.2053
+author: Lovekin, C. C. and Deupree, R. G.
+author_list:
+- family: Lovekin
+  given: C. C.
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-11 00:21:54 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/587615
+eid: 1499-1508
+eprint: '0803.2053'
+journal: \apj
+keywords: 'stars: oscillations, stars: rotation'
+month: June
+pages: 1499--1508
+papis_id: efe9ebac89a1a70d7df7c2b98f64ad50
+ref: lovekin.c.2008
+title: Radial and Nonradial Oscillation Modes in Rapidly Rotating Stars
+type: article
+volume: '679'
+year: '2008'

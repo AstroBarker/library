@@ -1,0 +1,271 @@
+abstract: We present an improved measurement of the Hubble Constant (H0) using the
+  'inverse distance ladder' method, which adds the information from 207 Type Ia supernovae
+  (SNe Ia) from the Dark Energy Survey (DES) at redshift 0.018 < z < 0.85 to existing
+  distance measurements of 122 low redshift (z < 0.07) SNe Ia (Low-z) and measurements
+  of Baryon Acoustic Oscillations (BAOs). Whereas traditional measurements of H0 with
+  SNe Ia use a distance ladder of parallax and Cepheid variable stars, the inverse
+  distance ladder relies on absolute distance measurements from the BAOs to calibrate
+  the intrinsic magnitude of the SNe Ia. We find H0 = 67.77 +/- 1.30 km s-1 Mpc-1
+  (statistical and systematic uncertainties, 68\% confidence). Our measurement makes
+  minimal assumptions about the underlying cosmological model, and our analysis was
+  blinded to reduce confirmation bias. We examine possible systematic uncertainties
+  and all are presently below the statistical uncertainties. Our H0 value is consistent
+  with estimates derived from the Cosmic Microwave Background assuming a LCDM universe
+  (Planck Collaboration et al. 2018).
+adscomment: 14 pages, 5 figures, submitted to MNRAS
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv181102376M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1811.02376
+author: Macaulay, E. and Nichol, R. C. and Bacon, D. and Brout, D. and Davis, T. M.
+  and Zhang, B. and Bassett, B. A. and Scolnic, D. and Möller, A. and D'Andrea, C.
+  B. and Hinton, S. R. and Kessler, R. and Kim, A. G. and Lasker, J. and Lidman, C.
+  and Sako, M. and Smith, M. and Sullivan, M. and Abbott, T. M. C. and Allam, S. and
+  Annis, J. and Asorey, J. and Avila, S. and Bechtol, K. and Brooks, D. and Brown,
+  P. and Burke, D. L. and Calcino, J. and Carnero Rosell, A. and Carollo, D. and Carrasco
+  Kind, M. and Carretero, J. and Castander, F. J. and Collett, T. and Crocce, M. and
+  Cunha, C. E. and da Costa, L. N. and Davis, C. and De Vicente, J. and Diehl, H.
+  T. and Doel, P. and Drlica-Wagner, A. and Eifler, T. F. and Estrada, J. and Evrard,
+  A. E. and Finley, D. A. and Flaugher, B. and Foley, R. J. and Fosalba, P. and Frieman,
+  J. and Galbany, L. and García-Bellido, J. and Gaztanaga, E. and Glazebrook, K. and
+  González-Gaitán, S. and Gruen, D. and Gruendl, R. A. and Gschwend, J. and Gutierrez,
+  G. and Hartley, W. G. and Hollowood, D. L. and Honscheid, K. and Hoormann, J. K.
+  and Hoyle, B. and Huterer, D. and Jain, B. and James, D. J. and Jeltema, T. and
+  Kasai, E. and Krause, E. and Kuehn, K. and Kuropatkin, N. and Lahav, O. and Lewis,
+  G. F. and Li, T. S. and Lima, M. and Lin, H. and Maia, M. A. G. and Marshall, J.
+  L. and Martini, P. and Miquel, R. and Nugent, P. and Palmese, A. and Pan, Y.-C.
+  and Plazas, A. A. and Romer, A. K. and Roodman, A. and Sanchez, E. and Scarpine,
+  V. and Schindler, R. and Schubnell, M. and Serrano, S. and Sevilla-Noarbe, I. and
+  Sharp, R. and Soares-Santos, M. and Sobreira, F. and Sommer, N. E. and Suchyta,
+  E. and Swann, E. and Swanson, M. E. C. and Tarle, G. and Thomas, D. and Thomas,
+  R. C. and Tucker, B. E. and Uddin, S. A. and Vikram, V. and Walker, A. R. and Wiseman,
+  P.
+author_list:
+- family: Macaulay
+  given: E.
+- family: Nichol
+  given: R. C.
+- family: Bacon
+  given: D.
+- family: Brout
+  given: D.
+- family: Davis
+  given: T. M.
+- family: Zhang
+  given: B.
+- family: Bassett
+  given: B. A.
+- family: Scolnic
+  given: D.
+- family: Möller
+  given: A.
+- family: D'Andrea
+  given: C. B.
+- family: Hinton
+  given: S. R.
+- family: Kessler
+  given: R.
+- family: Kim
+  given: A. G.
+- family: Lasker
+  given: J.
+- family: Lidman
+  given: C.
+- family: Sako
+  given: M.
+- family: Smith
+  given: M.
+- family: Sullivan
+  given: M.
+- family: Abbott
+  given: T. M. C.
+- family: Allam
+  given: S.
+- family: Annis
+  given: J.
+- family: Asorey
+  given: J.
+- family: Avila
+  given: S.
+- family: Bechtol
+  given: K.
+- family: Brooks
+  given: D.
+- family: Brown
+  given: P.
+- family: Burke
+  given: D. L.
+- family: Calcino
+  given: J.
+- family: Carnero Rosell
+  given: A.
+- family: Carollo
+  given: D.
+- family: Carrasco Kind
+  given: M.
+- family: Carretero
+  given: J.
+- family: Castander
+  given: F. J.
+- family: Collett
+  given: T.
+- family: Crocce
+  given: M.
+- family: Cunha
+  given: C. E.
+- family: da Costa
+  given: L. N.
+- family: Davis
+  given: C.
+- family: De Vicente
+  given: J.
+- family: Diehl
+  given: H. T.
+- family: Doel
+  given: P.
+- family: Drlica-Wagner
+  given: A.
+- family: Eifler
+  given: T. F.
+- family: Estrada
+  given: J.
+- family: Evrard
+  given: A. E.
+- family: Finley
+  given: D. A.
+- family: Flaugher
+  given: B.
+- family: Foley
+  given: R. J.
+- family: Fosalba
+  given: P.
+- family: Frieman
+  given: J.
+- family: Galbany
+  given: L.
+- family: García-Bellido
+  given: J.
+- family: Gaztanaga
+  given: E.
+- family: Glazebrook
+  given: K.
+- family: González-Gaitán
+  given: S.
+- family: Gruen
+  given: D.
+- family: Gruendl
+  given: R. A.
+- family: Gschwend
+  given: J.
+- family: Gutierrez
+  given: G.
+- family: Hartley
+  given: W. G.
+- family: Hollowood
+  given: D. L.
+- family: Honscheid
+  given: K.
+- family: Hoormann
+  given: J. K.
+- family: Hoyle
+  given: B.
+- family: Huterer
+  given: D.
+- family: Jain
+  given: B.
+- family: James
+  given: D. J.
+- family: Jeltema
+  given: T.
+- family: Kasai
+  given: E.
+- family: Krause
+  given: E.
+- family: Kuehn
+  given: K.
+- family: Kuropatkin
+  given: N.
+- family: Lahav
+  given: O.
+- family: Lewis
+  given: G. F.
+- family: Li
+  given: T. S.
+- family: Lima
+  given: M.
+- family: Lin
+  given: H.
+- family: Maia
+  given: M. A. G.
+- family: Marshall
+  given: J. L.
+- family: Martini
+  given: P.
+- family: Miquel
+  given: R.
+- family: Nugent
+  given: P.
+- family: Palmese
+  given: A.
+- family: Pan
+  given: Y.-C.
+- family: Plazas
+  given: A. A.
+- family: Romer
+  given: A. K.
+- family: Roodman
+  given: A.
+- family: Sanchez
+  given: E.
+- family: Scarpine
+  given: V.
+- family: Schindler
+  given: R.
+- family: Schubnell
+  given: M.
+- family: Serrano
+  given: S.
+- family: Sevilla-Noarbe
+  given: I.
+- family: Sharp
+  given: R.
+- family: Soares-Santos
+  given: M.
+- family: Sobreira
+  given: F.
+- family: Sommer
+  given: N. E.
+- family: Suchyta
+  given: E.
+- family: Swann
+  given: E.
+- family: Swanson
+  given: M. E. C.
+- family: Tarle
+  given: G.
+- family: Thomas
+  given: D.
+- family: Thomas
+  given: R. C.
+- family: Tucker
+  given: B. E.
+- family: Uddin
+  given: S. A.
+- family: Vikram
+  given: V.
+- family: Walker
+  given: A. R.
+- family: Wiseman
+  given: P.
+date-added: 2018-11-07 09:38:32 -0500
+date-modified: 2018-11-07 09:38:45 -0500
+eprint: '1811.02376'
+journal: ArXiv e-prints
+keywords: Astrophysics - Cosmology and Nongalactic Astrophysics
+month: November
+papis_id: bc5985d7b36618d2c0fce0c3cf61549a
+ref: macaulay.e.2018
+title: 'First Cosmological Results using Type Ia Supernovae from the Dark Energy Survey:
+  Measurement of the Hubble Constant'
+type: article
+year: '2018'

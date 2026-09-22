@@ -1,0 +1,51 @@
+abstract: We present an overview of two-dimensional (2D) core-collapse supernova simulations
+  employing a neutrino transport scheme by the isotropic diffusion source approximation.
+  We study 101 solar-metallicity, 247 ultra metal-poor, and 30 zero-metal progenitors
+  covering zero-age main sequence mass from 10.8 M\&sun; to 75.0 M\&sun;. Using the
+  378 progenitors in total, we systematically investigate how the differences in the
+  structures of these multiple progenitors impact the hydrodynamics evolution. By
+  following a long-term evolution over 1.0 s after bounce, most of the computed models
+  exhibit neutrino-driven revival of the stalled bounce shock at \texttildelow{}200-800
+  ms postbounce, leading to the possibility of explosion. Pushing the boundaries of
+  expectations in previous one-dimensional studies, our results confirm that the compactness
+  parameter xi that characterizes the structure of the progenitors is also a key in
+  2D to diagnosing the properties of neutrino-driven explosions. Models with high
+  xi undergo high ram pressure from the accreting matter onto the stalled shock, which
+  affects the subsequent evolution of the shock expansion and the mass of the protoneutron
+  star under the influence of neutrino-driven convection and the standing accretion-shock
+  instability. We show that the accretion luminosity becomes higher for models with
+  high xi, which makes the growth rate of the diagnostic explosion energy higher and
+  the synthesized nickel mass bigger. We find that these explosion characteristics
+  tend to show a monotonic increase as a function of the compactness parameter xi.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015PASJ...67..107N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1406.2415
+author: Nakamura, K. and Takiwaki, T. and Kuroda, T. and Kotake, K.
+author_list:
+- family: Nakamura
+  given: K.
+- family: Takiwaki
+  given: T.
+- family: Kuroda
+  given: T.
+- family: Kotake
+  given: K.
+date-added: 2017-08-10 13:51:46 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1093/pasj/psv073
+eid: '107'
+eprint: '1406.2415'
+journal: \pasj
+keywords: 'hydrodynamics, neutrinos, nuclear reactions, nucleosynthesis, abundances,
+  supernovae: general'
+month: December
+pages: '107'
+papis_id: 2a74f5a436063f310c61773c5cfa9450
+primaryclass: astro-ph.HE
+ref: nakamura.k.2015
+title: Systematic features of axisymmetric neutrino-driven core-collapse supernova
+  models in multiple progenitors
+type: article
+volume: '67'
+year: '2015'

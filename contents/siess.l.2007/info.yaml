@@ -1,0 +1,50 @@
+abstract: 'Context: Massive AGB (hereafter super-AGB or SAGB) stars ignite carbon
+  off-center and have initial masses ranging between Mup, the minimum initial mass
+  for carbon ignition, and M\_mas the minimum mass for the formation of an iron core
+  collapse supernova. In this mass interval, stars more massive than Mn will undergo
+  an electron capture supernova (EC-SN).  Aims: We study the fate and selected evolutionary
+  properties of SAGB stars up to the end of the carbon burning phase as a function
+  of metallicity and core overshooting.   Methods: The method is based on the analysis
+  of a large set of stellar models covering the mass range 5-13 M\&sun; and calculated
+  for 7 different metallicities between Z=10-5 and twice solar. Core overshooting
+  was considered in two subsets for Z=10-4 and 0.02. The models are available online
+  at http://www-astro.ulb.ac.be/ siess/database.html. The fate of SAGB stars is investigated
+  through a parametric model which allows us to assess the role of mass loss and of
+  the third dredge-up.   Results: Our main results can be summarized as follows: a)
+  prior to C-burning, the evolution of SAGB stars is very similar to that of intermediate-mass
+  stars, being more luminous, b) SAGB stars suffer a large He enrichment at the end
+  of the second dredge-up, c) the limiting masses Mup, Mn and M\_mas present a nonlinear
+  behavior with Z, characterized by a minimum around Z=10-4, d) the values of Mup,
+  Mn and M\_mas are decreased by  2 M\&sun; when core overshooting is considered,
+  e) our models predict a minimum oxygen-neon white dwarf mass of   1.05 M\&sun;,
+  f) the determination of Mn is highly dependent on the mass loss and core growth
+  rates, g) the evolutionary channel for EC-SN is limited to a very narrow mass range
+  of \lessapprox{}1-1.5 M\&sun; width and this mass window can be further decreased
+  if some metallicity scaling factor is applied to the mass loss rate, h) the final
+  fate of SAGB stars is connected to the second dredge-up and this property allowed
+  us to refine the initial mass range for the formation of EC-SN. We find that if
+  the ratio of the mass loss rate to the core growth rate averaged over the post carbon-burning
+  evolution zeta = \vert{}overline{dot M}\_loss/overline{dot M}\_core\vert{} is greater
+  than about 70-90, the evolutionary path to EC-SN is not accessible.  Tables 4 and
+  5 are only available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...476..893S
+author: Siess, L.
+author_list:
+- family: Siess
+  given: L.
+date-added: 2017-08-10 19:54:03 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1051/0004-6361:20078132
+journal: \aap
+keywords: 'stars: evolution, stars: AGB and post-AGB, stars: supernovae: general,
+  stars: white dwarfs, stars:, mass-loss'
+month: December
+pages: 893--909
+papis_id: e5b89dd47dddcd41f380d4d5df654cb0
+ref: siess.l.2007
+title: Evolution of massive AGB stars. II. model properties at non-solar metallicity
+  and the fate of Super-AGB stars
+type: article
+volume: '476'
+year: '2007'

@@ -1,0 +1,83 @@
+abstract: Interaction of supernova (SN) ejecta with the optically thick circumstellar
+  medium (CSM) of a progenitor star can result in a bright, long-lived shock-breakout
+  event. Candidates for such SNe include Type IIn and superluminous SNe. If some of
+  these SNe are powered by interaction, then there should be a specific relation between
+  their peak luminosity, bolometric light-curve rise time, and shock-breakout velocity.
+  Given that the shock velocity during shock breakout is not measured, we expect a
+  correlation, with a significant spread, between the rise time and the peak luminosity
+  of these SNe. Here, we present a sample of 15 SNe IIn for which we have good constraints
+  on their rise time and peak luminosity from observations obtained using the Palomar
+  Transient Factory. We report on a possible correlation between the R-band rise time
+  and peak luminosity of these SNe, with a false-alarm probability of 3\%. Assuming
+  that these SNe are powered by interaction, combining these observables and theory
+  allows us to deduce lower limits on the shock-breakout velocity. The lower limits
+  on the shock velocity we find are consistent with what is expected for SNe (i.e.,
+  ~104 km s-1). This supports the suggestion that the early-time light curves of SNe
+  IIn are caused by shock breakout in a dense CSM. We note that such a correlation
+  can arise from other physical mechanisms. Performing such a test on other classes
+  of SNe (e.g., superluminous SNe) can be used to rule out the interaction model for
+  a class of events.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...788..154O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.4085
+author: Ofek, E. O. and Arcavi, I. and Tal, D. and Sullivan, M. and Gal-Yam, A. and
+  Kulkarni, S. R. and Nugent, P. E. and Ben-Ami, S. and Bersier, D. and Cao, Y. and
+  Cenko, S. B. and De Cia, A. and Filippenko, A. V. and Fransson, C. and Kasliwal,
+  M. M. and Laher, R. and Surace, J. and Quimby, R. and Yaron, O.
+author_list:
+- family: Ofek
+  given: E. O.
+- family: Arcavi
+  given: I.
+- family: Tal
+  given: D.
+- family: Sullivan
+  given: M.
+- family: Gal-Yam
+  given: A.
+- family: Kulkarni
+  given: S. R.
+- family: Nugent
+  given: P. E.
+- family: Ben-Ami
+  given: S.
+- family: Bersier
+  given: D.
+- family: Cao
+  given: Y.
+- family: Cenko
+  given: S. B.
+- family: De Cia
+  given: A.
+- family: Filippenko
+  given: A. V.
+- family: Fransson
+  given: C.
+- family: Kasliwal
+  given: M. M.
+- family: Laher
+  given: R.
+- family: Surace
+  given: J.
+- family: Quimby
+  given: R.
+- family: Yaron
+  given: O.
+date-added: 2017-08-10 15:59:48 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/788/2/154
+eid: '154'
+eprint: '1404.4085'
+journal: \apj
+keywords: 'stars: massive, stars: mass-loss, supernovae: general'
+month: June
+pages: '154'
+papis_id: b40c9422a3d511c2ff12ecc470275803
+primaryclass: astro-ph.HE
+ref: ofek.e.2014
+title: 'Interaction-powered Supernovae: Rise-time versus Peak-luminosity Correlation
+  and the Shock-breakout Velocity'
+type: article
+volume: '788'
+year: '2014'

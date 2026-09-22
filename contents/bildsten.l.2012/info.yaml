@@ -1,0 +1,48 @@
+abstract: All evolved stars with masses M <~ 2 M \&sun; undergo an initiating off-center
+  helium core flash in their Mc \approx{} 0.48 M \&sun; He core as they ascend the
+  red giant branch (RGB). This off-center flash is the first of a few successive helium
+  shell subflashes that remove the core electron degeneracy over 2 Myr, converting
+  the object into a He-burning star. Though characterized by Thomas over 40 years
+  ago, this core flash phase has yet to be observationally probed. Using the Modules
+  for Experiments in Stellar Astrophysics (\texttt {MESA}) code, we show that red
+  giant asteroseismology enabled by space-based photometry (i.e., Kepler and CoRoT)
+  can probe these stars during the flash. The rapid (lsim 105 yr) contraction of the
+  red giant envelope after the initiating flash dramatically improves the coupling
+  of the p-modes to the core g-modes, making the detection of l = 1 mixed modes possible
+  for these 2 Myr. This duration implies that 1 in 35 stars near the red clump in
+  the H-R diagram will be in their core flash phase. During this time, the star has
+  a g-mode period spacing of DeltaP g \approx{} 70-100 s, lower than the DeltaP g
+  \approx{} 250 s of He-burning stars in the red clump, but higher than the RGB stars
+  at the same luminosity. This places them in an underpopulated part of the large
+  frequency spacing (Deltanu) versus DeltaP g diagram that should ease their identification
+  among the thousands of observed red giants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...744L...6B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.6867
+author: Bildsten, L. and Paxton, B. and Moore, K. and Macias, P. J.
+author_list:
+- family: Bildsten
+  given: L.
+- family: Paxton
+  given: B.
+- family: Moore
+  given: K.
+- family: Macias
+  given: P. J.
+date-added: 2017-08-10 19:10:07 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/2041-8205/744/1/L6
+eid: L6
+eprint: '1111.6867'
+journal: \apjl
+keywords: 'stars: interiors, stars: late-type, stars: oscillations'
+month: January
+pages: L6
+papis_id: 9d93274800277a28bde576ae40504c5b
+primaryclass: astro-ph.SR
+ref: bildsten.l.2012
+title: Acoustic Signatures of the Helium Core Flash
+type: article
+volume: '744'
+year: '2012'

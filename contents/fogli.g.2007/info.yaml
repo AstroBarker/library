@@ -1,0 +1,54 @@
+abstract: Non-linear effects on supernova neutrino oscillations, associated with neutrino
+  neutrino interactions, are known to induce collective flavor transformations near
+  the supernova core for \theta\_{13} \neq 0 . In scenarios with very shallow electron
+  density profiles, these transformations have been shown to couple with ordinary
+  matter effects, jointly producing spectral distortions both in normal and in inverted
+  hierarchy. In this work we consider a complementary scenario, characterized by higher
+  electron density, as indicated by shock-wave simulations during a few seconds after
+  bounce. In this case, early collective flavor transitions are decoupled from later,
+  ordinary matter effects. Moreover, such transitions become more amenable to both
+  numerical computations and analytical interpretations in inverted hierarchy, while
+  they basically vanish in normal hierarchy. We numerically evolve the neutrino density
+  matrix in the region relevant for self-interaction effects, using thermal spectra
+  and a representative value sin2theta13 = 10-4. In the approximation of averaged
+  intersection angle between neutrino trajectories, our simulations neatly show the
+  collective phenomena of synchronization, bipolar oscillations, and spectral split,
+  with analytically understandable features, as recently discussed in the literature.
+  In the more realistic (but computationally demanding) case of non-averaged neutrino
+  trajectories, our simulations do not show new significant qualitative features,
+  apart from the smearing of 'fine structures' such as bipolar nutations. Our results
+  seem to suggest that, at least for non-shallow matter density profiles, averaging
+  over neutrino trajectories plays a minor role in the final outcome. In this case,
+  the swap of nue and numu,tau spectra above a critical energy may represent an unmistakable
+  signature of the inverted neutrino hierarchy, especially for theta13 small enough
+  to render further (ordinary or even turbulent) matter effects irrelevant.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007JCAP...12..010F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.1998
+author: Fogli, G. and Lisi, E. and Marrone, A. and Mirizzi, A.
+author_list:
+- family: Fogli
+  given: G.
+- family: Lisi
+  given: E.
+- family: Marrone
+  given: A.
+- family: Mirizzi
+  given: A.
+date-added: 2017-08-10 14:21:42 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1088/1475-7516/2007/12/010
+eid: '010'
+eprint: '0707.1998'
+journal: \jcap
+month: December
+pages: '010'
+papis_id: ef229242e994dd9910eb6e7f1dd4b902
+primaryclass: hep-ph
+ref: fogli.g.2007
+title: Collective neutrino flavor transitions in supernovae and the role of trajectory
+  averaging
+type: article
+volume: '12'
+year: '2007'

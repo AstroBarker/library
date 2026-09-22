@@ -1,0 +1,49 @@
+abstract: We present results from the first generation of multi-dimensional hydrodynamic
+  core-collapse simulations in full general relativity (GR) that include an approximate
+  treatment of neutrino transport. Using an M1 closure scheme with an analytic variable
+  Eddington factor, we solve the energy-independent set of radiation energy and momentum
+  based on the Thorne's momentum formalism. Our newly developed code is designed to
+  evolve the Einstein field equation together with the GR radiation hydrodynamic equations.
+  We follow the dynamics starting from the onset of gravitational core collapse of
+  a 15 M \&sun; star, through bounce, up to about 100 ms postbounce in this study.
+  By computing four models that differ according to 1D to 3D and by switching from
+  special relativistic (SR) to GR hydrodynamics, we study how the spacial multi-dimensionality
+  and GR would affect the dynamics in the early postbounce phase. Our 3D results support
+  the anticipation in previous 1D results that the neutrino luminosity and average
+  neutrino energy of any neutrino flavor in the postbounce phase increase when switching
+  from SR to GR hydrodynamics. This is because the deeper gravitational well of GR
+  produces more compact core structures, and thus hotter neutrino spheres at smaller
+  radii. By analyzing the residency timescale to the neutrino-heating timescale in
+  the gain region, we show that the criterion to initiate neutrino-driven explosions
+  can be most easily satisfied in 3D models, irrespective of SR or GR hydrodynamics.
+  Our results suggest that the combination of GR and 3D hydrodynamics provides the
+  most favorable condition to drive a robust neutrino-driven explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755...11K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.2487
+author: Kuroda, T. and Kotake, K. and Takiwaki, T.
+author_list:
+- family: Kuroda
+  given: T.
+- family: Kotake
+  given: K.
+- family: Takiwaki
+  given: T.
+date-added: 2017-08-10 14:43:58 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/1/11
+eid: '11'
+eprint: '1202.2487'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: August
+pages: '11'
+papis_id: 3fd65fab36c6f98eb4f3eb81abbe3fc6
+primaryclass: astro-ph.HE
+ref: kuroda.t.2012
+title: Fully General Relativistic Simulations of Core-collapse Supernovae with an
+  Approximate Neutrino Transport
+type: article
+volume: '755'
+year: '2012'

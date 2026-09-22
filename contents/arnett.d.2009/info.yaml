@@ -1,0 +1,50 @@
+abstract: We analyze stellar convection with the aid of three-dimensional (3D) hydrodynamic
+  simulations, introducing the turbulent cascade into our theoretical analysis. We
+  devise closures of the Reynolds-decomposed mean field equations by simple physical
+  modeling of the simulations (we relate temperature and density fluctuations via
+  coefficients); the procedure (Convection Algorithm Based on Simulations) is terrestrially
+  testable and is amenable to systematic improvement. We develop a turbulent kinetic
+  energy equation which contains both nonlocal and time-dependent terms, and is appropriate
+  if the convective transit time is shorter than the evolutionary timescale. The interpretation
+  of mixing-length theory (MLT) as generally used in astrophysics is incorrect; MLT
+  forces the mixing length to be an imposed constant. Direct tests show that the damping
+  associated with the flow is that suggested by Kolmogorov (\ensuremath{\epsilon}
+  K  \approx{} rho(u')3 rms/ell D , where ell D  is the size of the largest eddy and
+  (u')rms is the local rms turbulent velocity). This eddy size is approximately the
+  depth of the convection zone ellCZ in our simulations, and corresponds in some respects
+  to the mixing length of MLT. New terms involving the local heating due to turbulent
+  dissipation should appear in the stellar evolutionary equations, and are not guaranteed
+  to be negligible. The enthalpy flux (stellar "convective luminosity") is directly
+  connected to the buoyant acceleration, and hence to the scale of convective velocity.
+  MLT tends to systematically underestimate the velocity scale, which affects estimates
+  of chromospheric and coronal heating, mass loss, and wave generation. Quantitative
+  comparison with a variety of 3D simulations reveals a previously unrecognized consistency.
+  Extension of this approach to deal with rotational shear and MHD is indicated. Examples
+  of application to stellar evolution will be presented in subsequent papers in this
+  series.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...690.1715A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.1625
+author: Arnett, D. and Meakin, C. and Young, P. A.
+author_list:
+- family: Arnett
+  given: D.
+- family: Meakin
+  given: C.
+- family: Young
+  given: P. A.
+date-added: 2017-08-10 15:14:11 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/690/2/1715
+eprint: '0809.1625'
+journal: \apj
+keywords: 'convection, hydrodynamics, stars: evolution, turbulence'
+month: January
+pages: 1715--1729
+papis_id: b7408b6c5f18838ba8db145aa2825281
+ref: arnett.d.2009
+title: Turbulent Convection in Stellar Interiors. II. The Velocity Field
+type: article
+volume: '690'
+year: '2009'

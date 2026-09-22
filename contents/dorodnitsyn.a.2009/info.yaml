@@ -1,0 +1,40 @@
+abstract: We calculate a series of synthetic X-ray spectra from outflows originating
+  from the obscuring torus in active galactic nuclei (AGNs). Such modeling includes
+  2.5-dimensional hydrodynamical simulations of an X-ray excited torus wind, including
+  the effects of X-ray heating, ionization, and radiation pressure. Three-dimensional
+  radiation transfer calculations are performed in the three-dimensional Sobolev approximation.
+  Synthetic X-ray line spectra and individual profiles of several strong lines are
+  shown at different inclination angles, observing times, and for different characteristics
+  of the torus. Our calculations show that rich synthetic warm absorber spectra from
+  three-dimensional modeling are typically observed at a larger range of inclinations
+  than was previously inferred from simple analysis of the transmitted spectra. In
+  general, our results are supportive of warm absorber models based on the hypothesis
+  of an "X-ray excited funnel flow" and are consistent with characteristics of such
+  flows inferred from observations of warm absorbers from Seyfert 1 galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...703.1797D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.4228
+author: Dorodnitsyn, A. and Kallman, T.
+author_list:
+- family: Dorodnitsyn
+  given: A.
+- family: Kallman
+  given: T.
+date-added: 2017-08-11 06:31:57 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/703/2/1797
+eprint: '0909.4228'
+journal: \apj
+keywords: 'acceleration of particles, galaxies: active, hydrodynamics, methods: numerical,
+  quasars: absorption lines, X-rays: galaxies'
+month: October
+pages: 1797--1809
+papis_id: 52eb2bce14649db6d8f67b17c2daed00
+primaryclass: astro-ph.GA
+ref: dorodnitsyn.a.2009
+title: An Axisymmetric Hydrodynamical Model for the Torus Wind in Active Galactic
+  Nucleus. III. Spectra from Three-Dimensional Radiation Transfer Calculations
+type: article
+volume: '703'
+year: '2009'

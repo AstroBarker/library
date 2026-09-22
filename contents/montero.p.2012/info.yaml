@@ -1,0 +1,48 @@
+abstract: We present results of general relativistic simulations of collapsing supermassive
+  stars with and without rotation using the two-dimensional general relativistic numerical
+  code Nada, which solves the Einstein equations written in the BSSN formalism and
+  the general relativistic hydrodynamic equations with high-resolution shock-capturing
+  schemes. These numerical simulations use an equation of state that includes the
+  effects of gas pressure and, in a tabulated form, those associated with radiation
+  and the electron-positron pairs. We also take into account the effect of thermonuclear
+  energy released by hydrogen and helium burning. We find that objects with a mass
+  of \approx{}5 \texttimes{} 105 M \&sun; and an initial metallicity greater than
+  Z CNO \approx{} 0.007 do explode if non-rotating, while the threshold metallicity
+  for an explosion is reduced to Z CNO \approx{} 0.001 for objects uniformly rotating.
+  The critical initial metallicity for a thermonuclear explosion increases for stars
+  with a mass \approx{}106 M \&sun;. For those stars that do not explode, we follow
+  the evolution beyond the phase of black hole (BH) formation. We compute the neutrino
+  energy loss rates due to several processes that may be relevant during the gravitational
+  collapse of these objects. The peak luminosities of neutrinos and antineutrinos
+  of all flavors for models collapsing to a BH are L nu ~ 1055 erg s-1. The total
+  radiated energy in neutrinos varies between E nu ~ 1056 erg for models collapsing
+  to a BH and E nu ~ 1045-1046 erg for models exploding.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749...37M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.3090
+author: Montero, P. J. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Montero
+  given: P. J.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 21:48:54 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/1/37
+eid: '37'
+eprint: '1108.3090'
+journal: \apj
+keywords: 'black hole physics, equation of state, gravitational waves, neutrinos,
+  stars: evolution'
+month: April
+pages: '37'
+papis_id: 51cfaea027ff29380c7ec5237ffaca4e
+ref: montero.p.2012
+title: Relativistic Collapse and Explosion of Rotating Supermassive Stars with Thermonuclear
+  Effects
+type: article
+volume: '749'
+year: '2012'

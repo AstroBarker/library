@@ -1,0 +1,48 @@
+abstract: Material ejected during (or immediately following) the merger of two neutron
+  stars may assemble into heavy elements through the r-process. The subsequent radioactive
+  decay of the nuclei can power transient electromagnetic emission similar to, but
+  significantly dimmer than, an ordinary supernova. Identifying such events is an
+  important goal of future optical surveys, offering new perspectives on the origin
+  of r-process nuclei and the astrophysical sources of gravitational waves. Predictions
+  of the transient light curves and spectra, however, have suffered from the uncertain
+  optical properties of heavy ions. Here we argue that the opacity of an expanding
+  r-process material is dominated by bound-bound transitions from those ions with
+  the most complex valence electron structure, namely the lanthanides. For a few representative
+  ions, we run atomic structure models to calculate the radiative transition rates
+  for tens of millions of lines. The resulting r-process opacities are orders of magnitude
+  larger than that of ordinary (e.g., iron-rich) supernova ejecta. Radiative transport
+  calculations using these new opacities suggest that the light curves should be longer,
+  dimmer, and redder than previously thought. The spectra appear to be pseudo-blackbody,
+  with broad absorption features, and peak in the infrared (~1 mum). We discuss uncertainties
+  in the opacities and attempt to quantify their impact on the spectral predictions.
+  The results have important implications for observational strategies to find and
+  study the radioactively powered electromagnetic counterparts to neutron star mergers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774...25K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.5788
+author: Kasen, D. and Badnell, N. R. and Barnes, J.
+author_list:
+- family: Kasen
+  given: D.
+- family: Badnell
+  given: N. R.
+- family: Barnes
+  given: J.
+date-added: 2017-08-10 17:59:45 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/1/25
+eid: '25'
+eprint: '1303.5788'
+journal: \apj
+keywords: 'gravitational waves, nuclear reactions, nucleosynthesis, abundances, opacity,
+  radiative transfer, stars: neutron, supernovae: general'
+month: September
+pages: '25'
+papis_id: 84e6427719e0f0b7dd4d7e7ba6483cb0
+primaryclass: astro-ph.HE
+ref: kasen.d.2013
+title: Opacities and Spectra of the r-process Ejecta from Neutron Star Mergers
+type: article
+volume: '774'
+year: '2013'

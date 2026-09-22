@@ -1,0 +1,37 @@
+abstract: We model the latest HST WFPC3/IR observations of gsim100 galaxies at redshifts
+  z = 7-8 in terms of a hierarchical galaxy formation model with starburst activity.
+  Our model provides a distribution of UV luminosities per dark matter halo of a given
+  mass and a natural explanation for the fraction of halos hosting galaxies. The observed
+  luminosity function is best fit with a minimum halo mass per galaxy of 10^{9.4^{+0.3}\_{-0.9}}
+  {M\_{\&sun;}}, corresponding to a virial temperature of 10^{4.9^{+0.2}\_{-0.7}}
+  K. Extrapolating to faint, undetected galaxies, the total production rate of ionizing
+  radiation depends critically on this minimum mass. Future measurements with JWST
+  should determine whether the entire galaxy population can comfortably account for
+  the UV background required to keep the intergalactic medium ionized.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...729...99M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.2260
+author: Muñoz, J. A. and Loeb, A.
+author_list:
+- family: Muñoz
+  given: J. A.
+- family: Loeb
+  given: A.
+date-added: 2017-08-10 20:28:19 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/729/2/99
+eid: '99'
+eprint: '1010.2260'
+journal: \apj
+keywords: 'cosmology: theory, early universe, galaxies: formation, galaxies: high-redshift,
+  stars: formation'
+month: March
+pages: '99'
+papis_id: 6267fe8a36c4019cd2cccf7bb0097e9d
+ref: munoz.j.2011
+title: Constraining the Minimum Mass of High-redshift Galaxies and their Contribution
+  to the Ionization State of the Intergalactic Medium
+type: article
+volume: '729'
+year: '2011'

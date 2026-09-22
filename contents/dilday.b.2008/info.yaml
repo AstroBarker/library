@@ -1,0 +1,156 @@
+abstract: We present a measurement of the rate of Type Ia supernovae (SNe Ia) from
+  the first of three seasons of data from the SDSS-II Supernova Survey. For this measurement,
+  we include 17 SNe Ia at redshift z <= 0.12. Assuming a flat cosmology with Omegam
+  = 0.3 = 1 - OmegaLambda, we find a volumetric SN Ia rate of [ 2.93+ 0.17-0.04(systematic)+
+  0.90-0.71(statistical) ] \texttimes{} 10-5 SNe Mpc -3 h370 yr -1, at a volume-weighted
+  mean redshift of 0.09. This result is consistent with previous measurements of the
+  SN Ia rate in a similar redshift range. The systematic errors are well controlled,
+  resulting in the most precise measurement of the SN Ia rate in this redshift range.
+  We use a maximum likelihood method to fit SN rate models to the SDSS-II Supernova
+  Survey data in combination with other rate measurements, thereby constraining models
+  for the redshift evolution of the SN Ia rate. Fitting the combined data to a simple
+  power-law evolution of the volumetric SN Ia rate, rV propto (1 + z)beta, we obtain
+  a value of beta = 1.5 +/- 0.6, i.e., the SN Ia rate is determined to be an increasing
+  function of redshift at the ~2.5 sigma level. Fitting the results to a model in
+  which the volumetric SN rate is rV = Arho(t) + Bdot rho(t), where rho (t) is the
+  stellar mass density and dot rho(t) is the star formation rate, we find A = (2.8
+  +/- 1.2) \texttimes{} 10-14 SNe M-1\&sun; yr -1, B = (9.3+ 3.4-3.1) \texttimes{}
+  10-4 SNe M-1\&sun;.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...682..262D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.3297
+author: Dilday, B. and Kessler, R. and Frieman, J. A. and Holtzman, J. and Marriner,
+  J. and Miknaitis, G. and Nichol, R. C. and Romani, R. and Sako, M. and Bassett,
+  B. and Becker, A. and Cinabro, D. and DeJongh, F. and Depoy, D. L. and Doi, M. and
+  Garnavich, P. M. and Hogan, C. J. and Jha, S. and Konishi, K. and Lampeitl, H. and
+  Marshall, J. L. and McGinnis, D. and Prieto, J. L. and Riess, A. G. and Richmond,
+  M. W. and Schneider, D. P. and Smith, M. and Takanashi, N. and Tokita, K. and van
+  der Heyden, K. and Yasuda, N. and Zheng, C. and Barentine, J. and Brewington, H.
+  and Choi, C. and Crotts, A. and Dembicky, J. and Harvanek, M. and Im, M. and Ketzeback,
+  W. and Kleinman, S. J. and Krzesi\ŉski, J. and Long, D. C. and Malanushenko, E.
+  and Malanushenko, V. and McMillan, R. J. and Nitta, A. and Pan, K. and Saurage,
+  G. and Snedden, S. A. and Watters, S. and Wheeler, J. C. and York, D.
+author_list:
+- family: Dilday
+  given: B.
+- family: Kessler
+  given: R.
+- family: Frieman
+  given: J. A.
+- family: Holtzman
+  given: J.
+- family: Marriner
+  given: J.
+- family: Miknaitis
+  given: G.
+- family: Nichol
+  given: R. C.
+- family: Romani
+  given: R.
+- family: Sako
+  given: M.
+- family: Bassett
+  given: B.
+- family: Becker
+  given: A.
+- family: Cinabro
+  given: D.
+- family: DeJongh
+  given: F.
+- family: Depoy
+  given: D. L.
+- family: Doi
+  given: M.
+- family: Garnavich
+  given: P. M.
+- family: Hogan
+  given: C. J.
+- family: Jha
+  given: S.
+- family: Konishi
+  given: K.
+- family: Lampeitl
+  given: H.
+- family: Marshall
+  given: J. L.
+- family: McGinnis
+  given: D.
+- family: Prieto
+  given: J. L.
+- family: Riess
+  given: A. G.
+- family: Richmond
+  given: M. W.
+- family: Schneider
+  given: D. P.
+- family: Smith
+  given: M.
+- family: Takanashi
+  given: N.
+- family: Tokita
+  given: K.
+- family: van der Heyden
+  given: K.
+- family: Yasuda
+  given: N.
+- family: Zheng
+  given: C.
+- family: Barentine
+  given: J.
+- family: Brewington
+  given: H.
+- family: Choi
+  given: C.
+- family: Crotts
+  given: A.
+- family: Dembicky
+  given: J.
+- family: Harvanek
+  given: M.
+- family: Im
+  given: M.
+- family: Ketzeback
+  given: W.
+- family: Kleinman
+  given: S. J.
+- family: Krzesi\ŉski
+  given: J.
+- family: Long
+  given: D. C.
+- family: Malanushenko
+  given: E.
+- family: Malanushenko
+  given: V.
+- family: McMillan
+  given: R. J.
+- family: Nitta
+  given: A.
+- family: Pan
+  given: K.
+- family: Saurage
+  given: G.
+- family: Snedden
+  given: S. A.
+- family: Watters
+  given: S.
+- family: Wheeler
+  given: J. C.
+- family: York
+  given: D.
+date-added: 2017-08-11 05:23:30 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/587733
+eid: 262-282
+eprint: '0801.3297'
+journal: \apj
+keywords: 'supernovae: general'
+month: July
+pages: 262--282
+papis_id: b489a47f5f985fa0c1e3bbf2f9298d6d
+ref: dilday.b.2008
+title: A Measurement of the Rate of Type Ia Supernovae at Redshift z \ap 0.1 from
+  the First Season of the SDSS-II Supernova Survey
+type: article
+volume: '682'
+year: '2008'

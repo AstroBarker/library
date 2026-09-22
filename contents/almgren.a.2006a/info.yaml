@@ -1,0 +1,39 @@
+abstract: The convective period leading up to a Type Ia supernova (SN Ia) explosion
+  is characterized by very low Mach number flows, requiring hydrodynamic methods well-suited
+  to long-time integration. We continue the development of the low Mach number equation
+  set for stellar-scale flows by incorporating the effects of heat release due to
+  external sources. Low Mach number hydrodynamics equations with a time-dependent
+  background state are derived, and a numerical method based on the approximate projection
+  formalism is presented. We demonstrate through validation with a fully compressible
+  hydrodynamics code that this low Mach number model accurately captures the expansion
+  of the stellar atmosphere as well as the local dynamics due to external heat sources.
+  This algorithm provides the basis for an efficient simulation tool for studying
+  the ignition of SNe Ia.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...649..927A
+arxivurl: http://arxiv.org/abs/astro-ph/0606496
+author: Almgren, A. S. and Bell, J. B. and Rendleman, C. A. and Zingale, M.
+author_list:
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Rendleman
+  given: C. A.
+- family: Zingale
+  given: M.
+date-added: 2017-08-10 22:36:29 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/507089
+eprint: astro-ph/0606496
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Methods: Numerical, Nuclear Reactions, Nucleosynthesis,
+  Abundances, Stars: Supernovae: General, Stars: White Dwarfs'
+month: October
+pages: 927--938
+papis_id: 590ceb017e5cdfc6537cb3959feba350
+ref: almgren.a.2006a
+title: Low Mach Number Modeling of Type Ia Supernovae. II. Energy Evolution
+type: article
+volume: '649'
+year: '2006'

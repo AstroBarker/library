@@ -1,0 +1,45 @@
+abstract: Cosmological hydrodynamical simulations of galaxy formation in representative
+  regions of the Universe typically need to resort to subresolution models to follow
+  some of the feedback processes crucial for galaxy formation. Here, we show that
+  an energy-driven outflow model in which the wind velocity decreases and the wind
+  mass loading increases in low-mass galaxies, as suggested by observations, can produce
+  a good match to the low-mass end of the observed galaxy stellar mass function. The
+  high-mass end can be recovered simultaneously if feedback from active galactic nuclei
+  (AGN) and a correction for diffuse stellar light plausibly missed in observations
+  are included. We find, however, that the resolution requirements for simulations
+  including AGN feedback are more demanding than for wind feedback alone, making our
+  highest resolution simulations with AGN and winds only marginally converged. Encouragingly,
+  our model is in reasonable agreement with the observed stellar mass functions at
+  redshifts z = 1 and z = 2, and the observed redshift evolution of the cosmic star
+  formation rate density. In addition, at least in simulations without AGN, our wind
+  model accurately reproduces the observed gas to stellar mass ratios and specific
+  star formation rates of galaxies as a function of their stellar mass. This agreement
+  with a diverse set of data marks significant progress in hydrodynamically modelling
+  the formation of a representative galaxy population. It also suggests that the mass
+  flux in real galactic winds should strongly increase towards low-mass galaxies.
+  Without this assumption, an overproduction of galaxies at the faint-end of the galaxy
+  luminosity function seems inevitable in our models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.2966P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.2694
+author: Puchwein, E. and Springel, V.
+author_list:
+- family: Puchwein
+  given: E.
+- family: Springel
+  given: V.
+date-added: 2017-08-11 07:29:40 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts243
+eprint: '1205.2694'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: formation, cosmology: theory'
+month: February
+pages: 2966--2979
+papis_id: c7dadc27559013c323460f275908f163
+ref: puchwein.e.2013
+title: Shaping the galaxy stellar mass function with supernova- and AGN-driven winds
+type: article
+volume: '428'
+year: '2013'

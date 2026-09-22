@@ -1,0 +1,25 @@
+abstract: '{This book introduces the modern field of 3+1 numerical relativity. It
+  has been written in a way as to be as self-contained as possible, and assumes a
+  basic knowledge of special relativity. Starting from a brief introduction to general
+  relativity, it discusses the different concepts and tools necessary for the fully
+  consistent numerical simulation of relativistic astrophysical systems, with strong
+  and dynamical gravitational fields. Among the topics discussed in detail are the
+  following: the initial data problem, hyperbolic reductions of the field equations,
+  gauge conditions, the evolution of black hole space-times, relativistic hydrodynamics,
+  gravitational wave extraction, and numerical methods. There is also a final chapter
+  with examples of some simple numerical space-times.}'
+author: Alcubierre, Miguel
+author_list:
+- family: Alcubierre
+  given: Miguel
+doi: 10.1093/acprof:oso/9780199205677.001.0001
+groups: Review
+isbn: '9780199205677'
+month: '04'
+papis_id: 8a6ad519f7a019ebe29d371726194ffd
+publisher: Oxford University Press
+ref: alcubierre.miguel.2008
+title: Introduction to 3+1 Numerical Relativity
+type: book
+url: https://doi.org/10.1093/acprof:oso/9780199205677.001.0001
+year: '2008'

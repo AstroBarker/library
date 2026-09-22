@@ -1,0 +1,50 @@
+abstract: We present the results of a systematic numerical study of an alternative
+  progenitor scenario to produce Type Ia supernova explosions, which is not restricted
+  to the ignition of a CO white dwarf (WD) near the Chandrasekhar mass. In this scenario,
+  a shock-triggered thermonuclear explosion ensues from the collision of two WDs.
+  Consistent modeling of the gas dynamics together with nuclear reactions using both
+  a smoothed particle and a grid-based hydrodynamics code are performed to study the
+  viability of this alternative progenitor channel. We find that shock-triggered ignition
+  and the synthesis of Ni are in fact a natural outcome for moderately massive WD
+  pairs colliding close to head-on. We use a multi-dimensional radiative transfer
+  code to calculate the emergent broadband light curves and spectral time series of
+  these events. The synthetic spectra and light curves compare well to those of normal
+  Type Ia supernovae over a similar B-band decline rate and are broadly consistent
+  with the Phillips relation, although a mild dependence on viewing angle is observed
+  due to the asymmetry of the ejected debris. While event rates within galactic centers
+  and globular clusters are found to be much too low to explain the bulk of the Type
+  Ia supernovae population, they may be frequent enough to make as much as a one percent
+  contribution to the overall rate. Although these rate estimates are still subject
+  to substantial uncertainties, they do suggest that dense stellar systems should
+  provide upcoming supernova surveys with hundreds of such collision-induced thermonuclear
+  explosions per year.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...705L.128R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.3196
+author: Rosswog, S. and Kasen, D. and Guillochon, J. and Ramirez-Ruiz, E.
+author_list:
+- family: Rosswog
+  given: S.
+- family: Kasen
+  given: D.
+- family: Guillochon
+  given: J.
+- family: Ramirez-Ruiz
+  given: E.
+date-added: 2017-08-10 17:43:17 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/705/2/L128
+eprint: '0907.3196'
+journal: \apjl
+keywords: 'globular clusters: general, hydrodynamics, nuclear reactions, nucleosynthesis,
+  abundances, radiative transfer, supernovae: general, white dwarfs'
+month: November
+pages: L128-L132
+papis_id: e4a36bc7b8b90dcc4dc5746b8a483508
+primaryclass: astro-ph.HE
+ref: rosswog.s.2009
+title: Collisions of White Dwarfs as a New Progenitor Channel for Type Ia Supernovae
+type: article
+volume: '705'
+year: '2009'

@@ -1,0 +1,50 @@
+abstract: The masses and radii of low-magnetic field neutron stars can be measured
+  by combining different observable quantities obtained from their X-ray spectra during
+  thermonuclear X-ray bursts. One of these quantities is the apparent radius of each
+  neutron star as inferred from the X-ray flux and spectral temperature measured during
+  the cooling tails of bursts, when the thermonuclear flash is believed to have engulfed
+  the entire star. In this paper, we analyze 13,095 X-ray spectra of 446 X-ray bursts
+  observed from 12 sources in order to assess possible systematic effects in the measurements
+  of the apparent radii of neutron stars. We first show that the vast majority of
+  the observed X-ray spectra are consistent with blackbody functions to within a few
+  percent. We find that most X-ray bursts follow a very well determined correlation
+  between X-ray flux and temperature, which is consistent with the whole neutron-star
+  surface emitting uniformly during the cooling tails. We develop a Bayesian Gaussian
+  mixture algorithm to measure the apparent radii of the neutron stars in these sources,
+  while detecting and excluding a small number of X-ray bursts that show irregular
+  cooling behavior. This algorithm also provides us with a quantitative measure of
+  the systematic uncertainties in the measurements. We find that those errors in the
+  spectroscopic determination of neutron-star radii that are introduced by systematic
+  effects in the cooling tails of X-ray bursts are in the range ~= 3\%-8\%. Such small
+  errors are adequate to distinguish between different equations of state provided
+  that uncertainties in the distance to each source and the absolute calibration of
+  X-ray detectors do not dominate the error budget.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747...76G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.5767
+author: Güver, T. and Psaltis, D. and Özel, F.
+author_list:
+- family: Güver
+  given: T.
+- family: Psaltis
+  given: D.
+- family: Özel
+  given: F.
+date-added: 2017-08-11 07:55:35 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/1/76
+eid: '76'
+eprint: '1103.5767'
+journal: \apj
+keywords: 'stars: neutron, X-rays: bursts'
+month: March
+pages: '76'
+papis_id: 40ca3c5467236f3c7ab94e2931d0aae8
+primaryclass: astro-ph.HE
+ref: guver.t.2012
+title: Systematic Uncertainties in the Spectroscopic Measurements of Neutron-star
+  Masses and Radii from Thermonuclear X-Ray Bursts. I. Apparent Radii
+type: article
+volume: '747'
+year: '2012'

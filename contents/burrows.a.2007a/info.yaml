@@ -1,0 +1,51 @@
+abstract: We present here the first 2D rotating, multigroup, radiation magnetohydrodynamics
+  (RMHD) simulations of supernova core collapse, bounce, and explosion. In the context
+  of rapid rotation, we focus on the dynamical effects of magnetic stresses and the
+  creation and propagation of MHD jets. We find that a quasi-steady state can be quickly
+  established after bounce, during which a well-collimated MHD jet is maintained by
+  continuous pumping of power from the differentially rotating core. If the initial
+  spin period of the progenitor core is <~2 s, the free energy reservoir in the secularly
+  evolving proto-neutron star is adequate to power a supernova explosion and may be
+  enough for a hypernova. The jets are well collimated by the infalling material and
+  magnetic hoop stresses and maintain a small opening angle. We see evidence of sausage
+  instabilities in the emerging jet stream. Neutrino heating is subdominant in the
+  rapidly rotating models we explore but can contribute 10\%-25\% to the final explosion
+  energy. Our simulations suggest that even in the case of modest or slow rotation,
+  a supernova explosion might be followed by a secondary, weak MHD jet explosion,
+  which, because of its weakness, may to date have gone unnoticed in supernova debris.
+  Furthermore, we suggest that the generation of a nonrelativistic MHD precursor jet
+  during the early proto-neutron star/supernova phase is implicit in both the collapsar
+  and ``millisecond magnetar'' models of GRBs. The multidimensional, multigroup, rapidly
+  rotating RMHD simulations we describe here are a start along the path toward more
+  realistic simulations of the possible role of magnetic fields in some of nature's
+  most dramatic events.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...664..416B
+arxivurl: http://arxiv.org/abs/astro-ph/0702539
+author: Burrows, A. and Dessart, L. and Livne, E. and Ott, C. D. and Murphy, J.
+author_list:
+- family: Burrows
+  given: A.
+- family: Dessart
+  given: L.
+- family: Livne
+  given: E.
+- family: Ott
+  given: C. D.
+- family: Murphy
+  given: J.
+date-added: 2017-08-10 16:25:27 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/519161
+eprint: astro-ph/0702539
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Stars: Supernovae: General'
+month: July
+pages: 416--434
+papis_id: 18ee6137f7204f56afdc2555a2984925
+ref: burrows.a.2007a
+title: Simulations of Magnetically Driven Supernova and Hypernova Explosions in the
+  Context of Rapid Rotation
+type: article
+volume: '664'
+year: '2007'

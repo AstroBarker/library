@@ -1,0 +1,45 @@
+abstract: 'Numerical simulations provide information on solar convection not available
+  by direct observation. We present results of simulations of near surface solar convection
+  with realistic physics: an equation of state including ionization and three-dimensional,
+  LTE radiative transfer using a four-bin opacity distribution function. Solar convection
+  is driven by radiative cooling in the surface thermal boundary layer, producing
+  the familiar granulation pattern. In the interior of granules, warm plasma ascends
+  with ~10\% ionized hydrogen. As it approaches and passes through the optical surface,
+  the plasma cools, recombines, and loses entropy. It then turns over and converges
+  into the dark intergranular lanes and further into the vertices between granulation
+  cells. These vertices feed turbulent downdrafts below the solar surface, which are
+  the sites of buoyancy work that drives the convection. Only a tiny fraction of the
+  fluid ascending at depth reaches the surface to cool, lose entropy, and form the
+  cores of these downdrafts. Granules evolve by pushing out against and being pushed
+  in by their neighboring granules, and by being split by overlying fluid that cools
+  and is pulled down by gravity. Convective energy transport properties that are closely
+  related to integral constraints such as conservation of energy and mass are exceedingly
+  robust. Other properties, which are less tightly constrained and/or involve higher
+  order moments or derivatives, are found to depend more sensitively on the numerical
+  resolution. At the highest numerical resolution, excellent agreement between simulated
+  convection properties and observations is found. In interpreting observations it
+  is crucial to remember that surfaces of constant optical depth are corrugated. The
+  surface of unit optical depth in the continuum is higher above granules and lower
+  in the intergranular lanes, while the surface of optical depth unity in a spectral
+  line is corrugated in ways that are influenced by both thermal and Doppler effects.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...499..914S
+author: Stein, R. F. and Nordlund, Å.
+author_list:
+- family: Stein
+  given: R. F.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-10 15:10:12 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305678
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Methods: Numerical, Sun: Granulation, Sun: Interior'
+month: May
+pages: 914--933
+papis_id: cce5d3f2862e4745f50cebd6c7f8136d
+ref: stein.r.1998
+title: Simulations of Solar Granulation. I. General Properties
+type: article
+volume: '499'
+year: '1998'

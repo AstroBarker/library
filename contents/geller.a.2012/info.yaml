@@ -1,0 +1,63 @@
+abstract: We present an in-depth study of the hard-binary population of the old (7
+  Gyr) open cluster NGC 188. Utilizing 85 spectroscopic binary orbits out of a complete
+  sample of 129 detected binary members, we study the cluster binary frequency and
+  the distributions of binary orbital elements among the main-sequence (MS), giant,
+  and blue straggler (BS) populations. The results are derived from our ongoing radial
+  velocity survey of the cluster, which spans in magnitude from the brightest stars
+  in the cluster to V = 16.5 (about 1.1-0.9 M \&sun;), and extends to a projected
+  radius of 17 pc (~13 core radii). Our detectable binaries have periods ranging from
+  a few days to of order 104 days, and thus are hard binaries that dynamically power
+  the cluster. The MS solar-type hard binaries in NGC 188 are nearly indistinguishable
+  from similar binaries in the Galactic field. We observe a global solar-type MS hard-binary
+  frequency in NGC 188 of 23\% $\pm$ 2\%, which when corrected for incompleteness
+  results in a frequency of 29\% \$\pm\$ 3\% for binaries with periods less than 104
+  days. For MS hard binaries in the cluster, we observe a log-period distribution
+  that rises toward our detection limit, a roughly Gaussian eccentricity distribution
+  centered on e = 0.35 (for binaries with periods longer than the circularization
+  period), and a secondary-mass distribution that rises toward lower-mass companions.
+  Importantly, the NGC 188 BS binaries show significantly different characteristics
+  than the solar-type MS binaries in NGC 188. We observe a BS hard-binary frequency
+  of 76\% \$\pm\$ 19\%, three times that of the MS. The excess of this binary frequency
+  over the normal MS binary frequency is valid at the >99\% confidence level. Furthermore,
+  the BS binary eccentricity-log-period distribution is distinct from that of the
+  MS at the 99\% confidence level, with the majority of the BS binaries having periods
+  of order 1000 days and lower eccentricities. The secondary-mass distribution for
+  these long-period BS binaries is narrow and peaked with a mean value of about 0.5
+  M \&sun;. Predictions for mass-transfer products are most closely consistent with
+  the binary properties of these NGC 188 BSs, which comprise two-thirds of the BS
+  population. Additionally, we compare the NGC 188 binaries to those evolved within
+  the sophisticated Hurley et al. (2005) N-body open cluster simulation. The MS hard-binary
+  population predicted by the simulation is significantly different from the MS hard-binary
+  population observed in NGC 188, in frequency and distributions of period and eccentricity.
+  Many of these differences result from the adopted initial binary population, while
+  others reflect on the physics used in the simulation (e.g., tidal circularization).
+  Additional simulations with initial conditions that are better motivated by observations
+  are necessary to properly investigate the dynamical evolution of a rich binary population
+  in open clusters like NGC 188.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012AJ....144...54G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.3950
+author: Geller, A. M. and Mathieu, R. D.
+author_list:
+- family: Geller
+  given: A. M.
+- family: Mathieu
+  given: R. D.
+date-added: 2017-08-10 16:12:51 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-6256/144/2/54
+eid: '54'
+eprint: '1111.3950'
+journal: \aj
+keywords: 'binaries: spectroscopic, blue stragglers, open clusters and associations:
+  individual: NGC 188'
+month: August
+pages: '54'
+papis_id: e86d56a1faaa2a9266a25d4171feddd7
+primaryclass: astro-ph.SR
+ref: geller.a.2012
+title: WIYN Open Cluster Study. XLVIII. The Hard-binary Population of NGC 188
+type: article
+volume: '144'
+year: '2012'

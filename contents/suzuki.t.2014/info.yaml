@@ -1,0 +1,49 @@
+abstract: We report results of three-dimensional magnetohydrodynamical (MHD) simulations
+  of global accretion disks threaded with weak vertical magnetic fields. We perform
+  the simulations in the spherical coordinates with different temperature profiles
+  and accordingly different rotation profiles. In the cases with a spatially constant
+  temperature, because the rotation frequency is vertically constant in the equilibrium
+  condition, general properties of the turbulence excited by magnetorotational instability
+  are quantitatively similar to those obtained in local shearing box simulations.
+  On the other hand, in the cases with a radially variable temperature profile, the
+  vertical differential rotation, which is inevitable in the equilibrium condition,
+  winds up the magnetic field lines in addition to the usual radial differential rotation.
+  As a result, the coherent wound magnetic fields contribute to the Maxwell stress
+  in the surface regions. We obtain nondimensional density and velocity fluctuations
+  ~0.1-0.2 at the midplane. The azimuthal power spectra of the magnetic fields show
+  shallower slopes, ~m 0 - m -1, than those of velocity and density. The Poynting
+  flux associated with the MHD turbulence drives intermittent and structured disk
+  winds as well as sound-like waves toward the midplane. The mass accretion mainly
+  occurs near the surfaces, and the gas near the midplane slowly moves outward in
+  the time domain of the present simulations. The vertical magnetic fields are also
+  dragged inward in the surface regions, while they stochastically move outward and
+  inward around the midplane. We also discuss an observational implication of induced
+  spiral structure in the simulated turbulent disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...784..121S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.6916
+author: Suzuki, T. K. and Inutsuka, S.-i.
+author_list:
+- family: Suzuki
+  given: T. K.
+- family: Inutsuka
+  given: S.-i.
+date-added: 2017-08-10 14:50:33 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/784/2/121
+eid: '121'
+eprint: '1309.6916'
+journal: \apj
+keywords: 'accretion, accretion disks, ISM: jets and outflows, magnetohydrodynamics:
+  MHD, protoplanetary disks, stars: winds, outflows, turbulence'
+month: April
+pages: '121'
+papis_id: 5fe5032e020c6df0a8834daa01c69479
+primaryclass: astro-ph.EP
+ref: suzuki.t.2014
+title: Magnetohydrodynamic Simulations of Global Accretion Disks with Vertical Magnetic
+  Fields
+type: article
+volume: '784'
+year: '2014'

@@ -1,0 +1,43 @@
+abstract: We apply the mathematical formalism of vector spherical harmonics decomposition
+  to convective stellar velocity fields from multidimensional hydrodynamics simulations
+  and show that the resulting power spectra furnish a robust and stable statistical
+  description of stellar convective turbulence. Analysis of the power spectra helps
+  identify key physical parameters of the convective process such as the dominant
+  scale of the turbulent motions that influence the structure of massive evolved pre-supernova
+  stars. We introduce the numerical method that can be used to calculate vector spherical
+  harmonics power spectra from two-dimensional (2D) and three-dimensional (3D) convective
+  shell simulation data. Using this method we study the properties of oxygen shell
+  burning and convection for a 15 M \&sun; star simulated by the hydrodynamics code
+  FLASH in 2D and 3D. We discuss the importance of realistic initial conditions to
+  achieving successful core-collapse supernova explosions in multidimensional simulations.
+  We show that the calculated power spectra can be used to generate realizations of
+  the velocity fields of presupernova convective shells. We find that the slope of
+  the solenoidal mode power spectrum remains mostly constant throughout the evolution
+  of convection in the oxygen shell in both 2D and 3D simulations. We also find that
+  the characteristic radial scales of the convective elements are smaller in 3D than
+  in 2D, while the angular scales are larger in 3D.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...795...92C
+author: Chatzopoulos, E. and Graziani, C. and Couch, S. M.
+author_list:
+- family: Chatzopoulos
+  given: E.
+- family: Graziani
+  given: C.
+- family: Couch
+  given: S. M.
+date-added: 2017-08-11 14:36:12 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/795/1/92
+eid: '92'
+journal: \apj
+keywords: 'methods: numerical, stars: interiors, stars: massive, supernovae: general,
+  supernovae: individual: progenitors'
+month: November
+pages: '92'
+papis_id: 6ad0162d9acd39a9030bf37552b1e0e2
+ref: chatzopoulos.e.2014
+title: Characterizing the Convective Velocity Fields in Massive Stars
+type: article
+volume: '795'
+year: '2014'

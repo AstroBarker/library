@@ -1,0 +1,42 @@
+abstract: Recently, using a large low-redshift sample of Type Ia supernovae (SNe Ia),
+  we discovered a relation between SN Ia ejecta velocity and intrinsic color that
+  improves the distance precision of SNe Ia and reduces potential systematic biases
+  related to dust reddening. No SN Ia cosmological results have yet made a correction
+  for the "velocity-color" relation. To test the existence of such a relation and
+  constrain its properties at high redshift, we examine a sample of 75 SNe Ia discovered
+  and observed by the Sloan Digital Sky Survey-II Supernova Survey and Supernova Legacy
+  Survey. From each spectrum, we measure ejecta velocities at maximum brightness for
+  the Ca H\&K and Si II lambda6355 features, v 0 Ca H\&K and v 0 Si II , respectively.
+  Using SN light curve parameters, we determine the intrinsic B max - V max for each
+  SN. Similar to what was found at low redshift, we find that SNe Ia with higher ejecta
+  velocity tend to be intrinsically redder than SNe Ia with lower ejecta velocity.
+  The distributions of ejecta velocities for SNe Ia at low and high redshift are similar,
+  indicating that current cosmological results should have little bias related to
+  the velocity-color relation. Additionally, we find a slight (2.4sigma significant)
+  trend between SN Ia ejecta velocity and host-galaxy mass such that SNe Ia in high-mass
+  host galaxies tend to have lower ejecta velocities as probed by v 0 Ca H\&K. These
+  results emphasize the importance of spectroscopy for SN Ia cosmology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...748..127F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.0003
+author: Foley, R. J.
+author_list:
+- family: Foley
+  given: R. J.
+date-added: 2017-08-11 02:31:25 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/748/2/127
+eid: '127'
+eprint: '1202.0003'
+journal: \apj
+keywords: 'distance scale, dust, extinction, supernovae: general'
+month: April
+pages: '127'
+papis_id: d1131c616d21902196e96faa8eeb34cd
+ref: foley.r.2012a
+title: The Relation between Ejecta Velocity, Intrinsic Color, and Host-galaxy Mass
+  for High-redshift Type Ia Supernovae
+type: article
+volume: '748'
+year: '2012'

@@ -1,0 +1,49 @@
+abstract: We use the progenitor of SN 2012aw to illustrate the consequences of modeling
+  circumstellar dust using Galactic (interstellar) extinction laws that (1) ignore
+  dust emission in the near-IR and beyond, (2) average over dust compositions, and
+  (3) mischaracterize the optical/UV absorption by assuming that scattered photons
+  are lost to the observer. The primary consequences for the progenitor of SN 2012aw
+  are that both the luminosity and the absorption are significantly overestimated.
+  In particular, the stellar luminosity is most likely in the range 104.8 < L \textasteriskcentered/L
+  \&sun; < 105.0 and the star was not extremely massive for a Type IIP progenitor,
+  with M \textasteriskcentered < 15 M \&sun;. Given the properties of the circumstellar
+  dust and the early X-ray/radio detections of SN 2012aw, the star was probably obscured
+  by an ongoing wind with \dot{M}\sim 10^{-5.5} to 10-5.0 M \&sun; yr-1 at the time
+  of the explosion, roughly consistent with the expected mass-loss rates for a star
+  of its temperature (T \textasteriskcentered ~= 3600+300 - 200 K) and luminosity.
+  In the spirit of Galactic extinction laws, we supply simple interpolation formulae
+  for circumstellar extinction by dusty graphitic and silicate shells as a function
+  of wavelength (lambda >= 0.3 mum) and total (absorption plus scattering) V-band
+  optical depth (tau V  <= 20). These do not include the contributions of dust emission,
+  but provide a simple, physical alternative to incorrectly using interstellar extinction
+  laws.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759...20K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.4111
+author: Kochanek, C. S. and Khan, R. and Dai, X.
+author_list:
+- family: Kochanek
+  given: C. S.
+- family: Khan
+  given: R.
+- family: Dai
+  given: X.
+date-added: 2017-08-11 07:05:07 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/1/20
+eid: '20'
+eprint: '1208.4111'
+journal: \apj
+keywords: 'dust, extinction, stars: evolution, supergiants, supernovae: general, supernovae:
+  individual: SN2012aw'
+month: November
+pages: '20'
+papis_id: 3fbd52844d06b7ffd39ff778cae94cad
+primaryclass: astro-ph.SR
+ref: kochanek.c.2012
+title: On Absorption by Circumstellar Dust, with the Progenitor of SN 2012aw as a
+  Case Study
+type: article
+volume: '759'
+year: '2012'

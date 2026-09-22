@@ -1,0 +1,50 @@
+abstract: 'We establish a new criterion for the dynamical stability of black holes
+  in D >= 4 spacetime dimensions in general relativity with respect to axisymmetric
+  perturbations: Dynamical stability is equivalent to the positivity of the canonical
+  energy, {{E}}, on a subspace, {{T}}, of linearized solutions that have vanishing
+  linearized ADM mass, momentum, and angular momentum at infinity and satisfy certain
+  gauge conditions at the horizon. This is shown by proving that---apart from pure
+  gauge perturbations and perturbations towards other stationary black holes---{{E}}
+  is nondegenerate on {{T}} and that, for axisymmetric perturbations, {{E}} has positive
+  flux properties at both infinity and the horizon. We further show that {{E}} is
+  related to the second order variations of mass, angular momentum, and horizon area
+  by {{E} = delta^2 M -sum\_A Omega\_A delta^2 J\_A - kappa/8pidelta^2 A}, thereby
+  establishing a close connection between dynamical stability and thermodynamic stability.
+  Thermodynamic instability of a family of black holes need not imply dynamical instability
+  because the perturbations towards other members of the family will not, in general,
+  have vanishing linearized ADM mass and/or angular momentum. However, we prove that
+  for any black brane corresponding to a thermodynamically unstable black hole, sufficiently
+  long wavelength perturbations can be found with {{E} < 0} and vanishing linearized
+  ADM quantities. Thus, all black branes corresponding to thermodynmically unstable
+  black holes are dynamically unstable, as conjectured by Gubser and Mitra. We also
+  prove that positivity of {{E}} on {{T}} is equivalent to the satisfaction of a "
+  local Penrose inequality," thus showing that satisfaction of this local Penrose
+  inequality is necessary and sufficient for dynamical stability. Although we restrict
+  our considerations in this paper to vacuum general relativity, most of the results
+  of this paper are derived using general Lagrangian and Hamiltonian methods and therefore
+  can be straightforwardly generalized to allow for the presence of matter fields
+  and/or to the case of an arbitrary diffeomorphism covariant gravitational action.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013CMaPh.321..629H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.0463
+author: Hollands, S. and Wald, R. M.
+author_list:
+- family: Hollands
+  given: S.
+- family: Wald
+  given: R. M.
+date-added: 2017-08-10 20:12:15 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1007/s00220-012-1638-1
+eprint: '1201.0463'
+journal: Communications in Mathematical Physics
+month: August
+pages: 629--680
+papis_id: 675a5989143c51a4af6185ff97e21e07
+primaryclass: gr-qc
+ref: hollands.s.2013
+title: Stability of Black Holes and Black Branes
+type: article
+volume: '321'
+year: '2013'

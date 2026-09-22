@@ -1,0 +1,63 @@
+abstract: We present the new general-relativistic magnetohydrodynamics (GRMHD) capabilities
+  of the Einstein toolkit, an open-source community-driven numerical relativity and
+  computational relativistic astrophysics code. The GRMHD extension of the toolkit
+  builds upon previous releases and implements the evolution of relativistic magnetized
+  fluids in the ideal MHD limit in fully dynamical spacetimes using the same shock-capturing
+  techniques previously applied to hydrodynamical evolution. In order to maintain
+  the divergence-free character of the magnetic field, the code implements both constrained
+  transport and hyperbolic divergence cleaning schemes. We present test results for
+  a number of MHD tests in Minkowski and curved spacetimes. Minkowski tests include
+  aligned and oblique planar shocks, cylindrical explosions, magnetic rotors, Alfv{\'e}n
+  waves and advected loops, as well as a set of tests designed to study the response
+  of the divergence cleaning scheme to numerically generated monopoles. We study the
+  code's performance in curved spacetimes with spherical accretion onto a black hole
+  on a fixed background spacetime and in fully dynamical spacetimes by evolutions
+  of a magnetized polytropic neutron star and of the collapse of a magnetized stellar
+  core. Our results agree well with exact solutions where these are available and
+  we demonstrate convergence. All code and input files used to generate the results
+  are available on http://einsteintoolkit.org. This makes our work fully reproducible
+  and provides new users with an introduction to applications of the code.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014CQGra..31a5005M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.5544
+author: Mösta, P. and Mundim, B. C. and Faber, J. A. and Haas, R. and Noble, S. C.
+  and Bode, T. and Löffler, F. and Ott, C. D. and Reisswig, C. and Schnetter, E.
+author_list:
+- family: Mösta
+  given: P.
+- family: Mundim
+  given: B. C.
+- family: Faber
+  given: J. A.
+- family: Haas
+  given: R.
+- family: Noble
+  given: S. C.
+- family: Bode
+  given: T.
+- family: Löffler
+  given: F.
+- family: Ott
+  given: C. D.
+- family: Reisswig
+  given: C.
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 16:24:55 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0264-9381/31/1/015005
+eid: '015005'
+eprint: '1304.5544'
+journal: Classical and Quantum Gravity
+month: January
+number: '1'
+pages: '015005'
+papis_id: 3f04d6c4b10d1bbcfa31e65c3dc79b1b
+primaryclass: gr-qc
+ref: mosta.p.2014
+title: 'GRHydro: a new open-source general-relativistic magnetohydrodynamics code
+  for the Einstein toolkit'
+type: article
+volume: '31'
+year: '2014'

@@ -1,0 +1,49 @@
+abstract: A major goal over the last decade has been understanding which multidimensional
+  effects are crucial in facilitating core-collapse supernova (CCSN) explosions. Unfortunately,
+  much of this work has necessarily assumed axisymmetry. In this work, we present
+  analyses of simplified two-dimensional (2D) and three-dimensional (3D) CCSN models
+  with the goal of comparing the hydrodynamics in setups that differ only in dimension.
+  Not surprisingly, we find many differences between 2D and 3D models. While some
+  differences are subtle and perhaps not crucial, others are dramatic and make interpreting
+  2D models problematic. In particular, axisymmetric models produce excess power at
+  the largest spatial scales, power that has been deemed critical in previous explosion
+  models. Nevertheless, our 3D models, which have an order of magnitude less power
+  than 2D models on large scales, explode earlier. Since explosions occur earlier
+  in 3D than in 2D, the vigorous large-scale sloshing is either not critical in any
+  dimension or the explosion mechanism operates differently in 2D and 3D. On the other
+  hand, we find that the average parcel of matter in the gain region has been exposed
+  to net heating for up to 30\% longer in 3D than in 2D, an effect we attribute to
+  the differing characters of turbulence in 2D and 3D. We suggest that this effect
+  plays a prominent role in producing earlier explosions in 3D. Finally, we discuss
+  a simple model for the runaway growth of buoyant bubbles that is able to quantitatively
+  account for the growth of the shock radius and predicts a critical luminosity relation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...765..110D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.5241
+author: Dolence, J. C. and Burrows, A. and Murphy, J. W. and Nordhaus, J.
+author_list:
+- family: Dolence
+  given: J. C.
+- family: Burrows
+  given: A.
+- family: Murphy
+  given: J. W.
+- family: Nordhaus
+  given: J.
+date-added: 2017-08-10 14:30:10 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/765/2/110
+eid: '110'
+eprint: '1210.5241'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, stars: interiors, supernovae: general'
+month: March
+pages: '110'
+papis_id: a66da21415620a79419494ffde7e2996
+primaryclass: astro-ph.SR
+ref: dolence.j.2013
+title: Dimensional Dependence of the Hydrodynamics of Core-collapse Supernovae
+type: article
+volume: '765'
+year: '2013'

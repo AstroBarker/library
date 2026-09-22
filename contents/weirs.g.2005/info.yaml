@@ -1,0 +1,37 @@
+abstract: As a component of the Flash Center's validation program, we compare FLASH
+  simulation results with experimental results from Los Alamos National Laboratory.
+  The flow of interest involves the lateral interaction between a planar M  a  = 1.2
+  shock wave with a cylinder of gaseous sulfur hexafluoride (SF6) in air, and in particular
+  the development of primary and secondary instabilities after the passage of the
+  shock. While the overall evolution of the flow is comparable in the simulations
+  and experiments, small-scale features are difficult to match. We focus on the sensitivity
+  of numerical results to simulation parameters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005Ap\%26SS.298..341W
+arxivurl: http://arxiv.org/abs/astro-ph/0405410
+author: Weirs, G. and Dwarkadas, V. and Plewa, T. and Tomkins, C. and Marr-Lyon, M.
+author_list:
+- family: Weirs
+  given: G.
+- family: Dwarkadas
+  given: V.
+- family: Plewa
+  given: T.
+- family: Tomkins
+  given: C.
+- family: Marr-Lyon
+  given: M.
+date-added: 2017-08-11 00:46:00 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1007/s10509-005-3966-5
+eprint: astro-ph/0405410
+journal: \apss
+keywords: Richtmyer-Meshkov instability, numerical simulation
+month: July
+pages: 341--346
+papis_id: 289d868453405388f2302ea155318923
+ref: weirs.g.2005
+title: 'Validating the Flash Code: Vortex-Dominated Flows'
+type: article
+volume: '298'
+year: '2005'

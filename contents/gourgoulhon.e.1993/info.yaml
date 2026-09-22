@@ -1,0 +1,40 @@
+abstract: This article presents, within the framework of general relativity, the principal
+  features of spherically symmetric self-gravitating objects, either static (stars
+  in equilibrium) or dynamic (stars in gravitational collapse). The Einstein equations
+  are written in the so-called RGPS coordinates which are employed in some numerical
+  studies of gravitational collapse. An illustration is provided with the specific
+  example of polytropes. The comparison with the Newtonian polytropes displays the
+  major relativistic effects, as the existence of a maximum mass, whatever the stiffness
+  of the equation of state may be. This allows one to interpret the various maximum
+  masses which appeared in the literature in terms of equation of state and theory
+  of gravitation. For instance, the Chandrasekhar maximum mass for white dwarfs is
+  entirely due to the softness of the equation of state, whereas the Oppenheimer-Volkoff
+  maximum mass for neutron stars is a truly general relativistic effect. The dynamical
+  case is illustrated by the analytical Oppenheimer-Snyder solution for the collapse
+  into black hole of a homogeneous ball of pressureless matter. This solution is re-expressed
+  here in terms of the RGPS coordinates instead of the classical Robertson-Walker
+  ones, in order to analyse the behavior of the introduced metric and hydrodynamical
+  variables, in a situation close to the realistic gravitational collapse of a star
+  into black hole. The RGPS coordinates are able to follow the collapse up to the
+  "frozen star" state, where no more subsequent evolution would be perceived by a
+  remote observer. This leads to the conclusion that RGPS coordinates are valuable
+  coordinates for numerical study of gravitational collapse in spherical symmetry.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993AnPh...18....1G
+author: Gourgoulhon, E.
+author_list:
+- family: Gourgoulhon
+  given: E.
+date-added: 2017-08-11 04:37:58 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1051/anphys:019930018010100
+journal: Annales de Physique
+month: February
+pages: 1--87
+papis_id: 80163e34c4fe5fe3eed4585c13435751
+ref: gourgoulhon.e.1993
+title: Equilibre et effondrement gravitationnel des étoiles en relativité générale
+  et en symétrie sphérique.
+type: article
+volume: '18'
+year: '1993'

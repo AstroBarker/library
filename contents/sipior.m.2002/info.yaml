@@ -1,0 +1,53 @@
+abstract: Double neutron star (NS-NS) binaries, analogous to the well-known Hulse-Taylor
+  pulsar PSR 1913+16 (documented by Hulse \& Taylor in 1974), are guaranteed-to-exist
+  sources of high-frequency gravitational radiation detectable by LIGO. There is considerable
+  uncertainty in the estimated rate of coalescence of such systems (see the work of
+  Phinney in 1991, Narayan and coworkers in 1991, and Kalogera and coworkers in 2001),
+  with conservative estimates of ~1 per 106 yr per galaxy, and optimistic theoretical
+  estimates 1 or more mag larger. Formation rates of low-mass black hole (BH)-neutron
+  star binaries may be higher than those of NS-NS binaries and may dominate the detectable
+  LIGO signal rate. Rate estimates for such binaries are plagued by severe model uncertainties.
+  Recent estimates by Portegies Zwart \& Yungelson in 1998 and De Donder \& Vanbeveren
+  in 1998 suggest that BH-BH binaries do not coalesce at significant rates despite
+  being formed at high rates. We estimate the enhanced coalescence rate for BH-BH
+  binaries due to weak asymmetric kicks during the formation of low-mass black holes
+  like Nova Sco (see the work of Brandt, Podsiadlowski, \& Sigurdsson in 1995) and
+  find they may contribute significantly to the LIGO signal rate, possibly dominating
+  the phase I detectable signals if the range of black hole masses for which there
+  is significant kick is broad enough. For a standard Salpeter initial mass function,
+  assuming mild natal kicks, we project that the R6 merger rate (the rate of mergers
+  per 106 yr in a Milky Way-like galaxy) of BH-BH systems is ~0.5, smaller than that
+  of NS-NS systems. However, the higher chirp mass of these systems produces a signal
+  nearly 4 times greater, on average, with a commensurate increase in search volume,
+  hence, our claim that BH-BH mergers (and, to a lesser extent, BH-NS coalescence)
+  should comprise a significant fraction of the signal seen by LIGO. The BH-BH coalescence
+  channel considered here also predicts that a substantial fraction of BH-BH systems
+  should have at least one component with near-maximal spin (a/M~1). This is from
+  the spin-up provided by the fallback material after a supernova. If no mass transfer
+  occurs between the two supernovae, both components could be spinning rapidly. The
+  waveforms produced by the coalescence of such a system should produce a clear spin
+  signature, so this hypothesis could be directly tested by LIGO.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...572..962S
+arxivurl: http://arxiv.org/abs/astro-ph/0202385
+author: Sipior, M. S. and Sigurdsson, S.
+author_list:
+- family: Sipior
+  given: M. S.
+- family: Sigurdsson
+  given: S.
+date-added: 2017-08-11 07:43:47 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340370
+eprint: astro-ph/0202385
+journal: \apj
+keywords: 'Stars: Binaries: Close, Black Hole Physics, Gravitational Waves, Stars:
+  General'
+month: June
+pages: 962--970
+papis_id: 2b12a36adb415f8b3e6f24c4bdf88437
+ref: sipior.m.2002
+title: Nova Scorpii and Coalescing Low-Mass Black Hole Binaries as LIGO Sources
+type: article
+volume: '572'
+year: '2002'

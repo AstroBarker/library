@@ -1,0 +1,44 @@
+abstract: 'Context. The understanding of fossil fields'' origin, topology, and stability
+  is one of the corner stones of the stellar magnetism theory. On one hand, since
+  they survive on secular time scales, they may modify the structure and the evolution
+  of their host stars. On the other hand, they must have a complex stable structure
+  since it has been demonstrated that the simplest purely poloidal or toroidal fields
+  are unstable on dynamical time scales. In this context, the only stable configuration
+  found today is the one resulting from a numerical simulation by Braithwaite and
+  collaborators who studied the evolution of an initial stochastic magnetic field,
+  which is found to relax on a mixed stable configuration (poloidal and toroidal)
+  that seems to be in equilibrium and then diffuses.  Aims: We investigate an equilibrium
+  field in a semi-analytical way. In this first article, we study the barotropic magnetohydrostatic
+  equilibrium states.  Methods: The problem reduces to a Grad-Shafranov-like equation
+  with arbitrary functions. These functions are constrained by deriving the lowest-energy
+  equilibrium states for given invariants of the considered axisymmetric problem,
+  in particular for a given helicity known to be one of the causes of such problems.
+  These theoretical results were applied to realistic stellar cases, the solar radiative
+  core and the envelope of an Ap star, and discussed. In both cases we assumed that
+  the field is initially confined in the stellar radiation zone.  Results: The generalization
+  of the force-free Taylor''s relaxation states studied in laboratory experiments
+  (in spheromaks) that become non force-free in the self-gravitating stellar case
+  are obtained. The case of general baroclinic equilibrium states will be studied
+  in Paper II.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...517A..58D
+author: Duez, V. and Mathis, S.
+author_list:
+- family: Duez
+  given: V.
+- family: Mathis
+  given: S.
+date-added: 2017-08-10 17:09:58 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1051/0004-6361/200913496
+eid: A58
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), plasmas, magnetic fields, stars: magnetic field'
+month: July
+pages: A58
+papis_id: fe2973b43a62e905bb830e1e8e543ec9
+ref: duez.v.2010a
+title: Relaxed equilibrium configurations to model fossil fields . I. A first family
+type: article
+volume: '517'
+year: '2010'

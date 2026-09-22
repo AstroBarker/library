@@ -1,0 +1,52 @@
+abstract: 'In this paper, we extend the unsplit staggered mesh scheme (USM) for 2D
+  magnetohydrodynamics (MHD) [D. Lee, A.E. Deane, An unsplit staggered mesh scheme
+  for multidimensional magnetohydrodynamics, J. Comput. Phys. 228 (2009) 952-975]
+  to a full 3D MHD scheme. The scheme is a finite-volume Godunov method consisting
+  of a constrained transport (CT) method and an efficient and accurate single-step,
+  directionally unsplit multidimensional data reconstruction-evolution algorithm,
+  which extends Colella''s original 2D corner transport upwind (CTU) method [P. Colella,
+  Multidimensional upwind methods for hyperbolic conservation laws, J. Comput. Phys.
+  87 (1990) 446-466]. We present two types of data reconstruction-evolution algorithms
+  for 3D: (1) a reduced CTU scheme and (2) a full CTU scheme. The reduced 3D CTU scheme
+  is a variant of a simple 3D extension of Collela''s 2D CTU method and is considered
+  as a direct extension from the 2D USM scheme. The full 3D CTU scheme is our primary
+  3D solver which includes all multidimensional cross-derivative terms for stability.
+  The latter method is logically analogous to the 3D unsplit CTU method by Saltzman
+  [J. Saltzman, An unsplit 3D upwind method for hyperbolic conservation laws, J. Comput.
+  Phys. 115 (1994) 153-168]. The major novelties in our algorithms are twofold. First,
+  we extend the reduced CTU scheme to the full CTU scheme which is able to run with
+  CFL numbers close to unity. Both methods utilize the transverse update technique
+  developed in the 2D USM algorithm to account for transverse fluxes without solving
+  intermediate Riemann problems, which in turn gives cost-effective 3D methods by
+  reducing the total number of Riemann solves. The proposed algorithms are simple
+  and efficient especially when including multidimensional MHD terms that maintain
+  in-plane magnetic field dynamics. Second, we introduce a new CT scheme that makes
+  use of proper upwind information in taking averages of electric fields. Our 3D USM
+  schemes can be easily combined with various reconstruction methods (e.g., first-order
+  Godunov, second-order MUSCL-Hancock, third-order PPM and fifth-order WENO), and
+  a wide choice of 1D based Riemann solvers (e.g., local Lax-Friedrichs, HLLE, HLLC,
+  HLLD, and Roe). The 3D USM-MHD solver is available in the University of Chicago
+  Flash Center''s official FLASH release.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013JCoPh.243..269L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.6988
+author: Lee, D.
+author_list:
+- family: Lee
+  given: D.
+date-added: 2017-08-10 14:03:50 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1016/j.jcp.2013.02.049
+eprint: '1303.6988'
+journal: Journal of Computational Physics
+month: June
+pages: 269--292
+papis_id: 4c9b1b6c37a6fc896d42c0944c47b647
+primaryclass: physics.comp-ph
+ref: lee.d.2013
+title: A solution accurate, efficient and stable unsplit staggered mesh scheme for
+  three dimensional magnetohydrodynamics
+type: article
+volume: '243'
+year: '2013'

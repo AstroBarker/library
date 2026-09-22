@@ -1,0 +1,55 @@
+abstract: We present a detailed, three-dimensional hydrodynamic study of the neutrino-driven
+  winds emerging from the remnant of a neutron star merger. Our simulations are performed
+  with the Newtonian, Eulerian code FISH, augmented by a detailed, spectral neutrino
+  leakage scheme that accounts for neutrino absorption. Consistent with earlier two-dimensional
+  studies, a strong baryonic wind is blown out along the original binary rotation
+  axis within \approx{}100 ms. From this model, we compute a lower limit on the expelled
+  mass of 3.5 \texttimes{} 10-3 M\&sun;, relevant for heavy element nucleosynthesis.
+  Because of stronger neutrino irradiation, the polar regions show substantially larger
+  electron fractions than those at lower latitudes. The polar ejecta produce interesting
+  r-process contributions from A \approx{} 80 to about 130, while the more neutron-rich,
+  lower latitude parts produce elements up to the third r-process peak near A \approx{}
+  195. We calculate the properties of electromagnetic transients powered by the radioactivity
+  in the wind, in addition to the `macronova' transient stemming from the dynamic
+  ejecta. The polar regions produce ultraviolet/optical transients reaching luminosities
+  up to 1041 erg s-1, which peak around 1 d in optical and 0.3 d in bolometric luminosity.
+  The lower latitude regions, due to their contamination with high-opacity heavy elements,
+  produce dimmer and more red signals, peaking after \texttildelow{}2 d in optical
+  and infrared.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.443.3134P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1405.6730
+author: Perego, A. and Rosswog, S. and Cabezón, R. M. and Korobkin, O. and Käppeli,
+  R. and Arcones, A. and Liebendörfer, M.
+author_list:
+- family: Perego
+  given: A.
+- family: Rosswog
+  given: S.
+- family: Cabezón
+  given: R. M.
+- family: Korobkin
+  given: O.
+- family: Käppeli
+  given: R.
+- family: Arcones
+  given: A.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-11 07:57:18 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1093/mnras/stu1352
+eprint: '1405.6730'
+journal: \mnras
+keywords: 'accretion, accretion discs, dense matter, hydrodynamics, neutrinos, stars:
+  neutron'
+month: October
+pages: 3134--3156
+papis_id: 7c4ec40c74613ff1010a0b85e2f55852
+primaryclass: astro-ph.HE
+ref: perego.a.2014
+title: Neutrino-driven winds from neutron star merger remnants
+type: article
+volume: '443'
+year: '2014'

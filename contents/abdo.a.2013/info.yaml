@@ -1,0 +1,61 @@
+abstract: 'This catalog summarizes 117 high-confidence >=0.1 GeV gamma-ray pulsar
+  detections using three years of data acquired by the Large Area Telescope (LAT)
+  on the Fermi satellite. Half are neutron stars discovered using LAT data through
+  periodicity searches in gamma-ray and radio data around LAT unassociated source
+  positions. The 117 pulsars are evenly divided into three groups: millisecond pulsars,
+  young radio-loud pulsars, and young radio-quiet pulsars. We characterize the pulse
+  profiles and energy spectra and derive luminosities when distance information exists.
+  Spectral analysis of the off-peak phase intervals indicates probable pulsar wind
+  nebula emission for four pulsars, and off-peak magnetospheric emission for several
+  young and millisecond pulsars. We compare the gamma-ray properties with those in
+  the radio, optical, and X-ray bands. We provide flux limits for pulsars with no
+  observed gamma-ray emission, highlighting a small number of gamma-faint, radio-loud
+  pulsars. The large, varied gamma-ray pulsar sample constrains emission models. Fermi''s
+  selection biases complement those of radio surveys, enhancing comparisons with predicted
+  population distributions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..208...17A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.4385
+author: Abdo, A. A. and Ajello, M. and Allafort, A. and Baldini, L. and Ballet, J.
+  and Barbiellini, G. and Baring, M. G. and Bastieri, D. and Belfiore, A. and Bellazzini,
+  R. and al., et
+author_list:
+- family: Abdo
+  given: A. A.
+- family: Ajello
+  given: M.
+- family: Allafort
+  given: A.
+- family: Baldini
+  given: L.
+- family: Ballet
+  given: J.
+- family: Barbiellini
+  given: G.
+- family: Baring
+  given: M. G.
+- family: Bastieri
+  given: D.
+- family: Belfiore
+  given: A.
+- family: Bellazzini
+  given: R.
+- family: al.
+  given: et
+date-added: 2017-08-10 15:45:29 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0067-0049/208/2/17
+eid: '17'
+eprint: '1305.4385'
+journal: \apjs
+keywords: 'catalogs, pulsars: general, stars: neutron'
+month: October
+pages: '17'
+papis_id: 54ca93a805eda56b682d8885b70ded70
+primaryclass: astro-ph.HE
+ref: abdo.a.2013
+title: The Second Fermi Large Area Telescope Catalog of Gamma-Ray Pulsars
+type: article
+volume: '208'
+year: '2013'

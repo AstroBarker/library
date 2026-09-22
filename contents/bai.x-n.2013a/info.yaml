@@ -1,0 +1,48 @@
+abstract: We perform local, vertically stratified shearing-box MHD simulations of
+  protoplanetary disks (PPDs) at a fiducial radius of 1 AU that take into account
+  the effects of both Ohmic resistivity and ambipolar diffusion (AD). The magnetic
+  diffusion coefficients are evaluated self-consistently from a look-up table based
+  on equilibrium chemistry. We first show that the inclusion of AD dramatically changes
+  the conventional picture of layered accretion. Without net vertical magnetic field,
+  the system evolves into a toroidal field dominated configuration with extremely
+  weak turbulence in the far-UV ionization layer that is far too inefficient to drive
+  rapid accretion. In the presence of a weak net vertical field (plasma beta ~ 105
+  at midplane), we find that the magnetorotational instability (MRI) is completely
+  suppressed, resulting in a fully laminar flow throughout the vertical extent of
+  the disk. A strong magnetocentrifugal wind is launched that efficiently carries
+  away disk angular momentum and easily accounts for the observed accretion rate in
+  PPDs. Moreover, under a physical disk wind geometry, all the accretion flow proceeds
+  through a strong current layer with a thickness of ~0.3H that is offset from disk
+  midplane with radial velocity of up to 0.4 times the sound speed. Both Ohmic resistivity
+  and AD are essential for the suppression of the MRI and wind launching. The efficiency
+  of wind transport increases with increasing net vertical magnetic flux and the penetration
+  depth of the FUV ionization. Our laminar wind solution has important implications
+  on planet formation and global evolution of PPDs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769...76B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.0318
+author: Bai, X.-N. and Stone, J. M.
+author_list:
+- family: Bai
+  given: X.-N.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 14:51:37 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/769/1/76
+eid: '76'
+eprint: '1301.0318'
+journal: \apj
+keywords: 'accretion, accretion disks, instabilities, magnetohydrodynamics: MHD, methods:
+  numerical, protoplanetary disks, turbulence'
+month: May
+pages: '76'
+papis_id: 9d028067941225087f6509bbbd5940d7
+primaryclass: astro-ph.EP
+ref: bai.x_n.2013a
+title: Wind-driven Accretion in Protoplanetary Disks. I. Suppression of the Magnetorotational
+  Instability and Launching of the Magnetocentrifugal Wind
+type: article
+volume: '769'
+year: '2013'

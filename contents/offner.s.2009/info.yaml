@@ -1,0 +1,46 @@
+abstract: Forming stars emit a substantial amount of radiation into their natal environment.
+  We use ORION, an adaptive mesh refinement (AMR) three-dimensional gravito-radiation-hydrodyanics
+  code, to simulate low-mass star formation in a turbulent molecular cloud. We compare
+  the distributions of stellar masses, accretion rates, and temperatures in the cases
+  with and without radiative transfer, and we demonstrate that radiative feedback
+  has a profound effect on accretion, multiplicity, and mass by reducing the number
+  of stars formed and the total rate at which gas turns into stars. We also show that
+  once the star formation reaches a steady state, protostellar radiation is by far
+  the dominant source of energy in the simulation, exceeding viscous dissipation and
+  compressional heating by at least an order of magnitude. Calculations that omit
+  radiative feedback from protstars significantly underestimate the gas temperature
+  and the strength of this effect. Although heating from protostars is mainly confined
+  to the protostellar cores, we find that it is sufficient to suppress disk fragmentation
+  that would otherwise result in very low-mass companions or brown dwarfs. We demonstrate
+  that the mean protostellar accretion rate increases with the final stellar mass
+  so that the star formation time is only a weak function of mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...703..131O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0904.2004
+author: Offner, S. S. R. and Klein, R. I. and McKee, C. F. and Krumholz, M. R.
+author_list:
+- family: Offner
+  given: S. S. R.
+- family: Klein
+  given: R. I.
+- family: McKee
+  given: C. F.
+- family: Krumholz
+  given: M. R.
+date-added: 2017-08-11 00:47:07 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/703/1/131
+eprint: '0904.2004'
+journal: \apj
+keywords: 'hydrodynamics, ISM: clouds, ISM: kinematics and dynamics, methods: numerical,
+  radiative transfer, stars: formation, turbulence'
+month: September
+pages: 131--149
+papis_id: dd3c238fc5b99f10df6a8d5024988665
+primaryclass: astro-ph.SR
+ref: offner.s.2009
+title: The Effects of Radiative Transfer on Low-Mass Star Formation
+type: article
+volume: '703'
+year: '2009'

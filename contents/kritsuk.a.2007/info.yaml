@@ -1,0 +1,49 @@
+abstract: We present results of large-scale three-dimensional simulations of supersonic
+  Euler turbulence with the piecewise parabolic method and multiple grid resolutions
+  up to 20483 points. Our numerical experiments describe nonmagnetized driven turbulent
+  flows with an isothermal equation of state and an rms Mach number of 6. We discuss
+  numerical resolution issues and demonstrate convergence, in a statistical sense,
+  of the inertial range dynamics in simulations on grids larger than 5123 points.
+  The simulations allowed us to measure the absolute velocity scaling exponents for
+  the first time. The inertial range velocity scaling in this strongly compressible
+  regime deviates substantially from the incompressible Kolmogorov laws. The slope
+  of the velocity power spectrum, for instance, is -1.95 compared to -5/3 in the incompressible
+  case. The exponent of the third-order velocity structure function is 1.28, while
+  in incompressible turbulence it is known to be unity. We propose a natural extension
+  of Kolmogorov's phenomenology that takes into account compressibility by mixing
+  the velocity and density statistics and preserves the Kolmogorov scaling of the
+  power spectrum and structure functions of the density-weighted velocity v\equiv{}rho1/3u.
+  The low-order statistics of v appear to be invariant with respect to changes in
+  the Mach number. For instance, at Mach 6 the slope of the power spectrum of v is
+  -1.69, and the exponent of the third-order structure function of v is unity. We
+  also directly measure the mass dimension of the ``fractal'' density distribution
+  in the inertial subrange, Dm~2.4, which is similar to the observed fractal dimension
+  of molecular clouds and agrees well with the cascade phenomenology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665..416K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.3851
+author: Kritsuk, A. G. and Norman, M. L. and Padoan, P. and Wagner, R.
+author_list:
+- family: Kritsuk
+  given: A. G.
+- family: Norman
+  given: M. L.
+- family: Padoan
+  given: P.
+- family: Wagner
+  given: R.
+date-added: 2017-08-10 15:35:03 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519443
+eprint: '0704.3851'
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, ISM: Structure, Methods: Numerical, Turbulence'
+month: August
+pages: 416--431
+papis_id: 0f8477f5619d011d0f267a3729c5ceba
+ref: kritsuk.a.2007
+title: The Statistics of Supersonic Isothermal Turbulence
+type: article
+volume: '665'
+year: '2007'

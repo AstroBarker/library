@@ -1,0 +1,52 @@
+abstract: We have conducted a series of numerical experiments using spherically symmetric,
+  general relativistic, neutrino radiation hydrodynamics with the code Agile-BOLTZTRAN
+  to examine the effects of modern neutrino opacities on the development of supernova
+  simulations. We test the effects of opacities by removing opacities or by undoing
+  opacity improvements for individual opacities and groups of opacities. We find that
+  improvements to electron capture (EC) on nuclei, namely EC on an ensemble of nuclei
+  using modern nuclear structure models rather than the simpler independent-particle
+  approximation (IPA) for EC on a mean nucleus, plays the most important role during
+  core collapse of all tested neutrino opacities. Low-energy neutrinos emitted by
+  modern nuclear EC preferentially escape during collapse without the energy downscattering
+  on electrons required to enhance neutrino escape and deleptonization for the models
+  with IPA nuclear EC. During shock breakout the primary influence on the emergent
+  neutrinos arises from non-isoenergetic scattering (NIS) on electrons. For the accretion
+  phase, NIS on free nucleons and pair emission by e + e - annihilation have the largest
+  impact on the neutrino emission and shock evolution. Other opacities evaluated,
+  including nucleon-nucleon bremsstrahlung and especially neutrino-positron scattering,
+  have little measurable impact on neutrino emission or shock dynamics. Modern treatments
+  of nuclear EC, e + e --annihilation pair emission, and NIS on electrons and free
+  nucleons are critical elements of core-collapse simulations of all dimensionality.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...760...94L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.1086
+author: Lentz, E. J. and Mezzacappa, A. and Messer, O. E. B. and Hix, W. R. and Bruenn,
+  S. W.
+author_list:
+- family: Lentz
+  given: E. J.
+- family: Mezzacappa
+  given: A.
+- family: Messer
+  given: O. E. B.
+- family: Hix
+  given: W. R.
+- family: Bruenn
+  given: S. W.
+date-added: 2017-08-10 15:13:43 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/760/1/94
+eid: '94'
+eprint: '1206.1086'
+journal: \apj
+keywords: 'neutrinos, radiative transfer, supernovae: general'
+month: November
+pages: '94'
+papis_id: 940b77c0687342167d432528157235b7
+primaryclass: astro-ph.SR
+ref: lentz.e.2012
+title: Interplay of Neutrino Opacities in Core-collapse Supernova Simulations
+type: article
+volume: '760'
+year: '2012'

@@ -1,0 +1,87 @@
+abstract: 'WMAP precision data enable accurate testing of cosmological models. We
+  find that the emerging standard model of cosmology, a flat Lambda-dominated universe
+  seeded by a nearly scale-invariant adiabatic Gaussian fluctuations, fits the WMAP
+  data. For the WMAP data only, the best-fit parameters are h=0.72+/-0.05, Omegabh2=0.024+/-0.001,
+  Omegamh2=0.14+/-0.02, tau=0.166+0.076-0.071, ns=0.99+/-0.04, and sigma8=0.9+/-0.1.
+  With parameters fixed only by WMAP data, we can fit finer scale cosmic microwave
+  background (CMB) measurements and measurements of large-scale structure (galaxy
+  surveys and the Lyalpha forest). This simple model is also consistent with a host
+  of other astronomical measurements: its inferred age of the universe is consistent
+  with stellar ages, the baryon/photon ratio is consistent with measurements of the
+  [D/H] ratio, and the inferred Hubble constant is consistent with local observations
+  of the expansion rate. We then fit the model parameters to a combination of WMAP
+  data with other finer scale CMB experiments (ACBAR and CBI), 2dFGRS measurements,
+  and Lyalpha forest data to find the model''s best-fit cosmological parameters: h=0.71+0.04-0.03,
+  Omegabh2=0.0224+/-0.0009, Omegamh2=0.135+0.008-0.009, tau=0.17+/-0.06, ns(0.05 Mpc-1)=0.93+/-0.03,
+  and sigma8=0.84+/-0.04. WMAP''s best determination of tau=0.17+/-0.04 arises directly
+  from the temperature-polarization (TE) data and not from this model fit, but they
+  are consistent. These parameters imply that the age of the universe is 13.7+/-0.2
+  Gyr. With the Lyalpha forest data, the model favors but does not require a slowly
+  varying spectral index. The significance of this running index is sensitive to the
+  uncertainties in the Lyalpha forest.  By combining WMAP data with other astronomical
+  data, we constrain the geometry of the universe, Omegatot=1.02+/-0.02, and the equation
+  of state of the dark energy, w<-0.78 (95\% confidence limit assuming w>=-1). The
+  combination of WMAP and 2dFGRS data constrains the energy density in stable neutrinos:
+  Omeganuh2<0.0072 (95\% confidence limit). For three degenerate neutrino species,
+  this limit implies that their mass is less than 0.23 eV (95\% confidence limit).
+  The WMAP detection of early reionization rules out warm dark matter.  WMAP is the
+  result of a partnership between Princeton University and the NASA Goddard Space
+  Flight Center. Scientific guidance is provided by the WMAP Science Team.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..148..175S
+arxivurl: http://arxiv.org/abs/astro-ph/0302209
+author: Spergel, D. N. and Verde, L. and Peiris, H. V. and Komatsu, E. and Nolta,
+  M. R. and Bennett, C. L. and Halpern, M. and Hinshaw, G. and Jarosik, N. and Kogut,
+  A. and Limon, M. and Meyer, S. S. and Page, L. and Tucker, G. S. and Weiland, J.
+  L. and Wollack, E. and Wright, E. L.
+author_list:
+- family: Spergel
+  given: D. N.
+- family: Verde
+  given: L.
+- family: Peiris
+  given: H. V.
+- family: Komatsu
+  given: E.
+- family: Nolta
+  given: M. R.
+- family: Bennett
+  given: C. L.
+- family: Halpern
+  given: M.
+- family: Hinshaw
+  given: G.
+- family: Jarosik
+  given: N.
+- family: Kogut
+  given: A.
+- family: Limon
+  given: M.
+- family: Meyer
+  given: S. S.
+- family: Page
+  given: L.
+- family: Tucker
+  given: G. S.
+- family: Weiland
+  given: J. L.
+- family: Wollack
+  given: E.
+- family: Wright
+  given: E. L.
+date-added: 2017-08-10 20:23:17 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/377226
+eprint: astro-ph/0302209
+journal: \apjs
+keywords: 'Cosmology: Cosmic Microwave Background, Cosmology: Cosmological Parameters-
+  Cosmology: Observations, Cosmology: Early Universe'
+month: September
+pages: 175--194
+papis_id: f280878bbb9b6440f8ac2f772dee63e8
+ref: spergel.d.2003
+title: 'First-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Determination
+  of Cosmological Parameters'
+type: article
+volume: '148'
+year: '2003'

@@ -1,0 +1,42 @@
+abstract: As we observe in the moon-earth system, tidal interactions in binary systems
+  can lead to angular momentum exchange. The presence of viscosity is generally regarded
+  as the condition for such transfer to happen. In this paper, we show how the orbital
+  evolution can cause a persistent torque between the binary components, even for
+  inviscid bodies. This preferentially occurs at the final stage of coalescence of
+  compact binaries, when the orbit shrinks successively by gravitational waves and
+  plunging on a time-scale shorter than the viscous time-scale. The total orbital
+  energy transferred to the secondary by this torque is \texttildelow{}10-2 of its
+  binding energy. We further show that this persistent torque induces a differentially
+  rotating quadrupolar perturbation. Specializing to the case of a secondary neutron
+  star, we find that this non-equilibrium state has an associated free energy of 1047-1048
+  erg, just prior to coalescence. This energy is likely stored in internal fluid motions,
+  with a sizeable amount of differential rotation. By tapping this free energy reservoir,
+  a pre-existing weak magnetic field could be amplified up to a strength of \approx{}1015
+  G. Such a dynamically driven tidal torque can thus recycle an old neutron star into
+  a magnetar, with possible observational consequences at merger.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428..518D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.3440
+author: Dall'Osso, S. and Rossi, E. M.
+author_list:
+- family: Dall'Osso
+  given: S.
+- family: Rossi
+  given: E. M.
+date-added: 2017-08-10 19:38:41 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts037
+eprint: '1203.3440'
+journal: \mnras
+keywords: 'gravitational waves, methods: analytical, binaries: close, stars: interiors,
+  stars: neutron'
+month: January
+pages: 518--531
+papis_id: ba2c1163bb4fac33e454bbaf8fe4966e
+primaryclass: astro-ph.HE
+ref: dall_osso.s.2013
+title: Tidal torque induced by orbital decay in compact object binaries
+type: article
+volume: '428'
+year: '2013'

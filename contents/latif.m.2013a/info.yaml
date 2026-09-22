@@ -1,0 +1,43 @@
+abstract: Atomic cooling haloes with virial temperatures Tvir >= 104 K are the most
+  plausible sites for the formation of the first galaxies and the first intermediate-mass
+  black holes. It is therefore important to assess whether one can obtain robust results
+  concerning their main properties from numerical simulations. A major uncertainty
+  is the presence of turbulence, which is barely resolved in cosmological simulations.
+  We explore the latter both by pursuing high-resolution simulations with up to 64
+  cells per Jeans length and by incorporating a subgrid-scale turbulence model to
+  account for turbulent pressure and viscosity on unresolved scales. We find that
+  the main physical quantities in the halo, in particular the density, temperature
+  and energy density profile, are approximately converged. However, the morphologies
+  in the central 500 au change significantly with increasing resolution and appear
+  considerably more turbulent. In a systematic comparison of three different haloes,
+  we further found that the turbulence subgrid-scale model gives rise to more compact
+  central structures and decreases the amount of vorticity. Such compact morphologies
+  may in particular favour the accretion on to the central object.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430..588L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.1802
+author: Latif, M. A. and Schleicher, D. R. G. and Schmidt, W. and Niemeyer, J.
+author_list:
+- family: Latif
+  given: M. A.
+- family: Schleicher
+  given: D. R. G.
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J.
+date-added: 2017-08-10 15:37:32 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts659
+eprint: '1210.1802'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: formation, cosmology: theory, early Universe'
+month: March
+pages: 588--598
+papis_id: 8b88aa6012cbfb1fca5a576a0abc2a61
+ref: latif.m.2013a
+title: High-resolution studies of massive primordial haloes
+type: article
+volume: '430'
+year: '2013'

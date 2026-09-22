@@ -1,0 +1,54 @@
+abstract: The radio light curves of SN 1993J are discussed. We find that a fit to
+  the individual spectra by a synchrotron spectrum, suppressed by external free-free
+  absorption and synchrotron self-absorption, gives a superior fit to models based
+  on pure free-free absorption. A standard r-2 circumstellar medium is assumed and
+  is found to be adequate. From the flux and cutoff wavelength, the magnetic field
+  in the synchrotron-emitting region behind the shock is determined to B ~ 64(Rs/1015
+  cm)-1 G. The strength of the field argues strongly for turbulent amplification behind
+  the shock. The ratio of the magnetic and thermal energy density behind the shock
+  is ~0.14. Synchrotron losses dominate the cooling of the electrons, whereas inverse
+  Compton losses due to photospheric photons are less important. For most of the time
+  also Coulomb cooling affects the spectrum. A model where a constant fraction of
+  the shocked, thermal electrons are injected and accelerated, and subsequently lose
+  their energy due to synchrotron losses, reproduces the observed evolution of the
+  flux and number of relativistic electrons well. The injected electron spectrum has
+  dn/dgamma ~ gamma-2.1, consistent with diffusive shock acceleration. The injected
+  number density of relativistic electrons scales with the thermal electron energy
+  density, rhoV2, rather than the density, rho. The evolution of the flux is strongly
+  connected to the deceleration of the shock wave. The total energy density of the
+  relativistic electrons, if extrapolated to gamma ~ 1, is ~5 \texttimes{} 10-4 of
+  the thermal energy density. The free-free absorption required is consistent with
+  previous calculations of the circumstellar temperature of SN 1993J, Te ~ (2-10)
+  \texttimes{} 105 K, which failed in explaining the radio light curves by pure free-free
+  absorption. Implications for the injection of the relativistic electrons, and the
+  relative importance of free-free absorption, Razin suppression, and the synchrotron
+  self-absorption effect for other supernovae, are also briefly discussed. It is argued
+  that especially the expansion velocity, both directly and through the temperature,
+  is important for determining the relative importance of the free-free absorption
+  and synchrotron self-absorption. Some guidelines for the modeling and interpretation
+  of VLBI observations are also given.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...509..861F
+arxivurl: http://arxiv.org/abs/astro-ph/9807030
+author: Fransson, C. and Björnsson, C.-I.
+author_list:
+- family: Fransson
+  given: C.
+- family: Björnsson
+  given: C.-I.
+date-added: 2017-08-10 19:19:05 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306531
+eprint: astro-ph/9807030
+journal: \apj
+keywords: 'ACCELERATION OF PARTICLES, RADIATION MECHANISMS: NONTHERMAL, STARS: SUPERNOVAE:
+  INDIVIDUAL: ALPHANUMERIC: SN 1993J, Acceleration of Particles, Radiation Mechanisms:
+  Nonthermal, Stars: Supernovae: Individual: Alphanumeric: SN 1993J'
+month: December
+pages: 861--878
+papis_id: 3fcc8e76bd89fe89dead62ac0f2e093d
+ref: fransson.c.1998
+title: Radio Emission and Particle Acceleration in SN 1993J
+type: article
+volume: '509'
+year: '1998'

@@ -1,0 +1,67 @@
+abstract: 'Context. About 10\% of white dwarfs have magnetic fields with strength
+  in the range between about 105 and 5 \texttimes{} 108 G. It is not known whether
+  the remaining white dwarfs are not magnetic, or if they have magnetic fields too
+  weak to be detected with the techniques adopted in the large surveys. Information
+  is particularly lacking for the cooler (and generally fainter) white dwarfs.  Aims:
+  We describe the results of the first survey specifically devised to clarify the
+  detection frequency of kG-level magnetic fields in cool DA white dwarfs.  Methods:
+  Using the FORS1 instrument of the ESO VLT, we have obtained Balmer line circular
+  spectropolarimetric measurements of a small sample of cool (DA6 - DA8) white dwarfs.
+  Using FORS and UVES archive data, we have also revised numerous white dwarf field
+  measurements previously published in the literature.  Results: We have discovered
+  an apparently constant longitudinal magnetic field of ~9.5 kG in the DA6 white dwarf
+  WD 2105-820. This star is the first weak-field white dwarf that has been observed
+  sufficiently to roughly determine the characteristics of its field. The available
+  data are consistent with a simple dipolar morphology with magnetic axis nearly parallel
+  to the rotation axis, and a polar strength of ~= 56 kG. Our re-evaluation of the
+  FORS archive data for white dwarfs indicates that longitudinal magnetic fields weaker
+  than 10 kG have previously been correctly identified in at least three white dwarfs.
+  However, for one of these three weak-field stars (WD 2359-434), UVES archive data
+  show a ~100 kG mean field modulus. Either at the time of the FORS observations the
+  star''s magnetic field axis was nearly perpendicular to the line of sight, or the
+  star''s magnetic field has rather complex structure.  Conclusions: We find that
+  the probability of detecting a field of kG strength in a DA white dwarf is of the
+  order of 10\% for each of the cool and hot DA stars. If there is a lower cutoff
+  to field strength in white dwarfs, or a field below which all white dwarfs are magnetic,
+  the current precision of measurements is not yet sufficient to reveal it.  Based
+  on observations collected at the European Organisation for Astronomical Research
+  in the Southern Hemisphere, Chile, under observing programme 073.D-0516, and obtained
+  from the ESO/ST-ECF Science Archive Facility.Table 3 is available in electronic
+  form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...545A..30L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.3650
+author: Landstreet, J. D. and Bagnulo, S. and Valyavin, G. G. and Fossati, L. and
+  Jordan, S. and Monin, D. and Wade, G. A.
+author_list:
+- family: Landstreet
+  given: J. D.
+- family: Bagnulo
+  given: S.
+- family: Valyavin
+  given: G. G.
+- family: Fossati
+  given: L.
+- family: Jordan
+  given: S.
+- family: Monin
+  given: D.
+- family: Wade
+  given: G. A.
+date-added: 2017-08-10 17:03:08 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1051/0004-6361/201219829
+eid: A30
+eprint: '1208.3650'
+journal: \aap
+keywords: 'white dwarfs, stars: magnetic field'
+month: September
+pages: A30
+papis_id: 0f73c199eb87d78ef239b958474f08b4
+primaryclass: astro-ph.SR
+ref: landstreet.j.2012
+title: On the incidence of weak magnetic fields in DA white dwarfs
+type: article
+volume: '545'
+year: '2012'

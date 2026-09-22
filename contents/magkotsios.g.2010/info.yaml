@@ -1,0 +1,57 @@
+abstract: We compare the yields of 44Ti and 56Ni produced from post-processing the
+  thermodynamic trajectories from three different core-collapse models---a Cassiopeia
+  A progenitor, a double shock hypernova progenitor, and a rotating two-dimensional
+  explosion---with the yields from exponential and power-law trajectories. The peak
+  temperatures and densities achieved in these core-collapse models span several of
+  the distinct nucleosynthesis regions we identify, resulting in different trends
+  in the 44Ti and 56Ni yields for different mass elements. The 44Ti and 56Ni mass
+  fraction profiles from the exponential and power-law profiles generally explain
+  the tendencies of the post-processed yields, depending on which regions are traversed
+  by the model. We find that integrated yields of 44Ti and 56Ni from the exponential
+  and power-law trajectories are generally within a factor two or less of the post-process
+  yields. We also analyze the influence of specific nuclear reactions on the 44Ti
+  and 56Ni abundance evolution. Reactions that affect all yields globally are the
+  3alpha, p(e-, nue)n and n(e^{+},\overline{nu\_e})p. The rest of the reactions are
+  ranked according to their degree of impact on the synthesis of 44Ti. The primary
+  ones include 44Ti(alpha, p)47V, 40Ca(alpha, gamma)44Ti, 45V(p, gamma)46Cr, 40Ca(alpha,
+  p)43Sc, 17F(alpha, p)20Ne, 21Na(alpha, p)24Mg, 41Sc(p, gamma)42Ti, 43Sc(p, gamma)44Ti,
+  44Ti(p, gamma)45V, and 57Ni(p, gamma)58Cu, along with numerous weak reactions. Our
+  analysis suggests that not all 44Ti need to be produced in an alpha-rich freeze-out
+  in core-collapse events, and that reaction rate equilibria in combination with timescale
+  effects for the expansion profile may account for the paucity of 44Ti observed in
+  supernova remnants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..191...66M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.3175
+author: Magkotsios, G. and Timmes, F. X. and Hungerford, A. L. and Fryer, C. L. and
+  Young, P. A. and Wiescher, M.
+author_list:
+- family: Magkotsios
+  given: G.
+- family: Timmes
+  given: F. X.
+- family: Hungerford
+  given: A. L.
+- family: Fryer
+  given: C. L.
+- family: Young
+  given: P. A.
+- family: Wiescher
+  given: M.
+date-added: 2017-08-10 15:30:51 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0067-0049/191/1/66
+eprint: '1009.3175'
+journal: \apjs
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general'
+month: November
+pages: 66--95
+papis_id: 9a4968c42752eafbb86c3472e5ef7438
+primaryclass: astro-ph.SR
+ref: magkotsios.g.2010
+title: Trends in $^44$Ti and \$^56\$Ni from Core-collapse Supernovae
+type: article
+volume: '191'
+year: '2010'

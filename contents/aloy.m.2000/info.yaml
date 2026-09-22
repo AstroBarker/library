@@ -1,0 +1,44 @@
+abstract: Using a collapsar progenitor model of MacFadyen \& Woosley, we have simulated
+  the propagation of an axisymmetric jet through a collapsing rotating massive star
+  with the GENESIS multidimensional relativistic hydrodynamic code. The jet forms
+  as a consequence of an assumed (constant or variable) energy deposition in the range
+  of 1050-1051 ergs s-1 within a 30 deg cone around the rotation axis. The jet flow
+  is strongly beamed (approximately less than a few degrees), spatially inhomogeneous,
+  and time dependent. The jet reaches the surface of the stellar progenitor (R\textasteriskcentered=2.98x1010
+  cm) intact. At breakout, the maximum Lorentz factor of the jet flow is 33. After
+  breakout, the jet accelerates into the circumstellar medium, whose density is assumed
+  to decrease exponentially and then become constant, rhoext=10-5 g cm-3. Outside
+  the star, the flow begins to expand laterally also (v~c), but the beam remains very
+  well collimated. At a distance of 2.54 R\textasteriskcentered, where the simulation
+  ends, the Lorentz factor has increased to 44.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...531L.119A
+arxivurl: http://arxiv.org/abs/astro-ph/9911098
+author: Aloy, M. A. and Müller, E. and Ibáñez, J. M. and Martí, J. M. and MacFadyen,
+  A.
+author_list:
+- family: Aloy
+  given: M. A.
+- family: Müller
+  given: E.
+- family: Ibáñez
+  given: J. M.
+- family: Martí
+  given: J. M.
+- family: MacFadyen
+  given: A.
+date-added: 2017-08-11 01:54:41 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/312537
+eprint: astro-ph/9911098
+journal: \apjl
+keywords: 'GAMMA RAYS: BURSTS, GAMMA RAYS: THEORY, HYDRODYNAMICS, METHODS: NUMERICAL,
+  RELATIVITY'
+month: March
+pages: L119-L122
+papis_id: da2e65aaad359351351fe6f951ff3449
+ref: aloy.m.2000
+title: Relativistic Jets from Collapsars
+type: article
+volume: '531'
+year: '2000'

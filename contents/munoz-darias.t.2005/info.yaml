@@ -1,0 +1,39 @@
+abstract: We study the K-correction for the case of emission lines formed in the X-ray-illuminated
+  atmosphere of a Roche lobe-filling star. We compute the K-correction as a function
+  of the mass ratio q and the disk flaring angle alpha using a compact binary code
+  in which the companion's Roche lobe is divided into 105 resolution elements. We
+  also study the effect of the inclination angle in the results. We apply our model
+  to the case of the neutron star low-mass X-ray binary X1822-371 (V691 CrA), where
+  a K-emission velocity Kem=300+/-8 km s-1 has been measured by Casares et al. Our
+  numerical results, combined with a previous determination of system parameters,
+  yields 1.61 Msolar<=MNS<=2.32 Msolar and 0.44 Msolar<=M2<=0.56 Msolar for the two
+  binary components (i.e., 0.24<=q<=0.27), which provide compelling evidence for a
+  massive neutron star in this system. We also discuss the implications of these masses
+  into the evolutionary history of the binary.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...635..502M
+arxivurl: http://arxiv.org/abs/astro-ph/0508547
+author: Muñoz-Darias, T. and Casares, J. and Martínez-Pais, I. G.
+author_list:
+- family: Muñoz-Darias
+  given: T.
+- family: Casares
+  given: J.
+- family: Martínez-Pais
+  given: I. G.
+date-added: 2017-08-11 04:34:36 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/497420
+eprint: astro-ph/0508547
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Stars: Individual:
+  Alphanumeric: X1822-371, X-Rays: Stars'
+month: December
+pages: 502--507
+papis_id: 9881a90e59fa1eddf2d771612d244bf4
+ref: munoz_darias.t.2005
+title: 'The ``K-Correction'''' for Irradiated Emission Lines in LMXBs: Evidence for
+  a Massive Neutron Star in X1822-371 (V691 CrA)'
+type: article
+volume: '635'
+year: '2005'

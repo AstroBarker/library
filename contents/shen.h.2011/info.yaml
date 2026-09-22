@@ -1,0 +1,49 @@
+abstract: We construct the equation of state (EOS) of dense matter covering a wide
+  range of temperature, proton fraction, and density for the use of core-collapse
+  supernova simulations. The study is based on the relativistic mean-field (RMF) theory,
+  which can provide an excellent description of nuclear matter and finite nuclei.
+  The Thomas-Fermi approximation in combination with assumed nucleon distribution
+  functions and a free energy minimization is adopted to describe the non-uniform
+  matter, which is composed of a lattice of heavy nuclei. We treat the uniform matter
+  and non-uniform matter consistently using the same RMF theory. We present two sets
+  of EOS tables, namely EOS2 and EOS3. EOS2 is an update of our earlier work published
+  in 1998 (EOS1), where only the nucleon degree of freedom is taken into account.
+  EOS3 includes additional contributions from Lambda hyperons. The effect of Lambda
+  hyperons on the EOS is negligible in the low-temperature and low-density region,
+  whereas it tends to soften the EOS at high density. In comparison with EOS1, EOS2
+  and EOS3 have an improved design of ranges and grids, which covers the temperature
+  range T = 0.1-102.6 MeV with the logarithmic grid spacing Deltalog10(T/[MeV]) =
+  0.04 (92 points including T = 0), the proton fraction range Yp = 0-0.65 with the
+  linear grid spacing DeltaYp = 0.01 (66 points), and the density range rho B  = 105.1-1016
+  g cm-3 with the logarithmic grid spacing Deltalog10(rho B /[g cm-3]) = 0.1 (110
+  points).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..197...20S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.1666
+author: Shen, H. and Toki, H. and Oyamatsu, K. and Sumiyoshi, K.
+author_list:
+- family: Shen
+  given: H.
+- family: Toki
+  given: H.
+- family: Oyamatsu
+  given: K.
+- family: Sumiyoshi
+  given: K.
+date-added: 2017-08-10 16:06:36 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0067-0049/197/2/20
+eid: '20'
+eprint: '1105.1666'
+journal: \apjs
+keywords: 'equation of state, stars: neutron, supernovae: general'
+month: December
+pages: '20'
+papis_id: 39b34a67cc0e8b16f34701fe12d4d999
+primaryclass: astro-ph.HE
+ref: shen.h.2011
+title: Relativistic Equation of State for Core-collapse Supernova Simulations
+type: article
+volume: '197'
+year: '2011'

@@ -1,0 +1,53 @@
+abstract: 'Context. Radiative transfer has a strong impact on the collapse and the
+  fragmentation of prestellar dense cores.  Aims: We present the radiation-hydrodynamics
+  (RHD) solver we designed for the RAMSES code. The method is designed for astrophysical
+  purposes, and in particular for protostellar collapse.  Methods: We present the
+  solver, using the co-moving frame to evaluate the radiative quantities. We use the
+  popular flux-limited diffusion approximation under the grey approximation (one group
+  of photons). The solver is based on the second-order Godunov scheme of RAMSES for
+  its hyperbolic part and on an implicit scheme for the radiation diffusion and the
+  coupling between radiation and matter.  Results: We report in detail our methodology
+  to integrate the RHD solver into RAMSES. We successfully test the method in several
+  conventional tests. For validation in 3D, we perform calculations of the collapse
+  of an isolated 1 M\&sun; prestellar dense core without rotation. We successfully
+  compare the results with previous studies that used different models for radiation
+  and hydrodynamics.  Conclusions: We have developed a full radiation-hydrodynamics
+  solver in the RAMSES code that handles adaptive mesh refinement grids. The method
+  is a combination of an explicit scheme and an implicit scheme accurate to the second-order
+  in space. Our method is well suited for star-formation purposes. Results of multidimensional
+  dense-core-collapse calculations with rotation are presented in a companion paper.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...529A..35C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.1216
+author: Commerçon, B. and Teyssier, R. and Audit, E. and Hennebelle, P. and Chabrier,
+  G.
+author_list:
+- family: Commerçon
+  given: B.
+- family: Teyssier
+  given: R.
+- family: Audit
+  given: E.
+- family: Hennebelle
+  given: P.
+- family: Chabrier
+  given: G.
+date-added: 2017-08-10 20:06:03 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201015880
+eid: A35
+eprint: '1102.1216'
+journal: \aap
+keywords: 'hydrodynamics, radiative transfer, methods: numerical, stars: formation,
+  ISM: kinematics and dynamics, stars: low-mass'
+month: May
+pages: A35
+papis_id: d0758918b2beb1d14e0c20c890024353
+primaryclass: astro-ph.IM
+ref: commercon.b.2011
+title: Radiation hydrodynamics with adaptive mesh refinement and application to prestellar
+  core collapse. I. Methods
+type: article
+volume: '529'
+year: '2011'

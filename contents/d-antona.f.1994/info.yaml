@@ -1,0 +1,48 @@
+abstract: We present tabular and graphic results on the computation of pre-main-sequence
+  evolutionary tracks of Population I stellar structures from 2.5 to approximately
+  0.015 solar mass. Deuterium and lithium burning are followed in detail. The chosen
+  input physics gives M approximately 0.018 solar mass as minimum mass for deuterium
+  burning and M approximately 0.065 solar mass as minimum mass for lithium burning.
+  While we adopt the approximations of hydrostatic equilibrium, no mass accretion
+  and no mass loss, we have taken care to include several updates in the input physics,
+  among them two different sets of the more recent available low-temperature opacities,
+  and we test two different models of overdiabatic convection (the mixing-available
+  low-temperature opacities, and we test two different models of overdiabatic convection
+  (the mixing-length theory (MLT) with the mixing-length scale calibrated on the solar
+  model, and the recent Canuto \& Mazzitelli (CM) model). The Hertzsprung-Russell
+  diagram location of tracks turns out to be largely model-dependent, especially for
+  M less than or equal to 0.6 solar mass, and we are able to relate the cause of the
+  large differences (up to 0.04 dex in Teff at 0.3 solar mass) with opacity and with
+  the details of the convection model adopted. Since we are not able to provide 'first
+  principle' physical reasons to choose among models, we consider these tracks as
+  'tests', in the hope that significant comparisons with observations can exclude
+  some models or provide hints toward a better understanding of convection. Nevertheless,
+  we feel obliged to call the reader's attention to the fact that theoretical Teff's,
+  especially in the red, are intrinsically ill-determined, and no sound observational
+  interpretation critically depending on the Teff's can be presently performed, contrary
+  to the current habit due to an exceedingly 'faithful' use of the MLT.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJS...90..467D
+author: D'Antona, F. and Mazzitelli, I.
+author_list:
+- family: D'Antona
+  given: F.
+- family: Mazzitelli
+  given: I.
+date-added: 2017-08-11 04:23:51 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191867
+journal: \apjs
+keywords: Combustion, Computational Astrophysics, Deuterium, Hertzsprung-Russell Diagram,
+  Lithium, Opacity, Pre-Main Sequence Stars, Stellar Convection, Stellar Evolution,
+  Stellar Models, Abundance, Atomic Interactions, Computation, Equations Of State,
+  Equilibrium Methods, Hydrostatics, Numerical Analysis
+month: January
+pages: 467--500
+papis_id: 746a750c53cfbf9b76ad45b9102b712a
+ref: d_antona.f.1994
+title: New pre-main-sequence tracks for M less than or equal to 2.5 solar mass as
+  tests of opacities and convection model
+type: article
+volume: '90'
+year: '1994'

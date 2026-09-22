@@ -1,0 +1,49 @@
+abstract: 'We present a formulation for multigroup radiation hydrodynamics that is
+  correct to order O(v/c) using the comoving-frame approach and the flux-limited diffusion
+  approximation. We describe a numerical algorithm for solving the system, implemented
+  in the compressible astrophysics code, CASTRO. CASTRO uses a Eulerian grid with
+  block-structured adaptive mesh refinement based on a nested hierarchy of logically
+  rectangular variable-sized grids with simultaneous refinement in both space and
+  time. In our multigroup radiation solver, the system is split into three parts:
+  one part that couples the radiation and fluid in a hyperbolic subsystem, another
+  part that advects the radiation in frequency space, and a parabolic part that evolves
+  radiation diffusion and source-sink terms. The hyperbolic subsystem and the frequency
+  space advection are solved explicitly with high-order Godunov schemes, whereas the
+  parabolic part is solved implicitly with a first-order backward Euler method. Our
+  multigroup radiation solver works for both neutrino and photon radiation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..204....7Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.3845
+author: Zhang, W. and Howell, L. and Almgren, A. and Burrows, A. and Dolence, J. and
+  Bell, J.
+author_list:
+- family: Zhang
+  given: W.
+- family: Howell
+  given: L.
+- family: Almgren
+  given: A.
+- family: Burrows
+  given: A.
+- family: Dolence
+  given: J.
+- family: Bell
+  given: J.
+date-added: 2017-08-10 19:04:10 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0067-0049/204/1/7
+eid: '7'
+eprint: '1207.3845'
+journal: \apjs
+keywords: 'diffusion, hydrodynamics, methods: numerical, radiative transfer'
+month: January
+pages: '7'
+papis_id: 019d35dc28b5f278944de47f70f69a07
+primaryclass: astro-ph.IM
+ref: zhang.w.2013
+title: 'CASTRO: A New Compressible Astrophysical Solver. III. Multigroup Radiation
+  Hydrodynamics'
+type: article
+volume: '204'
+year: '2013'

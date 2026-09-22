@@ -1,0 +1,55 @@
+abstract: The thermodynamic state of star-forming gas determines its fragmentation
+  behavior and thus plays a crucial role in determining the stellar initial mass function
+  (IMF). We address the issue by studying the effects of a piecewise polytropic equation
+  of state (EOS) on the formation of stellar clusters in turbulent, self-gravitating
+  molecular clouds using three-dimensional, smoothed particle hydrodynamics simulations.
+  In these simulations stars form via a process we call gravoturbulent fragmentation,
+  i.e., gravitational fragmentation of turbulent gas. To approximate the results of
+  published predictions of the thermal behavior of collapsing clouds, we increase
+  the polytropic exponent gamma from 0.7 to 1.1 at a critical density n\_c, which
+  we estimated to be 2.5\texttimes{}105 cm-3. The change of thermodynamic state at
+  nc selects a characteristic mass scale for fragmentation M\_ch, which we relate
+  to the peak of the observed IMF. A simple scaling argument based on the Jeans mass
+  MJ at the critical density nc leads to Mch\propto{} nc-0.95. We perform simulations
+  with 4.3\texttimes{}104 cm-3 < nc < 4.3\texttimes{}107 cm-3 to test this scaling
+  argument. Our simulations qualitatively support this hypothesis, but we find a weaker
+  density dependence of Mch \propto{} nc-0.5$\pm$.1. We also investigate the influence
+  of additional environmental parameters on the IMF. We consider variations in the
+  turbulent driving scheme, and consistently find MJ is decreasing with increasing
+  nc. Our investigation generally supports the idea that the distribution of stellar
+  masses depends mainly on the thermodynamic state of the star-forming gas. The thermodynamic
+  state of interstellar gas is a result of the balance between heating and cooling
+  processes, which in turn are determined by fundamental atomic and molecular physics
+  and by chemical abundances. Given the abundances, the derivation of a characteristic
+  stellar mass can thus be based on universal quantities and constants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...435..611J
+arxivurl: http://arxiv.org/abs/astro-ph/0410351
+author: Jappsen, A.-K. and Klessen, R. S. and Larson, R. B. and Li, Y. and Mac Low,
+  M.-M.
+author_list:
+- family: Jappsen
+  given: A.-K.
+- family: Klessen
+  given: R. S.
+- family: Larson
+  given: R. B.
+- family: Li
+  given: Y.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:27:06 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1051/0004-6361:20042178
+eprint: astro-ph/0410351
+journal: \aap
+keywords: 'stars: formation, methods: numerical, hydrodynamics, turbulence, equation
+  of state, ISM: clouds'
+month: May
+pages: 611--623
+papis_id: 0520275a28982a04084602599148a8a8
+ref: jappsen.a_k.2005
+title: The stellar mass spectrum from non-isothermal gravoturbulent fragmentation
+type: article
+volume: '435'
+year: '2005'

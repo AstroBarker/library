@@ -1,0 +1,41 @@
+abstract: 'We introduce our two different newly developed, three-dimensional magnetohydrodynamical
+  codes in detail. One of them is written in the Newtonian limit (NMHD) and the other
+  is a fully general relativistic code (GRMHD). Both codes employ adaptive mesh refinement
+  and, in GRMHD, the metric is evolved with the "Baumgarte-Shapiro-Shibata-Nakamura"
+  formalism known as the most stable method at present. We conducted several test
+  problems and as for the first practical test, we calculated the gravitational collapse
+  of a 15 M sun star. The main features found from our calculations are: (1) high-velocity
+  bipolar outflow is driven from the proto-neutron star and moves along the rotational
+  axis in strongly magnetized models, (2) a one-armed spiral structure appears, which
+  originates from the low-\vert{}T/W\vert{} instability, and (3) by comparing the
+  GRMHD and NMHD models, the maximum density increases about ~30\% in GRMHD models
+  due to the stronger gravitational effect. These features agree very well with previous
+  studies and our codes are thus reliable for numerical simulation of gravitational
+  collapse of massive stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..191..439K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.1370
+author: Kuroda, T. and Umeda, H.
+author_list:
+- family: Kuroda
+  given: T.
+- family: Umeda
+  given: H.
+date-added: 2017-08-10 16:22:16 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0067-0049/191/2/439
+eprint: '1008.1370'
+journal: \apjs
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, stars: magnetars, supernovae:
+  general'
+month: December
+pages: 439--466
+papis_id: 0ce589b6d3a0ac075446e51d2943a29b
+primaryclass: astro-ph.SR
+ref: kuroda.t.2010
+title: Three-dimensional Magnetohydrodynamical Simulations of Gravitational Collapse
+  of a 15 M $_sun$ Star
+type: article
+volume: '191'
+year: '2010'

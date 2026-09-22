@@ -1,0 +1,67 @@
+abstract: We present new measurements of the Halpha luminosity function (LF) and star
+  formation rate (SFR) volume density for galaxies at z ~ 0.8. Our analysis is based
+  on 1.18 mum narrowband data from the NEWFIRM Halpha (NewHalpha) Survey, a comprehensive
+  program designed to capture deep samples of intermediate redshift emission-line
+  galaxies using narrowband imaging in the near-infrared. The combination of depth
+  (\approx{}1.9 \texttimes{} 10-17 erg s-1 cm-2 in Halpha at 3sigma) and areal coverage
+  (0.82 deg2) of the 1.18 mum observations complements other recent Halpha studies
+  at similar redshifts, and enables us to minimize the impact of cosmic variance and
+  place robust constraints on the shape of the LF. The present sample contains 818
+  NB118 excess objects, 394 of which are selected as Halpha emitters. Optical spectroscopy
+  has been obtained for 62\% of the NB118 excess objects. Empirical optical broadband
+  color classification is used to sort the remainder of the sample. A comparison of
+  the LFs constructed for the four individual fields covered by the observations reveals
+  significant cosmic variance, emphasizing that multiple, widely separated observations
+  are required for such analyses. The dust-corrected LF is well described by a Schechter
+  function with L sstarf = 1043.00$\pm$.52 erg s-1, Phisstarf = 10-3.20\.54 Mpc-3,
+  and alpha = -1.6 \$\pm\$ 0.19. We compare our Halpha LF and SFR density to those
+  at z <~ 1, and find a rise in the SFR density vprop(1 + z)3.4, which we attribute
+  to significant L sstarf evolution. Our Halpha SFR density of 10-1.00\.18 M sun yr-1
+  Mpc-3 is consistent with UV and [O II] measurements at z ~ 1. We discuss how these
+  results compare to other Halpha surveys at z ~ 0.8, and find that the different
+  methods used to determine survey completeness can lead to inconsistent results.
+  This suggests that future surveys probing fainter luminosities are needed, and more
+  rigorous methods of estimating the completeness should be adopted as standard procedure
+  (for example, with simulations which try to simultaneously reproduce the observed
+  Halpha LF and equivalent width distributions).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...726..109L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.2759
+author: Ly, C. and Lee, J. C. and Dale, D. A. and Momcheva, I. and Salim, S. and Staudaher,
+  S. and Moore, C. A. and Finn, R.
+author_list:
+- family: Ly
+  given: C.
+- family: Lee
+  given: J. C.
+- family: Dale
+  given: D. A.
+- family: Momcheva
+  given: I.
+- family: Salim
+  given: S.
+- family: Staudaher
+  given: S.
+- family: Moore
+  given: C. A.
+- family: Finn
+  given: R.
+date-added: 2017-08-11 03:24:00 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/726/2/109
+eid: '109'
+eprint: '1011.2759'
+journal: \apj
+keywords: 'galaxies: distances and redshifts, galaxies: evolution, galaxies: luminosity
+  function, mass function, galaxies: photometry, galaxies: star formation'
+month: January
+pages: '109'
+papis_id: 16b30621dea015ff03a9871bd3d48d31
+primaryclass: astro-ph.CO
+ref: ly.c.2011
+title: The H$α$ Luminosity Function and Star Formation Rate Volume Density at z =
+  0.8 from the NEWFIRM H\$α\$ Survey
+type: article
+volume: '726'
+year: '2011'

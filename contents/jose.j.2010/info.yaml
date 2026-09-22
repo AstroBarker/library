@@ -1,0 +1,53 @@
+abstract: Type I X-ray bursts (XRBs) are thermonuclear stellar explosions driven by
+  charged-particle reactions. In the regime for combined H/He-ignition, the main nuclear
+  flow is dominated by the rp-process (rapid proton-captures and beta+-decays), the
+  3alpha-reaction, and the alphap-process (a suite of (alpha, p) and (p, gamma) reactions).
+  The main flow is expected to proceed away from the valley of stability, eventually
+  reaching the proton drip line beyond A = 38. Detailed analysis of the relevant reactions
+  along the main path has only been scarcely addressed, mainly in the context of parameterized
+  one-zone models. In this paper, we present a detailed study of the nucleosynthesis
+  and nuclear processes powering type I XRBs. The reported 11 bursts have been computed
+  by means of a spherically symmetric (one-dimensional), Lagrangian, hydrodynamic
+  code, linked to a nuclear reaction network that contains 325 isotopes (from 1H to
+  107Te), and 1392 nuclear processes. These evolutionary sequences, followed from
+  the onset of accretion up to the explosion and expansion stages, have been performed
+  for two different metallicities to explore the dependence between the extension
+  of the main nuclear flow and the initial metal content. We carefully analyze the
+  dominant reactions and the products of nucleosynthesis, together with the physical
+  parameters that determine the light curve (including recurrence times, ratios between
+  persistent and burst luminosities, or the extent of the envelope expansion). Results
+  are in qualitative agreement with the observed properties of some well-studied bursting
+  sources. Leakage from the predicted SbSnTe cycle cannot be discarded in some of
+  our models. Production of 12C (and implications for the mechanism that powers superbursts),
+  light p-nuclei, and the amount of H left over after the bursting episodes will also
+  be discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..189..204J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.4767
+author: José, J. and Moreno, F. and Parikh, A. and Iliadis, C.
+author_list:
+- family: José
+  given: J.
+- family: Moreno
+  given: F.
+- family: Parikh
+  given: A.
+- family: Iliadis
+  given: C.
+date-added: 2017-08-10 16:59:39 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0067-0049/189/1/204
+eprint: '1005.4767'
+journal: \apjs
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, stars: neutron,
+  X-rays: bursts'
+month: July
+pages: 204--239
+papis_id: a08970dfcdaf9d3ea721d1ea3df31c9f
+primaryclass: astro-ph.SR
+ref: jose.j.2010
+title: 'Hydrodynamic Models of Type I X-ray Bursts: Metallicity Effects'
+type: article
+volume: '189'
+year: '2010'

@@ -1,0 +1,40 @@
+abstract: We present the results of three-dimensional global magnetohydrodynamic simulations
+  of the Parker-shearing instability in a differentially rotating torus initially
+  threaded by toroidal magnetic fields. An equilibrium model of a magnetized torus
+  is adopted as an initial condition. When beta0=Pgas/Pmag~1 at the initial state,
+  magnetic flux buoyantly escapes from the disk and creates looplike structures similar
+  to those in the solar corona. Inside the torus, the growth of nonaxisymmetric magnetorotational
+  (or Balbus \& Hawley) instability generates magnetic turbulence. Magnetic field
+  lines are tangled on a small scale, but on a large scale they show low azimuthal
+  wavenumber spiral structure. After several rotation periods, the system oscillates
+  around a state with beta~5. We found that magnetic pressure-dominated (beta<1) filaments
+  are created in the torus. The volume filling factor of the region in which beta<=0.3
+  is 2\%-10\%. Magnetic energy release in such low-beta regions may lead to violent
+  flaring activities in accretion disks and in galactic gas disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...532L..67M
+arxivurl: http://arxiv.org/abs/astro-ph/9911291
+author: Machida, M. and Hayashi, M. R. and Matsumoto, R.
+author_list:
+- family: Machida
+  given: M.
+- family: Hayashi
+  given: M. R.
+- family: Matsumoto
+  given: R.
+date-added: 2017-08-10 14:59:00 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/312553
+eprint: astro-ph/9911291
+journal: \apjl
+keywords: 'ACCRETION, ACCRETION DISKS, INSTABILITIES, ISM: MAGNETIC FIELDS, MAGNETOHYDRODYNAMICS:
+  MHD, PLASMAS'
+month: March
+pages: L67-L70
+papis_id: 5b6d2ed74dee0c110baf590a94e35488
+ref: machida.m.2000
+title: 'Global Simulations of Differentially Rotating Magnetized Disks: Formation
+  of Low-$β$ Filaments and Structured Coronae'
+type: article
+volume: '532'
+year: '2000'

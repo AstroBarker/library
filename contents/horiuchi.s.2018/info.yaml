@@ -1,0 +1,56 @@
+abstract: We revisit the diffuse supernova neutrino background in light of recent
+  systematic studies of stellar core collapse that reveal the quantitative impacts
+  of the progenitor conditions on the collapse process. In general, the dependence
+  of the core-collapse neutrino emission on the progenitor is not monotonic in progenitor
+  initial mass, but we show that it can, at first order, be characterized by the core
+  compactness. For the first time, we incorporate the detailed variations in the neutrino
+  emission over the entire mass range 8-100 M\&sun;, based on (i) a long-term simulation
+  of the core collapse of an 8.8 M\&sun; ONeMg core progenitor, (ii) over 100 simulations
+  of iron core collapse to neutron stars, and (iii) half a dozen simulations of core
+  collapse to black holes (the `failed channel'). The fraction of massive stars that
+  undergo the failed channel remains uncertain, but in view of recent simulations
+  which reveal high compactness to be conducive to collapse to black holes, we characterize
+  the failed fraction by considering a threshold compactness above which massive stars
+  collapse to black holes and below which the final remnant is a neutron star. We
+  predict that future detections of the diffuse supernova neutrino background may
+  have the power to reveal this threshold compactness, if its value is relatively
+  small as suggested by interpretations of several recent astronomical observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.475.1363H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1709.06567
+author: Horiuchi, S. and Sumiyoshi, K. and Nakamura, K. and Fischer, T. and Summa,
+  A. and Takiwaki, T. and Janka, H.-T. and Kotake, K.
+author_list:
+- family: Horiuchi
+  given: S.
+- family: Sumiyoshi
+  given: K.
+- family: Nakamura
+  given: K.
+- family: Fischer
+  given: T.
+- family: Summa
+  given: A.
+- family: Takiwaki
+  given: T.
+- family: Janka
+  given: H.-T.
+- family: Kotake
+  given: K.
+date-added: 2018-08-26 20:56:40 -0400
+date-modified: 2018-08-26 20:56:42 -0400
+doi: 10.1093/mnras/stx3271
+eprint: '1709.06567'
+journal: \mnras
+keywords: 'stars: interiors, stars: massive, supernovae: general'
+month: March
+pages: 1363--1374
+papis_id: 81c0a3b1913106ec7ee7fe0062f7ed09
+primaryclass: astro-ph.HE
+ref: horiuchi.s.2018
+title: Diffuse supernova neutrino background from extensive core-collapse simulations
+  of 8-100 M$_&sun;$ progenitors
+type: article
+volume: '475'
+year: '2018'

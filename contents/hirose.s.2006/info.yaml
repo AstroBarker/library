@@ -1,0 +1,49 @@
+abstract: We calculate the vertical structure of a local patch of an accretion disk
+  in which heating by dissipation of MRI-driven MHD turbulence is balanced by radiative
+  cooling. Heating, radiative transport, and cooling are computed self-consistently
+  with the structure by solving the equations of radiation MHD in the shearing-box
+  approximation. Using a fully three-dimensional and energy-conserving code, we compute
+  the structure of this disk segment over a span of more than five cooling times.
+  After a brief relaxation period, a statistically steady state develops. Measuring
+  height above the midplane in units of the scale height predicted by a Shakura-Sunyaev
+  model, we find that magnetic pressure causes the disk atmosphere to stretch upward,
+  with the photosphere rising to ~=7H, in contrast to the ~=3H predicted by conventional
+  analytic models. This more extended structure, as well as fluctuations in the height
+  of the photosphere, may lead to departures from Planckian form in the emergent spectra.
+  Dissipation is distributed across the region within ~=3H of the midplane but is
+  very weak at greater altitudes. As a result, the temperature deep in the disk interior
+  is less than that expected when all heat is generated in the midplane. With only
+  occasional exceptions, the gas temperature stays very close to the radiation temperature,
+  even above the photosphere. Because fluctuations in the dissipation are particularly
+  strong away from the midplane, the emergent radiation flux can track dissipation
+  fluctuations with a lag that is only 0.1-0.2 times the mean cooling time of the
+  disk. Long-timescale asymmetries in the dissipation distribution can also cause
+  significant asymmetry in the flux emerging from the top and bottom surfaces of the
+  disk. Radiative diffusion dominates Poynting flux in the vertical energy flow throughout
+  the disk.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..901H
+arxivurl: http://arxiv.org/abs/astro-ph/0510741
+author: Hirose, S. and Krolik, J. H. and Stone, J. M.
+author_list:
+- family: Hirose
+  given: S.
+- family: Krolik
+  given: J. H.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 14:49:28 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/499153
+eprint: astro-ph/0510741
+journal: \apj
+keywords: Accretion, Accretion Disks
+month: April
+pages: 901--917
+papis_id: d59ef6a28e39ea9ff3dbaea3f095f33f
+ref: hirose.s.2006
+title: Vertical Structure of Gas Pressure-dominated Accretion Disks with Local Dissipation
+  of Turbulence and Radiative Transport
+type: article
+volume: '640'
+year: '2006'

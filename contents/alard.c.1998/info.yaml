@@ -1,0 +1,44 @@
+abstract: We present a new method designed for optimal subtraction of two images with
+  different seeing. Using image subtraction appears to be essential for full analysis
+  of microlensing survey images; however, a perfect subtraction of two images is not
+  easy, as it requires the derivation of an extremely accurate convolution kernel.
+  Some empirical attempts to find the kernel have used a Fourier transform of bright
+  stars, but solving the statistical problem of finding the best kernel solution has
+  never really been tackled. We demonstrate that it is possible to derive an optimal
+  kernel solution from a simple least-squares analysis using all the pixels of both
+  images, and we also show that it is possible to fit the differential background
+  variation at the same time. We show that point-spread function (PSF) variations
+  can be easily handled by the method. To demonstrate the practical efficiency of
+  the method, we analyzed some images from a Galactic Bulge field monitored by the
+  OGLE II project. We find that the residuals in the subtracted images are very close
+  to the photon noise expectations. We also present some light curves of variable
+  stars and show that despite high crowding levels, we get an error distribution close
+  to that expected from photon noise alone. We thus demonstrate that nearly optimal
+  differential photometry can be achieved even in very crowded fields. We suggest
+  that this algorithm might be particularly important for microlensing surveys, where
+  the photometric accuracy and completeness levels could be very significantly improved
+  by using this method.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...503..325A
+arxivurl: http://arxiv.org/abs/astro-ph/9712287
+author: Alard, C. and Lupton, R. H.
+author_list:
+- family: Alard
+  given: C.
+- family: Lupton
+  given: R. H.
+date-added: 2017-08-11 01:13:34 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305984
+eprint: astro-ph/9712287
+journal: \apj
+keywords: 'METHODS: DATA ANALYSIS, METHODS: STATISTICAL, TECHNIQUES: IMAGE PROCESSING,
+  Methods: Data Analysis, Methods: Statistical, Techniques: Image Processing'
+month: August
+pages: 325--331
+papis_id: ae6dcc376c114cdad62311cd61f959d3
+ref: alard.c.1998
+title: A Method for Optimal Image Subtraction
+type: article
+volume: '503'
+year: '1998'

@@ -1,0 +1,38 @@
+abstract: A new multi-state Harten-Lax-van Leer (HLL) approximate Riemann solver for
+  the ideal magnetohydrodynamic (MHD) equations is developed based on the assumption
+  that the normal velocity is constant over the Riemann fan. This assumption is same
+  as that used in the HLLC ("C" denotes Contact) approximate Riemann solver for the
+  Euler equations. From the assumption, it is naturally derived that the Riemann fan
+  should consist of four intermediate states for Bx != 0, whereas the number of the
+  intermediate states is reduced to two when Bx = 0. Since the intermediate states
+  satisfied with all jump conditions in this approximate Riemann system are analytically
+  obtained, the multi-state HLL Riemann solver can be constructed straightforwardly.
+  It is shown that this solver can exactly resolve isolated discontinuities formed
+  in the MHD system, and hence named as HLLD Riemann solver. (Here, "D" stands for
+  Discontinuities.) It is also analytically proved that the HLLD Riemann solver is
+  positively conservative like the HLLC Riemann solver. Indeed, the HLLD Riemann solver
+  corresponds to the HLLC Riemann solver when the magnetic field vanishes. Numerical
+  tests demonstrate that the HLLD Riemann solver is more robust and efficient than
+  the linearized Riemann solver, and its resolution is equally good. It indicates
+  that the HLLD solver must be useful in practical applications for the ideal MHD
+  equations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005JCoPh.208..315M
+author: Miyoshi, T. and Kusano, K.
+author_list:
+- family: Miyoshi
+  given: T.
+- family: Kusano
+  given: K.
+date-added: 2017-08-10 13:54:58 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1016/j.jcp.2005.02.017
+journal: Journal of Computational Physics
+month: September
+pages: 315--344
+papis_id: 53555d33842aa4e81ea9325333574d9c
+ref: miyoshi.t.2005
+title: A multi-state HLL approximate Riemann solver for ideal magnetohydrodynamics
+type: article
+volume: '208'
+year: '2005'

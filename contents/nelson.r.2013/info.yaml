@@ -1,0 +1,64 @@
+abstract: We analyse the stability and non-linear dynamics of power-law accretion
+  disc models. These have mid-plane densities that follow radial power laws and have
+  either temperature or entropy distributions that are strict power-law functions
+  of cylindrical radius, R. We employ two different hydrodynamic codes to perform
+  high-resolution 2D axisymmetric and 3D simulations that examine the long-term evolution
+  of the disc models as a function of the power-law indices of the temperature or
+  entropy, the disc scaleheight, the thermal relaxation time of the fluid and the
+  disc viscosity. We present an accompanying stability analysis of the problem, based
+  on asymptotic methods, that we use to guide our interpretation of the simulation
+  results. We find that axisymmetric disc models whose temperature or entropy profiles
+  cause the equilibrium angular velocity to vary with height are unstable to the growth
+  of perturbations whose most obvious character is modes with horizontal and vertical
+  wavenumbers that satisfy \vert{}kR/kZ\vert{} \gg{} 1. Instability occurs only when
+  the thermodynamic response of the fluid is isothermal, or the thermal evolution
+  time is comparable to or shorter than the local dynamical time-scale. These discs
+  appear to exhibit the Goldreich-Schubert-Fricke or `vertical shear' linear instability.
+  Closer inspection of the simulation results uncovers the growth of two distinct
+  modes. The first are characterized by very short radial wavelength perturbations
+  that grow rapidly at high latitudes in the disc, and descend down towards the mid-plane
+  on longer time-scales. We refer to these as `finger modes' because they display
+  kR/kZ \gg{} 1. The second appear at slightly later times in the main body of the
+  disc, including near the mid-plane. These `body modes' have somewhat longer radial
+  wavelengths. Early on they manifest themselves as fundamental breathing modes, but
+  quickly become corrugation modes as symmetry about the mid-plane is broken. The
+  corrugation modes are a prominent feature of the non-linear saturated state, leading
+  to strong vertical oscillation of the disc mid-plane. In a viscous disc with aspect
+  ratio H/r = 0.05, instability is found to operate when the viscosity parameter alpha
+  < 4 \texttimes{} 10-4. In three dimensions the instability generates a quasi-turbulent
+  flow, and the associated Reynolds stress produces a fluctuating effective viscosity
+  coefficient whose mean value reaches alpha \texttildelow{} 10-3 by the end of the
+  simulation. The evolution and saturation of the vertical shear instability in astrophysical
+  disc models which include realistic treatments of the thermal physics has yet to
+  be examined. Should it occur on either global or local scales, however, our results
+  suggest that it will have significant consequences for their internal dynamics,
+  transport properties and observational appearance.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.435.2610N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2753
+author: Nelson, R. P. and Gressel, O. and Umurhan, O. M.
+author_list:
+- family: Nelson
+  given: R. P.
+- family: Gressel
+  given: O.
+- family: Umurhan
+  given: O. M.
+date-added: 2017-08-10 14:47:41 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1475
+eprint: '1209.2753'
+journal: \mnras
+keywords: 'accretion, accretion discs, hydrodynamics, instabilities, methods: analytical,
+  methods: numerical, protoplanetary discs'
+month: November
+pages: 2610--2632
+papis_id: ace23e6fde57fdaa8d23badcf1b6adda
+primaryclass: astro-ph.EP
+ref: nelson.r.2013
+title: Linear and non-linear evolution of the vertical shear instability in accretion
+  discs
+type: article
+volume: '435'
+year: '2013'

@@ -1,0 +1,48 @@
+abstract: We perform a series of simplified numerical experiments to explore how rotation
+  impacts the three-dimensional (3D) hydrodynamics of core-collapse supernovae. For
+  our systematic study, we employ a light-bulb scheme to trigger explosions and a
+  three-flavor neutrino leakage scheme to treat deleptonization effects and neutrino
+  losses from the proto-neutron-star interior. Using a 15 M \&sun; progenitor, we
+  compute 30 models in 3D with a wide variety of initial angular momentum and light-bulb
+  neutrino luminosity. We find that the rotation can help the onset of neutrino-driven
+  explosions for the models in which the initial angular momentum is matched to that
+  obtained in recent stellar evolutionary calculations (~0.3-3 rad s-1 at the center).
+  For the models with larger initial angular momentum, the shock surface deforms to
+  be more oblate due to larger centrifugal force. This not only makes the gain region
+  more concentrated around the equatorial plane, but also makes the mass larger in
+  the gain region. As a result, buoyant bubbles tend to be coherently formed and rise
+  in the equatorial region, which pushes the revived shock toward ever larger radii
+  until a global explosion is triggered. We find that these are the main reasons that
+  the preferred direction of the explosion in 3D rotating models is often perpendicular
+  to the spin axis, which is in sharp contrast to the polar explosions around the
+  axis that were obtained in previous two-dimensional simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...793...45N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1403.7290
+author: Nakamura, K. and Kuroda, T. and Takiwaki, T. and Kotake, K.
+author_list:
+- family: Nakamura
+  given: K.
+- family: Kuroda
+  given: T.
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+date-added: 2017-08-10 16:17:28 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/793/1/45
+eid: '45'
+eprint: '1403.7290'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: September
+pages: '45'
+papis_id: ffe9c9a2010c57abb3a6468b818f0a75
+primaryclass: astro-ph.HE
+ref: nakamura.k.2014
+title: Impacts of Rotation on Three-dimensional Hydrodynamics of Core-collapse Supernovae
+type: article
+volume: '793'
+year: '2014'

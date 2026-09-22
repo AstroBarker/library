@@ -1,0 +1,47 @@
+abstract: We present a parameter study of offset mergers between clusters of galaxies.
+  Using the Eulerian hydrodynamics/N-body code COSMOS, we simulate mergers between
+  nonisothermal, hydrostatic clusters with a steep central dark matter density profile
+  and a beta-model gas profile. We constrain global properties of the model clusters
+  using observed cluster statistical relationships. We consider impact parameters
+  between 0 and 5 times the dark matter scale radius and mass ratios of 1:1 and 1:3.
+  The morphological changes, relative velocities, and temperature jumps we observe
+  agree with previous studies using the King profile for the dark matter. We observe
+  a larger jump in X-ray luminosity (~4-10 times) than in previous work, and we argue
+  that this increase is most likely a lower limit due to our spatial resolution. We
+  emphasize that luminosity and temperature jumps due to mergers may have an important
+  bearing on constraints on Omega derived from the observation of hot clusters at
+  high redshift. Shocks are relatively weak in the cluster cores; hence, they do not
+  significantly increase the entropy there. Instead, shocks create entropy in the
+  outer regions, and this high-entropy gas is mixed with the core gas during later
+  stages of the merger. Ram pressure initiates mixing by displacing the core gas from
+  its potential center, causing it to become convectively unstable. The resulting
+  convective plumes produce large-scale turbulent motions with eddy sizes up to several
+  hundred kiloparsecs. This turbulence is pumped by dark matter-driven oscillations
+  in the gravitational potential. Even after nearly a Hubble time these motions persist
+  as subsonic turbulence in the cluster cores, providing 5\%-10\% of the support against
+  gravity. The dark matter oscillations are also reflected in the extremely long time
+  following a merger required for the remnant to reach virial equilibrium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...561..621R
+arxivurl: http://arxiv.org/abs/astro-ph/0107210
+author: Ricker, P. M. and Sarazin, C. L.
+author_list:
+- family: Ricker
+  given: P. M.
+- family: Sarazin
+  given: C. L.
+date-added: 2017-08-11 04:00:58 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323365
+eprint: astro-ph/0107210
+journal: \apj
+keywords: 'Galaxies: Clusters: General, Hydrodynamics, Galaxies: Intergalactic Medium,
+  X-Rays: Galaxies: Clusters'
+month: November
+pages: 621--644
+papis_id: a9a69e516434aa788ce0a6dabac8f9f8
+ref: ricker.p.2001
+title: 'Off-Axis Cluster Mergers: Effects of a Strongly Peaked Dark Matter Profile'
+type: article
+volume: '561'
+year: '2001'

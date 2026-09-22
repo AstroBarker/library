@@ -1,0 +1,33 @@
+abstract: 'A new, general relativistic, hydrodynamical computer code for spherical,
+  stellar collapse to neutron stars and black holes is presented. The code is employed
+  to construct spacetimes for the geometrodynamical evolution of spherical masses
+  which are initially at rest and obey an adiabatic Gamma-law equation of state. Collapse
+  to a black hole can be followed accurately; the evolution outside the event horizon
+  can be determined far into the future without having the integration terminate because
+  of spacetime singularities inside. Three possible outcomes for adiabatic core collapse
+  are distinguished: homologous core bounce, nonhomologous core bounce, and catastrophic
+  collapse to a black hole.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1980ApJ...235..199S
+author: Shapiro, S. L. and Teukolsky, S. A.
+author_list:
+- family: Shapiro
+  given: S. L.
+- family: Teukolsky
+  given: S. A.
+date-added: 2017-08-11 04:37:44 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/157625
+journal: \apj
+keywords: Black Holes (Astronomy), Computer Programs, Gravitational Collapse, Magnetohydrodynamics,
+  Neutron Stars, Space-Time Functions, Astronomical Models, Equations Of State, Equilibrium
+  Equations, Relativity, Singularity (Mathematics), Stellar Models
+month: January
+pages: 199--215
+papis_id: 0d07ab05bf14d9a6173ee54d6eb855c7
+ref: shapiro.s.1980
+title: Gravitational collapse to neutron stars and black holes - Computer generation
+  of spherical spacetimes
+type: article
+volume: '235'
+year: '1980'

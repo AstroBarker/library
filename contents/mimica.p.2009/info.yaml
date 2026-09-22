@@ -1,0 +1,50 @@
+abstract: 'Context: The role of magnetic fields in gamma-ray burst (GRB) flows remains
+  debated. If of sufficient strength, they can leave their signature on the initial
+  phases of the afterglow by substantially changing the backreaction of the flow as
+  a consequence of its interaction with the external medium.  Aims: We attempt to
+  understand quantitatively the dynamical effect and observational signatures of GRB
+  ejecta magnetization on the onset of the afterglow. Methods: We perform ultrahigh-resolution,
+  one-dimensional, relativistic MHD simulations of the interaction between a radially
+  expanding, magnetized ejecta with the interstellar medium. We require ultrahigh
+  numerical resolution because of the extreme jump conditions in the region of interaction
+  between the ejecta and the circumburst medium. We study the complete evolution of
+  an ultrarelativistic shell to the self-similar asymptotic phase.  Results: Our simulations
+  demonstrate that the complete evolution can be characterized in terms of two parameters,
+  the xi parameter introduced by Sari and Piran and the magnetization sigma\_0. We
+  use this fact in producing numerical models in which the shell Lorentz factor gamma0
+  is between 10 and 20 and rescaling the results to arbitrarily large values of gamma\_0.
+  We find that the reverse shock is typically weak or absent for ejecta characterized
+  by sigma\_0\gtrapprox{} 1. The onset of the forward shock emission is strongly dependent
+  on the magnetization. On the other hand, the magnetic energy of the shell is transferred
+  into the external medium on a short timescale (of several times the duration of
+  the burst). The later forward shock emission contains no information about the initial
+  magnetization of the flow. The asymptotic evolution of strongly magnetized shells,
+  after experiencing significant deceleration, resembles that of hydrodynamic shells,
+  i.e. they enter fully into the Blandford-McKee self-similar regime.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...494..879M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.2961
+author: Mimica, P. and Giannios, D. and Aloy, M. A.
+author_list:
+- family: Mimica
+  given: P.
+- family: Giannios
+  given: D.
+- family: Aloy
+  given: M. A.
+date-added: 2017-08-11 02:12:06 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1051/0004-6361:200810756
+eprint: '0810.2961'
+journal: \aap
+keywords: 'gamma rays: bursts, methods: numerical, magnetohydrodynamics (MHD), shock
+  waves'
+month: February
+pages: 879--890
+papis_id: 3d2607216fc1423f7e9b95c5e84600e8
+ref: mimica.p.2009
+title: 'Deceleration of arbitrarily magnetized GRB ejecta: the complete evolution'
+type: article
+volume: '494'
+year: '2009'

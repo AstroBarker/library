@@ -1,0 +1,60 @@
+abstract: We present the SuperNova Explosion Code (SNEC), an open-source Lagrangian
+  code for the hydrodynamics and equilibrium-diffusion radiation transport in the
+  expanding envelopes of supernovae. Given a model of a progenitor star, an explosion
+  energy, and an amount and distribution of radioactive nickel, SNEC generates the
+  bolometric light curve, as well as the light curves in different broad bands assuming
+  blackbody emission. As a first application of SNEC, we consider the explosions of
+  a grid of 15 M\&sun; (at zero-age main sequence, ZAMS) stars whose hydrogen envelopes
+  are stripped to different extents and at different points in their evolution. The
+  resulting light curves exhibit plateaus with durations of \texttildelow{}20-100
+  days if \greaterequivlnt{}1.5-2 M\&sun; of hydrogen-rich material is left and no
+  plateau if less hydrogen-rich material is left. If these shorter plateau lengths
+  are not seen for SNe IIP in nature, it suggests that, at least for ZAMS masses \lessequivlnt{}20
+  M\&sun;, hydrogen mass loss occurs as an all or nothing process. This perhaps points
+  to the important role binary interactions play in generating the observed mass-stripped
+  supernovae (i.e., Type Ib/c events). These light curves are also unlike what is
+  typically seen for SNe IIL, arguing that simply varying the amount of mass loss
+  cannot explain these events. The most stripped models begin to show double-peaked
+  light curves similar to what is often seen for SNe IIb, confirming previous work
+  that these supernovae can come from progenitors that have a small amount of hydrogen
+  and a radius of \texttildelow{}500 R\&sun;.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...814...63M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1505.06746
+author: Morozova, V. and Piro, A. L. and Renzo, M. and Ott, C. D. and Clausen, D.
+  and Couch, S. M. and Ellis, J. and Roberts, L. F.
+author_list:
+- family: Morozova
+  given: V.
+- family: Piro
+  given: A. L.
+- family: Renzo
+  given: M.
+- family: Ott
+  given: C. D.
+- family: Clausen
+  given: D.
+- family: Couch
+  given: S. M.
+- family: Ellis
+  given: J.
+- family: Roberts
+  given: L. F.
+date-added: 2017-08-10 14:04:48 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1088/0004-637X/814/1/63
+eid: '63'
+eprint: '1505.06746'
+journal: \apj
+keywords: 'hydrodynamics, radiative transfer, supernovae: general'
+month: November
+pages: '63'
+papis_id: f5b2dedc7a33c3fc75db9a7bf8636f6c
+primaryclass: astro-ph.HE
+ref: morozova.v.2015
+title: Light Curves of Core-collapse Supernovae with Substantial Mass Loss Using the
+  New Open-source SuperNova Explosion Code (SNEC)
+type: article
+volume: '814'
+year: '2015'

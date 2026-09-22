@@ -1,0 +1,49 @@
+abstract: 'Context. Whenever stars rotate very rapidly, such that Omega/Omegacrit
+  > 0.7 where Omegacrit is the Keplerian angular velocity of the star accounting for
+  its deformation, radiative stellar winds are enhanced in polar regions. This theoretical
+  prediction has now been confirmed by interferometric observations of rapidly rotating
+  stars.  Aims: Polar winds remove less angular momentum than spherical winds, thus
+  allow the star to retain more angular momentum. We quantitatively assess the importance
+  of this effect.  Methods: We first use a semi-analytical approach to estimate the
+  variation in the angular momentum loss when the rotation parameter increases. We
+  then compute complete 9 M\&sun; stellar models at very high angular velocities (starting
+  on the ZAMS with Omega/Omegacrit = 0.8 and reaching the critical velocity during
+  the main sequence) with and without radiative wind anisotropies.  Results: When
+  wind anisotropies are accounted for, the angular-momentum loss rate is reduced by
+  less than 4\% for Omega/Omegacrit < 0.9 relative to the case for spherical winds.
+  The reduction amounts to at most 30\% when the star is rotating near the critical
+  velocity. These values result from two counteracting effects: on the one hand, polar
+  winds reduce the loss of angular momentum, and on the other hand, surface deformations
+  imply that the mass that is lost at high co-latitude is lost at a larger distance
+  from the rotational axis and thus removes more angular momentum.  Conclusions: In
+  contrast to previous studies that neglected surface deformations, we show that the
+  radiative wind anisotropies have a relatively modest effect on the evolution of
+  the angular momentum content of rapidly rotating stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...527A..52G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.6581
+author: Georgy, C. and Meynet, G. and Maeder, A.
+author_list:
+- family: Georgy
+  given: C.
+- family: Meynet
+  given: G.
+- family: Maeder
+  given: A.
+date-added: 2017-08-10 19:31:48 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/200913797
+eid: A52
+eprint: '1011.6581'
+journal: \aap
+keywords: 'stars: evolution, stars: mass loss, stars: rotation, stars: winds, outflows'
+month: March
+pages: A52
+papis_id: 7fe4fa3798733b8168750dc4914913c0
+primaryclass: astro-ph.SR
+ref: georgy.c.2011
+title: Effects of anisotropic winds on massive star evolution
+type: article
+volume: '527'
+year: '2011'

@@ -1,0 +1,73 @@
+abstract: We review recent determinations of the present-day mass function (PDMF)
+  and initial mass function (IMF) in various components of the Galaxy-disk, spheroid,
+  young, and globular clusters-and in conditions characteristic of early star formation.
+  As a general feature, the IMF is found to depend weakly on the environment and to
+  be well described by a power-law form for m>~1 Msolar and a lognormal form below,
+  except possibly for early star formation conditions. The disk IMF for single objects
+  has a characteristic mass around mc~0.08 Msolar and a variance in logarithmic mass
+  sigma~0.7, whereas the IMF for multiple systems has mc~0.2 Msolar and sigma~0.6.
+  The extension of the single MF into the brown dwarf regime is in good agreement
+  with present estimates of L- and T-dwarf densities and yields a disk brown dwarf
+  number density comparable to the stellar one, nBD~n\textasteriskcentered~0.1 pc-3.
+  The IMF of young clusters is found to be consistent with the disk field IMF, providing
+  the same correction for unresolved binaries, confirming the fact that young star
+  clusters and disk field stars represent the same stellar population. Dynamical effects,
+  yielding depletion of the lowest mass objects, are found to become consequential
+  for ages >~130 Myr. The spheroid IMF relies on much less robust grounds. The large
+  metallicity spread in the local subdwarf photometric sample, in particular, remains
+  puzzling. Recent observations suggest that there is a continuous kinematic shear
+  between the thick-disk population, present in local samples, and the genuine spheroid
+  one. This enables us to derive only an upper limit for the spheroid mass density
+  and IMF. Within all the uncertainties, the latter is found to be similar to the
+  one derived for globular clusters and is well represented also by a lognormal form
+  with a characteristic mass slightly larger than for the disk, mc~0.2-0.3 Msolar,
+  excluding a significant population of brown dwarfs in globular clusters and in the
+  spheroid. The IMF characteristic of early star formation at large redshift remains
+  undetermined, but different observational constraints suggest that it does not extend
+  below ~1 Msolar. These results suggest a characteristic mass for star formation
+  that decreases with time, from conditions prevailing at large redshift to conditions
+  characteristic of the spheroid (or thick disk) to present-day conditions. These
+  conclusions, however, remain speculative, given the large uncertainties in the spheroid
+  and early star IMF determinations.  These IMFs allow a reasonably robust determination
+  of the Galactic present-day and initial stellar and brown dwarf contents. They also
+  have important galactic implications beyond the Milky Way in yielding more accurate
+  mass-to-light ratio determinations. The mass-to-light ratios obtained with the disk
+  and the spheroid IMF yield values 1.8-1.4 times smaller than for a Salpeter IMF,
+  respectively, in agreement with various recent dynamical determinations. This general
+  IMF determination is examined in the context of star formation theory. None of the
+  theories based on a Jeans-type mechanism, where fragmentation is due only to gravity,
+  can fulfill all the observational constraints on star formation and predict a large
+  number of substellar objects. On the other hand, recent numerical simulations of
+  compressible turbulence, in particular in super-Alfv{\'e}nic conditions, seem to
+  reproduce both qualitatively and quantitatively the stellar and substellar IMF and
+  thus provide an appealing theoretical foundation. In this picture, star formation
+  is induced by the dissipation of large-scale turbulence to smaller scales through
+  radiative MHD shocks, producing filamentary structures. These shocks produce local
+  nonequilibrium structures with large density contrasts, which collapse eventually
+  in gravitationally bound objects under the combined influence of turbulence and
+  gravity. The concept of a single Jeans mass is replaced by a distribution of local
+  Jeans masses, representative of the lognormal probability density function of the
+  turbulent gas. Objects below the mean thermal Jeans mass still have a possibility
+  to collapse, although with a decreasing probability.  The page charges for this
+  Review were partially covered by a generous gift from a PASP supporter.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003PASP..115..763C
+arxivurl: http://arxiv.org/abs/astro-ph/0304382
+author: Chabrier, G.
+author_list:
+- family: Chabrier
+  given: G.
+date-added: 2017-08-10 20:15:31 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376392
+eprint: astro-ph/0304382
+journal: \pasp
+keywords: 'Galaxies: Luminosity Function, Mass Function, Invited Reviews'
+month: July
+pages: 763--795
+papis_id: fe36ac46c1f7191d076a7028eb79caa4
+ref: chabrier.g.2003
+title: Galactic Stellar and Substellar Initial Mass Function
+type: article
+volume: '115'
+year: '2003'

@@ -1,0 +1,31 @@
+abstract: The last years have witnessed a rapid development of three-dimensional models
+  of type Ia supernova explosions. The next step is to evaluate these models varying
+  the initial parameters and to compare them with observations. To calculate synthetic
+  lightcurves and spectra from numerical models, it is mandatory to follow the evolution
+  up to homologous expansion. We report on methods to achieve this in our current
+  implementation of multi-dimensional type Ia supernova explosion models. The novel
+  scheme is thoroughly tested  in two dimensions and a simple example of a three-dimensional  simulation
+  is presented. We discuss to what degree the  assumption of homologous expansion
+  is justified in these models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...432..969R
+arxivurl: http://arxiv.org/abs/astro-ph/0408296
+author: Röpke, F. K.
+author_list:
+- family: Röpke
+  given: F. K.
+date-added: 2017-08-10 17:39:56 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1051/0004-6361:20041700
+eprint: astro-ph/0408296
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, methods: numerical'
+month: March
+pages: 969--983
+papis_id: 88c7bcf46ecd1d233d7ac4dcdb2e3f7d
+ref: ropke.f.2005
+title: Following multi-dimensional type Ia supernova explosion models to homologous
+  expansion
+type: article
+volume: '432'
+year: '2005'

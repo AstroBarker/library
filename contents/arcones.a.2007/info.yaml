@@ -1,0 +1,52 @@
+abstract: We investigate the behavior and consequences of the reverse shock that terminates
+  the supersonic expansion of the baryonic wind which is driven by neutrino heating
+  off the surface of (non-magnetized) new-born neutron stars in supernova cores. To
+  this end we perform long-time hydrodynamic simulations in spherical symmetry. In
+  agreement with previous relativistic wind studies, we find that the neutrino-driven
+  outflow accelerates to supersonic velocities and in case of a compact, ~1.4 M\_\&sun;
+  (gravitational mass) neutron star with a radius of about 10 km, the wind reaches
+  entropies of about 100 kB per nucleon. The wind, however, is strongly influenced
+  by the environment of the supernova core. It is decelerated and shock-heated abruptly
+  by a termination shock that forms when the supersonic outflow collides with the
+  slower preceding supernova ejecta. The radial position of this reverse shock varies
+  with time and depends on the strength of the neutrino wind and the explosion conditions
+  in progenitor stars with different masses and structure. Its basic properties and
+  behavior can be understood by simple analytic considerations. We demonstrate that
+  the entropy of the matter going through the reverse shock can increase to a multiple
+  of the asymptotic wind value. Seconds after the onset of the explosion it therefore
+  can exceed 400 kB per nucleon in low-mass progenitors around 10 M\_\&sun;, where
+  the supernova shock and the reverse shock propagate outward quickly. The temperature
+  of the shocked wind has typically dropped to about or less than 109 K, and density
+  and temperature in the shock-decelerated matter continue to decrease only very slowly.
+  For more massive progenitors with bigger and denser metal cores, the explosion expands
+  more slowly so that the termination shock stays at smaller radii and affects the
+  wind at higher temperatures and densities. In this case the termination shock might
+  play a non-negligible, strongly time- and progenitor-dependent role in discussing
+  supernova nucleosynthesis.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...467.1227A
+arxivurl: http://arxiv.org/abs/astro-ph/0612582
+author: Arcones, A. and Janka, H.-T. and Scheck, L.
+author_list:
+- family: Arcones
+  given: A.
+- family: Janka
+  given: H.-T.
+- family: Scheck
+  given: L.
+date-added: 2017-08-10 15:56:04 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1051/0004-6361:20066983
+eprint: astro-ph/0612582
+journal: \aap
+keywords: 'supernovae: general, neutrinos, nuclear reactions, nucleosynthesis, abundances,
+  hydrodynamics'
+month: June
+pages: 1227--1248
+papis_id: 7541aeb938d52a1ee08e7633af7ccfac
+ref: arcones.a.2007
+title: Nucleosynthesis-relevant conditions in neutrino-driven supernova outflows.
+  I. Spherically symmetric hydrodynamic simulations
+type: article
+volume: '467'
+year: '2007'

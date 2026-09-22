@@ -1,0 +1,44 @@
+abstract: Transient surveys have recently discovered a class of supernovae (SNe) with
+  extremely rapidly declining light curves. These events are also often relatively
+  faint, especially compared to Type Ia SNe. The common explanation for these events
+  involves a weak explosion, producing a radioactive outflow with small ejected mass
+  and kinetic energy (M \texttildelow{} 0.1 M\&sun; and E \texttildelow{} 0.1 B, respectively),
+  perhaps from the detonation of a helium shell on a white dwarf. We argue, in contrast,
+  that these events may be Type Ib/c SNe with typical masses and energies (M \texttildelow{}
+  3 M\&sun;, E \texttildelow{} 1 B), but which ejected very little radioactive material.
+  In our picture, the light curve is powered by the diffusion of thermal energy deposited
+  by the explosion shock wave, and the rapid evolution is due to recombination, which
+  reduces the opacity and results in an `oxygen-plateau' light curve. Using a radiative
+  transfer code and simple 1D ejecta profiles, we generate synthetic spectra and light
+  curves and demonstrate that this model can reasonably fit the observations of one
+  event, SN 2010X. Similar models may explain the features of other rapidly evolving
+  SNe such as SN 2002bj and SN 2005ek. SNe such as these may require stripped-envelope
+  progenitors with rather large radii (R \texttildelow{} 20 R\&sun;), which may originate
+  from a mass-loss episode occurring just prior to explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.438..318K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.4088
+author: Kleiser, I. K. W. and Kasen, D.
+author_list:
+- family: Kleiser
+  given: I. K. W.
+- family: Kasen
+  given: D.
+date-added: 2017-08-10 15:06:51 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1093/mnras/stt2191
+eprint: '1309.4088'
+journal: \mnras
+keywords: 'radiative transfer, supernovae: general, supernovae: individual: SN 2010X,
+  supernovae: individual: SN 2002bj, supernovae: individual: SN 2005ek, supernovae:
+  individual: SN 1994I'
+month: February
+pages: 318--328
+papis_id: 0ce44e235ef812801b1b03b8f345466c
+primaryclass: astro-ph.HE
+ref: kleiser.i.2014
+title: Rapidly fading supernovae from massive star explosions
+type: article
+volume: '438'
+year: '2014'

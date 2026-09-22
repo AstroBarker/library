@@ -1,0 +1,38 @@
+abstract: In this paper, we present a novel numerical scheme for solving a class of
+  nonlinear degenerate parabolic equations with non-smooth solutions. The proposed
+  method relies on a special kernel based formulation of the solutions found in our
+  early work on the method of lines transpose and successive convolution. In such
+  a framework, a high order weighted essentially non-oscillatory (WENO) methodology
+  and a nonlinear filter are further employed to avoid spurious oscillations. High
+  order accuracy in time is realized by using the high order explicit strong-stability-preserving
+  (SSP) Runge-Kutta method. Moreover, theoretical investigations of the kernel based
+  formulation combined with an explicit SSP method indicates that the combined scheme
+  is A-stable and up to third order accuracy. Evaluation of the kernel based approach
+  is done with a fast $\mathcal{O}(N)$ summation algorithm. The new method allows
+  for much larger time step evolution compared with other explicit schemes with the
+  same order accuracy, leading to remarkable computational savings.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv170709294C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1707.09294
+author: Christlieb, A. and Guo, W. and Jiang, Y.
+author_list:
+- family: Christlieb
+  given: A.
+- family: Guo
+  given: W.
+- family: Jiang
+  given: Y.
+date-added: 2018-01-24 18:58:52 +0000
+date-modified: 2018-01-24 18:58:53 +0000
+eprint: '1707.09294'
+journal: ArXiv e-prints
+keywords: Mathematics - Numerical Analysis
+month: July
+papis_id: 0193eaf489b9436f276e9e3170074d9b
+primaryclass: math.NA
+ref: christlieb.a.2017
+title: Kernel Based High Order ``Explicit'' A-Stable Scheme for Nonlinear Degenerate
+  Advection-Diffusion Equations
+type: article
+year: '2017'

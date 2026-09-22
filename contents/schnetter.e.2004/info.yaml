@@ -1,0 +1,38 @@
+abstract: We present results of 3D numerical simulations using a finite difference
+  code featuring fixed mesh refinement (FMR), in which a subset of the computational
+  domain is refined in space and time. We apply this code to a series of test cases
+  including a robust stability test, a nonlinear gauge wave and an excised Schwarzschild
+  black hole in an evolving gauge. We find that the mesh refinement results are comparable
+  in accuracy, stability and convergence to unigrid simulations with the same effective
+  resolution. At the same time, the use of FMR reduces the computational resources
+  needed to obtain a given accuracy. Particular care must be taken at the interfaces
+  between coarse and fine grids to avoid a loss of convergence at higher resolutions,
+  and we introduce the use of 'buffer zones' as one resolution of this issue. We also
+  introduce a new method for initial data generation, which enables higher order interpolation
+  in time even from the initial time slice. This FMR system, 'Carpet', is a driver
+  module in the freely available Cactus computational infrastructure, and is able
+  to endow generic existing Cactus simulation modules ('thorns') with FMR with little
+  or no extra effort.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004CQGra..21.1465S
+author: Schnetter, E. and Hawley, S. H. and Hawke, I.
+author_list:
+- family: Schnetter
+  given: E.
+- family: Hawley
+  given: S. H.
+- family: Hawke
+  given: I.
+date-added: 2017-08-10 18:54:58 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1088/0264-9381/21/6/014
+eprint: gr-qc/0310042
+journal: Classical and Quantum Gravity
+month: March
+pages: 1465--1488
+papis_id: 139a0521af0cede73df6de1ad377d1cd
+ref: schnetter.e.2004
+title: Evolutions in 3D numerical relativity using fixed mesh refinement
+type: article
+volume: '21'
+year: '2004'

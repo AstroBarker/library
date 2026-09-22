@@ -1,0 +1,37 @@
+abstract: We investigate prompt convection in core collapse supernovae and its consequences
+  for the late-time shock evolution and supernova outcome. We examine the evolution
+  of the core prior to the onset of convection and find that the negative entropy
+  gradients imprinted on the outer core by the weakening shock, which, along with
+  the negative lepton gradient, drive the convection, are very sensitive to (1) the
+  neutrino transport and microphysics included in the core collapse simulation and
+  (2) the nuclear equation of state. We perform a number of detailed one-dimensional
+  spherically symmetric of prompt convection using a mixing-length algorithm in a
+  code coupling the core hydrodynamics with multigroup flux-limited diffusion of neutrinos
+  of all types. We find that prompt convection does not have a significant effect
+  on the neutrino luminosities or spectra in the postshock region and, consequently,
+  on the late-time postshock neutrino heating and shock evolution. Consequently, we
+  do not find that prompt convection is important for the supernova explosion mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...433L..45B
+author: Bruenn, S. W. and Mezzacappa, A.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-08-11 05:34:59 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/187544
+journal: \apjl
+keywords: Equations Of State, Gravitational Collapse, Neutron Stars, Shock Wave Interaction,
+  Stellar Convection, Stellar Cores, Stellar Evolution, Stellar Gravitation, Stellar
+  Models, Supernovae, Computerized Simulation, Hydrodynamics, Mathematical Models,
+  Neutrinos, Shock Waves
+month: September
+pages: L45-L48
+papis_id: 2e927cfcd016b085797266723522ce2d
+ref: bruenn.s.1994
+title: Prompt convection in core collapse supernovae
+type: article
+volume: '433'
+year: '1994'

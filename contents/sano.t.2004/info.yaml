@@ -1,0 +1,53 @@
+abstract: The saturation level of the magnetorotational instability (MRI) is investigated
+  using three-dimensional MHD simulations. The shearing box approximation is adopted
+  and the vertical component of gravity is ignored, so that the evolution of the MRI
+  is followed in a small local part of the disk. We focus on the dependence of the
+  saturation level of the stress on the gas pressure, which is a key assumption in
+  the standard alpha disk model. From our numerical experiments we find that there
+  is a weak power-law relation between the saturation level of the Maxwell stress
+  and the gas pressure in the nonlinear regime; the higher the gas pressure, the larger
+  the stress. Although the power-law index depends slightly on the initial field geometry,
+  the relationship between stress and gas pressure is independent of the initial field
+  strength and is unaffected by ohmic dissipation if the magnetic Reynolds number
+  is at least 10. The relationship is the same in adiabatic calculations, where pressure
+  increases over time, and nearly isothermal calculations, where pressure varies little
+  with time. Over the entire region of parameter space explored, turbulence driven
+  by the MRI has many characteristic ratios such as that of the Maxwell stress to
+  the magnetic pressure. We also find that the amplitudes of the spatial fluctuations
+  in density and the time variability in the stress are characterized by the ratio
+  of magnetic pressure to gas pressure in the nonlinear regime. Our numerical results
+  are qualitatively consistent with an idea that the saturation level of the MRI is
+  determined by a balance between the growth of the MRI and the dissipation of the
+  field through reconnection. The quantitative interpretation of the pressure-stress
+  relation, however, may require advances in the theoretical understanding of nonsteady
+  magnetic reconnection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...605..321S
+arxivurl: http://arxiv.org/abs/astro-ph/0312480
+author: Sano, T. and Inutsuka, S.-i. and Turner, N. J. and Stone, J. M.
+author_list:
+- family: Sano
+  given: T.
+- family: Inutsuka
+  given: S.-i.
+- family: Turner
+  given: N. J.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 14:59:33 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/382184
+eprint: astro-ph/0312480
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Diffusion, Instabilities, Magnetohydrodynamics:
+  MHD, Turbulence'
+month: April
+pages: 321--339
+papis_id: d32e1438fa192baff26c2613d8138470
+ref: sano.t.2004
+title: 'Angular Momentum Transport by Magnetohydrodynamic Turbulence in Accretion
+  Disks: Gas Pressure Dependence of the Saturation Level of the Magnetorotational
+  Instability'
+type: article
+volume: '605'
+year: '2004'

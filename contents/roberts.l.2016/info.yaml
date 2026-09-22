@@ -1,0 +1,48 @@
+abstract: We report on a set of long-term general-relativistic three-dimensional (3D)
+  multi-group (energy-dependent) neutrino radiation-hydrodynamics simulations of core-collapse
+  supernovae. We employ a full 3D two-moment scheme with the local M1 closure, three
+  neutrino species, and 12 energy groups per species. With this, we follow the post-core-bounce
+  evolution of the core of a nonrotating 27 - {M}\&sun;  progenitor in full unconstrained
+  3D and in octant symmetry for \greaterequivlnt{}380 ms. We find the development
+  of an asymmetric runaway explosion in our unconstrained simulation. We test the
+  resolution dependence of our results and, in agreement with previous work, find
+  that low resolution artificially aids explosion and leads to an earlier runaway
+  expansion of the shock. At low resolution, the octant and full 3D dynamics are qualitatively
+  very similar, but at high resolution, only the full 3D simulation exhibits the onset
+  of explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...831...98R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1604.07848
+author: Roberts, L. F. and Ott, C. D. and Haas, R. and O'Connor, E. P. and Diener,
+  P. and Schnetter, E.
+author_list:
+- family: Roberts
+  given: L. F.
+- family: Ott
+  given: C. D.
+- family: Haas
+  given: R.
+- family: O'Connor
+  given: E. P.
+- family: Diener
+  given: P.
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 14:02:02 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/831/1/98
+eid: '98'
+eprint: '1604.07848'
+journal: \apj
+keywords: 'instabilities, neutrinos, supernovae: general'
+month: November
+pages: '98'
+papis_id: 66b40c47815daa0fc587428a18764fb3
+primaryclass: astro-ph.HE
+ref: roberts.l.2016
+title: General-Relativistic Three-Dimensional Multi-group Neutrino Radiation-Hydrodynamics
+  Simulations of Core-Collapse Supernovae
+type: article
+volume: '831'
+year: '2016'

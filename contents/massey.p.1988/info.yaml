@@ -1,0 +1,40 @@
+abstract: Spectrophotometry for 25 stars intended to be used as standards is presented.
+  These stars were mainly selected for having nearly featureless spectra, making them
+  suitable for use at various resolutions. Sixteen of these have not had previous
+  spectrophotometry published, and eight are fainter than V = 14. Also presented are
+  improved data for nine of the stars observed by Stone (1974, 1977) and Oke (1974).
+  The wavelength coverage is from 3200 to 8100 A, and the magnitudes are on the Hayes-Latham
+  system. On the average, the night-to-night photometric precision of the data is
+  better than 0.01 mag. The external agreement with stars in common with Stone is
+  typically better than 0.03 within 50 A bandpasses. Magnitudes are presented using
+  the same bandpasses employed by Stone, as well as at more frequent wavelengths in
+  order to facilitate the flux calibration of data obtained with high resolution or
+  small detectors (e.g., CCDs). Other bandpasses can be constructed from the data,
+  which are made available via the Astronomical Data Center.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1988ApJ...328..315M
+author: Massey, P. and Strobel, K. and Barnes, J. V. and Anderson, E.
+author_list:
+- family: Massey
+  given: P.
+- family: Strobel
+  given: K.
+- family: Barnes
+  given: J. V.
+- family: Anderson
+  given: E.
+date-added: 2017-08-10 22:50:48 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/166294
+journal: \apj
+keywords: Reference Stars, Spectrum Analysis, Stellar Physics, Stellar Spectra, Stellar
+  Spectrophotometry, Bandpass Filters, Charge Coupled Devices, Standards, Stellar
+  Color, Stellar Magnitude
+month: May
+pages: 315--333
+papis_id: f324c855f34e9d3176823e9524d9991d
+ref: massey.p.1988
+title: Spectrophotometric standards
+type: article
+volume: '328'
+year: '1988'

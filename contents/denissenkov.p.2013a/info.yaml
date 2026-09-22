@@ -1,0 +1,51 @@
+abstract: After off-center C ignition in the cores of super asymptotic giant branch
+  (SAGB) stars, the C flame propagates all the way down to the center, trailing behind
+  it the C-shell convective zone, and thus building a degenerate ONe core. This standard
+  picture is obtained in stellar evolution simulations if the bottom C-shell convection
+  boundary is assumed to be a discontinuity associated with a strict interpretation
+  of the Schwarzschild condition for convective instability. However, this boundary
+  is prone to additional mixing processes, such as thermohaline convection and convective
+  boundary mixing. Using hydrodynamic simulations, we show that contrary to previous
+  results, thermohaline mixing is too inefficient to interfere with the C-flame propagation.
+  However, even a small amount of convective boundary mixing removes the physical
+  conditions required for the C-flame propagation all the way to the center. This
+  result holds even if we allow for some turbulent heat transport in the CBM region.
+  As a result, SAGB stars build in their interiors hybrid C-O-Ne degenerate cores
+  composed of a relatively large CO core (M CO \approx{} 0.2 M \&sun;) surrounded
+  by a thick ONe zone (DeltaM ONe >~ 0.85 M \&sun;) with another thin CO layer above.
+  If exposed by mass loss, these cores will become hybrid C-O-Ne white dwarfs. Otherwise,
+  the ignition of C-rich material in the central core, surrounded by the thick ONe
+  zone, may trigger a thermonuclear supernova (SN) explosion. The quenching of the
+  C-flame may have implications for the ignition mechanism of SN Ia in the double-degenerate
+  merger scenario.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...772...37D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.2649
+author: Denissenkov, P. A. and Herwig, F. and Truran, J. W. and Paxton, B.
+author_list:
+- family: Denissenkov
+  given: P. A.
+- family: Herwig
+  given: F.
+- family: Truran
+  given: J. W.
+- family: Paxton
+  given: B.
+date-added: 2017-08-10 18:12:29 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/772/1/37
+eid: '37'
+eprint: '1305.2649'
+journal: \apj
+keywords: 'methods: numerical, stars: AGB and post-AGB, stars: evolution, stars: interiors'
+month: July
+pages: '37'
+papis_id: 1961d2f092d1378764f8bd9aa79126c8
+primaryclass: astro-ph.SR
+ref: denissenkov.p.2013a
+title: The C-flame Quenching by Convective Boundary Mixing in Super-AGB Stars and
+  the Formation of Hybrid C/O/Ne White Dwarfs and SN Progenitors
+type: article
+volume: '772'
+year: '2013'

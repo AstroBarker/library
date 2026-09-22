@@ -1,0 +1,58 @@
+abstract: The target of the Roadrunner Universe project at Los Alamos National Laboratory
+  is a set of very large cosmological N-body simulation runs on the hybrid supercomputer
+  Roadrunner, the world's first petaflop platform. Roadrunner's architecture presents
+  opportunities and difficulties characteristic of next-generation supercomputing.
+  We describe a new code designed to optimize performance and scalability by explicitly
+  matching the underlying algorithms to the machine architecture, and by using the
+  physics of the problem as an essential aid in this process. While applications will
+  differ in specific exploits, we believe that such a design process will become increasingly
+  important in the future. The Roadrunner Universe project code, MC3 (Mesh-based Cosmology
+  Code on the Cell), uses grid and direct particle methods to balance the capabilities
+  of Roadrunner's conventional (Opteron) and accelerator (Cell BE) layers. Mirrored
+  particle caches and spectral techniques are used to overcome communication bandwidth
+  limitations and possible difficulties with complicated particle-grid interaction
+  templates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009JPhCS.180a2019H
+author: Habib, S. and Pope, A. and Lukić, Z. and Daniel, D. and Fasel, P. and Desai,
+  N. and Heitmann, K. and Hsu, C.-H. and Ankeny, L. and Mark, G. and Bhattacharya,
+  S. and Ahrens, J.
+author_list:
+- family: Habib
+  given: S.
+- family: Pope
+  given: A.
+- family: Lukić
+  given: Z.
+- family: Daniel
+  given: D.
+- family: Fasel
+  given: P.
+- family: Desai
+  given: N.
+- family: Heitmann
+  given: K.
+- family: Hsu
+  given: C.-H.
+- family: Ankeny
+  given: L.
+- family: Mark
+  given: G.
+- family: Bhattacharya
+  given: S.
+- family: Ahrens
+  given: J.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 22:35:48 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/1742-6596/180/1/012019
+eid: 012019
+month: July
+pages: 012019
+papis_id: 60205f3d6093fe69665ff642f6e6a96a
+ref: habib.s.2009
+series: Journal of Physics Conference Series
+title: 'Hybrid petacomputing meets cosmology: The Roadrunner Universe project'
+type: inproceedings
+volume: '180'
+year: '2009'

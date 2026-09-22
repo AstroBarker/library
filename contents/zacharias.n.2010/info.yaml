@@ -1,0 +1,109 @@
+abstract: The third US Naval Observatory (USNO) CCD Astrograph Catalog, UCAC3, was
+  released at the IAU General Assembly on 2009 August 10. It is the first all-sky
+  release in this series and contains just over 100 million objects, about 95 million
+  of them with proper motions, covering about R = 8-16 mag. Current epoch positions
+  are obtained from the observations with the 20 cm aperture USNO Astrograph's "red
+  lens," equipped with a 4k \texttimes{} 4k CCD. Proper motions are derived by combining
+  these observations with over 140 ground- and space-based catalogs, including Hipparcos/Tycho
+  and the AC2000.2, as well as unpublished measures of over 5000 plates from other
+  astrographs. For most of the faint stars in the southern hemisphere, the Yale/San
+  Juan first epoch plates from the Southern Proper Motion (SPM) program (YSJ1) form
+  the basis for proper motions. These data are supplemented by all-sky Schmidt plate
+  survey astrometry and photometry obtained from the SuperCOSMOS project, as well
+  as 2MASS near-IR photometry. Major differences of UCAC3 data as compared with UCAC2
+  include a completely new raw data reduction with improved control over systematic
+  errors in positions, significantly improved photometry, slightly deeper limiting
+  magnitude, coverage of the north pole region, greater completeness by inclusion
+  of double stars, and weak detections. This of course leads to a catalog which is
+  not as "clean" as UCAC2 and problem areas are outlined for the user in this paper.
+  The positional accuracy of stars in UCAC3 is about 15-100 mas per coordinate, depending
+  on magnitude, while the errors in proper motions range from 1 to 10 mas yr-1 depending
+  on magnitude and observing history, with a significant improvement over UCAC2 achieved
+  due to the re-reduced SPM data and inclusion of more astrograph plate data unavailable
+  at the time of UCAC2.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010AJ....139.2184Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.2136
+author: Zacharias, N. and Finch, C. and Girard, T. and Hambly, N. and Wycoff, G. and
+  Zacharias, M. I. and Castillo, D. and Corbin, T. and DiVittorio, M. and Dutta, S.
+  and Gaume, R. and Gauss, S. and Germain, M. and Hall, D. and Hartkopf, W. and Hsu,
+  D. and Holdenried, E. and Makarov, V. and Martinez, M. and Mason, B. and Monet,
+  D. and Rafferty, T. and Rhodes, A. and Siemers, T. and Smith, D. and Tilleman, T.
+  and Urban, S. and Wieder, G. and Winter, L. and Young, A.
+author_list:
+- family: Zacharias
+  given: N.
+- family: Finch
+  given: C.
+- family: Girard
+  given: T.
+- family: Hambly
+  given: N.
+- family: Wycoff
+  given: G.
+- family: Zacharias
+  given: M. I.
+- family: Castillo
+  given: D.
+- family: Corbin
+  given: T.
+- family: DiVittorio
+  given: M.
+- family: Dutta
+  given: S.
+- family: Gaume
+  given: R.
+- family: Gauss
+  given: S.
+- family: Germain
+  given: M.
+- family: Hall
+  given: D.
+- family: Hartkopf
+  given: W.
+- family: Hsu
+  given: D.
+- family: Holdenried
+  given: E.
+- family: Makarov
+  given: V.
+- family: Martinez
+  given: M.
+- family: Mason
+  given: B.
+- family: Monet
+  given: D.
+- family: Rafferty
+  given: T.
+- family: Rhodes
+  given: A.
+- family: Siemers
+  given: T.
+- family: Smith
+  given: D.
+- family: Tilleman
+  given: T.
+- family: Urban
+  given: S.
+- family: Wieder
+  given: G.
+- family: Winter
+  given: L.
+- family: Young
+  given: A.
+date-added: 2017-08-11 01:15:43 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-6256/139/6/2184
+eprint: '1003.2136'
+journal: \aj
+keywords: 'astrometry, catalogs, reference systems, stars: kinematics and dynamics'
+month: June
+pages: 2184--2199
+papis_id: 1f19d6a40b7d64aafa817bfb9c2990f5
+primaryclass: astro-ph.IM
+ref: zacharias.n.2010
+title: The Third US Naval Observatory CCD Astrograph Catalog (UCAC3)
+type: article
+volume: '139'
+year: '2010'

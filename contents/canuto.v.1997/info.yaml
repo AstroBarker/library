@@ -1,0 +1,44 @@
+abstract: 'We present a model to treat fully compressible, nonlocal, time-dependent
+  turbulent convection in the presence of large-scale flows and arbitrary density
+  stratification. The problem is of interest, for example, in stellar pulsation problems,
+  especially since accurate helioseismological data are now available, as well as
+  in accretion disks. Owing to the difficulties in formulating an analytical model,
+  it is not surprising that most of the work has gone into numerical simulations.
+  At present, there are three analytical models: one by the author, which leads to
+  a rather complicated set of equations; one by Yoshizawa; and one by Xiong. The latter
+  two use a Reynolds stress model together with phenomenological relations with adjustable
+  parameters whose determination on the basis of terrestrial flows does not guarantee
+  that they may be extrapolated to astrophysical flows. Moreover, all third-order
+  moments representing nonlocality are taken to be of the down gradient form (which
+  in the case of the planetary boundary layer yields incorrect results). In addition,
+  correlations among pressure, temperature, and velocities are often neglected or
+  treated as in the incompressible case.  To avoid phenomenological relations, we
+  derive the full set of dynamic, time-dependent, nonlocal equations to describe all
+  mean variables, second- and third-order moments. Closures are carried out at the
+  fourth order following standard procedures in turbulence modeling. The equations
+  are collected in an Appendix.  Some of the novelties of the treatment are (1) new
+  flux conservation law that includes the large-scale flow, (2) increase of the rate
+  of dissipation of turbulent kinetic energy owing to compressibility and thus (3)
+  a smaller overshooting, and (4) a new source of mean temperature due to compressibility;
+  moreover, contrary to some phenomenological suggestions, the adiabatic temperature
+  gradient depends only on the thermal pressure, while in the equation for the large-scale
+  flow, the physical pressure is the sum of thermal plus turbulent pressure.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...482..827C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2017-08-10 15:38:30 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304175
+journal: \apj
+keywords: Hydrodynamics, Turbulence
+month: June
+pages: 827--851
+papis_id: e8ad127b70ffae0ef0a4461519e8dfcd
+ref: canuto.v.1997
+title: Compressible Turbulence
+type: article
+volume: '482'
+year: '1997'

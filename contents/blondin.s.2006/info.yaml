@@ -1,0 +1,144 @@
+abstract: Using archival data of low-redshift (z<0.01 Center for Astrophysics and
+  SUSPECT databases) Type Ia supernovae (SNe Ia) and recent observations of high-redshift
+  (0.16<z<0.64) SNe Ia, we study the ``uniformity'' of the spectroscopic properties
+  of nearby and distant SNe Ia. We find no difference in the measurements we describe
+  here. In this paper we base our analysis solely on line-profile morphology, focusing
+  on measurements of the velocity location of maximum absorption (vabs) and peak emission
+  (vpeak). Our measurement technique makes it easier to compare low and high signal-to-noise
+  ratio observations. We also quantify the associated sources of error, assessing
+  the effect of line blending with assistance from the parameterized code SYNOW. We
+  find that the evolution of vabs and vpeak for our sample lines (Ca II lambda3945,
+  Si II lambda6355, and S II lambdalambda5454, 5640) is similar for both the low-
+  and high-redshift samples. We find that vabs for the weak S II lambdalambda5454,
+  5640 lines and vpeak for S II lambda5454 can be used to identify fast-declining
+  [Deltam15(B)>1.7] SNe Ia, which are also subluminous. In addition, we give the first
+  direct evidence in two high-z SN Ia spectra of a double-absorption feature in Ca
+  II lambda3945, an event also observed, although infrequently, in low-redshift SN
+  Ia spectra (6 out of 22 SNe Ia in our local sample). Moreover, echoing the recent
+  studies of Dessart \& Hillier in the context of Type II supernovae (SNe II), we
+  see similar P Cygni line profiles in our large sample of SN Ia spectra. First, the
+  magnitude of the velocity location at maximum profile absorption may underestimate
+  that at the continuum photosphere, as observed, for example, in the optically thinner
+  line S II lambda5640. Second, we report for the first time the unambiguous and systematic
+  intrinsic blueshift of peak emission of optical P Cygni line profiles in SN Ia spectra,
+  by as much as 8000 km s-1. All the high-z SNe Ia analyzed in this paper were discovered
+  and followed up by the ESSENCE collaboration and are now publicly available.  Based
+  in part on observations obtained at the Cerro Tololo Inter-American Observatory,
+  which is operated by the Association of Universities for Research in Astronomy (AURA),
+  Inc., under cooperative agreement with the National Science Foundation (NSF); the
+  European Southern Observatory, Chile (ESO program 170.A-0519) the Gemini Observatory,
+  which is operated by AURA under a cooperative agreement with the NSF on behalf of
+  the Gemini partnership (the NSF [United States], the Particle Physics and Astronomy
+  Research Council [United Kingdom], the National Research Council [Canada], CONICYT
+  [Chile], the Australian Research Council [Australia], CNPq [Brazil], and CONICET
+  [Argentina]) (programs GN-2002B-Q-14, GN-2003B-Q-11, and GS-2003B-Q-11) the Magellan
+  Telescopes at Las Campanas Observatory; the MMT Observatory, a joint facility of
+  the Smithsonian Institution and the University of Arizona; and the F. L. Whipple
+  Observatory, which is operated by the Smithsonian Astrophysical Observatory. Some
+  of the data presented herein were obtained at the W. M. Keck Observatory, which
+  is operated as a scientific partnership among the California Institute of Technology,
+  the University of California, and the National Aeronautics and Space Administration.
+  The Observatory was made possible by the generous financial support of the W. M.
+  Keck Foundation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006AJ....131.1648B
+arxivurl: http://arxiv.org/abs/astro-ph/0510089
+author: Blondin, S. and Dessart, L. and Leibundgut, B. and Branch, D. and Höflich,
+  P. and Tonry, J. L. and Matheson, T. and Foley, R. J. and Chornock, R. and Filippenko,
+  A. V. and Sollerman, J. and Spyromilio, J. and Kirshner, R. P. and Wood-Vasey, W.
+  M. and Clocchiatti, A. and Aguilera, C. and Barris, B. and Becker, A. C. and Challis,
+  P. and Covarrubias, R. and Davis, T. M. and Garnavich, P. and Hicken, M. and Jha,
+  S. and Krisciunas, K. and Li, W. and Miceli, A. and Miknaitis, G. and Pignata, G.
+  and Prieto, J. L. and Rest, A. and Riess, A. G. and Salvo, M. E. and Schmidt, B.
+  P. and Smith, R. C. and Stubbs, C. W. and Suntzeff, N. B.
+author_list:
+- family: Blondin
+  given: S.
+- family: Dessart
+  given: L.
+- family: Leibundgut
+  given: B.
+- family: Branch
+  given: D.
+- family: Höflich
+  given: P.
+- family: Tonry
+  given: J. L.
+- family: Matheson
+  given: T.
+- family: Foley
+  given: R. J.
+- family: Chornock
+  given: R.
+- family: Filippenko
+  given: A. V.
+- family: Sollerman
+  given: J.
+- family: Spyromilio
+  given: J.
+- family: Kirshner
+  given: R. P.
+- family: Wood-Vasey
+  given: W. M.
+- family: Clocchiatti
+  given: A.
+- family: Aguilera
+  given: C.
+- family: Barris
+  given: B.
+- family: Becker
+  given: A. C.
+- family: Challis
+  given: P.
+- family: Covarrubias
+  given: R.
+- family: Davis
+  given: T. M.
+- family: Garnavich
+  given: P.
+- family: Hicken
+  given: M.
+- family: Jha
+  given: S.
+- family: Krisciunas
+  given: K.
+- family: Li
+  given: W.
+- family: Miceli
+  given: A.
+- family: Miknaitis
+  given: G.
+- family: Pignata
+  given: G.
+- family: Prieto
+  given: J. L.
+- family: Rest
+  given: A.
+- family: Riess
+  given: A. G.
+- family: Salvo
+  given: M. E.
+- family: Schmidt
+  given: B. P.
+- family: Smith
+  given: R. C.
+- family: Stubbs
+  given: C. W.
+- family: Suntzeff
+  given: N. B.
+date-added: 2017-08-11 02:28:48 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/498724
+eprint: astro-ph/0510089
+journal: \aj
+keywords: 'Cosmology: Observations, Line: Formation, Line: Profiles, Stars: Supernovae:
+  General'
+month: March
+pages: 1648--1666
+papis_id: 236370111b6762c195c76f624dc3ee87
+ref: blondin.s.2006
+title: Using Line Profiles to Test the Fraternity of Type Ia Supernovae at High and
+  Low Redshifts
+type: article
+volume: '131'
+year: '2006'

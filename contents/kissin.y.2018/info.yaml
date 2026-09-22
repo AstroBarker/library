@@ -1,0 +1,45 @@
+abstract: The internal rotation and magnetism of massive stars are considered in response
+  to (i) the inward pumping of angular momentum through deep and slowly rotating convective
+  layers, and (ii) the winding up of a helical magnetic field in radiative layers.
+  Field winding can transport angular momentum effectively even when the toroidal
+  field is limited by kinking. Magnetic helicity is pumped into a growing radiative
+  layer from an adjacent convective envelope (or core). The receding convective envelope
+  that forms during the early accretion phase of a massive star is the dominant source
+  of helicity in its core, yielding a 1012 - 1013 G polar magnetic field in a collapsed
+  neutron star (NS) remnant. Using MESA models of various masses, we find that the
+  NS rotation varies significantly, from P NS ~ 0.1--1 s in a 13 M \&sun; model to
+  P NS ~ 2 ms in a 25 M \&sun; model with an extended convective core. Stronger inward
+  pumping of angular momentum is found in more massive stars, due to the growing thickness
+  of the convective shells that form during the later stages of thermonuclear burning.
+  On the other hand, stars that lose enough mass to form blue supergiants in isolation
+  end up as very slow rotators. The tidal spin-up of a 40 M \&sun; star by a massive
+  binary companion is found to dramatically increase the spin of the remnant black
+  hole, allowing a rotationally supported torus to form during the collapse. The implications
+  for post-collapse decay or amplification of the magnetic field are also considered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...862..111K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1705.07906
+author: Kissin, Y. and Thompson, C.
+author_list:
+- family: Kissin
+  given: Y.
+- family: Thompson
+  given: C.
+date-added: 2018-08-06 13:10:08 -0400
+date-modified: 2018-08-06 13:10:10 -0400
+doi: 10.3847/1538-4357/aab1fb
+eid: '111'
+eprint: '1705.07906'
+journal: \apj
+keywords: 'black hole physics, magnetic fields, methods: numerical, stars: neutron,
+  stars: rotation, supergiants'
+month: August
+pages: '111'
+papis_id: 438179ee7065046c104c5a386f41dd95
+primaryclass: astro-ph.SR
+ref: kissin.y.2018
+title: Rotation and Magnetism of Massive Stellar Cores
+type: article
+volume: '862'
+year: '2018'

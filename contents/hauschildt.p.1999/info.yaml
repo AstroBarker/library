@@ -1,0 +1,37 @@
+abstract: We present our NextGen Model Atmosphere grid for low-mass stars for effective
+  temperatures larger than 3000 K. These LTE models are calculated with the same basic
+  model assumptions and input physics as the VLMS part of the NextGen grid so that
+  the complete grid can be used, e.g., for consistent stellar evolution calculations
+  and for internally consistent analysis of cool star spectra. This grid is also the
+  starting point for a large grid of detailed NLTE model atmospheres for dwarfs and
+  giants. The models were calculated from 3000 to 10,000 K (in steps of 200 K) for
+  3.5<=logg<=5.5 (in steps of 0.5) and metallicities of -4.0<=[M/H]<=0.0.  We discuss
+  the results of the model calculations and compare our results to the Kurucz grid.
+  Some comparisons to standard stars like Vega and the Sun are presented and compared
+  with detailed NLTE calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...512..377H
+arxivurl: http://arxiv.org/abs/astro-ph/9807286
+author: Hauschildt, P. H. and Allard, F. and Baron, E.
+author_list:
+- family: Hauschildt
+  given: P. H.
+- family: Allard
+  given: F.
+- family: Baron
+  given: E.
+date-added: 2017-08-11 04:26:06 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306745
+eprint: astro-ph/9807286
+journal: \apj
+keywords: 'RADIATIVE TRANSFER, STARS: ATMOSPHERES, STARS: LATE-TYPE, Radiative Transfer,
+  Stars: Atmospheres, Stars: Late-Type'
+month: February
+pages: 377--385
+papis_id: 439a8b27999b7254b460bb63e8df72b6
+ref: hauschildt.p.1999
+title: The NextGen Model Atmosphere Grid for 3000$łt$=T\$_eff\$\$łt\$=10,000 K
+type: article
+volume: '512'
+year: '1999'

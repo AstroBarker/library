@@ -1,0 +1,50 @@
+abstract: 'Context: In many papers, the flows in Herbig-Haro (HH) jets have been modeled
+  as collimated outflows with a time-dependent ejection. In particular, a supersonic
+  variability of the ejection velocity leads to the production of "internal working
+  surfaces" which (for appropriate forms of the time-variability) can produce emitting
+  knots that resemble the chains of knots observed along HH jets.  Aims: In this paper,
+  we present axisymmetric simulations of an "internal working surface" in a radiative
+  jet (produced by an ejection velocity variability). We concentrate on a given parameter
+  set (i.e., on a jet with a constante ejection density, and a sinusoidal velocity
+  variability with a 20 yr period and a 40 km s-1 half-amplitude), and carry out a
+  study of the behaviour of the solution for increasing numerical resolutions. Methods:
+  In our simulations, we solve the gasdynamic equations together with a 17-species
+  atomic/ionic network, and we are therefore able to compute emission coefficients
+  for different emission lines.  Results: We compute 3 adaptive grid simulations,
+  with 20, 163 and 1310 grid points (at the highest grid resolution) across the initial
+  jet radius. From these simulations we see that successively more complex structures
+  are obtained for increasing numerical resolutions. Such an effect is seen in the
+  stratifications of the flow variables as well as in the predicted emission line
+  intensity maps.  Conclusions: .We find that while the detailed structure of an internal
+  working surface depends on resolution, the predicted emission line luminosities
+  (integrated over the volume of the working surface) are surprisingly stable. This
+  is definitely good news for the future computation of predictions from radiative
+  jet models for carrying out comparisons with observations of HH objects.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...465..879R
+author: Raga, A. C. and de Colle, F. and Kajdič, P. and Esquivel, A. and Cantó, J.
+author_list:
+- family: Raga
+  given: A. C.
+- family: de Colle
+  given: F.
+- family: Kajdič
+  given: P.
+- family: Esquivel
+  given: A.
+- family: Cantó
+  given: J.
+date-added: 2017-08-10 23:49:05 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20066625
+journal: \aap
+keywords: 'methods: numerical, ISM: general, ISM: jets and outflows, ISM: Herbig-Haro
+  objects'
+month: April
+pages: 879--885
+papis_id: ce3b14b4c1d35461d1570415b8fc933b
+ref: raga.a.2007
+title: High resolution simulations of a variable HH jet
+type: article
+volume: '465'
+year: '2007'

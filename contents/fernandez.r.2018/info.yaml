@@ -1,0 +1,48 @@
+abstract: We study the ejection of mass during stellar core-collapse when the stalled
+  shock does not revive and a black hole forms. Neutrino emission during the protoneutron
+  star phase causes a decrease in the gravitational mass of the core, resulting in
+  an outward going sound pulse that steepens into a shock as it travels out through
+  the star. We explore the properties of this mass ejection mechanism over a range
+  of stellar progenitors using spherically symmetric, time-dependent hydrodynamic
+  simulations that treat neutrino mass-loss parametrically and follow the shock propagation
+  over the entire star. We find that all types of stellar progenitor can eject mass
+  through this mechanism. The ejected mass is a decreasing function of the surface
+  gravity of the star, ranging from several M\&sun; for red supergiants to \texttildelow{}0.1
+  M\&sun; for blue supergiants and \texttildelow{}10-3 M\&sun; for Wolf-Rayet stars.
+  We find that the final shock energy at the surface is a decreasing function of the
+  core-compactness, and is \lessequivlnt{} 1047-1048 erg in all cases. In progenitors
+  with a sufficiently large envelope, high core-compactness, or a combination of both,
+  the sound pulse fails to unbind mass. Successful mass ejection is accompanied by
+  significant fallback accretion that can last from hours to years. We predict the
+  properties of shock breakout and thermal plateau emission produced by the ejection
+  of the outer envelope of blue supergiant and Wolf-Rayet progenitors in otherwise
+  failed supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.476.2366F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.01735
+author: Fernández, R. and Quataert, E. and Kashiyama, K. and Coughlin, E. R.
+author_list:
+- family: Fernández
+  given: R.
+- family: Quataert
+  given: E.
+- family: Kashiyama
+  given: K.
+- family: Coughlin
+  given: E. R.
+date-added: 2018-04-25 23:36:23 +0000
+date-modified: 2018-04-25 23:36:24 +0000
+doi: 10.1093/mnras/sty306
+eprint: '1710.01735'
+journal: \mnras
+keywords: 'gravitation, hydrodynamics, neutrinos, shock waves, supernovae: general'
+month: May
+pages: 2366--2383
+papis_id: 4f2412bb8aa52922e2f9ef388cb015da
+primaryclass: astro-ph.HE
+ref: fernandez.r.2018
+title: 'Mass ejection in failed supernovae: variation with stellar progenitor'
+type: article
+volume: '476'
+year: '2018'

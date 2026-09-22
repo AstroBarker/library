@@ -1,0 +1,53 @@
+abstract: 'We analyze the evolution of binary stars to calculate synthetic rates and
+  delay times of the most promising Type Ia Supernovae (SNe Ia) progenitors. We present
+  and discuss evolutionary scenarios in which a white dwarf (WD) reaches the Chandrasekhar
+  mass and potentially explodes in a SNe Ia. We consider Double Degenerate (DDS; merger
+  of two WDs), Single Degenerate (SDS; WD accreting from H-rich companion), and AM
+  Canum Venaticorum (AM CVn; WD accreting from He-rich companion) scenarios. The results
+  are presented for two different star formation histories: burst (elliptical-like
+  galaxies) and continuous (spiral-like galaxies). It is found that delay times for
+  the DDS in our standard model (with common envelope efficiency alphaCE = 1) follow
+  a power-law distribution. For the SDS we note a wide range of delay times, while
+  AM CVn progenitors produce a short burst of SNe Ia at early times. The DDS median
+  delay time falls between ~0.5 and 1 Gyr the SDS between ~2 and 3 Gyr and the AM
+  CVn between ~0.8 and 0.6 Gyr depending on the assumed alphaCE. For a Milky-Way-like
+  (MW-like) galaxy, we estimate the rates of SNe Ia arising from different progenitors
+  as: ~10-4 yr-1 for the SDS and AM CVn, and ~10-3 yr-1 for the DDS. We point out
+  that only the rates for two merging carbon-oxygen WDs, the only systems found in
+  the DDS, are consistent with the observed rates for typical MW-like spirals. We
+  also note that DDS progenitors are the dominant population in elliptical galaxies.
+  The fact that the delay time distribution for the DDS follows a power law implies
+  more SNe Ia (per unit mass) in young rather than in aged populations. Our results
+  do not exclude other scenarios, but strongly indicate that the DDS is the dominant
+  channel generating SNe Ia in spiral galaxies, at least in the framework of our adopted
+  evolutionary models. Since it is believed that WD mergers cannot produce a thermonuclear
+  explosion given the current understanding of accreting WDs, either the evolutionary
+  calculations along with accretion physics are incorrect, or the explosion calculations
+  are inaccurate and need to be revisited.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...699.2026R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0904.3108
+author: Ruiter, A. J. and Belczynski, K. and Fryer, C.
+author_list:
+- family: Ruiter
+  given: A. J.
+- family: Belczynski
+  given: K.
+- family: Fryer
+  given: C.
+date-added: 2017-08-11 07:19:07 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/699/2/2026
+eprint: '0904.3108'
+journal: \apj
+keywords: 'binaries: close, supernovae: general'
+month: July
+pages: 2026--2036
+papis_id: 2b5f86e0238af08add51a3a750ebdd7e
+primaryclass: astro-ph.SR
+ref: ruiter.a.2009
+title: Rates and Delay Times of Type Ia Supernovae
+type: article
+volume: '699'
+year: '2009'

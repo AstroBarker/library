@@ -1,0 +1,48 @@
+abstract: We present results from a Monte Carlo simulation of a parallel collisionless
+  shock undergoing particle acceleration. Our simulation, which contains parameterized
+  scattering and a particular thermal leakage injection model, calculates the feedback
+  between accelerated particles ahead of the shock, which influence the shock precursor
+  and "smooth" the shock, and thermal particle injection. We show that there is a
+  transition between nonrelativistic shocks, where the acceleration efficiency can
+  be extremely high and the nonlinear compression ratio can be substantially greater
+  than the Rankine-Hugoniot value, and fully relativistic shocks, where diffusive
+  shock acceleration is less efficient and the compression ratio remains at the Rankine-Hugoniot
+  value. This transition occurs in the trans-relativistic regime and, for the particular
+  parameters we use, occurs around a shock Lorentz factor gamma0 = 1.5. We also find
+  that nonlinear shock smoothing dramatically reduces the acceleration efficiency
+  presumed to occur with large-angle scattering in ultra-relativistic shocks. Our
+  ability to seamlessly treat the transition from ultra-relativistic to trans-relativistic
+  to nonrelativistic shocks may be important for evolving relativistic systems, such
+  as gamma-ray bursts and Type Ibc supernovae. We expect a substantial evolution of
+  shock accelerated spectra during this transition from soft early on to much harder
+  when the blast-wave shock becomes nonrelativistic.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...776...46E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.5114
+author: Ellison, D. C. and Warren, D. C. and Bykov, A. M.
+author_list:
+- family: Ellison
+  given: D. C.
+- family: Warren
+  given: D. C.
+- family: Bykov
+  given: A. M.
+date-added: 2017-08-10 19:20:03 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/776/1/46
+eid: '46'
+eprint: '1308.5114'
+journal: \apj
+keywords: 'acceleration of particles, cosmic rays, gamma-ray burst: general, shock
+  waves, supernovae: general'
+month: October
+pages: '46'
+papis_id: d07d788378f54fdc9dfd199a7923cb1e
+primaryclass: physics.space-ph
+ref: ellison.d.2013
+title: Monte Carlo Simulations of Nonlinear Particle Acceleration in Parallel Trans-relativistic
+  Shocks
+type: article
+volume: '776'
+year: '2013'

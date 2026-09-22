@@ -1,0 +1,43 @@
+abstract: Type I X-ray bursts are violent stellar events that take place in the H/He-rich
+  envelopes of accreting neutron stars. We have investigated the role played by uncertainties
+  in nuclear processes on the nucleosynthesis accompanying these explosive phenomena.
+  Two different approaches have been adopted, in the framework of postprocessing calculations.
+  In the first one, nuclear rates are varied individually within uncertainties. Ten
+  different models, covering the characteristic parameter space for these stellar
+  events, have been considered. The second, somewhat complementary approach involves
+  a Monte Carlo code in which all nuclear rates are randomly varied within uncertainty
+  limits simultaneously. All in all, about 50,000 postprocessing calculations, with
+  a network containing 606 nuclides (H to 113Xe) and more than 3500 nuclear processes,
+  have been performed in this work. A brief comparison between both procedures is
+  outlined together with an overall account of the key nuclear reactions whose uncertainties
+  have the largest impact in our X-ray burst nucleosynthesis studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..178..110P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0802.2819
+author: Parikh, A. and José, J. and Moreno, F. and Iliadis, C.
+author_list:
+- family: Parikh
+  given: A.
+- family: José
+  given: J.
+- family: Moreno
+  given: F.
+- family: Iliadis
+  given: C.
+date-added: 2017-08-10 17:47:12 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/589879
+eid: 110-136
+eprint: '0802.2819'
+journal: \apjs
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: neutron, X-rays:
+  bursts'
+month: September
+pages: 110--136
+papis_id: fe871fc294f6e27b86acda1cc16f4e4c
+ref: parikh.a.2008
+title: The Effects of Variations in Nuclear Processes on Type I X-Ray Burst Nucleosynthesis
+type: article
+volume: '178'
+year: '2008'

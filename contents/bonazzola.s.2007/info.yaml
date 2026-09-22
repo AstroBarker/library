@@ -1,0 +1,32 @@
+abstract: 'We present a numerical technique for solving evolution equations, such
+  as the wave equation, in the description of rotating astrophysical compact objects
+  in comoving coordinates, which avoids the problems associated with the light cylinder.
+  The technique implements a fast spectral matching between two domains in relative
+  rotation: an inner spherical domain, comoving with the sources and lying strictly
+  inside the light cylinder, and an outer inertial spherical shell. Even though the
+  emphasis is placed on spectral techniques, the matching is independent of the specific
+  manner in which equations are solved inside each domain, and can be adapted to different
+  schemes. We illustrate the strategy with some simple but representative examples.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24.4037B
+author: Bonazzola, S. and Jaramillo, J. L. and Novak, J.
+author_list:
+- family: Bonazzola
+  given: S.
+- family: Jaramillo
+  given: J. L.
+- family: Novak
+  given: J.
+date-added: 2017-08-11 06:16:25 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1088/0264-9381/24/16/005
+eprint: gr-qc/0703118
+journal: Classical and Quantum Gravity
+month: August
+pages: 4037--4051
+papis_id: 63a11c27ff7efe00ecee62f0003cc64b
+ref: bonazzola.s.2007
+title: A fast stroboscopic spectral method for rotating systems in numerical relativity
+type: article
+volume: '24'
+year: '2007'

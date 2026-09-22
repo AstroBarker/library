@@ -1,0 +1,48 @@
+abstract: We present results of simulations of stellar collapse and explosions in
+  spherical symmetry for progenitor stars in the 8-10 M\_\&sun; range with an O-Ne-Mg
+  core. The simulations were continued until nearly one second after core bounce and
+  were performed with the Prometheus/Vertex code with a variable Eddington factor
+  solver for the neutrino transport, including a state-of-the-art treatment of neutrino-matter
+  interactions. Particular effort was made to implement nuclear burning and electron
+  capture rates with sufficient accuracy to ensure a smooth continuation, without
+  transients, from the progenitor evolution to core collapse. Using two different
+  nuclear equations of state (EoSs), a soft version of the Lattimer \& Swesty EoS
+  and the significantly stiffer Wolff \& Hillebrandt EoS, we found no prompt explosions,
+  but instead delayed explosions, powered by neutrino heating and the neutrino-driven
+  baryonic wind which sets in about 200 ms after bounce. The models eject little nickel
+  (< 0.015 M\_\&sun;), explode with an energy of \gtrapprox{}0.1\texttimes{} 1051
+  erg, and leave behind neutron stars (NSs) with a baryonic mass near 1.36 M\_\&sun;.
+  Different from previous models of such explosions, the ejecta during the first second
+  have a proton-to-baryon ratio of Ye \gtrapprox{} 0.46, which suggests a chemical
+  composition that is not in conflict with galactic abundances. No low-entropy matter
+  with Ye \ll{} 0.5 is ejected. This excludes such explosions as sites of a low-entropy
+  r-process. The low explosion energy and nucleosynthetic implications are compatible
+  with the observed properties of the Crab supernova, and the small nickel mass supports
+  the possibility that our models explain some subluminous type II-P supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...450..345K
+arxivurl: http://arxiv.org/abs/astro-ph/0512065
+author: Kitaura, F. S. and Janka, H.-T. and Hillebrandt, W.
+author_list:
+- family: Kitaura
+  given: F. S.
+- family: Janka
+  given: H.-T.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:09:39 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1051/0004-6361:20054703
+eprint: astro-ph/0512065
+journal: \aap
+keywords: 'stars: supernovae: general, stars: supernovae: individual: Crab, neutrinos,
+  hydrodynamics, radiative transfer'
+month: April
+pages: 345--350
+papis_id: 44b507d4b7ad1e0f302ee703c4390e3a
+ref: kitaura.f.2006
+title: Explosions of O-Ne-Mg cores, the Crab supernova, and subluminous type II-P
+  supernovae
+type: article
+volume: '450'
+year: '2006'

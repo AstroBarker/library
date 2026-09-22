@@ -1,0 +1,61 @@
+abstract: We present two-dimensional (axisymmetric) neutrino-hydrodynamic simulations
+  of the long-time accretion phase of a 15 M\_\&sun; progenitor star after core bounce
+  and before the launch of a supernova explosion, when non-radial hydrodynamic instabilities
+  like convection occur in different regions of the collapsing stellar core and the
+  standing accretion shock instability (SASI) leads to large-amplitude oscillations
+  of the stalled shock with a period of tens of milliseconds. Our simulations were
+  performed with the Prometheus-Vertex code, which includes a multi-flavor, energy-dependent
+  neutrino transport scheme and employs an effective relativistic gravitational potential.
+  Testing the influence of a stiff and a soft equation of state for hot neutron star
+  matter, we find that the non-radial mass motions in the supernova core impose a
+  time variability on the neutrino and gravitational-wave signals with larger amplitudes,
+  as well as higher frequencies in the case of a more compact nascent neutron star.
+  After the prompt shock-breakout burst of electron neutrinos, a more compact accreting
+  remnant produces higher neutrino luminosities and higher mean neutrino energies.
+  The observable neutrino emission in the SASI sloshing direction exhibits a modulation
+  of several ten percent in the luminosities and around 1 MeV in the mean energies
+  with most power at typical SASI frequencies between roughly 20 and 100 Hz. The modulation
+  is caused by quasi-periodic variations in the mass accretion rate of the neutron
+  star in each hemisphere. At times later than ~50-100 ms after bounce, the gravitational-wave
+  amplitude is dominated by the growing low-frequency (\lessapprox{}200 Hz) signal
+  associated with anisotropic neutrino emission. A high-frequency wave signal results
+  from nonradial gas flows in the outer layers of the anisotropically accreting neutron
+  star. Right after bounce such nonradial mass motions occur due to prompt post-shock
+  convection in both considered cases and contribute mostly to the early wave production
+  around 100 Hz. Later they are instigated by the SASI and by convective overturn
+  that vigorously stir the neutrino-heating and cooling layers, and also by convective
+  activity developing below the neutrinosphere. The gravitational-wave power then
+  peaks at about 300-800 Hz, connected to changes in the mass quadrupole moment on
+  a timescale of milliseconds. Distinctively higher spectral frequencies originate
+  from the more compact and more rapidly contracting neutron star. Both the neutrino
+  and gravitational-wave emission therefore carry information that is characteristic
+  of the properties of the nuclear equation of state in the hot remnant. The detectability
+  of the SASI effects in the neutrino and gravitational-wave signals is briefly discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...496..475M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0808.4136
+author: Marek, A. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Marek
+  given: A.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 14:29:18 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1051/0004-6361/200810883
+eprint: '0808.4136'
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, neutrinos, gravitational waves,
+  dense matter'
+month: March
+pages: 475--494
+papis_id: 691183f6788655c05f9f166175cbba2a
+ref: marek.a.2009a
+title: Equation-of-state dependent features in shock-oscillation modulated neutrino
+  and gravitational-wave signals from supernovae
+type: article
+volume: '496'
+year: '2009'

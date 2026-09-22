@@ -1,0 +1,51 @@
+abstract: We report the detection of the 44Sc nuclear decay lines at 67.9 and 78.4
+  keV associated with the nuclear decay of 44Ti in Cassiopeia A. The line emission
+  was observed by the Phoswich Detection System instrument on board BeppoSAX, which
+  recently observed the supernova remnant for over 500 ks. The detection of the line
+  emission with a flux of (2.1+/-0.7)\texttimes{}10-5 photons cm-2 s-1 in each line
+  (90\% confidence) is at the 5 sigma significance level, if we can assume that the
+  12-300 keV continuum is adequately represented by a single power law. However, as
+  the nature of the continuum is not clear, we investigate various other possibilities.
+  A more conservative estimate of the line flux is made by assuming that a power-law
+  continuum is at least a good approximation to the continuum emission for a narrower
+  30-100 keV energy range. With this limitation, the measured line flux is (1.9+/-0.9)\texttimes{}10-5
+  photons cm-2 s-1, with the detection still at the 3.4 sigma significance level.
+  We suggest that together with the Compton Gamma Ray Observatory/COMPTEL measurement
+  of the 44Ca line at 1157 keV of (3.3+/-0.6)\texttimes{}10-5 photons cm-2 s-1, a
+  flux for all three lines of (2.5+/-1.0)\texttimes{}10-5 photons cm-2 s-1 for Cas
+  A can be adopted. This implies an initial 44Ti mass of (0.8-2.5)\texttimes{}10-4
+  Msolar.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...560L..79V
+arxivurl: http://arxiv.org/abs/astro-ph/0107468
+author: Vink, J. and Laming, J. M. and Kaastra, J. S. and Bleeker, J. A. M. and Bloemen,
+  H. and Oberlack, U.
+author_list:
+- family: Vink
+  given: J.
+- family: Laming
+  given: J. M.
+- family: Kaastra
+  given: J. S.
+- family: Bleeker
+  given: J. A. M.
+- family: Bloemen
+  given: H.
+- family: Oberlack
+  given: U.
+date-added: 2017-08-11 01:07:49 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/324172
+eprint: astro-ph/0107468
+journal: \apjl
+keywords: 'Gamma Rays: Observations, ISM: Individual: Name: Cassiopeia A, Nuclear
+  Reactions, Nucleosynthesis, Abundances, ISM: Supernova Remnants, X-Rays: ISM'
+month: October
+pages: L79-L82
+papis_id: 07796bb9056ea229971084c0373b91c9
+ref: vink.j.2001
+title: Detection of the 67.9 and 78.4 keV Lines Associated with the Radioactive Decay
+  of $^44$Ti in Cassiopeia A
+type: article
+volume: '560'
+year: '2001'

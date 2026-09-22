@@ -1,0 +1,50 @@
+abstract: We study the late evolution of solar metallicity stars in the transition
+  region between white dwarf formation and core collapse. This includes the super-asymptotic
+  giant branch (super-AGB, SAGB) stars, which ignite carbon burning and form an oxygen-neon
+  (ONe) core. SAGB star cores may grow to the Chandrasekhar mass because of continued
+  H- and He-shell burning, ending as core-collapse supernovae. From stellar evolution
+  models we find that the initial mass range for SAGB evolution is 7.5-9.25 M\&sun;.
+  We perform calculations with three different stellar evolution codes to judge the
+  robustness of our results. The mass range significantly depends on the treatment
+  of semiconvective mixing and convective overshooting. To consider the effect of
+  a large number of thermal pulses, as expected in SAGB stars, we construct synthetic
+  SAGB models that are calibrated through stellar evolution simulations. The synthetic
+  model enables us to compute the evolution of the main properties of SAGB stars from
+  the onset of thermal pulses until the core reaches the Chandrasekhar mass or is
+  uncovered by the stellar wind. Thereby, we differentiate the stellar initial mass
+  ranges that produce ONe WDs from that leading to electron-capture SNe. The latter
+  is found to be 9.0-9.25 M\&sun; for our fiducial model, implying that electron-capture
+  SNe would constitute about 4\% of all SNe in the local universe. The error in this
+  determination due to uncertainties in the third dredge-up efficiency and AGB mass-loss
+  rate could lead to about a doubling of the number of electron-capture SNe, which
+  provides a firm upper limit to their contribution to all supernovae of ~20\%.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...675..614P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.4643
+author: Poelarends, A. J. T. and Herwig, F. and Langer, N. and Heger, A.
+author_list:
+- family: Poelarends
+  given: A. J. T.
+- family: Herwig
+  given: F.
+- family: Langer
+  given: N.
+- family: Heger
+  given: A.
+date-added: 2017-08-10 15:02:45 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/520872
+eid: 614-625
+eprint: '0705.4643'
+journal: \apj
+keywords: 'stars: AGB and post-AGB, stars: evolution, stars: neutron, supernovae:
+  general'
+month: March
+pages: 614--625
+papis_id: cac7695631aad1eed79a900ad754edf6
+ref: poelarends.a.2008
+title: The Supernova Channel of Super-AGB Stars
+type: article
+volume: '675'
+year: '2008'

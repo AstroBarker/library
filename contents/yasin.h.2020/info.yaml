@@ -1,0 +1,42 @@
+abstract: We investigate the impact of different properties of the nuclear         equation
+  of state in core-collapse supernovae, with a focus on         the proto-neutron-star
+  contraction and its impact on the shock         evolution. To this end, we introduce
+  a range of equations of         state that vary the nucleon effective mass, incompressibility,         symmetry
+  energy, and nuclear saturation point. This allows us to         point to the different
+  effects in changing these properties from         the Lattimer and Swesty to the
+  Shen et al. equations of state,         the two most commonly used equations of
+  state in simulations. In         particular, we trace the contraction behavior to
+  the effective         mass, which determines the thermal nucleonic contributions
+  to         the equation of state. Larger effective masses lead to lower         pressures
+  at nuclear densities and a lower thermal index. This         results in a more rapid
+  contraction of the proto-neutron star         and consequently higher neutrino energies,
+  which aids the shock         evolution to a faster explosion.
+archiveprefix: arXiv
+author: Yasin, H. and Schäfer, S. and Arcones, A. and Schwenk, A.
+author_list:
+- family: Yasin
+  given: H.
+- family: Schäfer
+  given: S.
+- family: Arcones
+  given: A.
+- family: Schwenk
+  given: A.
+doi: 10.1103/PhysRevLett.124.092701
+eid: 092701
+eprint: '1812.02002'
+groups: Nuclear EOS
+journal: \prl
+keywords: Nuclear Theory, Astrophysics - High Energy Astrophysical Phenomena, Nuclear
+  Experiment
+month: March
+number: '9'
+pages: 092701
+papis_id: 32d23bda711424c5cc827e45a2971047
+primaryclass: nucl-th
+ref: yasin.h.2020
+title: Equation of State Effects in Core-Collapse Supernovae
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2020PhRvL.124i2701Y
+volume: '124'
+year: '2020'

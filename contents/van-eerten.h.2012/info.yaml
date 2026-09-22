@@ -1,0 +1,48 @@
+abstract: We present a powerful new tool for fitting broadband gamma-ray burst afterglow
+  data, which can be used to determine the burst explosion parameters and the synchrotron
+  radiation parameters. By making use of scale invariance between relativistic jets
+  of different energies and different circumburst medium densities, and by capturing
+  the output of high-resolution two-dimensional relativistic hydrodynamical (RHD)
+  jet simulations in a concise summary, the jet dynamics are generated quickly. Our
+  method calculates the full light curves and spectra using linear radiative transfer
+  sufficiently fast to allow for a direct iterative fit of RHD simulations to the
+  data. The fit properly accounts for jet features that so far have not been successfully
+  modeled analytically, such as jet decollimation, inhomogeneity along the shock front,
+  and the transitory phase between the early-time relativistic and late-time non-relativistic
+  outflow. As a first application of the model we simultaneously fit the radio, X-ray,
+  and optical data of GRB 990510. We find not only noticeable differences between
+  our findings for the explosion and radiation parameters and those of earlier authors,
+  but also an improved model fit when we include the observer angle in the data fit.
+  The fit method will be made freely available on request and online at http://cosmo.nyu.edu/afterglowlibrary.
+  In addition to data fitting, the software tools can also be used to quickly generate
+  a light curve or spectrum for arbitrary observer position, jet, and radiation parameters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749...44V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.5089
+author: van Eerten, H. and van der Horst, A. and MacFadyen, A.
+author_list:
+- family: van Eerten
+  given: H.
+- family: van der Horst
+  given: A.
+- family: MacFadyen
+  given: A.
+date-added: 2017-08-11 01:55:29 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/1/44
+eid: '44'
+eprint: '1110.5089'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, methods: data analysis, relativistic
+  processes, shock waves'
+month: April
+pages: '44'
+papis_id: 44aa9270265a9c5f85507c5de8daebd9
+primaryclass: astro-ph.HE
+ref: van_eerten.h.2012
+title: Gamma-Ray Burst Afterglow Broadband Fitting Based Directly on Hydrodynamics
+  Simulations
+type: article
+volume: '749'
+year: '2012'

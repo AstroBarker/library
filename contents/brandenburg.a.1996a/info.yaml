@@ -1,0 +1,33 @@
+abstract: 'Dynamo-generated turbulence is simulated in a modified shearing box approximation
+  that removes scale invariance and allows finite accretion rates for a given distance
+  from the central object. The effective Shakura-Sunyaev viscosity parameter, alpha
+  SS, is estimated in three different ways using the resulting mass accretion rate,
+  the heating rate, and the horizontal components of the Maxwell and Reynolds stress
+  tensors. The results are still resolution dependent: doubling the resolution leads
+  to 1.4--1.6 times larger values for the viscosity parameter. For 63 x 127 x 64 meshpoints
+  we find that alpha SS = 0.007.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...458L..45B
+author: Brandenburg, A. and Nordlund, A. and Stein, R. F. and Torkelsson, U.
+author_list:
+- family: Brandenburg
+  given: A.
+- family: Nordlund
+  given: A.
+- family: Stein
+  given: R. F.
+- family: Torkelsson
+  given: U.
+date-added: 2017-08-11 00:08:21 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/309913
+journal: \apjl
+keywords: 'ACCRETION, ACCRETION DISKS, HYDRODYNAMICS, MAGNETOHYDRODYNAMICS: MHD, TURBULENCE'
+month: February
+pages: L45
+papis_id: 1f1822accfbbbd7b1bda39550e188e50
+ref: brandenburg.a.1996a
+title: The Disk Accretion Rate for Dynamo-generated Turbulence
+type: article
+volume: '458'
+year: '1996'

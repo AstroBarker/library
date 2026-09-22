@@ -1,0 +1,41 @@
+abstract: 'We describe an implicit general relativistic hydrodynamics code. The evolution
+  equations are formulated in comoving coordinates. A conservative finite differencing
+  of the Einstein equations is outlined, and artificial viscosity and numerical diffusion
+  are discussed. The time integration is performed with AGILE, an implicit solver
+  for stiff algebrodifferential equations on a dynamical adaptive grid. We extend
+  the adaptive grid technique, known from nonrelativistic hydrodynamics, to the general
+  relativistic application and identify it with the concept of shift vectors in a
+  3+1 decomposition. The adaptive grid minimizes the number of required computational
+  zones without compromising the resolution in physically important regions. Thus,
+  the computational effort is greatly reduced when the zones are subject to computationally
+  expensive additional processes, such as Boltzmann radiation transport or a nuclear
+  reaction network. We present accurate results in the standard tests for supernova
+  simulations: Sedov''s point-blast explosion, the nonrelativistic and relativistic
+  shock tube, the Oppenheimer-Snyder dust collapse, and homologous collapse.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJS..141..229L
+arxivurl: http://arxiv.org/abs/astro-ph/0106539
+author: Liebendörfer, M. and Rosswog, S. and Thielemann, F.-K.
+author_list:
+- family: Liebendörfer
+  given: M.
+- family: Rosswog
+  given: S.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-10 22:41:38 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/339872
+eprint: astro-ph/0106539
+journal: \apjs
+keywords: 'Gravitation, Hydrodynamics, Methods: Numerical, Relativity, Shock Waves,
+  Stars: Supernovae: General'
+month: July
+pages: 229--246
+papis_id: ff73cc5bf11c89d057e9cafb06139fc1
+ref: liebendorfer.m.2002
+title: An Adaptive Grid, Implicit Code for Spherically Symmetric, General Relativistic
+  Hydrodynamics in Comoving Coordinates
+type: article
+volume: '141'
+year: '2002'

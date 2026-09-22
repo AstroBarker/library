@@ -1,0 +1,56 @@
+abstract: To constrain the nature of the very first stars, we investigate the collapse
+  and fragmentation of primordial, metal-free gas clouds. We explore the physics of
+  primordial star formation by means of three-dimensional simulations of the dark
+  matter and gas components, using smoothed particle hydrodynamics, under a wide range
+  of initial conditions, including the initial spin, the total mass of the halo, the
+  redshift of virialization, the power spectrum of the DM fluctuations, the presence
+  of HD cooling, and the number of particles employed in the simulation. We find characteristic
+  values for the temperature, T~a few 100 K, and the density, n~103-104 cm-3, characterizing
+  the gas at the end of the initial free-fall phase. These values are rather insensitive
+  to the initial conditions. The corresponding Jeans mass is MJ~103 Msolar. The existence
+  of these characteristic values has a robust explanation in the microphysics of H2
+  cooling, connected to the minimum temperature that can be reached with the H2 coolant,
+  and to the critical density at which the transition takes place between levels being
+  populated according to non-LTE (NLTE), and according to LTE. In all cases, the gas
+  dissipatively settles into an irregular, central configuration that has a filamentary
+  and knotty appearance. The fluid regions with the highest densities are the first
+  to undergo runaway collapse due to gravitational instability, and to form clumps
+  with initial masses ~103 Msolar, close to the characteristic Jeans scale. These
+  results suggest that the first stars might have been quite massive, possibly even
+  very massive with M\textasteriskcentered>~100 Msolar. After a gas element has undergone
+  runaway collapse, and has reached densities in excess of 108 cm-3, a sink particle
+  is created. This procedure allows us to follow the evolution of the overall system
+  beyond the point where the first nonlinear region would otherwise force the calculation
+  to a halt. These later evolutionary stages, during which the clumps grow in mass
+  due to accretion and merging with other clumps, are quite sensitive to the initial
+  conditions. The key process in building up very massive clumps, with masses up to
+  a few times 104 Msolar, is merging between clumps. Since the merging rate sensitively
+  depends on the density of the gas, halos with the highest degree of central concentration
+  are able to assemble the most massive clumps. Among these are halos with a low spin
+  (lambda~=0.01), and with DM fluctuations imprinted according to a white-noise spectrum.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...564...23B
+arxivurl: http://arxiv.org/abs/astro-ph/0102503
+author: Bromm, V. and Coppi, P. S. and Larson, R. B.
+author_list:
+- family: Bromm
+  given: V.
+- family: Coppi
+  given: P. S.
+- family: Larson
+  given: R. B.
+date-added: 2017-08-10 22:21:06 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/323947
+eprint: astro-ph/0102503
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, Galaxies: Formation, Hydrodynamics,
+  Stars: Formation'
+month: January
+pages: 23--51
+papis_id: e42df28517578751c9fa4d7c0d8d8e12
+ref: bromm.v.2002
+title: The Formation of the First Stars. I. The Primordial Star-forming Cloud
+type: article
+volume: '564'
+year: '2002'

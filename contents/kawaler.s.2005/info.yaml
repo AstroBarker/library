@@ -1,0 +1,50 @@
+abstract: Observations of the rotation rates of horizontal branch (HB) stars show
+  puzzling systematics. In particular, cooler HB stars often show rapid rotation (with
+  velocities in excess of 10 km s-1), while hotter HB stars (those with Teff in excess
+  of 11,000 K) typically show much smaller rotation velocities of 8 km s-1 or less.
+  Simple models of angular momentum evolution of stars from the main sequence through
+  the red giant branch fail to explain these effects. Assuming solid body rotation
+  throughout produces models that rotate much too slowly. On the other hand, assuming
+  local conservation of angular momentum, but with solid body rotation in the convective
+  regions, produces HB models that also rotate too slowly at all Teff but preserve
+  a rapidly rotating core. In these cases, the observed angular velocities of HB stars
+  require that some of the angular momentum stored in the core reaches the surface.
+  Models that assume constant specific angular momentum in the surface convection
+  zone have faster rotation in the envelope; while the predictions of these models
+  match the observed rotation rates of the cooler HB stars, hot HB stars rotate more
+  slowly than the models. Thus, while there is not yet a coherent explanation of the
+  trends of rotation on the HB, evolutionary models in all cases preserve a rapidly
+  rotating core. To test the idea that HB stars contain such a core, one can appeal
+  to detailed computations of trace element abundances and rotational mixing. However,
+  a more direct probe is available to test these limiting cases of angular momentum
+  evolution. Some of the hottest horizontal branch stars are members of the pulsating
+  sdB class. They frequently show rich pulsation spectra characteristic of nonradially
+  pulsating stars. Thus, their pulsations probe the internal rotation of these stars
+  and should show the effects of rapid rotation in their cores. Using models of sdB
+  stars that include angular momentum evolution, we explore this possibility and show
+  that some of the sdB pulsators may indeed have rapidly rotating cores.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...621..432K
+arxivurl: http://arxiv.org/abs/astro-ph/0411314
+author: Kawaler, S. D. and Hostler, S. R.
+author_list:
+- family: Kawaler
+  given: S. D.
+- family: Hostler
+  given: S. R.
+date-added: 2017-08-10 19:09:57 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427403
+eprint: astro-ph/0411314
+journal: \apj
+keywords: 'Stars: Horizontal-Branch, Stars: Oscillations, Stars: Rotation, Stars:
+  Variables: Other, Stars: Subdwarfs'
+month: March
+pages: 432--444
+papis_id: 90e0a20393f0e38206fcd6f0d7c4f3ee
+ref: kawaler.s.2005
+title: 'Internal Rotation of Subdwarf B Stars: Limiting Cases and Asteroseismological
+  Consequences'
+type: article
+volume: '621'
+year: '2005'

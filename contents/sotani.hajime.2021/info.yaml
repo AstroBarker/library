@@ -1,0 +1,36 @@
+abstract: Using the numerical simulation data for two-dimensional core-collapse supernova,
+  we examine the protoneutron star (PNS) asteroseismology with the relativistic Cowling
+  approximation. As shown in the previous study, the gravitational wave signals appearing
+  in the numerical simulation can be well identified with the gravity (fundamental)
+  oscillation in the early (later) phase before (after) the avoided crossing between
+  the gravity and fundamental oscillations. On the other hand, the time evolution
+  of supernova gravitational waves strongly depends on the PNS models, such as the
+  progenitor mass and the equation of state for dense matter. Nevertheless, we find
+  that the fundamental and gravity mode frequencies according to the gravitational
+  wave signals appearing in the numerical simulations can be expressed as a function
+  of the protoneutron star average density independently of the PNS models. Using
+  the average density, we derive the empirical formula for supernova gravitational
+  wave frequency. In addition, we confirm that the dependence of the PNS surface density
+  on the PNS average density is almost independent of the PNS models and also discuss
+  how the different treatment of the non-uniform matter in the equation of state affects
+  the observables.
+archiveprefix: arXiv
+author: Sotani, Hajime and Takiwaki, Tomoya and Togashi, Hajime
+author_list:
+- family: Sotani
+  given: Hajime
+- family: Takiwaki
+  given: Tomoya
+- family: Togashi
+  given: Hajime
+eprint: '2110.03131'
+file: :sotani\_2021 - Universal Relation for Supernova Gravitational Waves.pdf:PDF
+groups: Gravitational Waves
+keywords: astro-ph.HE
+month: October
+papis_id: 5ee3acffab2dec1aeaa40495c8c3e584
+primaryclass: astro-ph.HE
+ref: sotani.hajime.2021
+title: Universal relation for supernova gravitational waves
+type: article
+year: '2021'

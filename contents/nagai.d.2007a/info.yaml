@@ -1,0 +1,44 @@
+abstract: X-ray observations of galaxy clusters potentially provide powerful cosmological
+  probes if systematics due to our incomplete knowledge of the ICM physics is understood
+  and controlled. In this paper we present mock Chandra analyses of cosmological cluster
+  simulations and assess X-ray measurements of galaxy cluster properties using a model
+  and procedure essentially identical to that used in real data analysis. We show
+  that reconstruction of three-dimensional ICM density and temperature profiles is
+  excellent for relaxed clusters, but still reasonably accurate for unrelaxed systems.
+  The total ICM mass is measured quite accurately (<~6\%) in all clusters, while the
+  hydrostatic estimate of the gravitationally bound mass is biased low by about 5\%-20\%
+  through the virial region, primarily due to additional pressure support provided
+  by subsonic bulk motions in the ICM, ubiquitous in our simulations even in relaxed
+  systems. Gas fraction determinations are therefore biased high; the bias increases
+  toward cluster outskirts and depends sensitively on its dynamical state, but we
+  do not observe significant trends of the bias with cluster mass or redshift. We
+  also find that different average ICM temperatures, such as the X-ray spectroscopic
+  Tspec and gas-mass-weighted Tmg, are related to each other by a constant factor
+  with a relatively small object-to-object scatter and no systematic trend with mass,
+  redshift, or the dynamical state of clusters. We briefly discuss direct applications
+  of our results for different cluster-based cosmological tests.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...655...98N
+arxivurl: http://arxiv.org/abs/astro-ph/0609247
+author: Nagai, D. and Vikhlinin, A. and Kravtsov, A. V.
+author_list:
+- family: Nagai
+  given: D.
+- family: Vikhlinin
+  given: A.
+- family: Kravtsov
+  given: A. V.
+date-added: 2017-08-11 05:15:30 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/509868
+eprint: astro-ph/0609247
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Methods: Numerical'
+month: January
+pages: 98--108
+papis_id: dbc83c31e3f80f569b9c200b30870079
+ref: nagai.d.2007a
+title: Testing X-Ray Measurements of Galaxy Clusters with Cosmological Simulations
+type: article
+volume: '655'
+year: '2007'

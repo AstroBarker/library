@@ -1,0 +1,39 @@
+abstract: Multidimensional shock-capturing numerical schemes for special relativistic
+  hydrodynamics (RHD) are computationally more expensive than their correspondent
+  Euler versions, due to the nonlinear relations between conservative and primitive
+  variables and to the consequent complexity of the Jacobian matrices (needed for
+  the spectral decomposition in most of the approximate Riemann solvers of common
+  use). Here an efficient and easy-to-implement three-dimensional (3-D) shock-capturing
+  scheme for ideal RHD is presented. Based on the algorithms developed by P. Londrillo
+  \& L. Del Zanna (2000, {ApJ}, 530, 508) for the non-relativistic magnetohydrodynamic
+  (MHD) case, and having in mind its relativistic MHD extension (to appear in a forthcoming
+  paper), the scheme uses high order (third) Convex Essentially Non-Oscillatory (CENO)
+  finite difference interpolation routines and central-type averaged Riemann solvers,
+  which do not make use of time-consuming characteristic decomposition. The scheme
+  is very efficient and robust, and it gives results comparable to those obtained
+  with more sophisticated algorithms, even in ultrarelativistic multidimensional test
+  problems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...390.1177D
+arxivurl: http://arxiv.org/abs/astro-ph/0205290
+author: Del Zanna, L. and Bucciantini, N.
+author_list:
+- family: Del Zanna
+  given: L.
+- family: Bucciantini
+  given: N.
+date-added: 2017-08-10 20:02:19 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020776
+eprint: astro-ph/0205290
+journal: \aap
+keywords: 'hydrodynamics, relativity, shock waves, methods: numerical'
+month: August
+pages: 1177--1186
+papis_id: e3e28438c12eb2a6e1df106eba0d1be0
+ref: del_zanna.l.2002
+title: An efficient shock-capturing central-type scheme for multidimensional relativistic
+  flows. I. Hydrodynamics
+type: article
+volume: '390'
+year: '2002'

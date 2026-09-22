@@ -1,0 +1,29 @@
+abstract: An efficient algorithm for solving Poisson's equation in two and three spatial
+  dimensions is discussed. The algorithm, which is described in detail, is based on
+  the integral form of Poisson's equation and utilizes spherical coordinates and an
+  expansion into spherical harmonics. The solver can be applied to and works well
+  for all problems for which the use of spherical coordinates is appropriate. We also
+  briefly discuss the implementation of the algorithm into hydrodynamic codes which
+  are based on a conservative finite-difference scheme.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995CoPhC..89...45M
+arxivurl: http://arxiv.org/abs/astro-ph/9402070
+author: Müller, E. and Steinmetz, M.
+author_list:
+- family: Müller
+  given: E.
+- family: Steinmetz
+  given: M.
+date-added: 2017-08-10 13:59:00 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1016/0010-4655(94)00185-5
+eprint: astro-ph/9402070
+journal: Computer Physics Communications
+month: August
+pages: 45--58
+papis_id: d08b4465664f1560e5af9f710f9b671a
+ref: muller.e.1995
+title: Simulating self-gravitating hydrodynamic flows
+type: article
+volume: '89'
+year: '1995'

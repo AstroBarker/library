@@ -1,0 +1,46 @@
+abstract: We present numerical results on two- (2D) and three-dimensional (3D) hydrodynamic
+  core-collapse simulations of an 11.2 M \&sun; star. By changing numerical resolutions
+  and seed perturbations systematically, we study how the postbounce dynamics are
+  different in 2D and 3D. The calculations were performed with an energy-dependent
+  treatment of the neutrino transport based on the isotropic diffusion source approximation
+  scheme, which we have updated to achieve a very high computational efficiency. All
+  of the computed models in this work, including nine 3D models and fifteen 2D models,
+  exhibit the revival of the stalled bounce shock, leading to the possibility of explosion.
+  All of them are driven by the neutrino-heating mechanism, which is fostered by neutrino-driven
+  convection and the standing-accretion-shock instability. Reflecting the stochastic
+  nature of multi-dimensional (multi-D) neutrino-driven explosions, the blast morphology
+  changes from model to model. However, we find that the final fate of the multi-D
+  models, whether an explosion is obtained or not, is little affected by the explosion
+  stochasticity. In agreement with some previous studies, higher numerical resolutions
+  lead to slower onset of the shock revival in both 2D and 3D. Based on the self-consistent
+  supernova models leading to the possibility of explosions, our results systematically
+  show that the revived shock expands more energetically in 2D than in 3D.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...786...83T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.5755
+author: Takiwaki, T. and Kotake, K. and Suwa, Y.
+author_list:
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+- family: Suwa
+  given: Y.
+date-added: 2017-08-10 14:41:18 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/786/2/83
+eid: '83'
+eprint: '1308.5755'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: May
+pages: '83'
+papis_id: af35a7f803a093f96360bfc21b74985b
+primaryclass: astro-ph.SR
+ref: takiwaki.t.2014
+title: A Comparison of Two- and Three-dimensional Neutrino-hydrodynamics Simulations
+  of Core-collapse Supernovae
+type: article
+volume: '786'
+year: '2014'

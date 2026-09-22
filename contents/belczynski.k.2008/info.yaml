@@ -1,0 +1,53 @@
+abstract: We present a comprehensive description of the population synthesis code
+  StarTrack. The original code has been significantly modified and updated. Special
+  emphasis is placed here on processes leading to the formation and further evolution
+  of compact objects (white dwarfs, neutron stars, and black holes). Both single and
+  binary star populations are considered. The code now incorporates detailed calculations
+  of all mass transfer phases, a full implementation of orbital evolution due to tides,
+  as well as the most recent estimates of magnetic braking. This updated version of
+  StarTrack can be used for a wide variety of problems, with relevance to observations
+  with many current and planned observatories, e.g., studies of X-ray binaries (Chandra,
+  XMM-Newton), gravitational radiation sources (LIGO, LISA), and gamma-ray burst progenitors
+  (HETE-II, Swift). The code has already been used in studies of Galactic and extragalactic
+  X-ray binary populations, black holes in young star clusters, Type Ia supernova
+  progenitors, and double compact object populations. Here we describe in detail the
+  input physics, we present the code calibration and tests, and we outline our current
+  studies in the context of X-ray binary populations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..174..223B
+arxivurl: http://arxiv.org/abs/astro-ph/0511811
+author: Belczynski, K. and Kalogera, V. and Rasio, F. A. and Taam, R. E. and Zezas,
+  A. and Bulik, T. and Maccarone, T. J. and Ivanova, N.
+author_list:
+- family: Belczynski
+  given: K.
+- family: Kalogera
+  given: V.
+- family: Rasio
+  given: F. A.
+- family: Taam
+  given: R. E.
+- family: Zezas
+  given: A.
+- family: Bulik
+  given: T.
+- family: Maccarone
+  given: T. J.
+- family: Ivanova
+  given: N.
+date-added: 2017-08-10 18:06:02 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/521026
+eid: 223-260
+eprint: astro-ph/0511811
+journal: \apjs
+keywords: 'binaries: close, black hole physics, stars: evolution, stars: neutron,
+  white dwarfs, X-rays: binaries'
+month: January
+pages: 223--260
+papis_id: 360a730dfbe992df0c6f3bd7baaf591b
+ref: belczynski.k.2008
+title: Compact Object Modeling with the StarTrack Population Synthesis Code
+type: article
+volume: '174'
+year: '2008'

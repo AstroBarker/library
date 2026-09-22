@@ -1,0 +1,58 @@
+abstract: Performing two-dimensional hydrodynamic simulations including a detailed
+  treatment of the equation of state of the stellar plasma and for the neutrino transport
+  and interactions, we investigate here the interplay between different kinds of non-radial
+  hydrodynamic instabilities that can play a role during the postbounce accretion
+  phase of collapsing stellar cores. The convective mode of instability, which is
+  driven by the negative entropy gradients caused by neutrino heating or by variations
+  in the shock strength in transient phases of shock expansion and contraction, can
+  be identified clearly by the development of typical Rayleigh-Taylor mushrooms. However,
+  in those cases where the gas in the postshock region is rapidly advected towards
+  the gain radius, the growth of such a buoyancy instability can be suppressed. In
+  this situation the shock and postshock flow can nevertheless develop non-radial
+  asymmetry with an oscillatory growth in the amplitude. This phenomenon has been
+  termed "standing (or spherical) accretion shock instability" (SASI). It is shown
+  here that the SASI oscillations can trigger convective instability, and like the
+  latter, they lead to an increase in the average shock radius and in the mass of
+  the gain layer. Both hydrodynamic instabilities in combination stretch the advection
+  time of matter accreted through the neutrino-heating layer and thus enhance the
+  neutrino energy deposition in support of the neutrino-driven explosion mechanism.
+  A rapidly contracting and more compact nascent neutron star turns out to be favorable
+  for explosions, because the accretion luminosity and neutrino heating are greater
+  and the growth rate of the SASI is higher. Moreover, we show that the oscillation
+  period of the SASI observed in our simulations agrees with the one estimated for
+  the advective-acoustic cycle (AAC), in which perturbations are carried by the accretion
+  flow from the shock to the neutron star and pressure waves close an amplifying global
+  feedback loop. A variety of other features in our models, as well as differences
+  in their behavior, can also be understood on the basis of the AAC hypothesis. The
+  interpretation of the SASI in our simulations as a purely acoustic phenomenon, however,
+  appears difficult.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...477..931S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.3001
+author: Scheck, L. and Janka, H.-T. and Foglizzo, T. and Kifonidis, K.
+author_list:
+- family: Scheck
+  given: L.
+- family: Janka
+  given: H.-T.
+- family: Foglizzo
+  given: T.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-10 14:35:52 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1051/0004-6361:20077701
+eprint: '0704.3001'
+journal: \aap
+keywords: 'hydrodynamics, instabilities, shock waves, neutrinos, stars: supernovae:
+  general'
+month: January
+pages: 931--952
+papis_id: 4052248dbacdfa79972a31f48ecfceba
+ref: scheck.l.2008
+title: Multidimensional supernova simulations with approximative neutrino transport.
+  II. Convection and the advective-acoustic cycle in the supernova core
+type: article
+volume: '477'
+year: '2008'

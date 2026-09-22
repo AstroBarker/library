@@ -1,0 +1,47 @@
+abstract: We analyze the sensitivity of the flame propagation in a Chandrasekhar mass
+  white dwarf (WD) to initial conditions during the subsonic burning phase (deflagration)
+  using two-dimensional simulations of the full WD. Results are presented for a wide
+  variety of initial flame distributions, including central and off-center, single-point
+  and multipoint, and simultaneous and nonsimultaneous ignitions. We also examine
+  the effects of the convective velocity field that should exist at the core before
+  thermonuclear runaway. Our main conclusion suggests that the amounts of burning
+  products and their distributions through the deflagration phase are extremely sensitive
+  to initial conditions, much more sensitive than those presented in previous studies.
+  In particular, we find that more complex configurations, such as even slightly off-center
+  ignitions, nonsimultaneous multipoint ignitions, and velocity fields, tend to favor
+  solutions in which individual plumes rise faster than the bulk of a typical Rayleigh-Taylor-driven,
+  unstable burning front. The difference from previous calculations for an octant
+  of a WD may be understood as a consequence of the suppression of the l=1 and 2 modes.
+  Our results are consistent with full-star three-dimensional calculations by the
+  Chicago group. Moreover, the total amount of nuclear burning during the phase of
+  subsonic burning depends sensitively on the initial conditions and may cause the
+  WD to become unbound or to pulsate. The latter case opens (again) a new parameter
+  space for the Chandrasekhar WD problem. We discuss the implications of the results
+  on current models for Type Ia supernovae and limitations imposed by the two-dimensional
+  nature of our study and suggest directions for further study.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...632..443L
+arxivurl: http://arxiv.org/abs/astro-ph/0504299
+author: Livne, E. and Asida, S. M. and Höflich, P.
+author_list:
+- family: Livne
+  given: E.
+- family: Asida
+  given: S. M.
+- family: Höflich
+  given: P.
+date-added: 2017-08-10 21:12:13 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/432975
+eprint: astro-ph/0504299
+journal: \apj
+keywords: 'Hydrodynamics, Stars: Supernovae: General'
+month: October
+pages: 443--449
+papis_id: 867193f030de0d9157a8d7cda37f8389
+ref: livne.e.2005
+title: On the Sensitivity of Deflagrations in a Chandrasekhar Mass White Dwarf to
+  Initial Conditions
+type: article
+volume: '632'
+year: '2005'

@@ -1,0 +1,43 @@
+abstract: Models of neutrino-driven core-collapse supernova explosions have matured
+  considerably in recent years. Explosions of low-mass progenitors can routinely be
+  simulated in 1D, 2D, and 3D. Nucleosynthesis calculations indicate that these supernovae
+  could be contributors of some lighter neutron-rich elements beyond iron. The explosion
+  mechanism of more massive stars remains under investigation, although first 3D models
+  of neutrino-driven explosions employing multi-group neutrino transport have become
+  available. Together with earlier 2D models and more simplified 3D simulations, these
+  have elucidated the interplay between neutrino heating and hydrodynamic instabilities
+  in the post-shock region that is essential for shock revival. However, some physical
+  ingredients may still need to be added/improved before simulations can robustly
+  explain supernova explosions over a wide range of progenitors. Solutions recently
+  suggested in the literature include uncertainties in the neutrino rates, rotation,
+  and seed perturbations from convective shell burning. We review the implications
+  of 3D simulations of shell burning in supernova progenitors for the `perturbations-aided
+  neutrino-driven mechanism,' whose efficacy is illustrated by the first successful
+  multi-group neutrino hydrodynamics simulation of an 18 solar mass progenitor with
+  3D initial conditions. We conclude with speculations about the impact of 3D effects
+  on the structure of massive stars through convective boundary mixing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016PASA...33...48M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1608.03274
+author: Müller, B.
+author_list:
+- family: Müller
+  given: B.
+date-added: 2017-08-10 14:01:37 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1017/pasa.2016.40
+eid: e048
+eprint: '1608.03274'
+journal: \pasa
+keywords: 'hydrodynamics, instabilities, neutrinos, stars: evolution, stars: massive,
+  supernovae: general'
+month: September
+pages: e048
+papis_id: d9835b8af038b533f036d125a47f3ec2
+primaryclass: astro-ph.SR
+ref: muller.b.2016b
+title: The Status of Multi-Dimensional Core-Collapse Supernova Models
+type: article
+volume: '33'
+year: '2016'

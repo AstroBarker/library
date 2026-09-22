@@ -1,0 +1,43 @@
+abstract: Low-mass X-ray binaries (LMXBs) that show thermonuclear bursts are ideal
+  sources for constraining the equation of state of neutron star matter. The lack
+  of independent distance measurements for most of these sources, however, prevent
+  a systematic exploration of the masses and radii of the neutron stars, hence limiting
+  the equation-of-state studies. We present here a measurement of the distance to
+  the LMXB 4U 1608-52 that is based on the study of the interstellar extinction toward
+  the source. We first model the individual absorption edges of the elements Ne and
+  Mg in the high-resolution X-ray spectrum obtained with XMM-Newton. We then combine
+  this information with a measurement of the run of reddening with distance using
+  red clump stars and determine a minimum distance to the source of 3.9 kpc, with
+  a most probable value of 5.8 kpc. Finally, we analyze time-resolved X-ray spectra
+  of Type I X-ray bursts observed from this source to measure the mass and the radius
+  of the neutron star. We find a mass of M = 1.74 $\pm$ 0.14 M sun and a radius of
+  R = 9.3 \$\pm\$ 1.0 km, respectively. This mass and radius can be achieved by several
+  multi-nucleon equations of state.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...712..964G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3979
+author: Güver, T. and Özel, F. and Cabrera-Lavers, A. and Wroblewski, P.
+author_list:
+- family: Güver
+  given: T.
+- family: Özel
+  given: F.
+- family: Cabrera-Lavers
+  given: A.
+- family: Wroblewski
+  given: P.
+date-added: 2017-08-10 23:35:07 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/712/2/964
+eprint: '0811.3979'
+journal: \apj
+keywords: 'stars: neutron, X-rays: individual: 4U 1608{\ndash}52'
+month: April
+pages: 964--973
+papis_id: 8fe604ebfe213409355174cca07b8d1e
+ref: guver.t.2010
+title: The Distance, Mass, and Radius of the Neutron Star in 4U 1608-52
+type: article
+volume: '712'
+year: '2010'

@@ -1,0 +1,64 @@
+abstract: Black hole-torus systems from compact binary mergers are possible engines
+  for gamma-ray bursts (GRBs). During the early evolution of the post-merger remnant,
+  the state of the torus is determined by a combination of neutrino cooling and magnetically-driven
+  heating processes, so realistic models must include both effects. In this paper,
+  we study the post-merger evolution of a magnetized black hole-neutron star binary
+  system using the Spectral Einstein Code (SpEC) from an initial post-merger state
+  provided by previous numerical relativity simulations. We use a finite-temperature
+  nuclear equation of state and incorporate neutrino effects in a leakage approximation.
+  To achieve the needed accuracy, we introduce improvements to SpEC's implementation
+  of general-relativistic magnetohydrodynamics (MHD), including the use of cubed-sphere
+  multipatch grids and an improved method for dealing with supersonic accretion flows
+  where primitive variable recovery is difficult. We find that a seed magnetic field
+  triggers a sustained source of heating, but its thermal effects are largely cancelled
+  by the accretion and spreading of the torus from MHD-related angular momentum transport.
+  The neutrino luminosity peaks at the start of the simulation, and then drops significantly
+  over the first 20\,ms but in roughly the same way for magnetized and nonmagnetized
+  disks. The heating rate and disk's luminosity decrease much more slowly thereafter.
+  These features of the evolution are insensitive to grid structure and resolution,
+  formulation of the MHD equations, and seed field strength, although turbulent effects
+  are not fully converged
+adscomment: 17 pages, 18 figures
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv171007423N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.07423
+author: Nouri, F. H. and Duez, M. D. and Foucart, F. and Deaton, M. B. and Haas, R.
+  and Haddadi, M. and Kidder, L. E. and Ott, C. D. and Pfeiffer, H. P. and Scheel,
+  M. A. and Szilagyi, B.
+author_list:
+- family: Nouri
+  given: F. H.
+- family: Duez
+  given: M. D.
+- family: Foucart
+  given: F.
+- family: Deaton
+  given: M. B.
+- family: Haas
+  given: R.
+- family: Haddadi
+  given: M.
+- family: Kidder
+  given: L. E.
+- family: Ott
+  given: C. D.
+- family: Pfeiffer
+  given: H. P.
+- family: Scheel
+  given: M. A.
+- family: Szilagyi
+  given: B.
+date-added: 2017-10-23 15:42:44 +0000
+date-modified: 2017-12-05 16:36:24 +0000
+eprint: '1710.07423'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena
+month: October
+papis_id: eef815724055575128333460656f7903
+primaryclass: astro-ph.HE
+ref: nouri.f.2017
+title: Evolution of the Magnetized, Neutrino-Cooled Accretion Disk in the Aftermath
+  of a Black Hole Neutron Star Binary Merger
+type: article
+year: '2017'

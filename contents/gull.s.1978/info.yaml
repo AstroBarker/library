@@ -1,0 +1,34 @@
+abstract: In many problems the primary data are the Fourier transform of the physical
+  quantities which are of interest and the inverse Fourier transform is normally calculated
+  with a digital computer. Disadvantages concerning this approach related to the presence
+  of experimental errors in the data are pointed out and a description is presented
+  of an alternative method of analysis based on the idea of maximum entropy. The concept
+  is illustrated with the aid of data produced by the radio telescopes at the Mullard
+  Radio Astronomy Observatory, UK. In this application the data are samples of the
+  two-dimensional Fourier transform of the radio brightness from the sky. The combination
+  of maximum-entropy analysis with a proper treatment of experimental errors promises
+  to be a powerful, yet safe, method for estimating the Fourier transform of incomplete
+  and noisy data. The method is very easily generalized to deal with other types of
+  data, not involving a Fourier transform.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978Natur.272..686G
+author: Gull, S. F. and Daniell, G. J.
+author_list:
+- family: Gull
+  given: S. F.
+- family: Daniell
+  given: G. J.
+date-added: 2017-08-11 00:27:55 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1038/272686a0
+journal: \nat
+keywords: Astronomical Maps, Entropy, Image Processing, Radio Astronomy, Crystallography,
+  Fourier Transformation, Radio Galaxies, Radio Telescopes
+month: April
+pages: 686--690
+papis_id: 2f90f4d031bac202c958ffedb2f0f8ec
+ref: gull.s.1978
+title: Image reconstruction from incomplete and noisy data
+type: article
+volume: '272'
+year: '1978'

@@ -1,0 +1,53 @@
+abstract: Black hole (BH) accretion flows and jets are dynamic hot relativistic magnetized
+  plasma flows whose radiative opacity can significantly affect flow structure and
+  behaviour. We describe a numerical scheme, tests, and an astrophysically relevant
+  application using the M1 radiation closure within a new 3D general relativistic
+  radiation magnetohydrodynamics (GRRMHD) massively parallel code called HARMRAD.
+  Our 3D GRRMHD simulation of super-Eddington accretion (about 20 times Eddington)
+  on to a rapidly rotating BH (dimensionless spin j = 0.9375) shows sustained non-axisymmemtric
+  disc turbulence, a persistent electromagnetic jet driven by the Blandford-Znajek
+  effect, a disc wind, and a polar radiation jet. The total accretion efficiency is
+  of the order of 20 per cent, the large-scale electromagnetic jet efficiency is of
+  the order of 10 per cent, the disc wind efficiency is less than 1 per cent, and
+  the total radiative efficiency remains low at only of the order of 1 per cent (of
+  order the Eddington luminosity). However, the radiation jet and the electromagnetic
+  jet both emerge from a geometrically beamed polar region, with super-Eddington isotropic
+  equivalent luminosities. Such simulations with HARMRAD can enlighten the role of
+  BH spin versus discs in launching jets, help determine the origin of spectral and
+  temporal states in X-ray binaries, help to understand how tidal disruption events
+  work, provide an accurate horizon-scale flow structure for M87 and other active
+  galactic nuclei (AGN), and isolate whether AGN feedback is driven by radiation or
+  by an electromagnetic, thermal, or kinetic wind/jet. For example, the low radiative
+  efficiency and weak BH spin-down rate from our simulation suggest that BH growth
+  over cosmological times to billions of solar masses by redshifts of z \texttildelow{}
+  6-8 is achievable even with rapidly rotating BHs and 10 M\&sun; BH seeds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.441.3177M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1312.6127
+author: McKinney, J. C. and Tchekhovskoy, A. and Sadowski, A. and Narayan, R.
+author_list:
+- family: McKinney
+  given: J. C.
+- family: Tchekhovskoy
+  given: A.
+- family: Sadowski
+  given: A.
+- family: Narayan
+  given: R.
+date-added: 2017-08-10 14:26:54 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1093/mnras/stu762
+eprint: '1312.6127'
+journal: \mnras
+keywords: 'accretion, accretion discs, black hole physics, gravitation, hydrodynamics,
+  MHD, methods: numerical'
+month: July
+pages: 3177--3208
+papis_id: 47214d0423130244d07c30c185eb4e90
+ref: mckinney.j.2014
+title: Three-dimensional general relativistic radiation magnetohydrodynamical simulation
+  of super-Eddington accretion, using a new code HARMRAD with M1 closure
+type: article
+volume: '441'
+year: '2014'

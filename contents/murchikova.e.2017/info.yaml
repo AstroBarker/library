@@ -1,0 +1,44 @@
+abstract: Carefully accounting for neutrino transport is an essential component of
+  many astrophysical studies. Solving the full transport equation is too expensive
+  for most realistic applications, especially those involving multiple spatial dimensions.
+  For such cases, resorting to approximations is often the only viable option for
+  obtaining solutions. One such approximation, which recently became popular, is the
+  M1 method. It utilizes the system of the lowest two moments of the transport equation
+  and closes the system with an ad hoc closure relation. The accuracy of the M1 solution
+  depends on the quality of the closure. Several closures have been proposed in the
+  literature and have been used in various studies. We carry out an extensive study
+  of these closures by comparing the results of M1 calculations with precise Monte
+  Carlo calculations of the radiation field around spherically symmetric protoneutron
+  star models. We find that no closure performs consistently better or worse than
+  others in all cases. The level of accuracy that a given closure yields depends on
+  the matter configuration, neutrino type and neutrino energy. Given this limitation,
+  the maximum entropy closure by Minerbo on average yields relatively accurate results
+  in the broadest set of cases considered in this work.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017MNRAS.469.1725M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1701.07027
+author: Murchikova, E. M. and Abdikamalov, E. and Urbatsch, T.
+author_list:
+- family: Murchikova
+  given: E. M.
+- family: Abdikamalov
+  given: E.
+- family: Urbatsch
+  given: T.
+date-added: 2018-08-27 15:27:18 -0400
+date-modified: 2018-08-27 15:27:20 -0400
+doi: 10.1093/mnras/stx986
+eprint: '1701.07027'
+journal: \mnras
+keywords: 'hydrodynamics, neutrinos, radiative transfer, stars: evolution, stars:
+  neutron, supernovae: general'
+month: August
+pages: 1725--1737
+papis_id: 85538753d03f93e8227146ef3f2de5ff
+primaryclass: astro-ph.HE
+ref: murchikova.e.2017
+title: Analytic closures for M1 neutrino transport
+type: article
+volume: '469'
+year: '2017'

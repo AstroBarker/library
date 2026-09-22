@@ -1,0 +1,43 @@
+abstract: 'The standard spectral model for analyzing the soft component of thermal
+  emission from a thin accretion disk around a black hole is the multitemperature
+  blackbody model. The widely used implementation of this model, which is known as
+  diskbb, assumes nonzero torque at the inner edge of the accretion disk. This assumption
+  is contrary to the classic and current literature on thin-disk accretion, which
+  advocates the use of a zero-torque boundary condition. Consequently, we have written
+  code for a zero-torque model, ezdiskbb, which we compare to the nonzero-torque model
+  diskbb by fitting Rossi X-Ray Timing Explorer spectra of three well-known black
+  hole binaries: 4U 1543-47, XTE J1550-564, and GRO J1655-40. The chief difference
+  we find is that the zero-torque model gives a value for the inner disk radius that
+  is ~2.2 times smaller than the value given by diskbb. This result has important
+  implications, especially for the determination of black hole angular momentum and
+  mass accretion rate.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...618..832Z
+arxivurl: http://arxiv.org/abs/astro-ph/0408209
+author: Zimmerman, E. R. and Narayan, R. and McClintock, J. E. and Miller, J. M.
+author_list:
+- family: Zimmerman
+  given: E. R.
+- family: Narayan
+  given: R.
+- family: McClintock
+  given: J. E.
+- family: Miller
+  given: J. M.
+date-added: 2017-08-11 00:32:41 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/426071
+eprint: astro-ph/0408209
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Stars: Individual: Alphanumeric:
+  4U 1543-47, Stars: Individual: Alphanumeric: GRO J1655-40, Stars: Individual: Alphanumeric:
+  XTE J1550-564, X-Rays: Binaries, X-Rays: Stars'
+month: January
+pages: 832--844
+papis_id: 844f6ac1780e0ba89bad60a0b5b67c19
+ref: zimmerman.e.2005
+title: Multitemperature Blackbody Spectra of Thin Accretion Disks with and without
+  a Zero-Torque Inner Boundary Condition
+type: article
+volume: '618'
+year: '2005'

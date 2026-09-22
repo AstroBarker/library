@@ -1,0 +1,35 @@
+abstract: We use a piecewise parabolic method hydrodynamics code (PROMETHEUS) to study
+  convective burning in two dimensions in an oxygen shell prior to core collapse.
+  Significant mixing beyond convective boundaries determined by mixing-length theory
+  brings fuel (C-12) into the convective region, causing hot spots of nuclear burning.
+  Plumes dominate the velocity structure. Finite perturbations arise in a region in
+  which O-16 will be explosively burned to Ni-56 when the star explodes; the resulting
+  instabilities and mixing are likely to distribute Ni-56 throughout the supernova
+  envelope. Inhomogeneities in Ye may be large enough to affect core collapse and
+  will affect explosive nucleosynthesis. The nature of convective burning is dramatically
+  different from that assumed in one-dimensional simulations; quantitative estimates
+  of nucleosynthetic yields, core masses, and the approach to core collapse will be
+  affected.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...433L..41B
+author: Bazan, G. and Arnett, D.
+author_list:
+- family: Bazan
+  given: G.
+- family: Arnett
+  given: D.
+date-added: 2017-08-10 15:07:15 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/187543
+journal: \apjl
+keywords: Gravitational Collapse, Hydrodynamics, Nuclear Fusion, Stellar Convection,
+  Stellar Cores, Stellar Evolution, Stellar Models, Supernovae, Carbon, Computerized
+  Simulation, Mathematical Models, Nickel, Oxygen, Stellar Gravitation, Stellar Mass
+month: September
+pages: L41-L43
+papis_id: 6ab26ad5c3e3203651bcab648fe3b98b
+ref: bazan.g.1994
+title: Convection, nucleosynthesis, and core collapse
+type: article
+volume: '433'
+year: '1994'

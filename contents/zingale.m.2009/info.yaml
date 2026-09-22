@@ -1,0 +1,44 @@
+abstract: We present the first three-dimensional, full-star simulations of convection
+  in a white dwarf preceding a Type Ia supernova, specifically the last few hours
+  before ignition. For these long-time calculations, we use our low Mach number hydrodynamics
+  code, MAESTRO, which we have further developed to treat spherical stars centered
+  in a three-dimensional Cartesian geometry. The main change required is a procedure
+  to map the one-dimensional radial base state to and from the Cartesian grid. Our
+  models recover the dipole structure of the flow seen in previous calculations, but
+  our long-time integration shows that the orientation of the dipole changes with
+  time. Furthermore, we show the development of gravity waves in the outer, stable
+  portion of the star. Finally, we evolve several calculations to the point of ignition
+  and discuss the range of ignition radii.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..196Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.2668
+author: Zingale, M. and Almgren, A. S. and Bell, J. B. and Nonaka, A. and Woosley,
+  S. E.
+author_list:
+- family: Zingale
+  given: M.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Nonaka
+  given: A.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 19:40:15 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/1/196
+eprint: '0908.2668'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: October
+pages: 196--210
+papis_id: 319bd1f93943fefbda1f5d2531b68cfb
+primaryclass: astro-ph.HE
+ref: zingale.m.2009
+title: Low Mach Number Modeling of Type IA Supernovae. IV. White Dwarf Convection
+type: article
+volume: '704'
+year: '2009'

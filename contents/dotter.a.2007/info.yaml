@@ -1,0 +1,56 @@
+abstract: 'The ACS Survey of Galactic Globular Clusters, an HST Treasury Project,
+  will deliver high-quality, homogeneous photometry of 65 globular clusters. This
+  paper introduces a new collection of stellar evolution tracks and isochrones suitable
+  for analyzing the ACS survey data. Stellar evolution models were computed at [Fe/H]=-2.5,
+  -2.0, -1.5, -1.0, -0.5, and 0; [alpha/Fe]=-0.2, 0, 0.2, 0.4, 0.6, and 0.8; and three
+  initial He abundances for masses from 0.1 to 1.8 Msolar and ages from 2 to 15 Gyr.
+  Each isochrone spans a wide range in luminosity, from MV~14 up to the tip of the
+  red giant branch. These are complemented by a set of He-burning tracks that extend
+  from the zero-age horizontal branch to the onset of thermal pulsations on the asymptotic
+  giant branch. In addition, a set of computer programs are provided that make it
+  possible to interpolate the isochrones in [Fe/H], generate luminosity functions
+  from the isochrones, and create synthetic horizontal-branch models. The tracks and
+  isochrones have been converted to the observational plane with two different color-Teff
+  transformations, one synthetic and one semiempirical, in ground-based B, V, and
+  I, and F606W and F814W for both ACS WFC and WFPC2 systems. All models and programs
+  presented in this paper are available at the Dartmouth Stellar Evolution Database
+  and the Multimission Archive at the Space Telescope Science Institute.  Based on
+  observations with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope
+  Science Institute, which is operated by AURA, Inc., under NASA contract NAS 5-26555,
+  under program GO-10775 (PI: A. Sarajedini).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007AJ....134..376D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.0847
+author: Dotter, A. and Chaboyer, B. and Jevremović, D. and Baron, E. and Ferguson,
+  J. W. and Sarajedini, A. and Anderson, J.
+author_list:
+- family: Dotter
+  given: A.
+- family: Chaboyer
+  given: B.
+- family: Jevremović
+  given: D.
+- family: Baron
+  given: E.
+- family: Ferguson
+  given: J. W.
+- family: Sarajedini
+  given: A.
+- family: Anderson
+  given: J.
+date-added: 2017-08-11 04:22:13 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/517915
+eprint: '0706.0847'
+journal: \aj
+keywords: 'globular clusters: general, stars: evolution'
+month: July
+pages: 376--390
+papis_id: a35ed4429197c50ab3e8cb70efe1cb9b
+ref: dotter.a.2007
+title: The ACS Survey of Galactic Globular Clusters. II. Stellar Evolution Tracks,
+  Isochrones, Luminosity Functions, and Synthetic Horizontal-Branch Models
+type: article
+volume: '134'
+year: '2007'

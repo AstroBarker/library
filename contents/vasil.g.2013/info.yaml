@@ -1,0 +1,54 @@
+abstract: The speed of sound greatly exceeds typical flow velocities in many stellar
+  and planetary interiors. To follow the slow evolution of subsonic motions, various
+  sound-proof models attempt to remove fast acoustic waves while retaining stratified
+  convection and buoyancy dynamics. In astrophysics, anelastic models typically receive
+  the most attention in the class of sound-filtered stratified models. Generally,
+  anelastic models remain valid in nearly adiabatically stratified regions like stellar
+  convection zones, but may break down in strongly sub-adiabatic, stably stratified
+  layers common in stellar radiative zones. However, studying stellar rotation, circulation,
+  and dynamos requires understanding the complex coupling between convection and radiative
+  zones, and this requires robust equations valid in both regimes. Here we extend
+  the analysis of equation sets begun in Brown et al., which studied anelastic models,
+  to two types of pseudo-incompressible models. This class of models has received
+  attention in atmospheric applications, and more recently in studies of white-dwarf
+  supernova progenitors. We demonstrate that one model conserves energy but the other
+  does not. We use Lagrangian variational methods to extend the energy conserving
+  model to a general equation of state, and dub the resulting equation set the generalized
+  pseudo-incompressible (GPI) model. We show that the GPI equations suitably capture
+  low-frequency phenomena in both convection and radiative zones in stars and other
+  stratified systems, and we provide recommendations for converting low-Mach number
+  codes to this equation set.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...773..169V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.0005
+author: Vasil, G. M. and Lecoanet, D. and Brown, B. P. and Wood, T. S. and Zweibel,
+  E. G.
+author_list:
+- family: Vasil
+  given: G. M.
+- family: Lecoanet
+  given: D.
+- family: Brown
+  given: B. P.
+- family: Wood
+  given: T. S.
+- family: Zweibel
+  given: E. G.
+date-added: 2017-08-10 16:59:52 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/773/2/169
+eid: '169'
+eprint: '1303.0005'
+journal: \apj
+keywords: 'planets and satellites: atmospheres, stars: interiors, Sun: interior'
+month: August
+pages: '169'
+papis_id: 4855ef59175693d4f35159a2f1f4dbe5
+primaryclass: astro-ph.SR
+ref: vasil.g.2013
+title: Energy Conservation and Gravity Waves in Sound-proof Treatments of Stellar
+  Interiors. II. Lagrangian Constrained Analysis
+type: article
+volume: '773'
+year: '2013'

@@ -1,0 +1,46 @@
+abstract: 'With an eye toward application to the theory of core-collapse supernovae,
+  we perform a global linear analysis of the stability of spherically symmetric accretion
+  flows through a standing shock wave onto a proto-neutron star. For the unperturbed
+  flows, we adopt spherically symmetric, steady solutions obtained with a realistic
+  equation of state and realistic neutrino reaction rates. These solutions are characterized
+  by the mass accretion rate and neutrino luminosity. Then we solve the equations
+  for linear perturbations numerically, obtaining the eigenfrequencies and eigenfunctions.
+  We find the following: (1) The flows are stable for all modes if the neutrino luminosity
+  is lower than a certain value, e.g., ~1\texttimes{}1052 ergs s-1 for M\textperiodcentered{}=1.0
+  Msolar s-1. (2) For higher luminosities, nonradial instabilities are induced, probably
+  through advective-acoustic cycles. Interestingly, modes with l=2 and l=3 first become
+  unstable for relatively low neutrino luminosities, e.g., ~(2-3)\texttimes{}1052
+  ergs s-1 for the same accretion rate, whereas the l=1 mode is the most unstable
+  for higher luminosities, ~(3-7)\texttimes{}1052 ergs s-1. These are all oscillatory
+  modes. (3) For still larger luminosities, >~7\texttimes{}1052 ergs s-1 for M\textperiodcentered{}=1.0
+  Msolar s-1, nonoscillatory modes, both radial and nonradial, become unstable. These
+  nonradial modes are identified as convective, and their growth rates have a peak
+  at l=5-11, depending on the luminosity. We confirm the result from numerical simulations
+  that the instabilities induced by advective-acoustic cycles are more important than
+  convection for lower neutrino luminosities. Furthermore, we investigate changing
+  the inner boundary conditions and find that while the effects are nonnegligible,
+  the existence of the instabilities does not qualitatively change for a variety of
+  conditions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...656.1019Y
+arxivurl: http://arxiv.org/abs/astro-ph/0606581
+author: Yamasaki, T. and Yamada, S.
+author_list:
+- family: Yamasaki
+  given: T.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 20:57:21 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510505
+eprint: astro-ph/0606581
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Shock Waves, Stars: Supernovae: General'
+month: February
+pages: 1019--1037
+papis_id: a7110c646efdbe17b9cfa9250968368d
+ref: yamasaki.t.2007
+title: Stability of Accretion Flows with Stalled Shocks in Core-Collapse Supernovae
+type: article
+volume: '656'
+year: '2007'

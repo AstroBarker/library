@@ -1,0 +1,47 @@
+abstract: We construct a two-zone model to describe hydrogen and helium burning on
+  an accreting neutron star and use it to study the triggering of type I X-ray bursts.
+  Although highly simplified, the model reproduces all of the bursting regimes seen
+  in the more complete global stability analysis of Narayan \& Heyl, including the
+  delayed mixed burst regime. The results are also consistent with observations. At
+  accretion rates M\textperiodcentered{}/M\textperiodcentered{}Edd<~0.1, helium burning
+  via the well-known thin-shell thermal instability triggers bursts. As M\textperiodcentered{}
+  increases, however, the triggering mechanism evolves from the fast thermal instability
+  to a slowly growing overstability involving both hydrogen and helium burning. The
+  competition between nuclear heating via the beta-limited CNO cycle and the triple-alpha
+  process on the one hand, and radiative cooling via photon diffusion and emission
+  on the other, drives oscillations with a period approximately equal to the hydrogen
+  burning timescale. If these oscillations grow, the gradually rising temperature
+  in the helium layer will eventually provoke a thin-shell thermal instability and
+  hence a delayed mixed burst. For M\textperiodcentered{}/M\textperiodcentered{}Edd>~0.25,
+  nuclear burning is stable and there are no bursts. Nearly all other theoretical
+  models, including detailed time-dependent multizone calculations, predict that bursts
+  should occur for all M\textperiodcentered{}/M\textperiodcentered{}Edd<~1, in conflict
+  both with our results and with observations. We suggest that this discrepancy arises
+  from the assumed strength of the hot CNO cycle breakout reaction 15O(alpha,gamma)19Ne
+  in these other models. That observations agree much better with the results of Narayan
+  \& Heyl and our two-zone model, both of which neglect breakout reactions, may imply
+  that the true 15O(alpha,gamma)19Ne rate is smaller than assumed in previous investigations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...652..584C
+arxivurl: http://arxiv.org/abs/astro-ph/0605001
+author: Cooper, R. L. and Narayan, R.
+author_list:
+- family: Cooper
+  given: R. L.
+- family: Narayan
+  given: R.
+date-added: 2017-08-10 17:49:53 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/507782
+eprint: astro-ph/0605001
+journal: \apj
+keywords: 'Dense Matter, Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Neutron,
+  X-Rays: Binaries, X-Rays: Bursts'
+month: November
+pages: 584--596
+papis_id: e2a42057275498bb9fd76fa1010ecb0f
+ref: cooper.r.2006
+title: A Two-Zone Model for Type I X-Ray Bursts on Accreting Neutron Stars
+type: article
+volume: '652'
+year: '2006'

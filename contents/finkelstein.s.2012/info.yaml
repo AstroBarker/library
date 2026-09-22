@@ -1,0 +1,99 @@
+abstract: We study the evolution of galaxy rest-frame ultraviolet (UV) colors in the
+  epoch 4 <~ z <~ 8. We use new wide-field near-infrared data in the Great Observatories
+  Origins Deep Survey-South field from the Cosmic Assembly Near-infrared Deep Extragalactic
+  Legacy Survey, Hubble Ultra Deep Field (HUDF) 2009, and Early Release Science programs
+  to select galaxies via photometric redshift measurements. Our sample consists of
+  2812 candidate galaxies at z >~ 3.5, including 113 at z ~= 7-8. We fit the observed
+  spectral energy distribution to a suite of synthetic stellar population models and
+  measure the value of the UV spectral slope (beta) from the best-fit model spectrum.
+  We run simulations to show that this measurement technique results in a smaller
+  scatter on beta than other methods, as well as a reduced number of galaxies with
+  catastrophically incorrect beta measurements (i.e., Deltabeta > 1). We find that
+  the median value of beta evolves significantly from -1.82+0.00 - 0.04 at z = 4 to
+  -2.37+0.26 - 0.06 at z = 7. Additionally, we find that faint galaxies at z = 7 have
+  beta = -2.68+0.39 - 0.24 (~ -2.4 after correcting for observational bias); this
+  is redder than previous claims in the literature and does not require "exotic" stellar
+  populations (e.g., very low metallicities or top-heavy initial mass functions) to
+  explain their colors. This evolution can be explained by an increase in dust extinction,
+  from low amounts at z = 7 to A V ~ 0.5 mag at z = 4. The timescale for this increase
+  is consistent with low-mass asymptotic giant branch stars forming the bulk of the
+  dust. We find no significant (<2sigma) correlation between beta and M UV when measuring
+  M UV at a consistent rest-frame wavelength of 1500 {\AA}. This is particularly true
+  at bright magnitudes, though our results do show evidence for a weak correlation
+  at faint magnitudes when galaxies in the HUDF are considered separately, hinting
+  that dynamic range in sample luminosities may play a role. We do find a strong correlation
+  between beta and the stellar mass at all redshifts, in that more massive galaxies
+  exhibit redder colors. The most massive galaxies in our sample have similarly red
+  colors at each redshift, implying that dust can build up quickly in massive galaxies
+  and that feedback is likely removing dust from low-mass galaxies at z >= 7. Thus,
+  the stellar-mass---metallicity relation, previously observed up to z ~ 3, may extend
+  out to z = 7-8.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756..164F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.3785
+author: Finkelstein, S. L. and Papovich, C. and Salmon, B. and Finlator, K. and Dickinson,
+  M. and Ferguson, H. C. and Giavalisco, M. and Koekemoer, A. M. and Reddy, N. A.
+  and Bassett, R. and Conselice, C. J. and Dunlop, J. S. and Faber, S. M. and Grogin,
+  N. A. and Hathi, N. P. and Kocevski, D. D. and Lai, K. and Lee, K.-S. and McLure,
+  R. J. and Mobasher, B. and Newman, J. A.
+author_list:
+- family: Finkelstein
+  given: S. L.
+- family: Papovich
+  given: C.
+- family: Salmon
+  given: B.
+- family: Finlator
+  given: K.
+- family: Dickinson
+  given: M.
+- family: Ferguson
+  given: H. C.
+- family: Giavalisco
+  given: M.
+- family: Koekemoer
+  given: A. M.
+- family: Reddy
+  given: N. A.
+- family: Bassett
+  given: R.
+- family: Conselice
+  given: C. J.
+- family: Dunlop
+  given: J. S.
+- family: Faber
+  given: S. M.
+- family: Grogin
+  given: N. A.
+- family: Hathi
+  given: N. P.
+- family: Kocevski
+  given: D. D.
+- family: Lai
+  given: K.
+- family: Lee
+  given: K.-S.
+- family: McLure
+  given: R. J.
+- family: Mobasher
+  given: B.
+- family: Newman
+  given: J. A.
+date-added: 2017-08-10 20:18:52 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/756/2/164
+eid: '164'
+eprint: '1110.3785'
+journal: \apj
+keywords: 'early universe, galaxies: evolution, galaxies: formation, galaxies: high-redshift,
+  ultraviolet: galaxies'
+month: September
+pages: '164'
+papis_id: d584d73f0120c00627765c036a9c7323
+ref: finkelstein.s.2012
+title: 'Candels: The Evolution of Galaxy Rest-frame Ultraviolet Colors from z = 8
+  to 4'
+type: article
+volume: '756'
+year: '2012'

@@ -1,0 +1,47 @@
+abstract: We present the detailed global structure of black hole accretion flows and
+  outflows through newly performed two-dimensional radiation-magnetohydrodynamic simulations.
+  By starting from a torus threaded with weak toroidal magnetic fields and by controlling
+  the central density of the initial torus, rho0, we can reproduce three distinct
+  modes of accretion flow. In model A, which has the highest central density, an optically
+  and geometrically thick supercritical accretion disk is created. The radiation force
+  greatly exceeds the gravity above the disk surface, thereby driving a strong outflow
+  (or jet). Because of mild beaming, the apparent (isotropic) photon luminosity is
+  ~22L E (where L E is the Eddington luminosity) in the face-on view. Even higher
+  apparent luminosity is feasible if we increase the flow density. In model B, which
+  has moderate density, radiative cooling of the accretion flow is so efficient that
+  a standard-type, cold, and geometrically thin disk is formed at radii greater than
+  ~7 R S (where R S is the Schwarzschild radius), while the flow is radiatively inefficient
+  otherwise. The magnetic-pressure-driven disk wind appears in this model. In model
+  C, the density is too low for the flow to be radiatively efficient. The flow thus
+  becomes radiatively inefficient accretion flow, which is geometrically thick and
+  optically thin. The magnetic-pressure force, together with the gas-pressure force,
+  drives outflows from the disk surface, and the flow releases its energy via jets
+  rather than via radiation. Observational implications are briefly discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...736....2O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.5474
+author: Ohsuga, K. and Mineshige, S.
+author_list:
+- family: Ohsuga
+  given: K.
+- family: Mineshige
+  given: S.
+date-added: 2017-08-10 20:00:37 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/736/1/2
+eid: '2'
+eprint: '1105.5474'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, ISM: jets and outflows,
+  magnetohydrodynamics: MHD, radiative transfer'
+month: July
+pages: '2'
+papis_id: c488e25b020b82a3549422d6a82266cf
+primaryclass: astro-ph.HE
+ref: ohsuga.k.2011
+title: Global Structure of Three Distinct Accretion Flows and Outflows around Black
+  Holes from Two-dimensional Radiation-magnetohydrodynamic Simulations
+type: article
+volume: '736'
+year: '2011'

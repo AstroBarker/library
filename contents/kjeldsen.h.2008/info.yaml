@@ -1,0 +1,37 @@
+abstract: In helioseismology, there is a well-known offset between observed and computed
+  oscillation frequencies. This offset is known to arise from improper modeling of
+  the near-surface layers of the Sun, and a similar effect must occur for models of
+  other stars. Such an effect impedes progress in asteroseismology, which involves
+  comparing observed oscillation frequencies with those calculated from theoretical
+  models. Here, we use data for the Sun to derive an empirical correction for the
+  near-surface offset, which we then apply to three other stars (alpha Cen A, alpha
+  Cen B, and beta Hyi). The method appears to give good results, in particular providing
+  an accurate estimate of the mean density of each star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...683L.175K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.1769
+author: Kjeldsen, H. and Bedding, T. R. and Christensen-Dalsgaard, J.
+author_list:
+- family: Kjeldsen
+  given: H.
+- family: Bedding
+  given: T. R.
+- family: Christensen-Dalsgaard
+  given: J.
+date-added: 2017-08-10 20:46:43 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/591667
+eid: L175
+eprint: '0807.1769'
+journal: \apjl
+keywords: 'stars: individual: {$\beta$} Hyi {\$\alpha\$} Cen A {\$\alpha\$} Cen B,
+  stars: oscillations, Sun: helioseismology'
+month: August
+pages: L175
+papis_id: cfb643adde2051b36445cedd5e6b75dd
+ref: kjeldsen.h.2008
+title: Correcting Stellar Oscillation Frequencies for Near-Surface Effects
+type: article
+volume: '683'
+year: '2008'

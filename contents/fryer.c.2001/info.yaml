@@ -1,0 +1,58 @@
+abstract: Growing evidence suggests that the first generation of stars may have been
+  quite massive (~100-300 Msolar). If they retain their high mass until death, such
+  stars will, after about 3 Myr, make pair-instability supernovae. Models for these
+  explosions have been discussed in the literature for four decades, but very few
+  included the effects of rotation and none employed a realistic model for neutrino
+  trapping and transport. Both turn out to be very important, especially for those
+  stars whose cores collapse into black holes (helium cores above about 133 Msolar).
+  We consider the complete evolution of two zero-metallicity stars of 250 and 300
+  Msolar. Despite their large masses, we argue that the low metallicities of these
+  stars imply negligible mass loss. Evolving the stars with no mass loss, but including
+  angular momentum transport and rotationally induced mixing, the two stars produce
+  helium cores of 130 and 180 Msolar. Products of central helium burning (e.g., primary
+  nitrogen) are mixed into the hydrogen envelope with dramatic effects on the radius,
+  especially in the case of the 300 Msolar model. Explosive oxygen and silicon burning
+  cause the 130 Msolar helium core (250 Msolar star) to explode, but explosive burning
+  is unable to drive an explosion in the 180 Msolar helium core, and it collapses
+  to a black hole. For this star, the calculated angular momentum in the presupernova
+  model is sufficient to delay black hole formation, and the star initially forms
+  an ~50 Msolar, 1000 km core within which neutrinos are trapped. The calculated growth
+  time for secular rotational instabilities in this core is shorter than the black
+  hole formation time, and they may develop. If so, the estimated gravitational wave
+  energy and wave amplitude are EGW~10-3 Msolar c2 and h+~10-21/d(Gpc), but these
+  estimates are very rough and depend sensitively on the nonlinear nature of the instabilities.
+  After the black hole forms, accretion continues through a disk. The mass of the
+  disk depends on the adopted viscosity but may be quite large, up to 30 Msolar when
+  the black hole mass is 140 Msolar. The accretion rate through the disk can be as
+  large as 1-10 Msolar s-1. Although the disk is far too large and cool to transport
+  energy efficiently to the rotational axis by neutrino annihilation, it has ample
+  potential energy to produce a 1054 erg jet driven by magnetic fields. The interaction
+  of this jet with surrounding circumstellar gas may produce an energetic gamma-ray
+  transient, but given the probable redshift and the consequent timescale and spectrum,
+  this model may have difficulty explaining typical gamma-ray bursts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...550..372F
+arxivurl: http://arxiv.org/abs/astro-ph/0007176
+author: Fryer, C. L. and Woosley, S. E. and Heger, A.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Woosley
+  given: S. E.
+- family: Heger
+  given: A.
+date-added: 2017-08-10 22:20:00 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319719
+eprint: astro-ph/0007176
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Evolution, Stars: Supernovae: General'
+month: March
+pages: 372--382
+papis_id: 69c89bf85bd927397ef758366912a980
+ref: fryer.c.2001
+title: Pair-Instability Supernovae, Gravity Waves, and Gamma-Ray Transients
+type: article
+volume: '550'
+year: '2001'

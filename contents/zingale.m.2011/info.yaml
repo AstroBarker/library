@@ -1,0 +1,43 @@
+abstract: The convective flow in the moments preceding the explosion of a Type Ia
+  supernova determines where the initial flames that subsequently burn through the
+  star first ignite. We continue our exploration of the final hours of this convection
+  using the low Mach number hydrodynamics code, MAESTRO. We present calculations exploring
+  the effects of slow rotation and show diagnostics that examine the distribution
+  of likely ignition points. In the current calculations, we see a well-defined convection
+  region persist up to the point of ignition, and we see that even a little rotation
+  is enough to break the coherence of the convective flow seen in the radial velocity
+  field. Our results suggest that off-center ignition may be favored, with ignition
+  ranging out to a radius of 100 km and a maximum likelihood of ignition at a radius
+  around 50 km.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...740....8Z
+author: Zingale, M. and Nonaka, A. and Almgren, A. S. and Bell, J. B. and Malone,
+  C. M. and Woosley, S. E.
+author_list:
+- family: Zingale
+  given: M.
+- family: Nonaka
+  given: A.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Malone
+  given: C. M.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 17:37:01 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/740/1/8
+eid: '8'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: October
+pages: '8'
+papis_id: cd98347f8420aebc0248acbe8f54f02f
+ref: zingale.m.2011
+title: The Convective Phase Preceding Type Ia Supernovae
+type: article
+volume: '740'
+year: '2011'

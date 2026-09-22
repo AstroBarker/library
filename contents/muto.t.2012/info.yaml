@@ -1,0 +1,177 @@
+abstract: We present high-resolution, H-band imaging observations, collected with
+  Subaru/HiCIAO, of the scattered light from the transitional disk around SAO 206462
+  (HD 135344B). Although previous sub-mm imagery suggested the existence of a dust-depleted
+  cavity at r <= 46 AU, our observations reveal the presence of scattered light components
+  as close as 0farcs2 (~ 28 AU) from the star. Moreover, we have discovered two small-scale
+  spiral structures lying within 0farcs5 (~ 70 AU). We present models for the spiral
+  structures using the spiral density wave theory, and derive a disk aspect ratio
+  of h ~ 0.1, which is consistent with previous sub-mm observations. This model can
+  potentially give estimates of the temperature and rotation profiles of the disk
+  based on dynamical processes, independently from sub-mm observations. It also predicts
+  the evolution of the spiral structures, which can be observable on timescales of
+  10-20 years, providing conclusive tests of the model. While we cannot uniquely identify
+  the origin of these spirals, planets embedded in the disk may be capable of exciting
+  the observed morphology. Assuming that this is the case, we can make predictions
+  on the locations and, possibly, the masses of the unseen planets. Such planets may
+  be detected by future multi-wavelength observations.  Based on data collected at
+  the Subaru Telescope, which is operated by the National Astronomical Observatory
+  of Japan.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...748L..22M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.6139
+author: Muto, T. and Grady, C. A. and Hashimoto, J. and Fukagawa, M. and Hornbeck,
+  J. B. and Sitko, M. and Russell, R. and Werren, C. and Curé, M. and Currie, T. and
+  Ohashi, N. and Okamoto, Y. and Momose, M. and Honda, M. and Inutsuka, S. and Takeuchi,
+  T. and Dong, R. and Abe, L. and Brandner, W. and Brandt, T. and Carson, J. and Egner,
+  S. and Feldt, M. and Fukue, T. and Goto, M. and Guyon, O. and Hayano, Y. and Hayashi,
+  M. and Hayashi, S. and Henning, T. and Hodapp, K. W. and Ishii, M. and Iye, M. and
+  Janson, M. and Kandori, R. and Knapp, G. R. and Kudo, T. and Kusakabe, N. and Kuzuhara,
+  M. and Matsuo, T. and Mayama, S. and McElwain, M. W. and Miyama, S. and Morino,
+  J.-I. and Moro-Martin, A. and Nishimura, T. and Pyo, T.-S. and Serabyn, E. and Suto,
+  H. and Suzuki, R. and Takami, M. and Takato, N. and Terada, H. and Thalmann, C.
+  and Tomono, D. and Turner, E. L. and Watanabe, M. and Wisniewski, J. P. and Yamada,
+  T. and Takami, H. and Usuda, T. and Tamura, M.
+author_list:
+- family: Muto
+  given: T.
+- family: Grady
+  given: C. A.
+- family: Hashimoto
+  given: J.
+- family: Fukagawa
+  given: M.
+- family: Hornbeck
+  given: J. B.
+- family: Sitko
+  given: M.
+- family: Russell
+  given: R.
+- family: Werren
+  given: C.
+- family: Curé
+  given: M.
+- family: Currie
+  given: T.
+- family: Ohashi
+  given: N.
+- family: Okamoto
+  given: Y.
+- family: Momose
+  given: M.
+- family: Honda
+  given: M.
+- family: Inutsuka
+  given: S.
+- family: Takeuchi
+  given: T.
+- family: Dong
+  given: R.
+- family: Abe
+  given: L.
+- family: Brandner
+  given: W.
+- family: Brandt
+  given: T.
+- family: Carson
+  given: J.
+- family: Egner
+  given: S.
+- family: Feldt
+  given: M.
+- family: Fukue
+  given: T.
+- family: Goto
+  given: M.
+- family: Guyon
+  given: O.
+- family: Hayano
+  given: Y.
+- family: Hayashi
+  given: M.
+- family: Hayashi
+  given: S.
+- family: Henning
+  given: T.
+- family: Hodapp
+  given: K. W.
+- family: Ishii
+  given: M.
+- family: Iye
+  given: M.
+- family: Janson
+  given: M.
+- family: Kandori
+  given: R.
+- family: Knapp
+  given: G. R.
+- family: Kudo
+  given: T.
+- family: Kusakabe
+  given: N.
+- family: Kuzuhara
+  given: M.
+- family: Matsuo
+  given: T.
+- family: Mayama
+  given: S.
+- family: McElwain
+  given: M. W.
+- family: Miyama
+  given: S.
+- family: Morino
+  given: J.-I.
+- family: Moro-Martin
+  given: A.
+- family: Nishimura
+  given: T.
+- family: Pyo
+  given: T.-S.
+- family: Serabyn
+  given: E.
+- family: Suto
+  given: H.
+- family: Suzuki
+  given: R.
+- family: Takami
+  given: M.
+- family: Takato
+  given: N.
+- family: Terada
+  given: H.
+- family: Thalmann
+  given: C.
+- family: Tomono
+  given: D.
+- family: Turner
+  given: E. L.
+- family: Watanabe
+  given: M.
+- family: Wisniewski
+  given: J. P.
+- family: Yamada
+  given: T.
+- family: Takami
+  given: H.
+- family: Usuda
+  given: T.
+- family: Tamura
+  given: M.
+date-added: 2017-08-10 14:48:24 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/2041-8205/748/2/L22
+eid: L22
+eprint: '1202.6139'
+journal: \apjl
+keywords: 'circumstellar matter, instrumentation: high angular resolution, polarization,
+  protoplanetary disks, stars: individual: SAO 206462 HD 135344B, waves'
+month: April
+pages: L22
+papis_id: 2a05a9549cf1a8a3a9f2fb642e1e017d
+primaryclass: astro-ph.EP
+ref: muto.t.2012
+title: 'Discovery of Small-scale Spiral Structures in the Disk of SAO 206462 (HD 135344B):
+  Implications for the Physical State of the Disk from Spiral Density Wave Theory'
+type: article
+volume: '748'
+year: '2012'

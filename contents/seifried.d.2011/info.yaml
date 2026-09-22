@@ -1,0 +1,46 @@
+abstract: 'Context. Thermal instability is one of the dynamical agents for turbulence
+  in the diffuse interstellar medium, where both turbulence and thermal instability
+  interact in a highly non-linear manner.  Aims: We study basic properties of turbulence
+  in thermally bistable gas for variable simulation parameters. The resulting cold
+  gas fractions can be applied as parameterisation in simulations on galactic scales.  Methods:
+  Turbulent flow is induced on large scales by means of compressive stochastic forcing
+  in a periodic box. The compressible Euler equations with constant UV heating and
+  a parameterised cooling function are solved on uniform grids. We investigate several
+  values of the mean density of the gas and different magnitudes of the forcing. For
+  comparison with other numerical studies, solenoidal forcing is applied as well.  Results:
+  After a transient phase, we observe that a state of statistically stationary turbulence
+  is approached. Compressive forcing generally produces a two-phase medium, with a
+  decreasing fraction of cold gas for increasing forcing strength. This behaviour
+  can be explained on the basis of turbulent mixing. We also find power-law tails
+  of probability density functions of the gas density in high-resolution runs. Solenoidal
+  forcing, on the other hand, appears to prevent the evolution into a two-phase-medium
+  for certain parameter regions.  Conclusions: The dynamics of thermally bistable
+  turbulence show a substantial sensitivity to the initial state and the forcing properties.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...526A..14S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.2871
+author: Seifried, D. and Schmidt, W. and Niemeyer, J. C.
+author_list:
+- family: Seifried
+  given: D.
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+date-added: 2017-08-11 01:24:10 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1051/0004-6361/201014373
+eid: A14
+eprint: '1009.2871'
+journal: \aap
+keywords: 'hydrodynamics, instabilities, turbulence, methods: numerical, ISM: kinematics
+  and dynamics'
+month: February
+pages: A14
+papis_id: 01650e7a5c20e1e541cac72359a0b052
+ref: seifried.d.2011
+title: 'Forced turbulence in thermally bistable gas: a parameter study'
+type: article
+volume: '526'
+year: '2011'

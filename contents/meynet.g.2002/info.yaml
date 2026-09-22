@@ -1,0 +1,48 @@
+abstract: We calculate a grid of star models with and without the effects of axial
+  rotation for stars in the mass range between 2 and 60 Msun for the metallicity Z
+  = 10-5. Star models with initial masses superior or equal to 9 Msun were computed
+  up to the end of the carbon-burning phase. Star models with masses between 2 and
+  7 Msun were evolved beyond the end of the He-burning phase through a few thermal
+  pulses during the AGB phase. Compared to models at Z=0.02, the low Z models show
+  faster rotating cores and stronger internal Omega -gradients, which favour an important
+  mixing of the chemical elements. The enhancement of N/C at the surface may reach
+  2 to 3 orders of magnitude for fast rotating stars. Surface enrichments may make
+  the evolved stars less metal poor than they were initially. In very low Z models,
+  primary nitrogen is produced during the He-burning phase by rotational diffusion
+  of 12C into the H-burning shell. A large fraction of the primary 14N escapes further
+  destruction and enters the envelope of AGB stars, being ejected during the TP-AGB
+  phase and the formation of a planetary nebula. The intermediate mass stars of very
+  low Z are the main producers of primary 14N, but massive stars also contribute to
+  this production; no significant primary nitrogen is made in models at metallicity
+  Z=0.004 or above. We calculate the chemical yields in He, C, N, O and heavy elements
+  and discuss the chemical evolution of the CNO elements at very low Z. Remarkably,
+  the C/O vs. O/H diagram is mainly sensitive to the interval of stellar masses, while
+  the N/O vs. O/H diagram is mainly sensitive to the average rotation of the stars
+  contributing to the element synthesis. The presently available observations in these
+  diagrams seem to favour contributions either from stars down to about 2 Msun with
+  normal rotation velocities or from stars above 8 Msun but with very fast rotation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...390..561M
+arxivurl: http://arxiv.org/abs/astro-ph/0205370
+author: Meynet, G. and Maeder, A.
+author_list:
+- family: Meynet
+  given: G.
+- family: Maeder
+  given: A.
+date-added: 2017-08-11 00:18:54 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020755
+eprint: astro-ph/0205370
+journal: \aap
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: interiors, stars:
+  evolution, stars: rotation, stars: early-types, stars: AGB and post-AGB'
+month: August
+pages: 561--583
+papis_id: 7adb983675b6a8f41d7008bee88cd03c
+ref: meynet.g.2002
+title: Stellar evolution with rotation. VIII. Models at Z = 10$^-5$ and CNO yields
+  for early galactic evolution
+type: article
+volume: '390'
+year: '2002'

@@ -1,0 +1,62 @@
+abstract: The cosmic dark ages ended a few hundred million years after the big bang,
+  when the first stars began to fill the universe with new light. It has generally
+  been argued that these stars formed in isolation and were extremely massive---perhaps
+  100 times as massive as the Sun. In a recent study, Clark and collaborators showed
+  that this picture requires revision. They demonstrated that the accretion disks
+  that build up around Population III stars are strongly susceptible to fragmentation
+  and that the first stars should therefore form in clusters rather than in isolation.
+  We here use a series of high-resolution hydrodynamical simulations performed with
+  the moving mesh code AREPO to follow up on this proposal and to study the influence
+  of environmental parameters on the level of fragmentation. We model the collapse
+  of five independent minihalos from cosmological initial conditions, through the
+  runaway condensation of their central gas clouds, to the formation of the first
+  protostar, and beyond for a further 1000 years. During this latter accretion phase,
+  we represent the optically thick regions of protostars by sink particles. Gas accumulates
+  rapidly in the circumstellar disk around the first protostar, fragmenting vigorously
+  to produce a small group of protostars. After an initial burst, gravitational instability
+  recurs periodically, forming additional protostars with masses ranging from ~0.1
+  to 10 M sun. Although the shape, multiplicity, and normalization of the protostellar
+  mass function depend on the details of the sink-particle algorithm, fragmentation
+  into protostars with diverse masses occurs in all cases, confirming earlier reports
+  of Population III stars forming in clusters. Depending on the efficiency of later
+  accretion and merging, Population III stars may enter the main sequence in clusters
+  and with much more diverse masses than are commonly assumed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737...75G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.5491
+author: Greif, T. H. and Springel, V. and White, S. D. M. and Glover, S. C. O. and
+  Clark, P. C. and Smith, R. J. and Klessen, R. S. and Bromm, V.
+author_list:
+- family: Greif
+  given: T. H.
+- family: Springel
+  given: V.
+- family: White
+  given: S. D. M.
+- family: Glover
+  given: S. C. O.
+- family: Clark
+  given: P. C.
+- family: Smith
+  given: R. J.
+- family: Klessen
+  given: R. S.
+- family: Bromm
+  given: V.
+date-added: 2017-08-10 21:45:51 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/2/75
+eid: '75'
+eprint: '1101.5491'
+journal: \apj
+keywords: 'cosmology: theory, early universe, hydrodynamics, methods: numerical, stars:
+  formation'
+month: August
+pages: '75'
+papis_id: b97ef444cc77d213bae44d87af402417
+ref: greif.t.2011
+title: 'Simulations on a Moving Mesh: The Clustered Formation of Population III Protostars'
+type: article
+volume: '737'
+year: '2011'

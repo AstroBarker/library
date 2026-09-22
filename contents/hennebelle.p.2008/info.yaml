@@ -1,0 +1,51 @@
+abstract: We derive an analytical theory of the prestellar core initial mass function
+  (IMF) based on an extension of the Press-Schechter statistical formalism. Our approach
+  relies on the general concept of the gravothermal and gravoturbulent collapse of
+  a molecular cloud, with a selection criterion based on the thermal or turbulent
+  Jeans mass, which yields the derivation of the mass spectrum of self-gravitating
+  objects in a quiescent or a turbulent environment. The same formalism also yields
+  the mass spectrum of non-self-gravitating clumps produced in supersonic flows. The
+  mass spectrum of the self-gravitating cores reproduces well the observed IMF. The
+  theory predicts that the shape of the IMF results from two competing contributions,
+  namely, a power law at large scales and an exponential cutoff (lognormal form) centered
+  around the characteristic mass for gravitational collapse. The cutoff exists both
+  in the case of thermal or turbulent collapse, provided that the underlying density
+  field has a lognormal distribution. Whereas pure thermal collapse produces a power-law
+  tail steeper than the Salpeter value, dN/dlog M propto M-x with x simeq 1.35, the
+  latter is recovered exactly for the (three-dimensional) value of the spectral index
+  of the velocity power spectrum, n simeq 3.8, found in observations and in numerical
+  simulations of isothermal supersonic turbulence. Indeed, the theory predicts that
+  x = (n + 1)/(2n - 4) for self-gravitating structures and x = 2 - n'/3 for non-self-gravitating
+  structures, where n' is the power spectrum index of log rho . We show that, whereas
+  supersonic turbulence promotes the formation of both massive stars and brown dwarfs,
+  it has an overall negative impact on star formation, decreasing the star formation
+  efficiency. This theory provides a novel theoretical foundation to understand the
+  origin of the IMF and provides useful guidance to numerical simulations exploring
+  star formation, while making testable predictions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...684..395H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0805.0691
+author: Hennebelle, P. and Chabrier, G.
+author_list:
+- family: Hennebelle
+  given: P.
+- family: Chabrier
+  given: G.
+date-added: 2017-08-11 01:45:25 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/589916
+eid: 395-410
+eprint: '0805.0691'
+journal: \apj
+keywords: 'ISM: clouds, stars: formation, stars: luminosity function, mass function,
+  turbulence'
+month: September
+pages: 395--410
+papis_id: 09f1f3171b512e1bceae267407283f38
+ref: hennebelle.p.2008
+title: 'Analytical Theory for the Initial Mass Function: CO Clumps and Prestellar
+  Cores'
+type: article
+volume: '684'
+year: '2008'

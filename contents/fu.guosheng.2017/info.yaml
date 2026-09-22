@@ -1,0 +1,28 @@
+abstract: We introduce a new troubled-cell indicator for the discontinuous Galerkin
+  (DG) methods for solving hyperbolic conservation laws. This indicator can be defined
+  on unstructured meshes for high order DG methods and depends only on data from the
+  target cell and its immediate neighbors. It is able to identify shocks without PDE
+  sensitive parameters to tune. Extensive one- and two-dimensional simulations on
+  the hyperbolic systems of Euler equations indicate the good performance of this
+  new troubled-cell indicator coupled with a simple minmod-type TVD limiter for the
+  Runge--Kutta DG (RKDG) methods.
+author: Fu, Guosheng and Shu, Chi-Wang
+author_list:
+- family: Fu
+  given: Guosheng
+- family: Shu
+  given: Chi-Wang
+doi: https://doi.org/10.1016/j.jcp.2017.06.046
+issn: 0021-9991
+journal: Journal of Computational Physics
+keywords: Discontinuous Galerkin method, Limiters, Troubled-cell indicator, High order
+  accuracy
+pages: 305--327
+papis_id: 2a3f3dc5ef8e24c31ca58c0058dd173e
+ref: fu.guosheng.2017
+title: A new troubled-cell indicator for discontinuous Galerkin methods for hyperbolic
+  conservation laws
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0021999117305004
+volume: '347'
+year: '2017'

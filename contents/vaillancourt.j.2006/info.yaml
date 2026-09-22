@@ -1,0 +1,28 @@
+abstract: The determination of the true source polarization given a set of measurements
+  is complicated by the requirement that the polarization always be positive. This
+  positive bias also hinders construction of upper limits, uncertainties, and confidence
+  regions, especially at low signal-to-noise ratios (S/Ns). We take a Bayesian approach
+  to creating confidence regions and upper limits by integrating over the likelihood
+  function for polarization measurements. These regions are valid for both low- and
+  high-S/N measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006PASP..118.1340V
+arxivurl: http://arxiv.org/abs/astro-ph/0603110
+author: Vaillancourt, J. E.
+author_list:
+- family: Vaillancourt
+  given: J. E.
+date-added: 2017-08-11 06:38:01 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/507472
+eprint: astro-ph/0603110
+journal: \pasp
+keywords: Polarization
+month: September
+pages: 1340--1343
+papis_id: 3d788f665d4ebe27e546ce42355c1653
+ref: vaillancourt.j.2006
+title: Placing Confidence Limits on Polarization Measurements
+type: article
+volume: '118'
+year: '2006'

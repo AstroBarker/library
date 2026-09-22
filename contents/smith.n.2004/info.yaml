@@ -1,0 +1,52 @@
+abstract: We discuss an interesting feature of the distribution of luminous blue variables
+  (LBVs) on the H-R diagram, and we propose a connection with the bistability jump
+  seen in the winds of early-type supergiants. There appears to be a deficiency of
+  quiescent LBVs on the S Doradus instability strip at luminosities between log(L/Lsolar)~=5.6
+  and 5.8. The upper boundary, interestingly, is also where the temperature-dependent
+  S Doradus instability strip intersects the bistability jump at about Teff~=21,000
+  K. Because of increased opacity, winds of early-type supergiants are slower and
+  denser on the cool side of the bistability jump, and we postulate that this may
+  trigger optically thick winds that inhibit quiescent LBVs from residing there. We
+  conduct numerical simulations of radiation-driven winds for a range of temperatures,
+  masses, and velocity laws at log(L/Lsolar)=5.7 to see what effect the bistability
+  jump should have. We find that for relatively low stellar masses, the order-of-magnitude
+  increase in the wind density at the bistability jump leads to the formation of a
+  modest to strong pseudophotosphere that might alter a star's apparent position on
+  the H-R diagram. The effect is strongest for LBVs approaching 10 Msolar, where the
+  pseudophotospheres are sufficiently extended to make an early B-type star appear
+  as a yellow hypergiant. Thus, the proposed mechanism will be most relevant for LBVs
+  that are post-red supergiants [curiously, the upper boundary at log(L/Lsolar)~=5.8
+  coincides with the upper luminosity limit for red supergiants]. Further work is
+  obviously needed, especially with regard to a possible evolutionary connection between
+  the ``missing'' LBVs and the most luminous red supergiants and yellow hypergiants.
+  Specifically, yellow hypergiants such as IRC +10420 and rho Cas occupy the same
+  luminosity range as the missing LBVs and show apparent temperature variations at
+  constant luminosity. If these yellow hypergiants do eventually become Wolf-Rayet
+  stars, we speculate that they may skip the normal LBV phase, at least as far as
+  their apparent positions on the H-R diagram are concerned.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...615..475S
+arxivurl: http://arxiv.org/abs/astro-ph/0407202
+author: Smith, N. and Vink, J. S. and de Koter, A.
+author_list:
+- family: Smith
+  given: N.
+- family: Vink
+  given: J. S.
+- family: de Koter
+  given: A.
+date-added: 2017-08-10 14:19:05 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/424030
+eprint: astro-ph/0407202
+journal: \apj
+keywords: 'Stars: Early-Type, Stars: Evolution, Stars: Mass Loss, Stars: Variables:
+  Other, Stars: Winds, Outflows, Stars: Supergiants'
+month: November
+pages: 475--484
+papis_id: 23c0e36016ead0eadd11d1c5e7c922eb
+ref: smith.n.2004
+title: The Missing Luminous Blue Variables and the Bistability Jump
+type: article
+volume: '615'
+year: '2004'

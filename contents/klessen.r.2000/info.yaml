@@ -1,0 +1,45 @@
+abstract: 'Observed molecular clouds often appear to have very low star formation
+  efficiencies and lifetimes an order of magnitude longer than their free-fall times.
+  Their support is attributed to the random supersonic motions observed in them. We
+  study the support of molecular clouds against gravitational collapse by supersonic,
+  gasdynamical turbulence using direct numerical simulation. Computations with two
+  different algorithms are compared: a particle-based, Lagrangian method (smoothed
+  particle hydrodynamics [SPH]) and a grid-based, Eulerian, second-order method (ZEUS).
+  The effects of both algorithm and resolution can be studied with this method. We
+  find that, under typical molecular cloud conditions, global collapse can indeed
+  be prevented, but density enhancements caused by strong shocks nevertheless become
+  gravitationally unstable and collapse into dense cores and, presumably, stars. The
+  occurrence and efficiency of local collapse decreases as the driving wavelength
+  decreases and the driving strength increases. It appears that local collapse can
+  be prevented entirely only with unrealistically short wavelength driving, but observed
+  core formation rates can be reproduced with more realistic driving. At high collapse
+  rates, cores are formed on short timescales in coherent structures with high efficiency,
+  while at low collapse rates they are scattered randomly throughout the region and
+  exhibit considerable age spread. We suggest that this naturally explains the observed
+  distinction between isolated and clustered star formation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...535..887K
+arxivurl: http://arxiv.org/abs/astro-ph/9911068
+author: Klessen, R. S. and Heitsch, F. and Mac Low, M.-M.
+author_list:
+- family: Klessen
+  given: R. S.
+- family: Heitsch
+  given: F.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:38:38 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308891
+eprint: astro-ph/9911068
+journal: \apj
+keywords: 'Hydrodynamics, ISM: Clouds, ISM: Kinematics and Dynamics, Stars: Formation,
+  Turbulence'
+month: June
+pages: 887--906
+papis_id: ee1274fab00f5d61e3aed523beb6eccd
+ref: klessen.r.2000
+title: Gravitational Collapse in Turbulent Molecular Clouds. I. Gasdynamical Turbulence
+type: article
+volume: '535'
+year: '2000'

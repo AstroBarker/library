@@ -1,0 +1,39 @@
+abstract: We discuss the use of Sloan Digital Sky Survey (SDSS) ugriz point-spread
+  function (PSF) photometry for setting the zero points of UBVRI CCD images. From
+  a comparison with the Landolt (1992, AJ, 104, 340) standards and our own photometry
+  we find that there is a fairly abrupt change in B, V, R, and I zero points around
+  g, r, i ~ 14.5, and in the U zero point at u ~ 16. These changes correspond to where
+  there is significant interpolation due to saturation in the SDSS PSF fluxes. There
+  also seems to be another, much smaller systematic effect for stars with g, r gsim
+  19.5. The latter effect is consistent with a small Malmquist bias. Because of the
+  difficulties with PSF fluxes of brighter stars, we recommend that comparisons of
+  ugriz and UBVRI photometry should only be made for unsaturated stars with g, r,
+  and i in the range 14.5-19.5, and u in the range 16-19.5. We give a prescription
+  for setting the UBVRI zero points for CCD images, and general equations for transforming
+  from ugriz to UBVRI.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....135..264C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.5801
+author: Chonis, T. S. and Gaskell, C. M.
+author_list:
+- family: Chonis
+  given: T. S.
+- family: Gaskell
+  given: C. M.
+date-added: 2017-08-11 01:12:09 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1088/0004-6256/135/1/264
+eprint: '0710.5801'
+journal: \aj
+keywords: 'catalogs, standards, stars: fundamental parameters, surveys, techniques:
+  photometric'
+month: January
+pages: 264--267
+papis_id: 13661288b74f06ec7f5e91203c59347e
+ref: chonis.t.2008
+title: Setting UBVRI Photometric Zero-Points Using Sloan Digital Sky Survey ugriz
+  Magnitudes
+type: article
+volume: '135'
+year: '2008'

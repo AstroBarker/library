@@ -1,0 +1,38 @@
+abstract: We study convective motions taken from hydrodynamic simulations of rotating
+  proto-neutron stars (PNSs) with respect to their ability to excite a dynamo instability
+  which may be responsible for the giant neutron star magnetic fields. Since it is
+  impossible to simulate the magnetic field evolution employing the actual magnetic
+  Reynolds numbers (Rm) resulting from the hydrodynamic simulations, (smallest) critical
+  Rms and the corresponding field geometries are derived on the kinematic level by
+  rescaling the velocity amplitudes. It turns out that the actual values of Rm are
+  by many orders of magnitude larger than the critical values found. A dynamo might
+  therefore start to act vigorously very soon after the onset of convection. But as
+  in general dynamo growth rates are non-monotonous functions of Rm the later fate
+  of the magnetic field is uncertain. Hence, no reliable statements on the existence
+  and efficiency of PNS dynamos can be drawn without considering the interplay of
+  magnetic field and convection from the beginning. Likewise, in so far as convection
+  inside the PNS is regarded to be essential in re-launching the supernova explosion,
+  a revision of its role in this respect could turn out to be necessary.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...435..201R
+arxivurl: http://arxiv.org/abs/astro-ph/0502277
+author: Rheinhardt, M. and Geppert, U.
+author_list:
+- family: Rheinhardt
+  given: M.
+- family: Geppert
+  given: U.
+date-added: 2017-08-11 06:57:53 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1051/0004-6361:20042062
+eprint: astro-ph/0502277
+journal: \aap
+keywords: 'stars: neutron, stars: magnetic fields'
+month: May
+pages: 201--206
+papis_id: ad9a3f80d20fead9b5dd2919e5bbb217
+ref: rheinhardt.m.2005
+title: The proto-neutron-star dynamo. Viability and impediments
+type: article
+volume: '435'
+year: '2005'

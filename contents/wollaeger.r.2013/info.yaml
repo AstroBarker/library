@@ -1,0 +1,59 @@
+abstract: We explore Implicit Monte Carlo (IMC) and discrete diffusion Monte Carlo
+  (DDMC) for radiation transport in high-velocity outflows with structured opacity.
+  The IMC method is a stochastic computational technique for nonlinear radiation transport.
+  IMC is partially implicit in time and may suffer in efficiency when tracking MC
+  particles through optically thick materials. DDMC accelerates IMC in diffusive domains.
+  Abdikamalov extended IMC and DDMC to multigroup, velocity-dependent transport with
+  the intent of modeling neutrino dynamics in core-collapse supernovae. Densmore has
+  also formulated a multifrequency extension to the originally gray DDMC method. We
+  rigorously formulate IMC and DDMC over a high-velocity Lagrangian grid for possible
+  application to photon transport in the post-explosion phase of Type Ia supernovae.
+  This formulation includes an analysis that yields an additional factor in the standard
+  IMC-to-DDMC spatial interface condition. To our knowledge the new boundary condition
+  is distinct from others presented in prior DDMC literature. The method is suitable
+  for a variety of opacity distributions and may be applied to semi-relativistic radiation
+  transport in simple fluids and geometries. Additionally, we test the code, called
+  SuperNu, using an analytic solution having static material, as well as with a manufactured
+  solution for moving material with structured opacities. Finally, we demonstrate
+  with a simple source and 10 group logarithmic wavelength grid that IMC-DDMC performs
+  better than pure IMC in terms of accuracy and speed when there are large disparities
+  between the magnitudes of opacities in adjacent groups. We also present and test
+  our implementation of the new boundary condition.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..209...36W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.5700
+author: Wollaeger, R. T. and van Rossum, D. R. and Graziani, C. and Couch, S. M. and
+  Jordan IV, G. C. and Lamb, D. Q. and Moses, G. A.
+author_list:
+- family: Wollaeger
+  given: R. T.
+- family: van Rossum
+  given: D. R.
+- family: Graziani
+  given: C.
+- family: Couch
+  given: S. M.
+- family: Jordan IV
+  given: G. C.
+- family: Lamb
+  given: D. Q.
+- family: Moses
+  given: G. A.
+date-added: 2017-08-10 19:43:31 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0067-0049/209/2/36
+eid: '36'
+eprint: '1306.5700'
+journal: \apjs
+keywords: 'methods: numerical, radiative transfer, stars: evolution, supernovae: general'
+month: December
+pages: '36'
+papis_id: c21cf29e842848ec73f6fde88716fa41
+primaryclass: astro-ph.HE
+ref: wollaeger.r.2013
+title: 'Radiation Transport for Explosive Outflows: A Multigroup Hybrid Monte Carlo
+  Method'
+type: article
+volume: '209'
+year: '2013'

@@ -1,0 +1,50 @@
+abstract: We present Chandra gas temperature profiles at large radii for a sample
+  of 13 nearby, relaxed galaxy clusters and groups, which includes A133, A262, A383,
+  A478, A907, A1413, A1795, A1991, A2029, A2390, MKW 4, RX J1159+5531, and USGC S152.
+  The sample covers a range of average temperatures from 1 to 10 keV. The clusters
+  are selected from the archive or observed by us to have sufficient exposures and
+  off-center area coverage to enable accurate background subtraction and reach the
+  temperature accuracy of better than 20\%-30\% at least to r=(0.4-0.5)r180 and for
+  the three best clusters to (0.6-0.7)r180. For all clusters, we find cool gas in
+  the cores, outside of which the temperature reaches a peak at r~0.15r180 and then
+  declines to ~0.5 of its peak value at r~=0.5r180. When the profiles are scaled by
+  the cluster average temperature (excluding cool cores) and the estimated virial
+  radius, they show large scatter at small radii but remarkable similarity at r>(0.1-0.2)r180
+  for all but one cluster (A2390). Our results are in good agreement with previous
+  measurements from ASCA by Markevitch et al. and from BeppoSAX by De Grandi \& Molendi.
+  Four clusters have recent XMM-Newton temperature profiles, two of which agree with
+  our results, and we discuss reasons for disagreement for the other two. The overall
+  shape of the temperature profiles at large radii is reproduced in recent cosmological
+  simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...628..655V
+arxivurl: http://arxiv.org/abs/astro-ph/0412306
+author: Vikhlinin, A. and Markevitch, M. and Murray, S. S. and Jones, C. and Forman,
+  W. and Van Speybroeck, L.
+author_list:
+- family: Vikhlinin
+  given: A.
+- family: Markevitch
+  given: M.
+- family: Murray
+  given: S. S.
+- family: Jones
+  given: C.
+- family: Forman
+  given: W.
+- family: Van Speybroeck
+  given: L.
+date-added: 2017-08-11 04:02:28 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431142
+eprint: astro-ph/0412306
+journal: \apj
+keywords: 'Galaxies: Clusters: General, X-Rays: Galaxies: Clusters'
+month: August
+pages: 655--672
+papis_id: ce2b9ab8638f61fc4252e848e678cbf3
+ref: vikhlinin.a.2005
+title: Chandra Temperature Profiles for a Sample of Nearby Relaxed Galaxy Clusters
+type: article
+volume: '628'
+year: '2005'

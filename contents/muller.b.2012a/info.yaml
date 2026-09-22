@@ -1,0 +1,49 @@
+abstract: The neutrino-driven explosion mechanism for core-collapse supernovae in
+  its modern flavor relies on the additional support of hydrodynamical instabilities
+  in achieving shock revival. Two possible candidates, convection and the so-called
+  standing accretion shock instability (SASI), have been proposed for this role. In
+  this paper, we discuss new successful simulations of supernova explosions that shed
+  light on the relative importance of these two instabilities. While convection has
+  so far been observed to grow first in self-consistent hydrodynamical models with
+  multi-group neutrino transport, we here present the first such simulation in which
+  the SASI grows faster while the development of convection is initially inhibited.
+  We illustrate the features of this SASI-dominated regime using an explosion model
+  of a 27 M \&sun; progenitor, which is contrasted with a convectively dominated model
+  of an 8.1 M \&sun; progenitor with subsolar metallicity, whose early post-bounce
+  behavior is more in line with previous 11.2 M \&sun; and 15 M \&sun; explosion models.
+  We analyze the conditions discriminating between the two different regimes, showing
+  that a high mass-accretion rate and a short advection timescale are conducive for
+  strong SASI activity. We also briefly discuss some important factors for capturing
+  the SASI-driven regime, such as general relativity, the progenitor structure, a
+  nuclear equation of state leading to a compact proto-neutron star, and the neutrino
+  treatment. Finally, we evaluate possible implications of our findings for two-dimensional
+  and three-dimensional supernova simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...761...72M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.7078
+author: Müller, B. and Janka, H.-T. and Heger, A.
+author_list:
+- family: Müller
+  given: B.
+- family: Janka
+  given: H.-T.
+- family: Heger
+  given: A.
+date-added: 2017-08-10 14:33:46 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/761/1/72
+eid: '72'
+eprint: '1205.7078'
+journal: \apj
+keywords: 'gravitation, hydrodynamics, instabilities, neutrinos, supernovae: general'
+month: December
+pages: '72'
+papis_id: cc289f6594094611a508ab0c00410dee
+primaryclass: astro-ph.SR
+ref: muller.b.2012a
+title: 'New Two-dimensional Models of Supernova Explosions by the Neutrino-heating
+  Mechanism: Evidence for Different Instability Regimes in Collapsing Stellar Cores'
+type: article
+volume: '761'
+year: '2012'

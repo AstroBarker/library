@@ -1,0 +1,44 @@
+abstract: 'We describe a new program for determining photometric redshifts, dubbed
+  EAZY. The program is optimized for cases where spectroscopic redshifts are not available,
+  or are only available for a biased subset of the galaxies. The code combines features
+  from various existing codes: it can fit linear combinations of templates, it includes
+  optional flux- and redshift-based priors, and its user interface is modeled on the
+  popular HYPERZ code. A novel feature is that the default template set, as well as
+  the default functional forms of the priors, are not based on (usually highly biased)
+  spectroscopic samples, but on semianalytical models. Furthermore, template mismatch
+  is addressed by a novel rest-frame template error function. This function gives
+  different wavelength regions different weights, and ensures that the formal redshift
+  uncertainties are realistic. We introduce a redshift quality parameter, Qz, which
+  provides a robust estimate of the reliability of the photometric redshift estimate.
+  Despite the fact that EAZY is not "trained" on spectroscopic samples, the code (with
+  default parameters) performs very well on existing public data sets. For K-selected
+  samples in CDF-South and other deep fields, we find a 1 sigma scatter in Delta z/(1
+  + z) of 0.034, and we provide updated photometric redshift catalogs for the FIRES,
+  MUSYC, and FIREWORKS surveys.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...686.1503B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.1533
+author: Brammer, G. B. and van Dokkum, P. G. and Coppi, P.
+author_list:
+- family: Brammer
+  given: G. B.
+- family: van Dokkum
+  given: P. G.
+- family: Coppi
+  given: P.
+date-added: 2017-08-10 17:12:08 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/591786
+eid: 1503-1513
+eprint: '0807.1533'
+journal: \apj
+keywords: 'cosmology: observations, galaxies: evolution, galaxies: formation'
+month: October
+pages: 1503--1513
+papis_id: 1f534f2d194bcc7bbbfd6b27878d5fe9
+ref: brammer.g.2008
+title: 'EAZY: A Fast, Public Photometric Redshift Code'
+type: article
+volume: '686'
+year: '2008'

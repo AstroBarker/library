@@ -1,0 +1,45 @@
+abstract: A stalled spherical accretion shock, such as that arising in core-collapse
+  supernovae, is unstable to non-spherical perturbations. In three dimensions, this
+  Standing Accretion Shock Instability can develop spiral modes that spin-up the protoneutron
+  star. Here, we study these non-axisymmetric modes by combining linear stability
+  analysis and three-dimensional, time-dependent hydrodynamic simulations with Zeus-MP,
+  focusing on characterizing their spatial structure and angular momentum content.
+  We do not impose any rotation on the background accretion flow and use simplified
+  microphysics with no neutrino heating or nuclear dissociation. Spiral modes are
+  examined in isolation by choosing flow parameters such that only the fundamental
+  mode is unstable for a given polar index ell, leading to good agreement with linear
+  theory. We find that any superposition of sloshing modes with non-zero relative
+  phases survives in the nonlinear regime and leads to angular momentum redistribution.
+  It follows that the range of perturbations required to obtain spin-up is broader
+  than that needed to obtain the limiting case of a phase shift of pi/2. The bulk
+  of the angular momentum redistribution occurs during a phase of exponential growth
+  and arises from internal torques that are second order in the perturbation amplitude.
+  This redistribution gives rise to at least two counter-rotating regions, with the
+  maximum angular momentum of a given sign approaching a significant fraction of the
+  mass accretion rate times the shock radius squared (\dot{M} r\_shock^2\texttildelow{}
+  10^{47} g cm2 s-1, spin period ~60 ms). Nonlinear mode coupling at saturation causes
+  the angular momentum to fluctuate in all directions with much smaller amplitudes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...725.1563F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.1730
+author: Fernández, R.
+author_list:
+- family: Fernández
+  given: R.
+date-added: 2017-08-10 14:45:54 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/725/2/1563
+eprint: '1003.1730'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, pulsars: general, shock waves, stars: rotation,
+  supernovae: general'
+month: December
+pages: 1563--1580
+papis_id: 40775017b127f826cfd13a5e71f9c0ef
+primaryclass: astro-ph.SR
+ref: fernandez.r.2010
+title: The Spiral Modes of the Standing Accretion Shock Instability
+type: article
+volume: '725'
+year: '2010'

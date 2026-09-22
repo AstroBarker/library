@@ -1,0 +1,50 @@
+abstract: We present observations from the Transiting Exoplanet Survey Satellite         (TESS)
+  of twenty bright core-collapse supernovae with peak TESS-         band magnitudes
+  {\ensuremath{\lesssim}}18 mag. We reduce this         data with an implementation
+  of the image subtraction pipeline         used by the All-Sky Automated Survey for
+  Supernovae (ASAS-SN)         optimized for use with the TESS images. In empirical
+  fits to the         rising light curves, we do not find strong correlations between         the
+  fit parameters and the peak luminosity. Existing semi-         analytic models fit
+  the light curves of the Type II supernovae         well, but do not yield reasonable
+  estimates of the progenitor         radius or explosion energy, likely because they
+  are derived for         use with ultraviolet observations while TESS observes in
+  the         near-infrared. If we instead fit the data with numerically         simulated
+  light curves, the rising light curves of the Type II         supernovae are consistent
+  with the explosions of red         supergiants. While we do not identify shock breakout
+  emission         for any individual event, when we combine the fit residuals of         the
+  Type II supernovae in our sample, we do find a         >5{\ensuremath{\sigma}} flux
+  excess in the {\ensuremath{\sim}}1         d before the start of the light-curve
+  rise. It is likely that         this excess is due to shock breakout emission, and
+  that during         its extended mission TESS will observe a Type II supernova         bright
+  enough for this signal to be detected directly.
+archiveprefix: arXiv
+author: Vallely, P. J. and Kochanek, C. S. and Stanek, K. Z. and Fausnaugh, M. and
+  Shappee, B. J.
+author_list:
+- family: Vallely
+  given: P. J.
+- family: Kochanek
+  given: C. S.
+- family: Stanek
+  given: K. Z.
+- family: Fausnaugh
+  given: M.
+- family: Shappee
+  given: B. J.
+doi: 10.1093/mnras/staa3675
+eprint: '2010.06596'
+journal: \mnras
+keywords: 'techniques: photometric, methods: observational, stars: massive, supernovae:
+  general, transients: supernovae, Astrophysics - High Energy Astrophysical Phenomena'
+month: January
+number: '4'
+pages: 5639--5656
+papis_id: 1cab9dea4332e7b728c830678320721e
+primaryclass: astro-ph.HE
+ref: vallely.p.2021
+title: High-cadence, early-time observations of core-collapse supernovae from the
+  TESS prime mission
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5639V
+volume: '500'
+year: '2021'

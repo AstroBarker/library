@@ -1,0 +1,38 @@
+abstract: We re-examine the Boussinesq hypothesis of an effective turbulent viscosity
+  within the context of simple closure considerations for models of strong magnetohydrodynamic
+  turbulence. Reynolds-stress and turbulent Maxwell-stress closure models will necessarily
+  introduce a suite of transport coefficients, all of which are to some degree model-dependent.
+  One of the most important coefficients is the relaxation time for the turbulent
+  Maxwell stress, which until recently has been relatively ignored. We discuss this
+  relaxation within the context of magnetohydrodynamic turbulence in steady high fluid
+  Reynolds-number, high magnetic-Reynolds-number shearing flows. The relaxation time
+  for the turbulent Maxwell stress is not constrained by the shear time scale, in
+  contrast with Reynolds-stress closure models for purely hydrodynamical turbulence.
+  As a result, the anisotropy of the turbulent stress tensor for magnetohydrodynamic
+  turbulence, even for the case of zero mean-field considered here, cannot be neglected.
+  This shear-generated anisotropy can be interpreted as being due to an effective
+  turbulent elasticity, in analogy to the Boussinesq turbulent viscosity. We claim
+  that this turbulent elasticity should be important for any astrophysical problem
+  in which the turbulent stress in quasi-steady shear has been treated phenomenologically
+  with an effective viscosity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004NewA...10..133W
+arxivurl: http://arxiv.org/abs/astro-ph/0212556
+author: Williams, P. T.
+author_list:
+- family: Williams
+  given: P. T.
+date-added: 2017-08-10 14:10:36 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1016/j.newast.2004.03.006
+eprint: astro-ph/0212556
+journal: \na
+month: December
+pages: 133--144
+papis_id: 205beb3eef771d614e7ea6f2a7660e5b
+ref: williams.p.2004
+title: 'Turbulent magnetohydrodynamic elasticity: Boussinesq-like approximations for
+  steady shear'
+type: article
+volume: '10'
+year: '2004'

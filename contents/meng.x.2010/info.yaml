@@ -1,0 +1,46 @@
+abstract: Although the nature of the progenitor of Type Ia supernovae (SNe Ia) is
+  still unclear, the single-degenerate (SD) channel for the progenitor is currently
+  accepted, in which a carbon-oxygen white dwarf (CO WD) accretes hydrogen-rich material
+  from its companion, increases its mass to the Chandrasekhar mass limit, and then
+  explodes as an SN Ia. The companion may be a main sequence or a slightly evolved
+  star (WD + MS), or a red giant star (WD + RG). Incorporating the effect of mass
+  stripping and accretion-disk instability on the evolution of the WD binary, we carried
+  out binary stellar evolution calculations for more than 1600 close WD binaries.
+  As a result, the initial parameter spaces for SNe Ia are presented in an orbital
+  period-secondary mass (log P i, M i 2) plane. We confirmed that in a WD + MS system,
+  the initial companion leading to SNe Ia may have mass from 1 M sun to 5 M sun. The
+  initial WD mass for SNe Ia from WD + MS channel is as low as 0.565 M sun, while
+  the lowest WD mass from the WD + RG channel is 1.0 M sun. Adopting the above results,
+  we studied the birth rate of SNe Ia via a binary population synthesis approach.
+  We found that the Galactic SNe Ia birth rate from SD model is (2.55-2.9) \texttimes{}
+  10-3 yr-1 (including WD + He star channel), which is slightly smaller than that
+  from observation. If a single starburst is assumed, the distribution of the delay
+  time of SNe Ia from the SD model may be a weak bimodality, where WD + He channel
+  contributes to SNe Ia with delay time shorter than 108 yr and WD + RG channel to
+  those with age longer than 6 Gyr.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...710.1310M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.4992
+author: Meng, X. and Yang, W.
+author_list:
+- family: Meng
+  given: X.
+- family: Yang
+  given: W.
+date-added: 2017-08-11 04:30:10 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/710/2/1310
+eprint: '0910.4992'
+journal: \apj
+keywords: 'binaries: close, stars: evolution, stars: dwarf novae, supernovae: general,
+  white dwarfs'
+month: February
+pages: 1310--1323
+papis_id: 0243ebc9128e39b2d65dd6ffd59f8a31
+primaryclass: astro-ph.SR
+ref: meng.x.2010
+title: A Comprehensive Progenitor Model for SNe Ia
+type: article
+volume: '710'
+year: '2010'

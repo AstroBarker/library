@@ -1,0 +1,56 @@
+abstract: Supermassive primordial stars are expected to form in a small fraction of
+  massive protogalaxies in the early universe, and are generally conceived of as the
+  progenitors of the seeds of supermassive black holes (BHs). Supermassive stars with
+  masses of ~55, 000 M \&sun;, however, have been found to explode and completely
+  disrupt in a supernova (SN) with an energy of up to ~1055 erg instead of collapsing
+  to a BH. Such events, ~10, 000 times more energetic than typical SNe today, would
+  be among the biggest explosions in the history of the universe. Here we present
+  a simulation of such a SN in two stages. Using the RAGE radiation hydrodynamics
+  code, we first evolve the explosion from an early stage through the breakout of
+  the shock from the surface of the star until the blast wave has propagated out to
+  several parsecs from the explosion site, which lies deep within an atomic cooling
+  dark matter (DM) halo at z ~= 15. Then, using the GADGET cosmological hydrodynamics
+  code, we evolve the explosion out to several kiloparsecs from the explosion site,
+  far into the low-density intergalactic medium. The host DM halo, with a total mass
+  of 4 \texttimes{} 107 M \&sun;, much more massive than typical primordial star-forming
+  halos, is completely evacuated of high-density gas after <~ 10 Myr, although dense
+  metal-enriched gas recollapses into the halo, where it will likely form second-generation
+  stars with metallicities of ~= 0.05 Z \&sun; after >~ 70 Myr. The chemical signature
+  of supermassive star explosions may be found in such long-lived second-generation
+  stars today.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775..107J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.4601
+author: Johnson, J. L. and Whalen, D. J. and Even, W. and Fryer, C. L. and Heger,
+  A. and Smidt, J. and Chen, K.-J.
+author_list:
+- family: Johnson
+  given: J. L.
+- family: Whalen
+  given: D. J.
+- family: Even
+  given: W.
+- family: Fryer
+  given: C. L.
+- family: Heger
+  given: A.
+- family: Smidt
+  given: J.
+- family: Chen
+  given: K.-J.
+date-added: 2017-08-10 19:03:58 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/775/2/107
+eid: '107'
+eprint: '1304.4601'
+journal: \apj
+keywords: 'cosmology: theory, early universe, supernovae: general'
+month: October
+pages: '107'
+papis_id: ae335ae8a6a17f64b178c7024b43de12
+ref: johnson.j.2013a
+title: The Biggest Explosions in the Universe
+type: article
+volume: '775'
+year: '2013'

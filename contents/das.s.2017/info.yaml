@@ -1,0 +1,45 @@
+abstract: We show how dense, compact, discrete shells of circumstellar gas immediately
+  outside of red supergiants affect the optical light curves of Type II-P/II-L supernovae
+  (SNe), using the example of SN 2013ej. Earlier efforts in the literature had used
+  an artificial circumstellar medium (CSM) stitched to the surface of an evolved star
+  that had not gone through a phase of late-stage heavy mass loss, which, in essence,
+  is the original source of the CSM. In contrast, we allow enhanced mass-loss rate
+  from the modeled star during the 16O and 28Si burning stages and construct the CSM
+  from the resulting mass-loss history in a self-consistent way. Once such evolved
+  pre-SN stars are exploded, we find that the models with early interaction between
+  the shock and the dense CSM reproduce light curves far better than those without
+  that mass loss and, hence, having no nearby dense CSM. The required explosion energy
+  for the progenitors with a dense CSM is reduced by almost a factor of two compared
+  to those without the CSM. Our model, with a more realistic CSM profile and presupernova
+  and explosion parameters, fits observed data much better throughout the rise, plateau,
+  and radioactive tail phases as compared to previous studies. This points to an intermediate
+  class of supernovae between Type II-P/II-L and Type II-n SNe with the characteristics
+  of simultaneous UV and optical peak, slow decline after peak, and a longer plateau.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJ...851..138D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1711.02102
+author: Das, S. and Ray, A.
+author_list:
+- family: Das
+  given: S.
+- family: Ray
+  given: A.
+date-added: 2018-08-27 15:13:57 -0400
+date-modified: 2018-08-27 15:13:59 -0400
+doi: 10.3847/1538-4357/aa97e1
+eid: '138'
+eprint: '1711.02102'
+journal: \apj
+keywords: 'circumstellar matter, hydrodynamics, radiative transfer, stars: mass-loss,
+  supernovae: general, supernovae: individual: SN 2013ej'
+month: December
+pages: '138'
+papis_id: 6ac2744345f499558e2a23ef020fdc94
+primaryclass: astro-ph.HE
+ref: das.s.2017
+title: Modeling Type II-P/II-L Supernovae Interacting with Recent Episodic Mass Ejections
+  from Their Presupernova Stars with MESA and SNEC
+type: article
+volume: '851'
+year: '2017'

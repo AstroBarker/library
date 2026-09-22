@@ -1,0 +1,36 @@
+abstract: We performed several two-dimensional calculations of a Type II supernova
+  explosion through the first 0.4 s past bounce, to examine the effect of convection
+  on the shock. We used the two-dimensional code to compute a convective velocity
+  to compare with the Mayle and Wilson (MW, 1993) one-dimensional code (which includes
+  more of the relevant physics) and find that the MW code does not produce an explosion
+  using the two-dimensional convective velocity. We find that convection develops
+  exponentially with a growth rate of about 100/s. If the initial perturbation is
+  sufficient, this instability grows enough to develop significant convective velocities.
+  The convective eddies then deliver energy to the shock. We present results from
+  several runs with varying sizes of initial perturbation, as well as a case with
+  no initial perturbation but including the effects of rotation. We see that convection
+  enhances the outward propagation of the shock.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...415..278M
+author: Miller, D. S. and Wilson, J. R. and Mayle, R. W.
+author_list:
+- family: Miller
+  given: D. S.
+- family: Wilson
+  given: J. R.
+- family: Mayle
+  given: R. W.
+date-added: 2017-08-10 19:40:37 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173163
+journal: \apj
+keywords: Neutrinos, Particle Acceleration, Shock Wave Propagation, Stellar Convection,
+  Stellar Luminosity, Supernovae, Hydrodynamic Equations, Two Dimensional Models
+month: September
+pages: 278--285
+papis_id: 1460c7eb33dbd01d25dd796a4ad8eaae
+ref: miller.d.1993
+title: Convection above the neutrinosphere in Type II supernovae
+type: article
+volume: '415'
+year: '1993'

@@ -1,0 +1,45 @@
+abstract: We present a new fourth-order, finite-volume hydrodynamics code named Apsara.
+  The code employs a high-order, finite-volume method for mapped coordinates with
+  extensions for nonlinear hyperbolic conservation laws. Apsara can handle arbitrary
+  structured curvilinear meshes in three spatial dimensions. The code has successfully
+  passed several hydrodynamic test problems, including the advection of a Gaussian
+  density profile and a nonlinear vortex and the propagation of linear acoustic waves.
+  For these test problems, Apsara produces fourth-order accurate results in case of
+  smooth grid mappings. The order of accuracy is reduced to first-order when using
+  the nonsmooth circular grid mapping. When applying the high-order method to simulations
+  of low-Mach number flows, for example, the Gresho vortex and the Taylor-Green vortex,
+  we discover that Apsara delivers superior results to codes based on the dimensionally
+  split, piecewise parabolic method (PPM) widely used in astrophysics. Hence, Apsara
+  is a suitable tool for simulating highly subsonic flows in astrophysics. In the
+  first astrophysical application, we perform implicit large eddy simulations (ILES)
+  of anisotropic turbulence in the context of core collapse supernova (CCSN) and obtain
+  results similar to those previously reported.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016A\%26A...595A..41W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1607.04272
+author: Wongwathanarat, A. and Grimm-Strele, H. and Müller, E.
+author_list:
+- family: Wongwathanarat
+  given: A.
+- family: Grimm-Strele
+  given: H.
+- family: Müller
+  given: E.
+date-added: 2017-09-07 15:13:39 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1051/0004-6361/201628205
+eid: A41
+eprint: '1607.04272'
+journal: \aap
+keywords: 'methods: numerical, hydrodynamics, turbulence'
+month: October
+pages: A41
+papis_id: dd8b213af950adf43cba257e0774ba23
+primaryclass: physics.comp-ph
+ref: wongwathanarat.a.2016
+title: 'APSARA: A multi-dimensional unsplit fourth-order explicit Eulerian hydrodynamics
+  code for arbitrary curvilinear grids'
+type: article
+volume: '595'
+year: '2016'

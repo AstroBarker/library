@@ -1,0 +1,38 @@
+abstract: In this work we construct a high-order, single-stage, single-step positivity-preserving
+  method for the compressible Euler equations. Space is discretized with the finite
+  difference weighted essentially non-oscillatory (WENO) method. Time is discretized
+  through a Lax-Wendroff procedure that is constructed from the Picard integral formulation
+  (PIF) of the partial differential equation. The method can be viewed as a modified
+  flux approach, where a linear combination of a low- and high-order flux defines
+  the numerical flux used for a single-step update. The coefficients of the linear
+  combination are constructed by solving a simple optimization problem at each time
+  step. The high-order flux itself is constructed through the use of Taylor series
+  and the Cauchy-Kowalewski procedure that incorporates higher-order terms. Numerical
+  results in one- and two-dimensions are presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014arXiv1411.0328S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1411.0328
+author: Seal, D. C. and Tang, Q. and Xu, Z. and Christlieb, A. J.
+author_list:
+- family: Seal
+  given: D. C.
+- family: Tang
+  given: Q.
+- family: Xu
+  given: Z.
+- family: Christlieb
+  given: A. J.
+date-added: 2017-08-10 14:03:22 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+eprint: '1411.0328'
+journal: ArXiv e-prints
+keywords: Mathematics - Numerical Analysis
+month: November
+papis_id: 07021799f848d2b03febe22e52255915
+primaryclass: math.NA
+ref: seal.d.2014
+title: An explicit high-order single-stage single-step positivity-preserving finite
+  difference WENO method for the compressible Euler equations
+type: article
+year: '2014'

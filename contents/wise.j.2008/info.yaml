@@ -1,0 +1,44 @@
+abstract: Numerous cosmological hydrodynamic studies have addressed the formation
+  of galaxies. Here we choose to study the first stages of galaxy formation, including
+  nonequilibrium atomic primordial gas cooling, gravity, and hydrodynamics. Using
+  initial conditions appropriate for the concordance cosmological model of structure
+  formation, we perform two adaptive mesh refinement simulations of ~108 M\&sun; galaxies
+  at high redshift. The calculations resolve the Jeans length at all times with more
+  than 16 cells and capture over 14 orders of magnitude in length scales. In both
+  cases, the dense, 105 solar mass, one parsec central regions are found to contract
+  rapidly and have turbulent Mach numbers up to 4. Despite the ever decreasing Jeans
+  length of the isothermal gas, we only find one site of fragmentation during the
+  collapse. However, rotational secular bar instabilities transport angular momentum
+  outward in the central parsec as the gas continues to collapse and lead to multiple
+  nested unstable fragments with decreasing masses down to sub-Jupiter mass scales.
+  Although these numerical experiments neglect star formation and feedback, they clearly
+  highlight the physics of turbulence in gravitationally collapsing gas. The angular
+  momentum segregation seen in our calculations plays an important role in theories
+  that form supermassive black holes from gaseous collapse.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...682..745W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.1678
+author: Wise, J. H. and Turk, M. J. and Abel, T.
+author_list:
+- family: Wise
+  given: J. H.
+- family: Turk
+  given: M. J.
+- family: Abel
+  given: T.
+date-added: 2017-08-10 21:44:53 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/588209
+eid: 745-757
+eprint: '0710.1678'
+journal: \apj
+keywords: 'black hole physics, cosmology: theory, galaxies: formation, instabilities'
+month: August
+pages: 745--757
+papis_id: adae33bba8d8abcba50ba34202108f0e
+ref: wise.j.2008
+title: Resolving the Formation of Protogalaxies. II. Central Gravitational Collapse
+type: article
+volume: '682'
+year: '2008'

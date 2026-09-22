@@ -1,0 +1,35 @@
+abstract: 'Photoionization cross sections, sigmaPI, and electron-ion recombination
+  rate coefficients, alphaR, for silicon-like ions are calculated. Calculations are
+  carried out in the close coupling approximation using the R-matrix method. Each
+  ion has a large number of bound states with n<=10 and l<=9: 433 for Ar V, 631 for
+  Ca VII, and 1223 for Fe XIII. Both the partial photoionization cross sections leaving
+  the core ion in the ground state and the total cross sections for ionization in
+  the ground state as well as the excited core states are obtained for all bound states.
+  The electron-ion recombination rates are obtained using a unified method, based
+  on the close coupling R-matrix method, that incorporates both the radiative and
+  dielectronic recombination processes in a self-consistent and unified manner. Total
+  recombination rate coefficients are presented for a wide range of temperatures for
+  practical applications. State-specific recombination rate coefficients for individual
+  bound states are also presented. Results of Si I and S III, derived from earlier
+  works, are also presented for completeness.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..126..537N
+author: Nahar, S. N.
+author_list:
+- family: Nahar
+  given: S. N.
+date-added: 2017-08-11 05:59:35 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/313307
+journal: \apjs
+keywords: ATOMIC DATA, ATOMIC PROCESSES, Atomic Data, Atomic Processes
+month: February
+pages: 537--550
+papis_id: f82fef59fc529233a362a457c53c2392
+ref: nahar.s.2000
+title: 'Electron-Ion Recombination Rate Coefficients and Photoionization Cross Sections
+  for Astrophysically Abundant Elements. III. Si-Sequence Ions: Si I, S III, Ar V,
+  Ca VII, and Fe XIII'
+type: article
+volume: '126'
+year: '2000'

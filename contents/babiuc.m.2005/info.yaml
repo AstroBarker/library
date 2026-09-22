@@ -1,0 +1,37 @@
+abstract: 'We implement a code to find the gravitational news at future null infinity
+  by using data from a Cauchy code as boundary data for a characteristic code. This
+  technique of Cauchy characteristic extraction (CCE) allows for the unambiguous extraction
+  of gravitational waves from numerical simulations. We first test the technique on
+  non-radiative spacetimes: Minkowski spacetime, perturbations of Minkowski spacetime
+  and static black hole spacetimes in various gauges. We show the convergence and
+  limitations of the algorithm and illustrate its success in cases where other wave
+  extraction methods fail. We further apply our techniques to a standard radiative
+  test case for wave extraction, a linearized Teukolsky wave, presenting our results
+  in comparison to the Zerilli technique, and we argue for the advantages of our method
+  of extraction.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005CQGra..22.5089B
+author: Babiuc, M. and Szilágyi, B. and Hawke, I. and Zlochower, Y.
+author_list:
+- family: Babiuc
+  given: M.
+- family: Szilágyi
+  given: B.
+- family: Hawke
+  given: I.
+- family: Zlochower
+  given: Y.
+date-added: 2017-08-11 06:10:36 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1088/0264-9381/22/23/011
+eprint: gr-qc/0501008
+journal: Classical and Quantum Gravity
+month: December
+pages: 5089--5107
+papis_id: a730f2fd8c8c6d5cbc991e486ca3377d
+ref: babiuc.m.2005
+title: Gravitational wave extraction based on Cauchy characteristic extraction and
+  characteristic evolution
+type: article
+volume: '22'
+year: '2005'

@@ -1,0 +1,63 @@
+abstract: We report new radial velocity observations of GP Vel / HD 77581, the optical
+  companion to the eclipsing X-ray pulsar Vela X-1. Using data spanning more than
+  two complete orbits of the system, we detect evidence for tidally induced non-radial
+  oscillations on the surface of GP Vel, apparent as peaks in the power spectrum of
+  the residuals to the radial velocity curve fit. By removing the effect of these
+  oscillations (to first order) and binning the radial velocities, we have determined
+  the semi-amplitude of the radial velocity curve of GP Vel to be Ko = 22.6 +/- 1.5
+  km s-1. Given the accurately measured semi-amplitude of the pulsar's orbit, the
+  mass ratio of the system is 0.081 +/- 0.005. We are able to set upper and lower
+  limits on the masses of the component stars as follows. Assuming GP Vel fills its
+  Roche lobe then the inclination angle of the system, i, is 70.1deg +/- 2.6deg. In
+  this case we obtain the masses of the two stars as Mx = 2.27 +/- 0.17 Msun for the
+  neutron star and Mo = 27.9 +/- 1.3 Msun for GP Vel. Conversely, assuming the inclination
+  angle is i=90deg, the ratio of the radius of GP Vel to the radius of its Roche lobe
+  is beta  = 0.89 +/- 0.03 and the masses of the two stars are Mx = 1.88 +/- 0.13
+  Msun and Mo = 23.1 +/- 0.2 Msun. A range of solutions between these two sets of
+  limits is also possible, corresponding to other combinations of i and beta . In
+  addition, we note that if the zero phase of the radial velocity curve is allowed
+  as a free parameter, rather than constrained by the X-ray ephemeris, a significantly
+  improved fit is obtained with an amplitude of 21.2 +/- 0.7 km s-1 and a phase shift
+  of 0.033 +/- 0.007 in true anomaly. The apparent shift in the zero phase of the
+  radial velocity curve may indicate the presence of an additional radial velocity
+  component at the orbital period. This may be another manifestation of the tidally
+  induced non-radial oscillations and provides an additional source of uncertainty
+  in the determination of the orbital radial velocity amplitude.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...401..313Q
+arxivurl: http://arxiv.org/abs/astro-ph/0301243
+author: Quaintrell, H. and Norton, A. J. and Ash, T. D. C. and Roche, P. and Willems,
+  B. and Bedding, T. R. and Baldry, I. K. and Fender, R. P.
+author_list:
+- family: Quaintrell
+  given: H.
+- family: Norton
+  given: A. J.
+- family: Ash
+  given: T. D. C.
+- family: Roche
+  given: P.
+- family: Willems
+  given: B.
+- family: Bedding
+  given: T. R.
+- family: Baldry
+  given: I. K.
+- family: Fender
+  given: R. P.
+date-added: 2017-08-10 23:31:28 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1051/0004-6361:20030120
+eprint: astro-ph/0301243
+journal: \aap
+keywords: 'binaries: close, stars: neutron, stars: individual: Vela X-1, stars: individual:
+  GP Vel, stars: individual: HD 77581, stars: fundamental parameters'
+month: April
+pages: 313--323
+papis_id: 270c665f52f18f12766bb45ddf98ce6c
+ref: quaintrell.h.2003
+title: The mass of the neutron star in Vela X-1 and tidally induced non-radial oscillations
+  in GP Vel
+type: article
+volume: '401'
+year: '2003'

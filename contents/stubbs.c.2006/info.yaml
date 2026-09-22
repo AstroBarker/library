@@ -1,0 +1,42 @@
+abstract: 'We review the systematic uncertainties that have plagued attempts to obtain
+  high precision and high accuracy from ground-based photometric measurements using
+  CCDs. We identify two main challenges in breaking through the 1\% precision barrier:
+  (1) fully characterizing atmospheric transmission, along the instrument''s line
+  of sight, and (2) properly identifying, measuring, and removing instrumental artifacts.
+  We discuss approximations and limitations inherent in the present methodology, and
+  we estimate their contributions to systematic photometric uncertainties. We propose
+  an alternative conceptual scheme for the relative calibration of astronomical apparatus:
+  the availability of calibrated detectors whose relative spectral sensitivity is
+  known to better than one part in 103 opens up the possibility of in situ relative
+  throughput measurements, normalized to a precision calibrated detector, using a
+  stable but uncalibrated narrowband light source. An implementation scheme is outlined,
+  which exploits the availability of tunable lasers to map out the relative wavelength
+  response of an imaging system, using a flat-field screen and a calibrated reference
+  photodiode. The merits and limitations of this scheme are discussed. In tandem with
+  careful measurements of atmospheric transmission, this approach could potentially
+  lead to reliable ground-based photometry with fractional uncertainties below the
+  percent level.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...646.1436S
+arxivurl: http://arxiv.org/abs/astro-ph/0604285
+author: Stubbs, C. W. and Tonry, J. L.
+author_list:
+- family: Stubbs
+  given: C. W.
+- family: Tonry
+  given: J. L.
+date-added: 2017-08-11 01:09:54 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505138
+eprint: astro-ph/0604285
+journal: \apj
+keywords: 'Atmospheric Effects, Instrumentation: Detectors, Instrumentation: Photometers'
+month: August
+pages: 1436--1444
+papis_id: c19b3c117bdde274f3ffe917bb860941
+ref: stubbs.c.2006
+title: 'Toward 1% Photometry: End-to-End Calibration of Astronomical Telescopes and
+  Detectors'
+type: article
+volume: '646'
+year: '2006'

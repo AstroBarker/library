@@ -1,0 +1,54 @@
+abstract: 'Aims: Gravitational settling of 22Ne in cooling white dwarfs can affect
+  the outcome of thermonuclear supernovae. We investigate how the supernova energetics
+  and nucleosynthesis are in turn influenced by this process. We use realistic chemical
+  profiles derived from state-of-the-art white dwarf cooling sequences. The cooling
+  sequences provide a link between the white dwarf chemical structure and the age
+  of the supernova progenitor system.  Methods: The cooling sequence of a 1 M\&sun;
+  white dwarf was computed until freezing using an up-to-date stellar evolutionary
+  code. We computed explosions of both Chandrasekhar mass and sub-Chandrasekhar mass
+  white dwarfs, assuming spherical symmetry and neglecting convective mixing during
+  the pre-supernova carbon simmering phase to maximize the effects of chemical separation.  Results:
+  Neither gravitational settling of 22Ne nor chemical differentiation of 12C and 16O
+  have an appreciable impact on the properties of type Ia supernovae, unless there
+  is a direct dependence of the flame properties (density of transition from deflagration
+  to detonation) on the chemical composition. At a fixed transition density, the maximum
+  variation in the supernova magnitude obtained from progenitors of different ages
+  is ~0.06 mag, and even assuming an unrealistically large diffusion coefficient of
+  22Ne it would be less than ~0.09 mag. However, if the transition density depends
+  on the chemical composition (all other things being equal) the oldest SNIa can be
+  as much as 0.4 mag brighter than the youngest ones (in our models the age difference
+  is 7.4 Gyr). In addition, our results show that 22Ne sedimentation cannot be invoked
+  to account for the formation of a central core of stable neutron-rich Fe-group nuclei
+  in the ejecta of sub-Chandrasekhar models, as required by observations of type Ia
+  supernovae.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...526A..26B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.5098
+author: Bravo, E. and Althaus, L. G. and García-Berro, E. and Domínguez, I.
+author_list:
+- family: Bravo
+  given: E.
+- family: Althaus
+  given: L. G.
+- family: García-Berro
+  given: E.
+- family: Domínguez
+  given: I.
+date-added: 2017-08-11 02:14:42 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1051/0004-6361/201015506
+eid: A26
+eprint: '1010.5098'
+journal: \aap
+keywords: 'diffusion, distance scale, stars: interiors, supernovae: general, stars:
+  evolution, white dwarfs'
+month: February
+pages: A26
+papis_id: bb989d86ca2df68c4a01bb0ead9714e0
+primaryclass: astro-ph.SR
+ref: bravo.e.2011
+title: The impact of chemical differentiation of white dwarfs on thermonuclear supernovae
+type: article
+volume: '526'
+year: '2011'

@@ -1,0 +1,82 @@
+abstract: We present spectra and light curves of SNLS 06D4eu and SNLS 07D2bv, two
+  hydrogen-free superluminous supernovae (SNe) discovered by the Supernova Legacy
+  Survey. At z = 1.588, SNLS 06D4eu is the highest redshift superluminous SN with
+  a spectrum, at MU = -22.7 it is one of the most luminous SNe ever observed, and
+  it gives a rare glimpse into the rest-frame ultraviolet where these SNe put out
+  their peak energy. SNLS 07D2bv does not have a host galaxy redshift, but on the
+  basis of the SN spectrum, we estimate it to be at z ~ 1.5. Both SNe have similar
+  observer-frame griz light curves, which map to rest-frame light curves in the U
+  band and UV, rising in ~20 rest-frame days or longer and declining over a similar
+  timescale. The light curves peak in the shortest wavelengths first, consistent with
+  an expanding blackbody starting near 15,000 K and steadily declining in temperature.
+  We compare the spectra with theoretical models, and we identify lines of C II, C
+  III, Fe III, and Mg II in the spectra of SNLS 06D4eu and SCP 06F6 and find that
+  they are consistent with an expanding explosion of only a few solar masses of carbon,
+  oxygen, and other trace metals. Thus, the progenitors appear to be related to those
+  suspected for SNe Ic. A high kinetic energy, 1052 erg, is also favored. Normal mechanisms
+  of powering core-collapse or thermonuclear SNe do not seem to work for these SNe.
+  We consider models powered by 56Ni decay and interaction with circumstellar material,
+  but we find that the creation and spin-down of a magnetar with a period of 2 ms,
+  a magnetic field of 2 \texttimes{} 1014 G, and a 3 M \&sun; progenitor provides
+  the best fit to the data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...779...98H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.0470
+author: Howell, D. A. and Kasen, D. and Lidman, C. and Sullivan, M. and Conley, A.
+  and Astier, P. and Balland, C. and Carlberg, R. G. and Fouchez, D. and Guy, J. and
+  Hardin, D. and Pain, R. and Palanque-Delabrouille, N. and Perrett, K. and Pritchet,
+  C. J. and Regnault, N. and Rich, J. and Ruhlmann-Kleider, V.
+author_list:
+- family: Howell
+  given: D. A.
+- family: Kasen
+  given: D.
+- family: Lidman
+  given: C.
+- family: Sullivan
+  given: M.
+- family: Conley
+  given: A.
+- family: Astier
+  given: P.
+- family: Balland
+  given: C.
+- family: Carlberg
+  given: R. G.
+- family: Fouchez
+  given: D.
+- family: Guy
+  given: J.
+- family: Hardin
+  given: D.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Perrett
+  given: K.
+- family: Pritchet
+  given: C. J.
+- family: Regnault
+  given: N.
+- family: Rich
+  given: J.
+- family: Ruhlmann-Kleider
+  given: V.
+date-added: 2017-08-10 18:24:12 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/779/2/98
+eid: '98'
+eprint: '1310.0470'
+journal: \apj
+keywords: 'supernovae: general'
+month: December
+pages: '98'
+papis_id: 0e688b8c5aa4a565b8baacc344466eaa
+ref: howell.d.2013
+title: Two Superluminous Supernovae from the Early Universe Discovered by the Supernova
+  Legacy Survey
+type: article
+volume: '779'
+year: '2013'

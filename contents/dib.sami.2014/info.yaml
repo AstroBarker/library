@@ -1,0 +1,43 @@
+abstract: The universality of the stellar initial mass function (IMF) is tested         using
+  Bayesian statistics with a sample of eight young Galactic         stellar clusters
+  (IC 348, ONC, NGC 2024, NGC 6611, NGC 2264,         {\ensuremath{\rho}} Ophiuchi,
+  Chameleon I, and Taurus). We infer         the posterior probability distribution
+  function (pPDF) of the         IMF parameters when the likelihood function is described
+  by a         tapered power-law function, a lognormal distribution at low         masses
+  coupled to a power law at higher masses, and a         multicomponent power-law
+  function. The intercluster comparison         of the pPDFs of the IMF parameters
+  for each likelihood function         shows that these distributions do not overlap
+  within the         1{\ensuremath{\sigma}} uncertainty level. Furthermore, the most         probable
+  values of the IMF parameters for most of the clusters         deviate substantially
+  from their values for the Galactic field         stellar IMF. We also quantify the
+  effects of taking into account         the completeness correction as well as the
+  uncertainties on the         measured masses. The inclusion of the former affects
+  the         inferred pPDFs of the slope of the IMF at the low-mass end while         considering
+  the latter affects the pPDFs of the slope of the IMF         in the intermediate-
+  to high-mass regime. As variations are         observed in all of the IMF parameters
+  at once and for each of         the considered likelihood functions, even for completeness         corrected
+  samples, we argue that the observed variations are         real and significant,
+  at least for the sample of eight clusters         considered in this work. The results
+  presented here clearly show         that the IMF is not universal.
+archiveprefix: arXiv
+author: Dib, Sami
+author_list:
+- family: Dib
+  given: Sami
+doi: 10.1093/mnras/stu1521
+eprint: '1405.3287'
+journal: \mnras
+keywords: 'stars: formation, stars: luminosity function, mass function, stars: statistics,
+  open clusters and associations: general, galaxies: clusters: general, Astrophysics
+  - Astrophysics of Galaxies'
+month: October
+number: '2'
+pages: 1957--1981
+papis_id: 4d232508732eec0f9a69cc05ebbcc78d
+primaryclass: astro-ph.GA
+ref: dib.sami.2014
+title: 'Testing the universality of the IMF with Bayesian statistics: young clusters'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2014MNRAS.444.1957D
+volume: '444'
+year: '2014'

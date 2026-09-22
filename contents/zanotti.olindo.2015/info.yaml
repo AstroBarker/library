@@ -1,0 +1,46 @@
+abstract: "In this paper we present a novel arbitrary high order accurate discontinuous
+  Galerkin (DG) finite element method on space{\\^a}\x80\x93time adaptive Cartesian
+  meshes (AMR) for hyperbolic conservation laws in multiple space dimensions, using
+  a high order a posteriori sub-cell ADER-WENO finite volume limiter. Notoriously,
+  the original DG method produces strong oscillations in the presence of discontinuous
+  solutions and several types of limiters have been introduced over the years to cope
+  with this problem. Following the innovative idea recently proposed in [53], the
+  discrete solution within the troubled cells is recomputed by scattering the DG polynomial
+  at the previous time step onto a suitable number of sub-cells along each direction.
+  Relying on the robustness of classical finite volume WENO schemes, the sub-cell
+  averages are recomputed and then gathered back into the DG polynomials over the
+  main grid. In this paper this approach is implemented for the first time within
+  a space{\\^a}\x80\x93time adaptive AMR framework in two and three space dimensions,
+  after assuring the proper averaging and projection between sub-cells that belong
+  to different levels of refinement. The combination of the sub-cell resolution with
+  the advantages of AMR allows for an unprecedented ability in resolving even the
+  finest details in the dynamics of the fluid. The spectacular resolution properties
+  of the new scheme have been shown through a wide number of test cases performed
+  in two and in three space dimensions, both for the Euler equations of compressible
+  gas dynamics and for the magnetohydrodynamics (MHD) equations."
+author: Zanotti, Olindo and Fambri, Francesco and Dumbser, Michael and Hidalgo, Arturo
+author_list:
+- family: Zanotti
+  given: Olindo
+- family: Fambri
+  given: Francesco
+- family: Dumbser
+  given: Michael
+- family: Hidalgo
+  given: Arturo
+doi: https://doi.org/10.1016/j.compfluid.2015.06.020
+groups: Numerical Methods - DG
+issn: 0045-7930
+journal: Computers and Fluids
+keywords: "Arbitrary high-order discontinuous Galerkin schemes, sub-cell finite volume
+  limiter, MOOD paradigm, High order space{\\^a}\x80\x93time adaptive mesh refinement
+  (AMR), ADER-DG and ADER-WENO finite volume schemes, Hyperbolic conservation laws"
+pages: 204--224
+papis_id: 4081ccc5ede59fc2b0a7b422b03f0004
+ref: zanotti.olindo.2015
+title: "Spaceâ\x80\x93time adaptive ADER discontinuous Galerkin finite element schemes
+  with a posteriori sub-cell finite volume limiting"
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0045793015002030
+volume: '118'
+year: '2015'

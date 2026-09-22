@@ -1,0 +1,97 @@
+abstract: This paper describes the open-source code Enzo, which uses block-structured
+  adaptive mesh refinement to provide high spatial and temporal resolution for modeling
+  astrophysical fluid flows. The code is Cartesian, can be run in one, two, and three
+  dimensions, and supports a wide variety of physics including hydrodynamics, ideal
+  and non-ideal magnetohydrodynamics, N-body dynamics (and, more broadly, self-gravity
+  of fluids and particles), primordial gas chemistry, optically thin radiative cooling
+  of primordial and metal-enriched plasmas (as well as some optically-thick cooling
+  models), radiation transport, cosmological expansion, and models for star formation
+  and feedback in a cosmological context. In addition to explaining the algorithms
+  implemented, we present solutions for a wide range of test problems, demonstrate
+  the code's parallel performance, and discuss the Enzo collaboration's code development
+  methodology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJS..211...19B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.2265
+author: 'Bryan, G. L. and Norman, M. L. and O''Shea, B. W. and Abel, T. and Wise,
+  J. H. and Turk, M. J. and Reynolds, D. R. and Collins, D. C. and Wang, P. and Skillman,
+  S. W. and Smith, B. and Harkness, R. P. and Bordner, J. and Kim, J.-h. and Kuhlen,
+  M. and Xu, H. and Goldbaum, N. and Hummels, C. and Kritsuk, A. G. and Tasker, E.
+  and Skory, S. and Simpson, C. M. and Hahn, O. and Oishi, J. S. and So, G. C. and
+  Zhao, F. and Cen, R. and Li, Y. and Enzo Collaboration, '
+author_list:
+- family: Bryan
+  given: G. L.
+- family: Norman
+  given: M. L.
+- family: O'Shea
+  given: B. W.
+- family: Abel
+  given: T.
+- family: Wise
+  given: J. H.
+- family: Turk
+  given: M. J.
+- family: Reynolds
+  given: D. R.
+- family: Collins
+  given: D. C.
+- family: Wang
+  given: P.
+- family: Skillman
+  given: S. W.
+- family: Smith
+  given: B.
+- family: Harkness
+  given: R. P.
+- family: Bordner
+  given: J.
+- family: Kim
+  given: J.-h.
+- family: Kuhlen
+  given: M.
+- family: Xu
+  given: H.
+- family: Goldbaum
+  given: N.
+- family: Hummels
+  given: C.
+- family: Kritsuk
+  given: A. G.
+- family: Tasker
+  given: E.
+- family: Skory
+  given: S.
+- family: Simpson
+  given: C. M.
+- family: Hahn
+  given: O.
+- family: Oishi
+  given: J. S.
+- family: So
+  given: G. C.
+- family: Zhao
+  given: F.
+- family: Cen
+  given: R.
+- family: Li
+  given: Y.
+- family: Enzo Collaboration
+  given: ''
+date-added: 2017-08-10 15:39:45 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0067-0049/211/2/19
+eid: '19'
+eprint: '1307.2265'
+journal: \apjs
+keywords: 'hydrodynamics, methods: numerical'
+month: April
+pages: '19'
+papis_id: a672ff2c53a51a42b4b5cb95d9e02dbc
+primaryclass: astro-ph.IM
+ref: bryan.g.2014
+title: 'ENZO: An Adaptive Mesh Refinement Code for Astrophysics'
+type: article
+volume: '211'
+year: '2014'

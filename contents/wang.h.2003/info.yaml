@@ -1,0 +1,44 @@
+abstract: Mixing in microchannels with patterned grooves was studied numerically by
+  CFD simulations and particle tracking technique. Point location, velocity interpolation
+  and a fourth-order adaptive Runge-Kutta integration scheme were applied in the particle
+  tracking algorithms. Using these algorithms, Poincar{\'e} maps were calculated from
+  the 3D velocity field exported from a CFD package for microfluidics (MemCFDTM).
+  For small aspect ratio (alpha = 0.05) grooves, the results showed that there was
+  no significant irregularity in the Poincar{\'e} map, and indicated little chaotic
+  effect. For high aspect ratio (alpha = 0.30) grooves, the flow pattern became more
+  jumbled, but there was no apparent evidence that indicated the flow was chaotic,
+  for Reynolds numbers up to five. However, Poincar{\'e} maps could still be used
+  to evaluate the performance of this type of micro-mixer. The particle trajectories
+  recorded in the Poincar{\'e} maps were circular-like patterns. By counting the number
+  of dots to form one circle in the Poincar{\'e} maps, the length of the channel to
+  enable one recirculation could be calculated. The results indicated that this length
+  had an exponential relation to the aspect ratio of grooves, and it was independent
+  of the flow velocity. The CFD simulation showed that the transverse motion could
+  fold and stretch fluids to increase their interfacial area. The results showed that
+  micro-mixers with patterned grooves caused rotation of the fluid streams. This rotation
+  can reorient the folding in the depth direction, and can enhance passive mixing
+  in microfluidic devices with shallow channels.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003JMiMi..13..801W
+author: Wang, H. and Iovenitti, P. and Harvey, E. and Masood, S.
+author_list:
+- family: Wang
+  given: H.
+- family: Iovenitti
+  given: P.
+- family: Harvey
+  given: E.
+- family: Masood
+  given: S.
+date-added: 2017-08-11 06:42:03 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1088/0960-1317/13/6/302
+journal: Journal of Micromechanics and Microengineering
+month: November
+pages: 801--808
+papis_id: aefa81af3a44c484271a41e2e1283989
+ref: wang.h.2003
+title: Numerical investigation of mixing in microchannels with patterned grooves
+type: article
+volume: '13'
+year: '2003'

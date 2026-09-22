@@ -1,0 +1,138 @@
+abstract: 'We present a measurement of the distant Type Ia supernova (SN Ia) rate
+  derived from the first 2 yr of the Canada-France-Hawaii Telescope Supernova Legacy
+  Survey. We observed four 1deg\texttimes{}1deg fields with a typical temporal frequency
+  of <Deltat>~4 observer-frame days over time spans of 158-211 days per season for
+  each field, with breaks during the full Moon. We used 8-10 m class telescopes for
+  spectroscopic follow-up to confirm our candidates and determine their redshifts.
+  Our starting sample consists of 73 spectroscopically verified SNe Ia in the redshift
+  range 0.2<z<0.6. We derive a volumetric SN Ia rate of rV(<z>=0.47)=[0.42+0.13-0.09(syst.)+/-0.06(stat.)\texttimes{}10-4
+  yr-1 Mpc3, assuming h=0.7, Omegam=0.3, and a flat cosmology. Using recently published
+  galaxy luminosity functions derived in our redshift range, we derive a SN Ia rate
+  per unit luminosity of rL(<z>=0.47)=0.154+0.048-0.033(syst.)+0.039-0.031(stat.)
+  SN units. Using our rate alone, we place an upper limit on the component of SN Ia
+  production that tracks the cosmic star formation history of 1 SN Ia per 103 Msolar
+  of stars formed. Our rate and other rates from surveys using spectroscopic sample
+  confirmation display only a modest evolution out to z=0.55.  Based on observations
+  obtained with MegaPrime/MegaCam, a joint project of the Canada-France-Hawaii Telescope
+  (CFHT) and CEA/DAPNIA, at CFHT, which is operated by the National Research Council
+  (NRC) of Canada, the Institut National des Sciences de l''Univers of the Centre
+  National de la Recherche Scientifique (CNRS) of France, and the University of Hawaii.
+  This work is based in part on data products produced at the Canadian Astronomy Data
+  Centre as part of the Canada-France-Hawaii Telescope Legacy Survey, a collaborative
+  project of NRC and CNRS. This work is also based on observations obtained at the
+  European Southern Observatory using the Very Large Telescope on the Cerro Paranal
+  (ESO Large Program 171.A-0486), and on observations (programs GN-2004A-Q-19, GS-2004A-Q-11,
+  GN-2003B-Q-9, and GS-2003B-Q-8) obtained at the Gemini Observatory, which is operated
+  by the Association of Universities for Research in Astronomy, Inc., under a cooperative
+  agreement with the National Science Foundation (NSF) on behalf of the Gemini partnership:
+  the NSF (United States), the Particle Physics and Astronomy Research Council (United
+  Kingdom), the National Research Council (Canada), CONICYT (Chile), the Australian
+  Research Council (Australia), CNPq (Brazil), and CONICET (Argentina). This work
+  is also based on observations obtained at the W. M. Keck Observatory, which is operated
+  as a scientific partnership among the California Institute of Technology, the University
+  of California, and the National Aeronautics and Space Administration. The Observatory
+  was made possible by the generous financial support of the W. M. Keck Foundation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006AJ....132.1126N
+arxivurl: http://arxiv.org/abs/astro-ph/0605148
+author: Neill, J. D. and Sullivan, M. and Balam, D. and Pritchet, C. J. and Howell,
+  D. A. and Perrett, K. and Astier, P. and Aubourg, E. and Basa, S. and Carlberg,
+  R. G. and Conley, A. and Fabbro, S. and Fouchez, D. and Guy, J. and Hook, I. and
+  Pain, R. and Palanque-Delabrouille, N. and Regnault, N. and Rich, J. and Taillet,
+  R. and Aldering, G. and Antilogus, P. and Arsenijevic, V. and Balland, C. and Baumont,
+  S. and Bronder, J. and Ellis, R. S. and Filiol, M. and Gonçalves, A. C. and Hardin,
+  D. and Kowalski, M. and Lidman, C. and Lusset, V. and Mouchet, M. and Mourao, A.
+  and Perlmutter, S. and Ripoche, P. and Schlegel, D. and Tao, C.
+author_list:
+- family: Neill
+  given: J. D.
+- family: Sullivan
+  given: M.
+- family: Balam
+  given: D.
+- family: Pritchet
+  given: C. J.
+- family: Howell
+  given: D. A.
+- family: Perrett
+  given: K.
+- family: Astier
+  given: P.
+- family: Aubourg
+  given: E.
+- family: Basa
+  given: S.
+- family: Carlberg
+  given: R. G.
+- family: Conley
+  given: A.
+- family: Fabbro
+  given: S.
+- family: Fouchez
+  given: D.
+- family: Guy
+  given: J.
+- family: Hook
+  given: I.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Regnault
+  given: N.
+- family: Rich
+  given: J.
+- family: Taillet
+  given: R.
+- family: Aldering
+  given: G.
+- family: Antilogus
+  given: P.
+- family: Arsenijevic
+  given: V.
+- family: Balland
+  given: C.
+- family: Baumont
+  given: S.
+- family: Bronder
+  given: J.
+- family: Ellis
+  given: R. S.
+- family: Filiol
+  given: M.
+- family: Gonçalves
+  given: A. C.
+- family: Hardin
+  given: D.
+- family: Kowalski
+  given: M.
+- family: Lidman
+  given: C.
+- family: Lusset
+  given: V.
+- family: Mouchet
+  given: M.
+- family: Mourao
+  given: A.
+- family: Perlmutter
+  given: S.
+- family: Ripoche
+  given: P.
+- family: Schlegel
+  given: D.
+- family: Tao
+  given: C.
+date-added: 2017-08-11 05:20:06 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505532
+eprint: astro-ph/0605148
+journal: \aj
+keywords: 'Galaxies: Evolution, Galaxies: High-Redshift, Stars: Supernovae: General'
+month: September
+pages: 1126--1145
+papis_id: a7a40d209b3b750cdfbd489b3a24069f
+ref: neill.j.2006
+title: The Type Ia Supernova Rate at z̃0.5 from the Supernova Legacy Survey
+type: article
+volume: '132'
+year: '2006'

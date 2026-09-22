@@ -1,0 +1,37 @@
+abstract: 'During the first 20 s of its life, the enormous neutrino luminosity of
+  a neutron star drives appreciable mass loss from its surface. Previous investigations
+  have shown that this neutrino-driven wind could be the site where the r-process
+  occurs. The nucleosynthesis is sensitive to four physical parameters that characterize
+  the wind: its mass-loss rate, the entropy per baryon, the electron fraction, and
+  the dynamic timescale. Different authors, using numerical models for supernovae,
+  have arrived at qualitatively different values for these key parameters.  Here we
+  derive their values analytically and test our analytic results by numerical calculations
+  using an implicit hydrodynamic code. Employing our analytic and numerical methods,
+  we also investigate how various factors can affect our results. The derived entropy
+  typically falls short, by a factor of 2-3, of the value required to produce a strong
+  r-process. Various factors that might give a higher entropy or a more rapid expansion
+  in the wind are discussed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...471..331Q
+arxivurl: http://arxiv.org/abs/astro-ph/9611094
+author: Qian, Y.-Z. and Woosley, S. E.
+author_list:
+- family: Qian
+  given: Y.-Z.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 14:21:22 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/177973
+eprint: astro-ph/9611094
+journal: \apj
+keywords: 'ELEMENTARY PARTICLES, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS:
+  MASS LOSS, STARS: NEUTRON, STARS: SUPERNOVAE: GENERAL'
+month: November
+pages: '331'
+papis_id: fb77e52d0eaf2df7a72837af6e938fcc
+ref: qian.y_z.1996
+title: Nucleosynthesis in Neutrino-driven Winds. I. The Physical Conditions
+type: article
+volume: '471'
+year: '1996'

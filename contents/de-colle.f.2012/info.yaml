@@ -1,0 +1,57 @@
+abstract: We report on the development of Mezcal-SRHD, a new adaptive mesh refinement,
+  special relativistic hydrodynamics (SRHD) code, developed with the aim of studying
+  the highly relativistic flows in gamma-ray burst sources. The SRHD equations are
+  solved using finite-volume conservative solvers, with second-order interpolation
+  in space and time. The correct implementation of the algorithms is verified by one-dimensional
+  (1D) and multi-dimensional tests. The code is then applied to study the propagation
+  of 1D spherical impulsive blast waves expanding in a stratified medium with rhovpropr
+  -k , bridging between the relativistic and Newtonian phases (which are described
+  by the Blandford-McKee and Sedov-Taylor self-similar solutions, respectively), as
+  well as to a two-dimensional (2D) cylindrically symmetric impulsive jet propagating
+  in a constant density medium. It is shown that the deceleration to nonrelativistic
+  speeds in one dimension occurs on scales significantly larger than the Sedov length.
+  This transition is further delayed with respect to the Sedov length as the degree
+  of stratification of the ambient medium is increased. This result, together with
+  the scaling of position, Lorentz factor, and the shock velocity as a function of
+  time and shock radius, is explained here using a simple analytical model based on
+  energy conservation. The method used for calculating the afterglow radiation by
+  post-processing the results of the simulations is described in detail. The light
+  curves computed using the results of 1D numerical simulations during the relativistic
+  stage correctly reproduce those calculated assuming the self-similar Blandford-McKee
+  solution for the evolution of the flow. The jet dynamics from our 2D simulations
+  and the resulting afterglow light curves, including the jet break, are in good agreement
+  with those presented in previous works. Finally, we show how the details of the
+  dynamics critically depend on properly resolving the structure of the relativistic
+  flow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...746..122D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.6890
+author: De Colle, F. and Granot, J. and López-Cámara, D. and Ramirez-Ruiz, E.
+author_list:
+- family: De Colle
+  given: F.
+- family: Granot
+  given: J.
+- family: López-Cámara
+  given: D.
+- family: Ramirez-Ruiz
+  given: E.
+date-added: 2017-08-11 01:58:13 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/746/2/122
+eid: '122'
+eprint: '1111.6890'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, methods: numerical, radiation
+  mechanisms: non-thermal, relativistic processes, shock waves'
+month: February
+pages: '122'
+papis_id: cab72fd73c7319d2872dcfdaaece0b47
+primaryclass: astro-ph.HE
+ref: de_colle.f.2012
+title: Gamma-Ray Burst Dynamics and Afterglow Radiation from Adaptive Mesh Refinement,
+  Special Relativistic Hydrodynamic Simulations
+type: article
+volume: '746'
+year: '2012'

@@ -1,0 +1,53 @@
+abstract: Theoretical work has shown that intermediate mass (0.01 M \&sun; < M He
+  < 0.1 M \&sun;) helium shells will unstably ignite on the accreting white dwarf
+  (WD) in an AM CVn binary. For more massive (M > 0.8 M \&sun;) WDs, these helium
+  shells can be dense enough (>5 \texttimes{} 105 g cm-3) that the convectively burning
+  region runs away on a timescale comparable to the sound travel time across the shell,
+  raising the possibility for an explosive outcome rather than an Eddington limited
+  helium novae. The nature of the explosion (i.e., deflagration or detonation) remains
+  ambiguous, is certainly density dependent, and likely breaks spherical symmetry.
+  In the case of detonation, this causes a laterally propagating front whose properties
+  in these geometrically thin and low-density shells we begin to study here. Our calculations
+  show that the radial expansion time of <0.1 s leads to incomplete helium burning,
+  in agreement with recent work by Sim and collaborators, but that the nuclear energy
+  released is still adequate to realize a self-sustaining laterally propagating detonation.
+  These detonations are slower than the Chapman-Jouguet speed of 1.5 \texttimes{}
+  109 cm s-1, but still fast enough at 0.9 \texttimes{} 109 cm s-1 to go around the
+  star prior to the transit through the star of the inwardly propagating weak shock.
+  Our simulations resolve the subsonic region behind the reaction front in the detonation
+  wave. The two-dimensional nucleosynthesis is shown to be consistent with a truncated
+  one-dimensional Zeldovich-von Neumann-D{\"o}ring calculation at the slower detonation
+  speed. The ashes from the lateral detonation are typically He rich, and consist
+  of predominantly 44Ti, 48Cr, along with a small amount of 52Fe, with very little
+  56Ni and with significant 40Ca in carbon-enriched layers. If this helium detonation
+  results in a Type Ia supernova, its spectral signatures would appear for the first
+  few days after explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755....4T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.6517
+author: Townsley, D. M. and Moore, K. and Bildsten, L.
+author_list:
+- family: Townsley
+  given: D. M.
+- family: Moore
+  given: K.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 15:26:12 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/1/4
+eid: '4'
+eprint: '1205.6517'
+journal: \apj
+keywords: hydrodynamics, nuclear reactions, nucleosynthesis, abundances, white dwarfs
+month: August
+pages: '4'
+papis_id: b2120940f1ca64062d780b26d5e37e91
+primaryclass: astro-ph.SR
+ref: townsley.d.2012
+title: Laterally Propagating Detonations in Thin Helium Layers on Accreting White
+  Dwarfs
+type: article
+volume: '755'
+year: '2012'

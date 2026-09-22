@@ -1,0 +1,55 @@
+abstract: We present a new numerical code that solves the general relativistic magneto-hydrodynamical
+  (GRMHD) equations coupled to the Einstein equations for the evolution of a dynamical
+  spacetime within a conformally-flat approximation. This code has been developed
+  with the main objective of studying astrophysical scenarios in which both, high
+  magnetic fields and strong gravitational fields appear, such as the magneto-rotational
+  collapse of stellar cores, the collapsar model of GRBs, and the evolution of neutron
+  stars. The code is based on an existing and thoroughly tested purely hydrodynamical
+  code and on its extension to accommodate weakly magnetized fluids (passive magnetic-field
+  approximation). These codes have been applied in the past to simulate the aforementioned
+  scenarios with increasing levels of sophistication in the input physics. The numerical
+  code we present here is based on high-resolution shock-capturing schemes to solve
+  the GRMHD equations, which are cast in first-order, flux-conservative hyperbolic
+  form, together with the flux constraint transport method to ensure the solenoidal
+  condition of the magnetic field. Since the astrophysical applications envisaged
+  do not deviate significantly from spherical symmetry, the conformal flatness condition
+  approximation is used for the formulation of the Einstein equations; this has repeatedly
+  shown to yield very good agreement with full general relativistic simulations of
+  core-collapse supernovae and the evolution of isolated neutron stars. In addition,
+  the code can handle several equations of state, from simple analytical expressions
+  to microphysical tabulated ones. In this paper we present stringent tests of our
+  new GRMHD numerical code, which show its ability to handle all aspects appearing
+  in the astrophysical scenarios for which the code is intended, namely relativistic
+  shocks, highly magnetized fluids, and equilibrium configurations of magnetized neutron
+  stars. As an application, magneto-rotational core-collapse simulations of a realistic
+  progenitor are presented and the results compared with our previous findings in
+  the passive magnetic-field approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...492..937C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.4572
+author: Cerdá-Durán, P. and Font, J. A. and Antón, L. and Müller, E.
+author_list:
+- family: Cerdá-Durán
+  given: P.
+- family: Font
+  given: J. A.
+- family: Antón
+  given: L.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 20:07:33 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1051/0004-6361:200810086
+eprint: '0804.4572'
+journal: \aap
+keywords: 'gravitation, hydrodynamics, magnetohydrodynamics (MHD), methods: numerical,
+  relativity, stars: supernovae: general'
+month: December
+pages: 937--953
+papis_id: 8d818827a96852dcf6e169b4bc011858
+ref: cerda_duran.p.2008
+title: A new general relativistic magnetohydrodynamics code for dynamical spacetimes
+type: article
+volume: '492'
+year: '2008'

@@ -1,0 +1,154 @@
+abstract: 'We present the first three-frequency South Pole Telescope (SPT) cosmic
+  microwave background (CMB) power spectra. The band powers presented here cover angular
+  scales 2000 < l < 9400 in frequency bands centered at 95, 150, and 220 GHz. At these
+  frequencies and angular scales, a combination of the primary CMB anisotropy, thermal
+  and kinetic Sunyaev-Zel''dovich (SZ) effects, radio galaxies, and cosmic infrared
+  background (CIB) contributes to the signal. We combine Planck/HFI and SPT data at
+  220 GHz to constrain the amplitude and shape of the CIB power spectrum and find
+  strong evidence for nonlinear clustering. We explore the SZ results using a variety
+  of cosmological models for the CMB and CIB anisotropies and find them to be robust
+  with one exception: allowing for spatial correlations between the thermal SZ effect
+  and CIB significantly degrades the SZ constraints. Neglecting this potential correlation,
+  we find the thermal SZ power at 150 GHz and l = 3000 to be 3.65 $\pm$ 0.69 muK2,
+  and set an upper limit on the kinetic SZ power to be less than 2.8 muK2 at 95\%
+  confidence. When a correlation between the thermal SZ and CIB is allowed, we constrain
+  a linear combination of thermal and kinetic SZ power: D tSZ 3000 + 0.5D 3000 kSZ
+  = 4.60 \$\pm\$ 0.63 muK2, consistent with earlier measurements. We use the measured
+  thermal SZ power and an analytic, thermal SZ model calibrated with simulations to
+  determine sigma8 = 0.807 \$\pm\$ 0.016. Modeling uncertainties involving the astrophysics
+  of the intracluster medium rather than the statistical uncertainty in the measured
+  band powers are the dominant source of uncertainty on sigma8. We also place an upper
+  limit on the kinetic SZ power produced by patchy reionization; a companion paper
+  uses these limits to constrain the reionization history of the universe.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755...70R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.0932
+author: Reichardt, C. L. and Shaw, L. and Zahn, O. and Aird, K. A. and Benson, B.
+  A. and Bleem, L. E. and Carlstrom, J. E. and Chang, C. L. and Cho, H. M. and Crawford,
+  T. M. and Crites, A. T. and de Haan, T. and Dobbs, M. A. and Dudley, J. and George,
+  E. M. and Halverson, N. W. and Holder, G. P. and Holzapfel, W. L. and Hoover, S.
+  and Hou, Z. and Hrubes, J. D. and Joy, M. and Keisler, R. and Knox, L. and Lee,
+  A. T. and Leitch, E. M. and Lueker, M. and Luong-Van, D. and McMahon, J. J. and
+  Mehl, J. and Meyer, S. S. and Millea, M. and Mohr, J. J. and Montroy, T. E. and
+  Natoli, T. and Padin, S. and Plagge, T. and Pryke, C. and Ruhl, J. E. and Schaffer,
+  K. K. and Shirokoff, E. and Spieler, H. G. and Staniszewski, Z. and Stark, A. A.
+  and Story, K. and van Engelen, A. and Vanderlinde, K. and Vieira, J. D. and Williamson,
+  R.
+author_list:
+- family: Reichardt
+  given: C. L.
+- family: Shaw
+  given: L.
+- family: Zahn
+  given: O.
+- family: Aird
+  given: K. A.
+- family: Benson
+  given: B. A.
+- family: Bleem
+  given: L. E.
+- family: Carlstrom
+  given: J. E.
+- family: Chang
+  given: C. L.
+- family: Cho
+  given: H. M.
+- family: Crawford
+  given: T. M.
+- family: Crites
+  given: A. T.
+- family: de Haan
+  given: T.
+- family: Dobbs
+  given: M. A.
+- family: Dudley
+  given: J.
+- family: George
+  given: E. M.
+- family: Halverson
+  given: N. W.
+- family: Holder
+  given: G. P.
+- family: Holzapfel
+  given: W. L.
+- family: Hoover
+  given: S.
+- family: Hou
+  given: Z.
+- family: Hrubes
+  given: J. D.
+- family: Joy
+  given: M.
+- family: Keisler
+  given: R.
+- family: Knox
+  given: L.
+- family: Lee
+  given: A. T.
+- family: Leitch
+  given: E. M.
+- family: Lueker
+  given: M.
+- family: Luong-Van
+  given: D.
+- family: McMahon
+  given: J. J.
+- family: Mehl
+  given: J.
+- family: Meyer
+  given: S. S.
+- family: Millea
+  given: M.
+- family: Mohr
+  given: J. J.
+- family: Montroy
+  given: T. E.
+- family: Natoli
+  given: T.
+- family: Padin
+  given: S.
+- family: Plagge
+  given: T.
+- family: Pryke
+  given: C.
+- family: Ruhl
+  given: J. E.
+- family: Schaffer
+  given: K. K.
+- family: Shirokoff
+  given: E.
+- family: Spieler
+  given: H. G.
+- family: Staniszewski
+  given: Z.
+- family: Stark
+  given: A. A.
+- family: Story
+  given: K.
+- family: van Engelen
+  given: A.
+- family: Vanderlinde
+  given: K.
+- family: Vieira
+  given: J. D.
+- family: Williamson
+  given: R.
+date-added: 2017-08-10 20:25:44 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/1/70
+eid: '70'
+eprint: '1111.0932'
+journal: \apj
+keywords: 'cosmic background radiation, cosmological parameters, cosmology: observations,
+  diffuse radiation, large-scale structure of universe'
+month: August
+pages: '70'
+papis_id: 41f27285b13047e00ed4b06ac1c91cb6
+primaryclass: astro-ph.CO
+ref: reichardt.c.2012
+title: A Measurement of Secondary Cosmic Microwave Background Anisotropies with Two
+  Years of South Pole Telescope Observations
+type: article
+volume: '755'
+year: '2012'

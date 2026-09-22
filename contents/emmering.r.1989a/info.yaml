@@ -1,0 +1,38 @@
+abstract: The observed properties of pulsars are modeled on the assumption that they
+  evolve by emitting magnetic dipole radiation and have exponentially decaying magnetic
+  fields. The models are constructed by using Monte Carlo techniques to generate a
+  Galactic sample of pulsars having particular distributions of initial periods, magnetic
+  dipole moments, and positions. By choosing a relationship between the radio luminosity
+  L(r), the period (P), and the P derivative, it is determined which pulsars of the
+  generated sample could be detected by one of the major pulsar surveys. Detailed
+  account is taken of known selection effects in these surveys. Models in which the
+  size of the pulsar emission cone is dependent on the period are considered. The
+  properties of the detectable pulsars are compared with the properties of the observed
+  pulsars, and the initial distributions and luminosity relation of the model are
+  adjusted until a satisfactory agreement is obtained. A crucial point is that the
+  observed relation between L(r) and P, P derivative is affected by selection effects
+  and does not apply to the actual pulsar population. It is found that the best fits
+  are obtained with models in which the pulsars are injected with relatively long
+  periods, about 0.5 sec.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989ApJ...345..931E
+author: Emmering, R. T. and Chevalier, R. A.
+author_list:
+- family: Emmering
+  given: R. T.
+- family: Chevalier
+  given: R. A.
+date-added: 2017-08-11 03:50:32 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/167963
+journal: \apj
+keywords: Pulsars, Stellar Evolution, Stellar Luminosity, Stellar Models, Energy Dissipation,
+  Kinetic Energy, Magnetic Dipoles, Monte Carlo Method
+month: October
+pages: 931--938
+papis_id: 8a214e32937630ed667edd246c95d83f
+ref: emmering.r.1989a
+title: The intrinsic luminosity and initial period of pulsars
+type: article
+volume: '345'
+year: '1989'

@@ -1,0 +1,55 @@
+abstract: Analysis of 10 years of high-precision timing data on the millisecond pulsar
+  PSR J0437-4715 has resulted in a model-independent kinematic distance based on an
+  apparent orbital period derivative,  dot Pb , determined at the 1.5\% level of precision
+  (Dk = 157.0 +/- 2.4 pc), making it one of the most accurate stellar distance estimates
+  published to date. The discrepancy between this measurement and a previously published
+  parallax distance estimate is attributed to errors in the DE200 solar system ephemerides.
+  The precise measurement of  dot Pb allows a limit on the variation of Newton's gravitational
+  constant,  \vert{}G/G\vert{} <= 23 \texttimes{} 10-12 yr-1. We also constrain any
+  anomalous acceleration along the line of sight to the pulsar to \vert{}a\&sun;/c\vert{}
+  <= 1.5 \texttimes{} 10-18 s-1 at 95\% confidence, and derive a pulsar mass, mpsr
+  = 1.76 +/- 0.20 M\&sun;, one of the highest estimates so far obtained.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...679..675V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.2589
+author: Verbiest, J. P. W. and Bailes, M. and van Straten, W. and Hobbs, G. B. and
+  Edwards, R. T. and Manchester, R. N. and Bhat, N. D. R. and Sarkissian, J. M. and
+  Jacoby, B. A. and Kulkarni, S. R.
+author_list:
+- family: Verbiest
+  given: J. P. W.
+- family: Bailes
+  given: M.
+- family: van Straten
+  given: W.
+- family: Hobbs
+  given: G. B.
+- family: Edwards
+  given: R. T.
+- family: Manchester
+  given: R. N.
+- family: Bhat
+  given: N. D. R.
+- family: Sarkissian
+  given: J. M.
+- family: Jacoby
+  given: B. A.
+- family: Kulkarni
+  given: S. R.
+date-added: 2017-08-10 23:33:11 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/529576
+eid: 675-680
+eprint: '0801.2589'
+journal: \apj
+keywords: 'pulsars: individual: PSR J0437{\ndash}4715, stars: distances, stars: neutron'
+month: May
+pages: 675--680
+papis_id: 9a347915a5dfdafa565d40564798abc5
+ref: verbiest.j.2008
+title: 'Precision Timing of PSR J0437-4715: An Accurate Pulsar Distance, a High Pulsar
+  Mass, and a Limit on the Variation of Newton''s Gravitational Constant'
+type: article
+volume: '679'
+year: '2008'

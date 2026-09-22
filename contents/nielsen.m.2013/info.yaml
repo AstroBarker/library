@@ -1,0 +1,50 @@
+abstract: 'Aims: We aim to measure the starspot rotation periods of active stars in
+  the Kepler field as a function of spectral type and to extend reliable rotation
+  measurements from F-, G-, and K-type to M-type stars.  Methods: Using the Lomb-Scargle
+  periodogram we searched more than 150 000 stellar light curves for periodic brightness
+  variations. We analyzed periods between 1 and 30 days in eight consecutive Kepler
+  quarters, where 30 days is an estimated maximum for the validity of the PDC\_MAP
+  data correction pipeline. We selected stable rotation periods, i.e., periods that
+  do not vary from the median by more than one day in at least six of the eight quarters.
+  We averaged the periods for each stellar spectral class according to B - V color
+  and compared the results to archival vsini data, using stellar radii estimates from
+  the Kepler Input Catalog.  Results: We report on the stable starspot rotation periods
+  of 12 151 Kepler stars. We find good agreement between starspot velocities and vsini
+  data for all F-, G- and early K-type stars. The 795 M-type stars in our sample have
+  a median rotation period of 15.4 days. We find an excess of M-type stars with periods
+  less than 7.5 days that are potentially fast-rotating and fully convective. Measuring
+  photometric variability in multiple Kepler quarters appears to be a straightforward
+  and reliable way to determine the rotation periods of a large sample of active stars,
+  including late-type stars.  Table 1 is only available at the CDS via anonymous ftp
+  to http://cdsarc.u-strasbg.fr (ftp://130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/557/L10'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...557L..10N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.5721
+author: Nielsen, M. B. and Gizon, L. and Schunker, H. and Karoff, C.
+author_list:
+- family: Nielsen
+  given: M. B.
+- family: Gizon
+  given: L.
+- family: Schunker
+  given: H.
+- family: Karoff
+  given: C.
+date-added: 2017-08-10 19:09:47 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1051/0004-6361/201321912
+eid: L10
+eprint: '1305.5721'
+journal: \aap
+keywords: 'stars: rotation, starspots, stars: late-type'
+month: September
+pages: L10
+papis_id: 33275f9a3cd5c842dffa7a9a6c7f963f
+primaryclass: astro-ph.SR
+ref: nielsen.m.2013
+title: 'Rotation periods of 12 000 main-sequence Kepler stars: Dependence on stellar
+  spectral type and comparison with v sin i observations'
+type: article
+volume: '557'
+year: '2013'

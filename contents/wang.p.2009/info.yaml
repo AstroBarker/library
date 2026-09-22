@@ -1,0 +1,44 @@
+abstract: We modeled the formation and early evolution of disk galaxies with a magnetized
+  interstellar medium using magnetohydrodynamic (MHD) adaptive mesh refinement simulations.
+  For a 1010 M sun halo with initial Navarro-Frenk-White dark matter and gas profiles,
+  we impose a uniform 10-9 G magnetic field and follow its collapse, disk formation
+  and evolution up to 1 Gyr. We find that the initial magnetic fields are quickly
+  amplified by the differentially rotating turbulent disk with the amplification rate
+  roughly one e-folding per orbit. After the initial rapid amplification lasting ~500
+  Myr, subsequent field amplification appears self-regulated. The field strengths
+  in the self-regulated regime have similar strength as the observed fields in the
+  Milky Way galaxy both in the warm and the cold H I phases. Since supernova explosions,
+  which we neglected in our current model, are likely to further amplify the magnetic
+  field, our calculation suggests that Milky Way strength magnetic field might be
+  common in high redshift disk galaxies. After saturation, highly magnetized material
+  also begins to form above and below the disk, which may affect subsequent galaxy
+  evolution, especially mergers, significantly. The global azimuthal magnetic fields
+  reverse at different radii and the amplitude declines as a function of radius of
+  the disk. We also find that magnetic force can provide further support in the cold
+  gas and lead to a decline of the amount of cold gas at high density which may lead
+  to a decline in the star formation rate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...696...96W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0712.0872
+author: Wang, P. and Abel, T.
+author_list:
+- family: Wang
+  given: P.
+- family: Abel
+  given: T.
+date-added: 2017-08-11 03:19:23 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/696/1/96
+eprint: '0712.0872'
+journal: \apj
+keywords: 'galaxies: formation, galaxies: ISM'
+month: May
+pages: 96--109
+papis_id: 46a75df59e0082e8e0a122130ed51d00
+ref: wang.p.2009
+title: 'Magnetohydrodynamic Simulations of Disk Galaxy Formation: The Magnetization
+  of the Cold and Warm Medium'
+type: article
+volume: '696'
+year: '2009'

@@ -1,0 +1,47 @@
+abstract: We have performed time-dependent numerical simulations of the interstellar
+  medium (ISM) which account for galactic shear and magnetic fields, vertical gravity,
+  and a radiative cooling function for atomic gas. This allows us to study the magnetorotational
+  instability (MRI) in cloudy, vertically stratified disks. As in previous unstratified
+  models, we find that thermal instability interacts with MRI-driven turbulence and
+  galactic shear to produce a network of cold, dense, filamentary clouds embedded
+  in a warm diffuse ambient medium. There is significant thermally unstable gas, but
+  the density and temperature distributions retain the twin peaks of the classical
+  two-phase ISM. Independent of the total gas surface density and vertical gravity
+  levels adopted, the midplane ratios of thermal to magnetic pressure are beta=0.3-0.6,
+  when the mean vertical magnetic field is 0.26 muG. We analyze the vertical distributions
+  of density and various pressure terms and address what supports the ISM vertically.
+  All models become differentially stratified by temperature; only when the cold mass
+  fraction is small does turbulent mixing maintain a large cold-medium scale height.
+  Turbulent velocities of the cold gas also increase as the cold mass fraction decreases,
+  but are generally low (~1-3 km s-1) near the midplane; they increase to >5 km s-1
+  at high z. Turbulent amplitudes are higher in the warm gas. The central thermal
+  pressure is similar for all models even though the total weight varies by a factor
+  of 7 for a range of imposed vertical gravity; in higher gravity models the increased
+  weight is supported by increased magnetic pressure gradients. Approximate vertical
+  equilibrium holds for all models. Finally, we argue that in the outer parts of galactic
+  disks, MRI is likely able to prevent the development of self-gravitating instabilities
+  and hence suppress star formation, even if cold gas is present.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...663..183P
+arxivurl: http://arxiv.org/abs/astro-ph/0703648
+author: Piontek, R. A. and Ostriker, E. C.
+author_list:
+- family: Piontek
+  given: R. A.
+- family: Ostriker
+  given: E. C.
+date-added: 2017-08-11 01:28:37 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518103
+eprint: astro-ph/0703648
+journal: \apj
+keywords: 'Galaxies: ISM, Instabilities, ISM: Kinematics and Dynamics, ISM: Magnetic
+  Fields, Magnetohydrodynamics: MHD'
+month: July
+pages: 183--203
+papis_id: e0ef9c4af05f0ba322f12d486c7cacd3
+ref: piontek.r.2007
+title: Models of Vertically Stratified Two-Phase ISM Disks with MRI-Driven Turbulence
+type: article
+volume: '663'
+year: '2007'

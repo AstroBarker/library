@@ -1,0 +1,46 @@
+abstract: We present substantial extensions to the Monte Carlo radiative transfer
+  code TARDIS to perform spectral synthesis for type II supernovae. By incorporating
+  a non-LTE ionization and excitation treatment for hydrogen, a full account of free-free
+  and bound-free processes, a self-consistent determination of the thermal state and
+  by improving the handling of relativistic effects, the improved code version includes
+  the necessary physics to perform spectral synthesis for type II supernovae to high
+  precision as required for the reliable inference of supernova properties. We demonstrate
+  the capabilities of the extended version of TARDIS by calculating synthetic spectra
+  for the prototypical type II supernova SN1999em and by deriving a new and independent
+  set of dilution factors for the expanding photosphere method. We have investigated
+  in detail the dependence of the dilution factors on photospheric properties and,
+  for the first time, on changes in metallicity. We also compare our results with
+  two previously published sets of dilution factors by Eastman et al. (1996) and by
+  Dessart \& Hillier (2005), and discuss the potential sources of the discrepancies
+  between studies.
+adscomment: 16 pages, 12 figures, 2 tables, accepted for publication in A\&A
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv181102543V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1811.02543
+author: Vogl, C. and Sim, S. A. and Noebauer, U. M. and Kerzendorf, W. E. and Hillebrandt,
+  W.
+author_list:
+- family: Vogl
+  given: C.
+- family: Sim
+  given: S. A.
+- family: Noebauer
+  given: U. M.
+- family: Kerzendorf
+  given: W. E.
+- family: Hillebrandt
+  given: W.
+date-added: 2018-11-07 09:42:17 -0500
+date-modified: 2018-11-07 09:42:27 -0500
+eprint: '1811.02543'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar
+  and Stellar Astrophysics
+month: November
+papis_id: 0dd01f06fb5387a05875c765d12c7609
+primaryclass: astro-ph.HE
+ref: vogl.c.2018
+title: Spectral modeling of type II supernovae. I. Dilution factors
+type: article
+year: '2018'

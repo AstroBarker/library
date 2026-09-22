@@ -1,0 +1,44 @@
+abstract: We describe numerical methods for incorporating gasdynamics into cosmological
+  simulations and present illustrative applications to the cold dark matter (CDM)
+  scenario. Our evolution code, a version of TreeSPH (Hernquist \& Katz 1989) generalized
+  to handle comoving coordinates and periodic boundary conditions, combines smoothed-particle
+  hydrodynamics (SPH) with the hierarchical tree method for computing gravitational
+  forces. The Lagrangian hydrodynamics approach and individual time steps for gas
+  particles give the algorithm a large dynamic range, which is essential for studies
+  of galaxy formation in a cosmological context. The code incorporates radiative cooling
+  for an optically thin, primordial composition gas in ionization equilibrium with
+  a user-specified ultraviolet background. We adopt a phenomenological prescription
+  for star formation that gradually turns cold, dense, Jeans-unstable gas into collisionless
+  stars, returning supernova feedback energy to the surrounding medium. In CDM simulations,
+  some of the baryons that fall into dark matter potential wells dissipate their acquired
+  thermal energy and condense into clumps with roughly galactic masses. The resulting
+  galaxy population is insensitive to assumptions about star formation; we obtain
+  similar baryonic mass functions and galaxy correlation functions from simulations
+  with star formation and from simulations without star formation in which we identify
+  galaxies directly from the cold, dense gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJS..105...19K
+arxivurl: http://arxiv.org/abs/astro-ph/9509107
+author: Katz, N. and Weinberg, D. H. and Hernquist, L.
+author_list:
+- family: Katz
+  given: N.
+- family: Weinberg
+  given: D. H.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:27:34 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/192305
+eprint: astro-ph/9509107
+journal: \apjs
+keywords: 'METHODS: NUMERICAL, HYDRODYNAMICS, GALAXIES: FORMATION, COSMOLOGY: LARGE-SCALE
+  STRUCTURE OF UNIVERSE, COSMOLOGY: THEORY, COSMOLOGY: DARK MATTER'
+month: July
+pages: '19'
+papis_id: 056d33d4308eecda7d1fc7e9a50f528e
+ref: katz.n.1996
+title: Cosmological Simulations with TreeSPH
+type: article
+volume: '105'
+year: '1996'

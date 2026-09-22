@@ -1,0 +1,78 @@
+abstract: 'Context. Rotational splittings are currently measured for several main
+  sequence stars and a large number of red giants with the space mission Kepler. This
+  will provide stringent constraints on rotation profiles.  Aims: Our aim is to obtain
+  seismic constraints on the internal transport and surface loss of the angular momentum
+  of oscillating solar-like stars. To this end, we study the evolution of rotational
+  splittings from the pre-main sequence to the red-giant branch for stochastically
+  excited oscillation modes.  Methods: We modified the evolutionary code CESAM2K to
+  take rotationally induced transport in radiative zones into account. Linear rotational
+  splittings were computed for a sequence of 1.3 M\&sun; models. Rotation profiles
+  were derived from our evolutionary models and eigenfunctions from linear adiabatic
+  oscillation calculations.  Results: We find that transport by meridional circulation
+  and shear turbulence yields far too high a core rotation rate for red-giant models
+  compared with recent seismic observations. We discuss several uncertainties in the
+  physical description of stars that could have an impact on the rotation profiles.
+  For instance, we find that the Goldreich-Schubert-Fricke instability does not extract
+  enough angular momentum from the core to account for the discrepancy. In contrast,
+  an increase of the horizontal turbulent viscosity by 2 orders of magnitude is able
+  to significantly decrease the central rotation rate on the red-giant branch.  Conclusions:
+  Our results indicate that it is possible that the prescription for the horizontal
+  turbulent viscosity largely underestimates its actual value or else a mechanism
+  not included in current stellar models of low mass stars is needed to slow down
+  the rotation in the radiative core of red-giant stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...549A..74M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.1271
+author: Marques, J. P. and Goupil, M. J. and Lebreton, Y. and Talon, S. and Palacios,
+  A. and Belkacem, K. and Ouazzani, R.-M. and Mosser, B. and Moya, A. and Morel, P.
+  and Pichon, B. and Mathis, S. and Zahn, J.-P. and Turck-Chièze, S. and Nghiem, P.
+  A. P.
+author_list:
+- family: Marques
+  given: J. P.
+- family: Goupil
+  given: M. J.
+- family: Lebreton
+  given: Y.
+- family: Talon
+  given: S.
+- family: Palacios
+  given: A.
+- family: Belkacem
+  given: K.
+- family: Ouazzani
+  given: R.-M.
+- family: Mosser
+  given: B.
+- family: Moya
+  given: A.
+- family: Morel
+  given: P.
+- family: Pichon
+  given: B.
+- family: Mathis
+  given: S.
+- family: Zahn
+  given: J.-P.
+- family: Turck-Chièze
+  given: S.
+- family: Nghiem
+  given: P. A. P.
+date-added: 2017-08-10 17:07:36 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1051/0004-6361/201220211
+eid: A74
+eprint: '1211.1271'
+journal: \aap
+keywords: 'stars: evolution, stars: interiors, stars: rotation, stars: oscillations'
+month: January
+pages: A74
+papis_id: 1b29d6fcd55a238a493d559aa8eae6f9
+primaryclass: astro-ph.SR
+ref: marques.j.2013
+title: Seismic diagnostics for transport of angular momentum in stars. I. Rotational
+  splittings from the pre-main sequence to the red-giant branch
+type: article
+volume: '549'
+year: '2013'

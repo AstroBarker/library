@@ -1,0 +1,61 @@
+abstract: 'We continue our study of the possible production of supernovae and a variety
+  of high-energy transients by black hole formation in massive stars endowed with
+  rotation: the ``collapsar model.'''' The black hole may form either promptly, since
+  a successful outgoing shock fails to be launched by the collapsed iron core (collapsar
+  Type I), or, in a mild explosion, by fallback (collapsar Type II). In the latter
+  case, the inner layers of the star initially move outward but lack adequate momentum
+  to eject all the matter exterior to the young neutron star. Over a period of minutes
+  to hours, ~0.1-5 Msolar falls back onto the collapsed remnant, turning it into a
+  black hole and establishing an accretion disk. The accretion rate, ~0.001-0.01 Msolar
+  s-1, is inadequate to produce a jet mediated by neutrino annihilation but is similar
+  to what has been invoked in magnetohydrodynamic (MHD) models for gamma-ray bursts
+  (GRBs). This fallback is modeled in detail for two 25 Msolar progenitors using two
+  different one-dimensional hydrodynamics codes, one Lagrangian and one Eulerian.
+  The production and consequences of jets are then explored in both sorts of collapsars.
+  Justification is given for assuming that the jet power is a constant times the mass
+  accretion rate, \ensuremath{\epsilon}Mc2, and the consequences of \ensuremath{\epsilon}=0.001
+  and 0.01 are explored. Adopting an initial collimation half-angle of 10$\,^{\circ}$,
+  the opening of the jet as it propagates through the exploding star is strongly influenced
+  not only by the jet''s kinetic energy but also by its initial pressure and the stellar
+  structure. Cold jets tend to stay collimated and become even more so, sometimes
+  having an angle of only a few degrees when they reach the surface. Jets having higher
+  internal pressure than the stellar material through which they pass, or less initial
+  collimation, spread out and tend to make energetic, asymmetric supernovae accompanied,
+  in helium stars, by weak GRBs. SN 1998bw may have been such an event, and other
+  events having energies between that of ordinary GRBs and GRB 980425 await discovery.
+  In supergiant stars, shock breakout also produces bright X-ray transients that might
+  be a diagnostic of the model, but even the most powerful jets (equivalent isotropic
+  energy 1054 ergs) will not produce a GRB in a red supergiant. For such Type II supernovae
+  the limiting Lorentz factor is Gamma~2. Type II collapsars should be more frequent
+  than Type I and may power the most common form of gamma-ray transient in the universe.
+  However, the GRBs seen by BATSE are, for the most part, too brief to be Type II
+  collapsars. Those are still attributed to prompt black hole formation. Even there
+  though, the diverse energies and time structure reflect chiefly the viewing angle
+  and the variable collimation of the jet inside the star, not a highly variable ``central
+  engine.'''' Indeed, collapsar-induced transients may all have a common total energy
+  in the range 1051-1052 ergs.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...550..410M
+arxivurl: http://arxiv.org/abs/astro-ph/9910034
+author: MacFadyen, A. I. and Woosley, S. E. and Heger, A.
+author_list:
+- family: MacFadyen
+  given: A. I.
+- family: Woosley
+  given: S. E.
+- family: Heger
+  given: A.
+date-added: 2017-08-10 16:46:29 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319698
+eprint: astro-ph/9910034
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Stars: Supernovae: General'
+month: March
+pages: 410--425
+papis_id: a2d40b25578864c3b979fa50c03d36c0
+ref: macfadyen.a.2001
+title: Supernovae, Jets, and Collapsars
+type: article
+volume: '550'
+year: '2001'

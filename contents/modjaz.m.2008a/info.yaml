@@ -1,0 +1,64 @@
+abstract: We compare the chemical abundances at the sites of 12 nearby (z < 0.14)
+  Type Ic supernovae (SN Ic) that showed broad lines, but had no observed gamma-ray
+  burst (GRB), with the chemical abundances in five nearby (z < 0.25) galaxies at
+  the sites of GRBs where broad-lined SN Ic were seen after the fireball had faded.
+  It has previously been noted that GRB hosts are low in luminosity and low in their
+  metal abundances. If low metallicity is sufficient to force the evolution of massive
+  stars to end their lives as GRBs with an accompanying broad-lined SN Ic, then we
+  would expect higher metal abundances for the broad-lined SN Ic that have no detected
+  GRBs. This is what we observe, and this trend is independent of the choice of metallicity
+  calibration we adopt and the mode of SN survey that found the broad-lined SN Ic.
+  A unique feature of this analysis is that we present new spectra of the host galaxies
+  and analyze all measurements of both samples in the same set of methods, using the
+  galaxy emission-line measurements corrected for extinction and stellar absorption,
+  via independent metallicity diagnostics of Kewley \& Dopita, McGaugh, and Pettini
+  \& Pagel. In our small sample, the boundary between galaxies that have GRBs accompanying
+  their broad-lined SN Ic and those that have broad-lined SN Ic without GRBs lies
+  at an oxygen abundance of 12 + log(O/H)KD02 ~ 8.5, which corresponds to 0.2-0.6
+  Zsun depending on the adopted metallicity scale and solar abundance value. Even
+  when we limit the comparison to SN Ic that were found in untargeted supernova surveys,
+  the environment of every broad-lined SN Ic that had no GRB is more metal rich than
+  the site of any broad-lined SN Ic where a GRB was detected.  This paper includes
+  data gathered with the MMT Observatory, a joint facility of the Smithsonian Institution
+  and the University of Arizona, and with the 6.5 m Magellan Telescopes located at
+  Las Campanas Observatory, Chile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....135.1136M
+arxivurl: http://arxiv.org/abs/astro-ph/0701246
+author: Modjaz, M. and Kewley, L. and Kirshner, R. P. and Stanek, K. Z. and Challis,
+  P. and Garnavich, P. M. and Greene, J. E. and Kelly, P. L. and Prieto, J. L.
+author_list:
+- family: Modjaz
+  given: M.
+- family: Kewley
+  given: L.
+- family: Kirshner
+  given: R. P.
+- family: Stanek
+  given: K. Z.
+- family: Challis
+  given: P.
+- family: Garnavich
+  given: P. M.
+- family: Greene
+  given: J. E.
+- family: Kelly
+  given: P. L.
+- family: Prieto
+  given: J. L.
+date-added: 2017-08-10 16:47:04 +0000
+date-modified: 2017-12-05 16:37:04 +0000
+doi: 10.1088/0004-6256/135/4/1136
+eprint: astro-ph/0701246
+journal: \aj
+keywords: 'galaxies: abundances, galaxies: distances and redshifts, gamma rays: bursts,
+  supernovae: general'
+month: April
+pages: 1136--1150
+papis_id: fe24574e840adb90b859b3336124b686
+ref: modjaz.m.2008a
+title: Measured Metallicities at the Sites of Nearby Broad-Lined Type Ic Supernovae
+  and Implications for the Supernovae Gamma-Ray Burst Connection
+type: article
+volume: '135'
+year: '2008'

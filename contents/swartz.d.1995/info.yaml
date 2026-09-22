@@ -1,0 +1,44 @@
+abstract: 'Solutions to the energy-independent (gray) radiative transfer equations
+  are compared to results of Monte Carlo simulations of the 56Ni and 56Co radioactive
+  decay gamma-ray energy deposition in supernovae. The comparison shows that an effective,
+  purely absorptive, gray opacity, Kgamma \texttildelow{} (0.06$\pm$.01) Ye cm-2 g-1,
+  where Ye is the total number of electrons per baryon accurately describes the interaction
+  of gamma-rays with the cool supernova gas and the local gamma-ray energy deposition
+  within the gas. The nature of the gamma-ray interaction process (dominated by Compton
+  scattering in the relativistic regime) creates a weak dependence of gamma on the
+  optical thickness of the (spherically symmetric) supernova atmosphere: The maximum
+  value of gamma applies during optically thick conditions when individual gamma-rays
+  undergo multiple scattering encounters and the lower bound is reached at the phase
+  characterized by a total Thomson optical depth to the center of the atmosphere taue
+  \lessequivlnt{} 1. However, the constant asymptotic value, Kgamma = 0.050Ye cm2
+  g-1, reproduces the thermal light curve due to gamma-ray deposition for Type Ia
+  supernova models to within 10\% for the epoch from maximum light to t = 1200 days.
+  Our results quantitatively confirm that the quick and efficient solution to the
+  gray transfer problem provides an accurate representation of gamma-ray energy deposition
+  for a broad range of supernova conditions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...446..766S
+arxivurl: http://arxiv.org/abs/astro-ph/9501005
+author: Swartz, D. A. and Sutherland, P. G. and Harkness, R. P.
+author_list:
+- family: Swartz
+  given: D. A.
+- family: Sutherland
+  given: P. G.
+- family: Harkness
+  given: R. P.
+date-added: 2017-08-11 02:40:39 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175834
+eprint: astro-ph/9501005
+journal: \apj
+keywords: 'GAMMA RAYS: THEORY, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, RADIATIVE
+  TRANSFER, STARS: SUPERNOVAE: GENERAL'
+month: June
+pages: '766'
+papis_id: e5d21aec5aaeb431623f6fe14dae683c
+ref: swartz.d.1995
+title: Gamma-Ray Transfer and Energy Deposition in Supernovae
+type: article
+volume: '446'
+year: '1995'

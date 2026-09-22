@@ -1,0 +1,47 @@
+abstract: We present three-dimensional numerical magnetohydrodynamic simulations of
+  radiatively inefficient spherical accretion onto a black hole. The simulations are
+  initialized with a Bondi flow and with a weak, dynamically unimportant, large-scale
+  magnetic field. As the gas flows in, the magnetic field is amplified. When the magnetic
+  pressure approaches equipartition with the gas pressure, the field begins to reconnect
+  and the gas is heated up. The heated gas is buoyant and moves outward, causing line
+  stretching of the frozen-in magnetic field. This leads to further reconnection and
+  more heating and buoyancy-induced motions, so that the flow makes a transition to
+  a state of self-sustained convection. The radial structure of the flow changes dramatically
+  from its initial Bondi profile, and the mass accretion rate onto the black hole
+  decreases significantly. Motivated by the numerical results, we develop a simplified
+  analytical model of a radiatively inefficient spherical flow in which convective
+  transport of energy to large radii plays an important role. In this ``convection-dominated
+  Bondi flow,'' the accretion velocity is highly subsonic, and the density varies
+  with radius as rho~R-1/2 rather than the standard Bondi scaling rho~R-3/2. We estimate
+  that the mass accretion rate onto the black hole correspondingly scales as M~(Rin/Ra)MBondi,
+  where Rin is a small multiple of the Schwarzschild radius of the black hole and
+  Ra is the ``accretion radius'' at which the ambient gas in the surrounding medium
+  is gravitationally captured by the black hole. Since the factor Rin/Ra is typically
+  very small, M is significantly less than the Bondi accretion rate. Convection-dominated
+  Bondi flows may be relevant for understanding many astrophysical phenomena, e.g.,
+  post-supernova fallback and radiatively inefficient accretion onto supermassive
+  black holes, stellar-mass black holes, and neutron stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...566..137I
+arxivurl: http://arxiv.org/abs/astro-ph/0105365
+author: Igumenshchev, I. V. and Narayan, R.
+author_list:
+- family: Igumenshchev
+  given: I. V.
+- family: Narayan
+  given: R.
+date-added: 2017-08-10 23:28:55 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338077
+eprint: astro-ph/0105365
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Convection, Galaxies: Nuclei, Magnetohydrodynamics:
+  MHD, Stars: Supernovae: General, Turbulence'
+month: February
+pages: 137--147
+papis_id: 04ba099de56b9a13500bc7ac5abcd6bd
+ref: igumenshchev.i.2002a
+title: Three-dimensional Magnetohydrodynamic Simulations of Spherical Accretion
+type: article
+volume: '566'
+year: '2002'

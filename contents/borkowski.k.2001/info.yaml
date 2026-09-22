@@ -1,0 +1,40 @@
+abstract: 'Improved calculations of X-ray spectra for supernova remnants (SNRs) in
+  the Sedov-Taylor phase are reported, which for the first time include reliable atomic
+  data for Fe L-shell lines. This new set of Sedov models also allows for a partial
+  collisionless heating of electrons at the blast wave and for energy transfer from
+  ions to electrons through Coulomb collisions. X-ray emission calculations are based
+  on the updated Hamilton-Sarazin spectral model. The calculated X-ray spectra are
+  successfully interpreted in terms of three distribution functions: the electron
+  temperature and ionization timescale distributions, and the ionization timescale-averaged
+  electron temperature distribution. The comparison of Sedov models with a frequently
+  used single nonequilibrium ionization (NEI) timescale model reveals that this simple
+  model is generally not an appropriate approximation to X-ray spectra of SNRs. We
+  find instead that plane-parallel shocks provide a useful approximation to X-ray
+  spectra of SNRs, particularly for young SNRs. Sedov X-ray models described here,
+  together with simpler plane shock and single-ionization timescale models, have been
+  implemented as standard models in the widely used XSPEC v11 spectral software package.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...548..820B
+arxivurl: http://arxiv.org/abs/astro-ph/0008066
+author: Borkowski, K. J. and Lyerly, W. J. and Reynolds, S. P.
+author_list:
+- family: Borkowski
+  given: K. J.
+- family: Lyerly
+  given: W. J.
+- family: Reynolds
+  given: S. P.
+date-added: 2017-08-10 17:26:39 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319011
+eprint: astro-ph/0008066
+journal: \apj
+keywords: 'ISM: Supernova Remnants, X-Rays: ISM'
+month: February
+pages: 820--835
+papis_id: 99b0eb631402c5ffcc49653eff3b29a5
+ref: borkowski.k.2001
+title: 'Supernova Remnants in the Sedov Expansion Phase: Thermal X-Ray Emission'
+type: article
+volume: '548'
+year: '2001'

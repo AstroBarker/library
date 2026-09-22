@@ -1,0 +1,51 @@
+abstract: We study the formation of dark matter halos in the concordance LambdaCDM
+  model over a wide range of redshifts, from z=20 to the present. Our primary focus
+  is the halo mass function, a key probe of cosmology. By performing a large suite
+  of nested-box N-body simulations with careful convergence and error controls (60
+  simulations with box sizes from 4 to 256 h-1 Mpc), we determine the mass function
+  and its evolution with excellent statistical and systematic errors, reaching a few
+  percent over most of the considered redshift and mass range. Across the studied
+  redshifts, the halo mass is probed over 6 orders of magnitude (107-1013.5 h-1 Msolar).
+  Historically, there has been considerable variation in the high-redshift mass function
+  as obtained by different groups. We have made a concerted effort to identify and
+  correct possible systematic errors in computing the mass function at high redshift
+  and to explain the discrepancies between some of the previous results. We discuss
+  convergence criteria for the required force resolution, simulation box size, halo
+  mass range, initial and final redshifts, and time stepping. Because of conservative
+  cuts on the mass range probed by individual boxes, our results are relatively insensitive
+  to simulation volume, the remaining sensitivity being consistent with extended Press-Schechter
+  theory. Previously obtained mass function fits near z=0, when scaled by linear theory,
+  are in good agreement with our results at all redshifts, although a mild redshift
+  dependence consistent with that found by Reed et al. may exist at low redshifts.
+  Overall, our results are consistent with a ``universal'' form for the mass function
+  at high redshifts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...671.1160L
+arxivurl: http://arxiv.org/abs/astro-ph/0702360
+author: Lukić, Z. and Heitmann, K. and Habib, S. and Bashinsky, S. and Ricker, P.
+  M.
+author_list:
+- family: Lukić
+  given: Z.
+- family: Heitmann
+  given: K.
+- family: Habib
+  given: S.
+- family: Bashinsky
+  given: S.
+- family: Ricker
+  given: P. M.
+date-added: 2017-08-10 22:36:38 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/523083
+eprint: astro-ph/0702360
+journal: \apj
+keywords: 'Methods: n-Body Simulations'
+month: December
+pages: 1160--1181
+papis_id: 93a5d124ffc86d2a5fd1e31e7c4a5a00
+ref: lukic.z.2007
+title: 'The Halo Mass Function: High-Redshift Evolution and Universality'
+type: article
+volume: '671'
+year: '2007'

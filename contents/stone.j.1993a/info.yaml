@@ -1,0 +1,45 @@
+abstract: 'In this second of three papers, we present multidimensional time-dependent
+  numerical simulations of the propagation of protostellar jets into a uniform ambient
+  medium which utilize a nonequilibrium treatment of optically thin radiative cooling.
+  This paper focuses on two- and three-dimensional models of pulsed jets in which
+  the jet inlet velocity is assumed to be intrinsically variable. These models are
+  motivated by recent observations which suggest temporal variability may account
+  for knots of emission detected in the jet beam in several sources.  Our simulations
+  show that large-amplitude periodic variations as required by observations produce
+  pulses which quickly steepen into shocks. For each pulse two shocks are formed:
+  an upstream shock (propagating more slowly than the jet velocity) which decelerates
+  high-velocity material as it collides with the pulse, and a downstream shock (propagating
+  more quickly than the jet velocity) produced as the pulse sweeps up low-velocity
+  material ahead of it. We find the pressure in the postshock material located between
+  these two shocks is substantial, and it not only causes the shocks to separate,
+  but also ejects jet material laterally from the pulses. This combination causes
+  the pulses to widen and decay in amplitude as they propagate. The effect of varying
+  the pulse amplitude and frequency on the evolution is studied. In three dimensions,
+  emission from the shock surfaces bounding the pulses produce well-separated emission
+  knots which move at the mean velocity of the jet and fade as the pulses decay. Dense,
+  cooled gas which collects at the head of the jet undergoes nonaxisymmetric fragmentation
+  by a variety of dynamical instabilities, leading to clumps and filaments of material.
+  Synthetic position-velocity diagrams constructed from the three-dimensional kinematics
+  of the pulsed jet reveal emission knots and a distinctive "sawtooth" structure.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...413..210S
+author: Stone, J. M. and Norman, M. L.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 03:22:08 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172989
+journal: \apj
+keywords: 'HYDRODYNAMICS, ISM: JETS AND OUTFLOWS, SHOCK WAVES'
+month: August
+pages: '210'
+papis_id: e92504d97d47ec35c5d053af41682a0d
+ref: stone.j.1993a
+title: Numerical Simulations of Protostellar Jets with Nonequilibrium Cooling. II.
+  Models of Pulsed Jets
+type: article
+volume: '413'
+year: '1993'

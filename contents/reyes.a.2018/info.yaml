@@ -1,0 +1,42 @@
+abstract: We present a new finite difference shock-capturing scheme for hyperbolic
+  equations on static uniform grids. The method provides selectable high-order accuracy
+  by employing a kernel-based Gaussian Process (GP) data prediction method which is
+  an extension of the GP high-order method originally introduced in a finite volume
+  framework by the same authors. The method interpolates Riemann states to high order,
+  replacing the conventional polynomial interpolations with polynomial-free GP-based
+  interpolations. For shocks and discontinuities, this GP interpolation scheme uses
+  a nonlinear shock handling strategy similar to Weighted Essentially Non-oscillatory
+  (WENO), with a novelty consisting in the fact that nonlinear smoothness indicators
+  are formulated in terms of the Gaussian likelihood of the local stencil data, replacing
+  the conventional $L_2$-type smoothness indicators of the original WENO method. We
+  demonstrate that these GP-based smoothness indicators play a key role in the new
+  algorithm, providing significant improvements in delivering high -- and selectable
+  -- order accuracy in smooth flows, while successfully delivering non-oscillatory
+  solution behavior in discontinuous flows.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180804960R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1808.04960
+author: Reyes, A. and Lee, D. and Graziani, C. and Tzeferacos, P.
+author_list:
+- family: Reyes
+  given: A.
+- family: Lee
+  given: D.
+- family: Graziani
+  given: C.
+- family: Tzeferacos
+  given: P.
+date-added: 2018-09-21 16:03:40 -0400
+date-modified: 2018-09-21 16:03:42 -0400
+eprint: '1808.04960'
+groups: Numerical Methods - General
+journal: ArXiv e-prints
+keywords: Physics - Computational Physics
+month: August
+papis_id: 257694449bbd8965c8ddbdc35467282e
+primaryclass: physics.comp-ph
+ref: reyes.a.2018
+title: A variable high-order shock-capturing finite difference method with GP-WENO
+type: article
+year: '2018'

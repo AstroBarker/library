@@ -1,0 +1,48 @@
+abstract: We present a comprehensive series of dissipationless N-body simulations
+  to investigate the evolution of density distribution in equal-mass mergers between
+  dark matter (DM) halos and multicomponent galaxies. The DM halo models are constructed
+  with various asymptotic power-law indices ranging from steep cusps to corelike profiles
+  and the structural properties of the galaxy models are motivated by the LambdaCDM
+  paradigm of structure formation. The adopted force resolution allows robust density
+  profile estimates in the inner ~1\% of the virial radii of the simulated systems.
+  We demonstrate that the central slopes and overall shapes of the remnant density
+  profiles are virtually identical to those of the initial systems, suggesting that
+  the remnants retain a remarkable memory of the density structure of their progenitors,
+  despite the relaxation that accompanies merger activity. We also find that halo
+  concentrations remain approximately constant through hierarchical merging involving
+  identical systems and show that remnants contain significant fractions of their
+  bound mass well beyond their formal virial radii. These conclusions hold for a wide
+  variety of initial asymptotic density slopes, orbital energies, and encounter configurations,
+  including sequences of consecutive merger events, simultaneous mergers of several
+  systems, and mergers of halos with embedded cold baryonic components in the form
+  of disks, spheroids, or both. As an immediate consequence, the net effect of gas
+  cooling, which contracts and steepens the inner density profiles of DM halos, should
+  be preserved through a period of dissipationless major merging. Our results imply
+  that the characteristic universal shape of DM density profiles may be set early
+  in the evolution of halos.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...641..647K
+arxivurl: http://arxiv.org/abs/astro-ph/0510583
+author: Kazantzidis, S. and Zentner, A. R. and Kravtsov, A. V.
+author_list:
+- family: Kazantzidis
+  given: S.
+- family: Zentner
+  given: A. R.
+- family: Kravtsov
+  given: A. V.
+date-added: 2017-08-11 04:03:04 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500579
+eprint: astro-ph/0510583
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Dark Matter, Galaxies: Halos, Methods: n-Body
+  Simulations'
+month: April
+pages: 647--664
+papis_id: fa7a653b593abda190fc54d76bbc0db6
+ref: kazantzidis.s.2006
+title: The Robustness of Dark Matter Density Profiles in Dissipationless Mergers
+type: article
+volume: '641'
+year: '2006'

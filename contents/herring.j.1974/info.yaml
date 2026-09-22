@@ -1,0 +1,37 @@
+abstract: The decay of two-dimensional, homogeneous, isotropic, incompressible turbulence
+  is investigated both by means of numerical simulation (in spectral as well as in
+  grid-point form), and theoretically by use of the direct-interaction approximation
+  and the test-field model. The calculations cover the range of Reynolds numbers from
+  50 to 100. Comparison of spectral methods with finite-difference methods shows that
+  one of the former with a given resolution is equivalent in accuracy to one of the
+  latter with twice the resolution. The numerical simulations at the larger Reynolds
+  numbers suggest that earlier reported simulations cannot be used in testing inertial-range
+  theories. However, the large-scale features of the flow field appear to be remarkably
+  independent of Reynolds number.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1974JFM....66..417H
+author: Herring, J. R. and Orszag, S. A. and Fox, D. G. and Kraichnan, R. H.
+author_list:
+- family: Herring
+  given: J. R.
+- family: Orszag
+  given: S. A.
+- family: Fox
+  given: D. G.
+- family: Kraichnan
+  given: R. H.
+date-added: 2017-08-11 05:08:08 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1017/S0022112074000280
+journal: Journal of Fluid Mechanics
+keywords: Energy Dissipation, Homogeneous Turbulence, Isotropic Turbulence, Turbulent
+  Flow, Two Dimensional Flow, Computerized Simulation, Dynamic Models, Energy Spectra,
+  Finite Difference Theory, Incompressible Flow, Navier-Stokes Equation, Vortices
+month: November
+pages: 417--444
+papis_id: d63479615ca30a6a02a9993607924dce
+ref: herring.j.1974
+title: Decay of two-dimensional homogeneous turbulence
+type: article
+volume: '66'
+year: '1974'

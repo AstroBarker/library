@@ -1,0 +1,208 @@
+abstract: We present multiband photometry of 185 type-Ia supernovae (SNe Ia), with
+  over 11,500 observations. These were acquired between 2001 and 2008 at the F. L.
+  Whipple Observatory of the Harvard-Smithsonian Center for Astrophysics (CfA). This
+  sample contains the largest number of homogeneously observed and reduced nearby
+  SNe Ia (z lsim 0.08) published to date. It more than doubles the nearby sample,
+  bringing SN Ia cosmology to the point where systematic uncertainties dominate. Our
+  natural system photometry has a precision of lsim0.02 mag in BVRIr'i' and lsim0.04
+  mag in U for points brighter than 17.5 mag. We also estimate a systematic uncertainty
+  of 0.03 mag in our SN Ia standard system BVRIr'i' photometry and 0.07 mag for U.
+  Comparisons of our standard system photometry with published SN Ia light curves
+  and comparison stars, where available for the same SN, reveal agreement at the level
+  of a few hundredths mag in most cases. We find that 1991bg-like SNe Ia are sufficiently
+  distinct from other SNe Ia in their color and light-curve-shape/luminosity relation
+  that they should be treated separately in light-curve/distance fitter training samples.
+  The CfA3 sample will contribute to the development of better light-curve/distance
+  fitters, particularly in the few dozen cases where near-infrared photometry has
+  been obtained and, together, can help disentangle host-galaxy reddening from intrinsic
+  supernova color, reducing the systematic uncertainty in SN Ia distances due to dust.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700..331H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.4787
+author: Hicken, M. and Challis, P. and Jha, S. and Kirshner, R. P. and Matheson, T.
+  and Modjaz, M. and Rest, A. and Wood-Vasey, W. M. and Bakos, G. and Barton, E. J.
+  and Berlind, P. and Bragg, A. and Briceño, C. and Brown, W. R. and Caldwell, N.
+  and Calkins, M. and Cho, R. and Ciupik, L. and Contreras, M. and Dendy, K.-C. and
+  Dosaj, A. and Durham, N. and Eriksen, K. and Esquerdo, G. and Everett, M. and Falco,
+  E. and Fernandez, J. and Gaba, A. and Garnavich, P. and Graves, G. and Green, P.
+  and Groner, T. and Hergenrother, C. and Holman, M. J. and Hradecky, V. and Huchra,
+  J. and Hutchison, B. and Jerius, D. and Jordan, A. and Kilgard, R. and Krauss, M.
+  and Luhman, K. and Macri, L. and Marrone, D. and McDowell, J. and McIntosh, D. and
+  McNamara, B. and Megeath, T. and Mochejska, B. and Munoz, D. and Muzerolle, J. and
+  Naranjo, O. and Narayan, G. and Pahre, M. and Peters, W. and Peterson, D. and Rines,
+  K. and Ripman, B. and Roussanova, A. and Schild, R. and Sicilia-Aguilar, A. and
+  Sokoloski, J. and Smalley, K. and Smith, A. and Spahr, T. and Stanek, K. Z. and
+  Barmby, P. and Blondin, S. and Stubbs, C. W. and Szentgyorgyi, A. and Torres, M.
+  A. P. and Vaz, A. and Vikhlinin, A. and Wang, Z. and Westover, M. and Woods, D.
+  and Zhao, P.
+author_list:
+- family: Hicken
+  given: M.
+- family: Challis
+  given: P.
+- family: Jha
+  given: S.
+- family: Kirshner
+  given: R. P.
+- family: Matheson
+  given: T.
+- family: Modjaz
+  given: M.
+- family: Rest
+  given: A.
+- family: Wood-Vasey
+  given: W. M.
+- family: Bakos
+  given: G.
+- family: Barton
+  given: E. J.
+- family: Berlind
+  given: P.
+- family: Bragg
+  given: A.
+- family: Briceño
+  given: C.
+- family: Brown
+  given: W. R.
+- family: Caldwell
+  given: N.
+- family: Calkins
+  given: M.
+- family: Cho
+  given: R.
+- family: Ciupik
+  given: L.
+- family: Contreras
+  given: M.
+- family: Dendy
+  given: K.-C.
+- family: Dosaj
+  given: A.
+- family: Durham
+  given: N.
+- family: Eriksen
+  given: K.
+- family: Esquerdo
+  given: G.
+- family: Everett
+  given: M.
+- family: Falco
+  given: E.
+- family: Fernandez
+  given: J.
+- family: Gaba
+  given: A.
+- family: Garnavich
+  given: P.
+- family: Graves
+  given: G.
+- family: Green
+  given: P.
+- family: Groner
+  given: T.
+- family: Hergenrother
+  given: C.
+- family: Holman
+  given: M. J.
+- family: Hradecky
+  given: V.
+- family: Huchra
+  given: J.
+- family: Hutchison
+  given: B.
+- family: Jerius
+  given: D.
+- family: Jordan
+  given: A.
+- family: Kilgard
+  given: R.
+- family: Krauss
+  given: M.
+- family: Luhman
+  given: K.
+- family: Macri
+  given: L.
+- family: Marrone
+  given: D.
+- family: McDowell
+  given: J.
+- family: McIntosh
+  given: D.
+- family: McNamara
+  given: B.
+- family: Megeath
+  given: T.
+- family: Mochejska
+  given: B.
+- family: Munoz
+  given: D.
+- family: Muzerolle
+  given: J.
+- family: Naranjo
+  given: O.
+- family: Narayan
+  given: G.
+- family: Pahre
+  given: M.
+- family: Peters
+  given: W.
+- family: Peterson
+  given: D.
+- family: Rines
+  given: K.
+- family: Ripman
+  given: B.
+- family: Roussanova
+  given: A.
+- family: Schild
+  given: R.
+- family: Sicilia-Aguilar
+  given: A.
+- family: Sokoloski
+  given: J.
+- family: Smalley
+  given: K.
+- family: Smith
+  given: A.
+- family: Spahr
+  given: T.
+- family: Stanek
+  given: K. Z.
+- family: Barmby
+  given: P.
+- family: Blondin
+  given: S.
+- family: Stubbs
+  given: C. W.
+- family: Szentgyorgyi
+  given: A.
+- family: Torres
+  given: M. A. P.
+- family: Vaz
+  given: A.
+- family: Vikhlinin
+  given: A.
+- family: Wang
+  given: Z.
+- family: Westover
+  given: M.
+- family: Woods
+  given: D.
+- family: Zhao
+  given: P.
+date-added: 2017-08-10 21:18:51 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/700/1/331
+eprint: '0901.4787'
+journal: \apj
+keywords: 'supernovae: general'
+month: July
+pages: 331--357
+papis_id: 058e5ceb9a2e46fef44d4daf009f61f5
+primaryclass: astro-ph.CO
+ref: hicken.m.2009
+title: 'CfA3: 185 Type Ia Supernova Light Curves from the CfA'
+type: article
+volume: '700'
+year: '2009'

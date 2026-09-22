@@ -1,0 +1,43 @@
+abstract: In this paper, we introduce texttt\{SuperLite\}, an open-         source
+  Monte Carlo radiation transport code designed to produce         synthetic spectra
+  for astrophysical transient phenomena affected         by circumstellar interaction.
+  texttt\{SuperLite\}         utilizes Monte Carlo methods for semi-implicit, semi-         relativistic
+  radiation transport in high-velocity shocked         outflows, employing multi-group
+  structured opacity calculations.         The code enables rapid post-processing
+  of hydrodynamic profiles         to generate high-quality spectra that can be compared
+  with         observations of transient events, including superluminous         supernovae,
+  pulsational pair-instability supernovae, and other         peculiar transients.
+  We present the methods employed in         texttt\{SuperLite\} and compare the code's         performance
+  to that of other radiative transport codes, such as         texttt\{SuperNu\} and
+  CMFGEN. We show that         texttt\{SuperLite\} has successfully passed         standard
+  Monte Carlo radiation transport tests and can reproduce         spectra of typical
+  supernovae of Type Ia, Type IIP and Type IIn.
+archiveprefix: arXiv
+author: Wagle, Gururaj A. and Chatzopoulos, Emmanouil and Wollaeger, Ryan and Fontes,
+  Christopher J.
+author_list:
+- family: Wagle
+  given: Gururaj A.
+- family: Chatzopoulos
+  given: Emmanouil
+- family: Wollaeger
+  given: Ryan
+- family: Fontes
+  given: Christopher J.
+doi: 10.48550/arXiv.2305.17184
+eid: arXiv:2305.17184
+eprint: '2305.17184'
+groups: Code/Software, Numerical Methods - Radiation
+journal: arXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar
+  and Stellar Astrophysics
+month: May
+pages: arXiv:2305.17184
+papis_id: e08b439e7e914d1b9e9bbb2d44df1ae8
+primaryclass: astro-ph.HE
+ref: wagle.gururaj.2023
+title: Monte Carlo Radiation Transport for Astrophysical Transients Powered by Circumstellar
+  Interaction
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2023arXiv230517184W
+year: '2023'

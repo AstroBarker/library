@@ -1,0 +1,49 @@
+abstract: 'Context. Implicit solvers present strong limitations when used on supercomputing
+  facilities and in particular for adaptive mesh-refinement codes.  Aims: We present
+  a new method for implicit adaptive time-stepping on adaptive mesh-refinement grids.
+  We implement it in the radiation-hydrodynamics solver we designed for the RAMSES
+  code for astrophysical purposes and, more particularly, for protostellar collapse.  Methods:
+  We briefly recall the radiation-hydrodynamics equations and the adaptive time-stepping
+  methodology used for hydrodynamical solvers. We then introduce the different types
+  of boundary conditions (Dirichlet, Neumann, and Robin) that are used at the interface
+  between levels and present our implementation of the new method in the RAMSES code.
+  The method is tested against classical diffusion and radiation-hydrodynamics tests,
+  after which we present an application for protostellar collapse.  Results: We show
+  that using Dirichlet boundary conditions at level interfaces is a good compromise
+  between robustness and accuracy and that it can be used in structure formation calculations.
+  The gain in computational time over our former unique time step method ranges from
+  factors of 5 to 50 depending on the level of adaptive time-stepping and on the problem.
+  We successfully compare the old and new methods for protostellar collapse calculations
+  that involve highly non linear physics.  Conclusions: We have developed a simple
+  but robust method for adaptive time-stepping of implicit scheme on adaptive mesh-refinement
+  grids. It can be applied to a wide variety of physical problems that involve diffusion
+  processes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...563A..11C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.1112
+author: Commerçon, B. and Debout, V. and Teyssier, R.
+author_list:
+- family: Commerçon
+  given: B.
+- family: Debout
+  given: V.
+- family: Teyssier
+  given: R.
+date-added: 2017-08-10 18:57:39 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1051/0004-6361/201322858
+eid: A11
+eprint: '1401.1112'
+journal: \aap
+keywords: 'methods: numerical, stars: formation, radiation: dynamics, hydrodynamics'
+month: March
+pages: A11
+papis_id: 18faf09d11e2bdc762ceadf25cae9b5e
+primaryclass: astro-ph.IM
+ref: commercon.b.2014
+title: A fast, robust, and simple implicit method for adaptive time-stepping on adaptive
+  mesh-refinement grids
+type: article
+volume: '563'
+year: '2014'

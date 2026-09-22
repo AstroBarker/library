@@ -1,0 +1,52 @@
+abstract: 'The Low Resolution Imaging Spectrometer (LRIS) for the Cassegrain focus
+  of the Keck 10-meter telescope on Mauna Kea is described. It has an imaging mode
+  so it can also be used for taking direct images. The field of view in both spectrographic
+  and imaging modes is 6 by 7.8 arcmin. It can be used with both conventional slits
+  and custom-punched slit masks. The optical quality of the spectrograph is good enough
+  to take full advantage of the excellent imaging properties of the telescope itself.
+  The detector is a cooled back-illuminated Tektronics Inc. 2048 CCD which gives a
+  sampling rate of 4.685 pixels per arcsec. In the spectrographic mode the spectrograph
+  has a maximum efficiency at the peak of the grating blaze of 32-34\% for the two
+  lowest resolution gratings and 28\% for the 1200 g/mm grating. This efficiency includes
+  the detector but not the telescope or the atmosphere. (SECTION: Astronomical Instrumentation)'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995PASP..107..375O
+author: Oke, J. B. and Cohen, J. G. and Carr, M. and Cromer, J. and Dingizian, A.
+  and Harris, F. H. and Labrecque, S. and Lucinio, R. and Schaal, W. and Epps, H.
+  and Miller, J.
+author_list:
+- family: Oke
+  given: J. B.
+- family: Cohen
+  given: J. G.
+- family: Carr
+  given: M.
+- family: Cromer
+  given: J.
+- family: Dingizian
+  given: A.
+- family: Harris
+  given: F. H.
+- family: Labrecque
+  given: S.
+- family: Lucinio
+  given: R.
+- family: Schaal
+  given: W.
+- family: Epps
+  given: H.
+- family: Miller
+  given: J.
+date-added: 2017-08-10 16:04:11 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/133562
+journal: \pasp
+keywords: 'INSTRUMENTATION: SPECTROGRAPHS'
+month: April
+pages: '375'
+papis_id: 61d7bc84dc3067ea239e6533471d1425
+ref: oke.j.1995
+title: The Keck Low-Resolution Imaging Spectrometer
+type: article
+volume: '107'
+year: '1995'

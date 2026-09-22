@@ -1,0 +1,51 @@
+abstract: We present results from an extensive set of one- and two-dimensional radiation-hydrodynamic
+  simulations of the supernova core-collapse, bounce, and postbounce phases and focus
+  on the proto-neutron star (PNS) spin periods and rotational profiles as a function
+  of initial iron core angular velocity, degree of differential rotation, and progenitor
+  mass. For the models considered, we find a roughly linear mapping between initial
+  iron core rotation rate and PNS spin. The results indicate that the magnitude of
+  the precollapse iron core angular velocities is the single most important factor
+  in determining the PNS spin. Differences in progenitor mass and degree of differential
+  rotation lead only to small variations in the PNS rotational period and profile.
+  Based on our calculated PNS spins at ~200-300 ms after bounce and assuming angular
+  momentum conservation, we estimate final neutron star rotation periods. We find
+  periods of 1 ms and shorter for initial central iron core periods of <~10 s. This
+  is appreciably shorter than what previous studies have predicted and is in disagreement
+  with current observational data from pulsar astronomy. After considering possible
+  spin-down mechanisms that could lead to longer periods, we conclude that there is
+  no mechanism that can robustly spin down a neutron star from ~1 ms periods to the
+  ``injection'' periods of tens to hundreds of milliseconds observed for young pulsars.
+  Our results indicate that, given current knowledge of the limitations of neutron
+  star spin-down mechanisms, precollapse iron cores must rotate with periods of around
+  50-100 s to form neutron stars with periods generically near those inferred for
+  the radio pulsar population.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..164..130O
+arxivurl: http://arxiv.org/abs/astro-ph/0508462
+author: Ott, C. D. and Burrows, A. and Thompson, T. A. and Livne, E. and Walder, R.
+author_list:
+- family: Ott
+  given: C. D.
+- family: Burrows
+  given: A.
+- family: Thompson
+  given: T. A.
+- family: Livne
+  given: E.
+- family: Walder
+  given: R.
+date-added: 2017-08-10 16:22:48 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500832
+eprint: astro-ph/0508462
+journal: \apjs
+keywords: 'Hydrodynamics, Neutrinos, Stars: Pulsars: General, Radiative Transfer,
+  Stars: Evolution, Stars: Neutron, Stars: Rotation, Stars: Supernovae: General'
+month: May
+pages: 130--155
+papis_id: 1239619497f8299a0af4bb8f3b84f968
+ref: ott.c.2006
+title: The Spin Periods and Rotational Profiles of Neutron Stars at Birth
+type: article
+volume: '164'
+year: '2006'

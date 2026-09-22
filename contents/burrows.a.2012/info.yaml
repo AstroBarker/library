@@ -1,0 +1,53 @@
+abstract: We investigate the structure of the stalled supernova shock in both two
+  and three dimensions (2D and 3D, respectively) and explore the differences in the
+  effects of neutrino heating and the standing accretion shock instability (SASI).
+  We find that early on the amplitude of the dipolar mode of the shock is factors
+  of ~2-3 smaller in 3D than in 2D. However, later in both 3D and 2D, the monopole
+  and dipole modes start to grow until explosion. Whereas in 2D, the (l, m) = (1,
+  0) mode changes sign quasi-periodically, producing the "up-and-down" motion always
+  seen in modern 2D simulations, in 3D this almost never happens. Rather, in 3D when
+  the dipolar mode starts to grow, it grows in magnitude and wanders stochastically
+  in direction until settling before explosion to a particular patch of solid angle.
+  Furthermore, in 2D, we find that the amplitude of the dipolar shock deformation
+  separates into two classes. For the first, identified with the SASI and for a wide
+  range of "low" neutrino luminosities, this amplitude remains small and roughly constant.
+  For the other, identified with higher luminosities and neutrino-driven convection,
+  the dipolar amplitude grows sharply. Importantly, it is only for this higher luminosity
+  class that we see neutrino-driven explosions within ~1 s of bounce. Moreover, for
+  the "low" luminosity runs (including zero), the power spectra of these dipolar oscillations
+  peak in the 30-50 Hz range associated with advection timescales, while for the high-luminosity
+  runs the power spectra at lower frequencies are significantly more prominent. We
+  associate this enhanced power at lower frequencies with slower convective effects
+  and the secular growth of the dipolar shock amplitude. Though our study involves
+  a simplified, parameterized approach, on the basis of it we hypothesize that neutrino-driven
+  buoyant convection should almost always dominate the SASI when the supernova explosion
+  is neutrino-driven.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759....5B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.3088
+author: Burrows, A. and Dolence, J. C. and Murphy, J. W.
+author_list:
+- family: Burrows
+  given: A.
+- family: Dolence
+  given: J. C.
+- family: Murphy
+  given: J. W.
+date-added: 2017-08-10 14:31:56 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/1/5
+eid: '5'
+eprint: '1204.3088'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, stars: interiors, supernovae: general'
+month: November
+pages: '5'
+papis_id: b6127bc7e52032feef398d2c30111d0a
+primaryclass: astro-ph.SR
+ref: burrows.a.2012
+title: An Investigation into the Character of Pre-explosion Core-collapse Supernova
+  Shock Motion
+type: article
+volume: '759'
+year: '2012'

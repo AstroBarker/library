@@ -1,0 +1,70 @@
+abstract: We present results of fully three-dimensional MHD simulations of disk accretion
+  to a slowly rotating magnetized star with its dipole moment inclined at an angle
+  Theta to the rotation axis of the disk (which is aligned with the spin axis of the
+  star). The main goal was to investigate the pattern of magnetospheric flow and the
+  disk-star interaction for a variety of inclination angles Theta. We observed that
+  at Theta=0deg, the disk stops at magnetospheric radius rm, and matter flows to the
+  star through axisymmetric funnel flows, as observed in earlier axisymmetric simulations.
+  However, when the dipole moment of the star is inclined, then the flow becomes nonaxisymmetric.
+  The nonaxisymmetry becomes notable at very small inclination angles, Theta~2deg-5deg.
+  The pattern of magnetospheric flow is different at different Theta. For relatively
+  small angles, Theta<~30deg, the densest matter flows to the star mostly in two streams,
+  which follow paths to the closest magnetic pole. The streams typically corotate
+  with the star, but they may precess about the star for Theta<~10deg. At intermediate
+  angles, 30deg<~Theta<~60deg, the streams become more complicated and often split
+  into four streams. For even larger angles, Theta>~60deg, matter accretes in two
+  streams, but their geometry is different from that of the streams at small Theta.
+  Magnetic braking changes the structure of the inner regions of the disk. It creates
+  a region of lower density (a ``gap'') for rm<~r<~4rm. A ring of higher density forms
+  at r~rm for Theta<~30deg. For r<~(2-3)rm, the azimuthal velocities are sub-Keplerian.
+  The inner region of the disk at r~rm is warped. The warping is due to the tendency
+  of matter to corotate with an inclined magnetosphere. The normal of the inner warped
+  part of the disk is close to the magnetic axis of the dipole. The accreting matter
+  brings positive angular momentum to the (slowly rotating) star, tending to spin
+  it up. The corresponding torque NZ depends only weakly on Theta. The angular momentum
+  flux to the star near the star's surface is transported predominantly by the magnetic
+  field; the matter component contributes ~1\% of the total flux. The torques NX and
+  NY are also calculated, and these may give a slow precession of the symmetry axis
+  of the star. The angle Theta was fixed in simulations because the timescale of its
+  evolution is much longer than that of the simulations. Results of simulations are
+  important for understanding the nature of classical T Tauri stars, cataclysmic variables,
+  and X-ray pulsars. These stars often show complicated spectral and photometric variability
+  patterns, which may be connected with the structure of magnetospheric flows. The
+  magnetospheric structure of stars with different Theta can give different variability
+  patterns in observed light curves. This can provide information about inclination
+  angles Theta in different stars. A notable result of the present simulations is
+  the formation of multiple streams in the accretion flows near the star for intermediate
+  inclination angles. This may give short-scale, quasi-periodic variability in the
+  light curves of some stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...595.1009R
+arxivurl: http://arxiv.org/abs/astro-ph/0401375
+author: Romanova, M. M. and Ustyugova, G. V. and Koldoba, A. V. and Wick, J. V. and
+  Lovelace, R. V. E.
+author_list:
+- family: Romanova
+  given: M. M.
+- family: Ustyugova
+  given: G. V.
+- family: Koldoba
+  given: A. V.
+- family: Wick
+  given: J. V.
+- family: Lovelace
+  given: R. V. E.
+date-added: 2017-08-11 03:08:54 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/377514
+eprint: astro-ph/0401375
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Magnetic Fields, Plasmas, Stars: Magnetic Fields,
+  X-Rays: Stars'
+month: October
+pages: 1009--1031
+papis_id: bb432b0e06518525ff5be966782a59d1
+ref: romanova.m.2003
+title: Three-dimensional Simulations of Disk Accretion to an Inclined Dipole. I. Magnetospheric
+  Flows at Different $Θ$
+type: article
+volume: '595'
+year: '2003'

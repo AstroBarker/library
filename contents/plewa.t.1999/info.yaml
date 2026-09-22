@@ -1,0 +1,39 @@
+abstract: Simple modifications for higher-order Godunov-type difference schemes are
+  presented which allow for accurate advection of multi-fluid flows in hydrodynamic
+  simulations. The constraint that the sum of all mass fractions has to be equal to
+  one in every computational zone throughout the simulation is fulfilled by renormalizing
+  the mass fractions during the advection step. The proposed modification is appropriate
+  for any difference scheme written in conservation form. Unlike other commonly used
+  methods it does not violate the conservative character of the advection method.
+  A new steepening mechanism, which is based on modification of interpolation profiles,
+  is used to reduce numerical diffusion across composition discontinuities. Additional
+  procedures are described, which are necessary to enforce monotonicity. Several numerical
+  experiments are presented which demonstrate the capability of our Consistent Multi-fluid
+  Advection (CMA) method in case of smooth and discontinuous distributions of fluid
+  phases and under different hydrodynamic conditions. It is shown that due to the
+  reduced diffusivity of the proposed scheme the abundance of some heavy elements
+  obtained from hydrodynamic simulations of type II supernova explosions can change
+  by a factor of a few in the most extreme cases.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999A\%26A...342..179P
+arxivurl: http://arxiv.org/abs/astro-ph/9807241
+author: Plewa, T. and Müller, E.
+author_list:
+- family: Plewa
+  given: T.
+- family: Müller
+  given: E.
+date-added: 2017-10-17 13:30:09 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+eprint: astro-ph/9807241
+journal: \aap
+keywords: 'HYDRODYNAMICS, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, METHODS:
+  NUMERICAL, STARS: SUPERNOVAE: GENERAL'
+month: February
+pages: 179--191
+papis_id: 56c9b2374f00fad504e4a57449499113
+ref: plewa.t.1999
+title: The consistent multi-fluid advection method
+type: article
+volume: '342'
+year: '1999'

@@ -1,0 +1,48 @@
+abstract: We apply a new, second-order Godunov code, Athena, to studies of the magnetorotational
+  instability (MRI) using unstratified shearing box simulations with a uniform net
+  vertical field and a sinusoidally varying zero net vertical field. The Athena results
+  agree well with similar studies that used different numerical algorithms, including
+  the observation that the turbulent energy decreases with increasing resolution in
+  the zero net field model. We conduct analyses to study the flow of energy from differential
+  rotation to turbulent fluctuations to thermalization. A study of the time correlation
+  between the rates of change of different volume-averaged energy components shows
+  that energy injected into turbulent fluctuations dissipates on a timescale of Omega-1,
+  where Omega is the orbital frequency of the local domain. Magnetic dissipation dominates
+  over kinetic dissipation, although not by as great a factor as the ratio of magnetic
+  to kinetic energy. We Fourier-transform the magnetic and kinetic energy evolution
+  equations and, using the assumption that the time-averaged energies are constant,
+  determine the level of numerical dissipation as a function of length scale and resolution.
+  By modeling numerical dissipation as if it were physical in origin, we characterize
+  numerical resistivity and viscosity in terms of effective Reynolds and Prandtl numbers.
+  The resulting effective magnetic Prandtl number is ~2, independent of resolution
+  or initial field geometry. MRI simulations with effective Reynolds and Prandtl numbers
+  determined by numerical dissipation are not equivalent to those where these numbers
+  are set by physical resistivity and viscosity. These results serve, then, as a baseline
+  for future shearing box studies where dissipation is controlled by the inclusion
+  of explicit viscosity and resistivity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...690..974S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.3969
+author: Simon, J. B. and Hawley, J. F. and Beckwith, K.
+author_list:
+- family: Simon
+  given: J. B.
+- family: Hawley
+  given: J. F.
+- family: Beckwith
+  given: K.
+date-added: 2017-08-11 02:18:23 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/690/1/974
+eprint: '0806.3969'
+journal: \apj
+keywords: accretion, accretion disks, black hole physics, MHD
+month: January
+pages: 974--997
+papis_id: 657d761e18c44ea7666fdf63e352d0ba
+ref: simon.j.2009
+title: Simulations of Magnetorotational Turbulence with a Higher-Order Godunov Scheme
+type: article
+volume: '690'
+year: '2009'

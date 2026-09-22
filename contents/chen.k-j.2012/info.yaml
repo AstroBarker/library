@@ -1,0 +1,37 @@
+abstract: Mapping one-dimensional stellar profiles onto multidimensional grids as
+  initial conditions for hydrodynamics calculations can lead to numerical artifacts,
+  one of the most severe of which is the violation of conservation laws for physical
+  quantities such as energy and mass. Here we introduce a numerical scheme for mapping
+  one-dimensional spherically-symmetric data onto multidimensional meshes so that
+  these physical quantities are conserved. We validate our scheme by porting a realistic
+  1D Lagrangian stellar profile to the new multidimensional Eulerian hydro code CASTRO.
+  Our results show that all important features in the profiles are reproduced on the
+  new grid and that conservation laws are enforced at all resolutions after mapping.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012JPhCS.402a2024C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.3033
+author: Chen, K.-J. and Heger, A. and Almgren, A.
+author_list:
+- family: Chen
+  given: K.-J.
+- family: Heger
+  given: A.
+- family: Almgren
+  given: A.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-25 17:48:15 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/1742-6596/402/1/012024
+eid: '012024'
+eprint: '1112.3033'
+month: December
+pages: '012024'
+papis_id: 5e30bccccd36723d7e1ee0eb36b9415c
+primaryclass: astro-ph.HE
+ref: chen.k_j.2012
+series: Journal of Physics Conference Series
+title: Conservative Initial Mapping For Multidimensional Simulations of Stellar Explosions
+type: inproceedings
+volume: '402'
+year: '2012'

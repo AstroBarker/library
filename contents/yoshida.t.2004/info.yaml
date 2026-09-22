@@ -1,0 +1,55 @@
+abstract: We study the nucleosynthesis of the light elements 7Li and 11B and the r-process
+  elements in Type II supernovae from the point of view of supernova neutrinos and
+  Galactic chemical evolution. We investigate the influence of the luminosity and
+  average energy (temperature) of supernova neutrinos on these two nucleosynthesis
+  processes. Common models of the neutrino luminosity, which is parameterized by the
+  total energy Enu and decay time taunu, and neutrino temperature are adopted to understand
+  both processes. We adopt the model of the supernova explosion of a 16.2 Msolar star,
+  which corresponds to SN 1987A, and calculate the nucleosynthesis of the light elements
+  by postprocessing. We find that the ejected masses of 7Li and 11B are roughly proportional
+  to the total neutrino energy and are weakly dependent on the decay time of the neutrino
+  luminosity. As for the r-process nucleosynthesis, we adopt the same models of the
+  neutrino luminosity in the neutrino-driven wind models of a 1.4 Msolar neutron star.
+  We find that the r-process nucleosynthesis is affected through the peak neutrino
+  luminosity, which depends on Enu/taunu. The observed r-process abundance pattern
+  is better reproduced at a low peak neutrino luminosity. We also discuss the unresolved
+  problem of the overproduction of 11B in the Galactic chemical evolution of the light
+  elements. We first identify that the ejected mass of 11B is a factor of 2.5-5.5
+  overproduced in Type II supernovae when one adopts neutrino parameters similar to
+  those in previous studies, i.e., Enu=3.0\texttimes{}1053 ergs, taunu=3 s, and a
+  neutrino temperature Tnumu,tau=Tnumu,tau=8.0MeV/k. We have to assume Enu<=1.2\texttimes{}1053
+  ergs to avoid the overproduction of 11B, which is too small to accept in comparison
+  to the 3.0\texttimes{}1053 ergs deduced from the observation of SN 1987A. We here
+  propose to reduce the temperatures of numu,tau and numu,tau to 6.0MeV/k in a model
+  with Enu~3.0\texttimes{}1053 ergs and taunu~9 s. This modification of the neutrino
+  temperature is shown to resolve the overproduction problem of 11B while still keeping
+  a successful r-process abundance pattern.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...600..204Y
+arxivurl: http://arxiv.org/abs/astro-ph/0305555
+author: Yoshida, T. and Terasawa, M. and Kajino, T. and Sumiyoshi, K.
+author_list:
+- family: Yoshida
+  given: T.
+- family: Terasawa
+  given: M.
+- family: Kajino
+  given: T.
+- family: Sumiyoshi
+  given: K.
+date-added: 2017-08-11 04:11:34 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379766
+eprint: astro-ph/0305555
+journal: \apj
+keywords: 'Galaxy: Evolution, Neutrinos, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Abundances, Stars: Supernovae: General'
+month: January
+pages: 204--213
+papis_id: d46d7c4296dcf4643d700ecf66d60526
+ref: yoshida.t.2004
+title: Nucleosynthesis of Light Elements and Heavy r-Process Elements through the
+  $ν$-Process in Supernova Explosions
+type: article
+volume: '600'
+year: '2004'

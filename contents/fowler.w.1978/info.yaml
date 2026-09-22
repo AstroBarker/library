@@ -1,0 +1,40 @@
+abstract: A nondivergent prescription for the calculation of nuclear partition functions
+  at high temperature is derived. When this is expressed as an integral over nuclear
+  level densities, particle-unstable states in the continuum contribute only if they
+  correspond to increasing scattering phase shifts, so that the disappearance of narrow
+  levels provides a natural energy cutoff and the partition functions saturate at
+  temperatures approaching 1 trillion K. The decreasing phase shifts at higher energies
+  lead to subtractions which would in the infinite temperature limit cancel the bound-state
+  contributions exactly as demanded by Levinson's (1949) theorem. This prescription
+  is applied to the numerical evaluation of high-temperature partition functions for
+  Ni-56 and Fe-56, the sensitivity to various approximations is investigated, and
+  a simple expression is proposed for application to nuclei with unknown parameters.
+  Some astrophysical implications are discussed. In particular, storage of energy
+  in the excited states of a nucleus is emphasized as an important effect during supernova
+  core collapse.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978ApJ...226..984F
+author: Fowler, W. A. and Woosley, S. E. and Engelbrecht, C. A.
+author_list:
+- family: Fowler
+  given: W. A.
+- family: Woosley
+  given: S. E.
+- family: Engelbrecht
+  given: C. A.
+date-added: 2017-08-11 04:18:32 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/156679
+journal: \apj
+keywords: Nuclear Astrophysics, Nuclear Fusion, Nuclei (Nuclear Physics), Stellar
+  Interiors, Stellar Models, Stellar Structure, Atomic Excitations, Energy Storage,
+  Gravitational Collapse, Heavy Nuclei, High Temperature, Iron, Nickel, Phase Shift,
+  Resonance, Supernovae
+month: December
+pages: 984--995
+papis_id: 7aa804b60b133517f15c628babe400fc
+ref: fowler.w.1978
+title: Nuclear partition functions
+type: article
+volume: '226'
+year: '1978'

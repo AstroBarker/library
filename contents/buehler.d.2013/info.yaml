@@ -1,0 +1,49 @@
+abstract: 'Context. The Hinode mission has revealed copious amounts of horizontal
+  flux covering the quiet Sun. Local dynamo action has been proposed to explain the
+  presence of this flux.  Aims: We sought to test whether the quiet Sun flux detected
+  by Hinode is due to a local or the global dynamo by studying long-term variations
+  in the polarisation signals detectable at the disc centre of the quiet Sun between
+  November 2006 and May 2012, with particular emphasis on weak signals in the internetwork.  Methods:
+  The investigation focusses on line-integrated circular polarisation Vtot and linear
+  polarisation LPtot profiles obtained from the Fe I 6302.5 {\AA} absorption line
+  in Hinode SOT/SP.  Results: Both circular and linear polarisation signals show no
+  overall variation in the fraction of selected pixels from 2006 until 2012. There
+  is also no variation in the magnetic flux in this interval of time. The probability
+  density functions (PDF) of the line-of-sight magnetic flux can be fitted with a
+  power law from 1.17 \texttimes{} 1017 Mx to 8.53 \texttimes{} 1018 Mx with index
+  alpha = -1.82 $\pm$ 0.02 in 2007. The variation of alpha''s across all years does
+  not exceed a significance of 1sigma. Linearly polarised features are also fitted
+  with a power law, with index alpha = -2.60 \$\pm\$ 0.06 in 2007. Indices derived
+  from linear polarisation PDFs of other years also show no significant variation.  Conclusions:
+  Our results show that the ubiquitous horizontal polarisation on the edges of bright
+  granules seen by Hinode are invariant during the minimum of cycle 23. This supports
+  the notion that the weak circular and linear polarisation is primarily caused by
+  an independent local dynamo.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...555A..33B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.0789
+author: Buehler, D. and Lagg, A. and Solanki, S. K.
+author_list:
+- family: Buehler
+  given: D.
+- family: Lagg
+  given: A.
+- family: Solanki
+  given: S. K.
+date-added: 2017-08-10 17:55:57 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1051/0004-6361/201321152
+eid: A33
+eprint: '1307.0789'
+journal: \aap
+keywords: 'Sun: surface magnetism, Sun: dynamo, Sun: evolution'
+month: July
+pages: A33
+papis_id: b5c44249b3bc569a26b66d9129e19832
+primaryclass: astro-ph.SR
+ref: buehler.d.2013
+title: 'Quiet Sun magnetic fields observed by Hinode: Support for a local dynamo'
+type: article
+volume: '555'
+year: '2013'

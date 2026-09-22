@@ -1,0 +1,36 @@
+abstract: Monte Carlo techniques based on indivisible energy packets are described
+  for computing light curves and spectra for 3-D supernovae. The radiative transfer
+  is time-dependent and includes all effects of O(v/c). Monte Carlo quantization is
+  achieved by discretizing the initial distribution of 56Ni into N radioactive pellets.
+  Each pellet decays with the emission of a single energy packet comprising gamma-ray
+  photons representing one line from either the 56Ni or the 56Co decay spectrum. Subsequently,
+  these energy packets propagate through the homologously-expanding ejecta with appropriate
+  changes in the nature of their contained energy as they undergo Compton scatterings
+  and pure absorptions. The 3-D code is tested by applying it to a spherically-symmetric
+  SN in which the transfer of optical radiation is treated with a grey absorption
+  coefficient. This 1-D problem is separately solved using Castor's co-moving frame
+  moment equations. Satisfactory agreement is obtained. The Monte Carlo code is a
+  platform onto which more advanced treatments of the interactions of matter and radiation
+  can be added. Some of these have already been developed and tested in previous papers
+  and are summarized here.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...429...19L
+arxivurl: http://arxiv.org/abs/astro-ph/0409249
+author: Lucy, L. B.
+author_list:
+- family: Lucy
+  given: L. B.
+date-added: 2017-08-10 19:42:55 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1051/0004-6361:20041656
+eprint: astro-ph/0409249
+journal: \aap
+keywords: 'stars: supernovae: general, radiative transfer, methods: numerical'
+month: January
+pages: 19--30
+papis_id: 9b03cff076baa916ee008cef912a3948
+ref: lucy.l.2005
+title: Monte Carlo techniques for time-dependent radiative transfer in 3-D supernovae
+type: article
+volume: '429'
+year: '2005'

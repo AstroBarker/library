@@ -1,0 +1,348 @@
+abstract: We report the results of a search for neutrino bursts from supernova explosions
+  using the Super-Kamiokande detector. Super-Kamiokande is sensitive to core-collapse
+  supernova explosions via observation of their neutrino emissions. The expected number
+  of events comprising such a burst is ~104, and the average energy of the neutrinos
+  is in the range of a few tens of MeV for a core-collapse supernova explosion at
+  a typical distance in our galaxy (10 kpc); this strong signal means that the detection
+  efficiency anywhere within our galaxy and well past the Magellanic Clouds should
+  be 100\%. We examined a data set taken from 1996 May to 2001 July, and from 2002
+  December to 2005 October, corresponding to 2589.2 live days. However, there is no
+  evidence of such a supernova explosion during the data-taking period. The 90\% C.L.
+  upper limit on the rate of core-collapse supernova explosions out to distances of
+  100 kpc is found to be 0.32 SN yr-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...669..519I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.2283
+author: 'Ikeda, M. and Takeda, A. and Fukuda, Y. and Vagins, M. R. and Abe, K. and
+  Iida, T. and Ishihara, K. and Kameda, J. and Koshio, Y. and Minamino, A. and Mitsuda,
+  C. and Miura, M. and Moriyama, S. and Nakahata, M. and Obayashi, Y. and Ogawa, H.
+  and Sekiya, H. and Shiozawa, M. and Suzuki, Y. and Takeuchi, Y. and Ueshima, K.
+  and Watanabe, H. and Yamada, S. and Higuchi, I. and Ishihara, C. and Ishitsuka,
+  M. and Kajita, T. and Kaneyuki, K. and Mitsuka, G. and Nakayama, S. and Nishino,
+  H. and Okumura, K. and Saji, C. and Takenaga, Y. and Clark, S. and Desai, S. and
+  Dufour, F. and Kearns, E. and Likhoded, S. and Litos, M. and Raaf, J. L. and Stone,
+  J. L. and Sulak, L. R. and Wang, W. and Goldhaber, M. and Casper, D. and Cravens,
+  J. P. and Dunmore, J. and Kropp, W. R. and Liu, D. W. and Mine, S. and Regis, C.
+  and Smy, M. B. and Sobel, H. W. and Ganezer, K. S. and Hill, J. and Keig, W. E.
+  and Jang, J. S. and Kim, J. Y. and Lim, I. T. and Scholberg, K. and Tanimoto, N.
+  and Walter, C. W. and Wendell, R. and Ellsworth, R. W. and Tasaka, S. and Guillian,
+  G. and Learned, J. G. and Matsuno, S. and Messier, M. D. and Hayato, Y. and Ichikawa,
+  A. K. and Ishida, T. and Ishii, T. and Iwashita, T. and Kobayashi, T. and Nakadaira,
+  T. and Nakamura, K. and Nitta, K. and Oyama, Y. and Totsuka, Y. and Suzuki, A. T.
+  and Hasegawa, M. and Hiraide, K. and Maesaka, H. and Nakaya, T. and Nishikawa, K.
+  and Sasaki, T. and Yamamoto, S. and Yokoyama, M. and Haines, T. J. and Dazeley,
+  S. and Hatakeyama, S. and Svoboda, R. and Sullivan, G. W. and Turcan, D. and Habig,
+  A. and Sato, T. and Itow, Y. and Koike, T. and Tanaka, T. and Jung, C. K. and Kato,
+  T. and Kobayashi, K. and Malek, M. and McGrew, C. and Sarrat, A. and Terri, R. and
+  Yanagisawa, C. and Tamura, N. and Idehara, Y. and Sakuda, M. and Sugihara, M. and
+  Kuno, Y. and Yoshida, M. and Kim, S. B. and Yang, B. S. and Yoo, J. and Ishizuka,
+  T. and Okazawa, H. and Choi, Y. and Seo, H. K. and Gando, Y. and Hasegawa, T. and
+  Inoue, K. and Furuse, Y. and Ishii, H. and Nishijima, K. and Ishino, H. and Watanabe,
+  Y. and Koshiba, M. and Chen, S. and Deng, Z. and Liu, Y. and Kielczewska, D. and
+  Zalipska, J. and Berns, H. and Gran, R. and Shiraishi, K. K. and Stachyra, A. and
+  Thrane, E. and Washburn, K. and Wilkes, R. J. and Super-KAMIOKANDE Collaboration, '
+author_list:
+- family: Ikeda
+  given: M.
+- family: Takeda
+  given: A.
+- family: Fukuda
+  given: Y.
+- family: Vagins
+  given: M. R.
+- family: Abe
+  given: K.
+- family: Iida
+  given: T.
+- family: Ishihara
+  given: K.
+- family: Kameda
+  given: J.
+- family: Koshio
+  given: Y.
+- family: Minamino
+  given: A.
+- family: Mitsuda
+  given: C.
+- family: Miura
+  given: M.
+- family: Moriyama
+  given: S.
+- family: Nakahata
+  given: M.
+- family: Obayashi
+  given: Y.
+- family: Ogawa
+  given: H.
+- family: Sekiya
+  given: H.
+- family: Shiozawa
+  given: M.
+- family: Suzuki
+  given: Y.
+- family: Takeuchi
+  given: Y.
+- family: Ueshima
+  given: K.
+- family: Watanabe
+  given: H.
+- family: Yamada
+  given: S.
+- family: Higuchi
+  given: I.
+- family: Ishihara
+  given: C.
+- family: Ishitsuka
+  given: M.
+- family: Kajita
+  given: T.
+- family: Kaneyuki
+  given: K.
+- family: Mitsuka
+  given: G.
+- family: Nakayama
+  given: S.
+- family: Nishino
+  given: H.
+- family: Okumura
+  given: K.
+- family: Saji
+  given: C.
+- family: Takenaga
+  given: Y.
+- family: Clark
+  given: S.
+- family: Desai
+  given: S.
+- family: Dufour
+  given: F.
+- family: Kearns
+  given: E.
+- family: Likhoded
+  given: S.
+- family: Litos
+  given: M.
+- family: Raaf
+  given: J. L.
+- family: Stone
+  given: J. L.
+- family: Sulak
+  given: L. R.
+- family: Wang
+  given: W.
+- family: Goldhaber
+  given: M.
+- family: Casper
+  given: D.
+- family: Cravens
+  given: J. P.
+- family: Dunmore
+  given: J.
+- family: Kropp
+  given: W. R.
+- family: Liu
+  given: D. W.
+- family: Mine
+  given: S.
+- family: Regis
+  given: C.
+- family: Smy
+  given: M. B.
+- family: Sobel
+  given: H. W.
+- family: Ganezer
+  given: K. S.
+- family: Hill
+  given: J.
+- family: Keig
+  given: W. E.
+- family: Jang
+  given: J. S.
+- family: Kim
+  given: J. Y.
+- family: Lim
+  given: I. T.
+- family: Scholberg
+  given: K.
+- family: Tanimoto
+  given: N.
+- family: Walter
+  given: C. W.
+- family: Wendell
+  given: R.
+- family: Ellsworth
+  given: R. W.
+- family: Tasaka
+  given: S.
+- family: Guillian
+  given: G.
+- family: Learned
+  given: J. G.
+- family: Matsuno
+  given: S.
+- family: Messier
+  given: M. D.
+- family: Hayato
+  given: Y.
+- family: Ichikawa
+  given: A. K.
+- family: Ishida
+  given: T.
+- family: Ishii
+  given: T.
+- family: Iwashita
+  given: T.
+- family: Kobayashi
+  given: T.
+- family: Nakadaira
+  given: T.
+- family: Nakamura
+  given: K.
+- family: Nitta
+  given: K.
+- family: Oyama
+  given: Y.
+- family: Totsuka
+  given: Y.
+- family: Suzuki
+  given: A. T.
+- family: Hasegawa
+  given: M.
+- family: Hiraide
+  given: K.
+- family: Maesaka
+  given: H.
+- family: Nakaya
+  given: T.
+- family: Nishikawa
+  given: K.
+- family: Sasaki
+  given: T.
+- family: Yamamoto
+  given: S.
+- family: Yokoyama
+  given: M.
+- family: Haines
+  given: T. J.
+- family: Dazeley
+  given: S.
+- family: Hatakeyama
+  given: S.
+- family: Svoboda
+  given: R.
+- family: Sullivan
+  given: G. W.
+- family: Turcan
+  given: D.
+- family: Habig
+  given: A.
+- family: Sato
+  given: T.
+- family: Itow
+  given: Y.
+- family: Koike
+  given: T.
+- family: Tanaka
+  given: T.
+- family: Jung
+  given: C. K.
+- family: Kato
+  given: T.
+- family: Kobayashi
+  given: K.
+- family: Malek
+  given: M.
+- family: McGrew
+  given: C.
+- family: Sarrat
+  given: A.
+- family: Terri
+  given: R.
+- family: Yanagisawa
+  given: C.
+- family: Tamura
+  given: N.
+- family: Idehara
+  given: Y.
+- family: Sakuda
+  given: M.
+- family: Sugihara
+  given: M.
+- family: Kuno
+  given: Y.
+- family: Yoshida
+  given: M.
+- family: Kim
+  given: S. B.
+- family: Yang
+  given: B. S.
+- family: Yoo
+  given: J.
+- family: Ishizuka
+  given: T.
+- family: Okazawa
+  given: H.
+- family: Choi
+  given: Y.
+- family: Seo
+  given: H. K.
+- family: Gando
+  given: Y.
+- family: Hasegawa
+  given: T.
+- family: Inoue
+  given: K.
+- family: Furuse
+  given: Y.
+- family: Ishii
+  given: H.
+- family: Nishijima
+  given: K.
+- family: Ishino
+  given: H.
+- family: Watanabe
+  given: Y.
+- family: Koshiba
+  given: M.
+- family: Chen
+  given: S.
+- family: Deng
+  given: Z.
+- family: Liu
+  given: Y.
+- family: Kielczewska
+  given: D.
+- family: Zalipska
+  given: J.
+- family: Berns
+  given: H.
+- family: Gran
+  given: R.
+- family: Shiraishi
+  given: K. K.
+- family: Stachyra
+  given: A.
+- family: Thrane
+  given: E.
+- family: Washburn
+  given: K.
+- family: Wilkes
+  given: R. J.
+- family: Super-KAMIOKANDE Collaboration
+  given: ''
+date-added: 2017-08-10 20:59:50 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521547
+eprint: '0706.2283'
+journal: \apj
+keywords: 'galaxies: individual (Milky Way), galaxies: individual (LMC), galaxies:
+  individual (SMC), Neutrinos, Stars: Supernovae: General'
+month: November
+pages: 519--524
+papis_id: 2aed97df106a5ada51e4dbc2e88e7095
+ref: ikeda.m.2007
+title: Search for Supernova Neutrino Bursts at Super-Kamiokande
+type: article
+volume: '669'
+year: '2007'

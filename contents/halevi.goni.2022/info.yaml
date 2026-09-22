@@ -1,0 +1,55 @@
+abstract: 'Long-duration gamma-ray bursts (lGRBs) originate in relativistic         collimated
+  outflows -- jets -- that drill their way out of         collapsing massive stars.
+  Accurately modeling this process         requires realistic stellar profiles for
+  the jets to propagate         through and break out of. Most previous studies have
+  used simple         power laws or pre-collapse models for massive stars. However,         the
+  relevant stellar profile for lGRB models is in fact that of         a star after
+  its core has collapsed to form a compact object. To         self-consistently compute
+  such a stellar profile, we use the         open-source code GR1D to simulate the
+  core-collapse process for         a suite of low-metallicity, rotating, massive
+  stellar         progenitors that have undergone chemically homogeneous         evolution.
+  Our models span a range of zero-age main sequence         (ZAMS) masses: $M_\mathrm{ZAMS}
+  = 13, 18, 21, 25, 35, 40$, and         \$45 M\_\odot\$. All of these models, at
+  the onset of core-         collapse, feature steep density profiles, \$\rho \propto         r^{-\alpha}\$
+  with \$PLACEHOLDERalphaPLACEHOLDERapprox 2.5\$, which         would result in jets
+  that are inconsistent with lGRB         observables. We follow the collapse of four
+  out of our seven         models until they form BHs and the other three proto-neutron         stars
+  (PNSs). We find, across all models, that the density         profile outside of
+  the newly-formed BH or PNS is well-         represented by a flatter power law with
+  \$\alpha \approx         1.35{-}1.55\$. Such flat density profiles are conducive
+  to         successful formation and breakout of BH-powered jets and, in         fact,
+  required to reproduce observable properties of lGRBs.         Future models of lGRBs
+  should be initialized with shallower         textit\{post-collapse\} stellar profiles
+  like         those presented here instead of the much steeper pre-collapse         profiles
+  that are typically used.'
+archiveprefix: arXiv
+author: Halevi, Goni and Wu, Belinda and Moesta, Philipp and Gottlieb, Ore and Tchekhovskoy,
+  Alexander and Aguilera-Dena, David R.
+author_list:
+- family: Halevi
+  given: Goni
+- family: Wu
+  given: Belinda
+- family: Moesta
+  given: Philipp
+- family: Gottlieb
+  given: Ore
+- family: Tchekhovskoy
+  given: Alexander
+- family: Aguilera-Dena
+  given: David R.
+eid: arXiv:2211.11781
+eprint: '2211.11781'
+groups: Collapsars, Progenitor
+journal: arXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar
+  and Stellar Astrophysics
+month: November
+pages: arXiv:2211.11781
+papis_id: 6a3c86de65cb0b61d78961c579c3478e
+primaryclass: astro-ph.HE
+ref: halevi.goni.2022
+title: Density Profiles of Collapsed Rotating Massive Stars Favor Long Gamma-Ray Bursts
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2022arXiv221111781H
+year: '2022'

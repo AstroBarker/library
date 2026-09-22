@@ -1,0 +1,52 @@
+abstract: The evolution and explosion of metal-free stars with masses 10-100 M sun
+  are followed, and their nucleosynthetic yields, light curves, and remnant masses
+  determined. Such stars would have been the first to form after the big bang and
+  may have left a distinctive imprint on the composition of the early universe. When
+  the supernova yields are integrated over a Salpeter initial mass function (IMF),
+  the resulting elemental abundance pattern is qualitatively solar, but with marked
+  deficiencies of odd-Z elements with 7 <= Z <= 13. Neglecting the contribution of
+  the neutrino wind from the neutron stars that they form, no appreciable abundances
+  are made for elements heavier than germanium. The computed pattern compares favorably
+  with what has been observed in metal-deficient stars with [Z] <~ -3. The amount
+  of ionizing radiation from this generation of stars is ~2.16 MeV per baryon (4.15
+  B per M sun; where 1 B = 1 Bethe = 1051 erg) for a Salpeter IMF, and may have played
+  a role in reionizing the universe. Neglecting rotation, most of the stars end their
+  lives as blue supergiants and form supernovae with distinctive light curves resembling
+  SN 1987A, but some produce primary nitrogen due to dredge-up and become red supergiants.
+  These make brighter supernovae like typical Type IIp's. For the lower mass supernovae
+  considered, the distribution of remnant masses clusters around typical modern neutron
+  star masses, but above 20-30 M sun, with the value depending on explosion energy,
+  black holes are copiously formed by fallback, with a maximum hole mass of ~40 M
+  sun. A novel automated fitting algorithm is developed for determining optimal combinations
+  of explosion energy, mixing, and IMF in the large model database to agree with specified
+  data sets. The model is applied to the low-metallicity sample of Cayrel et al. and
+  the two ultra-iron-poor stars HE0107-5240 and HE1327-2326. Best agreement with these
+  very low metallicity stars is achieved with very little mixing, and none of the
+  metal-deficient data sets considered show the need for a high-energy explosion component.
+  In contrast, explosion energies somewhat less than 1.2 B seem to be preferred in
+  most cases.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...724..341H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.3161
+author: Heger, A. and Woosley, S. E.
+author_list:
+- family: Heger
+  given: A.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:05:53 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/724/1/341
+eprint: '0803.3161'
+journal: \apj
+keywords: 'early universe, Galaxy: abundances, nuclear reactions, nucleosynthesis,
+  abundances, stars: abundances, stars: evolution, supernovae: general'
+month: November
+pages: 341--373
+papis_id: 4b4ce8fad7bc7531dcba0fdc055f53d3
+ref: heger.a.2010
+title: Nucleosynthesis and Evolution of Massive Metal-free Stars
+type: article
+volume: '724'
+year: '2010'

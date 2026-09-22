@@ -1,0 +1,42 @@
+abstract: We present measurements of dust reddening using the colors of stars with
+  spectra in the Sloan Digital Sky Survey. We measure reddening as the difference
+  between the measured and predicted colors of a star, as derived from stellar parameters
+  from the Sloan Extension for Galactic Understanding and Exploration Stellar Parameter
+  Pipeline. We achieve uncertainties of 56, 34, 25, and 29 mmag in the colors u -
+  g, g - r, r - i, and i - z, per star, though the uncertainty varies depending on
+  the stellar type and the magnitude of the star. The spectrum-based reddening measurements
+  confirm our earlier "blue tip" reddening measurements, finding reddening coefficients
+  different by -3\%, 1\%, 1\%, and 2\% in u - g, g - r, r - i, and i - z from those
+  found by the blue tip method, after removing a 4\% normalization difference. These
+  results prefer an RV = 3.1 Fitzpatrick reddening law to O'Donnell or Cardelli et
+  al. reddening laws. We provide a table of conversion coefficients from the Schlegel
+  et al. (SFD) maps of E(B - V) to extinction in 88 bandpasses for four values of
+  RV , using this reddening law and the 14\% recalibration of SFD first reported by
+  Schlafly et al. and confirmed in this work.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737..103S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.4804
+author: Schlafly, E. F. and Finkbeiner, D. P.
+author_list:
+- family: Schlafly
+  given: E. F.
+- family: Finkbeiner
+  given: D. P.
+date-added: 2017-08-10 17:14:18 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/2/103
+eid: '103'
+eprint: '1012.4804'
+journal: \apj
+keywords: 'dust, extinction, Galaxy: stellar content, ISM: clouds'
+month: August
+pages: '103'
+papis_id: eee3a6e62c3d8fe4b8c13c3055a725ff
+primaryclass: astro-ph.GA
+ref: schlafly.e.2011
+title: Measuring Reddening with Sloan Digital Sky Survey Stellar Spectra and Recalibrating
+  SFD
+type: article
+volume: '737'
+year: '2011'

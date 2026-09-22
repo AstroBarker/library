@@ -1,0 +1,60 @@
+abstract: We investigate through high-resolution three-dimensional simulations the
+  nonlinear evolution of compressible magnetohydrodynamic flows subject to the Kelvin-Helmholtz
+  instability. As in our earlier work, we have considered periodic sections of flows
+  that contain a thin, transonic shear layer but are otherwise uniform. The initially
+  uniform magnetic field is parallel to the shear plane but oblique to the flow itself.
+  We confirm in three-dimensional flows the conclusion from our two-dimensional work
+  that even apparently weak magnetic fields embedded in Kelvin-Helmholtz unstable
+  plasma flows can be fundamentally important to nonlinear evolution of the instability.
+  In fact, that statement is strengthened in three dimensions by this work because
+  it shows how field-line bundles can be stretched and twisted in three dimensions
+  as the quasi-two-dimensional Cat's Eye vortex forms out of the hydrodynamical motions.
+  In our simulations twisting of the field may increase the maximum field strength
+  by more than a factor of 2 over the two-dimensional effect. If, by these developments,
+  the Alfv{\'e}n Mach number of flows around the Cat's Eye drops to unity or less,
+  our simulations suggest that magnetic stresses will eventually destroy the Cat's
+  Eye and cause the plasma flow to self-organize into a relatively smooth and apparently
+  stable flow that retains memory of the original shear. For our flow configurations,
+  the regime in three dimensions for such reorganization is 4<~MAx<~50, expressed
+  in terms of the Alfv{\'e}n Mach number of the original velocity transition and the
+  initial Alfv{\'e}n speed projected to the flow plan. When the initial field is stronger
+  than this, the flow either is linearly stable (if MAx<~2) or becomes stabilized
+  by enhanced magnetic tension as a result of the corrugated field along the shear
+  layer before the Cat's Eye forms (if MAx>~2). For weaker fields the instability
+  remains essentially hydrodynamic in early stages, and the Cat's Eye is destroyed
+  by the hydrodynamic secondary instabilities of a three-dimensional nature. Then,
+  the flows evolve into chaotic structures that approach decaying isotropic turbulence.
+  In this stage, there is considerable enhancement to the magnetic energy due to stretching,
+  twisting, and turbulent amplification, which is retained long afterward. The magnetic
+  energy eventually catches up to the kinetic energy, and the nature of flows becomes
+  magnetohydrodynamic. Decay of the magnetohydrodynamic turbulence is enhanced by
+  dissipation accompanying magnetic reconnection. Hence, in three dimensions as in
+  two dimensions, very weak fields do not modify substantially the character of the
+  flow evolution but do increase global dissipation rates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...545..475R
+arxivurl: http://arxiv.org/abs/astro-ph/0008084
+author: Ryu, D. and Jones, T. W. and Frank, A.
+author_list:
+- family: Ryu
+  given: D.
+- family: Jones
+  given: T. W.
+- family: Frank
+  given: A.
+date-added: 2017-08-11 01:51:00 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317789
+eprint: astro-ph/0008084
+journal: \apj
+keywords: 'Instabilities, Magnetohydrodynamics: MHD, Methods: Numerical, Plasmas,
+  Turbulence'
+month: December
+pages: 475--493
+papis_id: 92bd053a97052da99e6000021cebceec
+ref: ryu.d.2000
+title: 'The Magnetohydrodynamic Kelvin-Helmholtz Instability: A Three-dimensional
+  Study of Nonlinear Evolution'
+type: article
+volume: '545'
+year: '2000'

@@ -1,0 +1,44 @@
+abstract: We present a two-dimensional grid-based hydrodynamic simulation of a thin,
+  viscous, locally isothermal corotating disk orbiting an equal-mass Newtonian binary
+  point mass on a fixed circular orbit. We study the structure of the disk after multiple
+  viscous times. The binary maintains a central hole in the viscously relaxed disk
+  with radius equal to about twice the binary semimajor axis. Disk surface density
+  within the hole is reduced by orders of magnitude relative to the density in the
+  disk bulk. The inner truncation of the disk resembles the clearing of a gap in a
+  protoplanetary disk. An initially circular disk becomes elliptical and then eccentric.
+  Disturbances in the disk contain a component that is stationary in the rotating
+  frame in which the binary is at rest; this component is a two-armed spiral density
+  wave. We measure the distribution of the binary torque in the disk and find that
+  the strongest positive torque is exerted inside the central low-density hole. We
+  make connection with the linear theory of disk forcing at outer Lindblad resonances
+  (OLRs) and find that the measured torque density distribution is consistent with
+  forcing at the 3:2 (m = 2) OLR, well within the central hole. We also measure the
+  time dependence of the rate at which gas accretes across the hole and find quasi-periodic
+  structure. We discuss implications for variability and detection of active galactic
+  nuclei containing a binary massive black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...672...83M
+arxivurl: http://arxiv.org/abs/astro-ph/0607467
+author: MacFadyen, A. I. and Milosavljević, M.
+author_list:
+- family: MacFadyen
+  given: A. I.
+- family: Milosavljević
+  given: M.
+date-added: 2017-08-11 01:48:51 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/523869
+eid: 83-93
+eprint: astro-ph/0607467
+journal: \apj
+keywords: 'accretion, accretion disks, binaries: general, black hole physics, galaxies:
+  nuclei, hydrodynamics'
+month: January
+pages: 83--93
+papis_id: 07cd74e8dd68be0cf30ad1dbf63411c8
+ref: macfadyen.a.2008
+title: An Eccentric Circumbinary Accretion Disk and the Detection of Binary Massive
+  Black Holes
+type: article
+volume: '672'
+year: '2008'

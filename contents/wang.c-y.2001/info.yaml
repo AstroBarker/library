@@ -1,0 +1,48 @@
+abstract: We present two-dimensional high-resolution hydrodynamical simulations in
+  spherical polar coordinates of a Type Ia supernova interacting with a constant-density
+  interstellar medium. The ejecta are assumed to be freely expanding with an exponential
+  density profile. The interaction gives rise to a double-shocked structure susceptible
+  to hydrodynamical instabilities. The Rayleigh-Taylor instability initially grows,
+  but the Kelvin-Helmholtz instability takes over, producing vortex rings. Provided
+  the simulation is initiated early in the evolution, with a perturbation >~1\%, the
+  instability reaches its fully developed nonlinear strength within 5 doubling times.
+  The further nonlinear evolution does not depend on the initial conditions. Considering
+  the small initial radii of Type Ia supernovae, they are likely to reach this fully
+  developed phase. The nonlinear instability initially evolves toward longer wavelengths
+  and eventually fades away when the reverse shock front is in the flatter part of
+  the supernova density distribution. On the basis of observations of X-ray knots
+  and the protrusion in the southeast outline of Tycho's supernova remnant, we include
+  clumping in the ejecta because these features cannot be explained by instabilities
+  growing from small perturbations. The clump interaction with the reverse shock induces
+  Rayleigh-Taylor and Kelvin-Helmholtz instabilities on the clump surface that facilitate
+  fragmentation. In order to survive crushing and to have a bulging effect on the
+  forward shock, the clump's initial density ratio to the surrounding ejecta must
+  be at least 100 for the conditions in Tycho's remnant. The 56Ni bubble effect may
+  be important for the development of clumpiness in the ejecta. The observed presence
+  of an Fe clump would then require a nonradioactive origin for this Fe, possibly
+  54Fe. The large radial distance of the X-ray-emitting Si and S ejecta from the remnant
+  center indicates that they were initially in clumps.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...549.1119W
+arxivurl: http://arxiv.org/abs/astro-ph/0005105
+author: Wang, C.-Y. and Chevalier, R. A.
+author_list:
+- family: Wang
+  given: C.-Y.
+- family: Chevalier
+  given: R. A.
+date-added: 2017-08-11 05:51:30 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319439
+eprint: astro-ph/0005105
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Stars: Supernovae: General, Stars: Supernovae:
+  Individual: Alphanumeric: SN 1572, ISM: Supernova Remnants'
+month: March
+pages: 1119--1134
+papis_id: 8a93bbe971500a9d5e39c9e923561326
+ref: wang.c_y.2001
+title: Instabilities and Clumping in Type IA Supernova Remnants
+type: article
+volume: '549'
+year: '2001'

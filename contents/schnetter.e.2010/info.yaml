@@ -1,0 +1,32 @@
+abstract: Many mesh refinement simulations currently performed in numerical relativity
+  counteract instabilities near the outer boundary of the simulation domain either
+  by changes to the mesh refinement scheme or by changes to the gauge condition. We
+  point out that the BSSN Gamma Driver gauge condition introduces a time step size
+  limitation in a similar manner as a Courant-Friedrichs-Lewy condition, but which
+  is independent of the spatial resolution. We give a didactic explanation of this
+  issue, show why, especially, mesh refinement simulations suffer from it, and point
+  to a simple remedy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27p7001S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.0859
+author: Schnetter, E.
+author_list:
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 20:29:22 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0264-9381/27/16/167001
+eid: '167001'
+eprint: '1003.0859'
+journal: Classical and Quantum Gravity
+month: August
+number: '16'
+pages: '167001'
+papis_id: a6c1e5472c5d2c62ae65d7ee63d5443e
+primaryclass: gr-qc
+ref: schnetter.e.2010
+title: 'NOTE: Time step size limitation introduced by the BSSN Gamma Driver'
+type: article
+volume: '27'
+year: '2010'

@@ -1,0 +1,222 @@
+abstract: We present the Spitzer Extragalactic Representative Volume Survey (SERVS),
+  an 18 deg2 medium-deep survey at 3.6 and 4.5 mum with the postcryogenic Spitzer
+  Space Telescope to \approx{}2 muJy (AB = 23.1) depth of five highly observed astronomical
+  fields (ELAIS-N1, ELAIS-S1, Lockman Hole, Chandra Deep Field South, and XMM-LSS).
+  SERVS is designed to enable the study of galaxy evolution as a function of environment
+  from z \texttildelow{} 5 to the present day and is the first extragalactic survey
+  that is both large enough and deep enough to put rare objects such as luminous quasars
+  and galaxy clusters at z \greaterequivlnt{} 1 into their cosmological context. SERVS
+  is designed to overlap with several key surveys at optical, near- through far-infrared,
+  submillimeter, and radio wavelengths to provide an unprecedented view of the formation
+  and evolution of massive galaxies. In this article, we discuss the SERVS survey
+  design, the data processing flow from image reduction and mosaicking to catalogs,
+  and coverage of ancillary data from other surveys in the SERVS fields. We also highlight
+  a variety of early science results from the survey.  Since this article was published
+  online on 4 August 2012, corrections have been made. An erratum appears in the October
+  2012 issue of the journal. The current online version was corrected on 10 October
+  2012.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PASP..124..714M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.4060
+author: Mauduit, J.-C. and Lacy, M. and Farrah, D. and Surace, J. A. and Jarvis, M.
+  and Oliver, S. and Maraston, C. and Vaccari, M. and Marchetti, L. and Zeimann, G.
+  and Gonzáles-Solares, E. A. and Pforr, J. and Petric, A. O. and Henriques, B. and
+  Thomas, P. A. and Afonso, J. and Rettura, A. and Wilson, G. and Falder, J. T. and
+  Geach, J. E. and Huynh, M. and Norris, R. P. and Seymour, N. and Richards, G. T.
+  and Stanford, S. A. and Alexander, D. M. and Becker, R. H. and Best, P. N. and Bizzocchi,
+  L. and Bonfield, D. and Castro, N. and Cava, A. and Chapman, S. and Christopher,
+  N. and Clements, D. L. and Covone, G. and Dubois, N. and Dunlop, J. S. and Dyke,
+  E. and Edge, A. and Ferguson, H. C. and Foucaud, S. and Franceschini, A. and Gal,
+  R. R. and Grant, J. K. and Grossi, M. and Hatziminaoglou, E. and Hickey, S. and
+  Hodge, J. A. and Huang, J.-S. and Ivison, R. J. and Kim, M. and LeFevre, O. and
+  Lehnert, M. and Lonsdale, C. J. and Lubin, L. M. and McLure, R. J. and Messias,
+  H. and Martínez-Sansigre, A. and Mortier, A. M. J. and Nielsen, D. M. and Ouchi,
+  M. and Parish, G. and Perez-Fournon, I. and Pierre, M. and Rawlings, S. and Readhead,
+  A. and Ridgway, S. E. and Rigopoulou, D. and Romer, A. K. and Rosebloom, I. G. and
+  Rottgering, H. J. A. and Rowan-Robinson, M. and Sajina, A. and Simpson, C. J. and
+  Smail, I. and Squires, G. K. and Stevens, J. A. and Taylor, R. and Trichas, M. and
+  Urrutia, T. and van Kampen, E. and Verma, A. and Xu, C. K.
+author_list:
+- family: Mauduit
+  given: J.-C.
+- family: Lacy
+  given: M.
+- family: Farrah
+  given: D.
+- family: Surace
+  given: J. A.
+- family: Jarvis
+  given: M.
+- family: Oliver
+  given: S.
+- family: Maraston
+  given: C.
+- family: Vaccari
+  given: M.
+- family: Marchetti
+  given: L.
+- family: Zeimann
+  given: G.
+- family: Gonzáles-Solares
+  given: E. A.
+- family: Pforr
+  given: J.
+- family: Petric
+  given: A. O.
+- family: Henriques
+  given: B.
+- family: Thomas
+  given: P. A.
+- family: Afonso
+  given: J.
+- family: Rettura
+  given: A.
+- family: Wilson
+  given: G.
+- family: Falder
+  given: J. T.
+- family: Geach
+  given: J. E.
+- family: Huynh
+  given: M.
+- family: Norris
+  given: R. P.
+- family: Seymour
+  given: N.
+- family: Richards
+  given: G. T.
+- family: Stanford
+  given: S. A.
+- family: Alexander
+  given: D. M.
+- family: Becker
+  given: R. H.
+- family: Best
+  given: P. N.
+- family: Bizzocchi
+  given: L.
+- family: Bonfield
+  given: D.
+- family: Castro
+  given: N.
+- family: Cava
+  given: A.
+- family: Chapman
+  given: S.
+- family: Christopher
+  given: N.
+- family: Clements
+  given: D. L.
+- family: Covone
+  given: G.
+- family: Dubois
+  given: N.
+- family: Dunlop
+  given: J. S.
+- family: Dyke
+  given: E.
+- family: Edge
+  given: A.
+- family: Ferguson
+  given: H. C.
+- family: Foucaud
+  given: S.
+- family: Franceschini
+  given: A.
+- family: Gal
+  given: R. R.
+- family: Grant
+  given: J. K.
+- family: Grossi
+  given: M.
+- family: Hatziminaoglou
+  given: E.
+- family: Hickey
+  given: S.
+- family: Hodge
+  given: J. A.
+- family: Huang
+  given: J.-S.
+- family: Ivison
+  given: R. J.
+- family: Kim
+  given: M.
+- family: LeFevre
+  given: O.
+- family: Lehnert
+  given: M.
+- family: Lonsdale
+  given: C. J.
+- family: Lubin
+  given: L. M.
+- family: McLure
+  given: R. J.
+- family: Messias
+  given: H.
+- family: Martínez-Sansigre
+  given: A.
+- family: Mortier
+  given: A. M. J.
+- family: Nielsen
+  given: D. M.
+- family: Ouchi
+  given: M.
+- family: Parish
+  given: G.
+- family: Perez-Fournon
+  given: I.
+- family: Pierre
+  given: M.
+- family: Rawlings
+  given: S.
+- family: Readhead
+  given: A.
+- family: Ridgway
+  given: S. E.
+- family: Rigopoulou
+  given: D.
+- family: Romer
+  given: A. K.
+- family: Rosebloom
+  given: I. G.
+- family: Rottgering
+  given: H. J. A.
+- family: Rowan-Robinson
+  given: M.
+- family: Sajina
+  given: A.
+- family: Simpson
+  given: C. J.
+- family: Smail
+  given: I.
+- family: Squires
+  given: G. K.
+- family: Stevens
+  given: J. A.
+- family: Taylor
+  given: R.
+- family: Trichas
+  given: M.
+- family: Urrutia
+  given: T.
+- family: van Kampen
+  given: E.
+- family: Verma
+  given: A.
+- family: Xu
+  given: C. K.
+date-added: 2017-08-10 17:16:37 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1086/666945
+eprint: '1206.4060'
+journal: \pasp
+month: July
+pages: '714'
+papis_id: e68ca502363760c105758898dc77180e
+ref: mauduit.j_c.2012
+title: 'The Spitzer Extragalactic Representative Volume Survey (SERVS): Survey Definition
+  and Goals'
+type: article
+volume: '124'
+year: '2012'

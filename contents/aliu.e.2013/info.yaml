@@ -1,0 +1,261 @@
+abstract: We report the discovery of an unidentified, extended source of very-high-energy
+  gamma-ray emission, VER J2019+407, within the radio shell of the supernova remnant
+  SNR G78.2+2.1, using 21.4 hr of data taken by the VERITAS gamma-ray observatory
+  in 2009. These data confirm the preliminary indications of gamma-ray emission previously
+  seen in a two-year (2007-2009) blind survey of the Cygnus region by VERITAS. VER
+  J2019+407, which is detected at a post-trials significance of 7.5 standard deviations
+  in the 2009 data, is localized to the northwestern rim of the remnant in a region
+  of enhanced radio and X-ray emission. It has an intrinsic extent of 0{.\!\!^\circ
+  }23 +/- {0{.\!\!^\circ }03\_stat} {}^{+0{.\!\!^\circ }04}\_{-0{.\!\!^\circ }02sys}
+  and its spectrum is well-characterized by a differential power law (dN/dE = N 0
+  \texttimes{} (E/TeV)-Gamma) with a photon index of Gamma = 2.37 $\pm$ 0.14stat \$\pm\$
+  0.20sys and a flux normalization of N 0 = 1.5 \$\pm\$ 0.2stat \$\pm\$ 0.4sys \texttimes{}
+  10-12 photon TeV-1 cm-2 s-1. This yields an integral flux of 5.2 \$\pm\$ 0.8stat
+  \$\pm\$ 1.4sys \texttimes{} 10-12 photon cm-2 s-1 above 320 GeV, corresponding to
+  3.7\% of the Crab Nebula flux. We consider the relationship of the TeV gamma-ray
+  emission with the GeV gamma-ray emission seen from SNR G78.2+2.1 as well as that
+  seen from a nearby cocoon of freshly accelerated cosmic rays. Multiple scenarios
+  are considered as possible origins for the TeV gamma-ray emission, including hadronic
+  particle acceleration at the SNR shock.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...770...93A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.6508
+author: Aliu, E. and Archambault, S. and Arlen, T. and Aune, T. and Beilicke, M. and
+  Benbow, W. and Bird, R. and Bouvier, A. and Bradbury, S. M. and Buckley, J. H. and
+  Bugaev, V. and Byrum, K. and Cannon, A. and Cesarini, A. and Ciupik, L. and Collins-Hughes,
+  E. and Connolly, M. P. and Cui, W. and Dickherber, R. and Duke, C. and Dumm, J.
+  and Dwarkadas, V. V. and Errando, M. and Falcone, A. and Federici, S. and Feng,
+  Q. and Finley, J. P. and Finnegan, G. and Fortson, L. and Furniss, A. and Galante,
+  N. and Gall, D. and Gillanders, G. H. and Godambe, S. and Gotthelf, E. V. and Griffin,
+  S. and Grube, J. and Gyuk, G. and Hanna, D. and Holder, J. and Huan, H. and Hughes,
+  G. and Humensky, T. B. and Kaaret, P. and Karlsson, N. and Kertzman, M. and Khassen,
+  Y. and Kieda, D. and Krawczynski, H. and Krennrich, F. and Lang, M. J. and Lee,
+  K. and Madhavan, A. S. and Maier, G. and Majumdar, P. and McArthur, S. and McCann,
+  A. and Millis, J. and Moriarty, P. and Mukherjee, R. and Nelson, T. and O'Faoláin
+  de Bhróithe, A. and Ong, R. A. and Orr, M. and Otte, A. N. and Pandel, D. and Park,
+  N. and Perkins, J. S. and Pohl, M. and Popkow, A. and Prokoph, H. and Quinn, J.
+  and Ragan, K. and Reyes, L. C. and Reynolds, P. T. and Roache, E. and Rose, H. J.
+  and Ruppel, J. and Saxon, D. B. and Schroedter, M. and Sembroski, G. H. and Şentürk,
+  G. D. and Skole, C. and Telezhinsky, I. and Tešić, G. and Theiling, M. and Thibadeau,
+  S. and Tsurusaki, K. and Tyler, J. and Varlotta, A. and Vassiliev, V. V. and Vincent,
+  S. and Wakely, S. P. and Ward, J. E. and Weekes, T. C. and Weinstein, A. and Weisgarber,
+  T. and Welsing, R. and Williams, D. A. and Zitzer, B.
+author_list:
+- family: Aliu
+  given: E.
+- family: Archambault
+  given: S.
+- family: Arlen
+  given: T.
+- family: Aune
+  given: T.
+- family: Beilicke
+  given: M.
+- family: Benbow
+  given: W.
+- family: Bird
+  given: R.
+- family: Bouvier
+  given: A.
+- family: Bradbury
+  given: S. M.
+- family: Buckley
+  given: J. H.
+- family: Bugaev
+  given: V.
+- family: Byrum
+  given: K.
+- family: Cannon
+  given: A.
+- family: Cesarini
+  given: A.
+- family: Ciupik
+  given: L.
+- family: Collins-Hughes
+  given: E.
+- family: Connolly
+  given: M. P.
+- family: Cui
+  given: W.
+- family: Dickherber
+  given: R.
+- family: Duke
+  given: C.
+- family: Dumm
+  given: J.
+- family: Dwarkadas
+  given: V. V.
+- family: Errando
+  given: M.
+- family: Falcone
+  given: A.
+- family: Federici
+  given: S.
+- family: Feng
+  given: Q.
+- family: Finley
+  given: J. P.
+- family: Finnegan
+  given: G.
+- family: Fortson
+  given: L.
+- family: Furniss
+  given: A.
+- family: Galante
+  given: N.
+- family: Gall
+  given: D.
+- family: Gillanders
+  given: G. H.
+- family: Godambe
+  given: S.
+- family: Gotthelf
+  given: E. V.
+- family: Griffin
+  given: S.
+- family: Grube
+  given: J.
+- family: Gyuk
+  given: G.
+- family: Hanna
+  given: D.
+- family: Holder
+  given: J.
+- family: Huan
+  given: H.
+- family: Hughes
+  given: G.
+- family: Humensky
+  given: T. B.
+- family: Kaaret
+  given: P.
+- family: Karlsson
+  given: N.
+- family: Kertzman
+  given: M.
+- family: Khassen
+  given: Y.
+- family: Kieda
+  given: D.
+- family: Krawczynski
+  given: H.
+- family: Krennrich
+  given: F.
+- family: Lang
+  given: M. J.
+- family: Lee
+  given: K.
+- family: Madhavan
+  given: A. S.
+- family: Maier
+  given: G.
+- family: Majumdar
+  given: P.
+- family: McArthur
+  given: S.
+- family: McCann
+  given: A.
+- family: Millis
+  given: J.
+- family: Moriarty
+  given: P.
+- family: Mukherjee
+  given: R.
+- family: Nelson
+  given: T.
+- family: O'Faoláin de Bhróithe
+  given: A.
+- family: Ong
+  given: R. A.
+- family: Orr
+  given: M.
+- family: Otte
+  given: A. N.
+- family: Pandel
+  given: D.
+- family: Park
+  given: N.
+- family: Perkins
+  given: J. S.
+- family: Pohl
+  given: M.
+- family: Popkow
+  given: A.
+- family: Prokoph
+  given: H.
+- family: Quinn
+  given: J.
+- family: Ragan
+  given: K.
+- family: Reyes
+  given: L. C.
+- family: Reynolds
+  given: P. T.
+- family: Roache
+  given: E.
+- family: Rose
+  given: H. J.
+- family: Ruppel
+  given: J.
+- family: Saxon
+  given: D. B.
+- family: Schroedter
+  given: M.
+- family: Sembroski
+  given: G. H.
+- family: Şentürk
+  given: G. D.
+- family: Skole
+  given: C.
+- family: Telezhinsky
+  given: I.
+- family: Tešić
+  given: G.
+- family: Theiling
+  given: M.
+- family: Thibadeau
+  given: S.
+- family: Tsurusaki
+  given: K.
+- family: Tyler
+  given: J.
+- family: Varlotta
+  given: A.
+- family: Vassiliev
+  given: V. V.
+- family: Vincent
+  given: S.
+- family: Wakely
+  given: S. P.
+- family: Ward
+  given: J. E.
+- family: Weekes
+  given: T. C.
+- family: Weinstein
+  given: A.
+- family: Weisgarber
+  given: T.
+- family: Welsing
+  given: R.
+- family: Williams
+  given: D. A.
+- family: Zitzer
+  given: B.
+date-added: 2017-08-10 18:40:10 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/770/2/93
+eid: '93'
+eprint: '1305.6508'
+journal: \apj
+keywords: 'acceleration of particles, cosmic rays, gamma rays: general, ISM: supernova
+  remnants'
+month: June
+pages: '93'
+papis_id: ef14fbac53ff80c2b556a5b1c2717cba
+primaryclass: astro-ph.HE
+ref: aliu.e.2013
+title: Discovery of TeV Gamma-Ray Emission toward Supernova Remnant SNR G78.2+2.1
+type: article
+volume: '770'
+year: '2013'

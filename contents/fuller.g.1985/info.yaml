@@ -1,0 +1,40 @@
+abstract: Simple expressions for continuum electron and positron capture phase space
+  factors and the associated neutrino energy loss integrals are presented in terms
+  of standard Fermi integrals. Continuous approximations to the relevant Fermi integrals
+  and their first derivatives are made. These allow the computation of effective log
+  (ft)-values, at each temperature and density point, for the continuum lepton capture
+  rates considered in the earlier papers in this series. Since the effective log (ft)-values
+  have most of the rapid temperature and density dependence associated with the phase
+  space integrals removed, interpolation in temperature and density to obtain stellar
+  rates is greatly facilitated in speed and accuracy. Computer simulations of stellar
+  evolution will be able to implement more accurately the calculations of the stellar
+  nuclear weak interaction rates of intermediate-mass nuclei. Generalization of the
+  Fermi integral expressions for the lepton continuum capture phase space factors
+  are given for astrophysical environments where there exists an equilibrium distribution
+  of electron-type neutrinos. These allow rough estimates of the effect of neutrino
+  blocking on the tabulated rates and estimates of total neutrino capture rates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1985ApJ...293....1F
+author: Fuller, G. M. and Fowler, W. A. and Newman, M. J.
+author_list:
+- family: Fuller
+  given: G. M.
+- family: Fowler
+  given: W. A.
+- family: Newman
+  given: M. J.
+date-added: 2017-08-10 20:32:19 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/163208
+journal: \apj
+keywords: Leptons, Neutrinos, Nuclear Capture, Stellar Cores, Weak Interactions (Field
+  Theory), Computational Astrophysics, Computerized Simulation, Electron Capture
+month: June
+pages: 1--16
+papis_id: 1c40ad1bf843cb31492c7bd0e18713f7
+ref: fuller.g.1985
+title: Stellar weak interaction rates for intermediate-mass nuclei. IV - Interpolation
+  procedures for rapidly varying lepton capture rates using effective log (ft)-values
+type: article
+volume: '293'
+year: '1985'

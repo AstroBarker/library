@@ -1,0 +1,71 @@
+abstract: Massive stars rapidly change their masses through strong stellar winds and
+  mass transfer in binary systems. The latter aspect is important for populations
+  of massive stars as more than 70\% of all O stars are expected to interact with
+  a binary companion during their lifetime. We show that such mass changes leave characteristic
+  signatures in stellar mass functions of young star clusters that can be used to
+  infer their ages and to identify products of binary evolution. We model the observed
+  present-day mass functions of the young Galactic Arches and Quintuplet star clusters
+  using our rapid binary evolution code. We find that the shaping of the mass function
+  by stellar wind mass loss allows us to determine the cluster ages as 3.5 $\pm$ 0.7
+  Myr and 4.8 \$\pm\$ 1.1 Myr, respectively. Exploiting the effects of binary mass
+  exchange on the cluster mass function, we find that the most massive stars in both
+  clusters are rejuvenated products of binary mass transfer, i.e., the massive counterpart
+  of classical blue straggler stars. This resolves the problem of an apparent age
+  spread among the most luminous stars exceeding the expected duration of star formation
+  in these clusters. We perform Monte Carlo simulations to probe stochastic sampling,
+  which support the idea of the most massive stars being rejuvenated binary products.
+  We find that the most massive star is expected to be a binary product after 1.0
+  \$\pm\$ 0.7 Myr in Arches and after 1.7 \$\pm\$ 1.0 Myr in Quintuplet. Today, the
+  most massive 9 \$\pm\$ 3 stars in Arches and 8 \$\pm\$ 3 in Quintuplet are expected
+  to be such objects. Our findings have strong implications for the stellar upper
+  mass limit and solve the discrepancy between the claimed 150 M \&sun; limit and
+  observations of four stars with initial masses of 165-320 M \&sun; in R136 and of
+  supernova 2007bi, which is thought to be a pair-instability supernova from an initial
+  250 M \&sun; star. Using the stellar population of R136, we revise the upper mass
+  limit to values in the range 200-500 M \&sun;.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...780..117S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1312.0607
+author: Schneider, F. R. N. and Izzard, R. G. and de Mink, S. E. and Langer, N. and
+  Stolte, A. and de Koter, A. and Gvaramadze, V. V. and Hußmann, B. and Liermann,
+  A. and Sana, H.
+author_list:
+- family: Schneider
+  given: F. R. N.
+- family: Izzard
+  given: R. G.
+- family: de Mink
+  given: S. E.
+- family: Langer
+  given: N.
+- family: Stolte
+  given: A.
+- family: de Koter
+  given: A.
+- family: Gvaramadze
+  given: V. V.
+- family: Hußmann
+  given: B.
+- family: Liermann
+  given: A.
+- family: Sana
+  given: H.
+date-added: 2017-08-10 14:15:45 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/780/2/117
+eid: '117'
+eprint: '1312.0607'
+journal: \apj
+keywords: 'binaries: general, blue stragglers, open clusters and associations: individual:
+  Arches Quintuplet, stars: luminosity function, mass function, stars: mass-loss'
+month: January
+pages: '117'
+papis_id: aced7ea18033fd53755a6badb36bc0f5
+primaryclass: astro-ph.SR
+ref: schneider.f.2014
+title: 'Ages of Young Star Clusters, Massive Blue Stragglers, and the Upper Mass Limit
+  of Stars: Analyzing Age-dependent Stellar Mass Functions'
+type: article
+volume: '780'
+year: '2014'

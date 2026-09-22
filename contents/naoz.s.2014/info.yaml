@@ -1,0 +1,42 @@
+abstract: Many close stellar binaries are accompanied by a faraway star. The "eccentric
+  Kozai-Lidov" (EKL) mechanism can cause dramatic inclination and eccentricity fluctuations,
+  resulting in tidal tightening of inner binaries of triple stars. We run a large
+  set of Monte Carlo simulations, including the secular evolution of the orbits, general
+  relativistic precession, and tides, and we determine the semimajor axis, eccentricity,
+  inclination, and spin-orbit angle distributions of the final configurations. We
+  find that the efficiency of forming tight binaries (lsim 16 days) when taking the
+  EKL mechanism into account is ~21\%, and about 4\% of all simulated systems ended
+  up in a merger event. These merger events can lead to the formation of blue stragglers.
+  Furthermore, we find that the spin-orbit angle distribution of the inner binaries
+  carries a signature of the initial setup of the system; thus, observations can be
+  used to disentangle close binaries' birth configuration. The resulting inner and
+  outer final orbits' period distributions and their estimated fraction suggest that
+  secular dynamics may be a significant channel for the formation of close binaries
+  in triples and even blue stragglers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...793..137N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1405.5223
+author: Naoz, S. and Fabrycky, D. C.
+author_list:
+- family: Naoz
+  given: S.
+- family: Fabrycky
+  given: D. C.
+date-added: 2017-08-10 16:13:27 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/793/2/137
+eid: '137'
+eprint: '1405.5223'
+journal: \apj
+keywords: 'binaries: close, binaries: general, blue stragglers, stars: general, stars:
+  kinematics and dynamics'
+month: October
+pages: '137'
+papis_id: 9a6acfed9d782b842ff10441d950a474
+primaryclass: astro-ph.SR
+ref: naoz.s.2014
+title: Mergers and Obliquities in Stellar Triples
+type: article
+volume: '793'
+year: '2014'

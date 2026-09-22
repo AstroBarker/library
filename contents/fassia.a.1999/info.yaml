@@ -1,0 +1,42 @@
+abstract: We use early-time observations of He I 10830 A to measure the extent of
+  upward mixing of radioactive material in SN 1987A. This work develops and extends
+  the work of Graham, and places constraints on actual explosion models. The presence
+  of the He I 10830-A (2s^3S--2p^3P) line at >= 10 days post-explosion implies reionization
+  by gamma-rays from upwardly mixed radioactive material produced during the explosion.
+  Using the unmixed explosion model 10H by Woosley as well as mixed versions of it,
+  we estimated the gamma-ray energy deposition by applying a purely absorptive radiative
+  transfer calculation. The deposition energy was used to find the ionization balance
+  as a function of radius, and hence the 2s^3S population density profile. This was
+  then applied to a spectral synthesis model, and the synthetic spectra were compared
+  with the observations. Neither model 10H nor the mixed version, 10HMM, succeeded
+  in reproducing the observed He I 10830-A line. The discrepancy with the data found
+  for 10HMM is particularly significant, as this model has successfully reproduced
+  the X-ray and gamma-ray observations and the UVOIR light curve. We find that a match
+  to the He I line profile is achieved by reducing the extent of mixing in 10HMM.
+  Our reduced-mixing models also reproduce the observed gamma-ray line light curves
+  and the iron-group velocities deduced from late-time infrared line profiles. We
+  suggest that the He I line method provides a more sensitive measure of the extent
+  of mixing in a type II supernova explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999MNRAS.302..314F
+arxivurl: http://arxiv.org/abs/astro-ph/9809244
+author: Fassia, A. and Meikle, W. P. S.
+author_list:
+- family: Fassia
+  given: A.
+- family: Meikle
+  given: W. P. S.
+date-added: 2018-03-07 16:52:14 +0000
+date-modified: 2018-03-07 16:52:14 +0000
+doi: 10.1046/j.1365-8711.1999.02127.x
+eprint: astro-ph/9809244
+journal: \mnras
+keywords: 'INSTABILITIES, RADIATIVE TRANSFER, SUPERNOVAE: INDIVIDUAL: SN 1987A'
+month: January
+pages: 314--320
+papis_id: c8d6e4324ee0aa7865222fb1052280ad
+ref: fassia.a.1999
+title: ^56Ni dredge-up in Supernova 1987A
+type: article
+volume: '302'
+year: '1999'

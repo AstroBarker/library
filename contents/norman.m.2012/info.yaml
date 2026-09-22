@@ -1,0 +1,42 @@
+abstract: 'A new integration method combining the ADER time discretization with a
+  multi-moment finite-volume framework is introduced. ADER runtime is reduced by performing
+  only one Cauchy-Kowalewski (C-K) procedure per cell per time step and by using the
+  Differential Transform Method for high-order derivatives. Three methods are implemented:
+  (1) single-moment WENO (WENO), (2) two-moment Hermite WENO (HWENO), and (3) entirely
+  local multi-moment (MM-Loc). MM-Loc evolves all moments, sharing the locality of
+  Galerkin methods yet with a constant time step during p-refinement.  Five 1-D experiments
+  validate the methods: (1) linear advection, (2) Burger''s equation shock, (3) transient
+  shallow-water (SW), (4) steady-state SW simulation, and (5) SW shock. WENO and HWENO
+  methods showed expected polynomial h-refinement convergence and successfully limited
+  oscillations for shock experiments. MM-Loc showed expected polynomial h-refinement
+  and exponential p-refinement convergence for linear advection and showed sub-exponential
+  (yet super-polynomial) convergence with p-refinement in the SW case.  HWENO accuracy
+  was generally equal to or better than a five-moment MM-Loc scheme. MM-Loc was less
+  accurate than RKDG at lower refinements, but with greater h- and p-convergence,
+  RKDG accuracy is eventually surpassed. The ADER time integrator of MM-Loc also proved
+  more accurate with p-refinement at a CFL of unity than a semi-discrete RK analog
+  of MM-Loc. Being faster in serial and requiring less frequent inter-node communication
+  than Galerkin methods, the ADER-based MM-Loc and HWENO schemes can be spatially
+  refined and have the same runtime, making them a competitive option for further
+  investigation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012JCoPh.231.6622N
+author: Norman, M. R. and Finkel, H.
+author_list:
+- family: Norman
+  given: M. R.
+- family: Finkel
+  given: H.
+date-added: 2017-08-10 14:02:45 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1016/j.jcp.2012.05.029
+journal: Journal of Computational Physics
+month: August
+pages: 6622--6642
+papis_id: 47c4fc4aa903b837ac81074e55e87be9
+ref: norman.m.2012
+title: Multi-moment ADER-Taylor methods for systems of conservation laws with source
+  terms in one dimension
+type: article
+volume: '231'
+year: '2012'

@@ -1,0 +1,47 @@
+abstract: Hubble Space Telescope (HST) WFPC2 archival F606W and F300W images obtained
+  within 1 year prior to the explosion of the nearby Type II supernova (SN) 2003gd
+  in M74 (=NGC 628) have been analyzed to isolate the progenitor star. The SN site
+  was located using precise astrometry applied to the HST images. Two plausible candidates
+  are identified within 0.6" of the SN position in the F606W image. Neither candidate
+  was detected in the F300W image. SN 2003gd appears to be of Type II-plateau (II-P),
+  with age ~87 days on June 17 UT and with low reddening [E(B-V)=0.13 mag]. The most
+  likely of the two progenitor candidates has MV0~-3.5 mag (for an extinction-corrected
+  distance modulus of 29.3 mag), and on the basis of additional color information
+  derived from a high-quality, archival ground-based I-band image, we estimate that
+  this star was a red supergiant with initial (zero-age main sequence) mass MZAMS~8-9
+  Msolar. This mass estimate is somewhat lower than, but relatively consistent with,
+  recent limits placed on the progenitor masses of other SNe II-P, using HST data.
+  Future HST imaging with the HST Advanced Camera for Surveys, when the SN has faded
+  considerably, will be very useful in pinpointing the exact SN location and securing
+  identification of the progenitor. If our proposed candidate is confirmed, it will
+  be only the sixth SN progenitor ever directly identified.  Based on observations
+  made with the NASA/ESA Hubble Space Telescope, obtained from the data archive of
+  the Space Telescope Science Institute, which is operated by the Association of Universities
+  for Research in Astronomy, Inc., under NASA contract NAS 5-26555.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003PASP..115.1289V
+arxivurl: http://arxiv.org/abs/astro-ph/0307226
+author: Van Dyk, S. D. and Li, W. and Filippenko, A. V.
+author_list:
+- family: Van Dyk
+  given: S. D.
+- family: Li
+  given: W.
+- family: Filippenko
+  given: A. V.
+date-added: 2017-08-11 03:13:00 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/378308
+eprint: astro-ph/0307226
+journal: \pasp
+keywords: 'Stars: Supernovae: General, supernovae: individual (SN 2003gd), supernovae:
+  individual (1999em), Stars: Evolution, Stars: Variables: Other, galaxies: individual
+  (M74), Galaxies: Individual: NGC Number: NGC 628'
+month: November
+pages: 1289--1295
+papis_id: 00eb40f9d9288f6fcb8575158c75aa57
+ref: van_dyk.s.2003a
+title: On the Progenitor of the Type II-Plateau Supernova 2003gd in M74
+type: article
+volume: '115'
+year: '2003'

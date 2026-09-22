@@ -1,0 +1,50 @@
+abstract: We present the first three-dimensional magnetohydrodynamic (MHD) simulations
+  of a circumbinary disk surrounding an equal-mass binary. The binary maintains a
+  fixed circular orbit of separation a. As in previous hydrodynamic simulations, strong
+  torques by the binary can maintain a gap of radius ~= 2a. Streams curve inward from
+  r ~= 2a toward the binary; some of their mass passes through the inner boundary,
+  while the remainder swings back out to the disk. However, we also find that near
+  its inner edge the disk develops both a strong m = 1 asymmetry and growing orbital
+  eccentricity. Because the MHD stresses introduce more matter into the gap, the total
+  torque per unit disk mass is ~= 14 times larger than found previously. The inner
+  boundary accretion rate per unit disk mass is ~= 40 times greater than found from
+  previous hydrodynamic calculations. The implied binary shrinkage rate is determined
+  by a balance between the rate at which the binary gains angular momentum by accretion
+  and loses it by gravitational torque. The large accretion rate brings these two
+  rates nearly into balance, but in net, we find that \dot{a}/a < 0, and its magnitude
+  is about 2.7 times larger than predicted by the earlier hydrodynamic simulations.
+  If the binary comprises two massive black holes, the accretion rate may be great
+  enough for one or both to be an active galactic nucleus, with consequences for the
+  physical state of the gas both in the disk body and in its inner gap.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749..118S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.4866
+author: Shi, J.-M. and Krolik, J. H. and Lubow, S. H. and Hawley, J. F.
+author_list:
+- family: Shi
+  given: J.-M.
+- family: Krolik
+  given: J. H.
+- family: Lubow
+  given: S. H.
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-11 01:48:21 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/2/118
+eid: '118'
+eprint: '1110.4866'
+journal: \apj
+keywords: 'accretion, accretion disks, binaries: general, magnetohydrodynamics: MHD,
+  methods: numerical'
+month: April
+pages: '118'
+papis_id: 7987849cacacf48a0b22cd61a551f862
+primaryclass: astro-ph.HE
+ref: shi.j_m.2012
+title: 'Three-dimensional Magnetohydrodynamic Simulations of Circumbinary Accretion
+  Disks: Disk Structures and Angular Momentum Transport'
+type: article
+volume: '749'
+year: '2012'

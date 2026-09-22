@@ -1,0 +1,48 @@
+abstract: The density structure surrounding the iron core of a massive star when it
+  dies is known to have a major effect on whether or not the star explodes. Here we
+  repeat previous surveys of presupernova evolution with some important corrections
+  to code physics and four to 10 times better mass resolution in each star. The number
+  of presupernova masses considered is also much larger. Over 4000 models are calculated
+  in the range from 12 to 60 M \&sun; with varying mass loss rates. The core structure
+  is not greatly affected by the increased spatial resolution. The qualitative patterns
+  of compactness measures and their extrema are the same, but with the increased number
+  of models, the scatter seen in previous studies is replaced by several localized
+  branches. More physics-based analyses by Ertl et al. and M{\"u}ller et al. show
+  these branches with less scatter than the single-parameter characterization of O'Connor
+  \& Ott. These branches are particularly apparent for stars in the mass ranges 14-19
+  and 22-24 M \&sun;. The multivalued solutions are a consequence of interference
+  between several carbon- and oxygen-burning shells during the late stages of evolution.
+  For a relevant range of masses, whether a star explodes or not may reflect the small,
+  almost random differences in its late evolution more than its initial mass. The
+  large number of models allows statistically meaningful statements about the radius,
+  luminosity, and effective temperatures of presupernova stars, their core structures,
+  and their remnant mass distributions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...860...93S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.03243
+author: Sukhbold, T. and Woosley, S. E. and Heger, A.
+author_list:
+- family: Sukhbold
+  given: T.
+- family: Woosley
+  given: S. E.
+- family: Heger
+  given: A.
+date-added: 2018-08-27 15:20:46 -0400
+date-modified: 2018-08-27 15:20:48 -0400
+doi: 10.3847/1538-4357/aac2da
+eid: '93'
+eprint: '1710.03243'
+journal: \apj
+keywords: 'methods: numerical, stars: black holes, stars: evolution, stars: interiors,
+  stars: massive, supernovae: general'
+month: June
+pages: '93'
+papis_id: 1e68ca4bfcf17f314b2102706adddb31
+primaryclass: astro-ph.HE
+ref: sukhbold.t.2018
+title: A High-resolution Study of Presupernova Core Structure
+type: article
+volume: '860'
+year: '2018'

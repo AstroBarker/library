@@ -1,0 +1,41 @@
+abstract: We present a new method to parameterize type Ia Supernovae (SN Ia) multi-color
+  light curves. The method was developed in order to analyze the large number of SN
+  Ia multi-color light curves measured in current high-redshift projects. The technique
+  is based on empirically modeling SN Ia luminosity variations as a function of phase,
+  wavelength, a shape parameter, and a color parameter. The model is trained with
+  a sample of well-measured nearby SN Ia and then tested with an independent set of
+  supernovae by building an optimal luminosity distance estimator that combines the
+  supernova rest-frame luminosity, shape parameter, and color reconstructed with the
+  model. The distances we measure using B- and V-band data show a dispersion around
+  the Hubble line comparable or lower than obtained with other methods. With this
+  model, we are able to measure distances using U- and B-band data with a dispersion
+  of 0.16$\pm$.05 around the Hubble line.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...443..781G
+arxivurl: http://arxiv.org/abs/astro-ph/0506583
+author: Guy, J. and Astier, P. and Nobili, S. and Regnault, N. and Pain, R.
+author_list:
+- family: Guy
+  given: J.
+- family: Astier
+  given: P.
+- family: Nobili
+  given: S.
+- family: Regnault
+  given: N.
+- family: Pain
+  given: R.
+date-added: 2017-08-10 18:20:48 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1051/0004-6361:20053025
+eprint: astro-ph/0506583
+journal: \aap
+keywords: 'supernovae: general, cosmology: observations'
+month: December
+pages: 781--791
+papis_id: 546fe47303b4365653c33c38e5a886e9
+ref: guy.j.2005
+title: 'SALT: a spectral adaptive light curve template for type Ia supernovae'
+type: article
+volume: '443'
+year: '2005'

@@ -1,0 +1,33 @@
+abstract: Magnetohydrodynamic (MHD) turbulence is pervasive in astrophysical systems.
+  Recent high-resolution numerical simulations suggest that the energy spectrum of
+  strong incompressible MHD turbulence is E(k bottom) vprop k -3/2 bottom. So far,
+  there has been no phenomenological theory that simultaneously explains this spectrum
+  and satisfies the exact analytic relations for MHD turbulence due to Politano \&
+  Pouquet. Indeed, the Politano-Pouquet relations are often invoked to suggest that
+  the spectrum of MHD turbulence instead has the Kolmogorov scaling -5/3. Using geometrical
+  arguments and numerical tests, here we analyze this seeming contradiction and demonstrate
+  that the -3/2 scaling and the Politano-Pouquet relations are reconciled by the phenomenon
+  of scale-dependent dynamic alignment that was recently discovered in MHD turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...699L..39B
+author: Boldyrev, S. and Mason, J. and Cattaneo, F.
+author_list:
+- family: Boldyrev
+  given: S.
+- family: Mason
+  given: J.
+- family: Cattaneo
+  given: F.
+date-added: 2017-08-10 22:32:16 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/699/1/L39
+journal: \apjl
+keywords: MHD, turbulence
+month: July
+pages: L39-L42
+papis_id: d05d26213d9bc8023af05a9524a4dd32
+ref: boldyrev.s.2009
+title: Dynamic Alignment and Exact Scaling Laws in Magnetohydrodynamic Turbulence
+type: article
+volume: '699'
+year: '2009'

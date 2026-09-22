@@ -1,0 +1,61 @@
+abstract: We have performed a complete re-calibration and re-analysis of all the available
+  Very-Long-Baseline-Interferometry (VLBI) observations of supernova SN1993J, following
+  an homogeneous and well-defined methodology. VLBI observations of SN1993J at 69
+  epochs, spanning 13 years, were performed by two teams, which used different strategies
+  and analysis tools. The results obtained by each group are similar, but their conclusions
+  on the supernova expansion and the shape and evolution of the emitting region differ
+  significantly. From our analysis of the combined set of observations, we have obtained
+  an expansion curve with unprecedented time resolution and coverage. We find that
+  the data from both teams are compatible when analyzed with the same methodology.
+  One expansion index (m3 = 0.87 $\pm$ 0.02) is enough to model the expansion observed
+  at 1.7 GHz, while two expansion indices (m1 = 0.933 \$\pm\$ 0.010 and m2 = 0.796
+  \$\pm\$ 0.005), separated by a break time, tbr = 390 \$\pm\$ 30 days, are needed
+  to model the data, at frequencies higher than 1.7 GHz, up to day ~4000 after explosion.
+  We thus confirm the wavelength dependence of the size of the emitting region reported
+  by one of the groups. We also find that all sizes measured at epochs later than
+  day ~4000 after explosion are systematically smaller than our model predictions
+  (i.e., an additional expansion index might be needed to properly model these data).
+  We also estimate the fractional shell width (0.31 \$\pm\$ 0.02, average of all epochs
+  and frequencies) and the level of opacity to the radio emission by the ejecta. We
+  find evidence of a spectral-index radial gradient in the supernova shell, which
+  is indicative of a frequency-dependent ejecta opacity. Finally, we study the distribution
+  and evolution of the azimuthal anisotropies (hot spots) found around the radio shell
+  during the expansion. These anisotropies have intensities of ~20\% of the mean flux
+  density of the shell, and appear to systematically evolve during the expansion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...526A.142M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.2552
+author: Martí-Vidal, I. and Marcaide, J. M. and Alberdi, A. and Guirado, J. C. and
+  Pérez-Torres, M. A. and Ros, E.
+author_list:
+- family: Martí-Vidal
+  given: I.
+- family: Marcaide
+  given: J. M.
+- family: Alberdi
+  given: A.
+- family: Guirado
+  given: J. C.
+- family: Pérez-Torres
+  given: M. A.
+- family: Ros
+  given: E.
+date-added: 2017-08-10 23:41:07 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1051/0004-6361/200913831
+eid: A142
+eprint: '1007.2552'
+journal: \aap
+keywords: 'radio continuum: stars, supernovae: general, supernovae: individual: SN1993J,
+  galaxies: individual: M 81'
+month: February
+pages: A142
+papis_id: d3f0839d87f8c1cd92325ddf7ac014c4
+primaryclass: astro-ph.HE
+ref: marti_vidal.i.2011
+title: 'Radio emission of SN1993J: the complete picture. I. Re-analysis of all the
+  available VLBI data'
+type: article
+volume: '526'
+year: '2011'

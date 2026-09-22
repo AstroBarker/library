@@ -1,0 +1,49 @@
+abstract: 'The recent discovery of the first four afterglows of short-hard gamma-ray
+  bursts (SHBs) suggests that they typically result from long-lived progenitor systems.
+  The most popular progenitor model invokes the merger of either double neutron star
+  (DNS) binaries or neutron star-black hole (NS-BH) systems. Such events are strong
+  sources of gravitational waves (GWs) and might be detected by ground-based GW observatories.
+  In this work we combine the census of SHB observations with refined theoretical
+  analysis to perform a critical evaluation of the compact binary model. We then explore
+  the implications for GW detection of these events. Beginning from the measured star
+  formation rate through cosmic time, we consider what intrinsic luminosity and lifetime
+  distributions can reproduce the known SHB redshifts and luminosities as well as
+  the peak flux distribution of the large BATSE SHB sample. We find the following:
+  (1) The typical progenitor lifetime is long. Assuming lognormal lifetime distribution,
+  the typical lifetime is >4 (1) Gyr (2 sigma [3 sigma] c.l.). If the lifetime distribution
+  is a power law with index eta, then eta>-0.5 (-1) (2 sigma [3 sigma] c.l.). This
+  result is difficult to reconcile with the properties of the observed Galactic DNS
+  population, suggesting that if SHBs do result from DNS mergers, then the observed
+  Galactic binaries do not represent the cosmic one. (2) We find that the local rate
+  of SHBs is larger than 10 Gpc-3 yr-1 and may be higher by several orders of magnitude,
+  significantly above previous estimates. (3) Assuming that SHBs do result from compact
+  binaries, our predictions for the LIGO and VIRGO event rates are encouraging: the
+  chance for detection by current facilities is not negligible, while a coincident
+  detection of GW and electromagnetic radiation from an SHB is guaranteed for next-generation
+  observatories.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...650..281N
+arxivurl: http://arxiv.org/abs/astro-ph/0511254
+author: Nakar, E. and Gal-Yam, A. and Fox, D. B.
+author_list:
+- family: Nakar
+  given: E.
+- family: Gal-Yam
+  given: A.
+- family: Fox
+  given: D. B.
+date-added: 2017-08-10 15:57:12 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/505855
+eprint: astro-ph/0511254
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Gravitational Waves'
+month: October
+pages: 281--290
+papis_id: b62c95b3f9b091bb132fe84dcea0cc63
+ref: nakar.e.2006
+title: 'The Local Rate and the Progenitor Lifetimes of Short-Hard Gamma-Ray Bursts:
+  Synthesis and Predictions for the Laser Interferometer Gravitational-Wave Observatory'
+type: article
+volume: '650'
+year: '2006'

@@ -1,0 +1,59 @@
+abstract: We reanalyze the formation and evolution of galaxies in the hierarchical
+  clustering scenario. Using a semianalytic model (SAM) of galaxy formation described
+  in this paper, which we hereafter call the Mitaka model, we extensively investigate
+  the observed scaling relations of galaxies among photometric, kinematic, structural,
+  and chemical characteristics. In such a scenario, spheroidal galaxies are assumed
+  to be formed by a major merger and subsequent starburst, in contrast to the traditional
+  scenario of monolithic cloud collapse. As a new ingredient of SAMs, we introduce
+  the effects of dynamical response to supernova-induced gas removal on size and velocity
+  dispersion, which play an important role in dwarf galaxy formation. In previous
+  theoretical studies of dwarf galaxies based on the monolithic cloud collapse given
+  by Yoshii \& Arimoto and Dekel \& Silk, the dynamical response was treated in the
+  extremes of a purely baryonic cloud and a baryonic cloud fully supported by surrounding
+  dark matter. To improve this simple treatment, in our previous paper we formulated
+  the dynamical response in more realistic, intermediate situations between the above
+  extremes. While the effects of dynamical response depend on the mass fraction of
+  removed gas from a galaxy, the amount of the gas that remains just after major merger
+  depends on the star formation history. A variety of star formation histories are
+  generated through the Monte Carlo realization of merging histories of dark halos,
+  and it is found that our SAM naturally makes a wide variety of dwarf galaxies and
+  their dispersed characteristics as observed. It is also found that our result strongly
+  depends on the adopted redshift dependence of thestar formation timescale, because
+  it determines the gas fraction in high-redshift galaxies for which major mergers
+  frequently occur. We test four star formation models. The first model has a constant
+  timescale of star formation independent of redshift. The last model has a timescale
+  proportional to the dynamical timescale of the galactic disk. The other models have
+  timescales intermediates of these two. The last model fails to reproduce observations,
+  because it predicts only a small amount of the leftover gas at major mergers, therefore
+  giving too weak a dynamical response on size and velocity dispersion of dwarf spheroidals.
+  The models, having a constant timescale of star formation or a timescale very weakly
+  dependent on redshift, associated with our SAM, succeed in reproducing most observations
+  from giant to dwarf galaxies, except that the adopted strong supernova feedback
+  in this paper does not fully explain the color-magnitude relation under the cluster
+  environment and the Tully-Fisher relation. A direction for overcoming this remaining
+  problem is also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...610...23N
+arxivurl: http://arxiv.org/abs/astro-ph/0404485
+author: Nagashima, M. and Yoshii, Y.
+author_list:
+- family: Nagashima
+  given: M.
+- family: Yoshii
+  given: Y.
+date-added: 2017-08-11 02:38:51 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/421484
+eprint: astro-ph/0404485
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Dwarf, Galaxies: Evolution, Galaxies: Formation,
+  Cosmology: Large-Scale Structure of Universe'
+month: July
+pages: 23--44
+papis_id: bfd71d0ebd83851f9ef39281f6f39911
+ref: nagashima.m.2004
+title: Hierarchical Formation of Galaxies with Dynamical Response to Supernova-Induced
+  Gas Removal
+type: article
+volume: '610'
+year: '2004'

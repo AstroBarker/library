@@ -1,0 +1,50 @@
+abstract: Much progress in realistic modeling of core-collapse supernovae has occurred
+  recently through the availability of multi-teraflop machines and the increasing
+  sophistication of supernova codes. These improvements are enabling simulations with
+  enough realism that the explosion mechanism, long a mystery, may soon be delineated.
+  We briefly describe the CHIMERA code, a supernova code we have developed to simulate
+  core-collapse supernovae in 1, 2, and 3 spatial dimensions. We then describe the
+  results of an ongoing suite of 2D simulations initiated from a 12, 15, 20, and 25
+  Modot progenitor. These have all exhibited explosions and are currently in the expanding
+  phase with the shock at between 5,000 and 20,000 km. We also briefly describe an
+  ongoing simulation in 3 spatial dimensions initiated from the 15 Modot progenitor.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009JPhCS.180a2018B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.4914
+author: Bruenn, S. W. and Mezzacappa, A. and Hix, W. R. and Blondin, J. M. and Marronetti,
+  P. and Messer, O. E. B. and Dirk, C. J. and Yoshida, S.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: Mezzacappa
+  given: A.
+- family: Hix
+  given: W. R.
+- family: Blondin
+  given: J. M.
+- family: Marronetti
+  given: P.
+- family: Messer
+  given: O. E. B.
+- family: Dirk
+  given: C. J.
+- family: Yoshida
+  given: S.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 18:26:40 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/1742-6596/180/1/012018
+eid: 012018
+eprint: '1002.4914'
+month: July
+pages: 012018
+papis_id: f6fda1797bc0a001581428c9266a5324
+primaryclass: astro-ph.SR
+ref: bruenn.s.2009
+series: Journal of Physics Conference Series
+title: 2D and 3D core-collapse supernovae simulation results obtained with the CHIMERA
+  code
+type: inproceedings
+volume: '180'
+year: '2009'

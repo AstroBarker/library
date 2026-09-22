@@ -1,0 +1,55 @@
+abstract: We investigate the coupled formation and evolution of galaxies and their
+  embedded supermassive black holes using state-of-the-art hydrodynamic simulations
+  of cosmological structure formation. For the first time, we self-consistently follow
+  the dark matter dynamics, radiative gas cooling, and star formation, as well as
+  BH growth and associated feedback processes, starting directly from initial conditions
+  appropriate for the LambdaCDM cosmology. Our modeling of the black hole physics
+  is based on an approach that we have developed in simulations of isolated galaxy
+  mergers. Here we examine (1) the predicted global history of BH mass assembly, (2)
+  the evolution of the local black hole-host mass correlations, and (3) the conditions
+  that allow rapid growth of the first quasars, and the properties of their hosts
+  and descendants today. We find a total BH mass density in good agreement with observational
+  estimates. The BH accretion rate density peaks at lower redshift and evolves more
+  strongly at high redshift than the star formation rate density, but the ratio of
+  black hole to stellar mass density shows only a moderate evolution at low redshifts.
+  We find strong correlations between BH masses and properties of the stellar systems,
+  agreeing well with the measured local MBH-sigma and MBH-M\textasteriskcentered relationships,
+  but also suggesting (dependent on the mass range) a weak evolution with redshift
+  in the normalization and the slope. Our simulations also produce massive black holes
+  at high redshift, due to extended periods of exponential growth in regions that
+  collapse early and exhibit strong gas inflows. These first supermassive BH systems,
+  however, are not necessarily the most massive ones today, since they are often overtaken
+  in growth by quasars that form later.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...676...33D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.2269
+author: Di Matteo, T. and Colberg, J. and Springel, V. and Hernquist, L. and Sijacki,
+  D.
+author_list:
+- family: Di Matteo
+  given: T.
+- family: Colberg
+  given: J.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+- family: Sijacki
+  given: D.
+date-added: 2017-08-11 05:41:34 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/524921
+eid: 33-53
+eprint: '0705.2269'
+journal: \apj
+keywords: 'cosmology: theory, galaxies: active, galaxies: evolution, galaxies: formation,
+  hydrodynamics, quasars: general'
+month: March
+pages: 33--53
+papis_id: 78d786bc281f53ba64b1f712089741b4
+ref: di_matteo.t.2008
+title: Direct Cosmological Simulations of the Growth of Black Holes and Galaxies
+type: article
+volume: '676'
+year: '2008'

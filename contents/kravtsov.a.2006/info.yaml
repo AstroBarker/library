@@ -1,0 +1,43 @@
+abstract: We present a comparison of X-ray proxies for the total cluster mass, M500,
+  including the spectral temperature (TX), gas mass measured within r500 (Mg,500),
+  and the new proxy, YX, which is a simple product of TX and Mg,500 and is related
+  to the total thermal energy of the ICM. We use mock  Chandra images constructed
+  for a sample of clusters simulated with the Eulerian N-body+gasdynamics adaptive
+  mesh refinement ART code in the concordance LambdaCDM cosmology. The simulations
+  achieve high spatial and mass resolution and include radiative cooling, star formation,
+  and other processes accompanying galaxy formation. Our analysis shows that simulated
+  clusters exhibit a high degree of regularity and tight correlations between the
+  considered observables and total mass. The normalizations of the M500-TX, Mg,500-TX,
+  and M500-YX relations agree to better than ~10\%-15\% with the current observational
+  measurements of these relations. Our results show that YX is the best mass proxy
+  with a remarkably low scatter of only ~5\%-7\% in M500 for a fixed YX, at both low
+  and high redshifts and regardless of whether clusters are relaxed or not. In addition,
+  we show that redshift evolution of the YX-M500 relation is close to the self-similar
+  prediction, which makes YX a very attractive mass indicator for measurements of
+  the cluster mass function from X-ray-selected samples.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...650..128K
+arxivurl: http://arxiv.org/abs/astro-ph/0603205
+author: Kravtsov, A. V. and Vikhlinin, A. and Nagai, D.
+author_list:
+- family: Kravtsov
+  given: A. V.
+- family: Vikhlinin
+  given: A.
+- family: Nagai
+  given: D.
+date-added: 2017-08-11 05:15:10 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/506319
+eprint: astro-ph/0603205
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Clusters: General, Galaxies: Evolution, Methods:
+  Numerical, X-Rays: Galaxies: Clusters'
+month: October
+pages: 128--136
+papis_id: 210f868cc32a67cbf6c800a5da6efddb
+ref: kravtsov.a.2006
+title: A New Robust Low-Scatter X-Ray Mass Indicator for Clusters of Galaxies
+type: article
+volume: '650'
+year: '2006'

@@ -1,0 +1,68 @@
+abstract: The discovery of luminous quasars at redshift z~6 indicates the presence
+  of supermassive black holes (SMBHs) of mass ~109 Msolar when the universe was less
+  than 1 billion years old. This finding presents several challenges for theoretical
+  models because whether such massive objects can form so early in the LambdaCDM cosmology,
+  the leading theory for cosmic structure formation, is an open question. Furthermore,
+  whether the formation process requires exotic physics such as super-Eddington accretion
+  remains undecided. Here we present the first multiscale simulations that, together
+  with a self-regulated model for the SMBH growth, produce a luminous quasar at z~6.5
+  in the LambdaCDM paradigm. We follow the hierarchical assembly history of the most
+  massive halo in a ~3 Gpc3 volume and find that this halo of ~8\texttimes{}1012 Msolar
+  forming at z~6.5 after several major mergers is able to reproduce a number of observed
+  properties of SDSS J1148+5251, the most distant quasar detected at z=6.42 (Fan et
+  al. 2003). Moreover, the SMBHs grow through gas accretion below the Eddington limit
+  in a self-regulated manner owing to feedback. We find that the progenitors experience
+  vigorous star formation (up to 104 Msolar yr-1) preceding the major quasar phase
+  such that the stellar mass of the quasar host reaches 1012 Msolar at z~6.5, consistent
+  with observations of significant metal enrichment in SDSS J1148+5251. The merger
+  remnant thus obeys a similar MBH-Mbulge scaling relation observed locally as a consequence
+  of coeval growth and evolution of the SMBH and its host galaxy. Our results provide
+  a viable formation mechanism for z~6 quasars in the standard LambdaCDM cosmology
+  and demonstrate a common, merger-driven origin for the rarest quasars and the fundamental
+  MBH-Mbulge correlation in a hierarchical universe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665..187L
+arxivurl: http://arxiv.org/abs/astro-ph/0608190
+author: Li, Y. and Hernquist, L. and Robertson, B. and Cox, T. J. and Hopkins, P.
+  F. and Springel, V. and Gao, L. and Di Matteo, T. and Zentner, A. R. and Jenkins,
+  A. and Yoshida, N.
+author_list:
+- family: Li
+  given: Y.
+- family: Hernquist
+  given: L.
+- family: Robertson
+  given: B.
+- family: Cox
+  given: T. J.
+- family: Hopkins
+  given: P. F.
+- family: Springel
+  given: V.
+- family: Gao
+  given: L.
+- family: Di Matteo
+  given: T.
+- family: Zentner
+  given: A. R.
+- family: Jenkins
+  given: A.
+- family: Yoshida
+  given: N.
+date-added: 2017-08-11 05:46:57 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519297
+eprint: astro-ph/0608190
+journal: \apj
+keywords: 'Black Hole Physics, Cosmology: Theory, Cosmology: Early Universe, Galaxies:
+  Active, Galaxies: Evolution, Galaxies: Formation, Galaxies: High-Redshift, Galaxies:
+  ISM, Galaxies: Starburst, Methods: Numerical, Galaxies: Quasars: General, quasars:
+  individual (SDSS J1148+5251)'
+month: August
+pages: 187--208
+papis_id: 66688334ff1ae2bbba96c9aa828982e1
+ref: li.y.2007
+title: Formation of z̃6 Quasars from Hierarchical Galaxy Mergers
+type: article
+volume: '665'
+year: '2007'

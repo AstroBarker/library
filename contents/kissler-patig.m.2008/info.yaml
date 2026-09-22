@@ -1,0 +1,84 @@
+abstract: We describe the design, development, and performance of HAWK-I, the new
+  High-Acuity Wide-field K-band Imager for ESO's Very Large Telescope, which is equipped
+  with a mosaic of four 2 k \texttimes{} 2 k arrays and operates from 0.9-2.4 mum
+  over 7.5 arcmin \texttimes{} 7.5 arcmin with 0.1\textasciiacute{}\textasciiacute{}
+  pixels. A novel feature is the use of all reflective optics that, together with
+  filters of excellent throughput and detectors of high quantum efficiency, has yielded
+  an extremely high throughput. Commissioning and science verification observations
+  have already delivered a variety of excellent and deep images that demonstrate its
+  high scientific potential for addressing important astrophysical questions of current
+  interest.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...491..941K
+author: Kissler-Patig, M. and Pirard, J.-F. and Casali, M. and Moorwood, A. and Ageorges,
+  N. and Alves de Oliveira, C. and Baksai, P. and Bedin, L. R. and Bendek, E. and
+  Biereichel, P. and Delabre, B. and Dorn, R. and Esteves, R. and Finger, G. and Gojak,
+  D. and Huster, G. and Jung, Y. and Kiekebush, M. and Klein, B. and Koch, F. and
+  Lizon, J.-L. and Mehrgan, L. and Petr-Gotzens, M. and Pritchard, J. and Selman,
+  F. and Stegmeier, J.
+author_list:
+- family: Kissler-Patig
+  given: M.
+- family: Pirard
+  given: J.-F.
+- family: Casali
+  given: M.
+- family: Moorwood
+  given: A.
+- family: Ageorges
+  given: N.
+- family: Alves de Oliveira
+  given: C.
+- family: Baksai
+  given: P.
+- family: Bedin
+  given: L. R.
+- family: Bendek
+  given: E.
+- family: Biereichel
+  given: P.
+- family: Delabre
+  given: B.
+- family: Dorn
+  given: R.
+- family: Esteves
+  given: R.
+- family: Finger
+  given: G.
+- family: Gojak
+  given: D.
+- family: Huster
+  given: G.
+- family: Jung
+  given: Y.
+- family: Kiekebush
+  given: M.
+- family: Klein
+  given: B.
+- family: Koch
+  given: F.
+- family: Lizon
+  given: J.-L.
+- family: Mehrgan
+  given: L.
+- family: Petr-Gotzens
+  given: M.
+- family: Pritchard
+  given: J.
+- family: Selman
+  given: F.
+- family: Stegmeier
+  given: J.
+date-added: 2017-08-11 02:42:34 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1051/0004-6361:200809910
+journal: \aap
+keywords: 'instrumentation: miscellaneous, infrared: general'
+month: December
+pages: 941--950
+papis_id: 8a8348e121906f205291c764382eaab8
+ref: kissler_patig.m.2008
+title: 'HAWK-I: the high-acuity wide-field K-band imager for the ESO Very Large Telescope'
+type: article
+volume: '491'
+year: '2008'

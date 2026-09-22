@@ -1,0 +1,59 @@
+abstract: We examine the physical basis for algorithms to replace mixing-length theory
+  (MLT) in stellar evolutionary computations. Our 321D procedure is based on numerical
+  solutions of the Navier-Stokes equations. These implicit large eddy simulations
+  (ILES) are three-dimensional (3D), time-dependent, and turbulent, including the
+  Kolmogorov cascade. We use the Reynolds-averaged Navier-Stokes (RANS) formulation
+  to make concise the 3D simulation data, and use the 3D simulations to give closure
+  for the RANS equations. We further analyze this data set with a simple analytical
+  model, which is non-local and time-dependent, and which contains both MLT and the
+  Lorenz convective roll as particular subsets of solutions. A characteristic length
+  (the damping length) again emerges in the simulations; it is determined by an observed
+  balance between (1) the large-scale driving, and (2) small-scale damping. The nature
+  of mixing and convective boundaries is analyzed, including dynamic, thermal and
+  compositional effects, and compared to a simple model. We find that (1) braking
+  regions (boundary layers in which mixing occurs) automatically appear beyond the
+  edges of convection as defined by the Schwarzschild criterion, (2) dynamic (non-local)
+  terms imply a non-zero turbulent kinetic energy flux (unlike MLT), (3) the effects
+  of composition gradients on flow can be comparable to thermal effects, and (4) convective
+  boundaries in neutrino-cooled stages differ in nature from those in photon-cooled
+  stages (different P{\'e}clet numbers). The algorithms are based upon ILES solutions
+  to the Navier-Stokes equations, so that, unlike MLT, they do not require any calibration
+  to astronomical systems in order to predict stellar properties. Implications for
+  solar abundances, helioseismology, asteroseismology, nucleosynthesis yields, supernova
+  progenitors and core collapse are indicated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...809...30A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1503.00342
+author: Arnett, W. D. and Meakin, C. and Viallet, M. and Campbell, S. W. and Lattanzio,
+  J. C. and Mocák, M.
+author_list:
+- family: Arnett
+  given: W. D.
+- family: Meakin
+  given: C.
+- family: Viallet
+  given: M.
+- family: Campbell
+  given: S. W.
+- family: Lattanzio
+  given: J. C.
+- family: Mocák
+  given: M.
+date-added: 2017-08-10 14:01:46 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1088/0004-637X/809/1/30
+eid: '30'
+eprint: '1503.00342'
+journal: \apj
+keywords: 'convection, stars: evolution, stars: oscillations, supernovae: general,
+  turbulence'
+month: August
+pages: '30'
+papis_id: 48224bdbb42feab6d011e2b9ee1a7d23
+primaryclass: astro-ph.SR
+ref: arnett.w.2015
+title: 'Beyond Mixing-length Theory: A Step Toward 321D'
+type: article
+volume: '809'
+year: '2015'

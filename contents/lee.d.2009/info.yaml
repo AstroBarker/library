@@ -1,0 +1,39 @@
+abstract: We introduce an unsplit staggered mesh scheme (USM) for multidimensional
+  magnetohydrodynamics (MHD) that uses a constrained transport (CT) method with high-order
+  Godunov fluxes and incorporates a new data reconstruction-evolution algorithm for
+  second-order MHD interface states. In this new algorithm, the USM scheme includes
+  so-called "multidimensional MHD terms", proportional to \nabla{}\cdot{}B, in a dimensionally-unsplit
+  way in a single update. This data reconstruction-evolution step, extended from the
+  corner transport upwind (CTU) approach of Colella, maintains in-plane dynamics very
+  well, as shown by the advection of a very weak magnetic field loop in 2D. This data
+  reconstruction-evolution algorithm is also of advantage in its consistency and simplicity
+  when extended to 3D. The scheme maintains the \nabla{}\cdot{}B=0 constraint by solving
+  a set of discrete induction equations using the standard CT approach, where the
+  accuracy of the computed electric field directly influences the quality of the magnetic
+  field solution. We address the lack of proper dissipative behavior in the simple
+  electric field averaging scheme and present a new modified electric field construction
+  (MEC) that includes multidimensional derivative information and enhances solution
+  accuracy. A series of comparison studies demonstrates the excellent performance
+  of the full USM-MEC scheme for many stringent multidimensional MHD test problems
+  chosen from the literature. The scheme is implemented and currently freely available
+  in the University of Chicago ASC FLASH Center's FLASH3 release.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009JCoPh.228..952L
+author: Lee, D. and Deane, A. E.
+author_list:
+- family: Lee
+  given: D.
+- family: Deane
+  given: A. E.
+date-added: 2017-08-10 13:59:05 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1016/j.jcp.2008.08.026
+journal: Journal of Computational Physics
+month: March
+pages: 952--975
+papis_id: 267889ae1255a0f3ede3f028655e8085
+ref: lee.d.2009
+title: An unsplit staggered mesh scheme for multidimensional magnetohydrodynamics
+type: article
+volume: '228'
+year: '2009'

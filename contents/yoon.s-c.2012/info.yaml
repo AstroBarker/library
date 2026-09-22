@@ -1,0 +1,60 @@
+abstract: 'Aims: We present a new grid of massive Population III (Pop III) star models
+  including the effects of rotation on the stellar structure and chemical mixing,
+  and magnetic torques for the transport of angular momentum. This grid covers the
+  range of mass from 10 to 1000 M\&sun;, and rotational velocity from zero to 100\%
+  of the critical rotation on the zero-age main sequence. Based on the grid, we also
+  present a phase diagram for the expected final fates (i.e., core-collapse supernova,
+  gamma-ray bursts (GRBs) and pair-instability supernovae of diverse types) of rotating
+  massive Pop III stars.  Methods: The model grid has been calculated with a stellar
+  evolution code. We adopted the recent calibration made with the VLT-FLAMES data
+  for the overshooting parameter and the chemical mixing efficiency due to rotation.
+  The Spruit-Tayler dynamo was assumed for magnetic torques.  Results: Our non-rotating
+  models become redder than the previous models in the literature because of the larger
+  overshooting parameter adopted in this study. In particular, convective dredge-up
+  of the helium core material into the hydrogen envelope is observed in our non-rotating
+  very massive star models (\greaterequivlnt{}200 M\&sun;), which is potentially important
+  for the chemical yields. On the other hand, the stars become bluer and more luminous
+  with a higher rotational velocity. With the Spruit-Tayler dynamo, our models with
+  a sufficiently high initial rotational velocity can reach the critical rotation
+  earlier and lose more mass as a result, compared to the previous models without
+  magnetic fields. The most dramatic effect of rotation is found with the so-called
+  chemically homogeneous evolution (CHE), which is observed for a limited mass and
+  rotational velocity range. CHE has several important consequences: 1) both primary
+  nitrogen and ionizing photons are abundantly produced; 2) conditions for GRB progenitors
+  are fulfilled for an initial mass range of 13-84 M\&sun;; 3) pair instability supernovae
+  of type Ibc are expected for 84-190 M\&sun;; 4) both a pulsational pair instability
+  supernova and a GRB may occur from the same progenitor of ~56-84 M\&sun;, which
+  might significantly influence the consequent GRB afterglow. We find that CHE does
+  not occur for very massive stars (>190 M\&sun;), in which case the hydrogen envelope
+  expands to the red-supergiant phase and the final angular momentum is too low to
+  generate any explosive event powered by rotation.  Tables 3-5 and Appendix A are
+  available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...542A.113Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.2364
+author: Yoon, S.-C. and Dierks, A. and Langer, N.
+author_list:
+- family: Yoon
+  given: S.-C.
+- family: Dierks
+  given: A.
+- family: Langer
+  given: N.
+date-added: 2017-08-10 22:19:22 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1051/0004-6361/201117769
+eid: A113
+eprint: '1201.2364'
+journal: \aap
+keywords: 'stars: evolution, stars: Population III, stars: rotation, gamma-ray burst:
+  general, dark ages, reionization, first stars, supernovae: general'
+month: June
+pages: A113
+papis_id: 8a1e9e65544186615bf6eb3b82e42c25
+primaryclass: astro-ph.SR
+ref: yoon.s_c.2012
+title: Evolution of massive Population III stars with rotation and magnetic fields
+type: article
+volume: '542'
+year: '2012'

@@ -1,0 +1,44 @@
+abstract: 'Context. Supermassive black holes are probably present in the centre of
+  the majority of the galaxies. There is consensus that these exotic objects are formed
+  by the growth of seeds either by mass accretion from a circumnuclear disk and/or
+  by coalescences during merger episodes.  Aims: The mass fraction of the disk captured
+  by the central object and the related timescale are still open questions, as is
+  how these quantities depend on parameters, such as the initial mass of the disk
+  or the seed, or on the angular momentum transport mechanism. This paper addresses
+  these particular aspects of the accretion disk evolution and the growth of seeds.  Methods:
+  The time-dependent hydrodynamic equations were solved numerically for an axisymmetric
+  disk in which the gravitational potential includes contributions from both the central
+  object and the disk itself. The numerical code is based on a Eulerian formalism,
+  using a finite difference method of second-order, according to the Van Leer upwind
+  algorithm on a staggered mesh.  Results: The present simulations indicate that seeds
+  capture about a half of the initial disk mass, a result weakly dependent on model
+  parameters. The timescales required for accreting 50\% of the disk mass are in the
+  range 130-540 Myr, depending on the adopted parameters. These timescales can explain
+  the presence of bright quasars at z ~ 6.5. Moreover, at the end of the disk evolution,
+  a "torus-like" geometry develops, offering a natural explanation for the presence
+  of these structures in the central regions of AGNs, representing an additional support
+  to the unified model.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...526A.146M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.4150
+author: Montesinos Armijo, M. A. and de Freitas Pacheco, J. A.
+author_list:
+- family: Montesinos Armijo
+  given: M. A.
+- family: de Freitas Pacheco
+  given: J. A.
+date-added: 2017-08-11 03:15:28 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1051/0004-6361/201015026
+eid: A146
+eprint: '1008.4150'
+journal: \aap
+month: February
+pages: A146
+papis_id: db50f2e36efb3b60133974ff1dd31bd9
+ref: montesinos_armijo.m.2011
+title: The growth of supermassive black holes fed by accretion disks
+type: article
+volume: '526'
+year: '2011'

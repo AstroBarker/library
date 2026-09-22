@@ -1,0 +1,55 @@
+abstract: FISH is a fast and simple ideal magnetohydrodynamics code that scales to
+  ~10,000 processes for a Cartesian computational domain of ~10003 cells. The simplicity
+  of FISH has been achieved by the rigorous application of the operator splitting
+  technique, while second-order accuracy is maintained by the symmetric ordering of
+  the operators. Between directional sweeps, the three-dimensional data are rotated
+  in memory so that the sweep is always performed in a cache-efficient way along the
+  direction of contiguous memory. Hence, the code only requires a one-dimensional
+  description of the conservation equations to be solved. This approach also enables
+  an elegant novel parallelization of the code that is based on persistent communications
+  with MPI for cubic domain decomposition on machines with distributed memory. This
+  scheme is then combined with an additional OpenMP parallelization of different sweeps
+  that can take advantage of clusters of shared memory. We document the detailed implementation
+  of a second-order total variation diminishing advection scheme based on flux reconstruction.
+  The magnetic fields are evolved by a constrained transport scheme. We show that
+  the subtraction of a simple estimate of the hydrostatic gradient from the total
+  gradients can significantly reduce the dissipation of the advection scheme in simulations
+  of gravitationally bound hydrostatic objects. Through its simplicity and efficiency,
+  FISH is as well suited for hydrodynamics classes as for large-scale astrophysical
+  simulations on high-performance computer clusters. In preparation for the release
+  of a public version, we demonstrate the performance of FISH in a suite of astrophysically
+  orientated test cases.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..195...20K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.2854
+author: Käppeli, R. and Whitehouse, S. C. and Scheidegger, S. and Pen, U.-L. and Liebendörfer,
+  M.
+author_list:
+- family: Käppeli
+  given: R.
+- family: Whitehouse
+  given: S. C.
+- family: Scheidegger
+  given: S.
+- family: Pen
+  given: U.-L.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-10 22:42:37 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0067-0049/195/2/20
+eid: '20'
+eprint: '0910.2854'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: August
+pages: '20'
+papis_id: 2f195631e376e07329a4843a94239d45
+primaryclass: astro-ph.IM
+ref: kappeli.r.2011
+title: 'FISH: A Three-dimensional Parallel Magnetohydrodynamics Code for Astrophysical
+  Applications'
+type: article
+volume: '195'
+year: '2011'

@@ -1,0 +1,51 @@
+abstract: We revisit the evidence for the contribution of the long-lived radioactive
+  nuclides 44Ti, 55Fe, 56Co, 57Co, and 60Co to the UVOIR light curve of SN 1987A.
+  We show that the V-band luminosity constitutes a roughly constant fraction of the
+  bolometric luminosity between 900 and 1900 days, and we obtain an approximate bolometric
+  light curve out to 4334 days by scaling the late time V-band data by a constant
+  factor where no bolometric light curve data is available. Considering the five most
+  relevant decay chains starting at 44Ti, 55Co, 56Ni, 57Ni, and 60Co, we perform a
+  least squares fit to the constructed composite bolometric light curve. For the nickel
+  isotopes, we obtain best fit values of M(56Ni) = (7.1 $\pm$ 0.3) \texttimes{} 10-2
+  M \&sun; and M(57Ni) = (4.1 \$\pm\$ 1.8) \texttimes{} 10-3 M \&sun;. Our best fit
+  44Ti mass is M(44Ti) = (0.55 \$\pm\$ 0.17) \texttimes{} 10-4 M \&sun;, which is
+  in disagreement with the much higher (3.1 \$\pm\$ 0.8) \texttimes{} 10-4 M \&sun;
+  recently derived from INTEGRAL observations. The associated uncertainties far exceed
+  the best fit values for 55Co and 60Co and, as a result, we only give upper limits
+  on the production masses of M(55Co) < 7.2 \texttimes{} 10-3 M \&sun; and M(60Co)
+  < 1.7 \texttimes{} 10-4 M \&sun;. Furthermore, we find that the leptonic channels
+  in the decay of 57Co (internal conversion and Auger electrons) are a significant
+  contribution and constitute up to 15.5\% of the total luminosity. Consideration
+  of the kinetic energy of these electrons is essential in lowering our best fit nickel
+  isotope production ratio to [57Ni/56Ni] = 2.5 \$\pm\$ 1.1, which is still somewhat
+  high but is in agreement with gamma-ray observations and model predictions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...792...10S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1408.5986
+author: Seitenzahl, I. R. and Timmes, F. X. and Magkotsios, G.
+author_list:
+- family: Seitenzahl
+  given: I. R.
+- family: Timmes
+  given: F. X.
+- family: Magkotsios
+  given: G.
+date-added: 2017-08-10 15:30:13 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/792/1/10
+eid: '10'
+eprint: '1408.5986'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, supernovae: general, supernovae:
+  individual: SN 1987A'
+month: September
+pages: '10'
+papis_id: 66897ce933f24869a935b0c7716fcbed
+primaryclass: astro-ph.SR
+ref: seitenzahl.i.2014
+title: 'The Light Curve of SN 1987A Revisited: Constraining Production Masses of Radioactive
+  Nuclides'
+type: article
+volume: '792'
+year: '2014'

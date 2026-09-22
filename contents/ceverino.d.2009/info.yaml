@@ -1,0 +1,53 @@
+abstract: 'Although supernova (SN) explosions and stellar winds happen at very small
+  scales, they affect the interstellar medium (ISM) at galactic scales and regulate
+  the formation of a whole galaxy. Previous attempts of mimicking these effects in
+  simulations of galaxy formation use very simplified assumptions. We develop a much
+  more realistic prescription for modeling the feedback, which minimizes any ad hoc
+  subgrid physics. We start with developing high-resolution models of the ISM and
+  formulate the conditions required for its realistic functionality: formation of
+  multiphase medium with hot chimneys, superbubbles, cold molecular phase, and very
+  slow consumption of gas. We find that this can be achieved only by doing what the
+  real universe does: formation of dense (>10 H atoms cm-3), cold (T \approx{} 100
+  K) molecular phase, where the star formation happens, and which young stars disrup.
+  Another important ingredient is the effect of runaway stars: massive binary stars
+  ejected from molecular clouds when one of the companions becomes an SN. Those stars
+  can move to 10-100 pc away from molecular clouds before exploding themselves as
+  SNe. This greatly facilitates the feedback. Once those effects are implemented into
+  cosmological simulations, galaxy formation proceeds more realistically. For example,
+  we do not have the overcooling problem. The angular momentum problem (resulting
+  in a too massive bulge) is also reduced substantially: the rotation curves are nearly
+  flat. The galaxy formation also becomes more violent. Just as often observed in
+  quasar absorption lines, there are substantial outflows from forming and active
+  galaxies. At high redshifts we routinely find gas with few hundred km s-1 and occasionally
+  1000-2000 km s-1. The gas has high metallicity, which may exceed the solar metallicity.
+  The temperature of the gas in the outflows and in chimneys can be very high: T =
+  107-108  K. The density profile of dark matter is still consistent with a cuspy
+  profile. The simulations reproduce this picture only if the resolution is very high:
+  better than 50 pc, which is 10 times better than the typical resolution in previous
+  cosmological simulations. Our simulations of galaxy formation reach the resolution
+  of 35 pc.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...695..292C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0712.3285
+author: Ceverino, D. and Klypin, A.
+author_list:
+- family: Ceverino
+  given: D.
+- family: Klypin
+  given: A.
+date-added: 2017-08-10 21:36:34 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/695/1/292
+eprint: '0712.3285'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: formation, hydrodynamics, ISM: general,
+  methods: N-body simulations, stars: formation'
+month: April
+pages: 292--309
+papis_id: b9709cc667d46d211d263772bc4b2685
+ref: ceverino.d.2009
+title: The Role of Stellar Feedback in the Formation of Galaxies
+type: article
+volume: '695'
+year: '2009'

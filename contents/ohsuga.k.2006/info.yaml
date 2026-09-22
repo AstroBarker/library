@@ -1,0 +1,43 @@
+abstract: 'We investigate the time evolution of luminous accretion disks around black
+  holes by conducting two-dimensional radiation-hydrodynamic simulations. We adopt
+  the alpha prescription for the viscosity. The radial-azimuthal component of the
+  viscous stress tensor is assumed to be proportional to the total pressure in the
+  optically thick region and the gas pressure in the optically thin regime. The viscosity
+  parameter, alpha, is taken to be 0.1. We find the limit-cycle variation in luminosity
+  between high and low states. When we set the mass input rate from the outer disk
+  boundary to be 100LE/c2, the luminosity suddenly rises from 0.3LE to 2LE, where
+  LE is the Eddington luminosity. It decays after retaining the high value for about
+  40 s. Our numerical results can explain the variability amplitude and duration of
+  the recurrent outbursts observed in microquasar GRS 1915+105. We show that multidimensional
+  effects play an important role in the high-luminosity state. In this state, the
+  outflow is driven by the strong radiation force, and some part of the radiation
+  energy dissipated inside the disk is swallowed by the black hole due to the photon-trapping
+  effects. This trapped luminosity is comparable to the disk luminosity. We also calculate
+  two more cases: one with a much larger accretion rate than the critical value for
+  the instability and the other with the viscous stress tensor being proportional
+  to the gas pressure only, even when the radiation pressure is dominant. We find
+  no quasi-periodic light variations in these cases. This confirms that the limit-cycle
+  behavior found in the simulations is caused by the disk instability.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..923O
+arxivurl: http://arxiv.org/abs/astro-ph/0512178
+author: Ohsuga, K.
+author_list:
+- family: Ohsuga
+  given: K.
+date-added: 2017-08-10 20:00:50 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500184
+eprint: astro-ph/0512178
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Hydrodynamics, Radiative
+  Transfer, Stars: Individual: Alphanumeric: GRS 1915+105'
+month: April
+pages: 923--928
+papis_id: 6f76fda9bfadcb0a6e6cbe5aea83e5e7
+ref: ohsuga.k.2006
+title: Two-dimensional Radiation-Hydrodynamic Model for Limit-Cycle Oscillations of
+  Luminous Accretion Disks
+type: article
+volume: '640'
+year: '2006'

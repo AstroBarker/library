@@ -1,0 +1,52 @@
+abstract: General-relativistic magnetohydrodynamic (GRMHD) simulations are an important
+  tool to study a variety of astrophysical systems such as neutron star mergers, core-collapse
+  supernovae, and accretion onto compact objects. A conservative GRMHD scheme numerically
+  evolves a set of conservation equations for ``conserved'' quantities and requires
+  the computation of certain primitive variables at every time step. This recovery
+  procedure constitutes a core part of any conservative GRMHD scheme and it is closely
+  tied to the equation of state (EOS) of the fluid. In the quest to include nuclear
+  physics, weak interactions, and neutrino physics, state-of-the-art GRMHD simulations
+  employ finite-temperature, composition-dependent EOSs. While different schemes have
+  individually been proposed, the recovery problem still remains a major source of
+  error, failure, and inefficiency in GRMHD simulations with advanced microphysics.
+  The strengths and weaknesses of the different schemes when compared to each other
+  remain unclear. Here we present the first systematic comparison of various recovery
+  schemes used in different dynamical spacetime GRMHD codes for both analytic and
+  tabulated microphysical EOSs. We assess the schemes in terms of (i) speed, (ii)
+  accuracy, and (iii) robustness. We find large variations among the different schemes
+  and that there is not a single ideal scheme. While the computationally most efficient
+  schemes are less robust, the most robust schemes are computationally less efficient.
+  More robust schemes may require an order of magnitude more calls to the EOS, which
+  are computationally expensive. We propose an optimal strategy of an efficient three-dimensional
+  Newton-Raphson scheme and a slower but more robust one-dimensional scheme as a fall-back.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...859...71S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.07538
+author: Siegel, D. M. and Mösta, P. and Desai, D. and Wu, S.
+author_list:
+- family: Siegel
+  given: D. M.
+- family: Mösta
+  given: P.
+- family: Desai
+  given: D.
+- family: Wu
+  given: S.
+date-added: 2018-08-26 21:01:54 -0400
+date-modified: 2018-08-26 21:01:56 -0400
+doi: 10.3847/1538-4357/aabcc5
+eid: '71'
+eprint: '1712.07538'
+journal: \apj
+keywords: 'equation of state, gravitation, magnetohydrodynamics: MHD, methods: numerical,
+  relativistic processes'
+month: May
+pages: '71'
+papis_id: bc2777d4ead45fb40a97a3e0774809a9
+primaryclass: astro-ph.HE
+ref: siegel.d.2018
+title: Recovery Schemes for Primitive Variables in General-relativistic Magnetohydrodynamics
+type: article
+volume: '859'
+year: '2018'

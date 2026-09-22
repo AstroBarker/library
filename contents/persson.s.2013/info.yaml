@@ -1,0 +1,64 @@
+abstract: The FourStar Infrared Camera is a 4 K \texttimes{} 4 K near-infrared (1.0-2.4
+  mu m) imager built for the Magellan 6.5 m Baade Telescope at Las Campanas Observatory,
+  Chile. FourStar has an all-refractive optical system, four HAWAII-2RG detectors,
+  and Teledyne electronics. The pixel scale of 0.159" pixel-1 produces a 10.8' \texttimes{}
+  10.8' field of view. Ten filters are available across the Y, J, H, and Ks bands.
+  We present the optical, mechanical, thermal, electronic, and software design choices
+  and their associated engineering implementations. The detector readout electronics,
+  control system, and the automatic data acquisition hardware are also described.
+  Laboratory and on-sky performance data are presented. FourStar has excellent image
+  quality, easily meeting the requirement of critically sampling the median seeing
+  disk. The throughput is \approx{}0.5-0.6 across its wavelength coverage. Some early
+  science results are presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013PASP..125..654P
+author: Persson, S. E. and Murphy, D. C. and Smee, S. and Birk, C. and Monson, A.
+  J. and Uomoto, A. and Koch, E. and Shectman, S. and Barkhouser, R. and Orndorff,
+  J. and Hammond, R. and Harding, A. and Scharfstein, G. and Kelson, D. and Marshall,
+  J. and McCarthy, P. J.
+author_list:
+- family: Persson
+  given: S. E.
+- family: Murphy
+  given: D. C.
+- family: Smee
+  given: S.
+- family: Birk
+  given: C.
+- family: Monson
+  given: A. J.
+- family: Uomoto
+  given: A.
+- family: Koch
+  given: E.
+- family: Shectman
+  given: S.
+- family: Barkhouser
+  given: R.
+- family: Orndorff
+  given: J.
+- family: Hammond
+  given: R.
+- family: Harding
+  given: A.
+- family: Scharfstein
+  given: G.
+- family: Kelson
+  given: D.
+- family: Marshall
+  given: J.
+- family: McCarthy
+  given: P. J.
+date-added: 2017-08-10 17:15:34 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1086/671164
+journal: \pasp
+month: June
+pages: '654'
+papis_id: 3a16d96d957a3d32b7bdbe9569c0a4ed
+ref: persson.s.2013
+title: 'FourStar: The Near-Infrared Imager for the 6.5 m Baade Telescope at Las Campanas
+  Observatory'
+type: article
+volume: '125'
+year: '2013'

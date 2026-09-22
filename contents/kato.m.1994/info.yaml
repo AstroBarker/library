@@ -1,0 +1,54 @@
+abstract: 'Using the OPAL opacity, we have calculated a sequence of optically thick
+  wind solutions, which mimics a time-dependent evolution of the decay phase of novae.
+  Strong winds are driven by a large peak in the OPAL opacity and, as a result, theoretical
+  timescale of nova duration is drastically shortened compared with the use of the
+  old opacity. Thus, we are able to resolve a theoretical problem of nova duration:
+  the theoretical timescale of nuclear burning for the initial envelope mass at ignition
+  is too long to reconcile with the observational durations of novae. Good quality
+  light curves are automatically obtained from the combination of the optically thick
+  wind theory and the OPAL opacity. We have compared our theoretical light curves
+  with the observations of a well-studied classical nova, Nova Cygni 1978, and found
+  that our 1.0 solar mass white dwarf model shows an excellent agreement with the
+  observations both for the visual light curves and for the ultraviolet light curves
+  and also for the expansion velocities of the envelope. These results strongly suggest
+  the validity of our steady state approach and indicate that the optically thick
+  wind really occurs on the white dwarf at least in the decay phase of the nova. In
+  other words, optically thick winds, in which the matter is accelerated deep inside
+  the photosphere, are the main acceleration mechanism in the decay phase of novae.
+  Comparison of our theoretical light curves with observational ones enables us to
+  determine the mass of the white dwarf and the distance of the star. The distance
+  to Nova Cygni 1978 is estimated to be 2.9 - 3.1 kpc with the white dwarf mass of
+  1.0 solar mass. Thus, quantitative studies of light curve fitting will be able to
+  provide/add useful information of binary parameters that have been poorly known.
+  The effects of the drag luminosity in the common envelope phase have also been estimated
+  by a one-dimensional (spherical) model. It is found that the drag luminosity is
+  as small as or smaller than 1\% of the photospheric luminosity because the density
+  of the envelope drops sharply near/outside the accelerating region of wind. Only
+  for relatively low-mass white dwarfs, the decline rate of the light curves is much
+  affected by the effects of a companion, for example, the decline rate of a 0.6 solar
+  mass white dwarf and a 0.2 solar mass companion shows a similar rate of 0.7 solar
+  mass without a companion. However, we may conclude that the accuracy of the mass
+  determination of the white dwarf is still within 0.1 solar mass.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...437..802K
+author: Kato, M. and Hachisu, I.
+author_list:
+- family: Kato
+  given: M.
+- family: Hachisu
+  given: I.
+date-added: 2017-08-10 19:44:38 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175041
+journal: \apj
+keywords: Cataclysmic Variables, Novae, Optical Thickness, Stellar Evolution, Stellar
+  Mass Ejection, Stellar Winds, White Dwarf Stars, Astronomical Models, Flux Density,
+  Light Curve, Opacity, Stellar Luminosity, Thermonuclear Reactions
+month: December
+pages: 802--826
+papis_id: 3d5f4a25cde74106ddb15d50634e76c3
+ref: kato.m.1994
+title: Optically thick winds in nova outbursts
+type: article
+volume: '437'
+year: '1994'

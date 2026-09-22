@@ -1,0 +1,35 @@
+abstract: 'CHIMERA is a multi-dimensional radiation hydrodynamics code designed to
+  study core-collapse supernovae. The code is made up of three essentially independent
+  parts: a hydrodynamics module, a nuclear burning module, and a neutrino transport
+  solver combined within an operator-split approach. We review the code''s architecture
+  and some recently improved implementations used in the code. We also briefly discuss
+  preliminary results obtained with the code in three spatial dimensions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008JPhCS.125a2010M
+author: Messer, O. E. B. and Bruenn, S. W. and Blondin, J. M. and Hix, W. R. and Mezzacappa,
+  A.
+author_list:
+- family: Messer
+  given: O. E. B.
+- family: Bruenn
+  given: S. W.
+- family: Blondin
+  given: J. M.
+- family: Hix
+  given: W. R.
+- family: Mezzacappa
+  given: A.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-11 04:45:39 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1088/1742-6596/125/1/012010
+eid: '012010'
+month: July
+pages: '012010'
+papis_id: c606c588418a00e929e66e2ab96b8320
+ref: messer.o.2008
+series: Journal of Physics Conference Series
+title: Multidimensional, multiphysics simulations of core\mdashcollapse supernovae
+type: inproceedings
+volume: '125'
+year: '2008'

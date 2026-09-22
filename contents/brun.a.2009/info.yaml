@@ -1,0 +1,45 @@
+abstract: With the development of one-dimensional stellar evolution codes including
+  rotation and the increasing number of observational data for stars of various evolutionary
+  stages, it becomes more and more possible to follow the evolution of the rotation
+  profile and angular momentum distribution in stars. In this context, understanding
+  the interplay between rotation and convection in the very extended envelopes of
+  giant stars is very important considering that all low- and intermediate-mass stars
+  become red giants after the central hydrogen burning phase. In this paper, we analyze
+  the interplay between rotation and convection in the envelope of red giant stars
+  using three-dimensional numerical experiments. We make use of the Anelastic Spherical
+  Harmonics code to simulate the inner 50\% of the envelope of a low-mass star on
+  the red giant branch. We discuss the organization and dynamics of convection, and
+  put a special emphasis on the distribution of angular momentum in such a rotating
+  extended envelope. To do so, we explore two directions of the parameter space, namely,
+  the bulk rotation rate and the Reynolds number with a series of four simulations.
+  We find that turbulent convection in red giant stars is dynamically rich, and that
+  it is particularly sensitive to the rotation rate of the star. Reynolds stresses
+  and meridional circulation establish various differential rotation profiles (either
+  cylindrical or shellular) depending on the convective Rossby number of the simulations,
+  but they all agree that the radial shear is large. Temperature fluctuations are
+  found to be large and in the slowly rotating cases, a dominant ell = 1 temperature
+  dipole influences the convective motions. Both baroclinic effects and turbulent
+  advection are strong in all cases and mostly oppose one another.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...702.1078B
+author: Brun, A. S. and Palacios, A.
+author_list:
+- family: Brun
+  given: A. S.
+- family: Palacios
+  given: A.
+date-added: 2017-08-11 03:55:14 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/702/2/1078
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: evolution, stars:
+  interiors, stars: rotation'
+month: September
+pages: 1078--1097
+papis_id: 138fd4b80bf40e693835c5aea174efc6
+ref: brun.a.2009
+title: Numerical Simulations of a Rotating Red Giant Star. I. Three-dimensional Models
+  of Turbulent Convection and Associated Mean Flows
+type: article
+volume: '702'
+year: '2009'

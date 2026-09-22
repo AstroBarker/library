@@ -1,0 +1,47 @@
+abstract: The cosmic ray current-driven (CRCD) instability, predicted by Bell, consists
+  of nonresonant, growing plasma waves driven by the electric current of cosmic rays
+  (CRs) that stream along the magnetic field ahead of both relativistic and nonrelativistic
+  shocks. Combining an analytic, kinetic model with one-, two-, and three-dimensional
+  particle-in-cell simulations, we confirm the existence of this instability in the
+  kinetic regime and determine its saturation mechanisms. In the linear regime, we
+  show that, if the background plasma is well magnetized, the CRCD waves grow exponentially
+  at the rates and wavelengths predicted by the analytic dispersion relation. The
+  magnetization condition implies that the growth rate of the instability is much
+  smaller than the ion cyclotron frequency. As the instability becomes nonlinear,
+  significant turbulence forms in the plasma. This turbulence reduces the growth rate
+  of the field and damps the shortest wavelength modes, making the dominant wavelength,
+  lambda d , grow proportional to the square of the field. At constant CR current,
+  we find that plasma acceleration along the motion of CRs saturates the instability
+  at the magnetic field level such that vA ~ v  d,cr, where vA is the Alfv{\'e}n velocity
+  in the amplified field, and v  d,cr is the drift velocity of CRs. The instability
+  can also saturate earlier if CRs get strongly deflected by the amplified field,
+  which happens when their Larmor radii get close to lambda d . We apply these results
+  to the case of CRs propagating in the upstream medium of the forward shock in supernova
+  remnants. If we consider only the most energetic CRs that escape from the shock,
+  we obtain that the field amplification factor of ~10 can be reached. This confirms
+  the CRCD instability as a potentially important component of magnetic amplification
+  process in astrophysical shock environments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694..626R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.4565
+author: Riquelme, M. A. and Spitkovsky, A.
+author_list:
+- family: Riquelme
+  given: M. A.
+- family: Spitkovsky
+  given: A.
+date-added: 2017-08-10 22:02:36 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/694/1/626
+eprint: '0810.4565'
+journal: \apj
+keywords: 'cosmic rays, ISM: jets and outflows, ISM: magnetic fields, supernova remnants'
+month: March
+pages: 626--642
+papis_id: faf7b5d6a3499205dfd07f6e88618efa
+ref: riquelme.m.2009
+title: Nonlinear Study of Bell's Cosmic Ray Current-Driven Instability
+type: article
+volume: '694'
+year: '2009'

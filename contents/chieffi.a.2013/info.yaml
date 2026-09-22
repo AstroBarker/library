@@ -1,0 +1,47 @@
+abstract: 'We present the first set of a new generation of models of massive stars
+  with a solar composition extending between 13 and 120 M \&sun;, computed with and
+  without the effects of rotation. We included two instabilities induced by rotation:
+  the meridional circulation and the shear instability. We implemented two alternative
+  schemes to treat the transport of the angular momentum: the advection-diffusion
+  formalism and the simpler purely diffusive one. The full evolution from the pre-main
+  sequence up to the pre-supernova stage is followed in detail with a very extended
+  nuclear network. The explosive yields are provided for a variety of possible mass
+  cuts and are available at the Web site http://www.iasf-roma.inaf.it/orfeo/public\_html.
+  We find that both the He and the CO core masses are larger than those of their non-rotating
+  counterparts. Also the C abundance left by the He burning is lower than in the non-rotating
+  case, especially for stars with an initial mass of 13-25 M \&sun;, and this affects
+  the final mass-radius relation, basically the final binding energy, at the pre-supernova
+  stage. The elemental yields produced by a generation of stars rotating initially
+  at 300 km s-1 do not change substantially with respect to those produced by a generation
+  of non-rotating massive stars, the main differences being a slight overproduction
+  of the weak s-component and a larger production of F. Since rotation also affects
+  the mass-loss rate, either directly or indirectly, we find substantial differences
+  in the lifetimes as O-type and Wolf-Rayet subtypes between the rotating and non-rotating
+  models. The maximum mass exploding as Type IIP supernova ranges between 15 and 20
+  M \&sun; in both sets of models (this value depends basically on the larger mass-loss
+  rates in the red supergiant phase due to the inclusion of the dust-driven wind).
+  This limiting value is in remarkably good agreement with current estimates.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764...21C
+author: Chieffi, A. and Limongi, M.
+author_list:
+- family: Chieffi
+  given: A.
+- family: Limongi
+  given: M.
+date-added: 2017-08-10 15:05:35 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/1/21
+eid: '21'
+journal: \apj
+keywords: 'stars: evolution, stars: interiors, stars: massive, stars: rotation, supernovae:
+  general'
+month: February
+pages: '21'
+papis_id: 90acdbbf01dfdb1dc92a90a5456bc084
+ref: chieffi.a.2013
+title: Pre-supernova Evolution of Rotating Solar Metallicity Stars in the Mass Range
+  13-120 M $_&sun;$ and their Explosive Yields
+type: article
+volume: '764'
+year: '2013'

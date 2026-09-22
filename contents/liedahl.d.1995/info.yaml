@@ -1,0 +1,35 @@
+abstract: The predictions of the standard plasma emission codes are inconsistent with
+  spectroscopic data acquired during the ASCA performance verification phase. The
+  discrepancies are evident in the 0.7-1.5 keV spectral range, the domain of n approaches
+  2 (L-shell) transitions in highly ionized Fe species. We have recalculated Fe L-shell
+  spectra using the HULLAC atomic physics package and find that an update of the Fe
+  data used in the current generation of emission line codes is warranted. We present
+  here a synopsis of our results for the charge states Fe XXIII and Fe XXIV. These
+  results are relevant to the interpretation of spectroscopic data from stellar coronae,
+  supernova remnants, and galaxy clusters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...438L.115L
+author: Liedahl, D. A. and Osterheld, A. L. and Goldstein, W. H.
+author_list:
+- family: Liedahl
+  given: D. A.
+- family: Osterheld
+  given: A. L.
+- family: Goldstein
+  given: W. H.
+date-added: 2017-08-10 21:31:47 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/187729
+journal: \apjl
+keywords: Atomic Energy Levels, Atomic Interactions, Atomic Spectra, Computational
+  Astrophysics, High Temperature Plasmas, Plasma Spectra, X Ray Spectra, Computer
+  Programs, Line Spectra, Mathematical Models, Spectroscopy, Spectrum Analysis, Stellar
+  Models
+month: January
+pages: L115-L118
+papis_id: 2c8e18dcb6804009f8c4d0214dcf52a9
+ref: liedahl.d.1995
+title: New calculations of Fe L-shell X-ray spectra in high-temperature plasmas
+type: article
+volume: '438'
+year: '1995'

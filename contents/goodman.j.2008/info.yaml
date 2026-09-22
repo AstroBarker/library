@@ -1,0 +1,35 @@
+abstract: Geometrical shock dynamics, also called CCW theory, yields approximate equations
+  for shock propagation in which only the conditions at the shock appear explicitly;
+  the post-shock flow is presumed approximately uniform and enters implicitly via
+  a Riemann invariant. The non-relativistic theory, formulated by G. B. Whitham and
+  others, matches many experimental results surprisingly well. Motivated by astrophysical
+  applications, we adapt the theory to ultra-relativistic shocks advancing into an
+  ideal fluid whose pressure is negligible ahead of the shock, but is one third of
+  its proper energy density behind the shock. Exact results are recovered for some
+  self-similar cylindrical and spherical shocks with power-law pre-shock density profiles.
+  Comparison is made with numerical solutions of the full hydrodynamic equations.
+  We review relativistic vorticity and circulation. In an ultra-relativistic ideal
+  fluid, circulation can be defined so that it changes only at shocks, notwithstanding
+  entropy gradients in smooth parts of the flow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008JFM...604..325G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.1818
+author: Goodman, J. and MacFadyen, A.
+author_list:
+- family: Goodman
+  given: J.
+- family: MacFadyen
+  given: A.
+date-added: 2017-08-11 02:12:24 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1017/S0022112008001249
+eprint: '0706.1818'
+journal: Journal of Fluid Mechanics
+pages: 325--338
+papis_id: 68df81b5bfa60f11b5efe04b4f718ce4
+ref: goodman.j.2008
+title: Ultra-relativistic geometrical shock dynamics and vorticity
+type: article
+volume: '604'
+year: '2008'

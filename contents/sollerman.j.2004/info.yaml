@@ -1,0 +1,70 @@
+abstract: We have conducted a systematic and comprehensive monitoring programme of
+  the type Ia supernova 2000cx at late phases using the VLT and HST. The VLT observations
+  cover phases 360 to 480 days past maximum brightness and include photometry in the
+  BVRIJH bands, together with a single epoch in each of U and K\_s. While the optical
+  bands decay by about 1.4 mag per 100 days, we find that the near-IR magnitudes stay
+  virtually constant during the observed period. This means that the importance of
+  the near-IR to the bolometric light curve increases with time. The finding is also
+  in agreement with our detailed modeling of a type Ia supernova in the nebular phase.
+  In these models, the increased importance of the near-IR is a temperature effect.
+  We note that this complicates late-time studies where often only the V band is well
+  monitored. In particular, it is not correct to assume that any optical band follows
+  the bolometric light curve at these phases, and any conclusions based on such assumptions,
+  e.g., regarding positron-escape, must be regarded as premature. A very simple model
+  where all positrons are trapped can reasonably well account for the observations.
+  The nickel mass deduced from the positron tail of this light curve is lower than
+  found from the peak brightness, providing an estimate of the fraction of late-time
+  emission that is outside of the observed wavelength range. Our detailed models show
+  the signature of an infrared catastrophe at these epochs, which is not supported
+  by the observations.  Based on observations collected at the European Southern Observatory,
+  Paranal, Chile (ESO Programmes 67.D-0134 and 68.D-0114). Also based in part on observations
+  with the NASA/ESA Hubble Space Telescope.  These HST observations are associated
+  with proposals GO-8602 and GO-9114.i  Tables \ref{t1}, \ref{t2}, \ref{t4} and \ref{t5}
+  are only available in electronic form at http://www.edpsciences.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...428..555S
+arxivurl: http://arxiv.org/abs/astro-ph/0409338
+author: Sollerman, J. and Lindahl, J. and Kozma, C. and Challis, P. and Filippenko,
+  A. V. and Fransson, C. and Garnavich, P. M. and Leibundgut, B. and Li, W. and Lundqvist,
+  P. and Milne, P. and Spyromilio, J. and Kirshner, R. P.
+author_list:
+- family: Sollerman
+  given: J.
+- family: Lindahl
+  given: J.
+- family: Kozma
+  given: C.
+- family: Challis
+  given: P.
+- family: Filippenko
+  given: A. V.
+- family: Fransson
+  given: C.
+- family: Garnavich
+  given: P. M.
+- family: Leibundgut
+  given: B.
+- family: Li
+  given: W.
+- family: Lundqvist
+  given: P.
+- family: Milne
+  given: P.
+- family: Spyromilio
+  given: J.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-10 21:17:31 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1051/0004-6361:20041320
+eprint: astro-ph/0409338
+journal: \aap
+keywords: 'stars: supernovae: general, stars: supernovae: individual: SN 2000cx'
+month: December
+pages: 555--568
+papis_id: d54086846dd18d8047bc40d455d94bb4
+ref: sollerman.j.2004
+title: The late-time light curve of the type Ia supernova 2000cx
+type: article
+volume: '428'
+year: '2004'

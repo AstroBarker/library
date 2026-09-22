@@ -1,0 +1,60 @@
+abstract: The last decade of observational and theoretical developments in stellar
+  and binary evolution provides an opportunity to incorporate major improvements to
+  the predictions from population synthesis models. We compute the Galactic merger
+  rates for NS-NS, BH-NS, and BH-BH mergers with the StarTrack code. The most important
+  revisions include updated wind mass-loss rates (allowing for stellar-mass black
+  holes up to 80 M \&sun;), a realistic treatment of the common envelope phase (a
+  process that can affect merger rates by 2-3 orders of magnitude), and a qualitatively
+  new neutron star/black hole mass distribution (consistent with the observed "mass
+  gap"). Our findings include the following. (1) The binding energy of the envelope
+  plays a pivotal role in determining whether a binary merges within a Hubble time.
+  (2) Our description of natal kicks from supernovae plays an important role, especially
+  for the formation of BH-BH systems. (3) The masses of BH-BH systems can be substantially
+  increased in the case of low metallicities or weak winds. (4) Certain combinations
+  of parameters underpredict the Galactic NS-NS merger rate and can be ruled out.
+  (5) Models incorporating delayed supernovae do not agree with the observed NS/BH
+  "mass gap," in accordance with our previous work. This is the first in a series
+  of three papers. The second paper will study the merger rates of double compact
+  objects as a function of redshift, star formation rate, and metallicity. In the
+  third paper, we will present the detection rates for gravitational-wave observatories,
+  using up-to-date signal waveforms and sensitivity curves.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759...52D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.4901
+author: Dominik, M. and Belczynski, K. and Fryer, C. and Holz, D. E. and Berti, E.
+  and Bulik, T. and Mandel, I. and O'Shaughnessy, R.
+author_list:
+- family: Dominik
+  given: M.
+- family: Belczynski
+  given: K.
+- family: Fryer
+  given: C.
+- family: Holz
+  given: D. E.
+- family: Berti
+  given: E.
+- family: Bulik
+  given: T.
+- family: Mandel
+  given: I.
+- family: O'Shaughnessy
+  given: R.
+date-added: 2017-08-10 18:00:39 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/1/52
+eid: '52'
+eprint: '1202.4901'
+journal: \apj
+keywords: 'binaries: general, black hole physics, stars: evolution, stars: neutron'
+month: November
+pages: '52'
+papis_id: 070b73a57691ec9e3d6bdc19601b2556
+primaryclass: astro-ph.HE
+ref: dominik.m.2012
+title: Double Compact Objects. I. The Significance of the Common Envelope on Merger
+  Rates
+type: article
+volume: '759'
+year: '2012'

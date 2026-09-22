@@ -1,0 +1,49 @@
+abstract: We investigate the possibility approximating relativistic effects in hydrodynamical
+  simulations of stellar core collapse and post-bounce evolution by using a modified
+  gravitational potential in an otherwise standard Newtonian hydrodynamic code. Different
+  modifications of a previously introduced effective relativistic potential are discussed.
+  Corresponding hydrostatic solutions are compared with solutions of the TOV equations,
+  and hydrodynamic simulations with two different codes are compared with fully relativistic
+  results. One code is applied for one- and two-dimensional calculations with a simple
+  equation of state, and employs either the modified effective relativistic potential
+  in a Newtonian framework or solves the general relativistic field equations under
+  the assumption of the conformal flatness condition (CFC) for the three-metric. The
+  second code allows for full-scale supernova runs including a microphysical equation
+  of state and neutrino transport based on the solution of the Boltzmann equation
+  and its moments equations. We present prescriptions for the effective relativistic
+  potential for self-gravitating fluids to be used in Newtonian codes, which produce
+  excellent agreement with fully relativistic solutions in spherical symmetry, leading
+  to significant improvements compared to previously published approximations. Moreover,
+  they also approximate qualitatively well relativistic solutions for models with
+  rotation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...445..273M
+arxivurl: http://arxiv.org/abs/astro-ph/0502161
+author: Marek, A. and Dimmelmeier, H. and Janka, H.-T. and Müller, E. and Buras, R.
+author_list:
+- family: Marek
+  given: A.
+- family: Dimmelmeier
+  given: H.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+- family: Buras
+  given: R.
+date-added: 2017-08-10 14:35:08 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1051/0004-6361:20052840
+eprint: astro-ph/0502161
+journal: \aap
+keywords: 'gravitation, hydrodynamics, methods: numerical, relativity, stars: supernovae:
+  general'
+month: January
+pages: 273--289
+papis_id: effd60828c2a4b31b39d2125544e7084
+ref: marek.a.2006
+title: 'Exploring the relativistic regime with Newtonian hydrodynamics: an improved
+  effective gravitational potential for supernova simulations'
+type: article
+volume: '445'
+year: '2006'

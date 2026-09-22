@@ -1,0 +1,45 @@
+abstract: We solve for the evolution of the vertical extent of the convective region
+  of a neutron star atmosphere during a type I X-ray burst. The convective region
+  is well mixed with ashes of nuclear burning, and its extent determines the rise
+  time of the burst light curve. Using a full nuclear reaction network, we show that
+  the maximum vertical extent of the convective region during photospheric radius
+  expansion (RE) bursts can be sufficiently great that (1) some ashes of burning are
+  ejected by the radiation-driven wind during the RE phase and (2) some ashes of burning
+  are exposed at the neutron star surface following the RE phase. We find that ashes
+  with mass numbers in the range A~30-60 are mixed in with the ejected material. We
+  calculate the expected column density of ejected and surface ashes in hydrogen-like
+  states and determine the equivalent widths of the resulting photoionization edges
+  from both the wind and the neutron star surface. We find that these can exceed 100
+  eV and are potentially detectable. A detection would probe the nuclear burning processes
+  and might enable a measurement of the gravitational redshift of the neutron star.
+  In addition, we find that in bursts with pure helium burning layers, protons from
+  (alpha, p) reactions cause a rapid onset of the 12C(p, gamma)13N(alpha, p)16O reaction
+  sequence. The sequence bypasses the relatively slow 12C(alpha, gamma)16O reaction
+  and leads to a sudden surge in energy production that is directly observable as
+  a rapid (~millisecond) increase in flux during burst rise.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...639.1018W
+arxivurl: http://arxiv.org/abs/astro-ph/0511247
+author: Weinberg, N. N. and Bildsten, L. and Schatz, H.
+author_list:
+- family: Weinberg
+  given: N. N.
+- family: Bildsten
+  given: L.
+- family: Schatz
+  given: H.
+date-added: 2017-08-11 04:15:36 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/499426
+eprint: astro-ph/0511247
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Neutron, X-Rays: Bursts'
+month: March
+pages: 1018--1032
+papis_id: b4dd170cf601996077208d557dcb51b0
+ref: weinberg.n.2006
+title: Exposing the Nuclear Burning Ashes of Radius Expansion Type I X-Ray Bursts
+type: article
+volume: '639'
+year: '2006'

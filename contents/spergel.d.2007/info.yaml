@@ -1,0 +1,102 @@
+abstract: 'A simple cosmological model with only six parameters (matter density, Omegamh2,
+  baryon density, Omegabh2, Hubble constant, H0, amplitude of fluctuations, sigma8,
+  optical depth, tau, and a slope for the scalar perturbation spectrum, ns) fits not
+  only the 3 year WMAP temperature and polarization data, but also small-scale CMB
+  data, light element abundances, large-scale structure observations, and the supernova
+  luminosity/distance relationship. Using WMAP data only, the best-fit values for
+  cosmological parameters for the power-law flat Lambda cold dark matter (LambdaCDM)
+  model are (Omegamh2,Omegabh2,h,ns,tau,sigma8)=(0.1277+0.0080-0.0079,0.02229+/-0.00073,0.732+0.031-0.032,0.958+/-0.016,0.089+/-0.030,0.761+0.049-0.048).
+  The 3 year data dramatically shrink the allowed volume in this six-dimensional parameter
+  space. Assuming that the primordial fluctuations are adiabatic with a power-law
+  spectrum, the WMAP data alone require dark matter and favor a spectral index that
+  is significantly less than the Harrison-Zel''dovich-Peebles scale-invariant spectrum
+  (ns=1, r=0). Adding additional data sets improves the constraints on these components
+  and the spectral slope. For power-law models, WMAP data alone puts an improved upper
+  limit on the tensor-to-scalar ratio, r0.002<0.65 (95\% CL) and the combination of
+  WMAP and the lensing-normalized SDSS galaxy survey implies r0.002<0.30 (95\% CL).
+  Models that suppress large-scale power through a running spectral index or a large-scale
+  cutoff in the power spectrum are a better fit to the WMAP and small-scale CMB data
+  than the power-law LambdaCDM model; however, the improvement in the fit to the WMAP
+  data is only Deltachi2=3 for 1 extra degree of freedom. Models with a running-spectral
+  index are consistent with a higher amplitude of gravity waves. In a flat universe,
+  the combination of WMAP and the Supernova Legacy Survey (SNLS) data yields a significant
+  constraint on the equation of state of the dark energy, w=-0.967+0.073-0.072. If
+  we assume w=-1, then the deviations from the critical density, OmegaK, are small:
+  the combination of WMAP and the SNLS data implies Omegak=-0.011+/-0.012. The combination
+  of WMAP 3 year data plus the HST Key Project constraint on H0 implies Omegak=-0.014+/-0.017
+  and OmegaLambda=0.716+/-0.055. Even if we do not include the prior that the universe
+  is flat, by combining WMAP, large-scale structure, and supernova data, we can still
+  put a strong constraint on the dark energy equation of state, w=-1.08+/-0.12. For
+  a flat universe, the combination of WMAP and other astronomical data yield a constraint
+  on the sum of the neutrino masses, Sigmamnu<0.66 eV (95\%CL). Consistent with the
+  predictions of simple inflationary theories, we detect no significant deviations
+  from Gaussianity in the CMB maps using Minkowski functionals, the bispectrum, trispectrum,
+  and a new statistic designed to detect large-scale anisotropies in the fluctuations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..170..377S
+arxivurl: http://arxiv.org/abs/astro-ph/0603449
+author: Spergel, D. N. and Bean, R. and Doré, O. and Nolta, M. R. and Bennett, C.
+  L. and Dunkley, J. and Hinshaw, G. and Jarosik, N. and Komatsu, E. and Page, L.
+  and Peiris, H. V. and Verde, L. and Halpern, M. and Hill, R. S. and Kogut, A. and
+  Limon, M. and Meyer, S. S. and Odegard, N. and Tucker, G. S. and Weiland, J. L.
+  and Wollack, E. and Wright, E. L.
+author_list:
+- family: Spergel
+  given: D. N.
+- family: Bean
+  given: R.
+- family: Doré
+  given: O.
+- family: Nolta
+  given: M. R.
+- family: Bennett
+  given: C. L.
+- family: Dunkley
+  given: J.
+- family: Hinshaw
+  given: G.
+- family: Jarosik
+  given: N.
+- family: Komatsu
+  given: E.
+- family: Page
+  given: L.
+- family: Peiris
+  given: H. V.
+- family: Verde
+  given: L.
+- family: Halpern
+  given: M.
+- family: Hill
+  given: R. S.
+- family: Kogut
+  given: A.
+- family: Limon
+  given: M.
+- family: Meyer
+  given: S. S.
+- family: Odegard
+  given: N.
+- family: Tucker
+  given: G. S.
+- family: Weiland
+  given: J. L.
+- family: Wollack
+  given: E.
+- family: Wright
+  given: E. L.
+date-added: 2017-08-10 16:04:40 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/513700
+eprint: astro-ph/0603449
+journal: \apjs
+keywords: 'Cosmology: Cosmic Microwave Background, Cosmology: Observations'
+month: June
+pages: 377--408
+papis_id: 66803acb0b3f3dc1c2cf43a869411aaf
+ref: spergel.d.2007
+title: 'Three-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Implications
+  for Cosmology'
+type: article
+volume: '170'
+year: '2007'

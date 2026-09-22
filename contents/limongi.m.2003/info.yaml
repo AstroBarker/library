@@ -1,0 +1,47 @@
+abstract: 'We present a new set of presupernova evolutions and explosive yields of
+  massive stars of initial solar composition (Y=0.285, Z=0.02) in the mass range 13-35
+  Msolar. All the models have been computed with the latest version (4.97) of the
+  FRANEC code that now includes a nuclear network extending from neutrons to 98Mo.
+  The explosive nucleosynthesis has been computed twice: a first one with a hydro
+  code and a second one following the simpler radiation-dominated shock approximation
+  (RDA). The main results concerning the models and the associated explosions are
+  as follows: (1) the inclusion of the latest available input physics does not alter
+  significantly the main properties of the presupernova models with respect to our
+  previous ones; (2) the differences between the old and new explosive yields computed
+  with the RDA remain confined within a factor of 2 for most of the nuclei; (3) the
+  differences between the elemental RDA yields and those computed with a hydro code
+  do not exceed 0.1 dex, with the exceptions of the elements produced mainly by the
+  complete explosive Si burning: in this case the variations are anyway less than
+  a factor of 3; (4) the relation between the final kinetic energy and the 56Ni ejected
+  weakens as the mass of the progenitor star increases; (5) the yields corresponding
+  to the ejection of a given amount of 56Ni are in fair agreement with those obtained
+  by a more energetic explosion in which the mass cut is chosen in order to give the
+  same 56Ni. The production factors (integrated over a Salpeter mass function between
+  13 and 35 Msolar) of the majority of the isotopes show an almost scaled solar distribution
+  relative to oxygen. The few exceptions are discussed in detail. We also find that
+  the present integrated yields allow a fraction of the order of 10\%-20\% of Type
+  Ia supernovae if their latest available yields are adopted.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...592..404L
+arxivurl: http://arxiv.org/abs/astro-ph/0304185
+author: Limongi, M. and Chieffi, A.
+author_list:
+- family: Limongi
+  given: M.
+- family: Chieffi
+  given: A.
+date-added: 2017-08-11 00:36:16 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/375703
+eprint: astro-ph/0304185
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution, Stars:
+  Interiors, Stars: Supernovae: General'
+month: July
+pages: 404--433
+papis_id: c0feee0a4591ea842896cc7bb39ddf59
+ref: limongi.m.2003
+title: Evolution, Explosion, and Nucleosynthesis of Core-Collapse Supernovae
+type: article
+volume: '592'
+year: '2003'

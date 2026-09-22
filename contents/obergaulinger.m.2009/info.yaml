@@ -1,0 +1,62 @@
+abstract: 'Context: Possible effects of magnetic fields in core collapse supernovae
+  rely on an efficient amplification of the weak pre-collapse fields. It has been
+  suggested that the magneto-rotational instability (MRI) leads to a rapid growth
+  for these weak seed fields. Although plenty of MRI studies exist for accretion disks,
+  the application of their results to core collapse supernovae is inhibited as the
+  physics of supernova cores is substantially different from that of accretion discs.   Aims:
+  We address the problem of growth and saturation of the MRI in core collapse supernovae
+  by studying its evolution by means of semi-global simulations, which combine elements
+  of global and local simulations by taking the presence of global background gradients
+  into account and using a local computational grid. We investigate, in particular,
+  the termination of the growth of the MRI and the properties of the turbulence in
+  the saturated state.  Methods: We analyze the dispersion relation of the MRI to
+  identify different regimes of the instability. This analysis is complemented by
+  semi-global ideal MHD simulations, where we consider core matter in a local computational
+  box (size \texttildelow{} 1 km) rotating at sub-Keplerian velocity and where we
+  allow for the presence of a radial entropy gradient, but neglect neutrino radiation.
+  Results: We identify six regimes of the MRI depending on the ratio of the entropy
+  and angular velocity gradient. Our numerical models confirm the instability criteria
+  and growth rates for all regimes relevant to core-collapse supernovae. The MRI grows
+  exponentially on time scales of milliseconds, the flow and magnetic field geometries
+  being dominated by channel flows. We find MHD turbulence and efficient transport
+  of angular momentum. The MRI growth ceases once the channels are disrupted by resistive
+  instabilities (stemming from to the finite conductivity of the numerical code),
+  and MHD turbulence sets in. From an analysis of the growth rates of the resistive
+  instabilities, we deduce scaling laws for the termination amplitude of the MRI,
+  which agree well with our numerical models. We determine the dependence of the development
+  of large-scale coherent flow structures in the saturated state on the aspect ratio
+  of the simulation boxes.   Conclusions: The MRI can grow rapidly under the conditions
+  considered here, i.e., a rapidly rotating core in hydrostatic equilibrium, possibly
+  endowed with a nonvanishing entropy gradient, leading to fields exceeding 1015~G.
+  More investigations are required to cover the parameter space more comprehensively
+  and to include more physical effects.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...498..241O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.1652
+author: Obergaulinger, M. and Cerdá-Durán, P. and Müller, E. and Aloy, M. A.
+author_list:
+- family: Obergaulinger
+  given: M.
+- family: Cerdá-Durán
+  given: P.
+- family: Müller
+  given: E.
+- family: Aloy
+  given: M. A.
+date-added: 2017-08-10 16:19:01 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1051/0004-6361/200811323
+eprint: '0811.1652'
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), instabilities, stars: supernovae: general,
+  stars: magnetic fields'
+month: April
+pages: 241--271
+papis_id: 394b2e626efc77f2785476c98426d2a7
+ref: obergaulinger.m.2009
+title: Semi-global simulations of the magneto-rotational instability in core collapse
+  supernovae
+type: article
+volume: '498'
+year: '2009'

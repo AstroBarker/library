@@ -1,0 +1,74 @@
+abstract: We have performed two-dimensional simulations of core collapse supernovae
+  that encompass shock revival by neutrino heating, neutrino-driven convection, explosive
+  nucleosynthesis, the growth of Rayleigh-Taylor instabilities, and the propagation
+  of newly formed metal clumps through the exploding star. A simulation of a type
+  II explosion in a 15 Msun blue supergiant progenitor is presented, that confirms
+  our earlier type II models and extends their validity to times as late as 5.5 hours
+  after core bounce. We also study a type Ib-like explosion, by simply removing the
+  hydrogen envelope of the progenitor model. This allows for a first comparison of
+  type II and type Ib evolution. We present evidence that the hydrodynamics of core
+  collapse supernovae beyond shock revival differs markedly from the results of simulations
+  that have followed the Rayleigh-Taylor mixing starting from ad hoc energy deposition
+  schemes to initiate the explosion. We find iron group elements to be synthesized
+  in an anisotropic, dense, low-entropy shell that expands with velocities of  ~  17
+  000 km s-1 shortly after shock revival. The growth of Rayleigh-Taylor instabilities
+  at the Si/O and (C+O)/He composition interfaces of the progenitor, seeded by the
+  flow-structures resulting from neutrino-driven convection, leads to a fragmentation
+  of this shell into metal-rich ``clumps''. This fragmentation starts already  ~  20
+  s after core bounce and is complete within the first few minutes of the explosion.
+  During this time the clumps are slowed down by drag, and by the positive pressure
+  gradient in the unstable layers. However, at t ~ 300 s they decouple from the flow
+  and start to propagate ballistically and subsonically through the He core, with
+  the maximum velocities of metals remaining constant at  ~ 3500 - 5500 km s-1. This
+  early ``clump decoupling'' leads to significantly higher 56Ni velocities at t =
+  300 s than in one-dimensional models of the explosion, demonstrating that multi-dimensional
+  effects which are at work within the first minutes, and which have been neglected
+  in previous studies (especially in those which dealt with the mixing in type II
+  supernovae), are crucial. Despite comparably high initial maximum nickel velocities
+  in both our type II and our type Ib-like model, we find that there are large differences
+  in the final maximum nickel velocities between both cases. In the ``type Ib'' model
+  the maximum velocities of metals remain frozen in at  ~  3500 - 5500 km s-1 for
+  t >= 300 s, while in the type II model they drop significantly for t > 1500 s. In
+  the latter case, the massive hydrogen envelope of the progenitor forces the supernova
+  shock to slow down strongly, leaving behind a reverse shock and a dense helium shell
+  (or ``wall'') below the He/H interface. After penetrating into this dense material
+  the metal-rich clumps possess supersonic speeds, before they are slowed down by
+  drag forces to  ~  1200 km s-1 at a time of 20 000 s post-bounce. While, due to
+  this deceleration, the maximum velocities of iron-group elements in SN 1987 A cannot
+  be reproduced in case of the considered 15 Msun progenitor, the ``type Ib'' model
+  is in fairly good agreement with observed clump velocities and the amount of mixing
+  inferred for type Ib supernovae. Thus it appears promising for calculations of synthetic
+  spectra and light curves. Furthermore, our simulations indicate that for type Ib
+  explosions the pattern of clump formation in the ejecta is correlated with the structure
+  of the convective pattern prevailing during the shock-revival phase. This might
+  be used to deduce observational constraints for the dynamics during this early phase
+  of the evolution, and the role of neutrino heating in initiating the explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...408..621K
+arxivurl: http://arxiv.org/abs/astro-ph/0302239
+author: Kifonidis, K. and Plewa, T. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Kifonidis
+  given: K.
+- family: Plewa
+  given: T.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 14:32:25 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1051/0004-6361:20030863
+eprint: astro-ph/0302239
+journal: \aap
+keywords: 'hydrodynamics, instabilities, nuclear reactions, nucleosynthesis abundances,
+  shock waves, stars: supernovae: general'
+month: September
+pages: 621--649
+papis_id: c0726b8928bb57c95e21781ca321f54d
+ref: kifonidis.k.2003
+title: Non-spherical core collapse supernovae. I. Neutrino-driven convection, Rayleigh-Taylor
+  instabilities, and the formation and propagation of metal clumps
+type: article
+volume: '408'
+year: '2003'

@@ -1,0 +1,51 @@
+abstract: In this paper we present a new mechanism for core-collapse supernova explosions
+  that relies on acoustic power generated in the inner core as the driver. In our
+  simulation using an 11 Msolar progenitor, an advective-acoustic oscillation {\`a}
+  la Foglizzo with a period of ~25-30 ms arises ~200 ms after bounce. Its growth saturates
+  due to the generation of secondary shocks, and kinks in the resulting shock structure
+  funnel and regulate subsequent accretion onto the inner core. However, this instability
+  is not the primary agent of explosion. Rather, it is the acoustic power generated
+  early on in the inner turbulent region stirred by the accretion plumes and, most
+  importantly, but later on, by the excitation and sonic damping of core g-mode oscillations.
+  An l=1 mode with a period of ~3 ms grows at late times to be prominent around ~500
+  ms after bounce. The accreting proto-neutron star is a self-excited oscillator,
+  ``tuned'' to the most easily excited core g-mode. The associated acoustic power
+  seen in our 11 Msolar simulation is sufficient to drive the explosion >550 ms after
+  bounce. The angular distribution of the emitted sound is fundamentally aspherical.
+  The sound pulses radiated from the core steepen into shock waves that merge as they
+  propagate into the outer mantle and deposit their energy and momentum with high
+  efficiency. The ultimate source of the acoustic power is the gravitational energy
+  of infall, and the core oscillation acts like a transducer to convert this accretion
+  energy into sound. An advantage of the acoustic mechanism is that acoustic power
+  does not abate until accretion subsides, so that it is available as long as it may
+  be needed to explode the star. This suggests a natural means by which the supernova
+  is self-regulating.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..878B
+arxivurl: http://arxiv.org/abs/astro-ph/0510687
+author: Burrows, A. and Livne, E. and Dessart, L. and Ott, C. D. and Murphy, J.
+author_list:
+- family: Burrows
+  given: A.
+- family: Livne
+  given: E.
+- family: Dessart
+  given: L.
+- family: Ott
+  given: C. D.
+- family: Murphy
+  given: J.
+date-added: 2017-08-10 18:54:13 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500174
+eprint: astro-ph/0510687
+journal: \apj
+keywords: 'Hydrodynamics, Neutrinos, Stars: Oscillations, Stars: Supernovae: General'
+month: April
+pages: 878--890
+papis_id: 5abca0178a8ff94a961e50c5d0bde25d
+ref: burrows.a.2006
+title: A New Mechanism for Core-Collapse Supernova Explosions
+type: article
+volume: '640'
+year: '2006'

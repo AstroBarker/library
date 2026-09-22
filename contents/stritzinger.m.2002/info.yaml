@@ -1,0 +1,76 @@
+abstract: We present UBVRIz light curves of the Type Ia SN 1999ee and the Type Ib/c
+  SN 1999ex, both located in the galaxy IC 5179. SN 1999ee has an extremely well-sampled
+  light curve spanning from 10 days before Bmax through 53 days after peak. Near maximum,
+  we find systematic differences of ~0.05 mag in photometry measured with two different
+  telescopes, even though the photometry is reduced to the same local standards around
+  the supernova using the specific color terms for each instrumental system. We use
+  models for our bandpasses and spectrophotometry of SN 1999ee to derive magnitude
+  corrections (S-corrections) and remedy this problem. This exercise demonstrates
+  the need of accurately characterizing the instrumental system before great photometric
+  accuracies of Type Ia supernovae can be claimed. It also shows that this effect
+  can have important astrophysical consequences, since a small systematic shift of
+  0.02 mag in the B-V color can introduce a 0.08 mag error in the extinction-corrected
+  peak B magnitude of a supernova and thus lead to biased cosmological parameters.
+  The data for the Type Ib/c SN 1999ex present us with the first ever observed shock
+  breakout of a supernova of this class. These observations show that shock breakout
+  occurred 18 days before Bmax and support the idea that Type Ib/c supernovae are
+  due to the core collapse of massive stars rather than thermonuclear disruption of
+  white dwarfs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....124.2100S
+arxivurl: http://arxiv.org/abs/astro-ph/0206438
+author: Stritzinger, M. and Hamuy, M. and Suntzeff, N. B. and Smith, R. C. and Phillips,
+  M. M. and Maza, J. and Strolger, L.-G. and Antezana, R. and González, L. and Wischnjewsky,
+  M. and Candia, P. and Espinoza, J. and González, D. and Stubbs, C. and Becker, A.
+  C. and Rubenstein, E. P. and Galaz, G.
+author_list:
+- family: Stritzinger
+  given: M.
+- family: Hamuy
+  given: M.
+- family: Suntzeff
+  given: N. B.
+- family: Smith
+  given: R. C.
+- family: Phillips
+  given: M. M.
+- family: Maza
+  given: J.
+- family: Strolger
+  given: L.-G.
+- family: Antezana
+  given: R.
+- family: González
+  given: L.
+- family: Wischnjewsky
+  given: M.
+- family: Candia
+  given: P.
+- family: Espinoza
+  given: J.
+- family: González
+  given: D.
+- family: Stubbs
+  given: C.
+- family: Becker
+  given: A. C.
+- family: Rubenstein
+  given: E. P.
+- family: Galaz
+  given: G.
+date-added: 2017-08-10 23:39:25 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342544
+eprint: astro-ph/0206438
+journal: \aj
+keywords: 'Stars: Supernovae: Individual: Alphanumeric: SN 1999ee, Stars: Supernovae:
+  Individual: Alphanumeric: SN 1999ex, Techniques: Photometric'
+month: October
+pages: 2100--2117
+papis_id: 5dee36a4bc6d76c21197483f0b7f7040
+ref: stritzinger.m.2002
+title: Optical Photometry of the Type Ia Supernova 1999ee and the Type Ib/c Supernova
+  1999ex in IC 5179
+type: article
+volume: '124'
+year: '2002'

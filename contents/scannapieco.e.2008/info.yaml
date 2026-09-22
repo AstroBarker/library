@@ -1,0 +1,42 @@
+abstract: Hot, underdense bubbles powered by active galactic nuclei (AGNs) are likely
+  to play a key role in halting catastrophic cooling in the centers of cool-core galaxy
+  clusters. We present three-dimensional simulations that capture the evolution of
+  such bubbles, using an adaptive mesh hydrodynamic code, FLASH3, to which we have
+  added a subgrid model of turbulence and mixing. While pure hydro simulations indicate
+  that AGN bubbles are disrupted into resolution-dependent pockets of underdense gas,
+  proper modeling of subgrid turbulence indicates that this is a poor approximation
+  to a turbulent cascade that continues far beyond the resolution limit. Instead,
+  Rayleigh-Taylor instabilities act to effectively mix the heated region with its
+  surroundings, while at the same time preserving it as a coherent structure, consistent
+  with observations. Thus, bubbles are transformed into hot clouds of mixed material
+  as they move outward in the hydrostatic intracluster medium (ICM), much as large
+  airbursts lead to a distinctive "mushroom cloud" structure as they rise in the hydrostatic
+  atmosphere of Earth. Properly capturing the evolution of such clouds has important
+  implications for many ICM properties. In particular, it significantly changes the
+  impact of AGNs on the distribution of entropy and metals in cool-core clusters such
+  as Perseus.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...686..927S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.3268
+author: Scannapieco, E. and Brüggen, M.
+author_list:
+- family: Scannapieco
+  given: E.
+- family: Brüggen
+  given: M.
+date-added: 2017-08-10 15:36:26 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/591228
+eid: 927-947
+eprint: '0806.3268'
+journal: \apj
+keywords: 'cooling flows, hydrodynamics, X-rays: galaxies: clusters'
+month: October
+pages: 927--947
+papis_id: 8af9658b89eb62f308e90168fb17619a
+ref: scannapieco.e.2008
+title: Subgrid Modeling of AGN-driven Turbulence in Galaxy Clusters
+type: article
+volume: '686'
+year: '2008'

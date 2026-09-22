@@ -1,0 +1,32 @@
+abstract: A model of a radiation-driven stellar wind is presented that includes a
+  correction factor for the finite size of the star as well as the centrifugal force
+  due to the star's rotation. The addition of the finite disk factor reduces the line
+  force near the star and increases it far from the star, which lowers the mass-loss
+  rate, increases the terminal velocity, and makes the velocity law more gradual.
+  These changes bring the wind model into much closer agreement with observations
+  of hot star winds. The decrease in the ratio of terminal velocity to escape velocity
+  in the B supergiants can be explained as due to a change in the mixture of driving
+  lines.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1986ApJ...311..701F
+author: Friend, D. B. and Abbott, D. C.
+author_list:
+- family: Friend
+  given: D. B.
+- family: Abbott
+  given: D. C.
+date-added: 2017-08-10 19:34:09 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/164809
+journal: \apj
+keywords: Stellar Mass Ejection, Stellar Models, Stellar Rotation, Stellar Winds,
+  Centrifugal Force, Equations Of Motion, Hot Stars, Wind Velocity
+month: December
+pages: 701--707
+papis_id: 033dc15ed84379390d61de75a619a841
+ref: friend.d.1986
+title: The theory of radiatively driven stellar winds. III - Wind models with finite
+  disk correction and rotation
+type: article
+volume: '311'
+year: '1986'

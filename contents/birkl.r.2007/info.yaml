@@ -1,0 +1,54 @@
+abstract: 'Context: We investigate the deposition of energy and momentum due to the
+  annihilation of neutrinos (nu) and antineutrinos (barnu) in the vicinity of steady,
+  axisymmetric accretion tori around stellar-mass black holes (BHs). This process
+  is widely considered as an energy source for driving ultrarelativistic outflows
+  with the potential to produce gamma-ray bursts.  Aims: We analyze the influence
+  of general relativistic (GR) effects in combination with different neutrinosphere
+  properties on the nubarnu-annihilation efficiency and spatial distribution of the
+  energy deposition rate.  Methods: Assuming axial symmetry, we numerically compute
+  the annihilation rate 4-vector. For this purpose, we construct the local neutrino
+  distribution by ray-tracing neutrino trajectories in a Kerr space-time using null
+  geodesics. We vary the value of the dimensionless specific angular momentum a of
+  the central BH, which provides the gravitational field in our models. We also study
+  different shapes of the neutrinospheres, spheres, thin disks, and thick accretion
+  tori, whose structure ranges from idealized tori to equilibrium non-selfgravitating
+  matter distributions. Furthermore, we compute Newtonian models where the influence
+  of the gravitational field on the annihilation process is neglected.  Results: Compared
+  to Newtonian calculations, GR effects increase the total annihilation rate measured
+  by an observer at infinity by a factor of two when the neutrinosphere is a thin
+  disk, but the increase is only \approx{}25\% for toroidal and spherical neutrinospheres.
+  Comparing cases with similar luminosities, thin disk models yield the highest energy
+  deposition rates by nubarnu-annihilation, and spherical neutrinospheres the lowest
+  ones, independently of whether GR effects are included. Increasing a from 0 to 1
+  enhances the energy deposition rate measured by an observer at infinity by roughly
+  a factor of 2 due to the change of the inner radius of the neutrinosphere. General
+  relativity and rotation cause important differences in the spatial distribution
+  of the energy deposition rate by nubarnu-annihilation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...463...51B
+arxivurl: http://arxiv.org/abs/astro-ph/0608543
+author: Birkl, R. and Aloy, M. A. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Birkl
+  given: R.
+- family: Aloy
+  given: M. A.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-11 06:09:24 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1051/0004-6361:20066293
+eprint: astro-ph/0608543
+journal: \aap
+keywords: 'gamma rays: bursts, neutrinos, accretion, accretion disks, relativity,
+  black hole physics, stars: neutron'
+month: February
+pages: 51--67
+papis_id: 6ef204621a29a7c9d592f8d18077015c
+ref: birkl.r.2007
+title: Neutrino pair annihilation near accreting, stellar-mass black holes
+type: article
+volume: '463'
+year: '2007'

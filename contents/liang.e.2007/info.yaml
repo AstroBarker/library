@@ -1,0 +1,45 @@
+abstract: Swift BAT has detected ~200 long-duration GRBs, with redshift measurements
+  for ~50 of them. We derive the luminosity function (PhiHL) and the local event rate
+  (rhoHL0) of the conventional high-luminosity (HL) GRBs by using the z-known Swift
+  GRBs. Our results are generally consistent with that derived from the CGRO BATSE
+  data. However, the fact that Swift detected a low-luminosity (LL) GRB, GRB 060218,
+  at z=0.033 within ~2 years of operation, together with the previous detection of
+  the nearby GRB 980425, suggests a much higher local rate for these LL-GRBs. We explore
+  the possibility that LL-GRBs are a distinct GRB population from the HL-GRBs. We
+  find that rhoLL0 is ~325+352-177 Gpc-3 yr-1, which is much higher than rhoHL0 (1.12+0.43-0.20
+  Gpc-3 yr-1). This rate is ~0.7\% of the local Type Ib/c SNe. Our results, together
+  with the finding that less than 10\% of Type Ib/c SNe are associated with off-beam
+  GRBs, suggest that LL-GRBs have a beaming factor typically less than 14, or a jet
+  angle typically wider than 31$\,^{\circ}$. The high local GRB rate, small beaming
+  factor, and low-luminosity make the LL-GRBs distinct from the HL-GRBs. Although
+  the current data could not fully rule out the possibility that both HL- and LL-GRBs
+  are the same population, our results suggest that LL-GRBs are likely a unique GRB
+  population and that the observed low-redshift GRB sample is dominated by the LL-GRBs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662.1111L
+arxivurl: http://arxiv.org/abs/astro-ph/0605200
+author: Liang, E. and Zhang, B. and Virgili, F. and Dai, Z. G.
+author_list:
+- family: Liang
+  given: E.
+- family: Zhang
+  given: B.
+- family: Virgili
+  given: F.
+- family: Dai
+  given: Z. G.
+date-added: 2017-08-10 16:54:20 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/517959
+eprint: astro-ph/0605200
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Gamma Rays: Observations, Methods: Statistical'
+month: June
+pages: 1111--1118
+papis_id: 5cb05a0d0dfb8b7d9b614f28adb2d734
+ref: liang.e.2007
+title: 'Low-Luminosity Gamma-Ray Bursts as a Unique Population: Luminosity Function,
+  Local Rate, and Beaming Factor'
+type: article
+volume: '662'
+year: '2007'

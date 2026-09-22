@@ -1,0 +1,51 @@
+abstract: Modern numerical astrophysics applications present a common demand for efficient
+  spatial querying techniques, such as neighbor searches or density estimations over
+  billions of resolution elements. To address the growing need for fast and versatile
+  tools tailored to these tasks, we present cosmokdtree, a fast and flexible multi-purpose
+  k-d tree implementation in Fortran, parallelized with OpenMP directives. Our library
+  supports arbitrary dimensionality and spatial distributions, and is designed for
+  efficient tree construction and fast query performance for moderate-scale applications
+  (performance tested up to 10^9 points). Python bindings coupled to the module are
+  also provided. All these ingredients yield a k-d tree package suitable for analysis
+  purposes.   We benchmark cosmokdtree across a variety of scenarios, including different
+  point distributions, dimensionality, and parallel scaling. We also compare its performance
+  against the widely used scipy implementation and other efficient alternatives such
+  as coretran's and a GPU-based version, showing that cosmokdtree consistently achieves
+  lower construction and query times than CPU alternatives while keeping a reasonable
+  memory usage. Our tree-building phase implementation, executed on a mid-range workstation-class
+  CPU, approaches the performance of GPU-based implementations when run on high-end
+  consumer graphic cards, although data-center GPUs, out of the scope for our comparison,
+  could still deliver substantially higher performance and a broader conclusion cannot
+  be extracted. We further present some applications tackling common problems in astrophysics,
+  namely, the friends-of-friends clustering algorithm and the particle-to-mesh assignment
+  process. The code is publicly released and intended to serve as a flexible multi-purpose
+  tool for computational applications in a wide range of scenarios, particularly in
+  astrophysics.
+author: Monllor-Berbegal, Óscar and Vallés-Pérez, David and Planelles, Susana and
+  Quilis, Vicent
+author_list:
+- family: Monllor-Berbegal
+  given: Óscar
+- family: Vallés-Pérez
+  given: David
+- family: Planelles
+  given: Susana
+- family: Quilis
+  given: Vicent
+doc_url: https://arxiv.org/pdf/2609.18316v1
+doi: 10.1016/j.ascom.2026.101175
+eprint: 2609.18316v1
+eprintclass: astro-ph.IM
+eprinttype: arxiv
+files:
+- monllor-berbegal-oscar-2026.pdf
+journal: A&C, 57, 101175 (2026)
+month: 9
+papis_id: 9f4c520652aa0a5ddc34a396d371504f
+ref: monllor_berbegal.oscar.2026
+time-added: 2026-09-17-11:20:02
+title: 'cosmokdtree: a flexible OpenMP-parallelized k-d tree for computational astrophysics
+  applications'
+type: article
+url: http://arxiv.org/abs/2609.18316v1
+year: 2026

@@ -1,0 +1,51 @@
+abstract: Using a suite of progenitor models, neutrino luminosities, and two-dimensional
+  simulations, we investigate the matter gravitational wave (GW) emission from postbounce
+  phases of neutrino-driven core-collapse supernovae. These phases include prompt
+  and steady-state convection, the standing accretion shock instability (SASI), and
+  asymmetric explosions. For the stages before explosion, we propose a model for the
+  source of GW emission. Downdrafts of the postshock-convection/SASI region strike
+  the protoneutron star "surface" with large speeds and are decelerated by buoyancy
+  forces. We find that the GW amplitude is set by the magnitude of deceleration and,
+  by extension, the downdraft's speed and the vigor of postshock-convective/SASI motions.
+  However, the characteristic frequencies, which evolve from ~100 Hz after bounce
+  to ~300-400 Hz, are practically independent of these speeds (and turnover timescales).
+  Instead, they are set by the deceleration timescale, which is in turn set by the
+  buoyancy frequency at the lower boundary of postshock convection. Consequently,
+  the characteristic GW frequencies are dependent upon a combination of core structure
+  attributes, specifically the dense-matter equation of state (EOS) and details that
+  determine the gradients at the boundary, including the accretion-rate history, the
+  EOS at subnuclear densities, and neutrino transport. During explosion, the high
+  frequency signal wanes and is replaced by a strong low frequency, ~10s of Hz, signal
+  that reveals the general morphology of the explosion (i.e., prolate, oblate, or
+  spherical). However, current and near-future GW detectors are sensitive to GW power
+  at frequencies gsim50 Hz. Therefore, the signature of explosion will be the abrupt
+  reduction of detectable GW emission.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...707.1173M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.4762
+author: Murphy, J. W. and Ott, C. D. and Burrows, A.
+author_list:
+- family: Murphy
+  given: J. W.
+- family: Ott
+  given: C. D.
+- family: Burrows
+  given: A.
+date-added: 2017-08-10 18:36:26 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/707/2/1173
+eprint: '0907.4762'
+journal: \apj
+keywords: 'dense matter, equation of state, gravitational waves, hydrodynamics, instabilities,
+  shock waves, supernovae: general, turbulence'
+month: December
+pages: 1173--1190
+papis_id: bfd70a9a53101be6e912f7e5aa3c592b
+primaryclass: astro-ph.SR
+ref: murphy.j.2009
+title: A Model for Gravitational Wave Emission from Neutrino-Driven Core-Collapse
+  Supernovae
+type: article
+volume: '707'
+year: '2009'

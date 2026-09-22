@@ -1,0 +1,56 @@
+abstract: After decades, the theoretical study of core-collapse supernova         explosions
+  is moving from parameterized, spherically symmetric         models to increasingly
+  realistic multi-dimensional simulations.         Obtaining nucleosynthesis yields
+  based on such multi-dimensional         core-collapse supernova (CCSN) simulations,
+  however, is not         straightforward and frequently tracer particles are employed.         Tracer
+  particles may be tracked in situ during the simulation,         but often they are
+  reconstructed in a post-processing step based         on the information saved during
+  the hydrodynamics simulation.         Reconstruction can be done in a number of
+  ways and here we         compare the approaches of backward and forward integration
+  of         the equations of motion to the results based on inline particle         trajectories.
+  We find that both methods agree reasonably well         with the inline results
+  for isotopes for which a large number of         particles contribute. However,
+  for rarer isotopes that are         produced only by a small number of particle
+  trajectories,         deviations can be large. For our setup, we find that backward         integration
+  leads to a better agreement with the inline         particles by more accurately
+  reproducing the conditions         following freeze-out from nuclear statistical
+  equilibrium,         because the establishment of nuclear statistical equilibrium         erases
+  the need for detailed trajectories at earlier times.         Based on our results,
+  if inline tracers are unavailable, we         recommend backward reconstruction,
+  to the point when nuclear         statistical equilibrium last applied, with an
+  interval between         simulation snapshots of at most 1 ms for nucleosynthesis
+  post-         processing.
+archiveprefix: arXiv
+author: Sieverding, Andre and Waldrop, Preston G. and Harris, J. Austin and Hix, W.
+  Raphael and Lentz, Eric J. and Bruenn, Stephen W. and Messer, O. E. Bronson
+author_list:
+- family: Sieverding
+  given: Andre
+- family: Waldrop
+  given: Preston G.
+- family: Harris
+  given: J. Austin
+- family: Hix
+  given: W. Raphael
+- family: Lentz
+  given: Eric J.
+- family: Bruenn
+  given: Stephen W.
+- family: Messer
+  given: O. E. Bronson
+eid: arXiv:2212.06507
+eprint: '2212.06507'
+groups: Nucleosynthesis, Numerical Methods - General
+journal: arXiv e-prints
+keywords: Astrophysics - Solar and Stellar Astrophysics, Astrophysics - High Energy
+  Astrophysical Phenomena
+month: December
+pages: arXiv:2212.06507
+papis_id: 04f85c8299c9b8c362054c47572b7cbd
+primaryclass: astro-ph.SR
+ref: sieverding.andre.2022
+title: 'Tracer particles for core-collapse supernova nucleosynthesis: The advantages
+  of moving backward'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2022arXiv221206507S
+year: '2022'

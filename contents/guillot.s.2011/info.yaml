@@ -1,0 +1,46 @@
+abstract: 'This paper reports the spectral and timing analyses of the quiescent low-mass
+  X-ray binary (qLMXB) U24 observed during five archived Chandra/ACIS exposures of
+  the nearby globular cluster NGC 6397, for a total of 350 ks. We find that the X-ray
+  flux and the parameters of the hydrogen atmosphere spectral model are consistent
+  with those previously published for this source. On short timescales, we find no
+  evidence of aperiodic intensity variability, with 90\% confidence upper limits during
+  five observations ranging between <8.6\% rms and <19\% rms, in the 0.0001-0.1 Hz
+  frequency range (0.5-8.0 keV); and no evidence of periodic variability, with maximum
+  observed powers in this frequency range having a chance probability of occurrence
+  from a Poisson-deviated light curve in excess of 10\%. We also report the improved
+  neutron star (NS) physical radius measurement, with statistical accuracy of the
+  order of ~10\%: R NS = 8.9+0.9 -0.6 km for M NS = 1.4 M sun. Alternatively, we provide
+  the confidence regions in mass-radius space as well as the best-fit projected radius
+  R \infty{} = 11.9+1.0 -0.8 km, as seen by an observer at infinity. The best-fit
+  effective temperature, kT eff = 80+4 -5 eV, is used to estimate the NS core temperature
+  which falls in the range T core = (3.0-9.8) \texttimes{} 107 K, depending on the
+  atmosphere model considered. This makes U24 the third most precisely measured NS
+  radius among qLMXBs, after those in omega Cen and M13.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...732...88G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.2415
+author: Guillot, S. and Rutledge, R. E. and Brown, E. F.
+author_list:
+- family: Guillot
+  given: S.
+- family: Rutledge
+  given: R. E.
+- family: Brown
+  given: E. F.
+date-added: 2017-08-10 22:35:30 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/732/2/88
+eid: '88'
+eprint: '1007.2415'
+journal: \apj
+keywords: 'globular clusters: individual: NGC 6397, stars: neutron, X-rays: binaries'
+month: May
+pages: '88'
+papis_id: 0483cab32067c7c749c6d0902011bc7e
+ref: guillot.s.2011
+title: Neutron Star Radius Measurement with the Quiescent Low-mass X-ray Binary U24
+  in NGC 6397
+type: article
+volume: '732'
+year: '2011'

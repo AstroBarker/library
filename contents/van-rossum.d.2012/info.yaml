@@ -1,0 +1,44 @@
+abstract: A new method is presented for calculating the time evolution of spherically
+  symmetric Type Ia Supernovae in the post-explosion phase, enabling light curves
+  and spectra to be simulated in a physically self-consistent way. The commonly exploited
+  radiative equilibrium (RE), which is in essence a gas energy balance condition,
+  is unsuitable for this purpose for important physical and numerical reasons. First,
+  the RE depends on the heating and cooling rates of the gas by the radiation field,
+  two quantities that almost completely cancel out and are very difficult to calculate
+  accurately. Second, the internal energy of the gas is only a tiny fraction of the
+  total energy in the system (the vast majority of the energy resides in the radiation
+  field), so that the vast majority of the energy is neglected in solving for the
+  energy balance. The method presented in this paper, based on the radiation energy
+  balance (REB), addresses the bulk of the energy, does not depend on the heating/cooling
+  rates, and guarantees an accurate run of the bolometric luminosity over time while
+  making the gas temperatures consistent with the radiation field. We have implemented
+  the method in the stellar atmosphere code PHOENIX and applied it to the classical
+  W7 model. The results illustrate the importance of each of the four physical contributions
+  to the energy balance as a function of time. The simulated spectra and light curves
+  for W7 show good resemblance to the observations, which demonstrates what can be
+  done using PHOENIX with the REB method.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756...31V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.5463
+author: van Rossum, D. R.
+author_list:
+- family: van Rossum
+  given: D. R.
+date-added: 2017-08-10 17:37:46 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/756/1/31
+eid: '31'
+eprint: '1206.5463'
+journal: \apj
+keywords: 'methods: numerical, radiative transfer, supernovae: general'
+month: September
+pages: '31'
+papis_id: 32dca80759d27212546df421c08d419f
+primaryclass: astro-ph.SR
+ref: van_rossum.d.2012
+title: Radiation Energy Balance Method for Calculating the Time Evolution of Type
+  Ia Supernovae during the Post-explosion Phase
+type: article
+volume: '756'
+year: '2012'

@@ -1,0 +1,49 @@
+abstract: We solve the general-relativistic steady-state eigenvalue problem of neutrino-driven
+  proto-neutron star winds, which immediately follow core-collapse supernova explosions.
+  We provide velocity, density, temperature, and composition profiles and explore
+  the systematics and structures generic to such a wind for a variety of proto-neutron
+  star characteristics. Furthermore, we derive the entropy, dynamical timescale, and
+  neutron-to-seed ratio in the general relativistic framework essential in assessing
+  this site as a candidate for r-process nucleosynthesis. Generally, we find that
+  for a given mass outflow rate (M), the dynamical timescale of the wind is significantly
+  shorter than previously thought. We argue against the existence or viability of
+  a high entropy (>~300 per kB per baryon), long dynamical timescale r-process epoch.
+  In support of this conclusion, we model the proto-neutron star cooling phase, calculate
+  nucleosynthetic yields in our steady-state profiles, and estimate the integrated
+  mass loss. We find that transonic winds enter a high-entropy phase only with very
+  low M (<~1\texttimes{}10-9 Msolar s-1) and extremely long dynamical timescale (taurho>~0.5
+  s). Our results support the possible existence of an early r-process epoch at modest
+  entropy (~150) and very short dynamical timescale, consistent in our calculations
+  with a very massive or very compact proto-neutron star that contracts rapidly after
+  the preceding supernova. We explore possible modifications to our models, which
+  might yield significant r-process nucleosynthesis generically. Finally, we speculate
+  on the effect of fallback and shocks on both the wind physics and nucleosynthesis.
+  We find that a termination or reverse shock in the wind, but exterior to the wind
+  sonic point, may have important nucleosynthetic consequences. The potential for
+  the r-process in proto-neutron star winds remains an open question.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...562..887T
+arxivurl: http://arxiv.org/abs/astro-ph/0105004
+author: Thompson, T. A. and Burrows, A. and Meyer, B. S.
+author_list:
+- family: Thompson
+  given: T. A.
+- family: Burrows
+  given: A.
+- family: Meyer
+  given: B. S.
+date-added: 2017-08-10 18:41:01 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323861
+eprint: astro-ph/0105004
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Mass Loss, Stars:
+  Neutron, Stars: Supernovae: General'
+month: December
+pages: 887--908
+papis_id: 7d489266c70d003c748fd9e0751094ea
+ref: thompson.t.2001
+title: 'The Physics of Proto-Neutron Star Winds: Implications for r-Process Nucleosynthesis'
+type: article
+volume: '562'
+year: '2001'

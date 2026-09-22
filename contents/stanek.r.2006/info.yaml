@@ -1,0 +1,54 @@
+abstract: We investigate the relationship between soft X-ray luminosity and mass for
+  low-redshift clusters of galaxies by comparing observed number counts and scaling
+  laws to halo-based expectations of LambdaCDM cosmologies. We model the conditional
+  likelihood of halo luminosity as a lognormal distribution of fixed width, centered
+  on a scaling relation, L~Mprhosc(z), and consider two values for s, appropriate
+  for self-similar evolution or no evolution. Convolving with the halo mass function,
+  we compute expected counts in redshift and flux that, after appropriate survey effects
+  are included, we compare to REFLEX survey data. Counts alone provide only an upper
+  limit on the scatter in mass at fixed luminosity, sigmalnM<0.4. We argue that the
+  observed, intrinsic variance in the temperature-luminosity relation is directly
+  indicative of mass-luminosity variance and derive sigmalnM=0.43+/-0.06 from HIFLUGCS
+  data. When added to the likelihood analysis, we derive values p=1.59+/-0.05, lnL15,0=1.34+/-0.09,
+  and sigmalnM=0.37+/-0.05 for self-similar redshift evolution in a concordance (Omegam=0.3,
+  OmegaLambda=0.7, sigma8=0.9) universe. The present-epoch intercept is sensitive
+  to power spectrum normalization, L15,0~sigma-48, and the slope is weakly sensitive
+  to the matter density, p~Omega1/2m. We find a substantially (factor 2) dimmer intercept
+  and slightly steeper slope than the values published using hydrostatic mass estimates
+  of the HIFLUGCS sample and show that a Malmquist bias of the X-ray flux-limited
+  sample accounts for this effect. In light of new WMAP constraints, we discuss the
+  interplay between parameters and sources of systematic error and offer a compromise
+  model with Omegam=0.24, sigma8=0.85, and somewhat lower scatter sigmalnM=0.25, in
+  which hydrostatic mass estimates remain accurate to ~15\%. We stress the need for
+  independent calibration of the L-M relation via weak gravitational lensing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...648..956S
+arxivurl: http://arxiv.org/abs/astro-ph/0602324
+author: Stanek, R. and Evrard, A. E. and Böhringer, H. and Schuecker, P. and Nord,
+  B.
+author_list:
+- family: Stanek
+  given: R.
+- family: Evrard
+  given: A. E.
+- family: Böhringer
+  given: H.
+- family: Schuecker
+  given: P.
+- family: Nord
+  given: B.
+date-added: 2017-08-11 05:15:02 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/506248
+eprint: astro-ph/0602324
+journal: \apj
+keywords: 'Galaxies: Clusters: General, Galaxies: Intergalactic Medium, X-Rays: Galaxies:
+  Clusters'
+month: September
+pages: 956--968
+papis_id: f3f582fa36191719ec8fb1269862acb3
+ref: stanek.r.2006
+title: The X-Ray Luminosity-Mass Relation for Local Clusters of Galaxies
+type: article
+volume: '648'
+year: '2006'

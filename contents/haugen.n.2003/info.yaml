@@ -1,0 +1,37 @@
+abstract: Nonhelical hydromagnetic turbulence without an imposed magnetic field is
+  considered in the case where the magnetic Prandtl number is unity. The magnetic
+  field is entirely due to dynamo action. The magnetic energy spectrum peaks at a
+  wavenumber of about 5 times the minimum wavenumber in the domain, and not at the
+  resistive scale, as has previously been argued. Throughout the inertial range, the
+  spectral magnetic energy exceeds the kinetic energy by a factor of about 2.5, and
+  both spectra are approximately parallel. At first glance, the total energy spectrum
+  seems to be close to k-3/2, but there is a strong bottleneck effect and it is suggested
+  that the asymptotic spectrum is k-5/3. This is supported by the value of the second-order
+  structure function exponent that is found to be zeta2=0.70, suggesting a k-1.70
+  spectrum.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...597L.141H
+arxivurl: http://arxiv.org/abs/astro-ph/0303372
+author: Haugen, N. E. L. and Brandenburg, A. and Dobler, W.
+author_list:
+- family: Haugen
+  given: N. E. L.
+- family: Brandenburg
+  given: A.
+- family: Dobler
+  given: W.
+date-added: 2017-08-10 22:13:45 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/380189
+eprint: astro-ph/0303372
+journal: \apjl
+keywords: 'ISM: Kinematics and Dynamics, Magnetic Fields, Magnetohydrodynamics: MHD,
+  Turbulence'
+month: November
+pages: L141-L144
+papis_id: 62be2ea30fc0b3c71511d64a2e1e24d2
+ref: haugen.n.2003
+title: Is Nonhelical Hydromagnetic Turbulence Peaked at Small Scales?
+type: article
+volume: '597'
+year: '2003'

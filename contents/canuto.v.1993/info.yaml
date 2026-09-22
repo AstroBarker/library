@@ -1,0 +1,63 @@
+abstract: 'We derive a new nonlocal model for turbulent convection which incorporates
+  recent advances from laboratory, planetary, and numerical simulation of turbulence,
+  and we show how previous prototypic models can be recovered. The new model is given
+  by five coupled differential equations, equations (81)-(84) and (100), that yield:
+  convective flux, temperature variance, turbulent kinetic energy in the z-direction,
+  total turbulent kinetic energy, and (rate of) dissipation of kinetic energy.  The
+  solution of these five equations yields all the turbulent quantities as a function
+  of the temperature gradient. The latter is then obtained by solving the flux conservation
+  law, equation (96), which we derive anew to account for the kinetic energy flux.
+  The main features of the new model are as follows.  1. Nonlocality. This basic feature
+  is represented by the third-order moments that enter the governing equations (81)-(84)
+  and (100). In all nonlocal models thus far, these moments were treated with the
+  diffusion approximation. Since the latter yields incorrect results in the case of
+  the convective boundary layer, we avoid it. We derive the dynamic equations for
+  all the third-order moments and solve them analytically.  2. Gravity waves, stable
+  stratification. The fundamental feature of the overshooting (OV) region is that
+  the flow is stably stratified, Delta - Deltaad < 0. Under such circumstances, the
+  Kolmogorov spectrum is no longer valid since eddies, working against gravity, lose
+  a fraction of their kinetic energy which goes to generate "gravity waves." To fully
+  account for the appearance of a "buoyancy subrange" E(k) \texttildelow{} k-3 in
+  lieu of the Kolmogorov spectrum \texttildelow{} k-5/3, we adopt a recent model for
+  stably stratified turbulence which has been successfully tested against convective
+  boundary layer data.  3. Dissipation \ensuremath{\epsilon}. -- The process of dissipation
+  of turbulent kinetic energy has been neglected for many years, but is now viewed
+  as crucial for a proper quantification of OV. The assumption \ensuremath{\epsilon}
+  = 0 not only violates the energy conservation law, but overestimates the extent
+  of the OV region.  When \ensuremath{\epsilon} is included, it is generally computed
+  locally with a mixing length l. If the description of l is difficult in the main
+  convective region, it is all the more so in the OV region where the concept of a
+  mixing length loses its physical content. We avoid the use of a mixing length in
+  both the convective and the OV region by introducing a differential equation for
+  the dissipation \ensuremath{\epsilon}, equation (100), which, being nonlocal, accounts
+  for the fact that turbulent kinetic energy created at one point in the flow may
+  be dissipated somewhere else, in accordance with the nonlocal nature of turbulent
+  convection.  4. Pressure forces, anisotropy. The stably stratified turbulence found
+  in the OV region is experimentally known to be highly anisotropic since negative
+  buoyancy suppresses the eddy vertical motion. Thus, pressure- velocity and pressure-temperature
+  correlations, which help restore isotropy, play a crucial role.  5. The Boussinesq
+  Approximation is avoided.  6. The turbulent kinetic energy flux. -- A new flux conservation
+  law, equation (96), is derived which includes the turbulent kinetic energy flux
+  recently found to be up to 50\% of the total flux for Sun-like stars.  7. A new
+  hydrostatic equilibrium equation, equation (103), is derived which, in addition
+  to a turbulent pressure, also includes buoyancy effects.  The next step is to couple
+  the new model to a stellar structure code.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...416..331C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2017-08-11 03:15:03 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173238
+journal: \apj
+keywords: 'CONVECTION, STARS: INTERIORS, TURBULENCE'
+month: October
+pages: '331'
+papis_id: 56de92a6e19b97a1128709ae7712d5fe
+ref: canuto.v.1993
+title: 'Turbulent Convection with Overshooting: Reynolds Stress Approach. II.'
+type: article
+volume: '416'
+year: '1993'

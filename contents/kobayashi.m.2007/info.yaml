@@ -1,0 +1,48 @@
+abstract: 'We present a new theoretical model for the luminosity functions (LFs) of
+  Lyalpha-emitting galaxies in the framework of hierarchical galaxy formation. We
+  extend a semianalytical model of galaxy formation that reproduces a number of observations
+  for local and high-z galaxies, without changing the original model parameters but
+  with the introduction of physically motivated modeling to describe the escape fraction
+  of Lyalpha photons from host galaxies (fLyalphaesc). Although previous studies using
+  hierarchical clustering models simply assumed a constant and universal value of
+  fLyalphaesc, we incorporate two new effects on fLyalphaesc: extinction by interstellar
+  dust and galaxy-scale outflows induced as star formation feedback. It is found that
+  the new model nicely reproduces all the observed Lyalpha LFs of Lyalpha emitters
+  (LAEs) with redshifts in the range z~3-6. In particular, the surprisingly small
+  evolution of the observed LAE Lyalpha LFs as compared with the dark halo mass function
+  is naturally reproduced. Our model predicts that galaxies with strong outflows and
+  fLyalphaesc~1 should dominate the observed LFs. This is also consistent with available
+  observations, whereas the simple universal fLyalphaesc model requires fLyalphaesc<<1
+  in order not to overproduce the brightest LAEs. On the other hand, we find that
+  our model significantly overpredicts LAEs at z>~6, and that absorption of Lyalpha
+  photons by neutral hydrogen in the intergalactic medium (IGM) provides a reasonable
+  interpretation of this discrepancy. This indicates that the IGM neutral fraction
+  xHI rapidly evolves from xHI<<1 at z<~6 to a value of order unity at z~6-7, which
+  is broadly consistent with other observational constraints on the history of reionization.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670..919K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.4349
+author: Kobayashi, M. A. R. and Totani, T. and Nagashima, M.
+author_list:
+- family: Kobayashi
+  given: M. A. R.
+- family: Totani
+  given: T.
+- family: Nagashima
+  given: M.
+date-added: 2017-08-11 02:37:03 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/522200
+eprint: '0705.4349'
+journal: \apj
+keywords: 'Galaxies: Evolution, Galaxies: Formation, Galaxies: High-Redshift, Methods:
+  Numerical'
+month: December
+pages: 919--927
+papis_id: df64ddb8cfa972c438b214d9879e3028
+ref: kobayashi.m.2007
+title: Ly$α$ Emitters in Hierarchical Galaxy Formation
+type: article
+volume: '670'
+year: '2007'

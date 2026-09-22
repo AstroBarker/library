@@ -1,0 +1,52 @@
+abstract: 'Aims: By means of numerical simulations and different recipes, we test
+  the efficiency of thermohaline mixing as a process to alter the surface abundances
+  in low-mass giant stars.  Methods: We compute full evolutionary sequences of red
+  giant branch stars close to the luminosity bump by including state-of-the-art composition
+  transport prescriptions for the thermohaline mixing regimes. In particular, we adopt
+  a self-consistent double-diffusive convection theory that allows handling both instabilities
+  that arise when thermal and composition gradients compete against each other and
+  a very recent empirically motivated and parameter-free asymptotic scaling law for
+  thermohaline composition transport.  Results: In agreement with previous works,
+  we find that, during the red giant stage, a thermohaline instability sets in shortly
+  after the hydrogen burning shell (HBS) encounters the chemical discontinuity left
+  behind by the first dredge-up. We also find that the thermohaline unstable region,
+  which initially appears on the exterior wing of the HBS, is unable to reach the
+  outer convective envelope, with the consequence that no mixing of elements occurs
+  that produces a noncanonical modification of the stellar surface abundances. Also
+  in agreement with previous works, we find that artificially increasing the mixing
+  efficiency of thermohaline regions makes it possible to connect both unstable regions,
+  thus affecting the photospheric composition. However, we find that to reproduce
+  the observed abundances of red giant branch stars close to the luminosity bump,
+  thermohaline mixing efficiency has to be artificially increased by about four orders
+  of magnitude from what is predicted by recent 3D numerical simulations of thermohaline
+  convection close to astrophysical environments. From this we conclude that the chemical
+  abundance anomalies of red giant stars cannot be explained on the basis of thermohaline
+  mixing alone.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...533A.139W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.0832
+author: Wachlin, F. C. and Miller Bertolami, M. M. and Althaus, L. G.
+author_list:
+- family: Wachlin
+  given: F. C.
+- family: Miller Bertolami
+  given: M. M.
+- family: Althaus
+  given: L. G.
+date-added: 2017-08-10 20:55:18 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201117029
+eid: A139
+eprint: '1104.0832'
+journal: \aap
+keywords: 'instabilities, stars: abundances, stars: evolution, stars: interiors'
+month: September
+pages: A139
+papis_id: 9675092d1816862c802d4072ba01ff8f
+primaryclass: astro-ph.SR
+ref: wachlin.f.2011
+title: Thermohaline mixing and the photospheric composition of low-mass giant stars
+type: article
+volume: '533'
+year: '2011'

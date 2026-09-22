@@ -1,0 +1,152 @@
+abstract: We introduce the Assembling Galaxies Of Resolved Anatomy (AGORA) project,
+  a comprehensive numerical study of well-resolved galaxies within the LambdaCDM cosmology.
+  Cosmological hydrodynamic simulations with force resolutions of ~100 proper pc or
+  better will be run with a variety of code platforms to follow the hierarchical growth,
+  star formation history, morphological transformation, and the cycle of baryons in
+  and out of eight galaxies with halo masses M vir ~= 1010, 1011, 1012, and 1013 M
+  \&sun; at z = 0 and two different ("violent" and "quiescent") assembly histories.
+  The numerical techniques and implementations used in this project include the smoothed
+  particle hydrodynamics codes GADGET and GASOLINE, and the adaptive mesh refinement
+  codes ART, ENZO, and RAMSES. The codes share common initial conditions and common
+  astrophysics packages including UV background, metal-dependent radiative cooling,
+  metal and energy yields of supernovae, and stellar initial mass function. These
+  are described in detail in the present paper. Subgrid star formation and feedback
+  prescriptions will be tuned to provide a realistic interstellar and circumgalactic
+  medium using a non-cosmological disk galaxy simulation. Cosmological runs will be
+  systematically compared with each other using a common analysis toolkit and validated
+  against observations to verify that the solutions are robust---i.e., that the astrophysical
+  assumptions are responsible for any success, rather than artifacts of particular
+  implementations. The goals of the AGORA project are, broadly speaking, to raise
+  the realism and predictive power of galaxy simulations and the understanding of
+  the feedback processes that regulate galaxy "metabolism." The initial conditions
+  for the AGORA galaxies as well as simulation outputs at various epochs will be made
+  publicly available to the community. The proof-of-concept dark-matter-only test
+  of the formation of a galactic halo with a z = 0 mass of M vir ~= 1.7 \texttimes{}
+  1011 M \&sun; by nine different versions of the participating codes is also presented
+  to validate the infrastructure of the project.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJS..210...14K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.2669
+author: Kim, J.-h. and Abel, T. and Agertz, O. and Bryan, G. L. and Ceverino, D. and
+  Christensen, C. and Conroy, C. and Dekel, A. and Gnedin, N. Y. and Goldbaum, N.
+  J. and Guedes, J. and Hahn, O. and Hobbs, A. and Hopkins, P. F. and Hummels, C.
+  B. and Iannuzzi, F. and Keres, D. and Klypin, A. and Kravtsov, A. V. and Krumholz,
+  M. R. and Kuhlen, M. and Leitner, S. N. and Madau, P. and Mayer, L. and Moody, C.
+  E. and Nagamine, K. and Norman, M. L. and Onorbe, J. and O'Shea, B. W. and Pillepich,
+  A. and Primack, J. R. and Quinn, T. and Read, J. I. and Robertson, B. E. and Rocha,
+  M. and Rudd, D. H. and Shen, S. and Smith, B. D. and Szalay, A. S. and Teyssier,
+  R. and Thompson, R. and Todoroki, K. and Turk, M. J. and Wadsley, J. W. and Wise,
+  J. H. and Zolotov, A. and AGORA Collaboration29, t.
+author_list:
+- family: Kim
+  given: J.-h.
+- family: Abel
+  given: T.
+- family: Agertz
+  given: O.
+- family: Bryan
+  given: G. L.
+- family: Ceverino
+  given: D.
+- family: Christensen
+  given: C.
+- family: Conroy
+  given: C.
+- family: Dekel
+  given: A.
+- family: Gnedin
+  given: N. Y.
+- family: Goldbaum
+  given: N. J.
+- family: Guedes
+  given: J.
+- family: Hahn
+  given: O.
+- family: Hobbs
+  given: A.
+- family: Hopkins
+  given: P. F.
+- family: Hummels
+  given: C. B.
+- family: Iannuzzi
+  given: F.
+- family: Keres
+  given: D.
+- family: Klypin
+  given: A.
+- family: Kravtsov
+  given: A. V.
+- family: Krumholz
+  given: M. R.
+- family: Kuhlen
+  given: M.
+- family: Leitner
+  given: S. N.
+- family: Madau
+  given: P.
+- family: Mayer
+  given: L.
+- family: Moody
+  given: C. E.
+- family: Nagamine
+  given: K.
+- family: Norman
+  given: M. L.
+- family: Onorbe
+  given: J.
+- family: O'Shea
+  given: B. W.
+- family: Pillepich
+  given: A.
+- family: Primack
+  given: J. R.
+- family: Quinn
+  given: T.
+- family: Read
+  given: J. I.
+- family: Robertson
+  given: B. E.
+- family: Rocha
+  given: M.
+- family: Rudd
+  given: D. H.
+- family: Shen
+  given: S.
+- family: Smith
+  given: B. D.
+- family: Szalay
+  given: A. S.
+- family: Teyssier
+  given: R.
+- family: Thompson
+  given: R.
+- family: Todoroki
+  given: K.
+- family: Turk
+  given: M. J.
+- family: Wadsley
+  given: J. W.
+- family: Wise
+  given: J. H.
+- family: Zolotov
+  given: A.
+- family: AGORA Collaboration29
+  given: t.
+date-added: 2017-08-10 21:43:47 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0067-0049/210/1/14
+eid: '14'
+eprint: '1308.2669'
+journal: \apjs
+keywords: 'cosmology: theory, dark matter, galaxies: formation, galaxies: evolution,
+  hydrodynamics, methods: numerical'
+month: January
+pages: '14'
+papis_id: ea538388d00559ba86fd12730f67bf0e
+primaryclass: astro-ph.GA
+ref: kim.j_h.2014
+title: The AGORA High-resolution Galaxy Simulations Comparison Project
+type: article
+volume: '210'
+year: '2014'

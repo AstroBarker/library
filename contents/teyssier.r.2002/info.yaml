@@ -1,0 +1,42 @@
+abstract: A new N-body and hydrodynamical code, called RAMSES, is presented. It has
+  been designed to study structure formation in the universe with high spatial resolution.
+  The code is based on Adaptive Mesh Refinement (AMR) technique, with a tree-based
+  data structure allowing recursive grid refinements on a cell-by-cell basis. The
+  N-body solver is very similar to the one developed for the ART code \citep{kravtsov97},
+  with minor differences in the exact implementation. The hydrodynamical solver is
+  based on a second-order Godunov method, a modern shock-capturing scheme known to
+  compute accurately the thermal history of the fluid component. The accuracy of the
+  code is carefully estimated using various test cases, from pure gas dynamical tests
+  to cosmological ones. The specific refinement strategy used in cosmological simulations
+  is described, and potential spurious effects associated with shock waves propagation
+  in the resulting AMR grid are discussed and found to be negligible. Results obtained
+  in a large N-body and hydrodynamical simulation of structure formation in a low
+  density Lambda CDM universe are reported, with 2563 particles and 4.1x 107 cells
+  in the AMR grid, reaching a formal resolution of 81923. A convergence analysis of
+  different quantities, such as dark matter density power spectrum, gas pressure power
+  spectrum and individual haloe temperature profiles, shows that numerical results
+  are converging down to the actual resolution limit of the code, and are well reproduced
+  by recent analytical predictions in the framework of the halo model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...385..337T
+arxivurl: http://arxiv.org/abs/astro-ph/0111367
+author: Teyssier, R.
+author_list:
+- family: Teyssier
+  given: R.
+date-added: 2017-08-10 18:55:41 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1051/0004-6361:20011817
+eprint: astro-ph/0111367
+journal: \aap
+keywords: 'GRAVITATION, HYDRODYNAMICS, METHODS: NUMERICAL, COSMOLOGY: THEORY, COSMOLOGY:
+  LARGE-SCALE STRUCTURE OF UNIVERSE'
+month: April
+pages: 337--364
+papis_id: d993f082111b463ad5a9071086a1f7d3
+ref: teyssier.r.2002
+title: Cosmological hydrodynamics with adaptive mesh refinement. A new high resolution
+  code called RAMSES
+type: article
+volume: '385'
+year: '2002'

@@ -1,0 +1,47 @@
+abstract: We use an analytic model to study how inhomogeneous hydrogen reionization
+  affects the temperature distribution of the intergalactic medium (IGM). During this
+  process, the residual energy of each ionizing photon is deposited in the IGM as
+  heat, increasing its temperature to 20,000-30,000 K; subsequent expansion of the
+  universe then cools the gas. Because reionization most likely proceeds from high
+  to low densities, underdense voids are ionized last, have less time to cool, and
+  are (on average) warmer than mean-density gas immediately after reionization is
+  complete (an "inverted" temperature-density relation). From this initial configuration,
+  the low-density gas cools quickly and eventually returns to a more normal temperature-density
+  relation. The rapidly evolving temperature introduces systematic uncertainties in
+  measurements of the ionizing background at z ~ 6. For example, late reionization
+  implies rapid cooling, so that the ionizing background would have to evolve even
+  more rapidly at z ~ 5-6 than typically claimed. This degeneracy is difficult to
+  disentangle, because the Lyalpha forest probes only a narrow range in densities
+  (over which the gas is nearly isothermal). However, higher Lyman-series transitions
+  probe wider density ranges, sampling different effective temperatures, and offer
+  a new way to measure the IGM temperature-density relation that should work even
+  where nearly saturated absorption precludes other methods. This will help to separate
+  evolution in temperature from that in the ionizing background. While more detailed
+  study with hydrodynamic simulations is needed, we show that such measurements could
+  potentially distinguish early and late reionization using only a handful of lines
+  of sight.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...701...94F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.1888
+author: Furlanetto, S. R. and Oh, S. P.
+author_list:
+- family: Furlanetto
+  given: S. R.
+- family: Oh
+  given: S. P.
+date-added: 2017-08-10 20:23:53 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/701/1/94
+eprint: '0901.1888'
+journal: \apj
+keywords: 'cosmology: theory, intergalactic medium'
+month: August
+pages: 94--104
+papis_id: f320668ff5a71257d3fc33f9cb610b85
+ref: furlanetto.s.2009
+title: The Temperature-Density Relation of the Intergalactic Medium after Hydrogen
+  Reionization
+type: article
+volume: '701'
+year: '2009'

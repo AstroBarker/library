@@ -1,0 +1,50 @@
+abstract: We numerically calculate the growth and saturation of the Rayleigh-Taylor
+  (RT) instability caused by the deceleration of relativistic outflows with Lorentz
+  factor Gamma = 10, 30, and 100. The instability generates turbulence whose scale
+  exhibits strong dependence on Lorentz factor, as only modes with angular size smaller
+  than 1/Gamma can grow. We develop a simple diagnostic to measure the kinetic energy
+  in turbulent fluctuations, and calculate a ratio of turbulent kinetic energy to
+  thermal energy of epsilonRT = .03 in the region affected by the instability. Although
+  our numerical calculation does not include magnetic fields, we argue that small-scale
+  turbulent dynamo amplifies magnetic fields to nearly this same fraction, giving
+  a ratio of magnetic to thermal energy of epsilon B  ~ 10-2, to within a factor of
+  two. The instability completely disrupts the contact discontinuity between the ejecta
+  and the swept up circumburst medium. The reverse shock is stable, but is impacted
+  by the RT instability, which strengthens the reverse shock and pushes it away from
+  the forward shock. The forward shock front is unaffected by the instability, but
+  RT fingers can penetrate of the order of 10\% of the way into the energetic region
+  behind the shock during the two-shock phase of the explosion. We calculate afterglow
+  emission from the explosion and find the reverse shock emission peaks at a later
+  time due to its reduced Lorentz factor and modified density and pressure at the
+  shock front. These calculations are performed using a novel numerical technique
+  that includes a moving computational grid. The moving grid is essential as it maintains
+  contact discontinuities to high precision and can easily evolve flows with extremely
+  large Lorentz factors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775...87D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.7306
+author: Duffell, P. C. and MacFadyen, A. I.
+author_list:
+- family: Duffell
+  given: P. C.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-10 22:15:27 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/775/2/87
+eid: '87'
+eprint: '1302.7306'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, magnetic fields, methods: numerical,
+  relativistic processes, shock waves, turbulence'
+month: October
+pages: '87'
+papis_id: c5c1aa9f2d8dbdc6d74d67cc3b47d17b
+primaryclass: astro-ph.HE
+ref: duffell.p.2013a
+title: Rayleigh-Taylor Instability in a Relativistic Fireball on a Moving Computational
+  Grid
+type: article
+volume: '775'
+year: '2013'

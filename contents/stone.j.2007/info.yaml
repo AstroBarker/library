@@ -1,0 +1,37 @@
+abstract: We study the magnetic Rayleigh-Taylor instability in three dimensions, with
+  focus on the nonlinear structure and evolution that results from different initial
+  field configurations. We study strong fields in the sense that the critical wavelength
+  lambdac, at which perturbations along the field are stable, is a large fraction
+  of the size of the computational domain. We consider magnetic fields that are initially
+  parallel to the interface, but have a variety of configurations, including uniform
+  everywhere, uniform in the light fluid only, and fields that change direction at
+  the interface. Strong magnetic fields do not suppress instability; in fact, by inhibiting
+  secondary shear instabilities they reduce mixing between the heavy and light fluid
+  and cause the rate of growth of bubbles and fingers to increase in comparison to
+  hydrodynamics. Fields parallel to, but whose direction changes at, the interface
+  produce long, isolated fingers separated by the critical wavelength lambdac, which
+  may be relevant to the morphology of the optical filaments in the Crab nebula.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...671.1726S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.0452
+author: Stone, J. M. and Gardiner, T.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Gardiner
+  given: T.
+date-added: 2017-08-11 06:43:18 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/523099
+eprint: '0709.0452'
+journal: \apj
+keywords: 'Instabilities, ISM: Magnetic Fields, Magnetohydrodynamics: MHD'
+month: December
+pages: 1726--1735
+papis_id: 12e5406e0f497548b33435526fb4b164
+ref: stone.j.2007
+title: The Magnetic Rayleigh-Taylor Instability in Three Dimensions
+type: article
+volume: '671'
+year: '2007'

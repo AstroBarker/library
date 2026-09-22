@@ -1,0 +1,77 @@
+abstract: We report the serendipitous detection by GALEX of fast (<1 day) rising (gsim1
+  mag) UV emission from two Type II plateau (II-P) supernovae (SNe) at z = 0.185 and
+  0.324 discovered by the Supernova Legacy Survey. Optical photometry and VLT spectroscopy
+  2 weeks after the GALEX detections link the onset of UV emission to the time of
+  shock breakout. Using radiation hydrodynamics and non-LTE radiative transfer simulations,
+  and starting from a standard red supergiant (RSG; Type II-P SN progenitor) star
+  evolved self-consistently from the main sequence to iron core collapse, we model
+  the shock breakout phase and the 55 hr that follow. The small scale height of our
+  RSG atmosphere model suggests that the breakout signature is a thermal soft X-ray
+  burst (lambdapeak ~ 90 {\AA}) with a duration of lsim2000 s. Longer durations are
+  possible but require either an extended and tenuous nonstandard envelope or an unusually
+  dense RSG wind with dot M ~ 10-3M\&sun; yr-1. The GALEX observations miss the peak
+  of the luminous (MFUV \approx{} - 20) UV burst but unambiguously capture the rise
+  of the emission and a subsequent 2 day long plateau. The postbreakout, UV-bright
+  plateau is a prediction of our model in which the shift of the peak of the spectral
+  energy distribution (SED) from ~100 to ~1000 {\AA} and the ejecta expansion both
+  counteract the decrease in bolometric luminosity from ~1011 to ~109 L\&sun; over
+  that period. Based on the observed detection efficiency of our study, we make predictions
+  for the breakout detection rate of the GALEX Time Domain Survey.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...683L.131G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.1123
+author: Gezari, S. and Dessart, L. and Basa, S. and Martin, D. C. and Neill, J. D.
+  and Woosley, S. E. and Hillier, D. J. and Bazin, G. and Forster, K. and Friedman,
+  P. G. and Le Du, J. and Mazure, A. and Morrissey, P. and Neff, S. G. and Schiminovich,
+  D. and Wyder, T. K.
+author_list:
+- family: Gezari
+  given: S.
+- family: Dessart
+  given: L.
+- family: Basa
+  given: S.
+- family: Martin
+  given: D. C.
+- family: Neill
+  given: J. D.
+- family: Woosley
+  given: S. E.
+- family: Hillier
+  given: D. J.
+- family: Bazin
+  given: G.
+- family: Forster
+  given: K.
+- family: Friedman
+  given: P. G.
+- family: Le Du
+  given: J.
+- family: Mazure
+  given: A.
+- family: Morrissey
+  given: P.
+- family: Neff
+  given: S. G.
+- family: Schiminovich
+  given: D.
+- family: Wyder
+  given: T. K.
+date-added: 2017-08-10 14:25:17 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/591647
+eid: L131
+eprint: '0804.1123'
+journal: \apjl
+keywords: 'radiative transfer, stars: atmospheres, supernovae: general, ultraviolet:
+  ISM'
+month: August
+pages: L131
+papis_id: 7fe539445c5284330a1ceaa8c18fa0f7
+ref: gezari.s.2008
+title: Probing Shock Breakout with Serendipitous GALEX Detections of Two SNLS Type
+  II-P Supernovae
+type: article
+volume: '683'
+year: '2008'

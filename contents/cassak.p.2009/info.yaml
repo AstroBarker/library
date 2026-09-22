@@ -1,0 +1,43 @@
+abstract: It is widely accepted that magnetic reconnection releases a large amount
+  of energy during solar flares. Studies of reconnection usually assume that the length
+  scale over which the global (macroscopic) magnetic field reverses is identical to
+  the thickness of the reconnection site. However, in spatially extended high-Lundquist
+  number plasmas such as the solar corona, this scenario is untenable; the reconnection
+  site is microscopic and embedded inside the macroscopic current set up by global
+  fields. We use numerical simulations and scaling arguments to show that embedded
+  effects on reconnection could have a profound influence on energy storage before
+  a flare. From large-scale high-Lundquist number resistive magnetohydrodynamics simulations
+  of reconnection with a diffusion region on a much smaller scale than the macroscopic
+  current sheet, we find that the generation of secondary islands is governed by the
+  local magnetic field immediately upstream of the diffusion region rather than the
+  (potentially much larger) global field. This diminishes the production of secondary
+  islands and leads to a thicker diffusion region than those predicted using the global
+  field strength. Such considerations are crucial for understanding the onset of solar
+  eruptions and how energy accumulates before such eruptions. We argue that if reconnection
+  with secondary islands is fast, the energy storage times before an eruption are
+  too small to explain observations. If reconnection with secondary islands remains
+  slow, embedded effects cause the diffusion region to begin far wider than kinetic
+  scales, so energy storage before a flare can occur while collisional (Sweet-Parker)
+  reconnection with secondary islands proceeds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...707L.158C
+author: Cassak, P. A. and Drake, J. F.
+author_list:
+- family: Cassak
+  given: P. A.
+- family: Drake
+  given: J. F.
+date-added: 2017-08-10 23:46:44 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/707/2/L158
+journal: \apjl
+keywords: 'Sun: activity, Sun: chromosphere, Sun: corona, Sun: flares, magnetic fields,
+  MHD'
+month: December
+pages: L158-L162
+papis_id: 2ef02a4545be303cdfab8aed8bd80163
+ref: cassak.p.2009
+title: The Impact of Microscopic Magnetic Reconnection on Pre-Flare Energy Storage
+type: article
+volume: '707'
+year: '2009'

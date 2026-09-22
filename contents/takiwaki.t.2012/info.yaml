@@ -1,0 +1,52 @@
+abstract: We present numerical results on three-dimensional (3D) hydrodynamic core-collapse
+  simulations of an 11.2 M \&sun; star. By comparing one-dimensional (1D) and two-dimensional
+  (2D) results with those of 3D, we study how the increasing spacial multi-dimensionality
+  affects the postbounce supernova dynamics. The calculations were performed with
+  an energy-dependent treatment of the neutrino transport that is solved by the isotropic
+  diffusion source approximation scheme. In agreement with previous study, our 1D
+  model does not produce explosions for the 11.2 M \&sun; star, while the neutrino-driven
+  revival of the stalled bounce shock is obtained in both the 2D and 3D models. The
+  standing accretion-shock instability (SASI) is observed in the 3D models, in which
+  the dominant mode of the SASI is bipolar (l = 2) with its saturation amplitudes
+  being slightly smaller than 2D. By performing a tracer-particle analysis, we show
+  that the maximum residency time of material in the gain region becomes longer in
+  3D than in 2D due to non-axisymmetric flow motions, which is one of advantageous
+  aspects of 3D models to obtain neutrino-driven explosions. Our results show that
+  convective matter motions below the gain radius become much more violent in 3D than
+  in 2D, making the neutrino luminosity larger for 3D. Nevertheless, the emitted neutrino
+  energies are made smaller due to the enhanced cooling. Our results indicate whether
+  these advantages for driving 3D explosions could or could not overwhelm the disadvantages
+  is sensitive to the employed numerical resolutions. An encouraging finding is that
+  the shock expansion tends to become more energetic for models with finer resolutions.
+  To draw a robust conclusion, 3D simulations with much higher numerical resolutions
+  and with more advanced treatment of neutrino transport and of gravity are needed,
+  which could be practicable by utilizing forthcoming Petaflops-class supercomputers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749...98T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.3989
+author: Takiwaki, T. and Kotake, K. and Suwa, Y.
+author_list:
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+- family: Suwa
+  given: Y.
+date-added: 2017-08-10 14:34:00 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/2/98
+eid: '98'
+eprint: '1108.3989'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: April
+pages: '98'
+papis_id: 1b301be6ca83fafba070db529f1f221f
+primaryclass: astro-ph.HE
+ref: takiwaki.t.2012
+title: Three-dimensional Hydrodynamic Core-collapse Supernova Simulations for an 11.2
+  M$_&sun;$ Star with Spectral Neutrino Transport
+type: article
+volume: '749'
+year: '2012'

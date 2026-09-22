@@ -1,0 +1,42 @@
+abstract: We present a synthetic algorithm to rapidly calculate nucleosynthetic yields
+  from populations of single and binary stars for use in population synthesis, globular
+  cluster and Galactic chemical evolution simulations. Single star nucleosynthesis
+  is fitted directly to full evolution models and our model includes first, second
+  and third dredge-ups with s-process enhancements, an analytic calculation for hot-bottom
+  burning of CNO, NeNa and MgAl isotopes, surface enhancements due to wind loss in
+  massive stars and core-collapse supernova yields. Even though this algorithm operates
+  about 107 times faster than full evolution and nucleosynthesis calculations, agreement
+  with such models is good. We extend the single star model to include prescriptions
+  of binary star interactions, notably mass loss and gain by stellar winds and Roche-lobe
+  overflow, novae and type Ia supernovae. As examples of the application of our algorithm
+  we present models of some interesting systems containing chemically peculiar stars
+  that may occur in binaries.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...460..565I
+author: Izzard, R. G. and Dray, L. M. and Karakas, A. I. and Lugaro, M. and Tout,
+  C. A.
+author_list:
+- family: Izzard
+  given: R. G.
+- family: Dray
+  given: L. M.
+- family: Karakas
+  given: A. I.
+- family: Lugaro
+  given: M.
+- family: Tout
+  given: C. A.
+date-added: 2017-08-10 14:18:06 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20066129
+journal: \aap
+keywords: 'stars: abundances, stars: AGB and post-AGB, stars: binaries: general, stars:
+  chemically peculiar, stars: carbon, stars: Wolf-Rayet'
+month: December
+pages: 565--572
+papis_id: 45659051720fb18ab327ac5f21ed7296
+ref: izzard.r.2006
+title: Population nucleosynthesis in single and binary stars. I. Model
+type: article
+volume: '460'
+year: '2006'

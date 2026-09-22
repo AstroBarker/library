@@ -1,0 +1,63 @@
+abstract: Massive stars end their lives in explosions with kinetic energies on the
+  order of 1051 erg. Immediately after the explosion has been launched, a region of
+  low density and high entropy forms behind the ejecta, which is continuously subject
+  to neutrino heating. The neutrinos emitted from the remnant at the center, the protoneutron
+  star (PNS), heat the material above the PNS surface. This heat is partly converted
+  into kinetic energy, and the material accelerates to an outflow that is known as
+  the neutrino-driven wind. For the first time we simulate the collapse, bounce, explosion,
+  and the neutrino-driven wind phases consistently over more than 20 s. Our numerical
+  model is based on spherically symmetric general relativistic radiation hydrodynamics
+  using spectral three-flavor Boltzmann neutrino transport. In simulations where no
+  explosions are obtained naturally, we model neutrino-driven explosions for low-
+  and intermediate-mass Fe-core progenitor stars by enhancing the charged current
+  reaction rates. In the case of a special progenitor star, the 8.8 M\_\&sun; O-Ne-Mg-core,
+  the explosion in spherical symmetry was obtained without enhanced opacities. The
+  post-explosion evolution is in qualitative agreement with static steady-state and
+  parametrized dynamic models of the neutrino-driven wind. On the other hand, we generally
+  find lower neutrino luminosities and mean neutrino energies, as well as a different
+  evolutionary behavior of the neutrino luminosities and mean neutrino energies. The
+  neutrino-driven wind is proton-rich for more than 10 s and the contraction of the
+  PNS differs from the assumptions made for the conditions at the inner boundary in
+  previous neutrino-driven wind studies. Despite the moderately high entropies of
+  about 100 kB/baryon and the fast expansion timescales, the conditions found in our
+  models are unlikely to favor r-process nucleosynthesis. The simulations are carried
+  out until the neutrino-driven wind settles down to a quasi-stationary state. About
+  5 s after the bounce, the peak temperature inside the PNS already starts to decrease
+  because of the continued deleptonization. This moment determines the beginning of
+  a cooling phase dominated by the emission of neutrinos. We discuss the physical
+  conditions of the quasi-static PNS evolution and take the effects of deleptonization
+  and mass accretion from early fallback into account.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...517A..80F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.1871
+author: Fischer, T. and Whitehouse, S. C. and Mezzacappa, A. and Thielemann, F.-K.
+  and Liebendörfer, M.
+author_list:
+- family: Fischer
+  given: T.
+- family: Whitehouse
+  given: S. C.
+- family: Mezzacappa
+  given: A.
+- family: Thielemann
+  given: F.-K.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-10 14:21:03 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1051/0004-6361/200913106
+eid: A80
+eprint: '0908.1871'
+journal: \aap
+keywords: hydrodynamics, neutrinos, radiative transfer, relativistic processes
+month: July
+pages: A80
+papis_id: a2ffa308e9b767acce6f3c795fe8a2e0
+primaryclass: astro-ph.HE
+ref: fischer.t.2010
+title: Protoneutron star evolution and the neutrino-driven wind in general relativistic
+  neutrino radiation hydrodynamics simulations
+type: article
+volume: '517'
+year: '2010'

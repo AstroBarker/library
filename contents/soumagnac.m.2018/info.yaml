@@ -1,0 +1,97 @@
+abstract: 'We present visible-light and ultraviolet (UV) observations of the supernova
+  PTF12glz. The SN was discovered and monitored in near-UV and R bands as part of
+  a joint GALEX and Palomar Transient Factory campaign. It is among the most energetic
+  Type IIn supernovae observed to date (~10^51erg). If the radiated energy mainly
+  came from the thermalization of the shock kinetic energy, we show that PTF12glz
+  was surrounded by ~1 solar mass of circumstellar material (CSM) prior to its explosive
+  death. PTF12glz shows a puzzling peculiarity: at early times, while the freely expanding
+  ejecta are presumably masked by the optically thick CSM, the radius of the blackbody
+  that best fits the observations grows at ~8000km/s. Such a velocity is characteristic
+  of fast moving ejecta rather than optically thick CSM. This phase of radial expansion
+  takes place before any spectroscopic signature of expanding ejecta appears in the
+  spectrum and while both the spectroscopic data and the bolometric luminosity seem
+  to indicate that the CSM is optically thick. We propose a geometrical solution to
+  this puzzle, involving an aspherical structure of the CSM around PTF12glz. By modeling
+  radiative diffusion through a slab of CSM, we show that an aspherical geometry of
+  the CSM can result in a growing effective radius. This simple model also allows
+  us to recover the decreasing blackbody temperature of PTF12glz. SLAB-Diffusion,
+  the code we wrote to model the radiative diffusion of photons through a slab of
+  CSM and evaluate the observed radius and temperature, is made available on-line.'
+adscomment: Sumbitted to ApJ. Comments are welcome
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180804232S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1808.04232
+author: Soumagnac, M. T. and Ofek, E. O. and Gal-Yam, A. and Waxmann, E. and Ginzburg,
+  S. and Linn Strotjohann, N. and Barlow, T. A. and Behar, E. and Chelouche, D. and
+  Fremling, C. and Ganot, N. and Gerazi, S. and Kasliwal, M. M. and Kaspi, S. and
+  Kulkarni, S. R. and Laher, R. R. and Laor, A. and Maoz, D. and Martin, C. D. and
+  Nakar, E. and Neill, J. D. and Netzer, H. and Nugent, P. E. and Poznanski, D. and
+  Schulze, S. and Yaron, O.
+author_list:
+- family: Soumagnac
+  given: M. T.
+- family: Ofek
+  given: E. O.
+- family: Gal-Yam
+  given: A.
+- family: Waxmann
+  given: E.
+- family: Ginzburg
+  given: S.
+- family: Linn Strotjohann
+  given: N.
+- family: Barlow
+  given: T. A.
+- family: Behar
+  given: E.
+- family: Chelouche
+  given: D.
+- family: Fremling
+  given: C.
+- family: Ganot
+  given: N.
+- family: Gerazi
+  given: S.
+- family: Kasliwal
+  given: M. M.
+- family: Kaspi
+  given: S.
+- family: Kulkarni
+  given: S. R.
+- family: Laher
+  given: R. R.
+- family: Laor
+  given: A.
+- family: Maoz
+  given: D.
+- family: Martin
+  given: C. D.
+- family: Nakar
+  given: E.
+- family: Neill
+  given: J. D.
+- family: Netzer
+  given: H.
+- family: Nugent
+  given: P. E.
+- family: Poznanski
+  given: D.
+- family: Schulze
+  given: S.
+- family: Yaron
+  given: O.
+date-added: 2018-08-14 08:46:00 -0400
+date-modified: 2018-08-14 08:46:01 -0400
+eprint: '1808.04232'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar
+  and Stellar Astrophysics
+month: August
+papis_id: f274ea8c7455d730bf71517399ac24ac
+primaryclass: astro-ph.HE
+ref: soumagnac.m.2018
+title: 'Supernova PTF12glz: a possible shock breakout driven through an aspherical
+  wind'
+type: article
+year: '2018'

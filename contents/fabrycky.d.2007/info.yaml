@@ -1,0 +1,43 @@
+abstract: Some short-period exoplanets (``hot Jupiters'') are observed by their transits
+  to have anomalously large radii. It has been suggested that these planets are in
+  a resonance involving persistent misalignment and synchronous precession of their
+  spin and orbital angular momenta (a Cassini state) and that the attendant tidal
+  heating inflates the planet. We argue against this. Using explicit tidal integrations,
+  we show that although an oblique Cassini state can dissipate many times the planet's
+  rotational energy, the rate of dissipation must be much less than hypothesized.
+  Dissipation causes the planetary spin to lie at an angle to the plane containing
+  the orbital and total angular momenta. If dissipation is too rapid, this angle becomes
+  so large that Cassini equilibrium is lost. A separate consideration limits the total
+  energy that can be extracted from the orbit. The source of the torque on the orbit,
+  either an oblique parent star or an inclined third body, aligns with the orbit as
+  it absorbs the angular momentum shed by the planet. Alignment removes the orbital
+  precession required by the Cassini state. In combination with observational bounds
+  on the mass and semimajor axis of a possible second planet and with bounds on the
+  stellar rotation and obliquity, these constraints make it very unlikely that obliquity
+  tides can be the explanation for inflated hot Jupiters, especially HD 209458b.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665..754F
+arxivurl: http://arxiv.org/abs/astro-ph/0703418
+author: Fabrycky, D. C. and Johnson, E. T. and Goodman, J.
+author_list:
+- family: Fabrycky
+  given: D. C.
+- family: Johnson
+  given: E. T.
+- family: Goodman
+  given: J.
+date-added: 2017-08-10 16:11:02 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519075
+eprint: astro-ph/0703418
+journal: \apj
+keywords: 'Celestial Mechanics, Methods: Analytical, Methods: Numerical, Stars: Planetary
+  Systems, Stars: Individual: Henry Draper Number: HD 209458'
+month: August
+pages: 754--766
+papis_id: 78868f565a18202708ad3b04b1b18aaf
+ref: fabrycky.d.2007
+title: 'Cassini States with Dissipation: Why Obliquity Tides Cannot Inflate Hot Jupiters'
+type: article
+volume: '665'
+year: '2007'

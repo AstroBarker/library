@@ -1,0 +1,44 @@
+abstract: We study the dynamical stability against bar-mode deformation of rapidly
+  spinning neutron stars with differential rotation. We perform fully relativistic
+  three-dimensional simulations of compact stars with M/R>=0.1, where M is the total
+  gravitational mass and R the equatorial circumferential radius. We adopt an adiabatic
+  equation of state with adiabatic index Gamma=2. As in Newtonian theory, we find
+  that stars above a critical value of beta\equiv{}T/W (where T is the rotational
+  kinetic energy and W the gravitational binding energy) are dynamically unstable
+  to bar formation. For our adopted choices of stellar compaction and rotation profile,
+  the critical value of beta=betadGR is ~0.24-0.25, only slightly smaller than the
+  well-known Newtonian value ~0.27 for incompressible Maclaurin spheroids. The critical
+  value depends only very weakly on the degree of differential rotation for the moderate
+  range we surveyed. All unstable stars form bars on a dynamical timescale. Models
+  with sufficiently large beta subsequently form spiral arms and eject mass, driving
+  the remnant to a dynamically stable state. Models with moderately large beta>~betadGR
+  do not develop spiral arms or eject mass but adjust to form dynamically stable ellipsoidal-like
+  configurations. If the bar-mode instability is triggered in supernova collapse or
+  binary neutron star mergers, it could be a strong and observable source of gravitational
+  waves. We determine characteristic wave amplitudes and frequencies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...542..453S
+arxivurl: http://arxiv.org/abs/astro-ph/0005378
+author: Shibata, M. and Baumgarte, T. W. and Shapiro, S. L.
+author_list:
+- family: Shibata
+  given: M.
+- family: Baumgarte
+  given: T. W.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 07:45:48 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/309525
+eprint: astro-ph/0005378
+journal: \apj
+keywords: 'Dense Matter, Relativity, Stars: Neutron, Stars: Rotation'
+month: October
+pages: 453--463
+papis_id: 9c017ff91de0d939ce7d97aa3e865d92
+ref: shibata.m.2000
+title: 'The Bar-Mode Instability in Differentially Rotating Neutron Stars: Simulations
+  in Full General Relativity'
+type: article
+volume: '542'
+year: '2000'

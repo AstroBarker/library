@@ -1,0 +1,46 @@
+abstract: Simulations predict that the first stars in a LambdaCDM universe formed
+  at redshifts z>20 in minihalos with masses of about 106 Msolar. We have studied
+  their radiative feedback by simulating the propagation of ionization fronts (I-fronts)
+  created by these first Population III stars (M\textasteriskcentered=15-500 Msolar)
+  at z=20, within the density field of a cosmological simulation of primordial star
+  formation, outward through the host minihalo and into the surrounding gas. A three-dimensional
+  ray-tracing calculation tracks the I-front once the H II region evolves a ``champagne
+  flow'' inside the minihalo, after the early D-type I-front detaches from the shock
+  and runs ahead, becoming R type. We take account of the hydrodynamic back-reaction
+  by an approximate model of the central wind. We find that the escape fraction of
+  ionizing radiation from the host halo increases with stellar mass, with 0.7<~fesc<~0.9
+  for 80<~M\textasteriskcentered/Msolar<~500. To quantify the ionizing efficiency
+  of these stars as they begin cosmic reionization, we find that for M\textasteriskcentered>~80
+  Msolar, the ratio of gas mass ionized to stellar mass is ~60,000, roughly half the
+  number of ionizing photons released per stellar baryon. Nearby minihalos are shown
+  to trap the I-front, so their centers remain neutral. This is contrary to the recent
+  suggestion that these stars would trigger formation of a second generation by fully
+  ionizing neighboring minihalos, stimulating H2 formation in their cores. Finally,
+  we discuss how the evacuation of gas from the host halo reduces the growth and luminosity
+  of ``miniquasars'' that may form from black hole remnants of the first stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...639..621A
+arxivurl: http://arxiv.org/abs/astro-ph/0507684
+author: Alvarez, M. A. and Bromm, V. and Shapiro, P. R.
+author_list:
+- family: Alvarez
+  given: M. A.
+- family: Bromm
+  given: V.
+- family: Shapiro
+  given: P. R.
+date-added: 2017-08-11 05:41:50 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/499578
+eprint: astro-ph/0507684
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Galaxies: Intergalactic Medium,
+  Stars: Formation'
+month: March
+pages: 621--632
+papis_id: f83e0ec4260855f42ca94d69bfcef84d
+ref: alvarez.m.2006
+title: The H II Region of the First Star
+type: article
+volume: '639'
+year: '2006'

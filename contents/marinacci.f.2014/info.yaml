@@ -1,0 +1,48 @@
+abstract: We present cosmological hydrodynamical simulations of eight Milky Way-sized
+  haloes that have been previously studied with dark matter only in the Aquarius project.
+  For the first time, we employ the moving-mesh code AREPO in zoom simulations combined
+  with a comprehensive model for galaxy formation physics designed for large cosmological
+  simulations. Our simulations form in most of the eight haloes strongly disc-dominated
+  systems with realistic rotation curves, close to exponential surface density profiles,
+  a stellar mass to halo mass ratio that matches expectations from abundance matching
+  techniques, and galaxy sizes and ages consistent with expectations from large galaxy
+  surveys in the local Universe. There is no evidence for any dark matter core formation
+  in our simulations, even so they include repeated baryonic outflows by supernova-driven
+  winds and black hole quasar feedback. For one of our haloes, the object studied
+  in the recent `Aquila' code comparison project, we carried out a resolution study
+  with our techniques, covering a dynamic range of 64 in mass resolution. Without
+  any change in our feedback parameters, the final galaxy properties are reassuringly
+  similar, in contrast to other modelling techniques used in the field that are inherently
+  resolution dependent. This success in producing realistic disc galaxies is reached,
+  in the context of our interstellar medium treatment, without resorting to a high
+  density threshold for star formation, a low star formation efficiency, or early
+  stellar feedback, factors deemed crucial for disc formation by other recent numerical
+  studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.437.1750M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.5360
+author: Marinacci, F. and Pakmor, R. and Springel, V.
+author_list:
+- family: Marinacci
+  given: F.
+- family: Pakmor
+  given: R.
+- family: Springel
+  given: V.
+date-added: 2017-08-11 07:29:53 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1093/mnras/stt2003
+eprint: '1305.5360'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: evolution, galaxies: formation, galaxies:
+  spiral'
+month: January
+pages: 1750--1775
+papis_id: 47b6f868174d7a8a0c2b222ef57410d6
+ref: marinacci.f.2014
+title: The formation of disc galaxies in high-resolution moving-mesh cosmological
+  simulations
+type: article
+volume: '437'
+year: '2014'

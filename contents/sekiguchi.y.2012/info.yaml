@@ -1,0 +1,60 @@
+abstract: We describe the current status of our numerical simulations for the collapse
+  of a massive stellar core to a black hole (BH) and the merger of binary neutron
+  stars (BNS), performed in the framework of full general relativity incorporating
+  finite-temperature equations of state (EOS) and neutrino cooling. For the stellar
+  core collapse simulation, we present the latest numerical results. We employed a
+  purely nucleonic EOS derived by Shen et al. [Nucl. Phys. A 637, 435 (1998)]. As
+  an initial condition, we adopted a 100 M\&sun; presupernova model calculated by
+  Umeda and Nomoto [Astrophys. J. 637, 1014 (2008)], which has a massive core (M \approx{}
+  3M\&sun;) with a high value of entropy per baryon (s \approx{} 4kB). Changing the
+  degree of rotation for the initial condition, we clarify the strong dependence of
+  the outcome of the collapse on this. When the rotation is rapid enough, the shock
+  wave formed at the core bounce is deformed to a torus-like shape. Then, the infalling
+  matter accumulates in the central region due to the oblique shock at the torus surface,
+  hitting the proto-neutron star and dissipating the kinetic energy there. As a result,
+  outflows can be launched. The proto-neutron eventually collapses to a BH and an
+  accretion torus is formed around it. We also found that the evolution of the BH
+  and torus depends strongly on the rotation initially given. In the BNS merger simulations,
+  we employ an EOS incorporating a degree of freedom for hyperons derived by Shen
+  et al. [Astrophys. J. Suppl. 197, 20 (2011)], in addition to the purely nucleonic
+  EOS. The numerical simulations show that for the purely nucleonic EOS, a hypermassive
+  neutron star (HMNS) with a long lifetime ( \gg{} 10 ms) is the outcome for the total
+  mass <inline-formula><tex-math notation="LaTeX"><![CDATA[M lesssim 3.0 M\_{odot
+  }]]></tex-math><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PTS011IM1"/></inline-formula>.
+  In contrast, the formed HMNS collapses to a BH in a shorter time scale with the
+  hyperonic EOS for <inline-formula><tex-math notation="LaTeX"><![CDATA[M gtrsim 2.7M\_{odot
+  }]]></tex-math><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PTS011IM2"/></inline-formula>.
+  It is shown that the typical total neutrino luminosity of the HMNS is \texttildelow{}(3-10)
+  \texttimes{} 1053 ergs/s and the effective amplitude of gravitational waves from
+  the HMNS is (2-6) \texttimes{} 10-22 at f \approx{} 2-2.5 kHz for a source distance
+  of 100 Mpc.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PTEP.2012aA304S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.5927
+author: Sekiguchi, Y. and Kiuchi, K. and Kyutoku, K. and Shibata, M.
+author_list:
+- family: Sekiguchi
+  given: Y.
+- family: Kiuchi
+  given: K.
+- family: Kyutoku
+  given: K.
+- family: Shibata
+  given: M.
+date-added: 2017-08-10 16:07:10 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1093/ptep/pts011
+eid: 01A304
+eprint: '1206.5927'
+journal: Progress of Theoretical and Experimental Physics
+month: October
+number: '1'
+pages: 01A304
+papis_id: e644803bd12743dc5263f0a36273eb65
+primaryclass: astro-ph.HE
+ref: sekiguchi.y.2012
+title: Current status of numerical-relativity simulations in Kyoto
+type: article
+volume: '2012'
+year: '2012'

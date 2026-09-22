@@ -1,0 +1,52 @@
+abstract: We present a new multi-dimensional radiation-hydrodynamics code for massive
+  stellar core-collapse in full general relativity (GR). Employing an M1 analytical
+  closure scheme, we solve spectral neutrino transport of the radiation energy and
+  momentum based on a truncated moment formalism. Regarding neutrino opacities, we
+  take into account a baseline set in state-of-the-art simulations, in which inelastic
+  neutrino-electron scattering, thermal neutrino production via pair annihilation,
+  and nucleon-nucleon bremsstrahlung are included. While the Einstein field equations
+  and the spatial advection terms in the radiation-hydrodynamics equations are evolved
+  explicitly, the source terms due to neutrino-matter interactions and energy shift
+  in the radiation moment equations are integrated implicitly by an iteration method.
+  To verify our code, we first perform a series of standard radiation tests with analytical
+  solutions that include the check of gravitational redshift and Doppler shift. A
+  good agreement in these tests supports the reliability of the GR multi-energy neutrino
+  transport scheme. We then conduct several test simulations of core-collapse, bounce,
+  and shock stall of a 15{M}\&sun;  star in the Cartesian coordinates and make a detailed
+  comparison with published results. Our code performs quite well to reproduce the
+  results of full Boltzmann neutrino transport especially before bounce. In the postbounce
+  phase, our code basically performs well, however, there are several differences
+  that are most likely to come from the insufficient spatial resolution in our current
+  3D-GR models. For clarifying the resolution dependence and extending the code comparison
+  in the late postbounce phase, we discuss that next-generation Exaflops class supercomputers
+  are needed at least.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJS..222...20K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1501.06330
+author: Kuroda, T. and Takiwaki, T. and Kotake, K.
+author_list:
+- family: Kuroda
+  given: T.
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+date-added: 2017-08-10 13:54:12 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0067-0049/222/2/20
+eid: '20'
+eprint: '1501.06330'
+journal: \apjs
+keywords: 'hydrodynamics, methods: numerical, neutrinos, radiation: dynamics, supernovae:
+  general'
+month: February
+pages: '20'
+papis_id: c423c62e9ac7e33079183cfce2460fee
+primaryclass: astro-ph.HE
+ref: kuroda.t.2016
+title: A New Multi-energy Neutrino Radiation-Hydrodynamics Code in Full General Relativity
+  and Its Application to the Gravitational Collapse of Massive Stars
+type: article
+volume: '222'
+year: '2016'

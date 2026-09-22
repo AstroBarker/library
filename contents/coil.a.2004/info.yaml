@@ -1,0 +1,80 @@
+abstract: We measure the two-point correlation function xi(rp,pi) in a sample of 2219
+  galaxies between z=0.7 and 1.35 to a magnitude limit of RAB=24.1 from the first
+  season of the DEEP2 Galaxy Redshift Survey. From xi(rp,pi) we recover the real-space
+  correlation function, xi(r), which we find can be approximated within the errors
+  by a power law, xi(r)=(r/r0)-gamma, on scales ~0.1-10 h-1 Mpc. In a sample with
+  an effective redshift of zeff=0.82, for a LambdaCDM cosmology we find r0=3.53+/-0.81
+  h-1 Mpc (comoving) and gamma=1.66+/-0.12, while in a higher redshift sample with
+  zeff=1.14 we find r0=3.12+/-0.72 h-1 Mpc and gamma=1.66+/-0.12. These errors are
+  estimated from mock galaxy catalogs and are dominated by the cosmic variance present
+  in the current data sample. We find that red, absorption-dominated, passively evolving
+  galaxies have a larger clustering scale length, r0, than blue, emission-line, actively
+  star-forming galaxies. Intrinsically brighter galaxies also cluster more strongly
+  than fainter galaxies at z~=1. Our results imply that the DEEP2 galaxies have an
+  effective bias b=0.96+/-0.13 if sigma8DM=1 today or b=1.19+/-0.16 if sigma8DM=0.8
+  today. This bias is lower than that predicted by semianalytic simulations at z~=1,
+  which may be the result of our R-band target selection. We discuss possible evolutionary
+  effects within our survey volume, and we compare our results with galaxy-clustering
+  studies at other redshifts, noting that our star-forming sample at z~=1 has selection
+  criteria very similar to the Lyman break galaxies at z~=3 and that our red, absorption-line
+  sample displays a clustering strength comparable to the expected clustering of the
+  Lyman break galaxy descendants at z~=1. Our results demonstrate that galaxy-clustering
+  properties as a function of color, spectral type, and luminosity seen in the local
+  universe were largely in place by z~=1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...609..525C
+arxivurl: http://arxiv.org/abs/astro-ph/0305586
+author: Coil, A. L. and Davis, M. and Madgwick, D. S. and Newman, J. A. and Conselice,
+  C. J. and Cooper, M. and Ellis, R. S. and Faber, S. M. and Finkbeiner, D. P. and
+  Guhathakurta, P. and Kaiser, N. and Koo, D. C. and Phillips, A. C. and Steidel,
+  C. C. and Weiner, B. J. and Willmer, C. N. A. and Yan, R.
+author_list:
+- family: Coil
+  given: A. L.
+- family: Davis
+  given: M.
+- family: Madgwick
+  given: D. S.
+- family: Newman
+  given: J. A.
+- family: Conselice
+  given: C. J.
+- family: Cooper
+  given: M.
+- family: Ellis
+  given: R. S.
+- family: Faber
+  given: S. M.
+- family: Finkbeiner
+  given: D. P.
+- family: Guhathakurta
+  given: P.
+- family: Kaiser
+  given: N.
+- family: Koo
+  given: D. C.
+- family: Phillips
+  given: A. C.
+- family: Steidel
+  given: C. C.
+- family: Weiner
+  given: B. J.
+- family: Willmer
+  given: C. N. A.
+- family: Yan
+  given: R.
+date-added: 2017-08-11 06:28:37 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421337
+eprint: astro-ph/0305586
+journal: \apj
+keywords: 'Galaxies: Distances and Redshifts, Galaxies: Evolution, Galaxies: High-Redshift,
+  Galaxies: Statistics, Cosmology: Large-Scale Structure of Universe, Surveys'
+month: July
+pages: 525--538
+papis_id: ab34125a7c518fb97fab0b0341666a30
+ref: coil.a.2004
+title: 'The DEEP2 Galaxy Redshift Survey: Clustering of Galaxies in Early Data'
+type: article
+volume: '609'
+year: '2004'

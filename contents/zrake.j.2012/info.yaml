@@ -1,0 +1,45 @@
+abstract: A wide variety of astrophysical phenomena involve the flow of turbulent
+  magnetized gas with relativistic velocity or energy density. Examples include gamma-ray
+  bursts, active galactic nuclei, pulsars, magnetars, micro-quasars, merging neutron
+  stars, X-ray binaries, some supernovae, and the early universe. In order to elucidate
+  the basic properties of the relativistic magnetohydrodynamical (RMHD) turbulence
+  present in these systems, we present results from numerical simulations of fully
+  developed driven turbulence in a relativistically warm, weakly magnetized and mildly
+  compressible ideal fluid. We have evolved the RMHD equations for many dynamical
+  times on a uniform grid with 10243 zones using a high-order Godunov code. We observe
+  the growth of magnetic energy from a seed field through saturation at ~1\% of the
+  total fluid energy. We compute the power spectrum of velocity and density-weighted
+  velocity U = rho1/3 v and conclude that the inertial scaling is consistent with
+  a slope of -5/3. We compute the longitudinal and transverse velocity structure functions
+  of order p up to 11 and discuss their possible deviation from the expected scaling
+  for non-relativistic media. We also compute the scale-dependent distortion of coherent
+  velocity structures with respect to the local magnetic field, finding a weaker scale
+  dependence than is expected for incompressible non-relativistic flows with a strong
+  mean field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...744...32Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.1991
+author: Zrake, J. and MacFadyen, A. I.
+author_list:
+- family: Zrake
+  given: J.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-10 19:38:21 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/744/1/32
+eid: '32'
+eprint: '1108.1991'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, magnetohydrodynamics: MHD, methods:
+  numerical, turbulence'
+month: January
+pages: '32'
+papis_id: 684121bd125d32614b60d160c1df27a8
+primaryclass: astro-ph.HE
+ref: zrake.j.2012
+title: Numerical Simulations of Driven Relativistic Magnetohydrodynamic Turbulence
+type: article
+volume: '744'
+year: '2012'

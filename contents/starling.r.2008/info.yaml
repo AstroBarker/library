@@ -1,0 +1,57 @@
+abstract: We constrain blast wave parameters and the circumburst media of a subsample
+  of 10 BeppoSAX gamma-ray bursts (GRBs). For this sample we derive the values of
+  the injected electron energy distribution index, p, and the density structure index
+  of the circumburst medium, k, from simultaneous spectral fits to their X-ray, optical,
+  and NIR afterglow data. The spectral fits have been done in count space and include
+  the effects of metallicity, and are compared with the previously reported optical
+  and X-ray temporal behavior. Using the blast wave model and some assumptions which
+  include on-axis viewing and standard jet structure, constant blast wave energy,
+  and no evolution of the microphysical parameters, we find a mean value of p for
+  the sample as a whole of 2.04+ 0.02-0.03. A statistical analysis of the distribution
+  demonstrates that the p-values in this sample are inconsistent with a single universal
+  value for p at the 3 sigma level or greater, which has significant implications
+  for particle acceleration models. This approach provides us with a measured distribution
+  of circumburst density structures rather than considering only the cases of k =
+  0 (homogeneous) and k = 2 (windlike). We find five GRBs for which k can be well
+  constrained, and in four of these cases the circumburst medium is clearly windlike.
+  The fifth source has a value of 0 <= k<= 1, consistent with a homogeneous circumburst
+  medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...672..433S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.3718
+author: Starling, R. L. C. and van der Horst, A. J. and Rol, E. and Wijers, R. A.
+  M. J. and Kouveliotou, C. and Wiersema, K. and Curran, P. A. and Weltevrede, P.
+author_list:
+- family: Starling
+  given: R. L. C.
+- family: van der Horst
+  given: A. J.
+- family: Rol
+  given: E.
+- family: Wijers
+  given: R. A. M. J.
+- family: Kouveliotou
+  given: C.
+- family: Wiersema
+  given: K.
+- family: Curran
+  given: P. A.
+- family: Weltevrede
+  given: P.
+date-added: 2017-08-11 04:44:21 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/521975
+eid: 433-442
+eprint: '0704.3718'
+journal: \apj
+keywords: 'gamma rays: bursts'
+month: January
+pages: 433--442
+papis_id: b8afb861df247631070846c165cad386
+ref: starling.r.2008
+title: Gamma-Ray Burst Afterglows as Probes of Environment and Blast Wave Physics.
+  II. The Distribution of p and Structure of the Circumburst Medium
+type: article
+volume: '672'
+year: '2008'

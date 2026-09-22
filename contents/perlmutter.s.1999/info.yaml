@@ -1,0 +1,117 @@
+abstract: 'We report measurements of the mass density, OmegaM, and cosmological-constant
+  energy density, OmegaLambda, of the universe based on the analysis of 42 type Ia
+  supernovae discovered by the Supernova Cosmology Project. The magnitude-redshift
+  data for these supernovae, at redshifts between 0.18 and 0.83, are fitted jointly
+  with a set of supernovae from the Cal{\''a}n/Tololo Supernova Survey, at redshifts
+  below 0.1, to yield values for the cosmological parameters. All supernova peak magnitudes
+  are standardized using a SN Ia light-curve width-luminosity relation. The measurement
+  yields a joint probability distribution of the cosmological parameters that is approximated
+  by the relation 0.8OmegaM-0.6OmegaLambda~-0.2+/-0.1 in the region of interest (OmegaM<~1.5).
+  For a flat (OmegaM+OmegaLambda=1) cosmology we find OmegaflatM=0.28+0.09-0.08 (1
+  sigma statistical) +0.05-0.04 (identified systematics). The data are strongly inconsistent
+  with a Lambda=0 flat cosmology, the simplest inflationary universe model. An open,
+  Lambda=0 cosmology also does not fit the data well: the data indicate that the cosmological
+  constant is nonzero and positive, with a confidence of P(Lambda>0)=99\%, including
+  the identified systematic uncertainties. The best-fit age of the universe relative
+  to the Hubble time is tflat0=14.9+1.4-1.1(0.63/h) Gyr for a flat cosmology. The
+  size of our sample allows us to perform a variety of statistical tests to check
+  for possible systematic errors and biases. We find no significant differences in
+  either the host reddening distribution or Malmquist bias between the low-redshift
+  Cal{\''a}n/Tololo sample and our high-redshift sample. Excluding those few supernovae
+  that are outliers in color excess or fit residual does not significantly change
+  the results. The conclusions are also robust whether or not a width-luminosity relation
+  is used to standardize the supernova peak magnitudes. We discuss and constrain,
+  where possible, hypothetical alternatives to a cosmological constant.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...517..565P
+arxivurl: http://arxiv.org/abs/astro-ph/9812133
+author: Perlmutter, S. and Aldering, G. and Goldhaber, G. and Knop, R. A. and Nugent,
+  P. and Castro, P. G. and Deustua, S. and Fabbro, S. and Goobar, A. and Groom, D.
+  E. and Hook, I. M. and Kim, A. G. and Kim, M. Y. and Lee, J. C. and Nunes, N. J.
+  and Pain, R. and Pennypacker, C. R. and Quimby, R. and Lidman, C. and Ellis, R.
+  S. and Irwin, M. and McMahon, R. G. and Ruiz-Lapuente, P. and Walton, N. and Schaefer,
+  B. and Boyle, B. J. and Filippenko, A. V. and Matheson, T. and Fruchter, A. S. and
+  Panagia, N. and Newberg, H. J. M. and Couch, W. J. and Project, T. S. C.
+author_list:
+- family: Perlmutter
+  given: S.
+- family: Aldering
+  given: G.
+- family: Goldhaber
+  given: G.
+- family: Knop
+  given: R. A.
+- family: Nugent
+  given: P.
+- family: Castro
+  given: P. G.
+- family: Deustua
+  given: S.
+- family: Fabbro
+  given: S.
+- family: Goobar
+  given: A.
+- family: Groom
+  given: D. E.
+- family: Hook
+  given: I. M.
+- family: Kim
+  given: A. G.
+- family: Kim
+  given: M. Y.
+- family: Lee
+  given: J. C.
+- family: Nunes
+  given: N. J.
+- family: Pain
+  given: R.
+- family: Pennypacker
+  given: C. R.
+- family: Quimby
+  given: R.
+- family: Lidman
+  given: C.
+- family: Ellis
+  given: R. S.
+- family: Irwin
+  given: M.
+- family: McMahon
+  given: R. G.
+- family: Ruiz-Lapuente
+  given: P.
+- family: Walton
+  given: N.
+- family: Schaefer
+  given: B.
+- family: Boyle
+  given: B. J.
+- family: Filippenko
+  given: A. V.
+- family: Matheson
+  given: T.
+- family: Fruchter
+  given: A. S.
+- family: Panagia
+  given: N.
+- family: Newberg
+  given: H. J. M.
+- family: Couch
+  given: W. J.
+- family: Project
+  given: T. S. C.
+date-added: 2017-08-10 19:43:41 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307221
+eprint: astro-ph/9812133
+journal: \apj
+keywords: 'COSMOLOGY: OBSERVATIONS, COSMOLOGY: DISTANCE SCALE, STARS: SUPERNOVAE:
+  GENERAL, Cosmology: Observations, Cosmology: Distance Scale, Stars: Supernovae:
+  General'
+month: June
+pages: 565--586
+papis_id: 19a65dd25e6920a4c903ea7513e68186
+ref: perlmutter.s.1999
+title: Measurements of $Ømega$ and \$Łambda\$ from 42 High-Redshift Supernovae
+type: article
+volume: '517'
+year: '1999'

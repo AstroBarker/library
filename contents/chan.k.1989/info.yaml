@@ -1,0 +1,33 @@
+abstract: The behavior of turbulent convection in deep atmospheres is studied by numerically
+  solving the three-dimensional Navier Stokes equations. It is found that the mean
+  vertical velocity is an important link between the buoyancy work and the heat flux.
+  In regions with efficient convection, the total flux is composed of the enthalpy
+  flux and the flux of kinetic energy. The characteristics of these components of
+  the total flux are examined. It is shown that the production of kinetic energy depends
+  on the local variables and the flux. However, the dissipation of kinetic energy
+  is nonlocal. A substantial amount of kinetic energy is carried away from the location
+  of production to be dissipated in lower regions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989ApJ...336.1022C
+author: Chan, K. L. and Sofia, S.
+author_list:
+- family: Chan
+  given: K. L.
+- family: Sofia
+  given: S.
+date-added: 2017-08-11 06:43:54 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/167072
+journal: \apj
+keywords: Compressible Flow, Computational Astrophysics, Convection Currents, Magnetohydrodynamic
+  Turbulence, Stellar Atmospheres, Flow Velocity, Navier-Stokes Equation, Spatial
+  Distribution, Stellar Models, Three Dimensional Flow
+month: January
+pages: 1022--1040
+papis_id: e13ece38a6f6b364336059ddf9f4999d
+ref: chan.k.1989
+title: Turbulent compressible convection in a deep atmosphere. IV - Results of three-dimensional
+  computations
+type: article
+volume: '336'
+year: '1989'

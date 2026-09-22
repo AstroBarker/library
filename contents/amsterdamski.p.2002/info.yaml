@@ -1,0 +1,37 @@
+abstract: When the eccentricity of a Maclaurin spheroid exceeds a critical value (e>0.83458318),
+  circular orbits in the equatorial plane are unstable for a range of orbital radii
+  outside the stellar surface - this is a purely Newtonian effect related to the oblateness
+  of the star. The orbital frequency in the marginally stable orbit, and all other
+  orbits, around Maclaurin spheroids goes to zero in the limit e=1. The orbital and
+  rotational frequencies in exact relativistic numerical models of rotating, axially
+  symmetric, quark stars of very low mass (M<=0.1 M\_sun) coincide with those for
+  Maclaurin spheroids. It is impossible to determine the mass of a rapidly rotating
+  quark star by measuring the maximum orbital frequency alone.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...381L..21A
+arxivurl: http://arxiv.org/abs/astro-ph/0012547
+author: Amsterdamski, P. and Bulik, T. and Gondek-Rosi\ŉska, D. and Kluźniak, W.
+author_list:
+- family: Amsterdamski
+  given: P.
+- family: Bulik
+  given: T.
+- family: Gondek-Rosi\ŉska
+  given: D.
+- family: Kluźniak
+  given: W.
+date-added: 2017-08-11 06:12:50 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1051/0004-6361:20011555
+eprint: astro-ph/0012547
+journal: \aap
+keywords: 'DENSE MATTER, EQUATION OF STATE, STARS: NEUTRON, STARS: BINARIES: GENERAL,
+  X-RAYS: STARS'
+month: January
+pages: L21-L24
+papis_id: 166afd9722bcb94261b83f931295e666
+ref: amsterdamski.p.2002
+title: Marginally stable orbits around Maclaurin spheroids and low-mass quark stars
+type: article
+volume: '381'
+year: '2002'

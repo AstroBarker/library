@@ -1,0 +1,57 @@
+abstract: 'We study the dynamic instabilities of rotating polytropes in the linear
+  regime using an approximate Lagrangian technique and a more precise Eulerian scheme.
+  We consider nonaxisymmetric modes with azimuthal dependence proportional to exp
+  (imphi), where m is an integer and phi is the azimuthal angle, for polytropes with
+  a wide range of compressibilities and angular momentum distributions. We determine
+  stability limits for the m = 2-4 modes and find the eigenvalue and eigenfunction
+  of the most unstable m-mode for given equilibrium models. To the extent that we
+  have explored parameter space, we find that the onset of instability is not very
+  sensitive to the compressibility or angular momentum distribution of the polytrope
+  when the models are parameterized by T/\vert{} W \vert{}. Here T is the rotational
+  kinetic energy, and W is the gravitational energy of the polytrope. The m = 2, 3,
+  and 4 modes become unstable at T/\vert{} W \vert{} ~ 0.26-0.28, 0.29-0.32, and 0.32-0.35,
+  respectively, limits consistent with those of the Maclaurin spheroids to within
+  +/-0.015 in T/\vert{} W \vert{}. The only exception to this occurs for the most
+  compressible polytrope we test and then only for m = 4, where instability sets in
+  at T/\vert{} W \vert{} ~ 0.37-0.39.  The eigenfunctions for the fastest growing
+  low m-modes are similar to those of the Maclaurin spheroid eigenfunctions in that
+  they do not show large vertical motions, are only weakly dependent on z, and increase
+  strongly in amplitude as the equatorial radius of the spheroid is approached. The
+  polytrope eigenfunctions are, however, qualitatively different from the Maclaurin
+  eigenfunctions in one respect: they develop strong spiral arms. The spiral arms
+  are stronger for more compressible polytropes and for polytropes whose angular momentum
+  distributions deviate significantly from those of the Maclaurin spheroids. Nevertheless,
+  our approximate Lagrangian method, which explicitly assumes nonspiral Maclaurin-like
+  trial functions, yields reasonable estimates for the pattern periods and e-folding
+  times of unstable m = 2 modes even for highly compressible and strongly differentially
+  rotating polytropes.  Comparisons for m = 2 between the linear analyses in this
+  paper and nonlinear hydrodynamic simulations give excellent quantitative agreement
+  in eigenfunctions, pattern speeds, and e-folding times for the dynamically unstable
+  modes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...497..370T
+author: Toman, J. and Imamura, J. N. and Pickett, B. K. and Durisen, R. H.
+author_list:
+- family: Toman
+  given: J.
+- family: Imamura
+  given: J. N.
+- family: Pickett
+  given: B. K.
+- family: Durisen
+  given: R. H.
+date-added: 2017-08-11 07:45:27 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305466
+journal: \apj
+keywords: 'HYDRODYNAMICS, INSTABILITIES, STARS: ROTATION, Hydrodynamics, Instabilities,
+  Stars: Rotation'
+month: April
+pages: 370--387
+papis_id: 01013ad96bac23d657d6d3e6ceca52a1
+ref: toman.j.1998
+title: Nonaxisymmetric Dynamic Instabilities of Rotating Polytropes. I. The Kelvin
+  Modes
+type: article
+volume: '497'
+year: '1998'

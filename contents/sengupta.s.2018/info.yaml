@@ -1,0 +1,39 @@
+abstract: We study the effects of rotation on the growth and saturation of the double-diffusive
+  fingering (thermohaline) instability at low Prandtl number. Using direct numerical
+  simulations, we estimate the compositional transport rates as a function of the
+  relevant nondimensional parameters---the Rossby number, inversely proportional to
+  the rotation rate, and the density ratio that measures the relative thermal and
+  compositional stratifications. Within our explored range of parameters, we generally
+  find rotation to have little effect on vertical transport. However, we also present
+  one exceptional case where a cyclonic large-scale vortex (LSV) is observed at low
+  density ratio and fairly low Rossby number. The LSV leads to significant enhancement
+  in the fingering transport rates by concentrating compositionally dense downflows
+  at its core. We argue that the formation of such LSVs could be relevant to solving
+  the missing-mixing problem in RGB stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...862..136S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1804.04258
+author: Sengupta, S. and Garaud, P.
+author_list:
+- family: Sengupta
+  given: S.
+- family: Garaud
+  given: P.
+date-added: 2018-08-06 13:13:30 -0400
+date-modified: 2018-08-06 13:13:33 -0400
+doi: 10.3847/1538-4357/aacbc8
+eid: '136'
+eprint: '1804.04258'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, stars: interiors, stars: rotation, stars:
+  abundances'
+month: August
+pages: '136'
+papis_id: a92716c88af9a936723ef2d3d055a639
+primaryclass: astro-ph.SR
+ref: sengupta.s.2018
+title: The Effect of Rotation on Fingering Convection in Stellar Interiors
+type: article
+volume: '862'
+year: '2018'

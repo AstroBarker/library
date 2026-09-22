@@ -1,0 +1,45 @@
+abstract: We have developed a new computer code, RAM, to solve the conservative equations
+  of special relativistic hydrodynamics (SRHD) using adaptive mesh refinement (AMR)
+  on parallel computers. We have implemented a characteristic-wise, finite-difference,
+  weighted essentially nonoscillatory (WENO) scheme using the full characteristic
+  decomposition of the SRHD equations to achieve fifth-order accuracy in space. For
+  time integration we use the method of lines with a third-order total variation diminishing
+  (TVD) Runge-Kutta scheme. We have also implemented fourth- and fifth-order Runge-Kutta
+  time integration schemes for comparison. The implementation of AMR and parallelization
+  is based on the FLASH code. RAM is modular and includes the capability to easily
+  swap hydrodynamics solvers, reconstruction methods, and physics modules. In addition
+  to WENO, we have implemented a finite-volume module with the piecewise parabolic
+  method for reconstruction and the modified Marquina approximate Riemann solver to
+  work with TVD Runge-Kutta time integration. We examine the difficulty of accurately
+  simulating shear flows in numerical relativistic hydrodynamics codes. We show that
+  underresolved simulations of simple test problems with transverse velocity components
+  produce incorrect results and demonstrate the ability of RAM to correctly solve
+  these problems. RAM has been tested in one, two, and three dimensions and in Cartesian,
+  cylindrical, and spherical coordinates. We have demonstrated fifth-order accuracy
+  for WENO in one and two dimensions and performed detailed comparison with other
+  schemes for which we show significantly lower convergence rates. Extensive testing
+  is presented demonstrating the ability of RAM to address challenging open questions
+  in relativistic astrophysics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..164..255Z
+arxivurl: http://arxiv.org/abs/astro-ph/0505481
+author: Zhang, W. and MacFadyen, A. I.
+author_list:
+- family: Zhang
+  given: W.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-10 23:46:54 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500792
+eprint: astro-ph/0505481
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Relativity'
+month: May
+pages: 255--279
+papis_id: f182ed8237897c18e84fca622a0a05a9
+ref: zhang.w.2006
+title: 'RAM: A Relativistic Adaptive Mesh Refinement Hydrodynamics Code'
+type: article
+volume: '164'
+year: '2006'

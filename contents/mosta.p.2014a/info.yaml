@@ -1,0 +1,58 @@
+abstract: We present results of new three-dimensional (3D) general-relativistic magnetohydrodynamic
+  simulations of rapidly rotating strongly magnetized core collapse. These simulations
+  are the first of their kind and include a microphysical finite-temperature equation
+  of state and a leakage scheme that captures the overall energetics and lepton number
+  exchange due to postbounce neutrino emission. Our results show that the 3D dynamics
+  of magnetorotational core-collapse supernovae are fundamentally different from what
+  was anticipated on the basis of previous simulations in axisymmetry (2D). A strong
+  bipolar jet that develops in a simulation constrained to 2D is crippled by a spiral
+  instability and fizzles in full 3D. While multiple (magneto-)hydrodynamic instabilities
+  may be present, our analysis suggests that the jet is disrupted by an m = 1 kink
+  instability of the ultra-strong toroidal field near the rotation axis. Instead of
+  an axially symmetric jet, a completely new, previously unreported flow structure
+  develops. Highly magnetized spiral plasma funnels expelled from the core push out
+  the shock in polar regions, creating wide secularly expanding lobes. We observe
+  no runaway explosion by the end of the full 3D simulation 185 ms after bounce. At
+  this time, the lobes have reached maximum radii of ~900 km.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...785L..29M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1403.1230
+author: Mösta, P. and Richers, S. and Ott, C. D. and Haas, R. and Piro, A. L. and
+  Boydstun, K. and Abdikamalov, E. and Reisswig, C. and Schnetter, E.
+author_list:
+- family: Mösta
+  given: P.
+- family: Richers
+  given: S.
+- family: Ott
+  given: C. D.
+- family: Haas
+  given: R.
+- family: Piro
+  given: A. L.
+- family: Boydstun
+  given: K.
+- family: Abdikamalov
+  given: E.
+- family: Reisswig
+  given: C.
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 16:20:33 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/2041-8205/785/2/L29
+eid: L29
+eprint: '1403.1230'
+journal: \apjl
+keywords: 'gamma-ray burst: general, instabilities, magnetohydrodynamics: MHD, neutrinos,
+  supernovae: general'
+month: April
+pages: L29
+papis_id: e6225aae259586208c65110b3f5beb2d
+primaryclass: astro-ph.HE
+ref: mosta.p.2014a
+title: Magnetorotational Core-collapse Supernovae in Three Dimensions
+type: article
+volume: '785'
+year: '2014'

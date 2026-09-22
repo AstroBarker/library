@@ -1,0 +1,52 @@
+abstract: We perform hydrodynamic supernova (SN) simulations in spherical symmetry
+  for over 100 single stars of solar metallicity to explore the progenitor-explosion
+  and progenitor-remnant connections established by the neutrino-driven mechanism.
+  We use an approximative treatment of neutrino transport and replace the high-density
+  interior of the neutron star (NS) by an inner boundary condition based on an analytic
+  proto-NS core-cooling model, whose free parameters are chosen such that explosion
+  energy, nickel production, and energy release by the compact remnant of progenitors
+  around 20 M \&sun; are compatible with SN 1987A. Thus, we are able to simulate the
+  accretion phase, initiation of the explosion, subsequent neutrino-driven wind phase
+  for 15-20 s, and the further evolution of the blast wave for hours to days until
+  fallback is completed. Our results challenge long-standing paradigms. We find that
+  remnant mass, launch time, and properties of the explosion depend strongly on the
+  stellar structure and exhibit large variability even in narrow intervals of the
+  progenitors' zero-age main-sequence mass. While all progenitors with masses below
+  ~15 M \&sun; yield NSs, black hole (BH) as well as NS formation is possible for
+  more massive stars, where partial loss of the hydrogen envelope leads to weak reverse
+  shocks and weak fallback. Our NS baryonic masses of ~1.2-2.0 M \&sun; and BH masses
+  >6 M \&sun; are compatible with a possible lack of low-mass BHs in the empirical
+  distribution. Neutrino heating accounts for SN energies between some 1050 erg and
+  ~2 \texttimes{} 1051 erg but can hardly explain more energetic explosions and nickel
+  masses higher than 0.1-0.2 M \&sun;. These seem to require an alternative SN mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...69U
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.3657
+author: Ugliano, M. and Janka, H.-T. and Marek, A. and Arcones, A.
+author_list:
+- family: Ugliano
+  given: M.
+- family: Janka
+  given: H.-T.
+- family: Marek
+  given: A.
+- family: Arcones
+  given: A.
+date-added: 2017-08-10 15:04:04 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/757/1/69
+eid: '69'
+eprint: '1205.3657'
+journal: \apj
+keywords: 'stars: evolution, stars: massive, stars: neutron, supernovae: general'
+month: September
+pages: '69'
+papis_id: 54db2f581a0d12b928e913d4657eae21
+primaryclass: astro-ph.SR
+ref: ugliano.m.2012
+title: Progenitor-explosion Connection and Remnant Birth Masses for Neutrino-driven
+  Supernovae of Iron-core Progenitors
+type: article
+volume: '757'
+year: '2012'

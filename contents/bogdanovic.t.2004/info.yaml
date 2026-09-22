@@ -1,0 +1,47 @@
+abstract: We have modeled the time-variable profiles of the Halpha emission line from
+  the nonaxisymmetric disk and debris tail created in the tidal disruption of a solar-type
+  star by a 106 Msolar black hole. Two tidal disruption events were simulated using
+  a three-dimensional relativistic smoothed particle hydrodynamics code to describe
+  the early evolution of the debris during the first 50-90 days. We have calculated
+  the physical conditions and radiative processes in the debris using the photoionization
+  code CLOUDY. We model the emission-line profiles in the period immediately after
+  the accretion rate onto the black hole became significant. We find that the line
+  profiles at these very early stages of the evolution of the postdisruption debris
+  do not resemble the double-peaked profiles expected from a rotating disk, since
+  the debris has not yet settled into such a stable structure. As a result of the
+  uneven distribution of the debris and the existence of a ``tidal tail'' (the stream
+  of returning debris), the line profiles depend sensitively on the orientation of
+  the tail relative to the line of sight. Moreover, the predicted line profiles vary
+  on fairly short timescales (of the order of hours to days). Given the accretion
+  rate onto the black hole, we also model the Halpha light curve from the debris and
+  the evolution of the Halpha line profiles in time.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...610..707B
+arxivurl: http://arxiv.org/abs/astro-ph/0404256
+author: Bogdanović, T. and Eracleous, M. and Mahadevan, S. and Sigurdsson, S. and
+  Laguna, P.
+author_list:
+- family: Bogdanović
+  given: T.
+- family: Eracleous
+  given: M.
+- family: Mahadevan
+  given: S.
+- family: Sigurdsson
+  given: S.
+- family: Laguna
+  given: P.
+date-added: 2017-08-11 02:02:58 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421758
+eprint: astro-ph/0404256
+journal: \apj
+keywords: 'Black Hole Physics, Galaxies: Nuclei, Hydrodynamics, Line: Profiles'
+month: August
+pages: 707--721
+papis_id: 7c01e2920f6d74522cebe87d00d1b786
+ref: bogdanovic.t.2004
+title: 'Tidal Disruption of a Star by a Black Hole: Observational Signature'
+type: article
+volume: '610'
+year: '2004'

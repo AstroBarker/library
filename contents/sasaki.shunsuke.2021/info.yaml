@@ -1,0 +1,31 @@
+abstract: We have developed phenomenological turbulent effects with one-dimensional
+  (1D) simulation based on Reynolds decomposition. Using the method, we have conducted
+  a systematic study of 320 models changing progenitor mass, mixing-length parameter,
+  and diffusion coefficients for internal energy, turbulent energy, and electron fraction.
+  With employed turbulent effects, supernova explosion can be achieved even in 1D
+  geometry. We find that smaller diffusive transport on the internal energy makes
+  the shock revival faster and explosion energy larger in contrast to the prediction
+  of the previous study. The smaller diffusion keeps the negative entropy gradients
+  and enhances the turbulent pressure, hindering mass accretion in the gain region.
+  The progenitor dependence of explodability is also investigated in the mixing-length
+  parameter plane and diffusion coefficients plane. These simulations would help understand
+  the role of turbulence in core-collapse supernovae.
+archiveprefix: arXiv
+author: Sasaki, Shunsuke and Takiwaki, Tomoya
+author_list:
+- family: Sasaki
+  given: Shunsuke
+- family: Takiwaki
+  given: Tomoya
+eprint: '2110.01187'
+file: :sasaki\_2021 - Impact of Diffusion Coefficients in Phenomenological Turbulent
+  Simulations of Core Collapse Supernovae.pdf:PDF
+keywords: astro-ph.HE
+month: October
+papis_id: c0a30d0d1062d414ed5258c510fd438d
+primaryclass: astro-ph.HE
+ref: sasaki.shunsuke.2021
+title: Impact of diffusion coefficients in phenomenological turbulent simulations
+  of core-collapse supernovae
+type: article
+year: '2021'

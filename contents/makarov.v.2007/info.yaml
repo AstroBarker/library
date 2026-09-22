@@ -1,0 +1,55 @@
+abstract: We analyze the local field of stellar tangential velocities for a sample
+  of 42,339 nonbinary Hipparcos stars with accurate parallaxes, using a vector spherical
+  harmonic formalism. We derive simple relations between the parameters of the classical
+  linear model (Ogorodnikov-Milne) of the local systemic field and low-degree terms
+  of the general vector harmonic decomposition. Taking advantage of these relationships,
+  we determine the solar velocity with respect to the local stars of (VX,VY,VZ)=(10.5,18.5,7.3)+/-0.1
+  km s-1 not corrected for the asymmetric drift with respect to the local standard
+  of rest. If only stars more distant than 100 pc are considered, the peculiar solar
+  motion is (VX,VY,VZ)=(9.9,15.6,6.9)+/-0.2 km s-1. The adverse effects of harmonic
+  leakage, which occurs between the reflex solar motion represented by the three electric
+  vector harmonics in the velocity space and higher degree harmonics in the proper-motion
+  space, are eliminated in our analysis by direct subtraction of the reflex solar
+  velocity in its tangential components for each star. The Oort parameters determined
+  by a straightforward least-squares adjustment in vector spherical harmonics are
+  A=14.0+/-1.4, B=-13.1+/-1.2, K=1.1+/-1.8, and C=-2.9+/-1.4 km s-1 kpc-1. The physical
+  meaning and the implications of these parameters are discussed in the framework
+  of a general linear model of the velocity field. We find a few statistically significant
+  higher degree harmonic terms that do not correspond to any parameters in the classical
+  linear model. One of them, a third-degree electric harmonic, is tentatively explained
+  as the response to a negative linear gradient of rotation velocity with distance
+  from the Galactic plane, which we estimate at ~-20 km s-1 kpc-1. A similar vertical
+  gradient of rotation velocity has been detected for more distant stars representing
+  the thick disk (z>1 kpc), but here we surmise its existence in the thin disk at
+  z<200 pc. The most unexpected and unexplained term within the Ogorodnikov-Milne
+  model is the first-degree magnetic harmonic, representing a rigid rotation of the
+  stellar field about the axis -Y pointing opposite to the direction of rotation.
+  This harmonic comes out with a statistically robust coefficient of 6.2+/-0.9 km
+  s-1 kpc-1 and is also present in the velocity field of more distant stars. The ensuing
+  upward vertical motion of stars in the general direction of the Galactic center
+  and the downward motion in the anticenter direction are opposite to the vector field
+  expected from the stationary Galactic warp model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007AJ....134..367M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.3267
+author: Makarov, V. V. and Murphy, D. W.
+author_list:
+- family: Makarov
+  given: V. V.
+- family: Murphy
+  given: D. W.
+date-added: 2017-08-10 19:07:18 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518242
+eprint: '0705.3267'
+journal: \aj
+keywords: 'astrometry, Galaxy: kinematics and dynamics'
+month: July
+pages: 367--375
+papis_id: 83adaf343cf95becc401c45b6423e65b
+ref: makarov.v.2007
+title: The Local Stellar Velocity Field via Vector Spherical Harmonics
+type: article
+volume: '134'
+year: '2007'

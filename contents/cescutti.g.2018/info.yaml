@@ -1,0 +1,57 @@
+abstract: The main s-process taking place in low-mass stars produces about half of         the
+  elements heavier than iron. It is therefore very important         to determine
+  the importance and impact of nuclear physics         uncertainties on this process.
+  We have performed extensive         nuclear reaction network calculations using
+  individual and         temperature-dependent uncertainties for reactions involving         elements
+  heavier than iron, within a Monte Carlo framework.         Using this technique,
+  we determined the uncertainty in the main         s-process abundance predictions
+  due to nuclear uncertainties         linked to weak interactions and neutron captures
+  on elements         heavier than iron. We also identified the key nuclear reactions         dominating
+  these uncertainties. We found that         {\ensuremath{\beta}}-decay rate uncertainties
+  affect only a few         nuclides near s-process branchings, whereas most of the         uncertainty
+  in the final abundances is caused by uncertainties         in neutron-capture rates,
+  either directly producing or         destroying the nuclide of interest. Combined
+  total nuclear         uncertainties due to reactions on heavy elements are in general         small
+  (less than 50 per cent). Three key reactions,         nevertheless, stand out because
+  they significantly affect the         uncertainties of a large number of nuclides.
+  These are         $^{56}$Fe(n,{\ensuremath{\gamma}}),         \$^{64}\$Ni(n,{\ensuremath{\gamma}}),
+  and         \$^{138}\$Ba(n,{\ensuremath{\gamma}}). We discuss the prospect of         reducing
+  uncertainties in the key reactions identified in this         study with future
+  experiments.
+archiveprefix: arXiv
+author: Cescutti, G. and Hirschi, R. and Nishimura, N. and Hartogh, J. W. den and
+  Rauscher, T. and Murphy, A. St J. and Cristallo, S.
+author_list:
+- family: Cescutti
+  given: G.
+- family: Hirschi
+  given: R.
+- family: Nishimura
+  given: N.
+- family: Hartogh
+  given: J. W. den
+- family: Rauscher
+  given: T.
+- family: Murphy
+  given: A. St J.
+- family: Cristallo
+  given: S.
+doi: 10.1093/mnras/sty1185
+eprint: '1805.01250'
+groups: Nucleosynthesis
+journal: \mnras
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: abundances, stars:
+  AGB and post-AGB, stars: evolution, stars: low-mass, Astrophysics - Solar and Stellar
+  Astrophysics, Nuclear Experiment, Nuclear Theory'
+month: August
+number: '3'
+pages: 4101--4127
+papis_id: d7b48dc67f9a8a2b1842d392c6f9660b
+primaryclass: astro-ph.SR
+ref: cescutti.g.2018
+title: Uncertainties in s-process nucleosynthesis in low-mass stars determined from
+  Monte Carlo variations
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.4101C
+volume: '478'
+year: '2018'

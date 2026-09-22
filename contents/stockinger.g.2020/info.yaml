@@ -1,0 +1,72 @@
+abstract: We present 3D full-sphere supernova simulations of non-rotating low-mass         ({\ensuremath{\sim}}9
+  M$_{☉}$) progenitors, covering the entire         evolution from core collapse through
+  bounce and shock revival,         through shock breakout from the stellar surface,
+  until fallback         is completed several days later. We obtain low-energy explosions         ({\ensuremath{\sim}}0.5-1.0
+  {\texttimes} {}10\$^{50}\$ erg) of         iron-core progenitors at the low-mass
+  end of the core-collapse         supernova (LMCCSN) domain and compare to a super-AGB
+  (sAGB)         progenitor with an oxygen-neon-magnesium core that collapses and         explodes
+  as electron-capture supernova (ECSN). The onset of the         explosion in the
+  LMCCSN models is modelled self-consistently         using the VERTEX-PROMETHEUS
+  code, whereas the ECSN explosion is         modelled using parametric neutrino transport
+  in the PROMETHEUS-         HOTB code, choosing different explosion energies in the
+  range of         previous self-consistent models. The sAGB and LMCCSN progenitors         that
+  share structural similarities have almost spherical         explosions with little
+  metal mixing into the hydrogen envelope.         A LMCCSN with less second dredge-up
+  results in a highly         asymmetric explosion. It shows efficient mixing and
+  dramatic         shock deceleration in the extended hydrogen envelope. Both         properties
+  allow fast nickel plumes to catch up with the shock,         leading to extreme
+  shock deformation and aspherical shock         breakout. Fallback masses of \$\mathord
+  {\lesssim }\, 5\,         \mathord {\times }\, 10^{-3}\$ M\$\_{☉}\$ have no significant         effects
+  on the neutron star (NS) masses and kicks. The         anisotropic fallback carries
+  considerable angular momentum,         however, and determines the spin of the newly
+  born NS. The         LMCCSN model with less second dredge-up results in a         hydrodynamic
+  and neutrino-induced NS kick of >40 km s\$^{-1}\$ and         a NS spin period of
+  {\ensuremath{\sim}}30 ms, both not largely         different from those of the Crab
+  pulsar at birth.
+archiveprefix: arXiv
+author: Stockinger, G. and Janka, H. T. and Kresse, D. and Melson, T. and Ertl, T.
+  and Gabler, M. and Gessner, A. and Wongwathanarat, A. and Tolstov, A. and Leung,
+  S. C. and Nomoto, K. and Heger, A.
+author_list:
+- family: Stockinger
+  given: G.
+- family: Janka
+  given: H. T.
+- family: Kresse
+  given: D.
+- family: Melson
+  given: T.
+- family: Ertl
+  given: T.
+- family: Gabler
+  given: M.
+- family: Gessner
+  given: A.
+- family: Wongwathanarat
+  given: A.
+- family: Tolstov
+  given: A.
+- family: Leung
+  given: S. C.
+- family: Nomoto
+  given: K.
+- family: Heger
+  given: A.
+doi: 10.1093/mnras/staa1691
+eprint: '2005.02420'
+groups: 3D
+journal: \mnras
+keywords: 'supernovae: general, stars: neutron, supernovae: individual: Crab, neutrinos,
+  stars: massive, Hydrodynamics, Astrophysics - High Energy Astrophysical Phenomena'
+month: August
+number: '2'
+pages: 2039--2084
+papis_id: e19caed7ea5372d0acd25d0749c2baaf
+primaryclass: astro-ph.HE
+ref: stockinger.g.2020
+title: Three-dimensional models of core-collapse supernovae from low-mass progenitors
+  with implications for Crab
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2039S
+volume: '496'
+year: '2020'

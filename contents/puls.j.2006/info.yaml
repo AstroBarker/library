@@ -1,0 +1,65 @@
+abstract: 'Context: .Recent results strongly challenge the canonical picture of massive
+  star winds: various evidence indicates that currently accepted mass-loss rates,
+  {dot M}, may need to be revised downwards, by factors extending to one magnitude
+  or even more. This is because the most commonly used mass-loss diagnostics are affected
+  by "clumping" (small-scale density inhomogeneities), influencing our interpretation
+  of observed spectra and fluxes. Aims: .Such downward revisions would have dramatic
+  consequences for the evolution of, and feedback from, massive stars, and thus robust
+  determinations of the clumping properties and mass-loss rates are urgently needed.
+  We present a first attempt concerning this objective, by means of constraining the
+  radial stratification of the so-called clumping factor. Methods: .To this end, we
+  have analyzed a sample of 19 Galactic O-type supergiants/giants, by combining our
+  own and archival data for Halpha, IR, mm and radio fluxes, and using approximate
+  methods, calibrated to more sophisticated models. Clumping has been included into
+  our analysis in the "conventional" way, by assuming the inter-clump matter to be
+  void. Because (almost) all our diagnostics depends on the square of density, we
+  cannot derive absolute clumping factors, but only factors normalized to a certain
+  minimum. Results: .This minimum was usually found to be located in the outermost,
+  radio-emitting region, i.e., the radio mass-loss rates are the lowest ones, compared
+  to {dot M} derived from Halpha and the IR. The radio rates agree well with those
+  predicted by theory, but are only upper limits, due to unknown clumping in the outer
+  wind. Halpha turned out to be a useful tool to derive the clumping properties inside
+  r < 3{ldots}5 Rstar. Our most important result concerns a (physical) difference
+  between denser and thinner winds: for denser winds, the innermost region is more
+  strongly clumped than the outermost one (with a normalized clumping factor of 4.1
+  $\pm$ 1.4), whereas thinner winds have similar clumping properties in the inner
+  and outer regions. Conclusions: .Our findings are compared with theoretical predictions,
+  and the implications are discussed in detail, by assuming different scenarios regarding
+  the still unknown clumping properties of the outer wind.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...454..625P
+arxivurl: http://arxiv.org/abs/astro-ph/0604372
+author: Puls, J. and Markova, N. and Scuderi, S. and Stanghellini, C. and Taranova,
+  O. G. and Burnley, A. W. and Howarth, I. D.
+author_list:
+- family: Puls
+  given: J.
+- family: Markova
+  given: N.
+- family: Scuderi
+  given: S.
+- family: Stanghellini
+  given: C.
+- family: Taranova
+  given: O. G.
+- family: Burnley
+  given: A. W.
+- family: Howarth
+  given: I. D.
+date-added: 2017-08-11 03:10:46 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1051/0004-6361:20065073
+eprint: astro-ph/0604372
+journal: \aap
+keywords: 'infrared: stars, radio continuum: stars, stars: early-type, stars: winds,
+  outflows, stars: mass-loss'
+month: August
+pages: 625--651
+papis_id: ca512438889ee18466957268d63d283b
+ref: puls.j.2006
+title: Bright OB stars in the Galaxy. III. Constraints on the radial stratification
+  of the clumping factor in hot star winds from a combined H$_alpha$, IR and radio
+  analysis
+type: article
+volume: '454'
+year: '2006'

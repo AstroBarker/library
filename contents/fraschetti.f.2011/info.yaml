@@ -1,0 +1,40 @@
+abstract: We present an analytic derivation of the temporal dependence of the perpendicular
+  transport coefficient of charged particles in magnetostatic turbulence, for times
+  smaller than the time needed for charged particles to travel the turbulence correlation
+  length. This time window is left unexplored in most transport models. In our analysis
+  all magnetic scales are taken to be much larger than the particle gyroradius, so
+  that perpendicular transport is assumed to be dominated by the guiding center motion.
+  Particle drift from the local magnetic field lines (MFLs) and magnetic field line
+  random walk are evaluated separately for slab and three-dimensional (3D) isotropic
+  turbulence. Contributions of wavelength scales shorter and longer than the turbulence
+  coherence length are compared. In contrast to the slab case, particles in 3D isotropic
+  turbulence unexpectedly diffuse from local MFLs; this result questions the common
+  assumption that particle magnetization is independent of turbulence geometry. Extensions
+  of this model will allow for a study of solar wind anisotropies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...734...83F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.0955
+author: Fraschetti, F. and Jokipii, J. R.
+author_list:
+- family: Fraschetti
+  given: F.
+- family: Jokipii
+  given: J. R.
+date-added: 2017-08-10 21:58:13 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/734/2/83
+eid: '83'
+eprint: '1104.0955'
+journal: \apj
+keywords: 'cosmic rays, ISM: magnetic fields, turbulence'
+month: June
+pages: '83'
+papis_id: df9b6b7de7f86d1d2414bcbc092fc926
+primaryclass: astro-ph.HE
+ref: fraschetti.f.2011
+title: Time-dependent Perpendicular Transport of Fast Charged Particles in a Turbulent
+  Magnetic Field
+type: article
+volume: '734'
+year: '2011'

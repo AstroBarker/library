@@ -1,0 +1,52 @@
+abstract: In large stars that have exhausted their nuclear fuel, the stellar core
+  collapses to a hot and dense proto-neutron star that cools by the radiation of neutrinos
+  and antineutrinos of all flavors. Depending on its final mass, this may become either
+  a neutron star or a black hole. Black hole formation may be triggered by mass accretion
+  or a change in the high-density equation of state. We consider the possibility that
+  black hole formation happens when the flux of neutrinos is still measurably high.
+  If this occurs, then the neutrino signal from the supernova will be terminated abruptly
+  (the transition takes <~0.5 ms). The properties and duration of the signal before
+  the cutoff are important measures of both the physics and astrophysics of the cooling
+  proto-neutron star. For the event rates expected in present and proposed detectors,
+  the cutoff will generally appear sharp, thus allowing model-independent time-of-flight
+  mass tests for the neutrinos after the cutoff. If black hole formation occurs relatively
+  early, within a few (~1) seconds after core collapse, then the expected luminosities
+  are of order LBH=1052 erg/s per flavor. In this case, the neutrino mass sensitivity
+  can be extraordinary. For a supernova at a distance D=10 kpc, SuperKamiokande can
+  detect a nu\textasciimacron{}e mass down to 1.8 eV by comparing the arrival times
+  of the high-energy and low-energy neutrinos in nu\textasciimacron{}e+p-->e++n. This
+  test will also measure the cutoff time, and will thus allow a mass test of numu
+  and nutau relative to nu\textasciimacron{}e. Assuming that numu and nutau are nearly
+  degenerate, as suggested by the atmospheric neutrino results, masses down to about
+  6 eV can be probed with a proposed lead detector of mass MD=4 kton (OMNIS). Remarkably,
+  the neutrino mass sensitivity scales as (D/LBHMD)1/2. Therefore, direct sensitivity
+  to all three neutrino masses in the interesting few-eV range is realistically possible;
+  there are no other known techniques that have this capability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001PhRvD..63g3011B
+arxivurl: http://arxiv.org/abs/astro-ph/0010398
+author: Beacom, J. F. and Boyd, R. N. and Mezzacappa, A.
+author_list:
+- family: Beacom
+  given: J. F.
+- family: Boyd
+  given: R. N.
+- family: Mezzacappa
+  given: A.
+date-added: 2018-05-10 17:32:13 +0000
+date-modified: 2018-05-10 17:32:13 +0000
+doi: 10.1103/PhysRevD.63.073011
+eid: '073011'
+eprint: astro-ph/0010398
+journal: \prd
+keywords: Neutrino mass and mixing, Physics of black holes, Supernovae, Black holes
+month: April
+number: '7'
+pages: '073011'
+papis_id: 63e5a016bc9e42a7a35807a111767f4d
+ref: beacom.j.2001
+title: Black hole formation in core-collapse supernovae and time-of-flight measurements
+  of the neutrino masses
+type: article
+volume: '63'
+year: '2001'

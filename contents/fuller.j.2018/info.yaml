@@ -1,0 +1,44 @@
+abstract: Pre-supernova (SN) outbursts from massive stars may be driven by hydrodynamical
+  wave energy emerging from the core of the progenitor star during late nuclear-burning
+  phases. Here, we examine the effects of wave heating in stars containing little
+  or no hydrogen, i.e. progenitors of Type IIb/Ib SNe. Because there is no massive
+  hydrogen envelope, wave energy is thermalized near the stellar surface where the
+  overlying atmospheric mass is small but the optical depth is large. Wave energy
+  can thus unbind this material, driving an optically thick, super-Eddington wind.
+  Using 1D hydrodynamic MESA simulations of \texttildelow{}5 M\&sun; He stars, we
+  find that wave heating can drive pre-SN outbursts composed of a dense wind whose
+  mass-loss rate can exceed \texttildelow{}0.1 M\&sun; yr-1. The wind terminal velocities
+  are a few 100 km s-1, and outburst luminosities can reach \texttildelow{}106 L\&sun;.
+  Wave-driven outbursts may be linked with observed or inferred pre-SN outbursts of
+  Type Ibn/transitional/transformational SNe, and pre-SN wave-driven mass loss is
+  a good candidate to produce these types of SNe. However, we also show that non-linear
+  wave breaking in the core of the star may prevent such outbursts in stars with thick
+  convective helium-burning shells. Hence, only a limited subset of SN progenitors
+  is likely to experience wave-driven pre-SN outbursts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.476.1853F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.04251
+author: Fuller, J. and Ro, S.
+author_list:
+- family: Fuller
+  given: J.
+- family: Ro
+  given: S.
+date-added: 2018-04-25 23:43:57 +0000
+date-modified: 2018-04-25 23:43:57 +0000
+doi: 10.1093/mnras/sty369
+eprint: '1710.04251'
+journal: \mnras
+keywords: 'circumstellar matter, stars: massive, stars: mass-loss, stars: oscillations,
+  supernovae: general, stars: winds, outflows'
+month: May
+pages: 1853--1868
+papis_id: 45bdb6a03bcdf121c3624b9a9a3481e9
+primaryclass: astro-ph.SR
+ref: fuller.j.2018
+title: Pre-supernova outbursts via wave heating in massive stars - II. Hydrogen-poor
+  stars
+type: article
+volume: '476'
+year: '2018'

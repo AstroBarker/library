@@ -1,0 +1,34 @@
+abstract: We examine global incompressible axisymmetric perturbations of a differentially
+  rotating MHD plasma with radial density gradients. It is shown that the standard
+  magnetorotational instability (MRI) criterion drawn from the local dispersion relation
+  is often misleading. If the equilibrium magnetic field is either purely axial or
+  purely toroidal, the problem reduces to finding the global radial eigenvalues of
+  an effective potential. The standard Keplerian profile including the origin is mathematically
+  ill-posed, and thus any solution will depend strongly on the inner boundary. We
+  find a class of unstable modes localized by the form of the rotation and density
+  profiles, with reduced dependence on boundary conditions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...678.1223P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0802.0274
+author: Pino, J. and Mahajan, S. M.
+author_list:
+- family: Pino
+  given: J.
+- family: Mahajan
+  given: S. M.
+date-added: 2017-08-11 08:00:23 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/586705
+eid: 1223-1229
+eprint: '0802.0274'
+journal: \apj
+keywords: accretion, accretion disks, instabilities, MHD
+month: May
+pages: 1223--1229
+papis_id: feb9f2c14338232b95f2cee296468240
+ref: pino.j.2008
+title: Global Axisymmetric Magnetorotational Instability with Density Gradients
+type: article
+volume: '678'
+year: '2008'

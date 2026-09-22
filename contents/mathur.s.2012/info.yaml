@@ -1,0 +1,134 @@
+abstract: Asteroseismology with the Kepler space telescope is providing not only an
+  improved characterization of exoplanets and their host stars, but also a new window
+  on stellar structure and evolution for the large sample of solar-type stars in the
+  field. We perform a uniform analysis of 22 of the brightest asteroseismic targets
+  with the highest signal-to-noise ratio observed for 1 month each during the first
+  year of the mission, and we quantify the precision and relative accuracy of asteroseismic
+  determinations of the stellar radius, mass, and age that are possible using various
+  methods. We present the properties of each star in the sample derived from an automated
+  analysis of the individual oscillation frequencies and other observational constraints
+  using the Asteroseismic Modeling Portal (AMP), and we compare them to the results
+  of model-grid-based methods that fit the global oscillation properties. We find
+  that fitting the individual frequencies typically yields asteroseismic radii and
+  masses to ~1\% precision, and ages to ~2.5\% precision (respectively, 2, 5, and
+  8 times better than fitting the global oscillation properties). The absolute level
+  of agreement between the results from different approaches is also encouraging,
+  with model-grid-based methods yielding slightly smaller estimates of the radius
+  and mass and slightly older values for the stellar age relative to AMP, which computes
+  a large number of dedicated models for each star. The sample of targets for which
+  this type of analysis is possible will grow as longer data sets are obtained during
+  the remainder of the mission.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749..152M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.2844
+author: Mathur, S. and Metcalfe, T. S. and Woitaszek, M. and Bruntt, H. and Verner,
+  G. A. and Christensen-Dalsgaard, J. and Creevey, O. L. and Do ̌gan, G. and Basu,
+  S. and Karoff, C. and Stello, D. and Appourchaux, T. and Campante, T. L. and Chaplin,
+  W. J. and García, R. A. and Bedding, T. R. and Benomar, O. and Bonanno, A. and Deheuvels,
+  S. and Elsworth, Y. and Gaulme, P. and Guzik, J. A. and Handberg, R. and Hekker,
+  S. and Herzberg, W. and Monteiro, M. J. P. F. G. and Piau, L. and Quirion, P.-O.
+  and Régulo, C. and Roth, M. and Salabert, D. and Serenelli, A. and Thompson, M.
+  J. and Trampedach, R. and White, T. R. and Ballot, J. and Brandão, I. M. and Molenda-Żakowicz,
+  J. and Kjeldsen, H. and Twicken, J. D. and Uddin, K. and Wohler, B.
+author_list:
+- family: Mathur
+  given: S.
+- family: Metcalfe
+  given: T. S.
+- family: Woitaszek
+  given: M.
+- family: Bruntt
+  given: H.
+- family: Verner
+  given: G. A.
+- family: Christensen-Dalsgaard
+  given: J.
+- family: Creevey
+  given: O. L.
+- family: Do ̌gan
+  given: G.
+- family: Basu
+  given: S.
+- family: Karoff
+  given: C.
+- family: Stello
+  given: D.
+- family: Appourchaux
+  given: T.
+- family: Campante
+  given: T. L.
+- family: Chaplin
+  given: W. J.
+- family: García
+  given: R. A.
+- family: Bedding
+  given: T. R.
+- family: Benomar
+  given: O.
+- family: Bonanno
+  given: A.
+- family: Deheuvels
+  given: S.
+- family: Elsworth
+  given: Y.
+- family: Gaulme
+  given: P.
+- family: Guzik
+  given: J. A.
+- family: Handberg
+  given: R.
+- family: Hekker
+  given: S.
+- family: Herzberg
+  given: W.
+- family: Monteiro
+  given: M. J. P. F. G.
+- family: Piau
+  given: L.
+- family: Quirion
+  given: P.-O.
+- family: Régulo
+  given: C.
+- family: Roth
+  given: M.
+- family: Salabert
+  given: D.
+- family: Serenelli
+  given: A.
+- family: Thompson
+  given: M. J.
+- family: Trampedach
+  given: R.
+- family: White
+  given: T. R.
+- family: Ballot
+  given: J.
+- family: Brandão
+  given: I. M.
+- family: Molenda-Żakowicz
+  given: J.
+- family: Kjeldsen
+  given: H.
+- family: Twicken
+  given: J. D.
+- family: Uddin
+  given: K.
+- family: Wohler
+  given: B.
+date-added: 2017-08-10 20:39:24 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/2/152
+eid: '152'
+eprint: '1202.2844'
+journal: \apj
+keywords: 'methods: numerical, stars: evolution, stars: interiors, stars: oscillations'
+month: April
+pages: '152'
+papis_id: f86435316889b4153de8f697401ae9d0
+primaryclass: astro-ph.SR
+ref: mathur.s.2012
+title: A Uniform Asteroseismic Analysis of 22 Solar-type Stars Observed by Kepler
+type: article
+volume: '749'
+year: '2012'

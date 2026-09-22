@@ -1,0 +1,27 @@
+abstract: This paper describes the generation of Gaussian random fields with multiple
+  levels of resolution. We present the theory of adaptive mesh refinement of Gaussian
+  random fields followed by the implementation and testing of a computer code package
+  performing this refinement called ``GRAFIC2.'' This package is available to the
+  computational cosmology community at http://arcturus.mit.edu/grafic/ or by e-mail
+  from the author.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJS..137....1B
+arxivurl: http://arxiv.org/abs/astro-ph/0103301
+author: Bertschinger, E.
+author_list:
+- family: Bertschinger
+  given: E.
+date-added: 2017-08-10 23:25:21 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/322526
+eprint: astro-ph/0103301
+journal: \apjs
+keywords: 'Cosmology: Theory, Methods: Numerical'
+month: November
+pages: 1--20
+papis_id: 4cf6e1d21aad97077d3924211c8ea0d0
+ref: bertschinger.e.2001
+title: Multiscale Gaussian Random Fields and Their Application to Cosmological Simulations
+type: article
+volume: '137'
+year: '2001'

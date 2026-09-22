@@ -1,0 +1,47 @@
+abstract: We present one-dimensional (1D), two-dimensional (2D), and three-dimensional
+  (3D) hydrodynamical simulations of core-collapse supernovae including a parameterized
+  neutrino heating and cooling scheme in order to investigate the critical core neutrino
+  luminosity (L crit) required for explosion. In contrast to some previous works,
+  we find that 3D simulations explode later than 2D simulations, and that L crit at
+  fixed mass accretion rate is somewhat higher in three dimensions than in two dimensions.
+  We find, however, that in two dimensions L crit increases as the numerical resolution
+  of the simulation increases. In contrast to some previous works, we argue that the
+  average entropy of the gain region is in fact not a good indicator of explosion
+  but is rather a reflection of the greater mass in the gain region in two dimensions.
+  We compare our simulations to semi-analytic explosion criteria and examine the nature
+  of the convective motions in two dimensions and three dimensions. We discuss the
+  balance between neutrino-driven buoyancy and drag forces. In particular, we show
+  that the drag force will be proportional to a buoyant plume's surface area while
+  the buoyant force is proportional to a plume's volume and, therefore, plumes with
+  greater volume-to-surface-area ratios will rise more quickly. We show that buoyant
+  plumes in two dimensions are inherently larger, with greater volume-to-surface-area
+  ratios, than plumes in three dimensions. In the scenario that the supernova shock
+  expansion is dominated by neutrino-driven buoyancy, this balance between buoyancy
+  and drag forces may explain why 3D simulations explode later than 2D simulations
+  and why L crit increases with resolution. Finally, we provide a comparison of our
+  results with other calculations in the literature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775...35C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.0010
+author: Couch, S. M.
+author_list:
+- family: Couch
+  given: S. M.
+date-added: 2017-08-10 14:46:18 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/775/1/35
+eid: '35'
+eprint: '1212.0010'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, stars: interiors, supernovae: general'
+month: September
+pages: '35'
+papis_id: bb58791105e5bf242cd5d980bfa44c14
+primaryclass: astro-ph.HE
+ref: couch.s.2013a
+title: On the Impact of Three Dimensions in Simulations of Neutrino-driven Core-collapse
+  Supernova Explosions
+type: article
+volume: '775'
+year: '2013'

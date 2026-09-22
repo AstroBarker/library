@@ -1,0 +1,60 @@
+abstract: We explore the amplification of magnetic seeds during the formation of the
+  first stars and galaxies. During gravitational collapse, turbulence is created from
+  accretion shocks, which may act to amplify weak magnetic fields in the protostellar
+  cloud. Numerical simulations showed that such turbulence is sub-sonic in the first
+  star-forming minihalos, and highly supersonic in the first galaxies with virial
+  temperatures larger than 104 K. We investigate the magnetic field amplification
+  during the collapse both for Kolmogorov and Burgers-type turbulence with a semi-analytic
+  model that incorporates the effects of gravitational compression and small-scale
+  dynamo amplification. We find that the magnetic field may be substantially amplified
+  before the formation of a disk. On scales of 1/10 of the Jeans length, saturation
+  occurs after ~108 yr. Although the saturation behaviour of the small-scale dynamo
+  is still somewhat uncertain, we expect a saturation field strength of the order
+  ~10-7 n0.5 G in the first star-forming halos, with n the number density in cgs units.
+  In the first galaxies with higher turbulent velocities, the magnetic field strength
+  may be increased by an order of magnitude, and saturation may occur after 106-107
+  yr. In the Kolmogorov case, the magnetic field strength on the integral scale (i.e.
+  the scale with most magnetic power) is higher due to the characteristic power-law
+  indices, but the difference is less than a factor of 2 in the saturated phase. Our
+  results thus indicate that the precise scaling of the turbulent velocity with length
+  scale is of minor importance. They further imply that magnetic fields will be significantly
+  enhanced before the formation of a protostellar disk, where they may change the
+  fragmentation properties of the gas and the accretion rate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...522A.115S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.1135
+author: Schleicher, D. R. G. and Banerjee, R. and Sur, S. and Arshakian, T. G. and
+  Klessen, R. S. and Beck, R. and Spaans, M.
+author_list:
+- family: Schleicher
+  given: D. R. G.
+- family: Banerjee
+  given: R.
+- family: Sur
+  given: S.
+- family: Arshakian
+  given: T. G.
+- family: Klessen
+  given: R. S.
+- family: Beck
+  given: R.
+- family: Spaans
+  given: M.
+date-added: 2017-08-11 01:34:24 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1051/0004-6361/201015184
+eid: A115
+eprint: '1003.1135'
+journal: \aap
+keywords: 'dark ages, reionization, first stars, magnetic fields, dynamo, turbulence,
+  stars: Population III, stars: formation'
+month: November
+pages: A115
+papis_id: 1305fe41cfa1dc747453c5bd4337e80d
+ref: schleicher.d.2010
+title: Small-scale dynamo action during the formation of the first stars and galaxies.
+  I. The ideal MHD limit
+type: article
+volume: '522'
+year: '2010'

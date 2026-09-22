@@ -1,0 +1,52 @@
+abstract: We present the first self-consistent, 3D core-collapse supernova simulations
+  performed with the PROMETHEUS-VERTEX code for a rotating progenitor star. Besides
+  using the angular momentum of the 15 M \&sun; model as obtained in the stellar evolution
+  calculation with an angular frequency of ~10-3 rad s-1 (spin period of more than
+  6000 s) at the Si/Si--O interface, we also computed 2D and 3D cases with no rotation
+  and with a ~300 times shorter rotation period and different angular resolutions.
+  In 2D, only the nonrotating and slowly rotating models explode, while rapid rotation
+  prevents an explosion within 500 ms after bounce because of lower radiated neutrino
+  luminosities and mean energies and thus reduced neutrino heating. In contrast, only
+  the fast-rotating model develops an explosion in 3D when the Si/Si--O interface
+  collapses through the shock. The explosion becomes possible by the support of a
+  powerful standing accretion shock instability spiral mode, which compensates for
+  the reduced neutrino heating and pushes strong shock expansion in the equatorial
+  plane. Fast rotation in 3D leads to a ``two-dimensionalization'' of the turbulent
+  energy spectrum (yielding roughly a -3 instead of a -5/3 power-law slope at intermediate
+  wavelengths) with enhanced kinetic energy on the largest spatial scales. We also
+  introduce a generalization of the ``universal critical luminosity condition'' of
+  Summa et al. to account for the effects of rotation, and we demonstrate its viability
+  for a set of more than 40 core-collapse simulations, including 9 and 20 M \&sun;
+  progenitors, as well as black-hole-forming cases of 40 and 75 M \&sun; stars to
+  be discussed in forthcoming papers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...852...28S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1708.04154
+author: Summa, A. and Janka, H.-T. and Melson, T. and Marek, A.
+author_list:
+- family: Summa
+  given: A.
+- family: Janka
+  given: H.-T.
+- family: Melson
+  given: T.
+- family: Marek
+  given: A.
+date-added: 2018-04-02 14:11:51 +0000
+date-modified: 2018-04-02 14:11:52 +0000
+doi: 10.3847/1538-4357/aa9ce8
+eid: '28'
+eprint: '1708.04154'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, supernovae: general, neutrinos'
+month: January
+pages: '28'
+papis_id: c08130468c5360685bbe084d8f8443e3
+primaryclass: astro-ph.HE
+ref: summa.a.2018
+title: Rotation-supported Neutrino-driven Supernova Explosions in Three Dimensions
+  and the Critical Luminosity Condition
+type: article
+volume: '852'
+year: '2018'

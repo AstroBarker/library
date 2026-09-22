@@ -1,0 +1,49 @@
+abstract: 'We describe the X-ray analysis procedure of the ongoing Chandra Multiwavelength
+  Plane (ChaMPlane) Survey and report the initial results from the analysis of 15
+  selected anti-Galactic center observations (90deg<l<270deg). We describe the X-ray
+  analysis procedures for ChaMPlane using custom-developed analysis tools appropriate
+  for Galactic sources but also of general use: optimum photometry in crowded fields
+  using advanced techniques for overlapping sources, rigorous astrometry and 95\%
+  error circles for combining X-ray images or matching to optical/IR images, and application
+  of quantile analysis for spectral analysis of faint sources. We apply these techniques
+  to 15 anti-Galactic center observations (of 14 distinct fields), in which we have
+  detected 921 X-ray point sources. We present logN-logS distributions and quantile
+  analysis to show that in the hard band (2-8 keV) active galactic nuclei dominate
+  the sources. Complete analysis of all ChaMPlane anti-Galactic center fields will
+  be given in a subsequent paper, followed by papers on sources in the Galactic center
+  and bulge regions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...635..907H
+arxivurl: http://arxiv.org/abs/astro-ph/0509782
+author: Hong, J. and van den Berg, M. and Schlegel, E. M. and Grindlay, J. E. and
+  Koenig, X. and Laycock, S. and Zhao, P.
+author_list:
+- family: Hong
+  given: J.
+- family: van den Berg
+  given: M.
+- family: Schlegel
+  given: E. M.
+- family: Grindlay
+  given: J. E.
+- family: Koenig
+  given: X.
+- family: Laycock
+  given: S.
+- family: Zhao
+  given: P.
+date-added: 2017-08-11 05:07:14 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/496966
+eprint: astro-ph/0509782
+journal: \apj
+keywords: 'Galaxies: Active, X-Rays: Galaxies, X-Rays: General'
+month: December
+pages: 907--919
+papis_id: 19183f0b1f0c5021835f604f531a30f7
+ref: hong.j.2005
+title: 'X-Ray Processing of ChaMPlane Fields: Methods and Initial Results for Selected
+  Anti-Galactic Center Fields'
+type: article
+volume: '635'
+year: '2005'

@@ -1,0 +1,54 @@
+abstract: 'Recent studies have highlighted the sensitivity of core-collapse         supernovae
+  (CCSNe) models to electron-capture (EC) rates on         neutron-rich nuclei near
+  the N = 50 closed-shell region. In this         work, we perform a large suite of
+  one-dimensional CCSN         simulations for 200 stellar progenitors using recently
+  updated         EC rates in this region. For comparison, we repeat the         simulations
+  using two previous implementations of EC rates: a         microphysical library
+  with parametrized N = 50 rates (LMP), and         an older independent-particle
+  approximation (IPA). We follow the         simulations through shock revival up
+  to several seconds post-         bounce, and show that the EC rates produce a consistent
+  imprint         on CCSN properties, often surpassing the role of the progenitor         itself.
+  Notable impacts include the timescale of core collapse,         the electron fraction
+  and mass of the inner core at bounce, the         accretion rate through the shock,
+  the success or failure of         revival, and the properties of the central compact
+  remnant. We         also compare the observable neutrino signal of the         neutronization
+  burst in a DUNE-like detector, and find         consistent impacts on the counts
+  and mean energies. Overall, the         updated rates result in properties that
+  are intermediate between         LMP and IPA, and yet slightly more favorable to
+  explosion than         both.'
+archiveprefix: arXiv
+author: Johnston, Zac and Wasik, Sheldon and Titus, Rachel and Warren, MacKenzie L.
+  and O'Connor, Evan P. and Zegers, Remco and Couch, Sean M.
+author_list:
+- family: Johnston
+  given: Zac
+- family: Wasik
+  given: Sheldon
+- family: Titus
+  given: Rachel
+- family: Warren
+  given: MacKenzie L.
+- family: O'Connor
+  given: Evan P.
+- family: Zegers
+  given: Remco
+- family: Couch
+  given: Sean M.
+doi: 10.3847/1538-4357/ac9306
+eid: '15'
+eprint: '2202.09370'
+journal: \apj
+keywords: Core-collapse supernovae, Supernova neutrinos, Neutrino astronomy, Reaction
+  rates, 304, 1666, 1100, 2081, Astrophysics - High Energy Astrophysical Phenomena
+month: November
+number: '1'
+pages: '15'
+papis_id: d97ec5729852381fbcb94824454fae32
+primaryclass: astro-ph.HE
+ref: johnston.zac.2022
+title: Comparison of Electron Capture Rates in the N = 50 Region using 1D Simulations
+  of Core-collapse Supernovae
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2022ApJ...939...15J
+volume: '939'
+year: '2022'

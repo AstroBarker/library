@@ -1,0 +1,68 @@
+abstract: 'The HUDF09 data are the deepest near-IR observations ever, reaching to
+  29.5 mag. Luminosity functions (LFs) from these new HUDF09 data for 132 z ~ 7 and
+  z ~ 8 galaxies are combined with new LFs for z ~ 5-6 galaxies and the earlier z
+  ~ 4 LF to reach to very faint limits (<0.05 L\textasteriskcentered z = 3). The faint-end
+  slopes alpha are steep: -1.79 $\pm$ 0.12 (z ~ 5), -1.73 \$\pm\$ 0.20 (z ~ 6), -2.01
+  \$\pm\$ 0.21 (z ~ 7), and -1.91 \$\pm\$ 0.32 (z ~ 8). Slopes alpha <~ -2 lead to
+  formally divergent UV fluxes, though galaxies are not expected to form below ~ -
+  10 AB mag. These results have important implications for reionization. The weighted
+  mean slope at z ~ 6-8 is -1.87 \$\pm\$ 0.13. For such steep slopes, and a faint-end
+  limit of -10 AB mag, galaxies provide a very large UV ionizing photon flux. While
+  current results show that galaxies can reionize the universe by z ~ 6, matching
+  the Thomson optical depths is more challenging. Extrapolating the current LF evolution
+  to z > 8, taking alpha to be -1.87 \$\pm\$ 0.13 (the mean value at z ~ 6-8), and
+  adopting typical parameters, we derive Thomson optical depths of 0.061+0.009 - 0.006.
+  However, this result will change if the faint-end slope alpha is not constant with
+  redshift. We test this hypothesis and find a weak, though uncertain, trend to steeper
+  slopes at earlier times (dalpha/dz ~ -0.05 \$\pm\$ 0.04) that would increase the
+  Thomson optical depths to 0.079+0.063 - 0.017, consistent with recent WMAP estimates
+  (tau = 0.088 \$\pm\$ 0.015). It may thus not be necessary to resort to extreme assumptions
+  about the escape fraction or clumping factor. Nevertheless, the uncertainties remain
+  large. Deeper WFC3/IR+ACS observations can further constrain the UV ionizing flux
+  from faint galaxies.  Based on observations made with the NASA/ESA Hubble Space
+  Telescope, which is operated by the Association of Universities for Research in
+  Astronomy, Inc., under NASA contract NAS 5-26555.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...752L...5B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.2038
+author: Bouwens, R. J. and Illingworth, G. D. and Oesch, P. A. and Trenti, M. and
+  Labbé, I. and Franx, M. and Stiavelli, M. and Carollo, C. M. and van Dokkum, P.
+  and Magee, D.
+author_list:
+- family: Bouwens
+  given: R. J.
+- family: Illingworth
+  given: G. D.
+- family: Oesch
+  given: P. A.
+- family: Trenti
+  given: M.
+- family: Labbé
+  given: I.
+- family: Franx
+  given: M.
+- family: Stiavelli
+  given: M.
+- family: Carollo
+  given: C. M.
+- family: van Dokkum
+  given: P.
+- family: Magee
+  given: D.
+date-added: 2017-08-10 20:27:22 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/2041-8205/752/1/L5
+eid: L5
+eprint: '1105.2038'
+journal: \apjl
+keywords: 'galaxies: evolution, galaxies: high-redshift'
+month: June
+pages: L5
+papis_id: 51f0b8f63da967445fad5de596a4c4cb
+ref: bouwens.r.2012
+title: 'Lower-luminosity Galaxies Could Reionize the Universe: Very Steep Faint-end
+  Slopes to the UV Luminosity Functions at z $\gt$= 5-8 from the HUDF09 WFC3/IR Observations'
+type: article
+volume: '752'
+year: '2012'

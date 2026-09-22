@@ -1,0 +1,44 @@
+abstract: Type Ia supernovae (SNe Ia) are thought to be thermonuclear explosions of
+  massive white dwarfs (WDs). We present the first study of multidimensional effects
+  during the final hours prior to the thermonuclear runaway that leads to the explosion.
+  The calculations utilize an implicit, two-dimensional hydrodynamic code. Mixing
+  and the ignition process are studied in detail. We find that the initial chemical
+  structure of the WD is changed, but the material is not fully homogenized. In particular,
+  the exploding WD sustains a central region with a low C/O ratio. This implies that
+  the explosive nuclear burning will begin in a partially carbon-depleted environment.
+  The thermonuclear runaway happens in a well-defined region close to the center.
+  It is induced by compressional heat when matter is brought inward by convective
+  flows. We find no evidence for multiple spot or strong off-center ignition. Convective
+  velocities in the WD are on the order of 100 km s-1, which is well above the effective
+  burning speeds in SNe Ia previously expected right after the runaway. In our calculations,
+  the ignition occurs near the center. Then, for ~0.5-1 s, the speed of the burning
+  front will neither be determined by the laminar speed nor the Rayleigh-Taylor instabilities
+  but by convective flows produced prior to the runaway. The consequences are discussed
+  for our understanding of the detailed physics of the flame propagation, the deflagration
+  to detonation transition, and the nucleosynthesis in the central layers. Our results
+  strongly suggest the preconditioning of the progenitor as a key factor for our understanding
+  of the diversity in SNe Ia.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...568..779H
+arxivurl: http://arxiv.org/abs/astro-ph/0104226
+author: Höflich, P. and Stein, J.
+author_list:
+- family: Höflich
+  given: P.
+- family: Stein
+  given: J.
+date-added: 2017-08-11 04:40:16 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338981
+eprint: astro-ph/0104226
+journal: \apj
+keywords: 'Hydrodynamics, Methods: Numerical, Stars: Supernovae: General, Turbulence,
+  Stars: White Dwarfs'
+month: April
+pages: 779--790
+papis_id: afc8b0b229dd690a94de033860fc6c34
+ref: hoflich.p.2002a
+title: 'On the Thermonuclear Runaway in Type Ia Supernovae: How to Run Away?'
+type: article
+volume: '568'
+year: '2002'

@@ -1,0 +1,48 @@
+abstract: We develop a numerical scheme and code for estimating the energy and momentum
+  transfer via neutrino pair annihilation (nu + {\bar{nu}} --> e^{-}+ e^{+}), bearing
+  in mind the application to the collapsar models of gamma-ray bursts (GRBs). To calculate
+  the neutrino flux illuminated from the accretion disk, we perform a ray-tracing
+  calculation in the framework of special relativity. The numerical accuracy of the
+  developed code is certified by several tests, in which we show comparisons with
+  the corresponding analytical solutions. Using hydrodynamical data in our collapsar
+  simulation, we estimate the annihilation rates in a post-processing manner. We show
+  that the neutrino energy deposition and momentum transfers are strongest near the
+  inner edge of the accretion disk. The beaming effects of special relativity are
+  found to change the annihilation rates by several factors in the polar funnel region.
+  After the accretion disk settles into a stationary state (typically later than ~9
+  s from the onset of gravitational collapse), we find that the neutrino-heating timescale
+  in the vicinity of the polar funnel (lsim80 km) can become shorter than the hydrodynamical
+  timescale, indicating that the neutrino-heated outflows can be launched there. We
+  point out that the momentum transfer can play an important role as the energy deposition
+  for the efficient acceleration of neutrino-driven outflows. Our results suggest
+  that the neutrino pair annihilation has a potential importance equal to the conventional
+  magnetohydrodynamic mechanism for igniting the GRB fireballs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713..304H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.2590
+author: Harikae, S. and Kotake, K. and Takiwaki, T.
+author_list:
+- family: Harikae
+  given: S.
+- family: Kotake
+  given: K.
+- family: Takiwaki
+  given: T.
+date-added: 2017-08-10 21:35:11 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/1/304
+eprint: '0912.2590'
+journal: \apj
+keywords: 'accretion, accretion disks, gamma-ray burst: general, magnetohydrodynamics:
+  MHD, methods: numerical, neutrinos, supernovae: general'
+month: April
+pages: 304--317
+papis_id: 3692d30ed83c5975fe71d8482aea12b0
+primaryclass: astro-ph.HE
+ref: harikae.s.2010a
+title: 'Neutrino Pair Annihilation in Collapsars: A Ray-tracing Method in Special
+  Relativity'
+type: article
+volume: '713'
+year: '2010'

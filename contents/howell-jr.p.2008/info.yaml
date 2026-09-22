@@ -1,0 +1,40 @@
+abstract: A new computational approach to the modeling and design of efficient microfluidic
+  mixers is demonstrated. The mixers created provide far more rapid mixing than previous
+  designs. A set of mixer components is created and mapped using a traditional Navier-Stokes
+  fluid solver. The maps are used to quickly model the effect each component has on
+  the lateral distribution of species in the channel. For a mixer of a given length,
+  all the possible combinations of components can be evaluated, and the best mixer
+  for a given metric can be found. Although the mixers presented in this study are
+  short (length-to-width ratios below 8), they show degrees of mixing comparable to
+  much longer mixers found in the literature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008JMiMi..18k5019H
+author: Howell Jr., P. B. and Mott, D. R. and Ligler, F. S. and Golden, J. P. and
+  Kaplan, C. R. and Oran, E. S.
+author_list:
+- family: Howell Jr.
+  given: P. B.
+- family: Mott
+  given: D. R.
+- family: Ligler
+  given: F. S.
+- family: Golden
+  given: J. P.
+- family: Kaplan
+  given: C. R.
+- family: Oran
+  given: E. S.
+date-added: 2017-08-11 06:41:44 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1088/0960-1317/18/11/115019
+eid: '115019'
+journal: Journal of Micromechanics and Microengineering
+month: November
+number: '11'
+pages: '115019'
+papis_id: a3da5ea5309f70623b601197721a76c5
+ref: howell_jr.p.2008
+title: A combinatorial approach to microfluidic mixing
+type: article
+volume: '18'
+year: '2008'

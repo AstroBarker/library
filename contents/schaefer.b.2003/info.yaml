@@ -1,0 +1,42 @@
+abstract: The characteristic photon energy for gamma-ray bursts (GRBs), Epeak, has
+  a remarkably narrow distribution for bursts of similar peak flux, with values between
+  150 and 600 keV for most faint bursts. This result is surprising within the framework
+  of internal shock models, since spectral shifts associated with the jet's blueshift
+  (by a Lorentz factor of Gamma) and the cosmological redshift (by a factor of 1+z)
+  should cause substantial smearing in the distribution of the spectral peak in the
+  jet's comoving frame, Erest. For the general case where the luminosity (L) varies
+  as GammaN and Erest varies as GammaM, the observed Epeak will vary as L(M+1)/N(1+z)-1.
+  For two independent sets of 20 and 84 bursts, Epeak(1+z) varies as a power law of
+  the luminosity with an index of (M+1)/N=0.36+/-0.03. With this measured value, the
+  above functional dependence of Epeak on L and z results in Epeak being roughly constant
+  for bursts of similar peak flux, P256. Thus, the kinematic smearing will be small,
+  hence allowing the Epeak distribution to be narrow. This model also predicts that
+  bright bursts will have high Epeak-values because they all have some combination
+  of high luminosity (and hence a large blueshift Gamma) and a nearby distance (and
+  hence a small cosmological redshift). Quantitatively, Epeak should vary roughly
+  as P0.36256, and this model prediction is strikingly confirmed with BATSE data by
+  Mallozzi et al. A prediction of this model is that GRBs at very high redshift (z~10)
+  should all appear with Epeak at ~200 keV. A further prediction of this model is
+  that normal bursts with P256 below the BATSE trigger threshold will appear as X-ray
+  flashes with Epeak~70 keV, just as is reported by Kippen et al. and Heise et al.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...583L..71S
+arxivurl: http://arxiv.org/abs/astro-ph/0212453
+author: Schaefer, B. E.
+author_list:
+- family: Schaefer
+  given: B. E.
+date-added: 2017-08-11 06:07:43 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/368106
+eprint: astro-ph/0212453
+journal: \apjl
+keywords: 'Gamma Rays: Bursts'
+month: February
+pages: L71-L74
+papis_id: 2b4c487e58c56e079bd44b0594946f9d
+ref: schaefer.b.2003
+title: Explaining the Gamma-Ray Burst E$_peak$ Distribution
+type: article
+volume: '583'
+year: '2003'

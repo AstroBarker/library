@@ -1,0 +1,51 @@
+abstract: We model the dynamical evolution of primordial black holes (BHs) in dense
+  star clusters using a simplified treatment of stellar dynamics in which the BHs
+  are assumed to remain concentrated in an inner core, completely decoupled from the
+  background stars. Dynamical interactions involving BH binaries are computed exactly
+  and are generated according to a Monte Carlo prescription. Recoil and ejections
+  lead to complete evaporation of the BH core on a timescale ~109 yr for typical globular
+  cluster parameters. Orbital decay driven by gravitational radiation can make binaries
+  merge, and, in some cases, successive mergers can lead to significant BH growth.
+  Our highly simplified treatment of the cluster dynamics allows us to study a large
+  number of models and to compute statistical distributions of outcomes, such as the
+  probability of massive BH growth and retention in a cluster. We find that, in most
+  models, there is a significant probability (~20\%-80\%) of BH growth with final
+  masses >~100 Msolar. In one case, a BH formed with mass ~620 Msolar. However, if
+  the typical merger recoil speed (due to asymmetric emission of gravitational radiation)
+  significantly exceeds the cluster escape speed, no growth ever occurs. Independent
+  of the recoil speed, we find that BH-BH mergers enhanced by dynamical interactions
+  in cluster cores present an important source of gravitational waves for ground-based
+  laser interferometers. Under optimistic conditions, the total rate of detections
+  by Advanced LIGO could be as high as a few tens of events per year from inspiraling
+  BHs from clusters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...637..937O
+arxivurl: http://arxiv.org/abs/astro-ph/0508224
+author: O'Leary, R. M. and Rasio, F. A. and Fregeau, J. M. and Ivanova, N. and O'Shaughnessy,
+  R.
+author_list:
+- family: O'Leary
+  given: R. M.
+- family: Rasio
+  given: F. A.
+- family: Fregeau
+  given: J. M.
+- family: Ivanova
+  given: N.
+- family: O'Shaughnessy
+  given: R.
+date-added: 2017-08-11 08:22:09 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/498446
+eprint: astro-ph/0508224
+journal: \apj
+keywords: 'Black Hole Physics, Galaxies: Kinematics and Dynamics, Galaxies: Star Clusters,
+  Gravitational Waves'
+month: February
+pages: 937--951
+papis_id: cfabb38c9a48ab25f877403fd560c12b
+ref: o_leary.r.2006
+title: Binary Mergers and Growth of Black Holes in Dense Star Clusters
+type: article
+volume: '637'
+year: '2006'

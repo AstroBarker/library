@@ -1,0 +1,38 @@
+abstract: The way in which binary interaction affects the presupernova evolution of
+  massive close binaries and the resulting supernova explosions is investigated systematically
+  by means of a Henyey-type stellar evolution code that was modified to allow its
+  application to binary stellar evolution calculations. The code makes it possible
+  to trace the effects of mass and angular momentum loss from the binary, as well
+  as mass transfer within the binary system. It is found that a large number of binary
+  scenarios can be distinguished, depending on the type of binary interaction and
+  the evolutionary stage of the supernova progenitor at the time of the interaction.
+  Monte Carlo simulations are performed to estimate the frequencies of the occurrence
+  of various scenarios. It is found that, because of a previous binary interaction,
+  15-30 percent of all massive stars (with initial masses greater than about 8 solar
+  masses) become helium stars, and another 5 percent of all massive stars end their
+  lives as blue supergiants rather than as red supergiants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...391..246P
+author: Podsiadlowski, P. and Joss, P. C. and Hsu, J. J. L.
+author_list:
+- family: Podsiadlowski
+  given: P.
+- family: Joss
+  given: P. C.
+- family: Hsu
+  given: J. J. L.
+date-added: 2017-08-10 14:16:19 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171341
+journal: \apj
+keywords: Binary Stars, Massive Stars, Stellar Evolution, Supernovae, Computational
+  Astrophysics, Monte Carlo Method, Stellar Envelopes, Stellar Mass Accretion, Stellar
+  Models, Supernova 1987a
+month: May
+pages: 246--264
+papis_id: 95a0d4fd181aab8d27216e851fe1120e
+ref: podsiadlowski.p.1992
+title: Presupernova evolution in massive interacting binaries
+type: article
+volume: '391'
+year: '1992'

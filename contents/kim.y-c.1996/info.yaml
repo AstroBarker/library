@@ -1,0 +1,49 @@
+abstract: The mixing-length theory (MLT) approximation (Vitense 1953) is used in most
+  stellar evolution codes to describe the structure of the outer, highly superadiabatic,
+  layers of the Sun. This procedure is known to be incorrect because of the MLT's
+  inadequacies in describing convection and because of the need to include the strong
+  coupling between radiation and convection in modeling this region. However, it is
+  not known to what extent and precisely in what ways the MLT approximation distorts
+  the structure of the highly superadiabatic peak in the outer convection zone. The
+  purpose of this paper is to compare the statistical results of a more realistic
+  three-dimensional numerical simulation of shallow convection to the predictions
+  of the MLT. The simulations differ from the previous simulations of Chan \& Sofia
+  (1989) in that they include a treatment of radiative transfer (in the diffusion
+  approximation). The layers are super- adiabatic and exhibit a sharp peak in the
+  temperature gradient. The results we derive from this simulation provide much more
+  information than conventional one-dimensional theories of convective energy transport.
+  We attempt to analyze or condense the information from the simulation to be compared
+  with a traditional "theory" in an effort to establish how much a large eddy simulation
+  can teach us about mean convective transport theories. In this paper we chose to
+  use the mixing-length approximation for comparison.  The standard mixing-length
+  approximation predicts a few linear relationships between local thermodynamic and
+  dynamic quantities, the coefficients of which are functions of the mixing length.
+  In these MLT relations, the ratio of mixing length to the local pressure scale is
+  assumed to be constant over the entire convection zone, including the region of
+  high superadiabaticity where convective energy transfer becomes less efficient.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...461..499K
+author: Kim, Y.-C. and Fox, P. A. and Demarque, P. and Sofia, S.
+author_list:
+- family: Kim
+  given: Y.-C.
+- family: Fox
+  given: P. A.
+- family: Demarque
+  given: P.
+- family: Sofia
+  given: S.
+date-added: 2017-08-11 06:44:00 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/177076
+journal: \apj
+keywords: 'CONVECTION, DIFFUSION, SUN: INTERIOR, TURBULENCE'
+month: April
+pages: '499'
+papis_id: 3263a74081d2ea02af5cf83b7eccc132
+ref: kim.y_c.1996
+title: 'Modeling Convection in the Outer Layers of the Sun: A Comparison with Predictions
+  of the Mixing-Length Approximation'
+type: article
+volume: '461'
+year: '1996'

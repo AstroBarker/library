@@ -1,0 +1,44 @@
+abstract: 'We present the first vertically resolved hydrodynamic simulations of a
+  laterally propagating, deflagrating flame in the thin helium ocean of a rotating
+  accreting neutron star. We use a new hydrodynamics solver tailored to deal with
+  the large discrepancy in horizontal and vertical length-scales typical of neutron
+  star oceans, and which filters out sound waves that would otherwise limit our time
+  steps. We find that the flame moves horizontally with velocities of the order of
+  105 cm s-1, crossing the ocean in a few seconds, broadly consistent with the rise
+  times of Type I X-ray bursts. We address the open question of what drives flame
+  propagation, and find that heat is transported from burning to unburnt fuel by a
+  combination of top-to-bottom conduction and mixing driven by a baroclinic instability.
+  The speed of the flame propagation is therefore a sensitive function of the ocean
+  conductivity and spin: we explore this dependence for an astrophysically relevant
+  range of parameters and find that in general flame propagation is faster for slower
+  rotation and higher conductivity.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.434.3526C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.2872
+author: Cavecchi, Y. and Watts, A. L. and Braithwaite, J. and Levin, Y.
+author_list:
+- family: Cavecchi
+  given: Y.
+- family: Watts
+  given: A. L.
+- family: Braithwaite
+  given: J.
+- family: Levin
+  given: Y.
+date-added: 2017-08-10 17:01:18 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1273
+eprint: '1212.2872'
+journal: \mnras
+keywords: 'hydrodynamics, methods: numerical, stars: neutron, X-rays: bursts'
+month: October
+pages: 3526--3541
+papis_id: 4511780c5da90d47a26da914ec3e5d2f
+primaryclass: astro-ph.HE
+ref: cavecchi.y.2013
+title: Flame propagation on the surfaces of rapidly rotating neutron stars during
+  Type I X-ray bursts
+type: article
+volume: '434'
+year: '2013'

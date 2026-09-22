@@ -1,0 +1,41 @@
+abstract: 'We compare analytic predictions of supernova light curves with recent high
+  quality data from SN2011fe (Ia), from KSN2011b (Ia), and the Palomar Transient Factory
+  (PTF) and the La Silla-QUEST variability survey (LSQ) (Ia). Because of the steady,
+  fast cadence of observations, KSN2011b provides unique new information on SNe Ia:
+  the smoothness of the light curve, which is consistent with significant large-scale
+  mixing during the explosion, possibly due to 3D effects (e.g., Rayleigh-Taylor instabilities),
+  and provides support for a slowly-varying leakage (mean opacity). For a more complex
+  light curve (SN2008D, SNIb), we separate the luminosity due to multiple causes and
+  indicate the possibility of a radioactive plume. The early rise in luminosity is
+  shown to be affected by the opacity (leakage rate) for thermal and non-thermal radiation.
+  A general derivation of Arnett''s rule again shows that it depends upon {\em all}
+  processes heating the plasma, not just radioactive ones, so that SNe Ia will differ
+  from SNe Ibc if the latter have multiple heating processes.'
+adscomment: 18 pages, 7 figures; accepted ApJ 2017; expanded comparative discussion
+  of types Ia, b, and c; succinct presentation of light curve algorithm to help users
+  catch implementation errors
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016arXiv161108746A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1611.08746
+author: Arnett, W. D. and Fryer, C. L. and Matheson, T.
+author_list:
+- family: Arnett
+  given: W. D.
+- family: Fryer
+  given: C. L.
+- family: Matheson
+  given: T.
+date-added: 2017-08-15 16:45:46 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+eprint: '1611.08746'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar
+  and Stellar Astrophysics
+month: November
+papis_id: 1fb6c1fe65529b42c3c9430c0be29b16
+primaryclass: astro-ph.HE
+ref: arnett.w.2016
+title: Pre-nebular light curves of type I supernovae
+type: article
+year: '2016'

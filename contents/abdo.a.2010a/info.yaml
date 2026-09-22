@@ -1,0 +1,459 @@
+abstract: The extragalactic background light (EBL) includes photons with wavelengths
+  from ultraviolet to infrared, which are effective at attenuating gamma rays with
+  energy above ~10 GeV during propagation from sources at cosmological distances.
+  This results in a redshift- and energy-dependent attenuation of the gamma-ray flux
+  of extragalactic sources such as blazars and gamma-ray bursts (GRBs). The Large
+  Area Telescope on board Fermi detects a sample of gamma-ray blazars with redshift
+  up to z ~ 3, and GRBs with redshift up to z ~ 4.3. Using photons above 10 GeV collected
+  by Fermi over more than one year of observations for these sources, we investigate
+  the effect of gamma-ray flux attenuation by the EBL. We place upper limits on the
+  gamma-ray opacity of the universe at various energies and redshifts and compare
+  this with predictions from well-known EBL models. We find that an EBL intensity
+  in the optical-ultraviolet wavelengths as great as predicted by the "baseline" model
+  of Stecker et al. can be ruled out with high confidence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...723.1082A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.0996
+author: Abdo, A. A. and Ackermann, M. and Ajello, M. and Allafort, A. and Atwood,
+  W. B. and Baldini, L. and Ballet, J. and Barbiellini, G. and Baring, M. G. and Bastieri,
+  D. and Baughman, B. M. and Bechtol, K. and Bellazzini, R. and Berenji, B. and Bhat,
+  P. N. and Blandford, R. D. and Bloom, E. D. and Bonamente, E. and Borgland, A. W.
+  and Bouvier, A. and Brandt, T. J. and Bregeon, J. and Brez, A. and Briggs, M. S.
+  and Brigida, M. and Bruel, P. and Buehler, R. and Burnett, T. H. and Buson, S. and
+  Caliandro, G. A. and Cameron, R. A. and Caraveo, P. A. and Carrigan, S. and Casandjian,
+  J. M. and Cavazzuti, E. and Cecchi, C. and Çelik, Ö. and Charles, E. and Chekhtman,
+  A. and Chen, A. W. and Cheung, C. C. and Chiang, J. and Ciprini, S. and Claus, R.
+  and Cohen-Tanugi, J. and Connaughton, V. and Conrad, J. and Costamante, L. and Dermer,
+  C. D. and de Angelis, A. and de Palma, F. and Digel, S. W. and Dingus, B. L. and
+  Silva, E. d. C. e. and Drell, P. S. and Dubois, R. and Favuzzi, C. and Fegan, S.
+  J. and Finke, J. and Fortin, P. and Fukazawa, Y. and Funk, S. and Fusco, P. and
+  Gargano, F. and Gasparrini, D. and Gehrels, N. and Germani, S. and Giglietto, N.
+  and Gilmore, R. C. and Giommi, P. and Giordano, F. and Giroletti, M. and Glanzman,
+  T. and Godfrey, G. and Granot, J. and Greiner, J. and Grenier, I. A. and Grove,
+  J. E. and Guiriec, S. and Gustafsson, M. and Hadasch, D. and Hayashida, M. and Hays,
+  E. and Horan, D. and Hughes, R. E. and Jóhannesson, G. and Johnson, A. S. and Johnson,
+  R. P. and Johnson, W. N. and Kamae, T. and Katagiri, H. and Kataoka, J. and Knödlseder,
+  J. and Kocevski, D. and Kuss, M. and Lande, J. and Latronico, L. and Lee, S.-H.
+  and Llena Garde, M. and Longo, F. and Loparco, F. and Lott, B. and Lovellette, M.
+  N. and Lubrano, P. and Makeev, A. and Mazziotta, M. N. and McConville, W. and McEnery,
+  J. E. and McGlynn, S. and Mehault, J. and Mészáros, P. and Michelson, P. F. and
+  Mizuno, T. and Moiseev, A. A. and Monte, C. and Monzani, M. E. and Moretti, E. and
+  Morselli, A. and Moskalenko, I. V. and Murgia, S. and Nakamori, T. and Naumann-Godo,
+  M. and Nolan, P. L. and Norris, J. P. and Nuss, E. and Ohno, M. and Ohsugi, T. and
+  Okumura, A. and Omodei, N. and Orlando, E. and Ormes, J. F. and Ozaki, M. and Paneque,
+  D. and Panetta, J. H. and Parent, D. and Pelassa, V. and Pepe, M. and Pesce-Rollins,
+  M. and Piron, F. and Porter, T. A. and Primack, J. R. and Rainò, S. and Rando, R.
+  and Razzano, M. and Razzaque, S. and Reimer, A. and Reimer, O. and Reyes, L. C.
+  and Ripken, J. and Ritz, S. and Romani, R. W. and Roth, M. and Sadrozinski, H. F.-W.
+  and Sanchez, D. and Sander, A. and Scargle, J. D. and Schalk, T. L. and Sgrò, C.
+  and Shaw, M. S. and Siskind, E. J. and Smith, P. D. and Spandre, G. and Spinelli,
+  P. and Stecker, F. W. and Strickman, M. S. and Suson, D. J. and Tajima, H. and Takahashi,
+  H. and Takahashi, T. and Tanaka, T. and Thayer, J. B. and Thayer, J. G. and Thompson,
+  D. J. and Tibaldo, L. and Torres, D. F. and Tosti, G. and Tramacere, A. and Uchiyama,
+  Y. and Usher, T. L. and Vandenbroucke, J. and Vasileiou, V. and Vilchez, N. and
+  Vitale, V. and von Kienlin, A. and Waite, A. P. and Wang, P. and Wilson-Hodge, C.
+  and Winer, B. L. and Wood, K. S. and Yamazaki, R. and Yang, Z. and Ylinen, T. and
+  Ziegler, M.
+author_list:
+- family: Abdo
+  given: A. A.
+- family: Ackermann
+  given: M.
+- family: Ajello
+  given: M.
+- family: Allafort
+  given: A.
+- family: Atwood
+  given: W. B.
+- family: Baldini
+  given: L.
+- family: Ballet
+  given: J.
+- family: Barbiellini
+  given: G.
+- family: Baring
+  given: M. G.
+- family: Bastieri
+  given: D.
+- family: Baughman
+  given: B. M.
+- family: Bechtol
+  given: K.
+- family: Bellazzini
+  given: R.
+- family: Berenji
+  given: B.
+- family: Bhat
+  given: P. N.
+- family: Blandford
+  given: R. D.
+- family: Bloom
+  given: E. D.
+- family: Bonamente
+  given: E.
+- family: Borgland
+  given: A. W.
+- family: Bouvier
+  given: A.
+- family: Brandt
+  given: T. J.
+- family: Bregeon
+  given: J.
+- family: Brez
+  given: A.
+- family: Briggs
+  given: M. S.
+- family: Brigida
+  given: M.
+- family: Bruel
+  given: P.
+- family: Buehler
+  given: R.
+- family: Burnett
+  given: T. H.
+- family: Buson
+  given: S.
+- family: Caliandro
+  given: G. A.
+- family: Cameron
+  given: R. A.
+- family: Caraveo
+  given: P. A.
+- family: Carrigan
+  given: S.
+- family: Casandjian
+  given: J. M.
+- family: Cavazzuti
+  given: E.
+- family: Cecchi
+  given: C.
+- family: Çelik
+  given: Ö.
+- family: Charles
+  given: E.
+- family: Chekhtman
+  given: A.
+- family: Chen
+  given: A. W.
+- family: Cheung
+  given: C. C.
+- family: Chiang
+  given: J.
+- family: Ciprini
+  given: S.
+- family: Claus
+  given: R.
+- family: Cohen-Tanugi
+  given: J.
+- family: Connaughton
+  given: V.
+- family: Conrad
+  given: J.
+- family: Costamante
+  given: L.
+- family: Dermer
+  given: C. D.
+- family: de Angelis
+  given: A.
+- family: de Palma
+  given: F.
+- family: Digel
+  given: S. W.
+- family: Dingus
+  given: B. L.
+- family: Silva
+  given: E. d. C. e.
+- family: Drell
+  given: P. S.
+- family: Dubois
+  given: R.
+- family: Favuzzi
+  given: C.
+- family: Fegan
+  given: S. J.
+- family: Finke
+  given: J.
+- family: Fortin
+  given: P.
+- family: Fukazawa
+  given: Y.
+- family: Funk
+  given: S.
+- family: Fusco
+  given: P.
+- family: Gargano
+  given: F.
+- family: Gasparrini
+  given: D.
+- family: Gehrels
+  given: N.
+- family: Germani
+  given: S.
+- family: Giglietto
+  given: N.
+- family: Gilmore
+  given: R. C.
+- family: Giommi
+  given: P.
+- family: Giordano
+  given: F.
+- family: Giroletti
+  given: M.
+- family: Glanzman
+  given: T.
+- family: Godfrey
+  given: G.
+- family: Granot
+  given: J.
+- family: Greiner
+  given: J.
+- family: Grenier
+  given: I. A.
+- family: Grove
+  given: J. E.
+- family: Guiriec
+  given: S.
+- family: Gustafsson
+  given: M.
+- family: Hadasch
+  given: D.
+- family: Hayashida
+  given: M.
+- family: Hays
+  given: E.
+- family: Horan
+  given: D.
+- family: Hughes
+  given: R. E.
+- family: Jóhannesson
+  given: G.
+- family: Johnson
+  given: A. S.
+- family: Johnson
+  given: R. P.
+- family: Johnson
+  given: W. N.
+- family: Kamae
+  given: T.
+- family: Katagiri
+  given: H.
+- family: Kataoka
+  given: J.
+- family: Knödlseder
+  given: J.
+- family: Kocevski
+  given: D.
+- family: Kuss
+  given: M.
+- family: Lande
+  given: J.
+- family: Latronico
+  given: L.
+- family: Lee
+  given: S.-H.
+- family: Llena Garde
+  given: M.
+- family: Longo
+  given: F.
+- family: Loparco
+  given: F.
+- family: Lott
+  given: B.
+- family: Lovellette
+  given: M. N.
+- family: Lubrano
+  given: P.
+- family: Makeev
+  given: A.
+- family: Mazziotta
+  given: M. N.
+- family: McConville
+  given: W.
+- family: McEnery
+  given: J. E.
+- family: McGlynn
+  given: S.
+- family: Mehault
+  given: J.
+- family: Mészáros
+  given: P.
+- family: Michelson
+  given: P. F.
+- family: Mizuno
+  given: T.
+- family: Moiseev
+  given: A. A.
+- family: Monte
+  given: C.
+- family: Monzani
+  given: M. E.
+- family: Moretti
+  given: E.
+- family: Morselli
+  given: A.
+- family: Moskalenko
+  given: I. V.
+- family: Murgia
+  given: S.
+- family: Nakamori
+  given: T.
+- family: Naumann-Godo
+  given: M.
+- family: Nolan
+  given: P. L.
+- family: Norris
+  given: J. P.
+- family: Nuss
+  given: E.
+- family: Ohno
+  given: M.
+- family: Ohsugi
+  given: T.
+- family: Okumura
+  given: A.
+- family: Omodei
+  given: N.
+- family: Orlando
+  given: E.
+- family: Ormes
+  given: J. F.
+- family: Ozaki
+  given: M.
+- family: Paneque
+  given: D.
+- family: Panetta
+  given: J. H.
+- family: Parent
+  given: D.
+- family: Pelassa
+  given: V.
+- family: Pepe
+  given: M.
+- family: Pesce-Rollins
+  given: M.
+- family: Piron
+  given: F.
+- family: Porter
+  given: T. A.
+- family: Primack
+  given: J. R.
+- family: Rainò
+  given: S.
+- family: Rando
+  given: R.
+- family: Razzano
+  given: M.
+- family: Razzaque
+  given: S.
+- family: Reimer
+  given: A.
+- family: Reimer
+  given: O.
+- family: Reyes
+  given: L. C.
+- family: Ripken
+  given: J.
+- family: Ritz
+  given: S.
+- family: Romani
+  given: R. W.
+- family: Roth
+  given: M.
+- family: Sadrozinski
+  given: H. F.-W.
+- family: Sanchez
+  given: D.
+- family: Sander
+  given: A.
+- family: Scargle
+  given: J. D.
+- family: Schalk
+  given: T. L.
+- family: Sgrò
+  given: C.
+- family: Shaw
+  given: M. S.
+- family: Siskind
+  given: E. J.
+- family: Smith
+  given: P. D.
+- family: Spandre
+  given: G.
+- family: Spinelli
+  given: P.
+- family: Stecker
+  given: F. W.
+- family: Strickman
+  given: M. S.
+- family: Suson
+  given: D. J.
+- family: Tajima
+  given: H.
+- family: Takahashi
+  given: H.
+- family: Takahashi
+  given: T.
+- family: Tanaka
+  given: T.
+- family: Thayer
+  given: J. B.
+- family: Thayer
+  given: J. G.
+- family: Thompson
+  given: D. J.
+- family: Tibaldo
+  given: L.
+- family: Torres
+  given: D. F.
+- family: Tosti
+  given: G.
+- family: Tramacere
+  given: A.
+- family: Uchiyama
+  given: Y.
+- family: Usher
+  given: T. L.
+- family: Vandenbroucke
+  given: J.
+- family: Vasileiou
+  given: V.
+- family: Vilchez
+  given: N.
+- family: Vitale
+  given: V.
+- family: von Kienlin
+  given: A.
+- family: Waite
+  given: A. P.
+- family: Wang
+  given: P.
+- family: Wilson-Hodge
+  given: C.
+- family: Winer
+  given: B. L.
+- family: Wood
+  given: K. S.
+- family: Yamazaki
+  given: R.
+- family: Yang
+  given: Z.
+- family: Ylinen
+  given: T.
+- family: Ziegler
+  given: M.
+date-added: 2017-08-11 03:24:35 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/723/2/1082
+eprint: '1005.0996'
+journal: \apj
+keywords: 'diffuse radiation, dust, extinction, gamma rays: general'
+month: November
+pages: 1082--1096
+papis_id: f1024f3bac6145aa63b19282a3221770
+primaryclass: astro-ph.HE
+ref: abdo.a.2010a
+title: Fermi Large Area Telescope Constraints on the Gamma-ray Opacity of the Universe
+type: article
+volume: '723'
+year: '2010'

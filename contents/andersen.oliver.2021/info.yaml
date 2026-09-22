@@ -1,0 +1,47 @@
+abstract: Gravitational waves (GWs) provide unobscured insight into the birthplace
+  of neutron stars (NSs) and black holes in core-collapse supernovae (CCSNe). The
+  nuclear equation of state (EOS) describing these dense environments is yet uncertain,
+  and variations in its prescription affect the proto-neutron star (PNS) and the post-bounce
+  dynamics in CCSNe simulations, subsequently impacting the GW emission. We perform
+  axisymmetric simulations of CCSNe with Skyrme-type EOSs to study how the GW signal
+  and PNS convection zone are impacted by two experimentally accessible EOS parameters,
+  (1) the effective mass of nucleons, $m^\star$, which is crucial in setting the thermal
+  dependence of the EOS, and (2) the isoscalar incompressibility modulus, \$K\_{\rm{sat}}\$.
+  While \$K\_{\rm{sat}}\$ shows little impact, the peak frequency of the GWs has a
+  strong effective mass dependence due to faster contraction of the PNS for higher
+  values of \$m^\star\$ owing to a decreased thermal pressure. These more compact
+  PNSs also exhibit more neutrino heating which drives earlier explosions and correlates
+  with the GW amplitude via accretion plumes striking the PNS, exciting the oscillations.
+  We investigate the spatial origin of the GWs and show the agreement between a frequency-radial
+  distribution of the GW emission and a perturbation analysis. We do not rule out
+  overshoot from below via PNS convection as another moderately strong excitation
+  mechanism in our simulations. We also study the combined effect of effective mass
+  and rotation. In all our simulations we find evidence for a power gap near \ Hz,
+  we investigate its origin and report its EOS dependence.
+archiveprefix: arXiv
+author: Andersen, Oliver Eggenberger and Zha, Shuai and da Silva Schneider, André
+  and Betranhandy, Aurore and Couch, Sean M. and O'Connor, Evan P.
+author_list:
+- family: Andersen
+  given: Oliver Eggenberger
+- family: Zha
+  given: Shuai
+- family: da Silva Schneider
+  given: André
+- family: Betranhandy
+  given: Aurore
+- family: Couch
+  given: Sean M.
+- family: O'Connor
+  given: Evan P.
+eprint: '2106.09734'
+file: :andersen\_2021 - Equation of State Dependence of Gravitational Waves in Core
+  Collapse Supernovae.pdf:PDF
+keywords: astro-ph.HE, nucl-th
+month: June
+papis_id: 609127c6e4375792370044efb118ebc6
+primaryclass: astro-ph.HE
+ref: andersen.oliver.2021
+title: Equation of State Dependence of Gravitational Waves in Core-Collapse Supernovae
+type: article
+year: '2021'

@@ -1,0 +1,49 @@
+abstract: Three-dimensional simulations of turbulent and fully compressible thermal
+  convection in deep atmospheres are presented and analyzed in terms of velocity power
+  spectra, mixing-length theory, and production of vorticity. Density contrasts across
+  these convective layers are typically around 11. The fluid model is that of an ideal
+  gas with a constant thermal conductivity. The piecewise parabolic method (PPM),
+  with thermal conductivity added in, is used to solve the fluid equations of motion.
+  No explicit viscosity is included, and the low numerical viscosity of PPM leads
+  to a very low effective Prandtl number and very high effective Rayleigh number.
+  Mesh resolutions range as high as 512\texttimes{}512\texttimes{}256, and the corresponding
+  effective large-scale Rayleigh numbers range as high as 3.3\texttimes{}1012. Compressional
+  effects lead to intensely turbulent downflow lanes and relatively laminar updrafts,
+  especially near the top boundary. The enstrophy contrast between downflows and upflows
+  increases with mesh resolution (and hence with decreasing viscosity) and ranges
+  as high as a factor of 30 in our highest resolution model. Vorticity is everywhere
+  preferentially aligned with the principal direction of strain associated with the
+  large-scale circulation. Near the top boundary, the strain field associated with
+  the largest scale of convection dominates, which leads to a two-dimensional horizontal
+  network of vortex tubes. For the same reason, both the upper portions of the downflow
+  lanes and the lower portions of the updrafts contain many strong vertical vortex
+  tubes with helicities of random sign. The horizontal vortex tubes near the very
+  top of the downflow lanes tend to come in counterrotating pairs, with one on each
+  side of the downflow lane. Therefore, as with observations of the Sun, there are
+  upflows along each side of the prominent downflows in our simulations. Mach numbers
+  in these convective layers are largest in the upper, more diffuse region. There
+  they range as high as 0.8, which significantly modifies the pressure and gravitational
+  force balance from that which would apply under static conditions. This effect is
+  incorporated into our mixing-length analysis of the simulation data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..127..159P
+author: Porter, D. H. and Woodward, P. R.
+author_list:
+- family: Porter
+  given: D. H.
+- family: Woodward
+  given: P. R.
+date-added: 2017-08-11 03:52:54 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/313310
+journal: \apjs
+keywords: 'CONVECTION, HYDRODYNAMICS, METHODS: NUMERICAL, STARS: INTERIORS, TURBULENCE,
+  Convection, Hydrodynamics, Methods: Numerical, Stars: Interiors, Turbulence'
+month: March
+pages: 159--187
+papis_id: 740a71299f1ef40d6e3ac935794cf26b
+ref: porter.d.2000
+title: Three-dimensional Simulations of Turbulent Compressible Convection
+type: article
+volume: '127'
+year: '2000'

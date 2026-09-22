@@ -1,0 +1,49 @@
+abstract: We present a systematic spectral analysis of 350 bright gamma-ray bursts
+  (GRBs) observed with the Burst and Transient Source Experiment (BATSE; ~30 keV-2
+  MeV) with high temporal and spectral resolution. Our sample was selected from the
+  complete set of 2704 BATSE GRBs based on their energy fluence or peak photon flux
+  values to assure good statistics and included 17 short GRBs. To obtain well-constrained
+  spectral parameters, several photon models were used to fit each spectrum. We compared
+  spectral parameters resulting from the fits using different models, and the spectral
+  parameters that best represent each spectrum were statistically determined, taking
+  into account the parameterization differences among the models. A thorough analysis
+  was performed on 350 time-integrated and 8459 time-resolved burst spectra, and the
+  effects of integration times in determining the spectral parameters were explored.
+  Using the results, we studied correlations among spectral parameters and their evolution
+  pattern within each burst. The resulting spectral catalog is the most comprehensive
+  study of spectral properties of GRB prompt emission to date and is available electronically
+  from the High-Energy Astrophysics Science Archive Research Center (HEASARC). The
+  catalog provides reliable constraints on particle acceleration and emission mechanisms
+  in GRBs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..166..298K
+arxivurl: http://arxiv.org/abs/astro-ph/0601188
+author: Kaneko, Y. and Preece, R. D. and Briggs, M. S. and Paciesas, W. S. and Meegan,
+  C. A. and Band, D. L.
+author_list:
+- family: Kaneko
+  given: Y.
+- family: Preece
+  given: R. D.
+- family: Briggs
+  given: M. S.
+- family: Paciesas
+  given: W. S.
+- family: Meegan
+  given: C. A.
+- family: Band
+  given: D. L.
+date-added: 2017-08-11 05:55:58 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505911
+eprint: astro-ph/0601188
+journal: \apjs
+keywords: 'Catalogs, Gamma Rays: Bursts'
+month: September
+pages: 298--340
+papis_id: 04f64f24f8f7aab52436b332ed8217db
+ref: kaneko.y.2006
+title: The Complete Spectral Catalog of Bright BATSE Gamma-Ray Bursts
+type: article
+volume: '166'
+year: '2006'

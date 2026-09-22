@@ -1,0 +1,44 @@
+abstract: A description is given of the algorithms implemented in the AstroBEAR adaptive
+  mesh-refinement code for ideal magnetohydrodynamics. The code provides several high-resolution
+  shock-capturing schemes which are constructed to maintain conserved quantities of
+  the flow in a finite-volume sense. Divergence-free magnetic field topologies are
+  maintained to machine precision by collating the components of the magnetic field
+  on a cell-interface staggered grid and utilizing the constrained transport approach
+  for integrating the induction equations. The maintenance of magnetic field topologies
+  on adaptive grids is achieved using prolongation and restriction operators which
+  preserve the divergence and curl of the magnetic field across collocated grids of
+  different resolutions. The robustness and correctness of the code is demonstrated
+  by comparing the numerical solution of various tests with analytical solutions or
+  previously published numerical solutions obtained by other codes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..182..519C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.0424
+author: Cunningham, A. J. and Frank, A. and Varnière, P. and Mitran, S. and Jones,
+  T. W.
+author_list:
+- family: Cunningham
+  given: A. J.
+- family: Frank
+  given: A.
+- family: Varnière
+  given: P.
+- family: Mitran
+  given: S.
+- family: Jones
+  given: T. W.
+date-added: 2017-08-10 23:29:30 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0067-0049/182/2/519
+eprint: '0710.0424'
+journal: \apjs
+keywords: 'methods: numerical, MHD'
+month: June
+pages: 519--542
+papis_id: bf8d2f317ff0dfb66255c127b9ae4c0c
+ref: cunningham.a.2009a
+title: 'Simulating Magnetohydrodynamical Flow with Constrained Transport and Adaptive
+  Mesh Refinement: Algorithms and Tests of the AstroBEAR Code'
+type: article
+volume: '182'
+year: '2009'

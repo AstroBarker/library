@@ -1,0 +1,64 @@
+abstract: Over the last decade block-structured adaptive mesh refinement (SAMR) has
+  found increasing use in large, publicly available codes and frameworks. SAMR frameworks
+  have evolved along different paths. Some have stayed focused on specific domain
+  areas, others have pursued a more general functionality, providing the building
+  blocks for a larger variety of applications. In this survey paper we examine a representative
+  set of SAMR packages and SAMR-based codes that have been in existence for half a
+  decade or more, have a reasonably sized and active user base outside of their home
+  institutions, and are publicly available. The set consists of a mix of SAMR packages
+  and application codes that cover a broad range of scientific domains. We look at
+  their high-level frameworks, and their approach to dealing with the advent of radical
+  changes in hardware architecture. The codes included in this survey are BoxLib,
+  Cactus, Chombo, Enzo, FLASH, and Uintah.
+adscomment: Journal of Parallel and Distributed Computing, Volume 74, Issue 12, December
+  2014, Pages 3217-3227; doi:10.1016/j.jpdc.2014.07.001
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016arXiv161008833D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1610.08833
+author: Dubey, A. and Almgren, A. and Bell, J. and Berzins, M. and Brandt, S. and
+  Bryan, G. and Colella, P. and Graves, D. and Lijewski, M. and Löffler, F. and O'Shea,
+  B. and Schnetter, E. and Van Straalen, B. and Weide, K.
+author_list:
+- family: Dubey
+  given: A.
+- family: Almgren
+  given: A.
+- family: Bell
+  given: J.
+- family: Berzins
+  given: M.
+- family: Brandt
+  given: S.
+- family: Bryan
+  given: G.
+- family: Colella
+  given: P.
+- family: Graves
+  given: D.
+- family: Lijewski
+  given: M.
+- family: Löffler
+  given: F.
+- family: O'Shea
+  given: B.
+- family: Schnetter
+  given: E.
+- family: Van Straalen
+  given: B.
+- family: Weide
+  given: K.
+date-added: 2017-08-10 13:58:18 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+eprint: '1610.08833'
+journal: ArXiv e-prints
+keywords: Computer Science - Distributed, Parallel, and Cluster Computing, Astrophysics
+  - High Energy Astrophysical Phenomena, General Relativity and Quantum Cosmology
+month: October
+papis_id: d8f1022d338e48e2a3b24c3d608208a6
+primaryclass: cs.DC
+ref: dubey.a.2016
+title: A Survey of High Level Frameworks in Block-Structured Adaptive Mesh Refinement
+  Packages
+type: article
+year: '2016'

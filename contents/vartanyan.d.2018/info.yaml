@@ -1,0 +1,51 @@
+abstract: We present results of 2D axisymmetric core-collapse supernova simulations,
+  employing the FORNAX code, of nine progenitor models spanning 12 to 25 M\&sun;.
+  Four of the models explode with inelastic scattering off electrons and neutrons
+  as well as the many-body correction to neutrino-nucleon scattering opacities. We
+  show that these four models feature sharp Si-O interfaces in their density profiles,
+  and that the corresponding dip in density reduces the accretion rate around the
+  stalled shock and prompts explosion. The non-exploding models lack such a steep
+  feature, highlighting the Si-O interface as one key to explosion. Furthermore, we
+  show that all of the non-exploding models can be nudged to explosion with modest
+  changes to macrophysical inputs, including moderate rotation and perturbations to
+  infall velocities, as well as to microphysical inputs, including reasonable changes
+  to neutrino-nucleon interaction rates, suggesting that all the models are perhaps
+  close to criticality. Exploding models have energies of few \texttimes{} 1050 ergs
+  at the end of our simulation, and are rising, emphasizing the need to continue these
+  simulations over larger grids and for longer times to reproduce the energies seen
+  in Nature. Morphology of the explosion contributes to the explosion energy, with
+  more isotropic ejecta producing larger explosion energies. We do not find evidence
+  for the Lepton-number Emission Self-Sustained Asymmetry. Finally, we look at PNS
+  properties and explore the role of dimension in our simulations. We find that convection
+  in the proto-neutron star (PNS) produces larger PNS radii as well as greater "numu"
+  luminosities in 2D compared to 1D.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.tmp..786V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1801.08148
+author: Vartanyan, D. and Burrows, A. and Radice, D. and Skinner, M. A. and Dolence,
+  J.
+author_list:
+- family: Vartanyan
+  given: D.
+- family: Burrows
+  given: A.
+- family: Radice
+  given: D.
+- family: Skinner
+  given: M. A.
+- family: Dolence
+  given: J.
+date-added: 2018-04-25 23:32:42 +0000
+date-modified: 2018-07-19 18:42:35 +0000
+doi: 10.1093/mnras/sty809
+eprint: '1801.08148'
+journal: \mnras
+keywords: stars, supernovae, general
+month: March
+papis_id: f4180ea575c39ae17ab85ce883f5a11e
+primaryclass: astro-ph.HE
+ref: vartanyan.d.2018
+title: 'Revival of the Fittest: Exploding Core-Collapse Supernovae from 12 to 25 M$_\sun$'
+type: article
+year: '2018'

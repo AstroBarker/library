@@ -1,0 +1,116 @@
+abstract: We describe the implementation and optimization of the ESSENCE supernova
+  survey, which we have undertaken to measure the dark energy equation-of-state parameter,
+  w=P/(rhoc2). We present a method for optimizing the survey exposure times and cadence
+  to maximize our sensitivity to w for a given fixed amount of telescope time. For
+  our survey on the CTIO 4 m telescope, measuring the luminosity distances and redshifts
+  for supernovae at modest redshifts (z~0.5+/-0.2) is optimal for determining w. We
+  describe the data analysis pipeline based on using reliable and robust image subtraction
+  to find supernovae automatically and in nearly real time. Since making cosmological
+  inferences with supernovae relies crucially on accurate measurement of their apparent
+  brightnesses, we describe our efforts to establish a thorough calibration of the
+  CTIO 4 m telescope's natural photometric system. In its first four years, ESSENCE
+  has discovered and spectroscopically confirmed 102 Type Ia supernovae, at redshifts
+  from 0.10 to 0.78, identified through an impartial, effective methodology for spectroscopic
+  classification and redshift determination. We present the resulting light curves
+  for all of the Type Ia supernovae found by ESSENCE and used in our measurement of
+  w, presented in a companion paper by Wood-Vasey and coworkers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...666..674M
+arxivurl: http://arxiv.org/abs/astro-ph/0701043
+author: Miknaitis, G. and Pignata, G. and Rest, A. and Wood-Vasey, W. M. and Blondin,
+  S. and Challis, P. and Smith, R. C. and Stubbs, C. W. and Suntzeff, N. B. and Foley,
+  R. J. and Matheson, T. and Tonry, J. L. and Aguilera, C. and Blackman, J. W. and
+  Becker, A. C. and Clocchiatti, A. and Covarrubias, R. and Davis, T. M. and Filippenko,
+  A. V. and Garg, A. and Garnavich, P. M. and Hicken, M. and Jha, S. and Krisciunas,
+  K. and Kirshner, R. P. and Leibundgut, B. and Li, W. and Miceli, A. and Narayan,
+  G. and Prieto, J. L. and Riess, A. G. and Salvo, M. E. and Schmidt, B. P. and Sollerman,
+  J. and Spyromilio, J. and Zenteno, A.
+author_list:
+- family: Miknaitis
+  given: G.
+- family: Pignata
+  given: G.
+- family: Rest
+  given: A.
+- family: Wood-Vasey
+  given: W. M.
+- family: Blondin
+  given: S.
+- family: Challis
+  given: P.
+- family: Smith
+  given: R. C.
+- family: Stubbs
+  given: C. W.
+- family: Suntzeff
+  given: N. B.
+- family: Foley
+  given: R. J.
+- family: Matheson
+  given: T.
+- family: Tonry
+  given: J. L.
+- family: Aguilera
+  given: C.
+- family: Blackman
+  given: J. W.
+- family: Becker
+  given: A. C.
+- family: Clocchiatti
+  given: A.
+- family: Covarrubias
+  given: R.
+- family: Davis
+  given: T. M.
+- family: Filippenko
+  given: A. V.
+- family: Garg
+  given: A.
+- family: Garnavich
+  given: P. M.
+- family: Hicken
+  given: M.
+- family: Jha
+  given: S.
+- family: Krisciunas
+  given: K.
+- family: Kirshner
+  given: R. P.
+- family: Leibundgut
+  given: B.
+- family: Li
+  given: W.
+- family: Miceli
+  given: A.
+- family: Narayan
+  given: G.
+- family: Prieto
+  given: J. L.
+- family: Riess
+  given: A. G.
+- family: Salvo
+  given: M. E.
+- family: Schmidt
+  given: B. P.
+- family: Sollerman
+  given: J.
+- family: Spyromilio
+  given: J.
+- family: Zenteno
+  given: A.
+date-added: 2017-08-10 17:22:48 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519986
+eprint: astro-ph/0701043
+journal: \apj
+keywords: 'Cosmology: Observations, Methods: Data Analysis, Stars: Supernovae: General,
+  Surveys'
+month: September
+pages: 674--693
+papis_id: 58c4fe0251757956d5338244937b9bcc
+ref: miknaitis.g.2007
+title: 'The ESSENCE Supernova Survey: Survey Optimization, Observations, and Supernova
+  Photometry'
+type: article
+volume: '666'
+year: '2007'

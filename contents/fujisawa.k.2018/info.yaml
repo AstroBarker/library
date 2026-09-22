@@ -1,0 +1,44 @@
+abstract: We investigate axisymmetric steady solutions of (magneto)hydrodynamics equations
+  that describe approximately accretion flows through a standing shock wave and discuss
+  the effects of rotation and magnetic field on the revival of the stalled shock wave
+  in supernova explosions. We develop a new powerful numerical method to calculate
+  the 2-dimensional (2D) steady accretion flows self-consistently. We first confirm
+  the results of preceding papers that there is a critical luminosity of irradiating
+  neutrinos, above which there exists no steady solution in spherical models. If a
+  collapsing star has rotation and/or magnetic field, the accretion flows are no longer
+  spherical owing to the centrifugal force and/or Lorentz force and the critical luminosity
+  is modified.In fact we find that the critical luminosity is reduced by about 50\%
+  - 70\% for rapid rotations and about 20\% - 50\% for strong toroidal magnetic fields,
+  depending on the mass accretion rate. These results may be also interpreted as an
+  existence of the critical specific angular momentum or critical magnetic field,
+  above which there exists no steady solution and the standing shock wave will revive
+  for a given combination of mass accretion rate and neutrino luminosity.
+adscomment: 22 pages, 9 figures, to be submitted
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180904358F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1809.04358
+author: Fujisawa, K. and Okawa, H. and Yamamoto, Y. and Yamada, S.
+author_list:
+- family: Fujisawa
+  given: K.
+- family: Okawa
+  given: H.
+- family: Yamamoto
+  given: Y.
+- family: Yamada
+  given: S.
+date-added: 2018-09-19 09:15:05 -0400
+date-modified: 2018-09-19 09:15:08 -0400
+eprint: '1809.04358'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Computer Science - Computational
+  Engineering, Finance, and Science
+month: September
+papis_id: 5678b91355bef5409c617fe6d53ef82f
+primaryclass: astro-ph.HE
+ref: fujisawa.k.2018
+title: Effects of rotation and magnetic field on the revival of a stalled shock in
+  supernova explosions
+type: article
+year: '2018'

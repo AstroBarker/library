@@ -1,0 +1,48 @@
+abstract: In this paper we develop the theory of supernova explosions as produced
+  by shock waves formed in the collapse of large stars. We are chiefly concerned with
+  understanding the infall dynamics, shock formation, and the calculation of the shock
+  energy in the various phases of shock formation and propagation.  In the infall
+  of a large star, the inner core, ~0.8 Msolar, collapses homologously, while the
+  outer regions are in quasi-free-fall. The collapse continues until the central density
+  exceeds nuclear matter density, rho0. Nuclear matter is extremely stiff against
+  compression, so that when the matter reaches rho0, pressure waves begin to travel
+  out from the center, initially accumulating at the edge of the homologous core,
+  the ``sonic point,'' forming a stationary shock. When sufficient pressure has been
+  built up, the shock travels rapidly outward. Current numerical calculations are
+  in general agreement on the conditions toward the end of the infall, giving a density
+  distribution just preceding bounce, rho10~ C/r37, with C ~ 3. This relation and
+  a knowledge of the density at which the equation of state stiffens enables us to
+  calculate most properties of the shock; in particular we give detailed prescriptions
+  for calculating the energy initially put into the shock from the infall hydrodynamics.  As
+  the shock moves outward from the sonic point, additional kinetic energy flows into
+  the shock while energy is lost in dissociating nuclei. When the shock reaches the
+  neutrino sphere, rs>~75 km, part of the shock energy is lost through neutrinos,
+  which are emitted in a burst at that time. Existing computer calculations disagree
+  on the amount of energy remaining in the shock. However, present indications are
+  that with an adequate accounting of energy transport behind the shock by neutrino
+  diffusion, the shock energy is sufficient to remove the mantle and envelope of the
+  star, leaving a compact neutron star remnant with a gravitational mass about 1.4
+  Msolar.  Supported inm part by the National Science Foundation under NSF Foundation
+  under NSF DMR 78-21069
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982NuPhA.375..481B
+author: Brown, G. E. and Bethe, H. A. and Baym, G.
+author_list:
+- family: Brown
+  given: G. E.
+- family: Bethe
+  given: H. A.
+- family: Baym
+  given: G.
+date-added: 2017-12-05 18:50:30 +0000
+date-modified: 2017-12-05 18:50:31 +0000
+doi: 10.1016/0375-9474(82)90025-2
+journal: Nuclear Physics A
+month: February
+pages: 481--532
+papis_id: b431bcf0ee6632d2358bd65b0dae840b
+ref: brown.g.1982
+title: Supernova theory
+type: article
+volume: '375'
+year: '1982'

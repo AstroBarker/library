@@ -1,0 +1,32 @@
+abstract: Peculiar velocity fields of galaxies, computed by cosmological N-body simulations,
+  are analyzed in detail. This Monte Carlo approach provides not only the expectation
+  values of the bulk flow velocity and the cosmic Mach number, but their probability
+  distributions. The distribution of the cosmic Mach number is found to be almost
+  Maxwellian in linear and mildly nonlinear regimes, independent of the shape of the
+  density fluctuation spectrum. Applying the resulting probability distribution to
+  the cold dark matter models based on the inflationary scenario, it is found that
+  the constraints derived by Ostriker and Suto (1990) hold at the 90-percent confidence
+  level.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1990ApJ...360....7S
+author: Suto, Y. and Fujita, M.
+author_list:
+- family: Suto
+  given: Y.
+- family: Fujita
+  given: M.
+date-added: 2017-08-11 06:09:32 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/169090
+journal: \apj
+keywords: Cosmology, Many Body Problem, Statistical Analysis, Velocity Distribution,
+  Dark Matter, Galactic Clusters, Mach Number, Monte Carlo Method, Probability Distribution
+  Functions, Red Shift
+month: September
+pages: 7--15
+papis_id: 0862c2cde7ca42cda56092c8076ed13e
+ref: suto.y.1990
+title: Statistical analysis of pecular velocity fields in cosmological N-body simulations
+type: article
+volume: '360'
+year: '1990'

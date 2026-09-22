@@ -1,0 +1,50 @@
+abstract: The only direct measurements of interstellar magnetic field strengths depend
+  on the Zeeman effect, which samples the line-of-sight component Bz of the magnetic
+  vector. In this paper, we use a Bayesian approach to analyze the observed probability
+  density function (PDF) of Bz from Zeeman surveys of H I, OH, and CN spectral lines
+  in order to infer a density-dependent stochastic model of the total field strength
+  B in diffuse and molecular clouds. We find that at n < 300 cm-3 (in the diffuse
+  interstellar medium sampled by H I lines), B does not scale with density. This suggests
+  that diffuse clouds are assembled by flows along magnetic field lines, which would
+  increase the density but not the magnetic field strength. We further find strong
+  evidence for B in molecular clouds being randomly distributed between very small
+  values and a maximum that scales with volume density n as B vprop n 0.65 for n>300
+  cm-3, with an uncertainty at the 50\% level in the power-law exponent of about $\pm$.05.
+  This break-point density could be interpreted as the average density at which parsec-scale
+  clouds become self-gravitating. Both the uniform PDF of total field strengths and
+  the scaling with density suggest that magnetic fields in molecular clouds are often
+  too weak to dominate the star formation process. The stochasticity of the total
+  field strength B implies that many fields are so weak that the mass/flux ratio in
+  many clouds must be significantly supercritical. A two-thirds power law comes from
+  isotropic contraction of gas too weakly magnetized for the magnetic field to affect
+  the morphology of the collapse. On the other hand, our study does not rule out some
+  clouds having strong magnetic fields with critical mass/flux ratios.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...725..466C
+author: Crutcher, R. M. and Wandelt, B. and Heiles, C. and Falgarone, E. and Troland,
+  T. H.
+author_list:
+- family: Crutcher
+  given: R. M.
+- family: Wandelt
+  given: B.
+- family: Heiles
+  given: C.
+- family: Falgarone
+  given: E.
+- family: Troland
+  given: T. H.
+date-added: 2017-08-11 01:23:04 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/725/1/466
+journal: \apj
+keywords: 'ISM: magnetic fields, polarization, stars: formation'
+month: December
+pages: 466--479
+papis_id: 5e7d7ab9f7d96ffe7fc9c1519323332d
+ref: crutcher.r.2010
+title: 'Magnetic Fields in Interstellar Clouds from Zeeman Observations: Inference
+  of Total Field Strengths by Bayesian Analysis'
+type: article
+volume: '725'
+year: '2010'

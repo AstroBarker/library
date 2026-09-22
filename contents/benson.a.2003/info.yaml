@@ -1,0 +1,57 @@
+abstract: 'We investigate the physical mechanisms that shape the luminosity function
+  of galaxies in hierarchical clustering models. Beginning with the mass function
+  of dark matter halos in the LambdaCDM (Lambda cold dark matter) cosmology, we show,
+  in incremental steps, how gas cooling, photoionization at high redshift, feedback
+  processes, galaxy merging, and thermal conduction affect the shape of the luminosity
+  function. We consider three processes whereby supernovae and stellar wind energy
+  can affect the forming galaxy: (1) the reheating of cold disk gas to the halo temperature;
+  (2) expansion of the hot, diffuse halo gas; and (3) complete expulsion of cold disk
+  gas from the halo. We demonstrate that while feedback of form 1 is able to flatten
+  the faint end of the galaxy luminosity function, this process alone does not produce
+  the sharp cutoff observed at large luminosities. Feedback of form 2 is also unable
+  to solve the problem at the bright end of the luminosity function. The relative
+  paucity of very bright galaxies can only be explained if cooling in massive halos
+  is strongly suppressed. This might happen if thermal conduction near the centers
+  of halos is very efficient, or if a substantial amount of gas is expelled from halos
+  by process 3 above. Conduction is a promising mechanism, but an uncomfortably high
+  efficiency is required to suppress cooling to the desired level. If, instead, superwinds
+  are responsible for the lack of bright galaxies, then the total energy budget required
+  to obtain a good match to the galaxy luminosity function greatly exceeds the energy
+  available from supernova explosions. The mechanism is only viable if the formation
+  of central supermassive black holes and the associated energy generation play a
+  crucial role in limiting the amount of stars that form in the host galaxy. The models
+  that best reproduce the galaxy luminosity function also give reasonable approximations
+  to the Tully-Fisher relation and the galaxy autocorrelation function.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...599...38B
+arxivurl: http://arxiv.org/abs/astro-ph/0302450
+author: Benson, A. J. and Bower, R. G. and Frenk, C. S. and Lacey, C. G. and Baugh,
+  C. M. and Cole, S.
+author_list:
+- family: Benson
+  given: A. J.
+- family: Bower
+  given: R. G.
+- family: Frenk
+  given: C. S.
+- family: Lacey
+  given: C. G.
+- family: Baugh
+  given: C. M.
+- family: Cole
+  given: S.
+date-added: 2017-08-11 06:47:19 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379160
+eprint: astro-ph/0302450
+journal: \apj
+keywords: 'Conduction, Galaxies: Cooling Flows, Galaxies: Evolution, Galaxies: Formation,
+  Galaxies: Luminosity Function, Mass Function'
+month: December
+pages: 38--49
+papis_id: b1d4cc561e99613eb50dff3b3a426e1e
+ref: benson.a.2003
+title: What Shapes the Luminosity Function of Galaxies?
+type: article
+volume: '599'
+year: '2003'

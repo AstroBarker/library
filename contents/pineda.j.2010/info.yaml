@@ -1,0 +1,63 @@
+abstract: We report a study of the relation between dust and gas over a 100 deg2 area
+  in the Taurus molecular cloud. We compare the H2 column density derived from dust
+  extinction with the CO column density derived from the 12CO and 13CO J = 1 --> 0
+  lines. We derive the visual extinction from reddening determined from 2MASS data.
+  The comparison is done at an angular size of 200'' corresponding to 0.14 pc at a
+  distance of 140 pc. We find that the relation between visual extinction A V and
+  N(CO) is linear between A V ~= 3 and 10 mag in the region associated with the B213-L1495
+  filament. In other regions, the linear relation is flattened for A Vgsim 4 mag.
+  We find that the presence of temperature gradients in the molecular gas affects
+  the determination of N(CO) by ~30\%-70\% with the largest difference occurring at
+  large column densities. Adding a correction for this effect and accounting for the
+  observed relation between the column density of CO and CO2 ices and A V, we find
+  a linear relationship between the column of carbon monoxide and dust for observed
+  visual extinctions up to the maximum value in our data sime23  mag. We have used
+  these data to study a sample of dense cores in Taurus. Fitting an analytical column
+  density profile to these cores we derive an average volume density of about 1.4
+  \texttimes{} 104 cm-3 and a CO depletion age of about 4.2 \texttimes{} 105 yr. At
+  visual extinctions smaller than ~3 mag, we find that the CO fractional abundance
+  is reduced by up to two orders of magnitude. The data show a large scatter suggesting
+  a range of physical conditions of the gas. We estimate the H2 mass of Taurus to
+  be about 1.5 \texttimes{} 104 M sun, independently derived from the A V and N(CO)
+  maps. We derive a CO integrated intensity to H2 conversion factor of about 2.1 \texttimes{}
+  1020 cm-2 (K km s-1)-1, which applies even in the region where the [CO]/[H2] ratio
+  is reduced by up to two orders of magnitude. The distribution of column densities
+  in our Taurus maps resembles a log-normal function but shows tails at large and
+  low column densities. The length scale at which the high column density tail starts
+  to be noticeable is about 0.4 pc.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...721..686P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.5060
+author: Pineda, J. L. and Goldsmith, P. F. and Chapman, N. and Snell, R. L. and Li,
+  D. and Cambrésy, L. and Brunt, C.
+author_list:
+- family: Pineda
+  given: J. L.
+- family: Goldsmith
+  given: P. F.
+- family: Chapman
+  given: N.
+- family: Snell
+  given: R. L.
+- family: Li
+  given: D.
+- family: Cambrésy
+  given: L.
+- family: Brunt
+  given: C.
+date-added: 2017-08-11 01:32:31 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/721/1/686
+eprint: '1007.5060'
+journal: \apj
+keywords: 'dust, extinction, ISM: molecules, ISM: structure'
+month: September
+pages: 686--708
+papis_id: 3d6539272048507423e7fa41d011ce9d
+primaryclass: astro-ph.GA
+ref: pineda.j.2010
+title: The Relation Between Gas and Dust in the Taurus Molecular Cloud
+type: article
+volume: '721'
+year: '2010'

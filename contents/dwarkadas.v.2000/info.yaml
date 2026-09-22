@@ -1,0 +1,46 @@
+abstract: 'The evolution of Type Ia supernovae in the surrounding medium is studied
+  using two-dimensional numerical hydrodynamic simulations. The ejecta are assumed
+  to be described by an exponential density profile, following the work of Dwarkadas
+  \& Chevalier. The case of a circumstellar region formed by mass loss from the progenitor
+  or a companion star is also considered. The decelerating contact discontinuity is
+  found to be Rayleigh-Taylor (R-T) unstable, as expected, and the nature of the instability
+  is studied in detail for two cases: (1) a constant density ambient medium, and (2)
+  a circumstellar medium whose density scales as r-2. The nature of the instability
+  is found to be different in each case. In the case of a circumstellar medium the
+  instability is much better resolved, and a fractal-like structure is seen. In the
+  case of a constant density medium the extent of growth is less, and the R-T fingers
+  are found to be limited by the presence of Kelvin-Helmholtz mushroom caps at the
+  tips of the fingers. The unstable region is far enough away from the reverse shock
+  that the latter is not affected by the mixing taking place in the interaction region.
+  In contrast, the reverse shock in the case of a circumstellar medium is found to
+  be rippled due to the formation of instabilities. In neither case is the outer shock
+  front affected. These results are consistent with similar studies of power-law ejecta
+  profiles conducted by Chevalier, Blondin, \& Emmering. Our results are then applied
+  to Tycho''s supernova remnant. We conclude that it is unlikely that the instabilities
+  seen in recent radio images of the remnant are similar to those studied herein,
+  although we do not discount the possibility of initial conditions different from
+  those studied herein leading to a much larger growth than we see in our simulations.
+  We suggest that such instabilities may be better observed at X-ray wavelengths which
+  probe the high-density shocked ejecta region.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...541..418D
+arxivurl: http://arxiv.org/abs/astro-ph/0008076
+author: Dwarkadas, V. V.
+author_list:
+- family: Dwarkadas
+  given: V. V.
+date-added: 2017-08-11 04:31:14 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/309406
+eprint: astro-ph/0008076
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Shock Waves, ISM: Supernova Remnants'
+month: September
+pages: 418--427
+papis_id: fa2395fd9f445a4cfe6285642a1cd96c
+ref: dwarkadas.v.2000
+title: 'Interaction of Type IA Supernovae with Their Surroundings: The Exponential
+  Profile in Two Dimensions'
+type: article
+volume: '541'
+year: '2000'

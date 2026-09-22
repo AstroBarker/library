@@ -1,0 +1,34 @@
+abstract: Relativistic temperature of gas raises the issue of the equation of state
+  (EOS) in relativistic hydrodynamics. We study the EOS for numerical relativistic
+  hydrodynamics, and propose a new EOS that is simple and yet approximates very closely
+  the EOS of the single-component perfect gas in relativistic regime. We also discuss
+  the calculation of primitive variables from conservative ones for the EOSs considered
+  in the paper, and present the eigenstructure of relativistic hydrodynamics for a
+  general EOS, in a way that they can be used to build numerical codes. Tests with
+  a code based on the total variation diminishing (TVD) scheme are presented to highlight
+  the differences induced by different EOSs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..166..410R
+arxivurl: http://arxiv.org/abs/astro-ph/0605550
+author: Ryu, D. and Chattopadhyay, I. and Choi, E.
+author_list:
+- family: Ryu
+  given: D.
+- family: Chattopadhyay
+  given: I.
+- family: Choi
+  given: E.
+date-added: 2017-08-11 01:56:49 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505937
+eprint: astro-ph/0605550
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Relativity'
+month: September
+pages: 410--420
+papis_id: b22f2d2aaec0e2e4d71af692d68597eb
+ref: ryu.d.2006
+title: Equation of State in Numerical Relativistic Hydrodynamics
+type: article
+volume: '166'
+year: '2006'

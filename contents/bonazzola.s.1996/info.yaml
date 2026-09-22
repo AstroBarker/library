@@ -1,0 +1,41 @@
+abstract: We investigate the effects of general relativity upon the nonaxisymmetric
+  "bar" mode secular instability of rapidly rotating stars, i.e., the relativistic
+  and compressible analog of the transition from Maclaurin spheroids to Jacobi ellipsoids.
+  Our method consists of perturbing a stationary axisymmetric configuration, constructed
+  by a two-dimensional general relativistic numerical code, and taking into account
+  only the dominant terms in the nonaxisymmetric part of the three-dimensional relativistic
+  equations. For a polytropic equation of state, we have determined, as a function
+  of the degree of relativity, the critical adiabatic index gammacrit above which
+  rapidly rotating stars can break their axial symmetry. A by-product of the present
+  study is the confirmation of the Newtonian value gammacrit = 2.238 obtained by James.
+  We have also considered neutron star models constructed upon 12 nuclear matter equations
+  of state taken from the literature. We found that five equations of state from this
+  sample allow the symmetry breaking for sufficiently high rotation velocities. For
+  the others, the Keplerian velocity (mass shedding from the equator) is reached before
+  the axisymmetry is broken. Rotating neutron stars that break their axial symmetry
+  can be an important source of gravitational waves for the LIGO/VIRGO interferometric
+  detectors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...460..379B
+author: Bonazzola, S. and Frieben, J. and Gourgoulhon, E.
+author_list:
+- family: Bonazzola
+  given: S.
+- family: Frieben
+  given: J.
+- family: Gourgoulhon
+  given: E.
+date-added: 2017-08-11 06:17:14 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176977
+eprint: gr-qc/9509023
+journal: \apj
+keywords: 'GRAVITATION, RELATIVITY, STARS: INTERIORS, STARS: ROTATION'
+month: March
+pages: '379'
+papis_id: b3a8f019f1eae75fa38ede1c1eb42b78
+ref: bonazzola.s.1996
+title: Spontaneous Symmetry Breaking of Rapidly Rotating Stars in General Relativity
+type: article
+volume: '460'
+year: '1996'

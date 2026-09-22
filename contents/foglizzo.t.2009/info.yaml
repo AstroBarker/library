@@ -1,0 +1,40 @@
+abstract: Some general properties of the advective-acoustic instability are described
+  and understood using a toy model, which is simple enough to allow for analytical
+  estimates of the eigenfrequencies. The essential ingredients of this model, in the
+  unperturbed regime, are a stationary shock and a subsonic region of deceleration.
+  For the sake of analytical simplicity, the two-dimensional unperturbed flow is parallel
+  and the deceleration is produced adiabatically by an external potential. The instability
+  mechanism is determined unambiguously as the consequence of a cycle between advected
+  and acoustic perturbations. The purely acoustic cycle, considered alone, is proven
+  to be stable in this flow. Its contribution to the instability can be either constructive
+  or destructive. A frequency cutoff is associated with the advection time through
+  the region of deceleration. This cutoff frequency explains why the instability favors
+  eigenmodes with a low frequency and a large horizontal wavelength. The relation
+  between the instability occurring in this highly simplified toy model and the properties
+  of standing accretion shock instability observed in the numerical simulations of
+  stellar core collapse is discussed. This simple setup is proposed as a benchmark
+  test to evaluate the accuracy, in the linear regime, of numerical simulations involving
+  this instability. We illustrate such benchmark simulations in a companion paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694..820F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.2302
+author: Foglizzo, T.
+author_list:
+- family: Foglizzo
+  given: T.
+date-added: 2017-08-10 18:13:28 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/694/2/820
+eprint: '0809.2302'
+journal: \apj
+keywords: 'accretion, accretion disks, hydrodynamics, instabilities, shock waves,
+  supernovae: general, waves'
+month: April
+pages: 820--832
+papis_id: 65e1217294174189425610231da5ab79
+ref: foglizzo.t.2009
+title: A Simple Toy Model of the Advective-Acoustic Instability. I. Perturbative Approach
+type: article
+volume: '694'
+year: '2009'

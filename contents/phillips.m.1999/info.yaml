@@ -1,0 +1,43 @@
+abstract: We develop a method for estimating the host galaxy dust extinction for type
+  Ia supernovae based on an observational coincidence first noted by Lira, who found
+  that the B-V evolution during the period from 30 to 90 days after V maximum is remarkably
+  similar for all events, regardless of light-curve shape. This fact is used to calibrate
+  the dependence of the B\_max-V\_max and V\_max-I\_max colors on the light-curve
+  decline rate parameter Deltam\_15(B), which can, in turn, be used to separately
+  estimate the host galaxy extinction. Using these methods to eliminate the effects
+  of reddening, we reexamine the functional form of the decline rate versus luminosity
+  relationship and provide an updated estimate of the Hubble constant of H\_0=63.3+/-2.2(internal)+/-3.5(external)
+  km s^-1 Mpc^-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999AJ....118.1766P
+arxivurl: http://arxiv.org/abs/astro-ph/9907052
+author: Phillips, M. M. and Lira, P. and Suntzeff, N. B. and Schommer, R. A. and Hamuy,
+  M. and Maza, J.
+author_list:
+- family: Phillips
+  given: M. M.
+- family: Lira
+  given: P.
+- family: Suntzeff
+  given: N. B.
+- family: Schommer
+  given: R. A.
+- family: Hamuy
+  given: M.
+- family: Maza
+  given: J.
+date-added: 2017-08-10 17:32:04 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/301032
+eprint: astro-ph/9907052
+journal: \aj
+keywords: 'COSMOLOGY: DISTANCE SCALE, STARS: SUPERNOVAE: GENERAL'
+month: October
+pages: 1766--1776
+papis_id: ed24ab3757c8e7d9597169342a18ea77
+ref: phillips.m.1999
+title: The Reddening-Free Decline Rate Versus Luminosity Relationship for Type IA
+  Supernovae
+type: article
+volume: '118'
+year: '1999'

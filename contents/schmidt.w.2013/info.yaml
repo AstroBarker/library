@@ -1,0 +1,49 @@
+abstract: Comparisons of the integrated thermal pressure support of gas against its
+  gravitational potential energy lead to critical mass scales for gravitational instability
+  such as the Jeans and the Bonnor-Ebert masses, which play an important role in the
+  analysis of many physical systems, including the heuristics of numerical simulations.
+  In a strict theoretical sense, however, neither the Jeans nor the Bonnor-Ebert mass
+  is meaningful when applied locally to substructure in a self-gravitating turbulent
+  medium. For this reason, we investigate the local support by thermal pressure, turbulence
+  and magnetic fields against gravitational compression through an approach that is
+  independent of these concepts. At the centre of our approach is the dynamical equation
+  for the divergence of the velocity field. We carry out a statistical analysis of
+  the source terms of the local compression rate (the negative time derivative of
+  the divergence) for simulations of forced self-gravitating turbulence in periodic
+  boxes with zero, weak and moderately strong mean magnetic fields (measured by the
+  averages of the magnetic and thermal pressures). We also consider the amplification
+  of the magnetic field energy by shear and by compression. Thereby, we are able to
+  demonstrate that the support against gravity is dominated by thermal pressure fluctuations,
+  although magnetic pressure also yields a significant contribution. The net effect
+  of turbulence in the highly supersonic regime, however, is to enhance compression
+  rather than supporting overdense gas even if the vorticity is very high. This is
+  incommensurate with the support of the highly dynamical substructures in magnetoturbulent
+  fluids being determined by local virial equilibria of volume energies without surface
+  stresses.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.431.3196S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.4292
+author: Schmidt, W. and Collins, D. C. and Kritsuk, A. G.
+author_list:
+- family: Schmidt
+  given: W.
+- family: Collins
+  given: D. C.
+- family: Kritsuk
+  given: A. G.
+date-added: 2017-08-10 15:44:00 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1093/mnras/stt399
+eprint: '1302.4292'
+journal: \mnras
+keywords: 'gravitation, magnetic fields, turbulence, methods: numerical, ISM: kinematics
+  and dynamics'
+month: June
+pages: 3196--3215
+papis_id: 7bc06762da5e1eb9fcec5374d1a27325
+ref: schmidt.w.2013
+title: Local support against gravity in magnetoturbulent fluids
+type: article
+volume: '431'
+year: '2013'

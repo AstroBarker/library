@@ -1,0 +1,55 @@
+abstract: We describe a new numerical three-dimensional relativistic hydrodynamic
+  code and present the results of three validation tests. A comparison of an axisymmetric
+  jet simulation using the three-dimensional code, with corresponding results from
+  an earlier two-dimensional code, reveal that (1) the enforcement of axisymmetry
+  in the two-dimensional case had no significant influence on the global morphology
+  and dynamics and (2) although three-dimensional studies typically have lower resolution
+  than those using two dimensions, limiting their ability to fully capture internal
+  jet structure, such three-dimensional studies can provide a reliable model of global
+  morphology and dynamics. The three-dimensional code has been used to study the deflection
+  and precession of relativistic flows. We find that even quite fast jets (gamma~10)
+  can be significantly influenced by impinging on an oblique density gradient, exhibiting
+  a rotation of the Mach disk in the jet's head. The flow is bent via a potentially
+  strong, oblique internal shock that arises owing to asymmetric perturbation of the
+  flow by its cocoon. In extreme cases this cocoon can form a marginally relativistic
+  flow orthogonal to the jet, leading to large-scale dynamics quite unlike that normally
+  associated with astrophysical jets. Exploration of a gamma=5 flow subject to a large
+  amplitude precession (semiangle 11.25d) shows that it retains its integrity, with
+  modest reduction in Lorentz factor and momentum flux, for almost 50 jet radii, but
+  thereafter the collimated flow is disrupted. The flow is approximately ballistic,
+  with velocity vectors not aligned with the local jet ``wall.'' However, sufficiently
+  large changes in flow direction take place within the jet that for observers close
+  to the jet axis, significant changes in Doppler boost would be evident along the
+  flow. We consider simple estimators of the flow emissivity in each case and conclude
+  that (1) while the oblique internal shocks that mediate a small change in the direction
+  of the deflected flows have little impact on the global dynamics, significantly
+  enhanced flow emission (by a factor of 2-3) may be associated with such regions
+  and (2) the convolution of rest-frame emissivity and Doppler boost in the case of
+  the precessed jet invariably leads to a core-jet-like structure but that intensity
+  fluctuations in the jet cannot be uniquely associated with either change in internal
+  conditions or Doppler boost alone but, in general, are a combination of both factors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...572..713H
+arxivurl: http://arxiv.org/abs/astro-ph/0202402
+author: Hughes, P. A. and Miller, M. A. and Duncan, G. C.
+author_list:
+- family: Hughes
+  given: P. A.
+- family: Miller
+  given: M. A.
+- family: Duncan
+  given: G. C.
+date-added: 2017-08-11 02:10:10 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340382
+eprint: astro-ph/0202402
+journal: \apj
+keywords: 'Galaxies: Jets, Hydrodynamics, Relativity'
+month: June
+pages: 713--728
+papis_id: ede26f8b5f29bfcb968251ad194ecb9c
+ref: hughes.p.2002
+title: Three-dimensional Hydrodynamic Simulations of Relativistic Extragalactic Jets
+type: article
+volume: '572'
+year: '2002'

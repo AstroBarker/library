@@ -1,0 +1,62 @@
+abstract: 'Supernova surveys can be used to study a variety of subjects such as: (i)
+  cosmology through type Ia supernovae (SNe), (ii) star-formation rates through core-collapse
+  SNe, and (iii) supernova properties and their connection to host galaxy characteristics.
+  The Stockholm VIMOS Supernova Survey (SVISS) is a multi-band imaging survey aiming
+  to detect supernovae at redshift ~0.5 and derive thermonuclear and core-collapse
+  supernova rates at high redshift. In this paper we present the supernovae discovered
+  in the survey along with light curves and a photometric classification into thermonuclear
+  and core-collapse types. To detect the supernovae in the VLT/VIMOS multi-epoch images,
+  we used difference imaging and a combination of automatic and manual source detection
+  to minimise the number of spurious detections. Photometry for the found variable
+  sources was obtained and careful simulations were made to estimate correct errors.
+  The light curves were typed using a Bayesian probability method and Monte Carlo
+  simulations were used to study misclassification. We detected 16 supernovae, nine
+  of which had a core-collapse origin and seven had a thermonuclear origin. The estimated
+  misclassification errors are quite small, in the order of 5\%, but vary with both
+  redshift and type. The mean redshift of the supernovae is 0.58. Additionally, we
+  found a variable source with a very extended light curve that could possibly be
+  a pair instability supernova.  Based on observations collected at the European Organisation
+  for Astronomical Research in the Southern Hemisphere, Chile, under ESO programme
+  ID 167.D-0492.Figures 6-8, 10-12 and Appendix A are available in electronic form
+  at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...532A..29M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.0307
+author: Melinder, J. and Dahlen, T. and Mencía-Trinchant, L. and Östlin, G. and Mattila,
+  S. and Sollerman, J. and Fransson, C. and Hayes, M. and Nasoudi-Shoar, S.
+author_list:
+- family: Melinder
+  given: J.
+- family: Dahlen
+  given: T.
+- family: Mencía-Trinchant
+  given: L.
+- family: Östlin
+  given: G.
+- family: Mattila
+  given: S.
+- family: Sollerman
+  given: J.
+- family: Fransson
+  given: C.
+- family: Hayes
+  given: M.
+- family: Nasoudi-Shoar
+  given: S.
+date-added: 2017-08-11 00:06:12 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201016136
+eid: A29
+eprint: '1106.0307'
+journal: \aap
+keywords: 'supernovae: general'
+month: August
+pages: A29
+papis_id: 6fd963240526f43616ed0d3c4c62d95b
+ref: melinder.j.2011
+title: The discovery and classification of 16 supernovae at high redshifts in ELAIS-S1.
+  The Stockholm VIMOS Supernova Survey II
+type: article
+volume: '532'
+year: '2011'

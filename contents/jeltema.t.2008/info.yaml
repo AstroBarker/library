@@ -1,0 +1,53 @@
+abstract: 'We use Enzo, a hybrid Eulerian adaptive mesh refinement/N-body code including
+  nongravitational heating and cooling, to explore the morphology of the X-ray gas
+  in clusters of galaxies and its evolution in current-generation cosmological simulations.
+  We employ and compare two observationally motivated structure measures: power ratios
+  and centroid shift. Overall, the structure of our simulated clusters compares remarkably
+  well to low-redshift observations, although some differences remain that may point
+  to incomplete gas physics. We find no dependence on cluster structure in the mass-observable
+  scaling relations, TX-M and YX-M, when using the true cluster masses. However, estimates
+  of the total mass based on the assumption of hydrostatic equilibrium, as assumed
+  in observational studies, are systematically low. We show that the hydrostatic mass
+  bias strongly correlates with cluster structure and, more weakly, with cluster mass.
+  When the hydrostatic masses are used, the mass-observable scaling relations and
+  gas mass fractions depend significantly on cluster morphology, and the true relations
+  are not recovered even if the most relaxed clusters are used. We show that cluster
+  structure, via the power ratios, can be used to effectively correct the hydrostatic
+  mass estimates and mass scaling relations, suggesting that we can calibrate for
+  this systematic effect in cosmological studies. Similar to observational studies,
+  we find that cluster structure, particularly centroid shift, evolves with redshift.
+  This evolution is mild but will lead to additional errors at high redshift. Projection
+  along the line of sight leads to significant uncertainty in the structure of individual
+  clusters: less than 50\% of clusters which appear relaxed in projection based on
+  our structure measures are truly relaxed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...681..167J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.1518
+author: Jeltema, T. E. and Hallman, E. J. and Burns, J. O. and Motl, P. M.
+author_list:
+- family: Jeltema
+  given: T. E.
+- family: Hallman
+  given: E. J.
+- family: Burns
+  given: J. O.
+- family: Motl
+  given: P. M.
+date-added: 2017-08-11 05:13:26 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/587502
+eid: 167-186
+eprint: '0708.1518'
+journal: \apj
+keywords: 'galaxies: clusters: general, hydrodynamics, large-scale structure of universe,
+  methods: numerical, X-rays: galaxies: clusters'
+month: July
+pages: 167--186
+papis_id: c44a3534c4c2333d3fd6d83fcd76fe91
+ref: jeltema.t.2008
+title: Cluster Structure in Cosmological Simulations. I. Correlation to Observables,
+  Mass Estimates, and Evolution
+type: article
+volume: '681'
+year: '2008'

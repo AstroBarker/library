@@ -1,0 +1,30 @@
+abstract: Conventional algorithms for rejecting cosmic rays in single CCD exposures
+  rely on the contrast between cosmic rays and their surroundings and may produce
+  erroneous results if the point-spread function is smaller than the largest cosmic
+  rays. This paper describes a robust algorithm for cosmic-ray rejection, based on
+  a variation of Laplacian edge detection. The algorithm identifies cosmic rays of
+  arbitrary shapes and sizes by the sharpness of their edges and reliably discriminates
+  between poorly sampled point sources and cosmic rays. Examples of its performance
+  are given for spectroscopic and imaging data, including Hubble Space Telescope Wide
+  Field Planetary Camera 2 images.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001PASP..113.1420V
+arxivurl: http://arxiv.org/abs/astro-ph/0108003
+author: van Dokkum, P. G.
+author_list:
+- family: van Dokkum
+  given: P. G.
+date-added: 2017-08-10 20:08:45 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323894
+eprint: astro-ph/0108003
+journal: \pasp
+keywords: 'Instrumentation: Detectors, Methods: Data Analysis-techniques: image processing'
+month: November
+pages: 1420--1427
+papis_id: 6606e9e20afea5b5df623bd8eeeea15e
+ref: van_dokkum.p.2001
+title: Cosmic-Ray Rejection by Laplacian Edge Detection
+type: article
+volume: '113'
+year: '2001'

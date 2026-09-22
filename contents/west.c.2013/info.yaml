@@ -1,0 +1,43 @@
+abstract: All stellar evolution models for nucleosynthesis require an initial isotopic
+  abundance set to use as a starting point. Generally, our knowledge of isotopic abundances
+  of stars is fairly incomplete except for the Sun. We present a first model for a
+  complete average isotopic decomposition as a function of metallicity. Our model
+  is based on the underlying nuclear astrophysics processes, and is fitted to observational
+  data, rather than traditional forward galactic chemical evolution modeling which
+  integrates stellar yields beginning from big bang nucleosynthesis. We first decompose
+  the isotopic solar abundance pattern into contributions from astrophysical sources.
+  Each contribution is then assumed to scale as a function of metallicity. The resulting
+  total isotopic abundances are summed into elemental abundances and fitted to available
+  halo and disk stellar data to constrain the model's free parameter values. This
+  procedure allows us to use available elemental observational data to reconstruct
+  and constrain both the much needed complete isotopic evolution that is not accessible
+  to current observations, and the underlying astrophysical processes. As an example,
+  our model finds a best fit for Type Ia contributing ~= 0.7 to the solar Fe abundance,
+  and Type Ia onset occurring at [Fe/H] ~= -1.1, in agreement with typical values.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774...75W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.5969
+author: West, C. and Heger, A.
+author_list:
+- family: West
+  given: C.
+- family: Heger
+  given: A.
+date-added: 2017-08-10 17:45:16 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/1/75
+eid: '75'
+eprint: '1203.5969'
+journal: \apj
+keywords: 'Galaxy: abundances, Galaxy: evolution, nuclear reactions, nucleosynthesis,
+  abundances, stars: abundances, supernovae: general'
+month: September
+pages: '75'
+papis_id: f13d06588e346789ac3ee9f5ea35fcbc
+primaryclass: astro-ph.SR
+ref: west.c.2013
+title: Metallicity-dependent Galactic Isotopic Decomposition for Nucleosynthesis
+type: article
+volume: '774'
+year: '2013'

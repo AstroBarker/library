@@ -1,0 +1,37 @@
+abstract: Ultrarelativistic electron-positron plasma shell collisions as an integral
+  part of generic gamma-ray burst (GRB) fireball models are studied in the framework
+  of self-consistent three-dimensional particle-in-cell simulations. We compare scenarios
+  at moderately relativistic (gamma0~=10) and ultrarelativistic (gamma0~=100) energies
+  that directly correspond to the regimes of internal and external shell collisions,
+  respectively, in GRB synchrotron emission models. Simulated systems comprise 5\texttimes{}108
+  particles, applying a relativistic, fully electromagnetic, massively parallelized
+  code. It is found that Weibel-generated, steady state magnetic equipartition ratios
+  in external collisions reach up to \ensuremath{\epsilon}B~12\%, exceeding the respective
+  internal ratios by nearly a power of 10. Enhanced \ensuremath{\epsilon}B yields
+  can be explained theoretically by the effective reduction of dimensionality in the
+  ultrarelativistic limit, i.e., the energy-dependent confinement of the three-dimensional
+  Weibel instability within quasi-two-dimensional plasma shell slices.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...618..822J
+author: Jaroschek, C. H. and Lesch, H. and Treumann, R. A.
+author_list:
+- family: Jaroschek
+  given: C. H.
+- family: Lesch
+  given: H.
+- family: Treumann
+  given: R. A.
+date-added: 2017-08-11 05:57:45 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/426066
+journal: \apj
+keywords: 'Acceleration of Particles, Gamma Rays: Bursts, Magnetic Fields, Plasmas'
+month: January
+pages: 822--831
+papis_id: 0dbbf2a74371cddbd5b5eee490bdc983
+ref: jaroschek.c.2005
+title: 'Ultrarelativistic Plasma Shell Collisions in $γ$-Ray Burst Sources: Dimensional
+  Effects on the Final Steady State Magnetic Field'
+type: article
+volume: '618'
+year: '2005'

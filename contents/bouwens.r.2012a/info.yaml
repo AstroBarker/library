@@ -1,0 +1,73 @@
+abstract: Ultra-deep Advanced Camera for Surveys (ACS) and WFC3/IR HUDF+HUDF09 data,
+  along with the wide-area GOODS+ERS+CANDELS data over the CDF-S GOODS field, are
+  used to measure UV colors, expressed as the UV-continuum slope beta, of star-forming
+  galaxies over a wide range of luminosity (0.1L\textasteriskcentered z = 3 to 2L\textasteriskcentered
+  z = 3) at high redshift (z ~ 7 to z ~ 4). beta is measured using all ACS and WFC3/IR
+  passbands uncontaminated by Lyalpha and spectral breaks. Extensive tests show that
+  our beta measurements are only subject to minimal biases. Using a different selection
+  procedure, Dunlop et al. recently found large biases in their beta measurements.
+  To reconcile these different results, we simulated both approaches and found that
+  beta measurements for faint sources are subject to large biases if the same passbands
+  are used both to select the sources and to measure beta. High-redshift galaxies
+  show a well-defined rest-frame UV color-magnitude (CM) relationship that becomes
+  systematically bluer toward fainter UV luminosities. No evolution is seen in the
+  slope of the UV CM relationship in the first 1.5 Gyr, though there is a small evolution
+  in the zero point to redder colors from z ~ 7 to z ~ 4. This suggests that galaxies
+  are evolving along a well-defined sequence in the L UV-color (beta) plane (a "star-forming
+  sequence"?). Dust appears to be the principal factor driving changes in the UV color
+  beta with luminosity. These new larger beta samples lead to improved dust extinction
+  estimates at z ~ 4-7 and confirm that the extinction is essentially zero at low
+  luminosities and high redshifts. Inclusion of the new dust extinction results leads
+  to (1) excellent agreement between the star formation rate (SFR) density at z ~
+  4-8 and that inferred from the stellar mass density; and (2) to higher specific
+  star formation rates (SSFRs) at z >~ 4, suggesting that the SSFR may evolve modestly
+  (by factors of ~2) from z ~ 4-7 to z ~ 2.  Based on observations made with the NASA/ESA
+  Hubble Space Telescope, which is operated by the Association of Universities for
+  Research in Astronomy, Inc., under NASA contract NAS 5-26555. These observations
+  are associated with programs 11563 and 9797.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...754...83B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1109.0994
+author: Bouwens, R. J. and Illingworth, G. D. and Oesch, P. A. and Franx, M. and Labbé,
+  I. and Trenti, M. and van Dokkum, P. and Carollo, C. M. and González, V. and Smit,
+  R. and Magee, D.
+author_list:
+- family: Bouwens
+  given: R. J.
+- family: Illingworth
+  given: G. D.
+- family: Oesch
+  given: P. A.
+- family: Franx
+  given: M.
+- family: Labbé
+  given: I.
+- family: Trenti
+  given: M.
+- family: van Dokkum
+  given: P.
+- family: Carollo
+  given: C. M.
+- family: González
+  given: V.
+- family: Smit
+  given: R.
+- family: Magee
+  given: D.
+date-added: 2017-08-10 20:25:53 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/754/2/83
+eid: '83'
+eprint: '1109.0994'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: high-redshift'
+month: August
+pages: '83'
+papis_id: 6c461dd7d21437a58936756f27d4e3de
+ref: bouwens.r.2012a
+title: 'UV-continuum Slopes at z ̃ 4-7 from the HUDF09+ERS+CANDELS Observations: Discovery
+  of a Well-defined UV Color-Magnitude Relationship for z $\gt$= 4 Star-forming Galaxies'
+type: article
+volume: '754'
+year: '2012'

@@ -1,0 +1,40 @@
+abstract: We report new statistical equilibrium calculations for Fe I and Fe II in
+  the atmosphere of late-type stars. We used atomic models for Fe I and Fe II having,
+  respectively, 256 and 190 levels, as well as 2117 and 3443 radiative transitions.
+  Photoionization cross sections are from the Iron Project. These atomic models were
+  used to investigate non-LTE (NLTE) effects in iron abundances of late-type stars
+  with different atmospheric parameters. We found that most Fe I lines in metal-poor
+  stars are formed in conditions far from LTE. We derived metallicity corrections
+  of about 0.3 dex with respect to LTE values for the case of stars with [Fe/H]~-3.0.
+  Fe II is found not to be affected by significant NLTE effects. The main NLTE effect
+  invoked in the case of Fe I is overionization by ultraviolet radiation; thus classical
+  ionization equilibrium is far from being satisfied. An important consequence is
+  that surface gravities derived by LTE analysis are in error and should be corrected
+  before final abundance corrections. This apparently solves the observed discrepancy
+  between spectroscopic surface gravities derived by LTE analyses and those derived
+  from Hipparcos parallaxes. A table of NLTE [Fe/H] and log g values for a sample
+  of metal-poor late-type stars is given.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...521..753T
+arxivurl: http://arxiv.org/abs/astro-ph/9906433
+author: Thévenin, F. and Idiart, T. P.
+author_list:
+- family: Thévenin
+  given: F.
+- family: Idiart
+  given: T. P.
+date-added: 2017-08-10 23:12:04 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307578
+eprint: astro-ph/9906433
+journal: \apj
+keywords: 'RADIATIVE TRANSFER, STARS: ABUNDANCES, STARS: LATE-TYPE, Radiative Transfer,
+  Stars: Abundances, Stars: Late-Type'
+month: August
+pages: 753--763
+papis_id: 83229dbf80968694a2f9d660e157864c
+ref: thevenin.f.1999
+title: 'Stellar Iron Abundances: Non-LTE Effects'
+type: article
+volume: '521'
+year: '1999'

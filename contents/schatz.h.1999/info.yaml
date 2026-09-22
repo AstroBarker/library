@@ -1,0 +1,57 @@
+abstract: The temperature and nuclear composition of the crust and ocean of an accreting
+  neutron star depend on the mix of material (the ashes) that is produced at lower
+  densities by fusion of the accreting hydrogen and helium. The hydrogen/helium burning
+  is thermally stable at high accretion rates, a situation encountered in weakly magnetic
+  (B<<1011 G) neutron stars accreting at rates M>10-8 Msolar yr-1 and in most accreting
+  X-ray pulsars, where the focusing of matter onto the magnetic poles results in local
+  accretion rates high enough for stable burning. For a neutron star accreting at
+  these high rates, we calculate the steady state burning of hydrogen and helium in
+  the upper atmosphere (rho<2\texttimes{}106 g cm-3), where T~(5-15)\texttimes{}108
+  K. Since the breakout from the ``hot'' CNO cycle occurs at a temperature comparable
+  to that of stable helium burning (T>~5\texttimes{}108 K), the hydrogen is always
+  burned via the rapid proton capture (rp) process of Wallace \& Woosley. The rp-process
+  makes nuclei far beyond the iron group, always leading to a mixture of elements
+  with masses A~60-100. The average nuclear mass of the ashes is set by the extent
+  of helium burning via (alpha, p) reactions and, because these reactions are temperature
+  sensitive, depends on the local accretion rate. Nuclear statistical equilibrium,
+  leading to a composition of mostly iron, occurs only for very high local accretion
+  rates in excess of 50 times the Eddington rate. We briefly discuss the consequences
+  of our results for the properties of the neutron star. The wide range of nuclei
+  made at a fixed accretion rate and the sensitivity of the ash composition to the
+  local accretion rate makes it inevitable that accreting neutron stars have an ocean
+  and crust made up of a large variety of nuclei. This has repercussions for the thermal
+  and electrical properties and structural properties (the shear modulus and viscosity)
+  of the neutron star crust. A crustal lattice as impure as implied by our results
+  will have the conductivity throughout most of its mass set by impurity scattering,
+  allowing for more rapid Ohmic diffusion of magnetic fields than previously estimated
+  for mononuclear mixes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...524.1014S
+arxivurl: http://arxiv.org/abs/astro-ph/9905274
+author: Schatz, H. and Bildsten, L. and Cumming, A. and Wiescher, M.
+author_list:
+- family: Schatz
+  given: H.
+- family: Bildsten
+  given: L.
+- family: Cumming
+  given: A.
+- family: Wiescher
+  given: M.
+date-added: 2017-08-10 16:59:27 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307837
+eprint: astro-ph/9905274
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES,
+  STARS: NEUTRON, X-RAYS: BURSTS, Accretion, Accretion Disks, Nuclear Reactions, Nucleosynthesis,
+  Abundances, Stars: Neutron, X-Rays: Bursts'
+month: October
+pages: 1014--1029
+papis_id: 1e669164952ccebeb79f74458c3bbcb4
+ref: schatz.h.1999
+title: The Rapid Proton Process Ashes from Stable Nuclear Burning on an Accreting
+  Neutron Star
+type: article
+volume: '524'
+year: '1999'

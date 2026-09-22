@@ -1,0 +1,56 @@
+abstract: 'We present 2.5-dimensional radiation-hydrodynamics simulations of the accretion-induced
+  collapse (AIC) of white dwarfs, starting from two-dimensional rotational equilibrium
+  configurations, thereby accounting consistently for the effects of rotation prior
+  to and after core collapse. We focus our study on a 1.46 and a 1.92 Msolar a model.
+  Electron capture leads to the collapse to nuclear densities of these cores a few
+  tens of milliseconds after the start of the simulations. The shock generated at
+  bounce moves slowly, but steadily, outward. Within 50-100 ms, the stalled shock
+  breaks out of the white dwarf along the poles. The blast is followed by a neutrino-driven
+  wind that develops within the white dwarf, in a cone of ~40$\,^{\circ}$ opening
+  angle about the poles, with a mass loss rate of (5-8)\texttimes{}10-3 Msolar s-1.
+  The ejecta have an entropy on the order of (20-50)kB baryon-1 and an electron fraction
+  that is bimodal. By the end of the simulations, at >~600 ms after bounce, the explosion
+  energy has reached (3-4)\texttimes{}1049 ergs and the mass has reached a few times
+  10-3 Msolar. We estimate the asymptotic explosion energies to be lower than 1050
+  ergs, significantly lower than those inferred for standard core collapse. The AIC
+  of white dwarfs thus represents one instance where a neutrino mechanism leads undoubtedly
+  to a successful, albeit weak, explosion. We document in detail the numerous effects
+  of the fast rotation of the progenitors: the neutron stars are aspherical; the ``numu''''
+  and nu\textasciimacron{}e neutrino luminosities are reduced compared to the nue
+  neutrino luminosity; the deleptonized region has a butterfly shape; the neutrino
+  flux and electron fraction depends strongly upon latitude (a la von Zeipel); and
+  a quasi-Keplerian 0.1-0.5 Msolar accretion disk is formed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...644.1063D
+arxivurl: http://arxiv.org/abs/astro-ph/0601603
+author: Dessart, L. and Burrows, A. and Ott, C. D. and Livne, E. and Yoon, S.-C. and
+  Langer, N.
+author_list:
+- family: Dessart
+  given: L.
+- family: Burrows
+  given: A.
+- family: Ott
+  given: C. D.
+- family: Livne
+  given: E.
+- family: Yoon
+  given: S.-C.
+- family: Langer
+  given: N.
+date-added: 2017-08-11 03:39:26 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/503626
+eprint: astro-ph/0601603
+journal: \apj
+keywords: 'Hydrodynamics, Neutrinos, Stars: Neutron, Stars: Rotation, Stars: Supernovae:
+  General, Stars: White Dwarfs'
+month: June
+pages: 1063--1084
+papis_id: adc03fc2b834f253071920661fe0a144
+ref: dessart.l.2006a
+title: Multidimensional Simulations of the Accretion-induced Collapse of White Dwarfs
+  to Neutron Stars
+type: article
+volume: '644'
+year: '2006'

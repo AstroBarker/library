@@ -1,0 +1,37 @@
+abstract: A numerical scheme is presented that allows us to compute numerically the
+  coupling between large-scale motions and unresolved turbulent scales for thermonuclear
+  burning fronts in carbon-oxygen white dwarfs. In contrast to most previous calculations,
+  the parameters of the turbulence model are determined by physical considerations
+  and from results of laboratory combustion experiments, with the exception of a closure
+  relation that remains largely undetermined but seems to be of great importance.  As
+  a first test case the subgrid model is coupled to a code solving the Euler equation
+  directly by means of the piecewise parabolic method (PPM), and the propagation of
+  a nuclear burning front in a Chandrasekhar mass white dwarf is simulated in two
+  dimensions. We find that energy from the well-resolved Rayleigh-Taylor scale is
+  indeed going into turbulent motions, thereby accelerating the flame speed significantly
+  beyond its laminar value. However, with a conservative choice of the parameters
+  of the subgrid model, the turbulent velocity never exceeds a few percent of the
+  sound speed. Consequently, the model has very little in common with observed Type
+  Ia supernovae. Possible ways out of this dilemma are briefly discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...452..769N
+author: Niemeyer, J. C. and Hillebrandt, W.
+author_list:
+- family: Niemeyer
+  given: J. C.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:33:00 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176345
+journal: \apj
+keywords: 'NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: INTERIORS, STARS:
+  SUPERNOVAE: GENERAL'
+month: October
+pages: '769'
+papis_id: 4cad2b957d2abd48a10e85171a5476d2
+ref: niemeyer.j.1995
+title: Turbulent Nuclear Flames in Type IA Supernovae
+type: article
+volume: '452'
+year: '1995'

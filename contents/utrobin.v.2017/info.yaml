@@ -1,0 +1,54 @@
+abstract: Type II-plateau supernovae (SNe IIP) are the most numerous subclass of         core-collapse
+  SNe originating from massive stars. In the         framework of the neutrino-driven
+  explosion mechanism, we study         the properties of the SN outburst for a red
+  supergiant         progenitor model and compare the corresponding light curves with         observations
+  of the ordinary Type IIP SN 1999em. Three-         dimensional (3D) simulations
+  of (parametrically triggered)         neutrino-driven explosions are performed with
+  the (explicit,         finite-volume, Eulerian, multifluid hydrodynamics) code         Prometheus,
+  using a presupernova model of a 15 M         $_{{\ensuremath{\odot}}}$ star as initial
+  data. On approaching         homologous expansion, the hydrodynamic and composition
+  variables         of the 3D models are mapped to a spherically symmetric         configuration,
+  and the simulations are continued with the         (implicit, Lagrangian, radiation
+  hydrodynamics) code Crab to         follow the evolution of the blast wave during
+  the SN outburst.         Our 3D neutrino-driven explosion model with an explosion
+  energy         of about 0.5{\texttimes} \{10\}\$^{51}\$ erg produces \$^{56}\$Ni
+  in         rough agreement with the amount deduced from fitting the         radioactively
+  powered light-curve tail of SN 1999em. The         considered presupernova model,
+  3D explosion simulations, and         light-curve calculations can explain the basic
+  observational         features of SN 1999em, except for those connected to the         presupernova
+  structure of the outer stellar layers. Our 3D         simulations show that the
+  distribution of \$^{56}\$Ni-rich matter         in velocity space is asymmetric
+  with a strong dipole component         that is consistent with the observations
+  of SN 1999em. The         monotonic decline in luminosity from the plateau to the         radioactive
+  tail in ordinary SNe IIP is a manifestation of the         intense turbulent mixing
+  at the He/H composition interface.
+archiveprefix: arXiv
+author: Utrobin, V. P. and Wongwathanarat, A. and Janka, H. Th. and Müller, E.
+author_list:
+- family: Utrobin
+  given: V. P.
+- family: Wongwathanarat
+  given: A.
+- family: Janka
+  given: H. Th.
+- family: Müller
+  given: E.
+doi: 10.3847/1538-4357/aa8594
+eid: '37'
+eprint: '1704.03800'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, nuclear reactions, nucleosynthesis, abundances,
+  shock waves, supernovae: general, supernovae: individual: SN 1999em, Astrophysics
+  - Solar and Stellar Astrophysics, Astrophysics - High Energy Astrophysical Phenomena'
+month: September
+number: '1'
+pages: '37'
+papis_id: e9050dc4bf0efd6507a2c0015185e81c
+primaryclass: astro-ph.SR
+ref: utrobin.v.2017
+title: Light-curve Analysis of Ordinary Type IIP Supernovae Based on Neutrino-driven
+  Explosion Simulations in Three Dimensions
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2017ApJ...846...37U
+volume: '846'
+year: '2017'

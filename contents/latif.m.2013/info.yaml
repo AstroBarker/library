@@ -1,0 +1,47 @@
+abstract: Supermassive black holes with up to a 109 M\&sun; dwell in the centres of
+  present-day galaxies, and their presence has been confirmed at z >= 6. Their formation
+  at such early epochs is still an enigma. Different pathways have been suggested
+  to assemble supermassive black holes in the first billion years after the big bang.
+  Direct collapse has emerged as a highly plausible scenario to form black holes as
+  it provides seed masses of 105-106 M\&sun;. Gravitational collapse in atomic cooling
+  haloes with virial temperatures Tvir >= 104 K may lead to the formation of massive
+  seed black holes in the presence of an intense background ultraviolet flux. Turbulence
+  plays a central role in regulating accretion and transporting angular momentum.
+  We present here the highest resolution cosmological large eddy simulations to date
+  which track the evolution of high-density regions on scales of 0.25 au beyond the
+  formation of the first peak, and study the impact of subgrid-scale turbulence. The
+  peak density reached in these simulations is 1.2 \texttimes{} 10-8 g cm-3. Our findings
+  show that while fragmentation occasionally occurs, it does not prevent the growth
+  of a central massive object resulting from turbulent accretion and occasional mergers.
+  The central object reaches \texttildelow{}1000 M\&sun; within four free-fall times,
+  and we expect further growth up to 106 M\&sun; through accretion in about 1 Myr.
+  The direct collapse model thus provides a viable pathway of forming high-mass black
+  holes at early cosmic times.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.433.1607L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.0962
+author: Latif, M. A. and Schleicher, D. R. G. and Schmidt, W. and Niemeyer, J.
+author_list:
+- family: Latif
+  given: M. A.
+- family: Schleicher
+  given: D. R. G.
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J.
+date-added: 2017-08-10 15:41:00 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt834
+eprint: '1304.0962'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: formation, cosmology: theory, early Universe'
+month: August
+pages: 1607--1618
+papis_id: 951808eb38de940549b8e3fa13703ca9
+ref: latif.m.2013
+title: Black hole formation in the early Universe
+type: article
+volume: '433'
+year: '2013'

@@ -1,0 +1,38 @@
+abstract: We present a new general relativistic magnetohydrodynamics (GRMHD) code
+  integrated into the Athena++ framework. Improving upon the techniques used in most
+  GRMHD codes, ours allows the use of advanced, less diffusive Riemann solvers, in
+  particular HLLC and HLLD. We also employ a staggered-mesh constrained transport
+  algorithm suited for curvilinear coordinate systems in order to maintain the divergence-free
+  constraint of the magnetic field. Our code is designed to work with arbitrary stationary
+  spacetimes in one, two, or three dimensions, and we demonstrate its reliability
+  through a number of tests. We also report on its promising performance and scalability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJS..225...22W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1511.00943
+author: White, C. J. and Stone, J. M. and Gammie, C. F.
+author_list:
+- family: White
+  given: C. J.
+- family: Stone
+  given: J. M.
+- family: Gammie
+  given: C. F.
+date-added: 2017-09-19 19:50:09 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0067-0049/225/2/22
+eid: '22'
+eprint: '1511.00943'
+journal: \apjs
+keywords: 'accretion, accretion disks, black hole physics, magnetohydrodynamics: MHD,
+  relativistic processes'
+month: August
+pages: '22'
+papis_id: 0f9368fef7129a5b40194e30a5aa478b
+primaryclass: astro-ph.HE
+ref: white.c.2016
+title: An Extension of the Athena++ Code Framework for GRMHD Based on Advanced Riemann
+  Solvers and Staggered-mesh Constrained Transport
+type: article
+volume: '225'
+year: '2016'

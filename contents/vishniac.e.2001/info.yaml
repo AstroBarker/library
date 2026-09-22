@@ -1,0 +1,44 @@
+abstract: We construct a magnetic helicity conserving dynamo theory that incorporates
+  a calculated magnetic helicity current. In this model the fluid helicity plays a
+  small role in large-scale magnetic field generation. Instead, the dynamo process
+  is dominated by a new quantity, derived from asymmetries in the second derivative
+  of the velocity correlation function, closely related to the ``twist and fold''
+  dynamo model. The turbulent damping term is, as expected, almost unchanged. Numerical
+  simulations with a spatially constant fluid helicity and vanishing resistivity are
+  not expected to generate large-scale fields in equipartition with the turbulent
+  energy density. The prospects for driving a fast dynamo under these circumstances
+  are uncertain, but if it is possible, then the field must be largely force-free.
+  On the other hand, there is an efficient analog to the alpha-Omega dynamo. Systems
+  whose turbulence is driven by some anisotropic local instability in a shearing flow,
+  like real stars and accretion disks, and some computer simulations may successfully
+  drive the generation of strong large-scale magnetic fields, provided that \partial{}rOmega<\partial{}thetavzomegatheta>>0.
+  We show that this criterion is usually satisfied. Such dynamos will include a persistent,
+  spatially coherent vertical magnetic helicity current with the same sign as -\partial{}rOmega,
+  that is, positive for an accretion disk and negative for the Sun. We comment on
+  the role of random magnetic helicity currents in storing turbulent energy in a disordered
+  magnetic field, which will generate an equipartition, disordered field in a turbulent
+  medium, and also a declining long-wavelength tail to the power spectrum. As a result,
+  calculations of the Galactic ``seed'' field are largely irrelevant.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...550..752V
+arxivurl: http://arxiv.org/abs/astro-ph/0010373
+author: Vishniac, E. T. and Cho, J.
+author_list:
+- family: Vishniac
+  given: E. T.
+- family: Cho
+  given: J.
+date-added: 2017-08-11 02:19:51 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319817
+eprint: astro-ph/0010373
+journal: \apj
+keywords: 'ISM: Magnetic Fields, Magnetic Fields, Magnetohydrodynamics: MHD, Turbulence'
+month: April
+pages: 752--760
+papis_id: d5d81c7c6e1472d72487d79a27b344dc
+ref: vishniac.e.2001
+title: Magnetic Helicity Conservation and Astrophysical Dynamos
+type: article
+volume: '550'
+year: '2001'

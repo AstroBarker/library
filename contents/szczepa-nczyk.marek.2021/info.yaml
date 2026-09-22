@@ -1,0 +1,82 @@
+abstract: We performed a detailed analysis of the detectability of a wide range of         gravitational
+  waves derived from core-collapse supernova         simulations using gravitational-wave
+  detector noise scaled to         the sensitivity of the upcoming fourth and fifth
+  observing runs         of the Advanced LIGO, Advanced Virgo, and KAGRA. We use the         coherent
+  WaveBurst algorithm, which was used in the previous         observing runs to search
+  for gravitational waves from core-         collapse supernovae. As coherent WaveBurst
+  makes minimal         assumptions on the morphology of a gravitational-wave signal,
+  it         can play an important role in the first detection of         gravitational
+  waves from an event in the Milky Way. We predict         that signals from neutrino-driven
+  explosions could be detected         up to an average distance of 10 kpc, and distances
+  of over 100         kpc can be reached for explosions of rapidly-rotating progenitor         stars.
+  An estimated minimum signal-to-noise ratio of 10-25 is         needed for the signals
+  to be detected. We quantify the accuracy         of the waveforms reconstructed
+  with coherent WaveBurst and we         determine that the most challenging signals
+  to reconstruct are         those produced in long-duration neutrino-driven explosions,
+  and         models that form black holes a few seconds after the core         bounce.
+archiveprefix: arXiv
+author: Szczepa\ŉczyk, Marek J. and Antelis, Javier M. and Benjamin, Michael and Cavaglià,
+  Marco and Gondek-Rosi\ŉska, Dorota and Hansen, Travis and Klimenko, Sergey and Morales,
+  Manuel D. and Moreno, Claudia and Mukherjee, Soma and Nurbek, Gaukhar and Powell,
+  Jade and Singh, Neha and Sitmukhambetov, Satzhan and Szewczyk, Paweł and Valdez,
+  Oscar and Vedovato, Gabriele and Westhouse, Jonathan and Zanolin, Michele and Zheng,
+  Yanyan
+author_list:
+- family: Szczepa\ŉczyk
+  given: Marek J.
+- family: Antelis
+  given: Javier M.
+- family: Benjamin
+  given: Michael
+- family: Cavaglià
+  given: Marco
+- family: Gondek-Rosi\ŉska
+  given: Dorota
+- family: Hansen
+  given: Travis
+- family: Klimenko
+  given: Sergey
+- family: Morales
+  given: Manuel D.
+- family: Moreno
+  given: Claudia
+- family: Mukherjee
+  given: Soma
+- family: Nurbek
+  given: Gaukhar
+- family: Powell
+  given: Jade
+- family: Singh
+  given: Neha
+- family: Sitmukhambetov
+  given: Satzhan
+- family: Szewczyk
+  given: Paweł
+- family: Valdez
+  given: Oscar
+- family: Vedovato
+  given: Gabriele
+- family: Westhouse
+  given: Jonathan
+- family: Zanolin
+  given: Michele
+- family: Zheng
+  given: Yanyan
+doi: 10.1103/PhysRevD.104.102002
+eid: '102002'
+eprint: '2104.06462'
+groups: Gravitational Waves
+journal: \prd
+keywords: Astrophysics - High Energy Astrophysical Phenomena
+month: November
+number: '10'
+pages: '102002'
+papis_id: e5f9fd89e0b9f5956e6e09db7abe25db
+primaryclass: astro-ph.HE
+ref: szczepa_nczyk.marek.2021
+title: Detecting and reconstructing gravitational waves from the next galactic core-collapse
+  supernova in the advanced detector era
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j2002S
+volume: '104'
+year: '2021'

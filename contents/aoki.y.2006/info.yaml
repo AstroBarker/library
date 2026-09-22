@@ -1,0 +1,51 @@
+abstract: 'Quantum chromodynamics (QCD) is the theory of the strong interaction, explaining
+  (for example) the binding of three almost massless quarks into a much heavier proton
+  or neutron-and thus most of the mass of the visible Universe. The standard model
+  of particle physics predicts a QCD-related transition that is relevant for the evolution
+  of the early Universe. At low temperatures, the dominant degrees of freedom are
+  colourless bound states of hadrons (such as protons and pions). However, QCD is
+  asymptotically free, meaning that at high energies or temperatures the interaction
+  gets weaker and weaker, causing hadrons to break up. This behaviour underlies the
+  predicted cosmological transition between the low-temperature hadronic phase and
+  a high-temperature quark-gluon plasma phase (for simplicity, we use the word `phase''
+  to characterize regions with different dominant degrees of freedom). Despite enormous
+  theoretical effort, the nature of this finite-temperature QCD transition (that is,
+  first-order, second-order or analytic crossover) remains ambiguous. Here we determine
+  the nature of the QCD transition using computationally demanding lattice calculations
+  for physical quark masses. Susceptibilities are extrapolated to vanishing lattice
+  spacing for three physical volumes, the smallest and largest of which differ by
+  a factor of five. This ensures that a true transition should result in a dramatic
+  increase of the susceptibilities. No such behaviour is observed: our finite-size
+  scaling analysis shows that the finite-temperature QCD transition in the hot early
+  Universe was not a real phase transition, but an analytic crossover (involving a
+  rapid change, as opposed to a jump, as the temperature varied). As such, it will
+  be difficult to find experimental evidence of this transition from astronomical
+  observations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006Natur.443..675A
+author: Aoki, Y. and Endrődi, G. and Fodor, Z. and Katz, S. D. and Szabó, K. K.
+author_list:
+- family: Aoki
+  given: Y.
+- family: Endrődi
+  given: G.
+- family: Fodor
+  given: Z.
+- family: Katz
+  given: S. D.
+- family: Szabó
+  given: K. K.
+date-added: 2017-08-10 21:06:28 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1038/nature05120
+eprint: hep-lat/0611014
+journal: \nat
+month: October
+pages: 675--678
+papis_id: 5160044af35aebfb59440b01385baa2c
+ref: aoki.y.2006
+title: The order of the quantum chromodynamics transition predicted by the standard
+  model of particle physics
+type: article
+volume: '443'
+year: '2006'

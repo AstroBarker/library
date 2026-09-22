@@ -1,0 +1,59 @@
+abstract: We assess models for the assembly of supermassive black holes (SMBHs) at
+  the center of galaxies that trace their hierarchical buildup far up in the dark
+  halo ``merger tree.'' Motivated by the recent discovery of luminous quasars around
+  redshift z~6-suggesting a very early assembly epoch-and by numerical simulations
+  of the fragmentation of primordial molecular clouds in cold dark matter (CDM) cosmogonies,
+  we assume that the first ``seed'' black holes (BHs) had intermediate masses and
+  formed in (mini)halos collapsing at z~20 from high-sigma density fluctuations. As
+  these pregalactic holes become incorporated through a series of mergers into larger
+  and larger halos, they sink to the center because of dynamical friction, accrete
+  a fraction of the gas in the merger remnant to become supermassive, form a binary
+  system, and eventually coalesce. The merger history of dark matter halos and associated
+  BHs is followed by cosmological Monte Carlo realizations of the merger hierarchy
+  from early times until the present in a LambdaCDM cosmology. A simple model, where
+  quasar activity is driven by major mergers and SMBHs accrete at the Eddington rate
+  a mass that scales with the fifth power of the circular velocity of the host halo,
+  is shown to reproduce the observed luminosity function of optically selected quasars
+  in the redshift range 1<z<5. A scheme for describing the hardening of a BH binary
+  in a stellar background with core formation due to mass ejection is applied, where
+  the stellar cusp proportional to r-2 is promptly regenerated after every major merger
+  event, replenishing the mass displaced by the binary. Triple BH interactions will
+  inevitably take place at early times if the formation route for the assembly of
+  SMBHs goes back to the very first generation of stars, and we follow them in our
+  merger tree. The assumptions underlying our scenario lead to the prediction of a
+  population of massive BHs wandering in galaxy halos and the intergalactic medium
+  at the present epoch and contributing <~10\% to the total BH mass density, rhoSMBH=4\texttimes{}105
+  Msolar Mpc-3 (h=0.7). The fraction of binary SMBHs in galaxy nuclei is on the order
+  of 10\% today, and it increases with redshift so that almost all massive nuclear
+  BHs at early epochs are in binary systems. The fraction of binary quasars (both
+  members brighter than 0.1L\textasteriskcentered) instead is less than 0.3\% at all
+  epochs. The nuclear SMBH occupation fraction is unity (0.6) at the present epoch
+  if the first seed BHs were as numerous as the 3.5 sigma (4 sigma) density peaks
+  at z=20.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...582..559V
+arxivurl: http://arxiv.org/abs/astro-ph/0207276
+author: Volonteri, M. and Haardt, F. and Madau, P.
+author_list:
+- family: Volonteri
+  given: M.
+- family: Haardt
+  given: F.
+- family: Madau
+  given: P.
+date-added: 2017-08-11 05:42:21 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344675
+eprint: astro-ph/0207276
+journal: \apj
+keywords: 'Black Hole Physics, Cosmology: Theory, Galaxies: Evolution, Galaxies: Quasars:
+  General'
+month: January
+pages: 559--573
+papis_id: 7b8f1a8bba89a8a64dfa0a45961f3240
+ref: volonteri.m.2003
+title: The Assembly and Merging History of Supermassive Black Holes in Hierarchical
+  Models of Galaxy Formation
+type: article
+volume: '582'
+year: '2003'

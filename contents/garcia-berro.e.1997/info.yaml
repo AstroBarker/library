@@ -1,0 +1,74 @@
+abstract: A 9 M\&sun; stellar model of Population I composition is evolved from the
+  hydrogen-burning main sequence to the thermally pulsing ``super'' asymptotic giant
+  branch stage, where it has an electron-degenerate core composed of an inner oxygen-neon
+  (ONe) part of mass ~1.066 M\&sun; and an outer carbon-oxygen (CO) layer of mass
+  ~0.05 M\&sun; and is experiencing thermal pulses driven by helium-burning thermonuclear
+  flashes. The carbon-burning phase of the 9 M\&sun; model is in many respects similar
+  to, but differs importantly from that of a 10 M\&sun; model studied earlier. In
+  both cases, carbon is ignited off center, and a series of carbon flashes accompanied
+  by a convective shell occur. In contrast to the 10 M\&sun; model, the 9 M\&sun;
+  model experiences the second dredge-up phenomenon (the penetration of the base of
+  the hydrogen-rich convective envelope inward into helium- and carbon-rich material)
+  near the beginning rather than near the end of the carbon-burning phase. The first
+  carbon-burning flash causes helium burning to shut down and the release of gravothermal
+  energy (compressional and thermal energy) between the helium-carbon discontinuity
+  and the base of the convective envelope plays a dominant role in the dredge-up event.
+  Beginning with the third carbon-burning shell flash, the ``flame front,'' defined
+  as being coincident with the base of the convective shell, propagates inward with
+  a speed close to theoretical predictions that relate flame speed to local thermodynamic,
+  opacity, and energy-generation rate characteristics. Ahead of the inward moving
+  front, most of the nuclear energy released in a ``precursor flame'' goes into heating
+  and expanding matter. As the precursor flame moves toward the center, its radial
+  thickness decreases and, to follow the progress of the front with standard techniques,
+  both the spatial grid size and the time step must be continually decreased. Following
+  the front gives one the opportunity to ponder Zeno's paradox, which is averted because
+  the thickness of the precursor flame remains finite. On reaching the center, the
+  carbon-burning flame reverses direction and continues moving outward until it is
+  within ~0.03 M\&sun; of the helium-burning shell. After carbon burning is completed,
+  12C remains at a finite abundance throughout the electron-degenerate core of mass
+  ~1.116 M\&sun; and is more abundant than 20Ne in the outer ~0.05 M\&sun; of this
+  core. Over most of the ONe interior of both the 9 and 10 M\&sun; models, 23Na is
+  more abundant than 24Mg, but the maximum 12C abundance in the 9 M\&sun; model ONe
+  interior (X[12C] ~ 0.048) is significantly larger than in the 10 M\&sun; model (X[12C]
+  ~ 0.012). For an ONe white dwarf that accretes enough matter to reach the Chandrasekhar
+  limiting mass, this may make the difference between total explosive disruption (large
+  12C abundance) and collapse to neutron-star dimensions (small 12C abundance). The
+  abundances in the CO part of the core have relevance for understanding the abundances
+  in the ejecta of classical novae produced by massive ONe white dwarfs in close binaries.
+  In the outer ~0.014 M\&sun; of the CO part of the core, the abundances of all neon
+  isotopes are much less than solar, and 25Mg and the neutron-rich isotopes made during
+  the formation of 25Mg are at a total abundance equal to the initial abundance of
+  CNO elements in the model. As in the 10 M\&sun; case, thermal pulses occasioned
+  by helium shell flashes begin after hydrogen is reignited and the carbon-burning
+  luminosity drops below ~100 L\&sun;. The time between pulses is ~400 yr, roughly
+  twice as large as in the 10 M\&sun; model. After the ejection of the hydrogen-rich
+  envelope as a planetary nebula, the remnant of the 9 M\&sun; model is expected to
+  evolve into a white dwarf of mass ~1.15 M\&sun;, the outer ~0.08 M\&sun; of which
+  is composed of carbon and oxygen.  Supported in part by the NSF (US) grant AST 94-17156
+  and the DGICYT (Spain) grant PB94-0827-C02-02.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...485..765G
+author: García-Berro, E. and Ritossa, C. and Iben Jr., I.
+author_list:
+- family: García-Berro
+  given: E.
+- family: Ritossa
+  given: C.
+- family: Iben Jr.
+  given: I.
+date-added: 2017-08-11 07:59:28 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304444
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution, Stars:
+  Interiors, Stars: Supergiants, Stars: White Dwarfs'
+month: August
+pages: 765--784
+papis_id: f2e95da18a78ae464806aac506cf251f
+ref: garcia_berro.e.1997
+title: On the Evolution of Stars that Form Electron-Degenerate Cores Processed by
+  Carbon Burning. III. The Inward Propagation of a Carbon-Burning Flame and Other
+  Properties of a 9 M$_&sun;$ Model Star
+type: article
+volume: '485'
+year: '1997'

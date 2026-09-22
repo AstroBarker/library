@@ -1,0 +1,42 @@
+abstract: 'Context: Transition lines of neutral calcium are observed in the spectra
+  of stellar and substellar objects. In particular, the abundance of alpha-elements
+  in metal-poor stars can place important constraints on the galactic chemical evolution.
+  Such stellar abundance analyses rely heavily on accurate values for the oscillator
+  strength of the observable transitions. Theoretical oscillator strengths are available
+  for most neutral calcium lines visible in stellar spectra, but there are a limited
+  number of experimental values in the literature.  Aims: We present new and improved
+  experimental oscillator strengths for the optical Ca i 4p-5s triplet (6102.7, 6122.2,
+  6162.2 {\AA}). In addition, we present experimental radiative lifetimes for seven
+  energy levels in the triplet system of Ca i.  Methods: The oscillator strengths
+  were determined by combining radiative lifetimes with branching fractions. The radiative
+  lifetimes were measured using laser-induced fluorescence, and the branching fractions
+  were determined using intensity calibrated spectra measured with Fourier transform
+  spectrometry. In addition, the spectra were used to determine accurate (dlambda
+  = 0.001 {\AA}, dsigma = 0.002 cm-1) laboratory wavelengths for the 4p-5s transitions.  Results:
+  Oscillator strengths for the Ca i 4p-5s lines were determined with an absolute uncertainty
+  of 9\%, an uncertainty of $\pm$ 0.04 dex in the log(gf) values. The branching fractions
+  were determined with a higher accuracy, resulting in relative uncertainties of 2-3\%.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...502..989A
+author: Aldenius, M. and Lundberg, H. and Blackwell-Whitehead, R.
+author_list:
+- family: Aldenius
+  given: M.
+- family: Lundberg
+  given: H.
+- family: Blackwell-Whitehead
+  given: R.
+date-added: 2017-08-10 23:16:41 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1051/0004-6361/200911844
+journal: \aap
+keywords: 'atomic data, line: profiles, methods: laboratory, techniques: spectroscopic,
+  stars: abundances'
+month: August
+pages: 989--994
+papis_id: 3c5cbd0d394cbd63f3f559dbacd1aeab
+ref: aldenius.m.2009
+title: Experimental Ca I oscillator strengths for the 4p-5s triplet
+type: article
+volume: '502'
+year: '2009'

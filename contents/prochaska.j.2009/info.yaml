@@ -1,0 +1,44 @@
+abstract: We present a new method to directly measure the opacity from H I Lyman limit
+  (LL) absorption kappaLL along quasar sight lines by the intergalactic medium (IGM).
+  The approach analyzes the average ("stacked") spectrum of an ensemble of quasars
+  at a common redshift to infer the mean free path lambda912 mfp to ionizing radiation.
+  We apply this technique to 1800 quasars at z = 3.50-4.34 drawn from the Sloan Digital
+  Sky Survey (SDSS), giving the most precise measurements on kappaLL at any redshift.
+  From z = 3.6 to 4.3, the opacity increases steadily as expected and is well parameterized
+  by lambda912 mfp = lambda0 - b lambda(z - 3.6) with lambda0 = (48.4 $\pm$ 2.1) h
+  -1 72 Mpc and b lambda = (38.0 \$\pm\$ 5.3) h -1 72 Mpc (proper distance). The relatively
+  high lambda912 mfp values indicate that the incidence of systems which dominate
+  kappaLL evolves less strongly at z > 3 than that of the Lyalpha forest. We infer
+  a mean free path three times higher than some previous estimates, a result which
+  has important implications for the photoionization rate derived from the emissivity
+  of star-forming galaxies and quasars. Finally, our analysis reveals a previously
+  unreported, systematic bias in the SDSS quasar sample related to the survey's color
+  targeting criteria. This bias potentially affects all z ~ 3 IGM studies using the
+  SDSS database.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...705L.113P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.0009
+author: Prochaska, J. X. and Worseck, G. and O'Meara, J. M.
+author_list:
+- family: Prochaska
+  given: J. X.
+- family: Worseck
+  given: G.
+- family: O'Meara
+  given: J. M.
+date-added: 2017-08-10 20:28:35 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/705/2/L113
+eprint: '0910.0009'
+journal: \apjl
+keywords: 'intergalactic medium, large-scale structure of universe, quasars: absorption
+  lines'
+month: November
+pages: L113-L117
+papis_id: 94d37a6c6652ee8bc99dd32834849c45
+ref: prochaska.j.2009
+title: A Direct Measurement of the Intergalactic Medium Opacity to H I Ionizing Photons
+type: article
+volume: '705'
+year: '2009'

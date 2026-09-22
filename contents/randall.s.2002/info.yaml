@@ -1,0 +1,57 @@
+abstract: In the standard cold dark matter model of structure formation, massive clusters
+  form via the merger of smaller clusters. N-body/hydrodynamical simulations of merging
+  galaxy clusters have shown that mergers can temporarily boost the X-ray luminosity
+  and temperature of the merged cluster above the equilibrium values for the merged
+  system. The cumulative effect of these ``merger boosts'' will affect the observed
+  X-ray luminosity functions (XLFs) and temperature functions (TFs) of clusters. One
+  expects this effect to be most important for the most luminous and hottest clusters.
+  XLFs and TFs of clusters provide some of the strongest constraints on cosmological
+  and large-scale structure parameters, such as the mean fluctuation parameter sigma8
+  and the matter density divided by the critical density Omega0. Merger boosts may
+  bias the values of sigma8 and Omega0 inferred from cluster XLFs and TFs if virial
+  equilibrium is assumed. We use a semianalytic technique to estimate the effect of
+  merger boosts on the XLFs and TFs. The boosts from individual mergers are derived
+  from N-body/hydrodynamical simulations of mergers. The statistics of the merger
+  histories of clusters are determined from extended Press-Schechter (PS) merger trees.
+  We find that merger boosts can increase the apparent number of hot, luminous clusters.
+  For example, in a universe with Omega0=0.3 and OmegaLambda=0.7 at a redshift of
+  z=1, the number of clusters with temperatures T>10 keV is increased by a factor
+  of 9.5, and the number of clusters with luminosities LX>5\texttimes{}1044 h-2 ergs
+  s-1 is increased by a factor of 8.9. We have used our merger-boosted TFs and XLFs
+  to derive the cosmological structure parameters sigma8 and Omega0 by fitting PS
+  equilibrium relations to local (z=0) and distant (either z=0.5 or z=1) cluster samples.
+  Merger boosts cause sigma8 to be overestimated by about 20\%. The matter density
+  parameter Omega0 may be underestimated by about 20\%, although this result is less
+  clear. If the parameters of the fluctuation spectrum are derived from the observed
+  TF or XLF (e.g., from a low-redshift sample), then this removes most of the boost
+  effect on Omega0. However, larger merger boost effects may appear when cluster XLFs
+  and TFs are compared to cosmological structure parameters derived by other techniques
+  (e.g., cosmic microwave background fluctuations or the brightness of distant supernovae).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577..579R
+arxivurl: http://arxiv.org/abs/astro-ph/0206161
+author: Randall, S. W. and Sarazin, C. L. and Ricker, P. M.
+author_list:
+- family: Randall
+  given: S. W.
+- family: Sarazin
+  given: C. L.
+- family: Ricker
+  given: P. M.
+date-added: 2017-08-11 05:13:55 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342239
+eprint: astro-ph/0206161
+journal: \apj
+keywords: 'Cosmology: Cosmological Parameters, Galaxies: Clusters: General, Galaxies:
+  Intergalactic Medium, Cosmology: Large-Scale Structure of Universe, X-Rays: Galaxies:
+  Clusters'
+month: October
+pages: 579--594
+papis_id: 532a255980e59b831b582ff02fd962c3
+ref: randall.s.2002
+title: The Effect of Merger Boosts on the Luminosity, Temperature, and Inferred Mass
+  Functions of Clusters of Galaxies
+type: article
+volume: '577'
+year: '2002'

@@ -1,0 +1,55 @@
+abstract: We present time-resolved spectroscopy and photometry of SDSS J100658.40+233724.4,
+  which we have discovered to be an eclipsing cataclysmic variable with an orbital
+  period of 0.18591324 days (267.71507 min). The observed velocity amplitude of the
+  secondary star is 276 $\pm$ 7 km s-1, which an irradiation correction reduces to
+  258 \$\pm\$ 12 km s-1. Doppler tomography of emission lines from the infrared calcium
+  triplet supports this measurement. We have modelled the light curve using the lcurve
+  code and Markov Chain Monte Carlo simulations, finding a mass ratio of 0.51 \$\pm\$
+  0.08. From the velocity amplitude and the light curve analysis we find the mass
+  of the white dwarf to be 0.78 \$\pm\$ 0.12 {{M}\_\&sun;} and the masses and radii
+  of the secondary star to be 0.40 \$\pm\$ 0.10 {{M}\_\&sun;} and 0.466 \$\pm\$ 0.036
+  {{R}\_\&sun;}, respectively. The secondary component is less dense than a normal
+  main sequence star but its properties are in good agreement with the expected values
+  for a CV of this orbital period. By modelling the spectral energy distribution of
+  the system we find a distance of 676 \$\pm\$ 40 pc and estimate a white dwarf effective
+  temperature of 16 500 \$\pm\$ 2000 K.  Spectra are only available in electronic
+  form at the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/507/929
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...507..929S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.2784
+author: Southworth, J. and Hickman, R. D. G. and Marsh, T. R. and Rebassa-Mansergas,
+  A. and Gänsicke, B. T. and Copperwheat, C. M. and Rodríguez-Gil, P.
+author_list:
+- family: Southworth
+  given: J.
+- family: Hickman
+  given: R. D. G.
+- family: Marsh
+  given: T. R.
+- family: Rebassa-Mansergas
+  given: A.
+- family: Gänsicke
+  given: B. T.
+- family: Copperwheat
+  given: C. M.
+- family: Rodríguez-Gil
+  given: P.
+date-added: 2017-08-11 05:04:19 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1051/0004-6361/200912885
+eprint: '0909.2784'
+journal: \aap
+keywords: 'stars: novae, cataclysmic variables, stars: dwarf novae, stars: binaries:
+  eclipsing, stars: binaries: spectroscopic, stars: white dwarfs, stars: individual:
+  SDSS J100658.40+233724'
+month: November
+pages: 929--937
+papis_id: 775d6196f8ce1ef4e67e40f633f77d17
+primaryclass: astro-ph.SR
+ref: southworth.j.2009
+title: Orbital periods of cataclysmic variables identified by the SDSS. VI. The 4.5-h
+  period eclipsing system SDSS J100658.40+233724.4
+type: article
+volume: '507'
+year: '2009'

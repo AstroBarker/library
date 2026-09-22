@@ -1,0 +1,58 @@
+abstract: We propose a generalized model for stellar spin-down, disk accretion, and
+  truncation, and the origin of winds, jets, and bipolar outflows from young stellar
+  objects. We consider the steady state dynamics of accretion of matter from a viscous
+  and imperfectly conducting disk onto a young star with a strong magnetic field.
+  For an aligned stellar magnetosphere, shielding currents in the surface layers of
+  the disk prevent stellar field lines from penetrating the disk everywhere except
+  for a range of radii about pi = Rx, where the Keplerian angular speed of rotation
+  Omegax equals the angular speed of the star Omega\textasteriskcentered. For the
+  low disk accretion rates and high magnetic fields associated with typical T Tauri
+  stars, Rx exceeds the radius of the star R\textasteriskcentered by a factor of a
+  few, and the inner disk is effectively truncated at a radius Rt somewhat smaller
+  than Rx. Where the closed field lines between Rt and Rx bow sufficiently inward,
+  the accreting gas attaches itself to the field and is funneled dynamically down
+  the effective potential (gravitational plus centrifugal) onto the star. Contrary
+  to common belief, the accompanying magnetic torques associated with this accreting
+  gas may transfer angular momentum mostly to the disk rather than to the star. Thus,
+  the star can spin slowly as long as Rx remains significantly greater than R\textasteriskcentered.
+  Exterior to Rx field lines threading the disk bow outward, which makes the gas off
+  the mid-plane rotate at super-Keplerian velocities. This combination drives a magnetocentrifugal
+  wind with a mass-loss rate Mw equal to a definite fraction f of the disk accretion
+  rate MD. For high disk accretion rates, Rx is forced down to the stellar surface,
+  the star is spun to breakup, and the wind is generated in a manner identical to
+  that proposed by Shu, Lizano, Ruden, \& Najita in a previous communication to this
+  journal. In two companion papers (II and III), we develop a detailed but idealized
+  theory of the magnetocentrifugal acceleration process.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...429..781S
+author: Shu, F. and Najita, J. and Ostriker, E. and Wilkin, F. and Ruden, S. and Lizano,
+  S.
+author_list:
+- family: Shu
+  given: F.
+- family: Najita
+  given: J.
+- family: Ostriker
+  given: E.
+- family: Wilkin
+  given: F.
+- family: Ruden
+  given: S.
+- family: Lizano
+  given: S.
+date-added: 2017-08-11 03:05:46 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174363
+journal: \apj
+keywords: Astronomical Models, Centrifugal Force, Disk Galaxies, Magnetic Fields,
+  Mass Flow, Protostars, Stellar Mass Accretion, T Tauri Stars, Angular Momentum,
+  Numerical Analysis, Stellar Winds, Terminal Velocity
+month: July
+pages: 781--796
+papis_id: 5fcafee6470b394dc25d0e82fce1495a
+ref: shu.f.1994
+title: 'Magnetocentrifugally driven flows from young stars and disks. 1: A generalized
+  model'
+type: article
+volume: '429'
+year: '1994'

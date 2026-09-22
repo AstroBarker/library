@@ -1,0 +1,63 @@
+abstract: We present an overview of four ab initio axisymmetric core-collapse supernova
+  simulations employing detailed spectral neutrino transport computed with our CHIMERA
+  code and initiated from Woosley \& Heger progenitors of mass 12, 15, 20, and 25
+  M \&sun;. All four models exhibit shock revival over ~200 ms (leading to the possibility
+  of explosion), driven by neutrino energy deposition. Hydrodynamic instabilities
+  that impart substantial asymmetries to the shock aid these revivals, with convection
+  appearing first in the 12 M \&sun; model and the standing accretion shock instability
+  appearing first in the 25 M \&sun; model. Three of the models have developed pronounced
+  prolate morphologies (the 20 M \&sun; model has remained approximately spherical).
+  By 500 ms after bounce the mean shock radii in all four models exceed 3000 km and
+  the diagnostic explosion energies are 0.33, 0.66, 0.65, and 0.70 Bethe (B = 1051
+  erg) for the 12, 15, 20, and 25 M \&sun; models, respectively, and are increasing.
+  The three least massive of our models are already sufficiently energetic to completely
+  unbind the envelopes of their progenitors (i.e., to explode), as evidenced by our
+  best estimate of their explosion energies, which first become positive at 320, 380,
+  and 440 ms after bounce. By 850 ms the 12 M \&sun; diagnostic explosion energy has
+  saturated at 0.38 B, and our estimate for the final kinetic energy of the ejecta
+  is ~0.3 B, which is comparable to observations for lower mass progenitors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...767L...6B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.1747
+author: Bruenn, S. W. and Mezzacappa, A. and Hix, W. R. and Lentz, E. J. and Messer,
+  O. E. B. and Lingerfelt, E. J. and Blondin, J. M. and Endeve, E. and Marronetti,
+  P. and Yakunin, K. N.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: Mezzacappa
+  given: A.
+- family: Hix
+  given: W. R.
+- family: Lentz
+  given: E. J.
+- family: Messer
+  given: O. E. B.
+- family: Lingerfelt
+  given: E. J.
+- family: Blondin
+  given: J. M.
+- family: Endeve
+  given: E.
+- family: Marronetti
+  given: P.
+- family: Yakunin
+  given: K. N.
+date-added: 2017-08-10 14:30:27 +0000
+date-modified: 2018-07-17 09:59:29 +0000
+doi: 10.1088/2041-8205/767/1/L6
+eid: L6
+eprint: '1212.1747'
+journal: \apjl
+keywords: 'neutrinos, radiative transfer, supernovae: general'
+month: April
+pages: L6
+papis_id: df6af5134d3a9e6e1e696be1021080c0
+primaryclass: astro-ph.SR
+ref: bruenn.s.2013
+title: Axisymmetric Ab Initio Core-collapse Supernova Simulations of 12-25 M $_\sun$
+  Stars
+type: article
+volume: '767'
+year: '2013'

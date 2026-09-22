@@ -1,0 +1,47 @@
+abstract: Supernova (SN) 1987A focused attention on the critical role of hydrodynamic
+  instabilities in the evolution of supernovae. To test the modeling of these instabilities,
+  we are developing laboratory experiments of hydrodynamic mixing under conditions
+  relevant to supernovae. Initial results were reported by Kane et al. in a recent
+  paper. The Nova laser is used to generate a 10-15 Mbar shock at the interface of
+  a two-layer planar target, which triggers perturbation growth, due to the Richtmeyer-Meshkov
+  instability, and to the Rayleigh-Taylor instability as the interface decelerates.
+  This resembles the hydrodynamics of the He-H interface of a Type II supernova at
+  intermediate times, up to a few times 103 s. The experiment is modeled using the
+  hydrodynamics codes HYADES and CALE, and the supernova code PROMETHEUS. Results
+  of the experiments and simulations are presented. We also present new analysis of
+  the bubble velocity, a study of two-dimensional versus three-dimensional difference
+  in growth at the He-H interface of SN 1987A, and designs for two-dimensional versus
+  three-dimensional hydro experiments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..127..365K
+author: Kane, J. and Arnett, D. and Remington, B. A. and Glendinning, S. G. and Bazan,
+  G. and Drake, R. P. and Fryxell, B. A.
+author_list:
+- family: Kane
+  given: J.
+- family: Arnett
+  given: D.
+- family: Remington
+  given: B. A.
+- family: Glendinning
+  given: S. G.
+- family: Bazan
+  given: G.
+- family: Drake
+  given: R. P.
+- family: Fryxell
+  given: B. A.
+date-added: 2017-08-11 04:49:27 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/313349
+journal: \apjs
+keywords: 'Hydrodynamics, Instabilities, ISM: Bubbles, Methods: Laboratory, Shock
+  Waves, Stars: Supernovae: Individual: Alphanumeric: SN 1987A'
+month: April
+pages: 365--369
+papis_id: da6a3ab093fb854e6ebf764e8bb94170
+ref: kane.j.2000
+title: Supernova Experiments on the Nova Laser
+type: article
+volume: '127'
+year: '2000'

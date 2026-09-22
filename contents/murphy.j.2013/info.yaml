@@ -1,0 +1,45 @@
+abstract: Multi-dimensional instabilities have become an important ingredient in core-collapse
+  supernova (CCSN) theory. Therefore, it is necessary to understand the driving mechanism
+  of the dominant instability. We compare our parameterized three-dimensional CCSN
+  simulations with other buoyancy-driven simulations and propose scaling relations
+  for neutrino-driven convection. Through these comparisons, we infer that buoyancy-driven
+  convection dominates post-shock turbulence in our simulations. In support of this
+  inference, we present four major results. First, the convective fluxes and kinetic
+  energies in the neutrino-heated region are consistent with expectations of buoyancy-driven
+  convection. Second, the convective flux is positive where buoyancy actively drives
+  convection, and the radial and tangential components of the kinetic energy are in
+  rough equipartition (i.e., Kr ~ K theta + K phi). Both results are natural consequences
+  of buoyancy-driven convection, and are commonly observed in simulations of convection.
+  Third, buoyant driving is balanced by turbulent dissipation. Fourth, the convective
+  luminosity and turbulent dissipation scale with the driving neutrino power. In all,
+  these four results suggest that in neutrino-driven explosions, the multi-dimensional
+  motions are consistent with neutrino-driven convection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...771...52M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.3491
+author: Murphy, J. W. and Dolence, J. C. and Burrows, A.
+author_list:
+- family: Murphy
+  given: J. W.
+- family: Dolence
+  given: J. C.
+- family: Burrows
+  given: A.
+date-added: 2017-08-10 14:38:31 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/771/1/52
+eid: '52'
+eprint: '1205.3491'
+journal: \apj
+keywords: 'convection, hydrodynamics, instabilities, methods: analytical, methods:
+  numerical, shock waves, supernovae: general, turbulence'
+month: July
+pages: '52'
+papis_id: 55f6de483f38999ac05a8ffb13907f39
+primaryclass: astro-ph.SR
+ref: murphy.j.2013
+title: The Dominance of Neutrino-driven Convection in Core-collapse Supernovae
+type: article
+volume: '771'
+year: '2013'

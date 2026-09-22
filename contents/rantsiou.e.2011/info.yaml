@@ -1,0 +1,49 @@
+abstract: It has been suggested that the observed rotation periods of radio pulsars
+  might be induced by a non-axisymmetric spiral-mode instability in the turbulent
+  region behind the stalled supernova bounce shock, even if the progenitor core was
+  not initially rotating. In this paper, using the three-dimensional Adaptive Mesh
+  Refinement code CASTRO with a realistic progenitor and equation of state and a simple
+  neutrino heating and cooling scheme, we present a numerical study of the evolution
+  in three dimensions of the rotational profile of a supernova core from collapse,
+  through bounce and shock stagnation, to delayed explosion. By the end of our simulation
+  (~420 ms after core bounce), we do not witness significant spin-up of the proto-neutron
+  star core left behind. However, we do see the development before the explosion of
+  strong differential rotation in the turbulent gain region between the core and stalled
+  shock. Shells in this region acquire high spin rates that reach ~150 Hz, but this
+  region contains too little mass and angular momentum to translate, even if left
+  behind, into rapid rotation for the full neutron star. We also find that much of
+  the induced angular momentum is likely to be ejected in the explosion, and moreover
+  that even if the optimal amount of induced angular momentum is retained in the core,
+  the resulting spin period is likely to be quite modest. Nevertheless, induced periods
+  of seconds are possible.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...732...57R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.5238
+author: Rantsiou, E. and Burrows, A. and Nordhaus, J. and Almgren, A.
+author_list:
+- family: Rantsiou
+  given: E.
+- family: Burrows
+  given: A.
+- family: Nordhaus
+  given: J.
+- family: Almgren
+  given: A.
+date-added: 2017-08-10 20:57:04 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/732/1/57
+eid: '57'
+eprint: '1010.5238'
+journal: \apj
+keywords: 'hydrodynamics, pulsars: general, supernovae: general'
+month: May
+pages: '57'
+papis_id: 8495324221f49f8e859c186453766db4
+primaryclass: astro-ph.HE
+ref: rantsiou.e.2011
+title: 'Induced Rotation in Three-dimensional Simulations of Core-collapse Supernovae:
+  Implications for Pulsar Spins'
+type: article
+volume: '732'
+year: '2011'

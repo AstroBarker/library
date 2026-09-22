@@ -1,0 +1,77 @@
+abstract: 'Context: Solar-like oscillations have been observed in numerous red giants
+  from ground and from space. An important question arises: could we expect to detect
+  non-radial modes probing the internal structure of these stars?  Aims: We investigate
+  under what physical circumstances non-radial modes could be observable in red giants;
+  what would be their amplitudes, lifetimes and heights in the power spectrum (PS)?  Methods:
+  Using a non-radial non-adiabatic pulsation code including a non-local time-dependent
+  treatment of convection, we compute the theoretical lifetimes of radial and non-radial
+  modes in several red giant models. Next, using a stochastic excitation model, we
+  compute the amplitudes of these modes and their heights in the PS.  Results: Distinct
+  cases appear. Case A corresponds to subgiants and stars at the bottom of the ascending
+  giant branch. Our results show that the lifetimes of the modes are mainly proportional
+  to the inertia I, which is modulated by the mode trapping. The predicted amplitudes
+  are lower for non-radial modes. But the height of the peaks in the PS are of the
+  same order for radial and non-radial modes as long as they can be resolved. The
+  resulting frequency spectrum is complex. Case B corresponds to intermediate models
+  in the red giant branch. In these models, the radiative damping becomes high enough
+  to destroy the non-radial modes trapped in the core. Hence, only modes trapped in
+  the envelope have significant heights in the PS and could be observed. The resulting
+  frequency spectrum of detectable modes is regular for l=0 and 2, but a little more
+  complex for l=1 modes because of less efficient trapping. Case C corresponds to
+  models of even higher luminosity. In these models the radiative damping of non-radial
+  modes is even larger than in the previous case and only radial and non-radial modes
+  completely trapped in the envelope could be observed. The frequency pattern is very
+  regular for these stars. The comparison between the predictions for radial and non-radial
+  modes is very different if we consider the heights in the PS instead of the amplitudes.
+  This is important as the heights (not the amplitudes) are used as detection criterion.  CIFIST
+  Marie Curie Excellence Team.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...506...57D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.3951
+author: Dupret, M.-A. and Belkacem, K. and Samadi, R. and Montalban, J. and Moreira,
+  O. and Miglio, A. and Godart, M. and Ventura, P. and Ludwig, H.-G. and Grigahcène,
+  A. and Goupil, M.-J. and Noels, A. and Caffau, E.
+author_list:
+- family: Dupret
+  given: M.-A.
+- family: Belkacem
+  given: K.
+- family: Samadi
+  given: R.
+- family: Montalban
+  given: J.
+- family: Moreira
+  given: O.
+- family: Miglio
+  given: A.
+- family: Godart
+  given: M.
+- family: Ventura
+  given: P.
+- family: Ludwig
+  given: H.-G.
+- family: Grigahcène
+  given: A.
+- family: Goupil
+  given: M.-J.
+- family: Noels
+  given: A.
+- family: Caffau
+  given: E.
+date-added: 2017-08-10 19:10:27 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1051/0004-6361/200911713
+eprint: '0906.3951'
+journal: \aap
+keywords: 'stars: oscillations, stars: interiors, convection'
+month: October
+pages: 57--67
+papis_id: 0dd02c6a01cb3b44a1e0ed8189099deb
+primaryclass: astro-ph.SR
+ref: dupret.m_a.2009
+title: Theoretical amplitudes and lifetimes of non-radial solar-like oscillations
+  in red giants
+type: article
+volume: '506'
+year: '2009'

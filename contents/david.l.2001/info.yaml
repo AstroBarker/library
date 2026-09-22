@@ -1,0 +1,63 @@
+abstract: The cooling flow cluster Hydra A was observed during the orbital activation
+  and calibration phase of the Chandra Observatory. While the X-ray image of the cluster
+  exhibits complex structure in the central region as reported in McNamara et al.,
+  the large-scale X-ray morphology of the cluster is fairly smooth. A spectroscopic
+  analysis of the ACIS data shows that the gas temperature in Hydra A increases outward,
+  reaches a maximum temperature of 4 keV at 200 kpc, and then decreases slightly at
+  larger radii. The distribution of heavy elements is nonuniform, with a factor of
+  2 increase in the Fe and Si abundances within the central 100 kpc. Beyond the central
+  100 kpc the Si-to-Fe abundance ratio is twice solar, while the Si-to-Fe ratio of
+  the central excess is consistent with the solar value. One of the more surprising
+  results is the lack of spectroscopic evidence for multiphase gas within the bulk
+  of the cooling flow. Beyond the central 30 kpc, the ACIS spectra are adequately
+  fitted with a single-temperature model. The addition of a cooling flow component
+  does not significantly improve the fit. Only within the central 30 kpc (where the
+  cooling time is less than 1 Gyr) is there spectroscopic evidence for multiphase
+  gas. However, the spectroscopic mass deposition rate is more than a factor of 10
+  less than the morphologically derived mass accretion rate at 30 kpc. We propose
+  that the cooling flow region is convectively unstable owing to heating by the central
+  radio source, which significantly reduces the net accretion rate. In addition, we
+  show that the mass distribution within the central 30-200 kpc region scales as rhod~r-1.3,
+  intermediate between an NFW and a Moore profile, but with a best-fit NFW concentration
+  parameter (cNFW=12) approximately 3 times greater than that found in numerical simulations.
+  However, given the limited photon statistics, we cannot rule out the presence of
+  a flat-density core with a core radius less than 30 kpc.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...557..546D
+arxivurl: http://arxiv.org/abs/astro-ph/0010224
+author: David, L. P. and Nulsen, P. E. J. and McNamara, B. R. and Forman, W. and Jones,
+  C. and Ponman, T. and Robertson, B. and Wise, M.
+author_list:
+- family: David
+  given: L. P.
+- family: Nulsen
+  given: P. E. J.
+- family: McNamara
+  given: B. R.
+- family: Forman
+  given: W.
+- family: Jones
+  given: C.
+- family: Ponman
+  given: T.
+- family: Robertson
+  given: B.
+- family: Wise
+  given: M.
+date-added: 2017-08-11 03:58:46 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/322250
+eprint: astro-ph/0010224
+journal: \apj
+keywords: 'Galaxies: Cooling Flows, Galaxies: Clusters: Individual: Name: Hydra A,
+  Galaxies: Intergalactic Medium, X-Rays: Galaxies'
+month: August
+pages: 546--559
+papis_id: c095c0efd265754de8195a72586cb0d9
+ref: david.l.2001
+title: 'A High-Resolution Study of the Hydra A Cluster with Chandra: Comparison of
+  the Core Mass Distribution with Theoretical Predictions and Evidence for Feedback
+  in the Cooling Flow'
+type: article
+volume: '557'
+year: '2001'

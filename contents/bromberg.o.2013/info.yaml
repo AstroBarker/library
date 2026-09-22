@@ -1,0 +1,54 @@
+abstract: 'Gamma-ray bursts (GRBs) are traditionally divided into long and short according
+  to their durations (lg2 s). It was generally believed that this reflects a different
+  physical origin: collapsars (long) and non-collapsars (short). We have recently
+  shown that the duration distribution of collapsars is flat, namely, independent
+  of the duration, at short durations. Using this model for the distribution of Collapsars
+  we determine the duration distribution of non-Collapsars and estimate the probability
+  that a burst with a given duration (and hardness) is a Collapsar or not. We find
+  that this probability depends strongly on the spectral window of the observing detector.
+  While the commonly used limit of 2 s is conservative and suitable for BATSE bursts,
+  40\% of Swift''s bursts shorter than 2 s are Collapsars and the division lg0.8 s
+  is more suitable for Swift. We find that the duration overlap of the two populations
+  is very large. On the one hand there is a non-negligible fraction of non-Collapsars
+  longer than 10 s, while on the other hand even bursts shorter than 0.5 s in the
+  Swift sample have a non-negligible probability to be Collapsars. Our results enable
+  the construction of non-Collapsar samples while controlling the Collapsar contamination.
+  They also highlight that no firm conclusions can be drawn based on a single burst
+  and they have numerous implications concerning previous studies of non-Collapsar
+  properties that were based on the current significantly contaminated Swift samples
+  of localized short GRBs. Specifically (1) all known short bursts with z > 1 are
+  most likely Collapsars; (2) the only short burst with a clear jet break is most
+  likely a Collapsar, indicating our lack of knowledge concerning non-Collapsar beaming;
+  and (3) the existence of non-Collapsars with durations up to 10 s imposes new challenges
+  to non-Collapsar models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764..179B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.0068
+author: Bromberg, O. and Nakar, E. and Piran, T. and Sari, R.
+author_list:
+- family: Bromberg
+  given: O.
+- family: Nakar
+  given: E.
+- family: Piran
+  given: T.
+- family: Sari
+  given: R.
+date-added: 2017-08-10 15:53:01 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/2/179
+eid: '179'
+eprint: '1210.0068'
+journal: \apj
+keywords: 'gamma-ray burst: general, methods: data analysis'
+month: February
+pages: '179'
+papis_id: 95097ff6ca7461f8baa1a2c724030805
+primaryclass: astro-ph.HE
+ref: bromberg.o.2013
+title: 'Short versus Long and Collapsars versus Non-collapsars: A Quantitative Classification
+  of Gamma-Ray Bursts'
+type: article
+volume: '764'
+year: '2013'

@@ -1,0 +1,44 @@
+abstract: We derive a simple approximate model describing the early, hours to days,
+  UV/optical (UV/O) supernova emission, which is produced by the expansion of the
+  outer lsim10-2 M sun part of the shock-heated envelope, and precedes optical emission
+  driven by radioactive decay. Our model includes an approximate description of the
+  time dependence of the opacity (mainly due to recombination), and of the deviation
+  of the emitted spectrum from a blackbody spectrum. We show that the characteristics
+  of the early UV/O emission constrain the radius of the progenitor star, R \textasteriskcentered,
+  its envelope composition, and the ratio of the ejecta energy to its mass, E/M. For
+  He envelopes, neglecting the effect of recombination may lead to an overestimate
+  of R \textasteriskcentered by more than an order of magnitude. We also show that
+  the relative extinction at different wavelengths (A lambda - AV ) may be inferred
+  from the light curves at these wavelengths, removing the uncertainty in the estimate
+  of R \textasteriskcentered due to reddening (but not the uncertainty in E/M due
+  to uncertainty in absolute extinction). The early UV/O observations of the types
+  Ib SN 2008D and IIp SNLS-04D2dc are consistent with our model predictions. For SN
+  2008D, we find R \textasteriskcentered \approx{} 1011 cm, and an indication that
+  the He envelope contains a significant C/O fraction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...728...63R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.3414
+author: Rabinak, I. and Waxman, E.
+author_list:
+- family: Rabinak
+  given: I.
+- family: Waxman
+  given: E.
+date-added: 2017-08-10 21:24:16 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/728/1/63
+eid: '63'
+eprint: '1002.3414'
+journal: \apj
+keywords: 'radiative transfer, shock waves, stars: evolution, supernovae: general,
+  supernovae: individual: SN 2008D'
+month: February
+pages: '63'
+papis_id: d8b774db69d7caa59952d4ce753d3a93
+primaryclass: astro-ph.HE
+ref: rabinak.i.2011
+title: The Early UV/Optical Emission from Core-collapse Supernovae
+type: article
+volume: '728'
+year: '2011'

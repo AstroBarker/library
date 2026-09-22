@@ -1,0 +1,42 @@
+abstract: We describe the magnetohydrodynamics (MHD) code CRONOS, which has been used
+  in astrophysics and space-physics studies in recent years. CRONOS has been designed
+  to be easily adaptable to the problem in hand, where the user can expand or exchange
+  core modules or add new functionality to the code. This modularity comes about through
+  its implementation using a C++ class structure. The core components of the code
+  include solvers for both hydrodynamical (HD) and MHD problems. These problems are
+  solved on different rectangular grids, which currently support Cartesian, spherical,
+  and cylindrical coordinates. CRONOS uses a finite-volume description with different
+  approximate Riemann solvers that can be chosen at runtime. Here, we describe the
+  implementation of the code with a view toward its ongoing development. We illustrate
+  the code's potential through several (M)HD test problems and some astrophysical
+  applications.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJS..236...53K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.09479
+author: Kissmann, R. and Kleimann, J. and Krebl, B. and Wiengarten, T.
+author_list:
+- family: Kissmann
+  given: R.
+- family: Kleimann
+  given: J.
+- family: Krebl
+  given: B.
+- family: Wiengarten
+  given: T.
+date-added: 2018-08-27 15:08:52 -0400
+date-modified: 2018-08-27 15:08:54 -0400
+doi: 10.3847/1538-4365/aabe75
+eid: '53'
+eprint: '1806.09479'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: June
+pages: '53'
+papis_id: 76c6731c9704c7af44b415693096d360
+primaryclass: astro-ph.IM
+ref: kissmann.r.2018
+title: The CRONOS Code for Astrophysical Magnetohydrodynamics
+type: article
+volume: '236'
+year: '2018'

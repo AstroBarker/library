@@ -1,0 +1,48 @@
+abstract: Interferometric observations have revealed that the rapid rotator Altair
+  is a flattened star with a non-centrally symmetric intensity distribution. In this
+  work we perform for the first time a physically consistent analysis of all interferometric
+  data available so far, corresponding to three different interferometers operating
+  in several spectral bands. These observations include new data (squared visibilities
+  in the H and K bands from VLTI-VINCI) as well as previously published data (squared
+  visibilities in the K band from PTI and squared visibilities, triple amplitudes,
+  and closure phases in the visible between 520 nm and 850 nm from NPOI). To analyze
+  these data we perform a chi2 minimization using an interferometry-oriented model
+  for fast rotators, which includes Roche approximation, limb-darkening, and von Zeipel-like
+  gravity-darkening. Thanks to the rich interferometric data set available and to
+  this physical model, the main uniqueness problems were avoided. As a result, we
+  show that the observations can only be explained if Altair has a gravity-darkening
+  compatible with the expected value for hot stars, i.e., the von Zeipel effect (T\_eff\propto{}
+  g0.25).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...442..567D
+author: Domiciano de Souza, A. and Kervella, P. and Jankov, S. and Vakili, F. and
+  Ohishi, N. and Nordgren, T. E. and Abe, L.
+author_list:
+- family: Domiciano de Souza
+  given: A.
+- family: Kervella
+  given: P.
+- family: Jankov
+  given: S.
+- family: Vakili
+  given: F.
+- family: Ohishi
+  given: N.
+- family: Nordgren
+  given: T. E.
+- family: Abe
+  given: L.
+date-added: 2017-08-11 00:16:55 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1051/0004-6361:20042476
+journal: \aap
+keywords: 'techniques: high angular resolution, techniques: interferometric, methods:
+  data analysis, stars: rotation, stars: individual: Altair'
+month: November
+pages: 567--578
+papis_id: 8a9595c7c187f8d97e187971c2e6c286
+ref: domiciano_de_souza.a.2005
+title: Gravitational-darkening of Altair from interferometry
+type: article
+volume: '442'
+year: '2005'

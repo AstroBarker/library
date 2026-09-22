@@ -1,0 +1,53 @@
+abstract: Previous computations of low-temperature Rosseland and Planck mean opacities
+  from Alexander \& Ferguson are updated and expanded. The new computations include
+  a more complete equation of state (EOS) with more grain species and updated optical
+  constants. Grains are now explicitly included in thermal equilibrium in the EOS
+  calculation, which allows for a much wider range of grain compositions to be accurately
+  included than was previously the case. The inclusion of high-temperature condensates
+  such as Al2O3 and CaTiO3 significantly affects the total opacity over a narrow range
+  of temperatures before the appearance of the first silicate grains. The new opacity
+  tables are tabulated for temperatures ranging from 30,000 to 500 K with gas densities
+  from 10-4 to 10-19 g cm-3. Comparisons with previous Rosseland mean opacity calculations
+  are discussed. At high temperatures, the agreement with OPAL and Opacity Project
+  is quite good. Comparisons at lower temperatures are more divergent as a result
+  of differences in molecular and grain physics included in different calculations.
+  The computation of Planck mean opacities performed with the opacity sampling method
+  is shown to require a very large number of opacity sampling wavelength points; previously
+  published results obtained with fewer wavelength points are shown to be significantly
+  in error. Methods for requesting or obtaining the new tables are provided.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...623..585F
+arxivurl: http://arxiv.org/abs/astro-ph/0502045
+author: Ferguson, J. W. and Alexander, D. R. and Allard, F. and Barman, T. and Bodnarik,
+  J. G. and Hauschildt, P. H. and Heffner-Wong, A. and Tamanai, A.
+author_list:
+- family: Ferguson
+  given: J. W.
+- family: Alexander
+  given: D. R.
+- family: Allard
+  given: F.
+- family: Barman
+  given: T.
+- family: Bodnarik
+  given: J. G.
+- family: Hauschildt
+  given: P. H.
+- family: Heffner-Wong
+  given: A.
+- family: Tamanai
+  given: A.
+date-added: 2017-08-10 20:34:57 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428642
+eprint: astro-ph/0502045
+journal: \apj
+keywords: 'Atomic Data, Equation of State, Methods: Numerical, Molecular Data'
+month: April
+pages: 585--596
+papis_id: deed25e48cc9e2bb4fd5640694affaf4
+ref: ferguson.j.2005
+title: Low-Temperature Opacities
+type: article
+volume: '623'
+year: '2005'

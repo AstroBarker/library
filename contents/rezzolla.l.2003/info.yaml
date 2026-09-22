@@ -1,0 +1,35 @@
+abstract: We extend our approach for the exact solution of the Riemann problem in
+  relativistic hydrodynamics to the case in which the fluid velocity has components
+  tangential to the initial discontinuity. As in one-dimensional flows, we show here
+  that the wave pattern produced in a Riemann problem with multi-dimensional relativistic
+  flows can be predicted entirely by examining the initial conditions. Our method
+  is logically very simple and allows for a numerical implementation of an exact Riemann
+  solver which is both straightforward and computationally efficient. The simplicity
+  of the approach is also important for revealing special relativistic effects responsible
+  for a smooth transition from one wave pattern to another when the tangential velocities
+  in the initial states are suitably varied. Although this paper is focused on a flat
+  space time, the local Lorentz invariance allows its use also in fully general relativistic
+  calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003JFM...479..199R
+author: Rezzolla, L. and Zanotti, O. and Pons, J. A.
+author_list:
+- family: Rezzolla
+  given: L.
+- family: Zanotti
+  given: O.
+- family: Pons
+  given: J. A.
+date-added: 2017-08-11 06:45:32 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1017/S0022112002003506
+eprint: gr-qc/0205034
+journal: Journal of Fluid Mechanics
+month: March
+pages: 199--219
+papis_id: a4d6149b899b36dbaae064db7915515c
+ref: rezzolla.l.2003
+title: An improved exact Riemann solver for multi-dimensional relativistic flows
+type: article
+volume: '479'
+year: '2003'

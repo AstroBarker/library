@@ -1,0 +1,52 @@
+abstract: We present time-dependent, numerical simulations of the magnetocentrifugal
+  model for jet formation, in an axisymmetric geometry, using a modification of the
+  ZEUS3D code adapted to parallel computers. The gas is supposed cold with negligible
+  thermal pressure throughout. The number of boundary conditions imposed on the disk
+  surface is that necessary and sufficient to take into account information propagating
+  upstream from the fast and Alfv{\'e}n critical surfaces, avoiding overdetermination
+  of the flow and unphysical effects, such as numerical ``boundary layers'' that otherwise
+  isolate the disk from the flow and produce impulsive accelerations.  It is known
+  that open magnetic field lines can either trap or propel the gas, depending upon
+  the inclination angle, theta, of the poloidal field to the disk normal. This inclination
+  is free to adjust, changing from trapping to propelling when theta is larger than
+  thetac~30deg however, the ejected mass flux is imposed in these simulations as a
+  function of the radius alone. As there is a region, near the origin, where the inclination
+  of field lines to the axis is too small to drive a centrifugal wind, we inject a
+  thin, axial jet, expected to form electromagnetically near black holes in active
+  galactic nuclei and Galactic superluminal sources.  Rapid acceleration and collimation
+  of the flow is generally observed when the disk field configuration is propelling.
+  We parameterize our runs using a magnetic flux Psi~R-ePsi and mass flux j=rhovz~R-ej.
+  We show in detail the steady state of a reference run with parameters ePsi=-1/2,
+  ej=3/2, finding that the wind leaves the computational volume in the axial direction
+  with an Alfv{\'e}n number MA~4, poloidal speed vp~1.6vK0, collimated inside an angle
+  theta~11deg. We show also the thrust T, energy L, torque G, and mass discharge M
+  of the outgoing wind, and we illustrate the dependence of these quantities with
+  the exponents ePsi and ej.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...526..631K
+arxivurl: http://arxiv.org/abs/astro-ph/9902200
+author: Krasnopolsky, R. and Li, Z.-Y. and Blandford, R.
+author_list:
+- family: Krasnopolsky
+  given: R.
+- family: Li
+  given: Z.-Y.
+- family: Blandford
+  given: R.
+date-added: 2017-08-10 23:02:12 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308023
+eprint: astro-ph/9902200
+journal: \apj
+keywords: 'GALAXIES: ACTIVE, ISM: JETS AND OUTFLOWS, METHODS: NUMERICAL, MAGNETOHYDRODYNAMICS:
+  MHD, Galaxies: Active, ISM: Jets and Outflows, Methods: Numerical, Magnetohydrodynamics:
+  MHD'
+month: December
+pages: 631--642
+papis_id: 991799eebc9a893a6ab8ed0acc160a71
+ref: krasnopolsky.r.1999
+title: Magnetocentrifugal Launching of Jets from Accretion Disks. I. Cold Axisymmetric
+  Flows
+type: article
+volume: '526'
+year: '1999'

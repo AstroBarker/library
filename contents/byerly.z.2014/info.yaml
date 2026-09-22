@@ -1,0 +1,48 @@
+abstract: We test a new "hybrid" scheme for simulating dynamical fluid flows in which
+  cylindrical components of the momentum are advected across a rotating Cartesian
+  coordinate mesh. This hybrid scheme allows us to conserve angular momentum to machine
+  precision while capitalizing on the advantages offered by a Cartesian mesh, such
+  as a straightforward implementation of mesh refinement. Our test focuses on measuring
+  the real and imaginary parts of the eigenfrequency of unstable nonaxisymmetric modes
+  that naturally arise in massless polytropic tori having a range of different aspect
+  ratios and on quantifying the uncertainty in these measurements. Our measured eigenfrequencies
+  show good agreement with the results obtained from the linear stability analysis
+  of Kojima and from nonlinear hydrodynamic simulations performed on a cylindrical
+  coordinate mesh by Woodward et al. When compared against results conducted with
+  a traditional Cartesian advection scheme, the hybrid scheme achieves qualitative
+  convergence at the same or, in some cases, much lower grid resolutions and conserves
+  angular momentum to a much higher degree of precision. As a result, this hybrid
+  scheme is much better suited for simulating astrophysical fluid flows such as accretion
+  disks and mass-transferring binary systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJS..212...23B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.5942
+author: Byerly, Z. D. and Adelstein-Lelbach, B. and Tohline, J. E. and Marcello, D.
+  C.
+author_list:
+- family: Byerly
+  given: Z. D.
+- family: Adelstein-Lelbach
+  given: B.
+- family: Tohline
+  given: J. E.
+- family: Marcello
+  given: D. C.
+date-added: 2017-08-10 19:16:11 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0067-0049/212/2/23
+eid: '23'
+eprint: '1404.5942'
+journal: \apjs
+keywords: 'hydrodynamics, instabilities, methods: numerical'
+month: June
+pages: '23'
+papis_id: 321287c173eb6fe794d1aae87ca2351b
+primaryclass: astro-ph.SR
+ref: byerly.z.2014
+title: A Hybrid Advection Scheme for Conserving Angular Momentum on a Refined Cartesian
+  Mesh
+type: article
+volume: '212'
+year: '2014'

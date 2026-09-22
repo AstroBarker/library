@@ -1,0 +1,28 @@
+abstract: Transition probabilities and lifetimes were calculated using two different
+  local exchange approximations, the Hartree-Slater and the Optimized Hartree-Fock-Slater
+  methods. Relativistic self-consistent-field wavefunctions were used to evaluate
+  the radial integrals, and a comparison is made between the results obtained with
+  the transition probability operator on the dipole velocity and dipole length forms.
+  The agreement with available experimental lifetime data is discussed and predicted
+  lifetimes are presented for the remaining levels. Intermediate wavefunctions were
+  obtained with the aid of intermediate coupling coefficients evaluated from a fit
+  to experimental energy levels.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1975PhyS...11...15H
+author: Holmgren, L.
+author_list:
+- family: Holmgren
+  given: L.
+date-added: 2017-08-10 23:05:39 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1088/0031-8949/11/1/003
+journal: \physscr
+month: January
+pages: 15--22
+papis_id: 9b7ae5ab9fdd26b097cce92663e7d01e
+ref: holmgren.l.1975
+title: Theoretically Calculated Transition Probabilities and Lifetimes for the First
+  Excited Configuration np$^2$(n + 1)s in the Neutral As, Sb, and Bi Atoms
+type: article
+volume: '11'
+year: '1975'

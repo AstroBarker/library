@@ -1,0 +1,59 @@
+abstract: 'Context: The availability of large spectroscopic datasets has opened up
+  the possibility of constructing large samples of rare objects in a systematic manner.   Aims:
+  The goal of this study is to analyse the properties of galaxies showing Wolf-Rayet
+  features in their optical spectrum using spectra from the Sloan Digital Sky Survey
+  Release 6. With this unprecedentedly large sample we aim to constrain the properties
+  of the Wolf-Rayet phase and its impact on the surrounding interstellar medium.  Methods:
+  We carried out very careful continuum subtraction on all galaxies with equivalent
+  widths of Hbeta>2 {\AA} in emission and identify Wolf-Rayet features using a mixture
+  of automatic and visual classification. We combined this with spectroscopic and
+  photometric information from the SDSS and derive metal abundances using a number
+  of methods.  Results: We find a total of 570 galaxies with significant Wolf-Rayet
+  (WR) features and a further 1115 potential candidates, several times more than even
+  the largest heterogeneously assembled catalogues. We discuss in detail the properties
+  of galaxies showing Wolf-Rayet features with a focus on their empirical properties.
+  We are able to accurately quantify the incidence of Wolf-Rayet galaxies with metal
+  abundance and show that the likelihood of otherwise similar galaxies showing Wolf-Rayet
+  features increases with increasing metallicity, but that WR features are found in
+  galaxies of a wide range in morphology. The large sample allows us to show explicitly
+  that there are systematic differences in the metal abundances of WR and non-WR galaxies.
+  The most striking result is that, below EW(Hbeta) = 100 {\AA}, Wolf-Rayet galaxies
+  show an elevated N/O relative to non-WR galaxies. We interpret this as a rapid enrichment
+  of the ISM from WR winds. We also show that the model predictions for WR features
+  strongly disagree with the observations at low metallicity; while they do agree
+  quite well with the data at solar abundances. We discuss possible reasons for this
+  and show that models incorporating binary evolution reproduce the low-metallicity
+  results reasonably well. Finally we combine the WR sample with a sample of galaxies
+  with nebular He ii lambda 4686 to show that, at 12 + log O/H< 8, the main sources
+  of He ii ionising photons appears to be O stars, arguing for a less dense stellar
+  wind at these metallicities, while at higher abundances WN stars might increasingly
+  dominate the ionisation budget.  Tables 3-5 are only available in electronic format
+  the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/485/657'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...485..657B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0805.1073
+author: Brinchmann, J. and Kunth, D. and Durret, F.
+author_list:
+- family: Brinchmann
+  given: J.
+- family: Kunth
+  given: D.
+- family: Durret
+  given: F.
+date-added: 2017-08-11 05:21:46 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1051/0004-6361:200809783
+eprint: '0805.1073'
+journal: \aap
+keywords: 'stars: Wolf-Rayet, galaxies: abundances, galaxies: evolution, galaxies:
+  starburst, galaxies:, fundamental parameters'
+month: July
+pages: 657--677
+papis_id: 3b275373409914556a4d09c7cca9084f
+ref: brinchmann.j.2008
+title: Galaxies with Wolf-Rayet signatures in the low-redshift Universe. A survey
+  using the Sloan Digital Sky Survey
+type: article
+volume: '485'
+year: '2008'

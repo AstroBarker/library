@@ -1,0 +1,55 @@
+abstract: Interstellar reddening corrections are necessary to reconstruct the intrinsic
+  spectral energy distributions (SEDs) of accreting protostellar systems. The stellar
+  SED determines the heating and chemical processes that can occur in circumstellar
+  disks. Measurement of neutral hydrogen absorption against broad Lyalpha emission
+  profiles in young stars can be used to obtain the total H I column density (N(H
+  I)) along the line of sight. We measure N(H I) with new and archival ultraviolet
+  observations from the Hubble Space Telescope (HST) of 31 classical T Tauri and Herbig
+  Ae/Be stars. The H I column densities range from log10(N(H I)) \approx{}19.6-21.1,
+  with corresponding visual extinctions of AV =0.02-0.72 mag, assuming an RV of 3.1.
+  We find that the majority of the H I absorption along the line of sight likely comes
+  from interstellar rather than circumstellar material. Extinctions derived from new
+  HST blue-optical spectral analyses, previous IR and optical measurements, and new
+  X-ray column densities on average overestimate the interstellar extinction toward
+  young stars compared to the N(H I) values by ~0.6 mag. We discuss possible explanations
+  for this discrepancy in the context of a protoplanetary disk geometry.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...780..150M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1312.1650
+author: McJunkin, M. and France, K. and Schneider, P. C. and Herczeg, G. J. and Brown,
+  A. and Hillenbrand, L. and Schindhelm, E. and Edwards, S.
+author_list:
+- family: McJunkin
+  given: M.
+- family: France
+  given: K.
+- family: Schneider
+  given: P. C.
+- family: Herczeg
+  given: G. J.
+- family: Brown
+  given: A.
+- family: Hillenbrand
+  given: L.
+- family: Schindhelm
+  given: E.
+- family: Edwards
+  given: S.
+date-added: 2017-08-10 14:58:12 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/780/2/150
+eid: '150'
+eprint: '1312.1650'
+journal: \apj
+keywords: 'dust, extinction, ISM: atoms, stars: pre-main sequence, stars: variables:
+  T Tauri, Herbig Ae/Be, ultraviolet: planetary systems'
+month: January
+pages: '150'
+papis_id: 465f8a39cbde171011d470aa4cbd9c89
+ref: mcjunkin.m.2014
+title: Direct Measurement of Interstellar Extinction toward Young Stars Using Atomic
+  Hydrogen Ly$α$ Absorption
+type: article
+volume: '780'
+year: '2014'

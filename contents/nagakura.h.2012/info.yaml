@@ -1,0 +1,44 @@
+abstract: We investigate the propagation of accretion-powered jets in various types
+  of massive stars such as Wolf-Rayet stars, light Population III (Pop III) stars,
+  and massive Pop III stars, all of which are the progenitor candidates of gamma-ray
+  bursts (GRBs). We perform two-dimensional axisymmetric simulations of relativistic
+  hydrodynamics, taking into account both the envelope collapse and the jet propagation
+  (i.e., the negative feedback of the jet on the accretion). Based on our hydrodynamic
+  simulations, we show for the first time that the accretion-powered jet can potentially
+  break out relativistically from the outer layers of Pop III progenitors. In our
+  simulations, the accretion rate is estimated by the mass flux going through the
+  inner boundary, and the jet is injected with a fixed accretion-to-jet conversion
+  efficiency eta. By varying the efficiency eta and opening angle thetaop for more
+  than 40 models, we find that the jet can make a relativistic breakout from all types
+  of progenitors for GRBs if a simple condition eta >~ 10-4(thetaop/8$\,^{\circ}$)2
+  is satisfied, which is consistent with analytical estimates. Otherwise no explosion
+  or some failed spherical explosions occur.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...754...85N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.5691
+author: Nagakura, H. and Suwa, Y. and Ioka, K.
+author_list:
+- family: Nagakura
+  given: H.
+- family: Suwa
+  given: Y.
+- family: Ioka
+  given: K.
+date-added: 2017-08-10 16:55:32 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/754/2/85
+eid: '85'
+eprint: '1104.5691'
+journal: \apj
+keywords: black hole physics, hydrodynamics
+month: August
+pages: '85'
+papis_id: 1ce2d8e38538f5f2233ad7131a76f120
+primaryclass: astro-ph.HE
+ref: nagakura.h.2012
+title: Population III Gamma-Ray Bursts and Breakout Criteria for Accretion-powered
+  Jets
+type: article
+volume: '754'
+year: '2012'

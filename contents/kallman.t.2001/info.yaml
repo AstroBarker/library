@@ -1,0 +1,30 @@
+abstract: We present results of calculations using the XSTAR version 2 computer code.
+  This code is loosely based on the XSTAR version 1 code, which has been available
+  for public use for some time. However, it represents an improvement and update in
+  several major respects, including atomic data, code structure, user interface, and
+  improved physical description of ionization/excitation. In particular, it now is
+  applicable to high-density situations in which significant excited atomic level
+  populations are likely to occur. We describe the computational techniques and assumptions
+  and present sample runs with particular emphasis on high-density situations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJS..133..221K
+author: Kallman, T. and Bautista, M.
+author_list:
+- family: Kallman
+  given: T.
+- family: Bautista
+  given: M.
+date-added: 2017-08-11 05:43:33 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319184
+journal: \apjs
+keywords: 'Atomic Processes, Radiation Mechanisms: Thermal, Radiative Transfer, Ultraviolet:
+  General, X-Rays: General'
+month: March
+pages: 221--253
+papis_id: d138d16792d459fa632a92329e9086c0
+ref: kallman.t.2001
+title: Photoionization and High-Density Gas
+type: article
+volume: '133'
+year: '2001'

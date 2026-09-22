@@ -1,0 +1,44 @@
+abstract: We present an updated version of the multicolor light-curve shape method
+  to measure distances to Type Ia supernovae (SNe Ia), incorporating new procedures
+  for K-correction and extinction corrections. We also develop a simple model to disentangle
+  intrinsic color variations and reddening by dust and expand the method to incorporate
+  U-band light curves and to more easily accommodate prior constraints on any of the
+  model parameters. We apply this method to 133 nearby SNe Ia, including 95 objects
+  in the Hubble flow (cz>=2500 km s-1), which give an intrinsic dispersion of less
+  than 7\% in distance. The Hubble flow sample, which is of critical importance to
+  all cosmological uses of SNe Ia, is the largest ever presented with homogeneous
+  distances. We find that the Hubble flow SNe with H0dSN>=7400 km s-1 yield an expansion
+  rate that is 6.5\%+/-1.8\% lower than the rate determined from SNe within that distance,
+  and this can have a large effect on measurements of the dark energy equation of
+  state with SNe Ia. Peculiar velocities of SN Ia host galaxies in the rest frame
+  of the Local Group are consistent with the dipole measured in the cosmic microwave
+  background. Direct fits of SNe Ia that are significantly reddened by dust in their
+  host galaxies suggest that their mean extinction law may be described by RV~=2.7,
+  but optical colors alone provide weak constraints on RV.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...659..122J
+arxivurl: http://arxiv.org/abs/astro-ph/0612666
+author: Jha, S. and Riess, A. G. and Kirshner, R. P.
+author_list:
+- family: Jha
+  given: S.
+- family: Riess
+  given: A. G.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-11 01:16:23 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512054
+eprint: astro-ph/0612666
+journal: \apj
+keywords: 'Cosmology: Observations, Cosmology: Distance Scale, Galaxies: Distances
+  and Redshifts, Stars: Supernovae: General'
+month: April
+pages: 122--148
+papis_id: 7c369d14901fa01d55a15655809e975b
+ref: jha.s.2007
+title: 'Improved Distances to Type Ia Supernovae with Multicolor Light-Curve Shapes:
+  MLCS2k2'
+type: article
+volume: '659'
+year: '2007'

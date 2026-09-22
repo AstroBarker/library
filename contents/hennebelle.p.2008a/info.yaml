@@ -1,0 +1,50 @@
+abstract: 'Context: A large fraction of stars are found in binary systems. It is therefore
+  important for our understanding of the star formation process, to investigate the
+  fragmentation of dense molecular cores.  Aims: We study the influence of the magnetic
+  field, ideally coupled to the gas, on the fragmentation in multiple systems of collapsing
+  cores.  Methods: We present high resolution numerical simulations performed with
+  the RAMSES MHD code starting with a uniform sphere in solid body rotation and a
+  uniform magnetic field parallel to the rotation axis. We pay particular attention
+  to the strength of the magnetic field and interpret the results using the analysis
+  presented in a companion paper. Results: The results depend much on the amplitude,
+  A, of the perturbations seeded initially. For a low amplitude, A=0.1, we find that
+  for values of the mass-to-flux over critical mass-to-flux ratio, mu, as high as
+  mu = 20, the centrifugally supported disk which fragments in the hydrodynamical
+  case is stabilized and remains axisymmetric. Detailed investigations reveal that
+  this is due to the rapid growth of the toroidal magnetic field induced by the differential
+  motions within the disk. For values of mu smaller than ~=5, corresponding to higher
+  magnetic intensities, there is no centrifugally supported disk because of magnetic
+  braking. When the amplitude of the perturbation is equal to A=0.5, each initial
+  peak develops independently and the core fragments for a large range of mu. Only
+  for values of mu close to 1 is the magnetic field able to prevent the fragmentation.   Conclusions:
+  Since a large fraction of stars are binaries, the results of low magnetic intensities
+  preventing the fragmentation in the case of weak perturbations is problematic. We
+  discuss three possible mechanisms which could lead to the formation of binary systems,
+  namely the presence of high amplitude fluctuations in the core initially, ambipolar
+  diffusion and fragmentation during the second collapse.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...477...25H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.2887
+author: Hennebelle, P. and Teyssier, R.
+author_list:
+- family: Hennebelle
+  given: P.
+- family: Teyssier
+  given: R.
+date-added: 2017-08-11 01:29:20 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1051/0004-6361:20078310
+eprint: '0709.2887'
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), instabilities, ISM: kinematics and dynamics,
+  ISM: structure, ISM: clouds'
+month: January
+pages: 25--34
+papis_id: 470dfe8f065d078603b0e58bc8187795
+ref: hennebelle.p.2008a
+title: Magnetic processes in a collapsing dense core. II. Fragmentation. Is there
+  a fragmentation crisis?
+type: article
+volume: '477'
+year: '2008'

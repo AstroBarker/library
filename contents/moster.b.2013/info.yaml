@@ -1,0 +1,54 @@
+abstract: We present a new statistical method to determine the relationship between
+  the stellar masses of galaxies and the masses of their host dark matter haloes over
+  the entire cosmic history from z \texttildelow{} 4 to the present. This multi-epoch
+  abundance matching (MEAM) model self-consistently takes into account that satellite
+  galaxies first become satellites at times earlier than they are observed. We employ
+  a redshift-dependent parametrization of the stellar-to-halo-mass relation to populate
+  haloes and subhaloes in the Millennium simulations with galaxies, requiring that
+  the observed stellar mass functions at several redshifts are reproduced simultaneously.
+  We show that physically meaningful growth of massive galaxies is consistent with
+  these data only if observational mass errors are taken into account. Using merger
+  trees extracted from the dark matter simulations in combination with MEAM, we predict
+  the average assembly histories of galaxies, separating into star formation within
+  the galaxies (in situ) and accretion of stars (ex situ). Our main results are the
+  peak star formation efficiency decreases with redshift from 23 per cent at z = 0
+  to 9 per cent at z =4 while the corresponding halo mass increases from 1011.8 to
+  1012.5 M\&sun;. The star formation rate of central galaxies peaks at a redshift
+  which depends on halo mass; for massive haloes this peak is at early cosmic times
+  while for low-mass galaxies the peak has not been reached yet. In haloes similar
+  to that of the Milky Way about half of the central stellar mass is assembled after
+  z = 0.7. In low-mass haloes, the accretion of satellites contributes little to the
+  assembly of their central galaxies, while in massive haloes more than half of the
+  central stellar mass is formed ex situ with significant accretion of satellites
+  at z < 2. We find that our method implies a cosmic star formation history and an
+  evolution of specific star formation rates which are consistent with those inferred
+  directly. We present convenient fitting functions for stellar masses, star formation
+  rates and accretion rates as functions of halo mass and redshift.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.3121M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.5807
+author: Moster, B. P. and Naab, T. and White, S. D. M.
+author_list:
+- family: Moster
+  given: B. P.
+- family: Naab
+  given: T.
+- family: White
+  given: S. D. M.
+date-added: 2017-08-10 21:36:13 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts261
+eprint: '1205.5807'
+journal: \mnras
+keywords: 'galaxies: evolution, galaxies: high-redshift, galaxies: statistics, galaxies:
+  stellar content, cosmology: theory, dark matter'
+month: February
+pages: 3121--3138
+papis_id: a48aa3d5681a30af59669d2c8f1517b5
+ref: moster.b.2013
+title: Galactic star formation and accretion histories from matching galaxies to dark
+  matter haloes
+type: article
+volume: '428'
+year: '2013'

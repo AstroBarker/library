@@ -1,0 +1,47 @@
+abstract: Star formation is intimately linked to the dynamical evolution of molecular
+  clouds. Turbulent fragmentation determines where and when protostellar cores form,
+  and how they contract and grow in mass via competitive accretion from the surrounding
+  cloud material. This process is investigated using numerical models of self-gravitating
+  molecular cloud dynamics, where no turbulent support is included, where turbulence
+  is allowed to decay freely, and where it is continuously replenished on large, intermediate,
+  and small scales, respectively. Molecular cloud regions without turbulent driving
+  sources, or where turbulence is driven on large scales, exhibit rapid and efficient
+  star formation in a clustered mode, whereas interstellar turbulence that carries
+  most energy on small scales results in isolated star formation with low efficiency.
+  The clump-mass spectrum of shock-generated density fluctuations in non-self-gravitating
+  hydrodynamic supersonic turbulence is not well fit by a power law, and it is too
+  steep at the high-mass end to be in agreement with the observational data. When
+  gravity is included in the turbulence models, local collapse occurs, and the spectrum
+  extends toward larger masses as clumps merge together; then a power-law description
+  dN/dM~Mnu becomes possible with slope nu<~-2. In the case of pure gravitational
+  contraction, i.e., in regions without turbulent support, the clump-mass spectrum
+  is shallower with nu~-3/2. The mass spectrum of protostellar cores in regions with
+  no turbulent support and where turbulence is replenished on large scales, however,
+  is well described by a lognormal or by multiple power laws, similar to the stellar
+  initial mass function (IMF) at low and intermediate masses. The model clusters are
+  not massive enough to allow for comparison with the high-mass part of the IMF. In
+  the case of small-scale turbulence, the core mass spectrum is too flat compared
+  to the IMF for all masses.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...556..837K
+arxivurl: http://arxiv.org/abs/astro-ph/0104127
+author: Klessen, R. S.
+author_list:
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-11 01:31:42 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321626
+eprint: astro-ph/0104127
+journal: \apj
+keywords: 'Hydrodynamics, ISM: Clouds, ISM: Kinematics and Dynamics, Stars: Formation,
+  Stars: Luminosity Function, Mass Function, Turbulence'
+month: August
+pages: 837--846
+papis_id: 29b725ff0dc48be5ffb3b96b9a1a1559
+ref: klessen.r.2001
+title: 'The Formation of Stellar Clusters: Mass Spectra from Turbulent Molecular Cloud
+  Fragmentation'
+type: article
+volume: '556'
+year: '2001'

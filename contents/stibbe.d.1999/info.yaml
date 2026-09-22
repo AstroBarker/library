@@ -1,0 +1,33 @@
+abstract: At astrophysically relevant temperatures (below 15,000 K), electron impact
+  dissociation of H2 occurs through the excitation of the dissociative b 3Sigma+u
+  state. We have calculated and parameterized the rates of dissociation as a function
+  of electron temperature for the v=0-4 H2 vibrational states. The assumption that
+  the v=0 rate approximates to the rate at local thermal equilibrium (LTE) is found
+  to be seriously flawed. Instead, the rates are found to depend so critically on
+  the initial vibrational level that dissociation from very high-lying vibrational
+  levels must be included in calculations of the rate at LTE even at low temperature.
+  An extrapolation procedure is used to approximate the rates for all of the higher
+  vibrational levels (v=5-14), which are then used to calculate the LTE rate. The
+  LTE rate is found to be around 2 orders of magnitude greater than the v=0 rate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...513L.147S
+author: Stibbe, D. T. and Tennyson, J.
+author_list:
+- family: Stibbe
+  given: D. T.
+- family: Tennyson
+  given: J.
+date-added: 2017-08-11 05:58:55 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/311918
+journal: \apjl
+keywords: MOLECULAR DATA, MOLECULAR PROCESSES, SCATTERING, Molecular Data, Molecular
+  Processes, Scattering
+month: March
+pages: L147-L150
+papis_id: 639baf67a6a137b27a2b38b6e317088d
+ref: stibbe.d.1999
+title: Rates for the Electron Impact Dissociation of Molecular Hydrogen
+type: article
+volume: '513'
+year: '1999'

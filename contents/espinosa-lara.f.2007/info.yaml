@@ -1,0 +1,41 @@
+abstract: 'Context: Recent results from interferometry and asteroseismology require
+  models of rapidly rotating stars that are more and more precise.   Aims: We describe
+  the basic structure and the hydrodynamics of a fully radiative star as a preliminary
+  step towards more realistic models of rotating stars.   Methods: We consider a solar
+  mass of perfect gas enclosed in a spherical container. The gas is self-gravitating
+  and rotating, and is the seat of nuclear heating, and heat diffusion is due to radiative
+  diffusion with Kramers type opacities. Equations are solved numerically with spectral
+  methods in two dimensions with a radial Gauss-Lobatto grid and spherical harmonics.   Results:
+  We computed the centrifugally flattened structure of such a star: the von Zeipel
+  model, which says that the energy flux is proportional to the local effective gravity
+  is tested. We show that it overestimates the ratio of the polar to the equatorial
+  energy flux by almost a factor 2. We also determine the Brunt-V{\"a}is{\"a}l{\"a}
+  frequency distribution and show that outer equatorial regions in a radiative zone
+  are convectively unstable when the rotation is fast enough. We compute the differential
+  rotation and meridional circulation stemming from the baroclinicity of the star
+  and show that, in such radiative zones, equatorial regions rotate faster than polar
+  ones. The surface differential rotation is also shown to reach a universal profile
+  when rotation is slow enough (less than 36\% of the breakup one), as long as viscosity
+  and Prandlt number remain small.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...470.1013E
+author: Espinosa Lara, F. and Rieutord, M.
+author_list:
+- family: Espinosa Lara
+  given: F.
+- family: Rieutord
+  given: M.
+date-added: 2017-08-11 00:21:04 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1051/0004-6361:20077263
+journal: \aap
+keywords: 'hydrodynamics, stars: rotation'
+month: August
+pages: 1013--1022
+papis_id: b9887f001e70355e874d6826d1679242
+ref: espinosa_lara.f.2007
+title: The dynamics of a fully radiative rapidly rotating star enclosed within a spherical
+  box
+type: article
+volume: '470'
+year: '2007'

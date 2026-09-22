@@ -1,0 +1,45 @@
+abstract: We present a new numerical study of the equilibrium and stability properties
+  of close binary systems. We use the smoothed-particle hydrodynamics (SPH) technique
+  both to construct accurate equilibrium configurations in three dimensions and to
+  follow their hydrodynamic evolution. We adopt a simple polytropic equation of state
+  p = Krhogamma with gamma = 5/3 and K = constant within each star, applicable to
+  low-mass degenerate dwarfs as well as low-mass main-sequence stars. For degenerate
+  configurations, we set the two polytropic constants equal, K = K prime, independent
+  of the mass ratio. For main-sequence stars, we adjust K and K prime so as to obtain
+  a simple mass-radius relation of the form R/R prime = M/M prime, where R prime and
+  M prime are the radius and mass of the secondary. Along a sequence of binary equilibrium
+  configurations for two identical stars, we demonstrate the existence of both secular
+  and dynamical instabilities, confirming directly the results of recent analytic
+  work. We use the SPH method to calculate the nonlinear development of the dynamical
+  instability and to determine the final fate of the system. We find that the two
+  stars merge together into a single, rapidly rotating object in just a few orbital
+  periods. Equilibrium sequences are also constructed for systems containing two nonidentical
+  stars. These sequences terminate at a Roche limit, which we can determine very accurately
+  using SPH. For two low-mass main-sequence stars with mass ratio q approximately
+  less than 0.4 we find that the (synchronized) Roche limit configuration is secularly
+  unstable. We discuss the implications of our results for the evolution of double
+  white-dwarf systems and W Ursae Majoris binaries.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...438..887R
+arxivurl: http://arxiv.org/abs/astro-ph/9406032
+author: Rasio, F. A. and Shapiro, S. L.
+author_list:
+- family: Rasio
+  given: F. A.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 01:19:03 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175130
+eprint: astro-ph/9406032
+journal: \apj
+keywords: Binary Stars, Coalescing, Hydrodynamics, Polytropic Processes, Stability,
+  White Dwarf Stars, Equations Of State, Stellar Interiors, Stellar Rotation
+month: January
+pages: 887--903
+papis_id: 58ce2ead22e9810703fe5ba43151d6e7
+ref: rasio.f.1995
+title: 'Hydrodynamics of binary coalescence. 2: Polytropes with gamma = 5/3'
+type: article
+volume: '438'
+year: '1995'

@@ -1,0 +1,54 @@
+abstract: We present two numerical schemes for passive tracer particles in the hydrodynamical
+  moving-mesh code AREPO, and compare their performance for various problems, from
+  simple set-ups to cosmological simulations. The purpose of tracer particles is to
+  allow the flow to be followed in a Lagrangian way, tracing the evolution of the
+  fluid with time, and allowing the thermodynamical history of individual fluid parcels
+  to be recorded. We find that the commonly used `velocity field tracers', which are
+  advected using the fluid velocity field, do not in general follow the mass flow
+  correctly, and explain why this is the case. This method can result in order-of-magnitude
+  biases in simulations of driven turbulence and in cosmological simulations, rendering
+  the velocity field tracers inappropriate for following these flows. We then discuss
+  a novel implementation of `Monte Carlo tracers', which are moved along with fluid
+  cells and are exchanged probabilistically between them following the mass flux.
+  This method reproduces the mass distribution of the fluid correctly. The main limitation
+  of this approach is that it is more diffusive than the fluid itself. Nonetheless,
+  we show that this novel approach is more reliable than that has been employed previously
+  and demonstrate that it is appropriate for following hydrodynamical flows in mesh-based
+  codes. The Monte Carlo tracers can also naturally be transferred between fluid cells
+  and other types of particles, such as stellar particles, so that the mass flow in
+  cosmological simulations can be followed in its entirety.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.435.1426G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.2195
+author: Genel, S. and Vogelsberger, M. and Nelson, D. and Sijacki, D. and Springel,
+  V. and Hernquist, L.
+author_list:
+- family: Genel
+  given: S.
+- family: Vogelsberger
+  given: M.
+- family: Nelson
+  given: D.
+- family: Sijacki
+  given: D.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:27:48 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1383
+eprint: '1305.2195'
+journal: \mnras
+keywords: 'hydrodynamics, turbulence, methods: numerical, methods: statistical, galaxies:
+  formation, cosmology: theory'
+month: October
+pages: 1426--1442
+papis_id: 5bb299e3e1f2eb3a607d5db0772b3355
+primaryclass: astro-ph.IM
+ref: genel.s.2013
+title: 'Following the flow: tracer particles in astrophysical fluid simulations'
+type: article
+volume: '435'
+year: '2013'

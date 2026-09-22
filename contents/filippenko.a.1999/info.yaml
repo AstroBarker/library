@@ -1,0 +1,58 @@
+abstract: We have obtained 17 moderate-resolution (~2.5 {\AA}) optical spectra of
+  the Galactic X-ray Nova Velorum 1993 in quiescence with the Keck II telescope. Cross-correlation
+  with the spectra of late-type dwarfs (especially K7-M0) yields excellent radial
+  velocities for the secondary star. The orbital period (P) is 0.285206+/-0.0000014
+  days, and the semiamplitude (K\_2) is 475.4+/-5.9 km s^-1. Our derived mass function,
+  f(M\_1)=PK^3\_2/2piG=3.17+/-0.12 M\_solar, is close to the conventional absolute
+  limiting mass for a neutron star (~3.0-3.2 M\_solar)-but if the orbital inclination
+  i<~80^deg (given the absences of eclipses), then M\_1>~4.2-4.4 M\_solar for nominal
+  secondary-star masses of 0.5 M\_solar (M0) to 0.65 M\_solar (K6). Even if the secondary
+  is quite undermassive (e.g., M\_2=0.3 M\_solar), we derive M\_1>~3.9 M\_solar. The
+  primary star is therefore almost certainly a black hole rather than a neutron star.
+  Fits to the wings of the double-peaked Halpha emission line yield approximate radial
+  velocities for the compact primary. The velocity curve has a semiamplitude (K\_1)
+  of 65.3+/-7.0 km s^-1, but with a phase offset by 237 deg (rather than 180 deg)
+  from that of the secondary star. Under the assumption that the observed semiamplitude
+  reflects the motion of the primary (despite this offset, which is common), the mass
+  ratio q=M\_2/M\_1=K\_1/K\_2=0.137+/-0.015, and hence for M\_2=0.5-0.65 M\_solar
+  we derive M\_1=3.64-4.74 M\_solar. The constraints from q and the mass function
+  yield M\_1=4.4 M\_solar and i~78^deg if we use a normal K7-K8 secondary (M\_2~0.6
+  M\_solar). Indeed, consistency cannot be achieved for M\_2<~0.59 M\_solar if the
+  maximum inclination estimate (80 deg) is correct. An adopted mass M\_1~4.4 M\_solar
+  is significantly below the typical value of ~7 M\_solar found for black holes in
+  other low-mass X-ray binaries. Keck observations of MXB 1659-29 (V2134 Oph) in quiescence
+  reveal a probable optical counterpart at R=23.6+/-0.4 mag. This object recently
+  went into a new X-ray and optical (R~18 mag) outburst, after about 21 years of inactivity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999PASP..111..969F
+arxivurl: http://arxiv.org/abs/astro-ph/9904271
+author: Filippenko, A. V. and Leonard, D. C. and Matheson, T. and Li, W. and Moran,
+  E. C. and Riess, A. G.
+author_list:
+- family: Filippenko
+  given: A. V.
+- family: Leonard
+  given: D. C.
+- family: Matheson
+  given: T.
+- family: Li
+  given: W.
+- family: Moran
+  given: E. C.
+- family: Riess
+  given: A. G.
+date-added: 2017-08-11 00:41:12 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/316413
+eprint: astro-ph/9904271
+journal: \pasp
+keywords: 'STARS: BINARIES: CLOSE, STARS: NOVAE, CATACLYSMIC VARIABLES, STARS: INDIVIDUAL
+  (NOVA VELORUM 1993, MXB 1659-29), X-RAYS'
+month: August
+pages: 969--979
+papis_id: 2f47d64975b2ad15565fc6ada41a73b1
+ref: filippenko.a.1999
+title: A Black Hole in the X-Ray Nova Velorum 1993
+type: article
+volume: '111'
+year: '1999'

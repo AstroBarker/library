@@ -1,0 +1,59 @@
+abstract: 'Aims: We undertake an optical and ultraviolet spectroscopic analysis of
+  a sample of 20 Galactic B0-B5 supergiants of luminosity classes Ia, Ib, Iab, and
+  II. Fundamental stellar parameters are obtained from optical diagnostics and a critical
+  comparison of the model predictions to observed UV spectral features is made.  Methods:
+  Fundamental parameters (e.g., {T\_eff}, {log L\textasteriskcentered}, mass-loss
+  rates and CNO abundances) are derived for individual stars using CMFGEN, a nLTE,
+  line-blanketed model atmosphere code. The impact of these newly derived parameters
+  on the Galactic B supergiant {T\_eff} scale, mass discrepancy, and wind-momentum
+  luminosity relation is examined.  Results: The B supergiant temperature scale derived
+  here shows a reduction of about 1000-3000 K compared to previous results using unblanketed
+  codes. Mass-loss rate estimates are in good agreement with predicted theoretical
+  values, and all of the 20 B0-B5 supergiants analysed show evidence of CNO processing.
+  A mass discrepancy still exists between spectroscopic and evolutionary masses, with
+  the largest discrepancy occurring at {log (L/L\&sun;})   5.4. The observed WLR values
+  calculated for B0-B0.7 supergiants are higher than predicted values, whereas the
+  reverse is true for B1-B5 supergiants. This means that the discrepancy between observed
+  and theoretical values cannot be resolved by adopting clumped (i.e., lower) mass-loss
+  rates as for O stars. The most surprising result is that, although CMFGEN succeeds
+  in reproducing the optical stellar spectrum accurately, it fails to precisely reproduce
+  key UV diagnostics, such as the N V and C IV P Cygni profiles. This problem arises
+  because the models are not ionised enough and fail to reproduce the full extent
+  of the observed absorption trough of the P Cygni profiles.   Conclusions: Newly-derived
+  fundamental parameters for early B supergiants are in good agreement with similar
+  work in the field. The most significant discovery, however, is the failure of CMFGEN
+  to predict the correct ionisation fraction for some ions. Such findings add further
+  support to revising the current standard model of massive star winds, as our understanding
+  of these winds is incomplete without a precise knowledge of the ionisation structure
+  and distribution of clumping in the wind.  Appendix A is only available in electronic
+  form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...481..777S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.4289
+author: Searle, S. C. and Prinja, R. K. and Massa, D. and Ryans, R.
+author_list:
+- family: Searle
+  given: S. C.
+- family: Prinja
+  given: R. K.
+- family: Massa
+  given: D.
+- family: Ryans
+  given: R.
+date-added: 2017-08-11 00:25:56 +0000
+date-modified: 2017-12-05 16:37:04 +0000
+doi: 10.1051/0004-6361:20077125
+eprint: '0801.4289'
+journal: \aap
+keywords: 'techniques: spectroscopic, stars: mass-loss, stars: supergiants, stars:
+  abundances, stars: atmospheres, stars: fundamental parameters'
+month: April
+pages: 777--797
+papis_id: 8c1ade329c885120713e67996916ff66
+ref: searle.s.2008
+title: Quantitative studies of the optical and UV spectra of Galactic early B supergiants.
+  I. Fundamental parameters
+type: article
+volume: '481'
+year: '2008'

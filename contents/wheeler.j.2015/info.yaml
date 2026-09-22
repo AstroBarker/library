@@ -1,0 +1,48 @@
+abstract: The magnetorotational instability (MRI) is key to physics in accretion disks
+  and is widely considered to play some role in massive star core collapse. Models
+  of rotating massive stars naturally develop very strong shear at composition boundaries,
+  a necessary condition for MRI instability, and the MRI is subject to triply diffusive
+  destabilizing effects in radiative regions. We have used the MESA stellar evolution
+  code to compute magnetic effects due to the Spruit-Tayler (ST) mechanism and the
+  MRI, separately and together, in a sample of massive star models. We find that the
+  MRI can be active in the later stages of massive star evolution, leading to mixing
+  effects that are not captured in models that neglect the MRI. The MRI and related
+  magnetorotational effects can move models of given zero-age main sequence mass across
+  "boundaries" from degenerate CO cores to degenerate O/Ne/Mg cores and from degenerate
+  O/Ne/Mg cores to iron cores, thus affecting the final evolution and the physics
+  of core collapse. The MRI acting alone can slow the rotation of the inner core in
+  general agreement with the observed "initial" rotation rates of pulsars. The MRI
+  analysis suggests that localized fields ~1012 G may exist at the boundary of the
+  iron core. With both the ST and MRI mechanisms active in the 20 M \&sun; model,
+  we find that the helium shell mixes entirely out into the envelope. Enhanced mixing
+  could yield a population of yellow or even blue supergiant supernova progenitors
+  that would not be standard SN IIP.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...799...85W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1411.5714
+author: Wheeler, J. C. and Kagan, D. and Chatzopoulos, E.
+author_list:
+- family: Wheeler
+  given: J. C.
+- family: Kagan
+  given: D.
+- family: Chatzopoulos
+  given: E.
+date-added: 2017-08-11 07:59:49 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/799/1/85
+eid: '85'
+eprint: '1411.5714'
+journal: \apj
+keywords: 'instabilities, magnetohydrodynamics: MHD, stars: magnetic fields, stars:
+  neutron, stars: rotation, supernovae: general'
+month: January
+pages: '85'
+papis_id: a828040fa46c4877e4d4ffae248e9b7a
+primaryclass: astro-ph.SR
+ref: wheeler.j.2015
+title: The Role of the Magnetorotational Instability in Massive Stars
+type: article
+volume: '799'
+year: '2015'

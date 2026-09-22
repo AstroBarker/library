@@ -1,0 +1,61 @@
+abstract: 'Context: INTEGRAL has two sensitive gamma-ray instruments that have detected
+  and localised 47 gamma-ray bursts (GRBs) from its launch in October 2002 up to July
+  2007.  Aims: We present the spectral, spatial, and temporal properties of the bursts
+  in the INTEGRAL GRB catalogue using data from the imager, IBIS, and spectrometer,
+  SPI.  Methods: Spectral properties of the GRBs are determined using power-law and,
+  where appropriate, Band model and quasithermal model fits to the prompt emission.
+  Spectral lags, i.e. the time delay in the arrival of low-energy gamma-rays with
+  respect to high-energy gamma-rays, are measured for 31 of the GRBs.  Results: The
+  photon index distribution of power-law fits to the prompt emission spectra is presented
+  and is consistent with that obtained by Swift. The peak flux distribution shows
+  that INTEGRAL detects proportionally more weak GRBs than Swift because of its higher
+  sensitivity in a smaller field of view. The all-sky rate of GRBs above ~0.15~ph~cm-2~s-1
+  is ~1400~yr-1 in the fully coded field of view of IBIS. Two groups are identified
+  in the spectral lag distribution of INTEGRAL GRBs, one with short lags <0.75~s (between
+  25-50 keV and 50-300 keV) and one with long lags >0.75~s. Most of the long-lag GRBs
+  are inferred to have low redshifts because of their long spectral lags, their tendency
+  to have low peak energies, and their faint optical and X-ray afterglows. They are
+  mainly observed in the direction of the supergalactic plane with a quadrupole moment
+  of Q=-0.225 $\pm$ 0.090 and hence reflect the local large-scale structure of the
+  Universe.  Conclusions: The spectral, spatial, and temporal properties of the 47
+  GRBs in the INTEGRAL catalogue are presented and compared with the results from
+  other missions. The rate of long-lag GRBs with inferred low luminosity is ~25\%
+  of type Ib/c supernovae. Some of these bursts could be produced by the collapse
+  of a massive star without a supernova. Alternatively, they could result from a different
+  progenitor, such as the merger of two white dwarfs or a white dwarf with a neutron
+  star or black hole, possibly in the cluster environment without a host galaxy.  Based
+  on observations  with INTEGRAL, an ESA project with instruments and science data  centre
+  funded by ESA member states (especially the PI countries:  Denmark, France, Germany,
+  Italy, Switzerland, Spain), Czech Republic  and Poland, and with the participation
+  of Russia and the USA.  Appendix A is only available in electronic  form at   http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...484..143F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.1821
+author: Foley, S. and McGlynn, S. and Hanlon, L. and McBreen, S. and McBreen, B.
+author_list:
+- family: Foley
+  given: S.
+- family: McGlynn
+  given: S.
+- family: Hanlon
+  given: L.
+- family: McBreen
+  given: S.
+- family: McBreen
+  given: B.
+date-added: 2017-08-10 21:25:58 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1051/0004-6361:20078399
+eprint: '0803.1821'
+journal: \aap
+keywords: 'gamma rays: bursts, gamma rays: observations'
+month: June
+pages: 143--157
+papis_id: b2d0c40977ea081f0ad97fc8478d72be
+ref: foley.s.2008
+title: Global characteristics of GRBs observed with INTEGRAL and the inferred large
+  population of low-luminosity GRBs
+type: article
+volume: '484'
+year: '2008'

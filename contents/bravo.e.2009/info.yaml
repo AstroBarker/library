@@ -1,0 +1,45 @@
+abstract: Observational evidences point to a common explosion mechanism of Type Ia
+  supernovae based on a delayed detonation of a white dwarf (WD). Although several
+  scenarios have been proposed and explored by means of one, two, and three-dimensional
+  simulations, the key point still is the understanding of the conditions under which
+  a stable detonation can form in a destabilized WD. One of the possibilities that
+  have been invoked is that an inefficient deflagration leads to the pulsation of
+  a Chandrasekhar-mass WD, followed by formation of an accretion shock around a carbon-oxygen
+  rich core. The accretion shock confines the core and transforms kinetic energy from
+  the collapsing halo into thermal energy of the core, until an inward moving detonation
+  is formed. This chain of events has been termed Pulsating Reverse Detonation (PRD).
+  In this work we explore the robustness of the detonation ignition for different
+  PRD models characterized by the amount of mass burned during the deflagration phase,
+  M defl. The evolution of the WD up to the formation of the accretion shock has been
+  followed with a three-dimensional hydrodynamical code with nuclear reactions turned
+  off. We found that detonation conditions are achieved for a wide range of M defl.
+  However, if the nuclear energy released during the deflagration phase is close to
+  the WD binding energy (~0.46 \texttimes{} 1051 erg ==> M defl ~ 0.30 M sun) the
+  accretion shock cannot heat and confine the core efficiently and detonation conditions
+  are not robustly achieved.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...695.1244B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.3008
+author: Bravo, E. and García-Senz, D.
+author_list:
+- family: Bravo
+  given: E.
+- family: García-Senz
+  given: D.
+date-added: 2017-08-11 00:43:26 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/695/2/1244
+eprint: '0901.3008'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general'
+month: April
+pages: 1244--1256
+papis_id: 95c85a90634d21e6744b016ada3e5b29
+primaryclass: astro-ph.SR
+ref: bravo.e.2009
+title: Pulsating Reverse Detonation Models of Type Ia Supernovae. I. Detonation Ignition
+type: article
+volume: '695'
+year: '2009'

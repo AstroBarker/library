@@ -1,0 +1,57 @@
+abstract: In order to provide a detailed analysis of RR Lyrae instability strip topology,
+  an extensive grid of nonlinear, nonlocal, and time-dependent convective models of
+  RR Lyrae stars has been computed at fixed mass (M = 0.65 solar mass) and chemical
+  composition (Y = 0.299, Z = 0.001). Four series of envelope models at different
+  luminosity levels (log(L/solar luminosity) = 1.81, 1.72, 1.61, 1.51) and on a large
+  range of effective temperatures (5700 K less than Te less than 8000 K) have been
+  investigated. The nonlinear modal stability has been evaluated at limiting amplitude
+  for both the fundamental and the first overtone. The equations governing both dynamical
+  and convective interactions have been integrated in time until the initial perturbations
+  and the nonlinear fluctuations due to superposition of higher order modes settled
+  down. The theoretical observables obtained by the present survey (radius, luminosity,
+  velocity and temperature amplitudes, periods) describe the pulsation characteristics
+  of the models at full amplitude, hence they can be properly compared with observations.
+  A linear, nonadiabatic survey of the first three modes of RR Lyrae models has been
+  also computed to supply the static structure of the envelope to the nonlinear stability
+  analysis. Several numerical simulations have been performed to test both the numerical
+  accuracy (boundary conditions, time-step size, zoning) and the adequacy of the physical
+  assumption (efficiency of the turbulent regime, artificial viscosity dependence,
+  convective structure initialization) adopted to describe the coupling between dynamical
+  and convective fields. The structure of the instability strip shows several striking
+  features concerning the width in temperature of the region where only the first
+  overtone is unstable. Indeed, the fundamental blue edge, moving from higher to lower
+  luminosity levels, becomes redder, in contrast to previous findings but in agreement
+  with globular clusters observed data. Moreover, using an improved treatment of the
+  convective transport, the first-overtone red edge has been directly evaluated and
+  hence also the width of the 'either-or' region (i.e., the region where both the
+  fundamental and the first overtone are simultaneously unstable). It has been found
+  that the periods of the nonlinear convective models are systematically smaller than
+  the corresponding periods of both linear and nonlinear radiative models. The differences
+  between linear and nonlinear results are smaller than 2\% of the period, however.
+  This effect has been explained as a consequence of the changes induced during the
+  phases of maximum compression by the convective transport on the adiabatic exponent,
+  and on the density inversion located in coincidence with the hydrogen ionization
+  reigon.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJS...93..233B
+author: Bono, G. and Stellingwerf, R. F.
+author_list:
+- family: Bono
+  given: G.
+- family: Stellingwerf
+  given: R. F.
+date-added: 2017-08-10 18:34:24 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192054
+journal: \apjs
+keywords: Stellar Convection, Stellar Interiors, Stellar Models, Stellar Oscillations,
+  Stellar Physics, Variable Stars, Mathematical Models, Nonlinear Systems, Stellar
+  Evolution, Stellar Luminosity, Stellar Temperature
+month: July
+pages: 233--269
+papis_id: dd3c44bd4fed2a699d2d51cef2a7579b
+ref: bono.g.1994
+title: 'Pulsation and stability of RR Lyrae stars. 1: Instability strip'
+type: article
+volume: '93'
+year: '1994'

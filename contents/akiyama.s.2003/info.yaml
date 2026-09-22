@@ -1,0 +1,49 @@
+abstract: 'We investigate the action of the magnetorotational instability (MRI) in
+  the context of iron-core collapse. Exponential growth of the field on the timescale
+  Omega-1 by the MRI will dominate the linear growth process of field-line ``wrapping''''
+  with the same characteristic time. We examine a variety of initial rotation states,
+  with solid-body rotation or a gradient in rotational velocity, that correspond to
+  models in the literature. A relatively modest value of the initial rotation, a period
+  of ~10 s, will give a very rapidly rotating proto-neutron star and hence strong
+  differential rotation with respect to the infalling matter. We assume conservation
+  of angular momentum on spherical shells. Rotational distortion and the dynamic feedback
+  of the magnetic field are neglected in the subsequent calculation of rotational
+  velocities. In our rotating and collapsing conditions, a seed field is expected
+  to be amplified by the MRI and to grow exponentially to a saturation field. Results
+  are discussed for two examples of saturation fields, a fiducial field that corresponds
+  to vA=rOmega and a field that corresponds to the maximum growing mode of the MRI.
+  We find, as expected, that the shear is strong at the boundary of the newly formed
+  proto-neutron star and, unexpectedly, that the region within the stalled shock can
+  be subject to strong MHD activity. Modest initial rotation velocities of the iron
+  core result in sub-Keplerian rotation and a sub-equipartition magnetic field that
+  nevertheless produce substantial MHD luminosity and hoop stresses: saturation fields
+  of order 1015-1016 G can develop ~300 ms after bounce with an associated MHD luminosity
+  of ~1052 ergs s-1. Bipolar flows driven by this MHD power can affect or even cause
+  the explosions associated with core-collapse supernovae.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...584..954A
+arxivurl: http://arxiv.org/abs/astro-ph/0208128
+author: Akiyama, S. and Wheeler, J. C. and Meier, D. L. and Lichtenstadt, I.
+author_list:
+- family: Akiyama
+  given: S.
+- family: Wheeler
+  given: J. C.
+- family: Meier
+  given: D. L.
+- family: Lichtenstadt
+  given: I.
+date-added: 2017-08-10 16:24:42 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344135
+eprint: astro-ph/0208128
+journal: \apj
+keywords: 'Instabilities, Magnetohydrodynamics: MHD, Stars: Supernovae: General'
+month: February
+pages: 954--970
+papis_id: 40d5f502747b0ebc89c61bb0a8d1f0f8
+ref: akiyama.s.2003
+title: The Magnetorotational Instability in Core-Collapse Supernova Explosions
+type: article
+volume: '584'
+year: '2003'

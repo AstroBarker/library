@@ -1,0 +1,51 @@
+abstract: Shock breakout is the earliest, readily observable emission from a core-collapse
+  supernova (SN) explosion. Observing SN shock breakout may yield information about
+  the nature of the SN shock prior to exiting the progenitor and, in turn, about the
+  core-collapse SN mechanism itself. X-ray outburst 080109, later associated with
+  SN 2008D, is a very well-observed example of shock breakout from a core-collapse
+  SN. Despite excellent observational coverage and detailed modeling, fundamental
+  information about the shock breakout, such as the radius of breakout and driver
+  of the light curve timescale, is still uncertain. The models constructed for explaining
+  the shock breakout emission from SN 2008D all assume spherical symmetry. We present
+  a study of the observational characteristics of aspherical shock breakout from stripped-envelope
+  core-collapse SNe surrounded by a wind. We conduct two-dimensional, jet-driven SN
+  simulations from stripped-envelope progenitors and calculate the resulting shock
+  breakout X-ray spectra and light curves. The X-ray spectra evolve significantly
+  in time as the shocks expand outward and are not fit well by single-temperature
+  and radius blackbodies. The timescale of the X-ray burst light curve of the shock
+  breakout is related to the shock crossing time of the progenitor, and not to the
+  much shorter light crossing time that sets the light curve timescale in spherical
+  breakouts. This could explain the long shock breakout light curve timescale observed
+  for XRO 080109/SN 2008D. We also comment on the distribution of intermediate-mass
+  elements in asymmetric explosions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...727..104C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.3693
+author: Couch, S. M. and Pooley, D. and Wheeler, J. C. and Milosavljević, M.
+author_list:
+- family: Couch
+  given: S. M.
+- family: Pooley
+  given: D.
+- family: Wheeler
+  given: J. C.
+- family: Milosavljević
+  given: M.
+date-added: 2017-08-10 16:54:02 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/727/2/104
+eid: '104'
+eprint: '1007.3693'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, shock waves, supernovae: general, supernovae:
+  individual: SN 2008D'
+month: February
+pages: '104'
+papis_id: fbeb688eb0df2e94c6ee58018d0291d7
+primaryclass: astro-ph.HE
+ref: couch.s.2011
+title: Aspherical Supernova Shock Breakout and the Observations of Supernova 2008D
+type: article
+volume: '727'
+year: '2011'

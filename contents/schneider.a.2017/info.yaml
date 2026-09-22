@@ -1,0 +1,46 @@
+abstract: The equation of state (EOS) of dense matter is an essential ingredient for
+  numerical simulations of core-collapse supernovae and neutron star mergers. The
+  properties of matter near and above nuclear saturation density are uncertain, which
+  translates into uncertainties in astrophysical simulations and their multimessenger
+  signatures. Therefore, a wide range of EOSs spanning the allowed range of nuclear
+  interactions are necessary for determining the sensitivity of these astrophysical
+  phenomena and their signatures to variations in input microphysics. We present a
+  new set of finite temperature EOSs based on experimentally allowed Skyrme forces.
+  We employ a liquid-drop model of nuclei to capture the nonuniform phase of nuclear
+  matter at subsaturation density, which is blended into a nuclear statistical equilibrium
+  EOS at lower densities. We also provide a new, open-source code for calculating
+  EOSs for arbitrary Skyrme parametrizations. We then study the effects of different
+  Skyrme parametrizations on thermodynamical properties of dense astrophysical matter,
+  the neutron star mass-radius relationship, and the core collapse of 15 and 40 solar
+  mass stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017PhRvC..96f5802S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1707.01527
+author: Schneider, A. S. and Roberts, L. F. and Ott, C. D.
+author_list:
+- family: Schneider
+  given: A. S.
+- family: Roberts
+  given: L. F.
+- family: Ott
+  given: C. D.
+date-added: 2018-03-06 11:17:22 +0000
+date-modified: 2018-03-06 11:17:23 +0000
+doi: 10.1103/PhysRevC.96.065802
+eid: 065802
+eprint: '1707.01527'
+journal: \prc
+keywords: Astrophysics - High Energy Astrophysical Phenomena, General Relativity and
+  Quantum Cosmology, Nuclear Theory
+month: December
+number: '6'
+pages: 065802
+papis_id: 863cba459196fed192fc51cc8fd69c77
+primaryclass: astro-ph.HE
+ref: schneider.a.2017
+title: Open-source nuclear equation of state framework based on the liquid-drop model
+  with Skyrme interaction
+type: article
+volume: '96'
+year: '2017'

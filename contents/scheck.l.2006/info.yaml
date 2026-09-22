@@ -1,0 +1,55 @@
+abstract: We study hydrodynamic instabilities during the first seconds of core-collapse
+  supernovae by means of 2D simulations with approximative neutrino transport and
+  boundary conditions that parameterize the effects of the contracting neutron star
+  and allow us to obtain sufficiently strong neutrino heating and, hence, neutrino-driven
+  explosions. Confirming more idealised studies, as well as supernova simulations
+  with spectral transport, we find that random seed perturbations can grow by hydrodynamic
+  instabilities to a globally asymmetric mass distribution in the region between the
+  nascent neutron star and the accretion shock, leading to a dominance of dipole (l=1)
+  and quadrupole (l=2) modes in the explosion ejecta, provided the onset of the supernova
+  explosion is sufficiently slower than the growth time scale of the low-mode instability.
+  By gravitational and hydrodynamic forces, the anisotropic mass distribution causes
+  an acceleration of the nascent neutron star, which lasts for several seconds and
+  can propel the neutron star to velocities of more than 1000 km s-1. Because the
+  explosion anisotropies develop chaotically and change by small differences in the
+  fluid flow, the magnitude of the kick varies stochastically. No systematic dependence
+  of the average neutron star velocity on the explosion energy or the properties of
+  the considered progenitors is found. Instead, the anisotropy of the mass ejection,
+  and hence of the kick, seems to increase when the nascent neutron star contracts
+  more quickly, and thus low-mode instabilities can grow more rapidly. Our more than
+  70 models separate into two groups, one with high and the other with low neutron
+  star velocities and accelerations after one second of post-bounce evolution, depending
+  on whether the l=1 mode is dominant in the ejecta or not. This leads to a bimodality
+  of the distribution when the neutron star velocities are extrapolated to their terminal
+  values. Establishing a link to the measured distribution of pulsar velocities, however,
+  requires a much larger set of calculations and ultimately 3D modelling.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...457..963S
+arxivurl: http://arxiv.org/abs/astro-ph/0601302
+author: Scheck, L. and Kifonidis, K. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Scheck
+  given: L.
+- family: Kifonidis
+  given: K.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 18:29:32 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20064855
+eprint: astro-ph/0601302
+journal: \aap
+keywords: 'hydrodynamics, instabilities, radiative transfer, neutrinos, stars: supernovae:
+  general, pulsars: general'
+month: October
+pages: 963--986
+papis_id: d993afcc78a8bd9d8fd7078d046673b3
+ref: scheck.l.2006
+title: Multidimensional supernova simulations with approximative neutrino transport.
+  I. Neutron star kicks and the anisotropy of neutrino-driven explosions in two spatial
+  dimensions
+type: article
+volume: '457'
+year: '2006'

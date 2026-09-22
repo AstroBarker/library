@@ -1,0 +1,55 @@
+abstract: 'Aims: Cold steady-state disk wind theory from near Keplerian accretion
+  disks requires a large scale magnetic field at near equipartition strength. However
+  the minimum magnetization has never been tested with time dependent simulations.
+  We investigate the time evolution of a Shakura-Sunyaev accretion disk threaded by
+  a weak vertical magnetic field. The strength of the field is such that the disk
+  magnetization falls off rapidly with radius.  Methods: Four 2.5D numerical simulations
+  of viscous resistive accretion disk are performed using the magnetohydrodynamic
+  code PLUTO. In these simulations, a mean field approach is used and turbulence is
+  assumed to give rise to anomalous transport coefficients (alpha prescription).  Results:
+  The large scale magnetic field introduces only a small perturbation to the disk
+  structure, with accretion driven by the dominant viscous torque. However, a super
+  fast magnetosonic jet is observed to be launched from the innermost regions and
+  remains stationary over more than 953 Keplerian orbits. This is the longest accretion-ejection
+  simulation ever carried out. The self-confined jet is launched from a finite radial
+  zone in the disk which remains constant over time. Ejection is made possible because
+  the magnetization reaches unity at the disk surface, due to the steep density decrease.
+  However, no ejection is reported when the midplane magnetization becomes too small.
+  The asymptotic jet velocity remains nevertheless too low to explain observed jets.
+  This is because of the negligible power carried away by the jet.  Conclusions: Astrophysical
+  disks with superheated surface layers could drive analogous outflows even if their
+  midplane magnetization is low. Sufficient angular momentum would be extracted by
+  the turbulent viscosity to allow the accretion process to continue. The magnetized
+  outflows would be no more than byproducts, rather than a fundamental driver of accretion.
+  However, if the midplane magnetization increases towards the center, a natural transition
+  to an inner jet dominated disk could be achieved.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...512A..82M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.4471
+author: Murphy, G. C. and Ferreira, J. and Zanni, C.
+author_list:
+- family: Murphy
+  given: G. C.
+- family: Ferreira
+  given: J.
+- family: Zanni
+  given: C.
+date-added: 2017-08-10 22:58:48 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1051/0004-6361/200912633
+eid: A82
+eprint: '1003.4471'
+journal: \aap
+keywords: 'accretion, accretion disks, magnetohydrodynamics (MHD), stars: formation,
+  ISM: jets and outflows, galaxies: nuclei, galaxies: jets'
+month: March
+pages: A82
+papis_id: cae4a0691581dcc4e8c6ac503aac0b8d
+primaryclass: astro-ph.SR
+ref: murphy.g.2010
+title: Large scale magnetic fields in viscous resistive accretion disks. I. Ejection
+  from weakly magnetized disks
+type: article
+volume: '512'
+year: '2010'

@@ -1,0 +1,33 @@
+abstract: A method of measuring correlation functions without interpolating in the
+  temporal domain, "the discrete correlation function," is introduced. It provides
+  an assumption-free representation of the correlation measured in the data and allows
+  meaningful error estimates. This method avoids the problem of spurious correlations
+  at zero lag due to correlated errors. The method is applied to the case of AGN line-continuum
+  cross-correlation functions by using published data for Akn 120 and NGC 4151. No
+  correlation was found for the optical data for Akn 120, but the ultraviolet NGC
+  4151 data show a strong correlation, indicating that the broad C IV feature emanates
+  from a region whose size is greater than 1.2 and less than 20 light-days.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1988ApJ...333..646E
+author: Edelson, R. A. and Krolik, J. H.
+author_list:
+- family: Edelson
+  given: R. A.
+- family: Krolik
+  given: J. H.
+date-added: 2017-08-10 16:01:20 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/166773
+journal: \apj
+keywords: Active Galactic Nuclei, Quasars, Radio Sources (Astronomy), Seyfert Galaxies,
+  Stellar Luminosity, Ultraviolet Radiation, Computational Astrophysics, Cross Correlation,
+  Emission Spectra, Line Spectra
+month: October
+pages: 646--659
+papis_id: 1f7159ffc5f6a72d02eb2bb40e89b083
+ref: edelson.r.1988
+title: The discrete correlation function - A new method for analyzing unevenly sampled
+  variability data
+type: article
+volume: '333'
+year: '1988'

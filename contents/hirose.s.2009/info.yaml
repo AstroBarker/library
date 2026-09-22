@@ -1,0 +1,42 @@
+abstract: When the accretion rate is more than a small fraction of Eddington, the
+  inner regions of accretion disks around black holes are expected to be radiation
+  dominated. However, in the alpha-model, these regions are also expected to be thermally
+  unstable. In this paper, we report two three-dimensional radiation magnetohydrodynamic
+  simulations of a vertically stratified shearing box in which the ratio of radiation
+  to gas pressure is ~10, and yet no thermal runaway occurs over a timespan sime40
+  cooling times. Where the time-averaged dissipation rate is greater than the critical
+  dissipation rate that creates hydrostatic equilibrium by diffusive radiation flux,
+  the time-averaged radiation flux is held to the critical value, with the excess
+  dissipated energy transported by radiative advection. Although the stress and total
+  pressure are well correlated as predicted by the alpha-model, we show that stress
+  fluctuations precede pressure fluctuations, contrary to the usual supposition that
+  the pressure controls the saturation level of the magnetic energy. This fact explains
+  the thermal stability. Using a simple toy model, we show that independently generated
+  magnetic fluctuations can drive radiation pressure fluctuations, creating a correlation
+  between the two while maintaining thermal stability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691...16H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.1708
+author: Hirose, S. and Krolik, J. H. and Blaes, O.
+author_list:
+- family: Hirose
+  given: S.
+- family: Krolik
+  given: J. H.
+- family: Blaes
+  given: O.
+date-added: 2017-08-10 20:06:16 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/1/16
+eprint: '0809.1708'
+journal: \apj
+keywords: accretion, accretion disks, instabilities, MHD, radiative transfer
+month: January
+pages: 16--31
+papis_id: adf8e02a7f278d8da7f0747800d4d25f
+ref: hirose.s.2009
+title: Radiation-Dominated Disks are Thermally Stable
+type: article
+volume: '691'
+year: '2009'

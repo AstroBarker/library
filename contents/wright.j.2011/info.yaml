@@ -1,0 +1,59 @@
+abstract: 'We present a database of well-determined orbital parameters of exoplanets,
+  and their host stars'' properties. This database comprises spectroscopic orbital
+  elements measured for 427 planets orbiting 363 stars from radial velocity and transit
+  measurements as reported in the literature. We have also compiled fundamental transit
+  parameters, stellar parameters, and the method used for the planets discovery. This
+  Exoplanet Orbit Database includes all planets with robust, well measured orbital
+  parameters reported in peer-reviewed articles. The database is available in a searchable,
+  filterable, and sortable form online through the Exoplanets Data Explorer table,
+  and the data can be plotted and explored through the Exoplanet Data Explorer plotter.
+  We use the Data Explorer to generate publication-ready plots, giving three examples
+  of the signatures of exoplanet migration and dynamical evolution: We illustrate
+  the character of the apparent correlation between mass and period in exoplanet orbits,
+  the different selection biases between radial velocity and transit surveys, and
+  that the multiplanet systems show a distinct semimajor-axis distribution from apparently
+  singleton systems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011PASP..123..412W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.5676
+author: Wright, J. T. and Fakhouri, O. and Marcy, G. W. and Han, E. and Feng, Y. and
+  Johnson, J. A. and Howard, A. W. and Fischer, D. A. and Valenti, J. A. and Anderson,
+  J. and Piskunov, N.
+author_list:
+- family: Wright
+  given: J. T.
+- family: Fakhouri
+  given: O.
+- family: Marcy
+  given: G. W.
+- family: Han
+  given: E.
+- family: Feng
+  given: Y.
+- family: Johnson
+  given: J. A.
+- family: Howard
+  given: A. W.
+- family: Fischer
+  given: D. A.
+- family: Valenti
+  given: J. A.
+- family: Anderson
+  given: J.
+- family: Piskunov
+  given: N.
+date-added: 2017-08-10 23:27:42 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1086/659427
+eprint: '1012.5676'
+journal: \pasp
+month: April
+pages: '412'
+papis_id: dc50654d6cc919ef7e59b0a0369712cd
+primaryclass: astro-ph.SR
+ref: wright.j.2011
+title: The Exoplanet Orbit Database
+type: article
+volume: '123'
+year: '2011'

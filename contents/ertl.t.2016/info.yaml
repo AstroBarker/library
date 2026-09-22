@@ -1,0 +1,56 @@
+abstract: Thus far, judging the fate of a massive star (either a neutron star [NS]
+  or a black hole) solely by its structure prior to core collapse has been ambiguous.
+  Our work and previous attempts find a nonmonotonic variation of successful and failed
+  supernovae with zero-age main-sequence mass, for which no single structural parameter
+  can serve as a good predictive measure. However, we identify two parameters computed
+  from the pre-collapse structure of the progenitor, which in combination allow for
+  a clear separation of exploding and nonexploding cases with only a few exceptions
+  (\texttildelow{}1\%-2.5\%) in our set of 621 investigated stellar models. One parameter
+  is M4, defining the normalized enclosed mass for a dimensionless entropy per nucleon
+  of s = 4, and the other is {mu }4\equiv ({dm}/{M}\&sun; )/({dr}/1000 {km}){\vert{}
+  }s=4, being the normalized mass derivative at this location. The two parameters
+  mu4 and M4mu4 can be directly linked to the mass-infall rate, \dot{M}, of the collapsing
+  star and the electron-type neutrino luminosity of the accreting proto-NS, {L}{nu
+  e}\propto {M}{ns}\dot{M}, which play a crucial role in the ``critical luminosity''
+  concept for the theoretical description of neutrino-driven explosions as runaway
+  phenomena of the stalled accretion shock. All models were evolved employing the
+  approach of Ugliano et al. for simulating neutrino-driven explosions in spherical
+  symmetry. The neutrino emission of the accretion layer is approximated by a gray
+  transport solver, while the uncertain neutrino emission of the 1.1 M\&sun; proto-NS
+  core is parameterized by an analytic model. The free parameters connected to the
+  core-boundary prescription are calibrated to reproduce the observables of SN 1987A
+  for five different progenitor models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...818..124E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1503.07522
+author: Ertl, T. and Janka, H.-T. and Woosley, S. E. and Sukhbold, T. and Ugliano,
+  M.
+author_list:
+- family: Ertl
+  given: T.
+- family: Janka
+  given: H.-T.
+- family: Woosley
+  given: S. E.
+- family: Sukhbold
+  given: T.
+- family: Ugliano
+  given: M.
+date-added: 2017-08-10 14:05:16 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/818/2/124
+eid: '124'
+eprint: '1503.07522'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, stars: massive, supernovae: general'
+month: February
+pages: '124'
+papis_id: 98c694144715ffc590da8bdca84cf415
+primaryclass: astro-ph.SR
+ref: ertl.t.2016
+title: A Two-parameter Criterion for Classifying the Explodability of Massive Stars
+  by the Neutrino-driven Mechanism
+type: article
+volume: '818'
+year: '2016'

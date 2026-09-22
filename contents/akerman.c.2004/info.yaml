@@ -1,0 +1,54 @@
+abstract: 'We report new measurements of carbon and oxygen abundances in 34 F and
+  G dwarf and subgiant stars belonging to the halo population and spanning a range
+  of metallicity from [Fe/H] = -0.7 to -3.2 . The survey is based on observations
+  of four permitted lines of C I near 9100 {\AA} and the O I,lambda 7774 triplet,
+  all recorded at high signal-to-noise ratios with the UVES echelle spectrograph on
+  the ESO VLT. The line equivalent widths were analysed with the 1D, LTE, MARCS model
+  atmosphere code to deduce C and O abundances; corrections due to non-LTE and 3D
+  effects are discussed. When combined with similar published data for disk stars,
+  our results confirm the metallicity dependence of the C/O ratio known from previous
+  stellar and interstellar studies: C/O drops by a factor of \texttildelow{}3-4 as
+  O/H decreases from solar to \texttildelow{}1/10 solar. Analysed within the context
+  of standard models for the chemical evolution of the solar vicinity, this drop results
+  from the metallicity dependence of the C yields from massive stars with mass loss,
+  augmented by the delayed release of C from stars of low and intermediate mass. The
+  former is, however, always the dominant factor. Our survey has also uncovered tentative
+  evidence to suggest that, as the oxygen abundance decreases below [O/H] = -1, [C/O]
+  may not remain constant at [C/O] = -0.5, as previously thought, but increase again,
+  possibly approaching near-solar values at the lowest metallicities ([O/H] \lessequivlnt{}
+  -3). With the current dataset this is no more than a 3sigma effect and it may be
+  due to metallicity-dependent non-LTE corrections to the [C/O] ratio which have not
+  been taken into account.  However, its potential importance as a window on the nucleosynthesis
+  by Population III stars is a strong incentive for future work, both observational
+  and theoretical, to verify its reality.  Based on observations collected at the
+  European Southern Observatory, Chile (ESO No. 67.D-0106).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...414..931A
+arxivurl: http://arxiv.org/abs/astro-ph/0310472
+author: Akerman, C. J. and Carigi, L. and Nissen, P. E. and Pettini, M. and Asplund,
+  M.
+author_list:
+- family: Akerman
+  given: C. J.
+- family: Carigi
+  given: L.
+- family: Nissen
+  given: P. E.
+- family: Pettini
+  given: M.
+- family: Asplund
+  given: M.
+date-added: 2017-08-10 23:05:05 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1051/0004-6361:20034188
+eprint: astro-ph/0310472
+journal: \aap
+keywords: 'stars: abundances, Galaxy: abundances, Galaxy: evolution, Galaxy: halo'
+month: February
+pages: 931--942
+papis_id: d6c82cbbba06f661b2b0ad6d0e07d2df
+ref: akerman.c.2004
+title: The evolution of the C/O ratio in metal-poor halo stars
+type: article
+volume: '414'
+year: '2004'

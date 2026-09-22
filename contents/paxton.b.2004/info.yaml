@@ -1,0 +1,29 @@
+abstract: '``Evolve ZAMS'''' (EZ) is a code derived from Peter Eggleton''s stellar
+  evolution program. The core of EZ is a stripped down, rewritten version of a subset
+  of Eggleton''s code, specialized to handle single star evolution from the zero-age
+  main sequence until forced to stop by an event such as a helium flash or a crystallizing
+  core. The procedure and data interfaces to the program are designed to be easy to
+  use while still providing a wide range of function. EZ is written in Fortran 95
+  following current programming practices and can be downloaded from the Web at http://theory.kitp.ucsb.edu/~paxton.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004PASP..116..699P
+arxivurl: http://arxiv.org/abs/astro-ph/0405130
+author: Paxton, B.
+author_list:
+- family: Paxton
+  given: B.
+date-added: 2017-08-11 04:28:22 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/422345
+eprint: astro-ph/0405130
+journal: \pasp
+keywords: 'Methods: Numerical, Stars: Evolution'
+month: July
+pages: 699--701
+papis_id: b7c4ecb42aad0783814a4de0900aa37e
+ref: paxton.b.2004
+title: 'EZ to Evolve ZAMS Stars: A Program Derived from Eggleton''s Stellar Evolution
+  Code'
+type: article
+volume: '116'
+year: '2004'

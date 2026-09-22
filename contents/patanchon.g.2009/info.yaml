@@ -1,0 +1,99 @@
+abstract: We describe the application of a statistical method to estimate submillimeter
+  galaxy number counts from confusion-limited observations by the Balloon-borne Large
+  Aperture Submillimeter Telescope (BLAST). Our method is based on a maximum likelihood
+  fit to the pixel histogram, sometimes called "P(D)," an approach which has been
+  used before to probe faint counts, the difference being that here we advocate its
+  use even for sources with relatively high signal-to-noise ratios. This method has
+  an advantage over standard techniques of source extraction in providing an unbiased
+  estimate of the counts from the bright end down to flux densities well below the
+  confusion limit. We specifically analyze BLAST observations of a roughly 10 deg2
+  map centered on the Great Observatories Origins Deep Survey South field. We provide
+  estimates of number counts at the three BLAST wavelengths 250, 350, and 500 mum
+  instead of counting sources in flux bins we estimate the counts at several flux
+  density nodes connected with power laws. We observe a generally very steep slope
+  for the counts of about -3.7 at 250 mum, and -4.5 at 350 and 500 mum, over the range
+  ~0.02-0.5 Jy, breaking to a shallower slope below about 0.015 Jy at all three wavelengths.
+  We also describe how to estimate the uncertainties and correlations in this method
+  so that the results can be used for model-fitting. This method should be well suited
+  for analysis of data from the Herschel satellite.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...707.1750P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.0981
+author: Patanchon, G. and Ade, P. A. R. and Bock, J. J. and Chapin, E. L. and Devlin,
+  M. J. and Dicker, S. R. and Griffin, M. and Gundersen, J. O. and Halpern, M. and
+  Hargrave, P. C. and Hughes, D. H. and Klein, J. and Marsden, G. and Mauskopf, P.
+  and Moncelsi, L. and Netterfield, C. B. and Olmi, L. and Pascale, E. and Rex, M.
+  and Scott, D. and Semisch, C. and Thomas, N. and Truch, M. D. P. and Tucker, C.
+  and Tucker, G. S. and Viero, M. P. and Wiebe, D. V.
+author_list:
+- family: Patanchon
+  given: G.
+- family: Ade
+  given: P. A. R.
+- family: Bock
+  given: J. J.
+- family: Chapin
+  given: E. L.
+- family: Devlin
+  given: M. J.
+- family: Dicker
+  given: S. R.
+- family: Griffin
+  given: M.
+- family: Gundersen
+  given: J. O.
+- family: Halpern
+  given: M.
+- family: Hargrave
+  given: P. C.
+- family: Hughes
+  given: D. H.
+- family: Klein
+  given: J.
+- family: Marsden
+  given: G.
+- family: Mauskopf
+  given: P.
+- family: Moncelsi
+  given: L.
+- family: Netterfield
+  given: C. B.
+- family: Olmi
+  given: L.
+- family: Pascale
+  given: E.
+- family: Rex
+  given: M.
+- family: Scott
+  given: D.
+- family: Semisch
+  given: C.
+- family: Thomas
+  given: N.
+- family: Truch
+  given: M. D. P.
+- family: Tucker
+  given: C.
+- family: Tucker
+  given: G. S.
+- family: Viero
+  given: M. P.
+- family: Wiebe
+  given: D. V.
+date-added: 2017-08-11 00:27:23 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/707/2/1750
+eprint: '0906.0981'
+journal: \apj
+keywords: 'cosmology: observations, galaxies: statistics, methods: data analysis,
+  submillimeter'
+month: December
+pages: 1750--1765
+papis_id: eda248bd6605e3051a31e59ff721acc3
+primaryclass: astro-ph.CO
+ref: patanchon.g.2009
+title: Submillimeter Number Counts from Statistical Analysis of BLAST Maps
+type: article
+volume: '707'
+year: '2009'

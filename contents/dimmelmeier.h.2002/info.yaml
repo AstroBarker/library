@@ -1,0 +1,44 @@
+abstract: We describe an axisymmetric general relativistic code for rotational core
+  collapse. The code evolves the coupled system of metric and fluid equations using
+  the ADM 3 + 1 formalism and a conformally flat metric approximation of the Einstein
+  equations. Within this approximation the ADM 3 + 1 equations reduce to a set of
+  five coupled non-linear elliptic equations for the metric components. The equations
+  are discretized on a 2D grid in spherical polar coordinates and are solved by means
+  of a Newton-Raphson iteration using a block elimination scheme to solve the diagonally
+  dominant, sparse linear system arising within each iteration step. The relativistic
+  hydrodynamics equations are formulated as a first-order flux-conservative hyperbolic
+  system and are integrated using high-resolution shock-capturing schemes based on
+  Riemann solvers. We assess the quality of the conformally flat metric approximation
+  for relativistic core collapse and present a comprehensive set of tests that the
+  code successfully passed. The tests include relativistic shock tubes, the preservation
+  of the rotation profile and of the equilibrium of rapidly and differentially rotating
+  neutron stars (approximated as rotating polytropes), spherical relativistic core
+  collapse, and the conservation of rest-mass and angular momentum in dynamic spacetimes.
+  The application of the code to relativistic rotational core collapse, with emphasis
+  on the gravitational waveform signature, is presented in an accompanying paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...388..917D
+arxivurl: http://arxiv.org/abs/astro-ph/0204288
+author: Dimmelmeier, H. and Font, J. A. and Müller, E.
+author_list:
+- family: Dimmelmeier
+  given: H.
+- family: Font
+  given: J. A.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 19:27:56 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020563
+eprint: astro-ph/0204288
+journal: \aap
+keywords: 'gravitation, gravitational waves, hydrodynamics, methods: numerical, relativity'
+month: June
+pages: 917--935
+papis_id: a9decdaa134c44484f77276a06e1e95d
+ref: dimmelmeier.h.2002
+title: Relativistic simulations of rotational core collapse I. Methods, initial models,
+  and code tests
+type: article
+volume: '388'
+year: '2002'

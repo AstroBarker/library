@@ -1,0 +1,61 @@
+abstract: We explore the effects of magnetic energy dissipation on the formation of
+  the first stars. For this purpose, we follow the evolution of primordial chemistry
+  in the presence of magnetic fields in the post-recombination universe until the
+  formation of the first virialized halos. From the point of virialization, we follow
+  the protostellar collapse up to densities of ~1012 cm-3 in a one-zone model. In
+  the intergalactic medium (IGM), comoving field strengths of gsim0.1 nG lead to Jeans
+  masses of 108 M sun or more and thus delay gravitational collapse in the first halos
+  until they are sufficiently massive. During protostellar collapse, we find that
+  the temperature minimum at densities of ~103 cm-3 does not change significantly,
+  such that the characteristic mass scale for fragmentation is not affected. However,
+  we find a significant temperature increase at higher densities for comoving field
+  strengths of gsim 0.1 nG. This may delay gravitational collapse, in particular at
+  densities of ~109 cm-3, where the proton abundance drops rapidly and the main contribution
+  to the ambipolar diffusion resistivity is due to collisions with Li+. We further
+  explore how the thermal evolution depends on the scaling relation of magnetic field
+  strength with density. While the effects are already significant for our fiducial
+  model with B vprop rho0.5-0.57, the temperature may increase even further for steeper
+  relations and lead to the complete dissociation of H2 at densities of ~1011 cm-3
+  for a scaling with B vprop rho0.6. The correct modeling of this relation is therefore
+  very important, as the increase in temperature enhances the subsequent accretion
+  rate onto the protostar. Our model confirms that initial weak magnetic fields may
+  be amplified considerably during gravitational collapse and become dynamically relevant.
+  For instance, a comoving field strength above 10-5 nG will be amplified above the
+  critical value for the onset of jets which can magnetize the IGM.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...703.1096S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0904.3970
+author: Schleicher, D. R. G. and Galli, D. and Glover, S. C. O. and Banerjee, R. and
+  Palla, F. and Schneider, R. and Klessen, R. S.
+author_list:
+- family: Schleicher
+  given: D. R. G.
+- family: Galli
+  given: D.
+- family: Glover
+  given: S. C. O.
+- family: Banerjee
+  given: R.
+- family: Palla
+  given: F.
+- family: Schneider
+  given: R.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-11 02:52:08 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/703/1/1096
+eprint: '0904.3970'
+journal: \apj
+keywords: 'astrochemistry, cosmology: theory, early universe, magnetic fields, stars:
+  formation'
+month: September
+pages: 1096--1106
+papis_id: e041f4017836f50d08860aa45fc642a3
+primaryclass: astro-ph.CO
+ref: schleicher.d.2009
+title: The Influence of Magnetic Fields on the Thermodynamics of Primordial Star Formation
+type: article
+volume: '703'
+year: '2009'

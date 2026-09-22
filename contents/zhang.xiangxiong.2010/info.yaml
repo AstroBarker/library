@@ -1,0 +1,37 @@
+abstract: We construct uniformly high order accurate discontinuous Galerkin (DG) schemes
+  which preserve positivity of density and pressure for Euler equations of compressible
+  gas dynamics. The same framework also applies to high order accurate finite volume
+  (e.g. essentially non-oscillatory (ENO) or weighted ENO (WENO)) schemes. Motivated
+  by Perthame and Shu (1996) [20] and Zhang and Shu (2010) [26], a general framework,
+  for arbitrary order of accuracy, is established to construct a positivity preserving
+  limiter for the finite volume and DG methods with first order Euler forward time
+  discretization solving one-dimensional compressible Euler equations. The limiter
+  can be proven to maintain high order accuracy and is easy to implement. Strong stability
+  preserving (SSP) high order time discretizations will keep the positivity property.
+  Following the idea in Zhang and Shu (2010) [26], we extend this framework to higher
+  dimensions on rectangular meshes in a straightforward way. Numerical tests for the
+  third order DG method are reported to demonstrate the effectiveness of the methods.
+author: Zhang, Xiangxiong and Shu, Chi-Wang
+author_list:
+- family: Zhang
+  given: Xiangxiong
+- family: Shu
+  given: Chi-Wang
+doi: https://doi.org/10.1016/j.jcp.2010.08.016
+groups: Numerical Methods - General
+issn: 0021-9991
+journal: Journal of Computational Physics
+keywords: Hyperbolic conservation laws, Discontinuous Galerkin method, Positivity
+  preserving, High order accuracy, Compressible Euler equations, Gas dynamics, Finite
+  volume scheme, Essentially non-oscillatory scheme, Weighted essentially non-oscillatory
+  scheme
+number: '23'
+pages: 8918--8934
+papis_id: 006fdf71a83aaefeefb591d13db067fe
+ref: zhang.xiangxiong.2010
+title: On positivity-preserving high order discontinuous Galerkin schemes for compressible
+  Euler equations on rectangular meshes
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0021999110004535
+volume: '229'
+year: '2010'

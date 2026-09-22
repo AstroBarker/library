@@ -1,0 +1,50 @@
+abstract: 'Most simulations of the core collapse of massive stars have focused on
+  the collapse of spherically symmetric objects. If these stars are rotating, this
+  symmetry is broken, opening up a number of effects that are just now being studied.
+  The list of proposed effects spans a range of extremes: from fragmentation of the
+  collapsed iron core to modifications of the convective instabilities above the core;
+  from the generation of strong magnetic fields that then drive the supernova explosion
+  to the late-time formation of magnetic fields to produce magnetars after the launch
+  of the supernova explosion. The list of the observational effects of rotation ranges
+  from modifications in the gamma-ray line spectra, nucleosynthetic yields, and shape
+  of supernova remnants caused by rotation-induced asymmetric explosions to strong
+  pulsar radiation, the emission of gravitational waves, and altered r-process nucleosynthetic
+  yields caused by rapidly rotating stars. In this paper we present the results of
+  three-dimensional collapse simulations of rotating stars for a range of stellar
+  progenitors. We find that for the most rapidly spinning stars, rotation does indeed
+  modify the convection above the proto-neutron star, but it is not fast enough to
+  cause core fragmentation. Similarly, although strong magnetic fields can be produced
+  once the proto-neutron star cools and contracts, the proto-neutron star does not
+  spin fast enough to generate strong magnetic fields quickly after collapse, and,
+  for our simulations, magnetic fields will not dominate the supernova explosion mechanism.
+  Even so, the resulting pulsars for our most rapidly rotating models may emit enough
+  energy to dominate the total explosion energy of the supernova. However, more recent
+  stellar models predict rotation rates that are much too slow to affect the explosion,
+  but these models are not sophisticated enough to determine whether the most recent
+  or past stellar rotation rates are more likely. Thus, we must rely on observational
+  constraints to determine the true rotation rates of stellar cores just before collapse.
+  We conclude with a discussion of the possible constraints on stellar rotation that
+  we can derive from core-collapse supernovae.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...601..391F
+arxivurl: http://arxiv.org/abs/astro-ph/0309539
+author: Fryer, C. L. and Warren, M. S.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Warren
+  given: M. S.
+date-added: 2017-08-10 14:32:35 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380193
+eprint: astro-ph/0309539
+journal: \apj
+keywords: 'Stars: Evolution, Stars: Supernovae: General'
+month: January
+pages: 391--404
+papis_id: a7061e006d9d89c0b85169edfb17ef03
+ref: fryer.c.2004b
+title: The Collapse of Rotating Massive Stars in Three Dimensions
+type: article
+volume: '601'
+year: '2004'

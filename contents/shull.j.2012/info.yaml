@@ -1,0 +1,51 @@
+abstract: We assess the probable redshift (z rei \approx{} 7) for full reionization
+  of the intergalactic medium (IGM) using a prescription for the comoving star formation
+  rate (SFR) density (\dot{\rho }\_SFR) required to maintain photoionization against
+  recombination. Our newly developed online reionization simulator allows users to
+  assess the required SFR and ionization histories, using a variety of assumptions
+  for galactic and stellar populations, IGM clumping factor and temperature, and Lyman
+  continuum (LyC) escape fraction. The decline in high-redshift galaxy candidates
+  and Lyalpha emitters at z = 6-8 suggests a rising neutral fraction, with reionization
+  at z >~ 7 increasingly difficult owing to increased recombination rates and constraints
+  from the ionizing background and LyC mean free path. The required rate is \dot{\rho
+  }\_SFR \approx (0.018 \, M\_{\odot } \,yr^{-1}\, Mpc^{-3})[(1+z)/8]^3 (C\_{H}/3)(0.2/f\_esc)
+  T\_4^{-0.845} scaled to fiducial values of clumping factor C H = 3, escape fraction
+  f esc = 0.2, electron temperature Te = 104 K, and low-metallicity initial mass functions
+  (IMFs) and stellar atmospheres. Our hydrodynamical + N-body simulations find a mean
+  clumping factor C H \approx{} (2.9)[(1 + z)/6]-1.1 in the photoionized, photoheated
+  filaments at z = 5-9. The critical SFR could be reduced by increasing the minimum
+  stellar mass, invoking a top-heavy IMF, or systematically increasing f esc at high
+  z. The cosmic microwave background optical depth, tau e  = 0.088 $\pm$ 0.015, could
+  be explained by full reionization, producing tau e  = 0.050 back to z rei \approx{}
+  7, augmented by Deltatau e  \approx{} 0.01-0.04 in a partially ionized IGM at z
+  > 7. In this scenario, the strongest 21 cm signal should occur at redshifted frequencies
+  124-167 MHz owing to IGM heating over an interval Deltaz \approx{} 3 in the range
+  z \approx{} 7.5-10.5.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747..100S
+author: Shull, J. M. and Harness, A. and Trenti, M. and Smith, B. D.
+author_list:
+- family: Shull
+  given: J. M.
+- family: Harness
+  given: A.
+- family: Trenti
+  given: M.
+- family: Smith
+  given: B. D.
+date-added: 2017-08-10 20:25:26 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/2/100
+eid: '100'
+journal: \apj
+keywords: 'dark ages, reionization, first stars, galaxies: high-redshift, intergalactic
+  medium'
+month: March
+pages: '100'
+papis_id: b8d993b7c4710d15a2bb08323b5d9cfe
+ref: shull.j.2012
+title: 'Critical Star Formation Rates for Reionization: Full Reionization Occurs at
+  Redshift z \ap 7'
+type: article
+volume: '747'
+year: '2012'

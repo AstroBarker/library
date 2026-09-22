@@ -1,0 +1,38 @@
+abstract: In thermonuclear supernovae, intermediate mass elements are mostly produced
+  by distributed burning provided that a deflagration to detonation transition does
+  not set in. Apart from the two-dimensional study by R{\"o}pke \& Hillebrandt (2005,
+  A\&A, 429, L29), very little attention has been payed so far to the correct treatment
+  of this burning regime in numerical simulations. In this article, the physics of
+  distributed burning is reviewed from the literature on terrestrial combustion and
+  differences which arise from the very small Prandtl numbers encountered in degenerate
+  matter are pointed out. Then it is shown that the level set method continues to
+  be applicable beyond the flamelet regime as long as the width of the flame brush
+  does not become smaller than the numerical cutoff length. Implementing this constraint
+  with a simple parameterisation of the effect of turbulence onto the energy generation
+  rate, the production of intermediate mass elements increases substantially compared
+  to previous simulations, in which the burning process was stopped once the mass
+  density dropped below 107 g cm-3. Although these results depend on the chosen numerical
+  resolution, an improvement of the constraints on the the total mass of burning products
+  in the pure deflagration scenario can be achieved.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...465..263S
+arxivurl: http://arxiv.org/abs/astro-ph/0701416
+author: Schmidt, W.
+author_list:
+- family: Schmidt
+  given: W.
+date-added: 2017-08-10 15:43:09 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20066510
+eprint: astro-ph/0701416
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, turbulence, methods: numerical'
+month: April
+pages: 263--269
+papis_id: e6e881ee4d9ec3b1f20f1b9e9d036fda
+ref: schmidt.w.2007
+title: On the applicability of the level set method beyond the flamelet regime in
+  thermonuclear supernova simulations
+type: article
+volume: '465'
+year: '2007'

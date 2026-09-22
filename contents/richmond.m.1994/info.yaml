@@ -1,0 +1,47 @@
+abstract: We present photometry of SN 1993J in M81 (NGC 3031) in the Johnson-Cousins
+  UBVRI system, starting within three days of the probable time of explosion and ending
+  120 days later. The reddening along the line of sight to this supernova is uncertain--there
+  is evidence for small (E(B-V) approximately equals 0.08 mag) and moderate (E(B-V)
+  approximately equals 0.32 mag) values. For each value, we correct the observed fluxes
+  for extinction and calculate the evolution of the sum of all optical flux, which
+  contains roughly half of the supernova's total flux during the period of observation.
+  We also fit the colors to a Planck function, and determine the temperature and total
+  luminosity of the supernova for each value of reddening. A peculiar Type II supernova,
+  SN 1993J gradually evolved spectroscopically to resemble a Type Ib in some respects.
+  We compare its boloometric evolution with that of the prototypical Type Ib SN 1983N,
+  and find the two to be similar.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994AJ....107.1022R
+author: Richmond, M. W. and Treffers, R. R. and Filippenko, A. V. and Paik, Y. and
+  Leibundgut, B. and Schulman, E. and Cox, C. V.
+author_list:
+- family: Richmond
+  given: M. W.
+- family: Treffers
+  given: R. R.
+- family: Filippenko
+  given: A. V.
+- family: Paik
+  given: Y.
+- family: Leibundgut
+  given: B.
+- family: Schulman
+  given: E.
+- family: Cox
+  given: C. V.
+date-added: 2017-08-10 23:44:15 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/116915
+journal: \aj
+keywords: Astronomical Photometry, Evolution (Development), Interstellar Extinction,
+  Light Curve, Luminous Intensity, Stellar Temperature, Supernovae, Astronomical Observatories,
+  Cassegrain Optics, Charge Coupled Devices, Data Reduction, Numerical Analysis, Optical
+  Filters, Reflecting Telescopes, Tables (Data)
+month: March
+pages: 1022--1040
+papis_id: b9a8a99e2b8c7acdfc93a368da3df1ee
+ref: richmond.m.1994
+title: 'UBVRI photometry of SN 1993J in M81: The first 120 days'
+type: article
+volume: '107'
+year: '1994'

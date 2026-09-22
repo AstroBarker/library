@@ -1,0 +1,51 @@
+abstract: 'Context.  Aims: Super magnetized neutron stars of ~1015 G, magnetars, and
+  magnetized protoneutron stars born after the magnetically-driven supernovae are
+  likely to have very strong toroidal magnetic fields.  Methods: Long-term, three-dimensional
+  general relativistic magnetohydrodynamic simulations were performed to prepare isentropic
+  neutron stars with toroidal magnetic fields in equilibrium as initial conditions.
+  To explore the effects of rotations on the stability, simulations were done for
+  both nonrotating and rigidly rotating models.  Results: We find the emergence of
+  the Parker and/or Tayler instabilities in both the nonrotating and rotating models.
+  For both nonrotating and rotating models, the Parker instability is the primary
+  instability predicted by the local linear perturbation analysis. The interchange
+  instability also appears in the rotating models. It is found that the Parker instability
+  cannot be suppressed even if the stars rotate rapidly. This finding does not agree
+  with the perturbation analysis, because rigidly and rapidly rotating stars are marginally
+  stable; therefore, in the presence of stellar pulsations that deform the rotational
+  profile, unstable regions develop with a negative gradient of the angular momentum
+  profile. After the onset of the instabilities, a turbulence is excited. In contrast
+  to the axisymmetric case, the magnetic fields never reach a state of equilibrium
+  after the the turbulence develops.  Conclusions: Isentropic neutron stars with strong
+  toroidal magnetic fields are always likely to be unstable against the Parker instability.
+  Turbulent motion is induced and maintained for a long time. This conclusion is different
+  for axisymmetric simulations and suggests that three-dimensional simulation is indispensable
+  for exploring the formation of magnetars or the prominent activities of magnetars
+  such as giant flares.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...532A..30K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.5561
+author: Kiuchi, K. and Yoshida, S. and Shibata, M.
+author_list:
+- family: Kiuchi
+  given: K.
+- family: Yoshida
+  given: S.
+- family: Shibata
+  given: M.
+date-added: 2017-08-11 07:46:12 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201016242
+eid: A30
+eprint: '1104.5561'
+journal: \aap
+keywords: 'stars: neutron, instabilities, magnetohydrodynamics, stars: magnetars'
+month: August
+pages: A30
+papis_id: e77871ab3899b6203270567101e9934f
+primaryclass: astro-ph.HE
+ref: kiuchi.k.2011
+title: Nonaxisymmetric instabilities of neutron star with toroidal magnetic fields
+type: article
+volume: '532'
+year: '2011'

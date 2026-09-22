@@ -1,0 +1,70 @@
+abstract: 'Context. In recent years, many very interesting observations have appeared
+  concerning the positions of Wolf-Rayet (WR) stars in the Hertzsprung-Russell diagram
+  (HRD), the number ratios of WR stars, the nature of Type Ibc supernova (SN) progenitors,
+  long and soft gamma ray bursts (LGRB), and the frequency of these various types
+  of explosive events. These observations represent key constraints on massive star
+  evolution.  Aims: We study, in the framework of the single-star evolutionary scenario,
+  how rotation modifies the evolution of a given initial mass star towards the WR
+  phase and how it impacts the rates of Type Ibc SNe. We also discuss the initial
+  conditions required to obtain collapsars and LGRB.  Methods: We used a recent grid
+  of stellar models computed with and without rotation to make predictions concerning
+  the WR populations and the frequency of different types of core-collapse SNe. Current
+  rotating models were checked to provide good fits to the following features: solar
+  luminosity and radius at the solar age, main-sequence width, red-giant and red-supergiant
+  (RSG) positions in the HRD, surface abundances, and rotational velocities.  Results:
+  Rotating stellar models predict that about half of the observed WR stars and at
+  least half of the Type Ibc SNe may be produced through the single-star evolution
+  channel. Rotation increases the duration of the WNL and WNC phases, while reducing
+  those of the WNE and WC phases, as was already shown in previous works. Rotation
+  increases the frequency of Type Ic SNe. The upper mass limit for Type II-P SNe is
+  ~19.0 M\&sun; for the non rotating models and ~16.8 M\&sun; for the rotating ones.
+  Both values agree with observations. Moreover, present rotating models provide a
+  very good fit to the progenitor of SN 2008ax. We discuss future directions of research
+  for further improving the agreement between the models and the observations. We
+  conclude that the mass-loss rates in the WNL and RSG phases are probably underestimated
+  at present. We show that up to an initial mass of 40 M\&sun;, a surface magnetic
+  field inferior to about 200 G may be sufficient to produce some braking. Much lower
+  values are needed at the red supergiant stage. We suggest that the presence/absence
+  of any magnetic braking effect may play a key role in questions regarding rotation
+  rates of young pulsars and the evolution leading to LGRBs.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...542A..29G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.5243
+author: Georgy, C. and Ekström, S. and Meynet, G. and Massey, P. and Levesque, E.
+  M. and Hirschi, R. and Eggenberger, P. and Maeder, A.
+author_list:
+- family: Georgy
+  given: C.
+- family: Ekström
+  given: S.
+- family: Meynet
+  given: G.
+- family: Massey
+  given: P.
+- family: Levesque
+  given: E. M.
+- family: Hirschi
+  given: R.
+- family: Eggenberger
+  given: P.
+- family: Maeder
+  given: A.
+date-added: 2017-08-10 15:11:08 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1051/0004-6361/201118340
+eid: A29
+eprint: '1203.5243'
+journal: \aap
+keywords: 'gamma-ray burst: general, stars: evolution, stars: rotation, stars: Wolf-Rayet,
+  supernovae: general'
+month: June
+pages: A29
+papis_id: 8668a08b9df7a8f412e523a08294ac08
+primaryclass: astro-ph.SR
+ref: georgy.c.2012
+title: Grids of stellar models with rotation. II. WR populations and supernovae/GRB
+  progenitors at Z = 0.014
+type: article
+volume: '542'
+year: '2012'

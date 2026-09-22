@@ -1,0 +1,45 @@
+abstract: 'The nonlinear evolution of monochromatic large-amplitude circularly polarized
+  Alfv{\''e}n waves subject to the decay instability is studied via numerical simulations
+  in one, two, and three spatial dimensions. The asymptotic value of the cross helicity
+  depends strongly on the plasma beta: in the low beta case multiple decays are observed,
+  with about half of the energy being transferred to waves propagating in the opposite
+  direction at lower wave numbers, for each saturation step. Correspondingly, the
+  other half of the total transverse energy (kinetic and magnetic) goes into energy
+  carried by the daughter compressive waves and to the associated shock heating. In
+  higher beta conditions we find instead that the cross helicity decreases monotonically
+  with time towards zero, implying an asymptotic balance between inward and outward
+  Alfv{\''e}nic modes, a feature similar to the observed decrease with distance in
+  the solar wind. Although the instability mainly takes place along the propagation
+  direction, in the two and three-dimensional case a turbulent cascade occurs also
+  transverse to the field. The asymptotic state of density fluctuations appears to
+  be rather isotropic, whereas a slight preferential cascade in the transverse direction
+  is seen in magnetic field spectra. Finally, parametric decay is shown to occur also
+  in a non-periodic domain with open boundaries, when the mother wave is continuously
+  injected from one side. In two and three dimensions a strong transverse filamentation
+  is found at long times, reminiscent of density ray-like features observed in the
+  extended solar corona and pressure-balanced structures found in solar wind data.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...367..705D
+author: Del Zanna, L. and Velli, M. and Londrillo, P.
+author_list:
+- family: Del Zanna
+  given: L.
+- family: Velli
+  given: M.
+- family: Londrillo
+  given: P.
+date-added: 2017-08-11 03:33:24 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1051/0004-6361:20000455
+journal: \aap
+keywords: 'MAGNETOHYDRODYNAMICS (MHD), WAVES, INSTABILITIES, METHODS: NUMERICAL, SUN:
+  CORONA, SOLAR WIND'
+month: February
+pages: 705--718
+papis_id: 084b2d7d140da8d6607738a0ec9d3fcb
+ref: del_zanna.l.2001
+title: 'Parametric decay of circularly polarized Alfvén waves: Multidimensional simulations
+  in periodic and open domains'
+type: article
+volume: '367'
+year: '2001'

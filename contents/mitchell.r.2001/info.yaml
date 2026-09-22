@@ -1,0 +1,49 @@
+abstract: Supernova 1987A remains the most well observed and well studied supernova
+  to date. Observations have produced excellent broadband photometric and spectroscopic
+  coverage over a wide wavelength range at all epochs. Here we focus on the very early
+  spectroscopic observations. Only recently have numerical models been of sufficient
+  detail to accurately explain the observed spectra. In SN 1987A, good agreement has
+  been found between observed and synthetic spectra for day 1, but by day 4, the predicted
+  Balmer lines become much weaker than the observed lines. We present the results
+  of work based on a radiation-hydrodynamic model by Blinnikov and collaborators.
+  Synthetic non-LTE spectra generated from this model by the general radiation transfer
+  code PHOENIX strongly support the theory that significant mixing of 56Ni into the
+  outer envelope is required to maintain strong Balmer lines. Preliminary results
+  suggest a lower limit to the average nickel mass of 1.0\texttimes{}10-5 Msolar is
+  required above 5000 km s-1 by day 4. PHOENIX models thus have the potential to be
+  a sensitive probe for nickel mixing in the outer layers of a supernova.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...556..979M
+arxivurl: http://arxiv.org/abs/astro-ph/0104148
+author: Mitchell, R. C. and Baron, E. and Branch, D. and Lundqvist, P. and Blinnikov,
+  S. and Hauschildt, P. H. and Pun, C. S. J.
+author_list:
+- family: Mitchell
+  given: R. C.
+- family: Baron
+  given: E.
+- family: Branch
+  given: D.
+- family: Lundqvist
+  given: P.
+- family: Blinnikov
+  given: S.
+- family: Hauschildt
+  given: P. H.
+- family: Pun
+  given: C. S. J.
+date-added: 2017-08-11 05:50:09 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321623
+eprint: astro-ph/0104148
+journal: \apj
+keywords: 'Line: Formation, Nuclear Reactions, Nucleosynthesis, Abundances, Radiative
+  Transfer, supernovae: individual (SN 1987A)'
+month: August
+pages: 979--986
+papis_id: 67089c32b34a7030a41b3ddd62f3ff6d
+ref: mitchell.r.2001
+title: $^56$Ni Mixing in the Outer Layers of SN 1987A
+type: article
+volume: '556'
+year: '2001'

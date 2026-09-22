@@ -1,0 +1,39 @@
+abstract: The probability density function (PDF) of the gas density in turbulent supersonic
+  flows is investigated with high-resolution numerical simulations. In a systematic
+  study, we compare the density statistics of compressible turbulence driven by the
+  usually adopted solenoidal forcing (divergence-free) and by compressive forcing
+  (curl-free). Our results are in agreement with studies using solenoidal forcing.
+  However, compressive forcing yields a significantly broader density distribution
+  with standard deviation ~3 times larger at the same rms Mach number. The standard
+  deviation-Mach number relation used in analytical models of star formation is reviewed
+  and a modification of the existing expression is proposed, which takes into account
+  the ratio of solenoidal and compressive modes of the turbulence forcing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...688L..79F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0808.0605
+author: Federrath, C. and Klessen, R. S. and Schmidt, W.
+author_list:
+- family: Federrath
+  given: C.
+- family: Klessen
+  given: R. S.
+- family: Schmidt
+  given: W.
+date-added: 2017-08-11 01:39:15 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/595280
+eid: L79
+eprint: '0808.0605'
+journal: \apjl
+keywords: 'hydrodynamics, ISM: clouds, ISM: kinematics and dynamics, ISM: structure,
+  methods: numerical, turbulence'
+month: December
+pages: L79
+papis_id: 9cebdcac6c2713ebd6c93b332e4a69f2
+ref: federrath.c.2008
+title: 'The Density Probability Distribution in Compressible Isothermal Turbulence:
+  Solenoidal versus Compressive Forcing'
+type: article
+volume: '688'
+year: '2008'

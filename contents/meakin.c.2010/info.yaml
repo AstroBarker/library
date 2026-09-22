@@ -1,0 +1,39 @@
+abstract: We investigate simulated turbulent flow within thermally driven stellar
+  convection zones. Different driving sources are studied, including cooling at the
+  top of the convectively unstable region, as occurs in surface convection zones;
+  and heating at the base by nuclear burning. The transport of enthalpy and kinetic
+  energy, and the distribution of turbulent kinetic energy dissipation are studied.
+  We emphasize the importance of global constraints on shaping the quasi-steady flow
+  characteristics, and present an analysis of turbulent convection which is posed
+  as a boundary value problem that can be easily incorporated into standard stellar
+  evolution codes for deep, efficient convection. Direct comparison is made between
+  the theoretical analysis and the simulated flow and very good agreement is found.
+  Some common assumptions traditionally used to treat quasi-steady turbulent flow
+  in stellar models are briefly discussed. The importance and proper treatment of
+  convective boundaries are indicated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010Ap\%26SS.328..221M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.4138
+author: Meakin, C. A. and Arnett, W. D.
+author_list:
+- family: Meakin
+  given: C. A.
+- family: Arnett
+  given: W. D.
+date-added: 2017-08-10 16:26:06 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1007/s10509-010-0301-6
+eprint: '1001.4138'
+journal: \apss
+keywords: 'Convection, Stars: interiors, Turbulence'
+month: July
+pages: 221--225
+papis_id: fdeee5215d2ee5195a8eff1ad92adf9d
+primaryclass: astro-ph.SR
+ref: meakin.c.2010
+title: Some properties of the kinetic energy flux and dissipation in turbulent stellar
+  convection zones
+type: article
+volume: '328'
+year: '2010'

@@ -1,0 +1,45 @@
+abstract: We consider the problem of convergence in homogeneous shearing-box simulations
+  of magneto-rotationally driven turbulence. When there is no mean magnetic flux,
+  if the equations are non-dimensionalized with respect to the diffusive scale, the
+  only free parameter in the problem is the size of the computational domain. The
+  problem of convergence then relates to the asymptotic form of the solutions as the
+  computational box size becomes large. By using a numerical code with a high order
+  of accuracy we show that the solutions become asymptotically independent of domain
+  size. We also show that cases with weak magnetic flux join smoothly to the zero-flux
+  cases as the flux vanishes. These results are consistent with the operation of a
+  subcritical small-scale dynamo driving the turbulence. We conclude that for this
+  type of turbulence the angular momentum transport is proportional to the diffusive
+  flux and therefore has limited relevance in astrophysical situations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...739...82B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.5727
+author: Bodo, G. and Cattaneo, F. and Ferrari, A. and Mignone, A. and Rossi, P.
+author_list:
+- family: Bodo
+  given: G.
+- family: Cattaneo
+  given: F.
+- family: Ferrari
+  given: A.
+- family: Mignone
+  given: A.
+- family: Rossi
+  given: P.
+date-added: 2017-08-11 02:19:08 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/739/2/82
+eid: '82'
+eprint: '1106.5727'
+journal: \apj
+keywords: 'accretion, accretion disks, dynamo, magnetohydrodynamics: MHD, turbulence'
+month: October
+pages: '82'
+papis_id: 3dd77180797be82bdb7357258b3ef318
+primaryclass: astro-ph.HE
+ref: bodo.g.2011
+title: Symmetries, Scaling Laws, and Convergence in Shearing-box Simulations of Magneto-rotational
+  Instability Driven Turbulence
+type: article
+volume: '739'
+year: '2011'

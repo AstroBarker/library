@@ -1,0 +1,49 @@
+abstract: Turbulence in protoplanetary disks affects planet formation in many ways.
+  While small dust particles are mainly affected by the aerodynamical coupling with
+  turbulent gas velocity fields, planetesimals and larger bodies are more affected
+  by gravitational interaction with gas density fluctuations. For the latter process,
+  a number of numerical simulations have been performed in recent years, but a fully
+  parameter-independent understanding has not been yet established. In this study,
+  we present simple scaling relations for the planetesimal stirring rate in turbulence
+  driven by magnetorotational instability (MRI), taking into account the stabilization
+  of MRI due to ohmic resistivity. We begin with order-of-magnitude estimates of the
+  turbulence-induced gravitational force acting on solid bodies and associated diffusion
+  coefficients for their orbital elements. We then test the predicted scaling relations
+  using the results of recent ohmic-resistive MHD simulations by Gressel et al. We
+  find that these relations successfully explain the simulation results if we properly
+  fix order-of-unity uncertainties within the estimates. We also update the saturation
+  predictor for the density fluctuation amplitude in MRI-driven turbulence originally
+  proposed by Okuzumi \& Hirose. Combination of the scaling relations and saturation
+  predictor allows us to know how the turbulent stirring rate of planetesimals depends
+  on disk parameters such as the gas column density, distance from the central star,
+  vertical resistivity distribution, and net vertical magnetic flux. In Paper II,
+  we apply our recipe to planetesimal accretion to discuss its viability in turbulent
+  disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...771...43O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.1889
+author: Okuzumi, S. and Ormel, C. W.
+author_list:
+- family: Okuzumi
+  given: S.
+- family: Ormel
+  given: C. W.
+date-added: 2017-08-10 14:48:54 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/771/1/43
+eid: '43'
+eprint: '1305.1889'
+journal: \apj
+keywords: 'dust, extinction, magnetic fields, magnetohydrodynamics: MHD, planets and
+  satellites: formation, protoplanetary disks, turbulence'
+month: July
+pages: '43'
+papis_id: 788ae9de7ae54872a07050b5507e67dc
+primaryclass: astro-ph.EP
+ref: okuzumi.s.2013
+title: The Fate of Planetesimals in Turbulent Disks with Dead Zones. I. The Turbulent
+  Stirring Recipe
+type: article
+volume: '771'
+year: '2013'

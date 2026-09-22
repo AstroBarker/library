@@ -1,0 +1,100 @@
+abstract: 'We present new observations of the early X-ray afterglows of the first
+  27 gamma-ray bursts (GRBs) well observed by the Swift X-Ray Telescope (XRT). The
+  early X-ray afterglows show a canonical behavior, where the light curve broadly
+  consists of three distinct power-law segments: (1) an initial very steep decay (~t-alpha
+  with 3<~alpha1<~5), followed by (2) a very shallow decay (0.5<~alpha2<~1.0), and
+  finally (3) a somewhat steeper decay (1<~alpha3<~1.5). These power-law segments
+  are separated by two corresponding break times, tbreak,1<~500 s and 103 s<~tbreak,2<~104
+  s. On top of this canonical behavior, many events have superimposed X-ray flares,
+  which are most likely caused by internal shocks due to long-lasting sporadic activity
+  of the central engine, up to several hours after the GRB. We find that the initial
+  steep decay is consistent with it being the tail of the prompt emission, from photons
+  that are radiated at large angles relative to our line of sight. The first break
+  in the light curve (tbreak,1) takes place when the forward shock emission becomes
+  dominant, with the intermediate shallow flux decay (alpha2) likely caused by the
+  continuous energy injection into the external shock. When this energy injection
+  stops, a second break is then observed in the light curve (tbreak,2). This energy
+  injection increases the energy of the afterglow shock by at least a factor of f>~4
+  and augments the already severe requirements for the efficiency of the prompt gamma-ray
+  emission.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...642..389N
+arxivurl: http://arxiv.org/abs/astro-ph/0508332
+author: Nousek, J. A. and Kouveliotou, C. and Grupe, D. and Page, K. L. and Granot,
+  J. and Ramirez-Ruiz, E. and Patel, S. K. and Burrows, D. N. and Mangano, V. and
+  Barthelmy, S. and Beardmore, A. P. and Campana, S. and Capalbi, M. and Chincarini,
+  G. and Cusumano, G. and Falcone, A. D. and Gehrels, N. and Giommi, P. and Goad,
+  M. R. and Godet, O. and Hurkett, C. P. and Kennea, J. A. and Moretti, A. and O'Brien,
+  P. T. and Osborne, J. P. and Romano, P. and Tagliaferri, G. and Wells, A. A.
+author_list:
+- family: Nousek
+  given: J. A.
+- family: Kouveliotou
+  given: C.
+- family: Grupe
+  given: D.
+- family: Page
+  given: K. L.
+- family: Granot
+  given: J.
+- family: Ramirez-Ruiz
+  given: E.
+- family: Patel
+  given: S. K.
+- family: Burrows
+  given: D. N.
+- family: Mangano
+  given: V.
+- family: Barthelmy
+  given: S.
+- family: Beardmore
+  given: A. P.
+- family: Campana
+  given: S.
+- family: Capalbi
+  given: M.
+- family: Chincarini
+  given: G.
+- family: Cusumano
+  given: G.
+- family: Falcone
+  given: A. D.
+- family: Gehrels
+  given: N.
+- family: Giommi
+  given: P.
+- family: Goad
+  given: M. R.
+- family: Godet
+  given: O.
+- family: Hurkett
+  given: C. P.
+- family: Kennea
+  given: J. A.
+- family: Moretti
+  given: A.
+- family: O'Brien
+  given: P. T.
+- family: Osborne
+  given: J. P.
+- family: Romano
+  given: P.
+- family: Tagliaferri
+  given: G.
+- family: Wells
+  given: A. A.
+date-added: 2017-08-11 00:36:06 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500724
+eprint: astro-ph/0508332
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal'
+month: May
+pages: 389--400
+papis_id: 746df01749fe2e0371d1e1f706fa8428
+ref: nousek.j.2006
+title: Evidence for a Canonical Gamma-Ray Burst Afterglow Light Curve in the Swift
+  XRT Data
+type: article
+volume: '642'
+year: '2006'

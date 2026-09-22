@@ -1,0 +1,77 @@
+abstract: We derive improved versions of the relations between supermassive black
+  hole mass (M BH) and host-galaxy bulge velocity dispersion (sigma) and luminosity
+  (L; the M-sigma and M-L relations), based on 49 M BH measurements and 19 upper limits.
+  Particular attention is paid to recovery of the intrinsic scatter (epsilon0) in
+  both relations. We find log(M BH/M sun) = alpha + betalog(sigma/200 km s-1) with
+  (alpha, beta, epsilon0) = (8.12 $\pm$ 0.08, 4.24 \$\pm\$ 0.41, 0.44 \$\pm\$ 0.06)
+  for all galaxies and (alpha, beta, epsilon0) = (8.23 \$\pm\$ 0.08, 3.96 \$\pm\$
+  0.42, 0.31 \$\pm\$ 0.06) for ellipticals. The results for ellipticals are consistent
+  with previous studies, but the intrinsic scatter recovered for spirals is significantly
+  larger. The scatter inferred reinforces the need for its consideration when calculating
+  local black hole mass function based on the M-sigma relation, and further implies
+  that there may be substantial selection bias in studies of the evolution of the
+  M-sigma relation. We estimate the M-L relationship as log(M BH/M sun) = alpha +
+  betalog(LV /1011 L sun,V ) of (alpha, beta, epsilon0) = (8.95 \$\pm\$ 0.11, 1.11
+  \$\pm\$ 0.18, 0.38 \$\pm\$ 0.09); using only early-type galaxies. These results
+  appear to be insensitive to a wide range of assumptions about the measurement errors
+  and the distribution of intrinsic scatter. We show that culling the sample according
+  to the resolution of the black hole's sphere of influence biases the relations to
+  larger mean masses, larger slopes, and incorrect intrinsic residuals.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698..198G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0903.4897
+author: Gültekin, K. and Richstone, D. O. and Gebhardt, K. and Lauer, T. R. and Tremaine,
+  S. and Aller, M. C. and Bender, R. and Dressler, A. and Faber, S. M. and Filippenko,
+  A. V. and Green, R. and Ho, L. C. and Kormendy, J. and Magorrian, J. and Pinkney,
+  J. and Siopis, C.
+author_list:
+- family: Gültekin
+  given: K.
+- family: Richstone
+  given: D. O.
+- family: Gebhardt
+  given: K.
+- family: Lauer
+  given: T. R.
+- family: Tremaine
+  given: S.
+- family: Aller
+  given: M. C.
+- family: Bender
+  given: R.
+- family: Dressler
+  given: A.
+- family: Faber
+  given: S. M.
+- family: Filippenko
+  given: A. V.
+- family: Green
+  given: R.
+- family: Ho
+  given: L. C.
+- family: Kormendy
+  given: J.
+- family: Magorrian
+  given: J.
+- family: Pinkney
+  given: J.
+- family: Siopis
+  given: C.
+date-added: 2017-08-11 02:01:19 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/1/198
+eprint: '0903.4897'
+journal: \apj
+keywords: 'black hole physics, galaxies: general, galaxies: nuclei, galaxies: statistics,
+  stellar dynamics'
+month: June
+pages: 198--221
+papis_id: a92071df4fdfbd22d571ce5256f63ee2
+primaryclass: astro-ph.GA
+ref: gultekin.k.2009
+title: The M-$σ$ and M-L Relations in Galactic Bulges, and Determinations of Their
+  Intrinsic Scatter
+type: article
+volume: '698'
+year: '2009'

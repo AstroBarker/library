@@ -1,0 +1,52 @@
+abstract: In the context of 2D, axisymmetric, multigroup, radiation/hydrodynamic simulations
+  of core-collapse supernovae over the full 180$\,^{\circ}$ domain, we present an
+  exploration of the progenitor dependence of the acoustic mechanism of explosion.
+  All progenitor models we have tested with our Newtonian code explode. However, some
+  of the cores left behind in our simulations, particularly for the more massive progenitors,
+  have baryon masses that are larger than the canonical ~1.5 Msolar of well-measured
+  pulsars. We investigate the roles of the standing accretion shock instability (SASI),
+  the excitation of core g-modes, the generation of core acoustic power, the ejection
+  of matter with r-process potential, the windlike character of the explosion, and
+  the fundamental anisotropy of the blasts. We find that the breaking of spherical
+  symmetry is central to the supernova phenomenon, the delays to explosion can be
+  long, and the blasts, when top-bottom asymmetric, are self-collimating. We see indications
+  that the initial explosion energies are larger for the more massive progenitors
+  and smaller for the less massive progenitors and that the neutrino contribution
+  to the explosion energy may be an increasing function of progenitor mass. However,
+  the explosion energy is still accumulating by the end of our simulations and has
+  not converged to final values. The degree of explosion asymmetry we obtain is completely
+  consistent with that inferred from the polarization measurements of Type Ic supernovae.
+  Furthermore, we calculate for the first time the magnitude and sign of the net impulse
+  on the core due to anisotropic neutrino emission and suggest that hydrodynamic and
+  neutrino recoils in the context of our asymmetric explosions afford a natural mechanism
+  for observed pulsar proper motions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...655..416B
+arxivurl: http://arxiv.org/abs/astro-ph/0610175
+author: Burrows, A. and Livne, E. and Dessart, L. and Ott, C. D. and Murphy, J.
+author_list:
+- family: Burrows
+  given: A.
+- family: Livne
+  given: E.
+- family: Dessart
+  given: L.
+- family: Ott
+  given: C. D.
+- family: Murphy
+  given: J.
+date-added: 2017-08-10 18:53:36 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/509773
+eprint: astro-ph/0610175
+journal: \apj
+keywords: 'Hydrodynamics, Neutrinos, Radiation Mechanisms: General, stars: oscillations
+  (including pulsations), Stars: Supernovae: General'
+month: January
+pages: 416--433
+papis_id: cc1f5db8c3c2e27524a3d0218ee66d39
+ref: burrows.a.2007
+title: Features of the Acoustic Mechanism of Core-Collapse Supernova Explosions
+type: article
+volume: '655'
+year: '2007'

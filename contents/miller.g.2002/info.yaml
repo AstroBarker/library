@@ -1,0 +1,42 @@
+abstract: 'A new method is presented for the explicit Eulerian finite difference computation
+  of shock capturing problems involving multiple resolved material phases in three
+  dimensions. We solve separately for each phase the equations of fluid dynamics or
+  solid mechanics, using as interface boundary conditions artificially extended representations
+  of the individual phases. For fluids we use a new 3D spatially unsplit implementation
+  of the piecewise parabolic (PPM) method of Colella and Woodward. For solids we use
+  the 3D spatially unsplit Eulerian solid mechanics method of Miller and Colella.
+  Vacuum and perfectly incompressible obstacles may also be employed as phases. A
+  separate problem is the time evolution of material interfaces, which are represented
+  by planar segments constructed with a volume-of-fluid method. The volume fractions
+  are advanced in time using a second-order 3D spatially unsplit advection routine
+  with a velocity field determined by solution of interface-normal two-phase Riemann
+  problems. From the Riemann problem solutions we also determine cross-interface momentum
+  and energy fluxes. The volume fractions in mixed cells may be arbitrarily small,
+  which would ordinarily make the Courant-Friedrichs-Lewy time step stability limit
+  arbitrarily small as well. We overcome this limitation using the mass-redistribution
+  formalism to conservatively redistribute generalized mass in the neighborhood of
+  the split cells. We present an application of this method to an explosion contained
+  in a metal can: a reactive fluid (approximating PBX 9404) is encased within an elastic-plastic
+  solid (approximating copper) surrounded by vacuum. Our implementation is in parallel,
+  and with adaptive mesh refinement.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002JCoPh.183...26M
+author: Miller, G. H. and Colella, P.
+author_list:
+- family: Miller
+  given: G. H.
+- family: Colella
+  given: P.
+date-added: 2017-08-11 20:26:19 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1006/jcph.2002.7158
+journal: Journal of Computational Physics
+month: November
+pages: 26--82
+papis_id: 7613550e8aab52f8b718d5e6859fd599
+ref: miller.g.2002
+title: A Conservative Three-Dimensional Eulerian Method for Coupled Solid-Fluid Shock
+  Capturing
+type: article
+volume: '183'
+year: '2002'

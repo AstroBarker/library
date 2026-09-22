@@ -1,0 +1,55 @@
+abstract: The aim of this paper is to provide a handy tool to compute the impact of
+  type Ia SN (SNIa) events on the evolution of stellar systems. An effective formalism
+  to couple the rate of SNIa explosions from a single burst of star formation and
+  the star formation history is presented, which rests upon the definition of the
+  realization probability of the SNIa event (AIa) and the distribution function of
+  the delay times (fIa(tau)). It is shown that the current SNIa rate in late type
+  galaxies constrains AIa to be on the order of 10-3 (i.e. 1 SNIa every 1000 M\&sun;
+  of gas turned into stars), while the comparison of the current rates in early and
+  late type galaxies implies that fIa ought to be more populated at short delays.
+  The paper presents analytical formulations for the description of the fIa function
+  for the most popular models of SNIa progenitors, namely Single Degenerates (Chandrasekhar
+  and Sub-Chandrasekhar exploders), and Double Degenerates. These formulations follow
+  entirely from general considerations on the evolutionary behavior of stars in binary
+  systems, modulo a schematization of the outcome of the phases of mass exchange,
+  and compare well with the results of population synthesis codes, for the same choice
+  of parameters. The derivation presented here offers an immediate astrophysical interpretation
+  of the shape of the fIa functions, and have a built in parametrization of the key
+  properties of the alternative candidates. The important parameters appear to be
+  the minimum and maximum masses of the components of the binary systems giving rise
+  to a SNIa explosions, the distribution of the primary mass and of the mass ratios
+  in these systems, the distribution of the separations of the DD systems at their
+  birth. The various models for the progenitors correspond to markedly different impact
+  on the large scales; correspondingly, the model for the progenitor can be constrained
+  by examining the relevant observations. Among these, the paper concentrates on the
+  trend of the current SNIa rate with parent galaxy type. The recent data by Mannucci
+  et al. (2005, A\&A, 433, 807) favor the DD channel over the SD one, which tends
+  to predict a too steep distribution function of the delay times. The SD scenario
+  can be reconciled with the observations only if the distribution of the mass ratios
+  in the primordial binaries is flat and the accretion efficiency onto the WD is close
+  to 100\%. The various models are characterized by different timescales for the Fe
+  release from a single burst stellar population. In particular the delay time within
+  which half of the SNIa events from such a population have occurred, ranges between
+  0.3 and 3 Gyr, for a wide variety of hypothesis on the progenitors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...441.1055G
+arxivurl: http://arxiv.org/abs/astro-ph/0504376
+author: Greggio, L.
+author_list:
+- family: Greggio
+  given: L.
+date-added: 2017-08-10 22:46:25 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1051/0004-6361:20052926
+eprint: astro-ph/0504376
+journal: \aap
+keywords: 'stars: binaries: close, stars: supernovae: general, galaxies: evolution,
+  galaxies: intergalactic medium, stars: white dwarfs'
+month: October
+pages: 1055--1078
+papis_id: c8a940e2a3d8ca764722a58468330811
+ref: greggio.l.2005
+title: The rates of type Ia supernovae. I. Analytical formulations
+type: article
+volume: '441'
+year: '2005'

@@ -1,0 +1,44 @@
+abstract: The radio counterparts to the IRAS Redshift Survey galaxies are identified
+  in the NRAO VLA Sky Survey (NVSS) catalog. Our new catalog of the IR flux-limited
+  (S60mum>=2 Jy) complete sample of 1809 galaxies lists accurate radio positions,
+  redshifts, and 1.4 GHz radio and IRAS fluxes. This sample is 6 times larger in size
+  and 5 times deeper in redshift coverage (to z~0.15) than those used in earlier studies
+  of the radio and far-IR (FIR) properties of galaxies in the local volume. The well-known
+  radio-FIR correlation is obeyed by the overwhelming majority (>=98\%) of the IR-selected
+  galaxies, and the radio AGNs identified by their excess radio emission constitute
+  only about 1\% of the sample, independent of the IR luminosity. These FIR-selected
+  galaxies can account for the entire population of late-type field galaxies in the
+  local volume, and their radio continuum may be used directly to infer the extinction-free
+  star formation rate in most cases. Both the 1.4 GHz radio and 60 mum IR luminosity
+  functions are reasonably well described by linear sums of two Schechter functions,
+  one representing normal, late-type field galaxies and the other representing starbursts
+  and other luminous IR galaxies. The integrated FIR luminosity density for the local
+  volume is (4.8+/-0.5)\texttimes{}107 Lsolar Mpc-3, less than 10\% of which is contributed
+  by the luminous IR galaxies with LFIR>=1011 Lsolar. The inferred extinction-free
+  star formation density for the local volume is 0.015+/-0.005 Msolar yr-1 Mpc-3.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...554..803Y
+arxivurl: http://arxiv.org/abs/astro-ph/0102154
+author: Yun, M. S. and Reddy, N. A. and Condon, J. J.
+author_list:
+- family: Yun
+  given: M. S.
+- family: Reddy
+  given: N. A.
+- family: Condon
+  given: J. J.
+date-added: 2017-08-11 03:32:09 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/323145
+eprint: astro-ph/0102154
+journal: \apj
+keywords: 'Galaxies: Active, Galaxies: Luminosity Function, Mass Function, Galaxies:
+  Starburst, Infrared: Galaxies, Radio Continuum: Galaxies, Surveys'
+month: June
+pages: 803--822
+papis_id: fe700427efd53acf6273f90531a2b6f6
+ref: yun.m.2001
+title: Radio Properties of Infrared-selected Galaxies in the IRAS 2 Jy Sample
+type: article
+volume: '554'
+year: '2001'

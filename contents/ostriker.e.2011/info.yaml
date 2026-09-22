@@ -1,0 +1,55 @@
+abstract: Star formation rates in the centers of disk galaxies often vastly exceed
+  those at larger radii, whether measured by the surface density of star formation
+  SigmaSFR, by the star formation rate per unit gas mass, SigmaSFR/Sigma, or even
+  by total output. In this paper, we investigate the idea that central starbursts
+  are self-regulated systems in which the momentum flux injected to the interstellar
+  medium (ISM) by star formation balances the gravitational force confining the ISM
+  gas in the disk. For most starbursts, supernovae are the largest contributor to
+  the momentum flux, and turbulence provides the main pressure support for the predominantly
+  molecular ISM. If the momentum feedback per stellar mass formed is  p\textasteriskcentered/m\textasteriskcentered
+  ~ 3000 km s-1, the predicted star  formation rate is SigmaSFR ~ 2piGSigma2  m\textasteriskcentered/p\textasteriskcentered
+  ~ 0.1 Msun kpc-2 yr-1(Sigma/100 Msun pc-2)2  in regions where gas dominates the
+  vertical gravity. We compare this  prediction with numerical simulations of vertically
+  resolved disks that  model star formation including feedback, finding good agreement
+  for gas  surface densities in the range Sigma ~ 102-103  Msun pc-2. We also compare
+  to a compilation of star  formation rates and gas contents from local and high-redshift
+  galaxies  (both mergers and normal galaxies), finding good agreement provided that  the
+  conversion factor X CO from integrated CO emission to  H2 surface density decreases
+  modestly as Sigma and  SigmaSFR increase. Star formation rates in dense, turbulent  gas
+  are also expected to depend on the gravitational free-fall time  at the corresponding
+  mean ISM density rho0 if the star  formation efficiency per free-fall time is  \ensuremath{\epsilon}ff(rho0)
+  ~ 0.01, the turbulent velocity  dispersion driven by feedback is expected to be
+  vz = 0.4  \ensuremath{\epsilon}ff(rho0)p\textasteriskcentered/m\textasteriskcentered
+  ~ 10  km s-1, relatively independent of Sigma or SigmaSFR. Turbulence-regulated
+  starbursts (controlled by kinetic momentum feedback) are  part of the larger scheme
+  of self-regulation; primarily atomic low-Sigma  outer disks may have star formation
+  regulated by ultraviolet heating feedback, whereas regions at extremely high Sigma
+  may be regulated by feedback of stellar radiation that is reprocessed into trapped
+  infrared.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...731...41O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.1446
+author: Ostriker, E. C. and Shetty, R.
+author_list:
+- family: Ostriker
+  given: E. C.
+- family: Shetty
+  given: R.
+date-added: 2017-08-10 20:06:49 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/731/1/41
+eid: '41'
+eprint: '1102.1446'
+journal: \apj
+keywords: 'galaxies: ISM, galaxies: kinematics and dynamics, galaxies: starburst,
+  galaxies: star formation, ISM: structure, turbulence'
+month: April
+pages: '41'
+papis_id: 5e7c0cc537fdc1465f141dca213fc002
+ref: ostriker.e.2011
+title: Maximally Star-forming Galactic Disks. I. Starburst Regulation Via Feedback-driven
+  Turbulence
+type: article
+volume: '731'
+year: '2011'

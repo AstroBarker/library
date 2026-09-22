@@ -1,0 +1,65 @@
+abstract: The physical properties inferred from the spectral energy distributions
+  (SEDs) of z > 3 galaxies have been influential in shaping our understanding of early
+  galaxy formation and the role galaxies may play in cosmic reionization. Of particular
+  importance is the stellar mass density at early times, which represents the integral
+  of earlier star formation. An important puzzle arising from the measurements so
+  far reported is that the specific star formation rates (sSFRs) evolve far less rapidly
+  than expected in most theoretical models. Yet the observations underpinning these
+  results remain very uncertain, owing in part to the possible contamination of rest-optical
+  broadband light from strong nebular emission lines. To quantify the contribution
+  of nebular emission to broadband fluxes, we investigate the SEDs of 92 spectroscopically
+  confirmed galaxies in the redshift range 3.8 < z < 5.0 chosen because the Halpha
+  line lies within the Spitzer/IRAC 3.6 mum filter. We demonstrate that the 3.6 mum
+  flux is systematically in excess of that expected from stellar continuum alone,
+  which we derive by fitting the SED with population synthesis models. No such excess
+  is seen in a control sample of spectroscopically confirmed galaxies with 3.1 < z
+  < 3.6 in which there is no nebular contamination in the IRAC filters. From the distribution
+  of our 3.6 mum flux excesses, we derive an Halpha equivalent width distribution
+  and consider the implications for both the derived stellar masses and the sSFR evolution.
+  The mean rest-frame Halpha equivalent width we infer at 3.8 < z < 5.0 (270 {\AA})
+  indicates that nebular emission contributes at least 30\% of the 3.6 mum flux and,
+  by implication, nebular emission is likely to have a much greater impact for galaxies
+  with z ~= 6-7 where both warm IRAC filters are contaminated. Via our empirically
+  derived equivalent width distribution, we correct the available stellar mass densities
+  and show that the sSFR evolves more rapidly at z > 4 than previously thought, supporting
+  up to a 5\texttimes{} increase between z ~= 2 and 7. Such a trend is much closer
+  to theoretical expectations. Given our findings, we discuss the prospects for verifying
+  quantitatively the nebular emission line strengths prior to the launch of the James
+  Webb Space Telescope.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...763..129S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.3529
+author: Stark, D. P. and Schenker, M. A. and Ellis, R. and Robertson, B. and McLure,
+  R. and Dunlop, J.
+author_list:
+- family: Stark
+  given: D. P.
+- family: Schenker
+  given: M. A.
+- family: Ellis
+  given: R.
+- family: Robertson
+  given: B.
+- family: McLure
+  given: R.
+- family: Dunlop
+  given: J.
+date-added: 2017-08-10 20:24:29 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/763/2/129
+eid: '129'
+eprint: '1208.3529'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: formation, galaxies: high-redshift, galaxies:
+  starburst, surveys, ultraviolet: galaxies'
+month: February
+pages: '129'
+papis_id: 0e55bbd09e81a1bf5e6698d69d4df040
+ref: stark.d.2013
+title: 'Keck Spectroscopy of 3 $łt$ z \$łt\$ 7 Faint Lyman Break Galaxies: The Importance
+  of Nebular Emission in Understanding the Specific Star Formation Rate and Stellar
+  Mass Density'
+type: article
+volume: '763'
+year: '2013'

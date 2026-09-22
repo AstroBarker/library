@@ -1,0 +1,69 @@
+abstract: It is demonstrated that strong magnetic fields are produced from a zero
+  initial magnetic field during the pregalactic era, when the galaxy is first forming.
+  Their development proceeds in three phases. In the first phase, weak magnetic fields
+  are created by the Biermann battery mechanism. During the second phase, results
+  from a numerical simulation make it appear likely that homogenous isotropic Kolmogorov
+  turbulence develops that is associated with gravitational structure formation of
+  galaxies. Assuming that this turbulence is real, then these weak magnetic fields
+  will be amplified to strong magnetic fields by this Kolmogorov turbulence. During
+  this second phase, the magnetic fields reach saturation with the turbulent power,
+  but they are coherent only on the scale of the smallest eddy. During the third phase,
+  which follows this saturation, it is expected that the magnetic field strength will
+  increase to equipartition with the turbulent energy and that the coherence length
+  of the magnetic fields will increase to the scale of the largest turbulent eddy,
+  comparable to the scale of the entire galaxy. The resulting magnetic field represents
+  a galactic magnetic field of primordial origin. No further dynamo action after the
+  galaxy forms is necessary to explain the origin of magnetic fields. However, the
+  magnetic field will certainly be altered by dynamo action once the galaxy and the
+  galactic disk have formed.  It is first shown by direct numerical simulations that
+  thermoelectric currents associated with the Biermann battery build the field up
+  from zero to 10-21 G in the regions about to collapse into galaxies, by z ~ 3. For
+  weak fields, in the absence of dissipation, the cyclotron frequency -\&b.omega;cyc
+  = eB/mH c and \&b.omega;/(1 + chi), where \&b.nabla;Xv is the vorticity and chi
+  is the degree of ionization, satisfy the same equations, and initial conditions
+  \&b.omega;cyc = \&b.omega; = 0, so that, globally, -\&b.omega;cyc(r, t) = \&b.omega;(r,
+  t)/(1 + chi). The vorticity grows rapidly after caustics (extreme nonlinearities)
+  develop in the cosmic fluid. At this time, it is made plausible that turbulence
+  has developed into Kolmogorov turbulence. Numerical simulations do not yet have
+  the resolution to demonstrate that, during the second phase, the magnetic fields
+  are amplified by the dynamo action of the turbulence. Instead, an analytic theory
+  of the turbulent amplification of magnetic fields is employed to explore this phase
+  of the magnetic field development. From this theory, it is shown that, assuming
+  the turbulence is really Kolmogorov turbulence, the dynamo action of this protogalactic
+  turbulence is able to amplify the magnetic fields by such a large factor during
+  the collapse of the protogalaxy that the power into the magnetic field must reach
+  saturation with the turbulent power. For the third phase, there is as yet no analytic
+  theory capable of describing this phase. However, preliminary turbulence calculations
+  currently in progress seem to confirm that the magnetic fields may proceed to equipartition
+  with the turbulent energy, and that the coherence length may increase to the largest
+  scales. Simple physical arguments are presented that show that this may be the case.
+  Such an equipartition field is actually too strong to allow immediate collapse to
+  a disk. Possible ways around this difficulty are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...480..481K
+arxivurl: http://arxiv.org/abs/astro-ph/9607141
+author: Kulsrud, R. M. and Cen, R. and Ostriker, J. P. and Ryu, D.
+author_list:
+- family: Kulsrud
+  given: R. M.
+- family: Cen
+  given: R.
+- family: Ostriker
+  given: J. P.
+- family: Ryu
+  given: D.
+date-added: 2017-08-11 05:10:25 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303987
+eprint: astro-ph/9607141
+journal: \apj
+keywords: 'Galaxies: Evolution, ISM: Magnetic Fields, Methods: Numerical, Magnetohydrodynamics:
+  MHD, Turbulence'
+month: May
+pages: 481--491
+papis_id: 7e828b40708d480093b9beef0797822b
+ref: kulsrud.r.1997
+title: The Protogalactic Origin for Cosmic Magnetic Fields
+type: article
+volume: '480'
+year: '1997'

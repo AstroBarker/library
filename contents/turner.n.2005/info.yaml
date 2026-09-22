@@ -1,0 +1,55 @@
+abstract: We examine the effects of photon bubble instability in radiation-dominated
+  accretion disks such as those found around black holes in active galactic nuclei
+  and X-ray binary star systems. Two- and three-dimensional numerical radiation MHD
+  calculations of small patches of disk are used. Modes with wavelengths shorter than
+  the gas pressure scale height grow faster than the orbital frequency in the disk
+  surface layers. The fastest growth rate observed is 5 times the orbital frequency
+  and occurs on nearly vertical magnetic fields. The spectrum of linear modes is in
+  good agreement with a WKB analysis that indicates still faster growth at unresolved
+  scales, with a maximum growth rate proportional to the gravitational acceleration
+  and inversely proportional to the gas sound speed. Disturbances reaching nonlinear
+  amplitudes steepen into trains of shocks similar to a one-dimensional periodic nonlinear
+  analytic solution. Variations in propagation speed result in merging of adjacent
+  fronts, and over time the shock spacing and amplitude increase. Growth is limited
+  by the strength of the magnetic field. The shock train structure is disrupted when
+  the ram pressure of the disturbances exceeds the magnetic pressure. The maximum
+  horizontal density variations are comparable to the ratio of magnetic to gas pressure
+  and in our calculations exceed 100. Under the conditions considered, radiation diffuses
+  through the inhomogeneneous flow 5 times faster than through the initial hydrostatic
+  equilibrium, and the net cooling rate is several times greater than in a similar
+  calculation without magnetic fields that shows the effects of convection. These
+  results indicate that photon bubbles may be important in cooling radiation-dominated
+  accretion disks. The Shaviv type I global instability grows faster than the orbital
+  frequency in calculations of the disk surface layers with lower boundaries of fixed
+  temperature, but is weak or absent in calculations spanning the disk thickness.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...624..267T
+arxivurl: http://arxiv.org/abs/astro-ph/0501198
+author: Turner, N. J. and Blaes, O. M. and Socrates, A. and Begelman, M. C. and Davis,
+  S. W.
+author_list:
+- family: Turner
+  given: N. J.
+- family: Blaes
+  given: O. M.
+- family: Socrates
+  given: A.
+- family: Begelman
+  given: M. C.
+- family: Davis
+  given: S. W.
+date-added: 2017-08-11 00:47:25 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428723
+eprint: astro-ph/0501198
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Instabilities, Magnetohydrodynamics: MHD, Radiative
+  Transfer'
+month: May
+pages: 267--288
+papis_id: 1fd6bf3a01c9e6fc5d19993a247e94f2
+ref: turner.n.2005
+title: The Effects of Photon Bubble Instability in Radiation-dominated Accretion Disks
+type: article
+volume: '624'
+year: '2005'

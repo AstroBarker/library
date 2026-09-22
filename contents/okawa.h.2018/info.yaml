@@ -1,0 +1,46 @@
+abstract: 'We propose a new class of method for solving nonlinear systems of equations,
+  which, among other things,has four nice features: (i) it is inspired by the mathematical
+  property of damped oscillators, (ii) it can be regarded as a simple extention to
+  the Newton-Raphson(NR) method, (iii) it has the same local convergence as the NR
+  method does, (iv) it has a significantly wider convergence region or the global
+  convergence than that of the NR method. In this article, we present the evidence
+  of these properties, applying our new method to some examples and comparing it with
+  the NR method.'
+adscomment: 17 pages, 7 figures
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180904495O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1809.04495
+author: Okawa, H. and Fujisawa, K. and Yamamoto, Y. and Hirai, R. and Yasutake, N.
+  and Nagakura, H. and Yamada, S.
+author_list:
+- family: Okawa
+  given: H.
+- family: Fujisawa
+  given: K.
+- family: Yamamoto
+  given: Y.
+- family: Hirai
+  given: R.
+- family: Yasutake
+  given: N.
+- family: Nagakura
+  given: H.
+- family: Yamada
+  given: S.
+date-added: 2018-09-13 12:44:40 -0400
+date-modified: 2018-09-13 12:44:43 -0400
+eprint: '1809.04495'
+groups: Numerical Methods - General
+journal: ArXiv e-prints
+keywords: Computer Science - Numerical Analysis, Astrophysics - Instrumentation and
+  Methods for Astrophysics, General Relativity and Quantum Cosmology, Mathematics
+  - Numerical Analysis, Nonlinear Sciences - Chaotic Dynamics
+month: September
+papis_id: 720fe39e5acf51622630989543531d95
+primaryclass: cs.NA
+ref: okawa.h.2018
+title: 'The W4 method: a new multi-dimensional root-finding scheme for nonlinear systems
+  of equations'
+type: article
+year: '2018'

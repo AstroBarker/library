@@ -1,0 +1,55 @@
+abstract: Black hole-neutron star (BHNS) binaries are important sources of gravitational
+  waves for second-generation interferometers, and BHNS mergers are also a proposed
+  engine for short, hard gamma-ray bursts. The behavior of both the spacetime (and
+  thus the emitted gravitational waves) and the neutron-star matter in a BHNS merger
+  depend strongly and nonlinearly on the black hole's spin. While there is a significant
+  possibility that astrophysical black holes could have spins that are nearly extremal
+  (i.e. near the theoretical maximum), to date fully relativistic simulations of BHNS
+  binaries have included black-hole spins only up to S/M2 = 0.9, which corresponds
+  to the black hole having approximately half as much rotational energy as possible,
+  given the black hole's mass. In this paper, we present a new simulation of a BHNS
+  binary with a mass ratio q = 3 and black-hole spin S/M2 = 0.97, the highest simulated
+  to date. We find that the black hole's large spin leads to the most massive accretion
+  disc and the largest tidal tail outflow of any fully relativistic BHNS simulations
+  to date, even exceeding the results implied by extrapolating results from simulations
+  with lower black-hole spin. The disc appears to be remarkably stable. We also find
+  that the high black-hole spin persists until shortly before the time of merger;
+  afterward, both merger and accretion spin down the black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013CQGra..30m5004L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.6297
+author: Lovelace, G. and Duez, M. D. and Foucart, F. and Kidder, L. E. and Pfeiffer,
+  H. P. and Scheel, M. A. and Szilágyi, B.
+author_list:
+- family: Lovelace
+  given: G.
+- family: Duez
+  given: M. D.
+- family: Foucart
+  given: F.
+- family: Kidder
+  given: L. E.
+- family: Pfeiffer
+  given: H. P.
+- family: Scheel
+  given: M. A.
+- family: Szilágyi
+  given: B.
+date-added: 2017-08-10 15:50:09 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0264-9381/30/13/135004
+eid: '135004'
+eprint: '1302.6297'
+journal: Classical and Quantum Gravity
+month: July
+number: '13'
+pages: '135004'
+papis_id: d3a1ab4c6d6c2b8c9039a07014b46dac
+primaryclass: gr-qc
+ref: lovelace.g.2013
+title: Massive disc formation in the tidal disruption of a neutron star by a nearly
+  extremal black hole
+type: article
+volume: '30'
+year: '2013'

@@ -1,0 +1,41 @@
+abstract: With the aim of determining the statistical properties of relativistic turbulence
+  and unveiling novel and non-classical features, we present the results of direct
+  numerical simulations of driven turbulence in an ultrarelativistic hot plasma using
+  high-order numerical schemes. We study the statistical properties of flows with
+  average Mach numbers ranging from ~0.4 to ~1.7 and with average Lorentz factors
+  up to ~1.7. We find that flow quantities, such as the energy density or the local
+  Lorentz factor, show large spatial variance even in the subsonic case as compressibility
+  is enhanced by relativistic effects. The velocity field is highly intermittent,
+  but its power spectrum is found to be in good agreement with the predictions of
+  the classical theory of Kolmogorov. Overall, our results indicate that relativistic
+  effects are able to significantly enhance the intermittency of the flow and affect
+  the high-order statistics of the velocity field, while leaving unchanged the low-order
+  statistics, which instead appear to be universal and in good agreement with the
+  classical Kolmogorov theory. To the best of our knowledge, these are the most accurate
+  simulations of driven relativistic turbulence to date.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...766L..10R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2936
+author: Radice, D. and Rezzolla, L.
+author_list:
+- family: Radice
+  given: D.
+- family: Rezzolla
+  given: L.
+date-added: 2017-08-10 22:13:31 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/2041-8205/766/1/L10
+eid: L10
+eprint: '1209.2936'
+journal: \apjl
+keywords: 'methods: numerical, turbulence'
+month: March
+pages: L10
+papis_id: 2cf23bca22849ba678fcc4b460c8c12a
+primaryclass: astro-ph.HE
+ref: radice.d.2013a
+title: Universality and Intermittency in Relativistic Turbulent Flows of a Hot Plasma
+type: article
+volume: '766'
+year: '2013'

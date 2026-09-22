@@ -1,0 +1,93 @@
+abstract: The Hectospec is a 300 optical fiber fed spectrograph commissioned at the
+  MMT in the spring of 2004. In the configuration pioneered by the Autofib instrument
+  at the Anglo-Australian Telescope, Hectospec's fiber probes are arranged in a radial
+  ``fisherman on the pond'' geometry and held in position with small magnets. A pair
+  of high-speed, six-axis robots move the 300 fiber buttons between observing configurations
+  within ~300 s, and to an accuracy of ~25 mum. The optical fibers run for 26 m between
+  the MMT's focal surface and the bench spectrograph, operating at R~1000-2000. Hectochelle,
+  another high-dispersion bench spectrograph offering R~35,000, is also available.
+  The system throughput, including all losses in the telescope optics, fibers, and
+  spectrograph, peaks at ~10\% at the grating blaze in 1" FWHM seeing. Correcting
+  for aperture losses at the 1.5" diameter fiber entrance aperture, the system throughput
+  peaks at ~17\%, close to our prediction of 20\%. Hectospec has proven to be a workhorse
+  instrument at the MMT. Together, Hectospec and Hectochelle have been scheduled for
+  1/3 of the available nights since its commissioning. Hectospec has returned approximately
+  60,000 reduced spectra for 16 scientific programs during its first year of operation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005PASP..117.1411F
+arxivurl: http://arxiv.org/abs/astro-ph/0508554
+author: Fabricant, D. and Fata, R. and Roll, J. and Hertz, E. and Caldwell, N. and
+  Gauron, T. and Geary, J. and McLeod, B. and Szentgyorgyi, A. and Zajac, J. and Kurtz,
+  M. and Barberis, J. and Bergner, H. and Brown, W. and Conroy, M. and Eng, R. and
+  Geller, M. and Goddard, R. and Honsa, M. and Mueller, M. and Mink, D. and Ordway,
+  M. and Tokarz, S. and Woods, D. and Wyatt, W. and Epps, H. and Dell'Antonio, I.
+author_list:
+- family: Fabricant
+  given: D.
+- family: Fata
+  given: R.
+- family: Roll
+  given: J.
+- family: Hertz
+  given: E.
+- family: Caldwell
+  given: N.
+- family: Gauron
+  given: T.
+- family: Geary
+  given: J.
+- family: McLeod
+  given: B.
+- family: Szentgyorgyi
+  given: A.
+- family: Zajac
+  given: J.
+- family: Kurtz
+  given: M.
+- family: Barberis
+  given: J.
+- family: Bergner
+  given: H.
+- family: Brown
+  given: W.
+- family: Conroy
+  given: M.
+- family: Eng
+  given: R.
+- family: Geller
+  given: M.
+- family: Goddard
+  given: R.
+- family: Honsa
+  given: M.
+- family: Mueller
+  given: M.
+- family: Mink
+  given: D.
+- family: Ordway
+  given: M.
+- family: Tokarz
+  given: S.
+- family: Woods
+  given: D.
+- family: Wyatt
+  given: W.
+- family: Epps
+  given: H.
+- family: Dell'Antonio
+  given: I.
+date-added: 2017-08-11 08:18:28 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/497385
+eprint: astro-ph/0508554
+journal: \pasp
+keywords: 'Instrumentation: Spectrographs, Techniques: Spectroscopic, Methods: Data
+  Analysis'
+month: December
+pages: 1411--1434
+papis_id: 5f4a4ce641b9cd186b9c94106d5d08b4
+ref: fabricant.d.2005
+title: Hectospec, the MMT's 300 Optical Fiber-Fed Spectrograph
+type: article
+volume: '117'
+year: '2005'

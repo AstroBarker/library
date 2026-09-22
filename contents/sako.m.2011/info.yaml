@@ -1,0 +1,73 @@
+abstract: We analyze the three-year Sloan Digital Sky Survey II (SDSS-II) Supernova
+  (SN) Survey data and identify a sample of 1070 photometric Type Ia supernova (SN
+  Ia) candidates based on their multiband light curve data. This sample consists of
+  SN candidates with no spectroscopic confirmation, with a subset of 210 candidates
+  having spectroscopic redshifts of their host galaxies measured while the remaining
+  860 candidates are purely photometric in their identification. We describe a method
+  for estimating the efficiency and purity of photometric SN Ia classification when
+  spectroscopic confirmation of only a limited sample is available, and demonstrate
+  that SN Ia candidates from SDSS-II can be identified photometrically with ~91\%
+  efficiency and with a contamination of ~6\%. Although this is the largest uniform
+  sample of SN candidates to date for studying photometric identification, we find
+  that a larger spectroscopic sample of contaminating sources is required to obtain
+  a better characterization of the background events. A Hubble diagram using SN candidates
+  with no spectroscopic confirmation, but with host galaxy spectroscopic redshifts,
+  yields a distance modulus dispersion that is only ~20\%-40\% larger than that of
+  the spectroscopically confirmed SN Ia sample alone with no significant bias. A Hubble
+  diagram with purely photometric classification and redshift-distance measurements,
+  however, exhibits biases that require further investigation for precision cosmology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738..162S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.5106
+author: Sako, M. and Bassett, B. and Connolly, B. and Dilday, B. and Cambell, H. and
+  Frieman, J. A. and Gladney, L. and Kessler, R. and Lampeitl, H. and Marriner, J.
+  and Miquel, R. and Nichol, R. C. and Schneider, D. P. and Smith, M. and Sollerman,
+  J.
+author_list:
+- family: Sako
+  given: M.
+- family: Bassett
+  given: B.
+- family: Connolly
+  given: B.
+- family: Dilday
+  given: B.
+- family: Cambell
+  given: H.
+- family: Frieman
+  given: J. A.
+- family: Gladney
+  given: L.
+- family: Kessler
+  given: R.
+- family: Lampeitl
+  given: H.
+- family: Marriner
+  given: J.
+- family: Miquel
+  given: R.
+- family: Nichol
+  given: R. C.
+- family: Schneider
+  given: D. P.
+- family: Smith
+  given: M.
+- family: Sollerman
+  given: J.
+date-added: 2017-08-10 17:19:47 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/2/162
+eid: '162'
+eprint: '1107.5106'
+journal: \apj
+keywords: 'cosmology: observations, supernovae: general, surveys'
+month: September
+pages: '162'
+papis_id: fa05e74a13667a9c5d1fc5c382106642
+ref: sako.m.2011
+title: Photometric Type Ia Supernova Candidates from the Three-year SDSS-II SN Survey
+  Data
+type: article
+volume: '738'
+year: '2011'

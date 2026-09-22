@@ -1,0 +1,85 @@
+abstract: We present an analysis of the host galaxy dependences of Type Ia Supernovae
+  (SNe Ia) from the full three year sample of the SDSS-II Supernova Survey. We re-discover,
+  to high significance, the strong correlation between host galaxy type and the width
+  of the observed SN light curve, i.e., fainter, quickly declining SNe Ia favor passive
+  host galaxies, while brighter, slowly declining Ia's favor star-forming galaxies.
+  We also find evidence (at between 2sigma and 3sigma) that SNe Ia are sime0.1 $\pm$
+  0.04 mag brighter in passive host galaxies than in star-forming hosts, after the
+  SN Ia light curves have been standardized using the light-curve shape and color
+  variations. This difference in brightness is present in both the SALT2 and MCLS2k2
+  light-curve fitting methodologies. We see evidence for differences in the SN Ia
+  color relationship between passive and star-forming host galaxies, e.g., for the
+  MLCS2k2 technique, we see that SNe Ia in passive hosts favor a dust law of RV =
+  1.0 \$\pm\$ 0.2, while SNe Ia in star-forming hosts require RV = 1.8+0.2 -0.4. The
+  significance of these trends depends on the range of SN colors considered. We demonstrate
+  that these effects can be parameterized using the stellar mass of the host galaxy
+  (with a confidence of >4sigma) and including this extra parameter provides a better
+  statistical fit to our data. Our results suggest that future cosmological analyses
+  of SN Ia samples should include host galaxy information.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722..566L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.4687
+author: Lampeitl, H. and Smith, M. and Nichol, R. C. and Bassett, B. and Cinabro,
+  D. and Dilday, B. and Foley, R. J. and Frieman, J. A. and Garnavich, P. M. and Goobar,
+  A. and Im, M. and Jha, S. W. and Marriner, J. and Miquel, R. and Nordin, J. and
+  Östman, L. and Riess, A. G. and Sako, M. and Schneider, D. P. and Sollerman, J.
+  and Stritzinger, M.
+author_list:
+- family: Lampeitl
+  given: H.
+- family: Smith
+  given: M.
+- family: Nichol
+  given: R. C.
+- family: Bassett
+  given: B.
+- family: Cinabro
+  given: D.
+- family: Dilday
+  given: B.
+- family: Foley
+  given: R. J.
+- family: Frieman
+  given: J. A.
+- family: Garnavich
+  given: P. M.
+- family: Goobar
+  given: A.
+- family: Im
+  given: M.
+- family: Jha
+  given: S. W.
+- family: Marriner
+  given: J.
+- family: Miquel
+  given: R.
+- family: Nordin
+  given: J.
+- family: Östman
+  given: L.
+- family: Riess
+  given: A. G.
+- family: Sako
+  given: M.
+- family: Schneider
+  given: D. P.
+- family: Sollerman
+  given: J.
+- family: Stritzinger
+  given: M.
+date-added: 2017-08-11 01:16:43 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/1/566
+eprint: '1005.4687'
+journal: \apj
+keywords: 'distance scale, galaxies: fundamental parameters, supernovae: general'
+month: October
+pages: 566--576
+papis_id: 59170a7e3bba4b1ffad6345e0075da71
+ref: lampeitl.h.2010
+title: The Effect of Host Galaxies on Type Ia Supernovae in the SDSS-II Supernova
+  Survey
+type: article
+volume: '722'
+year: '2010'

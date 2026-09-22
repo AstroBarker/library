@@ -1,0 +1,78 @@
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: https://ui.adsabs.harvard.edu/abs/2020Natur.585..357H
+archiveprefix: arXiv
+author: Harris, Charles R. and Millman, K. Jarrod and van der Walt, Stéfan J. and
+  Gommers, Ralf and Virtanen, Pauli and Cournapeau, David and Wieser, Eric and Taylor,
+  Julian and Berg, Sebastian and Smith, Nathaniel J. and Kern, Robert and Picus, Matti
+  and Hoyer, Stephan and van Kerkwijk, Marten H. and Brett, Matthew and Haldane, Allan
+  and del Rı́o, Jaime Fernández and Wiebe, Mark and Peterson, Pearu and Gérard-Marchant,
+  Pierre and Sheppard, Kevin and Reddy, Tyler and Weckesser, Warren and Abbasi, Hameer
+  and Gohlke, Christoph and Oliphant, Travis E.
+author_list:
+- family: Harris
+  given: Charles R.
+- family: Millman
+  given: K. Jarrod
+- family: van der Walt
+  given: Stéfan J.
+- family: Gommers
+  given: Ralf
+- family: Virtanen
+  given: Pauli
+- family: Cournapeau
+  given: David
+- family: Wieser
+  given: Eric
+- family: Taylor
+  given: Julian
+- family: Berg
+  given: Sebastian
+- family: Smith
+  given: Nathaniel J.
+- family: Kern
+  given: Robert
+- family: Picus
+  given: Matti
+- family: Hoyer
+  given: Stephan
+- family: van Kerkwijk
+  given: Marten H.
+- family: Brett
+  given: Matthew
+- family: Haldane
+  given: Allan
+- family: del Rı́o
+  given: Jaime Fernández
+- family: Wiebe
+  given: Mark
+- family: Peterson
+  given: Pearu
+- family: Gérard-Marchant
+  given: Pierre
+- family: Sheppard
+  given: Kevin
+- family: Reddy
+  given: Tyler
+- family: Weckesser
+  given: Warren
+- family: Abbasi
+  given: Hameer
+- family: Gohlke
+  given: Christoph
+- family: Oliphant
+  given: Travis E.
+doi: 10.1038/s41586-020-2649-2
+eprint: '2006.10256'
+groups: Code/Software
+journal: \nat
+keywords: Computer Science - Mathematical Software, Statistics - Computation
+month: September
+number: '7825'
+pages: 357--362
+papis_id: 75c813f490e7ab0454460cd1e8fc1fb6
+primaryclass: cs.MS
+ref: harris.charles.2020
+title: Array programming with NumPy
+type: article
+volume: '585'
+year: '2020'

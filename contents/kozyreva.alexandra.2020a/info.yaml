@@ -1,0 +1,41 @@
+abstract: 'We systematically explore the effect of the treatment of line opacity on         supernova
+  light curves. We find that it is important to consider         line opacity for
+  both scattering and absorption (i.e.         thermalization, which mimics the effect
+  of fluorescence). We         explore the impact of the degree of thermalization
+  on three         major types of supernovae: Type Ia, Type II-peculiar, and Type         II-plateau.
+  For this we use the radiative transfer code STELLA         and analyse broad-band
+  light curves in the context of         simulations done with the spectral synthesis
+  code ARTIS and in         the context of a few examples of observed supernovae of
+  each         type. We found that the plausible range for the ratio between         absorption
+  and scattering in the radiation hydrodynamics code         STELLA is (0.8-1):(0.2-0),
+  i.e. the recommended thermalization         parameter is 0.9.'
+archiveprefix: arXiv
+author: Kozyreva, Alexandra and Shingles, Luke and Mironov, Alexey and Baklanov, Petr
+  and Blinnikov, Sergey
+author_list:
+- family: Kozyreva
+  given: Alexandra
+- family: Shingles
+  given: Luke
+- family: Mironov
+  given: Alexey
+- family: Baklanov
+  given: Petr
+- family: Blinnikov
+  given: Sergey
+doi: 10.1093/mnras/staa2704
+eprint: '2009.01566'
+journal: \mnras
+keywords: 'radiative transfer, stars: massive, supernovae: general, supernovae, Astrophysics
+  - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics'
+month: December
+number: '3'
+pages: 4312--4324
+papis_id: 49872ad2eaa623dc82985e95deeee6e0
+primaryclass: astro-ph.HE
+ref: kozyreva.alexandra.2020a
+title: The influence of line opacity treatment in STELLA on supernova light curves
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4312K
+volume: '499'
+year: '2020'

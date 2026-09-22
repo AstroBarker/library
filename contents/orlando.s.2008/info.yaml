@@ -1,0 +1,53 @@
+abstract: We explore the importance of magnetic-field-oriented thermal conduction
+  in the interaction of supernova remnant (SNR) shocks with radiative gas clouds and
+  in determining the mass and energy exchange between the clouds and the hot surrounding
+  medium. We perform 2.5-dimensional MHD simulations of a shock impacting on an isolated
+  gas cloud, including anisotropic thermal conduction and radiative cooling; we consider
+  the representative case of a Mach 50 shock impacting on a cloud 10 times denser
+  than the ambient medium. We consider different configurations of the ambient magnetic
+  field and compare MHD models with or without thermal conduction. The efficiency
+  of thermal conduction in the presence of a magnetic field is, in general, reduced
+  with respect to the unmagnetized case. The reduction factor strongly depends on
+  the initial magnetic field orientation, and it is at a minimum when the magnetic
+  field is initially aligned with the direction of the shock propagation. Thermal
+  conduction contributes to the suppression of hydrodynamic instabilities, reducing
+  the mass mixing of the cloud and preserving the cloud from complete fragmentation.
+  Depending on the magnetic field orientation, the heat conduction may determine a
+  significant energy exchange between the cloud and the hot surrounding medium which,
+  while remaining always at levels less than those in the unmagnetized case, leads
+  to a progressive heating and evaporation of the cloud. This additional heating may
+  offset the radiative cooling of some parts of the cloud, preventing the onset of
+  thermal instabilities.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...678..274O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.1403
+author: Orlando, S. and Bocchino, F. and Reale, F. and Peres, G. and Pagano, P.
+author_list:
+- family: Orlando
+  given: S.
+- family: Bocchino
+  given: F.
+- family: Reale
+  given: F.
+- family: Peres
+  given: G.
+- family: Pagano
+  given: P.
+date-added: 2017-08-10 23:46:16 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/529420
+eid: 274-286
+eprint: '0801.1403'
+journal: \apj
+keywords: 'conduction, ISM: clouds, ISM: magnetic fields, MHD, shock waves, supernova
+  remnants'
+month: May
+pages: 274--286
+papis_id: 7140c98bde4210bdfcbbd2d19c1c5541
+ref: orlando.s.2008
+title: The Importance of Magnetic-Field-Oriented Thermal Conduction in the Interaction
+  of SNR Shocks with Interstellar Clouds
+type: article
+volume: '678'
+year: '2008'

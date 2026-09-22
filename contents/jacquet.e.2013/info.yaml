@@ -1,0 +1,46 @@
+abstract: A major uncertainty in accretion disk theory is the nature and properties
+  of gas turbulence, which drives transport in protoplanetary disks. The commonly
+  used viscous prescription for the Maxwell-Reynolds stress tensor gives rise to a
+  meridional circulation where flow is outward near the midplane and inward away from
+  it. This meridional circulation has been proposed as an explanation for the presence
+  of high-temperature minerals (believed to be of inner solar system provenance) in
+  comets. However, it has not been observed in simulations of magnetohydrodynamical
+  (MHD) turbulence so far. In this study, we evaluate the extent to which the net
+  transport of solids can be diagnostic of the existence of meridional circulation.
+  To that end, we propose and motivate a prescription for MHD turbulence which has
+  the same free parameters as the viscous one. We compare the effects of both prescriptions
+  on the radial transport of small solid particles and find that their net, vertically
+  integrated radial flux is actually quite insensitive to the flow structure for a
+  given vertical average of the turbulence parameter alpha, which we explain. Given
+  current uncertainties on disk turbulence, one-dimensional models are thus most appropriate
+  to investigate radial transport of solids. A corollary is that the presence of high-temperature
+  material in comets cannot be considered an unequivocal diagnostic of meridional
+  circulation. In fact, we argue that outward transport in viscous disk models with
+  inward net accretion is more properly attributed to turbulent diffusion rather than
+  to the mean flows of the gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...551A..75J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.5817
+author: Jacquet, E.
+author_list:
+- family: Jacquet
+  given: E.
+date-added: 2017-08-10 14:55:33 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1051/0004-6361/201220812
+eid: A75
+eprint: '1301.5817'
+journal: \aap
+keywords: 'accretion, accretion disks, instabilities, magnetohydrodynamics (MHD),
+  turbulence, comets: general, meteorites, meteors, meteoroids'
+month: March
+pages: A75
+papis_id: 02369d22b42883d93d17dc56953917af
+primaryclass: astro-ph.EP
+ref: jacquet.e.2013
+title: On vertical variations of gas flow in protoplanetary disks and their impact
+  on the transport of solids
+type: article
+volume: '551'
+year: '2013'

@@ -1,0 +1,34 @@
+abstract: We present interferometric+single-dish images, constructed from the Green
+  Bank Telescope (GBT) and VLA observations, of the supernova remnant SN 1006. The
+  image was created using a Multiscale CLEAN algorithm in conjunction with a novel
+  approach for correcting the effect of the non-coplanar baselines. We demonstrate
+  that integrating with a single dish to the confusion limit of the highest resolution
+  interferometric element is not required. Instead, the noise in the map is limited
+  by the signal-to-noise ratio in each observation. The noise in the combined map
+  at the full resolution is dominated by uncertainties in the VLA data, not by uncertainties
+  in our short GBT observation. The resulting image is a significant improvement over
+  images missing short spacing information, and paves the way for future joint GBT+VLA
+  proposals that need to accurately image objects ranging from galaxies to H II regions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009AJ....137.2956D
+author: Dyer, K. K. and Cornwell, T. J. and Maddalena, R. J.
+author_list:
+- family: Dyer
+  given: K. K.
+- family: Cornwell
+  given: T. J.
+- family: Maddalena
+  given: R. J.
+date-added: 2017-08-10 21:59:26 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-6256/137/2/2956
+journal: \aj
+keywords: 'ISM: individual: SN1006, radio continuum: ISM, supernova remnants'
+month: February
+pages: 2956--2967
+papis_id: e1da7ea163ec1e0a6749f18328018948
+ref: dyer.k.2009
+title: 1.4 GHz High-Resolution Flux-Accurate Images of SN 1006
+type: article
+volume: '137'
+year: '2009'

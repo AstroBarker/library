@@ -1,0 +1,29 @@
+abstract: The equations of ideal magnetohydrodynamics (MHD) form a non-strict hyperbolic
+  system with a non-convex flux function and admit non-regular, so-called intermediate
+  shocks. The presence of non-regular waves in the MHD system causes the Riemann problem
+  to be not unique in some cases. This paper investigates the uniqueness of Riemann
+  solutions of ideal MHD. To determine uniqueness conditions we discuss the correspondence
+  of non-regular solutions and non-uniqueness. Additionally the structure of the Hugoniot
+  curves and its non-regular behaviour are demonstrated. It follows that the degree
+  of freedom for solving a Riemann problem is reduced in the case of a non-regular
+  solution. From this, we can deduce uniqueness conditions depending on the initial
+  conditions of an MHD Riemann problem. The results also allow one to construct non-unique
+  solutions. We give an example for the case of non-planar initial conditions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003JPlPh..69..253T
+author: Torrilhon, M.
+author_list:
+- family: Torrilhon
+  given: M.
+date-added: 2017-08-11 06:45:53 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1017/S0022377803002186
+journal: Journal of Plasma Physics
+month: April
+pages: 253--276
+papis_id: d5bcc6957d69b0e27b066da2612b4c24
+ref: torrilhon.m.2003
+title: Uniqueness conditions for Riemann problems of ideal magnetohydrodynamics
+type: article
+volume: '69'
+year: '2003'

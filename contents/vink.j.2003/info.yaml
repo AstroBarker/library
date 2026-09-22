@@ -1,0 +1,48 @@
+abstract: We investigate the nonthermal X-ray emission from Cas A, using BeppoSAX,
+  Compton Gamma Ray Observatory OSSE, and Chandra data. For the hard X-ray continuum
+  we test the model proposed by Laming, which invokes nonthermal bremsstrahlung from
+  electrons accelerated by lower hybrid plasma waves. The justification for this model
+  comes from our determination of a lower limit to the average magnetic field of B>0.5
+  mG. For such high magnetic fields, the synchrotron losses are severe enough that
+  most of the electron populations responsible for the radio emission have maximum
+  electron energies well below the limit for which X-ray synchrotron emission is important.
+  However, we do suggest that the rim surrounding Cas A, seen in Chandra continuum
+  images, is X-ray synchrotron emission. The width of this rim of 1.5"-4" can be used
+  to infer the magnetic field near the shock front, for which we estimate B=0.08-0.16
+  mG and electron energies of ~57-40 TeV. This magnetic field strength is lower than
+  the average magnetic field but higher than what may be expected from shocked interstellar
+  medium, suggesting either a high magnetic field in the wind of the progenitor or
+  rapid postshock field amplification by nonlinear growth of plasma waves. Combining
+  the two magnetic field measurements, we have constructed a simple two-zone model.
+  Most of the radio emission comes from inside Cas A, where the magnetic field is
+  strong. In contrast, the inverse Compton emission is dominated by emission from
+  near the shock front. Only for our lower limit on the magnetic field strength near
+  the shock front is it possible to explain the recent detection of TeV emission by
+  the High Energy Gamma Ray Astronomy experiment with inverse Compton emission, for
+  which, in addition, we have to assume a rather high far-infrared photon density
+  that should be twice as high as our best estimate of ~70 cm-3. Pion decay is therefore
+  likely to be the dominant emission from Cas A at TeV energies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...584..758V
+arxivurl: http://arxiv.org/abs/astro-ph/0210669
+author: Vink, J. and Laming, J. M.
+author_list:
+- family: Vink
+  given: J.
+- family: Laming
+  given: J. M.
+date-added: 2017-08-10 22:01:39 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/345832
+eprint: astro-ph/0210669
+journal: \apj
+keywords: 'Acceleration of Particles, Gamma Rays: Observations- ISM: Individual: Name:
+  Cassiopeia A, Magnetic Fields- Shock Waves, ISM: Supernova Remnants'
+month: February
+pages: 758--769
+papis_id: a3f8c012b2d904421a3c288cfe681f2e
+ref: vink.j.2003
+title: On the Magnetic Fields and Particle Acceleration in Cassiopeia A
+type: article
+volume: '584'
+year: '2003'

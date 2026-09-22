@@ -1,0 +1,44 @@
+abstract: We present the calibration and background model for the Proportional Counter
+  Array on board the Rossi X-Ray Timing Explorer. The energy calibration is systematics-limited
+  below 10 keV, with deviations from a power-law fit to the Crab Nebula plus pulsar
+  of less than 1\%. Unmodeled variations in the instrumental background amount to
+  less than 2\% of the observed background below 10 keV and less than 1\% between
+  10 and 20 keV. Individual photon arrival times are accurate to 4.4 mus at all times
+  during the mission and to 2.5 mus after 1997 April 29. The peak pointing direction
+  of the five collimators is known to a precision of a few arcseconds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..163..401J
+arxivurl: http://arxiv.org/abs/astro-ph/0511531
+author: Jahoda, K. and Markwardt, C. B. and Radeva, Y. and Rots, A. H. and Stark,
+  M. J. and Swank, J. H. and Strohmayer, T. E. and Zhang, W.
+author_list:
+- family: Jahoda
+  given: K.
+- family: Markwardt
+  given: C. B.
+- family: Radeva
+  given: Y.
+- family: Rots
+  given: A. H.
+- family: Stark
+  given: M. J.
+- family: Swank
+  given: J. H.
+- family: Strohmayer
+  given: T. E.
+- family: Zhang
+  given: W.
+date-added: 2017-08-11 02:50:23 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500659
+eprint: astro-ph/0511531
+journal: \apjs
+keywords: 'Instrumentation: Detectors, Space Vehicles: Instruments'
+month: April
+pages: 401--423
+papis_id: 84a40681b693e211196ac06673117dae
+ref: jahoda.k.2006
+title: Calibration of the Rossi X-Ray Timing Explorer Proportional Counter Array
+type: article
+volume: '163'
+year: '2006'

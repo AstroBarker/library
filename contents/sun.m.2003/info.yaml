@@ -1,0 +1,39 @@
+abstract: The production of vorticity or circulation production in shock wave diffraction
+  over sharp convex corners has been numerically simulated and quantified. The corner
+  angle is varied from 5$\,^{\circ}$ to 180\$\,^{\circ}\$. Total vorticity is represented
+  by the circulation, which is evaluated by integrating the velocity along a path
+  enclosing the perturbed region behind a diffracting shock wave. The increase of
+  circulation in unit time, or the rate of circulation production, depends on the
+  shock strength and wall angle if the effects of viscosity and heat conductivity
+  are neglected. The rate of vorticity production is determined by using a solution-adaptive
+  code, which solves the Euler equations. It is shown that the rate of vorticity production
+  is independent of the computational mesh and numerical scheme by comparing solutions
+  from two different codes. It is found that larger wall angles always enhance the
+  vorticity production. The vorticity production increases sharply when the corner
+  angle is varied from 15\$\,^{\circ}\$ to 45\$\,^{\circ}\$. However, for corner angles
+  over 90\$\,^{\circ}\$, the rate of vorticity production hardly increases and reaches
+  to a constant value. Strong shock waves produce vorticity faster in general, except
+  when the slipstream originating from the shallow corner attaches to the downstream
+  wall. It is found that the vorticity produced by the slipstream represents a large
+  proportion of the total vorticity. The slipstream is therefore a more important
+  source of vorticity than baroclinic effects in shock diffraction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003JFM...478..237S
+author: Sun, M. and Takayama, K.
+author_list:
+- family: Sun
+  given: M.
+- family: Takayama
+  given: K.
+date-added: 2017-08-11 01:42:20 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1017/S0022112002003403
+journal: Journal of Fluid Mechanics
+month: March
+pages: 237--256
+papis_id: efcf07a012b4e99e2e5d74ca983a8c75
+ref: sun.m.2003
+title: Vorticity production in shock diffraction
+type: article
+volume: '478'
+year: '2003'

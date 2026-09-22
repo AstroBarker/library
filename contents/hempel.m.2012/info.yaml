@@ -1,0 +1,53 @@
+abstract: 'We discuss three new equations of state (EOS) in core-collapse supernova
+  simulations. The new EOS are based on the nuclear statistical equilibrium model
+  of Hempel and Schaffner-Bielich (HS), which includes excluded volume effects and
+  relativistic mean-field (RMF) interactions. We consider the RMF parameterizations
+  TM1, TMA, and FSUgold. These EOS are implemented into our spherically symmetric
+  core-collapse supernova model, which is based on general relativistic radiation
+  hydrodynamics and three-flavor Boltzmann neutrino transport. The results obtained
+  for the new EOS are compared with the widely used EOS of H. Shen et al. and Lattimer
+  \& Swesty. The systematic comparison shows that the model description of inhomogeneous
+  nuclear matter is as important as the parameterization of the nuclear interactions
+  for the supernova dynamics and the neutrino signal. Furthermore, several new aspects
+  of nuclear physics are investigated: the HS EOS contains distributions of nuclei,
+  including nuclear shell effects. The appearance of light nuclei, e.g., deuterium
+  and tritium, is also explored, which can become as abundant as alphas and free protons.
+  In addition, we investigate the black hole formation in failed core-collapse supernovae,
+  which is mainly determined by the high-density EOS. We find that temperature effects
+  lead to a systematically faster collapse for the non-relativistic LS EOS in comparison
+  with the RMF EOS. We deduce a new correlation for the time until black hole formation,
+  which allows the determination of the maximum mass of proto-neutron stars, if the
+  neutrino signal from such a failed supernova would be measured in the future. This
+  would give a constraint for the nuclear EOS at finite entropy, complementary to
+  observations of cold neutron stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...748...70H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.0848
+author: Hempel, M. and Fischer, T. and Schaffner-Bielich, J. and Liebendörfer, M.
+author_list:
+- family: Hempel
+  given: M.
+- family: Fischer
+  given: T.
+- family: Schaffner-Bielich
+  given: J.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-10 17:52:58 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/748/1/70
+eid: '70'
+eprint: '1108.0848'
+journal: \apj
+keywords: 'dense matter, hydrodynamics, equation of state, nuclear reactions, nucleosynthesis,
+  abundances, stars: neutron, supernovae: general'
+month: March
+pages: '70'
+papis_id: 8a5a27915ae4c5a65babf99debbc97a4
+primaryclass: astro-ph.HE
+ref: hempel.m.2012
+title: New Equations of State in Simulations of Core-collapse Supernovae
+type: article
+volume: '748'
+year: '2012'

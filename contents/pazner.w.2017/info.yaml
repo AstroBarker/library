@@ -1,0 +1,41 @@
+abstract: In this paper, we develop new techniques for solving the large, coupled
+  linear systems that arise from fully implicit Runge-Kutta methods. This method makes
+  use of the iterative preconditioned GMRES algorithm for solving the linear systems,
+  which has seen success for fluid flow problems and discontinuous Galerkin discretizations.
+  By transforming the resulting linear system of equations, one can obtain a method
+  which is much less computationally expensive than the untransformed formulation,
+  and which compares competitively with other time-integration schemes, such as diagonally
+  implicit Runge-Kutta (DIRK) methods. We develop and test several ILU-based preconditioners
+  effective for these large systems. We additionally employ a parallel-in-time strategy
+  to compute the Runge-Kutta stages simultaneously. Numerical experiments are performed
+  on the Navier-Stokes equations using Euler vortex and 2D and 3D NACA airfoil test
+  cases in serial and in parallel settings. The fully implicit Radau IIA Runge-Kutta
+  methods compare favorably with equal-order DIRK methods in terms of accuracy, number
+  of GMRES iterations, number of matrix-vector multiplications, and wall-clock time,
+  for a wide range of time steps.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017JCoPh.335..700P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1701.07181
+author: Pazner, W. and Persson, P.-O.
+author_list:
+- family: Pazner
+  given: W.
+- family: Persson
+  given: P.-O.
+date-added: 2017-11-10 19:19:38 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1016/j.jcp.2017.01.050
+eprint: '1701.07181'
+journal: Journal of Computational Physics
+keywords: Implicit Runge-Kutta, Discontinuous Galerkin, Preconditioned GMRES, Parallel-in-time
+month: April
+pages: 700--717
+papis_id: 8caf4981f7949253cb7da76d09d29c37
+primaryclass: math.NA
+ref: pazner.w.2017
+title: Stage-parallel fully implicit Runge-Kutta solvers for discontinuous Galerkin
+  fluid simulations
+type: article
+volume: '335'
+year: '2017'

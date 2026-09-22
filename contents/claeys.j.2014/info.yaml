@@ -1,0 +1,55 @@
+abstract: 'It is thought that Type Ia supernovae (SNe Ia) are explosions of carbon-oxygen
+  white dwarfs (CO WDs). Two main evolutionary channels are proposed for the WD to
+  reach the critical density required for a thermonuclear explosion: the single degenerate
+  (SD) scenario, in which a CO WD accretes from a non-degenerate companion, and the
+  double degenerate (DD) scenario, in which two CO WDs merge. However, it remains
+  difficult to reproduce the observed SN Ia rate with these two scenarios. With a
+  binary population synthesis code we study the main evolutionary channels that lead
+  to SNe Ia and we calculate the SN Ia rates and the associated delay-time distributions.
+  We find that the DD channel is the dominant formation channel for the longest delay
+  times. The SD channel with helium-rich donors is the dominant channel at the shortest
+  delay times. Our standard model rate is a factor of five lower than the observed
+  rate in galaxy clusters. We investigate the influence of ill-constrained aspects
+  of single- and binary-star evolution and uncertain initial binary distributions
+  on the rate of Type Ia SNe. These distributions, as well as uncertainties in both
+  helium star evolution and common envelope evolution, have the greatest influence
+  on our calculated rates. Inefficient common envelope evolution increases the relative
+  number of SD explosions such that for alphace = 0.2 they dominate the SN Ia rate.
+  Our highest rate is a factor of three less than the galaxy-cluster SN Ia rate, but
+  compatible with the rate determined in a field-galaxy dominated sample. If we assume
+  unlimited accretion onto WDs, to maximize the number of SD explosions, our rate
+  is compatible with the observed galaxy-cluster rate.  Tables 4 and 5, and appendices
+  are available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...563A..83C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.2895
+author: Claeys, J. S. W. and Pols, O. R. and Izzard, R. G. and Vink, J. and Verbunt,
+  F. W. M.
+author_list:
+- family: Claeys
+  given: J. S. W.
+- family: Pols
+  given: O. R.
+- family: Izzard
+  given: R. G.
+- family: Vink
+  given: J.
+- family: Verbunt
+  given: F. W. M.
+date-added: 2017-08-11 07:18:29 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1051/0004-6361/201322714
+eid: A83
+eprint: '1401.2895'
+journal: \aap
+keywords: 'binaries: general, stars: evolution, supernovae: general'
+month: March
+pages: A83
+papis_id: 05afb582618e8afbecca97b7d520e08f
+primaryclass: astro-ph.SR
+ref: claeys.j.2014
+title: Theoretical uncertainties of the Type Ia supernova rate
+type: article
+volume: '563'
+year: '2014'

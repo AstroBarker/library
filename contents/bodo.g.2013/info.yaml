@@ -1,0 +1,41 @@
+abstract: 'We perform a linear analysis of the stability of a magnetized relativistic
+  non-rotating cylindrical flow in the approximation of zero thermal pressure, considering
+  only the \vert{}m\vert{} = 1 mode. We find that there are two modes of instability:
+  Kelvin-Helmholtz and current driven. The Kelvin-Helmholtz mode is found at low magnetizations
+  and its growth rate depends very weakly on the pitch parameter. The current-driven
+  modes are found at high magnetizations and the value of the growth rate and the
+  wavenumber of the maximum increase as we decrease the pitch parameter. In the relativistic
+  regime the current-driven mode is split in two branches, the branch at high wavenumbers
+  is characterized by the eigenfunction concentrated in the jet core; the branch at
+  low wavenumbers is instead characterized by the eigenfunction that extends outside
+  the jet velocity shear region.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.434.3030B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.6388
+author: Bodo, G. and Mamatsashvili, G. and Rossi, P. and Mignone, A.
+author_list:
+- family: Bodo
+  given: G.
+- family: Mamatsashvili
+  given: G.
+- family: Rossi
+  given: P.
+- family: Mignone
+  given: A.
+date-added: 2017-08-10 16:29:44 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1225
+eprint: '1307.6388'
+journal: \mnras
+keywords: 'instabilities, MHD, relativistic processes, galaxies: jets'
+month: October
+pages: 3030--3046
+papis_id: 70d46dd732052323cd2d9a0d9fc51a60
+primaryclass: astro-ph.HE
+ref: bodo.g.2013
+title: 'Linear stability analysis of magnetized relativistic jets: the non-rotating
+  case'
+type: article
+volume: '434'
+year: '2013'

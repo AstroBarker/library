@@ -1,0 +1,101 @@
+abstract: 'Context. The Tarantula Nebula in the Large Magellanic Cloud is our closest
+  view of a starburst region and is the ideal environment to investigate important
+  questions regarding the formation, evolution and final fate of the most massive
+  stars.  Aims: We analyze the multiplicity properties of the massive O-type star
+  population observed through multi-epoch spectroscopy in the framework of the VLT-FLAMES
+  Tarantula Survey. With 360 O-type stars, this is the largest homogeneous sample
+  of massive stars analyzed to date.  Methods: We use multi-epoch spectroscopy and
+  variability analysis to identify spectroscopic binaries. We also use a Monte-Carlo
+  method to correct for observational biases. By modeling simultaneously the observed
+  binary fraction, the distributions of the amplitudes of the radial velocity variations
+  and the distribution of the time scales of these variations, we constrain the intrinsic
+  current binary fraction and period and mass-ratio distributions.  Results: We observe
+  a spectroscopic binary fraction of 0.35 $\pm$ 0.03, which corresponds to the fraction
+  of objects displaying statistically significant radial velocity variations with
+  an amplitude of at least 20 km s-1. We compute the intrinsic binary fraction to
+  be 0.51 \$\pm\$ 0.04. We adopt power-laws to describe the intrinsic period and mass-ratio
+  distributions: f(log 10P/d) ~ (log 10P/d)pi (with log 10P/d in the range 0.15-3.5)
+  and f(q) ~ qkappa with 0.1 <= q = M2/M1 <= 1.0. The power-law indexes that best
+  reproduce the observed quantities are pi = -0.45 \$\pm\$ 0.30 and kappa = -1.0 \$\pm\$
+  0.4. The period distribution that we obtain thus favours shorter period systems
+  compared to an {\"O}pik law (pi = 0). The mass ratio distribution is slightly skewed
+  towards low mass ratio systems but remains incompatible with a random sampling of
+  a classical mass function (kappa = -2.35). The binary fraction seems mostly uniform
+  across the field of view and independent of the spectral types and luminosity classes.
+  The binary fraction in the outer region of the field of view (r > 7.8'', i.e. \approx{}117
+  pc) and among the O9.7 I/II objects are however significantly lower than expected
+  from statistical fluctuations. The observed and intrinsic binary fractions are also
+  lower for the faintest objects in our sample (Ks > 15.5 mag), which results from
+  observational effects and the fact that our O star sample is not magnitude-limited
+  but is defined by a spectral-type cutoff. We also conclude that magnitude-limited
+  investigations are biased towards larger binary fractions.  Conclusions: Using the
+  multiplicity properties of the O stars in the Tarantula region and simple evolutionary
+  considerations, we estimate that over 50\% of the current O star population will
+  exchange mass with its companion within a binary system. This shows that binary
+  interaction is greatly affecting the evolution and fate of massive stars, and must
+  be taken into account to correctly interpret unresolved populations of massive stars.  Based
+  on observations collected at the European Southern Observatory under program ID
+  182.D-0222.Full Tables 1-3 are only available at the CDS via anonymous ftp to cdsarc.u-strasbg.fr(130.79.128.5)
+  or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/550/A107Appendices are available
+  in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...550A.107S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.4638
+author: Sana, H. and de Koter, A. and de Mink, S. E. and Dunstall, P. R. and Evans,
+  C. J. and Hénault-Brunet, V. and Maíz Apellániz, J. and Ramírez-Agudelo, O. H. and
+  Taylor, W. D. and Walborn, N. R. and Clark, J. S. and Crowther, P. A. and Herrero,
+  A. and Gieles, M. and Langer, N. and Lennon, D. J. and Vink, J. S.
+author_list:
+- family: Sana
+  given: H.
+- family: de Koter
+  given: A.
+- family: de Mink
+  given: S. E.
+- family: Dunstall
+  given: P. R.
+- family: Evans
+  given: C. J.
+- family: Hénault-Brunet
+  given: V.
+- family: Maíz Apellániz
+  given: J.
+- family: Ramírez-Agudelo
+  given: O. H.
+- family: Taylor
+  given: W. D.
+- family: Walborn
+  given: N. R.
+- family: Clark
+  given: J. S.
+- family: Crowther
+  given: P. A.
+- family: Herrero
+  given: A.
+- family: Gieles
+  given: M.
+- family: Langer
+  given: N.
+- family: Lennon
+  given: D. J.
+- family: Vink
+  given: J. S.
+date-added: 2017-08-10 14:12:31 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1051/0004-6361/201219621
+eid: A107
+eprint: '1209.4638'
+journal: \aap
+keywords: 'stars: early-type, stars: massive, binaries: spectroscopic, open clusters
+  and associations: individual: 30 Dor, binaries: close, Magellanic Clouds'
+month: February
+pages: A107
+papis_id: 096c1f5833b6e4a65575f6b451f522d9
+primaryclass: astro-ph.SR
+ref: sana.h.2013
+title: The VLT-FLAMES Tarantula Survey. VIII. Multiplicity properties of the O-type
+  star population
+type: article
+volume: '550'
+year: '2013'

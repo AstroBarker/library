@@ -1,0 +1,27 @@
+abstract: We propose a new Harten-Lax-van Leer discontinuities (HLLD) approximate
+  Riemann solver to improve the stability of shocks and the accuracy of low-speed
+  flows in multidimensional magnetohydrodynamic (MHD) simulations. Stringent benchmark
+  tests verify that the new solver is more robust against a numerical shock instability
+  and is more accurate for low-speed, nearly incompressible flows than the original
+  solver, whereas additional computational costs are quite low. The novel ability
+  of the new solver enables us to tackle MHD systems, including both high and low
+  Mach number flows.
+archiveprefix: arXiv
+author: Minoshima, Takashi and Miyoshi, Takahiro
+author_list:
+- family: Minoshima
+  given: Takashi
+- family: Miyoshi
+  given: Takahiro
+eprint: '2108.04991'
+file: :minoshima\_2021 - A Low Dissipation HLLD Approximate Riemann Solver for a Very
+  Wide Range of Mach Numbers.pdf:PDF
+keywords: physics.comp-ph, astro-ph.EP, astro-ph.SR, physics.plasm-ph, physics.space-ph
+month: August
+papis_id: 5622f2792ffde3f67d59e9342976d574
+primaryclass: physics.comp-ph
+ref: minoshima.takashi.2021
+title: A low-dissipation HLLD approximate Riemann solver for a very wide range of
+  Mach numbers
+type: article
+year: '2021'

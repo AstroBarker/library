@@ -1,0 +1,31 @@
+abstract: The equation of state of an ideal Fermi gas is expressed in terms of Fermi-Dirac
+  integrals. We give formulae for evaluation the Fermi-Dirac integrals of orders 1/2,
+  3/2, and 5/2 and their derivatives in various limits of non- and extreme degeneracy
+  and relativity. We provide tables and a FORTRAN subroutine for numerical evaluation
+  of the integrals and derivatives when a limit does not apply. The functions can
+  be evaluated to better than 1\% accuracy for any temperature and density using these
+  methods.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJS..105..407M
+arxivurl: http://arxiv.org/abs/astro-ph/9509124
+author: Miralles, J. A. and van Riper, K. A.
+author_list:
+- family: Miralles
+  given: J. A.
+- family: van Riper
+  given: K. A.
+date-added: 2017-08-11 00:37:56 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/192322
+eprint: astro-ph/9509124
+journal: \apjs
+keywords: 'DENSE MATTER, EQUATION OF STATE, RELATIVITY, STARS: NEUTRON'
+month: August
+pages: '407'
+papis_id: 66e16e7b9b50ae473c27f3f95404045a
+ref: miralles.j.1996
+title: Accurate Evaluation of Fermi-Dirac Integrals and Their Derivatives for Arbitrary
+  Degeneracy and Relativity
+type: article
+volume: '105'
+year: '1996'

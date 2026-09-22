@@ -1,0 +1,49 @@
+abstract: We explore the effects of rotation on convective carbon, oxygen, and silicon
+  shell burning during the late stages of evolution in a 20 M \&sun; star. Using the
+  Modules for Experiments in Stellar Astrophysics we construct one-dimensional (1D)
+  stellar models both with no rotation and with an initial rigid rotation of 50\%
+  of critical. At different points during the evolution, we map the 1D models into
+  2D and follow the multidimensional evolution using the FLASH compressible hydrodynamics
+  code for many convective turnover times until a quasi-steady state is reached. We
+  characterize the strength and scale of convective motions via decomposition of the
+  momentum density into vector spherical harmonics. We find that rotation influences
+  the total power in solenoidal modes, with a slightly larger impact for carbon and
+  oxygen shell burning than for silicon shell burning. Including rotation in 1D stellar
+  evolution models alters the structure of the star in a manner that has a significant
+  impact on the character of multidimensional convection. Adding modest amounts of
+  rotation to a stellar model that ignores rotation during the evolutionary stage,
+  however, has little impact on the character of the resulting convection. Since the
+  spatial scale and strength of convection present at the point of core collapse directly
+  influence the supernova mechanism, our results suggest that rotation could play
+  an important role in setting the stage for massive stellar explosions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...822...61C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1601.05816
+author: Chatzopoulos, E. and Couch, S. M. and Arnett, W. D. and Timmes, F. X.
+author_list:
+- family: Chatzopoulos
+  given: E.
+- family: Couch
+  given: S. M.
+- family: Arnett
+  given: W. D.
+- family: Timmes
+  given: F. X.
+date-added: 2018-06-27 17:36:20 +0000
+date-modified: 2018-06-27 17:36:21 +0000
+doi: 10.3847/0004-637X/822/2/61
+eid: '61'
+eprint: '1601.05816'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: evolution, stars:
+  interiors, stars: massive, supernovae: general, turbulence'
+month: May
+pages: '61'
+papis_id: e87cc41d97d6009815eaffae3dec35f3
+primaryclass: astro-ph.SR
+ref: chatzopoulos.e.2016
+title: Convective Properties of Rotating Two-dimensional Core-collapse Supernova Progenitors
+type: article
+volume: '822'
+year: '2016'

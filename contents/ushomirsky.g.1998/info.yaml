@@ -1,0 +1,63 @@
+abstract: We present an analytic calculation of the thermonuclear depletion of the
+  light elements lithium, beryllium, and boron in fully convective, low-mass stars.
+  Under the presumption that the pre-main-sequence star is always fully mixed during
+  contraction, we find that the burning of these rare light elements can be computed
+  analytically, even when the star is degenerate. Using the effective temperature
+  as a free parameter, we constrain the properties of low-mass stars from observational
+  data, independently of the uncertainties associated with modeling their atmospheres
+  and convection. Our results are in excellent agreement with the detailed calculations
+  of D'Antona \& Mazzitelli and Chabrier, Baraffe, \& Plez. Our analytic solution
+  explains the dependence of the age at a given level of elemental depletion on the
+  stellar effective temperature, nuclear cross sections, and chemical composition.
+  These results are also useful as benchmarks to those constructing full stellar models.
+  Most importantly, our results allow observers to translate lithium nondetections
+  in young cluster members into a model-independent minimum age for that cluster.
+  Using this procedure, we have found lower limits to the ages of the Pleiades (100
+  Myr) and Alpha Persei (60 Myr) clusters. Dating an open cluster using low-mass stars
+  is also independent of techniques that fit upper main-sequence evolution. Comparison
+  of these methods provides crucial information on the amount of convective overshooting
+  (or rotationally induced mixing) that occurs during core hydrogen burning in the
+  5-10 M\&sun; stars typically at the main-sequence turnoff for these clusters. We
+  also discuss beryllium depletion in pre-main-sequence stars. Recent experimental
+  work on the low-energy resonance in the 10B(p, alpha)7Be reaction has greatly enhanced
+  estimates of the destruction rate of 10B, making it possible for stars with M >~
+  0.1 M\&sun; to deplete both 10B and 11B before reaching the main sequence. Moreover,
+  there is an interesting range of masses, 0.085 M\&sun; <~ M <~ 0.13 M\&sun;, where
+  boron depletion occurs on the main sequence in less than a Hubble time, providing
+  a potential ``clock'' for dating low-mass stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...497..253U
+arxivurl: http://arxiv.org/abs/astro-ph/9711099
+author: Ushomirsky, G. and Matzner, C. D. and Brown, E. F. and Bildsten, L. and Hilliard,
+  V. G. and Schroeder, P. C.
+author_list:
+- family: Ushomirsky
+  given: G.
+- family: Matzner
+  given: C. D.
+- family: Brown
+  given: E. F.
+- family: Bildsten
+  given: L.
+- family: Hilliard
+  given: V. G.
+- family: Schroeder
+  given: P. C.
+date-added: 2017-08-10 20:52:08 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305457
+eprint: astro-ph/9711099
+journal: \apj
+keywords: 'GALAXY: OPEN CLUSTERS AND ASSOCIATIONS: GENERAL, STARS: ABUNDANCES, STARS:
+  EVOLUTION, STARS: FUNDAMENTAL PARAMETERS, STARS: LOW-MASS, BROWN DWARFS, STARS:
+  PRE-MAIN-SEQUENCE, Galaxy: Open Clusters and Associations: General, Stars: Abundances,
+  Stars: Evolution, Stars: Fundamental Parameters, Stars: Low-Mass, Brown Dwarfs,
+  Stars: Pre-Main-Sequence'
+month: April
+pages: 253--266
+papis_id: 64fa59fc75269ceecba47d5794beda73
+ref: ushomirsky.g.1998
+title: Light-Element Depletion in Contracting Brown Dwarfs and Pre-Main-Sequence Stars
+type: article
+volume: '497'
+year: '1998'

@@ -1,0 +1,44 @@
+abstract: We report on two epochs of very-long-baseline interferometry (VLBI) observations
+  of the Type Ib/c supernova, SN 2008D, which was associated with the X-ray outburst
+  XRF 080109. At our first epoch, at t = 30 days after the explosion, we observed
+  at 22 and 8.4 GHz, and at our second, at t = 133 days, at 8.4 and 5.0 GHz. The VLBI
+  observations allow us to accurately measure the source's size and position at each
+  epoch, and thus constrain its expansion velocity and proper motion. We find the
+  source at best marginally resolved at both epochs, allowing us to place a 3sigma
+  upper limit of ~ 0.75 c on the expansion velocity of a circular source. For an elongated
+  source, our measurements are compatible with mildly relativistic expansion. However,
+  our 3sigma upper limit on the proper motion is 4 muas day-1, corresponding to an
+  apparent velocity of less than 0.6 c, and is consistent with a stationary flux centroid.
+  This limit rules out a relativistic jet such as a gamma-ray burst jet away from
+  the line of sight, which would be expected to show apparent proper motion of greater
+  than c. Taken together, our measurements argue against the presence of any long-lived
+  relativistic outflow in SN 2008D. On the other hand, our measurements are consistent
+  with the nonrelativistic expansion velocities of less than 30,000 km s-1 and small
+  proper motions (< 500 km s-1) seen in typical supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694L...6B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3173
+author: Bietenholz, M. F. and Soderberg, A. M. and Bartel, N.
+author_list:
+- family: Bietenholz
+  given: M. F.
+- family: Soderberg
+  given: A. M.
+- family: Bartel
+  given: N.
+date-added: 2017-08-11 03:45:02 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/694/1/L6
+eprint: '0811.3173'
+journal: \apjl
+keywords: 'gamma rays: bursts, radio continuum: general, supernovae: individual: SN
+  2008D'
+month: March
+pages: L6-L10
+papis_id: 43df35ea03a93d1d5ea2acf812bdbdce
+ref: bietenholz.m.2009
+title: Very-Long-Baseline Interferometry Observations of SN 2008D
+type: article
+volume: '694'
+year: '2009'

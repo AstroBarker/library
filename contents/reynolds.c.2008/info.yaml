@@ -1,0 +1,40 @@
+abstract: We address the ability of broad iron emission lines from black hole accretion
+  disks to diagnose the spin of the black hole. Using a high-resolution three-dimensional
+  MHD simulation of a geometrically thin accretion disk in a pseudo-Newtonian potential,
+  we show that both the mid-plane density and the vertical column density of the accretion
+  flow drop dramatically over a narrow range of radii close to the innermost stable
+  circular orbit (ISCO). We argue that this drop of density is accompanied by a sharp
+  increase in the ionization parameter of the X-ray photosphere, and that the resulting
+  imprint of the ISCO on the X-ray reflection spectrum can be used to constrain spin.
+  Motivated by this simulation, we construct a simplified toy model of the accretion
+  flow within the ISCO of a Kerr black hole, and use this model to estimate the systematic
+  error on inferred black hole spin that may result from slight bleeding of the iron
+  line emission to the region inside of the ISCO. We find that these systematic errors
+  can be significant for slowly spinning black holes but become appreciably smaller
+  as one considers more rapidly rotating black holes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...675.1048R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0711.4158
+author: Reynolds, C. S. and Fabian, A. C.
+author_list:
+- family: Reynolds
+  given: C. S.
+- family: Fabian
+  given: A. C.
+date-added: 2017-08-11 03:15:57 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/527344
+eid: 1048-1056
+eprint: '0711.4158'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, galaxies: nuclei, MHD,
+  relativity'
+month: March
+pages: 1048--1056
+papis_id: fcf0809597be638019a3a8f316f9430e
+ref: reynolds.c.2008
+title: Broad Iron-K$α$ Emission Lines as a Diagnostic of Black Hole Spin
+type: article
+volume: '675'
+year: '2008'

@@ -1,0 +1,33 @@
+abstract: We have calculated the rate coefficients for D(1s)+H+\&lrarr2;D++H(1s) using
+  recently published theoretical cross sections. We present results for temperatures
+  T from 1 K up to 2\texttimes{}105 K and provide fits to our data for use in plasma
+  modeling. Our calculations are in good agreement with previously published rate
+  coefficients for 25<=T<=300 K, which covers most of the limited range for which
+  those results were given. Our new rate coefficients for T>~100 K are significantly
+  larger than the values most commonly used for modeling the chemistry of the early
+  universe and of molecular clouds. This may have important implications for the predicted
+  HD abundance in these environments. Using our results, we have modeled the ionization
+  balance in high-redshift QSO absorbers. We find that the new rate coefficients decrease
+  the inferred D/H ratio by <~0.4\%. This is a factor of >~25 smaller than the current
+  >~10\% uncertainties in QSO absorber D/H measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...566..599S
+author: Savin, D. W.
+author_list:
+- family: Savin
+  given: D. W.
+date-added: 2017-08-11 06:05:32 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/324218
+journal: \apj
+keywords: 'Atomic Data, Atomic Processes, Cosmology: Early Universe, ISM: Molecules,
+  Plasmas, Galaxies: Quasars: Absorption Lines'
+month: February
+pages: 599--603
+papis_id: 6b615d791edb622d817b18f0ddbc9aeb
+ref: savin.d.2002
+title: Rate Coefficients for D(1s)+H$^+$ łrarr2 D\$^+\$+H(1s) Charge Transfer and
+  Some Astrophysical Implications
+type: article
+volume: '566'
+year: '2002'

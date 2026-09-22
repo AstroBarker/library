@@ -1,0 +1,29 @@
+abstract: In this paper we present a total variation diminishing (TVD) scheme for
+  numerical relativistic magnetohydrodynamics (MHD). The eigenstructure of the equations
+  of relativistic MHD has been cataloged here. We also describe a strategy for obtaining
+  the physically relevant eigenvectors. These eigenvectors are then used to build
+  an interpolation strategy that operates on the characteristic fields. The design
+  of a linearized Riemann solver for relativistic MHD is also described. The resulting
+  higher order Godunov scheme has been implemented in the author's RIEMANN code for
+  astrophysical fluid dynamics. The resulting code is second-order accurate both in
+  space and time. A number of design features have been used to make it a high-resolution
+  scheme. It shows efficient and robust performance for several stringent test problems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJS..132...83B
+author: Balsara, D.
+author_list:
+- family: Balsara
+  given: D.
+date-added: 2017-08-10 21:03:17 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/318941
+journal: \apjs
+keywords: 'Hydrodynamics, Magnetohydrodynamics: MHD, Relativity'
+month: January
+pages: 83--101
+papis_id: d7d09da662b41b4746f0df8a9332bcb9
+ref: balsara.d.2001
+title: Total Variation Diminishing Scheme for Relativistic Magnetohydrodynamics
+type: article
+volume: '132'
+year: '2001'

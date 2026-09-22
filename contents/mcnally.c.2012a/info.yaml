@@ -1,0 +1,42 @@
+abstract: We present an algorithm for simulating the equations of ideal magnetohydrodynamics
+  and other systems of differential equations on an unstructured set of points represented
+  by sample particles. The particles move with the fluid, so the time step is not
+  limited by the Eulerian Courant-Friedrichs-Lewy condition. Full spatial adaptivity
+  is required to ensure the particles fill the computational volume and gives the
+  algorithm substantial flexibility and power. A target resolution is specified for
+  each point in space, with particles being added and deleted as needed to meet this
+  target. We have parallelized the code by adapting the framework provided by GADGET-2.
+  A set of standard test problems, including 10-6 amplitude linear magnetohydrodynamics
+  waves, magnetized shock tubes, and Kelvin-Helmholtz instabilities is presented.
+  Finally, we demonstrate good agreement with analytic predictions of linear growth
+  rates for magnetorotational instability in a cylindrical geometry. This paper documents
+  the Phurbas algorithm as implemented in Phurbas version 1.1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..200....7M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.0836
+author: McNally, C. P. and Maron, J. L. and Mac Low, M.-M.
+author_list:
+- family: McNally
+  given: C. P.
+- family: Maron
+  given: J. L.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-10 23:51:03 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0067-0049/200/1/7
+eid: '7'
+eprint: '1110.0836'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: May
+pages: '7'
+papis_id: f9a0f17fd88d408c44b90b370c12a81a
+primaryclass: astro-ph.IM
+ref: mcnally.c.2012a
+title: 'Phurbas: An Adaptive, Lagrangian, Meshless, Magnetohydrodynamics Code. II.
+  Implementation and Tests'
+type: article
+volume: '200'
+year: '2012'

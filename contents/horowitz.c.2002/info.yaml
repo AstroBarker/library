@@ -1,0 +1,40 @@
+abstract: Weak magnetism increases antineutrino mean free paths in core collapse supernovae.
+  The parity violating interference between axial vector and vector currents makes
+  antineutrino-nucleon cross sections smaller than those for neutrinos. We calculate
+  simple, exact correction factors to include recoil and weak magnetism in supernova
+  simulations. Weak magnetism may significantly increase the neutrino energy flux.
+  We calculate, in a diffusion approximation, an increase of order 15\% in the total
+  energy flux for temperatures near 10 MeV. This should raise the neutrino luminosity.
+  Weak magnetism also changes the emitted spectrum of nu\textasciimacron{}x (with
+  x=mu or tau) and nu\textasciimacron{}e. We estimate that nu\textasciimacron{}x will
+  be emitted about 7\% hotter than nux because nu\textasciimacron{}x have longer mean
+  free paths. Likewise weak magnetism may increase the nu\textasciimacron{}e temperature
+  by of order 10\%. This increase in temperature coupled with the increase in neutrino
+  luminosity should increase the heating in the low density region outside of the
+  neutrino sphere. This, in turn, could be important for the success of an explosion.
+  It is important to check our results with a full simulation that includes Boltzmann
+  neutrino transport and weak magnetism corrections.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002PhRvD..65d3001H
+arxivurl: http://arxiv.org/abs/astro-ph/0109209
+author: Horowitz, C. J.
+author_list:
+- family: Horowitz
+  given: C. J.
+date-added: 2017-08-10 14:04:06 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1103/PhysRevD.65.043001
+eid: '043001'
+eprint: astro-ph/0109209
+journal: \prd
+keywords: Supernovae, Charge conjugation parity time reversal and other discrete symmetries,
+  Nuclear physics aspects of novae supernovae and other explosive environments
+month: February
+number: '4'
+pages: '043001'
+papis_id: 94ead3bc9a59e1bcb686525de49f2768
+ref: horowitz.c.2002
+title: Weak magnetism for antineutrinos in supernovae
+type: article
+volume: '65'
+year: '2002'

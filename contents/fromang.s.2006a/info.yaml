@@ -1,0 +1,47 @@
+abstract: 'Aims.We present the results of global 3-D MHD simulations of stratified
+  and turbulent protoplanetary disc models. The aim of this work is to develop thin
+  disc models capable of sustaining turbulence for long run times, which can be used
+  for on-going studies of planet formation in turbulent discs. Methods: .The results
+  are obtained using two codes written in spherical coordinates: GLOBAL and NIRVANA.
+  Both are time-explicit and use finite differences along with the Constrained Transport
+  algorithm to evolve the equations of MHD. Results: .In the presence of a weak toroidal
+  magnetic field, a thin protoplanetary disc in hydrostatic equilibrium is destabilised
+  by the magnetorotational instability (MRI). When the resolution is large enough
+  (\texttildelow{} 25 vertical grid cells per scale height), the entire disc settles
+  into a turbulent quasi steady-state after about 300 orbits. Angular momentum is
+  transported outward such that the standard alpha parameter is roughly 4-6 \texttimes{}
+  10-3. We find that the initial toroidal flux is expelled from the disc midplane
+  and that the disc behaves essentially as a quasi-zero net flux disc for the remainder
+  of the simulation. As in previous studies, the disc develops a dual structure composed
+  of an MRI-driven turbulent core around its midplane, and a magnetised corona stable
+  to the MRI near its surface. By varying disc parameters and boundary conditions,
+  we show that these basic properties of the models are robust. Conclusions: .The
+  high resolution disc models we present in this paper achieve a quasi-steady state
+  and sustain turbulence for hundreds of orbits. As such, they are ideally suited
+  to the study of outstanding problems in planet formation such as disc-planet interactions
+  and dust dynamics.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...457..343F
+arxivurl: http://arxiv.org/abs/astro-ph/0606729
+author: Fromang, S. and Nelson, R. P.
+author_list:
+- family: Fromang
+  given: S.
+- family: Nelson
+  given: R. P.
+date-added: 2017-08-10 14:55:50 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20065643
+eprint: astro-ph/0606729
+journal: \aap
+keywords: 'accretion, accretion discs, magnetohydrodynamics (MHD), methods: numerical,
+  planets and satellites: formation'
+month: October
+pages: 343--358
+papis_id: 76435273f65bc4768dda2854a73a6859
+ref: fromang.s.2006a
+title: Global MHD simulations of stratified and turbulent protoplanetary discs. I.
+  Model properties
+type: article
+volume: '457'
+year: '2006'

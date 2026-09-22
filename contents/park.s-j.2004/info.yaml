@@ -1,0 +1,44 @@
+abstract: Stretching and folding, diffusion, and breakup are three basic processes
+  that occur while mixing fluids. Although stretching and folding the interface of
+  two fluids by rotation enables the mixing at microscale level in both low and high
+  Reynolds number flows, rotation is not as effective at a low Reynolds number as
+  at a high Reynolds number. Therefore, developing a rapid micromixer for microfluidic
+  systems that can be used at a low Reynolds number is a challenging task, because
+  it can demonstrate the full potential of microfluidic systems in commercial markets.
+  Here, to enhance the mixing efficiency of a micromixer based on passive rotation,
+  we present a breakup method. The breakup method not only generates interface actively
+  but also enhances the diffusion process at the interface. With our novel design,
+  over 70\% mixing can be achieved only after passing through a 4 mm long microchannel.
+  In this work, the mixer was easily fabricated with polydimethylsiloxane by soft
+  lithography and a self-aligned bonding method with methanol. We analyzed the flow
+  in the micromixer using the computational fluid dynamics method. Also, we conducted
+  quantitative analyses using a confocal scanning microscope and image processing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004JMiMi..14....6P
+author: Park, S.-J. and Kim, J. K. and Park, J. and Chung, S. and Chung, C. and Chang,
+  J. K.
+author_list:
+- family: Park
+  given: S.-J.
+- family: Kim
+  given: J. K.
+- family: Park
+  given: J.
+- family: Chung
+  given: S.
+- family: Chung
+  given: C.
+- family: Chang
+  given: J. K.
+date-added: 2017-08-11 06:41:29 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1088/0960-1317/14/1/302
+journal: Journal of Micromechanics and Microengineering
+month: January
+pages: 6--14
+papis_id: 265549b5f591b4b3cce2de5d3c6235fe
+ref: park.s_j.2004
+title: Rapid three-dimensional passive rotation micromixer using the breakup process
+type: article
+volume: '14'
+year: '2004'

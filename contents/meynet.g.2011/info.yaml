@@ -1,0 +1,47 @@
+abstract: 'Context. Magnetic fields at the surface of a few early-type stars have
+  been directly detected. These fields have magnitudes between a few hundred G up
+  to a few kG. In one case, evidence of magnetic braking has been found.  Aims: We
+  investigate the effects of magnetic braking on the evolution of rotating (upsiloini
+  = 200 km s-1) \texttimes{} 10 M\_\&sun; stellar models at solar metallicity during
+  the main-sequence (MS) phase.  Methods: The magnetic braking process is included
+  in our stellar models according to the formalism deduced from 2D MHD simulations
+  of magnetic wind confinement by ud-Doula and co-workers. Various assumptions are
+  made regarding both the magnitude of the magnetic field and of the efficiency of
+  the angular momentum transport mechanisms in the stellar interior.  Results: When
+  magnetic braking occurs in models with differential rotation, a strong and rapid
+  mixing is obtained at the surface accompanied by a rapid decrease in the surface
+  velocity. Such a process might account for some MS stars showing strong mixing and
+  low surface velocities. When solid-body rotation is imposed in the interior, the
+  star is slowed down so rapidly that surface enrichments are smaller than in similar
+  models with no magnetic braking. In both kinds of models (differentially or uniformly
+  rotating), magnetic braking due to a field of a few 100 G significantly reduces
+  the angular momentum of the core during the MS phase. This reduction is much greater
+  in solid-body rotating models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...525L..11M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.5795
+author: Meynet, G. and Eggenberger, P. and Maeder, A.
+author_list:
+- family: Meynet
+  given: G.
+- family: Eggenberger
+  given: P.
+- family: Maeder
+  given: A.
+date-added: 2017-08-10 17:05:37 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1051/0004-6361/201016017
+eid: L11
+eprint: '1011.5795'
+journal: \aap
+keywords: 'magnetic fields, stars: abundances, stars: magnetic field, stars: rotation'
+month: January
+pages: L11
+papis_id: cf8e2e2ae1fa4e99b82ac1c9fd9dbea1
+primaryclass: astro-ph.SR
+ref: meynet.g.2011
+title: Massive star models with magnetic braking
+type: article
+volume: '525'
+year: '2011'

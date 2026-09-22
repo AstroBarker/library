@@ -1,0 +1,41 @@
+abstract: I describe a Bayesian method to account for measurement errors in linear
+  regression of astronomical data. The method allows for heteroscedastic and possibly
+  correlated measurement errors and intrinsic scatter in the regression relationship.
+  The method is based on deriving a likelihood function for the measured data, and
+  I focus on the case when the intrinsic distribution of the independent variables
+  can be approximated using a mixture of Gaussian functions. I generalize the method
+  to incorporate multiple independent variables, nondetections, and selection effects
+  (e.g., Malmquist bias). A Gibbs sampler is described for simulating random draws
+  from the probability distribution of the parameters, given the observed data. I
+  use simulation to compare the method with other common estimators. The simulations
+  illustrate that the Gaussian mixture model outperforms other common estimators and
+  can effectively give constraints on the regression parameters, even when the measurement
+  errors dominate the observed scatter, source detection fraction is low, or the intrinsic
+  distribution of the independent variables is not a mixture of Gaussian functions.
+  I conclude by using this method to fit the X-ray spectral slope as a function of
+  Eddington ratio using a sample of 39 z<~0.8 radio-quiet quasars. I confirm the correlation
+  seen by other authors between the radio-quiet quasar X-ray spectral slope and the
+  Eddington ratio, where the X-ray spectral slope softens as the Eddington ratio increases.
+  IDL routines are made available for performing the regression.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665.1489K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.2774
+author: Kelly, B. C.
+author_list:
+- family: Kelly
+  given: B. C.
+date-added: 2017-08-11 00:27:14 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519947
+eprint: '0705.2774'
+journal: \apj
+keywords: 'Methods: Data Analysis, Methods: Numerical, Methods: Statistical'
+month: August
+pages: 1489--1506
+papis_id: a48e2812d0419cebc150e623466da3c7
+ref: kelly.b.2007
+title: Some Aspects of Measurement Error in Linear Regression of Astronomical Data
+type: article
+volume: '665'
+year: '2007'

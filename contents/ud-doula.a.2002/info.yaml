@@ -1,0 +1,53 @@
+abstract: We present numerical magnetohydrodynamic (MHD) simulations of the effect
+  of stellar dipole magnetic fields on line-driven wind outflows from hot, luminous
+  stars. Unlike previous fixed-field analyses, the simulations here take full account
+  of the dynamical competition between field and flow and thus apply to a full range
+  of magnetic field strength and within both closed and open magnetic topologies.
+  A key result is that the overall degree to which the wind is influenced by the field
+  depends largely on a single, dimensionless ``wind magnetic confinement parameter''
+  eta\textasteriskcentered (=B2eqR2\textasteriskcentered/ Mv\infty{}), which characterizes
+  the ratio between magnetic field energy density and kinetic energy density of the
+  wind. For weak confinement, eta\textasteriskcentered<=1, the field is fully opened
+  by the wind outflow, but nonetheless, for confinements as small as eta\textasteriskcentered=1/10
+  it can have a significant back-influence in enhancing the density and reducing the
+  flow speed near the magnetic equator. For stronger confinement, eta\textasteriskcentered>1,
+  the magnetic field remains closed over a limited range of latitude and height about
+  the equatorial surface, but eventually is opened into a nearly radial configuration
+  at large radii. Within closed loops, the flow is channeled toward loop tops into
+  shock collisions that are strong enough to produce hard X-rays, with the stagnated
+  material then pulled by gravity back onto the star in quite complex and variable
+  inflow patterns. Within open field flow, the equatorial channeling leads to oblique
+  shocks that are again strong enough to produce X-rays and also lead to a thin, dense,
+  slowly outflowing ``disk'' at the magnetic equator. The polar flow is characterized
+  by a faster-than-radial expansion that is more gradual than anticipated in previous
+  one-dimensional flow tube analyses and leads to a much more modest increase in terminal
+  speed (less than 30\%), consistent with observational constraints. Overall, the
+  results here provide a dynamical groundwork for interpreting many types of observations-e.g.,
+  UV line profile variability, redshifted absorption or emission features, enhanced
+  density-squared emission, and X-ray emission-that might be associated with perturbation
+  of hot-star winds by surface magnetic fields.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...576..413U
+arxivurl: http://arxiv.org/abs/astro-ph/0201195
+author: ud-Doula, A. and Owocki, S. P.
+author_list:
+- family: ud-Doula
+  given: A.
+- family: Owocki
+  given: S. P.
+date-added: 2017-08-10 20:50:45 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/341543
+eprint: astro-ph/0201195
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Shock Waves, Stars: Magnetic Fields, Stars:
+  Mass Loss, Stars: Winds, Outflows, X-Rays: Stars'
+month: September
+pages: 413--428
+papis_id: 0fc3d6d38cd0756a79d54140a05fddb4
+ref: ud_doula.a.2002
+title: Dynamical Simulations of Magnetically Channeled Line-driven Stellar Winds.
+  I. Isothermal, Nonrotating, Radially Driven Flow
+type: article
+volume: '576'
+year: '2002'

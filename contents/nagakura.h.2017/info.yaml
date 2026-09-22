@@ -1,0 +1,52 @@
+abstract: 'We present a newly developed moving-mesh technique for the multi-dimensional
+  Boltzmann-Hydro code for the simulation of core-collapse supernovae (CCSNe). What
+  makes this technique different from others is the fact that it treats not only hydrodynamics
+  but also neutrino transfer in the language of the 3 + 1 formalism of general relativity
+  (GR), making use of the shift vector to specify the time evolution of the coordinate
+  system. This means that the transport part of our code is essentially general relativistic,
+  although in this paper it is applied only to the moving curvilinear coordinates
+  in the flat Minknowski spacetime, since the gravity part is still Newtonian. The
+  numerical aspect of the implementation is also described in detail. Employing the
+  axisymmetric two-dimensional version of the code, we conduct two test computations:
+  oscillations and runaways of proto-neutron star (PNS). We show that our new method
+  works fine, tracking the motions of PNS correctly. We believe that this is a major
+  advancement toward the realistic simulation of CCSNe.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJS..229...42N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1605.00666
+author: Nagakura, H. and Iwakami, W. and Furusawa, S. and Sumiyoshi, K. and Yamada,
+  S. and Matsufuru, H. and Imakura, A.
+author_list:
+- family: Nagakura
+  given: H.
+- family: Iwakami
+  given: W.
+- family: Furusawa
+  given: S.
+- family: Sumiyoshi
+  given: K.
+- family: Yamada
+  given: S.
+- family: Matsufuru
+  given: H.
+- family: Imakura
+  given: A.
+date-added: 2017-09-27 12:46:32 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/1538-4365/aa69ea
+eid: '42'
+eprint: '1605.00666'
+journal: \apjs
+keywords: 'methods: numerical, neutrinos, radiative transfer, relativistic processes,
+  stars: supernovae: general'
+month: April
+pages: '42'
+papis_id: fc57caef015c6264c33c4cdbe177f970
+primaryclass: astro-ph.HE
+ref: nagakura.h.2017
+title: Three-dimensional Boltzmann-Hydro Code for Core-collapse in Massive Stars.
+  II. The Implementation of Moving-mesh for Neutron Star Kicks
+type: article
+volume: '229'
+year: '2017'

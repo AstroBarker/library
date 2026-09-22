@@ -1,0 +1,45 @@
+abstract: We investigate marginally stable nuclear burning on the surface of accreting
+  neutron stars as an explanation for the mHz quasi-periodic oscillations (QPOs) observed
+  from three low-mass X-ray binaries. At local accretion rates close to the boundary
+  between unstable and stable burning, the temperature dependence of the nuclear heating
+  rate and cooling rate almost cancel. The result is an oscillatory mode of burning,
+  with an oscillation period close to the geometric mean of the thermal and accretion
+  timescales for the burning layer. We describe a simple one-zone model that illustrates
+  this basic physics and then present detailed multizone hydrodynamic calculations
+  of nuclear burning close to the stability boundary using the KEPLER code. Our models
+  naturally explain the characteristic 2 minute period of the mHz QPOs and why they
+  are seen only in a very narrow range of X-ray luminosities. The oscillation period
+  is sensitive to the accreted hydrogen fraction and the surface gravity, suggesting
+  a new way to probe these parameters. The accretion rate at which the oscillations
+  appear in the theoretical models, however, is an order of magnitude larger than
+  the rate implied by the X-ray luminosity when the mHz QPOs are seen if the accreted
+  material covers the entire neutron star surface. Bringing the models and observations
+  into agreement requires that the accreted material covers only part of the neutron
+  star surface at luminosities of LX>~1037 erg s-1 so that the local accretion rate
+  at the burning depth can be higher than the observed average.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665.1311H
+arxivurl: http://arxiv.org/abs/astro-ph/0511292
+author: Heger, A. and Cumming, A. and Woosley, S. E.
+author_list:
+- family: Heger
+  given: A.
+- family: Cumming
+  given: A.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 17:46:17 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/517491
+eprint: astro-ph/0511292
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Neutron, X-Rays: Bursts'
+month: August
+pages: 1311--1320
+papis_id: 7f5e2bd09a4691d1d5b96aa9810749a7
+ref: heger.a.2007
+title: Millihertz Quasi-periodic Oscillations from Marginally Stable Nuclear Burning
+  on an Accreting Neutron Star
+type: article
+volume: '665'
+year: '2007'

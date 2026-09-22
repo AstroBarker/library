@@ -1,0 +1,31 @@
+abstract: 'This work presents an implementation of the resistive magnetohydrodynamic
+  equations for a generic algebraic Ohm''s law which includes the effects of finite
+  resistivity within full General Relativity. The implementation naturally accounts
+  for magnetic field induced anisotropies and, by adopting a phenomenological current,
+  is able to accurately describe electromagnetic fields in the star and in its magnetosphere.
+  We illustrate the application of this approach in interesting systems with astrophysical
+  implications: the aligned rotator solution and the collapse of a magnetized rotating
+  neutron star to a black hole.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.431.1853P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.0130
+author: Palenzuela, C.
+author_list:
+- family: Palenzuela
+  given: C.
+date-added: 2017-08-10 15:46:11 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/stt311
+eprint: '1212.0130'
+journal: \mnras
+keywords: 'gravitation, MHD, plasmas, methods: numerical'
+month: May
+pages: 1853--1865
+papis_id: 3a54238692404055c9314fb1ffcedb03
+primaryclass: astro-ph.HE
+ref: palenzuela.c.2013
+title: Modelling magnetized neutron stars using resistive magnetohydrodynamics
+type: article
+volume: '431'
+year: '2013'

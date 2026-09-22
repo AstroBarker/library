@@ -1,0 +1,52 @@
+abstract: From Sloan Digital Sky Survey u'g'r'i'z' imaging, we estimate the stellar
+  masses of the host galaxies of 70 low-redshift Type Ia supernovae (SNe Ia, 0.015
+  <z< 0.08) from the hosts' absolute luminosities and mass-to-light ratios. These
+  nearby SNe were discovered largely by searches targeting luminous galaxies, and
+  we find that their host galaxies are substantially more massive than the hosts of
+  SNe discovered by the flux-limited Supernova Legacy Survey (SNLS). Testing four
+  separate light curve fitters, we detect ~2.5sigma correlations of Hubble residuals
+  with both host galaxy size and stellar mass, such that SNe Ia occurring in physically
+  larger, more massive hosts are ~10\% brighter after light curve correction. The
+  Hubble residual is the deviation of the inferred distance modulus to the SN, calculated
+  from its apparent luminosity and light curve properties, away from the expected
+  value at the SN redshift. Marginalizing over linear trends in Hubble residuals with
+  light curve parameters shows that the correlations cannot be attributed to a light-curve-dependent
+  calibration error. Combining 180 higher-redshift ESSENCE, SNLS, and HigherZ SNe
+  with 30 nearby SNe whose host masses are less than 1010.8 M sun in a cosmology fit
+  yields 1 + w = 0.22+0.152 -0.108, while a combination where the 30 nearby SNe instead
+  have host masses greater than 1010.8 M sun yields 1 + w = -0.03+0.217 -0.143. Progenitor
+  metallicity, stellar population age, and dust extinction correlate with galaxy mass
+  and may be responsible for these systematic effects. Host galaxy measurements will
+  yield improved distances to SNe Ia.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715..743K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.0929
+author: Kelly, P. L. and Hicken, M. and Burke, D. L. and Mandel, K. S. and Kirshner,
+  R. P.
+author_list:
+- family: Kelly
+  given: P. L.
+- family: Hicken
+  given: M.
+- family: Burke
+  given: D. L.
+- family: Mandel
+  given: K. S.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-11 01:16:09 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/715/2/743
+eprint: '0912.0929'
+journal: \apj
+keywords: 'supernovae: general'
+month: June
+pages: 743--756
+papis_id: f17555f955ee46716bf4bd4ff90a5f09
+ref: kelly.p.2010
+title: Hubble Residuals of Nearby Type Ia Supernovae are Correlated with Host Galaxy
+  Masses
+type: article
+volume: '715'
+year: '2010'

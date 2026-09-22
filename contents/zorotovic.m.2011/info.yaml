@@ -1,0 +1,58 @@
+abstract: 'Context. We have known for a long time that many of the measured white
+  dwarf (WD) masses in cataclysmic variables (CVs) significantly exceed the mean mass
+  of single WDs. This was thought to be related to observational biases, but recent
+  high-precision measurements of WD masses in a great number of CVs are challenging
+  this interpretation. A crucial question in this context is whether the high WD masses
+  seen among CVs are already imprinted in the mass distribution of their progenitors,
+  i.e. among detached post-common-envelope binaries (PCEBs) that consist of a WD and
+  a main-sequence star.  Aims: We review the measured WD masses of CVs, determine
+  the WD-mass distribution of an extensive sample of PCEBs that are representative
+  for the progenitors of the current CV population (pre-CVs) and compare both distributions.  Methods:
+  We calculate the CV formation time of the PCEBs in our sample by determining the
+  post common-envelope (CE) and the main-sequence evolution of the binary systems
+  and define a pre-CV to be a PCEB that evolves into a semi-detached configuration
+  with stable mass transfer within less than the age of the Galaxy. Possible observational
+  biases affecting the WD-mass distribution for the pre-CV and the CV samples are
+  discussed.  Results: The mean WD mass among CVs is < Mwd > = 0.83 $\pm$ 0.23 M\&sun;,
+  much larger than that found for pre-CVs, < Mwd > = 0.67 \$\pm\$ 0.21 M\&sun;. Selection
+  effects cannot explain the high WD masses observed in CVs. We also note that compared
+  to the predictions of binary-population models, the observed fraction of He-core
+  WDs is small both among CVs (<=10\%) and pre-CVs (<=17 \$\pm\$ 8\%).  Conclusions:
+  We suggest two possible explanations for the high WD masses among CVs, both of which
+  imply substantial revisions to the standard model of CV evolution: either most CVs
+  have formed above the orbital-period gap (which requires a high WD mass to initiate
+  stable mass transfer or a previous phase of thermal-timescale mass transfer), or
+  the mass of the WDs in CVs grows through accretion (which strongly disagrees with
+  the predictions of classical nova models). Both options may imply that CVs contribute
+  to the single-degenerate progenitors of type Ia supernovae. The number of He-core
+  WDs in CVs (<=10\%) is roughly consistent with the number of He-core WDs in pre-CVs
+  (<=17 \$\pm\$ 8\%). This indicates a low value of the CE efficiency.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...536A..42Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4600
+author: Zorotovic, M. and Schreiber, M. R. and Gänsicke, B. T.
+author_list:
+- family: Zorotovic
+  given: M.
+- family: Schreiber
+  given: M. R.
+- family: Gänsicke
+  given: B. T.
+date-added: 2017-08-11 07:17:07 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1051/0004-6361/201116626
+eid: A42
+eprint: '1108.4600'
+journal: \aap
+keywords: 'binaries: close, white dwarfs, novae, cataclysmic variables'
+month: December
+pages: A42
+papis_id: 401cb9ce545ccd72d7d0d371f093dc4d
+primaryclass: astro-ph.SR
+ref: zorotovic.m.2011
+title: Post common envelope binaries from SDSS. XI. The white dwarf mass distributions
+  of CVs and pre-CVs
+type: article
+volume: '536'
+year: '2011'

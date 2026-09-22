@@ -1,0 +1,56 @@
+abstract: 'We have investigated the consequences of merging double white dwarf systems
+  by calculating evolutionary models of accreting white dwarfs. We have considered
+  two cases: a massive C-O white dwarf of ~1 M\&sun; accreting C-O mixture and a low-mass
+  white dwarf with an initial mass of 0.4 M\&sun; accreting matter composed mostly
+  of helium. The accretion rate of the C-O white dwarf is assumed to be 1 \texttimes{}
+  10-5 M\&sun; yr-1. After carbon burning is ignited at Mr ~ 1.04 M\&sun;, the flame
+  propagates inward because of heat conduction. By inserting enough grid points to
+  resolve the structure of the flame, we have obtained almost steady burning in most
+  phases of evolution, but we have found a new phenomenon that the strength of flame
+  sometimes oscillates because of a thermal instability in an early phase of the evolution.
+  In calculating evolutionary models, we have occasionally employed a steady-burning
+  approximation, in which the propagation speed of flame is given a priori. We have
+  considered two extreme cases for the interior abundance of the massive white dwarf:
+  XC = 0.5 and XC = 0.2. For XC = 0.5, the flame becomes very weak at Mr ~ 0.4 M\&sun;
+  and the inward propagation stalls there. But a few thousand years later, the flame
+  is reactivated because of contraction and propagates to the center. For XC = 0.2,
+  the flame propagates smoothly and reaches the center in ~1000 yr. In both cases
+  the C-O mixture has been burned into an O-Ne-Mg mixture without causing an explosive
+  phenomenon. For helium-accreting low-mass white dwarfs, we have considered accretion
+  rates of 1 \texttimes{} 10-7 and 1 \texttimes{} 10-6 M\&sun; yr-1. After a fraction
+  of M\&sun; is accreted to the white dwarf, helium is ignited in the outer part and
+  a shell flash occurs. Such a shell flash diminishes when about 10\% of helium in
+  the convective shell is burned into carbon and oxygen. The next shell flash occurs
+  at a shell interior to the previously flashed shell. After less than 30 shell flashes,
+  the helium ignition occurs at the center and steady burning begins. Thus, the merging
+  produces a helium star that burns helium at the center. The mechanism of the propagation
+  of the burning shell in this case is compressional heating during interpulse phases,
+  in contrast to the case of the carbon-burning flame where the conduction drives
+  the inward propagation of the flame. We infer that such a low-mass double white
+  dwarf system could be a progenitor of the AM CVn stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...500..388S
+arxivurl: http://arxiv.org/abs/astro-ph/9801084
+author: Saio, H. and Nomoto, K.
+author_list:
+- family: Saio
+  given: H.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 15:21:44 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305696
+eprint: astro-ph/9801084
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES,
+  STARS: EVOLUTION, STARS: INTERIORS, STARS: WHITE DWARFS, Accretion, Accretion Disks,
+  Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution, Stars: Interiors,
+  Stars: White Dwarfs'
+month: June
+pages: 388--397
+papis_id: 5180d6e0fa218b8fe9213d1b2bc78e7a
+ref: saio.h.1998
+title: Inward Propagation of Nuclear-burning Shells in Merging C-O and He White Dwarfs
+type: article
+volume: '500'
+year: '1998'

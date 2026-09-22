@@ -1,0 +1,48 @@
+abstract: Relativistic jets are ubiquitous in astrophysical systems that contain compact
+  objects. They transport large amounts of energy to large distances from the source
+  and their interaction with the ambient medium has a crucial effect on the evolution
+  of the system. The propagation of the jet is characterized by the formation of a
+  shocked "head" at the front of the jet which dissipates the jet's energy and a cocoon
+  that surrounds the jet and potentially collimates it. We present here a self-consistent,
+  analytic model that follows the evolution of the jet and its cocoon, and describes
+  their interaction. We show that the critical parameter that determines the properties
+  of the jet-cocoon system is the dimensionless ratio between the jet's energy density
+  and the rest-mass energy density of the ambient medium. This parameter, together
+  with the jet's injection angle, also determines whether the jet is collimated by
+  the cocoon or not. The model is applicable to relativistic, unmagnetized jets on
+  all scales and may be used to determine the conditions in active galactic nucleus
+  (AGN) jets as well as in gamma-ray bursts (GRBs) or microquasars. It shows that
+  AGN and microquasar jets are hydrodynamically collimated due to the interaction
+  with the ambient medium, while GRB jets can be collimated only inside a star and
+  become uncollimated once they break out.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...740..100B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.1326
+author: Bromberg, O. and Nakar, E. and Piran, T. and Sari, R.
+author_list:
+- family: Bromberg
+  given: O.
+- family: Nakar
+  given: E.
+- family: Piran
+  given: T.
+- family: Sari
+  given: R.
+date-added: 2017-08-11 01:09:15 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/740/2/100
+eid: '100'
+eprint: '1107.1326'
+journal: \apj
+keywords: 'galaxies: jets, gamma-ray burst: general, hydrodynamics, ISM: jets and
+  outflows, relativistic processes'
+month: October
+pages: '100'
+papis_id: d2dd9c95557ce84183902ee64e38c7c6
+primaryclass: astro-ph.HE
+ref: bromberg.o.2011a
+title: The Propagation of Relativistic Jets in External Media
+type: article
+volume: '740'
+year: '2011'

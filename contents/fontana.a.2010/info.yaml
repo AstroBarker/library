@@ -1,0 +1,65 @@
+abstract: We present ultradeep optical spectroscopy obtained with FORS2 on the Very
+  Large Telescope (VLT) of seven Lyman-break galaxy (LBG) candidates at z>6.5 selected
+  in the GOODS-S field from Hawk-I/VLT and WFC3/HST imaging. For one galaxy we detect
+  a low significance emission line (S/N <= 7), located at lambda = 9691.5 $\pm$ 0.5
+  {\AA} and with flux 3.4 \texttimes{} 10-18 erg cm-2 s-1. If identified as Lyalpha,
+  it places the LBG at redshift z = 6.972 \$\pm\$ 0.002, with a rest-frame equivalent
+  width EWrf = 13 {\AA}. Using Monte Carlo simulations and conservative EW distribution
+  functions at 2 < z < 6, we estimate that the probability of observing no galaxies
+  in our data with S/N>10 is sime2\%, and that of observing only one galaxy out of
+  seven with S/N = 5 is sime4\%, but these can be as small as ~10-3, depending on
+  the details of the EW distribution. We conclude that either a significant fraction
+  of the candidates is not at high redshift or that some physical mechanism quenches
+  the Lyalpha emission emerging from the galaxies at z>6.5, abruptly reversing the
+  trend of the increasing fraction of strong emitters with increasing redshift observed
+  up to z ~ 6.5. We discuss the possibility that an increasingly neutral intergalactic
+  medium is responsible for such quenching.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...725L.205F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.2754
+author: Fontana, A. and Vanzella, E. and Pentericci, L. and Castellano, M. and Giavalisco,
+  M. and Grazian, A. and Boutsia, K. and Cristiani, S. and Dickinson, M. and Giallongo,
+  E. and Maiolino, R. and Moorwood, A. and Santini, P.
+author_list:
+- family: Fontana
+  given: A.
+- family: Vanzella
+  given: E.
+- family: Pentericci
+  given: L.
+- family: Castellano
+  given: M.
+- family: Giavalisco
+  given: M.
+- family: Grazian
+  given: A.
+- family: Boutsia
+  given: K.
+- family: Cristiani
+  given: S.
+- family: Dickinson
+  given: M.
+- family: Giallongo
+  given: E.
+- family: Maiolino
+  given: R.
+- family: Moorwood
+  given: A.
+- family: Santini
+  given: P.
+date-added: 2017-08-10 20:27:13 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/2041-8205/725/2/L205
+eprint: '1010.2754'
+journal: \apjl
+keywords: 'galaxies: distances and redshifts, galaxies: formation, galaxies: high-redshift'
+month: December
+pages: L205-L209
+papis_id: c36834af66123f4442785d7e0b82ff76
+ref: fontana.a.2010
+title: 'The Lack of Intense Ly$α$ in Ultradeep Spectra of z = 7 Candidates in GOODS-S:
+  Imprint of Reionization?'
+type: article
+volume: '725'
+year: '2010'

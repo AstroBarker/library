@@ -1,0 +1,49 @@
+abstract: We study the formation of the first generation of stars in the standard
+  cold dark matter model. We use a very high resolution cosmological hydrodynamic
+  simulation that achieves a dynamic range of ~1010 in length scale. With accurate
+  treatment of atomic and molecular physics, including the effect of molecular line
+  opacities and cooling by collision-induced continuum emission, it allows us to study
+  the chemothermal evolution of primordial gas clouds to densities up to rho~2\texttimes{}10-8
+  g cm-3 (nH~1016 cm-3) without assuming any a priori equation of state, an improvement
+  of 6 orders of magnitude over previous three-dimensional calculations. We study
+  the evolution of a primordial star-forming gas cloud in the cosmological simulation
+  in detail. The cloud core becomes marginally unstable against chemothermal instability
+  when the gas cooling rate is increased owing to three-body molecule formation. However,
+  since the core is already compact at that point, runaway cooling simply leads to
+  fast condensation to form a single protostellar seed. During the final dynamical
+  collapse, small angular momentum material collapses faster than the rest of the
+  gas and selectively sinks inward. Consequently, the central regions have little
+  specific angular momentum, and rotation does not halt collapse. We, for the first
+  time, obtain an accurate gas mass accretion rate within a 10 Msolar innermost region
+  around the protostar. We carry out protostellar evolution calculations using the
+  obtained accretion rate. The resulting mass of the first star when it reaches the
+  zero-age main sequence is MZAMS~100 Msolar, and less (>~60 Msolar) for substantially
+  reduced accretion rates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...652....6Y
+arxivurl: http://arxiv.org/abs/astro-ph/0606106
+author: Yoshida, N. and Omukai, K. and Hernquist, L. and Abel, T.
+author_list:
+- family: Yoshida
+  given: N.
+- family: Omukai
+  given: K.
+- family: Hernquist
+  given: L.
+- family: Abel
+  given: T.
+date-added: 2017-08-11 06:00:33 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/507978
+eprint: astro-ph/0606106
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, Galaxies: Formation, Stars:
+  Formation'
+month: November
+pages: 6--25
+papis_id: 8a3f783e8bd37cda1f26f96b434f7047
+ref: yoshida.n.2006
+title: Formation of Primordial Stars in a $Łambda$CDM Universe
+type: article
+volume: '652'
+year: '2006'

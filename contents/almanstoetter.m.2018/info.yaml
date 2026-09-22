@@ -1,0 +1,36 @@
+abstract: We present a new method for solving the three-dimensional gravitational
+  potential of a density field on the Yin-Yang grid. Our algorithm is based on a multipole
+  decomposition and completely symmetric with respect to the two Yin-Yang grid patches.
+  It is particularly efficient on distributed-memory machines with a large number
+  of compute tasks, because the amount of data being explicitly communicated is minimized.
+  All operations are performed on the original grid without the need for interpolating
+  data onto an auxiliary spherical mesh.
+adscomment: 8 pages, 4 figures; submitted to ApJ
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180604593A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.04593
+author: Almanstoetter, M. and Melson, T. and Janka, H.-T. and Mueller, E.
+author_list:
+- family: Almanstoetter
+  given: M.
+- family: Melson
+  given: T.
+- family: Janka
+  given: H.-T.
+- family: Mueller
+  given: E.
+date-added: 2018-06-13 19:50:20 +0000
+date-modified: 2018-06-13 19:50:22 +0000
+eprint: '1806.04593'
+journal: ArXiv e-prints
+keywords: Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics
+  - High Energy Astrophysical Phenomena, Physics - Computational Physics
+month: June
+papis_id: f722b987605b97304e93658387e9b3af
+primaryclass: astro-ph.IM
+ref: almanstoetter.m.2018
+title: Parallelized Solution Method of the Three-dimensional Gravitational Potential
+  on the Yin-Yang Grid
+type: article
+year: '2018'

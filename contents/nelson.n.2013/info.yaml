@@ -1,0 +1,53 @@
+abstract: Solar-type stars exhibit a rich variety of magnetic activity. Seeking to
+  explore the convective origins of this activity, we have carried out a series of
+  global three-dimensional magnetohydrodynamic simulations with the anelastic spherical
+  harmonic code. Here we report on the dynamo mechanisms achieved as the effects of
+  artificial diffusion are systematically decreased. The simulations are carried out
+  at a nominal rotation rate of three times the solar value (3 Omega\&sun;), but similar
+  dynamics may also apply to the Sun. Our previous simulations demonstrated that convective
+  dynamos can build persistent toroidal flux structures (magnetic wreaths) in the
+  midst of a turbulent convection zone and that high rotation rates promote the cyclic
+  reversal of these wreaths. Here we demonstrate that magnetic cycles can also be
+  achieved by reducing the diffusion, thus increasing the Reynolds and magnetic Reynolds
+  numbers. In these more turbulent models, diffusive processes no longer play a significant
+  role in the key dynamical balances that establish and maintain the differential
+  rotation and magnetic wreaths. Magnetic reversals are attributed to an imbalance
+  in the poloidal magnetic induction by convective motions that is stabilized at higher
+  diffusion levels. Additionally, the enhanced levels of turbulence lead to greater
+  intermittency in the toroidal magnetic wreaths, promoting the generation of buoyant
+  magnetic loops that rise from the deep interior to the upper regions of our simulated
+  domain. The implications of such turbulence-induced magnetic buoyancy for solar
+  and stellar flux emergence are also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...762...73N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.3129
+author: Nelson, N. J. and Brown, B. P. and Brun, A. S. and Miesch, M. S. and Toomre,
+  J.
+author_list:
+- family: Nelson
+  given: N. J.
+- family: Brown
+  given: B. P.
+- family: Brun
+  given: A. S.
+- family: Miesch
+  given: M. S.
+- family: Toomre
+  given: J.
+date-added: 2017-08-11 07:54:36 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/762/2/73
+eid: '73'
+eprint: '1211.3129'
+journal: \apj
+keywords: 'convection, stars: interiors, stars: magnetic field, Sun: interior'
+month: January
+pages: '73'
+papis_id: 83e5e781c7a439ed63f4077e853632c8
+primaryclass: astro-ph.SR
+ref: nelson.n.2013
+title: Magnetic Wreaths and Cycles in Convective Dynamos
+type: article
+volume: '762'
+year: '2013'

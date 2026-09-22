@@ -1,0 +1,57 @@
+abstract: A simulation of the thermonuclear explosion of a Chandrasekhar-mass C+O
+  white dwarf, the most popular scenario of a Type Ia supernova (SN Ia), is presented.
+  The underlying modeling is pursued in a self-consistent way, treating the combustion
+  wave as a turbulent deflagration using well tested methods developed for laboratory
+  combustion and based on the concept of ``large-eddy simulations'' (LESs). Such consistency
+  requires to capture the onset of the turbulent cascade on resolved scales. This
+  is achieved by computing the dynamical evolution on a 10243 moving grid, which resulted
+  in the best-resolved three-dimensional SN Ia simulation carried out thus far, reaching
+  the limits of what can be done on present supercomputers. Consequently, the model
+  has no free parameters other than the initial conditions at the onset of the explosion,
+  and therefore it has considerable predictive power. Our main objective is to determine
+  to which extent such a simulation can account for the observations of normal SNe
+  Ia. Guided by previous simulations with less resolution and a less sophisticated
+  flame model, initial conditions were chosen that yield a reasonably strong explosion
+  and a sufficient amount of radioactive nickel for a bright display. We show that
+  observables are indeed matched to a reasonable degree. In particular, good agreement
+  is found with the light curves of normal SNe Ia. Moreover, the model reproduces
+  the general features of the abundance stratification as inferred from the analysis
+  of spectra. This indicates that it captures the main features of the explosion mechanism
+  of SNe Ia. However, we also show that even a seemingly best-choice pure deflagration
+  model has shortcomings that indicate the need for a different mode of nuclear burning
+  at late times, perhaps the transition to a detonation at low density.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...668.1132R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.1024
+author: Röpke, F. K. and Hillebrandt, W. and Schmidt, W. and Niemeyer, J. C. and Blinnikov,
+  S. I. and Mazzali, P. A.
+author_list:
+- family: Röpke
+  given: F. K.
+- family: Hillebrandt
+  given: W.
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+- family: Blinnikov
+  given: S. I.
+- family: Mazzali
+  given: P. A.
+date-added: 2017-08-10 15:34:30 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521347
+eprint: '0707.1024'
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Methods: Numerical, Stars: Supernovae: General,
+  Turbulence'
+month: October
+pages: 1132--1139
+papis_id: eecacc56af0058e81784821e410c77ad
+ref: ropke.f.2007
+title: A Three-Dimensional Deflagration Model for Type Ia Supernovae Compared with
+  Observations
+type: article
+volume: '668'
+year: '2007'

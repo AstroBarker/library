@@ -1,0 +1,63 @@
+abstract: We have obtained deep near-infrared images in J and K filters of three fields
+  in the Sculptor galaxy NGC 300 with the ESO VLT and ISAAC Camera. For 16 Cepheid
+  variables in these fields, we have determined J and K magnitudes at two different
+  epochs and have derived their mean magnitudes in these bands. The slopes of the
+  resulting period-luminosity relations are in very good agreement with the slopes
+  of these relations measured in the Large Magellanic Cloud (LMC) by Persson et al.
+  Fitting the LMC slopes to our data, we have derived distance moduli in J and K.
+  Using these values together with the values derived in the optical V and I bands
+  in our previous work, we have determined an improved total reddening for NGC 300
+  of E(B-V)=0.096+/-0.006 mag, which yields extremely consistent values for the absorption-corrected
+  distance modulus of the galaxy from VIJK bands. Our distance result for NGC 300
+  from this combined optical/near-infrared Cepheid study is (m-M)0=26.37+/-0.05 (random)
+  +/- 0.03 (systematic) mag and is tied to an adopted true LMC distance modulus of
+  18.50 mag. Both random and systematic uncertainties are dominated by photometric
+  errors, while errors due to reddening, metallicity effects, and crowding are less
+  important. Our distance determination is consistent with the earlier result from
+  near-infrared (H-band) photometry of two Cepheids in NGC 300 by Madore et al., but
+  far more accurate. Our distance value also agrees with the HST Key Project result
+  of Freedman et al. and with the recent distance estimate for NGC 300 from Butler
+  et al. from the tip of the red giant branch (TRGB) I-band magnitude when our improved
+  reddening is used to calculate the absorption corrections. Our distance results
+  from the different optical and near-infrared bands indicate that the reddening law
+  in NGC 300 must be very similar to the Galactic one. With the results of this work,
+  the distance of NGC 300 relative to the LMC now seems determined with an accuracy
+  of approximately +/-3\%. The distance to this nearby Sculptor galaxy is therefore
+  now known with higher accuracy than that of most (nearer) Local Group galaxies.  Based
+  on observations obtained with the ESO VLT for Large Programme 171.D-0004.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...628..695G
+arxivurl: http://arxiv.org/abs/astro-ph/0503626
+author: Gieren, W. and Pietrzy\ŉski, G. and Soszy\ŉski, I. and Bresolin, F. and Kudritzki,
+  R.-P. and Minniti, D. and Storm, J.
+author_list:
+- family: Gieren
+  given: W.
+- family: Pietrzy\ŉski
+  given: G.
+- family: Soszy\ŉski
+  given: I.
+- family: Bresolin
+  given: F.
+- family: Kudritzki
+  given: R.-P.
+- family: Minniti
+  given: D.
+- family: Storm
+  given: J.
+date-added: 2017-08-11 00:04:48 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/430903
+eprint: astro-ph/0503626
+journal: \apj
+keywords: 'Stars: Variables: Cepheids, Cosmology: Distance Scale, Galaxies: Distances
+  and Redshifts, Galaxies: Individual: NGC Number: NGC 300, Infrared: Stars'
+month: August
+pages: 695--703
+papis_id: f32a28a59612c5067395b400d57e569f
+ref: gieren.w.2005
+title: 'The Araucaria Project: Near-Infrared Photometry of Cepheid Variables in the
+  Sculptor Galaxy NGC 300'
+type: article
+volume: '628'
+year: '2005'

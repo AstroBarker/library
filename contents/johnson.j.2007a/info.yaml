@@ -1,0 +1,46 @@
+abstract: The first galaxies form under the influence of radiative feedback from the
+  first generations of stars. This feedback acts to heat and ionize the gas within
+  the H II regions surrounding the first stars, as well as to photodissociate hydrogen
+  molecules within the larger Lyman-Werner (LW) bubbles that surround these sources.
+  Using a ray-tracing method in three-dimensional cosmological simulations, we self-consistently
+  track the formation of, and radiative feedback from, individual stars in the formation
+  of a protogalaxy. We compute in detail the H II regions of each of these sources,
+  as well as the regions affected by their molecule-dissociating radiation. We follow
+  the thermal, chemical, and dynamical evolution of the primordial gas as it becomes
+  incorporated into the protogalaxy. While the IGM is, in general, optically thick
+  to LW photons only over physical distances of >~30 kpc at redshifts z<~20, the high
+  molecule fraction that is built up in relic H II regions and their increasing volume-filling
+  factor renders even the local IGM optically thick to LW photons over physical distances
+  of a few kiloparsecs. We find that Population III relic black holes may begin accreting
+  efficiently after ~60 Myr from the time of their formation, when the photo-heated
+  relic H II region gas can cool and recollapse into the 106 Msolar minihalo which
+  hosts the black hole. Population II.5 stars, postulated to have masses of the order
+  of 10 Msolar, can also likely form from this recollapsing relic H II region gas.
+  Overall, we find that the local radiative feedback from Population III stars suppresses
+  the star formation rate only slightly.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665...85J
+arxivurl: http://arxiv.org/abs/astro-ph/0612254
+author: Johnson, J. L. and Greif, T. H. and Bromm, V.
+author_list:
+- family: Johnson
+  given: J. L.
+- family: Greif
+  given: T. H.
+- family: Bromm
+  given: V.
+date-added: 2017-08-11 05:45:43 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519212
+eprint: astro-ph/0612254
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, Galaxies: Formation, ISM:
+  H II Regions, Molecular Processes, Stars: Formation'
+month: August
+pages: 85--95
+papis_id: 721f6113d476122dad6fc72908bbec6b
+ref: johnson.j.2007a
+title: Local Radiative Feedback in the Formation of the First Protogalaxies
+type: article
+volume: '665'
+year: '2007'

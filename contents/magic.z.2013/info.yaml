@@ -1,0 +1,71 @@
+abstract: 'Aims: We present the Stagger-grid, a comprehensive grid of time-dependent,
+  three-dimensional (3D), hydrodynamic model atmospheres for late-type stars with
+  realistic treatment of radiative transfer, covering a wide range in stellar parameters.
+  This grid of 3D models is intended for various applications besides studies of stellar
+  convection and atmospheres per se, including stellar parameter determination, stellar
+  spectroscopy and abundance analysis, asteroseismology, calibration of stellar evolution
+  models, interferometry, and extrasolar planet search. In this introductory paper,
+  we describe the methods we applied for the computation of the grid and discuss the
+  general properties of the 3D models as well as of their temporal and spatial averages
+  (here denoted <3D> models).  Methods: All our models were generated with the Stagger-code,
+  using realistic input physics for the equation of state (EOS) and for continuous
+  and line opacities. Our ~ 220 grid models range in effective temperature, Teff,
+  from 4000 to 7000 K in steps of 500 K, in surface gravity, log g, from 1.5 to 5.0
+  in steps of 0.5 dex, and metallicity, [Fe/H], from - 4.0 to + 0.5 in steps of 0.5
+  and 1.0 dex.  Results: We find a tight scaling relation between the vertical velocity
+  and the surface entropy jump, which itself correlates with the constant entropy
+  value of the adiabatic convection zone. The range in intensity contrast is enhanced
+  at lower metallicity. The granule size correlates closely with the pressure scale
+  height sampled at the depth of maximum velocity. We compare the <3D> models with
+  currently widely applied one-dimensional (1D) atmosphere models, as well as with
+  theoretical 1D hydrostatic models generated with the same EOS and opacity tables
+  as the 3D models, in order to isolate the effects of using self-consistent and hydrodynamic
+  modeling of convection, rather than the classical mixing length theory approach.
+  For the first time, we are able to quantify systematically over a broad range of
+  stellar parameters the uncertainties of 1D models arising from the simplified treatment
+  of physics, in particular convective energy transport. In agreement with previous
+  findings, we find that the differences can be rather significant, especially for
+  metal-poor stars.  Appendices A-C are available in electronic form at http://www.aanda.orgFull
+  Table C.1 is available at the CDS via anonymous ftp to http://cdsarc.u-strasbg.fr
+  (ftp://130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/557/A26'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...557A..26M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.2621
+author: Magic, Z. and Collet, R. and Asplund, M. and Trampedach, R. and Hayek, W.
+  and Chiavassa, A. and Stein, R. F. and Nordlund, Å.
+author_list:
+- family: Magic
+  given: Z.
+- family: Collet
+  given: R.
+- family: Asplund
+  given: M.
+- family: Trampedach
+  given: R.
+- family: Hayek
+  given: W.
+- family: Chiavassa
+  given: A.
+- family: Stein
+  given: R. F.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-10 18:33:33 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1051/0004-6361/201321274
+eid: A26
+eprint: '1302.2621'
+journal: \aap
+keywords: 'convection, hydrodynamics, radiative transfer, stars: abundances, stars:
+  atmospheres, stars: fundamental parameters'
+month: September
+pages: A26
+papis_id: c696363160d04f3d21fed47d706af874
+primaryclass: astro-ph.SR
+ref: magic.z.2013
+title: 'The Stagger-grid: A grid of 3D stellar atmosphere models. I. Methods and general
+  properties'
+type: article
+volume: '557'
+year: '2013'

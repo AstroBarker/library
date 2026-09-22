@@ -1,0 +1,57 @@
+abstract: We present the results of a search through the photometric database of Kepler
+  eclipsing binaries looking for evidence of hierarchical triple-star systems. The
+  presence of a third star orbiting the binary can be inferred from eclipse timing
+  variations. We apply a simple algorithm in an automated determination of the eclipse
+  times for all 2157 binaries. The "calculated" eclipse times, based on a constant
+  period model, are subtracted from those observed. The resulting O - C (observed
+  minus calculated times) curves are then visually inspected for periodicities in
+  order to find triple-star candidates. After eliminating false positives due to the
+  beat frequency between the ~1/2 hr Kepler cadence and the binary period, 39 candidate
+  triple systems were identified. The periodic O - C curves for these candidates were
+  then fit for contributions from both the classical Roemer delay and so-called physical
+  delay, in an attempt to extract a number of the system parameters of the triple.
+  We discuss the limitations of the information that can be inferred from these O
+  - C curves without further supplemental input, e.g., ground-based spectroscopy.
+  Based on the limited range of orbital periods for the triple-star systems to which
+  this search is sensitive, we can extrapolate to estimate that at least 20\% of all
+  close binaries have tertiary companions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...768...33R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.0563
+author: Rappaport, S. and Deck, K. and Levine, A. and Borkovits, T. and Carter, J.
+  and El Mellah, I. and Sanchis-Ojeda, R. and Kalomeni, B.
+author_list:
+- family: Rappaport
+  given: S.
+- family: Deck
+  given: K.
+- family: Levine
+  given: A.
+- family: Borkovits
+  given: T.
+- family: Carter
+  given: J.
+- family: El Mellah
+  given: I.
+- family: Sanchis-Ojeda
+  given: R.
+- family: Kalomeni
+  given: B.
+date-added: 2017-08-10 16:13:52 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/768/1/33
+eid: '33'
+eprint: '1302.0563'
+journal: \apj
+keywords: 'binaries: close, binaries: eclipsing, binaries: general, celestial mechanics,
+  stars: formation, stars: statistics'
+month: May
+pages: '33'
+papis_id: b16ca808d0c9d8d992b6d19e859a919c
+primaryclass: astro-ph.SR
+ref: rappaport.s.2013
+title: Triple-star Candidates among the Kepler Binaries
+type: article
+volume: '768'
+year: '2013'

@@ -1,0 +1,53 @@
+abstract: Star formation is slow in the sense that the gas consumption time is much
+  longer than the dynamical time. It is also inefficient; star formation in local
+  galaxies takes place in giant molecular clouds (GMCs), but the fraction of a GMC
+  converted to stars is very small, epsilonGMC ~ 5\%. In luminous starbursts, the
+  GMC lifetime is shorter than the main-sequence lifetime of even the most massive
+  stars, so that supernovae can play no role in GMC disruption. We investigate the
+  disruption of GMCs across a wide range of galaxies from normal spirals to the densest
+  starbursts; we take into account the effects of H II gas pressure, shocked stellar
+  winds, protostellar jets, and radiation pressure produced by the absorption and
+  scattering of starlight on dust grains. In the Milky Way, a combination of three
+  mechanisms---jets, H II gas pressure, and radiation pressure---disrupts the clouds.
+  In more rapidly star-forming galaxies such as "clump" galaxies at high-redshift,
+  ultra-luminous infrared galaxies (ULIRGs), and submillimeter galaxies, radiation
+  pressure dominates natal cloud disruption. We predict the presence of ~10-20 clusters
+  with masses ~107 M sun in local ULIRGs such as Arp 220 and a similar number of clusters
+  with M \textasteriskcentered ~ 108 M sun in high redshift clump galaxies; submillimeter
+  galaxies will have even more massive clusters. We find that epsilonGMC = piGSigmaGMC
+  c/(2(L/M \textasteriskcentered)) for GMCs that are optically thin to far-infrared
+  radiation, where SigmaGMC is the GMC gas surface density. The efficiency in optically
+  thick systems continues to increase with SigmaGMC, but more slowly, reaching ~35\%
+  in the most luminous starbursts. The disruption of bubbles by radiation pressure
+  stirs the interstellar medium (ISM) to velocities of ~10 km s-1 in normal galaxies
+  and to ~100 km s-1 in ULIRGs like Arp 220, consistent with observations. Thus, radiation
+  pressure may play a dominant dynamical role in the ISM of star-forming galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...709..191M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.5358
+author: Murray, N. and Quataert, E. and Thompson, T. A.
+author_list:
+- family: Murray
+  given: N.
+- family: Quataert
+  given: E.
+- family: Thompson
+  given: T. A.
+date-added: 2017-08-10 20:04:25 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/709/1/191
+eprint: '0906.5358'
+journal: \apj
+keywords: 'galaxies: formation, galaxies: general, galaxies: starburst, galaxies:
+  star clusters: general, H II regions, ISM: bubbles, ISM: clouds, stars: formation'
+month: January
+pages: 191--209
+papis_id: 9830608d49dcd2dee47e8c332956dc23
+primaryclass: astro-ph.GA
+ref: murray.n.2010
+title: The Disruption of Giant Molecular Clouds by Radiation Pressure \amp the Efficiency
+  of Star Formation in Galaxies
+type: article
+volume: '709'
+year: '2010'

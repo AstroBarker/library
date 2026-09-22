@@ -1,0 +1,67 @@
+abstract: GEMS (Galaxy Evolution from Morphologies and SEDs) is a large-area (800
+  arcmin2) two-color (F606W and F850LP) imaging survey with the Advanced Camera for
+  Surveys on the Hubble Space Telescope. Centered on the Chandra Deep Field-South,
+  it covers an area of ~28'\texttimes{}28', or about 120 Hubble Deep Field areas,
+  to a depth of mAB(F606W)=28.3(5sigma) and mAB(F850LP)=27.1(5sigma) for compact sources.
+  In its central ~1/4, GEMS incorporates ACS imaging from the GOODS project. Focusing
+  on the redshift range 0.2<~z<~1.1, GEMS provides morphologies and structural parameters
+  for nearly 10,000 galaxies where redshift estimates, luminosities, and SEDs exist
+  from COMBO-17. At the same time, GEMS contains detectable host galaxy images for
+  several hundred faint active galactic nuclei. This paper provides an overview of
+  the science goals, the experiment design, the data reduction, and the science analysis
+  plan for GEMS.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJS..152..163R
+arxivurl: http://arxiv.org/abs/astro-ph/0401427
+author: Rix, H.-W. and Barden, M. and Beckwith, S. V. W. and Bell, E. F. and Borch,
+  A. and Caldwell, J. A. R. and Häussler, B. and Jahnke, K. and Jogee, S. and McIntosh,
+  D. H. and Meisenheimer, K. and Peng, C. Y. and Sanchez, S. F. and Somerville, R.
+  S. and Wisotzki, L. and Wolf, C.
+author_list:
+- family: Rix
+  given: H.-W.
+- family: Barden
+  given: M.
+- family: Beckwith
+  given: S. V. W.
+- family: Bell
+  given: E. F.
+- family: Borch
+  given: A.
+- family: Caldwell
+  given: J. A. R.
+- family: Häussler
+  given: B.
+- family: Jahnke
+  given: K.
+- family: Jogee
+  given: S.
+- family: McIntosh
+  given: D. H.
+- family: Meisenheimer
+  given: K.
+- family: Peng
+  given: C. Y.
+- family: Sanchez
+  given: S. F.
+- family: Somerville
+  given: R. S.
+- family: Wisotzki
+  given: L.
+- family: Wolf
+  given: C.
+date-added: 2017-08-10 17:12:18 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/420885
+eprint: astro-ph/0401427
+journal: \apjs
+keywords: 'Galaxies: Bulges, Galaxies: Evolution, Galaxies: Fundamental Parameters,
+  Galaxies: High-Redshift, Galaxies: Structure'
+month: June
+pages: 163--173
+papis_id: 6a6a48f101b6a7a73243941474ce7983
+ref: rix.h_w.2004
+title: 'GEMS: Galaxy Evolution from Morphologies and SEDs'
+type: article
+volume: '152'
+year: '2004'

@@ -1,0 +1,32 @@
+abstract: We have developed a method for the linear reconstruction of an image from
+  undersampled, dithered data. The algorithm, known as Variable-Pixel Linear Reconstruction,
+  or informally as ``Drizzle,'' preserves photometry and resolution, can weight input
+  images according to the statistical significance of each pixel, and removes the
+  effects of geometric distortion on both image shape and photometry. This paper presents
+  the method and its implementation. The photometric and astrometric accuracy and
+  image fidelity of the algorithm as well as the noise characteristics of output images
+  are discussed. In addition, we describe the use of drizzling to combine dithered
+  images in the presence of cosmic rays.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002PASP..114..144F
+arxivurl: http://arxiv.org/abs/astro-ph/9808087
+author: Fruchter, A. S. and Hook, R. N.
+author_list:
+- family: Fruchter
+  given: A. S.
+- family: Hook
+  given: R. N.
+date-added: 2017-08-10 17:24:23 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338393
+eprint: astro-ph/9808087
+journal: \pasp
+keywords: 'Methods: Data Analysis, Techniques: Photometric'
+month: February
+pages: 144--152
+papis_id: 03246699c93a38c05afc8a415d42b097
+ref: fruchter.a.2002
+title: 'Drizzle: A Method for the Linear Reconstruction of Undersampled Images'
+type: article
+volume: '114'
+year: '2002'

@@ -1,0 +1,53 @@
+abstract: Observational evidence suggests a link between long-duration gamma-ray bursts
+  (LGRBs) and Type Ic supernovae. Here, we propose a potential mechanism for Type
+  Ic supernovae in LGRB progenitors powered solely by accretion energy. We present
+  spherically symmetric hydrodynamic simulations of the long-term accretion of a rotating
+  gamma-ray burst progenitor star, a "collapsar," onto the central compact object,
+  which we take to be a black hole. The simulations were carried out with the adaptive
+  mesh refinement code FLASH in one spatial dimension and with rotation, an explicit
+  shear viscosity, and convection in the mixing length theory approximation. Once
+  the accretion flow becomes rotationally supported outside of the black hole, an
+  accretion shock forms and traverses the stellar envelope. Energy is carried from
+  the central geometrically thick accretion disk to the stellar envelope by convection.
+  Energy losses through neutrino emission and nuclear photodisintegration are calculated
+  but do not seem important following the rapid early drop of the accretion rate following
+  circularization. We find that the shock velocity, energy, and unbound mass are sensitive
+  to convective efficiency, effective viscosity, and initial stellar angular momentum.
+  Our simulations show that given the appropriate combinations of stellar and physical
+  parameters, explosions with energies ~5 \texttimes{} 1050 erg, velocities ~3000
+  km s-1, and unbound material masses >~ 6 M \&sun; are possible in a rapidly rotating
+  16 M \&sun; main-sequence progenitor star. Further work is needed to constrain the
+  values of these parameters, to identify the likely outcomes in more plausible and
+  massive LRGB progenitors, and to explore nucleosynthetic implications.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...750..163L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.1415
+author: Lindner, C. C. and Milosavljević, M. and Shen, R. and Kumar, P.
+author_list:
+- family: Lindner
+  given: C. C.
+- family: Milosavljević
+  given: M.
+- family: Shen
+  given: R.
+- family: Kumar
+  given: P.
+date-added: 2017-08-11 00:31:35 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/750/2/163
+eid: '163'
+eprint: '1108.1415'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, gamma-ray burst: general,
+  stars: winds, outflows, supernovae: general'
+month: May
+pages: '163'
+papis_id: 2b877b7acf3dafcc35a0c71863dea1fd
+primaryclass: astro-ph.HE
+ref: lindner.c.2012
+title: Simulations of Accretion Powered Supernovae in the Progenitors of Gamma-Ray
+  Bursts
+type: article
+volume: '750'
+year: '2012'

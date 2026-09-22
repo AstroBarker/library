@@ -1,0 +1,56 @@
+abstract: Some supernovae (SNe) show evidence for mass-loss events taking place prior
+  to their explosions. Measuring their pre-outburst mass-loss rates provides essential
+  information regarding the mechanisms that are responsible for these events. Here
+  we present XMM-Newton and Swift X-ray observations taken after the latest, and presumably
+  the final, outburst of SN 2009ip. We use these observations as well as new near-infrared
+  and visible-light spectra and published radio and visible-light observations to
+  put six independent order-of-magnitude constraints on the mass-loss rate of the
+  SN progenitor prior to the explosion. Our methods utilize the X-ray luminosity,
+  the bound-free absorption, the Halpha luminosity, the SN rise time, free-free absorption,
+  and the bolometric luminosity of the outburst detected prior to the explosion. Assuming
+  spherical mass loss with a wind-density profile, we estimate that the effective
+  mass-loss rate from the progenitor was between 10-3 and 10-2 M \&sun; yr-1, over
+  a few years prior to the explosion, with a velocity of ~103 km s-1. This mass-loss
+  rate corresponds to a total circumstellar matter (CSM) mass of ~0.04 M \&sun;, within
+  6 \texttimes{} 1015 cm of the SN. We note that the mass-loss rate estimate based
+  on the Halpha luminosity is higher by an order of magnitude. This can be explained
+  if the narrow-line Halpha component is generated at radii larger than the shock
+  radius, or if the CSM has an aspherical geometry. We discuss simple geometries which
+  are consistent with our results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...768...47O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.3894
+author: Ofek, E. O. and Lin, L. and Kouveliotou, C. and Younes, G. and Gö ̌güş, E.
+  and Kasliwal, M. M. and Cao, Y.
+author_list:
+- family: Ofek
+  given: E. O.
+- family: Lin
+  given: L.
+- family: Kouveliotou
+  given: C.
+- family: Younes
+  given: G.
+- family: Gö ̌güş
+  given: E.
+- family: Kasliwal
+  given: M. M.
+- family: Cao
+  given: Y.
+date-added: 2017-08-10 15:09:50 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/768/1/47
+eid: '47'
+eprint: '1303.3894'
+journal: \apj
+keywords: 'stars: mass-loss, supernovae: general, supernovae: individual: SN 2009ip'
+month: May
+pages: '47'
+papis_id: 6a7f3b1a67376a4a1817949f79ff8189
+primaryclass: astro-ph.HE
+ref: ofek.e.2013a
+title: 'SN 2009ip: Constraints on the Progenitor Mass-loss Rate'
+type: article
+volume: '768'
+year: '2013'

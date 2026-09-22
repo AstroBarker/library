@@ -1,0 +1,436 @@
+abstract: The Sloan Digital Sky Survey (SDSS) started a new phase in 2008 August,
+  with new instrumentation and new surveys focused on Galactic structure and chemical
+  evolution, measurements of the baryon oscillation feature in the clustering of galaxies
+  and the quasar Lyalpha forest, and a radial velocity search for planets around ~8000
+  stars. This paper describes the first data release of SDSS-III (and the eighth counting
+  from the beginning of the SDSS). The release includes five-band imaging of roughly
+  5200 deg2 in the southern Galactic cap, bringing the total footprint of the SDSS
+  imaging to 14,555 deg2, or over a third of the Celestial Sphere. All the imaging
+  data have been reprocessed with an improved sky-subtraction algorithm and a final,
+  self-consistent photometric recalibration and flat-field determination. This release
+  also includes all data from the second phase of the Sloan Extension for Galactic
+  Understanding and Exploration (SEGUE-2), consisting of spectroscopy of approximately
+  118,000 stars at both high and low Galactic latitudes. All the more than half a
+  million stellar spectra obtained with the SDSS spectrograph have been reprocessed
+  through an improved stellar parameter pipeline, which has better determination of
+  metallicity for high-metallicity stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..193...29A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.1559
+author: Aihara, H. and Allende Prieto, C. and An, D. and Anderson, S. F. and Aubourg,
+  É. and Balbinot, E. and Beers, T. C. and Berlind, A. A. and Bickerton, S. J. and
+  Bizyaev, D. and Blanton, M. R. and Bochanski, J. J. and Bolton, A. S. and Bovy,
+  J. and Brandt, W. N. and Brinkmann, J. and Brown, P. J. and Brownstein, J. R. and
+  Busca, N. G. and Campbell, H. and Carr, M. A. and Chen, Y. and Chiappini, C. and
+  Comparat, J. and Connolly, N. and Cortes, M. and Croft, R. A. C. and Cuesta, A.
+  J. and da Costa, L. N. and Davenport, J. R. A. and Dawson, K. and Dhital, S. and
+  Ealet, A. and Ebelke, G. L. and Edmondson, E. M. and Eisenstein, D. J. and Escoffier,
+  S. and Esposito, M. and Evans, M. L. and Fan, X. and Femenía Castellá, B. and Font-Ribera,
+  A. and Frinchaboy, P. M. and Ge, J. and Gillespie, B. A. and Gilmore, G. and González
+  Hernández, J. I. and Gott, J. R. and Gould, A. and Grebel, E. K. and Gunn, J. E.
+  and Hamilton, J.-C. and Harding, P. and Harris, D. W. and Hawley, S. L. and Hearty,
+  F. R. and Ho, S. and Hogg, D. W. and Holtzman, J. A. and Honscheid, K. and Inada,
+  N. and Ivans, I. I. and Jiang, L. and Johnson, J. A. and Jordan, C. and Jordan,
+  W. P. and Kazin, E. A. and Kirkby, D. and Klaene, M. A. and Knapp, G. R. and Kneib,
+  J.-P. and Kochanek, C. S. and Koesterke, L. and Kollmeier, J. A. and Kron, R. G.
+  and Lampeitl, H. and Lang, D. and Le Goff, J.-M. and Lee, Y. S. and Lin, Y.-T. and
+  Long, D. C. and Loomis, C. P. and Lucatello, S. and Lundgren, B. and Lupton, R.
+  H. and Ma, Z. and MacDonald, N. and Mahadevan, S. and Maia, M. A. G. and Makler,
+  M. and Malanushenko, E. and Malanushenko, V. and Mandelbaum, R. and Maraston, C.
+  and Margala, D. and Masters, K. L. and McBride, C. K. and McGehee, P. M. and McGreer,
+  I. D. and Ménard, B. and Miralda-Escudé, J. and Morrison, H. L. and Mullally, F.
+  and Muna, D. and Munn, J. A. and Murayama, H. and Myers, A. D. and Naugle, T. and
+  Neto, A. F. and Nguyen, D. C. and Nichol, R. C. and O'Connell, R. W. and Ogando,
+  R. L. C. and Olmstead, M. D. and Oravetz, D. J. and Padmanabhan, N. and Palanque-Delabrouille,
+  N. and Pan, K. and Pandey, P. and Pâris, I. and Percival, W. J. and Petitjean, P.
+  and Pfaffenberger, R. and Pforr, J. and Phleps, S. and Pichon, C. and Pieri, M.
+  M. and Prada, F. and Price-Whelan, A. M. and Raddick, M. J. and Ramos, B. H. F.
+  and Reylé, C. and Rich, J. and Richards, G. T. and Rix, H.-W. and Robin, A. C. and
+  Rocha-Pinto, H. J. and Rockosi, C. M. and Roe, N. A. and Rollinde, E. and Ross,
+  A. J. and Ross, N. P. and Rossetto, B. M. and Sánchez, A. G. and Sayres, C. and
+  Schlegel, D. J. and Schlesinger, K. J. and Schmidt, S. J. and Schneider, D. P. and
+  Sheldon, E. and Shu, Y. and Simmerer, J. and Simmons, A. E. and Sivarani, T. and
+  Snedden, S. A. and Sobeck, J. S. and Steinmetz, M. and Strauss, M. A. and Szalay,
+  A. S. and Tanaka, M. and Thakar, A. R. and Thomas, D. and Tinker, J. L. and Tofflemire,
+  B. M. and Tojeiro, R. and Tremonti, C. A. and Vandenberg, J. and Vargas Magaña,
+  M. and Verde, L. and Vogt, N. P. and Wake, D. A. and Wang, J. and Weaver, B. A.
+  and Weinberg, D. H. and White, M. and White, S. D. M. and Yanny, B. and Yasuda,
+  N. and Yeche, C. and Zehavi, I.
+author_list:
+- family: Aihara
+  given: H.
+- family: Allende Prieto
+  given: C.
+- family: An
+  given: D.
+- family: Anderson
+  given: S. F.
+- family: Aubourg
+  given: É.
+- family: Balbinot
+  given: E.
+- family: Beers
+  given: T. C.
+- family: Berlind
+  given: A. A.
+- family: Bickerton
+  given: S. J.
+- family: Bizyaev
+  given: D.
+- family: Blanton
+  given: M. R.
+- family: Bochanski
+  given: J. J.
+- family: Bolton
+  given: A. S.
+- family: Bovy
+  given: J.
+- family: Brandt
+  given: W. N.
+- family: Brinkmann
+  given: J.
+- family: Brown
+  given: P. J.
+- family: Brownstein
+  given: J. R.
+- family: Busca
+  given: N. G.
+- family: Campbell
+  given: H.
+- family: Carr
+  given: M. A.
+- family: Chen
+  given: Y.
+- family: Chiappini
+  given: C.
+- family: Comparat
+  given: J.
+- family: Connolly
+  given: N.
+- family: Cortes
+  given: M.
+- family: Croft
+  given: R. A. C.
+- family: Cuesta
+  given: A. J.
+- family: da Costa
+  given: L. N.
+- family: Davenport
+  given: J. R. A.
+- family: Dawson
+  given: K.
+- family: Dhital
+  given: S.
+- family: Ealet
+  given: A.
+- family: Ebelke
+  given: G. L.
+- family: Edmondson
+  given: E. M.
+- family: Eisenstein
+  given: D. J.
+- family: Escoffier
+  given: S.
+- family: Esposito
+  given: M.
+- family: Evans
+  given: M. L.
+- family: Fan
+  given: X.
+- family: Femenía Castellá
+  given: B.
+- family: Font-Ribera
+  given: A.
+- family: Frinchaboy
+  given: P. M.
+- family: Ge
+  given: J.
+- family: Gillespie
+  given: B. A.
+- family: Gilmore
+  given: G.
+- family: González Hernández
+  given: J. I.
+- family: Gott
+  given: J. R.
+- family: Gould
+  given: A.
+- family: Grebel
+  given: E. K.
+- family: Gunn
+  given: J. E.
+- family: Hamilton
+  given: J.-C.
+- family: Harding
+  given: P.
+- family: Harris
+  given: D. W.
+- family: Hawley
+  given: S. L.
+- family: Hearty
+  given: F. R.
+- family: Ho
+  given: S.
+- family: Hogg
+  given: D. W.
+- family: Holtzman
+  given: J. A.
+- family: Honscheid
+  given: K.
+- family: Inada
+  given: N.
+- family: Ivans
+  given: I. I.
+- family: Jiang
+  given: L.
+- family: Johnson
+  given: J. A.
+- family: Jordan
+  given: C.
+- family: Jordan
+  given: W. P.
+- family: Kazin
+  given: E. A.
+- family: Kirkby
+  given: D.
+- family: Klaene
+  given: M. A.
+- family: Knapp
+  given: G. R.
+- family: Kneib
+  given: J.-P.
+- family: Kochanek
+  given: C. S.
+- family: Koesterke
+  given: L.
+- family: Kollmeier
+  given: J. A.
+- family: Kron
+  given: R. G.
+- family: Lampeitl
+  given: H.
+- family: Lang
+  given: D.
+- family: Le Goff
+  given: J.-M.
+- family: Lee
+  given: Y. S.
+- family: Lin
+  given: Y.-T.
+- family: Long
+  given: D. C.
+- family: Loomis
+  given: C. P.
+- family: Lucatello
+  given: S.
+- family: Lundgren
+  given: B.
+- family: Lupton
+  given: R. H.
+- family: Ma
+  given: Z.
+- family: MacDonald
+  given: N.
+- family: Mahadevan
+  given: S.
+- family: Maia
+  given: M. A. G.
+- family: Makler
+  given: M.
+- family: Malanushenko
+  given: E.
+- family: Malanushenko
+  given: V.
+- family: Mandelbaum
+  given: R.
+- family: Maraston
+  given: C.
+- family: Margala
+  given: D.
+- family: Masters
+  given: K. L.
+- family: McBride
+  given: C. K.
+- family: McGehee
+  given: P. M.
+- family: McGreer
+  given: I. D.
+- family: Ménard
+  given: B.
+- family: Miralda-Escudé
+  given: J.
+- family: Morrison
+  given: H. L.
+- family: Mullally
+  given: F.
+- family: Muna
+  given: D.
+- family: Munn
+  given: J. A.
+- family: Murayama
+  given: H.
+- family: Myers
+  given: A. D.
+- family: Naugle
+  given: T.
+- family: Neto
+  given: A. F.
+- family: Nguyen
+  given: D. C.
+- family: Nichol
+  given: R. C.
+- family: O'Connell
+  given: R. W.
+- family: Ogando
+  given: R. L. C.
+- family: Olmstead
+  given: M. D.
+- family: Oravetz
+  given: D. J.
+- family: Padmanabhan
+  given: N.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Pan
+  given: K.
+- family: Pandey
+  given: P.
+- family: Pâris
+  given: I.
+- family: Percival
+  given: W. J.
+- family: Petitjean
+  given: P.
+- family: Pfaffenberger
+  given: R.
+- family: Pforr
+  given: J.
+- family: Phleps
+  given: S.
+- family: Pichon
+  given: C.
+- family: Pieri
+  given: M. M.
+- family: Prada
+  given: F.
+- family: Price-Whelan
+  given: A. M.
+- family: Raddick
+  given: M. J.
+- family: Ramos
+  given: B. H. F.
+- family: Reylé
+  given: C.
+- family: Rich
+  given: J.
+- family: Richards
+  given: G. T.
+- family: Rix
+  given: H.-W.
+- family: Robin
+  given: A. C.
+- family: Rocha-Pinto
+  given: H. J.
+- family: Rockosi
+  given: C. M.
+- family: Roe
+  given: N. A.
+- family: Rollinde
+  given: E.
+- family: Ross
+  given: A. J.
+- family: Ross
+  given: N. P.
+- family: Rossetto
+  given: B. M.
+- family: Sánchez
+  given: A. G.
+- family: Sayres
+  given: C.
+- family: Schlegel
+  given: D. J.
+- family: Schlesinger
+  given: K. J.
+- family: Schmidt
+  given: S. J.
+- family: Schneider
+  given: D. P.
+- family: Sheldon
+  given: E.
+- family: Shu
+  given: Y.
+- family: Simmerer
+  given: J.
+- family: Simmons
+  given: A. E.
+- family: Sivarani
+  given: T.
+- family: Snedden
+  given: S. A.
+- family: Sobeck
+  given: J. S.
+- family: Steinmetz
+  given: M.
+- family: Strauss
+  given: M. A.
+- family: Szalay
+  given: A. S.
+- family: Tanaka
+  given: M.
+- family: Thakar
+  given: A. R.
+- family: Thomas
+  given: D.
+- family: Tinker
+  given: J. L.
+- family: Tofflemire
+  given: B. M.
+- family: Tojeiro
+  given: R.
+- family: Tremonti
+  given: C. A.
+- family: Vandenberg
+  given: J.
+- family: Vargas Magaña
+  given: M.
+- family: Verde
+  given: L.
+- family: Vogt
+  given: N. P.
+- family: Wake
+  given: D. A.
+- family: Wang
+  given: J.
+- family: Weaver
+  given: B. A.
+- family: Weinberg
+  given: D. H.
+- family: White
+  given: M.
+- family: White
+  given: S. D. M.
+- family: Yanny
+  given: B.
+- family: Yasuda
+  given: N.
+- family: Yeche
+  given: C.
+- family: Zehavi
+  given: I.
+date-added: 2017-08-11 08:15:41 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0067-0049/193/2/29
+eid: '29'
+eprint: '1101.1559'
+journal: \apjs
+keywords: atlases, catalogs, surveys
+month: April
+pages: '29'
+papis_id: 8894b0d3b77b76e002caa30881be4575
+primaryclass: astro-ph.IM
+ref: aihara.h.2011
+title: 'The Eighth Data Release of the Sloan Digital Sky Survey: First Data from SDSS-III'
+type: article
+volume: '193'
+year: '2011'

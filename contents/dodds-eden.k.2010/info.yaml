@@ -1,0 +1,58 @@
+abstract: The emission from Sgr A\textasteriskcentered, the supermassive black hole
+  in the Galactic Center, shows order of magnitude variability ("flares") a few times
+  a day that is particularly prominent in the near-infrared (NIR) and X-rays. We present
+  a time-dependent model for these flares motivated by the hypothesis that dissipation
+  of magnetic energy powers the flares. We show that episodic magnetic reconnection
+  can occur near the last stable circular orbit in time-dependent magnetohydrodynamic
+  simulations of black hole accretion---the timescales and energetics of these events
+  are broadly consistent with the flares from Sgr A\textasteriskcentered. Motivated
+  by these results, we present a spatially one-zone time-dependent model for the electron
+  distribution function in flares, including energy loss due to synchrotron cooling
+  and adiabatic expansion. Synchrotron emission from transiently accelerated particles
+  can explain the NIR/X-ray light curves and spectra of a luminous flare observed
+  on 2007 April 4. A significant decrease in the magnetic field strength during the
+  flare (coincident with the electron acceleration) is required to explain the simultaneity
+  and symmetry of the simultaneous light curves. Our models predict that the NIR and
+  X-ray spectral indices are related by Deltaalpha ~= 0.5 (where nuF nu vprop nualpha)
+  and that there is only modest variation in the spectral index during flares. We
+  also explore implications of this model for longer wavelength (radio-submillimeter)
+  emission seemingly associated with X-ray and NIR flares; we argue that a few hour
+  decrease in the submillimeter emission is a more generic consequence of large-scale
+  magnetic reconnection than delayed radio emission from adiabatic expansion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...725..450D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.0389
+author: Dodds-Eden, K. and Sharma, P. and Quataert, E. and Genzel, R. and Gillessen,
+  S. and Eisenhauer, F. and Porquet, D.
+author_list:
+- family: Dodds-Eden
+  given: K.
+- family: Sharma
+  given: P.
+- family: Quataert
+  given: E.
+- family: Genzel
+  given: R.
+- family: Gillessen
+  given: S.
+- family: Eisenhauer
+  given: F.
+- family: Porquet
+  given: D.
+date-added: 2017-08-10 22:25:38 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/725/1/450
+eprint: '1005.0389'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, Galaxy: center, infrared:
+  general, radiation mechanisms: general'
+month: December
+pages: 450--465
+papis_id: a8c753f3419270bd93c10b29dd4f71e0
+primaryclass: astro-ph.GA
+ref: dodds_eden.k.2010
+title: Time-Dependent Models of Flares from Sagittarius A\textasteriskcentered
+type: article
+volume: '725'
+year: '2010'

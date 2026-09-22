@@ -1,0 +1,49 @@
+abstract: We have investigated the development of current-driven (CD) kink instability
+  through three-dimensional relativistic magnetohydrodynamic simulations. A static
+  force-free equilibrium helical magnetic configuration is considered in order to
+  study the influence of the initial configuration on the linear and nonlinear evolution
+  of the instability. We found that the initial configuration is strongly distorted
+  but not disrupted by the kink instability. The instability develops as predicted
+  by linear theory. In the nonlinear regime, the kink amplitude continues to increase
+  up to the terminal simulation time, albeit at different rates, for all but one simulation.
+  The growth rate and nonlinear evolution of the CD kink instability depend moderately
+  on the density profile and strongly on the magnetic pitch profile. The growth rate
+  of the kink mode is reduced in the linear regime by an increase in the magnetic
+  pitch with radius and reaches the nonlinear regime at a later time than the case
+  with constant helical pitch. On the other hand, the growth rate of the kink mode
+  is increased in the linear regime by a decrease in the magnetic pitch with radius
+  and reaches the nonlinear regime sooner than the case with constant magnetic pitch.
+  Kink amplitude growth in the nonlinear regime for decreasing magnetic pitch leads
+  to a slender helically twisted column wrapped by magnetic field. On the other hand,
+  kink amplitude growth in the nonlinear regime nearly ceases for increasing magnetic
+  pitch.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700..684M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0903.5358
+author: Mizuno, Y. and Lyubarsky, Y. and Nishikawa, K.-I. and Hardee, P. E.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Lyubarsky
+  given: Y.
+- family: Nishikawa
+  given: K.-I.
+- family: Hardee
+  given: P. E.
+date-added: 2017-08-10 16:30:45 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/700/1/684
+eprint: '0903.5358'
+journal: \apj
+keywords: 'galaxies: jets, instabilities, methods: numerical, MHD'
+month: July
+pages: 684--693
+papis_id: 468f7526be76956670bcb4513f1d24f8
+primaryclass: astro-ph.HE
+ref: mizuno.y.2009
+title: Three-Dimensional Relativistic Magnetohydrodynamic Simulations of Current-Driven
+  Instability. I. Instability of a Static Column
+type: article
+volume: '700'
+year: '2009'

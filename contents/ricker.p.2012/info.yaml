@@ -1,0 +1,44 @@
+abstract: The hydrodynamic evolution of the common-envelope (CE) phase of a low-mass
+  binary composed of a 1.05 M \&sun; red giant and a 0.6 M \&sun; companion has been
+  followed for five orbits of the system using a high-resolution method in three spatial
+  dimensions. During the rapid inspiral phase, the interaction of the companion with
+  the red giant's extended atmosphere causes about 25\% of the CE to be ejected from
+  the system, with mass continuing to be lost at the end of the simulation at a rate
+  ~2 M \&sun; yr-1. In the process the resulting loss of angular momentum and energy
+  reduces the orbital separation by a factor of seven. After this inspiral phase the
+  eccentricity of the orbit rapidly decreases with time. The gravitational drag dominates
+  hydrodynamic drag at all times in the evolution, and the commonly used Bondi-Hoyle-Lyttleton
+  prescription for estimating the accretion rate onto the companion significantly
+  overestimates the true rate. On scales comparable to the orbital separation, the
+  gas flow in the orbital plane in the vicinity of the two cores is subsonic with
+  the gas nearly corotating with the red giant core and circulating about the red
+  giant companion. On larger scales, 90\% of the outflow is contained within 30$\,^{\circ}$
+  of the orbital plane, and the spiral shocks in this material leave an imprint on
+  the density and velocity structure. Of the energy released by the inspiral of the
+  cores, only about 25\% goes toward ejection of the envelope.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...746...74R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.3889
+author: Ricker, P. M. and Taam, R. E.
+author_list:
+- family: Ricker
+  given: P. M.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 23:26:03 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/746/1/74
+eid: '74'
+eprint: '1107.3889'
+journal: \apj
+keywords: 'binaries: close, hydrodynamics, methods: numerical, stars: winds, outflows'
+month: February
+pages: '74'
+papis_id: 02ab7bd69a64c9edf2187813d5bf70ee
+primaryclass: astro-ph.SR
+ref: ricker.p.2012
+title: An AMR Study of the Common-envelope Phase of Binary Evolution
+type: article
+volume: '746'
+year: '2012'

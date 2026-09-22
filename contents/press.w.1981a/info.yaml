@@ -1,0 +1,35 @@
+abstract: Starting from the usual spherical mode and planar Boussinesq formulations,
+  equations are derived for the propagation and dissipation of internal gravity waves
+  in a stellar interior. The sun is 'transparent' to such waves if they have sufficiently
+  low mode number (less than 10) and high frequency (more than 10 times the convective
+  overturn frequency). Even when spatially and temporally incoherent, such waves focus
+  toward the center of the sun, so that their amplitude greatly increases there. An
+  order of magnitude estimate suggests that the internal waves generated at the base
+  of the convective zone may become nonlinear in amplitude close to the solar center.
+  If this happens, several effects become important and can affect, e.g., the expected
+  Cl-37 solar neutrino signature. Possible effects include (1) hydraulically enhanced
+  diffusion of entropy, which can increase the effective radiative opacity of the
+  solar material by a factor of order unity, and (2) wave-induced turbulence, which
+  can lead to species mixing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1981ApJ...245..286P
+author: Press, W. H.
+author_list:
+- family: Press
+  given: W. H.
+date-added: 2017-08-10 15:16:34 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/158809
+journal: \apj
+keywords: Internal Waves, Radiative Transfer, Solar Interior, Solar Neutrinos, Stellar
+  Interiors, Stellar Radiation, Stellar Structure, Boussinesq Approximation, Collimation,
+  Convection, Diffusivity, Nonlinearity, Opacity, Perturbation Theory, Plasma Frequencies,
+  Plasma Waves, Stellar Models, Stellar Oscillations, Sun, Turbulence Effects
+month: April
+pages: 286--303
+papis_id: 753893b2ee3b0a1769c8d51fb7c939a7
+ref: press.w.1981a
+title: Radiative and other effects from internal waves in solar and stellar interiors
+type: article
+volume: '245'
+year: '1981'

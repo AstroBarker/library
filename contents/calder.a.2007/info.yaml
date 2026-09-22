@@ -1,0 +1,53 @@
+abstract: We develop and calibrate a realistic model flame for hydrodynamic simulations
+  of deflagrations in white dwarf (Type Ia) supernovae. Our flame model builds on
+  the advection-diffusion-reaction model of Khokhlov and includes electron screening
+  and Coulomb corrections to the equation of state in a self-consistent way. We calibrate
+  this model flame-its energetics and timescales for energy release and neutronization-with
+  self-heating reaction network calculations that include both these Coulomb effects
+  and up-to-date weak interactions. The burned material evolves postflame due to both
+  weak interactions and hydrodynamic changes in density and temperature. We develop
+  a scheme to follow the evolution, including neutronization, of the NSE state subsequent
+  to the passage of the flame front. As a result, our model flame is suitable for
+  deflagration simulations over a wide range of initial central densities and can
+  track the temperature and electron fraction of the burned material through the explosion
+  and into the expansion of the ejecta.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...656..313C
+arxivurl: http://arxiv.org/abs/astro-ph/0611009
+author: Calder, A. C. and Townsley, D. M. and Seitenzahl, I. R. and Peng, F. and Messer,
+  O. E. B. and Vladimirova, N. and Brown, E. F. and Truran, J. W. and Lamb, D. Q.
+author_list:
+- family: Calder
+  given: A. C.
+- family: Townsley
+  given: D. M.
+- family: Seitenzahl
+  given: I. R.
+- family: Peng
+  given: F.
+- family: Messer
+  given: O. E. B.
+- family: Vladimirova
+  given: N.
+- family: Brown
+  given: E. F.
+- family: Truran
+  given: J. W.
+- family: Lamb
+  given: D. Q.
+date-added: 2017-08-10 17:38:26 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510709
+eprint: astro-ph/0611009
+journal: \apj
+keywords: 'Hydrodynamics, Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Supernovae:
+  General, Stars: White Dwarfs'
+month: February
+pages: 313--332
+papis_id: 9dad9ed34f50f724a1c441675426c2fa
+ref: calder.a.2007
+title: 'Capturing the Fire: Flame Energetics and Neutronization for Type Ia Supernova
+  Simulations'
+type: article
+volume: '656'
+year: '2007'

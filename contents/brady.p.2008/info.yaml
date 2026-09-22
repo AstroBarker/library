@@ -1,0 +1,38 @@
+abstract: We describe a method to obtain an astrophysical result from the output of
+  a search for gravitational waves from coalescing binaries. Specifically, we introduce
+  a method based on the loudest event statistic to calculate an upper limit or interval
+  on the astrophysical rate of binary coalescence. The calculation depends upon the
+  sensitivity and noise background of the detectors, and a model for the astrophysical
+  distribution of coalescing binaries. There are significant uncertainties in the
+  calculation of the rate due to both astrophysical and instrumental uncertainties
+  as well as errors introduced by using the post-Newtonian waveform to approximate
+  the full signal. We catalog these uncertainties in detail and describe a method
+  for marginalizing over them. Throughout, we provide an example based on the initial
+  LIGO detectors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008CQGra..25j5002B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.2410
+author: Brady, P. R. and Fairhurst, S.
+author_list:
+- family: Brady
+  given: P. R.
+- family: Fairhurst
+  given: S.
+date-added: 2017-08-11 08:22:32 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1088/0264-9381/25/10/105002
+eid: '105002'
+eprint: '0707.2410'
+journal: Classical and Quantum Gravity
+month: May
+number: '10'
+pages: '105002'
+papis_id: 1f685dd85ccbea3939fa0cbb0126e3b2
+primaryclass: gr-qc
+ref: brady.p.2008
+title: Interpreting the results of searches for gravitational waves from coalescing
+  binaries
+type: article
+volume: '25'
+year: '2008'

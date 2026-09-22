@@ -1,0 +1,43 @@
+abstract: In this paper we compare fully compressible (Meakin \& Arnett 2006, 2007
+  ) and anelastic (Kuhlen et al. 2003) simulations of stellar oxygen shell burning.
+  It is found that the two models are in agreement in terms of the velocity scale
+  (vc~107 cm s-1) and thermodynamic fluctuation amplitudes (e.g., rho'/<rho>~2\texttimes{}10-3)
+  in the convective flow. Large fluctuations (~11\%) arise in the compressible model,
+  localized to the convective boundaries, and are due to internal waves excited in
+  stable layers. Fluctuations on the several percent level are also present in the
+  compressible model due to composition inhomogeneities from ongoing entrainment events
+  at the convective boundaries. Comparable fluctuations (with amplitudes greater than
+  ~1\%) are absent in the anelastic simulation, because they are due to physics not
+  included in that model. We derive an analytic estimate for the expected density
+  fluctuation amplitudes at convective boundaries by assuming that the pressure fluctuations
+  due to internal waves at the boundary, p'w, balance the ram pressure of the convective
+  motions, rhov2c. The predicted amplitudes agree well with the simulation data. The
+  good agreement between the anelastic and the compressible solution within the convection
+  zone and the agreement between the stable layer dynamics and analytic solutions
+  to the nonradial wave equation indicate that the compressible hydrodynamic techniques
+  used are robust for the simulated stellar convection model, even at the low Mach
+  numbers found, M~0.01.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665..690M
+arxivurl: http://arxiv.org/abs/astro-ph/0611317
+author: Meakin, C. A. and Arnett, D.
+author_list:
+- family: Meakin
+  given: C. A.
+- family: Arnett
+  given: D.
+date-added: 2017-08-10 16:26:14 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519372
+eprint: astro-ph/0611317
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Evolution, Stars: Interiors, Stars: Oscillations'
+month: August
+pages: 690--697
+papis_id: 371d4aa2f0998dc9a7df34219bda13f2
+ref: meakin.c.2007
+title: Anelastic and Compressible Simulations of Stellar Oxygen Burning
+type: article
+volume: '665'
+year: '2007'

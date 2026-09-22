@@ -1,0 +1,93 @@
+abstract: 'Aims: The iron abundance gradient in the Galactic stellar disk provides
+  fundamental constraints on the chemical evolution of this important Galaxy component,
+  however the spread around the mean slope is, at fixed Galactocentric distance, more
+  than the estimated uncertainties. Methods: To provide quantitative constraints on
+  these trends, we adopted iron abundances for 265 classical Cepheids (more than 50\%
+  of the currently known sample) based either on high-resolution spectra or on photometric
+  metallicity indices. Homogeneous distances were estimated using near-infrared period-luminosity
+  relations. The sample covers the four disk quadrants, and their Galactocentric distances
+  range from ~5 to ~17 kpc. We provided a new theoretical calibration of the metallicity-index-color
+  (MIC) relation based on Walraven and NIR photometric passbands.   Results: We estimated
+  the photometric metallicity of 124 Cepheids. Among them 66 Cepheids also have spectroscopic
+  iron abundances and we found that the mean difference is -0.03$\pm$.15 dex. We also
+  provide new iron abundances, based on high-resolution spectra, for four metal-rich
+  Cepheids located in the inner disk. The remaining iron abundances are based on high-resolution
+  spectra collected by our group (73) or available in the literature (130). A linear
+  regression over the entire sample provides an iron gradient of -0.051 \$\pm\$ 0.004
+  dex kpc-1. The above slope agrees quite well, within the errors, with previous estimates
+  based either on Cepheids or on open clusters covering similar Galactocentric distances.
+  However, Cepheids located in the inner disk systematically appear more metal-rich
+  than the mean metallicity gradient. Once we split the sample into inner (RG <8 kpc)
+  and outer disk Cepheids, the slope (-0.130\.015 dex kpc-1) in the former region
+  is \approx{}3 times steeper than the slope in the latter one (-0.042 \$\pm\$ 0.004
+  dex kpc-1). In the outer disk the radial distribution of metal-poor (MP, [Fe/H]
+  <-0.02 dex) and metal-rich (MR) Cepheids across the four disk quadrants does not
+  show a clear trend when moving from the innermost to the external disk regions.
+  The relative fractions of MP and MR Cepheids in the 1st and in the 3rd quadrants
+  differ at the 8sigma (MP) and 15sigma (MR) levels. Finally, we found that iron abundances
+  in two local overdensities of the 2nd and of the 4th quadrant cover individually
+  a range in iron abundance of \approx{}0.5 dex.   Conclusions: Current findings indicate
+  that the recent chemical enrichment across the Galactic disk shows a clumpy distribution.  Based
+  on observations made with ESO Telescopes in La Silla Observatory under the program:
+  60.A-9120(B).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...504...81P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.3140
+author: Pedicelli, S. and Bono, G. and Lemasle, B. and François, P. and Groenewegen,
+  M. and Lub, J. and Pel, J. W. and Laney, D. and Piersimoni, A. and Romaniello, M.
+  and Buonanno, R. and Caputo, F. and Cassisi, S. and Castelli, F. and Leurini, S.
+  and Pietrinferni, A. and Primas, F. and Pritchard, J.
+author_list:
+- family: Pedicelli
+  given: S.
+- family: Bono
+  given: G.
+- family: Lemasle
+  given: B.
+- family: François
+  given: P.
+- family: Groenewegen
+  given: M.
+- family: Lub
+  given: J.
+- family: Pel
+  given: J. W.
+- family: Laney
+  given: D.
+- family: Piersimoni
+  given: A.
+- family: Romaniello
+  given: M.
+- family: Buonanno
+  given: R.
+- family: Caputo
+  given: F.
+- family: Cassisi
+  given: S.
+- family: Castelli
+  given: F.
+- family: Leurini
+  given: S.
+- family: Pietrinferni
+  given: A.
+- family: Primas
+  given: F.
+- family: Pritchard
+  given: J.
+date-added: 2017-08-11 08:05:51 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1051/0004-6361/200912504
+eprint: '0906.3140'
+journal: \aap
+keywords: 'stars: variables: Cepheids, galaxy: disk, stars: oscillations, stars: abundances,
+  stars: evolution, galaxy: stellar content'
+month: September
+pages: 81--86
+papis_id: 9c63d2928a82e224fb5d01c4fafaefd9
+primaryclass: astro-ph.SR
+ref: pedicelli.s.2009
+title: On the metallicity gradient of the Galactic disk
+type: article
+volume: '504'
+year: '2009'

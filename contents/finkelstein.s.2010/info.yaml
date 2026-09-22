@@ -1,0 +1,66 @@
+abstract: Observations of very distant galaxies probe both the formation and evolution
+  of galaxies, and also the nature of the sources responsible for reionizing the intergalactic
+  medium (IGM). Here, we study the physical characteristics of galaxies at 6.3 < z
+  <= 8.6, selected from deep near-infrared imaging with the Wide Field Camera 3 (WFC3)
+  on board the Hubble Space Telescope. We investigate the rest-frame ultraviolet (UV)
+  colors, stellar masses, ages, metallicities, and dust extinction of this galaxy
+  sample. Accounting for the photometric scatter using simulations, galaxies at z~
+  7 have bluer UV colors compared to typical local starburst galaxies at >4sigma confidence.
+  Although the blue colors of galaxies at these redshifts necessitate young ages (<100
+  Myr), low or zero dust attenuation, and low metallicities, these are explicable
+  by normal (albeit unreddened) stellar populations, with no evidence for near-zero
+  metallicities and/or top-heavy initial mass functions. Most of these galaxies are
+  undetected in deep Spitzer Infrared Array Camera imaging. However, the age of the
+  universe at these redshifts limits the amount of stellar mass in late-type populations,
+  and the WFC3 photometry implies galaxy stellar masses ~108-109 M sun for Salpeter
+  initial mass functions to a limiting magnitude of M 1500 ~ -18. The masses of "characteristic"
+  (L\textasteriskcentered) z > 7 galaxies are smaller than those of L\textasteriskcentered
+  Lyman break galaxies at lower redshifts, and are comparable to less evolved galaxies
+  selected on the basis of their Lyalpha emission at 3 < z < 6, implying that the
+  6.3 < z <= 8.6 galaxies are the progenitors of more evolved galaxies at lower redshifts.
+  We estimate that Lyalpha emission is able to contribute to the observed WFC3 colors
+  of galaxies at these redshifts, with an estimated typical line flux of \approx{}
+  10-18 erg s-1 cm-2, roughly a factor of 4 below currently planned surveys. The integrated
+  UV specific luminosity for the detected galaxies at z ~ 7 and z ~ 8 is within factors
+  of a few of that required to reionize the IGM assuming low clumping factors, even
+  with no correction for luminosity incompleteness. This implies that in order to
+  reionize the universe, galaxies at these redshifts have a high (~50\%) escape fraction
+  of Lyman continuum photons, possibly substantiated by the very blue colors of this
+  population.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...719.1250F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.1338
+author: Finkelstein, S. L. and Papovich, C. and Giavalisco, M. and Reddy, N. A. and
+  Ferguson, H. C. and Koekemoer, A. M. and Dickinson, M.
+author_list:
+- family: Finkelstein
+  given: S. L.
+- family: Papovich
+  given: C.
+- family: Giavalisco
+  given: M.
+- family: Reddy
+  given: N. A.
+- family: Ferguson
+  given: H. C.
+- family: Koekemoer
+  given: A. M.
+- family: Dickinson
+  given: M.
+date-added: 2017-08-10 20:21:13 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0004-637X/719/2/1250
+eprint: '0912.1338'
+journal: \apj
+keywords: 'early universe, galaxies: evolution, galaxies: formation, galaxies: high-redshift,
+  intergalactic medium, ultraviolet: galaxies'
+month: August
+pages: 1250--1273
+papis_id: 44f16c31e93c65b17b4db72fc95ff5e8
+ref: finkelstein.s.2010
+title: On the Stellar Populations and Evolution of Star-forming Galaxies at 6.3 $łt$
+  z \$łt\$= 8.6
+type: article
+volume: '719'
+year: '2010'

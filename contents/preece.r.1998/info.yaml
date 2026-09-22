@@ -1,0 +1,43 @@
+abstract: 'The synchrotron shock model (SSM) for gamma-ray burst emission makes a
+  testable prediction: that the observed low-energy power-law photon number spectral
+  index cannot exceed -2/3 (where the photon model is defined with a positive index:
+  dN/dE~Ealpha). We have collected time-resolved spectral fit parameters for over
+  100 bright bursts observed by the Burst And Transient Source Experiment on board
+  the Compton Gamma Ray Observatory. Using this database, we find 23 bursts in which
+  the spectral index limit of the SSM is violated. We discuss elements of the analysis
+  methodology that affect the robustness of this result, as well as some of the escape
+  hatches left for the SSM by theory.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...506L..23P
+arxivurl: http://arxiv.org/abs/astro-ph/9808184
+author: Preece, R. D. and Briggs, M. S. and Mallozzi, R. S. and Pendleton, G. N. and
+  Paciesas, W. S. and Band, D. L.
+author_list:
+- family: Preece
+  given: R. D.
+- family: Briggs
+  given: M. S.
+- family: Mallozzi
+  given: R. S.
+- family: Pendleton
+  given: G. N.
+- family: Paciesas
+  given: W. S.
+- family: Band
+  given: D. L.
+date-added: 2017-08-11 05:55:43 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/311644
+eprint: astro-ph/9808184
+journal: \apjl
+keywords: 'GAMMA RAYS: BURSTS, RADIATION MECHANISMS: NONTHERMAL, Gamma Rays: Bursts,
+  Radiation Mechanisms: Nonthermal'
+month: October
+pages: L23-L26
+papis_id: f3f6eb0291934a9ee1f249b6197c2d7f
+ref: preece.r.1998
+title: The Synchrotron Shock Model Confronts a ``Line of Death'' in the BATSE Gamma-Ray
+  Burst Data
+type: article
+volume: '506'
+year: '1998'

@@ -1,0 +1,47 @@
+abstract: 'We generate bolometric light curves for a variety of Type Ia supernova
+  models at late times, simulating gamma-ray and positron transport for various assumptions
+  about the magnetic field and ionization of the ejecta. These calculated light curve
+  shapes are compared with light curves of specific supernovae for which there have
+  been adequate late observations. The selection of models is generally not based
+  upon the ability to fit the late observations, but rather because the model has
+  been demonstrated by other authors to approximate the spectra and early light curves
+  of that specific SN. From these comparisons we draw two conclusions: whether a suggested
+  model is an acceptable approximation of a particular event, and, given that it is,
+  the magnetic field characteristics and degree of ionization that are most consistent
+  with the observed light curve shape. For the 10 SNe included in this study, five
+  strongly suggest 56Co positron escape as would be permitted by a weak or radially
+  combed magnetic field. Of the remaining five SNe, none clearly show the upturned
+  light curve expected for positron trapping in a strong, tangled magnetic field.
+  Chandrasekhar mass models can explain normally luminous, slightly subluminous, and
+  superluminous supernova light curves; sub-Chandrasekhar mass models have difficulties
+  with subluminous SNe. An estimate of the galactic positron production rate from
+  Type Ia SNe is compared with gamma-ray observations of Galactic 511 keV annihilation
+  radiation. Additionally, we emphasize the importance of correctly treating the positron
+  transport for calculations of spectra, or any properties, of Type Ia SNe at late
+  epochs (>=200 days).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJS..124..503M
+arxivurl: http://arxiv.org/abs/astro-ph/9901206
+author: Milne, P. A. and The, L.-S. and Leising, M. D.
+author_list:
+- family: Milne
+  given: P. A.
+- family: The
+  given: L.-S.
+- family: Leising
+  given: M. D.
+date-added: 2017-08-10 21:14:08 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/313262
+eprint: astro-ph/9901206
+journal: \apjs
+keywords: 'GAMMA RAYS: OBSERVATIONS, GAMMA RAYS: THEORY, STARS: SUPERNOVAE: GENERAL,
+  Gamma Rays: Observations, Gamma Rays: Theory, Stars: Supernovae: General'
+month: October
+pages: 503--526
+papis_id: 14d64131b1217ef187018764cd051389
+ref: milne.p.1999
+title: Positron Escape from Type IA Supernovae
+type: article
+volume: '124'
+year: '1999'

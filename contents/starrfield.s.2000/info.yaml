@@ -1,0 +1,44 @@
+abstract: We report on the results of new calculations of thermonuclear runaways on
+  1.25 Msolar oxygen, neon, and magnesium white dwarfs, using our one-dimensional,
+  fully implicit, hydrodynamic stellar evolution code that includes a large nuclear
+  reaction network. We have updated the nuclear reaction network by including both
+  new and improved experimental and theoretical determinations of the nuclear reaction
+  rates. We have also incorporated the carbon-rich OPAL opacity tables. Our results
+  show that the changes in the reaction rates and opacities that we have introduced
+  produce important changes with respect to our previous studies. For example, a smaller
+  amount of 26Al is produced, while the abundances of 31P and 32S increase by factors
+  of more than 2. This change is attributed to the increased proton-capture reaction
+  rates for some of the intermediate-mass nuclei near 26Al and beyond, such that nuclear
+  fusion to higher mass nuclei is enhanced. We also find that our predicted values
+  for the amount of mass ejected in the outburst are at least a factor of 10 less
+  than observed. The low values for the amount of ejected mass is a consequence of
+  the fact that the OPAL opacities are larger than those we previously used, which
+  results in more heat being trapped in the nuclear-burning regions and, therefore,
+  less mass being accreted onto the white dwarf.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..127..485S
+author: Starrfield, S. and Sparks, W. M. and Truran, J. W. and Wiescher, M. C.
+author_list:
+- family: Starrfield
+  given: S.
+- family: Sparks
+  given: W. M.
+- family: Truran
+  given: J. W.
+- family: Wiescher
+  given: M. C.
+date-added: 2017-08-11 04:21:14 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/313336
+journal: \apjs
+keywords: 'Hydrodynamics, Stars: Novae, Cataclysmic Variables, Nuclear Reactions,
+  Nucleosynthesis, Abundances, white dwarf'
+month: April
+pages: 485--495
+papis_id: 908c4157629cbfc86dc068e3ae125b7c
+ref: starrfield.s.2000
+title: The Effects of New Nuclear Reaction Rates and Opacities on Hydrodynamic Simulations
+  of the Nova Outburst
+type: article
+volume: '127'
+year: '2000'

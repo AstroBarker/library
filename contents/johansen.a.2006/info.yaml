@@ -1,0 +1,45 @@
+abstract: We perform numerical simulations of the Kelvin-Helmholtz instability in
+  the midplane of a protoplanetary disk. A two-dimensional corotating slice in the
+  azimuthal-vertical plane of the disk is considered, where we include the Coriolis
+  force and the radial advection of the Keplerian rotation flow. Dust grains, treated
+  as individual particles, move under the influence of friction with the gas, while
+  the gas is treated as a compressible fluid. The friction force from the dust grains
+  on the gas leads to a vertical shear in the gas rotation velocity. As the particles
+  settle around the midplane due to gravity, the shear increases, and eventually the
+  flow becomes unstable to the Kelvin-Helmholtz instability. The Kelvin-Helmholtz
+  turbulence saturates when the vertical settling of the dust is balanced by the turbulent
+  diffusion away from the midplane. The azimuthally averaged state of the self-sustained
+  Kelvin-Helmholtz turbulence is found to have a constant Richardson number in the
+  region around the midplane where the dust-to-gas ratio is significant. Nevertheless,
+  the dust density has a strong nonaxisymmetric component. We identify a powerful
+  clumping mechanism, caused by the dependence of the rotation velocity of the dust
+  grains on the dust-to-gas ratio, as the source of the nonaxisymmetry. Our simulations
+  confirm recent findings that the critical Richardson number for Kelvin-Helmholtz
+  instability is around unity or larger, rather than the classical value of 1/4.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643.1219J
+arxivurl: http://arxiv.org/abs/astro-ph/0512272
+author: Johansen, A. and Henning, T. and Klahr, H.
+author_list:
+- family: Johansen
+  given: A.
+- family: Henning
+  given: T.
+- family: Klahr
+  given: H.
+date-added: 2017-08-10 23:49:52 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/502968
+eprint: astro-ph/0512272
+journal: \apj
+keywords: 'Diffusion, Hydrodynamics, Instabilities, Stars: Planetary Systems: Protoplanetary
+  Disks, Solar System: Formation, Turbulence'
+month: June
+pages: 1219--1232
+papis_id: d5a20a1f618ddcbbede787bc9ad5201b
+ref: johansen.a.2006
+title: Dust Sedimentation and Self-sustained Kelvin-Helmholtz Turbulence in Protoplanetary
+  Disk Midplanes
+type: article
+volume: '643'
+year: '2006'

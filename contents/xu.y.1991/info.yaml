@@ -1,0 +1,34 @@
+abstract: An equation is derived for calculating the energy distribution of fast electrons
+  in a partially ionized gas and a method is provided to solve for the electron degradation
+  spectrum and the energy deposition in different forms (ionization, excitation, or
+  heating). As an example, the energy degradation of fast electrons in a gas of pure
+  hydrogen is calculated, considering excitations to the lowest 10 atomic levels.
+  The Bethe approximation and the continuous slowing-down approximation are discussed
+  and it is concluded that these approximations are accurate to the order of 20 percent
+  for electrons with initial energy of greater than about keV. The method and results
+  can be used to determine heating, excitations, and ionizations by high-energy photoelectrons
+  or cosmic-ray particles in various astrophysical circumstances, such as the interstellar
+  medium, supernova envelopes, and QSO emission-line clouds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...375..190X
+author: Xu, Y. and McCray, R.
+author_list:
+- family: Xu
+  given: Y.
+- family: McCray
+  given: R.
+date-added: 2017-08-11 05:45:26 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/170180
+journal: \apj
+keywords: Cosmic Rays, High Energy Electrons, Hydrogen, Ionized Gases, Particle Acceleration,
+  Photoelectrons, Approximation, Energy Distribution, Energy Levels, Molecular Excitation,
+  Photoionization
+month: July
+pages: 190--201
+papis_id: 55a28e8319ec00fc44e7c1cb1f4ef120
+ref: xu.y.1991
+title: Energy degradation of fast electrons in hydrogen gas
+type: article
+volume: '375'
+year: '1991'

@@ -1,0 +1,54 @@
+abstract: Zeeman observations of molecular clouds yield the line-of-sight component
+  B LOS of the magnetic vector B, which makes it possible to test the two major extreme-case
+  theories of what drives star formation---ambipolar diffusion or turbulence. However,
+  only one of the three components of B is measurable, so tests have been statistical
+  rather than direct, and they have not been definitive. We report here observations
+  of the Zeeman effect in the 18 cm lines of OH in the envelope regions surrounding
+  four molecular cloud cores toward which detections of B LOS have been achieved in
+  the same lines, and evaluate the ratio of mass-to-magnetic flux, M/Phi, between
+  the cloud core and envelope. This relative M/Phi measurement reduces uncertainties
+  in previous studies, such as the angle between B and the line of sight and the value
+  of [OH/H]. Our result is that for all four clouds, the ratios R of the core to the
+  envelope values of M/Phi are less than 1. Stated another way, the ratios R' of the
+  core to the total cloud M/Phi are less than 1. The extreme case or idealized (no
+  turbulence) ambipolar diffusion theory of core formation requires the ratio of the
+  central to total M/Phi to be approximately equal to the inverse of the original
+  subcritical M/Phi, or R' > 1. The probability that all four of our clouds have R'
+  > 1 is 3 \texttimes{} 10-7 our results are therefore significantly in contradiction
+  with the hypothesis that these four cores were formed by ambipolar diffusion. Highly
+  super-Alfv{\'e}nic turbulent simulations yield a wide range of relative M/Phi, but
+  favor a ratio R < 1, as we observe. Our experiment is limited to four clouds, and
+  we can only directly test the predictions of the extreme-case "idealized" models
+  of ambipolar-diffusion driven star formation, which have a regular magnetic field
+  morphology. Nonetheless, our experimental results are not consistent with the "idealized"
+  strong field, ambipolar diffusion theory of star formation. Comparisons of our results
+  with more realistic models and simulations that include both ambipolar diffusion
+  and turbulence may help to refine our understanding of the relative importance of
+  magnetic fields and turbulence in the star formation process.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...692..844C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.2862
+author: Crutcher, R. M. and Hakobian, N. and Troland, T. H.
+author_list:
+- family: Crutcher
+  given: R. M.
+- family: Hakobian
+  given: N.
+- family: Troland
+  given: T. H.
+date-added: 2017-08-11 01:21:32 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/692/1/844
+eprint: '0807.2862'
+journal: \apj
+keywords: 'ISM: clouds, ISM: evolution, ISM: magnetic fields, polarization, stars:
+  formation'
+month: February
+pages: 844--855
+papis_id: 174c554cc0d05da9353437b572540971
+ref: crutcher.r.2009
+title: Testing Magnetic Star Formation Theory
+type: article
+volume: '692'
+year: '2009'

@@ -1,0 +1,43 @@
+abstract: 'Using a sample of ten nearby (z\lessequivlnt{} 0.15), relaxed galaxy clusters
+  in the temperature range [2-9]~keV, we have investigated the scaling relation between
+  the mass at various density contrasts (delta=2500,1000,500,200) and the cluster
+  temperature. The masses are derived from NFW-type model fits to mass profiles, obtained
+  under the hydrostatic assumption using precise measurements, with , at least down
+  to delta=1000. The logarithmic slope of the M-T relation is well constrained and
+  is the same at all delta, reflecting the self-similarity of the mass profiles. At
+  delta=500, the slope of the relation for the sub-sample of hot clusters (kT>3.5~keV)
+  is consistent with the standard self-similar expectation: alpha= 1.49$\pm$.15. The
+  relation steepens when the whole sample is considered: alpha=1.71\.09. The normalisation
+  of the relation is discrepant (by ~30 per cent), at all density contrasts, with
+  the prediction from purely gravitation based models. Models that take into account
+  radiative cooling and galaxy feedback are generally in better agreement with our
+  data. We argue that remaining discrepancies, in particular at low delta, are more
+  likely due to problems with models of the ICM thermal structure rather than to an
+  incorrect estimate of the mass from X-ray data.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...441..893A
+arxivurl: http://arxiv.org/abs/astro-ph/0502210
+author: Arnaud, M. and Pointecouteau, E. and Pratt, G. W.
+author_list:
+- family: Arnaud
+  given: M.
+- family: Pointecouteau
+  given: E.
+- family: Pratt
+  given: G. W.
+date-added: 2017-08-11 05:12:45 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1051/0004-6361:20052856
+eprint: astro-ph/0502210
+journal: \aap
+keywords: 'cosmology: observations, cosmology: dark, matter, galaxies: clusters: general,
+  galaxies: intergalactic, medium, X-rays: galaxies: clusters'
+month: October
+pages: 893--903
+papis_id: a5aba9bff4013656528a8f6f0a8bae9f
+ref: arnaud.m.2005
+title: The structural and scaling properties of nearby galaxy clusters. II. The M-T
+  relation
+type: article
+volume: '441'
+year: '2005'

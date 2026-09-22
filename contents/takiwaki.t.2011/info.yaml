@@ -1,0 +1,47 @@
+abstract: By performing a series of two-dimensional, special relativistic magnetohydrodynamic
+  (MHD) simulations, we study signatures of gravitational waves (GWs) in the MHD-driven
+  core-collapse supernovae. In order to extract the gravitational waveforms, we present
+  a stress formula including contributions both from magnetic fields and special relativistic
+  corrections. By changing the precollapse magnetic fields and initial angular momentum
+  distributions parametrically, we compute 12 models. As for the microphysics, a realistic
+  equation of state is employed and the neutrino cooling is taken into account via
+  a multiflavor neutrino leakage scheme. With these computations, we find that the
+  total GW amplitudes show a monotonic increase after bounce for models with a strong
+  precollapse magnetic field (1012 G) and with a rapid rotation imposed. We show that
+  this trend stems both from the kinetic contribution of MHD outflows with large radial
+  velocities and also from the magnetic contribution dominated by the toroidal magnetic
+  fields that predominantly trigger MHD explosions. For models with weaker initial
+  magnetic fields, the total GW amplitudes after bounce stay close to zero because
+  the contribution from the magnetic fields cancels with the contribution from the
+  hydrodynamic counterpart. These features can be clearly understood with a careful
+  analysis of the explosion dynamics. We point out that the GW signals with the increasing
+  trend, possibly visible to the next-generation detectors for a Galactic supernova,
+  would be associated with MHD explosions with explosion energies exceeding 1051 erg.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...743...30T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.2896
+author: Takiwaki, T. and Kotake, K.
+author_list:
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+date-added: 2017-08-10 16:23:38 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/743/1/30
+eid: '30'
+eprint: '1004.2896'
+journal: \apj
+keywords: 'gravitational waves, hydrodynamics, magnetohydrodynamics: MHD, neutrinos,
+  stars: magnetars, supernovae: general'
+month: December
+pages: '30'
+papis_id: d2db22f855ac8a4c235b062751f0b384
+primaryclass: astro-ph.HE
+ref: takiwaki.t.2011
+title: Gravitational Wave Signatures of Magnetohydrodynamically Driven Core-collapse
+  Supernova Explosions
+type: article
+volume: '743'
+year: '2011'

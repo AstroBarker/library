@@ -1,0 +1,31 @@
+abstract: Data for the broadening of 24188 Fe II lines by collisions with neutral
+  hydrogen atoms have been computed using the theory of Anstee \& O'Mara as extended
+  to singly ionised species and higher orbital angular momentum states by Barklem
+  \& O'Mara. Data have been computed for all Fe II lines between observed energy levels
+  in the line lists of Kurucz with log gf > -5 for which the theory is applicable.
+  The variable energy debt parameter Ep used in computing the second order perturbation
+  theory potential is chosen to be consistent with the long range dispersion interaction
+  constant C6 computed using the f-values from Kurucz.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...435..373B
+arxivurl: http://arxiv.org/abs/astro-ph/0502098
+author: Barklem, P. S. and Aspelund-Johansson, J.
+author_list:
+- family: Barklem
+  given: P. S.
+- family: Aspelund-Johansson
+  given: J.
+date-added: 2017-08-11 07:37:27 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1051/0004-6361:20042469
+eprint: astro-ph/0502098
+journal: \aap
+keywords: 'atomic data, line: profiles'
+month: May
+pages: 373--377
+papis_id: 1076041848501bd6b7ba0a8e63251e92
+ref: barklem.p.2005
+title: The broadening of Fe II lines by neutral hydrogen collisions
+type: article
+volume: '435'
+year: '2005'

@@ -1,0 +1,69 @@
+abstract: We investigate the nature of gas accretion on to haloes and galaxies at
+  z = 2 using cosmological hydrodynamic simulations run with the moving mesh code
+  AREPO. Implementing a Monte Carlo tracer particle scheme to determine the origin
+  and thermodynamic history of accreting gas, we make quantitative comparisons to
+  an otherwise identical simulation run with the smoothed particle hydrodynamics (SPH)
+  code GADGET-3. Contrasting these two numerical approaches, we find significant physical
+  differences in the thermodynamic history of accreted gas in massive haloes above
+  ~=1010.5 M\&sun;. In agreement with previous work, GADGET simulations show a cold
+  fraction near unity for galaxies forming in massive haloes, implying that only a
+  small percentage of accreted gas heats to an appreciable fraction of the virial
+  temperature during accretion. The same galaxies in AREPO show a much lower cold
+  fraction, for instance, <20 per cent in haloes with Mhalo ~= 1011 M\&sun;. This
+  results from a hot gas accretion rate which, at this same halo mass, is an order
+  of magnitude larger than with GADGET, together with a cold accretion rate which
+  is lower by a factor of 2. These discrepancies increase for more massive systems,
+  and we explain both trends in terms of numerical inaccuracies with the standard
+  formulation of SPH. We note, however, that changes in the treatment of interstellar
+  medium physics - feedback, in particular - could modify the observed differences
+  between codes as well as the relative importance of different accretion modes. We
+  explore these differences by evaluating several ways of measuring a cold mode of
+  accretion. As in previous work, the maximum past temperature of gas is compared
+  to either a constant threshold value or some fraction of the virial temperature
+  of each parent halo. We find that the relatively sharp transition from cold- to
+  hot-mode-dominated accretion at halo masses of ~=1011 M\&sun; is a consequence of
+  the constant temperature criterion, which can only separate virialized gas above
+  some minimum halo mass. Examining the spatial distribution of accreting gas, we
+  find that the filamentary geometry of accreting gas near the virial radius is a
+  common feature in massive haloes above ~=1011.5 M\&sun;. Gas filaments in GADGET,
+  however, tend to remain collimated and flow coherently to small radii, or artificially
+  fragment and form a large number of purely numerical `blobs'. These same filamentary
+  gas streams in AREPO show increased heating and disruption at 0.25-0.5rvir and contribute
+  to the hot gas accretion rate in a manner distinct from classical cooling flows.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.429.3353N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.6753
+author: Nelson, D. and Vogelsberger, M. and Genel, S. and Sijacki, D. and Kereš, D.
+  and Springel, V. and Hernquist, L.
+author_list:
+- family: Nelson
+  given: D.
+- family: Vogelsberger
+  given: M.
+- family: Genel
+  given: S.
+- family: Sijacki
+  given: D.
+- family: Kereš
+  given: D.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:31:15 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts595
+eprint: '1301.6753'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: evolution, galaxies: formation, galaxies:
+  haloes, cosmology: theory'
+month: March
+pages: 3353--3370
+papis_id: 3b56a5e2ff12c5525224844c2ad10f8c
+primaryclass: astro-ph.CO
+ref: nelson.d.2013
+title: 'Moving mesh cosmology: tracing cosmological gas accretion'
+type: article
+volume: '429'
+year: '2013'

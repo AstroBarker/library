@@ -1,0 +1,40 @@
+abstract: We present a simple method for including the oblateness of a rapidly rotating
+  neutron star when fitting X-ray light curves. In previous work we showed that the
+  oblateness induced by rotation at frequencies above 300 Hz produces a geometric
+  effect that needs to be accounted for when modeling light curves to extract constraints
+  on the neutron star's mass and radius. In our model, X-rays are emitted from the
+  surface of an oblate neutron star and propagate to the observer along geodesics
+  of the Schwarzschild metric for a spherical neutron star. Doppler effects due to
+  rotation are added in the same manner as in the case of a spherical neutron star.
+  We show that this model captures the most important effects due to the neutron star's
+  rotation. We also explain how the geometric oblateness effect can rival the Doppler
+  effect for some emission geometries.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...663.1244M
+arxivurl: http://arxiv.org/abs/astro-ph/0703123
+author: Morsink, S. M. and Leahy, D. A. and Cadeau, C. and Braga, J.
+author_list:
+- family: Morsink
+  given: S. M.
+- family: Leahy
+  given: D. A.
+- family: Cadeau
+  given: C.
+- family: Braga
+  given: J.
+date-added: 2017-08-10 22:34:40 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518648
+eprint: astro-ph/0703123
+journal: \apj
+keywords: 'Stars: Pulsars: General, Relativity, Stars: Neutron, Stars: Rotation, X-Rays:
+  Binaries'
+month: July
+pages: 1244--1251
+papis_id: b69931a4d7368f8c93adb5db94b6bb83
+ref: morsink.s.2007
+title: The Oblate Schwarzschild Approximation for Light Curves of Rapidly Rotating
+  Neutron Stars
+type: article
+volume: '663'
+year: '2007'

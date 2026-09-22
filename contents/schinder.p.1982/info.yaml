@@ -1,0 +1,36 @@
+abstract: Detailed neutrino and antineutrino emission and absorption coefficients
+  for beta-decay interactions are assembled, along with coefficients for neutrino
+  and antineutrino scattering from protons, neutrons, electrons and positrons, absorption
+  and emission coefficients for neutrino-antineutrino pair emission, and absorption
+  by electron-positron pairs and plasmons. These formulas are presented in a form
+  suitable for use in the neutrino and antineutrino transport equations. A numerical
+  method to solve the problem of a plane-parallel, semiinfinite, static neutrino atmosphere
+  'heated from below' is described in detail. Explicit relations are given for the
+  entropy of a gas of free electrons, protons, neutrons, positrons, photons, neutrinos,
+  and antineutrinos, and it is shown how these relations can be used to calculate
+  the convective stability criterion discussed elsewhere.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982ApJS...50...23S
+author: Schinder, P. J. and Shapiro, S. L.
+author_list:
+- family: Schinder
+  given: P. J.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-10 18:28:10 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/190818
+journal: \apjs
+keywords: Neutrinos, Nuclear Reactions, Particle Emission, Scattering Functions, Stellar
+  Atmospheres, Weak Interactions (Field Theory), Absorptivity, Annihilation Reactions,
+  Antineutrinos, Atmospheric Heating, Black Holes (Astronomy), Electron-Positron Pairs,
+  Entropy, Hydrostatics, Pair Production
+month: September
+pages: 23--37
+papis_id: 4da43646151a1d1cbe0adcc6e6653318
+ref: schinder.p.1982
+title: Neutrino emission from a hot, dense, plane-parallel atmosphere in hydrostatic
+  equilibrium. II - Numerical methods and interaction functions
+type: article
+volume: '50'
+year: '1982'

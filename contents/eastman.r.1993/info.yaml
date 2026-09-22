@@ -1,0 +1,35 @@
+abstract: The study combines several novel techniques for spectrum simulation in the
+  Eddington computer program which solves the comoving frame equation of transfer
+  coupled with the statistical and radiative equilibrium equations. One of these is
+  a generalization of the accelerated lambda iteration (ALI) scheme to include an
+  approximate frequency-derivative operator. This greatly enhances the convergence
+  rate of ALI in optically thick, high-velocity shear flows. Another is a partial
+  linearization technique which is capable of efficiently solving a very large number
+  of rate equations on a moderately sized computer. An expansion opacity and emissivity
+  approximation is derived which makes it possible to determine the effect on the
+  transfer and statistical equilibrium of a very large number of lines not explicitly
+  represented in the frequency grid and additionally to treat line-blanketing from
+  species not explicitly included in the rate equations. The utility of these techniques
+  is illustrated with models of two supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...412..731E
+author: Eastman, R. G. and Pinto, P. A.
+author_list:
+- family: Eastman
+  given: R. G.
+- family: Pinto
+  given: P. A.
+date-added: 2017-08-11 01:20:29 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172957
+journal: \apj
+keywords: Computational Astrophysics, Radiative Transfer, Stellar Spectra, Supernovae,
+  Equilibrium Equations, Line Spectra, Statistical Analysis, Transfer Functions
+month: August
+pages: 731--751
+papis_id: 56244e08e3ae82ea217ec96b3692b7f6
+ref: eastman.r.1993
+title: Spectrum formation in supernovae - Numerical techniques
+type: article
+volume: '412'
+year: '1993'

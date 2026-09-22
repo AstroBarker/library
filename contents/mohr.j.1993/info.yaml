@@ -1,0 +1,40 @@
+abstract: We use the moments of the X-ray surface brightness distribution to constrain
+  the dynamical state of a galaxy cluster. Using X-ray observations from the Einstein
+  Observatory IPC, we measure the first moment FM, the ellipsoidal orientation angle,
+  and the axial ratio at a sequence of radii in the cluster. We argue that a significant
+  variation in the image centroid FM as a function of radius is evidence for a nonequilibrium
+  feature in the intracluster medium (ICM) density distribution. In simple terms,
+  centroid shifts indicate that the center of mass of the ICM varies with radius.
+  This variation is a tracer of continuing dynamical evolution. For each cluster,
+  we evaluate the significance of variations in the centroid of the IPC image by computing
+  the same statistics on an ensemble of simulated cluster images. In producing these
+  simulated images we include X-ray point source emission, telescope vignetting, Poisson
+  noise, and characteristics of the IPC. Application of this new method to five Abell
+  clusters reveals that the core of each one has significant substructure. In addition,
+  we find significant variations in the orientation angle and the axial ratio for
+  several of the clusters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...413..492M
+author: Mohr, J. J. and Fabricant, D. G. and Geller, M. J.
+author_list:
+- family: Mohr
+  given: J. J.
+- family: Fabricant
+  given: D. G.
+- family: Geller
+  given: M. J.
+date-added: 2017-08-11 05:14:10 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173019
+journal: \apj
+keywords: Galactic Clusters, Galactic Structure, Star Distribution, Stellar Luminosity,
+  Dynamical Systems, Mass Distribution, X Ray Astronomy, X Ray Imagery
+month: August
+pages: 492--505
+papis_id: 62e1b491e4c8dd236bfb14aa6a05be0c
+ref: mohr.j.1993
+title: An X-ray method for detecting substructure in galaxy clusters - Application
+  to Perseus, A2256, Centaurus, Coma, and Sersic 40/6
+type: article
+volume: '413'
+year: '1993'

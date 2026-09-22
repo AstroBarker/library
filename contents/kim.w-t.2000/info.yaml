@@ -1,0 +1,63 @@
+abstract: 'We investigate shear and buoyancy instabilities in radially stratified,
+  magnetized, cylindrical flows, for application to magnetocentrifugally driven winds-such
+  as those from protostars-and to magnetized accretion disks. Our motivation is to
+  characterize the susceptibility of cold MHD disk winds to growing internal perturbations
+  and to understand the relation of wind instabilities to known accretion disk instabilities.
+  Using four different linear analysis techniques, we identify and study nine principal
+  types of unstable or overstable disturbances, providing numerical and analytic solutions
+  for growth rates for a wide range of parameters. When magnetic fields are predominantly
+  toroidal, as in protostellar winds far from their source, we find the system is
+  susceptible to growth of five different kinds of perturbations: axisymmetric fundamental
+  and toroidal resonance modes, axisymmetric and nonaxisymmetric toroidal buoyancy
+  modes, and nonaxisymmetric magnetorotational modes. Winds having a sufficiently
+  steep field gradient (dlnB/dlnR<-0.75 for a purely toroidal-field case) are globally
+  unstable to the long-wavelength fundamental mode concentrated at small radii; these
+  promote the establishment of narrow dense jets in the centers of wider winds. Long-wavelength
+  outer-wind modes are all stable for power-law wind equilibria. The toroidal buoyancy
+  instabilities promote small-scale radial mixing provided the equilibrium has nonzero
+  magnetic forces. For low-temperature toroidal-B winds, both axisymmetric and nonaxisymmetric
+  magnetorotational instabilities have very low growth rates. The stabilization of
+  buoyancy instabilities by shear and of magnetorotational instabilities by compressibility
+  may be important in allowing cold MHD winds to propagate over vast distances in
+  space. When magnetic fields are predominantly poloidal, as may occur in protostellar
+  winds close to their source or in astrophysical disks, we find the system is susceptible
+  to four additional growing modes: axisymmetric magnetorotational (Balbus-Hawley),
+  axisymmetric poloidal buoyancy, nonaxisymmetric geometric buoyancy, and poloidal
+  resonance modes. The well-known axisymmetric Balbus-Hawley mode has the fastest
+  growth rate. When the magnetic field is nonuniform, the axisymmetric poloidal buoyancy
+  mode promotes radial mixing on small scales. The geometric poloidal buoyancy mode
+  requires high m, thus is readily stabilized by shear. Previous work on magnetorotational
+  instabilities has concentrated on near-incompressible systems (accretion disks or
+  stellar interiors). We extend this analysis to allow for compressibility (important
+  in winds). We introduce a ``coherent wavelet'''' technique (a WKB temporal approximation)
+  and derive closed-form analytic expressions for instantaneous instability criteria,
+  growth rates, and net amplification factors for generalized nonaxisymmetric magnetorotational
+  instabilities in compressible flows with both poloidal and toroidal fields. We confirm
+  that these are in excellent agreement with the results of shearing-sheet temporal
+  integrations and that ``locally axisymmetric'''' perturbations have the largest
+  amplifications only provided (k\textperiodcentered{}vA)/Omega<~1.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...540..372K
+arxivurl: http://arxiv.org/abs/astro-ph/0004094
+author: Kim, W.-T. and Ostriker, E. C.
+author_list:
+- family: Kim
+  given: W.-T.
+- family: Ostriker
+  given: E. C.
+date-added: 2017-08-10 17:58:13 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/309293
+eprint: astro-ph/0004094
+journal: \apj
+keywords: 'Accretion, Accretion Disks, ISM: jets and outflows, ISM: kinematics and
+  dynamics, ISM: Magnetic Fields, Magnetohydrodynamics: MHD, stars: pre-main-sequence'
+month: September
+pages: 372--403
+papis_id: 6098a3ccd41878b638370fcc86db0d7a
+ref: kim.w_t.2000
+title: Magnetohydrodynamic Instabilities in Shearing, Rotating, Stratified Winds and
+  Disks
+type: article
+volume: '540'
+year: '2000'

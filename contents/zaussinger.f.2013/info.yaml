@@ -1,0 +1,41 @@
+abstract: A grid of numerical simulations of double-diffusive convection is presented
+  for the astrophysical case where viscosity (Prandtl number Pr) and solute diffusivity
+  (Lewis number Le) are much lower than the thermal diffusivity. As in laboratory
+  and geophysical cases, convection takes place in a layered form. The proper translation
+  of subsonic flows in a stellar interior and an incompressible (Boussinesq) fluid
+  is given, and the validity of the Boussinesq approximation for the semiconvection
+  problem is checked by comparison with fully compressible simulations. The predictions
+  of a simplified theory of mixing in semiconvection given in a companion paper are
+  tested against the numerical results, and used to extrapolate these to astrophysical
+  conditions. The predicted effective He-diffusion coefficient is nearly independent
+  of the double-diffusive layering thickness d. For a fiducial main sequence model
+  (15 M\&sun;) the inferred mixing time scale is of the order of 1010 yr. An estimate
+  for the secular increase in d during the semiconvective phase is given. It can potentially
+  reach a significant fraction of the pressure scale height.  Movies associated to
+  Figs. 5 and 7 are available in electronic form at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...554A.119Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.4522
+author: Zaussinger, F. and Spruit, H. C.
+author_list:
+- family: Zaussinger
+  given: F.
+- family: Spruit
+  given: H. C.
+date-added: 2017-08-10 15:01:57 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1051/0004-6361/201220573
+eid: A119
+eprint: '1303.4522'
+journal: \aap
+keywords: 'convection, methods: numerical, diffusion, hydrodynamics, stars: interiors'
+month: June
+pages: A119
+papis_id: 8874ef2d3199accce7de515c9a9b7600
+primaryclass: astro-ph.SR
+ref: zaussinger.f.2013
+title: 'Semiconvection: numerical simulations'
+type: article
+volume: '554'
+year: '2013'

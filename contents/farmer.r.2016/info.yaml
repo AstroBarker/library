@@ -1,0 +1,55 @@
+abstract: We explore the variation in single-star 15-30 {M}\&sun; , nonrotating, solar
+  metallicity, pre-supernova MESA models that is due to changes in the number of isotopes
+  in a fully coupled nuclear reaction network and adjustments in the mass resolution.
+  Within this two-dimensional plane, we quantitatively detail the range of core masses
+  at various stages of evolution, mass locations of the main nuclear burning shells,
+  electron fraction profiles, mass fraction profiles, burning lifetimes, stellar lifetimes,
+  and compactness parameter at core collapse for models with and without mass-loss.
+  Up to carbon burning, we generally find that mass resolution has a larger impact
+  on the variations than the number of isotopes, while the number of isotopes plays
+  a more significant role in determining the span of the variations for neon, oxygen,
+  and silicon burning. Choice of mass resolution dominates the variations in the structure
+  of the intermediate convection zone and secondary convection zone during core and
+  shell hydrogen burning, respectively, where we find that a minimum mass resolution
+  of \approx{}0.01 {M}\&sun;  is necessary to achieve convergence in the helium core
+  mass at the \approx{}5\% level. On the other hand, at the onset of core collapse,
+  we find \approx{}30\% variations in the central electron fraction and mass locations
+  of the main nuclear burning shells, a minimum of \approx{}127 isotopes is needed
+  to attain convergence of these values at the \approx{}10\% level.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJS..227...22F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1611.01207
+author: Farmer, R. and Fields, C. E. and Petermann, I. and Dessart, L. and Cantiello,
+  M. and Paxton, B. and Timmes, F. X.
+author_list:
+- family: Farmer
+  given: R.
+- family: Fields
+  given: C. E.
+- family: Petermann
+  given: I.
+- family: Dessart
+  given: L.
+- family: Cantiello
+  given: M.
+- family: Paxton
+  given: B.
+- family: Timmes
+  given: F. X.
+date-added: 2017-12-05 15:07:21 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/1538-4365/227/2/22
+eid: '22'
+eprint: '1611.01207'
+journal: \apjs
+keywords: 'stars: abundances, stars: evolution, stars: interiors, supernovae: general'
+month: December
+pages: '22'
+papis_id: b03591d1b5cd0fc809655d358e4ca34b
+primaryclass: astro-ph.SR
+ref: farmer.r.2016
+title: On Variations Of Pre-supernova Model Properties
+type: article
+volume: '227'
+year: '2016'

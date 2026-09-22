@@ -1,0 +1,55 @@
+abstract: We report results from Hubble Space Telescope/NICMOS imaging of the extremely
+  dense core of the globular cluster Terzan 5. This highly obscured bulge cluster
+  contains a low-mass X-ray binary and at least two millisecond pulsars, with evidence
+  for a large millisecond pulsar population. It has been estimated to have one of
+  the highest collision rates of any Galactic globular cluster, making its core a
+  particularly conducive environment for the production of interacting binary systems.
+  We have reconstructed high-resolution images of the central 19''\texttimes{}19''
+  region of Terzan 5 by application of the drizzle algorithm to dithered NIC2 images
+  in the F110W, F187W, and F187N near-infrared filters. We have used a DAOPHOT/ALLSTAR
+  analysis of these images to produce the deepest color-magnitude diagram (CMD) yet
+  obtained for the core of Terzan 5. We have also analyzed the parallel 11''\texttimes{}11''
+  NIC1 field, centered 30'' from the cluster center and imaged in F110W and F160W,
+  and an additional NIC2 field that is immediately adjacent to the central field.
+  This imaging results in a clean detection of the red giant branch and horizontal
+  branch in the central NIC2 field, and the detection of these plus the main-sequence
+  turnoff and the upper main sequence in the NIC1 field. We have constructed an H
+  versus J-H CMD for the NIC1 field, which provides a measurement of the infrared
+  reddening, E(J-H) = 0.72 [corresponding to E(B-V) = 2.16]. We obtain a new distance
+  estimate of 8.7 kpc, which places Terzan 5 within less than 1 kpc of the Galactic
+  center. The NIC1 CMD provides an apparent detection of the red giant branch bump,
+  about 1 mag below the horizontal branch, indicating that the metallicity is at least
+  solar and possibly somewhat higher. A number of blue objects are detected in the
+  central NIC2 field and the NIC1 field, which hint at the presence of a blue horizontal
+  branch. We have also determined a central surface-density profile that results in
+  a maximum likelihood estimate of 7.9"+/-0.6" for the cluster core radius. We discuss
+  the implications of these results for the dynamical state of Terzan 5.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...571..818C
+arxivurl: http://arxiv.org/abs/astro-ph/0202059
+author: Cohn, H. N. and Lugger, P. M. and Grindlay, J. E. and Edmonds, P. D.
+author_list:
+- family: Cohn
+  given: H. N.
+- family: Lugger
+  given: P. M.
+- family: Grindlay
+  given: J. E.
+- family: Edmonds
+  given: P. D.
+date-added: 2017-08-11 04:13:07 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/339874
+eprint: astro-ph/0202059
+journal: \apj
+keywords: 'Galaxy: Globular Clusters: Individual: Name: Terzan 5, Stars: Hertzsprung-Russell
+  Diagram, Infrared: Stars'
+month: June
+pages: 818--829
+papis_id: 6115b9b9cb824c813f1c160e18b4f2bf
+ref: cohn.h.2002
+title: 'Hubble Space Telescope/NICMOS Observations of Terzan 5: Stellar Content and
+  Structure of the Core'
+type: article
+volume: '571'
+year: '2002'

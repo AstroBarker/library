@@ -1,0 +1,39 @@
+abstract: Recently published opacity tables for astrophysical mixtures using the OPAL
+  code showed significant differences when compared to the commonly used Los Alamos
+  results. An important finding of the OPAL calculations was a large opacity enhancement
+  in the few hundred-thousand degree temperature range. This new opacity bump is a
+  consequence of improvements in the atomic data generation. Specifically, the configuration
+  term splitting in OPAL was done in the pure LS-coupling approximation which is essentially
+  neglected in the Los Alamos calculations. However, for heavier elements such as
+  Fe, spin-orbit interactions are small but not negligible; consequently, pure LS-coupling
+  breaks down. The main impact of the spin-orbit interaction is to enhance significantly
+  the opacity in the region of the Z bump but only at low densities. New Rosseland
+  mean opacity tables with intermediate coupling for the Fe have been tabulated. Although
+  a metal composition based on recent analysis of solar observations is assumed as
+  standard, opacity tables for mixtures with different relative metal abundances are
+  possible. In addition, the previous tables are extended to lower and higher densities
+  as well as higher metallicity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...397..717I
+author: Iglesias, C. A. and Rogers, F. J. and Wilson, B. G.
+author_list:
+- family: Iglesias
+  given: C. A.
+- family: Rogers
+  given: F. J.
+- family: Wilson
+  given: B. G.
+date-added: 2017-08-10 20:51:14 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171827
+journal: \apj
+keywords: Opacity, Spin-Orbit Interactions, Stellar Composition, Stellar Interiors,
+  Stellar Models, Absorption Spectra, Abundance, Emission Spectra, Metallicity
+month: October
+pages: 717--728
+papis_id: 9d365e94695ab47a5d30b34a44ae0536
+ref: iglesias.c.1992
+title: Spin-orbit interaction effects on the Rosseland mean opacity
+type: article
+volume: '397'
+year: '1992'

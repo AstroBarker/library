@@ -1,0 +1,45 @@
+abstract: We explore possible systematic errors in the mass measurements of stellar
+  mass black holes (BHs). We find that significant errors can arise from the assumption
+  of zero or constant emission from the accretion flow, which is commonly used when
+  determining orbital inclination by modeling ellipsoidal variations. For A0620-00,
+  the system with the best available data, we show that typical data sets and analysis
+  procedures can lead to systematic underestimates of the inclination by 10$\,^{\circ}$
+  or more. A careful examination of the available data for the 15 other X-ray transients
+  with low-mass donors suggests that this effect may significantly reduce the BH mass
+  estimates in several other cases, most notably that of GRO J0422+32. Assuming that
+  GRO J0422+32 behaves similarly to A0620-00, the reduction in the mass of GRO J0422+32
+  fills the mass gap between the low end of the distribution and the maximum theoretical
+  neutron star mass, as has been identified in previous studies. Otherwise, we find
+  that the mass distribution retains other previously identified characteristics,
+  namely a peak around 8 M \&sun;, a paucity of sources with masses below 5 M \&sun;,
+  and a sharp drop-off above 10 M \&sun;.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...36K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.1805
+author: Kreidberg, L. and Bailyn, C. D. and Farr, W. M. and Kalogera, V.
+author_list:
+- family: Kreidberg
+  given: L.
+- family: Bailyn
+  given: C. D.
+- family: Farr
+  given: W. M.
+- family: Kalogera
+  given: V.
+date-added: 2017-08-10 18:39:14 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/757/1/36
+eid: '36'
+eprint: '1205.1805'
+journal: \apj
+keywords: 'black hole physics, X-rays: binaries'
+month: September
+pages: '36'
+papis_id: c5c65d14e401cc978ccdf8a8a9f97d71
+primaryclass: astro-ph.HE
+ref: kreidberg.l.2012
+title: 'Mass Measurements of Black Holes in X-Ray Transients: Is There a Mass Gap?'
+type: article
+volume: '757'
+year: '2012'

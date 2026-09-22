@@ -1,0 +1,40 @@
+abstract: 'We address the issue of electromagnetic pulsar spin-down by combining our
+  experience from the two limiting idealized cases that have been studied thoroughly
+  in the past: that of an aligned rotator, in which ideal MHD conditions apply, and
+  that of a misaligned rotator in vacuum. We construct a spin-down formula that takes
+  into account the misalignment of the magnetic and rotation axes, and the magnetospheric
+  particle acceleration gaps. We show that near the death line, aligned rotators spin
+  down more slowly than orthogonal ones. In order to test this approach, we use a
+  simple Monte Carlo method to simulate the evolution of pulsars and find a good fit
+  to the observed pulsar distribution in the P-P\textperiodcentered{} diagram without
+  invoking magnetic field decay. Our model may also account for individual pulsars
+  spinning down with braking index n<3, by allowing the corotating part of the magnetosphere
+  to end inside the light cylinder. We discuss the role of magnetic reconnection in
+  determining the pulsar braking index. We show, however, that n~3 remains a good
+  approximation for the pulsar population as a whole. Moreover, we predict that pulsars
+  near the death line have braking index values n>3, and that the older pulsar population
+  has preferentially smaller magnetic inclination angles. We discuss possible signatures
+  of such alignment in the existing pulsar data.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643.1139C
+arxivurl: http://arxiv.org/abs/astro-ph/0512002
+author: Contopoulos, I. and Spitkovsky, A.
+author_list:
+- family: Contopoulos
+  given: I.
+- family: Spitkovsky
+  given: A.
+date-added: 2017-08-11 05:03:09 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/501161
+eprint: astro-ph/0512002
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Stars: Pulsars: General, Stars: Rotation'
+month: June
+pages: 1139--1145
+papis_id: 8e857af228fa2bdd6ab0d7f8cdace54e
+ref: contopoulos.i.2006
+title: Revised Pulsar Spin-down
+type: article
+volume: '643'
+year: '2006'

@@ -1,0 +1,32 @@
+abstract: The authors have developed a 2D axisymmetric, general relativistic code
+  to study inviscid hydrodynamic accretion flows in a fixed Kerr black hole gravitational
+  field. In this first of several papers documenting the methods and results, they
+  describe and discuss the hydrodynamic equations in the form used in the code. Certain
+  analytic solutions for shock tubes and special accretion flows are derived; these
+  solutions will form the basis for code testing and calibration.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1984ApJ...277..296H
+author: Hawley, J. F. and Smarr, L. L. and Wilson, J. R.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Smarr
+  given: L. L.
+- family: Wilson
+  given: J. R.
+date-added: 2017-08-11 04:48:03 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/161696
+journal: \apj
+keywords: Astronomical Models, Black Holes (Astronomy), Hydrodynamics, Stellar Mass
+  Accretion, Computational Fluid Dynamics, Hydrodynamic Equations, Relativity, Shock
+  Waves, Transonic Flow
+month: February
+pages: 296--311
+papis_id: 142b2ca393a5bb311cf15bf7f472bc47
+ref: hawley.j.1984
+title: A numerical study of nonspherical black hole accretion. I Equations and test
+  problems
+type: article
+volume: '277'
+year: '1984'

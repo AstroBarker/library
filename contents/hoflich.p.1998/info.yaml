@@ -1,0 +1,74 @@
+abstract: The influence of the initial composition of the exploding white dwarf on
+  the nucleosynthesis, light curves, and spectra of Type Ia supernovae has been studied
+  in order to evaluate the size of evolutionary effects on cosmological timescales,
+  how the effects can be recognized, and how one may be able to correct for them.  The
+  calculations are based on a set of delayed detonation models that give a good account
+  of the optical and infrared light curves and of the spectral evolution. The explosions
+  and light curves are calculated using a one-dimensional Lagrangian radiation-hydro
+  code including a nuclear network. Spectra are computed for various epochs using
+  the structure resulting from the light-curve code. Our non-LTE code solves the relativistic
+  radiation transport equations in the comoving frame consistently with the statistical
+  equations and ionization due to gamma-radiation for the most important elements
+  (C, O, Ne, Na, Mg, Si, S, Ca, Fe, Co, Ni). About 106 additional lines are included
+  assuming LTE-level populations and an equivalent-two-level approach for the source
+  functions.  Changing the initial metallicity Z from Population I to Population II
+  alters the isotopic composition of the outer layers of the ejecta that have undergone
+  explosive O burning. Especially important is the increase of the 54Fe production
+  with metallicity. The influence on the resulting rest-frame visual and blue light
+  curves is found to be small. Detailed analysis of spectral evolution should permit
+  a determination of the progenitor metallicity.  Mixing 56Ni into the outer layers
+  during the explosion can produce effects similar to an increased initial metallicity.
+  Mixing can be distinguished from metallicity effects by means of the strong cobalt
+  and nickel lines, by a change of the calcium lines in the optical and IR spectra
+  and, in principle, by gamma-ray observations.  As the C/O ratio of the white dwarf
+  is decreased, the explosion energy and the 56Ni production are reduced, and the
+  Si-rich layers are more confined in velocity space. A reduction of the C/O ratio
+  by about 60\% gives slower rise times by about three days, an increased luminosity
+  at maximum light, a somewhat faster postmaximum decline, and a larger ratio between
+  maximum light and 56Ni tail. A reduction of the C/O ratio has an effect on the colors,
+  light-curve shapes and element distribution similar to a reduction in the deflagration
+  to detonation transition density. However, for the same light-curve shape, the absolute
+  brightness is larger for smaller C/O ratios. An independent determination of the
+  initial C/O ratio and the transition density is possible for local supernovae if
+  detailed analyses of both the spectra and light curves are performed simultaneously.  Because
+  the spectra are shifted into different color bands at different redshifts, the effect
+  of metallicity Z on a given observed color is a strong function of redshift. A change
+  of Z by a factor of 3 or of the C/O ratio by 33\% alters the peak magnitudes in
+  the optical wavelength range by up to ~0.3 mag for z >= 0.2. These variations are
+  comparable to the effect of changes of OmegaM and Lambda at redshifts of 0.5-1.0.
+  The systematic effects due to changes in composition are expected to remain small
+  up to about z ~ 0.5 for R-V and up to z ~ 0.7 for R-I.  We discuss how evolution
+  in the progenitor population can be recognized and taken into account. With proper
+  account of evolutionary corrections, supernovae will provide a valuable tool to
+  determine the cosmological parameters of the universe, and they will provide new
+  insight into its chemical evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...495..617H
+arxivurl: http://arxiv.org/abs/astro-ph/9709233
+author: Höflich, P. and Wheeler, J. C. and Thielemann, F. K.
+author_list:
+- family: Höflich
+  given: P.
+- family: Wheeler
+  given: J. C.
+- family: Thielemann
+  given: F. K.
+date-added: 2017-08-10 22:47:58 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305327
+eprint: astro-ph/9709233
+journal: \apj
+keywords: 'STARS: SUPERNOVAE: GENERAL, COSMOLOGY: THEORY, HYDRODYNAMICS, NUCLEAR REACTIONS,
+  NUCLEOSYNTHESIS, ABUNDANCES, STARS: EVOLUTION, STARS: INTERIORS, Cosmology: Theory,
+  Hydrodynamics, Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution,
+  Stars: Interiors, Stars: Supernovae: General'
+month: March
+pages: 617--629
+papis_id: b17ab3bcd071fb6a2d1557667250b210
+ref: hoflich.p.1998
+title: 'Type Ia Supernovae: Influence of the Initial Composition on the Nucleosynthesis,
+  Light Curves, and Spectra and Consequences for the Determination of $Ømega$\$_M\$
+  and \$Łambda\$'
+type: article
+volume: '495'
+year: '1998'

@@ -1,0 +1,31 @@
+abstract: Models of hydrodynamical, steady state, spherical accretion onto a compact
+  object are discussed. The thermal balance of these models is dominated by radiative
+  cooling in the optically thin region of the flow below the accretion radius, resulting
+  in a cool, isothermal flow at large radii. At small radii the flow becomes optically
+  thick and eventually passes through a trapping radius r(tr) below which photons
+  are advected downstream faster than they can diffuse upstream. The solutions at
+  radii below r(tr) include both adiabatic flow and radiation-dominated shocks. The
+  luminosity of the adiabatic models is determined by the PdV work of converging fluid
+  flow above r(tr) and corresponds to very small efficiencies. The luminosity of the
+  shock models can, however, approach the Eddington limit as the shock radius approaches
+  r(tr).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1986ApJ...308..755B
+author: Blondin, J. M.
+author_list:
+- family: Blondin
+  given: J. M.
+date-added: 2017-08-11 05:44:04 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/164548
+journal: \apj
+keywords: Stellar Mass Accretion, Stellar Models, Emission Spectra, Hydrodynamic Equations,
+  Optical Thickness, Rotating Spheres, Shock Wave Propagation
+month: September
+pages: 755--764
+papis_id: b4b2f99dfde5e41e5f657a9744356b48
+ref: blondin.j.1986
+title: Hypercritical spherical accretion onto compact objects
+type: article
+volume: '308'
+year: '1986'

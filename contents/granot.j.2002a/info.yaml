@@ -1,0 +1,40 @@
+abstract: Gamma-ray burst afterglows are well described by synchrotron emission from
+  relativistic blast waves expanding into an external medium. The blast wave is believed
+  to amplify the magnetic field and accelerate the electrons into a power-law distribution
+  of energies promptly behind the shock. These electrons then cool both adiabatically
+  and by emitting synchrotron and inverse Compton radiation. The resulting spectra
+  are known to consist of several power-law segments, which smoothly join at certain
+  break frequencies. Here, we give a complete description of all possible spectra
+  under those assumptions and find that there are five possible regimes, depending
+  on the ordering of the break frequencies. The flux density is calculated by integrating
+  over all of the contributions to a given photon arrival time from all of the shocked
+  region using the Blandford \& McKee solution. This allows us to calculate more accurate
+  expressions for the value of these break frequencies and describe the shape of the
+  spectral breaks around them. This also provides the shape of breaks in the light
+  curves caused by the passage of a break frequency through the observed band. These
+  new, more exact, estimates are different from more simple calculations by typically
+  a factor of a few, and they describe some new regimes that were previously ignored.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...568..820G
+arxivurl: http://arxiv.org/abs/astro-ph/0108027
+author: Granot, J. and Sari, R.
+author_list:
+- family: Granot
+  given: J.
+- family: Sari
+  given: R.
+date-added: 2017-08-11 01:56:57 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338966
+eprint: astro-ph/0108027
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Gamma Rays: Theory, Radiation Mechanisms: Nonthermal,
+  Shock Waves'
+month: April
+pages: 820--829
+papis_id: 4071223035c85231c1dda68f11fa75a9
+ref: granot.j.2002a
+title: The Shape of Spectral Breaks in Gamma-Ray Burst Afterglows
+type: article
+volume: '568'
+year: '2002'

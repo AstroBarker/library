@@ -1,0 +1,41 @@
+abstract: We analyze the spectral properties of driven, supersonic, compressible,
+  magnetohydrodynamic (MHD) turbulence obtained via high-resolution numerical experiments,
+  for application to understanding the dynamics of giant molecular clouds. Via angle-averaged
+  power spectra, we characterize the transfer of energy from the intermediate, driving
+  scales down to smaller dissipative scales and also present evidence for inverse
+  cascades that achieve modal equipartition levels on larger spatial scales. Investigating
+  compressive versus shear modes separately, we evaluate their relative total power
+  and find that as the magnetic field strength decreases, (1) the shear fraction of
+  the total kinetic power decreases and (2) slopes of power-law fits over the inertial
+  range steepen. To relate to previous work on incompressible MHD turbulence, we present
+  qualitative and quantitative measures of the scale-dependent spectral anisotropy
+  arising from the shear Alfv{\'e}n cascade and show how these vary with changing
+  mean magnetic field strength. Finally, we propose a method for using anisotropy
+  in velocity centroid maps as a diagnostic of the mean magnetic field strength in
+  observed cloud cores.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...590..858V
+arxivurl: http://arxiv.org/abs/astro-ph/0303103
+author: Vestuto, J. G. and Ostriker, E. C. and Stone, J. M.
+author_list:
+- family: Vestuto
+  given: J. G.
+- family: Ostriker
+  given: E. C.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 22:40:15 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/375021
+eprint: astro-ph/0303103
+journal: \apj
+keywords: 'Methods: Numerical, Magnetohydrodynamics: MHD, Turbulence'
+month: June
+pages: 858--873
+papis_id: b5a619a8e2afffde92cd3cdf027f3ea8
+ref: vestuto.j.2003
+title: Spectral Properties of Compressible Magnetohydrodynamic Turbulence from Numerical
+  Simulations
+type: article
+volume: '590'
+year: '2003'

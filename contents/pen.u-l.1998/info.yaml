@@ -1,0 +1,39 @@
+abstract: An algorithm for simulating self-gravitating cosmological astrophysical
+  fluids is presented. The advantages include a large dynamic range, parallelizability,
+  high resolution per grid element, and fast execution speed. The code is based on
+  a finite volume flux-conservative total variation diminishing (TVD) scheme for the
+  shock-capturing hydro and an iterative multigrid solver for the gravity. The grid
+  is a time-dependent field, whose motion is described by a generalized potential
+  flow. Approximately constant mass per cell can be obtained, which provides all the
+  advantages of a Lagrangian scheme. The grid deformation combined with appropriate
+  limiting and smoothing schemes guarantees a regular and well-behaved grid geometry,
+  in which nearest neighbor relationships remain constant. The full hydrodynamic fluid
+  equations are implemented in the curvilinear moving grid, which allows for arbitrary
+  fluid flow relative to the grid geometry. This combination retains all the advantages
+  of the grid-based schemes including high speed per fluid element and a rapid gravity
+  solver.  The current implementation is described, and empirical simulation results
+  are presented. Accurate execution speed calculations are given in terms of floating
+  point operations per time step per grid cell. This code is freely available to the
+  community.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJS..115...19P
+arxivurl: http://arxiv.org/abs/astro-ph/9704258
+author: Pen, U.-L.
+author_list:
+- family: Pen
+  given: U.-L.
+date-added: 2017-08-11 03:22:53 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/313074
+eprint: astro-ph/9704258
+journal: \apjs
+keywords: 'HYDRODYNAMICS, COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE, METHODS: NUMERICAL,
+  Hydrodynamics, Cosmology: Large-Scale Structure of Universe, Methods: Numerical'
+month: March
+pages: 19--34
+papis_id: dd1e80a5dbe92c0ec0853707081d9534
+ref: pen.u_l.1998
+title: A High-Resolution Adaptive Moving Mesh Hydrodynamic Algorithm
+type: article
+volume: '115'
+year: '1998'

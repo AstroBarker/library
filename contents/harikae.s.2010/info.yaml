@@ -1,0 +1,55 @@
+abstract: Bearing in mind the application to the collapsar models of gamma-ray bursts
+  (GRBs), we develop a numerical scheme and code for estimating the deposition of
+  energy and momentum due to the neutrino pair annihilation (nu + {\bar{nu}} --> e^{-}
+  + e^{+}) in the vicinity of an accretion tori around a Kerr black hole. Our code
+  is designed to solve the general relativistic (GR) neutrino transfer by a ray-tracing
+  method. To solve the collisional Boltzmann equation in curved spacetime, we numerically
+  integrate the so-called rendering equation along the null geodesics. We employ the
+  Fehlberg (4,5) adaptive integrator in the Runge-Kutta method to perform the numerical
+  integration accurately. For the neutrino opacity, the charged-current beta-processes,
+  which are dominant in the vicinity of the accretion tori, are taken into account.
+  The numerical accuracy of the developed code is certified by several tests in which
+  we show comparisons with the corresponding analytical solutions. In order to solve
+  the energy-dependent ray-tracing transport, we propose that an adaptive-mesh-refinement
+  approach, which we take for the two radiation angles (theta, phi) and the neutrino
+  energy, is useful in reducing the computational cost significantly. Based on the
+  hydrodynamical data in our collapsar simulation, we estimate the annihilation rates
+  in a post-processing manner. Increasing the Kerr parameter from 0 to 1, it is found
+  that the GR effect can increase the local energy deposition rate by about one order
+  of magnitude, and the net energy deposition rate by several tens of percent. After
+  the accretion disk settles into a stationary state (typically later than ~9 s from
+  the onset of gravitational collapse), we point out that the neutrino-heating timescale
+  in the vicinity of the polar funnel region can be shorter than the dynamical timescale.
+  Our results suggest that the neutrino pair annihilation is potentially as important
+  as the conventional magnetohydrodynamic mechanism for igniting the GRB fireballs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...720..614H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.3165
+author: Harikae, S. and Kotake, K. and Takiwaki, T. and Sekiguchi, Y.-i.
+author_list:
+- family: Harikae
+  given: S.
+- family: Kotake
+  given: K.
+- family: Takiwaki
+  given: T.
+- family: Sekiguchi
+  given: Y.-i.
+date-added: 2017-08-10 22:38:28 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/720/1/614
+eprint: '1007.3165'
+journal: \apj
+keywords: 'accretion, accretion disks, gamma-ray burst: general, magnetohydrodynamics:
+  MHD, methods: numerical, neutrinos, supernovae: general'
+month: September
+pages: 614--625
+papis_id: a6eddb6be6bbddcfbcf0798600608c27
+primaryclass: astro-ph.HE
+ref: harikae.s.2010
+title: A General Relativistic Ray-tracing Method for Estimating the Energy and Momentum
+  Deposition by Neutrino Pair Annihilation in Collapsars
+type: article
+volume: '720'
+year: '2010'

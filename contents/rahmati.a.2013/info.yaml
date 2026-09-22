@@ -1,0 +1,48 @@
+abstract: We use a set of cosmological simulations combined with radiative transfer
+  calculations to investigate the distribution of neutral hydrogen in the post-reionization
+  Universe. We assess the contributions from the metagalactic ionizing background,
+  collisional ionization and diffuse recombination radiation to the total ionization
+  rate at redshifts z = 0-5. We find that the densities above which hydrogen self-shielding
+  becomes important are consistent with analytic calculations and previous work. However,
+  because of diffuse recombination radiation, whose intensity peaks at the same density,
+  the transition between highly ionized and self-shielded regions is smoother than
+  what is usually assumed. We provide fitting functions to the simulated photoionization
+  rate as a function of density and show that post-processing simulations with the
+  fitted rates yield results that are in excellent agreement with the original radiative
+  transfer calculations. The predicted neutral hydrogen column density distributions
+  agree very well with the observations. In particular, the simulations reproduce
+  the remarkable lack of evolution in the column density distribution of Lyman limit
+  and weak damped Lyalpha systems below z = 3. The evolution of the low column density
+  end is affected by the increasing importance of collisional ionization with decreasing
+  redshift. On the other hand, the simulations predict the abundance of strong damped
+  Lyalpha systems to broadly track the cosmic star formation rate density.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430.2427R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.7808
+author: Rahmati, A. and Pawlik, A. H. and Raičevic\grave, M. and Schaye, J.
+author_list:
+- family: Rahmati
+  given: A.
+- family: Pawlik
+  given: A. H.
+- family: Raičevic\grave
+  given: M.
+- family: Schaye
+  given: J.
+date-added: 2017-08-11 07:32:20 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/stt066
+eprint: '1210.7808'
+journal: \mnras
+keywords: 'radiative transfer, methods: numerical, galaxies: evolution, galaxies:
+  formation, galaxies: high-redshift, intergalactic medium'
+month: April
+pages: 2427--2445
+papis_id: 7307fe73b5b9026b6c80138363e5a2aa
+primaryclass: astro-ph.CO
+ref: rahmati.a.2013
+title: On the evolution of the H I column density distribution in cosmological simulations
+type: article
+volume: '430'
+year: '2013'

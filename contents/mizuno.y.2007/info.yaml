@@ -1,0 +1,46 @@
+abstract: Numerical simulations of weakly and strongly magnetized relativistic jets
+  embedded in a weakly magnetized and strongly magnetized stationary or weakly relativistic
+  (v=c/2) sheath have been performed. A magnetic field parallel to the flow is used
+  in these simulations performed by the new general relativistic magnetohydrodynamic
+  numerical code RAISHIN used in its relativistic magnetohydrodynamic (RMHD) configuration.
+  In the numerical simulations, the Lorentz factor gamma=2.5 jet is precessed to break
+  the initial equilibrium configuration. In the simulations, sound speeds are <~c/sqrt(3)
+  in the weakly magnetized simulations and <~0.3c in the strongly magnetized simulations.
+  The Alfv{\'e}n wave speed is <~0.07c in the weakly magnetized simulations and <~0.56c
+  in the strongly magnetized simulations. The results of the numerical simulations
+  are compared to theoretical predictions from a normal mode analysis of the linearized
+  RMHD equations capable of describing a uniform axially magnetized cylindrical relativistic
+  jet embedded in a uniform axially magnetized relativistically moving sheath. The
+  theoretical dispersion relation allows investigation of effects associated with
+  maximum possible sound speeds, Alfv{\'e}n wave speeds near light speed, and relativistic
+  sheath speeds. The prediction of increased stability of the weakly magnetized system
+  resulting from c/2 sheath speeds and the stabilization of the strongly magnetized
+  system resulting from c/2 sheath speeds is verified by the numerical simulation
+  results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662..835M
+arxivurl: http://arxiv.org/abs/astro-ph/0703190
+author: Mizuno, Y. and Hardee, P. and Nishikawa, K.-I.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Hardee
+  given: P.
+- family: Nishikawa
+  given: K.-I.
+date-added: 2017-08-10 16:30:54 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518106
+eprint: astro-ph/0703190
+journal: \apj
+keywords: 'Galaxies: Jets, Gamma Rays: Bursts, Instabilities, ISM: Jets and Outflows,
+  Methods: Analytical, Magnetohydrodynamics: MHD, Relativity'
+month: June
+pages: 835--850
+papis_id: 1e1d235ae5781b999d1fa6f57356e1d6
+ref: mizuno.y.2007
+title: Three-dimensional Relativistic Magnetohydrodynamic Simulations of Magnetized
+  Spine-Sheath Relativistic Jets
+type: article
+volume: '662'
+year: '2007'

@@ -1,0 +1,49 @@
+abstract: 'We study the effects of rotation on the dynamics, energetics, and 56Ni
+  production of pair instability supernova (PISN) explosions by performing rotating
+  two-dimensional ("2.5D") hydrodynamics simulations. We calculate the evolution of
+  eight low-metallicity (Z = 10-3, 10-4 Z \&sun;) massive (135-245 M \&sun;) PISN
+  progenitors with initial surface rotational velocities of 50\% of the critical Keplerian
+  value using the stellar evolution code MESA. We allow for both the inclusion and
+  the omission of the effects of magnetic fields in the angular momentum transport
+  and in chemical mixing, resulting in slowly rotating and rapidly rotating final
+  carbon-oxygen cores, respectively. Increased rotation for carbon-oxygen cores of
+  the same mass and chemical stratification leads to less energetic PISN explosions
+  that produce smaller amounts of 56Ni due to the effect of the angular momentum barrier
+  that develops and slows the dynamical collapse. We find a non-monotonic dependence
+  of 56Ni production on rotational velocity in situations when smoother composition
+  gradients form at the outer edge of the rotating cores. In these cases, the PISN
+  energetics are determined by the competition of two factors: the extent of chemical
+  mixing in the outer layers of the core due to the effects of rotation in the progenitor
+  evolution and the development of angular momentum support against collapse. Our
+  2.5D PISN simulations with rotation are the first presented in the literature. They
+  reveal hydrodynamic instabilities in several regions of the exploding star and increased
+  explosion asymmetries with higher core rotational velocity.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...776..129C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.4660
+author: Chatzopoulos, E. and Wheeler, J. C. and Couch, S. M.
+author_list:
+- family: Chatzopoulos
+  given: E.
+- family: Wheeler
+  given: J. C.
+- family: Couch
+  given: S. M.
+date-added: 2017-08-10 19:02:09 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/776/2/129
+eid: '129'
+eprint: '1308.4660'
+journal: \apj
+keywords: 'stars: evolution, stars: massive, stars: rotation, supernovae: general,
+  supernovae: individual'
+month: October
+pages: '129'
+papis_id: 2f9a5937909c329e36fe60463ea9e545
+primaryclass: astro-ph.HE
+ref: chatzopoulos.e.2013
+title: Multi-dimensional Simulations of Rotating Pair-instability Supernovae
+type: article
+volume: '776'
+year: '2013'

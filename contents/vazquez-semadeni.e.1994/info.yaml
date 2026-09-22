@@ -1,0 +1,50 @@
+abstract: A purely statistical origin of hierarchical density structure in pressureless
+  and nearly pressureless turbulent flows without self-gravity is proposed. It is
+  argued that hydrodynamic (Navier-Stokes) flows with rms Mach numbers Mrms \gg{}
+  1, like the cold interstellar medium or some cosmological flows, have a nearly pressureless
+  behavior, except perhaps in a small fraction of the volume. Assuming that in these
+  flows the density field can be considered as a random variable in time with an associated
+  probability distribution function (pdf), a condition on the pdf for the spontaneous
+  development of hierarchical structure is proposed. The condition is essentially
+  a requirement that the joint probability of a succession of n constructively interfering
+  relative density fluctuations of amplitude a be larger than the probability of a
+  single, large fluctuation of the same final amplitude a . An analytic form for this
+  condition is derived, under the assumption that the density pdf is scale- invariant,
+  and three important functional forms of the pdf (a power-law, a lognormal, and an
+  exponential distribution) are tested according to this criterion. It is found that
+  development of hierarchical structure should always be expected for the lognormal
+  and exponential distributions at large values of n and/or a, but is parameter-dependent
+  in the case of the power law. The assumption of a scale-invariant density pdf is
+  motivated (but not rigorously proved) by the scale invariance of the pressureless
+  hydrodynamic equations with negligible self-gravity, and a numerical simulation
+  of a compressible turbulent flow in two dimensions in a transonic regime (M \texttildelow{}
+  1) is used to test this and other secondary assumptions. The density field developed
+  by the simulation clearly exhibits at least three levels of hierarchical nesting.
+  The density statistics, albeit obscured by the limited resolution, which limits
+  the feasible density contrasts, are shown to be consistent with the hypotheses.
+  A discussion on the degree to which the dynamics of two- and three-dimensional flows
+  may differ from one another in the compressible case is given. Finally, a remark
+  is made that the hierarchical structure produced by this mechanism in turbulent
+  compressible flows is transient although statistically stationary. This should be
+  the case of all non-self-gravitating clouds in the cold interstellar medium and
+  of small-scale structures in cosmological flows.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...423..681V
+author: Vazquez-Semadeni, E.
+author_list:
+- family: Vazquez-Semadeni
+  given: E.
+date-added: 2017-08-10 23:23:36 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173847
+journal: \apj
+keywords: 'HYDRODYNAMICS, ISM: CLOUDS, ISM: STRUCTURE, TURBULENCE'
+month: March
+pages: '681'
+papis_id: 3d0324c7168128311e09578c6ec520e4
+ref: vazquez_semadeni.e.1994
+title: Hierarchical Structure in Nearly Pressureless Flows as a Consequence of Self-similar
+  Statistics
+type: article
+volume: '423'
+year: '1994'

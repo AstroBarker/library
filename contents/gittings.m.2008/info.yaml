@@ -1,0 +1,58 @@
+abstract: We describe RAGE, the 'radiation adaptive grid Eulerian' radiation-hydrodynamics
+  code, including its data structures, its parallelization strategy and performance,
+  its hydrodynamic algorithm(s), its (gray) radiation diffusion algorithm, and some
+  of the considerable amount of verification and validation efforts. The hydrodynamics
+  is a basic Godunov solver, to which we have made significant improvements to increase
+  the advection algorithm's robustness and to converge stiffnesses in the equation
+  of state. Similarly, the radiation transport is a basic gray diffusion, but our
+  treatment of the radiation-material coupling, wherein we converge nonlinearities
+  in a novel manner to allow larger timesteps and more robust behavior, can be applied
+  to any multi-group transport algorithm.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008CS\%26D....1a5005G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.1394
+author: Gittings, M. and Weaver, R. and Clover, M. and Betlach, T. and Byrne, N. and
+  Coker, R. and Dendy, E. and Hueckstaedt, R. and New, K. and Oakes, W. R. and Ranta,
+  D. and Stefan, R.
+author_list:
+- family: Gittings
+  given: M.
+- family: Weaver
+  given: R.
+- family: Clover
+  given: M.
+- family: Betlach
+  given: T.
+- family: Byrne
+  given: N.
+- family: Coker
+  given: R.
+- family: Dendy
+  given: E.
+- family: Hueckstaedt
+  given: R.
+- family: New
+  given: K.
+- family: Oakes
+  given: W. R.
+- family: Ranta
+  given: D.
+- family: Stefan
+  given: R.
+date-added: 2017-08-10 19:40:26 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1088/1749-4699/1/1/015005
+eid: '015005'
+eprint: '0804.1394'
+journal: Computational Science and Discovery
+month: October
+number: '1'
+pages: '015005'
+papis_id: 608004fe2b4a29ec74b8ae53378443b7
+primaryclass: physics.comp-ph
+ref: gittings.m.2008
+title: The RAGE radiation-hydrodynamic code
+type: article
+volume: '1'
+year: '2008'

@@ -1,0 +1,60 @@
+abstract: We construct a composite quasar spectrum from 284 HST FOS spectra of 101
+  quasars with redshifts z > 0.33. The spectrum covers the wavelengths between 350
+  and 3000 {\AA} in the rest frame, with a peak S/N level of ~130 per {\AA} at ~1200
+  {\AA}. Since ~90\% of the sample quasars have redshift z < 1.5, the spectrum is
+  suitable for studying the wavelength region shortward of Lyalpha without large effects
+  from intervening Lyalpha forest absorption. Data in the waveband between 350 and
+  600 {\AA} are mainly from the spectra of z > 1.5 quasars, for which significant
+  corrections for the accumulated Lyman-series line and continuum absorption have
+  been applied.  There is a significant steepening of the continuum slope around 1050
+  {\AA}. The continuum between 1050 and 2200 {\AA} can be modeled as a power law fnu
+  ~ nualpha with alpha = -0.99 +/- 0.05. For the full sample the power-law index in
+  the extreme ultraviolet (EUV) between 350 and 1050 {\AA} is alpha = -1.96 +/- 0.15.
+  For the radio-loud subsample (60 objects), the EUV spectral index is alpha ~= -2.2,
+  while for the radio-quiet subsample (41 objects) it is alpha ~= -1.8. The continuum
+  flux in the wavelengths near the Lyman limit shows a depression of ~10\%. The break
+  in the power-law index and the slight depression of the continuum near the Lyman
+  limit are features expected in Comptonized accretion-disk spectra. Comptonization
+  produces a power-law tail in the wavelength band shortward of ~1000 {\AA} and smears
+  out the Lyman-limit edge of the intrinsic accretion-disk spectrum.  In the EUV waveband,
+  we detect several possible emission features, including one around 690 {\AA} that
+  may be O III + N III produced by the Bowen fluorescence effect. Comparing our composite
+  spectrum with one made at higher redshifts by Francis et al., we find that the equivalent
+  widths of Lyalpha and high-ionization emission lines are larger in our sample, reflecting
+  a known luminosity dependence. The equivalent widths of low-ionization lines do
+  not exhibit such a dependence, suggesting that the quasar EUV continuum above ~50
+  eV is steeper at higher luminosity.  Radio-quiet quasars appear to show a slightly
+  harder continuum and lower ionization levels in their emission lines.  Based on
+  observations with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope
+  Science Institute, which is operated by the Association of Universities for Research
+  in Astronomy, Inc., under NASA contract NAS5-26555.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...475..469Z
+arxivurl: http://arxiv.org/abs/astro-ph/9608198
+author: Zheng, W. and Kriss, G. A. and Telfer, R. C. and Grimes, J. P. and Davidsen,
+  A. F.
+author_list:
+- family: Zheng
+  given: W.
+- family: Kriss
+  given: G. A.
+- family: Telfer
+  given: R. C.
+- family: Grimes
+  given: J. P.
+- family: Davidsen
+  given: A. F.
+date-added: 2017-08-11 06:26:55 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303560
+eprint: astro-ph/9608198
+journal: \apj
+keywords: 'Atomic Processes, Galaxies: Quasars: General, Ultraviolet: Galaxies'
+month: February
+pages: 469--478
+papis_id: b8f39c9c89fbde704a661ddb6191a234
+ref: zheng.w.1997
+title: A Composite HST Spectrum of Quasars
+type: article
+volume: '475'
+year: '1997'

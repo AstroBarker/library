@@ -1,0 +1,38 @@
+abstract: We present a simplified chemical and thermal model designed to allow computationally
+  efficient study of the thermal evolution of metal-poor gas within large numerical
+  simulations. Our main simplification is the neglect of the molecular chemistry of
+  the heavy elements. The only molecular chemistry retained within the model is the
+  formation and destruction of molecular hydrogen. Despite this major simplification,
+  the model allows for accurate treatment of the thermal evolution of the gas within
+  a large volume of parameter space. It is valid for temperatures 50<T<10,000 K and
+  metallicities 0<Z<0.1 Zsolar. In gas with a metallicity Z=0.1 Zsolar, and in the
+  absence of an incident ultraviolet radiation field, it is valid for hydrogen number
+  densities nH<~500/tchar cm-3, where tchar is the size in megayears of the characteristic
+  physical timescale of interest in the problem. If Z<<0.1 Zsolar, or if a strong
+  ultraviolet radiation field is present, then the model remains accurate up to significantly
+  higher densities. We also discuss some possible applications of this model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...666....1G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.0182
+author: Glover, S. C. O. and Jappsen, A.-K.
+author_list:
+- family: Glover
+  given: S. C. O.
+- family: Jappsen
+  given: A.-K.
+date-added: 2017-08-11 06:02:15 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519445
+eprint: '0705.0182'
+journal: \apj
+keywords: 'Astrochemistry, Cosmology: Theory, Galaxies: Formation, ISM: Molecules,
+  Molecular Processes'
+month: September
+pages: 1--19
+papis_id: 638ef3f89dccfc392e31f735bc18cdb6
+ref: glover.s.2007b
+title: Star Formation at Very Low Metallicity. I. Chemistry and Cooling at Low Densities
+type: article
+volume: '666'
+year: '2007'

@@ -1,0 +1,51 @@
+abstract: We have computed the gravitational wave signal from supernova core collapse
+  by using the most realistic input physics available at present. We start from state-of-the-art
+  progenitor models of rotating and nonrotating massive stars and simulate the dynamics
+  of their core collapse by integrating the equations of axisymmetric hydrodynamics,
+  together with the Boltzmann equation for the neutrino transport, including an elaborate
+  description of neutrino interactions, and a realistic equation of state. Using the
+  Einstein quadrupole formula we compute the quadrupole wave amplitudes, the Fourier
+  wave spectra, the amount of energy radiated in the form of gravitational waves,
+  and the signal-to-noise ratios for the Laser Interferometer Gravitational-Wave Observatory
+  (LIGO) I and the tuned Advanced LIGO (LIGO II) interferometers resulting from both
+  nonradial mass motion and anisotropic neutrino emission. The simulations demonstrate
+  that the dominant contribution to the gravitational wave signal is produced by neutrino-driven
+  convection behind the supernova shock. For stellar cores rotating at the extreme
+  of current stellar evolution predictions, the core bounce signal is detectable (S/N>~7)
+  with LIGO II for a supernova up to a distance of ~5 kpc, whereas the signal from
+  postshock convection is observable (S/N>~7) with LIGO II up to a distance of ~100
+  kpc and with LIGO I to a distance of ~5 kpc. If the core is nonrotating, its gravitational
+  wave emission can be measured with LIGO II up to a distance of ~15 kpc (S/N>~8),
+  while the signal from the Ledoux convection in the deleptonizing nascent neutron
+  star can be detected up to a distance of ~10 kpc (S/N>~8). Both kinds of signals
+  are generically produced by convection in any core-collapse supernova.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...603..221M
+arxivurl: http://arxiv.org/abs/astro-ph/0309833
+author: Müller, E. and Rampp, M. and Buras, R. and Janka, H.-T. and Shoemaker, D.
+  H.
+author_list:
+- family: Müller
+  given: E.
+- family: Rampp
+  given: M.
+- family: Buras
+  given: R.
+- family: Janka
+  given: H.-T.
+- family: Shoemaker
+  given: D. H.
+date-added: 2017-08-10 21:01:33 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/381360
+eprint: astro-ph/0309833
+journal: \apj
+keywords: 'Gravitational Waves, Hydrodynamics, Relativity, Stars: Supernovae: General'
+month: March
+pages: 221--230
+papis_id: fac01c73ce75dad52906b6ed3750740a
+ref: muller.e.2004
+title: Toward Gravitational Wave Signals from Realistic Core-Collapse Supernova Models
+type: article
+volume: '603'
+year: '2004'

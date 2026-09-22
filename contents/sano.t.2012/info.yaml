@@ -1,0 +1,43 @@
+abstract: The amplification of a magnetic field due to the Richtmyer-Meshkov instability
+  (RMI) is investigated by two-dimensional MHD simulations. Single-mode analysis is
+  adopted to reveal definite relation between the nonlinear evolution of RMI and the
+  field enhancement. It is found that an ambient magnetic field is stretched by fluid
+  motions associated with the RMI, and the strength is amplified significantly by
+  more than two orders of magnitude. The saturation level of the field is determined
+  by a balance between the amplified magnetic pressure and the thermal pressure after
+  shock passage. This effective amplification can be achieved in a wide range of the
+  conditions for the RMI such as the Mach number of an incident shock and the density
+  ratio at a contact discontinuity. The results suggest that the RMI could be a robust
+  mechanism of the amplification of interstellar magnetic fields and cause the origin
+  of localized strong fields observed at the shock of supernova remnants.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...758..126S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.0961
+author: Sano, T. and Nishihara, K. and Matsuoka, C. and Inoue, T.
+author_list:
+- family: Sano
+  given: T.
+- family: Nishihara
+  given: K.
+- family: Matsuoka
+  given: C.
+- family: Inoue
+  given: T.
+date-added: 2017-08-10 21:58:27 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/758/2/126
+eid: '126'
+eprint: '1209.0961'
+journal: \apj
+keywords: 'instabilities, ISM: magnetic fields, ISM: supernova remnants, magnetohydrodynamics:
+  MHD, shock waves'
+month: October
+pages: '126'
+papis_id: 6b21b25b10f1e5534cc247feb2e160c8
+primaryclass: astro-ph.HE
+ref: sano.t.2012
+title: Magnetic Field Amplification Associated with the Richtmyer-Meshkov Instability
+type: article
+volume: '758'
+year: '2012'

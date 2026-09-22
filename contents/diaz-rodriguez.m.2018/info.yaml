@@ -1,0 +1,53 @@
+abstract: Using the star formation histories (SFHs) near 94 supernova remnants (SNRs),
+  we infer the progenitor mass distribution for core-collapse supernovae. We use Bayesian
+  inference and model each SFH with multiple bursts of star formation (SF), one of
+  which is assumed to be associated with the SNR. Assuming single-star evolution,
+  the minimum mass of CCSNe is {7.33}-0.16+0.02 {M}\&sun; , the slope of the progenitor
+  mass distribution is alpha =-{2.96}-0.25+0.45, and the maximum mass is greater than
+  {M}\max > 59 {M}\&sun;  with a 68\% confidence. While these results are consistent
+  with previous inferences, they also provide tighter constraints. The progenitor
+  distribution is somewhat steeper than a Salpeter initial mass function (alpha =
+  -2.35). This suggests that either SNR catalogs are biased against the youngest SF
+  regions, or the most massive stars do not explode as easily as lower mass stars.
+  If SNR catalogs are biased, it will most likely affect the slope but not the minimum
+  mass. The uncertainties are dominated by three primary sources of uncertainty, the
+  SFH resolution, the number of SF bursts, and the uncertainty on SF rate in each
+  age bin. We address the first two of these uncertainties, with an emphasis on multiple
+  bursts. The third will be addressed in future work.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...861...92D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1802.07870
+author: Díaz-Rodríguez, M. and Murphy, J. W. and Rubin, D. A. and Dolphin, A. E. and
+  Williams, B. F. and Dalcanton, J. J.
+author_list:
+- family: Díaz-Rodríguez
+  given: M.
+- family: Murphy
+  given: J. W.
+- family: Rubin
+  given: D. A.
+- family: Dolphin
+  given: A. E.
+- family: Williams
+  given: B. F.
+- family: Dalcanton
+  given: J. J.
+date-added: 2018-08-26 20:59:32 -0400
+date-modified: 2018-08-26 20:59:34 -0400
+doi: 10.3847/1538-4357/aac6e1
+eid: '92'
+eprint: '1802.07870'
+journal: \apj
+keywords: 'galaxies: individual: M31, M33, ISM: supernova remnants, methods: statistical,
+  stars: evolution, supernovae: general'
+month: July
+pages: '92'
+papis_id: ccdb109c8a2c94a1c03c03c5984f428c
+primaryclass: astro-ph.SR
+ref: diaz_rodriguez.m.2018
+title: Progenitor Mass Distribution for Core-collapse Supernova Remnants in M31 and
+  M33
+type: article
+volume: '861'
+year: '2018'

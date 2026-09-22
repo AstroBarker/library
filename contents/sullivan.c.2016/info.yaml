@@ -1,0 +1,55 @@
+abstract: A weak-rate library aimed at investigating the sensitivity of astrophysical
+  environments to variations of electron-capture rates on medium-heavy nuclei has
+  been developed. With this library, the sensitivity of the core-collapse and early
+  post-bounce phases of core-collapse supernovae to nuclear electron capture is examined.
+  The rates are adjusted by factors consistent with uncertainties indicated by comparing
+  theoretical rates to those deduced from charge-exchange and beta-decay measurements.
+  To ensure a model-independent assessment, sensitivity studies across a comprehensive
+  set of progenitors and equations of state are performed. We find a +16/-4\% range
+  in the mass of the inner core at shock formation and a \% range of peak {nu }e luminosity
+  during the deleptonization burst. These ranges are five times as large as those
+  seen from a separate progenitor study, where we evaluate the sensitivity of these
+  parameters to 32 presupernova models. Additionally, the simulations are found to
+  be more sensitive to a reduction in electron-capture rates than an enhancement,
+  and specifically to the reduction in rates for neutron-rich nuclei near the N =
+  50 closed neutron shell. As measurements for medium-heavy (A\gt 65) and neutron-rich
+  nuclei are sparse, and because accurate theoretical models that account for nuclear
+  structure considerations of individual nuclei are not readily available, rates for
+  these nuclei may be overestimated. If more accurate estimates confirm this, results
+  from this study indicate that significant changes to the core-collapse trajectory
+  are expected. For this reason, experimental and theoretical efforts should focus
+  on this region of the nuclear chart.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...816...44S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1508.07348
+author: Sullivan, C. and O'Connor, E. and Zegers, R. G. T. and Grubb, T. and Austin,
+  S. M.
+author_list:
+- family: Sullivan
+  given: C.
+- family: O'Connor
+  given: E.
+- family: Zegers
+  given: R. G. T.
+- family: Grubb
+  given: T.
+- family: Austin
+  given: S. M.
+date-added: 2017-08-10 14:05:28 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/816/1/44
+eid: '44'
+eprint: '1508.07348'
+journal: \apj
+keywords: 'neutrinos, nuclear reactions, nucleosynthesis, abundances, equation of
+  state, supernovae: general'
+month: January
+pages: '44'
+papis_id: 2c59b1d0cefed4a0c547c2569dfafca9
+primaryclass: astro-ph.HE
+ref: sullivan.c.2016
+title: The Sensitivity of Core-collapse Supernovae to Nuclear Electron Capture
+type: article
+volume: '816'
+year: '2016'

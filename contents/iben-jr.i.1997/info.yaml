@@ -1,0 +1,63 @@
+abstract: A 10.5 M\&sun; model of Population I composition is evolved from the main
+  sequence through the core carbon-burning phase. As in 9 and 10 M\&sun; models studied
+  in earlier papers of this series, carbon is ignited off center, but more carbon
+  flashes occur before hydrogen is reignited and carbon burning dies out. Beginning
+  with the second carbon flash, a carbon-burning flame propagates to the stellar center.
+  The flame is divided into two parts by the flame ``front'' which is defined to coincide
+  with the base of an associated convective shell. Ahead of the front is a ``precursor''
+  flame in which nuclear energy is converted into heat and the work of expansion at
+  a rate comparable to the rate of release of nuclear energy in the convective shell.
+  The width in mass of the precursor flame relative to the distance of the front from
+  the center varies from ~0.01 when the front is at ~0.04 M\&sun; to ~1 as the front
+  reaches ~10-7 M\&sun;. Toward the end of the carbon-burning phase, the 10.5 M\&sun;
+  model mixes helium- and carbon-rich matter with hydrogen-rich matter, but, in contrast
+  to the other models, mixing does not occur across the base of a hydrogen-rich convective
+  envelope which moves steadily inward through the helium-rich layer below it. Rather,
+  a convective shell extending outward from the burning layers meets with the inward
+  moving base of the convective envelope; then, hydrogen diffuses inward convectively
+  and ignites as carbon and helium are diffusing outward through a region of variable
+  composition. The luminous flux that forces convective motions at the base of the
+  convective region is contributed to by carbon-burning, gravothermal, and helium-burning
+  energy. The mixing process is modeled with a diffusion equation in which the diffusion
+  coefficient is assumed to be a fraction of the local pressure scale height times
+  a convective velocity that is estimated in the mixing-length approximation. When
+  carbon burning dies out, the electron-degenerate core consists of an inner oxygen-neon
+  (ONe) part of mass MONe ~ 1.263 M\&sun; in which 20Ne is more abundant than 12C,
+  and an outer carbon-oxygen (CO) layer of mass DeltaMCO ~ 0.0065 M\&sun; in which
+  the reverse is true. Over most of the outer ~0.005 M\&sun; of the CO layer, the
+  abundances of all neon isotopes is much less than 10-4 by number, and the number
+  abundance of 25Mg and of other neutron-rich isotopes is equal to the total abundance
+  of CNO elements in the initial main-sequence model. Final interior abundance characteristics
+  in the deep interior of the ONe part of the core are very similar to those in the
+  other models, the principal difference being that the maximum abundance by mass
+  of 12C in the 10.5 M\&sun; model (X12 ~ 0.006) is significantly smaller than in
+  the 10 M\&sun; model (X12 ~ 0.012) and in the 9 M\&sun; model (X12 ~ 0.048). This
+  has ramifications for the question of the accretion-induced collapse of massive
+  white dwarfs in cataclysmic variables and ultrasoft X-ray sources.  Supported in
+  part by the NSF (US) grant AST 94-17156 and the DGICYT (Spain) grant PB94-0827-C02-02.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...489..772I
+author: Iben Jr., I. and Ritossa, C. and García-Berro, E.
+author_list:
+- family: Iben Jr.
+  given: I.
+- family: Ritossa
+  given: C.
+- family: García-Berro
+  given: E.
+date-added: 2017-08-10 18:27:26 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304822
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution, Stars:
+  Interiors, Stars: White Dwarfs'
+month: November
+pages: 772--790
+papis_id: d1c837d397b4191ca05ee9c09125a890
+ref: iben_jr.i.1997
+title: On the Evolution of Stars that Form Electron-degenerate Cores Processed by
+  Carbon Burning. IV. Outward Mixing During the Second Dredge-up Phase and Other Properties
+  of a 10.5 M$_&sun;$ Model Star
+type: article
+volume: '489'
+year: '1997'

@@ -1,0 +1,52 @@
+abstract: 'We present a new model for computing the effects of dust on the integrated
+  spectral properties of galaxies, based on an idealized description of the main features
+  of the interstellar medium (ISM). The model includes the ionization of H II regions
+  in the interiors of the dense clouds in which stars form and the influence of the
+  finite lifetime of these clouds on the absorption of radiation. We compute the production
+  of emission lines and the absorption of continuum radiation in the H II regions
+  and the subsequent transfer of line and continuum radiation in the surrounding H
+  I regions and the ambient ISM. This enables us to interpret simultaneously all the
+  observations of an ultraviolet-selected sample of nearby starburst galaxies, including
+  the ratio of far-infrared to ultraviolet luminosities, the ratio of Halpha to Hbeta
+  luminosities, the Halpha equivalent width, and the ultraviolet spectral slope. We
+  show that the finite lifetime of stellar birth clouds is a key ingredient for resolving
+  an apparent discrepancy between the attenuation of line and continuum photons in
+  starburst galaxies. In addition, we find that an effective absorption curve proportional
+  to lambda-0.7 reproduces the observed relation between the ratio of far-infrared
+  to ultraviolet luminosities and the ultraviolet spectral slope. We interpret this
+  relation most simply as a sequence in the overall dust content of the galaxies.
+  The shallow wavelength dependence of the effective absorption curve is compatible
+  with the steepness of known extinction curves if the dust has a patchy distribution.
+  In particular, we find that a random distribution of discrete clouds with optical
+  depths similar to those in the Milky Way provides a consistent interpretation of
+  all the observations. A noteworthy outcome of our detailed analysis is that the
+  observed mean relations for starburst galaxies can be closely approximated by the
+  following simple recipe: use an effective absorption curve proportional to lambda-0.7
+  to attenuate the line and continuum radiation from each stellar generation, and
+  lower the normalization of the curve, typically by a factor of 3 after 107 yr, to
+  account for the dispersal of the birth clouds. This recipe or our full model for
+  absorption can be incorporated easily into any population synthesis model.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...539..718C
+arxivurl: http://arxiv.org/abs/astro-ph/0003128
+author: Charlot, S. and Fall, S. M.
+author_list:
+- family: Charlot
+  given: S.
+- family: Fall
+  given: S. M.
+date-added: 2017-08-10 20:18:27 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309250
+eprint: astro-ph/0003128
+journal: \apj
+keywords: 'ISM: Dust, Extinction, Galaxies: ISM, Galaxies: Starburst, Infrared: Galaxies,
+  Ultraviolet: Galaxies'
+month: August
+pages: 718--731
+papis_id: a9a3762ab773005de48d6aaff02ead6e
+ref: charlot.s.2000
+title: A Simple Model for the Absorption of Starlight by Dust in Galaxies
+type: article
+volume: '539'
+year: '2000'

@@ -1,0 +1,45 @@
+abstract: 'One-point statistics of velocity gradients and Eulerian and Lagrangian
+  accelerations are studied by analysing the data from high-resolution direct numerical
+  simulations (DNS) of turbulence in a periodic box, with up to 40963 grid points.
+  The DNS consist of two series of runs; one is with kmax ~ 2 (Series 2), where kmax
+  is the maximum wavenumber and  in Series 1 is about 1130, and it is about 675 in
+  Series 2. Particular attention is paid to the possible Reynolds number (Re) dependence
+  of the statistics. The visualization of the intense vorticity regions shows that
+  the turbulence field at high Re consists of clusters of small intense vorticity
+  regions, and their structure is to be distinguished from those of small eddies.
+  The possible dependence on Re of the probability distribution functions of velocity
+  gradients is analysed through the dependence on R dependence of S and F of the longitudinal
+  velocity gradients fit well with a simple power law: S ~ 0.11 and F ~ 1.14R similarly
+  to each other at R < 100. Regarding the statistics of time derivatives, the second-order
+  time derivatives of turbulent velocities are more intermittent than the first-order
+  ones for both the Eulerian and Lagrangian velocities, and the Lagrangian time derivatives
+  of turbulent velocities are more intermittent than the Eulerian time derivatives,
+  as would be expected. The flatness factor of the Lagrangian acceleration is as large
+  as 90 at R 430. The flatness factors of the Eulerian and Lagrangian accelerations
+  increase with RE L E L \approx{} 3.0.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007JFM...592..335I
+author: Ishihara, T. and Kaneda, Y. and Yokokawa, M. and Itakura, K. and Uno, A.
+author_list:
+- family: Ishihara
+  given: T.
+- family: Kaneda
+  given: Y.
+- family: Yokokawa
+  given: M.
+- family: Itakura
+  given: K.
+- family: Uno
+  given: A.
+date-added: 2017-08-11 06:59:23 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1017/S0022112007008531
+journal: Journal of Fluid Mechanics
+pages: 335--366
+papis_id: 3a6f8ece554bc80c1807adf901456646
+ref: ishihara.t.2007
+title: 'Small-scale statistics in high-resolution direct numerical simulation of turbulence:
+  Reynolds number dependence of one-point velocity gradient statistics'
+type: article
+volume: '592'
+year: '2007'

@@ -1,0 +1,44 @@
+abstract: 'In order to investigate the formation of relativistic jets at the center
+  of a progenitor of a gamma-ray burst (GRB), we develop a two-dimensional general
+  relativistic magnetohydrodynamic code. We show that the code passes many well-known
+  test calculations, and confirm the reliability of the code. Then we perform a numerical
+  simulation of a collapsar using a realistic progenitor model. It is shown that a
+  jet is launched from the center of the progenitor. The structure of the jet is similar
+  to the previous study: a Poynting flux jet is surrounded by the funnel-wall jet.
+  Even at the final stage of the simulation, the bulk Lorentz factor of the jet is
+  still low, and the total energy of the jet is still as small as 1048 erg. However,
+  we find that the energy flux per unit rest-mass flux is as high as 102 at the bottom
+  of the jet. Thus, we conclude that the bulk Lorentz factor of the jet can be potentially
+  high when it propagates outward. Also, as long as the duration of the activity of
+  the central engine is long enough, the total energy of the jet can be large enough
+  to explain the typical explosion energy of a GRB (~1051 erg). It is shown that the
+  outgoing Poynting flux exists at the horizon around the polar region, which proves
+  that the Blandford-Znajek mechanism is really working. However, we conclude that
+  the jet is mainly launched by the magnetic field amplified by the gravitational
+  collapse and differential rotation around the black hole, rather than the Blandford-Znajek
+  mechanism.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..937N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.1908
+author: Nagataki, S.
+author_list:
+- family: Nagataki
+  given: S.
+date-added: 2017-08-11 02:08:16 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/2/937
+eprint: '0902.1908'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, gamma rays: bursts, relativity,
+  supernovae: general'
+month: October
+pages: 937--950
+papis_id: 89987f7bbaccf21dea934e698179ce16
+primaryclass: astro-ph.HE
+ref: nagataki.s.2009
+title: Development of a General Relativistic Magnetohydrodynamic Code and Its Application
+  to the Central Engine of Long Gamma-Ray Bursts
+type: article
+volume: '704'
+year: '2009'

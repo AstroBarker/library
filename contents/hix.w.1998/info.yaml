@@ -1,0 +1,45 @@
+abstract: An examination of the process of silicon burning, the burning stage that
+  leads to the production of the iron peak nuclei, reveals that the nuclear evolution
+  is dominated by large groups of nuclei in mutual equilibrium. These quasi-equilibrium
+  (QSE) groups form well in advance of the global nuclear statistical equilibrium
+  (NSE). We present an improved ``minimal'' nuclear network, which takes advantage
+  of QSE in order to calculate the nuclear evolution and energy generation while further
+  reducing the computational cost compared with a conventional alpha-chain network.
+  During silicon burning the resultant QSE-reduced alpha-network is twice as fast
+  as the full alpha-network it replaces and requires the tracking of only half as
+  many abundance variables, without significant loss of accuracy. When the QSE-reduced
+  alpha-network is used in combination with a conventional alpha-network stretching
+  from He to Si, the combined network, which we call the alpha7 network, provides
+  an accurate approximation for all of the burning stages from He burning to NSE,
+  while tracking only seven abundances. These reductions in computational cost and
+  the number of species evolved make the alpha7 network well suited for inclusion
+  within hydrodynamic simulations, particularly those in multidimension.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...503..332H
+arxivurl: http://arxiv.org/abs/astro-ph/9805095
+author: Hix, W. R. and Khokhlov, A. M. and Wheeler, J. C. and Thielemann, F.-K.
+author_list:
+- family: Hix
+  given: W. R.
+- family: Khokhlov
+  given: A. M.
+- family: Wheeler
+  given: J. C.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-11 03:43:53 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305968
+eprint: astro-ph/9805095
+journal: \apj
+keywords: 'METHODS: NUMERICAL, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS:
+  EVOLUTION, STARS: SUPERNOVAE: GENERAL, Methods: Numerical, Nuclear Reactions, Nucleosynthesis,
+  Abundances, Stars: Evolution, Stars: Supernovae: General'
+month: August
+pages: 332--343
+papis_id: ccbd02423fa01941bb029a9489ef5ed8
+ref: hix.w.1998
+title: The Quasi-Equilibrium-reduced $α$-Network
+type: article
+volume: '503'
+year: '1998'

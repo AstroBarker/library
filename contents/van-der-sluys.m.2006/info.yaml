@@ -1,0 +1,44 @@
+abstract: We investigate the formation of the ten double-lined double white dwarfs
+  that have been observed so far. A detailed stellar evolution code is used to calculate
+  grids of single-star and binary models and we use these to reconstruct possible
+  evolutionary scenarios. We apply various criteria to select the acceptable solutions
+  from these scenarios. We confirm the conclusion of Nelemans et al. (2000) that formation
+  via conservative mass transfer and a common envelope with spiral-in based on energy
+  balance or via two such spiral-ins cannot explain the formation of all observed
+  systems. We investigate three different prescriptions of envelope ejection due to
+  dynamical mass loss with angular-momentum balance and show that they can explain
+  the observed masses and orbital periods well. Next, we demand that the age difference
+  of our model is comparable to the observed cooling-age difference and show that
+  this puts a strong constraint on the model solutions. However, the scenario in which
+  the primary loses its envelope in an isotropic wind and the secondary transfers
+  its envelope, which is then re-emitted isotropically, can explain the observed age
+  differences as well. One of these solutions explains the DB-nature of the oldest
+  white dwarf in PG 1115+116 along the evolutionary scenario proposed by Maxted et
+  al. (2002a), in which the helium core of the primary becomes exposed due to envelope
+  ejection, evolves into a giant phase and loses its hydrogen-rich outer layers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...460..209V
+arxivurl: http://arxiv.org/abs/astro-ph/0610492
+author: van der Sluys, M. V. and Verbunt, F. and Pols, O. R.
+author_list:
+- family: van der Sluys
+  given: M. V.
+- family: Verbunt
+  given: F.
+- family: Pols
+  given: O. R.
+date-added: 2017-08-11 00:51:48 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20065066
+eprint: astro-ph/0610492
+journal: \aap
+keywords: 'stars: binaries: close, stars: white dwarfs, stars: evolution, stars: individual:
+  PG 1115+116'
+month: December
+pages: 209--228
+papis_id: d2fc13d28ee72ada4303be10d29e760a
+ref: van_der_sluys.m.2006
+title: Modelling the formation of double white dwarfs
+type: article
+volume: '460'
+year: '2006'

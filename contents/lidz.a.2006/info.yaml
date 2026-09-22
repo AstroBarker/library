@@ -1,0 +1,40 @@
+abstract: The Lyalpha forest at z>~5.5 shows strong scatter in the mean transmission
+  even when smoothed over extremely large spatial scales, >~50 Mpc h-1. This has been
+  interpreted as a signature of strongly fluctuating radiation fields or patchy reionization.
+  To test this claim, we calculate the scatter arising solely from density fluctuations,
+  assuming a uniform ionizing background, via analytic arguments and simulations.
+  This scatter alone is comparable to that observed. It rises steeply with redshift
+  and is of order unity by z~6, even on ~50 Mpc h-1 scales. This arises because (1)
+  at z~6, transmission spectra, which are sensitive mainly to rare voids, are highly
+  biased (with a linear bias factor b>=4) tracers of underlying density fluctuations
+  and (2) small-scale transverse modes are aliased to long-wavelength line-of-sight
+  modes. Inferring patchy reionization from quasar spectra is therefore subtle and
+  requires much more detailed modeling. Similarly, we expect density fluctuations
+  alone to produce order unity transmission fluctuations in the z~3 He II Lyalpha
+  forest on the scales over which these measurements are typically made.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...639L..47L
+arxivurl: http://arxiv.org/abs/astro-ph/0512427
+author: Lidz, A. and Oh, S. P. and Furlanetto, S. R.
+author_list:
+- family: Lidz
+  given: A.
+- family: Oh
+  given: S. P.
+- family: Furlanetto
+  given: S. R.
+date-added: 2017-08-10 20:17:01 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/502678
+eprint: astro-ph/0512427
+journal: \apjl
+keywords: 'Cosmology: Theory, Galaxies: Intergalactic Medium, Cosmology: Large-Scale
+  Structure of Universe, Galaxies: Quasars: Absorption Lines'
+month: March
+pages: L47-L50
+papis_id: 08a02223a7fa4308986ff5183c28c751
+ref: lidz.a.2006
+title: Have We Detected Patchy Reionization in Quasar Spectra?
+type: article
+volume: '639'
+year: '2006'

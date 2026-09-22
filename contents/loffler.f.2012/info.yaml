@@ -1,0 +1,66 @@
+abstract: We describe the Einstein Toolkit, a community-driven, freely accessible
+  computational infrastructure intended for use in numerical relativity, relativistic
+  astrophysics, and other applications. The toolkit, developed by a collaboration
+  involving researchers from multiple institutions around the world, combines a core
+  set of components needed to simulate astrophysical objects such as black holes,
+  compact objects, and collapsing stars, as well as a full suite of analysis tools.
+  The Einstein Toolkit is currently based on the Cactus framework for high-performance
+  computing and the Carpet adaptive mesh refinement driver. It implements spacetime
+  evolution via the BSSN evolution system and general relativistic hydrodynamics in
+  a finite-volume discretization. The toolkit is under continuous development and
+  contains many new code components that have been publicly released for the first
+  time and are described in this paper. We discuss the motivation behind the release
+  of the toolkit, the philosophy underlying its development, and the goals of the
+  project. A summary of the implemented numerical techniques is included, as are results
+  of numerical test covering a variety of sample astrophysical problems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012CQGra..29k5001L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.3344
+author: Löffler, F. and Faber, J. and Bentivegna, E. and Bode, T. and Diener, P. and
+  Haas, R. and Hinder, I. and Mundim, B. C. and Ott, C. D. and Schnetter, E. and Allen,
+  G. and Campanelli, M. and Laguna, P.
+author_list:
+- family: Löffler
+  given: F.
+- family: Faber
+  given: J.
+- family: Bentivegna
+  given: E.
+- family: Bode
+  given: T.
+- family: Diener
+  given: P.
+- family: Haas
+  given: R.
+- family: Hinder
+  given: I.
+- family: Mundim
+  given: B. C.
+- family: Ott
+  given: C. D.
+- family: Schnetter
+  given: E.
+- family: Allen
+  given: G.
+- family: Campanelli
+  given: M.
+- family: Laguna
+  given: P.
+date-added: 2017-08-10 16:22:36 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0264-9381/29/11/115001
+eid: '115001'
+eprint: '1111.3344'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '115001'
+papis_id: 4872acc997b239430d1a6d3b56db37c9
+primaryclass: gr-qc
+ref: loffler.f.2012
+title: 'The Einstein Toolkit: a community computational infrastructure for relativistic
+  astrophysics'
+type: article
+volume: '29'
+year: '2012'

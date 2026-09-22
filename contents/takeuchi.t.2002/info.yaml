@@ -1,0 +1,52 @@
+abstract: We study the radial migration of dust particles in accreting protostellar
+  disks analogous to the primordial solar nebula. Our main objective is to determine
+  the retention efficiency of dust particles, which are the building blocks of the
+  much larger planetesimals. This study takes account of the two-dimensional (radial
+  and normal) structure of the disk gas, including the effects of the variation in
+  the gas velocity as a function of distance from the midplane. It is shown that the
+  dust component of disks accretes slower than the gas component. At high altitude
+  from the disk midplane (higher than a few disk scale heights), the gas rotates faster
+  than the particles because of the inward pressure gradient force, and its drag force
+  causes particles to move outward in the radial direction. Viscous torque induces
+  the gas within a scale height from the disk midplane to flow outward, carrying small
+  (size<~100 mum at 10 AU) particles with it. Only particles at intermediate altitude
+  or with sufficiently large sizes (>~1 mm at 10 AU) move inward. When the particles'
+  radial velocities are averaged over the entire vertical direction, the particles
+  have a net inward flux. The magnitude of their radial motion depends on their distance
+  from the central star. At large distances, particles migrate inward with a velocity
+  much faster than the gas accretion velocity. However, their inward velocity is reduced
+  below that of the gas in the inner regions of the disk. The rate of velocity decrease
+  is a function of the particles' size. While larger particles retain fast accretion
+  velocity until they approach closer to the star, 10 mum particles have slower velocity
+  than the gas in the majority of the disk (r<~100 AU). This differential migration
+  of particles causes size fractionation. Dust disks composed mostly of small particles
+  (size<~10 mum) accrete slower than gas disks, resulting in an increase in the dust-gas
+  ratio during the gas accretion phase. If the gas disk has a steep radial density
+  gradient or if dust particles sediment effectively to the disk midplane, the net
+  vertically averaged flux of particles can be outward. In this case, the accretion
+  of the dust component is prevented, leading to the formation of residual dust disks
+  after their gas component is severely depleted.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...581.1344T
+arxivurl: http://arxiv.org/abs/astro-ph/0208552
+author: Takeuchi, T. and Lin, D. N. C.
+author_list:
+- family: Takeuchi
+  given: T.
+- family: Lin
+  given: D. N. C.
+date-added: 2017-08-10 14:54:54 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344437
+eprint: astro-ph/0208552
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Planetary Systems: Formation, Solar
+  System: Formation'
+month: December
+pages: 1344--1355
+papis_id: a790a8ce34085dbe8cb06e05b0969c1d
+ref: takeuchi.t.2002
+title: Radial Flow of Dust Particles in Accretion Disks
+type: article
+volume: '581'
+year: '2002'

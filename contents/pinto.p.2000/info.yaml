@@ -1,0 +1,37 @@
+abstract: We develop an analytic solution of the radiation transport problem for Type
+  Ia supernovae (SNe Ia) and show that it reproduces bolometric light curves produced
+  by more detailed calculations under the assumption of a constant-extinction coefficient.
+  This model is used to derive the thermal conditions in the interior of SNe Ia and
+  to study the sensitivity of light curves to various properties of the underlying
+  supernova explosions. Although the model is limited by simplifying assumptions,
+  it is adequate for demonstrating that the relationship between SNe Ia maximum-light
+  luminosity and rate of decline is most easily explained if SNe Ia span a range in
+  mass. The analytic model is also used to examine the size of various terms in the
+  transport equation under conditions appropriate to maximum light. For instance,
+  the Eulerian and advective time derivatives are each shown to be of the same order
+  of magnitude as other order v/c terms in the transport equation. We conclude that
+  a fully time-dependent solution to the transport problem is needed in order to compute
+  SNe Ia light curves and spectra accurate enough to distinguish subtle differences
+  of various explosion models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...530..744P
+author: Pinto, P. A. and Eastman, R. G.
+author_list:
+- family: Pinto
+  given: P. A.
+- family: Eastman
+  given: R. G.
+date-added: 2017-08-10 19:43:21 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308376
+journal: \apj
+keywords: 'DIFFUSION, RADIATIVE TRANSFER, STARS: INTERIORS, STARS: SUPERNOVAE: GENERAL'
+month: February
+pages: 744--756
+papis_id: 0a84f60d723ff671deab759c11102709
+ref: pinto.p.2000
+title: The Physics of Type IA Supernova Light Curves. I. Analytic Results and Time
+  Dependence
+type: article
+volume: '530'
+year: '2000'

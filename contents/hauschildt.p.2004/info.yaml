@@ -1,0 +1,31 @@
+abstract: We describe two separate wavelength discretization schemes that can be used
+  in the numerical solution of the comoving frame radiative transfer equation. We
+  present an improved second order discretization scheme and show that it leads to
+  significantly less numerical diffusion than the previous scheme. We also show that
+  due to the nature of the second order term in some extreme cases it can become numerically
+  unstable. We stabilize the scheme by introducing a mixed discretization scheme and
+  present the results from several test calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...417..317H
+arxivurl: http://arxiv.org/abs/astro-ph/0401164
+author: Hauschildt, P. H. and Baron, E.
+author_list:
+- family: Hauschildt
+  given: P. H.
+- family: Baron
+  given: E.
+date-added: 2017-08-10 17:33:50 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1051/0004-6361:20034473
+eprint: astro-ph/0401164
+journal: \aap
+keywords: 'radiative transfer, methods: numerical'
+month: April
+pages: 317--324
+papis_id: 1d422a206dc77986b00666f34299e5bf
+ref: hauschildt.p.2004
+title: Improved discretization of the wavelength derivative term in CMF operator splitting
+  numerical radiative transfer
+type: article
+volume: '417'
+year: '2004'

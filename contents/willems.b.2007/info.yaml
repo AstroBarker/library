@@ -1,0 +1,54 @@
+abstract: Population synthesis tools are used to investigate the population of nonmagnetic
+  cataclysmic variables with unevolved main-sequence-like donors at orbital periods
+  greater than 2.75 hr. In addition to the angular momentum losses associated with
+  gravitational radiation, magnetic braking, and mass loss from the system, we also
+  include the effects of circumbinary disks on the evolution. For a fractional mass
+  input rate into the disk, corresponding to 3\texttimes{}10-4 of the mass transfer
+  rate, the model systems exhibit a bounce at orbital periods greater than 2.75 hr.
+  The simulations reveal that (1) some systems can exist as dwarf novae throughout
+  their lifetime, (2) dwarf novae can evolve into novalike systems, and (3) novalike
+  systems can evolve back into dwarf novae during their postbounce evolution to longer
+  orbital periods. Among these subclasses, novalike cataclysmic variables would be
+  the best candidates to search for circumbinary disks at wavelengths >~10 mum. The
+  theoretical orbital period distribution is in reasonable accord with the combined
+  population of dwarf novae and novalike systems above the period gap, suggesting
+  the possibility that systems with unevolved donors need not detach and evolve below
+  the period gap as in the disrupted magnetic braking model. The resulting population
+  furthermore reveals the possible presence of systems with small mass ratios and
+  a preference of O/Ne/Mg white dwarfs in dwarf nova systems in comparison to novalike
+  systems. The novalike population furthermore shows a lack of systems with high-mass
+  white dwarfs. The importance of observational bias in accounting for the differing
+  populations is examined, and it is shown that an understanding of these effects
+  is necessary in order to confront the theoretical distributions with the observed
+  ones in a meaningful manner.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...657..465W
+arxivurl: http://arxiv.org/abs/astro-ph/0611569
+author: Willems, B. and Taam, R. E. and Kolb, U. and Dubus, G. and Sandquist, E. L.
+author_list:
+- family: Willems
+  given: B.
+- family: Taam
+  given: R. E.
+- family: Kolb
+  given: U.
+- family: Dubus
+  given: G.
+- family: Sandquist
+  given: E. L.
+date-added: 2017-08-10 22:44:25 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510479
+eprint: astro-ph/0611569
+journal: \apj
+keywords: 'Stars: Binaries: Close, Methods: Statistical, Stars: Novae, Cataclysmic
+  Variables, Stars: Evolution'
+month: March
+pages: 465--481
+papis_id: 78a93e30aebc53c8eec2a66211954ad6
+ref: willems.b.2007
+title: 'Theoretical Orbital Period Distributions of Cataclysmic Variables above the
+  Period Gap: Effects of Circumbinary Disks'
+type: article
+volume: '657'
+year: '2007'

@@ -1,0 +1,41 @@
+abstract: The quantities and wavelength dependencies of the dust extinction along
+  the lines of sight toward 33 nearby gamma-ray bursts (GRBs) with redshifts z < 2
+  are derived from fitting their afterglow spectral energy distributions. Unlike previous
+  studies which often assume a specific extinction law like that of the Milky Way
+  (MW) and the Large and Small Magellanic Clouds (LMC/SMC), our approach---we call
+  it the "Drude" approach---is more flexible in determining the true wavelength dependence
+  of the extinction (while the shape of the extinction curve inferred from that relying
+  on a priori assumption of a template extinction law is, of course, fixed). The extinction
+  curves deduced from the Drude approach display a wide diversity of shapes, ranging
+  from relatively flat curves to curves which are featureless and steeply rise toward
+  the far-ultraviolet, and from curves just like that of the MW, LMC, and SMC to curves
+  resembling that of the MW and LMC but lacking the 2175 {\AA} bump. The visual extinction
+  AV derived from the Drude approach is generally larger by a factor of ~2-5 than
+  that inferred by assuming a SMC-type template extinction law. Consistent with previous
+  studies, the extinction-to-gas ratio is mostly smaller than that of the MW, and
+  does not seem to correlate with the shape of the extinction curve. It is shown that
+  the standard silicate-graphite interstellar grain model closely reproduces the extinction
+  curves of all 33 GRBs host galaxies. For these 33 bursts at z < 2, we find no evidence
+  for the evolution of the dust extinction, dust sizes, and relative abundances of
+  silicate to graphite on redshifts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...710..648L
+author: Liang, S. L. and Li, A.
+author_list:
+- family: Liang
+  given: S. L.
+- family: Li
+  given: A.
+date-added: 2017-08-11 03:46:15 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/710/1/648
+journal: \apj
+keywords: 'dust, extinction, gamma rays: general'
+month: February
+pages: 648--662
+papis_id: 39743a39a13588ca270072488fe708cd
+ref: liang.s.2010
+title: Probing Extragalactic Dust through Nearby Gamma-ray Burst Afterglows
+type: article
+volume: '710'
+year: '2010'

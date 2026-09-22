@@ -1,0 +1,37 @@
+abstract: We describe a single step, second-order accurate Godunov scheme for ideal
+  MHD based on combining the piecewise parabolic method (PPM) for performing spatial
+  reconstruction, the corner transport upwind (CTU) method of Colella for multidimensional
+  integration, and the constrained transport (CT) algorithm for preserving the divergence-free
+  constraint on the magnetic field. We adopt the most compact form of CT, which requires
+  the field be represented by area-averages at cell faces. We demonstrate that the
+  fluxes of the area-averaged field used by CT can be made consistent with the fluxes
+  of the volume-averaged field returned by a Riemann solver if they obey certain simple
+  relationships. We use these relationships to derive new algorithms for constructing
+  the CT fluxes at grid cell corners which reduce exactly to the equivalent one-dimensional
+  solver for plane-parallel, grid-aligned flow. We show that the PPM reconstruction
+  algorithm must include multidimensional terms for MHD, and we describe a number
+  of important extensions that must be made to CTU in order for it to be used for
+  MHD with CT. We present the results of a variety of test problems to demonstrate
+  the method is accurate and robust.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005JCoPh.205..509G
+arxivurl: http://arxiv.org/abs/astro-ph/0501557
+author: Gardiner, T. A. and Stone, J. M.
+author_list:
+- family: Gardiner
+  given: T. A.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 13:59:14 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1016/j.jcp.2004.11.016
+eprint: astro-ph/0501557
+journal: Journal of Computational Physics
+month: May
+pages: 509--539
+papis_id: 2c454e5bc993a090042f0db6987b8df2
+ref: gardiner.t.2005
+title: An unsplit Godunov method for ideal MHD via constrained transport
+type: article
+volume: '205'
+year: '2005'

@@ -1,0 +1,52 @@
+abstract: Observations indicate that outflows from massive young stars are more collimated
+  during their early evolution compared to later stages. Our paper investigates various
+  physical processes that impact the outflow dynamics, i.e., its acceleration and
+  collimation. We perform axisymmetric magnetohydrodynamic (MHD) simulations particularly
+  considering the radiation pressure exerted by the star and the disk. We have modified
+  the PLUTO code to include radiative forces in the line-driving approximation. We
+  launch the outflow from the innermost disk region (r < 50 AU) by magnetocentrifugal
+  acceleration. In order to disentangle MHD effects from radiative forces, we start
+  the simulation in pure MHD and later switch on the radiation force. We perform a
+  parameter study considering different stellar masses (thus luminosity), magnetic
+  flux, and line-force strength. For our reference simulation---assuming a 30 M \&sun;
+  star---we find substantial de-collimation of 35\% due to radiation forces. The opening
+  angle increases from 20$\,^{\circ}$ to 32\$\,^{\circ}\$ for stellar masses from
+  20 M \&sun; to 60 M \&sun;. A small change in the line-force parameter alpha from
+  0.60 to 0.55 changes the opening angle by ~8\$\,^{\circ}\$. We find that it is mainly
+  the stellar radiation that affects the jet dynamics. Unless the disk extends very
+  close to the star, its force is too small to have much impact. Essentially, our
+  parameter runs with different stellar masses can be understood as a proxy for the
+  time evolution of the star-outflow system. Thus, we have shown that when the stellar
+  mass (thus luminosity) increases with age, the outflows become less collimated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742...56V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4924
+author: Vaidya, B. and Fendt, C. and Beuther, H. and Porth, O.
+author_list:
+- family: Vaidya
+  given: B.
+- family: Fendt
+  given: C.
+- family: Beuther
+  given: H.
+- family: Porth
+  given: O.
+date-added: 2017-08-10 23:00:19 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/742/1/56
+eid: '56'
+eprint: '1108.4924'
+journal: \apj
+keywords: 'accretion, accretion disks, ISM: jets and outflows, magnetohydrodynamics:
+  MHD, methods: numerical, radiative transfer, stars: formation, stars: massive'
+month: November
+pages: '56'
+papis_id: 04aadaf319f9746826a037392e7e7288
+primaryclass: astro-ph.SR
+ref: vaidya.b.2011
+title: 'Jet Formation from Massive Young Stars: Magnetohydrodynamics versus Radiation
+  Pressure'
+type: article
+volume: '742'
+year: '2011'

@@ -1,0 +1,39 @@
+abstract: A method for implementing cylindrical coordinates in the Athena magnetohydrodynamics
+  (MHD) code is described. The extension follows the approach of Athena's original
+  developers and has been designed to alter the existing Cartesian-coordinates code
+  as minimally and transparently as possible. The numerical equations in cylindrical
+  coordinates are formulated to maintain consistency with constrained transport (CT),
+  a central feature of the Athena algorithm, while making use of previously implemented
+  code modules such as the Riemann solvers. Angular momentum transport, which is critical
+  in astrophysical disk systems dominated by rotation, is treated carefully. We describe
+  modifications for cylindrical coordinates of the higher-order spatial reconstruction
+  and characteristic evolution steps as well as the finite-volume and CT updates.
+  Finally, we present a test suite of standard and novel problems in one, two, and
+  three dimensions designed to validate our algorithms and implementation and to be
+  of use to other code developers. The code is suitable for use in a wide variety
+  of astrophysical applications and is freely available for download on the Web.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..188..290S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.2487
+author: Skinner, M. A. and Ostriker, E. C.
+author_list:
+- family: Skinner
+  given: M. A.
+- family: Ostriker
+  given: E. C.
+date-added: 2017-08-10 16:44:47 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0067-0049/188/1/290
+eprint: '1004.2487'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: May
+pages: 290--311
+papis_id: d5ee999b6880a899019d4d85c36c3ea4
+primaryclass: astro-ph.IM
+ref: skinner.m.2010
+title: The Athena Astrophysical Magnetohydrodynamics Code in Cylindrical Geometry
+type: article
+volume: '188'
+year: '2010'

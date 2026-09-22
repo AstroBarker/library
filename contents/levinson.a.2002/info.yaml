@@ -1,0 +1,45 @@
+abstract: The number of orphan radio afterglows associated with gamma-ray bursts (GRBs)
+  that should be detected by a flux-limited radio survey is calculated. It is shown
+  that for jetted GRBs, this number is smaller for a smaller jet opening angle theta,
+  contrary to naive expectation. For a beaming factor f-1b\equiv{}(theta2/2)- 1~=500,
+  roughly the value inferred by Frail et al. from analysis of afterglow light curves,
+  we predict that between several hundred to several thousand orphan radio afterglows
+  should be detectable (over all sky) above 1 mJy at GHz frequencies at any given
+  time. This orphan population is dominated by sources lying at distances of a few
+  hundred Mpc and having an age of ~1 yr. A search for pointlike radio transients
+  with flux densities greater than 6 mJy was conducted using the FIRST and NVSS surveys,
+  yielding a list of nine orphan candidates. We argue that most of the candidates
+  are unlikely to be radio supernovae. However, the possibility that they are radio-loud
+  active galactic nuclei cannot be ruled out without further observation. Our analysis
+  sets a conservative 95\% CL upper limit for the all-sky number of radio orphans,
+  which corresponds to a lower limit f-1b>13 on the beaming factor. Rejection of all
+  candidates found in our search would imply f-1b>80. This, and the possibility that
+  some candidates may indeed be radio afterglows, strongly motivate further observations
+  of these transients.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...576..923L
+arxivurl: http://arxiv.org/abs/astro-ph/0203262
+author: Levinson, A. and Ofek, E. O. and Waxman, E. and Gal-Yam, A.
+author_list:
+- family: Levinson
+  given: A.
+- family: Ofek
+  given: E. O.
+- family: Waxman
+  given: E.
+- family: Gal-Yam
+  given: A.
+date-added: 2017-08-11 06:38:13 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/341866
+eprint: astro-ph/0203262
+journal: \apj
+keywords: 'Gamma Rays: Bursts'
+month: September
+pages: 923--931
+papis_id: a4b01816f7abb4ab3ff691e2ed0520c1
+ref: levinson.a.2002
+title: 'Orphan Gamma-Ray Burst Radio Afterglows: Candidates and Constraints on Beaming'
+type: article
+volume: '576'
+year: '2002'

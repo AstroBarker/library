@@ -1,0 +1,45 @@
+abstract: We investigate the core mass distribution (CMD) resulting from numerical
+  models of turbulent fragmentation of molecular clouds. In particular we study its
+  dependence on the sonic rms Mach number Ms. We analyze simulations with Ms ranging
+  from 1 to 15 to show that, as Ms increases, the number of cores increases as well,
+  while their average mass decreases. This stems from the fact that high Mach number
+  flows produce many and strong shocks on intermediate to small spatial scales, leading
+  to a highly fragmented density structure. We also show that the CMD from purely
+  turbulent fragmentation does not follow a single power law, but can be described
+  by a function that changes its shape continuously, probably similar to a lognormal
+  function. The CMD in supersonic turbulent flows does not have a universal slope,
+  which casts some doubt on attempts to directly relate the CMD to a universal initial
+  mass function.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...637..384B
+arxivurl: http://arxiv.org/abs/astro-ph/0509591
+author: Ballesteros-Paredes, J. and Gazol, A. and Kim, J. and Klessen, R. S. and Jappsen,
+  A.-K. and Tejero, E.
+author_list:
+- family: Ballesteros-Paredes
+  given: J.
+- family: Gazol
+  given: A.
+- family: Kim
+  given: J.
+- family: Klessen
+  given: R. S.
+- family: Jappsen
+  given: A.-K.
+- family: Tejero
+  given: E.
+date-added: 2017-08-10 23:22:33 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/498228
+eprint: astro-ph/0509591
+journal: \apj
+keywords: 'ISM: Clouds, Methods: Numerical, Stars: Formation, Turbulence'
+month: January
+pages: 384--391
+papis_id: 5c6c8d38fcb29ca8978115b5bd5fc759
+ref: ballesteros_paredes.j.2006
+title: The Mass Spectra of Cores in Turbulent Molecular Clouds and Implications for
+  the Initial Mass Function
+type: article
+volume: '637'
+year: '2006'

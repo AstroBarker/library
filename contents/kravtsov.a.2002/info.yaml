@@ -1,0 +1,45 @@
+abstract: We present results of gasdynamics+N-body constrained cosmological simulations
+  of the Local Supercluster region (LSC; about 30h-1Mpc around the Virgo cluster),
+  which closely mimic the real universe within 100 Mpc, by imposing constraints from
+  the MARK III catalog of galaxy peculiar velocities. The simulations are used to
+  study the properties and possible observational signatures of intergalactic medium
+  in the LSC region. We find that in agreement with previous unconstrained simulations,
+  ~30\% of the gas in this region is in the warm/hot phase at T~105-107 K and ~40\%
+  in the diffuse phase at T<105 K in low-density regions. The X-ray emission from
+  the warm/hot gas may represent a small (~5\%-10\%) but important contribution to
+  the X-ray background observed by the ROSAT All-Sky Survey at energies around 1 keV.
+  The best prospects for detection of the warm/hot intergalactic medium of the LSC
+  located in filaments and in the vicinity of virialized regions of groups and clusters
+  are through absorption in resonant lines of O VII and O VIII in soft X-rays and
+  in the O VI doublet in UV. If intergalactic gas in filaments (rho/<rho>~1-10) is
+  enriched to typical metallicities of >~0.05, the column densities of O VI, O VII,
+  and O VIII along a random line of sight near the north Galactic pole, especially
+  near the supergalactic plane, have a significant probability to be in the range
+  detectable by current (FUSE, XMM) and future (Constellation-X) instruments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...571..563K
+arxivurl: http://arxiv.org/abs/astro-ph/0109077
+author: Kravtsov, A. V. and Klypin, A. and Hoffman, Y.
+author_list:
+- family: Kravtsov
+  given: A. V.
+- family: Klypin
+  given: A.
+- family: Hoffman
+  given: Y.
+date-added: 2017-08-10 21:43:02 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340046
+eprint: astro-ph/0109077
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Large-Scale Structure of Universe, Methods:
+  Numerical'
+month: June
+pages: 563--575
+papis_id: 015be33ff64a37b1e6d9da11b7938201
+ref: kravtsov.a.2002
+title: Constrained Simulations of the Real Universe. II. Observational Signatures
+  of Intergalactic Gas in the Local Supercluster Region
+type: article
+volume: '571'
+year: '2002'

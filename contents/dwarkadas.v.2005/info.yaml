@@ -1,0 +1,52 @@
+abstract: Mass loss from massive stars (>~8 Msolar) can result in the formation of
+  circumstellar wind-blown cavities surrounding the star, bordered by a thin, dense,
+  cold shell. When the star explodes as a core-collapse supernova (SN), the resulting
+  shock wave will interact with this modified medium around the star, rather than
+  the interstellar medium. In this work we first explore the nature of the circumstellar
+  medium around massive stars in various evolutionary stages. This is followed by
+  a study of the evolution of SNe within these wind-blown bubbles. The evolution depends
+  primarily on a single parameter Lambda, the ratio of the mass of the dense shell
+  to that of the ejected material. We investigate the evolution for different values
+  of this parameter. We also plot approximate X-ray surface brightness plots from
+  the simulations. For very small values Lambda<<1 the effect of the shell is negligible,
+  as one would expect. Values of Lambda<~1 affect the SN evolution, but the SN ``forgets''
+  about the existence of the shell in about 10 doubling times or so. The remnant density
+  profile changes, and consequently the X-ray emission from the remnant will also
+  change. The initial X-ray luminosity of the remnant is quite low, but interaction
+  of the shock wave with the dense circumstellar shell can increase the luminosity
+  by 2-3 orders of magnitude. As the reflected shock begins to move inward, X-ray
+  images will show the presence of a double-shelled structure. Larger values result
+  in more SN energy being expended to the shell. The resulting reflected shock moves
+  quickly back to the origin, and the ejecta are thermalized rapidly. The evolution
+  of the remnant is speeded up, and the entire remnant may appear bright in X-rays.
+  If Lambda>>1, then a substantial amount of energy may be expended in the shell.
+  In the extreme case the SN may go directly from the free expansion to the adiabatic
+  stage, bypassing the Sedov stage. Our results show that in many cases the SNR spends
+  a significant amount of time within the bubble. The low density within the bubble
+  can delay the onset of the Sedov stage and may end up reducing the amount of time
+  spent in the Sedov stage. The complicated density profile within the bubble makes
+  it difficult to infer the mass-loss properties of the pre-SN star by studying the
+  evolution of the resulting SNR.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...630..892D
+arxivurl: http://arxiv.org/abs/astro-ph/0410464
+author: Dwarkadas, V. V.
+author_list:
+- family: Dwarkadas
+  given: V. V.
+date-added: 2017-08-11 06:34:10 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/432109
+eprint: astro-ph/0410464
+journal: \apj
+keywords: 'Stars: Circumstellar Matter, Hydrodynamics, Shock Waves, ISM: Supernova
+  Remnants, Stars: Supernovae: General, X-Rays: ISM'
+month: September
+pages: 892--910
+papis_id: f17d82e1b691705f7be4f35f7a796da5
+ref: dwarkadas.v.2005
+title: The Evolution of Supernovae in Circumstellar Wind-Blown Bubbles. I. Introduction
+  and One-Dimensional Calculations
+type: article
+volume: '630'
+year: '2005'

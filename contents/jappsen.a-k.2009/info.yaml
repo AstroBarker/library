@@ -1,0 +1,47 @@
+abstract: Primordial star formation appears to result in stars at least an order of
+  magnitude more massive than modern star formation. It has been proposed that the
+  transition from primordial to modern initial mass functions occurs due to the onset
+  of effective metal-line cooling at a metallicity Z/Z sun = 10-3.5. However, these
+  simulations neglected molecular hydrogen cooling. We perform simulations using the
+  same initial conditions, but including molecular cooling, using a complex network
+  that follows molecular hydrogen formation and also directly follows carbon monoxide
+  and water. We find that molecular hydrogen cooling allows roughly equivalent fragmentation
+  to proceed even at zero metallicity for these initial conditions. The apparent transition
+  just represents the point where metal-line cooling becomes more important than molecular
+  cooling. In all cases, the fragments are massive enough to be consistent with models
+  of primordial stellar masses, suggesting that the transition to the modern initial
+  mass function may be determined by other physics such as dust formation. We conclude
+  that such additional cooling mechanisms, combined with the exact initial conditions
+  produced by cosmological collapse are likely more important than metal-line cooling
+  in determining the initial mass function, and thus that there is unlikely to be
+  a sharp transition in the initial mass function at Z/Z sun = 10-3.5.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...696.1065J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.3530
+author: Jappsen, A.-K. and Klessen, R. S. and Glover, S. C. O. and Mac Low, M.-M.
+author_list:
+- family: Jappsen
+  given: A.-K.
+- family: Klessen
+  given: R. S.
+- family: Glover
+  given: S. C. O.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 06:02:28 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/696/2/1065
+eprint: '0709.3530'
+journal: \apj
+keywords: 'stars: formation, stars: luminosity function, mass function, early universe,
+  hydrodynamics, equation of state, methods: numerical'
+month: May
+pages: 1065--1074
+papis_id: 5792bdf5b2df0770cea1951017e8187d
+ref: jappsen.a_k.2009
+title: Star Formation at Very Low Metallicity. IV. Fragmentation does not Depend on
+  Metallicity for Cold Initial Conditions
+type: article
+volume: '696'
+year: '2009'

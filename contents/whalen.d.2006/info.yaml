@@ -1,0 +1,43 @@
+abstract: Radiation hydrodynamical transport of ionization fronts (I-fronts) in the
+  next generation of cosmological reionization simulations holds the promise of predicting
+  UV escape fractions from first principles as well as investigating the role of photoionization
+  in feedback processes and structure formation. We present a multistep integration
+  scheme for radiative transfer and hydrodynamics for accurate propagation of I-fronts
+  and ionized flows from a point source in cosmological simulations. The algorithm
+  is a photon-conserving method that correctly tracks the position of I-fronts at
+  much lower resolutions than nonconservative techniques. The method applies direct
+  hierarchical updates to the ionic species, bypassing the need for the costly matrix
+  solutions required by implicit methods while retaining sufficient accuracy to capture
+  the true evolution of the fronts. We review the physics of ionization fronts in
+  power-law density gradients, whose analytical solutions provide excellent validation
+  tests for radiation coupling schemes. The advantages and potential drawbacks of
+  direct and implicit schemes are also considered, with particular focus on problem
+  time-stepping, which if not properly implemented can lead to morphologically plausible
+  I-front behavior that nonetheless departs from theory. We also examine the effect
+  of radiation pressure from very luminous central sources on the evolution of I-fronts
+  and flows.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..162..281W
+arxivurl: http://arxiv.org/abs/astro-ph/0508214
+author: Whalen, D. and Norman, M. L.
+author_list:
+- family: Whalen
+  given: D.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 05:40:19 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/499072
+eprint: astro-ph/0508214
+journal: \apjs
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, ISM: H II Regions, Hydrodynamics,
+  Methods: Numerical'
+month: February
+pages: 281--303
+papis_id: 38ac4cca341eaf4644fcd7cf56da0449
+ref: whalen.d.2006
+title: A Multistep Algorithm for the Radiation Hydrodynamical Transport of Cosmological
+  Ionization Fronts and Ionized Flows
+type: article
+volume: '162'
+year: '2006'

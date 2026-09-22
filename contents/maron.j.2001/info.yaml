@@ -1,0 +1,62 @@
+abstract: 'We simulate incompressible MHD turbulence using a pseudospectral code.
+  Our major conclusions are: (1) MHD turbulence is most conveniently described in
+  terms of counterpropagating shear Alfv{\''e}n and slow waves. Shear Alfv{\''e}n
+  waves control the cascade dynamics. Slow waves play a passive role and adopt the
+  spectrum set by the shear Alfv{\''e}n waves. Cascades composed entirely of shear
+  Alfv{\''e}n waves do not generate a significant measure of slow waves. (2) MHD turbulence
+  is anisotropic, with energy cascading more rapidly along k\perp{} than along k\vert{}\vert{},
+  where k\perp{} and k\vert{}\vert{} refer to wavevector components perpendicular
+  and parallel to the local magnetic field, respectively. Anisotropy increases with
+  increasing k\perp{} such that excited modes are confined inside a cone bounded by
+  k\vert{}\vert{}~kgamma\perp{}, where gamma<1. The opening angle of the cone, Theta(k\perp{})~k-(1-gamma)\perp{},
+  defines the scale-dependent anisotropy. (3) The one-dimensional inertial range energy
+  spectrum is well fitted by a power law, E(k\perp{})~k-alpha\perp{}, with alpha>1.
+  (4) MHD turbulence is generically strong in the sense that the waves that comprise
+  it suffer order unity distortions on timescales comparable to their periods. Nevertheless,
+  turbulent fluctuations are small deep inside the inertial range. Their energy density
+  is less than that of the background field by a factor of Theta(alpha-1)/(1-gamma)<<1.
+  (5) MHD cascades are best understood geometrically. Wave packets suffer distortions
+  as they move along magnetic field lines perturbed by counterpropagating waves. Field
+  lines perturbed by unidirectional waves map planes perpendicular to the local field
+  into each other. Shear Alfv{\''e}n waves are responsible for the mapping''s shear
+  and slow waves for its dilatation. The amplitude of the former exceeds that of the
+  latter by 1/Theta(k\perp{}), which accounts for dominance of the shear Alfv{\''e}n
+  waves in controlling the cascade dynamics. (6) Passive scalars mixed by MHD turbulence
+  adopt the same power spectrum as the velocity and magnetic field perturbations.
+  (7) Decaying MHD turbulence is unstable to an increase of the imbalance between
+  the fluxes of waves propagating in opposite directions along the magnetic field.
+  Forced MHD turbulence displays order unity fluctuations with respect to the balanced
+  state if excited at low k\perp{} by delta(t)-correlated forcing. It appears to be
+  statistically stable to the unlimited growth of imbalance. (8) Gradients of the
+  dynamic variables are focused into sheets aligned with the magnetic field whose
+  thickness is comparable to the dissipation scale. Sheets formed by oppositely directed
+  waves are uncorrelated. We suspect that these are vortex sheets, which the mean
+  magnetic field prevents from rolling up. (9) Items 1-6 lend support to the model
+  of strong MHD turbulence put forth by Goldreich \& Sridhar (GS). Results from our
+  simulations are also consistent with the GS prediction gamma=2/3, as are those obtained
+  previously by Cho \& Vishniac. The sole notable discrepancy is that one-dimensional
+  energy spectra determined from our simulations exhibit alpha~3/2, whereas the GS
+  model predicts alpha=5/3. Further investigation is needed to resolve this issue.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...554.1175M
+arxivurl: http://arxiv.org/abs/astro-ph/0012491
+author: Maron, J. and Goldreich, P.
+author_list:
+- family: Maron
+  given: J.
+- family: Goldreich
+  given: P.
+date-added: 2017-08-10 22:39:19 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/321413
+eprint: astro-ph/0012491
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Turbulence'
+month: June
+pages: 1175--1196
+papis_id: 07ae88c50401dc38c0980c78cb587225
+ref: maron.j.2001
+title: Simulations of Incompressible Magnetohydrodynamic Turbulence
+type: article
+volume: '554'
+year: '2001'

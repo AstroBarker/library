@@ -1,0 +1,51 @@
+abstract: We investigate the momentum and energy budget of stellar feedback during
+  different stages of stellar evolution, and study its impact on the interstellar
+  medium (ISM) using simulations of local star-forming regions and galactic disks
+  at the resolution affordable in modern cosmological zoom-in simulations. In particular,
+  we present a novel subgrid model for the momentum injection due to radiation pressure
+  and stellar winds from massive stars during early, pre-supernova (pre-SN) evolutionary
+  stages of young star clusters. Early injection of momentum acts to clear out dense
+  gas in star-forming regions, hence limiting star formation. The reduced gas density
+  mitigates radiative losses of thermal feedback energy from subsequent SN explosions.
+  The detailed impact of stellar feedback depends sensitively on the implementation
+  and choice of parameters. Somewhat encouragingly, we find that implementations in
+  which feedback is efficient lead to approximate self-regulation of the global star
+  formation efficiency. We compare simulation results using our feedback implementation
+  to other phenomenological feedback methods, where thermal feedback energy is allowed
+  to dissipate over timescales longer than the formal gas cooling time. We find that
+  simulations with maximal momentum injection suppress star formation to a similar
+  degree as is found in simulations adopting adiabatic thermal feedback. However,
+  different feedback schemes are found to produce significant differences in the density
+  and thermodynamic structure of the ISM, and are hence expected to have a qualitatively
+  different impact on galaxy evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...770...25A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.4957
+author: Agertz, O. and Kravtsov, A. V. and Leitner, S. N. and Gnedin, N. Y.
+author_list:
+- family: Agertz
+  given: O.
+- family: Kravtsov
+  given: A. V.
+- family: Leitner
+  given: S. N.
+- family: Gnedin
+  given: N. Y.
+date-added: 2017-08-10 21:43:26 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/770/1/25
+eid: '25'
+eprint: '1210.4957'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: ISM, ISM: structure, methods: numerical,
+  stars: formation'
+month: June
+pages: '25'
+papis_id: fca1c8c80841c3438331bd327f03a2ff
+ref: agertz.o.2013
+title: Toward a Complete Accounting of Energy and Momentum from Stellar Feedback in
+  Galaxy Formation Simulations
+type: article
+volume: '770'
+year: '2013'

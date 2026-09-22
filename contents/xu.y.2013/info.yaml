@@ -1,0 +1,59 @@
+abstract: An update of a previous description of the BRUSLIB + NACRE package of nuclear
+  data for astrophysics and of the web-based nuclear network generator NETGEN is presented.
+  The new version of BRUSLIB contains the latest predictions of a wide variety of
+  nuclear data based on the most recent version of the Brussels-Montreal Skyrme-Hartree-Fock-Bogoliubov
+  model. The nuclear masses, radii, spin/parities, deformations, single-particle schemes,
+  matter densities, nuclear level densities, E1 strength functions, fission properties,
+  and partition functions are provided for all nuclei lying between the proton and
+  neutron drip lines over the 8 <= Z <= 110 range, whose evaluation is based on a
+  unique microscopic model that ensures a good compromise between accuracy, reliability,
+  and feasibility. In addition, these various ingredients are used to calculate about
+  100 000 Hauser-Feshbach neutron-, proton-, alpha-, and gamma-induced reaction rates
+  based on the reaction code TALYS. NACRE is superseded by the NACRE II compilation
+  for 15 charged-particle transfer reactions and 19 charged-particle radiative captures
+  on stable targets with mass numbers A < 16. NACRE II features the inclusion of experimental
+  data made available after the publication of NACRE in 1999 and up to 2011. In addition,
+  the extrapolation of the available data to the very low energies of astrophysical
+  relevance is improved through the systematic use of phenomenological potential models.
+  Uncertainties in the rates are also evaluated on this basis. Finally, the latest
+  release v10.0 of the web-based tool NETGEN is presented. In addition to the data
+  already used in the previous NETGEN package, it contains in a fully documented form
+  the new BRUSLIB and NACRE II data, as well as new experiment-based radiative neutron
+  capture cross sections. The full new versions of BRUSLIB, NACRE II, and NETGEN are
+  available electronically from the nuclear database at http://www.astro.ulb.ac.be/NuclearData.
+  The nuclear material is presented in an extended tabular form complemented with
+  a variety of graphical interfaces.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...549A.106X
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.0628
+author: Xu, Y. and Goriely, S. and Jorissen, A. and Chen, G. L. and Arnould, M.
+author_list:
+- family: Xu
+  given: Y.
+- family: Goriely
+  given: S.
+- family: Jorissen
+  given: A.
+- family: Chen
+  given: G. L.
+- family: Arnould
+  given: M.
+date-added: 2017-08-10 18:01:51 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1051/0004-6361/201220537
+eid: A106
+eprint: '1212.0628'
+journal: \aap
+keywords: standards, nuclear reactions, nucleosynthesis, abundances
+month: January
+pages: A106
+papis_id: 2643ca88758951edeaf1a8cbab6c1737
+primaryclass: nucl-th
+ref: xu.y.2013
+title: Databases and tools for nuclear astrophysics applications. BRUSsels Nuclear
+  LIBrary (BRUSLIB), Nuclear Astrophysics Compilation of REactions II (NACRE II) and
+  Nuclear NETwork GENerator (NETGEN)
+type: article
+volume: '549'
+year: '2013'

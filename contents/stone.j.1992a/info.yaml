@@ -1,0 +1,36 @@
+abstract: A detailed description of ZEUS-2D, a numerical code for the simulation of
+  fluid dynamical flows including a self-consistent treatment of the effects of magnetic
+  fields and radiation transfer is presented. Attention is given to the hydrodynamic
+  (HD) algorithms which form the foundation for the more complex MHD and radiation
+  HD algorithms. The effect of self-gravity on the flow dynamics is accounted for
+  by an iterative solution of the sparse-banded matrix resulting from discretizing
+  the Poisson equation in multidimensions. The results of an extensive series of HD
+  test problems are presented. A detailed description of the MHD algorithms in ZEUS-2D
+  is presented. A new method of computing the electromotive force is developed using
+  the method of characteristics (MOC). It is demonstrated through the results of an
+  extensive series of MHD test problems that the resulting hybrid MOC-constrained
+  transport method provides for the accurate evolution of all modes of MHD wave families.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJS...80..753S
+author: Stone, J. M. and Norman, M. L.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 23:29:36 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191680
+journal: \apjs
+keywords: Computational Astrophysics, Cosmic Plasma, Hydrodynamic Equations, Magnetohydrodynamic
+  Flow, Self Consistent Fields, Computational Grids, Finite Difference Theory, Plasma
+  Radiation, Poisson Equation, Radiative Transfer
+month: June
+pages: 753--790
+papis_id: 3828a039b805f8810196e9a43297c36b
+ref: stone.j.1992a
+title: 'ZEUS-2D: A radiation magnetohydrodynamics code for astrophysical flows in
+  two space dimensions. I - The hydrodynamic algorithms and tests.'
+type: article
+volume: '80'
+year: '1992'

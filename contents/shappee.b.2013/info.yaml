@@ -1,0 +1,48 @@
+abstract: A generic prediction of the single-degenerate model for Type Ia supernovae
+  (SNe Ia) is that a significant amount of material will be stripped from the donor
+  star (~0.5 M \&sun; for a giant donor and ~0.15 M \&sun; for a main-sequence donor)
+  by the supernova ejecta. This material, excited by gamma-rays from radioactive decay,
+  would then produce relatively narrow (lsim1000 km s-1) emission features observable
+  once the supernova enters the nebular phase. Such emission has never been detected,
+  which already provides strong constraints on Type Ia progenitor models. In this
+  Letter, we report the deepest limit yet on the presence of Halpha emission originating
+  from the stripped hydrogen in the nebular spectrum of an SN Ia obtained using a
+  high signal-to-noise spectrum of the nearby normal SN Ia 2011fe 274 days after B-band
+  maximum light with the Large Binocular Telescope's Multi-Object Double Spectrograph.
+  We put a conservative upper limit on the Halpha flux of 3.14 \texttimes{} 10-17
+  erg s-1 cm-2, which corresponds to a luminosity of 1.57 \texttimes{} 1035 erg s-1.
+  By scaling models from the literature, our flux limit translates into an upper limit
+  of lsim0.001 M \&sun; of stripped material. This is an order of magnitude stronger
+  than previous limits. SN 2011fe was a typical SN Ia, special only in its proximity,
+  and we argue that lack of hydrogen emission in its nebular spectrum adds yet another
+  strong constraint on the single-degenerate class of models for SNe Ia.  Based on
+  data acquired using the Large Binocular Telescope (LBT/MODS).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...762L...5S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.3027
+author: Shappee, B. J. and Stanek, K. Z. and Pogge, R. W. and Garnavich, P. M.
+author_list:
+- family: Shappee
+  given: B. J.
+- family: Stanek
+  given: K. Z.
+- family: Pogge
+  given: R. W.
+- family: Garnavich
+  given: P. M.
+date-added: 2017-08-10 20:08:16 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/2041-8205/762/1/L5
+eid: L5
+eprint: '1210.3027'
+journal: \apjl
+keywords: 'supernovae: individual: SN 2011fe, supernovae: general, white dwarfs'
+month: January
+pages: L5
+papis_id: 62b96f8dd2bfb2d6ad6417fb390176e6
+ref: shappee.b.2013
+title: No Stripped Hydrogen in the Nebular Spectra of Nearby Type Ia Supernova 2011fe
+type: article
+volume: '762'
+year: '2013'

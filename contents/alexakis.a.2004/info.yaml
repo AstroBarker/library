@@ -1,0 +1,69 @@
+abstract: 'Many classical nova ejecta are enriched in CNO and Ne. Rosner and coworkers
+  recently suggested that the enrichment might originate in the resonant interaction
+  between large-scale shear flows in the accreted H/He envelope and gravity waves
+  at the interface between the envelope and the underlying C/O white dwarf (WD). The
+  shear flow amplifies the waves, which eventually form cusps and break. This wave
+  breaking injects a spray of C/O into the superincumbent H/He. Using two-dimensional
+  simulations, we formulate a quantitative expression for the amount of C/O per unit
+  area that can be entrained, at saturation, into the H/He. The fraction of the envelope
+  that is enriched depends on the horizontal distribution of shear velocity and the
+  density contrast between the C/O WD and the H/He layer but is roughly independent
+  of the vertical shape of the shear profile. Using this parameterization for the
+  mixed mass, we then perform several one-dimensional Lagrangian calculations of an
+  accreting WD envelope and consider two scenarios: that the wave breaking and mixing
+  is driven by the convective flows and that the mixing occurs prior to the onset
+  of convection. In the absence of enrichment prior to ignition, the base of the convective
+  zone, as calculated from mixing-length theory with the Ledoux instability criterion,
+  does not reach the C/O interface. As a result, there is no additional mixing, and
+  the runaway is slow. In contrast, the formation of a mixed layer during the accretion
+  of H/He, prior to ignition, causes a more violent runaway. The envelope can be enriched
+  by <~25\% of C/O by mass (consistent with that observed in some ejecta) for shear
+  velocities, over the surface, with Mach numbers <~0.4.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...602..931A
+arxivurl: http://arxiv.org/abs/astro-ph/0307126
+author: Alexakis, A. and Calder, A. C. and Heger, A. and Brown, E. F. and Dursi, L.
+  J. and Truran, J. W. and Rosner, R. and Lamb, D. Q. and Timmes, F. X. and Fryxell,
+  B. and Zingale, M. and Ricker, P. M. and Olson, K.
+author_list:
+- family: Alexakis
+  given: A.
+- family: Calder
+  given: A. C.
+- family: Heger
+  given: A.
+- family: Brown
+  given: E. F.
+- family: Dursi
+  given: L. J.
+- family: Truran
+  given: J. W.
+- family: Rosner
+  given: R.
+- family: Lamb
+  given: D. Q.
+- family: Timmes
+  given: F. X.
+- family: Fryxell
+  given: B.
+- family: Zingale
+  given: M.
+- family: Ricker
+  given: P. M.
+- family: Olson
+  given: K.
+date-added: 2017-08-11 00:44:31 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/381086
+eprint: astro-ph/0307126
+journal: \apj
+keywords: 'Hydrodynamics, Methods: Numerical, Stars: Novae, Cataclysmic Variables,
+  Nuclear Reactions, Nucleosynthesis, Abundances, Waves'
+month: February
+pages: 931--937
+papis_id: eae3c4e3f7c7060dca95afe5ea52b479
+ref: alexakis.a.2004
+title: On Heavy Element Enrichment in Classical Novae
+type: article
+volume: '602'
+year: '2004'

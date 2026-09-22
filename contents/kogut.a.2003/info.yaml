@@ -1,0 +1,73 @@
+abstract: 'The Wilkinson Microwave Anisotropy Probe (WMAP) has mapped the full sky
+  in Stokes I, Q, and U parameters at frequencies of 23, 33, 41, 61, and 94 GHz. We
+  detect correlations between the temperature and polarization maps significant at
+  more than 10 sigma. The correlations are inconsistent with instrument noise and
+  are significantly larger than the upper limits established for potential systematic
+  errors. The correlations are present in all WMAP frequency bands with similar amplitude
+  from 23 to 94 GHz and are consistent with a superposition of a cosmic microwave
+  background (CMB) signal with a weak foreground. The fitted CMB component is robust
+  against different data combinations and fitting techniques. On small angular scales
+  (theta<5deg), the WMAP data show the temperature-polarization correlation expected
+  from adiabatic perturbations in the temperature power spectrum. The data for l>20
+  agree well with the signal predicted solely from the temperature power spectra,
+  with no additional free parameters. We detect excess power on large angular scales
+  (theta>10deg) compared to predictions based on the temperature power spectra alone.
+  The excess power is well described by reionization at redshift 11<zr<30 at 95\%
+  confidence, depending on the ionization history. A model-independent fit to reionization
+  optical depth yields results consistent with the best-fit Lambda-dominated cold
+  dark matter model, with best-fit value tau=0.17+/-0.04 at 68\% confidence, including
+  systematic and foreground uncertainties. This value is larger than expected given
+  the detection of a Gunn-Peterson trough in the absorption spectra of distant quasars
+  and implies that the universe has a complex ionization history: WMAP has detected
+  the signal from an early epoch of reionization.  WMAP is the result of a partnership
+  between Princeton University and the NASA Goddard Space Flight Center. Scientific
+  guidance is provided by the WMAP Science Team.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..148..161K
+arxivurl: http://arxiv.org/abs/astro-ph/0302213
+author: Kogut, A. and Spergel, D. N. and Barnes, C. and Bennett, C. L. and Halpern,
+  M. and Hinshaw, G. and Jarosik, N. and Limon, M. and Meyer, S. S. and Page, L. and
+  Tucker, G. S. and Wollack, E. and Wright, E. L.
+author_list:
+- family: Kogut
+  given: A.
+- family: Spergel
+  given: D. N.
+- family: Barnes
+  given: C.
+- family: Bennett
+  given: C. L.
+- family: Halpern
+  given: M.
+- family: Hinshaw
+  given: G.
+- family: Jarosik
+  given: N.
+- family: Limon
+  given: M.
+- family: Meyer
+  given: S. S.
+- family: Page
+  given: L.
+- family: Tucker
+  given: G. S.
+- family: Wollack
+  given: E.
+- family: Wright
+  given: E. L.
+date-added: 2017-08-11 04:57:56 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/377219
+eprint: astro-ph/0302213
+journal: \apjs
+keywords: 'Cosmology: Cosmic Microwave Background, Cosmology: Observations, Instrumentation:
+  Polarimeters'
+month: September
+pages: 161--173
+papis_id: 4158de7b8e5c65b3a6b0545ba3844150
+ref: kogut.a.2003
+title: 'First-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Temperature-Polarization
+  Correlation'
+type: article
+volume: '148'
+year: '2003'

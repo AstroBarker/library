@@ -1,0 +1,37 @@
+abstract: We explore the generalized Grad-Shafranov (GS) equation (Lovelace et al.
+  1986), which describes the cross-field balance of the magnetic flux surfaces in
+  a stationary, axisymmetric, cold relativistic MHD wind. We construct a family of
+  self-consistent, jet-type, non-self-similar solutions in which flux surfaces thread
+  the equatorial plane vertically and are eventually collimated into nested cylinders.
+  These solutions conserve the total energy and angular momentum along each flux surface
+  and satisfy the relativistic GS equation in the cross-field direction. We find that
+  the total specific energy in the flow depends primarily on a dimensionless combination
+  of the poloidal magnetic flux, the rotation, and the mass loading rate, which reduces
+  to Michel's (1969) magnetization parameter for radial winds. The final width of
+  the flow and its ratio of kinetic energy flux to Poynting flux depend sensitively
+  on the pressure distribution of the ambient medium, which is required to contain
+  the jet at its outer edge when no jet-confirming external toroidal magnetic field
+  is present. Furthermore, we show that the magnetic pressure in the flow can be much
+  higher near the axis than close to the edge, reflecting the 'pinching' effect of
+  the toroidal magnetic field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...415..118L
+author: Li, Z.-Y.
+author_list:
+- family: Li
+  given: Z.-Y.
+date-added: 2017-08-10 22:58:17 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173149
+journal: \apj
+keywords: Active Galactic Nuclei, Plasma Jets, Relativistic Plasmas, Self Consistent
+  Fields, Cold Plasmas, Computational Astrophysics, Magnetic Field Configurations
+month: September
+pages: 118--128
+papis_id: f3c529d91c836f0ab2de3b1fcf5be407
+ref: li.z_y.1993
+title: Electromagnetically driven relativistic jets - A class of self-consistent numerical
+  solutions
+type: article
+volume: '415'
+year: '1993'

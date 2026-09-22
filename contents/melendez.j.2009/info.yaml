@@ -1,0 +1,39 @@
+abstract: We present a new set of oscillator strengths for 142 Fe II lines in the
+  wavelength range 4000-8000 {\AA}. Our gf-values are both accurate and precise, because
+  each multiplet was globally normalized using laboratory data (accuracy), while the
+  relative gf-values of individual lines within a given multiplet were obtained from
+  theoretical calculations (precision). Our line list was tested with the Sun and
+  high-resolution (R \approx{} 10^5), high-S/N (\approx{}700-900) Keck+HIRES spectra
+  of the metal-poor stars HD 148816 and HD 140283, for which line-to-line scatter
+  (sigma) in the iron abundances from Fe II lines as low as 0.03, 0.04, and 0.05 dex
+  are found, respectively. For these three stars the standard error in the mean iron
+  abundance from Fe II lines is negligible (sigma\_mean <= 0.01 dex). The mean solar
+  iron abundance obtained using our gf-values and different model atmospheres is A\_Fe
+  = 7.45 (sigma = 0.02).  Based in part on observations obtained at the W. M. Keck
+  Observatory, which is operated jointly by the California Institute of Technology,
+  the University of California, and the National Aeronautics and Space Administration.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...497..611M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.4451
+author: Meléndez, J. and Barbuy, B.
+author_list:
+- family: Meléndez
+  given: J.
+- family: Barbuy
+  given: B.
+date-added: 2017-08-10 23:19:04 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1051/0004-6361/200811508
+eprint: '0901.4451'
+journal: \aap
+keywords: 'Sun: abundances, Sun: photosphere, stars: abundances, atomic data'
+month: April
+pages: 611--617
+papis_id: 2f5777756f865d83348915d7a5a7bb36
+primaryclass: astro-ph.SR
+ref: melendez.j.2009
+title: Both accurate and precise gf-values for Fe II lines
+type: article
+volume: '497'
+year: '2009'

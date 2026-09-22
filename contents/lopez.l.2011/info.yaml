@@ -1,0 +1,59 @@
+abstract: 'Supernova remnants (SNRs) are a complex class of sources, and their heterogeneous
+  nature has hindered the characterization of their general observational properties.
+  To overcome this challenge, in this paper, we use statistical tools to analyze the
+  Chandra X-ray images of Galactic and Large Magellanic Cloud SNRs. We apply two techniques,
+  a power-ratio method (a multipole expansion) and wavelet-transform analysis, to
+  measure the global and local morphological properties of the X-ray line and thermal
+  emission in 24 SNRs. We find that Type Ia SNRs have statistically more spherical
+  and mirror-symmetric thermal X-ray emission than core-collapse (CC) SNRs. The ability
+  to type SNRs based on thermal emission morphology alone enables, for the first time,
+  the typing of SNRs with weak X-ray lines and those with low-resolution spectra.
+  Based on our analyses, we identify one source (SNR G344.7-0.1) as originating from
+  a CC explosion that was of unknown origin previously; we also confirm the tentative
+  Type Ia classifications of G337.2-0.7 and G272.2-3.2. Although the global morphology
+  is indicative of the explosion type, the relative morphology of the X-ray line emission
+  within SNRs is not: all sources in our sample have well-mixed ejecta, irrespective
+  of stellar origin. In particular, we find that 90\% of the bright metal-line-emitting
+  substructures are spatially coincident and have similar scales, even if the metals
+  arise from different burning processes. Moreover, the overall X-ray line morphologies
+  within each SNR are the same, with <6\% differences. These findings reinforce observationally
+  that hydrodynamical instabilities can efficiently mix ejecta in Type Ia and CC SNRs.
+  The only exception is W49B, which can be attributed to its jet-driven/bipolar explosive
+  origin. Based on comparative analyses across our sample, we describe several observational
+  constraints that can be used to test hydrodynamical models of SNR evolution; notably,
+  the filling factor of X-ray emission decreases with SNR age.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...732..114L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.0731
+author: Lopez, L. A. and Ramirez-Ruiz, E. and Huppenkothen, D. and Badenes, C. and
+  Pooley, D. A.
+author_list:
+- family: Lopez
+  given: L. A.
+- family: Ramirez-Ruiz
+  given: E.
+- family: Huppenkothen
+  given: D.
+- family: Badenes
+  given: C.
+- family: Pooley
+  given: D. A.
+date-added: 2017-08-10 17:29:14 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/732/2/114
+eid: '114'
+eprint: '1011.0731'
+journal: \apj
+keywords: 'ISM: supernova remnants, methods: data analysis, techniques: image processing,
+  X-rays: ISM'
+month: May
+pages: '114'
+papis_id: 3ef8f0c993fc9c0c89dda674f9a39a17
+primaryclass: astro-ph.HE
+ref: lopez.l.2011
+title: Using the X-ray Morphology of Young Supernova Remnants to Constrain Explosion
+  Type, Ejecta Distribution, and Chemical Mixing
+type: article
+volume: '732'
+year: '2011'

@@ -1,0 +1,39 @@
+abstract: The results of Chandrasekhar (1969) are generalized to polytropes, using
+  a formalism based on ellipsoidal energy variational principle to construct approximate
+  stellar equilibrium solutions and study their stability. After reviewing the energy
+  variational method and describing the approach, several equivalent stability conditions
+  are established and secular vs. dynamical instabilities are discussed. Then, the
+  equilibrium structure equations are derived for isolated, rotating polytropes, and
+  axisymmetric configurations (compressible Maclaurin spheroids) are considered. Particular
+  attention is given to triaxial configurations, either in a state of uniform rotation
+  (generalizing the classical Jacobi ellipsoids) or with internal fluid motions of
+  uniform vorticity (the compressible analogues of Riemann-S ellipsoids) and to the
+  stability of these single star configurations. The compressible generalizations
+  of the Roche and Roche-Riemann problems for a polytrope in orbit about a point-mass
+  companion are solved, and the generalized Darwin problem for two identical polytropes
+  in a binary is considered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJS...88..205L
+author: Lai, D. and Rasio, F. A. and Shapiro, S. L.
+author_list:
+- family: Lai
+  given: D.
+- family: Rasio
+  given: F. A.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-10 22:32:47 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191822
+journal: \apjs
+keywords: Binary Stars, Compressible Fluids, Computerized Simulation, Dynamic Stability,
+  Ellipsoids, Newtonian Fluids, Stellar Models, Stellar Rotation, Calculus Of Variations,
+  Ejection, Hydrodynamics, Roche Limit, Rotating Fluids, Virial Coefficients
+month: September
+pages: 205--252
+papis_id: 5662283be33d748938d6421243ea6461
+ref: lai.d.1993
+title: Ellipsoidal figures of equilibrium - Compressible models
+type: article
+volume: '88'
+year: '1993'

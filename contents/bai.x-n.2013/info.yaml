@@ -1,0 +1,52 @@
+abstract: 'We perform three-dimensional, vertically-stratified, local shearing-box
+  ideal MHD simulations of the magnetorotational instability (MRI) that include a
+  net vertical magnetic flux, which is characterized by midplane plasma beta0 (ratio
+  of gas to magnetic pressure). We have considered beta0 = 102, 103, and 104, and
+  in the first two cases the most unstable linear MRI modes are well resolved in the
+  simulations. We find that the behavior of the MRI turbulence strongly depends on
+  beta0: the radial transport of angular momentum increases with net vertical flux,
+  achieving alpha ~ 0.08 for beta = 104 and alpha >~ 1.0 for beta0 = 100, where alpha
+  is the height-integrated and mass-weighted Shakura-Sunyaev parameter. A critical
+  value lies at beta0 ~ 103: for beta0 >~ 103, the disk consists of a gas pressure
+  dominated midplane and a magnetically dominated corona. The turbulent strength increases
+  with net flux, and angular momentum transport is dominated by turbulent fluctuations.
+  The magnetic dynamo that leads to cyclic flips of large-scale fields still exists,
+  but becomes more sporadic as net flux increases. For beta0 <~ 103, the entire disk
+  becomes magnetically dominated. The turbulent strength saturates, and the magnetic
+  dynamo is fully quenched. Stronger large-scale fields are generated with increasing
+  net flux, which dominates angular momentum transport. A strong outflow is launched
+  from the disk by the magnetocentrifugal mechanism, and the mass flux increases linearly
+  with net vertical flux and shows sign of saturation at beta0 <~ 102. However, the
+  outflow is unlikely to be directly connected to a global wind: for beta0 >~ 103,
+  the large-scale field has no permanent bending direction due to dynamo activities,
+  while for beta0 <~ 103, the outflows from the top and bottom sides of the disk bend
+  towards opposite directions, inconsistent with a physical disk wind geometry. Global
+  simulations are needed to address the fate of the outflow.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...767...30B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.6661
+author: Bai, X.-N. and Stone, J. M.
+author_list:
+- family: Bai
+  given: X.-N.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-10 14:56:34 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/767/1/30
+eid: '30'
+eprint: '1210.6661'
+journal: \apj
+keywords: 'accretion, accretion disks, instabilities, magnetohydrodynamics: MHD, methods:
+  numerical, turbulence'
+month: April
+pages: '30'
+papis_id: 29b544d9a036e5ceed008162cc8b2841
+primaryclass: astro-ph.HE
+ref: bai.x_n.2013
+title: 'Local Study of Accretion Disks with a Strong Vertical Magnetic Field: Magnetorotational
+  Instability and Disk Outflow'
+type: article
+volume: '767'
+year: '2013'

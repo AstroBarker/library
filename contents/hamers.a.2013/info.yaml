@@ -1,0 +1,55 @@
+abstract: Hierarchical triple systems are common among field stars yet their long-term
+  evolution is poorly understood theoretically. In such systems Kozai cycles can be
+  induced in the inner binary system during which the inner orbit eccentricity and
+  the inclination between both binary orbits vary periodically. These cycles, combined
+  with tidal friction and gravitational wave emission, can significantly affect the
+  inner binary evolution. To investigate these effects quantitatively we perform a
+  population synthesis study of triple systems and focus on evolutionary paths that
+  lead to mergers of carbon-oxygen (CO) white dwarfs (WDs), which constitute an important
+  candidate progenitor channel for Type Ia supernovae (SNe Ia). We approach this problem
+  by Monte Carlo sampling from observation-based distributions of systems within the
+  primary mass range 1.0-6.5 M\&sun; and inner orbit semimajor axes a1 and eccentricities
+  e1 satisfying a1(1 - e21) > 12 au, i.e. non-interacting in the absence of a tertiary
+  component. We evolve these systems by means of a newly developed algorithm that
+  couples secular triple dynamics with an existing binary population synthesis code.
+  We find that the tertiary significantly alters the inner binary evolution in about
+  24 per cent of all sampled systems. In particular, we find several channels leading
+  to CO WD mergers. Amongst these is a novel channel in which a collision occurs in
+  wide inner binary systems as a result of extremely high eccentricities induced by
+  Kozai cycles. With assumptions on which CO WD mergers lead to a SN Ia explosion
+  we estimate the SNe Ia delay time distribution resulting from triples and compare
+  to a binary population synthesis study and to observations. Although we find that
+  our triple rate is low, we have determined a lower limit of the triple-induced SNe
+  Ia rate and further study is needed that includes triples with initially tighter
+  inner orbits.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430.2262H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.1469
+author: Hamers, A. S. and Pols, O. R. and Claeys, J. S. W. and Nelemans, G.
+author_list:
+- family: Hamers
+  given: A. S.
+- family: Pols
+  given: O. R.
+- family: Claeys
+  given: J. S. W.
+- family: Nelemans
+  given: G.
+date-added: 2017-08-10 14:18:24 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/stt046
+eprint: '1301.1469'
+journal: \mnras
+keywords: 'methods: statistical, binaries: general, stars: kinematics and dynamics,
+  stars: evolution, supernovae: general, white dwarfs'
+month: April
+pages: 2262--2280
+papis_id: 167ea3221a27c7eff8f5f91598ef3e39
+primaryclass: astro-ph.SR
+ref: hamers.a.2013
+title: Population synthesis of triple systems in the context of mergers of carbon-oxygen
+  white dwarfs
+type: article
+volume: '430'
+year: '2013'

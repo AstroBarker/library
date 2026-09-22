@@ -1,0 +1,36 @@
+abstract: Brighter Type Ia supernovae (SNe Ia) have broader, more slowly declining
+  B-band light curves than dimmer SNe Ia. We study the physical origin of this width-luminosity
+  relation (WLR) using detailed radiative transfer calculations of Chandrasekhar-mass
+  SN Ia models. We find that the luminosity dependence of the diffusion time (emphasized
+  in previous studies) is in fact of secondary relevance in understanding the model
+  WLR. Instead, the essential physics involves the luminosity dependence of the spectroscopic/color
+  evolution of SNe Ia. Following maximum light, the SN colors are increasingly affected
+  by the development of numerous Fe II/Co II lines that blanket the B band and, at
+  the same time, increase the emissivity at longer wavelengths. Because dimmer SNe
+  Ia are generally cooler, they experience an earlier onset of Fe III to Fe II recombination
+  in the iron group rich layers of ejecta, resulting in a more rapid evolution of
+  the SN colors to the red. The faster B-band decline rate of dimmer SNe Ia thus reflects
+  their faster ionization evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...656..661K
+arxivurl: http://arxiv.org/abs/astro-ph/0609540
+author: Kasen, D. and Woosley, S. E.
+author_list:
+- family: Kasen
+  given: D.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 17:31:25 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510375
+eprint: astro-ph/0609540
+journal: \apj
+keywords: 'Cosmology: Distance Scale, Radiative Transfer, Stars: Supernovae: General'
+month: February
+pages: 661--665
+papis_id: 7aa7bf783d7e0192b74dcd36ef68fe7b
+ref: kasen.d.2007a
+title: On the Origin of the Type Ia Supernova Width-Luminosity Relation
+type: article
+volume: '656'
+year: '2007'

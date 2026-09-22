@@ -1,0 +1,56 @@
+abstract: We describe a new code for numerical solution of three-dimensional self-gravitational
+  hydrodynamics problems. This code utilizes the technique of local adaptive mesh
+  refinement (AMR), employing multiple grids at multiple levels of resolution and
+  automatically and dynamically adding and removing these grids as necessary to maintain
+  adequate resolution. This technology allows solution of problems that would be prohibitively
+  expensive with a code using fixed resolution, and it is more versatile and efficient
+  than competing methods of achieving variable resolution. In particular, we apply
+  this technique to simulate the collapse and fragmentation of a molecular cloud,
+  a key step in star formation. The simulation involves many orders of magnitude of
+  variation in length scale as fragments form at positions that are not a priori discernible
+  from general initial conditions. In this paper, we describe the methodology behind
+  this new code and present several illustrative applications. The criterion that
+  guides the degree of adaptive mesh refinement is critical to the success of the
+  scheme, and, for the isothermal problems considered here, we employ the Jeans condition
+  for this purpose. By maintaining resolution finer than the local Jeans length, we
+  set new benchmarks of accuracy by which to measure other codes on each problem we
+  consider, including the uniform collapse of a finite pressured cloud. We find that
+  the uniformly rotating, spherical clouds treated here first collapse to disks in
+  the equatorial plane and then, in the presence of applied perturbations, form filamentary
+  singularities that do not fragment while isothermal. Our results provide numerical
+  confirmation of recent work by Inutsuka \& Miyama on this scenario of isothermal
+  filament formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...495..821T
+author: Truelove, J. K. and Klein, R. I. and McKee, C. F. and Holliman II, J. H. and
+  Howell, L. H. and Greenough, J. A. and Woods, D. T.
+author_list:
+- family: Truelove
+  given: J. K.
+- family: Klein
+  given: R. I.
+- family: McKee
+  given: C. F.
+- family: Holliman II
+  given: J. H.
+- family: Howell
+  given: L. H.
+- family: Greenough
+  given: J. A.
+- family: Woods
+  given: D. T.
+date-added: 2017-08-10 23:30:04 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305329
+journal: \apj
+keywords: 'GRAVITATION, HYDRODYNAMICS, ISM: CLOUDS, METHODS: NUMERICAL, STARS: FORMATION,
+  Gravitation, Hydrodynamics, ISM: Clouds, Methods: Numerical, Stars: Formation'
+month: March
+pages: 821--852
+papis_id: 015c749161e0e7dcbc3d3ed666f31520
+ref: truelove.j.1998
+title: 'Self-gravitational Hydrodynamics with Three-dimensional Adaptive Mesh Refinement:
+  Methodology and Applications to Molecular Cloud Collapse and Fragmentation'
+type: article
+volume: '495'
+year: '1998'

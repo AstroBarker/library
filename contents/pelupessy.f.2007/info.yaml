@@ -1,0 +1,46 @@
+abstract: We investigate the physical conditions for the growth of intermediate-mass
+  seed black holes assumed to have formed from remnants of the first generation of
+  massive stars. We follow the collapse of high sigma halos with Tvir>104 K using
+  cosmological, smooth-particle hydrodynamic (SPH) simulations in the standard LambdaCDM
+  model. During the collapse of the parent halo, the seed holes are incorporated through
+  mergers into larger systems and accrete mass from the surrounding gas. We include
+  a self-consistent treatment of star formation, black hole accretion, and associated
+  feedback processes. Even under optimistic assumptions for the seed black hole mass
+  and for efficient merger rates, we find that seed holes in halos M<=1010 Msolar
+  never reach the conditions for critical Eddington growth. Most of the black hole
+  growth in this regime is determined by the initial mass and the merger rates. Critical
+  accretion rates are reached, albeit only after a significant delay, at the time
+  of collapse (z~7) for 3-4 sigma halos of M~1011 Msolar. Our results imply MBH=5\texttimes{}106
+  Msolar(Mhalo/1011 Msolar)0.78 at the time of collapse. The required conditions of
+  Eddington growth to explain the buildup of supermassive black holes (~109 Msolar),
+  as implied by Sloan quasars at z>6, are therefore hard to meet in such a scenario.
+  Without a ``jump start,'' these conditions may be only achieved in extremely rare
+  halos with Mhalo>1013 that collapsed before z~6. The sub-Eddington regime in which
+  black holes accrete at early time implies a small contribution to the reionization
+  by miniquasar but still sufficient to cause appreciable heating of the IGM at z<~15-18.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665..107P
+arxivurl: http://arxiv.org/abs/astro-ph/0703773
+author: Pelupessy, F. I. and Di Matteo, T. and Ciardi, B.
+author_list:
+- family: Pelupessy
+  given: F. I.
+- family: Di Matteo
+  given: T.
+- family: Ciardi
+  given: B.
+date-added: 2017-08-10 21:44:29 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519235
+eprint: astro-ph/0703773
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Active, Galaxies: Evolution, Galaxies: Formation,
+  Hydrodynamics, Galaxies: Quasars: General'
+month: August
+pages: 107--119
+papis_id: 86d909ec967da4370b1510e272ece3b3
+ref: pelupessy.f.2007
+title: How Rapidly Do Supermassive Black Hole ``Seeds'' Grow at Early Times?
+type: article
+volume: '665'
+year: '2007'

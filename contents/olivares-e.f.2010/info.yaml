@@ -1,0 +1,57 @@
+abstract: In this paper, we study the "standardized candle method" using a sample
+  of 37 nearby (redshift z < 0.06) Type II plateau supernovae having BVRI photometry
+  and optical spectroscopy. An analytic procedure is implemented to fit light curves,
+  color curves, and velocity curves. We find that the V-I color toward the end of
+  the plateau can be used to estimate the host-galaxy reddening with a precision of
+  sigma(AV ) = 0.2 mag. The correlation between plateau luminosity and expansion velocity
+  previously reported in the literature is recovered. Using this relation and assuming
+  a standard reddening law (RV = 3.1), we obtain Hubble diagrams (HDs) in the BVI
+  bands with dispersions of ~0.4 mag. Allowing RV to vary and minimizing the spread
+  in the HDs, we obtain a dispersion range of 0.25-0.30 mag, which implies that these
+  objects can deliver relative distances with precisions of 12\%-14\%. The resulting
+  best-fit value of RV is 1.4 $\pm$ 0.1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715..833O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.2534
+author: Olivares E., F. and Hamuy, M. and Pignata, G. and Maza, J. and Bersten, M.
+  and Phillips, M. M. and Suntzeff, N. B. and Filippenko, A. V. and Morrel, N. I.
+  and Kirshner, R. P. and Matheson, T.
+author_list:
+- family: Olivares E.
+  given: F.
+- family: Hamuy
+  given: M.
+- family: Pignata
+  given: G.
+- family: Maza
+  given: J.
+- family: Bersten
+  given: M.
+- family: Phillips
+  given: M. M.
+- family: Suntzeff
+  given: N. B.
+- family: Filippenko
+  given: A. V.
+- family: Morrel
+  given: N. I.
+- family: Kirshner
+  given: R. P.
+- family: Matheson
+  given: T.
+date-added: 2017-08-11 02:43:14 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/715/2/833
+eprint: '1004.2534'
+journal: \apj
+keywords: 'distance scale, galaxies: distances and redshifts, supernovae: general'
+month: June
+pages: 833--853
+papis_id: 0588f61de706c0c2fb60b21b1cbdd7c9
+primaryclass: astro-ph.CO
+ref: olivares_e.f.2010
+title: The Standardized Candle Method for Type II Plateau Supernovae
+type: article
+volume: '715'
+year: '2010'

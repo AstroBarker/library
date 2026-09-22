@@ -1,0 +1,56 @@
+abstract: We present non-Local Thermodynamic Equilibrium (LTE) synthetic spectra for
+  a time series of observations of SN 1993J obtained on 1993 March 30-31, April 7,
+  April 13-15, and June 13 UT. The spectra are dominated by hydrogen Balmer lines;
+  neutral helium lines, which have been nonthermally excited; and Fe II features.
+  The density profile evolves from an extremely steep 'brick wall' structure with
+  an equivalent power-law index of about 50 on March 30 to a more typical SN II profile
+  with a power law index of about 10. The early spectra are well fitted by a solar
+  composition of metals, although an enhanced abundance of helium is required in order
+  to fit the neutral helium lines. By June 13, the photosphere has receded deep into
+  the helium layer, although there appears to be a layer of hydrogen at higher velocity.
+  The distance is estimated for each epoch. While consistent results are found for
+  spectra obtained in the month of April, the spread in distances from March to June
+  is quite large. Our value for April is mu = 28.0 +/- 0.3 mag, consistent with the
+  recent Cepheid distance to the host galaxy M81. We also compare our results to other
+  implementations of the expanding photosphere method.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...441..170B
+author: Baron, E. and Hauschildt, P. H. and Branch, D. and Austin, S. and Garnavich,
+  P. and Ann, H. B. and Wagner, R. M. and Filippenko, A. V. and Matheson, T. and Liebert,
+  J.
+author_list:
+- family: Baron
+  given: E.
+- family: Hauschildt
+  given: P. H.
+- family: Branch
+  given: D.
+- family: Austin
+  given: S.
+- family: Garnavich
+  given: P.
+- family: Ann
+  given: H. B.
+- family: Wagner
+  given: R. M.
+- family: Filippenko
+  given: A. V.
+- family: Matheson
+  given: T.
+- family: Liebert
+  given: J.
+date-added: 2017-08-10 23:42:39 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175347
+journal: \apj
+keywords: Astronomical Models, Balmer Series, Helium, Hydrogen, Local Thermodynamic
+  Equilibrium, Metallicity, Neutral Gases, Spectrum Analysis, Supernovae, Abundance,
+  Distance, Iron, Numerical Analysis, Photosphere, Red Shift
+month: March
+pages: 170--181
+papis_id: c514a9f2fa9e12fad2abb642e0b81f02
+ref: baron.e.1995
+title: Non-LTE spectral analysis and model constraints on SN 1993J
+type: article
+volume: '441'
+year: '1995'

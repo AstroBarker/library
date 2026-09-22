@@ -1,0 +1,35 @@
+abstract: This paper presents a new computer code to solve the general relativistic
+  magnetohydrodynamics (GRMHD) equations using distributed parallel adaptive mesh
+  refinement (AMR). The fluid equations are solved using a finite difference convex
+  ENO method (CENO) in 3 + 1 dimensions, and the AMR is Berger Oliger. Hyperbolic
+  divergence cleaning is used to control the \nabla{} sdot B = 0 constraint. We present
+  results from three flat space tests, and examine the accretion of a fluid onto a
+  Schwarzschild black hole, reproducing the Michel solution. The AMR simulations substantially
+  improve performance while reproducing the resolution equivalent unigrid simulation
+  results. Finally, we discuss strong scaling results for parallel unigrid and AMR
+  runs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23.6503A
+author: Anderson, M. and Hirschmann, E. W. and Liebling, S. L. and Neilsen, D.
+author_list:
+- family: Anderson
+  given: M.
+- family: Hirschmann
+  given: E. W.
+- family: Liebling
+  given: S. L.
+- family: Neilsen
+  given: D.
+date-added: 2017-08-10 21:01:58 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1088/0264-9381/23/22/025
+eprint: gr-qc/0605102
+journal: Classical and Quantum Gravity
+month: November
+pages: 6503--6524
+papis_id: 46de7507f74bb93d916c72e886877fcc
+ref: anderson.m.2006
+title: Relativistic MHD with adaptive mesh refinement
+type: article
+volume: '23'
+year: '2006'

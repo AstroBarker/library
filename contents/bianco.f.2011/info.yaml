@@ -1,0 +1,88 @@
+abstract: 'While it is generally accepted that Type Ia supernovae are the result of
+  the explosion of a carbon-oxygen white dwarf accreting mass in a binary system,
+  the details of their genesis still elude us, and the nature of the binary companion
+  is uncertain. Kasen points out that the presence of a non-degenerate companion in
+  the progenitor system could leave an observable trace: a flux excess in the early
+  rise portion of the light curve caused by the ejecta impact with the companion itself.
+  This excess would be observable only under favorable viewing angles, and its intensity
+  depends on the nature of the companion. We searched for the signature of a non-degenerate
+  companion in three years of Supernova Legacy Survey data by generating synthetic
+  light curves accounting for the effects of shocking and comparing true and synthetic
+  time series with Kolmogorov-Smirnov tests. Our most constraining result comes from
+  noting that the shocking effect is more prominent in the rest-frame B than V band:
+  we rule out a contribution from white dwarf-red giant binary systems to Type Ia
+  supernova explosions greater than 10\% at the 2sigma, and greater than 20\% at the
+  3sigma level.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...741...20B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.4008
+author: Bianco, F. B. and Howell, D. A. and Sullivan, M. and Conley, A. and Kasen,
+  D. and González-Gaitán, S. and Guy, J. and Astier, P. and Balland, C. and Carlberg,
+  R. G. and Fouchez, D. and Fourmanoit, N. and Hardin, D. and Hook, I. and Lidman,
+  C. and Pain, R. and Palanque-Delabrouille, N. and Perlmutter, S. and Perrett, K.
+  M. and Pritchet, C. J. and Regnault, N. and Rich, J. and Ruhlmann-Kleider, V.
+author_list:
+- family: Bianco
+  given: F. B.
+- family: Howell
+  given: D. A.
+- family: Sullivan
+  given: M.
+- family: Conley
+  given: A.
+- family: Kasen
+  given: D.
+- family: González-Gaitán
+  given: S.
+- family: Guy
+  given: J.
+- family: Astier
+  given: P.
+- family: Balland
+  given: C.
+- family: Carlberg
+  given: R. G.
+- family: Fouchez
+  given: D.
+- family: Fourmanoit
+  given: N.
+- family: Hardin
+  given: D.
+- family: Hook
+  given: I.
+- family: Lidman
+  given: C.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Perlmutter
+  given: S.
+- family: Perrett
+  given: K. M.
+- family: Pritchet
+  given: C. J.
+- family: Regnault
+  given: N.
+- family: Rich
+  given: J.
+- family: Ruhlmann-Kleider
+  given: V.
+date-added: 2017-08-11 01:19:31 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/741/1/20
+eid: '20'
+eprint: '1106.4008'
+journal: \apj
+keywords: 'methods: data analysis, supernovae: general, white dwarfs'
+month: November
+pages: '20'
+papis_id: 78216a1ec436cb6827b1e1d22bff7967
+primaryclass: astro-ph.CO
+ref: bianco.f.2011
+title: Constraining Type Ia Supernovae Progenitors from Three Years of Supernova Legacy
+  Survey Data
+type: article
+volume: '741'
+year: '2011'

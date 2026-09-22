@@ -1,0 +1,52 @@
+abstract: We develop a one-dimensional theoretical model for thermals burning in Type
+  Ia supernovae based on the entrainment assumption of Morton, Taylor, and Turner.
+  Extensions of the standard model are required to account for the burning and for
+  the expansion of the thermal due to changes in the background stratification found
+  in the full star. The model is compared with high-resolution three-dimensional numerical
+  simulations, both in a uniform environment and a full-star setting. The simulations
+  in a uniform environment present compelling agreement with the predicted power laws
+  and provide model constants for the full-star model, which then provides excellent
+  agreement with the full-star simulation. The importance of the different components
+  in the model is compared, and are all shown to be relevant. An examination of the
+  effect of initial conditions was then conducted using the one-dimensional model,
+  which would have been infeasible in three dimensions. More mass was burned when
+  the ignition kernel was larger and closer to the center of the star. The turbulent
+  flame speed was found to be important during the early-time evolution of the thermal,
+  but played a diminished role at later times when the evolution is dominated by the
+  large-scale hydrodynamics responsible for entrainment. However, a higher flame speed
+  effectively gave a larger initial ignition kernel and so resulted in more mass burned.
+  This suggests that future studies should focus on the early-time behavior of these
+  thermals (in particular, the transition to turbulence), and that the choice of turbulent
+  flame speed does not play a significant role in the dynamics once the thermal has
+  become established.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738...94A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.3601
+author: Aspden, A. J. and Bell, J. B. and Dong, S. and Woosley, S. E.
+author_list:
+- family: Aspden
+  given: A. J.
+- family: Bell
+  given: J. B.
+- family: Dong
+  given: S.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-11 07:18:08 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/1/94
+eid: '94'
+eprint: '1108.3601'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, supernovae: general, turbulence, white
+  dwarfs'
+month: September
+pages: '94'
+papis_id: 2d5d0ec3b6c85b52ee95fd26dd097bc7
+primaryclass: astro-ph.HE
+ref: aspden.a.2011
+title: Burning Thermals in Type Ia Supernovae
+type: article
+volume: '738'
+year: '2011'

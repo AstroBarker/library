@@ -1,0 +1,63 @@
+abstract: The Sloan Digital Sky Survey III (SDSS-III) presents the first spectroscopic
+  data from the Baryon Oscillation Spectroscopic Survey (BOSS). This ninth data release
+  (DR9) of the SDSS project includes 535,995 new galaxy spectra (median z ~ 0.52),
+  102,100 new quasar spectra (median z ~ 2.32), and 90,897 new stellar spectra, along
+  with the data presented in previous data releases. These spectra were obtained with
+  the new BOSS spectrograph and were taken between 2009 December and 2011 July. In
+  addition, the stellar parameters pipeline, which determines radial velocities, surface
+  temperatures, surface gravities, and metallicities of stars, has been updated and
+  refined with improvements in temperature estimates for stars with T eff < 5000 K
+  and in metallicity estimates for stars with [Fe/H] > -0.5. DR9 includes new stellar
+  parameters for all stars presented in DR8, including stars from SDSS-I and II, as
+  well as those observed as part of the SEGUE-2. The astrometry error introduced in
+  the DR8 imaging catalogs has been corrected in the DR9 data products. The next data
+  release for SDSS-III will be in Summer 2013, which will present the first data from
+  the APOGEE along with another year of data from BOSS, followed by the final SDSS-III
+  data release in 2014 December.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..203...21A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.7137
+author: Ahn, C. P. and Alexandroff, R. and Allende Prieto, C. and Anderson, S. F.
+  and Anderton, T. and Andrews, B. H. and Aubourg, É. and Bailey, S. and Balbinot,
+  E. and Barnes, R. and al., et
+author_list:
+- family: Ahn
+  given: C. P.
+- family: Alexandroff
+  given: R.
+- family: Allende Prieto
+  given: C.
+- family: Anderson
+  given: S. F.
+- family: Anderton
+  given: T.
+- family: Andrews
+  given: B. H.
+- family: Aubourg
+  given: É.
+- family: Bailey
+  given: S.
+- family: Balbinot
+  given: E.
+- family: Barnes
+  given: R.
+- family: al.
+  given: et
+date-added: 2017-08-10 17:24:14 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0067-0049/203/2/21
+eid: '21'
+eprint: '1207.7137'
+journal: \apjs
+keywords: atlases, catalogs, surveys
+month: December
+pages: '21'
+papis_id: c23e8e1143d6ba4631305b26f7d2568b
+primaryclass: astro-ph.IM
+ref: ahn.c.2012
+title: 'The Ninth Data Release of the Sloan Digital Sky Survey: First Spectroscopic
+  Data from the SDSS-III Baryon Oscillation Spectroscopic Survey'
+type: article
+volume: '203'
+year: '2012'

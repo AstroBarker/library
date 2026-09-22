@@ -1,0 +1,70 @@
+abstract: 'We present a detailed empirical assessment of how the galaxy luminosity
+  function and stellar luminosity density evolves over the last half of the universe''s
+  age (0.2<z<1.2) for galaxies of different spectral energy distributions (SED). The
+  results are based on  ~ 25 000 galaxies (Rla24 ) with redshift measurements (sigmaz
+  ~ 0.03) and SEDs across lambdaobs~ 350... 930 nm. The redshifts and SEDs were derived
+  from medium-band photometry in 17 filters, observed as part of the COMBO-17 survey
+  (``Classifying Objects by Medium-Band Observations in 17 Filters'''') over three
+  disjoint fields with a total area of 0.78 square degrees. Luminosity functions (LF),
+  binned in redshift and SED-type, are presented in the restframe passbands of the
+  SDSS r-band, the Johnson B-band and a synthetic UV continuum band at 280 nm.   We
+  find that the luminosity function depends strongly on SED-type at all redshifts
+  covered. The shape of the LF, i.e. the faint-end power-law slope, does depend on
+  SED type, but not on redshift. However, the redshift evolution of the characteristic
+  luminosity M\textasteriskcentered and density phi \textasteriskcentered depends
+  strongly on SED-type: (1) Early-type galaxies, defined as redder than a present-day
+  reference Sa spectrum, become drastically more abundant towards low redshift, by
+  a factor of 10 in the number density phi \textasteriskcentered from z=1.1 to now,
+  and by a factor of 4 in their contribution to the co-moving r-band luminosity density,
+  jr. (2) Galaxies resembling present-day Sa- to Sbc-colours show a co-moving number
+  density and contribution to jr that does not vary much with redshift. (3) Galaxies
+  with blue spectra reflecting strong star formation decrease towards low redshift
+  both in luminosity and density, and by a factor of 4 in their jr contribution. Summed
+  over all SED types and galaxy luminosities, the comoving luminosity density decreases
+  towards low redshift, between z=1.1 and now, by a small amount in restframe r and
+  B, but by a factor of  ~ 6 in restframe 280 nm. At z=1.1, galaxies redder than Sbc''s,
+  contribute 40\% to the total jr, which increases to 75\% by z=0. For lambdarest=280
+  nm, this increase is from 12\% to 25\% over the same redshift interval.   Comparison
+  of the three independent sight-lines shows that our results are not significantly
+  affected by large-scale structure. Our lowest redshift bin at z= [0.2,0.4] largely
+  agrees with the recent assessment of the present-day galaxy population by SDSS and
+  2dFGRS and deviates only by an excess of ``faint blue galaxies'''' at z ~  0.3 compared
+  to very local samples. Overall our findings provide a set of new and much more precise
+  constraints to model the waning of overall star formation activity, the demise of
+  star-bursts and the strong emergence of ``old'''' galaxies, with hardly any young
+  population, over the last 6-8 Gigayears.  Appendix A is only available in electronic
+  form at http://www.edpsciences.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...401...73W
+arxivurl: http://arxiv.org/abs/astro-ph/0208345
+author: Wolf, C. and Meisenheimer, K. and Rix, H.-W. and Borch, A. and Dye, S. and
+  Kleinheinrich, M.
+author_list:
+- family: Wolf
+  given: C.
+- family: Meisenheimer
+  given: K.
+- family: Rix
+  given: H.-W.
+- family: Borch
+  given: A.
+- family: Dye
+  given: S.
+- family: Kleinheinrich
+  given: M.
+date-added: 2017-08-11 03:26:48 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1051/0004-6361:20021513
+eprint: astro-ph/0208345
+journal: \aap
+keywords: 'techniques: photometric, surveys, galaxies: evolution, galaxies: distances
+  and redshifts'
+month: April
+pages: 73--98
+papis_id: bb15ef179fd3657571083e168e5f91be
+ref: wolf.c.2003
+title: 'The COMBO-17 survey: Evolution of the galaxy luminosity function from 25 000
+  galaxies with 0.2$łt$ z 2̇'
+type: article
+volume: '401'
+year: '2003'

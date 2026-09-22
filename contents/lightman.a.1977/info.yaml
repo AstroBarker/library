@@ -1,0 +1,40 @@
+abstract: The steady-state distribution and consumption rate of stars orbiting a massive
+  object at the center of a spherical N-body stellar system are reexamined, concentrating
+  on the manner in which stars gradually diffuse inward toward the center by repeated
+  small-angle gravitational encounters with each other. The analysis incorporates
+  the two-dimensional Fokker-Planck equation in energy (E) and angular-momentum (J)
+  space, for which the approximate velocity-diffusion coefficients computed for the
+  case of a Maxwellian field-star distribution are employed. The distribution of the
+  stars as a function of J is determined for small J by considering the rate at which
+  stars of fixed E enter the loss cone; a Fokker-Planck equation in E alone and containing
+  an energy-dependent 'sink' term is obtained by integrating the two-dimensional equation
+  over J and substituting an expression for the stellar consumption rate; and the
+  approximate steady-state solution to this equation in the 'self-similar' regime
+  is found along with the total rate at which the central object consumes stars. The
+  results are applied to a massive black hole at the center of a globular cluster
+  (M15) and an elliptical galaxy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1977ApJ...211..244L
+author: Lightman, A. P. and Shapiro, S. L.
+author_list:
+- family: Lightman
+  given: A. P.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 02:02:46 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/154925
+journal: \apj
+keywords: Black Holes (Astronomy), Elliptical Galaxies, Globular Clusters, Gravitational
+  Collapse, Star Distribution, Stellar Systems, Angular Momentum, Diffusion Coefficient,
+  Fokker-Planck Equation, Maxwell-Boltzmann Density Function, Steady State, Velocity
+  Distribution
+month: January
+pages: 244--262
+papis_id: 88322bce9c0f8ca08d21e46d4352028b
+ref: lightman.a.1977
+title: The distribution and consumption rate of stars around a massive, collapsed
+  object
+type: article
+volume: '211'
+year: '1977'

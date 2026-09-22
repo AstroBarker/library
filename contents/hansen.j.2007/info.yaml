@@ -1,0 +1,44 @@
+abstract: The interaction of supernova shocks and interstellar clouds is an important
+  astrophysical phenomenon which can lead to mass stripping (transfer of material
+  from cloud to surrounding flow, ``mass loading'' the flow) and possibly increase
+  the compression in the cloud to high enough densities to trigger star formation.
+  Our experiments attempt to simulate and quantify the mass stripping as it occurs
+  when a shock passes through interstellar clouds. We drive a strong shock (and blast
+  wave) using 5 kJ of the 30 kJ Omega laser into a cylinder filled with low-density
+  foam with an embedded 120 mum Al sphere simulating an interstellar cloud. The density
+  ratio between Al and foam is ~9. Time-resolved X-ray radiographs show the cloud
+  getting compressed by the shock (t~5 ns), undergoing a classical Kelvin-Helmholtz
+  roll-up (12 ns) followed by a Widnall instability (30 ns), an inherently three-dimensional
+  effect that breaks the two-dimensional symmetry of the experiment. Material is continuously
+  being stripped from the cloud at a rate which is shown to be considerably larger
+  than what is predicted by laminar models for mass stripping; the cloud is fully
+  stripped by 80-100 ns, 10 times faster than the laminar model. We present a new
+  model for turbulent mass stripping that agrees with the observed rate and that should
+  scale to astrophysical conditions, which occur at even higher Reynolds numbers than
+  the current experiment.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662..379H
+author: Hansen, J. F. and Robey, H. F. and Klein, R. I. and Miles, A. R.
+author_list:
+- family: Hansen
+  given: J. F.
+- family: Robey
+  given: H. F.
+- family: Klein
+  given: R. I.
+- family: Miles
+  given: A. R.
+date-added: 2017-08-11 04:48:49 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/514804
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, ISM: Clouds, ISM: Kinematics and Dynamics,
+  Methods: Laboratory, Shock Waves, Turbulence'
+month: June
+pages: 379--388
+papis_id: 079ee412e8746671a96f8553f7906f73
+ref: hansen.j.2007
+title: Experiment on the Mass Stripping of an Interstellar Cloud Following Shock Passage
+type: article
+volume: '662'
+year: '2007'

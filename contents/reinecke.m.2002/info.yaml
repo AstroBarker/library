@@ -1,0 +1,38 @@
+abstract: Following up on earlier work on this topic (Reinecke et al. \cite{reinecke-etal-99a},a),
+  we present an improved set of numerical models for simulations of white dwarfs exploding
+  as type Ia supernovae (SNe Ia). Two-dimensional simulations were used to test the
+  reliability and numerical robustness of these algorithms; the results indicate that
+  integral quantities like the total energy release are insensitive to changes of
+  the grid resolution (above a certain threshold), which was not the case for our
+  former code. The models were further enhanced to allow fully three-dimensional simulations
+  of SNe Ia. A direct comparison of a 2D and a 3D calculation with identical initial
+  conditions shows that the explosion is considerably more energetic in three dimensions;
+  this is most likely caused by the assumption of axisymmetry in 2D, which inhibits
+  the growth of flame instabilities in the azimuthal direction and thereby decreases
+  the flame surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...386..936R
+arxivurl: http://arxiv.org/abs/astro-ph/0111475
+author: Reinecke, M. and Hillebrandt, W. and Niemeyer, J. C.
+author_list:
+- family: Reinecke
+  given: M.
+- family: Hillebrandt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+date-added: 2017-08-10 17:37:33 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020323
+eprint: astro-ph/0111475
+journal: \aap
+keywords: 'supernovae: general, hydrodynamics, turbulence, nuclear reactions, nucleosynthesis,
+  abundances, methods: numerical'
+month: May
+pages: 936--943
+papis_id: 8685ffe63c5a5e4d0f215323b4b11464
+ref: reinecke.m.2002
+title: Refined numerical models for multidimensional type Ia supernova simulations
+type: article
+volume: '386'
+year: '2002'

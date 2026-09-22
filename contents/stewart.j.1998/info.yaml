@@ -1,0 +1,24 @@
+abstract: Some simple ideas on numerical tractability are introduced, and are used
+  to determine under what conditions unconstrained evolution of Einstein's field equations
+  for the Cauchy problem is possible. The initial boundary value problem for Einstein's
+  equations is discussed and a precise description of what boundary data are needed
+  is given. Unconstrained evolution is numerically tractable if and only if the boundary
+  conditions respect the momentum constraints.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998CQGra..15.2865S
+author: Stewart, J. M.
+author_list:
+- family: Stewart
+  given: J. M.
+date-added: 2017-08-11 06:17:29 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1088/0264-9381/15/9/029
+journal: Classical and Quantum Gravity
+month: September
+pages: 2865--2889
+papis_id: 52ad89b0738e07e7562ccb8846af33a0
+ref: stewart.j.1998
+title: The Cauchy problem and the initial boundary value problem in numerical relativity
+type: article
+volume: '15'
+year: '1998'

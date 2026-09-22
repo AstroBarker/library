@@ -1,0 +1,61 @@
+abstract: 'Two-dimensional simulations of strongly anisotropic supernova explosions
+  of a nonrotating 15 M\&sun; blue supergiant progenitor are presented, which follow
+  the hydrodynamic evolution from times shortly after shock formation until hours
+  later. It is shown that explosions which around the time of shock revival are dominated
+  by low-order unstable modes (i.e. by a superposition of the l=2 and l=1 modes, in
+  which the former is strongest), are consistent with all major observational features
+  of SN 1987 A, in contrast to models which show high-order mode perturbations only
+  and were published in earlier work. Among other items, the low-mode models exhibit
+  final iron-group velocities of up to \texttildelow{} 3300 km s-1, strong mixing
+  at the He/H composition interface, with hydrogen being mixed downward in velocity
+  space to only 500 km s-1, and a final prolate anisotropy of the inner ejecta with
+  a major to minor axis ratio of about 1.6. The success of low-mode explosions with
+  an energy of about 2\texttimes{}1051 erg to reproduce these observed features is
+  based on two effects: the (by 40\%) larger initial maximum velocities of metal-rich
+  clumps compared to our high-mode models, and the initial global deformation of the
+  shock. The first effect protects the (fastest) clumps from interacting with the
+  strong reverse shock that forms below the He/H composition interface, by keeping
+  their propagation timescale through the He-core shorter than the reverse shock formation
+  time. This ensures that the outward motion of the clumps remains always subsonic,
+  and that thus their energy dissipation is minimal (in contrast to the supersonic
+  case). The second effect is responsible for the strong inward mixing of hydrogen:
+  the aspherical shock deposits large amounts of vorticity into the He/H interface
+  layer at early times (around t = 100 s). This triggers the growth of a strong Richtmyer-Meshkov
+  instability that results in a global anisotropy of the inner ejecta at late times
+  (i.e. around t = 10 000 s), although the shock itself has long become spherical
+  by then. The simulations suggest a coherent picture, which explains the observational
+  data of SN 1987 A within the framework of the neutrino-driven explosion mechanism
+  using a minimal set of assumptions. It is therefore argued that other paradigms,
+  which are based on (more) controversial physics, may not be required to explain
+  this event.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...453..661K
+arxivurl: http://arxiv.org/abs/astro-ph/0511369
+author: Kifonidis, K. and Plewa, T. and Scheck, L. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Kifonidis
+  given: K.
+- family: Plewa
+  given: T.
+- family: Scheck
+  given: L.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 14:29:05 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1051/0004-6361:20054512
+eprint: astro-ph/0511369
+journal: \aap
+keywords: 'hydrodynamics, instabilities, nucleosynthesis, shock waves, supernovae:
+  general'
+month: July
+pages: 661--678
+papis_id: d33df1a9e2d1ee1a15c48b7701f39622
+ref: kifonidis.k.2006
+title: Non-spherical core collapse supernovae. II. The late-time evolution of globally
+  anisotropic neutrino-driven explosions and their implications for SN 1987 A
+type: article
+volume: '453'
+year: '2006'

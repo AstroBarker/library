@@ -1,0 +1,47 @@
+abstract: Recent studies indicate that Type Ia supernovae (SNe Ia) consist of two
+  groups-a ``prompt'' component whose rates are proportional to the host galaxy star
+  formation rate, whose members have broader light curves and are intrinsically more
+  luminous, and a ``delayed'' component whose members take several Gyr to explode,
+  have narrower light curves, and are intrinsically fainter. As cosmic star formation
+  density increases with redshift, the prompt component should begin to dominate.
+  We use a two-component model to predict that the average light curve width should
+  increase by 6\% from z=0 to 1.5. Using data from various searches, we find an 8.1\%
+  +/- 2.7\% increase in average light curve width for non-subluminous SNe Ia from
+  z=0.03 to 1.12, corresponding to an increase in the average intrinsic luminosity
+  of 12\%. To test whether there is any bias after supernovae are corrected for light
+  curve shape we use published data to mimic the effect of population evolution and
+  find no significant difference in the measured dark energy equation of state parameter,
+  w. However, future measurements of time-variable w will require standardization
+  of SN Ia magnitudes to 2\% up to z=1.7, and it is not yet possible to assess whether
+  light curve shape correction works at this level of precision. Another concern at
+  z=1.5 is the expected order-of-magnitude increase in the number of SNe Ia that cannot
+  be calibrated by current methods.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...667L..37H
+arxivurl: http://arxiv.org/abs/astro-ph/0701912
+author: Howell, D. A. and Sullivan, M. and Conley, A. and Carlberg, R.
+author_list:
+- family: Howell
+  given: D. A.
+- family: Sullivan
+  given: M.
+- family: Conley
+  given: A.
+- family: Carlberg
+  given: R.
+date-added: 2017-08-11 04:31:24 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/522030
+eprint: astro-ph/0701912
+journal: \apjl
+keywords: 'Cosmology: Cosmological Parameters, Cosmology: Observations, Stars: Supernovae:
+  General, Surveys'
+month: September
+pages: L37-L40
+papis_id: df92a89a980f11bff167b7511bb4c771
+ref: howell.d.2007
+title: Predicted and Observed Evolution in the Mean Properties of Type Ia Supernovae
+  with Redshift
+type: article
+volume: '667'
+year: '2007'

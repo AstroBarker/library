@@ -1,0 +1,39 @@
+abstract: We perform dynamical simulations of the delayed collapse of hot neutron
+  stars to black holes. Using our recently developed code for spherical collapse in
+  general relativity, we can follow this collapse to completion, i.e., until the last
+  fluid elements have approached the event horizon. Therefore, we can study the very
+  late stages of the collapse and determine, for example, the neutrino signature of
+  this event. We adopt a hot kaon condensate equation of state and model neutrino
+  transport with a relativistic diffusion equation. In our simulations, we evolve
+  hot neutron stars with masses greater than the maximum mass of cold neutron stars.
+  These stars are initially stabilized by thermal pressure. However, as the stars
+  emit neutrinos and cool down, they eventually reach the onset of instability and
+  catastrophically collapse to black holes. We track the entire evolution, from the
+  quasi-static onset of collapse to the final dynamical implosion. This calculation
+  is meant to serve as a prototype for more detailed calculations of delayed collapse,
+  but nevertheless it does illustrate all the physical features that we expect to
+  find when more detailed calculations are performed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...458..680B
+author: Baumgarte, T. W. and Shapiro, S. L. and Teukolsky, S. A.
+author_list:
+- family: Baumgarte
+  given: T. W.
+- family: Shapiro
+  given: S. L.
+- family: Teukolsky
+  given: S. A.
+date-added: 2017-08-10 21:55:49 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176849
+journal: \apj
+keywords: 'BLACK HOLE PHYSICS, EQUATION OF STATE, RELATIVITY, STARS: EVOLUTION, STARS:
+  NEUTRON'
+month: February
+pages: '680'
+papis_id: 54a7a33558bf6cf42271e691873ac926
+ref: baumgarte.t.1996
+title: Computing the Delayed Collapse of Hot Neutron Stars to Black Holes
+type: article
+volume: '458'
+year: '1996'

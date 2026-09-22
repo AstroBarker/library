@@ -1,0 +1,62 @@
+abstract: Supernova models with a full spectral treatment of the neutrino transport
+  are presented, employing the prometheus/vertex neutrino-hydrodynamics code with
+  a variable Eddington factor closure of the O(v/c) moments equations of neutrino
+  number, energy, and momentum. Our "ray-by-ray plus" approximation developed for
+  two- (or three-) dimensional problems assumes that the local neutrino distribution
+  function is azimuthally symmetric around the radial direction, which implies that
+  the nonradial flux components disappear. Other terms containing the angular velocity
+  components are retained in the moments equations and establish a coupling of the
+  transport at different latitudes by lateral derivatives. Also lateral components
+  of the neutrino pressure gradients are included in the hydrodynamics equations.
+  This approximative approach for neutrino transport in multi-dimensional environments
+  is motivated and critically assessed with respect to its capabilities, limitations,
+  and inaccuracies in the context of supernova simulations. In this first paper of
+  a series, one- (1D) and two-dimensional (2D) core-collapse calculations for a (nonrotating)
+  15 M\&sun; star are discussed, uncertainties in the treatment of the equation of
+  state - numerical and physical - are tested, Newtonian results are compared with
+  simulations using a general relativistic potential, bremsstrahlung and interactions
+  of neutrinos of different flavors are investigated, and the standard approximation
+  in neutrino-nucleon interactions with zero energy transfer is replaced by rates
+  that include corrections due to nucleon recoil, thermal motions, weak magnetism,
+  and nucleon correlations. Models with the full implementation of the "ray-by-ray
+  plus" spectral transport were found not to explode, neither in spherical symmetry
+  nor in 2D when the computational grid is constrained to a lateral wedge (< \$\,^{\circ}\$)
+  around the equator. The success of previous two-dimensional simulations with grey,
+  flux-limited neutrino diffusion can therefore not be confirmed. An explosion is
+  obtained in 2D for the considered 15 M\&sun; progenitor, when the radial velocity
+  terms in the neutrino momentum equation are omitted. This manipulation increases
+  the neutrino energy density in the convective gain layer by about 20-30\% and thus
+  the integral neutrino energy deposition in this region by about a factor of two
+  compared to the non-exploding 2D model with the full transport. The spectral treatment
+  of the transport and detailed description of charged-current processes leads to
+  proton-rich neutrino-heated ejecta, removing the problem that previous explosion
+  models with approximate neutrino treatment overproduced N=50 closed neutron shell
+  nuclei by large factors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...447.1049B
+arxivurl: http://arxiv.org/abs/astro-ph/0507135
+author: Buras, R. and Rampp, M. and Janka, H.-T. and Kifonidis, K.
+author_list:
+- family: Buras
+  given: R.
+- family: Rampp
+  given: M.
+- family: Janka
+  given: H.-T.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-10 14:39:34 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1051/0004-6361:20053783
+eprint: astro-ph/0507135
+journal: \aap
+keywords: 'supernovae: general, neutrinos, radiative transfer, hydrodynamics'
+month: March
+pages: 1049--1092
+papis_id: 7b8e582557f57da242f0af5e21c7551f
+ref: buras.r.2006
+title: Two-dimensional hydrodynamic core-collapse supernova simulations with spectral
+  neutrino transport. I. Numerical method and results for a 15 M\sun star
+type: article
+volume: '447'
+year: '2006'

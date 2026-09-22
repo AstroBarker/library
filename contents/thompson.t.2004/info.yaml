@@ -1,0 +1,43 @@
+abstract: The Kelvin-Helmholtz cooling epoch, lasting tens of seconds after the birth
+  of a neutron star in a successful core-collapse supernova, is accompanied by a neutrino-driven
+  wind. For magnetar-strength (~1015 G) large-scale surface magnetic fields, this
+  outflow is magnetically dominated during the entire cooling epoch. Because the strong
+  magnetic field forces the wind to corotate with the proto-neutron star, this outflow
+  can significantly affect the neutron star's early angular momentum evolution, as
+  in analogous models of stellar winds. If the rotational energy is large in comparison
+  with the supernova energy and the spin-down timescale is short with respect to the
+  time required for the supernova shock wave to traverse the stellar progenitor, the
+  energy extracted may modify the supernova shock dynamics significantly. This effect
+  is capable of producing hyperenergetic supernovae and, in some cases, provides conditions
+  favorable for gamma-ray bursts. We estimate spin-down timescales for magnetized,
+  rotating proto-neutron stars and construct steady state models of neutrino-magnetocentrifugally
+  driven winds. We find that if magnetars are born rapidly rotating, with initial
+  spin periods (P) of ~1 ms, then of order 1051-1052 ergs of rotational energy can
+  be extracted in ~10 s. If magnetars are born slowly rotating (P>~10 ms), they can
+  spin down to periods of ~1 s on the Kelvin-Helmholtz timescale.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...611..380T
+arxivurl: http://arxiv.org/abs/astro-ph/0401555
+author: Thompson, T. A. and Chang, P. and Quataert, E.
+author_list:
+- family: Thompson
+  given: T. A.
+- family: Chang
+  given: P.
+- family: Quataert
+  given: E.
+date-added: 2017-08-11 00:32:49 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421969
+eprint: astro-ph/0401555
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Stars: Magnetic Fields, Stars: Neutron, Stars: Winds,
+  Outflows, Stars: Supernovae: General'
+month: August
+pages: 380--393
+papis_id: d9eb62ce4c2ba0a38a7ead0458c429bd
+ref: thompson.t.2004
+title: Magnetar Spin-Down, Hyperenergetic Supernovae, and Gamma-Ray Bursts
+type: article
+volume: '611'
+year: '2004'

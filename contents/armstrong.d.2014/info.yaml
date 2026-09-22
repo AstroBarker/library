@@ -1,0 +1,56 @@
+abstract: 'We present here the first observationally based determination of the rate
+  of occurrence of circumbinary planets. This is derived from the publicly available
+  Kepler data, using an automated search algorithm and debiasing process to produce
+  occurrence rates implied by the seven systems already known. These rates depend
+  critically on the planetary inclination distribution: if circumbinary planets are
+  preferentially coplanar with their host binaries, as has been suggested, then the
+  rate of occurrence of planets with Rp > 6R\oplus{} orbiting with Pp < 300 d is 10.0
+  ^{+18}\_{-6.5} per cent (95 per cent confidence limits), higher than but consistent
+  with single star rates. If on the other hand the underlying planetary inclination
+  distribution is isotropic, then this occurrence rate rises dramatically, to give
+  a lower limit of 47 per cent. This implies that formation and subsequent dynamical
+  evolution in circumbinary discs must either lead to largely coplanar planets, or
+  proceed with significantly greater ease than in circumstellar discs. As a result
+  of this investigation, we also show that giant planets ( > 10R\oplus{}) are significantly
+  less common in circumbinary orbits than their smaller siblings, and confirm that
+  the proposed shortfall of circumbinary planets orbiting the shorter period binaries
+  in the Kepler sample is a real effect.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.444.1873A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.5617
+author: Armstrong, D. J. and Osborn, H. P. and Brown, D. J. A. and Faedi, F. and Gómez
+  Maqueo Chew, Y. and Martin, D. V. and Pollacco, D. and Udry, S.
+author_list:
+- family: Armstrong
+  given: D. J.
+- family: Osborn
+  given: H. P.
+- family: Brown
+  given: D. J. A.
+- family: Faedi
+  given: F.
+- family: Gómez Maqueo Chew
+  given: Y.
+- family: Martin
+  given: D. V.
+- family: Pollacco
+  given: D.
+- family: Udry
+  given: S.
+date-added: 2017-08-10 16:15:28 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1093/mnras/stu1570
+eprint: '1404.5617'
+journal: \mnras
+keywords: 'planets and satellites: detection, planets and satellites: dynamical evolution
+  and stability, planets and satellites: formation, planets and satellites: general'
+month: October
+pages: 1873--1883
+papis_id: 828571333015d4aa60fbc5dc152227a5
+primaryclass: astro-ph.EP
+ref: armstrong.d.2014
+title: On the abundance of circumbinary planets
+type: article
+volume: '444'
+year: '2014'

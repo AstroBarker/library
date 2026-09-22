@@ -1,0 +1,51 @@
+abstract: With the advent of large dedicated Type Ia supernova (SN Ia) surveys, K-corrections
+  of SNe Ia and their uncertainties have become especially important in the determination
+  of cosmological parameters. While K-corrections are largely driven by SN Ia broadband
+  colors, it is shown here that the diversity in spectral features of SNe Ia can also
+  be important. For an individual observation, the statistical errors from the inhomogeneity
+  in spectral features range from 0.01 (where the observed and rest-frame filters
+  are aligned) to 0.04 (where the observed and rest-frame filters are misaligned).
+  To minimize the systematic errors caused by an assumed SN Ia spectral energy distribution
+  (SED), we outline a prescription for deriving a mean spectral template time series
+  that incorporates a large and heterogeneous sample of observed spectra. We then
+  remove the effects of broadband colors and measure the remaining uncertainties in
+  the K-corrections associated with the diversity in spectral features. Finally, we
+  present a template spectroscopic sequence near maximum light for further improvement
+  on the K-correction estimate. A library of ~600 observed spectra of ~100 SNe Ia
+  from heterogeneous sources is used for the analysis.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...663.1187H
+arxivurl: http://arxiv.org/abs/astro-ph/0703529
+author: Hsiao, E. Y. and Conley, A. and Howell, D. A. and Sullivan, M. and Pritchet,
+  C. J. and Carlberg, R. G. and Nugent, P. E. and Phillips, M. M.
+author_list:
+- family: Hsiao
+  given: E. Y.
+- family: Conley
+  given: A.
+- family: Howell
+  given: D. A.
+- family: Sullivan
+  given: M.
+- family: Pritchet
+  given: C. J.
+- family: Carlberg
+  given: R. G.
+- family: Nugent
+  given: P. E.
+- family: Phillips
+  given: M. M.
+date-added: 2017-08-10 18:19:39 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518232
+eprint: astro-ph/0703529
+journal: \apj
+keywords: 'Cosmology: Observations, Stars: Supernovae: General'
+month: July
+pages: 1187--1200
+papis_id: ba619652e22c6048b380ad3368f3af41
+ref: hsiao.e.2007
+title: K-Corrections and Spectral Templates of Type Ia Supernovae
+type: article
+volume: '663'
+year: '2007'

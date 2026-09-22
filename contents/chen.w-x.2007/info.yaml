@@ -1,0 +1,39 @@
+abstract: 'We calculate the structure of accretion disks around Kerr black holes for
+  accretion rates M\textperiodcentered{}=0.001-10 Msolar s-1. Such high-M\textperiodcentered{}
+  disks are plausible candidates for the central engine of gamma-ray bursts. Our disk
+  model is fully relativistic and accurately treats the microphysics of the accreting
+  matter: neutrino emissivity, opacity, electron degeneracy, and nuclear composition.
+  The neutrino-cooled disk forms above a critical accretion rate M\textperiodcentered{}ign
+  that depends on the black hole spin. The disk has an ``ignition'''' radius rign
+  where neutrino flux rises dramatically, cooling becomes efficient, and the proton-to-nucleon
+  ratio Ye drops. Other characteristic radii are ralpha, where most of alpha-particles
+  are disintegrated, rnu, where the disk becomes nu-opaque, and rtr, where neutrinos
+  get trapped and advected into the black hole. We find ralpha, rign, rnu, and rtr
+  and show their dependence on M\textperiodcentered{}. We discuss the qualitative
+  picture of accretion and present sample numerical models of the disk structure.
+  All neutrino-cooled disks regulate themselves to a characteristic state such that:
+  (1) electrons are mildly degenerate, (2) Ye~0.1, and (3) neutrons dominate the pressure
+  in the disk.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...657..383C
+arxivurl: http://arxiv.org/abs/astro-ph/0607145
+author: Chen, W.-X. and Beloborodov, A. M.
+author_list:
+- family: Chen
+  given: W.-X.
+- family: Beloborodov
+  given: A. M.
+date-added: 2017-08-10 18:00:49 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/508923
+eprint: astro-ph/0607145
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Dense Matter, Gamma Rays: Bursts'
+month: March
+pages: 383--399
+papis_id: 1a470ca48f001fdcce533f8083a586b1
+ref: chen.w_x.2007
+title: Neutrino-cooled Accretion Disks around Spinning Black Holes
+type: article
+volume: '657'
+year: '2007'

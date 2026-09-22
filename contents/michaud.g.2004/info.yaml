@@ -1,0 +1,53 @@
+abstract: 'Evolutionary models taking into account radiative accelerations, thermal
+  diffusion, and gravitational settling for 28 elements, including all those contributing
+  to OPAL stellar opacities, have been calculated for solar metallicity stars of 0.5-1.4
+  Msolar. The Sun has been used to calibrate the models. Isochrones are fitted to
+  the observed color-magnitude diagrams (CMDs) of M67 and NGC 188, and ages of 3.7
+  and 6.4 Gyr are respectively determined. Convective core overshooting is not required
+  to match the turnoff morphology of either cluster, including the luminosity of the
+  gap in M67, because central convective cores are larger when diffusive processes
+  are treated. This is due mainly to the enhanced helium and metal abundances in the
+  central regions of such models. The observation of solar metallicity open clusters
+  with ages in the range of 4.8-5.7 Gyr would further test the calculations of atomic
+  diffusion in central stellar regions: according to nondiffusive isochrones, clusters
+  should not have gaps near their main-sequence turnoffs if they are older than ~4.8
+  Gyr, whereas diffusive isochrones predict that gaps should persist up to ages of
+  ~5.7 Gyr. Surface abundance isochrones are also calculated. In the case of M67 and
+  NGC 188, surface abundance variations are expected to be small. Abundance differences
+  between stars of very similar Teff are expected close to the turnoff, especially
+  for elements between P and Ca. Moreover, in comparison to the results obtained for
+  giants, small generalized underabundances are expected in main-sequence stars. The
+  Li/Be ratio is discussed briefly and compared with observations. The inclusion of
+  a turbulent transport parameterization that reduces surface abundance variations
+  does not significantly modify the computed isochrones.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...606..452M
+arxivurl: http://arxiv.org/abs/astro-ph/0402544
+author: Michaud, G. and Richard, O. and Richer, J. and VandenBerg, D. A.
+author_list:
+- family: Michaud
+  given: G.
+- family: Richard
+  given: O.
+- family: Richer
+  given: J.
+- family: VandenBerg
+  given: D. A.
+date-added: 2017-08-10 19:22:31 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/383001
+eprint: astro-ph/0402544
+journal: \apj
+keywords: 'Convection, Diffusion, Stars: Hertzsprung-Russell Diagram, Galaxy: Open
+  Clusters and Associations: General, Galaxy: Open Clusters and Associations: Individual:
+  Messier Number: M67, Galaxy: Open Clusters and Associations: Individual: NGC Number:
+  NGC 188, Stars: Evolution'
+month: May
+pages: 452--465
+papis_id: b4c33d3f840ffeddd9fd4d00e6df0af6
+ref: michaud.g.2004
+title: 'Models for Solar Abundance Stars with Gravitational Settling and Radiative
+  Accelerations: Application to M67 and NGC 188'
+type: article
+volume: '606'
+year: '2004'

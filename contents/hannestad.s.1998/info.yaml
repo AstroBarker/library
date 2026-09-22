@@ -1,0 +1,43 @@
+abstract: Elastic scattering on nucleons, nuN --> Nnu, is the dominant supernova (SN)
+  opacity source for mu and tau neutrinos. The dominant energy- and number-changing
+  processes were thought to be nue- --> e-nu and nunu\textasciimacron{}<-->e+e- until
+  Suzuki showed that the bremsstrahlung process nunu\textasciimacron{}NN<-->NN was
+  actually more important. We find that for energy exchange, the related ``inelastic
+  scattering process'' nuNN<-->NNnu is even more effective by about a factor of 10.
+  A simple estimate implies that the numu and nutau spectra emitted during the Kelvin-Helmholtz
+  cooling phase are much closer to that of nu\textasciimacron{}e than had been thought
+  previously. To facilitate a numerical study of the spectra formation we derive a
+  scattering kernel that governs both bremsstrahlung and inelastic scattering and
+  give an analytic approximation formula. We consider only neutron-neutron interactions;
+  we use a one-pion exchange potential in Born approximation, nonrelativistic neutrons,
+  and the long-wavelength limit, simplifications that appear justified for the surface
+  layers of an SN core. We include the pion mass in the potential, and we allow for
+  an arbitrary degree of neutron degeneracy. Our treatment does not include the neutron-proton
+  process and does not include nucleon-nucleon correlations. Our perturbative approach
+  applies only to the SN surface layers, i.e., to densities below about 1014 g cm-3.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...507..339H
+arxivurl: http://arxiv.org/abs/astro-ph/9711132
+author: Hannestad, S. and Raffelt, G.
+author_list:
+- family: Hannestad
+  given: S.
+- family: Raffelt
+  given: G.
+date-added: 2017-08-10 15:47:17 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306303
+eprint: astro-ph/9711132
+journal: \apj
+keywords: 'ELEMENTARY PARTICLES, RADIATION MECHANISMS: NONTHERMAL, STARS: INTERIORS,
+  STARS: SUPERNOVAE: GENERAL, Elementary Particles, Radiation Mechanisms: Nonthermal,
+  Stars: Interiors, Stars: Supernovae: General'
+month: November
+pages: 339--352
+papis_id: 22034183ba7f51abe1f6529f43a8a655
+ref: hannestad.s.1998
+title: Supernova Neutrino Opacity from Nucleon-Nucleon Bremsstrahlung and Related
+  Processes
+type: article
+volume: '507'
+year: '1998'

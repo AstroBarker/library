@@ -1,0 +1,35 @@
+abstract: A new kind of overset grid, named Yin-Yang grid, for spherical geometry
+  is proposed. The Yin-Yang grid is composed of two identical component grids that
+  are combined in a complemental way to cover a spherical surface with partial overlap
+  on their boundaries. Each component grid is a low-latitude part of the latitude-longitude
+  grid. Therefore the grid spacing is quasi-uniform, and the metric tensors are simple
+  and analytically known. One can directly apply mathematical and numerical resources
+  that have been written in the spherical polar coordinates or latitude-longitude
+  grid. The complemental combination of the two identical component grids enables
+  us to make efficient and concise programs. Simulation codes for geodynamo and mantle
+  convection simulations using finite difference scheme based on the Yin-Yang grid
+  are developed and tested. The Yin-Yang grid is suitable for massively parallel computers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004GGG.....5.9005K
+author: Kageyama, A. and Sato, T.
+author_list:
+- family: Kageyama
+  given: A.
+- family: Sato
+  given: T.
+date-added: 2017-08-11 00:26:56 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1029/2004GC000734
+eid: Q09005
+eprint: physics/0403123
+journal: Geochemistry, Geophysics, Geosystems
+keywords: 'Mathematical Geophysics: Numerical solutions, Planetology: Fluid Planets:
+  Interiors (8147), Planetology: Fluid Planets: Magnetic fields and magnetism'
+month: September
+pages: Q09005
+papis_id: a7730025f2740187b43edc900ad0c611
+ref: kageyama.a.2004
+title: '``Yin-Yang grid'''': An overset grid in spherical geometry'
+type: article
+volume: '5'
+year: '2004'

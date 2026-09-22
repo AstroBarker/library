@@ -1,0 +1,62 @@
+abstract: 'Context. Binary population synthesis (BPS) modelling is a very effective
+  tool to study the evolution and properties of various types of close binary systems.
+  The uncertainty in the parameters of the model and their effect on a population
+  can be tested in a statistical way, which then leads to a deeper understanding of
+  the underlying (sometimes poorly understood) physical processes involved. Several
+  BPS codes exist that have been developed with different philosophies and aims. Although
+  BPS has been very successful for studies of many populations of binary stars, in
+  the particular case of the study of the progenitors of supernovae Type Ia, the predicted
+  rates and ZAMS progenitors vary substantially between different BPS codes.  Aims:
+  To understand the predictive power of BPS codes, we study the similarities and differences
+  in the predictions of four different BPS codes for low- and intermediate-mass binaries.
+  We investigate the differences in the characteristics of the predicted populations,
+  and whether they are caused by different assumptions made in the BPS codes or by
+  numerical effects, e.g. a lack of accuracy in BPS codes.  Methods: We compare a
+  large number of evolutionary sequences for binary stars, starting with the same
+  initial conditions following the evolution until the first (and when applicable,
+  the second) white dwarf (WD) is formed. To simplify the complex problem of comparing
+  BPS codes that are based on many (often different) assumptions, we equalise the
+  assumptions as much as possible to examine the inherent differences of the four
+  BPS codes.  Results: We find that the simulated populations are similar between
+  the codes. Regarding the population of binaries with one WD, there is very good
+  agreement between the physical characteristics, the evolutionary channels that lead
+  to the birth of these systems, and their birthrates. Regarding the double WD population,
+  there is a good agreement on which evolutionary channels exist to create double
+  WDs and a rough agreement on the characteristics of the double WD population. Regarding
+  which progenitor systems lead to a single and double WD system and which systems
+  do not, the four codes agree well. Most importantly, we find that for these two
+  populations, the differences in the predictions from the four codes are not due
+  to numerical differences, but because of different inherent assumptions. We identify
+  critical assumptions for BPS studies that need to be studied in more detail.  Appendices
+  are available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...562A..14T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1311.6503
+author: Toonen, S. and Claeys, J. S. W. and Mennekens, N. and Ruiter, A. J.
+author_list:
+- family: Toonen
+  given: S.
+- family: Claeys
+  given: J. S. W.
+- family: Mennekens
+  given: N.
+- family: Ruiter
+  given: A. J.
+date-added: 2017-08-11 07:16:21 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1051/0004-6361/201321576
+eid: A14
+eprint: '1311.6503'
+journal: \aap
+keywords: 'binaries: close, stars: evolution, white dwarfs'
+month: February
+pages: A14
+papis_id: 76bdb7c39cbae798c0eb484451d33f2e
+primaryclass: astro-ph.SR
+ref: toonen.s.2014
+title: 'PopCORN: Hunting down the differences between binary population synthesis
+  codes'
+type: article
+volume: '562'
+year: '2014'

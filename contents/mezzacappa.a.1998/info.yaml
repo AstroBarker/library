@@ -1,0 +1,108 @@
+abstract: 'We investigate neutrino-driven convection in core collapse supernovae and
+  its ramifications for the explosion mechanism. We begin with a postbounce model
+  that is optimistic in two important respects: (1) we begin with a 15 M\&sun; precollapse
+  model, which is representative of the class of stars with compact iron cores; (2)
+  we implement Newtonian gravity. Our precollapse model is evolved through core collapse
+  and bounce in one dimension using multigroup (neutrino energy-dependent) flux-limited
+  diffusion (MGFLD) neutrino transport and Newtonian Lagrangian hydrodynamics, providing
+  realistic initial conditions for the postbounce convection and evolution.  Our two-dimensional
+  simulation begins at 12 ms after bounce and proceeds for 500 ms. We couple two-dimensional
+  piecewise parabolic method (PPM) hydrodynamics to precalculated one-dimensional
+  MGFLD neutrino transport. (The neutrino distributions used for matter heating and
+  deleptonization in our two-dimensional run are obtained from an accompanying one-dimensional
+  simulation. The accuracy of this approximation is assessed.) For the moment, we
+  sacrifice dimensionality for realism in other aspects of our neutrino transport.
+  MGFLD is an implementation of neutrino transport that simultaneously (1) is multigroup
+  and (2) simulates with sufficient realism the transport of neutrinos in opaque,
+  semitransparent, and transparent regions. Both are crucial to the accurate determination
+  of postshock neutrino heating, which sensitively depends on the luminosities, spectra,
+  and flux factors of the electron neutrinos and antineutrinos emerging from their
+  respective neutrinospheres.  By 137 ms after bounce, we see neutrino-driven convection
+  rapidly developing beneath the shock. By 212 ms after bounce, this convection becomes
+  large scale, characterized by higher entropy, expanding upflows and lower entropy,
+  denser, finger-like downflows. The upflows reach the shock and distort it from sphericity.
+  The radial convection velocities at this time become supersonic just below the shock,
+  reaching magnitudes in excess of 109 cm s-1. Eventually, however, the shock recedes
+  to smaller radii, and at ~500 ms after bounce there is no evidence in our simulation
+  of an explosion or of a developing explosion.  Our angle-averaged density, entropy,
+  electron fraction, and radial velocity profiles in our two-dimensional model agree
+  well with their counterparts in our accompanying one-dimensional MGFLD run above
+  and below the neutrino-driven convection region. In the convection region, the one-dimensional
+  and angle-averaged profiles differ somewhat because (1) convection tends to flatten
+  the density, entropy, and electron fraction profiles, and (2) the shock radius is
+  boosted somewhat by convection. However, the differences are not significant, indicating
+  that, while vigorous, neutrino-driven convection in our model does not have a significant
+  impact on the overall shock dynamics.  The differences between our results and those
+  of other groups are considered. These most likely result from differences in (1)
+  numerical hydrodynamics methods; (2) initial postbounce models, and, most important;
+  (3) neutrino transport approximations. We have compared our neutrino luminosities,
+  rms energies, and inverse flux factors with those from the exploding models of other
+  groups. Above all, we find that the neutrino rms energies computed by our multigroup
+  (MGFLD) transport are significantly lower than the values obtained by Burrows and
+  coworkers, who specified their neutrino spectra by tying the neutrino temperature
+  to the matter temperature at the neutrinosphere and by choosing the neutrino degeneracy
+  parameter arbitrarily, and by Herant and coworkers in their transport scheme, which
+  (1) is gray and (2) patches together optically thick and thin regions. The most
+  dramatic difference between our results and those of Janka and M{\"u}ller is exhibited
+  by the difference in the net cooling rate below the gain radii: Our rate is 2-3
+  times greater during the critical 50-100 ms after bounce.  We have computed the
+  mass and internal energy in the gain region as a function of time. Up to ~150 ms
+  after bounce, we find that both increase as a result of the increasing gain region
+  volume, as the gain and shock radii diverge. However, at all subsequent times, we
+  find that the mass and internal energy in the gain region decrease with time in
+  accordance with the density falloff in the preshock region and with the flow of
+  matter into the gain region at the shock and out of the gain region at the gain
+  radius. Therefore, we see no evidence in the simulations presented here that neutrino-driven
+  convection leads to mass and energy accumulation in the gain region.  We have compared
+  our one- and two-dimensional densities, temperatures, and electron fractions in
+  the region below the electron neutrino and antineutrino gain radii, above which
+  the neutrino luminosities are essentially constant (i.e., the neutrino sources are
+  entirely enclosed), in an effort to assess how spherically symmetric our neutrino
+  sources remain during our two-dimensional evolution, and therefore, in an effort
+  to assess our use of precalculated one-dimensional MGFLD neutrino distributions
+  in calculating the matter heating and deleptonization. We find no difference below
+  the neutrinosphere radii. Between the neutrinosphere and gain radii we find no differences
+  with obvious ramifications for the supernova outcome. We note that the interplay
+  between neutrino transport and convection below the neutrinospheres is a delicate
+  matter and is discussed at greater length in another paper (Mezzacappa and coworkers).
+  However, the results presented therein do support our use of precalculated one-dimensional
+  MGFLD in the present context.  Failure in our ``optimistic'''' 15 M\&sun; Newtonian
+  model leads us to conclude that it is unlikely, at least in our approximation, that
+  neutrino-driven convection will lead to explosions for more massive stars with fatter
+  iron cores or in cases in which general relativity is included.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...495..911M
+arxivurl: http://arxiv.org/abs/astro-ph/9709188
+author: Mezzacappa, A. and Calder, A. C. and Bruenn, S. W. and Blondin, J. M. and
+  Guidry, M. W. and Strayer, M. R. and Umar, A. S.
+author_list:
+- family: Mezzacappa
+  given: A.
+- family: Calder
+  given: A. C.
+- family: Bruenn
+  given: S. W.
+- family: Blondin
+  given: J. M.
+- family: Guidry
+  given: M. W.
+- family: Strayer
+  given: M. R.
+- family: Umar
+  given: A. S.
+date-added: 2017-08-10 18:31:23 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305338
+eprint: astro-ph/9709188
+journal: \apj
+keywords: 'STARS: SUPERNOVAE: GENERAL, CONVECTION, ELEMENTARY PARTICLES, STARS: INTERIORS,
+  Convection, Elementary Particles, Stars: Interiors, Stars: Supernovae: General'
+month: March
+pages: 911--926
+papis_id: b747dd096cf6a1e88045d4dc6ca8b425
+ref: mezzacappa.a.1998
+title: An Investigation of Neutrino-driven Convection and the Core Collapse Supernova
+  Mechanism Using Multigroup Neutrino Transport
+type: article
+volume: '495'
+year: '1998'

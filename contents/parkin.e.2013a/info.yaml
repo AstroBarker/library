@@ -1,0 +1,51 @@
+abstract: Magnetorotational turbulence provides a viable mechanism for angular momentum
+  transport in accretion discs. We present global, three-dimensional (3D), magnetohydrodynamic
+  accretion disc simulations that investigate the dependence of the turbulent stresses
+  on resolution. Convergence in the time- and volume-averaged stress-to-gas-pressure
+  ratio, overline{< alpha \_P>}, at a value of \texttildelow{}0.04, is found for a
+  model with radial, vertical and azimuthal resolution of 12-51, 27 and 12.5 cells
+  per scaleheight (the simulation mesh is such that cells per scaleheight varies in
+  the radial direction). The gas pressure dependence of the quasi-steady state stress
+  level is also examined using models with different scaleheight-to-radius aspect
+  ratio (H/R), revealing a weak dependence of overline{< alpha \_P> } on pressure.  A
+  control volume analysis is performed on the main body of the disc (\vert{}z\vert{}
+  < 2H) to examine the production and removal of magnetic energy. Maxwell stresses
+  in combination with the mean disc rotation are mainly responsible for magnetic energy
+  production, whereas turbulent dissipation (facilitated by numerical resistivity)
+  predominantly removes magnetic energy from the disc. Re-casting the magnetic energy
+  equation in terms of the power injected by Maxwell stresses on the boundaries of,
+  and by Lorentz forces within, the control volume highlights the importance of the
+  boundary conditions (of the control volume). The different convergence properties
+  of shearing-box and global accretion disc simulations can be readily understood
+  on the basis of choice of boundary conditions and the magnetic field configuration.
+  Periodic boundary conditions restrict the establishment of large-scale gradients
+  in the magnetic field, limiting the power that can be delivered to the disc by Lorentz
+  forces and by stresses at the surfaces. The factor of 3 lower resolution required
+  for convergence in <alphaP> for our global disc models compared to stratified shearing-boxes
+  is explained by this finding.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.435.2281P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.1084
+author: Parkin, E. R. and Bicknell, G. V.
+author_list:
+- family: Parkin
+  given: E. R.
+- family: Bicknell
+  given: G. V.
+date-added: 2017-08-10 14:47:06 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1450
+eprint: '1306.1084'
+journal: \mnras
+keywords: accretion, accretion discs, instabilities, MHD, turbulence
+month: November
+pages: 2281--2298
+papis_id: 204ba57b9078efb7a0dabff3e25c6e27
+primaryclass: astro-ph.HE
+ref: parkin.e.2013a
+title: Global simulations of magnetorotational turbulence - I. Convergence and the
+  quasi-steady state
+type: article
+volume: '435'
+year: '2013'

@@ -1,0 +1,51 @@
+abstract: 'Several lines of evidence suggest that magnetic fields grow rapidly in
+  protogalactic and galactic environments. However, mean field dynamo theory has always
+  suggested that the magnetic fields grow rather slowly, taking of order a Hubble
+  time to reach the observed values. The theoretical difficulties only become worse
+  when the system has a high magnetic Reynolds number, as is the case for galactic
+  and protogalactic environments. The discrepancy can be reconciled if fast processes
+  for amplifying the magnetic field could operate. Following the 2001 work of Balsara
+  and coworkers, we show that an interstellar medium that is dominated by realistic
+  energy input from supernova explosions will naturally become a strongly turbulent
+  medium with large positive and negative values of the kinetic helicity. Even though
+  the medium is driven by compressible motions, the kinetic energy in this high Mach
+  number flow is mainly concentrated in solenoidal rather than compressible motions.
+  These results stem from the interaction of strong shocks with each other and with
+  the interstellar turbulence they self-consistently generate in our model. Moreover,
+  this interaction also generates large kinetic helicities of either sign. The turbulent
+  flow that we model has two other characteristics of a fast dynamo: magnetic energy
+  growth independent of scale and a growth time that is comparable to the eddy turnover
+  time. This linear phase of growth permits the field to grow rapidly until the magnetic
+  energy reaches about 1\% of the kinetic energy. At that stage, other astrophysical
+  processes for producing magnetic fields can take over. Energetics, power spectra,
+  statistics, and structures of the turbulent flow are studied here. Shock-turbulence
+  interaction is shown to be a very general mechanism for helicity generation and
+  magnetic field amplification, with applicability to damped Lyalpha systems, protogalaxies,
+  the Galaxy, starburst galaxies, the intracluster medium, and molecular clouds.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...617..339B
+arxivurl: http://arxiv.org/abs/astro-ph/0403660
+author: Balsara, D. S. and Kim, J. and Mac Low, M.-M. and Mathews, G. J.
+author_list:
+- family: Balsara
+  given: D. S.
+- family: Kim
+  given: J.
+- family: Mac Low
+  given: M.-M.
+- family: Mathews
+  given: G. J.
+date-added: 2017-08-11 01:26:51 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/425297
+eprint: astro-ph/0403660
+journal: \apj
+keywords: 'ISM: Magnetic Fields, Stars: Supernovae: General, Turbulence'
+month: December
+pages: 339--349
+papis_id: 1452d24c9d65b65655de3a76ce634667
+ref: balsara.d.2004
+title: Amplification of Interstellar Magnetic Fields by Supernova-driven Turbulence
+type: article
+volume: '617'
+year: '2004'

@@ -1,0 +1,53 @@
+abstract: We present a catalog of precise eclipse times and analysis of third-body
+  signals among 1279 close binaries in the latest Kepler Eclipsing Binary Catalog.
+  For these short-period binaries, Kepler's 30 minute exposure time causes significant
+  smearing of light curves. In addition, common astrophysical phenomena such as chromospheric
+  activity, as well as imperfections in the light curve detrending process, can create
+  systematic artifacts that may produce fictitious signals in the eclipse timings.
+  We present a method to measure precise eclipse times in the presence of distorted
+  light curves, such as in contact and near-contact binaries which exhibit continuously
+  changing light levels in and out of eclipse. We identify 236 systems for which we
+  find a timing variation signal compatible with the presence of a third body. These
+  are modeled for the light travel time effect and the basic properties of the third
+  body are derived. This study complements J. A. Orosz et al. (in preparation), which
+  focuses on eclipse timing variations of longer period binaries with flat out-of-eclipse
+  regions. Together, these two papers provide comprehensive eclipse timings for all
+  binaries in the Kepler Eclipsing Binary Catalog, as an ongoing resource freely accessible
+  online to the community.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014AJ....147...45C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.0512
+author: Conroy, K. E. and Prša, A. and Stassun, K. G. and Orosz, J. A. and Fabrycky,
+  D. C. and Welsh, W. F.
+author_list:
+- family: Conroy
+  given: K. E.
+- family: Prša
+  given: A.
+- family: Stassun
+  given: K. G.
+- family: Orosz
+  given: J. A.
+- family: Fabrycky
+  given: D. C.
+- family: Welsh
+  given: W. F.
+date-added: 2017-08-10 16:15:40 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-6256/147/2/45
+eid: '45'
+eprint: '1306.0512'
+journal: \aj
+keywords: 'binaries: eclipsing, catalogs, methods: analytical, methods: data analysis,
+  stars: kinematics and dynamics, techniques: photometric'
+month: February
+pages: '45'
+papis_id: 542c052dea84b51fdd3361946b9c1e2e
+primaryclass: astro-ph.SR
+ref: conroy.k.2014
+title: Kepler Eclipsing Binary Stars. IV. Precise Eclipse Times for Close Binaries
+  and Identification of Candidate Three-body Systems
+type: article
+volume: '147'
+year: '2014'

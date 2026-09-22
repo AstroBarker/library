@@ -1,0 +1,51 @@
+abstract: In simulations of binary neutron star mergers, the dense matter equation
+  of state (EOS) is required over wide ranges of density and temperature as well as
+  under conditions in which neutrinos are trapped, and the effects of magnetic fields
+  and rotation prevail. Here we assess the status of dense matter theory and point
+  out the successes and limitations of approaches currently in use. A comparative
+  study of the excluded volume (EV) and virial approaches for the $np\alpha$ system
+  using the equation of state of Akmal, Pandharipande and Ravenhall for interacting
+  nucleons is presented in the sub-nuclear density regime. Owing to the excluded volume
+  of the \$\alpha\$-particles, their mass fraction vanishes in the EV approach below
+  the baryon density 0.1 fm\$^{-3}\$, whereas it continues to rise due to the predominantly
+  attractive interactions in the virial approach. The EV approach of Lattimer et al.
+  is extended here to include clusters of light nuclei such as d, \$^3\$H and \$^3\$He
+  in addition to \$\alpha\$-particles. Results of the relevant state variables from
+  this development are presented and enable comparisons with related but slightly
+  different approaches in the literature. We also comment on some of the sweet and
+  sour aspects of the supra-nuclear EOS. The extent to which the gravitational and
+  baryon masses vary due to thermal effects, neutrino trapping, magnetic fields and
+  rotation are summarized from earlier studies in which the effects from each of these
+  sources were considered separately. Increases of about 25\% (50\%) occur for rigid
+  (differential) rotation with comparable increases occurring in the presence of magnetic
+  fields only for fields in excess of \$10^{18}\$ Gauss. Comparatively smaller changes
+  occur due to thermal effects and neutrino trapping. Some future studies to gain
+  further insight into the outcome of dynamical simulations are suggested.
+adscomment: 19 pages, 18 figures, 3 tables
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180908126L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1809.08126
+author: Lalit, S. and Mamun, M. A. A. and Constantinou, C. and Prakash, M.
+author_list:
+- family: Lalit
+  given: S.
+- family: Mamun
+  given: M. A. A.
+- family: Constantinou
+  given: C.
+- family: Prakash
+  given: M.
+date-added: 2018-09-24 10:01:40 -0400
+date-modified: 2018-09-24 10:01:41 -0400
+eprint: '1809.08126'
+groups: Nuclear EOS
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Nuclear Theory
+month: September
+papis_id: e561a1f72ad9754639e259245ec631f6
+primaryclass: astro-ph.HE
+ref: lalit.s.2018
+title: Dense matter equation of state for neutron star mergers
+type: article
+year: '2018'

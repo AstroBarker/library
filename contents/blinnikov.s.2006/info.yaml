@@ -1,0 +1,59 @@
+abstract: 'Aims.We present synthetic bolometric and broad-band UBVRI light curves
+  of SNe Ia for four selected 3D deflagration models of thermonuclear supernovae.  Methods:
+  .The light curves are computed with the 1D hydro code stella, which models (multi-group
+  time-dependent) non-equilibrium radiative transfer inside SN ejecta. Angle-averaged
+  results from 3D hydrodynamical explosion simulations with the composition determined
+  in a nucleosynthetic postprocessing step served as the input to the radiative transfer
+  model. Results: .The predicted model {UBV} light curves do agree reasonably well
+  with the observed ones for SNe Ia in the range of low to normal luminosities, although
+  the underlying hydrodynamical explosion models produced only a modest amount of
+  radioactive {}56Ni(i.e.  0.24-0.42 M\&sun;) and relatively low kinetic energy in
+  the explosion (less than 0.7 \texttimes{} 1051 erg). The evolution of predicted
+  B and V fluxes in the model with a {}56Nimass of 0.42 M\&sun; follows the observed
+  decline rate after the maximum very well, although the behavior of fluxes in other
+  filters deviates somewhat from observations, and the bolometric decline rate is
+  a bit slow. The material velocity at the photospheric level is on the order of 104
+  km s-1 for all models. Using our models, we check the validity of Arnett''s rule,
+  relating the peak luminosity to the power of the deposited radioactive heating,
+  and we also check the accuracy of the procedure for extracting the {}56Nimass from
+  the observed light curves. Conclusions: .We find that the comparison between theoretical
+  light curves and observations provides a useful tool to validate SN Ia models. The
+  steps necessary for improving the agreement between theory and observations are
+  set out.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...453..229B
+arxivurl: http://arxiv.org/abs/astro-ph/0603036
+author: Blinnikov, S. I. and Röpke, F. K. and Sorokina, E. I. and Gieseler, M. and
+  Reinecke, M. and Travaglio, C. and Hillebrandt, W. and Stritzinger, M.
+author_list:
+- family: Blinnikov
+  given: S. I.
+- family: Röpke
+  given: F. K.
+- family: Sorokina
+  given: E. I.
+- family: Gieseler
+  given: M.
+- family: Reinecke
+  given: M.
+- family: Travaglio
+  given: C.
+- family: Hillebrandt
+  given: W.
+- family: Stritzinger
+  given: M.
+date-added: 2017-08-10 17:40:35 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1051/0004-6361:20054594
+eprint: astro-ph/0603036
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, radiative transfer, methods:
+  numerical'
+month: July
+pages: 229--240
+papis_id: 446fbc423d77b8e2669d88a6250cfbdd
+ref: blinnikov.s.2006
+title: Theoretical light curves for deflagration models of type Ia supernova
+type: article
+volume: '453'
+year: '2006'

@@ -1,0 +1,45 @@
+abstract: The gravitationally driven evolution of cold dark matter dominates the formation
+  of structure in the universe over a wide range of length scales. While the longest
+  scales can be treated by perturbation theory, a fully quantitative understanding
+  of nonlinear effects requires the application of large-scale particle simulation
+  methods. Additionally, precision predictions for next-generation observatio-ns,
+  such as weak gravitational lensing, can only be obtained from numerical simulations.
+  In this paper, we compare results from several N-body codes using test problems
+  and a diverse set of diagnostics, focusing on a medium-resolution regime appropriate
+  for studying many observationally relevant aspects of structure formation. Our conclusions
+  are that-despite the use of different algorithms and error-control methodologies-overall,
+  the codes yield consistent results. The agreement over a wide range of scales for
+  the cosmological tests is test-dependent. In the best cases, it is at the 5\% level
+  or better, however, for other cases it can be significantly larger than 10\%. These
+  include the halo mass function at low masses and the mass power spectrum at small
+  scales. While there exist explanations for most of the discrepancies, our results
+  point to the need for significant improvement in N-body errors and their understanding
+  to match the precision of near-future observations. The simulation results, including
+  halo catalogs, and initial conditions used, are publicly available.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJS..160...28H
+arxivurl: http://arxiv.org/abs/astro-ph/0411795
+author: Heitmann, K. and Ricker, P. M. and Warren, M. S. and Habib, S.
+author_list:
+- family: Heitmann
+  given: K.
+- family: Ricker
+  given: P. M.
+- family: Warren
+  given: M. S.
+- family: Habib
+  given: S.
+date-added: 2017-08-10 15:38:42 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/432646
+eprint: astro-ph/0411795
+journal: \apjs
+keywords: 'Cosmology: Large-Scale Structure of Universe, Methods: n-Body Simulations'
+month: September
+pages: 28--58
+papis_id: 3a7942f2cf4ffea31ba98a024c8697f0
+ref: heitmann.k.2005
+title: Robustness of Cosmological Simulations. I. Large-Scale Structure
+type: article
+volume: '160'
+year: '2005'

@@ -1,0 +1,56 @@
+abstract: We present the extension of previous two-dimensional simulations of the
+  time-dependent evolution of nonrelativistic outflows from the surface of Keplerian
+  accretion disks to three dimensions. As in the previous work, we investigate the
+  outflow that arises from a magnetized accretion disk that is initially in hydrostatic
+  balance with its surrounding cold corona. The accretion disk itself is taken to
+  provide a set of fixed boundary conditions for the problem. We find that the mechanism
+  of jet acceleration is identical to what was established from the previous two-dimensional
+  simulations. The three-dimensional results are consistent with the theory of steady,
+  axisymmetric, centrifugally driven disk winds up to the Alfv{\'e}n surface of the
+  outflow. Beyond the Alfv{\'e}n surface, however, the jet in three dimensions becomes
+  unstable to nonaxisymmetric, Kelvin-Helmholtz instabilities. The most important
+  result of our work is that while the jet is unstable at super-Alfv{\'e}nic speeds,
+  it survives the onset of unstable modes that appear in this physical regime. We
+  show that jets maintain their long-term stability through a self-limiting process
+  wherein the average Alfv{\'e}nic Mach number within the jet is maintained to the
+  order of unity. This is accomplished in at least two ways. First, the poloidal magnetic
+  field is concentrated along the central axis of the jet forming a ``backbone'' in
+  which the Alfv{\'e}n speed is sufficiently high to reduce the average jet Alfv{\'e}nic
+  Mach number to unity. Second, the onset of higher order Kelvin-Helmholtz ``flute''
+  modes (m>=2) reduces the efficiency with which the jet material is accelerated and
+  transfers kinetic energy of the outflow into the stretched, poloidal field lines
+  of the distorted jet. This too has the effect of increasing the Alfv{\'e}n speed
+  and thereby reducing the Alfv{\'e}nic Mach number. The jet is able to survive the
+  onset of the more destructive m=1 mode in this way. Our simulations also show that
+  jets can acquire corkscrew or wobbling types of geometries in this relatively stable
+  end state depending on the nature of the perturbations on them. Finally, we suggest
+  that jets go into alternating periods of low and high activity since the disappearance
+  of unstable modes in the sub-Alfv{\'e}nic regime enables another cycle of acceleration
+  to super-Alfv{\'e}nic speeds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...582..292O
+arxivurl: http://arxiv.org/abs/astro-ph/0205465
+author: Ouyed, R. and Clarke, D. A. and Pudritz, R. E.
+author_list:
+- family: Ouyed
+  given: R.
+- family: Clarke
+  given: D. A.
+- family: Pudritz
+  given: R. E.
+date-added: 2017-08-10 16:31:58 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344507
+eprint: astro-ph/0205465
+journal: \apj
+keywords: 'Accretion, Accretion Disks, ISM: Jets and Outflows, Magnetohydrodynamics:
+  MHD, Stars: Pre-Main-Sequence'
+month: January
+pages: 292--319
+papis_id: 2d42ef37a8e8883cdc34b61196003683
+ref: ouyed.r.2003
+title: 'Three-dimensional Simulations of Jets from Keplerian Disks: Self-regulatory
+  Stability'
+type: article
+volume: '582'
+year: '2003'

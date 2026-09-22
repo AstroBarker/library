@@ -1,0 +1,41 @@
+abstract: We present the results of three-dimensional numerical simulations of supersonic
+  isotropic Euler turbulence with adaptive mesh refinement (AMR) and effective grid
+  resolution up to 10243 zones. Our experiments describe nonmagnetized, driven turbulent
+  flows with an isothermal equation of state. Mesh refinement on shocks and shear
+  is implemented to resolve dynamically important structures and calibrated to match
+  the turbulence statistics obtained from the equivalent uniform-grid simulations.
+  We demonstrate that as soon as the integral and dissipation scales are sufficiently
+  separated, further increasing the resolution does not require mesh refinement all
+  over the computational domain. The volume of finer subgrids in our AMR simulations
+  scales with linear resolution approximately as N-1. Turbulence statistics derived
+  from our AMR simulations and simulations performed on uniform grids agree surprisingly
+  well, even though only a fraction of the volume is covered by AMR subgrids. We show
+  that subdimensional nested ``Mach cones'' and U-shaped shocklets dominate the dynamics
+  in supersonic turbulent flows. Based on these results, we discuss the fractal dimension
+  of dissipative structures, their signature in the statistical properties of supersonic
+  turbulence, and their role in overall flow dynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...638L..25K
+arxivurl: http://arxiv.org/abs/astro-ph/0411626
+author: Kritsuk, A. G. and Norman, M. L. and Padoan, P.
+author_list:
+- family: Kritsuk
+  given: A. G.
+- family: Norman
+  given: M. L.
+- family: Padoan
+  given: P.
+date-added: 2017-08-11 03:21:02 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500688
+eprint: astro-ph/0411626
+journal: \apjl
+keywords: 'Hydrodynamics, ISM: Clouds, ISM: Structure, Methods: Numerical, Turbulence'
+month: February
+pages: L25-L28
+papis_id: f84e0d0e845e4413414802341d4e6a37
+ref: kritsuk.a.2006
+title: Adaptive Mesh Refinement for Supersonic Molecular Cloud Turbulence
+type: article
+volume: '638'
+year: '2006'

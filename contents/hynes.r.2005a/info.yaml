@@ -1,0 +1,49 @@
+abstract: We compile optical and UV spectra of a sample of ``typical'' short-period
+  black hole X-ray transients in outburst. We also survey determinations of interstellar
+  extinction and distance to deredden spectra and compare absolute fluxes. Hence,
+  we perform a comparative study of the broadband spectral energy distributions (SEDs).
+  We find that, given such a homogeneous sample of typical sources, the optical SEDs
+  form a relatively uniform set, all exhibiting quasi-power-law spectra with Fnu~nualpha,
+  where 0.5<~alpha<~1.5 (steeper than the canonical nu1/3 disk spectrum). All become
+  flatter in the UV, although there is more diversity here. The SEDs studied can be
+  broadly divided into two optical-UV spectral states. The UV-hard spectra, e.g.,
+  A0620-00 and GS 1124-684, continue to rise in the far-UV. The UV-soft spectra, e.g.,
+  GRO J0422+32, drop off. XTE J1859+226 evolved from UV-soft to UV-hard as it decayed,
+  indicating that this effect is a real difference, not a dereddening artifact. All
+  the spectra can be fitted by a generalized blackbody disk model with two forms of
+  heating, resulting in the two states. The UV-soft state is consistent with a disk
+  illuminated by a central point source, with irradiative heating dominating over
+  viscous. The UV-hard state is well described by a viscously heated disk, although
+  this requires very high mass flow rates in the case of GS 1124-684. Alternatively,
+  a UV-hard spectrum can be produced if the disk is illuminated by a vertically extended
+  X-ray source such as a central scattering corona or jet. Since scattering is assumed
+  by some numerical simulations, it is worth emphasizing that when illumination comes
+  from (nonlocal) scattering high above the disk, we generically expect a steeper
+  radial dependence of X-ray heating (F~R-3) than is usually assumed; it is this steep
+  dependence that leads to the UV-hard spectrum.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...623.1026H
+arxivurl: http://arxiv.org/abs/astro-ph/0412531
+author: Hynes, R. I.
+author_list:
+- family: Hynes
+  given: R. I.
+date-added: 2017-08-11 04:32:17 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428445
+eprint: astro-ph/0412531
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Stars: Individual:
+  Constellation Name: V616 Monocerotis, Stars: Individual: Constellation Name: GU
+  Muscae, Stars: Individual: Constellation Name: V2293 Ophiuchi, Stars: Individual:
+  Constellation Name: V518 Persei, Stars: Individual: Constellation Name: MM Velorum,
+  Stars: Individual: Constellation Name: V406 Vulpeculae'
+month: April
+pages: 1026--1043
+papis_id: 6d04ff60b850e67040434944f47059d8
+ref: hynes.r.2005a
+title: The Optical and Ultraviolet Spectral Energy Distributions of Short-Period Black
+  Hole X-Ray Transients in Outburst
+type: article
+volume: '623'
+year: '2005'

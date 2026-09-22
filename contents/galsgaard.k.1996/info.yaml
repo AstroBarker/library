@@ -1,0 +1,57 @@
+abstract: To contribute to the understanding of heating and dynamic activity in boundary-driven,
+  low-beta plasmas such as the solar corona, we investigate how an initially homogeneous
+  magnetic field responds to random large-scale shearing motions on two boundaries,
+  by numerically solving the dissipative MHD equations, with resolutions ranging from
+  243 to 1363. We find that even a single application of large-scale shear, in the
+  form of orthogonal sinusoidal shear on two boundaries, leads to the formation of
+  tangential discontinuities (current sheets). The formation time scales logarithmically
+  with the resistivity and is of the order of a few times the inverse shearing rate
+  for any reasonable resistivity, even though no mathematical discontinuity would
+  form in a finite time in the limit of vanishing resistivity. The reason for the
+  formation of the current sheets is the interlocking of two magnetic flux systems.
+  Reconnection in the current sheets is necessary for the field lines to straighten
+  out. The formation of current sheets causes a transition to a very dynamic plasma
+  state, where reconnection drives supersonic and super-Alfv{\'e}nic jet flows and
+  where these, in turn, cause the formation of smaller-scale current sheets. A statistically
+  steady state level for the average Poynting flux and the average Joule dissipation
+  is reached after a few correlation times, but both boundary work and Joule dissipation
+  are highly fluctuating in time and space and are only weakly correlated. Strong
+  and bursty Joule dissipation events are favored when the volume has a large length/diameter
+  ratio and is systematically driven for periods longer than the Alfv{\`e}n crossing
+  time. The understanding of the reason for the current sheet formation allows a simple
+  scaling law to be constructed for the average boundary work. Numerical experiments
+  over a range of parameter values, covering over 3 orders of magnitude in average
+  dissipation, obey the scaling law to within a factor of 2. The heating rate depends
+  on the boundary velocity amplitude and correlation time, the Alfv{\'e}n speed, and
+  the initial magnetic field strength but appears to be independent of the resistivity
+  because of the formation of a hierarchy of current sheets. Estimates of the photospheric
+  boundary work on the solar coronal magnetic field using the scaling law are consistent
+  with estimates of the required coronal heating rates. We therefore conclude that
+  the work supplied to the solar corona as a consequence of the motion of the magnetic
+  foot points in the solar photosphere and the emergence of new flux is a significant
+  contributor to coronal heating and flaring and that it quite plausibly is the dominant
+  one.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996JGR...10113445G
+author: Galsgaard, K. and Nordlund, Å.
+author_list:
+- family: Galsgaard
+  given: K.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-10 20:03:55 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1029/96JA00428
+journal: \jgr
+keywords: 'Solar Physics, Astrophysics, and Astronomy: Corona, and Astronomy: Magnetic
+  fields, Space Plasma Physics: Magnetic reconnection, Space Plasma Physics: Numerical
+  simulation studies'
+month: June
+pages: 13445--13460
+papis_id: fac351fa864261358ce116ef9bb840fd
+ref: galsgaard.k.1996
+title: Heating and activity of the solar corona 1. Boundary shearing of an initially
+  homogeneous magnetic field
+type: article
+volume: '101'
+year: '1996'

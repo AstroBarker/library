@@ -1,0 +1,50 @@
+abstract: We present three-dimensional simulations on a new mechanism for the detonation
+  of a sub-Chandrasekhar CO white dwarf in a dynamically unstable system where the
+  secondary is either a pure He white dwarf or an He/CO hybrid. For dynamically unstable
+  systems where the accretion stream directly impacts the surface of the primary,
+  the final tens of orbits can have mass accretion rates that range from 10-5 to 10-3
+  M sun s-1, leading to the rapid accumulation of helium on the surface of the primary.
+  After ~10-2 M sun of helium has been accreted, the ram pressure of the hot helium
+  torus can deflect the accretion stream such that the stream no longer directly impacts
+  the surface. The velocity difference between the stream and the torus produces shearing
+  which seeds large-scale Kelvin-Helmholtz instabilities along the interface between
+  the two regions. These instabilities eventually grow into dense knots of material
+  that periodically strike the surface of the primary, adiabatically compressing the
+  underlying helium torus. If the temperature of the compressed material is raised
+  above a critical temperature, the timescale for triple-alpha reactions becomes comparable
+  to the dynamical timescale, leading to the detonation of the primary's helium envelope.
+  This detonation drives shock waves into the primary which tend to concentrate at
+  one or more focal points within the primary's CO core. If a relatively small amount
+  of mass is raised above a critical temperature and density at these focal points,
+  the CO core may itself be detonated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...709L..64G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0911.0416
+author: Guillochon, J. and Dan, M. and Ramirez-Ruiz, E. and Rosswog, S.
+author_list:
+- family: Guillochon
+  given: J.
+- family: Dan
+  given: M.
+- family: Ramirez-Ruiz
+  given: E.
+- family: Rosswog
+  given: S.
+date-added: 2017-08-10 15:19:17 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/2041-8205/709/1/L64
+eprint: '0911.0416'
+journal: \apjl
+keywords: 'accretion, accretion disks, binaries: general, instabilities, novae, cataclysmic
+  variables, supernovae: general, white dwarfs'
+month: January
+pages: L64-L69
+papis_id: d6bc23125bcd12c820fc6c2598087440
+primaryclass: astro-ph.HE
+ref: guillochon.j.2010
+title: Surface Detonations in Double Degenerate Binary Systems Triggered by Accretion
+  Stream Instabilities
+type: article
+volume: '709'
+year: '2010'

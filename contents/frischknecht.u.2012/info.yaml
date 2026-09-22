@@ -1,0 +1,57 @@
+abstract: 'Context. Rotation is known to have a strong impact on the nucleosynthesis
+  of light elements in massive stars, mainly by inducing mixing in radiative zones.
+  In particular, rotation boosts the primary nitrogen production, and models of rotating
+  stars are able to reproduce the nitrogen observed in low-metallicity halo stars.  Aims:
+  Here we present the first grid of stellar models for rotating massive stars at low
+  metallicity, where a full s-process network is used to study the impact of rotation-induced
+  mixing on the neutron capture nucleosynthesis of heavy elements.  Methods: We used
+  the Geneva stellar evolution code that includes an enlarged reaction network with
+  nuclear species up to bismuth to calculate 25 M\&sun; models at three different
+  metallicities (Z = 10-3,10-5, and 10-7) and with different initial rotation rates.  Results:
+  First, we confirm that rotation-induced mixing (shear) between the convective H-shell
+  and He-core leads to a large production of primary 22Ne (0.1 to 1\% in mass fraction),
+  which is the main neutron source for the s-process in massive stars. Therefore rotation
+  boosts the s-process in massive stars at all metallicities. Second, the neutron-to-seed
+  ratio increases with decreasing Z in models including rotation, which leads to the
+  complete consumption of all iron seeds at metallicities below Z = 10-3 by the end
+  of core He-burning. Thus at low Z, the iron seeds are the main limitation for this
+  boosted s-process. Third, as the metallicity decreases, the production of elements
+  up to the Ba peak increases at the expense of the elements of the Sr peak. We studied
+  the impact of the initial rotation rate and of the highly uncertain 17O(alpha,gamma)
+  rate (which strongly affects the strength of 16O as a neutron poison) on our results.
+  This study shows that rotating models can produce significant amounts of elements
+  up to Ba over a wide range of Z, which has important consequences for our understanding
+  of the formation of these elements in low-metallicity environments like the halo
+  of our galaxy and globular clusters. Fourth, compared to the He-core, the primary
+  22Ne production induced by rotation in the He-shell is even higher (greater than
+  1\% in mass fraction at all metallicities), which could open the door for an explosive
+  neutron capture nucleosynthesis in the He-shell, with a primary neutron source.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...538L...2F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.5548
+author: Frischknecht, U. and Hirschi, R. and Thielemann, F.-K.
+author_list:
+- family: Frischknecht
+  given: U.
+- family: Hirschi
+  given: R.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-10 18:52:27 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1051/0004-6361/201117794
+eid: L2
+eprint: '1112.5548'
+journal: \aap
+keywords: 'stars: abundances, nuclear reactions, nucleosynthesis, abundances, stars:
+  chemically peculiar, stars: massive, stars: Population II, stars: rotation'
+month: February
+pages: L2
+papis_id: d59459e4842fd53739125a75dccbbabd
+primaryclass: astro-ph.SR
+ref: frischknecht.u.2012
+title: Non-standard s-process in low metallicity massive rotating stars
+type: article
+volume: '538'
+year: '2012'

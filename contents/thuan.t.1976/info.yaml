@@ -1,0 +1,35 @@
+abstract: A four-color UVGR intermediate-band photometric system is discussed which
+  was developed to avoid several pitfalls of the standard UBV system. The bands are
+  essentially nonoverlapping and are designed to exclude the strongest night-sky lines
+  at most sites. The ultraviolet band (u) is not open at the short-wavelength end,
+  is narrow enough that second-order extinction coefficients are not necessary, and
+  its response is entirely shortward of the Balmer jump, making the (u-v) color index
+  a sensitive measure of the Balmer discontinuity. The filters employed are described,
+  the magnitude and extinction equations are given, and a list of standard stars defining
+  the photometric system is provided. It is noted that the characteristics of the
+  present system should make it far more powerful than the UBV system for the study
+  of stellar temperatures, gravities in early-type stars, and metallicity in middle
+  to late-type stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1976PASP...88..543T
+author: Thuan, T. X. and Gunn, J. E.
+author_list:
+- family: Thuan
+  given: T. X.
+- family: Gunn
+  given: J. E.
+date-added: 2017-08-11 03:48:05 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/129982
+journal: \pasp
+keywords: Astronomical Photometry, Stellar Spectrophotometry, Ubv Spectra, Astronomical
+  Catalogs, Balmer Series, Early Stars, Electrophotometry, Galactic Clusters, Late
+  Stars, Optical Filters, Stellar Temperature
+month: August
+pages: 543--547
+papis_id: 3851ca854e571bf049cc4f293a170bca
+ref: thuan.t.1976
+title: A new four-color intermediate-band photometric system
+type: article
+volume: '88'
+year: '1976'

@@ -1,0 +1,47 @@
+abstract: This work studies adaptive sparse-grid discontinuous Galerkin (DG) discretizations
+  for the Bhatnagar--Gross--Krook (BGK) model, a kinetic equation posed in four- and
+  six-dimensional phase-space. Standard DG methods are rendered impractical for the
+  BGK model by the curse of dimensionality, motivating compressed representations
+  that adapt to the solution in time. Using the adaptive sparse-grid DG method, we
+  quantify accuracy and compression by comparing the adaptive degrees of freedom to
+  full-grid DG methods and by assessing the resulting kinetic and fluid quantities
+  in both fluid and rarefied regimes. Test cases include a relaxation problem, a multidimensional
+  Sod shock tube, and shear/expansion flows used in prior low-rank BGK studies. To
+  build an efficient Maxwellian evaluation without violating conservation, a central
+  obstacle for structure-perserving BGK simulations, we introduce a hybrid interpolation
+  strategy that exploits velocity separability to recover the correct discrete collision
+  invariants and prove conservation of the resulting discrete collision operator on
+  adaptive sparse grids. Our results show that the adaptive sparse-grid strategy can
+  recover accurate and physically relevant solutions with sharp gradients, and the
+  method reduces the active degrees of freedom by factors ranging from several-fold
+  to several orders of magnitude, with the largest reductions occurring in the six-dimensional
+  examples. All computations are performed with the open-source ASGarD adaptive sparse-grid
+  DG library.
+author: Schnake, Stefan and Stoyanov, Miroslav and Endeve, Eirik and Hauck, Cory
+author_list:
+- family: Schnake
+  given: Stefan
+- family: Stoyanov
+  given: Miroslav
+- family: Endeve
+  given: Eirik
+- family: Hauck
+  given: Cory
+doc_url: https://arxiv.org/pdf/2609.20395v1
+eprint: 2609.20395v1
+eprintclass: math.NA
+eprinttype: arxiv
+files:
+- schnake-stefan-2026.pdf
+month: 9
+papis_id: aa51ba4cbeeb5405f3cda3da6c6fafdb
+ref: schnake.stefan.2026
+tags:
+- dg
+- bgk
+time-added: 2026-09-20-23:06:26
+title: Adaptive Sparse-grid Discontinuous Galerkin Approximations the Bhatnagar--Gross--Krook
+  Model
+type: article
+url: http://arxiv.org/abs/2609.20395v1
+year: 2026

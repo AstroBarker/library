@@ -1,0 +1,45 @@
+abstract: We present a catalog of the 26 currently known magnetars and magnetar candidates.
+  We tabulate astrometric and timing data for all catalog sources, as well as their
+  observed radiative properties, particularly the spectral parameters of the quiescent
+  X-ray emission. We show histograms of the spatial and timing properties of the magnetars,
+  comparing them with the known pulsar population, and we investigate and plot possible
+  correlations between their timing, X-ray, and multiwavelength properties. We find
+  the scale height of magnetars to be in the range of 20-31 pc, assuming they are
+  exponentially distributed. This range is smaller than that measured for OB stars,
+  providing evidence that magnetars are born from the most massive O stars. From the
+  same fits, we find that the Sun lies ~13-22 pc above the Galactic plane, consistent
+  with previous measurements. We confirm previously identified correlations between
+  quiescent X-ray luminosity, L X, and magnetic field, B, as well as X-ray spectral
+  power-law indexes, Gamma and B, and show evidence for an excluded region in a plot
+  of L X versus Gamma. We also present an updated kT versus characteristic age plot,
+  showing that magnetars and high-B radio pulsars are hotter than lower-B neutron
+  stars of similar age. Finally, we observe a striking difference between magnetars
+  detected in the hard X-ray and radio bands; there is a clear correlation between
+  the hard and soft X-ray fluxes, whereas the radio-detected magnetars all have low,
+  soft X-ray flux, suggesting, if anything, that the two bands are anticorrelated.  .
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJS..212....6O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.4167
+author: Olausen, S. A. and Kaspi, V. M.
+author_list:
+- family: Olausen
+  given: S. A.
+- family: Kaspi
+  given: V. M.
+date-added: 2017-08-10 18:32:03 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0067-0049/212/1/6
+eid: '6'
+eprint: '1309.4167'
+journal: \apjs
+keywords: 'catalogs, pulsars: general, stars: magnetars, stars: neutron'
+month: May
+pages: '6'
+papis_id: 5d4d904736e9c3ee50d076d6c0931c1e
+primaryclass: astro-ph.HE
+ref: olausen.s.2014
+title: The McGill Magnetar Catalog
+type: article
+volume: '212'
+year: '2014'

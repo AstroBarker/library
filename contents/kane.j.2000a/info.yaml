@@ -1,0 +1,51 @@
+abstract: Numerical simulations using the SN hydrodynamics code PROMETHEUS are carried
+  out to study the difference between growth of two-dimensional versus three-dimensional
+  single-mode perturbations at the He-H and O-He interfaces of SN 1987A. We find that
+  in the rest frame of an unperturbed one-dimensional interface, a three-dimensional
+  single-mode perturbation grows ~30\%-35\% faster than a two-dimensional single-mode
+  perturbation, when the wavelengths are chosen to give the same linear stage growth
+  in the planar limit. In simulations where we impose single-mode density perturbations
+  in the O layer of the initial model and random velocity perturbations in the postshock
+  fluid near the He-H interface, we find that both axisymmetric O spikes and three-dimensional
+  O spikes penetrate significantly further than two-dimensional O spikes. The difference
+  between two dimensions and three dimensions predicted by our calculations is not
+  enough to account for the difference between observed 56Co velocities in SN 1987A
+  and the results of previous two-dimensional simulations of SN 1987A, but our results
+  suggest that the real three-dimensional hydrodynamics are noticeably different than
+  the two-dimensional simulations predict.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...528..989K
+author: Kane, J. and Arnett, D. and Remington, B. A. and Glendinning, S. G. and Bazán,
+  G. and Müller, E. and Fryxell, B. A. and Teyssier, R.
+author_list:
+- family: Kane
+  given: J.
+- family: Arnett
+  given: D.
+- family: Remington
+  given: B. A.
+- family: Glendinning
+  given: S. G.
+- family: Bazán
+  given: G.
+- family: Müller
+  given: E.
+- family: Fryxell
+  given: B. A.
+- family: Teyssier
+  given: R.
+date-added: 2017-08-11 01:53:17 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308220
+journal: \apj
+keywords: 'HYDRODYNAMICS, INSTABILITIES, METHODS: NUMERICAL, STARS: SUPERNOVAE: GENERAL,
+  Hydrodynamics, Instabilities, Methods: Numerical, Stars: Supernovae: General'
+month: January
+pages: 989--994
+papis_id: ed4cb892b0f57303eef9b0935522c485
+ref: kane.j.2000a
+title: Two-dimensional versus Three-dimensional Supernova Hydrodynamic Instability
+  Growth
+type: article
+volume: '528'
+year: '2000'

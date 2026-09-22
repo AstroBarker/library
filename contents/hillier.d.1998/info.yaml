@@ -1,0 +1,55 @@
+abstract: Extensive modifications to the non-LTE radiative transfer code of Hillier
+  have been made in order to improve the spectroscopic analysis of stars with stellar
+  winds. The main improvement to the code is the inclusion of blanketing due to thousands
+  of overlapping lines. To implement this effect, we have used the idea of super levels
+  first pioneered by Anderson. In our approach, levels with similar excitation energies
+  and levels are grouped together. Within this group, we assume that the departure
+  coefficients are identical. Only the population (or equivalently, the departure
+  coefficient) of the super level need be solved in order to fully specify the populations
+  of the levels within a super level. Our approach is a natural extension of the single-level
+  LTE assumption, and thus LTE is recovered exactly at depth.  In addition to the
+  line blanketing modifications, the code has been improved significantly in other
+  regards. In particular, the new code incorporates the effect of level dissolution,
+  the influence of resonances in the photoionization cross sections, and the effect
+  of Auger ionization. Electron scattering with a thermal redistribution can be considered,
+  although it is normally treated coherently in the comoving frame (which still leads
+  to redistribution in the observer's frame).  Several example calculations are described
+  to demonstrate the importance of line blanketing on spectroscopic analysis. We find
+  that the inclusion of blanketing modifies the strengths of some optical CNO lines
+  in Wolf-Rayet (W-R) stars by factors of 2-5. In particular, the strengths of the
+  WC classification lines C III lambda5696 and C IV lambda5805 are both increased
+  because of iron blanketing. This should help alleviate problems found with nonblanketed
+  models, which were incapable of matching the strengths of these lines. We also find
+  that, in the UV (1100-1800 {\AA}), the influence of Fe is readily seen in both emission
+  and absorption. The emission is sensitive to the iron abundance and should allow,
+  for the first time, Fe abundances to be deduced in W-R stars.  The improvements
+  made to our code should greatly facilitate the spectroscopic analysis of stars with
+  stellar winds. We will be able to determine the importance and influence of line
+  blanketing, as well as of several other effects that have been included in the new
+  code. It will also allow us to better determine W-R star parameters, such as luminosity,
+  elemental abundances, wind velocity, and mass-loss rate. With future application
+  to related objects, such as novae and supernovae, our new code should also improve
+  our understanding of these objects with extended outflowing atmospheres.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...496..407H
+author: Hillier, D. J. and Miller, D. L.
+author_list:
+- family: Hillier
+  given: D. J.
+- family: Miller
+  given: D. L.
+date-added: 2017-08-11 04:41:54 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305350
+journal: \apj
+keywords: 'RADIATIVE TRANSFER, STARS: EMISSION-LINE, BE, LINE: FORMATION, STARS: MASS
+  LOSS, STARS: WOLF-RAYET, Line: Formation, Radiative Transfer, Stars: Emission-Line,
+  Be, Stars: Mass Loss, Stars: Wolf-Rayet'
+month: March
+pages: 407--427
+papis_id: b841265294ebaed1e3f65a2862154a80
+ref: hillier.d.1998
+title: The Treatment of Non-LTE Line Blanketing in Spherically Expanding Outflows
+type: article
+volume: '496'
+year: '1998'

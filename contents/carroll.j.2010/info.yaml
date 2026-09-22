@@ -1,0 +1,49 @@
+abstract: Feedback from protostellar outflows can influence the nature of turbulence
+  in star-forming regions even if they are not the primary source of velocity dispersion
+  for all scales of molecular clouds. For the rate and power expected in star-forming
+  regions, we previously (Carroll et al.) demonstrated that outflows could drive supersonic
+  turbulence at levels consistent with the scaling relations from Matzner although
+  with a steeper velocity power spectrum than expected for an isotropically driven
+  supersonic turbulent cascade. Here, we perform higher resolution simulations and
+  combine simulations of outflow driven turbulence with those of isotropically forced
+  turbulence. We find that the presence of outflows within an ambient isotropically
+  driven turbulent environment produces a knee in the velocity power spectrum at the
+  outflow scale and a steeper slope at sub-outflow scales than for a purely isotropically
+  forced case. We also find that the presence of outflows flattens the density spectrum
+  at large scales effectively reducing the formation of large-scale turbulent density
+  structures. These effects are qualitatively independent of resolution. We have also
+  carried out Principal Component Analysis (PCA) for synthetic data from our simulations.
+  We find that PCA as a tool for identifying the driving scale of turbulence has a
+  misleading bias toward low amplitude large-scale velocity structures even when they
+  are not necessarily the dominant energy containing scales. This bias is absent for
+  isotropically forced turbulence but manifests strongly for collimated outflow driven
+  turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722..145C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.1098
+author: Carroll, J. J. and Frank, A. and Blackman, E. G.
+author_list:
+- family: Carroll
+  given: J. J.
+- family: Frank
+  given: A.
+- family: Blackman
+  given: E. G.
+date-added: 2017-08-11 01:22:45 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/1/145
+eprint: '1005.1098'
+journal: \apj
+keywords: 'ISM: clouds, ISM: jets and outflows, ISM: kinematics and dynamics, methods:
+  data analysis, turbulence'
+month: October
+pages: 145--157
+papis_id: 4ca8b5f3335a084d473aafcf578aad15
+primaryclass: astro-ph.SR
+ref: carroll.j.2010
+title: 'Isotropically Driven Versus Outflow Driven Turbulence: Observational Consequences
+  for Molecular Clouds'
+type: article
+volume: '722'
+year: '2010'

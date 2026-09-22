@@ -1,0 +1,50 @@
+abstract: We present the first  4pi-three-dimensional (3D) simulation of the last
+  minutes of oxygen shell burning in an 18 M \&sun; supernova progenitor up to the
+  onset of core collapse. A moving inner boundary is used to accurately model the
+  contraction of the silicon and iron core according to a one-dimensional stellar
+  evolution model with a self-consistent treatment of core deleptonization and nuclear
+  quasi-equilibrium. The simulation covers the full solid angle to allow the emergence
+  of large-scale convective modes. Due to core contraction and the concomitant acceleration
+  of nuclear burning, the convective Mach number increases to \texttildelow{}0.1 at
+  collapse, and an l = 2 mode emerges shortly before the end of the simulation. Aside
+  from a growth of the oxygen shell from 0.51 M \&sun; to 0.56 M \&sun; due to entrainment
+  from the carbon shell, the convective flow is reasonably well described by mixing-length
+  theory, and the dominant scales are compatible with estimates from linear stability
+  analysis. We deduce that artificial changes in the physics, such as accelerated
+  core contraction, can have precarious consequences for the state of convection at
+  collapse. We argue that scaling laws for the convective velocities and eddy sizes
+  furnish good estimates for the state of shell convection at collapse and develop
+  a simple analytic theory for the impact of convective seed perturbations on shock
+  revival in the ensuing supernova. We predict a reduction of the critical luminosity
+  for explosion by 12\%-24\% due to seed asphericities for our 3D progenitor model
+  relative to the case without large seed perturbations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...833..124M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1605.01393
+author: Müller, B. and Viallet, M. and Heger, A. and Janka, H.-T.
+author_list:
+- family: Müller
+  given: B.
+- family: Viallet
+  given: M.
+- family: Heger
+  given: A.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:01:23 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/1538-4357/833/1/124
+eid: '124'
+eprint: '1605.01393'
+journal: \apj
+keywords: 'convection, hydrodynamics, stars: massive, supernovae: general, turbulence'
+month: December
+pages: '124'
+papis_id: 22fb0cac8b4191897669c4a3956a581b
+primaryclass: astro-ph.SR
+ref: muller.b.2016a
+title: The Last Minutes of Oxygen Shell Burning in a Massive Star
+type: article
+volume: '833'
+year: '2016'

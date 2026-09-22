@@ -1,0 +1,32 @@
+abstract: The present effort to develop an automatic adaptive mesh-refinement (AMR)
+  strategy for the solution of hyperbolic conservation laws in two dimensions gives
+  attention to the presence of discontinuities in the solution and the effects of
+  discontinuities in the mesh upon them; an attempt is also made to minimize memory
+  and CPU requirements. The MR code obtained consists of 3000 lines of FORTRAN, and
+  has been applied to transonic flow computations in conjunction with FLO52, as well
+  as to combustion problem computations involving a simple induction-time model for
+  chemistry. The most difficult problems are solved by combining several adaptive
+  techniques.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989JCoPh..82...64B
+author: Berger, M. J. and Colella, P.
+author_list:
+- family: Berger
+  given: M. J.
+- family: Colella
+  given: P.
+date-added: 2017-09-18 15:48:01 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1016/0021-9991(89)90035-1
+journal: Journal of Computational Physics
+keywords: Conservation Laws, Grid Generation (Mathematics), Hydrodynamics, Shock Waves,
+  Algorithms, Boundary Integral Method, Discontinuity, Error Analysis, Euler Equations
+  Of Motion, Numerical Analysis
+month: May
+pages: 64--84
+papis_id: 7f020ca9492a82bdb49e4a1753e91ec6
+ref: berger.m.1989
+title: Local adaptive mesh refinement for shock hydrodynamics
+type: article
+volume: '82'
+year: '1989'

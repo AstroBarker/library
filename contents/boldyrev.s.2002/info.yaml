@@ -1,0 +1,37 @@
+abstract: We present a direct numerical and analytical study of driven supersonic
+  magnetohydrodynamic turbulence that is believed to govern the dynamics of star-forming
+  molecular clouds. We describe statistical properties of the turbulence by measuring
+  the velocity difference structure functions up to the fifth order. In particular,
+  the velocity power spectrum in the inertial range is found to be close to Ek~k-1.74,
+  and the velocity difference scales as <\vert{}Deltau\vert{}>~L0.42. The results
+  agree well with the Kolmogorov-Burgers analytical model suggested for supersonic
+  turbulence.We then generalize the model to more realistic, fractal structure of
+  molecular clouds and show that depending on the fractal dimension of a given molecular
+  cloud, the theoretical value for the velocity spectrum spans the interval [-1.74,
+  -1.89], while the corresponding window for the velocity difference scaling exponent
+  is [0.42, 0.78].
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...573..678B
+arxivurl: http://arxiv.org/abs/astro-ph/0111345
+author: Boldyrev, S. and Nordlund, Å. and Padoan, P.
+author_list:
+- family: Boldyrev
+  given: S.
+- family: Nordlund
+  given: Å.
+- family: Padoan
+  given: P.
+date-added: 2017-08-10 22:38:49 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340758
+eprint: astro-ph/0111345
+journal: \apj
+keywords: 'ISM: Clouds, ISM: Kinematics and Dynamics, Magnetohydrodynamics: MHD, Turbulence'
+month: July
+pages: 678--684
+papis_id: 4610d1e6ff1c86ee877a11902bcb9c8d
+ref: boldyrev.s.2002
+title: Scaling Relations of Supersonic Turbulence in Star-forming Molecular Clouds
+type: article
+volume: '573'
+year: '2002'

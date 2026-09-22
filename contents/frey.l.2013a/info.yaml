@@ -1,0 +1,50 @@
+abstract: We have entered the era of explosive transient astronomy, in which current
+  and upcoming real-time surveys such as the Large Synoptic Survey Telescope, the
+  Palomar Transient Factory, and the Panoramic Survey Telescope and Rapid Response
+  System will detect supernovae in unprecedented numbers. Future telescopes such as
+  the James Webb Space Telescope may discover supernovae from the earliest stars in
+  the universe and reveal their masses. The observational signatures of these astrophysical
+  transients are the key to unveiling their central engines, the environments in which
+  they occur, and to what precision they will pinpoint cosmic acceleration and the
+  nature of dark energy. We present a new method for modeling supernova light curves
+  and spectra with the radiation hydrodynamics code RAGE coupled with detailed monochromatic
+  opacities in the SPECTRUM code. We include a suite of tests that demonstrate how
+  the improved physics and opacities are indispensable to modeling shock breakout
+  and light curves when radiation and matter are tightly coupled.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..204...16F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.5832
+author: Frey, L. H. and Even, W. and Whalen, D. J. and Fryer, C. L. and Hungerford,
+  A. L. and Fontes, C. J. and Colgan, J.
+author_list:
+- family: Frey
+  given: L. H.
+- family: Even
+  given: W.
+- family: Whalen
+  given: D. J.
+- family: Fryer
+  given: C. L.
+- family: Hungerford
+  given: A. L.
+- family: Fontes
+  given: C. J.
+- family: Colgan
+  given: J.
+date-added: 2017-08-10 18:37:16 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0067-0049/204/2/16
+eid: '16'
+eprint: '1203.5832'
+journal: \apjs
+keywords: 'atomic data, methods: numerical, radiative transfer, supernovae: general'
+month: February
+pages: '16'
+papis_id: ac9228c30ac0589c5632da4e420ebb22
+primaryclass: astro-ph.HE
+ref: frey.l.2013a
+title: 'The Los Alamos Supernova Light-curve Project: Computational Methods'
+type: article
+volume: '204'
+year: '2013'

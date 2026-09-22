@@ -1,0 +1,49 @@
+abstract: We investigate the hydrodynamics of three-dimensional classical Bondi-Hoyle
+  accretion. Totally absorbing spheres of varying sizes (from 10 down to 0.01 accretion
+  radii) move at Mach 3 relative to a homogeneous and slightly perturbed medium, which
+  is taken to be an ideal gas (gamma = 5/3). To accommodate the long-range gravitational
+  forces, the extent of the computational volume is 323 accretion radii. We examine
+  the influence of numerical procedure on physical behavior. The hydrodynamics is
+  modeled by the 'piecewise parabolic method.' No energy sources (nuclear burning)
+  or sinks (radiation, conduction) are included. The resolution in the vicinity of
+  the accretor is increased by multiply nesting several (5-10) grids around the sphere,
+  each finer grid being a factor of 2 smaller in zone dimension that the next coarser
+  grid. The largest dynamic range (ratio of size of the largest grid to size of the
+  finest zone) is 16,384. This allows us to include a coarse model for the surface
+  of the accretor (vacuum sphere) on the finest grid, while at the same time evolving
+  the gas on the coarser grids. Initially (at time t = 0-10), a shock front is set
+  up, a Mach cone develops, and the accretion column is observable. Eventually the
+  flow becomes unstable, destroying axisymmetry. This happens approximately when the
+  mass accretion rate reaches the values (+/- 10\%) predicted by the Bondi-Hoyle accretion
+  formula (factor of 2 included). However, our three-dimensional models do not show
+  the highly dynamic flip-flop flow so prominent in two-dimensional calculations performed
+  by other authors. The flow, and thus the accretion rate of all quantities, shows
+  quasi-periodic (P approximately equals 5) cycles between quiescent and active states.
+  The interpolation formula proposed in an accompanying paper is found to follow the
+  collected numerical data to within approximately 30\%. The specific angular momentum
+  accreted is of the same order of magnitude as the values previously found for two-dimensional
+  flows.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...427..351R
+author: Ruffert, M. and Arnett, D.
+author_list:
+- family: Ruffert
+  given: M.
+- family: Arnett
+  given: D.
+date-added: 2017-08-11 02:34:44 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174145
+journal: \apj
+keywords: Accretion Disks, Aerodynamic Drag, Cataclysmic Variables, Hydrodynamics,
+  Near Wakes, Novae, Numerical Analysis, Shock Waves, Entropy, Gravitational Fields,
+  Mass Distribution, Radiation Pressure, Space Density
+month: May
+pages: 351--376
+papis_id: 220f65dd026da82bcdd4d7296fe37a32
+ref: ruffert.m.1994
+title: 'Three-dimensional hydrodynamic Bondi-Hoyle accretion. 2: Homogeneous medium
+  at Mach 3 with gamma = 5/3'
+type: article
+volume: '427'
+year: '1994'

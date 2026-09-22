@@ -1,0 +1,58 @@
+abstract: 'In this paper, we investigate, by three-dimensional hydrodynamical simulations,
+  the role that vertical convective motions play in providing angular momentum transport
+  in a Keplerian disk. We begin by deriving simple and general analytic constraints
+  upon the correlated radial and azimuthal velocity fluctuation tensor, critical to
+  the direction of energy and angular momentum transport. When azimuthal pressure
+  gradients are small, as is often the case for incompressible turbulence in a shearing
+  disk, the constraints are particularly straightforward and striking: they imply
+  there can be no net outward transport in a steady flow. (More precisely, any steady
+  transport that is present must be due to the explicit forcing by azimuthal pressure
+  gradients.) Furthermore, numerical simulations show inward transport even in disks
+  characterized by solid body rotation, which are quite far from axisymmetric. If
+  the kinetic energy of rotational velocity fluctuations increases with time because
+  of coupling with the mean flow (as in an instability), the relationship suggests
+  (and our simulations confirm) that in a Keplerian disk the Reynolds stress is negative,
+  i.e., that the angular momentum and energy transport is inward. The analogous relationship
+  for shearing but nonrotating (Cartesian) flow displays the opposite sign for the
+  fluctuation tensor, i.e., an increase in the "streamwise" velocity fluctuations
+  is associated with outward (from higher momentum to smaller momentum) transport.
+  Although Cartesian shear flows are known to be extremely sensitive to disruption
+  by nonlinear secondary instabilities, hydrodynamical calculations presented here
+  demonstrate that Keplerian disk flows show no such inclination. We suggest that
+  the key to understanding this critical difference is the very different nature of
+  the interaction between the mean flow and the transport in each system.  We provide
+  a physical interpretation of our findings in terms of the role epicyclic oscillations
+  play in mediating angular momentum transport.  We base our convection simulations
+  upon a reproducible analytic expression for the vertical profile of an unstable
+  equilibrium state in a stratified disk. The nonlinear evolution of the convective
+  cells is then followed after the initial profile is perturbed.  Convection can be
+  sustained only if an ad hoc source of heating is added to the disk midplane. The
+  net transport associated with steady convection is small and on average inward.
+  A comparison between the volume-averaged Reynolds stress and the time rate of change
+  of the azimuthal kinetic energy associated with fluctuations in the rotational velocity
+  shows remarkable agreement with our simple analytic predictions.  Taken as a whole,
+  these results offer little hope that convection or any other form of incompressible
+  hydrodynamic turbulence is likely to be a significant source of angular momentum
+  transport in nonmagnetic disks. Coherent pressure forcing by, e.g., spiral density
+  waves, remains a viable option.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...464..364S
+author: Stone, J. M. and Balbus, S. A.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Balbus
+  given: S. A.
+date-added: 2017-08-11 00:32:03 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/177328
+journal: \apj
+keywords: ACCRETION, ACCRETION DISKS, CONVECTION, HYDRODYNAMICS, INSTABILITIES
+month: June
+pages: '364'
+papis_id: 1cd40b4f6b5834db56de14c7d33d556e
+ref: stone.j.1996
+title: Angular Momentum Transport in Accretion Disks via Convection
+type: article
+volume: '464'
+year: '1996'

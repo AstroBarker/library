@@ -1,0 +1,51 @@
+abstract: In this work, we have developed a new stochastic model for the fluctuations
+  in light curves of accreting black holes. The model is based on a linear combination
+  of stochastic processes and is also the solution to the linear diffusion equation
+  perturbed by a spatially correlated noise field. This allows flexible modeling of
+  the power spectral density (PSD), and we derive the likelihood function for the
+  process, enabling one to estimate the parameters of the process, including break
+  frequencies in the PSD. Our statistical technique is computationally efficient,
+  unbiased by aliasing and red noise leak, and fully accounts for irregular sampling
+  and measurement errors. We show that our stochastic model provides a good approximation
+  to the X-ray light curves of galactic black holes, and the optical and X-ray light
+  curves of active galactic nuclei (AGNs). We use the estimated timescales of our
+  stochastic model to recover the correlation between characteristic timescale of
+  the high-frequency X-ray fluctuations and black hole mass for AGNs, including two
+  new "detections" of the timescale for Fairall 9 and NGC 5548. We find a tight anti-correlation
+  between the black hole mass and the amplitude of the driving noise field, which
+  is proportional to the amplitude of the high-frequency X-ray PSD, and we estimate
+  that this parameter gives black hole mass estimates to within ~0.2 dex precision,
+  potentially the most accurate method for AGNs yet. We also find evidence that \approx{}13\%
+  of AGN optical PSDs fall off flatter than 1/f 2 and, similar to previous work, find
+  that the optical fluctuations are more suppressed on short timescales compared to
+  the X-rays, but are larger on long timescales, suggesting that the optical fluctuations
+  are not solely due to reprocessing of X-rays.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...730...52K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.6011
+author: Kelly, B. C. and Sobolewska, M. and Siemiginowska, A.
+author_list:
+- family: Kelly
+  given: B. C.
+- family: Sobolewska
+  given: M.
+- family: Siemiginowska
+  given: A.
+date-added: 2017-08-11 02:00:09 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/730/1/52
+eid: '52'
+eprint: '1009.6011'
+journal: \apj
+keywords: 'accretion, accretion disks, galaxies: active, methods: data analysis, quasars:
+  general'
+month: March
+pages: '52'
+papis_id: 982742ea554266199a1b6cda7859e03b
+primaryclass: astro-ph.HE
+ref: kelly.b.2011
+title: A Stochastic Model for the Luminosity Fluctuations of Accreting Black Holes
+type: article
+volume: '730'
+year: '2011'

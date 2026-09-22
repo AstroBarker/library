@@ -1,0 +1,45 @@
+abstract: We study the hydrodynamic evolution of a non-spherical core-collapse supernova
+  in multidimensions. We begin our study from the moment of shock revival and continue
+  for the first week after the explosion when the expansion of the supernova ejecta
+  becomes homologous. We observe the growth and interaction of Richtmyer-Meshkov,
+  Rayleigh-Taylor and Kelvin-Helmholtz instabilities resulting in an extensive mixing
+  of the heavy elements throughout the ejecta.  We obtain a series of models at progressively
+  higher resolution and provide a preliminary discussion of numerical convergence.
+  Unlike in previous studies, our computations are performed in a single domain. Periodic
+  mesh mapping (Couch et al 2009 Astrophys. J. 696 953-70 and Kifonidis et al 2006
+  Astron. Astrophys. 453 661-78) is avoided. This is made possible by employing an
+  adaptive mesh refinement strategy in which the computational workload (defined as
+  the product of the total number of computational cells and the length of the time
+  step) is monitored and, if necessary, limited.  Our results are in overall good
+  agreement with the simulations reported by Kifonidis et al (2006 Astron. Astrophys.
+  453 661-78). We demonstrate, however, that the amount of mixing and the kinematic
+  properties of radioactive species (i.e. 56Ni) are extremely anisotropic. In particular,
+  we find that the model displays a strong tendency to expand laterally away from
+  the equatorial plane towards the poles. Although this tendency is usually attributed
+  to numerical artefacts characteristic of computations with assumed symmetry (axis
+  effect), the observed behaviour can be largely explained by the structure of the
+  neutrino-driven explosion model. Future studies are needed to establish to what
+  degree the morphology of a young supernova remnant can be used to probe early stages
+  of the explosion especially in situations when the standing accretion shock instability
+  is at work within the first second after core bounce.  This paper is published as
+  part of a collection in honour of Todd Dupont's 65th birthday.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009Nonli..22.2775G
+author: Guzman, J. and Plewa, T.
+author_list:
+- family: Guzman
+  given: J.
+- family: Plewa
+  given: T.
+date-added: 2017-08-11 04:59:04 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0951-7715/22/11/010
+journal: Nonlinearity
+month: November
+pages: 2775--2797
+papis_id: 2fd943f914e5e920a052163a0d0560f5
+ref: guzman.j.2009
+title: 'Non-spherical core-collapse supernovae: evolution towards homologous expansion'
+type: article
+volume: '22'
+year: '2009'

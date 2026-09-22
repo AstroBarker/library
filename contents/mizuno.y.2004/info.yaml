@@ -1,0 +1,49 @@
+abstract: 'We have performed 2.5-dimensional general relativistic magnetohydrodynamic
+  (MHD) simulations of the gravitational collapse of a magnetized rotating massive
+  star as a model of gamma-ray bursts (GRBs). The current calculation focuses on general
+  relativistic MHD with simplified microphysics (we ignore neutrino cooling, physical
+  equation of state, and photodisintegration). Initially, we assume that the core
+  collapse has failed in this star. A few Msolar black hole is inserted by hand into
+  the calculation. The simulations presented in the paper follow the accretion of
+  gas into a black hole that is assumed to have formed before the calculation begins.
+  The simulation results show the formation of a disklike structure and the generation
+  of a jetlike outflow inside the shock wave launched at the core bounce. We have
+  found that the jet is accelerated by the magnetic pressure and the centrifugal force
+  and is collimated by the pinching force of the toroidal magnetic field amplified
+  by the rotation and the effect of geometry of the poloidal magnetic field. The maximum
+  velocity of the jet is mildly relativistic (~0.3c). The velocity of the jet becomes
+  larger as the initial rotational velocity of stellar matter gets faster. On the
+  other hand, the dependence on the initial magnetic field strength is a bit more
+  complicated: the velocity of the jet increases with the initial field strength in
+  the weak field regime, then is saturated at some intermediate field strength, and
+  decreases beyond the critical field strength. These results are related to the stored
+  magnetic energy determined by the balance between the propagation time of the Alfv{\''e}n
+  wave and the rotation time of the disk (or twisting time).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...606..395M
+arxivurl: http://arxiv.org/abs/astro-ph/0404152
+author: Mizuno, Y. and Yamada, S. and Koide, S. and Shibata, K.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Yamada
+  given: S.
+- family: Koide
+  given: S.
+- family: Shibata
+  given: K.
+date-added: 2017-08-11 02:06:36 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/382945
+eprint: astro-ph/0404152
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Gamma Rays: Bursts, Methods:
+  Numerical, Magnetohydrodynamics: MHD, Stars: Supernovae: General'
+month: May
+pages: 395--412
+papis_id: 57d5b5bd1b7e643ab3637182a8a73ea1
+ref: mizuno.y.2004
+title: General Relativistic Magnetohydrodynamic Simulations of Collapsars
+type: article
+volume: '606'
+year: '2004'

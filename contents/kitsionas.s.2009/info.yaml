@@ -1,0 +1,83 @@
+abstract: 'Context: Simulations of astrophysical turbulence have reached such a level
+  of sophistication that quantitative results are now starting to emerge. However,
+  contradicting results have been reported in the literature with respect to the performance
+  of the numerical techniques employed for its study and their relevance to the physical
+  systems modelled. Aims: We aim at characterising the performance of a variety of
+  hydrodynamics codes including different particle-based and grid-based techniques
+  on the modelling of decaying supersonic turbulence. This is the first such large-scale
+  comparison ever conducted. Methods: We modelled driven, compressible, supersonic,
+  isothermal turbulence with an rms Mach number of M\_rms \texttildelow{} 4, and then
+  let it decay in the absence of gravity, using runs performed with four different
+  grid codes (ENZO, FLASH, TVD, ZEUS) and three different SPH codes (GADGET, PHANTOM,
+  VINE). We additionally analysed two calculations denoted as PHANTOM A and PHANTOM
+  B using two different implementations of artificial viscosity in PHANTOM. We analysed
+  the results of our numerical experiments using volume-averaged quantities like the
+  rms Mach number, volume- and density-weighted velocity Fourier spectrum functions,
+  and probability distribution functions of density, velocity, and velocity derivatives.
+  Results: Our analysis indicates that grid codes tend to be less dissipative than
+  SPH codes, though details of the techniques used can make large differences in both
+  cases. For example, the Morris \& Monaghan viscosity implementation for SPH results
+  in less dissipation (PHANTOM B and VINE versus GADGET and PHANTOM A). For grid codes,
+  using a smaller diffusion parameter leads to less dissipation, but results in a
+  larger bottleneck effect (our ENZO versus FLASH runs). As a general result, we find
+  that by using a similar number of resolution elements N for each spatial direction
+  means that all codes (both grid-based and particle-based) show encouraging similarity
+  of all statistical quantities for isotropic supersonic turbulence on spatial scales
+  k\lessequivlnt{} N/32 (all scales resolved by more than 32 grid cells), while scales
+  smaller than that are significantly affected by the specific implementation of the
+  algorithm for solving the equations of hydrodynamics. At comparable numerical resolution
+  (N\_particles\approx{} N\_cells), the SPH runs were on average about ten times more
+  computationally intensive than the grid runs, although with variations of up to
+  a factor of ten between the different SPH runs and between the different grid runs.
+  Conclusions: At the resolutions employed here, the ability to model supersonic to
+  transonic flows is comparable across the various codes used in this study.  Current
+  address: Hellenic-American Educational Foundation, Psychiko College, Stefanou Delta
+  15, GR-15452 P. Psychiko, Greece.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...508..541K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.4599
+author: Kitsionas, S. and Federrath, C. and Klessen, R. S. and Schmidt, W. and Price,
+  D. J. and Dursi, L. J. and Gritschneder, M. and Walch, S. and Piontek, R. and Kim,
+  J. and Jappsen, A.-K. and Ciecielag, P. and Mac Low, M.-M.
+author_list:
+- family: Kitsionas
+  given: S.
+- family: Federrath
+  given: C.
+- family: Klessen
+  given: R. S.
+- family: Schmidt
+  given: W.
+- family: Price
+  given: D. J.
+- family: Dursi
+  given: L. J.
+- family: Gritschneder
+  given: M.
+- family: Walch
+  given: S.
+- family: Piontek
+  given: R.
+- family: Kim
+  given: J.
+- family: Jappsen
+  given: A.-K.
+- family: Ciecielag
+  given: P.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-10 23:24:45 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1051/0004-6361/200811170
+eprint: '0810.4599'
+journal: \aap
+keywords: 'hydrodynamics, shock waves, methods: numerical, turbulence'
+month: December
+pages: 541--560
+papis_id: 68626f52702e4cdac59e4f571a20b89a
+ref: kitsionas.s.2009
+title: Algorithmic comparisons of decaying, isothermal, supersonic turbulence
+type: article
+volume: '508'
+year: '2009'

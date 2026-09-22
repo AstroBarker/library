@@ -1,0 +1,39 @@
+abstract: StarCAT is a catalog of high resolution ultraviolet spectra of objects classified
+  as "stars," recorded by Space Telescope Imaging Spectrograph (STIS) during its initial
+  seven years of operations (1997-2004). StarCAT is based on 3184 echelle observations
+  of 545 distinct targets, with a total exposure duration of 5.2 Ms. For many of the
+  objects, broad ultraviolet coverage has been achieved by splicing echellegrams taken
+  in two or more FUV (1150-1700 {\AA}) and/or NUV (1600-3100 {\AA}) settings. In cases
+  of multiple pointings on conspicuously variable sources, spectra were separated
+  into independent epochs. Otherwise, different epochs were combined to enhance the
+  signal-to-noise ratio (S/N). A post-facto correction to the calstis pipeline data
+  sets compensated for subtle wavelength distortions identified in a previous study
+  of the STIS calibration lamps. An internal "fluxing" procedure yielded coherent
+  spectral energy distributions (SEDs) for objects with broadly overlapping wavelength
+  coverage. The best StarCAT material achieves 300 m s-1 internal velocity precision;
+  absolute accuracy at the 1 km s-1 level; photometric accuracy of order 4\%; and
+  relative flux precision several times better (limited mainly by knowledge of SEDs
+  of UV standard stars). While StarCAT represents a milestone in the large-scale post-processing
+  of STIS echellegrams, a number of potential improvements in the underlying "final"
+  pipeline are identified.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..187..149A
+author: Ayres, T. R.
+author_list:
+- family: Ayres
+  given: T. R.
+date-added: 2017-08-10 23:05:34 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0067-0049/187/1/149
+journal: \apjs
+keywords: 'catalogs, instrumentation: spectrographs, methods: data analysis, stars:
+  general, ultraviolet: stars'
+month: March
+pages: 149--171
+papis_id: a6a237eb0dd64a67e22ff659b26b157b
+ref: ayres.t.2010
+title: 'StarCAT: A Catalog of Space Telescope Imaging Spectrograph Ultraviolet Echelle
+  Spectra of Stars'
+type: article
+volume: '187'
+year: '2010'

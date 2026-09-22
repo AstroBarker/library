@@ -1,0 +1,50 @@
+abstract: The use of Type Ia supernovae as distance indicators relies on the determination
+  of their brightness. This is not constant, but it can be calibrated using an observed
+  relation between the brightness and the properties of the optical light curve (decline
+  rate, width, shape), which indicates that brighter SNe have broader, slower light
+  curves. However, the physical basis for this relation is not yet fully understood.
+  Among possible causes are different masses of the progenitor white dwarfs or different
+  opacities in Chandrasekhar-mass explosions. We parameterize Chandrasekhar-mass models,
+  which synthesize different amounts of 56Ni, and compute bolometric light curves
+  and spectra at various epochs. Since opacity in SNe Ia is mostly a result of spectral
+  lines, it should depend on the mass of Fe-peak elements synthesized in the explosion,
+  and on the temperature in the ejecta. Bolometric light curves computed using these
+  prescriptions for the optical opacity reproduce the relation between brightness
+  and decline rate. Furthermore, when spectra are calculated, the change in color
+  between maximum and 2 weeks later allows the observed relation between MB(max) and
+  Deltam15(B) to be reproduced quite nicely. Spectra computed at various epochs compare
+  well with corresponding spectra of spectroscopically normal SNe Ia selected to cover
+  a similar range of Deltam15(B) values.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...547..988M
+arxivurl: http://arxiv.org/abs/astro-ph/0009490
+author: Mazzali, P. A. and Nomoto, K. and Cappellaro, E. and Nakamura, T. and Umeda,
+  H. and Iwamoto, K.
+author_list:
+- family: Mazzali
+  given: P. A.
+- family: Nomoto
+  given: K.
+- family: Cappellaro
+  given: E.
+- family: Nakamura
+  given: T.
+- family: Umeda
+  given: H.
+- family: Iwamoto
+  given: K.
+date-added: 2017-08-11 08:08:31 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/318428
+eprint: astro-ph/0009490
+journal: \apj
+keywords: 'Stars: Evolution, Stars: Supernovae: General, Stars: White Dwarfs'
+month: February
+pages: 988--994
+papis_id: 66b959582e2c86b0d0521d6191c9faf9
+ref: mazzali.p.2001
+title: Can Differences in the Nickel Abundance in Chandrasekhar-Mass Models Explain
+  the Relation between the Brightness and Decline Rate of Normal Type IA Supernovae?
+type: article
+volume: '547'
+year: '2001'

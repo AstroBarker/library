@@ -1,0 +1,50 @@
+abstract: We calculate the chemical evolution of protoplanetary disks considering
+  radial viscous accretion, vertical turbulent mixing, and vertical disk winds. We
+  study the effects on the disk chemical structure when different models for the formation
+  of molecular hydrogen on dust grains are adopted. Our gas-phase chemistry is extracted
+  from the UMIST Database for Astrochemistry (Rate06) to which we have added detailed
+  gas-grain interactions. We use our chemical model results to generate synthetic
+  near- and mid-infrared local thermodynamic equilibrium line emission spectra and
+  compare these with recent Spitzer observations. Our results show that if H2 formation
+  on warm grains is taken into consideration, the H2O and OH abundances in the disk
+  surface increase significantly. We find that the radial accretion flow strongly
+  influences the molecular abundances, with those in the cold midplane layers particularly
+  affected. On the other hand, we show that diffusive turbulent mixing affects the
+  disk chemistry in the warm molecular layers, influencing the line emission from
+  the disk and subsequently improving agreement with observations. We find that NH3,
+  CH3OH, C2H2, and sulfur-containing species are greatly enhanced by the inclusion
+  of turbulent mixing. We demonstrate that disk winds potentially affect the disk
+  chemistry and the resulting molecular line emission in a manner similar to that
+  found when mixing is included.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...731..115H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.3972
+author: Heinzeller, D. and Nomura, H. and Walsh, C. and Millar, T. J.
+author_list:
+- family: Heinzeller
+  given: D.
+- family: Nomura
+  given: H.
+- family: Walsh
+  given: C.
+- family: Millar
+  given: T. J.
+date-added: 2017-08-10 14:55:20 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/731/2/115
+eid: '115'
+eprint: '1102.3972'
+journal: \apj
+keywords: 'accretion, accretion disks, astrochemistry, infrared: planetary systems,
+  planetary systems, protoplanetary disks, turbulence'
+month: April
+pages: '115'
+papis_id: 457f0006e6acd82b42e68bb8fbff4fdb
+primaryclass: astro-ph.EP
+ref: heinzeller.d.2011
+title: Chemical Evolution of Protoplanetary Disks\mdashThe Effects of Viscous Accretion,
+  Turbulent Mixing, and Disk Winds
+type: article
+volume: '731'
+year: '2011'

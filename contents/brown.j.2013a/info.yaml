@@ -1,0 +1,45 @@
+abstract: We explore the sensitivity of nucleosynthesis in massive stars to the truncation
+  of supernova explosions above a certain mass. It is assumed that stars of all masses
+  contribute to nucleosynthesis by their pre-explosive winds, but above a certain
+  limiting main sequence mass, M BH, the presupernova star becomes a black hole and
+  ejects nothing more. The solar abundances from oxygen to atomic mass 90 are fit
+  quite well assuming no cutoff at all, i.e., by assuming all stars up to 120 M \&sun;
+  make successful supernovae. Little degradation in the fit occurs if M BH is reduced
+  to 25 M \&sun;. If this limit is reduced further however, the nucleosynthesis of
+  the s-process declines precipitously and the production of species made in the winds,
+  e.g., carbon, becomes unacceptably large compared with elements made in the explosion,
+  e.g., silicon and oxygen. By varying uncertain physics, especially the mass loss
+  rate for massive stars and the rate for the 22Ne(alpha, n)25Mg reaction rate, acceptable
+  nucleosynthesis might still be achieved with a cutoff as low as 18 M \&sun;. This
+  would require, however, a supernova frequency three times greater than the fiducial
+  value obtained when all stars explode in order to produce the required 16O. The
+  effects of varying M BH on the nucleosynthesis of 60Fe and 26Al, the production
+  of helium as measured by DeltaY/DeltaZ, and the average masses of compact remnants
+  are also examined.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769...99B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.6973
+author: Brown, J. M. and Woosley, S. E.
+author_list:
+- family: Brown
+  given: J. M.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:02:26 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/769/2/99
+eid: '99'
+eprint: '1302.6973'
+journal: \apj
+keywords: 'galaxies: abundances, hydrodynamics, nuclear reactions, nucleosynthesis,
+  abundances, stars: abundances, supernovae: general'
+month: June
+pages: '99'
+papis_id: f95cee974fda6e9255a610e5a33d5ae9
+primaryclass: astro-ph.SR
+ref: brown.j.2013a
+title: Nucleosynthetic Constraints on the Mass of the Heaviest Supernovae
+type: article
+volume: '769'
+year: '2013'

@@ -1,0 +1,62 @@
+abstract: The dynamics of gamma-ray burst (GRB) jets during the afterglow phase is
+  most reliably and accurately modeled using hydrodynamic simulations. All published
+  simulations so far, however, have considered only a uniform external medium, while
+  a stratified external medium is expected around long duration GRB progenitors. Here,
+  we present simulations of the dynamics of GRB jets and the resulting afterglow emission
+  for both uniform and stratified external media with rhoextvpropr -k  for k = 0,
+  1, 2. The simulations are performed in two dimensions using the special relativistic
+  version of the Mezcal code. Common to all calculations is the initiation of the
+  GRB jet as a conical wedge of half-opening angle theta0 = 0.2 whose radial profile
+  is taken from the self-similar Blandford-McKee solution. The dynamics for stratified
+  external media (k = 1, 2) are broadly similar to those derived for expansion into
+  a uniform external medium (k = 0). The jet half-opening angle is observed to start
+  increasing logarithmically with time (or radius) once the Lorentz factor Gamma drops
+  below theta-1 0. For larger k values, however, the lateral expansion is faster at
+  early times (when Gamma > theta-1 0) and slower at late times with the jet expansion
+  becoming Newtonian and slowly approaching spherical symmetry over progressively
+  longer timescales. We find that, contrary to analytic expectations, there is a reasonably
+  sharp jet break in the light curve for k = 2 (a wind-like external medium), although
+  the shape of the break is affected more by the viewing angle (for thetaobs <= theta0)
+  than by the slope of the external density profile (for 0 <= k <= 2). Steeper density
+  profiles (i.e., increasing k values) are found to produce more gradual jet breaks
+  while larger viewing angles cause smoother and later appearing jet breaks. The counterjet
+  becomes visible as it becomes sub-relativistic, and for k = 0 this results in a
+  clear bump-like feature in the light curve. However, for larger k values the jet
+  decelerates more gradually, causing only a mild flattening in the radio light curve
+  that might be hard to discern when k = 2. Late-time radio calorimetry, which makes
+  use of a spherical flow approximation near the non-relativistic transition, is likely
+  to consistently overestimate the true energy by up to a factor of a few for k =
+  2, but likely to either overpredict or underpredict it by a smaller factor for k
+  = 0, 1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...751...57D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.6667
+author: De Colle, F. and Ramirez-Ruiz, E. and Granot, J. and Lopez-Camara, D.
+author_list:
+- family: De Colle
+  given: F.
+- family: Ramirez-Ruiz
+  given: E.
+- family: Granot
+  given: J.
+- family: Lopez-Camara
+  given: D.
+date-added: 2017-08-11 01:58:35 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/751/1/57
+eid: '57'
+eprint: '1111.6667'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, methods: numerical, radiation
+  mechanisms: non-thermal, relativistic processes, shock waves'
+month: May
+pages: '57'
+papis_id: 4bc9f54ad8ee59347c9cad2ff34e7e7e
+primaryclass: astro-ph.HE
+ref: de_colle.f.2012a
+title: 'Simulations of Gamma-Ray Burst Jets in a Stratified External Medium: Dynamics,
+  Afterglow Light Curves, Jet Breaks, and Radio Calorimetry'
+type: article
+volume: '751'
+year: '2012'

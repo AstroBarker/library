@@ -1,0 +1,63 @@
+abstract: We have detected 300 X-ray sources within the half-mass radius (2.79 arcmin)
+  of the globular cluster 47 Tucanae in a deep (281 ks) Chandra exposure. We perform
+  photometry and simple spectral fitting for our detected sources and construct luminosity
+  functions, X-ray color-magnitude, and color-color diagrams. Eighty-seven X-ray sources
+  show variability on timescales from hours to years. Thirty-one of the new X-ray
+  sources are identified with chromospherically active binaries from the catalogs
+  of Albrow and coworkers. The radial distributions of detected sources imply that
+  roughly 70 are background sources of some kind. The radial distribution of the known
+  millisecond pulsar (MSP) systems is consistent with that expected from mass segregation,
+  if the average neutron star mass is 1.39+/-0.19 Msolar. Most source spectra are
+  well fitted by thermal plasma models, except for quiescent low-mass X-ray binaries
+  (qLMXBs; containing accreting neutron stars) and MSPs. We identify three new candidate
+  qLMXBs with relatively low X-ray luminosities. One of the brightest cataclysmic
+  variables (CVs; X10) shows evidence (a 4.7 hr period pulsation and strong soft X-ray
+  emission) for a magnetically dominated accretion flow as in AM Her systems. Most
+  of the bright CVs require intrinsic NH columns of order 1021 cm-2, suggesting a
+  possible DQ Her nature. A group of X-ray sources associated with bright (sub)giant
+  stars also requires intrinsic absorption. By comparing the X-ray colors, luminosities,
+  variability, and quality of spectral fits of the detected MSPs to those of unidentified
+  sources, we estimate that a total of ~25 MSPs exist in 47 Tuc (<60 at 95\% confidence),
+  regardless of their radio beaming fraction. We estimate that the total number of
+  neutron stars in 47 Tuc is of order 300, reducing the discrepancy between theoretical
+  neutron star retention rates and observed neutron star populations in globular clusters.
+  Comprehensive tables of source properties and simple spectral fits are provided
+  electronically.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...625..796H
+arxivurl: http://arxiv.org/abs/astro-ph/0503132
+author: Heinke, C. O. and Grindlay, J. E. and Edmonds, P. D. and Cohn, H. N. and Lugger,
+  P. M. and Camilo, F. and Bogdanov, S. and Freire, P. C.
+author_list:
+- family: Heinke
+  given: C. O.
+- family: Grindlay
+  given: J. E.
+- family: Edmonds
+  given: P. D.
+- family: Cohn
+  given: H. N.
+- family: Lugger
+  given: P. M.
+- family: Camilo
+  given: F.
+- family: Bogdanov
+  given: S.
+- family: Freire
+  given: P. C.
+date-added: 2017-08-11 05:07:03 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/429899
+eprint: astro-ph/0503132
+journal: \apj
+keywords: 'Galaxy: Globular Clusters: Individual: NGC Number: NGC 104, Stars: Novae,
+  Cataclysmic Variables, Stars: Pulsars: General, Stars: Neutron, X-Rays: Binaries'
+month: June
+pages: 796--824
+papis_id: 4f77fe591b09cb3d345c9cbc18f46859
+ref: heinke.c.2005
+title: 'A Deep Chandra Survey of the Globular Cluster 47 Tucanae: Catalog of Point
+  Sources'
+type: article
+volume: '625'
+year: '2005'

@@ -1,0 +1,48 @@
+abstract: 'A newly discovered instability in rotating neutron stars, driven by gravitational
+  radiation reaction acting on the stars'' r-modes, is shown here to set an upper
+  limit on the spin rate of young neutron stars. We calculate the timescales for the
+  growth of linear perturbations due to gravitational radiation reaction, and for
+  dissipation by shear and bulk viscosity, working to second order in a slow-rotation
+  expansion within a Newtonian polytropic stellar model. The results are very temperature-sensitive:
+  in hot neutron stars (T>109 K), the lowest-order r-modes are unstable, while in
+  colder stars they are damped by viscosity. These calculations have a number of interesting
+  astrophysical implications. First, the r-mode instability will spin down a newly
+  born neutron star to a period close to the initial period inferred for the Crab
+  pulsar, probably between 10 and 20 ms. Second, as an initially rapidly rotating
+  star spins down, an energy equivalent to roughly 1\% of a solar mass is radiated
+  as gravitational waves, which makes the process an interesting source for detectable
+  gravitational waves. Third, the r-mode instability rules out the scenario in which
+  millisecond pulsars are formed by accretion-induced collapse of a white dwarf; the
+  new star would be hot enough to spin down to much slower rates. Stars with periods
+  less than perhaps 10 ms must have been formed by spin-up through accretion in binary
+  systems, where they remain colder than the Eddington temperature of about 108 K.
+  More accurate calculations will be required to define the limiting spin period more
+  reliably, and we discuss the importance of the major uncertainties in the stellar
+  models, in the initial conditions after collapse, and in the physics of cooling,
+  superfluidity, and the equation of state.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...510..846A
+arxivurl: http://arxiv.org/abs/astro-ph/9805225
+author: Andersson, N. and Kokkotas, K. and Schutz, B. F.
+author_list:
+- family: Andersson
+  given: N.
+- family: Kokkotas
+  given: K.
+- family: Schutz
+  given: B. F.
+date-added: 2017-08-11 03:16:59 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306625
+eprint: astro-ph/9805225
+journal: \apj
+keywords: 'GRAVITATION, STARS: NEUTRON, STARS: OSCILLATIONS, STARS: ROTATION, Gravitation,
+  Stars: Neutron, Stars: Oscillations, Stars: Rotation'
+month: January
+pages: 846--853
+papis_id: 905c0dc6b0c55e2f4b2b63ac56cff831
+ref: andersson.n.1999
+title: Gravitational Radiation Limit on the Spin of Young Neutron Stars
+type: article
+volume: '510'
+year: '1999'

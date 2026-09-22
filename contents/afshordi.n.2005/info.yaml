@@ -1,0 +1,48 @@
+abstract: Despite observational evidence for cold neutral astrophysical accretion
+  disks, the viscous process that may drive the accretion in such systems is not yet
+  understood. While molecular viscosity is too small to explain the observed accretion
+  efficiencies by more than 10 orders of magnitude, the absence of any linear instability
+  in Keplerian accretion flows is often used to rule out the possibility of turbulent
+  viscosity. Recently, the fact that some fine-tuned disturbances of any inviscid
+  shear flow can reach arbitrarily large transient growth has been proposed as an
+  alternative route to turbulence in these systems. We present an analytic study of
+  this process for three-dimensional plane wave disturbances of a general rotating
+  shear flow in Lagrangian coordinates and demonstrate that large transient growth
+  is a generic feature of nonaxisymmetric disturbances with near radial leading wavevectors.
+  The maximum energy growth is slower than quadratic but faster than linear in time.
+  The fastest growth occurs for two-dimensional perturbations and is only limited
+  by viscosity, and ultimately by the disk vertical thickness. After including viscosity
+  and vertical structure, we find that, as a function of the Reynolds number R, the
+  maximum energy growth is approximately 0.4(R/log R)2/3 and put forth a heuristic
+  argument for why R>~104 is required to sustain turbulence in Keplerian disks. Therefore,
+  assuming that there exists a nonlinear feedback process to replenish the seeds for
+  transient growth, astrophysical accretion disks must be well within the turbulent
+  regime. However, large three-dimensional numerical simulations running for many
+  orbital times, and/or with fine-tuned initial conditions, are required to confirm
+  Keplerian hydrodynamic turbulence on the computer.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629..373A
+arxivurl: http://arxiv.org/abs/astro-ph/0412194
+author: Afshordi, N. and Mukhopadhyay, B. and Narayan, R.
+author_list:
+- family: Afshordi
+  given: N.
+- family: Mukhopadhyay
+  given: B.
+- family: Narayan
+  given: R.
+date-added: 2017-08-11 04:19:55 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431418
+eprint: astro-ph/0412194
+journal: \apj
+keywords: Accretion, Accretion Disks, Hydrodynamics, Instabilities, Turbulence
+month: August
+pages: 373--382
+papis_id: 218f8e1b36d61b6625bcf2e9f18718e9
+ref: afshordi.n.2005
+title: 'Bypass to Turbulence in Hydrodynamic Accretion: Lagrangian Analysis of Energy
+  Growth'
+type: article
+volume: '629'
+year: '2005'

@@ -1,0 +1,67 @@
+abstract: 'Aims: Massive stars in low-metallicity environments may produce exotic
+  explosions such as long-duration gamma-ray bursts and pair-instability supernovae
+  when they die as core-collapse supernovae (CCSNe). Such events are predicted to
+  be relatively common in the early Universe during the first episodes of star-formation.
+  To understand these distant explosions it is vital to study nearby CCSNe arising
+  in low-metallicity environments to determine if the explosions have different characteristics
+  to those studied locally in high-metallicity galaxies. Many of the nearby supernova
+  searches concentrate their efforts on high star-formation rate galaxies, hence biasing
+  the discoveries to metal rich regimes. Here we determine the feasibility of searching
+  for these CCSNe in metal-poor dwarf galaxies using various survey strategies. Methods:
+  We determine oxygen abundances and star-formation rates for all spectroscopically
+  typed star-forming galaxies in the Sloan Digital Sky Survey, Data Release 5, within
+  z = 0.04. We then estimate the CCSN rates for sub-samples of galaxies with differing
+  upper-metallicity limits. Using Monte-Carlo simulations we then predict the fraction
+  of these CCSNe that we can expect to detect using different survey strategies. We
+  test survey capabilities using a single 2 m telescope, a network of 2 m telescopes,
+  and the upcoming all-sky surveys of the Pan-STARRS and LSST systems.  Results: Using
+  a single 2 m telescope (with a standard CCD camera) search we predict a detection
+  rate of ~1.3 CCSNe yr-1 in galaxies with metallicities below 12 + log(O/H) < 8.2
+  which are within a volume that will allow detailed follow-up with 4 m and 8 m telescopes
+  (z = 0.04). With a network of seven 2 m telescopes we estimate ~9.3 CCSNe yr-1 could
+  be found, although this would require more than 1000 h of telescope time allocated
+  to the network. Within the same radial distance, a volume-limited search in the
+  future Pan-STARRS PS1 all-sky survey should uncover 12.5 CCSNe yr-1 in low-metallicity
+  galaxies. Over a period of a few years this would allow a detailed comparison of
+  their properties. We then extend our calculations to determine the total numbers
+  of CCSNe that can potentially be found in magnitude-limited surveys with PS1 (24
+  000 yr-1, within z \lessapprox{} 0.6), PS4 (69 000 yr-1, within z \lessapprox{}
+  0.8) and LSST (160 000 yr-1, within z \lessapprox{} 0.9) surveys.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...489..359Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.3070
+author: Young, D. R. and Smartt, S. J. and Mattila, S. and Tanvir, N. R. and Bersier,
+  D. and Chambers, K. C. and Kaiser, N. and Tonry, J. L.
+author_list:
+- family: Young
+  given: D. R.
+- family: Smartt
+  given: S. J.
+- family: Mattila
+  given: S.
+- family: Tanvir
+  given: N. R.
+- family: Bersier
+  given: D.
+- family: Chambers
+  given: K. C.
+- family: Kaiser
+  given: N.
+- family: Tonry
+  given: J. L.
+date-added: 2017-08-11 00:04:12 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:20078662
+eprint: '0807.3070'
+journal: \aap
+keywords: 'surveys, stars: supernovae: general, gamma-rays: bursts'
+month: October
+pages: 359--375
+papis_id: 790685e307feafefd9609a981173824d
+ref: young.d.2008
+title: Core-collapse supernovae in low-metallicity environments and future all-sky
+  transient surveys
+type: article
+volume: '489'
+year: '2008'

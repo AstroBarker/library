@@ -1,0 +1,48 @@
+abstract: Models of gravitational waveforms play a critical role in detecting and
+  characterizing the gravitational waves (GWs) from compact binary coalescences. Waveforms
+  from numerical relativity (NR), while highly accurate, are too computationally expensive
+  to produce to be directly used with Bayesian parameter estimation tools like Markov-chain-Monte-Carlo
+  and nested sampling. We propose a Gaussian process regression (GPR) method to generate
+  reduced-order-model waveforms based only on existing accurate (e.g. NR) simulations.
+  Using a training set of simulated waveforms, our GPR approach produces interpolated
+  waveforms along with uncertainties across the parameter space. As a proof of concept,
+  we use a training set of IMRPhenomD waveforms to build a GPR model in the 2-d parameter
+  space of mass ratio q and equal-and-aligned spin chi1=chi2. Using a regular, equally-spaced
+  grid of 120 IMRPhenomD training waveforms in q \in{}[1 ,3 ] and chi1\in{}[-0.5 ,0.5
+  ], the GPR mean approximates IMRPhenomD in this space to mismatches below 4.3 \texttimes{}10-5.
+  Our approach could in principle use training waveforms directly from numerical relativity.
+  Beyond interpolation of waveforms, we also present a greedy algorithm that utilizes
+  the errors provided by our GPR model to optimize the placement of future simulations.
+  In a fiducial test case we find that using the greedy algorithm to iteratively add
+  simulations achieves GPR errors that are \texttildelow{}1 order of magnitude lower
+  than the errors from using Latin-hypercube or square training grids.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017PhRvD..96l3011D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1706.05408
+author: Doctor, Z. and Farr, B. and Holz, D. E. and Pürrer, M.
+author_list:
+- family: Doctor
+  given: Z.
+- family: Farr
+  given: B.
+- family: Holz
+  given: D. E.
+- family: Pürrer
+  given: M.
+date-added: 2018-07-20 17:32:01 +0000
+date-modified: 2018-07-20 17:32:03 +0000
+doi: 10.1103/PhysRevD.96.123011
+eid: '123011'
+eprint: '1706.05408'
+journal: \prd
+month: December
+number: '12'
+pages: '123011'
+papis_id: 8a90516ef4112d5851a07269c0470542
+primaryclass: astro-ph.HE
+ref: doctor.z.2017
+title: 'Statistical gravitational waveform models: What to simulate next?'
+type: article
+volume: '96'
+year: '2017'

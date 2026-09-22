@@ -1,0 +1,48 @@
+abstract: 'In an effort to examine the relationship between flare flux and corresponding
+  CME mass, we temporally and spatially correlate all X-ray flares and CMEs in the
+  LASCO and GOES archives from 1996 to 2006. We cross-reference 6733 CMEs having well-measured
+  masses against 12 050 X-ray flares having position information as determined from
+  their optical counterparts. For a given flare, we search in time for CMEs which
+  occur 10 - 80 minutes afterward, and we further require the flare and CME to occur
+  within $\pm$ 45\$\,^{\circ}\$ in position angle on the solar disk. There are 826
+  CME/flare pairs which fit these criteria. Comparing the flare fluxes with CME masses
+  of these paired events, we find CME mass increases with flare flux, following an
+  approximately log-linear, broken relationship: in the limit of lower flare fluxes,
+  log (CME mass)\propto{}0.68\texttimes{}log (flare flux), and in the limit of higher
+  flare fluxes, log (CME mass)\propto{}0.33\texttimes{}log (flare flux). We show that
+  this broken power-law, and in particular the flatter slope at higher flare fluxes,
+  may be due to an observational bias against CMEs associated with the most energetic
+  flares: halo CMEs. Correcting for this bias yields a single power-law relationship
+  of the form log (CME mass)\propto{}0.70\texttimes{}log (flare flux). This function
+  describes the relationship between CME mass and flare flux over at least 3 dex in
+  flare flux, from \approx{} 10-7 - 10-4 W m-2.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011SoPh..268..195A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.0424
+author: Aarnio, A. N. and Stassun, K. G. and Hughes, W. J. and McGregor, S. L.
+author_list:
+- family: Aarnio
+  given: A. N.
+- family: Stassun
+  given: K. G.
+- family: Hughes
+  given: W. J.
+- family: McGregor
+  given: S. L.
+date-added: 2017-08-10 22:44:59 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1007/s11207-010-9672-7
+eprint: '1011.0424'
+journal: \solphys
+keywords: Coronal mass ejections, Flares
+month: January
+pages: 195--212
+papis_id: 2aa8b54451c14f7dcd7cea7f2f35612f
+primaryclass: astro-ph.SR
+ref: aarnio.a.2011
+title: 'Solar Flares and Coronal Mass Ejections: A Statistically Determined Flare
+  Flux - CME Mass Correlation'
+type: article
+volume: '268'
+year: '2011'

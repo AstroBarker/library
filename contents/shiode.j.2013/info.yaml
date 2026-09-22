@@ -1,0 +1,46 @@
+abstract: We predict the flux and surface velocity perturbations produced by convectively
+  excited gravity modes (g-modes) in main-sequence stars. Core convection in massive
+  stars can excite g-modes to sufficient amplitudes to be detectable with high-precision
+  photometry by Kepler and Convection, Rotation and planetary Transits (CoRoT), if
+  the thickness of the convective overshoot region is \lessequivlnt{}30 per cent of
+  a pressure scale height. The g-modes manifest as excess photometric variability,
+  with amplitudes of \texttildelow{}10 mumag at frequencies \lessequivlnt{} 10 muHz
+  (0.8 d-1) near the solar metallicity zero-age main sequence. The flux variations
+  are largest for stars with M \greaterequivlnt{} 5 M\&sun;, but are potentially detectable
+  down to M \texttildelow{} 2-3 M\&sun;. During the main-sequence evolution, radiative
+  damping decreases such that ever lower frequency modes reach the stellar surface
+  and flux perturbations reach up to \texttildelow{}100 mumag at the terminal-age
+  main sequence. Using the same convective excitation model, we confirm previous predictions
+  that solar g-modes produce surface velocity perturbations of \lessequivlnt{}0.3
+  mm s-1. This implies that stochastically excited g-modes are more easily detectable
+  in the photometry of massive main-sequence stars than in the Sun.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430.1736S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.5525
+author: Shiode, J. H. and Quataert, E. and Cantiello, M. and Bildsten, L.
+author_list:
+- family: Shiode
+  given: J. H.
+- family: Quataert
+  given: E.
+- family: Cantiello
+  given: M.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 15:13:53 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/sts719
+eprint: '1210.5525'
+journal: \mnras
+keywords: 'convection, stars: interiors, stars: oscillations'
+month: April
+pages: 1736--1745
+papis_id: 23efc9d329de677dc33ff8ec2bbced6e
+primaryclass: astro-ph.SR
+ref: shiode.j.2013
+title: The observational signatures of convectively excited gravity modes in main-sequence
+  stars
+type: article
+volume: '430'
+year: '2013'

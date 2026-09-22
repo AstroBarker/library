@@ -1,0 +1,26 @@
+abstract: 'Substantial improvements in the performance of ''particle-particle-particle-mesh''
+  (P3M) algorithms may be achieved by allowing spatially adaptive mesh refinements
+  in regions of high particle density. The cycle time under heavy clustering is about
+  five times that for a uniform particle distribution: about 10-20 times faster than
+  conventional P3M. The algorithm is roughly 50 percent faster than a ''tree code''
+  while requiring significantly less memory.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...368L..23C
+author: Couchman, H. M. P.
+author_list:
+- family: Couchman
+  given: H. M. P.
+date-added: 2017-08-10 21:38:38 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/185939
+journal: \apjl
+keywords: Computational Astrophysics, Computational Grids, Galactic Clusters, Many
+  Body Problem, Particle Density (Concentration), Algorithms, Fourier Transformation
+month: February
+pages: L23-L26
+papis_id: 5e3c3c013fdb8c20e6276822e6f26312
+ref: couchman.h.1991
+title: Mesh-refined P3M - A fast adaptive N-body algorithm
+type: article
+volume: '368'
+year: '1991'

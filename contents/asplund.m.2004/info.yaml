@@ -1,0 +1,46 @@
+abstract: The solar photospheric oxygen abundance has been determined from [O I],
+  O I, OH vibration-rotation and OH pure rotation lines by means of a realistic time-dependent,
+  3D, hydrodynamical model of the solar atmosphere. In the case of the O I lines,
+  3D non-LTE calculations have been performed, revealing significant departures from
+  LTE as a result of photon losses in the lines. We derive a solar oxygen abundance
+  of log \ensuremath{\epsilon}O = 8.66 $\pm$ 0.05. All oxygen diagnostics yield highly
+  consistent abundances, in sharp contrast with the results of classical 1D model
+  atmospheres. This low value is in good agreement with measurements of the local
+  interstellar medium and nearby B stars. This low abundance is also supported by
+  the excellent correspondence between lines of very different line formation sensitivities,
+  and between the observed and predicted line shapes and center-to-limb variations.
+  Together with the corresponding down-ward revisions of the solar carbon, nitrogen
+  and neon abundances, the resulting significant decrease in solar metal mass fraction
+  to Z = 0.0126 can, however, potentially spoil the impressive agreement between predicted
+  and observed sound speed in the solar interior determined from helioseismology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...417..751A
+arxivurl: http://arxiv.org/abs/astro-ph/0312290
+author: Asplund, M. and Grevesse, N. and Sauval, A. J. and Allende Prieto, C. and
+  Kiselman, D.
+author_list:
+- family: Asplund
+  given: M.
+- family: Grevesse
+  given: N.
+- family: Sauval
+  given: A. J.
+- family: Allende Prieto
+  given: C.
+- family: Kiselman
+  given: D.
+date-added: 2017-08-11 05:24:42 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1051/0004-6361:20034328
+eprint: astro-ph/0312290
+journal: \aap
+keywords: 'convection, line: formation, Sun: abundances, Sun: granulation, Sun: photosphere'
+month: April
+pages: 751--768
+papis_id: 9abc6e0cc1fa839dfe3167476b7fc0b5
+ref: asplund.m.2004
+title: Line formation in solar granulation. IV. [O I], O I and OH lines and the photospheric
+  O abundance
+type: article
+volume: '417'
+year: '2004'

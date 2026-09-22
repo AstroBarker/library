@@ -1,0 +1,57 @@
+abstract: We describe a general analysis package for supernova (SN) light curves,
+  called SNANA, that contains a simulation, a light-curve fitter, and a cosmology
+  fitter. The software is designed with the primary goal of using SNe Ia as distance
+  indicators for the determination of cosmological parameters, but it can also be
+  used to study efficiencies for analyses of SN rates, estimate contamination from
+  non-Ia SNe, and optimize future surveys. Several SN models are available within
+  the same software architecture, allowing technical features such as K-corrections
+  to be consistently used among multiple models, and thus making it easier to make
+  detailed comparisons between models. New and improved light-curve models can be
+  easily added. The software works with arbitrary surveys and telescopes and has already
+  been used by several collaborations, leading to more robust and easy-to-use code.
+  This software is not intended as a final product release, but rather it is designed
+  to undergo continual improvements from the community as more is learned about SNe.
+  We give an overview of the SNANA capabilities, as well as some of its limitations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009PASP..121.1028K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.4280
+author: Kessler, R. and Bernstein, J. P. and Cinabro, D. and Dilday, B. and Frieman,
+  J. A. and Jha, S. and Kuhlmann, S. and Miknaitis, G. and Sako, M. and Taylor, M.
+  and Vanderplas, J.
+author_list:
+- family: Kessler
+  given: R.
+- family: Bernstein
+  given: J. P.
+- family: Cinabro
+  given: D.
+- family: Dilday
+  given: B.
+- family: Frieman
+  given: J. A.
+- family: Jha
+  given: S.
+- family: Kuhlmann
+  given: S.
+- family: Miknaitis
+  given: G.
+- family: Sako
+  given: M.
+- family: Taylor
+  given: M.
+- family: Vanderplas
+  given: J.
+date-added: 2017-08-10 17:36:54 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1086/605984
+eprint: '0908.4280'
+journal: \pasp
+month: September
+pages: '1028'
+papis_id: b3588d33bb19790ba38b6c12325385cc
+ref: kessler.r.2009a
+title: 'SNANA: A Public Software Package for Supernova Analysis'
+type: article
+volume: '121'
+year: '2009'

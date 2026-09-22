@@ -1,0 +1,43 @@
+abstract: We present results of more than three decades of timing measurements of
+  the first known binary pulsar, PSR B1913+16. Like most other pulsars, its rotational
+  behavior over such long timescales is significantly affected by small-scale irregularities
+  not explicitly accounted for in a deterministic model. Nevertheless, the physically
+  important astrometric, spin, and orbital parameters are well determined and well
+  decoupled from the timing noise. We have determined a significant result for proper
+  motion, mualpha = -1.43 $\pm$ 0.13, mudelta = -0.70 \$\pm\$ 0.13 mas yr-1. The pulsar
+  exhibited a small timing glitch in 2003 May, with Deltaf/f = 3.7 \texttimes{} 10-11,
+  and a smaller timing peculiarity in mid-1992. A relativistic solution for orbital
+  parameters yields improved mass estimates for the pulsar and its companion, m 1
+  = 1.4398 \$\pm\$ 0.0002 M sun and m 2 = 1.3886 \$\pm\$ 0.0002 M sun. The system's
+  orbital period has been decreasing at a rate 0.997 \$\pm\$ 0.002 times that predicted
+  as a result of gravitational radiation damping in general relativity. As we have
+  shown before, this result provides conclusive evidence for the existence of gravitational
+  radiation as predicted by Einstein's theory.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722.1030W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.0718
+author: Weisberg, J. M. and Nice, D. J. and Taylor, J. H.
+author_list:
+- family: Weisberg
+  given: J. M.
+- family: Nice
+  given: D. J.
+- family: Taylor
+  given: J. H.
+date-added: 2017-08-10 22:10:23 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/2/1030
+eprint: '1011.0718'
+journal: \apj
+keywords: 'binaries: close, gravitation, pulsars: individual: PSR B1913+16, stars:
+  kinematics and dynamics'
+month: October
+pages: 1030--1034
+papis_id: 63aaa2f89587fafd85c6019cb2b93f73
+primaryclass: astro-ph.GA
+ref: weisberg.j.2010
+title: Timing Measurements of the Relativistic Binary Pulsar PSR B1913+16
+type: article
+volume: '722'
+year: '2010'

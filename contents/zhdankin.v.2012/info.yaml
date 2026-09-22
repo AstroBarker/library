@@ -1,0 +1,45 @@
+abstract: 'The statistical properties of magnetic discontinuities in the solar wind
+  are investigated by measuring fluctuations in the magnetic field direction, given
+  by the rotation Deltatheta that the magnetic field vector undergoes during time
+  interval Deltat. We show that the probability density function, P(Deltatheta), can
+  be described by a simple model in which the magnetic field vector purely rotates
+  with a relative increment DeltaB/B that is lognormally distributed. We find that
+  the probability density function of increments, P(DeltaB/B), has a remarkable scaling
+  property: the normalized variable x = (DeltaB/B) \cdot{} (Deltat/Deltat 0)-alpha
+  has a universal lognormal distribution for all time intervals Deltat. We then compare
+  measurements from the solar wind with those from direct numerical simulations of
+  magnetohydrodynamic (MHD) turbulence. We find good agreement for P(Deltatheta) obtained
+  in the two cases when the magnetic guide field to fluctuations ratio B 0/b rms is
+  chosen accordingly. However, the scale invariance of P(DeltaB/B) is broken in the
+  MHD simulations with relatively limited inertial interval, which causes P(Deltatheta)
+  to scale with measurement interval differently than in the solar wind.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...760L..22Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.3613
+author: Zhdankin, V. and Boldyrev, S. and Mason, J.
+author_list:
+- family: Zhdankin
+  given: V.
+- family: Boldyrev
+  given: S.
+- family: Mason
+  given: J.
+date-added: 2017-08-10 22:31:44 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/2041-8205/760/2/L22
+eid: L22
+eprint: '1210.3613'
+journal: \apjl
+keywords: 'interplanetary medium, magnetohydrodynamics: MHD, plasmas, solar wind,
+  turbulence'
+month: December
+pages: L22
+papis_id: cad8c28a3eb823e1693d8dc9c949c436
+primaryclass: astro-ph.SR
+ref: zhdankin.v.2012
+title: Distribution of Magnetic Discontinuities in the Solar Wind and in Magnetohydrodynamic
+  Turbulence
+type: article
+volume: '760'
+year: '2012'

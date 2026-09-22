@@ -1,0 +1,47 @@
+abstract: 'The dynamics of molecular clouds is characterized by supersonic random
+  motions in the presence of a magnetic field. We study this situation using numerical
+  solutions of the three-dimensional compressible magnetohydrodynamic (MHD) equations
+  in a regime of highly supersonic random motions. The non-LTE radiative transfer
+  calculations are performed through the complex density and velocity fields obtained
+  as solutions of the MHD equations, and more than 5 \texttimes{} 105 spectra of 12CO,
+  13CO, and CS are obtained. In this way we build synthetic molecular clouds of 5
+  and 20 pc diameter, evolved for about one dynamical time from their initial configuration.
+  We use a numerical flow without gravity or external forcing. The flow is super-Alfv{\''e}nic.  Synthetic
+  data consist of sets of 90 \texttimes{} 90 synthetic spectra with 60 velocity channels,
+  in five molecular transitions: J = 1 --> 0 and J = 2 --> 1 for 12CO and 13CO, and
+  J = 1 --> 0 for CS. Although we do not consider the effects of stellar radiation,
+  gravity, or mechanical energy input from discrete sources, our models do contain
+  the basic physics of magnetofluid dynamics and non-LTE radiation transfer and are
+  therefore more realistic than previous calculations. As a result, these synthetic
+  maps and spectra bear a remarkable resemblance to the corresponding observations
+  of real clouds.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...504..300P
+arxivurl: http://arxiv.org/abs/astro-ph/9711051
+author: Padoan, P. and Juvela, M. and Bally, J. and Nordlund, Å.
+author_list:
+- family: Padoan
+  given: P.
+- family: Juvela
+  given: M.
+- family: Bally
+  given: J.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-11 03:21:25 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/306060
+eprint: astro-ph/9711051
+journal: \apj
+keywords: 'ISM: CLOUDS, MAGNETOHYDRODYNAMICS: MHD, RADIATIVE TRANSFER, SHOCK WAVES,
+  TURBULENCE, ISM: Clouds, Magnetohydrodynamics: MHD, Radiative Transfer, Shock Waves,
+  Turbulence'
+month: September
+pages: 300--313
+papis_id: 637e9a5ef0b8d332a3c82f6fa0cf365f
+ref: padoan.p.1998
+title: Synthetic Molecular Clouds from Supersonic Magnetohydrodynamic and Non-LTE
+  Radiative Transfer Calculations
+type: article
+volume: '504'
+year: '1998'

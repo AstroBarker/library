@@ -1,0 +1,46 @@
+abstract: Molecular clouds have broad line widths, which suggests turbulent supersonic
+  motions in the clouds. These motions are usually invoked to explain why molecular
+  clouds take much longer than a free-fall time to form stars. Classically, it was
+  thought that supersonic hydrodynamical turbulence would dissipate its energy quickly
+  but that the introduction of strong magnetic fields could maintain these motions.
+  A previous paper has shown, however, that isothermal, compressible MHD and hydrodynamical
+  turbulence decay at virtually the same rate, requiring that constant driving occur
+  to maintain the observed turbulence. In this paper, direct numerical computations
+  of uniform, randomly driven turbulence with the ZEUS astrophysical MHD code are
+  used to derive the value of the energy-dissipation coefficient, which is found to
+  be \Edotkin~=-etavmk\texttildelow{}v3rms , with etav=0.21/pi, where vrms is the
+  root-mean-square (rms) velocity in the region, Ekin is the total kinetic energy
+  in the region, m is the mass of the region, and k\texttildelow{} is the driving
+  wavenumber. The ratio tau of the formal decay time Ekin/\Edotkin of turbulence to
+  the free-fall time of the gas can then be shown to betau(kappa)=kappa/(Mrms)1/(4pietav)
+  , where Mrms is the rms Mach number, and kappa is the ratio of the driving wavelength
+  to the Jeans wavelength. It is likely that kappa<1 is required for turbulence to
+  support gas against gravitational collapse, so the decay time will probably always
+  be far less than the free-fall time in molecular clouds, again showing that turbulence
+  there must be constantly and strongly driven. Finally, the typical decay time constant
+  of the turbulence can be shown to bet0~=1.0 \Lscr/vrms , where \Lscr is the driving
+  wavelength.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...524..169M
+arxivurl: http://arxiv.org/abs/astro-ph/9809177
+author: Mac Low, M.-M.
+author_list:
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-10 23:23:03 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307784
+eprint: astro-ph/9809177
+journal: \apj
+keywords: 'ISM: CLOUDS, ISM: KINEMATICS AND DYNAMICS, ISM: MAGNETIC FIELDS, MAGNETOHYDRODYNAMICS:
+  MHD, TURBULENCE, ISM: Clouds, ISM: Kinematics and Dynamics, ISM: Magnetic Fields,
+  Magnetohydrodynamics: MHD, Turbulence'
+month: October
+pages: 169--178
+papis_id: 72e4a8ae04fee1aef5de729242df27b5
+ref: mac_low.m_m.1999
+title: The Energy Dissipation Rate of Supersonic, Magnetohydrodynamic Turbulence in
+  Molecular Clouds
+type: article
+volume: '524'
+year: '1999'

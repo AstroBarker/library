@@ -1,0 +1,36 @@
+abstract: X-ray burst emission during the shock breakout phase of a Type II supernova
+  is investigated for a 12-solar-mass red giant at the end of its nuclear evolution.
+  A supernova model based on a one-dimensional spherically symmetric hydrodynamic
+  code with fine zoning is employed, the detailed time-dependent evolution of the
+  supernova is calculated, and the time-dependent development of the emitted spectrum
+  is computed. By using the calculated structure of the model at any given time, a
+  formal solution of the non-LTE equation of radiative transfer is performed frequency
+  by frequency for the mean intensity. Spectra of the emergent radiation near luminosity
+  maximum and at a somewhat later time are plotted and compared with blackbody spectra
+  for temperatures corresponding to a Rosseland optical depth of 0.67. It is found
+  that a precursor burst of soft X radiation (0.2 to 0.5 keV) with a duration of 1000
+  sec, a peak luminosity corresponding to a blackbody at 230,000 K, and a distinctly
+  non-Planckian spectrum emerges from the photosphere within 75,000 sec of the explosion.
+  The potential observability of such a burst with an X-ray satellite is estimated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978ApJ...223L.109K
+author: Klein, R. I. and Chevalier, R. A.
+author_list:
+- family: Klein
+  given: R. I.
+- family: Chevalier
+  given: R. A.
+date-added: 2017-08-10 14:25:07 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/182740
+journal: \apjl
+keywords: Astronomical Models, Computerized Simulation, Supernovae, X Ray Sources,
+  Energy Spectra, Hydrodynamics, Shock Waves, Thermodynamic Equilibrium
+month: August
+pages: L109-L112
+papis_id: 29654e14bda4391fa3e02546cc07e35c
+ref: klein.r.1978
+title: X-ray bursts from Type II supernovae
+type: article
+volume: '223'
+year: '1978'

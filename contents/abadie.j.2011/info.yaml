@@ -1,0 +1,61 @@
+abstract: We present direct upper limits on continuous gravitational wave emission
+  from the Vela pulsar using data from the Virgo detector's second science run. These
+  upper limits have been obtained using three independent methods that assume the
+  gravitational wave emission follows the radio timing. Two of the methods produce
+  frequentist upper limits for an assumed known orientation of the star's spin axis
+  and value of the wave polarization angle of, respectively, 1.9 \texttimes{} 10-24
+  and 2.2 \texttimes{} 10-24, with 95\% confidence. The third method, under the same
+  hypothesis, produces a Bayesian upper limit of 2.1 \texttimes{} 10-24, with 95\%
+  degree of belief. These limits are below the indirect spin-down limit of 3.3 \texttimes{}
+  10-24 for the Vela pulsar, defined by the energy loss rate inferred from observed
+  decrease in Vela's spin frequency, and correspond to a limit on the star ellipticity
+  of ~10-3. Slightly less stringent results, but still well below the spin-down limit,
+  are obtained assuming the star's spin axis inclination and the wave polarization
+  angles are unknown.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737...93A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.2712
+author: Abadie, J. and Abbott, B. P. and Abbott, R. and Abernathy, M. and Accadia,
+  T. and Acernese, F. and Adams, C. and Adhikari, R. and Affeldt, C. and Allen, B.
+  and al., et
+author_list:
+- family: Abadie
+  given: J.
+- family: Abbott
+  given: B. P.
+- family: Abbott
+  given: R.
+- family: Abernathy
+  given: M.
+- family: Accadia
+  given: T.
+- family: Acernese
+  given: F.
+- family: Adams
+  given: C.
+- family: Adhikari
+  given: R.
+- family: Affeldt
+  given: C.
+- family: Allen
+  given: B.
+- family: al.
+  given: et
+date-added: 2017-08-10 22:18:47 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/2/93
+eid: '93'
+eprint: '1104.2712'
+journal: \apj
+keywords: 'gravitational waves, pulsars: individual: PSR J0835{\ndash}4510, stars:
+  neutron'
+month: August
+pages: '93'
+papis_id: be5b77608099103a154f853327ffde11
+primaryclass: astro-ph.HE
+ref: abadie.j.2011
+title: Beating the Spin-down Limit on Gravitational Wave Emission from the Vela Pulsar
+type: article
+volume: '737'
+year: '2011'

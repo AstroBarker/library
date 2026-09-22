@@ -1,0 +1,39 @@
+abstract: Consideration of the role of the convective flux in the thermodymics of
+  the convective Urca neutrino loss process in degenerate, convective, quasi-static,
+  carbon-burning cores shows that the convective Urca process slows down the convective
+  current around the Urca-shell but, unlike the ``thermal'' Urca process, does not
+  reduce the entropy or temperature for a given convective volume. Here we demonstrate
+  these effects with two-dimensional numerical hydrodynamical calculations. These
+  two-dimensional implicit hydrodynamics calculations invoke an artificial speeding
+  up of the nuclear and weak rates. They should thus be regarded as indicative but
+  still qualitative. We find that, compared to a case with no Urca-active nuclei,
+  the case with Urca effects leads to a higher entropy in the convective core because
+  the energy released by nuclear burning is confined to a smaller volume by the effective
+  boundary at the Urca shell. All else being equal, this will tend to accelerate the
+  progression to dynamical runaway. We discuss the open issues regarding the impact
+  of the convective Urca process on the evolution to the ``smoldering phase'' and
+  then to dynamical runaway.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643.1190S
+arxivurl: http://arxiv.org/abs/astro-ph/0512580
+author: Stein, J. and Wheeler, J. C.
+author_list:
+- family: Stein
+  given: J.
+- family: Wheeler
+  given: J. C.
+date-added: 2017-08-11 05:09:15 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/503246
+eprint: astro-ph/0512580
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Interiors, Stars: Supernovae: General'
+month: June
+pages: 1190--1197
+papis_id: b4cdf117db68e45be8423150118f0fe0
+ref: stein.j.2006
+title: The Convective Urca Process with Implicit Two-dimensional Hydrodynamics
+type: article
+volume: '643'
+year: '2006'

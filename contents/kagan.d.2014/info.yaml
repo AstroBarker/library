@@ -1,0 +1,48 @@
+abstract: 'We calculate growth rates for nonaxisymmetric instabilities including the
+  magnetorotational instability (MRI) throughout the Sun. We first derive a dispersion
+  relation for nonaxisymmetric instability including the effects of shear, convective
+  buoyancy, and three diffusivities (thermal conductivity, resistivity, and viscosity).
+  We then use a solar model evolved with the stellar evolution code MESA and angular
+  velocity profiles determined by Global Oscillations Network Group helioseismology
+  to determine the unstable modes present at each location in the Sun and the associated
+  growth rates. The overall instability has unstable modes throughout the convection
+  zone and also slightly below it at middle and high latitudes. It contains three
+  classes of modes: large-scale hydrodynamic convective modes, large-scale hydrodynamic
+  shear modes, and small-scale magnetohydrodynamic shear modes, which may be properly
+  called MRI modes. While large-scale convective modes are the most rapidly growing
+  modes in most of the convective zone, MRI modes are important in both stably stratified
+  and convectively unstable locations near the tachocline at colatitudes theta < 53$\,^{\circ}$.
+  Nonaxisymmetric MRI modes grow faster than the corresponding axisymmetric modes;
+  for some poloidal magnetic fields, the nonaxisymmetric MRI growth rates are similar
+  to the angular rotation frequency Omega, while axisymmetric modes are stabilized.
+  We briefly discuss the saturation of the field produced by MRI modes, finding that
+  the implied field at the base of the convective zone in the Sun is comparable to
+  that derived based on dynamos active in the tachocline and that the saturation of
+  field resulting from the MRI may be of importance even in the upper convection zone.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...787...21K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1407.4654
+author: Kagan, D. and Wheeler, J. C.
+author_list:
+- family: Kagan
+  given: D.
+- family: Wheeler
+  given: J. C.
+date-added: 2017-08-10 17:57:19 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/787/1/21
+eid: '21'
+eprint: '1407.4654'
+journal: \apj
+keywords: 'instabilities, magnetohydrodynamics: MHD, stars: magnetic field, stars:
+  rotation, Sun: rotation'
+month: May
+pages: '21'
+papis_id: 608b34fe40655f08850eea50ddc42d92
+primaryclass: astro-ph.SR
+ref: kagan.d.2014
+title: The Role of the Magnetorotational Instability in the Sun
+type: article
+volume: '787'
+year: '2014'

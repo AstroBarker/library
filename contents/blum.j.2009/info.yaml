@@ -1,0 +1,52 @@
+abstract: GRS 1915+105 harbors one of the most massive known stellar black holes in
+  the Galaxy. In 2007 May, we observed GRS 1915+105 for ~117 ks in the low/hard state
+  using Suzaku. We collected and analyzed the data with the Hard X-ray Detector/Positive
+  Intrinsic Negative and X-ray Spectrometer cameras spanning the energy range from
+  2.3 to 55 keV. Fits to the spectra with simple models reveal strong disk reflection
+  through an Fe K emission line and a Compton backscattering hump. We report constraints
+  on the spin parameter of the black hole in GRS 1915 + 105 using relativistic disk
+  reflection models. The model for the soft X-ray spectrum (i.e., < 10 keV) suggests
+  \hat{a} = 0.56^{+0.02}\_{-0.02} and excludes zero spin at the 4sigma level of confidence.
+  The model for the full broadband spectrum suggests that the spin may be higher,
+  \hat{a} = 0.98^{+0.01}\_{-0.01} (1sigma confidence), and again excludes zero spin
+  at the 2sigma level of confidence. We discuss these results in the context of other
+  spin constraints and inner disk studies in GRS 1915 + 105.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...706...60B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.5383
+author: Blum, J. L. and Miller, J. M. and Fabian, A. C. and Miller, M. C. and Homan,
+  J. and van der Klis, M. and Cackett, E. M. and Reis, R. C.
+author_list:
+- family: Blum
+  given: J. L.
+- family: Miller
+  given: J. M.
+- family: Fabian
+  given: A. C.
+- family: Miller
+  given: M. C.
+- family: Homan
+  given: J.
+- family: van der Klis
+  given: M.
+- family: Cackett
+  given: E. M.
+- family: Reis
+  given: R. C.
+date-added: 2017-08-11 03:18:22 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/706/1/60
+eprint: '0909.5383'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, stars: individual: GRS
+  1915+105, X-rays: binaries'
+month: November
+pages: 60--66
+papis_id: 9b9543d55eb72a10c42f592f3248b3b9
+primaryclass: astro-ph.HE
+ref: blum.j.2009
+title: Measuring the Spin of GRS 1915+105 with Relativistic Disk Reflection
+type: article
+volume: '706'
+year: '2009'

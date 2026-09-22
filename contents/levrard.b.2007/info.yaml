@@ -1,0 +1,53 @@
+abstract: 'Context: Eccentricity or obliquity tides have been proposed as the missing
+  energy source that may explain the anomalously large radius of some transiting "hot
+  Jupiters". To maintain a non-zero and large obliquity, it was argued that the planets
+  can be locked in a Cassini state, i.e. a resonance between spin and orbital precessions.  Aims:
+  We compute the tidal heating within "inflated" close-in giant planets with a non-zero
+  eccentricity or obliquity. We further inspect whether the spin of a "hot Jupiter"
+  could have been trapped and maintained in a Cassini state during its early despinning
+  and migration. Methods: We estimate the capture probability in a spin-orbit resonance
+  between ~0.5 AU (a distance where tidal effects become significant) and 0.05 AU
+  for a wide range of secular orbital frequencies and amplitudes of gravitational
+  perturbations. Numerical simulations of the spin evolution are performed to explore
+  the influence of tidal despinning and migration processes on the resonance stability.  Results:
+  We find that tidal heating within a non-synchronous giant planet is about twice
+  larger than previous estimates based on the hypothesis of synchronization. Chances
+  of capture in a spin-orbit resonance are very good around 0.5 AU but they decrease
+  dramatically with the semi-major axis. Furthermore, even if captured, both tidal
+  despinning and migration processes cause the tidal torque to become large enough
+  that the obliquity ultimately leaves the resonance and switches to near 0$\,^{\circ}$.  Conclusions:
+  .Locking a "hot Jupiter" in an isolated spin-orbit resonance is unlikely at 0.05
+  AU but could be possible at larger distances. Another mechanism is then required
+  to maintain a large obliquity and create internal heating through obliquity tides.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...462L...5L
+arxivurl: http://arxiv.org/abs/astro-ph/0612044
+author: Levrard, B. and Correia, A. C. M. and Chabrier, G. and Baraffe, I. and Selsis,
+  F. and Laskar, J.
+author_list:
+- family: Levrard
+  given: B.
+- family: Correia
+  given: A. C. M.
+- family: Chabrier
+  given: G.
+- family: Baraffe
+  given: I.
+- family: Selsis
+  given: F.
+- family: Laskar
+  given: J.
+date-added: 2017-08-10 16:10:33 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20066487
+eprint: astro-ph/0612044
+journal: \aap
+keywords: 'planets and satellites: formation, celestial mechanics, gravitation'
+month: January
+pages: L5-L8
+papis_id: 2962b5a522391896c59bc4812839c299
+ref: levrard.b.2007
+title: 'Tidal dissipation within hot Jupiters: a new appraisal'
+type: article
+volume: '462'
+year: '2007'

@@ -1,0 +1,35 @@
+abstract: A simple analytical model is developed through which properties of a stellar
+  core at the endpoint of its collapse can be estimated without performing a detailed
+  collapse calculation. The model permits the range of physical conditions for which
+  dynamical collapse to nuclear density will be prevented to be specified. The basic
+  physical relations that allow the endpoint of collapse to be predicted are first
+  outlined. The core is assumed to remain spherical during its collapse, even though
+  it is rotating. A more accurate model of the endpoint of collapse is then obtained
+  by allowing the core to acquire oblate spheroidal equilibrium structures. These
+  analytical descriptions of the endpoint of core collapse require that collapse proceed
+  along a fixed adiabat. The analysis is also performed without this assumption. An
+  attempt is made to mimic the pressure-density conditions encountered during a hot
+  core collapse, and final equilibrium conditions in the core are predicted for all
+  possible initial core rotation rates.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1984ApJ...285..721T
+author: Tohline, J. E.
+author_list:
+- family: Tohline
+  given: J. E.
+date-added: 2017-08-10 19:26:40 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/162550
+journal: \apj
+keywords: Gravitational Collapse, Neutron Stars, Stellar Cores, Stellar Evolution,
+  Stellar Rotation, White Dwarf Stars, Computational Astrophysics, Density Distribution,
+  Equilibrium Equations, Stellar Models, Stellar Structure
+month: October
+pages: 721--728
+papis_id: c7d18bc1c0df77d399a446eeb26624e8
+ref: tohline.j.1984
+title: The collapse of rotating stellar cores - Equilibria between white dwarf and
+  neutron star densities
+type: article
+volume: '285'
+year: '1984'

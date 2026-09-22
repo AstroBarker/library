@@ -1,0 +1,57 @@
+abstract: The light curve of supernova (SN) 1993J is calculated using two approaches
+  to radiation transport as exemplified by the two computer codes, STELLA and EDDINGTON.
+  Particular attention is paid to shock breakout and the photometry in the U, B, and
+  V bands during the first 120 days. The hydrodynamical model, the explosion of a
+  13 M\&sun; star that has lost most of its hydrogenic envelope to a companion, is
+  the same in each calculation. The comparison elucidates differences between the
+  approaches and also serves to validate the results of both. STELLA includes implicit
+  hydrodynamics and is able to model supernova evolution at early times, before the
+  expansion is homologous. STELLA also employs multigroup photonics and is able to
+  follow the radiation as it decouples from the matter. EDDINGTON uses a different
+  algorithm for integrating the transport equation, assumes homologous expansion,
+  and uses a finer frequency resolution. Good agreement is achieved between the two
+  codes only when compatible physical assumptions are made about the opacity. In particular,
+  the line opacity near the principal (second) peak of the light curve must be treated
+  primarily as absorptive, even though the electron density is too small for collisional
+  deexcitation to be a dominant photon destruction mechanism. Justification is given
+  for this assumption and involves the degradation of photon energy by ``line splitting,''
+  i.e., fluorescence. The fact that absorption versus scattering matters to the light
+  curve is indicative of the fact that departures from equilibrium radiative diffusion
+  are important. A new result for SN 1993J is a prediction of the continuum spectrum
+  near the shock breakout (calculated by STELLA), which is superior to the results
+  of other standard single energy group hydrocodes such as VISPHOT or TITAN. Based
+  on the results of our independent codes, we discuss the uncertainties involved in
+  the current time-dependent models of supernova light curves.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...496..454B
+arxivurl: http://arxiv.org/abs/astro-ph/9711055
+author: Blinnikov, S. I. and Eastman, R. and Bartunov, O. S. and Popolitov, V. A.
+  and Woosley, S. E.
+author_list:
+- family: Blinnikov
+  given: S. I.
+- family: Eastman
+  given: R.
+- family: Bartunov
+  given: O. S.
+- family: Popolitov
+  given: V. A.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 14:24:52 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305375
+eprint: astro-ph/9711055
+journal: \apj
+keywords: 'STARS: SUPERNOVAE: GENERAL, STARS: INDIVIDUAL ALPHANUMERIC: SN 1993J, RADIATIVE
+  TRANSFER, HYDRODYNAMICS, METHODS: NUMERICAL, Hydrodynamics, Methods: Numerical,
+  Radiative Transfer, Stars: Individual: Alphanumeric: SN 1993J, Stars: Supernovae:
+  General'
+month: March
+pages: 454--472
+papis_id: 1df515904b29361df90ddb5352081a35
+ref: blinnikov.s.1998
+title: A Comparative Modeling of Supernova 1993J
+type: article
+volume: '496'
+year: '1998'

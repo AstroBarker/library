@@ -1,0 +1,47 @@
+abstract: 'We present a phenomenological model of imbalanced MHD turbulence in an
+  incompressible magnetofluid. The steady state cascades, of waves traveling in opposite
+  directions along the mean magnetic field, carry unequal energy fluxes to small length
+  scales, where they decay as a result of viscous and resistive dissipation. The inertial
+  range scalings are well understood when both cascades are weak. We study the case
+  in which both cascades are, in a sense, strong. The inertial range of this imbalanced
+  cascade has the following properties: (1) The ratio of the rms Els{\"a}sser amplitudes
+  is independent of scale and is equal to the ratio of the corresponding energy fluxes.
+  (2) In common with the balanced strong cascade, the energy spectra of both Els{\"a}sser
+  waves are of the anisotropic Kolmogorov form, with their parallel correlation lengths
+  equal to each other on all scales, and proportional to the two-thirds power of the
+  transverse correlation length. (3) The equality of cascade time and wave period
+  (critical balance) that characterizes the strong balanced cascade does not apply
+  to the Els{\"a}sser field with the larger amplitude. Instead, the more general criterion
+  that always applies to both Els{\"a}sser fields is that the cascade time is equal
+  to the correlation time of the straining imposed by oppositely directed waves. (4)
+  In the limit of equal energy fluxes, the turbulence corresponds to the balanced
+  strong cascade. Our results are particularly relevant for turbulence in the solar
+  wind. Spacecraft measurements have established that in the inertial range of solar
+  wind turbulence, waves traveling away from the Sun have higher amplitudes than those
+  traveling toward it. Result 1 allows us to infer the turbulent flux ratios from
+  the amplitude ratios, thus providing insight into the origin of the turbulence.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...655..269L
+arxivurl: http://arxiv.org/abs/astro-ph/0607243
+author: Lithwick, Y. and Goldreich, P. and Sridhar, S.
+author_list:
+- family: Lithwick
+  given: Y.
+- family: Goldreich
+  given: P.
+- family: Sridhar
+  given: S.
+date-added: 2017-08-10 22:32:25 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/509884
+eprint: astro-ph/0607243
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Turbulence'
+month: January
+pages: 269--274
+papis_id: f5befe46616663203f640b76422a3383
+ref: lithwick.y.2007
+title: Imbalanced Strong MHD Turbulence
+type: article
+volume: '655'
+year: '2007'

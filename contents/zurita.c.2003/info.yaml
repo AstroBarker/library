@@ -1,0 +1,47 @@
+abstract: 'We present the results of high time resolution optical photometry of five
+  quiescent soft X-ray transients (SXTs): V404 Cyg, A0620-00, J0422+32, GS 2000+25,
+  and Cen X-4. We detect fast optical variations superposed on the secondary star''s
+  double-humped ellipsoidal modulation. The variability resembles typical flare activity
+  and has amplitudes ranging from 0.06 to 0.6 mag. Flares occur on timescales of minutes
+  to a few hours, with no dependency on orbital phase, and contribute ~19\%-46\% to
+  the total veiling observed in the R band. We find that the observed level of flaring
+  activity is veiled by the light of the companion star, and therefore, systems with
+  cool companions (e.g., J0422+32) exhibit stronger variability. After correcting
+  for this dilution, we do not find any correlation between the flaring activity and
+  fundamental system parameters. We find no underlying coherent periods in the data,
+  only quasi-periodic variations ranging between 30 and 90 minutes for the short-period
+  SXTs and longer than 1 hr for V404 Cyg. The power-law index of the power spectra
+  is consistent with what is observed at X-rays wavelengths, i.e., a 1/f distribution,
+  which is compatible with the cellular automaton model. Our observed R''-band luminosities,
+  which are in the range 1031-1033 ergs s-1, are too large to be due to chromospheric
+  activity in the rapidly rotating companions. Since the typical timescale of the
+  flares increases with orbital period, they are most likely produced in the accretion
+  disk. The associated dynamical (Keplerian) timescales suggest that flares are produced
+  at ~0.3Rd-0.7Rd. Possible formation mechanisms are magnetic loop reconnection events
+  in the disk or, less likely, optical reprocessing of X-ray flares. In the former
+  scenario, the maximum duration of the flares suggests that the outer disk is responsible
+  for the flare events and so allows us to constrain the sharing timescale to tau~(5-6)Omega-1K.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...582..369Z
+author: Zurita, C. and Casares, J. and Shahbaz, T.
+author_list:
+- family: Zurita
+  given: C.
+- family: Casares
+  given: J.
+- family: Shahbaz
+  given: T.
+date-added: 2017-08-11 04:31:47 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344534
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Stars: Individual:
+  Constellation Name: V404 Cygni'
+month: January
+pages: 369--381
+papis_id: 236f8caf1368a22dda58071bea447729
+ref: zurita.c.2003
+title: Evidence for Optical Flares in Quiescent Soft X-Ray Transients
+type: article
+volume: '582'
+year: '2003'

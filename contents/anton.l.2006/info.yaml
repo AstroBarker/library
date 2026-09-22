@@ -1,0 +1,51 @@
+abstract: We present a general procedure to solve numerically the general relativistic
+  magnetohydrodynamics (GRMHD) equations within the framework of the 3+1 formalism.
+  The work reported here extends our previous investigation in general relativistic
+  hydrodynamics (Banyuls et al. 1997) where magnetic fields were not considered. The
+  GRMHD equations are written in conservative form to exploit their hyperbolic character
+  in the solution procedure. All theoretical ingredients necessary to build up high-resolution
+  shock-capturing schemes based on the solution of local Riemann problems (i.e., Godunov-type
+  schemes) are described. In particular, we use a renormalized set of regular eigenvectors
+  of the flux Jacobians of the relativistic MHD equations. In addition, the paper
+  describes a procedure based on the equivalence principle of general relativity that
+  allows the use of Riemann solvers designed for special relativistic MHD in GRMHD.
+  Our formulation and numerical methodology are assessed by performing various test
+  simulations recently considered by different authors. These include magnetized shock
+  tubes, spherical accretion onto a Schwarzschild black hole, equatorial accretion
+  onto a Kerr black hole, and magnetized thick disks accreting onto a black hole and
+  subject to the magnetorotational instability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...637..296A
+arxivurl: http://arxiv.org/abs/astro-ph/0506063
+author: Antón, L. and Zanotti, O. and Miralles, J. A. and Martí, J. M. and Ibáñez,
+  J. M. and Font, J. A. and Pons, J. A.
+author_list:
+- family: Antón
+  given: L.
+- family: Zanotti
+  given: O.
+- family: Miralles
+  given: J. A.
+- family: Martí
+  given: J. M.
+- family: Ibáñez
+  given: J. M.
+- family: Font
+  given: J. A.
+- family: Pons
+  given: J. A.
+date-added: 2017-08-10 21:03:26 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/498238
+eprint: astro-ph/0506063
+journal: \apj
+keywords: 'Methods: Numerical, Magnetohydrodynamics: MHD, Relativity'
+month: January
+pages: 296--312
+papis_id: a2c1909bd7f26b69b9c1070505878a1f
+ref: anton.l.2006
+title: 'Numerical 3+1 General Relativistic Magnetohydrodynamics: A Local Characteristic
+  Approach'
+type: article
+volume: '637'
+year: '2006'

@@ -1,0 +1,44 @@
+abstract: We have developed a relativistic, radiation-hydrodynamics Lagrangian code,
+  specifically tailored to simulate the evolution of the main observables (light curve
+  and the evolution of photospheric velocity and temperature) in core-collapse supernova
+  (CC-SN) events. The distinctive features of the code are an accurate treatment of
+  radiative transfer coupled to relativistic hydrodynamics, a self-consistent treatment
+  of the evolution of the innermost ejecta taking into account the gravitational effects
+  of the central compact remnant, and a fully implicit Lagrangian approach to the
+  solution of the coupled nonlinear finite difference system of equations. Our aim
+  is to use it as a numerical tool to perform calculations of a grid of models to
+  be compared with observations of CC-SNe. In this paper, we present some testcase
+  simulations and a comparison with observations of SN 1987A, as well as with the
+  results obtained with other numerical codes. We also briefly discuss the influence
+  of the main physical parameters (ejected mass, progenitor radius, explosion energy,
+  amount of 56Ni) on the evolution of the ejecta, and the implications of our results
+  in connection with the possibility to "standardize" hydrogen-rich CC-SNe for using
+  them as candles to measure cosmological distances.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...741...41P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.0688
+author: Pumo, M. L. and Zampieri, L.
+author_list:
+- family: Pumo
+  given: M. L.
+- family: Zampieri
+  given: L.
+date-added: 2017-08-10 18:31:34 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/741/1/41
+eid: '41'
+eprint: '1108.0688'
+journal: \apj
+keywords: 'distance scale, hydrodynamics, methods: numerical, radiative transfer,
+  supernovae: general, supernovae: individual: SN 1987A'
+month: November
+pages: '41'
+papis_id: 9bf5f16ecaea4c53d73fe81ff5e6e3c8
+primaryclass: astro-ph.SR
+ref: pumo.m.2011
+title: 'Radiation-hydrodynamical Modeling of Core-collapse Supernovae: Light Curves
+  and the Evolution of Photospheric Velocity and Temperature'
+type: article
+volume: '741'
+year: '2011'

@@ -1,0 +1,52 @@
+abstract: 'We consider the structure of marginally Toomre-stable starburst disks under
+  the assumption that radiation pressure on dust grains provides the dominant vertical
+  support against gravity. This assumption is particularly appropriate when the disk
+  is optically thick to its own infrared radiation, as in the central regions of ULIRGs.
+  We argue that because the disk radiates at its Eddington limit (for dust), the ``Schmidt
+  law'''' for star formation changes in the optically thick limit, with the star formation
+  rate per unit area scaling as Sigma\textperiodcentered{}\textasteriskcentered~Sigmag/kappa,
+  where Sigmag is the gas surface density and kappa is the mean opacity of the disk.
+  Our calculations further show that optically thick starburst disks have a characteristic
+  flux, star formation rate per unit area, and dust effective temperature of F~1013
+  Lsolar kpc-2, Sigma\textperiodcentered{}\textasteriskcentered~103 Msolar yr-1 kpc-2,
+  and Teff~90 K, respectively. We compare our model predictions with observations
+  of ULIRGs and find good agreement. We extend our model of starburst disks from many
+  hundred parsec scales to subparsec scales and address the problem of fueling AGNs.
+  We assume that angular momentum transport proceeds via global torques (e.g., spiral
+  waves, winds, or a central bar) rather than a local viscosity. We consistently account
+  for the radial depletion of gas due to star formation and find a strong bifurcation
+  between two classes of disk models: (1) solutions with a starburst on large scales
+  that consumes all of the gas with little or no fueling of a central AGN and (2)
+  models with an outer large-scale starburst accompanied by a more compact starburst
+  on 1-10 pc scales and a bright central AGN. The luminosity of the latter models
+  is in many cases dominated by the AGN, although these disk solutions exhibit a broad
+  mid- to far-infrared peak from star formation. We show that the vertical thickness
+  of the starburst disk on parsec scales can approach h~r, perhaps accounting for
+  the nuclear obscuration in some type 2 AGNs. We also argue that the disk of young
+  stars in the Galactic center may be the remnant of such a compact nuclear starburst.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...630..167T
+arxivurl: http://arxiv.org/abs/astro-ph/0503027
+author: Thompson, T. A. and Quataert, E. and Murray, N.
+author_list:
+- family: Thompson
+  given: T. A.
+- family: Quataert
+  given: E.
+- family: Murray
+  given: N.
+date-added: 2017-08-10 20:05:21 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431923
+eprint: astro-ph/0503027
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Galaxies: Formation, Galaxies: General, Galaxies:
+  Starburst, Galaxy: Center, Galaxies: Quasars: General'
+month: September
+pages: 167--185
+papis_id: cc2a5c9540c37f26c2dc14c9dbe0a4f7
+ref: thompson.t.2005
+title: Radiation Pressure-supported Starburst Disks and Active Galactic Nucleus Fueling
+type: article
+volume: '630'
+year: '2005'

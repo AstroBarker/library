@@ -1,0 +1,51 @@
+abstract: In a core-collapse supernova, a huge amount of energy is released in the
+  Kelvin-Helmholtz phase subsequent to the explosion, when the proto-neutron star
+  cools and deleptonizes as it loses neutrinos. Most of this energy is emitted through
+  neutrinos, but a fraction of it can be released through gravitational waves. We
+  model the evolution of a proto-neutron star in the Kelvin-Helmholtz phase using
+  a general relativistic numerical code, and a recently proposed finite temperature,
+  many-body equation of state; from this we consistently compute the diffusion coefficients
+  driving the evolution. To include the many-body equation of state, we develop a
+  new fitting formula for the high density baryon free energy at finite temperature
+  and intermediate proton fraction. We estimate the emitted neutrino signal, assessing
+  its detectability by present terrestrial detectors, and we determine the frequencies
+  and damping times of the quasinormal modes which would characterize the gravitational
+  wave signal emitted in this stage.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017PhRvD..96d3015C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1704.01923
+author: Camelio, G. and Lovato, A. and Gualtieri, L. and Benhar, O. and Pons, J. A.
+  and Ferrari, V.
+author_list:
+- family: Camelio
+  given: G.
+- family: Lovato
+  given: A.
+- family: Gualtieri
+  given: L.
+- family: Benhar
+  given: O.
+- family: Pons
+  given: J. A.
+- family: Ferrari
+  given: V.
+date-added: 2018-04-25 23:53:45 +0000
+date-modified: 2018-04-25 23:53:46 +0000
+doi: 10.1103/PhysRevD.96.043015
+eid: '043015'
+eprint: '1704.01923'
+journal: \prd
+keywords: Astrophysics - High Energy Astrophysical Phenomena, General Relativity and
+  Quantum Cosmology, Nuclear Theory
+month: August
+number: '4'
+pages: '043015'
+papis_id: 76fc3be710410cddce1ca0bc01f15cc0
+primaryclass: astro-ph.HE
+ref: camelio.g.2017
+title: 'Evolution of a proto-neutron star with a nuclear many-body equation of state:
+  Neutrino luminosity and gravitational wave frequencies'
+type: article
+volume: '96'
+year: '2017'

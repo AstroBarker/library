@@ -1,0 +1,57 @@
+abstract: 'Context: Ages, metallicities, space velocities, and Galactic orbits of
+  stars in the Solar neighbourhood are fundamental observational constraints on models
+  of galactic disk evolution. Understanding and minimising systematic errors and sample
+  selection biases in the data is crucial for their interpretation.   Aims: We aim
+  to consolidate the calibrations of uvbybeta photometry into T\_eff, [Fe/H], distance,
+  and age for F and G stars and rediscuss the results of the Geneva-Copenhagen Survey
+  (Nordstr{\"o}m et al. 2004; GCS) in terms of the evolution of the disk.   Methods:
+  We use recent V-K photometry, angular diameters, high-resolution spectroscopy, Hipparcos
+  parallaxes, and extensive numerical simulations to re-examine and verify the temperature,
+  metallicity, distance, and reddening calibrations for the uvbybeta system. We also
+  highlight the selection effects inherent in the apparent-magnitude limited GCS sample.   Results:
+  We substantially improve the T\_eff and [Fe/H] calibrations for early F stars, where
+  spectroscopic temperatures have large systematic errors. A slight offset of the
+  GCS photometry and the non-standard helium abundance of the Hyades invalidate its
+  use for checking metallicity or age scales; however, the distances, reddenings,
+  metallicities, and age scale for GCS field stars require minor corrections only.
+  Our recomputed ages are in excellent agreement with the independent determinations
+  by Takeda et al. (2007), indicating that isochrone ages can now be reliably determined.
+  Conclusions: The revised G-dwarf metallicity distribution remains incompatible with
+  closed-box models, and the age-metallicity relation for the thin disk remains almost
+  flat, with large and real scatter at all ages (sigma\_intrinsic = 0.20 dex). Dynamical
+  heating of the thin disk continues throughout its life; specific in-plane dynamical
+  effects dominate the evolution of the U and V velocities, while the W velocities
+  remain random at all ages. When assigning thick and thin-disk membership for stars
+  from kinematic criteria, parameters for the oldest stars should be used to characterise
+  the thin disk.  Based in part on observations made with the Danish 0.5-m and 1.5-m
+  telescopes at ESO, La Silla, Chile. The full Table 1 is only available electronically
+  from the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/475/519'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...475..519H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.1891
+author: Holmberg, J. and Nordström, B. and Andersen, J.
+author_list:
+- family: Holmberg
+  given: J.
+- family: Nordström
+  given: B.
+- family: Andersen
+  given: J.
+date-added: 2017-08-10 23:15:08 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1051/0004-6361:20077221
+eprint: '0707.1891'
+journal: \aap
+keywords: 'Galaxy: stellar content, Galaxy: solar neighbourhood, Galaxy: disk, Galaxy:
+  kinematics and dynamics, Galaxy: evolution, stars: fundamental parameters'
+month: November
+pages: 519--537
+papis_id: 111afe0d4db34327a96a04ba2ae94f02
+ref: holmberg.j.2007
+title: The Geneva-Copenhagen survey of the Solar neighbourhood II. New uvby calibrations
+  and rediscussion of stellar ages, the G dwarf problem, age-metallicity diagram,
+  and heating mechanisms of the disk
+type: article
+volume: '475'
+year: '2007'

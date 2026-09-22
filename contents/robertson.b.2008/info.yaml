@@ -1,0 +1,52 @@
+abstract: We use hydrodynamical simulations of disk galaxies to study relations between
+  star formation and properties of the molecular ISM. We implement a model for the
+  ISM that includes low-temperature (T < 104 K ) cooling, directly ties the SFR to
+  the molecular gas density, and accounts for the destruction of H2 by an interstellar
+  radiation field from young stars. We demonstrate that the ISM and star formation
+  model simultaneously produces a spatially resolved molecular gas surface density
+  Schmidt-Kennicutt relation of the form SigmaSFR propto SigmanmolH2, with nmol \approx{}
+  1.4 independent of galaxy mass, and a total gas surface density-SFR relation SigmaSFR
+  propto Sigmantotgas with a power-law index that steepens from ntot ~ 2 for large
+  galaxies to ntotgtrsim 4 for small dwarf galaxies. We show that deviations from
+  the disk-averaged SigmaSFR propto Sigma1.4gas correlation determined by Kennicutt
+  owe primarily to spatial trends in the molecular fraction fH2 and may explain observed
+  deviations from the global Schmidt-Kennicutt relation. In our model, such deviations
+  occur in regions of the ISM where the fraction of gas mass in molecular form is
+  declining or significantly less than unity. Long gas consumption timescales in low-mass
+  and low surface brightness galaxies may owe to their small fractions of molecular
+  gas rather than mediation by strong supernova-driven winds. Our simulations also
+  reproduce the observed relations between ISM pressure and molecular fraction and
+  between SFR, gas surface density, and disk angular frequency. We show that the Toomre
+  criterion that accounts for both gas and stellar densities correctly predicts the
+  onset of star formation in our simulated disks. We examine the density and temperature
+  distributions of the ISM in simulated galaxies and show that the density pdf generally
+  exhibits a complicated structure with multiple peaks corresponding to different
+  temperature phases of the gas. The overall density pdf can be well modeled as a
+  sum of lognormal pdf's corresponding to individual, approximately isothermal phases.
+  We also present a simple method to mitigate numerical Jeans fragmentation of dense,
+  cold gas in SPH codes through the adoption of a density-dependent pressure floor.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...680.1083R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.2102
+author: Robertson, B. E. and Kravtsov, A. V.
+author_list:
+- family: Robertson
+  given: B. E.
+- family: Kravtsov
+  given: A. V.
+date-added: 2017-08-10 21:41:33 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/587796
+eid: 1083-1111
+eprint: '0710.2102'
+journal: \apj
+keywords: 'Galaxy: evolution, Galaxy: formation, Galaxy: structure, ISM: general'
+month: June
+pages: 1083--1111
+papis_id: 5b4aa9215dd5892d216ac302c0d1f9b6
+ref: robertson.b.2008
+title: Molecular Hydrogen and Global Star Formation Relations in Galaxies
+type: article
+volume: '680'
+year: '2008'

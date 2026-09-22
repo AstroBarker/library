@@ -1,0 +1,43 @@
+abstract: 'Various methods of treating outer boundaries in numerical relativity are
+  compared using a simple test problem: a Schwarzschild black hole with an outgoing
+  gravitational wave perturbation. Numerical solutions computed using different boundary
+  treatments are compared to a ''reference'' numerical solution obtained by placing
+  the outer boundary at a very large radius. For each boundary treatment, the full
+  solutions including constraint violations and extracted gravitational waves are
+  compared to those of the reference solution, thereby assessing the reflections caused
+  by the artificial boundary. These tests are based on a first-order generalized harmonic
+  formulation of the Einstein equations and are implemented using a pseudo-spectral
+  collocation method. Constraint-preserving boundary conditions for this system are
+  reviewed, and an improved boundary condition on the gauge degrees of freedom is
+  presented. Alternate boundary conditions evaluated here include freezing the incoming
+  characteristic fields, Sommerfeld boundary conditions, and the constraint-preserving
+  boundary conditions of Kreiss and Winicour. Rather different approaches to boundary
+  treatments, such as sponge layers and spatial compactification, are also tested.
+  Overall the best treatment found here combines boundary conditions that preserve
+  the constraints, freeze the Newman Penrose scalar Psi0, and control gauge reflections.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24.4053R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.0782
+author: Rinne, O. and Lindblom, L. and Scheel, M. A.
+author_list:
+- family: Rinne
+  given: O.
+- family: Lindblom
+  given: L.
+- family: Scheel
+  given: M. A.
+date-added: 2017-08-11 06:12:16 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1088/0264-9381/24/16/006
+eprint: '0704.0782'
+journal: Classical and Quantum Gravity
+month: August
+pages: 4053--4078
+papis_id: 1dadacf019f00b8bc801033e6b080444
+primaryclass: gr-qc
+ref: rinne.o.2007
+title: Testing outer boundary treatments for the Einstein equations
+type: article
+volume: '24'
+year: '2007'

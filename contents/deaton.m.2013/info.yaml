@@ -1,0 +1,57 @@
+abstract: Neutrino emission significantly affects the evolution of the accretion tori
+  formed in black hole-neutron star mergers. It removes energy from the disk, alters
+  its composition, and provides a potential power source for a gamma-ray burst. To
+  study these effects, simulations in general relativity with a hot microphysical
+  equation of state (EOS) and neutrino feedback are needed. We present the first such
+  simulation, using a neutrino leakage scheme for cooling to capture the most essential
+  effects and considering a moderate mass (1.4 M \&sun; neutron star, 5.6 M \&sun;
+  black hole), high-spin (black hole J/M 2 = 0.9) system with the K 0 = 220 MeV Lattimer-Swesty
+  EOS. We find that about 0.08 M \&sun; of nuclear matter is ejected from the system,
+  while another 0.3 M \&sun; forms a hot, compact accretion disk. The primary effects
+  of the escaping neutrinos are (1) to make the disk much denser and more compact,
+  (2) to cause the average electron fraction Ye of the disk to rise to about 0.2 and
+  then gradually decrease again, and (3) to gradually cool the disk. The disk is initially
+  hot (T ~ 6 MeV) and luminous in neutrinos (L nu ~ 1054 erg s-1), but the neutrino
+  luminosity decreases by an order of magnitude over 50 ms of post-merger evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...776...47D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.3384
+author: Deaton, M. B. and Duez, M. D. and Foucart, F. and O'Connor, E. and Ott, C.
+  D. and Kidder, L. E. and Muhlberger, C. D. and Scheel, M. A. and Szilagyi, B.
+author_list:
+- family: Deaton
+  given: M. B.
+- family: Duez
+  given: M. D.
+- family: Foucart
+  given: F.
+- family: O'Connor
+  given: E.
+- family: Ott
+  given: C. D.
+- family: Kidder
+  given: L. E.
+- family: Muhlberger
+  given: C. D.
+- family: Scheel
+  given: M. A.
+- family: Szilagyi
+  given: B.
+date-added: 2017-08-10 15:48:15 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/776/1/47
+eid: '47'
+eprint: '1304.3384'
+journal: \apj
+keywords: 'black hole physics, gamma-ray burst: general, neutrinos, stars: neutron'
+month: October
+pages: '47'
+papis_id: 5b31d98c566b7d7d51303d298606d1e6
+primaryclass: astro-ph.HE
+ref: deaton.m.2013
+title: 'Black Hole-Neutron Star Mergers with a Hot Nuclear Equation of State: Outflow
+  and Neutrino-cooled Disk for a Low-mass, High-spin Case'
+type: article
+volume: '776'
+year: '2013'

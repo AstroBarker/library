@@ -1,0 +1,56 @@
+abstract: 'We report the results of an extensive numerical study of the small-scale
+  turbulent dynamo. The primary focus is on the case of large magnetic Prandtl numbers
+  Prm, which is relevant for hot low-density astrophysical plasmas. A Prm parameter
+  scan is given for the model case of viscosity-dominated (low Reynolds number) turbulence.
+  We concentrate on three topics: magnetic energy spectra and saturation levels, the
+  structure of the magnetic field lines, and intermittency of the field strength distribution.
+  The main results are as follows: (1) the folded structure of the field (direction
+  reversals at the resistive scale, field lines curved at the scale of the flow) persists
+  from the kinematic to the nonlinear regime; (2) the field distribution is self-similar
+  and appears to be lognormal during the kinematic regime and exponential in the saturated
+  state; and (3) the bulk of the magnetic energy is at the resistive scale in the
+  kinematic regime and remains there after saturation, although the magnetic energy
+  spectrum becomes much shallower. We propose an analytical model of saturation based
+  on the idea of partial two-dimensionalization of the velocity gradients with respect
+  to the local direction of the magnetic folds. The model-predicted saturated spectra
+  are in excellent agreement with numerical results. Comparisons with large-Re, moderate-Prm
+  runs are carried out to confirm the relevance of these results and to test heuristic
+  scenarios of dynamo saturation. New features at large Re are elongation of the folds
+  in the nonlinear regime from the viscous scale to the box scale and the presence
+  of an intermediate nonlinear stage of slower than exponential magnetic energy growth
+  accompanied by an increase of the resistive scale and partial suppression of the
+  kinetic energy spectrum in the inertial range. Numerical results for the saturated
+  state do not support scale-by-scale equipartition between magnetic and kinetic energies,
+  with a definite excess of magnetic energy at small scales. A physical picture of
+  the saturated state is proposed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...612..276S
+arxivurl: http://arxiv.org/abs/astro-ph/0312046
+author: Schekochihin, A. A. and Cowley, S. C. and Taylor, S. F. and Maron, J. L. and
+  McWilliams, J. C.
+author_list:
+- family: Schekochihin
+  given: A. A.
+- family: Cowley
+  given: S. C.
+- family: Taylor
+  given: S. F.
+- family: Maron
+  given: J. L.
+- family: McWilliams
+  given: J. C.
+date-added: 2017-08-10 22:13:09 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/422547
+eprint: astro-ph/0312046
+journal: \apj
+keywords: 'Magnetic Fields, Methods: Numerical, Magnetohydrodynamics: MHD, Plasmas,
+  Turbulence'
+month: September
+pages: 276--307
+papis_id: ceeb7737a86df64255a2a6f302a6a11a
+ref: schekochihin.a.2004
+title: Simulations of the Small-Scale Turbulent Dynamo
+type: article
+volume: '612'
+year: '2004'

@@ -1,0 +1,41 @@
+abstract: 'We discuss a new kind of astrophysical transport problem: the coherent
+  evolution of neutrino flavor in core collapse supernovae. Solution of this problem
+  requires a numerical approach which can simulate accurately the quantum mechanical
+  coupling of intersecting neutrino trajectories and the associated nonlinearity which
+  characterizes neutrino flavor conversion. We describe here the two codes developed
+  to attack this problem. We also describe the surprising phenomena revealed by these
+  numerical calculations. Chief among these is that the nonlinearities in the problem
+  can engineer neutrino flavor transformation which is dramatically different to that
+  in standard Mikheyev Smirnov Wolfenstein treatments. This happens even though the
+  neutrino mass-squared differences are measured to be small, and even when neutrino
+  self-coupling is sub-dominant. Our numerical work has revealed potential signatures
+  which, if detected in the neutrino burst from a Galactic core collapse event, could
+  reveal heretofore unmeasurable properties of the neutrinos, such as the mass hierarchy
+  and vacuum mixing angle theta13.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008CS\%26D....1a5007D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.3650
+author: Duan, H. and Fuller, G. M. and Carlson, J.
+author_list:
+- family: Duan
+  given: H.
+- family: Fuller
+  given: G. M.
+- family: Carlson
+  given: J.
+date-added: 2017-08-11 02:46:43 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1088/1749-4699/1/1/015007
+eid: '015007'
+eprint: '0803.3650'
+journal: Computational Science and Discovery
+month: October
+number: '1'
+pages: '015007'
+papis_id: 3326e34c5615b767201cfb7e3f15ba65
+ref: duan.h.2008
+title: Simulating nonlinear neutrino flavor evolution
+type: article
+volume: '1'
+year: '2008'

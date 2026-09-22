@@ -1,0 +1,51 @@
+abstract: 'We have conducted a series of numerical experiments with the spherically
+  symmetric, general relativistic, neutrino radiation hydrodynamics code AGILE-BOLTZTRAN
+  to examine the effects of several approximations used in multidimensional core-collapse
+  supernova simulations. Our code permits us to examine the effects of these approximations
+  quantitatively by removing, or substituting for, the pieces of supernova physics
+  of interest. These approximations include: (1) using Newtonian versus general relativistic
+  gravity, hydrodynamics, and transport; (2) using a reduced set of weak interactions,
+  including the omission of non-isoenergetic neutrino scattering, versus the current
+  state-of-the-art; and (3) omitting the velocity-dependent terms, or observer corrections,
+  from the neutrino Boltzmann kinetic equation. We demonstrate that each of these
+  changes has noticeable effects on the outcomes of our simulations. Of these, we
+  find that the omission of observer corrections is particularly detrimental to the
+  potential for neutrino-driven explosions and exhibits a failure to conserve lepton
+  number. Finally, we discuss the impact of these results on our understanding of
+  current, and the requirements for future, multidimensional models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747...73L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.3595
+author: Lentz, E. J. and Mezzacappa, A. and Messer, O. E. B. and Liebendörfer, M.
+  and Hix, W. R. and Bruenn, S. W.
+author_list:
+- family: Lentz
+  given: E. J.
+- family: Mezzacappa
+  given: A.
+- family: Messer
+  given: O. E. B.
+- family: Liebendörfer
+  given: M.
+- family: Hix
+  given: W. R.
+- family: Bruenn
+  given: S. W.
+date-added: 2017-08-10 19:25:33 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/1/73
+eid: '73'
+eprint: '1112.3595'
+journal: \apj
+keywords: 'methods: numerical, neutrinos, radiative transfer, supernovae: general'
+month: March
+pages: '73'
+papis_id: 3d06fc44145c0a2e70c63e428fd1fb09
+primaryclass: astro-ph.SR
+ref: lentz.e.2012a
+title: On the Requirements for Realistic Modeling of Neutrino Transport in Simulations
+  of Core-collapse Supernovae
+type: article
+volume: '747'
+year: '2012'

@@ -1,0 +1,48 @@
+abstract: We describe the design, implementation, and usage of a new facility pulsar
+  search and timing instrument for the 100 m Robert C. Byrd Green Bank Telescope (GBT).
+  This instrument, known as the Pulsar Spigot, makes use of the extremely flexible
+  digital correlator at the GBT to perform rapid autocorrelations (as fast as 2.56
+  mus) across wide bandwidths (up to 800 MHz) with large numbers of lags (up to 4096),
+  using as many as four simultaneous frequency bands. Successful observations using
+  this instrument have been conducted over the past year and have already resulted
+  in a number of newly discovered pulsars and detailed studies of individual pulsars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005PASP..117..643K
+author: Kaplan, D. L. and Escoffier, R. P. and Lacasse, R. J. and O'Neil, K. and Ford,
+  J. M. and Ransom, S. M. and Anderson, S. B. and Cordes, J. M. and Lazio, T. J. W.
+  and Kulkarni, S. R.
+author_list:
+- family: Kaplan
+  given: D. L.
+- family: Escoffier
+  given: R. P.
+- family: Lacasse
+  given: R. J.
+- family: O'Neil
+  given: K.
+- family: Ford
+  given: J. M.
+- family: Ransom
+  given: S. M.
+- family: Anderson
+  given: S. B.
+- family: Cordes
+  given: J. M.
+- family: Lazio
+  given: T. J. W.
+- family: Kulkarni
+  given: S. R.
+date-added: 2017-08-10 22:08:30 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/430368
+journal: \pasp
+keywords: 'Instrumentation: Detectors, Instrumentation: Miscellaneous, Stars: Pulsars:
+  General, Radio Continuum: Stars'
+month: June
+pages: 643--653
+papis_id: b6cb538c72cd4f1060e890184d2bcdf1
+ref: kaplan.d.2005
+title: The Green Bank Telescope Pulsar Spigot
+type: article
+volume: '117'
+year: '2005'

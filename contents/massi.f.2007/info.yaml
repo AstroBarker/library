@@ -1,0 +1,58 @@
+abstract: 'Context: The Vela molecular ridge is one of the nearest intermediate-mass
+  star forming regions, located within the galactic plane and outside the solar circle.
+  Cloud D, in particular, hosts a number of small embedded young clusters.  Aims:
+  We present the results of a large-scale map in the dust continuum at 1.2 mm of a
+  ~ 1$\,^{\circ}$ \texttimes{} 1\$\,^{\circ}\$ area within cloud D. The main aim of
+  the observations was to obtain a complete census of cluster-forming cores and isolated
+  (both high- and low-mass) young stellar objects in early evolutionary phases. Methods:
+  The bolometer array SIMBA at SEST was used to map the dust emission in the region
+  with a typical sensitivity of ~ 20 mJy/beam. This allows a mass sensitivity of ~
+  0.2 M\&sun;. The resolution is 24 arcsec, corresponding to ~ 0.08 pc, roughly the
+  radius of a typical young embedded cluster in the region. The continuum map is also
+  compared to a large scale map of CO(1-0) integrated emission.  Results: Using the
+  CLUMPFIND algorithm, a robust sample of 29 cores has been obtained, spanning the
+  size range 0.03-0.25 pc and the mass range 0.4-88 M\&sun;. The most massive cores
+  are associated both with red IRAS sources and with embedded young clusters, and
+  coincide with CO(1-0) integrated emission peaks. The cores are distributed according
+  to a mass spectrum ~ M-alpha and a mass-versus-size relation ~ Dx, with alpha \texttildelow{}
+  1.45-1.9 and x \texttildelow{} 1.1-1.7. They appear to originate in the fragmentation
+  of gas filaments seen in CO(1-0) emission and their formation is probably induced
+  by expanding shells of gas. The core mass spectrum is flatter than the Initial Mass
+  Function of the associated clusters in the same mass range, suggesting further fragmentation
+  within the most massive cores. A threshold AV \texttildelow{} 12 mag seems to be
+  required for the onset of star formation in the gas.  Based on observations collected
+  at the European  Southern Observatory, La Silla, Chile, program 71.C-0088.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...466.1013M
+arxivurl: http://arxiv.org/abs/astro-ph/0702687
+author: Massi, F. and de Luca, M. and Elia, D. and Giannini, T. and Lorenzetti, D.
+  and Nisini, B.
+author_list:
+- family: Massi
+  given: F.
+- family: de Luca
+  given: M.
+- family: Elia
+  given: D.
+- family: Giannini
+  given: T.
+- family: Lorenzetti
+  given: D.
+- family: Nisini
+  given: B.
+date-added: 2017-08-11 04:08:21 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20066438
+eprint: astro-ph/0702687
+journal: \aap
+keywords: 'ISM: clouds, ISM: individual objects: Vela molecular ridge, ISM: dust,
+  extinction, stars: formation, submillimeter'
+month: May
+pages: 1013--1023
+papis_id: 8e349afd51a500bee6ebde743ee09130
+ref: massi.f.2007
+title: Star formation in the Vela molecular ridge. Large scale mapping of cloud D
+  in the mm continuum
+type: article
+volume: '466'
+year: '2007'

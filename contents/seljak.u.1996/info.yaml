@@ -1,0 +1,44 @@
+abstract: We present a new method for calculating linear cosmic microwave background
+  (CM B) anisotropy spectra based on integration over sources along the photon past
+  light cone. In this approach the temperature anisotropy is written as a time integral
+  over the product of a geometrical term and a source term. The geometrical term is
+  given by radial eigenfunctions, which do not depend on the particular cosmological
+  model. The source term can be expressed in terms of photon, baryon, and metric perturbations,
+  all of which can be calculated using a small number of differential equations. This
+  split clearly separates the dynamical from the geometrical effects on the CMB anisotropies.
+  More importantly, it allows us to significantly reduce the computational time compared
+  to standard methods. This is achieved because the source term, which depends on
+  the model and is generally the most time-consuming part of calculation, is a slowly
+  varying function of wavelength and needs to be evaluated only in a small number
+  of points. The geometrical term, which oscillates much more rapidly than the source
+  term, does not depend on the particular model and can be precomputed in advance.
+  Standard methods that do not separate the two terms require a much higher number
+  of evaluations. The new method leads to about 2 orders of magnitude reduction in
+  CPU time when compared to standard methods and typically requires a few minutes
+  on a workstation for a single model. The method should be especially useful for
+  accurate determinations of cosmological parameters from CMB anisotropy and polarization
+  measurements that will become with the next generation of experiments. A program
+  implementing this method can be obtained from the authors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...469..437S
+arxivurl: http://arxiv.org/abs/astro-ph/9603033
+author: Seljak, U. and Zaldarriaga, M.
+author_list:
+- family: Seljak
+  given: U.
+- family: Zaldarriaga
+  given: M.
+date-added: 2017-08-11 05:14:05 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177793
+eprint: astro-ph/9603033
+journal: \apj
+keywords: 'COSMOLOGY: COSMIC MICROWAVE BACKGROUND, COSMOLOGY: THEORY, METHODS: NUMERICAL'
+month: October
+pages: '437'
+papis_id: deae48d0520e50c4e932c67b704928d7
+ref: seljak.u.1996
+title: A Line-of-Sight Integration Approach to Cosmic Microwave Background Anisotropies
+type: article
+volume: '469'
+year: '1996'

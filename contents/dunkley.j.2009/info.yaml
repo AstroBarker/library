@@ -1,0 +1,92 @@
+abstract: 'This paper focuses on cosmological constraints derived from analysis of
+  WMAP data alone. A simple LambdaCDM cosmological model fits the five-year WMAP temperature
+  and polarization data. The basic parameters of the model are consistent with the
+  three-year data and now better constrained: Omega b  h 2 = 0.02273 $\pm$ 0.00062,
+  Omega c  h 2 = 0.1099 \$\pm\$ 0.0062, OmegaLambda = 0.742 \$\pm\$ 0.030, ns = 0.963+0.014
+  -0.015, tau = 0.087 \$\pm\$ 0.017, and sigma8 = 0.796 \$\pm\$ 0.036, with h = 0.719+0.026
+  -0.027. With five years of polarization data, we have measured the optical depth
+  to reionization, tau>0, at 5sigma significance. The redshift of an instantaneous
+  reionization is constrained to be z reion = 11.0 \$\pm\$ 1.4 with 68\% confidence.
+  The 2sigma lower limit is z reion > 8.2, and the 3sigma limit is z reion > 6.7.
+  This excludes a sudden reionization of the universe at z = 6 at more than 3.5sigma
+  significance, suggesting that reionization was an extended process. Using two methods
+  for polarized foreground cleaning we get consistent estimates for the optical depth,
+  indicating an error due to the foreground treatment of tau ~ 0.01. This cosmological
+  model also fits small-scale cosmic microwave background (CMB) data, and a range
+  of astronomical data measuring the expansion rate and clustering of matter in the
+  universe. We find evidence for the first time in the CMB power spectrum for a nonzero
+  cosmic neutrino background, or a background of relativistic species, with the standard
+  three light neutrino species preferred over the best-fit LambdaCDM model with N
+  eff = 0 at >99.5\% confidence, and N eff > 2.3(95\%confidence limit (CL)) when varied.
+  The five-year WMAP data improve the upper limit on the tensor-to-scalar ratio, r
+  < 0.43(95\%CL), for power-law models, and halve the limit on r for models with a
+  running index, r < 0.58(95\%CL). With longer integration we find no evidence for
+  a running spectral index, with dns /dln k = -0.037 \$\pm\$ 0.028, and find improved
+  limits on isocurvature fluctuations. The current WMAP-only limit on the sum of the
+  neutrino masses is \sum{}m nu < 1.3 eV(95\%CL), which is robust, to within 10\%,
+  to a varying tensor amplitude, running spectral index, or dark energy equation of
+  state.  WMAP is the result of a partnership between Princeton University and NASA''s
+  Goddard Space Flight Center. Scientific guidance is provided by the WMAP Science
+  Team.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..180..306D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.0586
+author: Dunkley, J. and Komatsu, E. and Nolta, M. R. and Spergel, D. N. and Larson,
+  D. and Hinshaw, G. and Page, L. and Bennett, C. L. and Gold, B. and Jarosik, N.
+  and Weiland, J. L. and Halpern, M. and Hill, R. S. and Kogut, A. and Limon, M. and
+  Meyer, S. S. and Tucker, G. S. and Wollack, E. and Wright, E. L.
+author_list:
+- family: Dunkley
+  given: J.
+- family: Komatsu
+  given: E.
+- family: Nolta
+  given: M. R.
+- family: Spergel
+  given: D. N.
+- family: Larson
+  given: D.
+- family: Hinshaw
+  given: G.
+- family: Page
+  given: L.
+- family: Bennett
+  given: C. L.
+- family: Gold
+  given: B.
+- family: Jarosik
+  given: N.
+- family: Weiland
+  given: J. L.
+- family: Halpern
+  given: M.
+- family: Hill
+  given: R. S.
+- family: Kogut
+  given: A.
+- family: Limon
+  given: M.
+- family: Meyer
+  given: S. S.
+- family: Tucker
+  given: G. S.
+- family: Wollack
+  given: E.
+- family: Wright
+  given: E. L.
+date-added: 2017-08-10 18:18:21 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0067-0049/180/2/306
+eprint: '0803.0586'
+journal: \apjs
+keywords: 'cosmic microwave background, cosmology: observations, early universe, polarization'
+month: February
+pages: 306--329
+papis_id: 4ae958775108356f132935cdad3a5815
+ref: dunkley.j.2009
+title: 'Five-Year Wilkinson Microwave Anisotropy Probe Observations: Likelihoods and
+  Parameters from the WMAP Data'
+type: article
+volume: '180'
+year: '2009'

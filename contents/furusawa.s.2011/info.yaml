@@ -1,0 +1,51 @@
+abstract: 'We calculate a new equation of state for baryons at sub-nuclear densities
+  meant for the use in core-collapse simulations of massive stars. The abundances
+  of various nuclei are obtained together with the thermodynamic quantities. The formulation
+  is the nuclear statistical equilibrium description and the liquid drop approximation
+  of nuclei. The model free energy to minimize is calculated by relativistic mean
+  field theory for nucleons and the mass formula for nuclei with atomic number up
+  to ~1000. We have also taken into account the pasta phase, thanks to which the transition
+  to uniform nuclear matter in our equation of state (EOS) occurs in the conventional
+  manner: nuclei are not dissociated into nucleons but survive right up to the transition
+  to uniform nuclear matter. We find that the free energy and other thermodynamical
+  quantities are not very different from those given in the H. Shen''s EOS, one of
+  the standard EOSs that adopt the single nucleus approximation. On the other hand,
+  the average mass is systematically different, which may have an important ramification
+  to the rates of electron captures and coherent neutrino scatterings on nuclei in
+  supernova cores. It is also interesting that the root mean square of the mass number
+  is not very different from the average mass number, since the former is important
+  for the evaluation of coherent scattering rates on nuclei but has been unavailable
+  so far. The EOS table is currently under construction, which will include the weak
+  interaction rates.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738..178F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.6129
+author: Furusawa, S. and Yamada, S. and Sumiyoshi, K. and Suzuki, H.
+author_list:
+- family: Furusawa
+  given: S.
+- family: Yamada
+  given: S.
+- family: Sumiyoshi
+  given: K.
+- family: Suzuki
+  given: H.
+date-added: 2017-08-10 21:57:35 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/2/178
+eid: '178'
+eprint: '1103.6129'
+journal: \apj
+keywords: 'equation of state, neutrinos, nuclear reactions, nucleosynthesis, abundances,
+  supernovae: general'
+month: September
+pages: '178'
+papis_id: 76ab02f1b92066ebfd2e90f542d7e15a
+primaryclass: astro-ph.HE
+ref: furusawa.s.2011
+title: A New Baryonic Equation of State at Sub-nuclear Densities for Core-collapse
+  Simulations
+type: article
+volume: '738'
+year: '2011'

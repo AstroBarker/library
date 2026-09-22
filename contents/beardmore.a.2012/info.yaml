@@ -1,0 +1,73 @@
+abstract: 'Aims: The outburst of nova CSS 081007:030559+054715 (HV Cet) was extensively
+  followed by Swift to study the evolution of its X-ray and UV emission.  Methods:
+  We obtained Swift X-ray and UV observations, at times with high cadence, over an
+  interval of 266 days and analysed the temporal and spectral properties of the object.
+  Optical polarisation measurements were also obtained, but no significant circular
+  polarisation was identified. UV data from GALEX and AAVSO optical data were investigated
+  in addition.  Results: A variable supersoft source was discovered, with a 1.77 d
+  periodic modulation in its X-ray, UV and optical emission, in phase across all three
+  bands. High cadence observations revealed a declining trend of the X-ray modulation
+  amplitude, while the UV oscillation became stronger over this interval; the UV data
+  also show occasional secondary minima. The X-ray and UV flux declines sharply ~150
+  days after discovery (the date of optical outburst peak is uncertain). While bright,
+  the UV and, to a lesser extent, the X-ray light curves show two cycles of a ~40-50
+  day modulation. We believe the 1.77 d modulation to be orbital, likely caused by
+  structured disc-rim occultation. The X-ray spectra were soft at all times, with
+  negligible flux above 1 keV. These spectra were fitted with an NLTE white dwarf
+  model atmosphere of kT = 60-80 eV, with no spectral changes related to the 1.77
+  d or possible ~40-day periodicities seen. A Cloudy model demonstrated that it is
+  possible to account for the UV flux through the reprocessing of X-rays. The UV flux
+  is far in excess of the soft X-ray spectral component. We propose that the apparently
+  sub-Eddington white dwarf luminosity is due to permanent obscuration by the accretion
+  disc rim: we see only X-rays scattered by optically thin plasma interior to the
+  disc rim, whereas the UV flux is mostly created by reprocessing in the disk rim
+  interior surface. The in-phase 1.77 d UV and X-ray modulation is caused by the region
+  in which the gas stream from the secondary raises the disc rim, the maximum X-ray
+  obscuration coinciding with the minimum aspect of the UV reprocessing area. In summary,
+  HV Cet had characteristics of both classical novae and persistent super-soft X-ray
+  sources.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...545A.116B
+author: Beardmore, A. P. and Osborne, J. P. and Page, K. L. and Hakala, P. J. and
+  Schwarz, G. J. and Rauch, T. and Balman, S. and Evans, P. A. and Goad, M. R. and
+  Ness, J.-U. and Starrfield, S. and Wagner, R. M.
+author_list:
+- family: Beardmore
+  given: A. P.
+- family: Osborne
+  given: J. P.
+- family: Page
+  given: K. L.
+- family: Hakala
+  given: P. J.
+- family: Schwarz
+  given: G. J.
+- family: Rauch
+  given: T.
+- family: Balman
+  given: S.
+- family: Evans
+  given: P. A.
+- family: Goad
+  given: M. R.
+- family: Ness
+  given: J.-U.
+- family: Starrfield
+  given: S.
+- family: Wagner
+  given: R. M.
+date-added: 2017-08-10 19:46:03 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1051/0004-6361/201219681
+eid: A116
+journal: \aap
+keywords: 'novae, cataclysmic variables, stars: individual: CSS 081007:030559+054715
+  (HV Cet), X-rays: stars, ultraviolet: stars'
+month: September
+pages: A116
+papis_id: 5a87783a32aa23b5809223dda7b58d63
+ref: beardmore.a.2012
+title: The outburst of Nova CSS 081007:030559+054715 (HV Ceti)
+type: article
+volume: '545'
+year: '2012'

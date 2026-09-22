@@ -1,0 +1,51 @@
+abstract: We carried out global three-dimensional magnetohydrodynamic simulations
+  of dynamo activities in galactic gaseous disks without assuming equatorial symmetry.
+  Numerical results indicate the growth of azimuthal magnetic fields non-symmetric
+  to the equatorial plane. As the magnetorotational instability (MRI) grows, the mean
+  strength of magnetic fields is amplified until the magnetic pressure becomes as
+  large as 10\% of the gas pressure. When the local plasma beta (=p gas/p mag) becomes
+  less than 5 near the disk surface, magnetic flux escapes from the disk by the Parker
+  instability within one rotation period of the disk. The buoyant escape of coherent
+  magnetic fields drives dynamo activities by generating disk magnetic fields with
+  opposite polarity to satisfy the magnetic flux conservation. The flotation of the
+  azimuthal magnetic flux from the disk and the subsequent amplification of disk magnetic
+  field by the MRI drive quasi-periodic reversal of azimuthal magnetic fields on a
+  timescale of 10 rotation periods. Since the rotation speed decreases with radius,
+  the interval between the reversal of azimuthal magnetic fields increases with radius.
+  The rotation measure computed from the numerical results shows symmetry corresponding
+  to a dipole field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764...81M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.1414
+author: Machida, M. and Nakamura, K. E. and Kudoh, T. and Akahori, T. and Sofue, Y.
+  and Matsumoto, R.
+author_list:
+- family: Machida
+  given: M.
+- family: Nakamura
+  given: K. E.
+- family: Kudoh
+  given: T.
+- family: Akahori
+  given: T.
+- family: Sofue
+  given: Y.
+- family: Matsumoto
+  given: R.
+date-added: 2017-08-10 14:49:18 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/1/81
+eid: '81'
+eprint: '1301.1414'
+journal: \apj
+keywords: 'dynamo, Galaxy: disk, magnetohydrodynamics: MHD'
+month: February
+pages: '81'
+papis_id: 63bf5d904c76931e723eb31580dd6af8
+ref: machida.m.2013
+title: Dynamo Activities Driven by Magnetorotational Instability and the Parker Instability
+  in Galactic Gaseous Disks
+type: article
+volume: '764'
+year: '2013'

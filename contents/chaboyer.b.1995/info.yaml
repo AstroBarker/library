@@ -1,0 +1,42 @@
+abstract: The Yale stellar evolution code has been modified to include the combined
+  effects of diffusion and rotational mixing on H-1, H-4, and the trace elements He,
+  Li-6, Li-7, and Be-9. The interaction between rotational mixing and diffusion is
+  studied by calculating a number of calibrated solar models. The rotational mixing
+  inhibits the diffusion in the outer parts of the models, leading to a decrease in
+  the envelope diffusion by 25\%-50\%. Conversely, diffusion leads to gradients in
+  mean molecular weight which can inhibit the rotational mixing. The degree to which
+  gradients in mean molecular weight inhibit the rotational mixing is somewhat uncertain.
+  A comparison with the observed solar oblateness suggests that gradients in the mean
+  molecular weight play a smaller role in inhibiting the rotational mixing than previously
+  believed. This is reinforced by the fact that the model with the standard value
+  for the inhibiting effect of mean molecular weight on the rotational mixing depletes
+  no Li on the main sequence. This is clear in contrast to the observations. A reduction
+  in the inhibiting effect of mean molecular weight gradients by a factor of 10 loads
+  to noticeable main-sequence Li depletion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...441..865C
+arxivurl: http://arxiv.org/abs/astro-ph/9408058
+author: Chaboyer, B. and Demarque, P. and Pinsonneault, M. H.
+author_list:
+- family: Chaboyer
+  given: B.
+- family: Demarque
+  given: P.
+- family: Pinsonneault
+  given: M. H.
+date-added: 2017-08-11 03:55:29 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175408
+eprint: astro-ph/9408058
+journal: \apj
+keywords: Abundance, Diffusion, Mixing, Solar Interior, Solar Radiation, Stellar Models,
+  Sun, Angular Momentum, Diffusion Coefficient, Radial Distribution, Radiative Transfer
+month: March
+pages: 865--875
+papis_id: 868defe8c1fb87b027bee5bf53da0f7e
+ref: chaboyer.b.1995
+title: 'Stellar models with microscopic diffusion and rotational mixing. 1: Application
+  to the Sun'
+type: article
+volume: '441'
+year: '1995'

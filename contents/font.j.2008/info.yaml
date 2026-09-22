@@ -1,0 +1,46 @@
+abstract: This article presents a comprehensive overview of numerical hydrodynamics
+  and magneto-hydrodynamics (MHD) in general relativity. Some significant additions
+  have been incorporated with respect to the previous two versions of this review
+  (2000, 2003), most notably the coverage of general-relativistic MHD, a field in
+  which remarkable activity and progress has occurred in the last few years. Correspondingly,
+  the discussion of astrophysical simulations in general-relativistic hydrodynamics
+  is enlarged to account for recent relevant advances, while those dealing with general-relativistic
+  MHD are amply covered in this review for the first time. The basic outline of this
+  article is nevertheless similar to its earlier versions, save for the addition of
+  MHD-related issues throughout. Hence, different formulations of both the hydrodynamics
+  and MHD equations are presented, with special mention of conservative and hyperbolic
+  formulations well adapted to advanced numerical methods. A large sample of numerical
+  approaches for solving such hyperbolic systems of equations is discussed, paying
+  particular attention to solution procedures based on schemes exploiting the characteristic
+  structure of the equations through linearized Riemann solvers. As previously stated,
+  a comprehensive summary of astrophysical simulations in strong gravitational fields
+  is also presented. These are detailed in three basic sections, namely gravitational
+  collapse, black-hole accretion, and neutron-star evolutions; despite the boundaries,
+  these sections may (and in fact do) overlap throughout the discussion. The material
+  contained in these sections highlights the numerical challenges of various representative
+  simulations. It also follows, to some extent, the chronological development of the
+  field, concerning advances in the formulation of the gravitational field, hydrodynamics
+  and MHD equations and the numerical methodology designed to solve them. To keep
+  the length of this article reasonable, an effort has been made to focus on multidimensional
+  studies, directing the interested reader to earlier versions of the review for discussions
+  on one-dimensional works.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008LRR....11....7F
+author: Font, J. A.
+author_list:
+- family: Font
+  given: J. A.
+date-added: 2017-08-10 19:25:20 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.12942/lrr-2008-7
+eid: '7'
+journal: Living Reviews in Relativity
+keywords: Hydrodynamics, Relativistic hydrodynamics, Numerical relativity, Magnetohydrodynamics
+month: September
+pages: '7'
+papis_id: c3339d349dc9ff717e0dfc989e313947
+ref: font.j.2008
+title: Numerical Hydrodynamics and Magnetohydrodynamics in General Relativity
+type: article
+volume: '11'
+year: '2008'

@@ -1,0 +1,54 @@
+abstract: 'We present the final data release of observations of lambda21-cm emission
+  from Galactic neutral hydrogen over the entire sky, merging the Leiden/Dwingeloo
+  Survey (LDS: Hartmann \& Burton 1997, Atlas of Galactic Neutral Hydrogen) of the
+  sky north of delta = -30$\,^{\circ}$ with the Instituto Argentino de Radioastronom{\''\i}a
+  Survey (IAR: Arnal et al. 2000, A\&AS, 142, 35; and Bajaja et al. 2005, A\&A, 440,
+  767) of the sky south of delta = -25\$\,^{\circ}\$. The angular resolution of the
+  combined material is HPBW ~ 0.6deg. The LSR velocity coverage spans the interval
+  -450 km s-1 to +400 km s-1, at a resolution of 1.3 km s-1. The data were corrected
+  for stray radiation at the Institute for Radioastronomy of the University of Bonn,
+  refining the original correction applied to the LDS. The rms brightness-temperature
+  noise of the merged database is 0.07-0.09 K. Residual errors in the profile wings
+  due to defects in the correction for stray radiation are for most of the data below
+  a level of 20-40 mK. It would be necessary to construct a telescope with a main
+  beam efficiency of etaMB \gtrapprox{} 99\% to achieve the same accuracy. The merged
+  and refined material entering the LAB Survey of Galactic H i is intended to be a
+  general resource useful to a wide range of studies of the physical and structural
+  characteristices of the Galactic interstellar environment. The LAB Survey is the
+  most sensitive Milky Way H i survey to date, with the most extensive coverage both
+  spatially and kinematically.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...440..775K
+arxivurl: http://arxiv.org/abs/astro-ph/0504140
+author: Kalberla, P. M. W. and Burton, W. B. and Hartmann, D. and Arnal, E. M. and
+  Bajaja, E. and Morras, R. and Pöppel, W. G. L.
+author_list:
+- family: Kalberla
+  given: P. M. W.
+- family: Burton
+  given: W. B.
+- family: Hartmann
+  given: D.
+- family: Arnal
+  given: E. M.
+- family: Bajaja
+  given: E.
+- family: Morras
+  given: R.
+- family: Pöppel
+  given: W. G. L.
+date-added: 2017-08-10 16:49:46 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1051/0004-6361:20041864
+eprint: astro-ph/0504140
+journal: \aap
+keywords: 'surveys, radio lines: ISM, Galaxy: structure'
+month: September
+pages: 775--782
+papis_id: 69b874480da3d34f6b2d04ad6d3a9b96
+ref: kalberla.p.2005
+title: The Leiden/Argentine/Bonn (LAB) Survey of Galactic HI. Final data release of
+  the combined LDS and IAR surveys with improved stray-radiation corrections
+type: article
+volume: '440'
+year: '2005'

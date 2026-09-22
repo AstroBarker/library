@@ -1,0 +1,35 @@
+abstract: A review of the treatment of boundaries in general relativity is presented
+  with the emphasis on application to the formulations of Einstein's equations used
+  in numerical relativity. At present, it is known how to treat boundaries in the
+  harmonic formulation of Einstein's equations and a tetrad formulation of the Einstein-Bianchi
+  system. However, a universal approach valid for other formulations is not in hand.
+  In particular, there is no satisfactory boundary theory for the 3+1 formulations
+  which have been highly successful in binary black hole simulation. I discuss the
+  underlying problems that make the initial-boundary-value problem much more complicated
+  than the Cauchy problem. I review the progress that has been made and the important
+  open questions that remain.  Science is a differential equation. Religion is a boundary
+  condition. (Alan Turing, quoted in J D Barrow, `Theories of Everything')
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012CQGra..29k3001W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.2154
+author: Winicour, J.
+author_list:
+- family: Winicour
+  given: J.
+date-added: 2017-08-10 20:30:56 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0264-9381/29/11/113001
+eid: '113001'
+eprint: '1203.2154'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '113001'
+papis_id: 02a01f492c07b2178f014eec374e826c
+primaryclass: gr-qc
+ref: winicour.j.2012
+title: Boundary conditions for the gravitational field
+type: article
+volume: '29'
+year: '2012'

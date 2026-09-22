@@ -1,0 +1,53 @@
+abstract: Observationally inferred superburst ignition depths are shallower than models
+  predict. We address this discrepancy by reexamining the superburst trigger mechanism.
+  We first explore the hypothesis of Kuulkers et al. that exothermic electron captures
+  trigger superbursts. We find that all electron capture reactions are thermally stable
+  in accreting neutron star oceans and thus are not a viable trigger mechanism. Fusion
+  reactions other than 12C + 12C are infeasible as well since the possible reactants
+  either deplete at much shallower depths or have prohibitively large Coulomb barriers.
+  Thus, we confirm the proposal of Cumming \& Bildsten and Strohmayer \& Brown that
+  12C + 12C triggers superbursts. We then examine the 12C + 12C fusion rate. The reaction
+  cross section is experimentally unknown at astrophysically relevant energies, but
+  resonances exist in the 12C + 12C system throughout the entire measured energy range.
+  Thus it is likely, and in fact has been predicted, that a resonance exists near
+  the Gamow peak energy E pk \approx{} 1.5 MeV. For such a hypothetical 1.5 MeV resonance,
+  we derive both a fiducial value and upper limit to the resonance strength (omegagamma)R
+  and find that such a resonance could decrease the theoretically predicted superburst
+  ignition depth by up to a factor of 4; in this case, observationally inferred superburst
+  ignition depths would accord with model predictions for a range of plausible neutron
+  star parameters. Said differently, such a resonance would decrease the temperature
+  required for unstable 12C ignition at a column depth 1012 g cm-2 from 6 \texttimes{}
+  108 K to 5 \texttimes{} 108 K. A resonance at 1.5 MeV would not strongly affect
+  the ignition density of Type Ia supernovae, but it would lower the temperature at
+  which 12C ignites in massive post-main-sequence stars. Determining the existence
+  of a strong resonance in the Gamow window requires measurements of the 12C + 12C
+  cross section down to a center-of-mass energy near 1.5 MeV, which is within reach
+  of the proposed DUSEL facility.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...702..660C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0903.3994
+author: Cooper, R. L. and Steiner, A. W. and Brown, E. F.
+author_list:
+- family: Cooper
+  given: R. L.
+- family: Steiner
+  given: A. W.
+- family: Brown
+  given: E. F.
+date-added: 2017-08-11 08:10:58 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/702/1/660
+eprint: '0903.3994'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: neutron, X-rays:
+  bursts'
+month: September
+pages: 660--671
+papis_id: 0a59433da1f9fa3227eaa1a8fa181bf8
+primaryclass: astro-ph.HE
+ref: cooper.r.2009
+title: Possible Resonances in the $^12$C + \$^12\$C Fusion Rate and Superburst Ignition
+type: article
+volume: '702'
+year: '2009'

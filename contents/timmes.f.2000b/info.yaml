@@ -1,0 +1,31 @@
+abstract: The physical properties of laminar deflagrations propagating through helium-rich
+  compositions are determined for a wide range of temperatures and densities. The
+  speeds, thermal widths, reactive widths, density contrasts, critical temperatures,
+  and trigger masses are analyzed, along with their sensitivity to the input thermal
+  transport coefficients, nuclear reaction rates, nuclear reaction network employed,
+  and equation of state. A simple fitting formula of modest accuracy for the laminar
+  flame speed is given, as well as detailed tables that list all of the physical properties.
+  These physical properties may be incorporated into hydrodynamic programs as subgrid
+  models for flame-tracking algorithms, and have applications toward models of X-ray
+  bursts and the thin-shell helium flash of intermediate-mass stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...528..913T
+author: Timmes, F. X.
+author_list:
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-11 03:51:46 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308203
+journal: \apj
+keywords: 'HYDRODYNAMICS, METHODS: NUMERICAL, NUCLEAR REACTIONS, NUCLEOSYNTHESIS,
+  ABUNDANCES, STARS: INTERIORS, Hydrodynamics, Methods: Numerical, nuclear reactions,
+  nucleosynthesis; abundances, Stars: Interiors'
+month: January
+pages: 913--945
+papis_id: 5ee4dbd45ff82d2b5a7f903f6bb750ff
+ref: timmes.f.2000b
+title: Physical Properties of Laminar Helium Deflagrations
+type: article
+volume: '528'
+year: '2000'

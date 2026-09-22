@@ -1,0 +1,56 @@
+abstract: We present self-consistent, axisymmetric core-collapse supernova simulations
+  performed with the Prometheus-Vertex code for 18 pre-supernova models in the range
+  of 11-28 M \&sun;, including progenitors recently investigated by other groups.
+  All models develop explosions, but depending on the progenitor structure, they can
+  be divided into two classes. With a steep density decline at the Si/Si-O interface,
+  the arrival of this interface at the shock front leads to a sudden drop of the mass-accretion
+  rate, triggering a rapid approach to explosion. With a more gradually decreasing
+  accretion rate, it takes longer for the neutrino heating to overcome the accretion
+  ram pressure and explosions set in later. Early explosions are facilitated by high
+  mass-accretion rates after bounce and correspondingly high neutrino luminosities
+  combined with a pronounced drop of the accretion rate and ram pressure at the Si/Si-O
+  interface. Because of rapidly shrinking neutron star radii and receding shock fronts
+  after the passage through their maxima, our models exhibit short advection timescales,
+  which favor the efficient growth of the standing accretion-shock instability. The
+  latter plays a supportive role at least for the initiation of the re-expansion of
+  the stalled shock before runaway. Taking into account the effects of turbulent pressure
+  in the gain layer, we derive a generalized condition for the critical neutrino luminosity
+  that captures the explosion behavior of all models very well. We validate the robustness
+  of our findings by testing the influence of stochasticity, numerical resolution,
+  and approximations in some aspects of the microphysics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...825....6S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1511.07871
+author: Summa, A. and Hanke, F. and Janka, H.-T. and Melson, T. and Marek, A. and
+  Müller, B.
+author_list:
+- family: Summa
+  given: A.
+- family: Hanke
+  given: F.
+- family: Janka
+  given: H.-T.
+- family: Melson
+  given: T.
+- family: Marek
+  given: A.
+- family: Müller
+  given: B.
+date-added: 2017-08-10 13:55:43 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/825/1/6
+eid: '6'
+eprint: '1511.07871'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, neutrinos, supernovae: general'
+month: July
+pages: '6'
+papis_id: 347ebcb9e49c6de1a81f63fdd465e460
+primaryclass: astro-ph.SR
+ref: summa.a.2016
+title: Progenitor-dependent Explosion Dynamics in Self-consistent, Axisymmetric Simulations
+  of Neutrino-driven Core-collapse Supernovae
+type: article
+volume: '825'
+year: '2016'

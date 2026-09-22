@@ -1,0 +1,47 @@
+abstract: We investigate the post-explosion phase in core-collapse supernovae with
+  2D hydrodynamical simulations and a simple neutrino treatment. The latter allows
+  us to perform 46 simulations and follow the evolution of the 32 successful explosions
+  during several seconds. We present a broad study based on three progenitors (11.2
+  $M_\odot$, 15 \$M\_\odot\$, and 27 \$M\_\odot\$), different neutrino-heating efficiencies,
+  and various rotation rates. We show that the first seconds after shock revival determine
+  the final explosion energy, remnant mass, and properties of ejected matter. Our
+  results suggest that a continued mass accretion increases the explosion energy even
+  at late times. We link the late-time mass accretion to initial conditions such as
+  rotation strength and shock deformation at explosion time. Only some of our simulations
+  develop a neutrino-driven wind that survives for several seconds. This indicates
+  that neutrino-driven winds are not a standard feature expected after every successful
+  explosion. Even if our neutrino treatment is simple, we estimate the nucleosynthesis
+  of the exploding models for the 15 \$M\_\odot\$ progenitor after correcting the
+  neutrino energies and luminosities to get a more realistic electron fraction.
+archiveprefix: arXiv
+author: Witt, M. and Psaltis, A. and Yasin, H. and Horn, C. and Reichert, M. and Kuroda,
+  T. and Obergaulinger, M. and Couch, S. M. and Arcones, A.
+author_list:
+- family: Witt
+  given: M.
+- family: Psaltis
+  given: A.
+- family: Yasin
+  given: H.
+- family: Horn
+  given: C.
+- family: Reichert
+  given: M.
+- family: Kuroda
+  given: T.
+- family: Obergaulinger
+  given: M.
+- family: Couch
+  given: S. M.
+- family: Arcones
+  given: A.
+eprint: '2107.00687'
+file: :witt\_2021 - Post Explosion Evolution of Core Collapse Supernovae.pdf:PDF
+keywords: astro-ph.HE, astro-ph.SR, nucl-th
+month: July
+papis_id: 8d655a54637e6301d4c2573635bb4321
+primaryclass: astro-ph.HE
+ref: witt.m.2021
+title: Post-explosion evolution of core-collapse supernovae
+type: article
+year: '2021'

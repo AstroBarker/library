@@ -1,0 +1,32 @@
+abstract: The Rayleigh test has been recently invoked as a method of searching a time
+  series for periodic pulsations. In this paper, this technique is discussed and compared
+  to epoch folding, a technique which has had widespread use in X-ray astronomy. It
+  is found that the Rayleigh test provides a more sensitive approach to the search
+  for periodic pulsations when the pulses are sinusoidal or of broad duty cycle, such
+  as those typical of the pulsing X-ray sources. Epoch folding, on the other hand,
+  is more sensitive to the narrow pulses typical of radio pulsars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1983ApJ...272..256L
+author: Leahy, D. A. and Elsner, R. F. and Weisskopf, M. C.
+author_list:
+- family: Leahy
+  given: D. A.
+- family: Elsner
+  given: R. F.
+- family: Weisskopf
+  given: M. C.
+date-added: 2017-08-11 03:50:27 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/161288
+journal: \apj
+keywords: Pulsars, Rayleigh Distribution, X Ray Sources, Periodic Variations, Sine
+  Waves, Time Measurement, Time Series Analysis
+month: September
+pages: 256--258
+papis_id: aa3401bb7f78acd64b61ff3ddb21f91f
+ref: leahy.d.1983
+title: On searches for periodic pulsed emission - The Rayleigh test compared to epoch
+  folding
+type: article
+volume: '272'
+year: '1983'

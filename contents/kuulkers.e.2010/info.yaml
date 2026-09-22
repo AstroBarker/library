@@ -1,0 +1,77 @@
+abstract: The low-mass X-ray binary 4U 0614+091 is a source of sporadic thermonuclear
+  (type I) X-ray bursts. We find bursts with a wide variety of characteristics in
+  serendipitous wide-field X-ray observations by the WATCH on EURECA, the ASM on RXTE,
+  the WFCs on BeppoSAX, the FREGATE on HETE-2, the IBIS/ISGRI on INTEGRAL, and the
+  BAT on Swift, as well as pointed observations with the PCA and HEXTE on RXTE. Most
+  of the bursts are bright, i.e., they reach a peak flux of about 15 Crab, but a few
+  are weak and only reach a peak flux below a Crab. One of the bursts shows a very
+  strong photospheric radius-expansion phase. This allows us to evaluate the distance
+  to the source, which we estimate to be 3.2 kpc. The burst durations vary generally
+  from about 10 s to 5 min. However, after one of the intermediate-duration bursts,
+  a faint tail is seen to at least about 2.4 h after the start of the burst. One very
+  long burst was observed, which lasted for several hours. This superburst candidate
+  was followed by a normal type-I burst only 19 days later. This is, to our knowledge,
+  the shortest burst-quench time among the superbursters. The observation of a superburst
+  in this system is difficult to reconcile if the system is accreting at about 1\%
+  of the Eddington limit. We describe the burst properties in relation to the persistent
+  emission. No strong correlations are apparent, except that the intermediate-duration
+  bursts occurred when 4U 0614+091's persistent emission was lowest and calm, and
+  when bursts were infrequent (on average roughly one every month to 3 months). The
+  average burst rate increased significantly after this period. The maximum average
+  burst recurrence rate is about once every week to 2 weeks. The burst behaviour may
+  be partly understood if there is at least an appreciable amount of helium present
+  in the accreted material from the donor star. If the system is an ultra-compact
+  X-ray binary with a CO white-dwarf donor, as has been suggested, this is unexpected.
+  If the bursts are powered by helium, we find that the energy production per accumulated
+  mass is about 2.5 times less than expected for pure helium matter.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...514A..65K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.3391
+author: Kuulkers, E. and in't Zand, J. J. M. and Atteia, J.-L. and Levine, A. M. and
+  Brandt, S. and Smith, D. A. and Linares, M. and Falanga, M. and Sánchez-Fernández,
+  C. and Markwardt, C. B. and Strohmayer, T. E. and Cumming, A. and Suzuki, M.
+author_list:
+- family: Kuulkers
+  given: E.
+- family: in't Zand
+  given: J. J. M.
+- family: Atteia
+  given: J.-L.
+- family: Levine
+  given: A. M.
+- family: Brandt
+  given: S.
+- family: Smith
+  given: D. A.
+- family: Linares
+  given: M.
+- family: Falanga
+  given: M.
+- family: Sánchez-Fernández
+  given: C.
+- family: Markwardt
+  given: C. B.
+- family: Strohmayer
+  given: T. E.
+- family: Cumming
+  given: A.
+- family: Suzuki
+  given: M.
+date-added: 2017-08-11 08:12:44 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1051/0004-6361/200913210
+eid: A65
+eprint: '0909.3391'
+journal: \aap
+keywords: 'accretion, accretion disks, binaries: close, stars: individual: 4U 0614+091,
+  stars: neutron, X-rays: binaries, X-rays: bursts'
+month: May
+pages: A65
+papis_id: d3999bb250ffb29629d987b114c0f770
+primaryclass: astro-ph.HE
+ref: kuulkers.e.2010
+title: What ignites on the neutron star of 4U 0614+091?
+type: article
+volume: '514'
+year: '2010'

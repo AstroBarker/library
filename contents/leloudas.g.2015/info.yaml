@@ -1,0 +1,79 @@
+abstract: We construct spectra of supernovae (SNe) interacting strongly with a circumstellar
+  medium (CSM) by adding SN templates, a black-body continuum, and an emission-line
+  spectrum. In a Monte Carlo simulation we vary a large number of parameters, such
+  as the SN type, brightness and phase, the strength of the CSM interaction, the extinction,
+  and the signal to noise ratio (S/N) of the observed spectrum. We generate more than
+  800 spectra, distribute them to ten different human classifiers, and study how the
+  different simulation parameters affect the appearance of the spectra and their classification.
+  The SNe IIn showing some structure over the continuum were characterized as "SNe
+  IInS" to allow for a better quantification. We demonstrate that the flux ratio of
+  the underlying SN to the continuum fV is the single most important parameter determining
+  whether a spectrum can be classified correctly. Other parameters, such as extinction,
+  S/N, and the width and strength of the emission lines, do not play a significant
+  role. Thermonuclear SNe get progressively classified as Ia-CSM, IInS, and IIn as
+  fV decreases. The transition between Ia-CSM and IInS occurs at fV ~ 0.2-0.3. It
+  is therefore possible to determine that SNe Ia-CSM are found at the (un-extincted)
+  magnitude range -19.5 >M> -21.6, in very good agreement with observations, and that
+  the faintest SN IIn that can hide a SN Ia has M = -20.1. The literature sample of
+  SNe Ia-CSM shows an association with 91T-like SNe Ia. Our experiment does not support
+  that this association can be attributed to a luminosity bias (91T-like being brighter
+  than normal events). We therefore conclude that this association has real physical
+  origins and we propose that 91T-like explosions result from single degenerate progenitors
+  that are responsible for the CSM. Despite the spectroscopic similarities between
+  SNe Ibc and SNe Ia, the number of misclassifications between these types was very
+  small in our simulation and mostly at low S/N. Combined with the SN luminosity function
+  needed to reproduce the observed SN Ia-CSM luminosities, it is unlikely that SNe
+  Ibc constitute an important contaminant within this sample. We show how Type II
+  spectra transition to IIn and how the Halpha profiles vary with fV. SNe IIn fainter
+  than M = -17.2 are unable to mask SNe IIP brighter than M = -15. A more advanced
+  simulation, including radiative transfer, shows that our simplified model is a good
+  first order approximation. The spectra obtained are in good agreement with real
+  data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015A\%26A...574A..61L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.1549
+author: Leloudas, G. and Hsiao, E. Y. and Johansson, J. and Maeda, K. and Moriya,
+  T. J. and Nordin, J. and Petrushevska, T. and Silverman, J. M. and Sollerman, J.
+  and Stritzinger, M. D. and Taddia, F. and Xu, D.
+author_list:
+- family: Leloudas
+  given: G.
+- family: Hsiao
+  given: E. Y.
+- family: Johansson
+  given: J.
+- family: Maeda
+  given: K.
+- family: Moriya
+  given: T. J.
+- family: Nordin
+  given: J.
+- family: Petrushevska
+  given: T.
+- family: Silverman
+  given: J. M.
+- family: Sollerman
+  given: J.
+- family: Stritzinger
+  given: M. D.
+- family: Taddia
+  given: F.
+- family: Xu
+  given: D.
+date-added: 2017-08-11 07:20:08 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1051/0004-6361/201322035
+eid: A61
+eprint: '1306.1549'
+journal: \aap
+keywords: 'supernovae: general'
+month: February
+pages: A61
+papis_id: 0f620b06b4e228691033d831f48efc3b
+primaryclass: astro-ph.SR
+ref: leloudas.g.2015
+title: Supernova spectra below strong circumstellar interaction
+type: article
+volume: '574'
+year: '2015'

@@ -1,0 +1,43 @@
+abstract: In relativistic, Poynting-dominated outflows, acceleration and collimation
+  are intimately connected. An important point is that the Lorentz force is nearly
+  compensated by the electric force; therefore the acceleration zone spans a large
+  range of scales. We derived the asymptotic equations describing relativistic, axisymmetric
+  magnetohydrodynamic flows far beyond the light cylinder. These equations do not
+  contain either intrinsic small scales (like the light cylinder radius) or terms
+  that nearly cancel each other (like the electric and magnetic forces); therefore
+  they could be easily solved numerically. They also suit well for qualitative analysis
+  of the flow and, in many cases, they could even be solved analytically or semianalytically.
+  We show that there are generally two collimation regimes. In the first regime, the
+  residual of the hoop stress and the electric force is counterbalanced by the pressure
+  of the poloidal magnetic field so that, at any distance from the source, the structure
+  of the flow is the same as the structure of an appropriate cylindrical equilibrium
+  configuration. In the second regime, the pressure of the poloidal magnetic field
+  is negligibly small so that the flow could be conceived as composed from coaxial
+  magnetic loops. In the two collimation regimes, the flow is accelerated in different
+  ways. We study in detail the structure of jets confined by the external pressure
+  with a power-law profile. In particular, we obtained simple scalings for the extent
+  of the acceleration zone, for the terminal Lorentz factor, and for the collimation
+  angle.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698.1570L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.3357
+author: Lyubarsky, Y.
+author_list:
+- family: Lyubarsky
+  given: Y.
+date-added: 2017-08-10 16:32:38 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/2/1570
+eprint: '0902.3357'
+journal: \apj
+keywords: 'galaxies: jets, gamma rays: bursts, MHD, relativity'
+month: June
+pages: 1570--1589
+papis_id: 55a094c577a6d84c8f8cfdabec9c2bad
+primaryclass: astro-ph.HE
+ref: lyubarsky.y.2009
+title: Asymptotic Structure of Poynting-Dominated Jets
+type: article
+volume: '698'
+year: '2009'

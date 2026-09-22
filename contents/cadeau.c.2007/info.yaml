@@ -1,0 +1,36 @@
+abstract: We present ray-tracing computations for light emitted from the surface of
+  a rapidly rotating neutron star in order to construct light curves for X-ray pulsars
+  and bursters. These calculations are for realistic models of rapidly rotating neutron
+  stars that take into account both the correct exterior metric and the oblate shape
+  of the star. We find that the most important effect arising from rotation comes
+  from the oblate shape of the rotating star. Approximating a rotating neutron star
+  as a sphere introduces serious errors in fitted values of the star's radius and
+  mass if the rotation rate is very large. However, in most cases acceptable fits
+  to the ratio M/R can be obtained with the spherical approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...654..458C
+arxivurl: http://arxiv.org/abs/astro-ph/0609325
+author: Cadeau, C. and Morsink, S. M. and Leahy, D. and Campbell, S. S.
+author_list:
+- family: Cadeau
+  given: C.
+- family: Morsink
+  given: S. M.
+- family: Leahy
+  given: D.
+- family: Campbell
+  given: S. S.
+date-added: 2017-08-10 22:24:10 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/509103
+eprint: astro-ph/0609325
+journal: \apj
+keywords: 'Stars: Pulsars: General, Relativity, Stars: Neutron, Stars: Rotation'
+month: January
+pages: 458--469
+papis_id: 26e8ccc31663fbebc295db40ffcbf22b
+ref: cadeau.c.2007
+title: Light Curves for Rapidly Rotating Neutron Stars
+type: article
+volume: '654'
+year: '2007'

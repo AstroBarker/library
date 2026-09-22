@@ -1,0 +1,156 @@
+abstract: 'We present measurements of the Hubble diagram for 103 Type Ia supernovae
+  (SNe) with redshifts 0.04 < z < 0.42, discovered during the first season (Fall 2005)
+  of the Sloan Digital Sky Survey-II (SDSS-II) Supernova Survey. These data fill in
+  the redshift "desert" between low- and high-redshift SN Ia surveys. Within the framework
+  of the MLCS2K2 light-curve fitting method, we use the SDSS-II SN sample to infer
+  the mean reddening parameter for host galaxies, RV = 2.18 $\pm$ 0.14stat \$\pm\$
+  0.48syst, and find that the intrinsic distribution of host-galaxy extinction is
+  well fitted by an exponential function, P(AV ) = exp(-AV /tauV), with tauV = 0.334
+  \$\pm\$ 0.088 mag. We combine the SDSS-II measurements with new distance estimates
+  for published SN data from the ESSENCE survey, the Supernova Legacy Survey (SNLS),
+  the Hubble Space Telescope (HST), and a compilation of Nearby SN Ia measurements.
+  A new feature in our analysis is the use of detailed Monte Carlo simulations of
+  all surveys to account for selection biases, including those from spectroscopic
+  targeting. Combining the SN Hubble diagram with measurements of baryon acoustic
+  oscillations from the SDSS Luminous Red Galaxy sample and with cosmic microwave
+  background temperature anisotropy measurements from the Wilkinson Microwave Anisotropy
+  Probe, we estimate the cosmological parameters w and OmegaM, assuming a spatially
+  flat cosmological model (FwCDM) with constant dark energy equation of state parameter,
+  w. We also consider constraints upon OmegaM and OmegaLambda for a cosmological constant
+  model (LambdaCDM) with w = -1 and non-zero spatial curvature. For the FwCDM model
+  and the combined sample of 288 SNe Ia, we find w = -0.76 \$\pm\$ 0.07(stat) \$\pm\$
+  0.11(syst), OmegaM = 0.307 \$\pm\$ 0.019(stat) \$\pm\$ 0.023(syst) using MLCS2K2
+  and w = -0.96 \$\pm\$ 0.06(stat) \$\pm\$ 0.12(syst), OmegaM = 0.265 \$\pm\$ 0.016(stat)
+  \$\pm\$ 0.025(syst) using the SALT-II fitter. We trace the discrepancy between these
+  results to a difference in the rest-frame UV model combined with a different luminosity
+  correction from color variations; these differences mostly affect the distance estimates
+  for the SNLS and HST SNe. We present detailed discussions of systematic errors for
+  both light-curve methods and find that they both show data-model discrepancies in
+  rest-frame U band. For the SALT-II approach, we also see strong evidence for redshift-dependence
+  of the color-luminosity parameter (beta). Restricting the analysis to the 136 SNe
+  Ia in the Nearby+SDSS-II samples, we find much better agreement between the two
+  analysis methods but with larger uncertainties: w = -0.92 \$\pm\$ 0.13(stat)+0.10
+  -0.33(syst) for MLCS2K2 and w = -0.92 \$\pm\$ 0.11(stat)+0.07 -0.15 (syst) for SALT-II.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..185...32K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.4274
+author: Kessler, R. and Becker, A. C. and Cinabro, D. and Vanderplas, J. and Frieman,
+  J. A. and Marriner, J. and Davis, T. M. and Dilday, B. and Holtzman, J. and Jha,
+  S. W. and Lampeitl, H. and Sako, M. and Smith, M. and Zheng, C. and Nichol, R. C.
+  and Bassett, B. and Bender, R. and Depoy, D. L. and Doi, M. and Elson, E. and Filippenko,
+  A. V. and Foley, R. J. and Garnavich, P. M. and Hopp, U. and Ihara, Y. and Ketzeback,
+  W. and Kollatschny, W. and Konishi, K. and Marshall, J. L. and McMillan, R. J. and
+  Miknaitis, G. and Morokuma, T. and Mörtsell, E. and Pan, K. and Prieto, J. L. and
+  Richmond, M. W. and Riess, A. G. and Romani, R. and Schneider, D. P. and Sollerman,
+  J. and Takanashi, N. and Tokita, K. and van der Heyden, K. and Wheeler, J. C. and
+  Yasuda, N. and York, D.
+author_list:
+- family: Kessler
+  given: R.
+- family: Becker
+  given: A. C.
+- family: Cinabro
+  given: D.
+- family: Vanderplas
+  given: J.
+- family: Frieman
+  given: J. A.
+- family: Marriner
+  given: J.
+- family: Davis
+  given: T. M.
+- family: Dilday
+  given: B.
+- family: Holtzman
+  given: J.
+- family: Jha
+  given: S. W.
+- family: Lampeitl
+  given: H.
+- family: Sako
+  given: M.
+- family: Smith
+  given: M.
+- family: Zheng
+  given: C.
+- family: Nichol
+  given: R. C.
+- family: Bassett
+  given: B.
+- family: Bender
+  given: R.
+- family: Depoy
+  given: D. L.
+- family: Doi
+  given: M.
+- family: Elson
+  given: E.
+- family: Filippenko
+  given: A. V.
+- family: Foley
+  given: R. J.
+- family: Garnavich
+  given: P. M.
+- family: Hopp
+  given: U.
+- family: Ihara
+  given: Y.
+- family: Ketzeback
+  given: W.
+- family: Kollatschny
+  given: W.
+- family: Konishi
+  given: K.
+- family: Marshall
+  given: J. L.
+- family: McMillan
+  given: R. J.
+- family: Miknaitis
+  given: G.
+- family: Morokuma
+  given: T.
+- family: Mörtsell
+  given: E.
+- family: Pan
+  given: K.
+- family: Prieto
+  given: J. L.
+- family: Richmond
+  given: M. W.
+- family: Riess
+  given: A. G.
+- family: Romani
+  given: R.
+- family: Schneider
+  given: D. P.
+- family: Sollerman
+  given: J.
+- family: Takanashi
+  given: N.
+- family: Tokita
+  given: K.
+- family: van der Heyden
+  given: K.
+- family: Wheeler
+  given: J. C.
+- family: Yasuda
+  given: N.
+- family: York
+  given: D.
+date-added: 2017-08-10 21:09:12 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0067-0049/185/1/32
+eprint: '0908.4274'
+journal: \apjs
+keywords: 'cosmological parameters, cosmology: observations, distance scale, methods:
+  data analysis, supernovae: general, surveys'
+month: November
+pages: 32--84
+papis_id: 2e3cdc91ca760c0bc0ff43d9d98abbb5
+ref: kessler.r.2009
+title: 'First-Year Sloan Digital Sky Survey-II Supernova Results: Hubble Diagram and
+  Cosmological Parameters'
+type: article
+volume: '185'
+year: '2009'

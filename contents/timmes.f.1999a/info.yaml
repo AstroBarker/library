@@ -1,0 +1,40 @@
+abstract: We compare the thermodynamic properties and execution speed of five independent
+  equations of state. A wide range of temperatures, densities, and compositions are
+  considered--conditions appropriate for modeling the collapse of a cloud of hydrogen
+  gas (or an exploding supernova) to the outer layers of a neutron star. The pressures
+  and specific thermal energies calculated by each equation-of-state routine are reasonably
+  accurate (typically 0.1\% error or less) and agree remarkably well with each other,
+  despite the different approaches and approximations used in each routine. The derivatives
+  of the pressure and specific thermal energies with respect to the temperature and
+  density generally show less accuracy (typically 1\% error or less) and more disagreement
+  with one another. Thermodynamic consistency, as measured by deviations from the
+  appropriate Maxwell relations, shows that the Timmes equation of state and the Nadyozhin
+  equation of state achieve thermodynamic consistency to a high degree of precision.
+  The execution speed of the five equation-of-state routines--evaluated across several
+  different machine architectures, compiler options, and modes of operation--differ
+  dramatically. The Arnett equation of state is the fastest of the five routines,
+  with the Nadyozhin equation of state close behind.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJS..125..277T
+author: Timmes, F. X. and Arnett, D.
+author_list:
+- family: Timmes
+  given: F. X.
+- family: Arnett
+  given: D.
+date-added: 2017-08-10 17:53:46 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/313271
+journal: \apjs
+keywords: 'EQUATION OF STATE, HYDRODYNAMICS, METHODS: NUMERICAL, STARS: GENERAL, STARS:
+  INTERIORS, Equation of State, Hydrodynamics, Methods: Numerical, Stars: General,
+  Stars: Interiors'
+month: November
+pages: 277--294
+papis_id: c52b97b5c488cf00c37b7262d8f38649
+ref: timmes.f.1999a
+title: The Accuracy, Consistency, and Speed of Five Equations of State for Stellar
+  Hydrodynamics
+type: article
+volume: '125'
+year: '1999'

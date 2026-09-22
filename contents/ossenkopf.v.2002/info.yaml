@@ -1,0 +1,51 @@
+abstract: We compare velocity structure observed in the Polaris Flare molecular cloud
+  at scales ranging from 0.015 pc to 20 pc to the velocity structure of a suite of
+  simulations of supersonic hydrodynamic and MHD turbulence computed with the ZEUS
+  MHD code. We examine different methods of characterising the structure, including
+  a scanning-beam method that provides an objective measurement of Larson's size-linewidth
+  relation, structure functions, velocity and velocity difference probability distribution
+  functions (PDFs), and the Delta -variance wavelet transform, and use them to compare
+  models and observations. The Delta -variance is most sensitive to characteristic
+  scales and scaling laws, but is limited in its application by a lack of intensity
+  weighting so that its results are easily dominated by observational noise in maps
+  with large empty areas. The scanning-beam size-linewidth relation is more robust
+  with respect to noisy data. Obtaining the global velocity scaling behaviour requires
+  that large-scale trends in the maps not be removed but treated as part of the turbulent
+  cascade. We compare the true velocity PDF in our models to simulated observations
+  of velocity centroids and average line profiles in optically thin lines, and find
+  that the line profiles reflect the true PDF better unless the map size is comparable
+  to the total line-of-sight thickness of the cloud. Comparison of line profiles to
+  velocity centroid PDFs can thus be used to measure the line-of-sight depth of a
+  cloud. The observed density and velocity structure is consistent with supersonic
+  turbulence with a driving scale at or above the size of the molecular cloud and
+  dissipative processes below 0.05 pc. Ambipolar diffusion could explain the dissipation.
+  Over most of the observed range of scales the velocity structure is that of a shock-dominated
+  medium driven from large scale. The velocity PDFs exclude small-scale driving such
+  as that from stellar outflows as a dominant process in the observed region. In the
+  models, large-scale driving is the only process that produces deviations from a
+  Gaussian PDF shape consistent with observations, almost independent of the strength
+  of driving or magnetic field. Strong magnetic fields impose a clear anisotropy on
+  the velocity field, reducing the velocity variance in directions perpendicular to
+  the field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...390..307O
+author: Ossenkopf, V. and Mac Low, M.-M.
+author_list:
+- family: Ossenkopf
+  given: V.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:27:35 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020629
+journal: \aap
+keywords: 'ISM: clouds, ISM: magnetic fields, turbulence, ISM: kinematics and dynamics,
+  MHD'
+month: July
+pages: 307--326
+papis_id: 0cbf59fadc6736d6eb5894498d417d1e
+ref: ossenkopf.v.2002
+title: Turbulent velocity structure in molecular clouds
+type: article
+volume: '390'
+year: '2002'

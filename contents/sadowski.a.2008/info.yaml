@@ -1,0 +1,58 @@
+abstract: Using a population synthesis approach, we compute the total merger rate
+  in the local universe for double neutron stars, double black holes, and black hole-neutron
+  star binaries. These compact binaries are the prime source candidates for gravitational
+  wave detection by LIGO and VIRGO. We account for mergers originating both from field
+  populations and from dense stellar clusters, where dynamical interactions can significantly
+  enhance the production of double compact objects. For both populations we use the
+  same treatment of stellar evolution. Our results indicate that the merger rates
+  of double neutron stars and black hole-neutron star binaries are strongly dominated
+  by field populations, while merging black hole binaries are formed much more effectively
+  in dense stellar clusters. The overall merger rate of double compact objects depends
+  sensitively on the (largely unknown) initial mass fraction contained in dense clusters
+  (fcl). For fcllesssim 0.0001, the Advanced LIGO detection rate will be dominated
+  by field populations of double neutron star mergers, with a small but significant
+  number of detections, ~20 yr-1. However, for a higher mass fraction in clusters,
+  fclgtrsim 0.001, the detection rate will be dominated by numerous mergers of double
+  black holes originating from dense clusters, and it will be considerably higher,
+  ~25-300 yr-1. In addition, we show that, once mergers of double black holes are
+  detected, it is easy to differentiate between systems formed in the field and in
+  dense clusters, since the chirp mass distributions are strikingly different. If
+  significant field populations of double black hole mergers are detected, this will
+  also place very strong constraints on common-envelope evolution in massive binaries.
+  Finally, we point out that there may exist a population of merging black hole binaries
+  in intergalactic space.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...676.1162S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.0878
+author: Sadowski, A. and Belczynski, K. and Bulik, T. and Ivanova, N. and Rasio, F.
+  A. and O'Shaughnessy, R.
+author_list:
+- family: Sadowski
+  given: A.
+- family: Belczynski
+  given: K.
+- family: Bulik
+  given: T.
+- family: Ivanova
+  given: N.
+- family: Rasio
+  given: F. A.
+- family: O'Shaughnessy
+  given: R.
+date-added: 2017-08-11 07:43:22 +0000
+date-modified: 2017-12-05 16:37:04 +0000
+doi: 10.1086/528932
+eid: 1162-1169
+eprint: '0710.0878'
+journal: \apj
+keywords: 'binaries: close, black hole physics, globular clusters: general, gravitational
+  waves, stars: evolution, stellar dynamics'
+month: April
+pages: 1162--1169
+papis_id: 5b57178a2af25887898eca5d0a785cec
+ref: sadowski.a.2008
+title: The Total Merger Rate of Compact Object Binaries in the Local Universe
+type: article
+volume: '676'
+year: '2008'

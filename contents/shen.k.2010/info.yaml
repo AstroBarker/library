@@ -1,0 +1,51 @@
+abstract: During the early evolution of an AM Canum Venaticorum system, helium is
+  accreted onto the surface of a white dwarf under conditions suitable for unstable
+  thermonuclear ignition. The turbulent motions induced by the convective burning
+  phase in the He envelope become strong enough to influence the propagation of burning
+  fronts and may result in the onset of a detonation. Such an outcome would yield
+  radioactive isotopes and a faint rapidly rising thermonuclear ".Ia" supernova. In
+  this paper, we present hydrodynamic explosion models and observable outcomes of
+  these He shell detonations for a range of initial core and envelope masses. The
+  peak UVOIR bolometric luminosities range by a factor of 10 (from 5 \texttimes{}
+  1041 to 5 \texttimes{} 1042 erg s-1), and the R-band peak varies from M  R,peak
+  = -15 to -18. The rise times in all bands are very rapid (<10 days), but the decline
+  rate is slower in the red than in the blue due to a secondary near-IR brightening.
+  The nucleosynthesis primarily yields heavy alpha-chain elements (40Ca through 56Ni)
+  and unburnt He. Thus, the spectra around peak light lack signs of intermediate-mass
+  elements and are dominated by Ca II and Ti II features, with the caveat that our
+  radiative transfer code does not include the nonthermal effects necessary to produce
+  He features.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715..767S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.2258
+author: Shen, K. J. and Kasen, D. and Weinberg, N. N. and Bildsten, L. and Scannapieco,
+  E.
+author_list:
+- family: Shen
+  given: K. J.
+- family: Kasen
+  given: D.
+- family: Weinberg
+  given: N. N.
+- family: Bildsten
+  given: L.
+- family: Scannapieco
+  given: E.
+date-added: 2017-08-10 15:25:18 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/715/2/767
+eprint: '1002.2258'
+journal: \apj
+keywords: 'binaries: close, novae, cataclysmic variables, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: June
+pages: 767--774
+papis_id: f4d97c97d9c715057b907b98dbbf7f7c
+primaryclass: astro-ph.HE
+ref: shen.k.2010
+title: 'Thermonuclear .Ia Supernovae from Helium Shell Detonations: Explosion Models
+  and Observables'
+type: article
+volume: '715'
+year: '2010'

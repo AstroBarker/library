@@ -1,0 +1,64 @@
+abstract: During most stages of stellar evolution the nuclear burning of lighter to
+  heavier elements results in a radial composition profile which is stabilizing against
+  buoyant acceleration, with light material residing above heavier material. However,
+  under some circumstances, such as off-center ignition, the composition profile resulting
+  from nuclear burning can be destabilizing and characterized by an outwardly increasing
+  mean molecular weight. The potential for instabilities under these circumstances
+  and the consequences that they may have on stellar structural evolution remain largely
+  unexplored. In this paper we study the development and evolution of instabilities
+  associated with unstable composition gradients in regions that are initially stable
+  according to linear Schwarzschild and Ledoux criteria. In particular, we study the
+  development of turbulent flow under a variety of stellar evolution conditions with
+  multi-dimensional hydrodynamic simulation; the phases studied include the core helium
+  flash in a 1.25 M \&sun; star, the core carbon flash in a 9.3 M \&sun; star, and
+  oxygen shell burning in a 23 M \&sun; star. The results of our simulations reveal
+  a mixing process associated with regions having outwardly increasing mean molecular
+  weight that reside below convection zones. The mixing is not due to overshooting
+  from the convection zone, nor is it due directly to thermohaline mixing which operates
+  on a timescale several orders of magnitude larger than the simulated flows. Instead,
+  the mixing appears to be due to the presence of a wave field induced in the stable
+  layers residing beneath the convection zone which enhances the mixing rate by many
+  orders of magnitude and allows a thermohaline type mixing process to operate on
+  a dynamical, rather than thermal, timescale. The mixing manifests itself in the
+  form of overdense and cold blob-like structures originating from density fluctuations
+  at the lower boundary of convective shell and "shooting" down into the core. They
+  are enriched with nuclearly processed material, hence leaving behind traces of higher
+  mean molecular weight. In these regions, we find that initially smooth composition
+  gradients steepen into stair-step-like profiles in which homogeneous, mixed regions
+  are separated by composition jumps. These step-like profiles are then seen to evolve
+  by a process of interface migration driven by turbulent entrainment. We discuss
+  our results in terms of related laboratory phenomena and associated theoretical
+  developments. We also discuss the degree to which the simulated mixing rates depend
+  on the numerical resolution, and what future steps can be taken to capture the mixing
+  rates accurately.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...743...55M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4433
+author: Mocák, M. and Meakin, C. A. and Müller, E. and Siess, L.
+author_list:
+- family: Mocák
+  given: M.
+- family: Meakin
+  given: C. A.
+- family: Müller
+  given: E.
+- family: Siess
+  given: L.
+date-added: 2017-08-11 07:58:43 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/743/1/55
+eid: '55'
+eprint: '1108.4433'
+journal: \apj
+keywords: 'hydrodynamics, stars: evolution, stars: interiors, turbulence'
+month: December
+pages: '55'
+papis_id: 2ac0b1481aa79f7a2784a52147a78bf0
+primaryclass: astro-ph.SR
+ref: mocak.m.2011
+title: A New Stellar Mixing Process Operating below Shell Convection Zones Following
+  Off-center Ignition
+type: article
+volume: '743'
+year: '2011'

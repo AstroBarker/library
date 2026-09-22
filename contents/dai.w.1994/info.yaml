@@ -1,0 +1,31 @@
+abstract: A two-dimensional computer code, which was recently developed for magnetohydrodynamical
+  (MHD) shock problems, is used to simulate the interaction between a MHD shock and
+  a denser cloud. The cloud is modeled as a cylinder along the direction perpendicular
+  to the simulation domain and with a circular cross section. The tangential part
+  of the magnetic field is initially along the cylinder. Various Mach numbers for
+  the incident shock and various density contrasts between the cloud and its surrounding
+  are used. Detailed pictures for the interaction are provided, and important time
+  and length scales involved in the interaction are given in this paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...436..776D
+author: Dai, W. and Woodward, P. R.
+author_list:
+- family: Dai
+  given: W.
+- family: Woodward
+  given: P. R.
+date-added: 2017-08-10 23:47:26 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174952
+journal: \apj
+keywords: Astronomical Models, Magnetohydrodynamic Waves, Molecular Clouds, Shock
+  Wave Interaction, Shock Waves, Two Dimensional Models, Computerized Simulation,
+  Interstellar Magnetic Fields, Magnetic Field Configurations, Mathematical Models
+month: December
+pages: 776--783
+papis_id: cb8f94d30a2112897f9a88b7450bb598
+ref: dai.w.1994
+title: Interactions between magnetohydrodynamical shocks and denser clouds
+type: article
+volume: '436'
+year: '1994'

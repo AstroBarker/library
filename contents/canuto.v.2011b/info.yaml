@@ -1,0 +1,38 @@
+abstract: We present a formalism that provides the Reynolds stresses needed to solve
+  the angular momentum equation. The traditional Reynolds stress model assumes that
+  the only contribution comes from shear (a down-gradient flux), but this leads to
+  an extraction of angular momentum from the interior that is far too small compared
+  to what is required to explain the helio seismological data. An illustrative solution
+  of the new Reynolds stress equations shows that the presence of vorticity in a stably
+  stratified regime, such as the one in the radiative zone, contributes a new term
+  to the angular momentum equation that has an up-gradient flux like the one provided
+  by the IGW model (internal gravity waves). The time scale entailed by such a term
+  may be of the same order of 107 yrs produced by the IGW model. It would be instructive
+  to solve the new angular momentum equation together with the formalism developed
+  in Paper III to study not only the solar angular momentum distribution vs. helio
+  data, but also the evolution of elements such as 7Li and 4He. These results would
+  allow a more quantitative assessment of the overall model. The complete model yields
+  Reynolds stresses that include differential rotation, unstable/stable stratification,
+  double diffusion, radiative losses (arbitrary Peclet number), and meridional currents.  This
+  work is dedicated to Aura Sofia Canuto.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A..79C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2017-08-10 16:27:55 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201014449
+eid: A79
+journal: \aap
+keywords: 'turbulence, diffusion, convection, hydrodynamics, methods: analytical,
+  stars: rotation'
+month: April
+pages: A79
+papis_id: de803cd5a9d6f4c33f1fe4429cec89df
+ref: canuto.v.2011b
+title: Stellar Mixing. IV. The angular momentum problem
+type: article
+volume: '528'
+year: '2011'

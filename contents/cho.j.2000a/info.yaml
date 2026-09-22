@@ -1,0 +1,44 @@
+abstract: We have tested the ability of driven turbulence to generate magnetic field
+  structure from a weak uniform field using three-dimensional numerical simulations
+  of incompressible turbulence. We used a pseudospectral code with a numerical resolution
+  of up to 1443 collocation points. We find that the magnetic fields are amplified
+  through field line stretching at a rate proportional to the difference between the
+  velocity and the magnetic field strength times a constant. Equipartition between
+  the kinetic and magnetic energy densities occurs at a scale somewhat smaller than
+  the kinetic energy peak. Above the equipartition scale the velocity structure is,
+  as expected, nearly isotropic. The magnetic field structure at these scales is uncertain,
+  but the field correlation function is very weak. At the equipartition scale the
+  magnetic fields show only a moderate degree of anisotropy, so the typical radius
+  of curvature of field lines is comparable to the typical perpendicular scale for
+  field reversal. In other words, there are few field reversals within eddies at the
+  equipartition scale and no fine-grained series of reversals at smaller scales. At
+  scales below the equipartition scale, both velocity and magnetic structures are
+  anisotropic; the eddies are stretched along the local magnetic field lines, and
+  the magnetic energy dominates the kinetic energy on the same scale by a factor that
+  increases at higher wavenumbers. We do not show a scale-free inertial range, but
+  the power spectra are a function of resolution and/or the imposed viscosity and
+  resistivity. Our results are consistent with the emergence of a scale-free inertial
+  range at higher Reynolds numbers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...538..217C
+arxivurl: http://arxiv.org/abs/astro-ph/0003404
+author: Cho, J. and Vishniac, E. T.
+author_list:
+- family: Cho
+  given: J.
+- family: Vishniac
+  given: E. T.
+date-added: 2017-08-10 22:38:58 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309127
+eprint: astro-ph/0003404
+journal: \apj
+keywords: 'ISM: General, Magnetohydrodynamics: MHD, Turbulence'
+month: July
+pages: 217--225
+papis_id: 5870f103d30b4f33e24f2a6b394806ac
+ref: cho.j.2000a
+title: The Generation of Magnetic Fields through Driven Turbulence
+type: article
+volume: '538'
+year: '2000'

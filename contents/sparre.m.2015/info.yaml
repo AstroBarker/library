@@ -1,0 +1,64 @@
+abstract: Understanding the physical processes that drive star formation is a key
+  challenge for galaxy formation models. In this paper, we study the tight correlation
+  between the star formation rate (SFR) and stellar mass of galaxies at a given redshift,
+  how halo growth influences star formation, and star formation histories of individual
+  galaxies. We study these topics using Illustris, a state-of-the-art cosmological
+  hydrodynamical simulation of galaxy formation. Illustris reproduces the observed
+  relation (the star formation main sequence, SFMS) between SFR and stellar mass at
+  redshifts z = 0 and 4, but at intermediate redshifts of z ~= 1-2, the simulated
+  SFMS has a significantly lower normalization than reported by observations. The
+  scatter in the relation is consistent with the observed scatter. However, the fraction
+  of outliers above the SFR-stellar mass relation in Illustris is less than that observed.
+  Galaxies with halo masses of \texttildelow{}1012 M\&sun; dominate the SFR density
+  of the Universe, in agreement with the results of abundance matching. Furthermore,
+  more-massive galaxies tend to form the bulk of their stars at high redshift, which
+  indicates that `downsizing' occurs in Illustris. We also studied the star formation
+  histories of individual galaxies, including the use of a principal component analysis
+  decomposition. We find that for fixed stellar mass, galaxies that form earlier have
+  more-massive black holes at z = 0, indicating that star formation and black hole
+  growth are tightly linked processes in Illustris. While many of the properties of
+  normal star-forming galaxies are well reproduced in the Illustris simulation, forming
+  a realistic population of starbursts will likely require higher resolution and probably
+  a more sophisticated treatment of star formation and feedback from stars and black
+  holes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.447.3548S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1409.0009
+author: Sparre, M. and Hayward, C. C. and Springel, V. and Vogelsberger, M. and Genel,
+  S. and Torrey, P. and Nelson, D. and Sijacki, D. and Hernquist, L.
+author_list:
+- family: Sparre
+  given: M.
+- family: Hayward
+  given: C. C.
+- family: Springel
+  given: V.
+- family: Vogelsberger
+  given: M.
+- family: Genel
+  given: S.
+- family: Torrey
+  given: P.
+- family: Nelson
+  given: D.
+- family: Sijacki
+  given: D.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:25:44 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2713
+eprint: '1409.0009'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: evolution, galaxies: formation, galaxies:
+  starburst, galaxies: star formation, cosmology: theory'
+month: March
+pages: 3548--3563
+papis_id: 585f3128f28a1eb53495346d85ee5de6
+ref: sparre.m.2015
+title: The star formation main sequence and stellar mass assembly of galaxies in the
+  Illustris simulation
+type: article
+volume: '447'
+year: '2015'

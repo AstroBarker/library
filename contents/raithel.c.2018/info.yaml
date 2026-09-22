@@ -1,0 +1,50 @@
+abstract: The mass distribution of compact objects provides a fossil record that can
+  be studied to uncover information on the late stages of massive star evolution,
+  the supernova explosion mechanism, and the dense matter equation of state. Observations
+  of neutron star masses indicate a bimodal Gaussian distribution, while the observed
+  black hole mass distribution decays exponentially for stellar-mass black holes.
+  We use these observed distributions to directly confront the predictions of stellar
+  evolution models and the neutrino-driven supernova simulations of Sukhbold et al.
+  We find strong agreement between the black hole and low-mass neutron star distributions
+  created by these simulations and the observations. We show that a large fraction
+  of the stellar envelope must be ejected, either during the formation of stellar-mass
+  black holes or prior to the implosion through tidal stripping due to a binary companion,
+  in order to reproduce the observed black hole mass distribution. We also determine
+  the origins of the bimodal peaks of the neutron star mass distribution, finding
+  that the low-mass peak (centered at ~1.4 M \&sun;) originates from progenitors with
+  M ZAMS \approx{} 9--18 M \&sun;. The simulations fail to reproduce the observed
+  peak of high-mass neutron stars (centered at ~1.8 M \&sun;) and we explore several
+  possible explanations. We argue that the close agreement between the observed and
+  predicted black hole and low-mass neutron star mass distributions provides new,
+  promising evidence that these stellar evolution and explosion models capture the
+  majority of relevant stellar, nuclear, and explosion physics involved in the formation
+  of compact objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...856...35R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.00021
+author: Raithel, C. A. and Sukhbold, T. and Özel, F.
+author_list:
+- family: Raithel
+  given: C. A.
+- family: Sukhbold
+  given: T.
+- family: Özel
+  given: F.
+date-added: 2018-04-25 23:36:52 +0000
+date-modified: 2018-04-25 23:36:53 +0000
+doi: 10.3847/1538-4357/aab09b
+eid: '35'
+eprint: '1712.00021'
+journal: \apj
+keywords: 'stars: black holes, stars: evolution, stars: neutron, supernovae: general'
+month: March
+pages: '35'
+papis_id: fef8cc54db50ddebf49f8b067b980995
+primaryclass: astro-ph.HE
+ref: raithel.c.2018
+title: Confronting Models of Massive Star Evolution and Explosions with Remnant Mass
+  Measurements
+type: article
+volume: '856'
+year: '2018'

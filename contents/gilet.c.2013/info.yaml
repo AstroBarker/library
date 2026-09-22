@@ -1,0 +1,49 @@
+abstract: 'This work presents three-dimensional simulations of core convection in
+  a 15 M \&sun; star halfway through its main sequence lifetime. To perform the necessary
+  long-time calculations, we use the low Mach number code MAESTRO, with initial conditions
+  taken from a one-dimensional stellar model. We first identify several key factors
+  that the one-dimensional initial model must satisfy to ensure efficient simulation
+  of the convection process. We then use the three-dimensional simulations to examine
+  the effects of two common modeling choices on the resulting convective flow: using
+  a fixed composition approximation and using a reduced domain size. We find that
+  using a fixed composition model actually increases the computational cost relative
+  to using the full multi-species model because the fixed composition system takes
+  longer to reach convection that is in a quasi-static state. Using a reduced (octant
+  rather than full sphere) simulation domain yields flow with statistical properties
+  that are within a factor of two of the full sphere simulation values. Both the octant
+  and full sphere simulations show similar mixing across the convection zone boundary
+  that is consistent with the turbulent entrainment model. However, the global character
+  of the flow is distinctly different in the octant simulation, showing more rapid
+  changes in the large-scale structure of the flow and thus a more isotropic flow
+  on average.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...773..137G
+author: Gilet, C. and Almgren, A. S. and Bell, J. B. and Nonaka, A. and Woosley, S.
+  E. and Zingale, M.
+author_list:
+- family: Gilet
+  given: C.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Nonaka
+  given: A.
+- family: Woosley
+  given: S. E.
+- family: Zingale
+  given: M.
+date-added: 2017-08-10 19:06:58 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/773/2/137
+eid: '137'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: interiors, turbulence'
+month: August
+pages: '137'
+papis_id: 29e3de324839b9c62280580bccc8000b
+ref: gilet.c.2013
+title: Low Mach Number Modeling of Core Convection in Massive Stars
+type: article
+volume: '773'
+year: '2013'

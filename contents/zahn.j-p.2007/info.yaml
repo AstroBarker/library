@@ -1,0 +1,50 @@
+abstract: 'Context: We examine the MHD instabilities arising in the radiation zone
+  of a differentially rotating star, in which a poloidal field of fossil origin is
+  sheared into a toroidal field.  Aims: We focus on the non-axisymmetric instability
+  that affects the toroidal magnetic field in a rotating star, which was first studied
+  by Pitts and Tayler in the non-dissipative limit. If such an instability were able
+  to mix the stellar material, it could have an impact on the evolution of the star.
+  According to Spruit, it could also drive a dynamo.  Methods: We compare the numerical
+  solutions built with the 3-dimensional ASH code with the predictions drawn from
+  an analytical study of the Pitts \& Tayler instability.  Results: The Pitts \& Tayler
+  instability is manifestly present in our simulations, with its conspicuous m=1 dependence
+  in azimuth. But its analytic treatment used so far is too simplified to be applied
+  to the real stellar situation. Although the instability generated field reaches
+  an energy comparable to that of the mean poloidal field, that field seems unaffected
+  by the instability: it undergoes Ohmic decline, and is neither eroded nor regenerated
+  by the instability. The toroidal field is produced by shearing the poloidal field
+  and it draws its energy from the differential rotation. The small scale motions
+  behave as Alfv{\''e}n waves; they cause negligible eddy-diffusivity and contribute
+  little to the net transport of angular momentum.   Conclusions: In our simulations
+  we observe no sign of dynamo action, of either mean field or fluctuation type, up
+  to a magnetic Reynolds number of 10^5. However the Pitts \& Tayler instability is
+  sustained as long as the differential rotation acting on the poloidal field is able
+  to generate a toroidal field of sufficient strength. But in the Sun such a poloidal
+  field of fossil origin is ruled out by the nearly uniform rotation of the deep interior.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...474..145Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.3287
+author: Zahn, J.-P. and Brun, A. S. and Mathis, S.
+author_list:
+- family: Zahn
+  given: J.-P.
+- family: Brun
+  given: A. S.
+- family: Mathis
+  given: S.
+date-added: 2017-08-10 17:09:05 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1051/0004-6361:20077653
+eprint: '0707.3287'
+journal: \aap
+keywords: 'instabilities, stars: magnetic fields, stars: rotation, magnetohydrodynamics
+  (MHD)'
+month: October
+pages: 145--154
+papis_id: 1fc261ba8bf0fe2bca64138a1bbba6a9
+ref: zahn.j_p.2007
+title: On magnetic instabilities and dynamo action in stellar radiation zones
+type: article
+volume: '474'
+year: '2007'

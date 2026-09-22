@@ -1,0 +1,36 @@
+abstract: 'This paper describes the development and testing of a general relativistic
+  magnetohydrodynamic (GRMHD) code to study ideal MHD in the fixed background of a
+  Kerr black hole. The code is a direct extension of the hydrodynamic code of Hawley,
+  Smarr, \& Wilson and uses Evans \& Hawley constrained transport (CT) to evolve the
+  magnetic fields. Two categories of test cases were undertaken. A one-dimensional
+  version of the code (Minkowski metric) was used to verify code performance in the
+  special relativistic limit. The tests include Alfv{\''e}n wave propagation, fast
+  and slow magnetosonic shocks, rarefaction waves, and both relativistic and nonrelativistic
+  shock tubes. A series of one- and two-dimensional tests were also carried out in
+  the Kerr metric: magnetized Bondi inflow, a magnetized inflow test due to Gammie,
+  and two-dimensional magnetized constant-l tori that are subject to the magnetorotational
+  instability.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...589..458D
+arxivurl: http://arxiv.org/abs/astro-ph/0210518
+author: De Villiers, J.-P. and Hawley, J. F.
+author_list:
+- family: De Villiers
+  given: J.-P.
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-10 22:22:53 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/373949
+eprint: astro-ph/0210518
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Instabilities, Magnetohydrodynamics:
+  MHD, Relativity'
+month: May
+pages: 458--480
+papis_id: 6d7f47e02d9d372f542bdb8897af43c9
+ref: de_villiers.j_p.2003
+title: A Numerical Method for General Relativistic Magnetohydrodynamics
+type: article
+volume: '589'
+year: '2003'

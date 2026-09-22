@@ -1,0 +1,52 @@
+abstract: We present the first science results from our Hubble Space Telescope survey
+  for Lyman limit absorption systems (LLS) using the low dispersion spectroscopic
+  modes of the Advanced Camera for Surveys and the Wide Field Camera 3. Through an
+  analysis of 71 quasars, we determine the incidence frequency of LLS per unit redshift
+  and per unit path length, l(z) and l(X), respectively, over the redshift range 1
+  < z < 2.6, and find a weighted mean of l(X) =0.29 $\pm$ 0.05 for 2.0 < z < 2.5 through
+  a joint analysis of our sample and that of Ribaudo et al. Through stacked spectrum
+  analysis, we determine a median (mean) value of the mean free path to ionizing radiation
+  at z = 2.4 of lambda912 mfp = 243(252) h -1 72 Mpc, with an error on the mean value
+  of \ h -1 72 Mpc. We also re-evaluate the estimates of lambda912 mfp from Prochaska
+  et al. and place constraints on the evolution of lambda912 mfp with redshift, including
+  an estimate of the "breakthrough" redshift of z = 1.6. Consistent with results at
+  higher z, we find that a significant fraction of the opacity for absorption of ionizing
+  photons comes from systems with N H I  <=1017.5 cm-2 with a value for the total
+  Lyman opacity of tauLyman eff = 0.40 \$\pm\$ 0.15. Finally, we determine that at
+  minimum, a 5-parameter (4 power law) model is needed to describe the column density
+  distribution function f(N H I , X) at z ~ 2.4, find that f(N H I , X) undergoes
+  no significant change in shape between z ~ 2.4 and z ~ 3.7, and provide our best
+  fit model for f(N H I , X).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...765..137O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.3093
+author: O'Meara, J. M. and Prochaska, J. X. and Worseck, G. and Chen, H.-W. and Madau,
+  P.
+author_list:
+- family: O'Meara
+  given: J. M.
+- family: Prochaska
+  given: J. X.
+- family: Worseck
+  given: G.
+- family: Chen
+  given: H.-W.
+- family: Madau
+  given: P.
+date-added: 2017-08-10 21:36:00 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/765/2/137
+eid: '137'
+eprint: '1204.3093'
+journal: \apj
+keywords: 'cosmology: observations, intergalactic medium, quasars: absorption lines,
+  quasars: general, surveys, ultraviolet: general'
+month: March
+pages: '137'
+papis_id: 260b5488aff77628762bc662eabf9566
+ref: o_meara.j.2013
+title: The HST/ACS+WFC3 Survey for Lyman Limit Systems. II. Science
+type: article
+volume: '765'
+year: '2013'

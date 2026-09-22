@@ -1,0 +1,45 @@
+abstract: Suitable gauge conditions are fundamental for stable and accurate numerical-relativity
+  simulations of inspiralling compact binaries. A number of well-studied conditions
+  have been developed over the last decade for both the lapse and the shift and these
+  have been successfully used both in vacuum and non-vacuum spacetimes when simulating
+  binaries with comparable masses. At the same time, recent evidence has emerged that
+  the standard 'Gamma-driver' shift condition requires a careful and non-trivial tuning
+  of its parameters to ensure long-term stable evolutions of unequal-mass binaries.
+  We present a novel gauge condition in which the damping constant is promoted to
+  be a dynamical variable and the solution of an evolution equation. We show that
+  this choice removes the need for special tuning and provides a shift damping term
+  which is free of instabilities in our simulations and dynamically adapts to the
+  individual positions and masses of the binary black-hole system. Our gauge condition
+  also reduces the variations in the coordinate size of the apparent horizon of the
+  larger black hole and could therefore be useful when simulating binaries with very
+  small mass ratios.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27x5023A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.2212
+author: Alic, D. and Rezzolla, L. and Hinder, I. and Mösta, P.
+author_list:
+- family: Alic
+  given: D.
+- family: Rezzolla
+  given: L.
+- family: Hinder
+  given: I.
+- family: Mösta
+  given: P.
+date-added: 2017-08-10 21:55:58 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0264-9381/27/24/245023
+eid: '245023'
+eprint: '1008.2212'
+journal: Classical and Quantum Gravity
+month: December
+number: '24'
+pages: '245023'
+papis_id: bf58ab1e3370a803500bdba43d82d7e3
+primaryclass: gr-qc
+ref: alic.d.2010
+title: Dynamical damping terms for symmetry-seeking shift conditions
+type: article
+volume: '27'
+year: '2010'

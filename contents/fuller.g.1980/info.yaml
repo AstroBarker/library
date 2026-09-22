@@ -1,0 +1,41 @@
+abstract: Astrophysical positron emission, continuum electron capture, and neutrino
+  energy loss rates are calculated for 26Al --> 26Mg, 30P --> 30Si;, 31S --> 31P,
+  32S --> 32P 33S --> 33P, and 35Cl --> 35S.  Measured nuclear level information and
+  matrix elements are used where available. Unmeasured matrix elements for allowed
+  transitions are assigned on the basis of simple shell model arguments and the results
+  of detailed large-scale shell model calculations by Wildenthal and his collaborators.
+  The experimentally determined matrix elements are found to dominate the rates over
+  most of the range of temperatures and densities considered. The uncertainties in
+  the rates are estimated.  Appropriate average matrix elements for unmeasured Gamow-Teller
+  transitions are estimated for use in other sd-shell nuclei. The rates presented
+  agree roughly with those of Hansen over a wide range of conditions, but potentially
+  important differences in the rates exist at temperatures and densities relevant
+  for the production and destruction of 26Al and for neutronization and neutrino loss
+  in the late stages of presupernova evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1980ApJS...42..447F
+author: Fuller, G. M. and Fowler, W. A. and Newman, M. J.
+author_list:
+- family: Fuller
+  given: G. M.
+- family: Fowler
+  given: W. A.
+- family: Newman
+  given: M. J.
+date-added: 2017-08-11 03:35:20 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/190657
+journal: \apjs
+keywords: Neutrinos, Nuclear Astrophysics, Nuclear Reactions, Supernovae, Weak Interactions
+  (Field Theory), Aluminum 26, Electron Capture, Electron Transitions, Energy Dissipation,
+  Positrons, Reaction Kinetics
+month: March
+pages: 447--473
+papis_id: 89dc45ec25af226cd6cff0bf1f523f02
+ref: fuller.g.1980
+title: Stellar weak-interaction rates for sd-shell nuclei. I - Nuclear matrix element
+  systematics with application to Al-26 and selected nuclei of importance to the supernova
+  problem
+type: article
+volume: '42'
+year: '1980'

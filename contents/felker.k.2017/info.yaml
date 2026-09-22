@@ -1,0 +1,38 @@
+abstract: We present a fourth-order accurate finite volume method for the solution
+  of ideal magnetohydrodynamics (MHD). The numerical method combines high-order quadrature
+  rules in the solution of semi-discrete formulations of hyperbolic conservation laws
+  with the upwind constrained transport (UCT) framework to ensure that the divergence-free
+  constraint of the magnetic field is satisfied. A novel implementation of UCT that
+  uses the piecewise parabolic method (PPM) for the reconstruction of magnetic fields
+  at cell corners in 2D is introduced. The resulting scheme can be expressed as the
+  extension of the second-order accurate constrained transport (CT) Godunov-type scheme
+  that is currently used in the Athena astrophysics code. After validating the base
+  algorithm on a series of hydrodynamics test problems, we present the results of
+  multidimensional MHD test problems which demonstrate formal fourth-order convergence
+  for smooth problems, robustness for discontinuous problems, and improved accuracy
+  relative to the second-order scheme.
+adscomment: 36 pages, 16 figures, submitted to J. Comp. Phys
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv171107439F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1711.07439
+author: Felker, K. G. and Stone, J.
+author_list:
+- family: Felker
+  given: K. G.
+- family: Stone
+  given: J.
+date-added: 2018-08-02 14:59:12 -0400
+date-modified: 2018-08-02 14:59:13 -0400
+eprint: '1711.07439'
+journal: ArXiv e-prints
+keywords: Astrophysics - Instrumentation and Methods for Astrophysics, Mathematics
+  - Numerical Analysis, Physics - Computational Physics
+month: November
+papis_id: eb02582ff0d4c1127509b5323a81fe11
+primaryclass: astro-ph.IM
+ref: felker.k.2017
+title: A fourth-order accurate finite volume method for ideal MHD via upwind constrained
+  transport
+type: article
+year: '2017'

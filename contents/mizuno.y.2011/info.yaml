@@ -1,0 +1,47 @@
+abstract: We perform two-dimensional relativistic magnetohydrodynamic simulations
+  of a mildly relativistic shock propagating through an inhomogeneous medium. We show
+  that the postshock region becomes turbulent owing to preshock density inhomogeneity,
+  and the magnetic field is strongly amplified due to the stretching and folding of
+  field lines in the turbulent velocity field. The amplified magnetic field evolves
+  into a filamentary structure in two-dimensional simulations. The magnetic energy
+  spectrum is flatter than the Kolmogorov spectrum and indicates that a so-called
+  small-scale dynamo is occurring in the postshock region. We also find that the amount
+  of magnetic-field amplification depends on the direction of the mean preshock magnetic
+  field, and the timescale of magnetic-field growth depends on the shock strength.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...726...62M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.2171
+author: Mizuno, Y. and Pohl, M. and Niemiec, J. and Zhang, B. and Nishikawa, K.-I.
+  and Hardee, P. E.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Pohl
+  given: M.
+- family: Niemiec
+  given: J.
+- family: Zhang
+  given: B.
+- family: Nishikawa
+  given: K.-I.
+- family: Hardee
+  given: P. E.
+date-added: 2017-08-10 22:03:16 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/726/2/62
+eid: '62'
+eprint: '1011.2171'
+journal: \apj
+keywords: 'gamma-ray burst: general, magnetohydrodynamics: MHD, methods: numerical,
+  relativistic processes, shock waves, turbulence'
+month: January
+pages: '62'
+papis_id: 8f6bfd0600b9d8ea4b6643e41f3af83b
+primaryclass: astro-ph.HE
+ref: mizuno.y.2011
+title: Magnetic-field Amplification by Turbulence in a Relativistic Shock Propagating
+  Through an Inhomogeneous Medium
+type: article
+volume: '726'
+year: '2011'

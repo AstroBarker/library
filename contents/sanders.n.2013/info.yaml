@@ -1,0 +1,48 @@
+abstract: There is a well known correlation between the mass and metallicity of star-forming
+  galaxies. Because mass is correlated with luminosity, this relation is often exploited,
+  when spectroscopy is not available, to estimate galaxy metallicities based on single
+  band photometry. However, we show that galaxy color is typically more effective
+  than luminosity as a predictor of metallicity. This is a consequence of the correlation
+  between color and the galaxy mass-to-light ratio and the recently discovered correlation
+  between star formation rate (SFR) and residuals from the mass-metallicity relation.
+  Using Sloan Digital Sky Survey spectroscopy of ~180, 000 nearby galaxies, we derive
+  "LZC relations," empirical relations between metallicity (in seven common strong
+  line diagnostics), luminosity, and color (in 10 filter pairs and four methods of
+  photometry). We show that these relations allow photometric metallicity estimates,
+  based on luminosity and a single optical color, that are ~50\% more precise than
+  those made based on luminosity alone; galaxy metallicity can be estimated to within
+  ~0.05-0.1 dex of the spectroscopically derived value depending on the diagnostic
+  used. Including color information in photometric metallicity estimates also reduces
+  systematic biases for populations skewed toward high or low SFR environments, as
+  we illustrate using the host galaxy of the supernova SN 2010ay. This new tool will
+  lend more statistical power to studies of galaxy populations, such as supernova
+  and gamma-ray burst host environments, in ongoing and future wide-field imaging
+  surveys.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775..125S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.5520
+author: Sanders, N. E. and Levesque, E. M. and Soderberg, A. M.
+author_list:
+- family: Sanders
+  given: N. E.
+- family: Levesque
+  given: E. M.
+- family: Soderberg
+  given: A. M.
+date-added: 2017-08-11 08:18:43 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/775/2/125
+eid: '125'
+eprint: '1210.5520'
+journal: \apj
+keywords: 'galaxies: abundances, galaxies: ISM, galaxies: photometry'
+month: October
+pages: '125'
+papis_id: b6c3e24c749e236a9d49adc02f49ab4d
+primaryclass: astro-ph.CO
+ref: sanders.n.2013
+title: Using Colors to Improve Photometric Metallicity Estimates for Galaxies
+type: article
+volume: '775'
+year: '2013'

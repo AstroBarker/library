@@ -1,0 +1,69 @@
+abstract: HCN luminosity is a tracer of dense molecular gas, n(H2)>~3\texttimes{}104cm-3,
+  associated with star-forming giant molecular cloud (GMC) cores. We present the results
+  and analysis of our survey of HCN emission from 65 infrared galaxies, including
+  nine ultraluminous infrared galaxies (ULIGs, LIR>~1012Lsolar), 22 luminous infrared
+  galaxies (LIGs, 1011Lsolar<LIR<~1012Lsolar), and 34 normal spiral galaxies with
+  lower IR luminosity (most are large spiral galaxies). We have measured the global
+  HCN line luminosity, and the observations are reported in Paper I. This paper analyzes
+  the relationships between the total far-IR luminosity (a tracer of the star formation
+  rate), the global HCN line luminosity (a measure of the total dense molecular gas
+  content), and the CO luminosity (a measure of the total molecular content). We find
+  a tight linear correlation between the IR and HCN luminosities LIR and LHCN (in
+  the log-log plot) with a correlation coefficient R=0.94, and an almost constant
+  average ratio LIR/LHCN=900Lsolar(Kkms-1pc2)-1. The IR-HCN linear correlation is
+  valid over 3 orders of magnitude including ULIGs, the most luminous objects in the
+  local universe. The direct consequence of the linear IR-HCN correlation is that
+  the star formation law in terms of dense molecular gas content has a power-law index
+  of 1.0. The global star formation rate is linearly proportional to the mass of dense
+  molecular gas in normal spiral galaxies, LIGs, and ULIGs. This is strong evidence
+  in favor of star formation as the power source in ultraluminous galaxies since the
+  star formation in these galaxies appears to be normal and expected given their high
+  mass of dense star-forming molecular gas.  The HCN-CO correlation is also much tighter
+  than the IR-CO correlation. We suggest that the nonlinear correlation between LIR
+  and LCO may be a consequence of the stronger and perhaps more physical correlations
+  between LIR and LHCN and between LHCN and LCO. Thus, the star formation rate indicated
+  by LIR depends on the amount of dense molecular gas traced by HCN emission, not
+  the total molecular gas traced by CO emission. One of the main arguments in favor
+  of an active galactic nucleus (AGN) as the power source in ULIGs is the anomalously
+  high ratio LIR/LCO or LIR/M(H2) or high star formation rate per Msolar of gas, compared
+  with that from normal spiral galaxies. This has been interpreted as indicating that
+  a dust-enshrouded AGN is required to produce the very high luminosity. Viewed in
+  terms of the dense gas mass the situation is completely different. The ratio LIR/LHCN
+  or LIR/Mdense, a measure of the star formation rate per solar mass of dense gas,
+  is essentially the same in all galaxies including ULIGs. The ratio LIR/Mdense is
+  virtually independent of galaxy luminosity and on average LIR/Mdense~90Lsolar/Msolar,
+  about the same as in GMC cores but much higher than in GMCs. We find that ULIGs
+  simply have a large quantity of dense molecular gas and thus produce a prodigious
+  starburst that heats the dust, produces the IR, and blocks all or most optical radiation.
+  The HCN global luminosity may be used as an indicator of the star formation rate
+  in high-redshift objects including hyperluminous galaxies.  The HCN/CO ratio is
+  an indicator of the dense molecular gas fraction and gauges the globally averaged
+  molecular gas density. We find that the HCN/CO ratio is a powerful starburst indicator.
+  All galaxies in our sample with a high dense gas mass fraction indicated by LHCN/LCO>0.06
+  are LIGs or ULIGs. Normal spirals all have similar and low dense gas fractions LHCN/LCO=0.02-0.05.
+  The global star formation efficiency depends on the fraction of the molecular gas
+  in a dense phase.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...606..271G
+arxivurl: http://arxiv.org/abs/astro-ph/0310339
+author: Gao, Y. and Solomon, P. M.
+author_list:
+- family: Gao
+  given: Y.
+- family: Solomon
+  given: P. M.
+date-added: 2017-08-11 01:39:38 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/382999
+eprint: astro-ph/0310339
+journal: \apj
+keywords: 'Galaxies: ISM, Galaxies: Starburst, Infrared: Galaxies, ISM: Molecules,
+  Radio Lines: Galaxies'
+month: May
+pages: 271--290
+papis_id: 6cb06bb0b2092bff10f12f1aa8e0425f
+ref: gao.y.2004
+title: The Star Formation Rate and Dense Molecular Gas in Galaxies
+type: article
+volume: '606'
+year: '2004'

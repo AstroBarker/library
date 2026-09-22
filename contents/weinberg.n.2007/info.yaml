@@ -1,0 +1,43 @@
+abstract: The strong degeneracy of the 12C ignition layer on an accreting neutron
+  star results in a hydrodynamic thermonuclear runaway, in which the nuclear heating
+  time becomes shorter than the local dynamical time. We model the resulting combustion
+  wave during these superbursts as an upward-propagating detonation. We solve the
+  reactive fluid flow and show that the detonation propagates through the deepest
+  layers of fuel and drives a shock wave that steepens as it travels upward into lower
+  density material. The shock is sufficiently strong on reaching the freshly accreted
+  H/He layer that it triggers unstable 4He burning if the superburst occurs during
+  the latter half of the regular type I bursting cycle; this is likely the origin
+  of the bright type I precursor bursts observed at the onset of superbursts. The
+  cooling of the outermost shock-heated layers produces a bright, ~0.1 s, flash that
+  precedes the type I burst by a few seconds; this may be the origin of the spike
+  seen at the burst onset in 4U 1820-30 and 4U 1636-54, the only two bursts observed
+  with RXTE at high time resolution. The dominant products of the 12C detonation are
+  28Si, 32S, and 36Ar. Gupta et al. showed that a crust composed of such intermediate-mass
+  elements has a larger heat flux than one composed of iron-peak elements and helps
+  bring the superburst ignition depth into better agreement with values inferred from
+  observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670.1291W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.3062
+author: Weinberg, N. N. and Bildsten, L.
+author_list:
+- family: Weinberg
+  given: N. N.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 21:27:02 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/522111
+eprint: '0706.3062'
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: Neutron, X-Rays: Bursts'
+month: December
+pages: 1291--1300
+papis_id: b6051057b8abc65cec57c1be1c854fbf
+ref: weinberg.n.2007
+title: Carbon Detonation and Shock-Triggered Helium Burning in Neutron Star Superbursts
+type: article
+volume: '670'
+year: '2007'

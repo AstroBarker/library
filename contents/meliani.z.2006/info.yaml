@@ -1,0 +1,50 @@
+abstract: 'Context: .We present the first-ever simulations of non-ideal magnetohydrodynamical
+  (MHD) stellar magnetospheric winds coupled with disc-driven jets where the resistive
+  and viscous accretion disc is self-consistently described. Aims: . These innovative
+  MHD simulations are devoted to the study of the interplay between a stellar wind
+  (having different ejection mass rates) and an MHD disc-driven jet embedding the
+  stellar wind. Methods: .The transmagnetosonic, collimated MHD outflows are investigated
+  numerically using the VAC code. We first investigate the various angular momentum
+  transports occurring in the magneto-viscous accretion disc. We then analyze the
+  modifications induced by the interaction between the two components of the outflow.
+  Results: .Our simulations show that the inner outflow is accelerated from the central
+  object''s hot corona thanks to both the thermal pressure and the Lorentz force.
+  In our framework, the thermal acceleration is sustained by the heating produced
+  by the dissipated magnetic energy due to the turbulence. Conversely, the outflow
+  launched from the resistive accretion disc is mainly accelerated by the magneto-centrifugal
+  force. Conclusions: .The simulations show that the MHD disc-driven outflow extracts
+  angular momentum more efficiently than do viscous effects in near-equipartition,
+  thin-magnetized discs where turbulence is fully developed. We also show that, when
+  a dense inner stellar wind occurs, the resulting disc-driven jet has a different
+  structure, namely a magnetic structure where poloidal magnetic field lines are more
+  inclined because of the pressure caused by the stellar wind. This modification leads
+  to both an enhanced mass-ejection rate in the disc-driven jet and a larger radial
+  extension that is in better agreement with the observations, besides being more
+  consistent.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...460....1M
+arxivurl: http://arxiv.org/abs/astro-ph/0608605
+author: Meliani, Z. and Casse, F. and Sauty, C.
+author_list:
+- family: Meliani
+  given: Z.
+- family: Casse
+  given: F.
+- family: Sauty
+  given: C.
+date-added: 2017-08-10 23:01:51 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20065484
+eprint: astro-ph/0608605
+journal: \aap
+keywords: 'stars: winds, outflows, magnetohydrodynamics (MHD), accretion, accretion
+  disks, acceleration of particles, stars: mass-loss, stars: pre-main sequence'
+month: December
+pages: 1--14
+papis_id: bca583269319067da71a512e9c4a2bab
+ref: meliani.z.2006
+title: Two-component magnetohydrodynamical outflows around young stellar objects.
+  Interplay between stellar magnetospheric winds and disc-driven jets
+type: article
+volume: '460'
+year: '2006'

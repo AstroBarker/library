@@ -1,0 +1,49 @@
+abstract: There is mounting evidence for the coevolution of galaxies and their embedded
+  massive black holes (MBHs) in a hierarchical structure formation paradigm. To tackle
+  the nonlinear processes of galaxy---MBH interaction, we describe a self-consistent
+  numerical framework which incorporates both galaxies and MBHs. The high-resolution
+  adaptive mesh refinement (AMR) code Enzo is modified to model the formation and
+  feedback of molecular clouds at their characteristic scale of 15.2 pc and the accretion
+  of gas onto an MBH. Two major channels of MBH feedback, radiative feedback (X-ray
+  photons followed through full three-dimensional adaptive ray tracing) and mechanical
+  feedback (bipolar jets resolved in high-resolution AMR), are employed. We investigate
+  the coevolution of a 9.2 \texttimes{} 1011 M sun galactic halo and its 105 M sun
+  embedded MBH at redshift 3 in a cosmological LambdaCDM simulation. The MBH feedback
+  heats the surrounding interstellar medium (ISM) up to 106 K through photoionization
+  and Compton heating and locally suppresses star formation in the galactic inner
+  core. The feedback considerably changes the stellar distribution there. This new
+  channel of feedback from a slowly growing MBH is particularly interesting because
+  it is only locally dominant and does not require the heating of gas globally on
+  the disk. The MBH also self-regulates its growth by keeping the surrounding ISM
+  hot for an extended period of time.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738...54K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.4007
+author: Kim, J.-h. and Wise, J. H. and Alvarez, M. A. and Abel, T.
+author_list:
+- family: Kim
+  given: J.-h.
+- family: Wise
+  given: J. H.
+- family: Alvarez
+  given: M. A.
+- family: Abel
+  given: T.
+date-added: 2017-08-10 21:37:29 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/1/54
+eid: '54'
+eprint: '1106.4007'
+journal: \apj
+keywords: 'galaxies: active, galaxies: formation, galaxies: nuclei, stars: formation'
+month: September
+pages: '54'
+papis_id: ffb49c6ab8419fdad3a178816b30995a
+primaryclass: astro-ph.GA
+ref: kim.j_h.2011
+title: Galaxy Formation with Self-consistently Modeled Stars and Massive Black Holes.
+  I. Feedback-regulated Star Formation and Black Hole Growth
+type: article
+volume: '738'
+year: '2011'

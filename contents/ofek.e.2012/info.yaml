@@ -1,0 +1,91 @@
+abstract: The Palomar Transient Factory (PTF) provides multiple epoch imaging for
+  a large fraction of the celestial sphere. Here, we describe the photometric calibration
+  of the PTF data products that allows the PTF magnitudes to be related to other magnitude
+  systems. The calibration process utilizes Sloan Digital Sky Survey (SDSS) r \texttildelow{}
+  16 mag point-source objects as photometric standards. During photometric conditions,
+  this allows us to solve for the extinction coefficients and color terms and to estimate
+  the camera illumination correction. This also enables the calibration of fields
+  that are outside the SDSS footprint. We test the precision and repeatability of
+  the PTF photometric calibration. Given that PTF is observing in a single filter
+  each night, we define a PTF calibrated magnitude system for the R band and g band.
+  We show that, in this system, \approx{}59\% (47\%) of the photometrically calibrated
+  PTF R-band (g-band) data achieve a photometric precision of 0.02-0.04 mag and have
+  color terms and extinction coefficients that are close to their average values.
+  Given the objects' color, the PTF magnitude system can be converted to other systems.
+  Moreover, a night-by-night comparison of the calibrated magnitudes of individual
+  stars observed on multiple nights shows that they are consistent to a level of \approx{}0.02
+  mag. Most of the data that were taken under nonphotometric conditions can be calibrated
+  relative to other epochs of the same sky footprint obtained during photometric conditions.
+  We provide a concise guide describing how to use the PTF photometric-calibration
+  data products, as well as the transformations between the PTF magnitude system and
+  the SDSS and Johnson-Cousins systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PASP..124...62O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.4851
+author: Ofek, E. O. and Laher, R. and Law, N. and Surace, J. and Levitan, D. and Sesar,
+  B. and Horesh, A. and Poznanski, D. and van Eyken, J. C. and Kulkarni, S. R. and
+  Nugent, P. and Zolkower, J. and Walters, R. and Sullivan, M. and Agüeros, M. and
+  Bildsten, L. and Bloom, J. and Cenko, S. B. and Gal-Yam, A. and Grillmair, C. and
+  Helou, G. and Kasliwal, M. M. and Quimby, R.
+author_list:
+- family: Ofek
+  given: E. O.
+- family: Laher
+  given: R.
+- family: Law
+  given: N.
+- family: Surace
+  given: J.
+- family: Levitan
+  given: D.
+- family: Sesar
+  given: B.
+- family: Horesh
+  given: A.
+- family: Poznanski
+  given: D.
+- family: van Eyken
+  given: J. C.
+- family: Kulkarni
+  given: S. R.
+- family: Nugent
+  given: P.
+- family: Zolkower
+  given: J.
+- family: Walters
+  given: R.
+- family: Sullivan
+  given: M.
+- family: Agüeros
+  given: M.
+- family: Bildsten
+  given: L.
+- family: Bloom
+  given: J.
+- family: Cenko
+  given: S. B.
+- family: Gal-Yam
+  given: A.
+- family: Grillmair
+  given: C.
+- family: Helou
+  given: G.
+- family: Kasliwal
+  given: M. M.
+- family: Quimby
+  given: R.
+date-added: 2017-08-10 16:02:56 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1086/664065
+eprint: '1112.4851'
+journal: \pasp
+month: January
+pages: '62'
+papis_id: a03c3ffef282f0de6ab7b90b2334be10
+primaryclass: astro-ph.IM
+ref: ofek.e.2012
+title: The Palomar Transient Factory Photometric Calibration
+type: article
+volume: '124'
+year: '2012'

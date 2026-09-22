@@ -1,0 +1,48 @@
+abstract: We present numerical simulations of dynamically unstable mass transfer in
+  a double white dwarf binary with initial mass ratio q=0.4. The binary components
+  are approximated as polytropes of index n=3/2, and the initially synchronously rotating,
+  semidetached equilibrium binary is evolved hydrodynamically, with the gravitational
+  potential being computed through the solution of Poisson's equation. Upon initiating
+  deep contact in our baseline simulation, the mass transfer rate grows by more than
+  an order of magnitude over approximately 10 orbits, as would be expected for dynamically
+  unstable mass transfer. However, the mass transfer rate then reaches a peak value,
+  the binary expands, and the mass transfer event subsides. The binary must therefore
+  have crossed the critical mass ratio for stability against dynamical mass transfer.
+  Despite the initial loss of orbital angular momentum into the spin of the accreting
+  star, we find that the accretor's spin saturates and that angular momentum is returned
+  to the orbit more efficiently than has been previously suspected for binaries in
+  the direct-impact accretion mode. To explore this surprising result, we directly
+  measure the critical mass ratio for stability by imposing artificial angular momentum
+  loss at various rates to drive the binary to an equilibrium mass transfer rate.
+  For one of these driven evolutions, we attain equilibrium mass transfer and deduce
+  that, effectively, qcrit has evolved to approximately 2/3. Despite the absence of
+  a fully developed disk, tidal interactions appear to be effective in returning excess
+  spin angular momentum to the orbit.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670.1314M
+arxivurl: http://arxiv.org/abs/astro-ph/0702388
+author: Motl, P. M. and Frank, J. and Tohline, J. E. and D'Souza, M. C. R.
+author_list:
+- family: Motl
+  given: P. M.
+- family: Frank
+  given: J.
+- family: Tohline
+  given: J. E.
+- family: D'Souza
+  given: M. C. R.
+date-added: 2017-08-10 19:17:32 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/522076
+eprint: astro-ph/0702388
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Hydrodynamics, Methods:
+  Numerical, Stars: White Dwarfs'
+month: December
+pages: 1314--1325
+papis_id: 88633e46244848175c45d02f8983404d
+ref: motl.p.2007
+title: The Stability of Double White Dwarf Binaries Undergoing Direct-Impact Accretion
+type: article
+volume: '670'
+year: '2007'

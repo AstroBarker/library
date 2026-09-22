@@ -1,0 +1,68 @@
+abstract: The Helium and Lead Observatory (HALO) is a supernova neutrino detector
+  under development for construction at SNOLAB. It is intended to fulfill a niche
+  as a long term, low cost, high livetime, and low maintenance, dedicated supernova
+  detector. It will be constructed from 80 tonnes of lead, from the decommissioning
+  of the Deep River Cosmic Ray Station, and instrumented with approximately 384 meters
+  of 3He neutron detectors from the final phase of the SNO experiment. Charged- and
+  Neutral-Current neutrino interactions in lead expel neutrons from the lead nuclei
+  making a burst of detected neutrons the signature for the detection of a supernova.
+  Existing neutrino detectors are mostly of the water Cerenkov and liquid scintillator
+  types, which are primarily sensitive to electron anti-neutrinos via charged-current
+  interactions on the hydrogen nuclei in these materials. By contrast, the large neutron
+  excess of a heavy nucleus like Pb acts to Pauli-block pranglen transitions induced
+  by electron anti-neutrinos, making HALO primarily sensitive to electron neutrinos.
+  While any supernova neutrino data would provide an invaluable window into supernova
+  dynamics, the electron neutrino CC channel has interesting sensitivity to particle
+  physics through flavour-swapping and spectral splitting due to MSW-like collective
+  neutrino-neutrino interactions in the core of the supernova, the only place in the
+  universe where there is a sufficient density of neutrinos for this to occur. Such
+  data could provide a test for theta13 != 0 and an inverted neutrino mass hierarchy.
+  In addition, the ratio of 1-neutron to 2-neutron events would be a measure of the
+  temperature of the cooling neutron star. For the 80 tonne detector, a supernova
+  at 10 kpc is estimated to produce 43 detected neutrons in the absence of collective
+  nu-nu interactions, and many more in their presence. The high neutrino cross-section
+  and low neutron absorption cross-section of lead, along with the modest cost of
+  lead, makes this technology scalable and a future upgrade, to of order 1 kilotonne,
+  is under active consideration.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008JPhCS.136d2077D
+author: Duba, C. A. and Duncan, F. and Farine, J. and Habig, A. and Hime, A. and Robertson,
+  R. G. H. and Scholberg, K. and Shantz, T. and Virtue, C. J. and Wilkerson, J. F.
+  and Yen, S.
+author_list:
+- family: Duba
+  given: C. A.
+- family: Duncan
+  given: F.
+- family: Farine
+  given: J.
+- family: Habig
+  given: A.
+- family: Hime
+  given: A.
+- family: Robertson
+  given: R. G. H.
+- family: Scholberg
+  given: K.
+- family: Shantz
+  given: T.
+- family: Virtue
+  given: C. J.
+- family: Wilkerson
+  given: J. F.
+- family: Yen
+  given: S.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 20:58:21 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1088/1742-6596/136/4/042077
+eid: '042077'
+month: November
+pages: '042077'
+papis_id: 9ad124cd583b6f6178fed8f733ecb770
+ref: duba.c.2008
+series: Journal of Physics Conference Series
+title: HALO the helium and lead observatory for supernova neutrinos
+type: inproceedings
+volume: '136'
+year: '2008'

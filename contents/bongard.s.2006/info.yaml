@@ -1,0 +1,41 @@
+abstract: Type Ia supernovae have played a crucial role in the discovery of the dark
+  energy, via the measurement of their light curves and the determination of the peak
+  brightness via fitting templates to the observed light-curve shape. Two spectroscopic
+  indicators are also known to be well correlated with peak luminosity. Since the
+  spectroscopic luminosity indicators are obtained directly from observed spectra,
+  they will have different systematic errors than do measurements using photometry.
+  In addition, these spectroscopic indicators may be useful for studies of effects
+  of evolution or age of the SNe Ia progenitor population. We present several new
+  variants of such spectroscopic indicators that are easy to automate and that minimize
+  the effects of noise. We show that these spectroscopic indicators can be measured
+  by proposed JDEM missions such as SNAP and JEDI.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...647..513B
+arxivurl: http://arxiv.org/abs/astro-ph/0512229
+author: Bongard, S. and Baron, E. and Smadja, G. and Branch, D. and Hauschildt, P.
+  H.
+author_list:
+- family: Bongard
+  given: S.
+- family: Baron
+  given: E.
+- family: Smadja
+  given: G.
+- family: Branch
+  given: D.
+- family: Hauschildt
+  given: P. H.
+date-added: 2017-08-11 01:13:17 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505322
+eprint: astro-ph/0512229
+journal: \apj
+keywords: 'Cosmology: Dark Matter, Stars: Atmospheres, Stars: Supernovae: General'
+month: August
+pages: 513--524
+papis_id: 96782ce4ea958329c5051c5ae08df366
+ref: bongard.s.2006
+title: Type Ia Supernova Spectral Line Ratios as Luminosity Indicators
+type: article
+volume: '647'
+year: '2006'

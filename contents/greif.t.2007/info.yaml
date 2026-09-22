@@ -1,0 +1,49 @@
+abstract: We perform three-dimensional smoothed particle hydrodynamics simulations
+  in a realistic cosmological setting to investigate the expansion, feedback, and
+  chemical enrichment properties of a 200 Msolar pair-instability supernova in the
+  high-redshift universe. We find that the SN remnant propagates for a Hubble time
+  at z~=20 to a final mass-weighted mean shock radius of 2.5 kpc (proper), roughly
+  half the size of the H II region, and in this process sweeps up a total gas mass
+  of 2.5\texttimes{}105 Msolar. The morphology of the shock becomes highly anisotropic
+  once it leaves the host halo and encounters filaments and neighboring minihalos,
+  while the bulk of the shock propagates into the voids of the intergalactic medium.
+  The SN entirely disrupts the host halo and terminates further star formation for
+  at least 200 Myr, while in our specific case it exerts positive mechanical feedback
+  on neighboring minihalos by shock-compressing their cores. In contrast, we do not
+  observe secondary star formation in the dense shell via gravitational fragmentation,
+  due to the previous photoheating by the progenitor star. We find that cooling by
+  metal lines is unimportant for the entire evolution of the SN remnant, while the
+  metal-enriched, interior bubble expands adiabatically into the cavities created
+  by the shock, and ultimately into the voids with a maximum extent similar to the
+  final mass-weighted mean shock radius. Finally, we conclude that dark matter halos
+  of at least Mvir>~108 Msolar must be assembled to recollect all components of the
+  swept-up gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670....1G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.3048
+author: Greif, T. H. and Johnson, J. L. and Bromm, V. and Klessen, R. S.
+author_list:
+- family: Greif
+  given: T. H.
+- family: Johnson
+  given: J. L.
+- family: Bromm
+  given: V.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-10 21:46:02 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/522028
+eprint: '0705.3048'
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Galaxies: High-Redshift, ISM: H
+  II Regions, Hydrodynamics, Galaxies: Intergalactic Medium, Stars: Supernovae: General'
+month: November
+pages: 1--14
+papis_id: bd8b429eecddf2ebca2031343c1d464e
+ref: greif.t.2007
+title: 'The First Supernova Explosions: Energetics, Feedback, and Chemical Enrichment'
+type: article
+volume: '670'
+year: '2007'

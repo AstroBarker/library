@@ -1,0 +1,77 @@
+abstract: Depending on mass and metallicity as well as evolutionary phase, stars occasionally
+  experience convective-reactive nucleosynthesis episodes. We specifically investigate
+  the situation when nucleosynthetically unprocessed, H-rich material is convectively
+  mixed with an He-burning zone, for example in a convectively unstable shell on top
+  of electron-degenerate cores in asymptotic giant branch stars, young white dwarfs,
+  or X-ray bursting neutron stars. Such episodes are frequently encountered in stellar
+  evolution models of stars of extremely low or zero metal content, such as the first
+  stars. We have carried out detailed nucleosynthesis simulations based on stellar
+  evolution models and informed by hydrodynamic simulations. We focus on the convective-reactive
+  episode in the very late thermal pulse star Sakurai's object (V4334 Sagittarii).
+  Asplund et al. determined the abundances of 28 elements, many of which are highly
+  non-solar, ranging from H, He, and Li all the way to Ba and La, plus the C isotopic
+  ratio. Our simulations show that the mixing evolution according to standard, one-dimensional
+  stellar evolution models implies neutron densities in the He intershell (lsim few
+  1011 cm-3) that are too low to obtain a significant neutron capture nucleosynthesis
+  on the heavy elements. We have carried out three-dimensional hydrodynamic He-shell
+  flash convection simulations in 4pi geometry to study the entrainment of H-rich
+  material. Guided by these simulations we assume that the ingestion process of H
+  into the He-shell convection zone leads only after some delay time to a sufficient
+  entropy barrier that splits the convection zone into the original one driven by
+  He burning and a new one driven by the rapid burning of ingested H. By making such
+  mixing assumptions that are motivated by our hydrodynamic simulations we obtain
+  significantly higher neutron densities (~ few 1015 cm-3) and reproduce the key observed
+  abundance trends found in Sakurai's object. These include an overproduction of Rb,
+  Sr, and Y by about two orders of magnitude higher than the overproduction of Ba
+  and La. Such a peculiar nucleosynthesis signature is impossible to obtain with the
+  mixing predictions in our one-dimensional stellar evolution models. The simulated
+  Li abundance and the isotopic ratio 12C/13C are as well in agreement with observations.
+  Details of the observed heavy element abundances can be used as a sensitive diagnostic
+  tool for the neutron density, for the neutron exposure and, in general, for the
+  physics of the convective-reactive phases in stellar evolution. For example, the
+  high elemental ratio Sc/Ca and the high Sc production indicate high neutron densities.
+  The diagnostic value of such abundance markers depends on uncertain nuclear physics
+  input. We determine how our results depend on uncertainties of nuclear reaction
+  rates, for example for the 13C(alpha, n)16O reaction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...727...89H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.2241
+author: Herwig, F. and Pignatari, M. and Woodward, P. R. and Porter, D. H. and Rockefeller,
+  G. and Fryer, C. L. and Bennett, M. and Hirschi, R.
+author_list:
+- family: Herwig
+  given: F.
+- family: Pignatari
+  given: M.
+- family: Woodward
+  given: P. R.
+- family: Porter
+  given: D. H.
+- family: Rockefeller
+  given: G.
+- family: Fryer
+  given: C. L.
+- family: Bennett
+  given: M.
+- family: Hirschi
+  given: R.
+date-added: 2017-08-10 18:11:33 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/727/2/89
+eid: '89'
+eprint: '1002.2241'
+journal: \apj
+keywords: 'stars: abundances, stars: AGB and post-AGB, stars: evolution, stars: individual:
+  V4334 Sagittarii, stars: interiors, hydrodynamics, nuclear reactions, nucleosynthesis,
+  abundances'
+month: February
+pages: '89'
+papis_id: d5e01fe8c1113c93266e8f024f7637c4
+primaryclass: astro-ph.SR
+ref: herwig.f.2011
+title: Convective-reactive Proton-$^12$C Combustion in Sakurai's Object (V4334 Sagittarii)
+  and Implications for the Evolution and Yields from the First Generations of Stars
+type: article
+volume: '727'
+year: '2011'

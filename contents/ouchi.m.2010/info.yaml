@@ -1,0 +1,80 @@
+abstract: We present the Lyalpha luminosity function (LF), clustering measurements,
+  and Lyalpha line profiles based on the largest sample to date of 207 Lyalpha emitters
+  (LAEs) at z = 6.6 on the 1 deg2 sky of Subaru/XMM-Newton Deep Survey field. Our
+  z = 6.6 Lyalpha LF including cosmic variance estimates yields the best-fit Schechter
+  parameters of phi\textasteriskcentered = 8.5+3.0 -2.2 \texttimes{} 10-4 Mpc-3 and
+  L\textasteriskcenteredLyalpha = 4.4+0.6 -0.6 \texttimes{} 1042 erg s-1 with a fixed
+  alpha = -1.5, and indicates a decrease from z = 5.7 at the gsim90\% confidence level.
+  However, this decrease is not large, only sime30\% in Lyalpha luminosity, which
+  is too small to have been identified in the previous studies. A clustering signal
+  of z = 6.6 LAEs is detected for the first time. We obtain the correlation length
+  of r 0= 2-5 h -1 100 Mpc and a bias of b= 3-6, and find no significant boost of
+  clustering amplitude by reionization at z = 6.6. The average hosting dark halo mass
+  inferred from clustering is 1010-1011 M sun, and a duty cycle of LAE population
+  is roughly ~1\%, albeit with large uncertainties. The average of our high-quality
+  Keck/DEIMOS spectra shows an FWHM velocity width of 251 $\pm$ 16 km s-1. We find
+  no large evolution of the Lyalpha line profile from z = 5.7 to 6.6, and no anti-correlation
+  between Lyalpha luminosity and line width at z = 6.6. The combination of various
+  reionization models and our observational results about the LF, clustering, and
+  line profile indicates that there would exist a small decrease of the intergalactic
+  medium's (IGM's) Lyalpha transmission owing to reionization, but that the hydrogen
+  IGM is not highly neutral at z = 6.6. Our neutral-hydrogen fraction constraint implies
+  that the major reionization process took place at z >~ 7.  Based on data obtained
+  with the Subaru Telescope and the W. M. Keck Observatory. The Subaru Telescope is
+  operated by the National Astronomical Observatory of Japan. The W. M. Keck Observatory
+  is operated as a scientific partnership among the California Institute of Technology,
+  the University of California, and the National Aeronautics and Space Administration.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...723..869O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.2961
+author: Ouchi, M. and Shimasaku, K. and Furusawa, H. and Saito, T. and Yoshida, M.
+  and Akiyama, M. and Ono, Y. and Yamada, T. and Ota, K. and Kashikawa, N. and Iye,
+  M. and Kodama, T. and Okamura, S. and Simpson, C. and Yoshida, M.
+author_list:
+- family: Ouchi
+  given: M.
+- family: Shimasaku
+  given: K.
+- family: Furusawa
+  given: H.
+- family: Saito
+  given: T.
+- family: Yoshida
+  given: M.
+- family: Akiyama
+  given: M.
+- family: Ono
+  given: Y.
+- family: Yamada
+  given: T.
+- family: Ota
+  given: K.
+- family: Kashikawa
+  given: N.
+- family: Iye
+  given: M.
+- family: Kodama
+  given: T.
+- family: Okamura
+  given: S.
+- family: Simpson
+  given: C.
+- family: Yoshida
+  given: M.
+date-added: 2017-08-10 20:17:54 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/723/1/869
+eprint: '1007.2961'
+journal: \apj
+keywords: 'cosmology: observations, dark ages, reionization, first stars, galaxies:
+  formation, galaxies: high-redshift, galaxies: luminosity function, mass function'
+month: November
+pages: 869--894
+papis_id: 5b16a3b31d06e0137573a5cc046c833f
+ref: ouchi.m.2010
+title: 'Statistics of 207 Ly$α$ Emitters at a Redshift Near 7: Constraints on Reionization
+  and Galaxy Formation Models'
+type: article
+volume: '723'
+year: '2010'

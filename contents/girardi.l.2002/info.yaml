@@ -1,0 +1,54 @@
+abstract: 'We provide tables of theoretical isochrones in several photometric systems.
+  To this aim, the following steps are followed: (1) first, we re-write the formalism
+  for converting synthetic stellar spectra into tables of bolometric corrections.
+  The resulting formulas can be applied to any photometric system, provided that the
+  zero-points are specified by means of either ABmag, STmag, VEGAmag, or a standard
+  star system that includes well-known spectrophotometric standards. Interstellar
+  absorption can be considered in a self-consistent way. (2) We assemble an extended
+  and updated library of stellar intrinsic spectra. It is mostly based on ``non-overshooting''''
+  ATLAS9 models, suitably extended to both low and high effective temperatures. This
+  offers an excellent coverage of the parameter space of T\_eff, log g, and [M/H].
+  We briefly discuss the main uncertainties and points still deserving more improvement.
+  (3) From the spectral library, we derive tables of bolometric corrections for Johnson-Cousins-Glass,
+  HST/WFPC2, HST/NICMOS, Washington, and ESO Imaging Survey systems (this latter consisting
+  on the WFI, EMMI, and SOFI filter sets). (4) These tables are used to convert several
+  sets of Padova isochrones into the corresponding absolute magnitudes and colours,
+  thus providing a useful database for several astrophysical applications. All data
+  files are made available in electronic form.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...391..195G
+arxivurl: http://arxiv.org/abs/astro-ph/0205080
+author: Girardi, L. and Bertelli, G. and Bressan, A. and Chiosi, C. and Groenewegen,
+  M. A. T. and Marigo, P. and Salasnich, B. and Weiss, A.
+author_list:
+- family: Girardi
+  given: L.
+- family: Bertelli
+  given: G.
+- family: Bressan
+  given: A.
+- family: Chiosi
+  given: C.
+- family: Groenewegen
+  given: M. A. T.
+- family: Marigo
+  given: P.
+- family: Salasnich
+  given: B.
+- family: Weiss
+  given: A.
+date-added: 2017-08-11 03:14:25 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020612
+eprint: astro-ph/0205080
+journal: \aap
+keywords: 'stars: fundamental parameters, Hertzprung-Russell (HR) and C-M diagrams'
+month: August
+pages: 195--212
+papis_id: 749386fb7b43f0c6aaaf5e47fe8eb8ae
+ref: girardi.l.2002
+title: Theoretical isochrones in several photometric systems. I. Johnson-Cousins-Glass,
+  HST/WFPC2, HST/NICMOS, Washington, and ESO Imaging Survey filter sets
+type: article
+volume: '391'
+year: '2002'

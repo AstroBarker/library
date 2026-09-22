@@ -1,0 +1,35 @@
+abstract: We have investigated the role of the equation of state in resistive relativistic
+  magnetohydrodynamics using a newly developed resistive relativistic magnetohydrodynamic
+  code. A number of numerical tests in one dimension and multi-dimensions are carried
+  out in order to check the robustness and accuracy of the new code. The code passes
+  all the tests in situations involving both small and large uniform conductivities.
+  Equations of state that closely approximate the single-component perfect relativistic
+  gas are introduced. Results from selected numerical tests using different equations
+  of state are compared. The main conclusion is that the choice of the equation of
+  state as well as the value of the electric conductivity can result in considerable
+  dynamical differences in simulations involving shocks, instabilities, and magnetic
+  reconnection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..205....7M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.6052
+author: Mizuno, Y.
+author_list:
+- family: Mizuno
+  given: Y.
+date-added: 2017-08-10 16:30:33 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0067-0049/205/1/7
+eid: '7'
+eprint: '1301.6052'
+journal: \apjs
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, plasmas, relativistic processes'
+month: March
+pages: '7'
+papis_id: f64a479cfdd317bf7b1d56f9ef057aa4
+primaryclass: astro-ph.HE
+ref: mizuno.y.2013
+title: The Role of the Equation of State in Resistive Relativistic Magnetohydrodynamics
+type: article
+volume: '205'
+year: '2013'

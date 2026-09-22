@@ -1,0 +1,47 @@
+abstract: 'We extend the analysis of axisymmetric magnetic shear instabilities from
+  ideal magnetohydrodynamic (MHD) flows to weakly ionized plasmas with coupling between
+  ions and neutrals caused by collisions, ionization, and recombination. As part of
+  the analysis, we derive the single-fluid MHD dispersion relation without invoking
+  the Boussinesq approximation. This work expands the range of applications of these
+  instabilities from fully ionized accretion disks to molecular disks in galaxies
+  and, with somewhat more uncertainty, to protostellar disks. Instability generally
+  requires the angular velocity to decrease outward, the magnetic field strengths
+  to be subthermal, and the ions and neutrals to be sufficiently well coupled. If
+  ionization and recombination processes can be neglected on an orbital timescale,
+  adequate coupling is achieved when the collision frequency of a given neutral with
+  the ions exceeds the local epicyclic freqency. When ionization equilibrium is maintained
+  on an orbital timescale, a new feature is present in the disk dynamics: in contrast
+  to a single-fluid system, subthermal azimuthal fields can affect the axisymmetric
+  stability of weakly ionized two-fluid systems. We discuss the underlying causes
+  for this behavior. Azimuthal fields tend to be stabilizing under these circumstances,
+  and good coupling between the neutrals and ions requires the collision frequency
+  to exceed the epicyclic frequency by a potentially large secant factor related to
+  the magnetic field geometry. When the instability is present, subthermal azimuthal
+  fields may also reduce the growth rate unless the collision frequency is high, but
+  this is important only if the field strengths are very subthermal and/or the azimuthal
+  field is the dominant field component. We briefly discuss our results in the context
+  of the Galactic center circumnuclear disk, and suggest that the shear instability
+  might be present there, and be responsible for the observed turbulent motions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...421..163B
+author: Blaes, O. M. and Balbus, S. A.
+author_list:
+- family: Blaes
+  given: O. M.
+- family: Balbus
+  given: S. A.
+date-added: 2017-08-11 04:19:17 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173634
+journal: \apj
+keywords: Accretion Disks, Galaxies, Ionized Gases, Magnetic Fields, Magnetohydrodynamic
+  Flow, Plasmas (Physics), Shear Properties, Astrophysics, Ionization, Ions, Recombination
+  Reactions, Stability, Two Fluid Models
+month: January
+pages: 163--177
+papis_id: 71d530cab534a6f1ac01741a0f83afe2
+ref: blaes.o.1994
+title: Local shear instabilities in weakly ionized, weakly magnetized disks
+type: article
+volume: '421'
+year: '1994'

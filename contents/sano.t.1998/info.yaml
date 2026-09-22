@@ -1,0 +1,40 @@
+abstract: The nonlinear saturation of the magnetorotational instability due to ohmic
+  dissipation is investigated with two-dimensional magnetohydrodynamic simulations
+  of accretion disks. We adopt a local disk model in which the physical quantities
+  are assumed to be spatially uniform except for the shear velocity in the azimuthal
+  direction. Starting with a weak vertical field, the magnetorotational instability
+  is saturated in the nonlinear regime when the magnetic Reynolds number Rm is less
+  than unity. In the saturated turbulent state, the growth of the magnetic field for
+  the instability and the damping by the ohmic dissipation are almost balanced. The
+  efficiency of angular momentum transport alpha is of the order of 10-2 to 10-3,
+  and alpha is found to be inversely proportional to the initial beta value. When
+  Rm>~1, channel solutions appear and the magnetic energy continues growing even with
+  the dissipation process. We can roughly explain these features with the help of
+  the results obtained by the linear analysis. Our conclusion is that the magnetic
+  dissipation is one of the most important processes that determine the saturation
+  level of the magnetorotational instability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...506L..57S
+author: Sano, T. and Inutsuka, S.-i. and Miyama, S. M.
+author_list:
+- family: Sano
+  given: T.
+- family: Inutsuka
+  given: S.-i.
+- family: Miyama
+  given: S. M.
+date-added: 2017-08-11 00:07:38 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/311635
+journal: \apjl
+keywords: 'ACCRETION, ACCRETION DISKS, DIFFUSION, INSTABILITIES, MAGNETOHYDRODYNAMICS:
+  MHD, TURBULENCE, Accretion, Accretion Disks, Diffusion, Instabilities, Magnetohydrodynamics:
+  MHD, Turbulence'
+month: October
+pages: L57-L60
+papis_id: 0b316223e4032542927a25413e78e2c8
+ref: sano.t.1998
+title: A Saturation Mechanism of Magnetorotational Instability Due to Ohmic Dissipation
+type: article
+volume: '506'
+year: '1998'

@@ -1,0 +1,48 @@
+abstract: A longstanding question in stellar evolution is which massive stars produce
+  black holes (BHs) rather than neutron stars (NSs) upon death. It has been common
+  practice to assume that a given zero-age main sequence (ZAMS) mass star (and perhaps
+  a given metallicity) simply produces either an NS or a BH, but this fails to account
+  for a myriad of other variables that may effect this outcome, such as spin, binarity,
+  or even stochastic differences in the stellar structure near core collapse. We argue
+  that instead a probabilistic description of NS versus BH formation may be better
+  suited to account for the current uncertainties in understanding how massive stars
+  die. We present an initial exploration of the probability that a star will make
+  a BH as a function of its ZAMS mass, P BH(M ZAMS). Although we find that it is difficult
+  to derive a unique P BH(M ZAMS) using current measurements of both the BH mass distribution
+  and the degree of chemical enrichment by massive stars, we demonstrate how P BH(M
+  ZAMS) changes with these various observational and theoretical uncertainties. We
+  anticipate that future studies of Galactic BHs and theoretical studies of core collapse
+  will refine P BH(M ZAMS) and argue that this framework is an important new step
+  toward better understanding BH formation. A probabilistic description of BH formation
+  will be useful as input for future population synthesis studies that are interested
+  in the formation of X-ray binaries, the nature and event rate of gravitational wave
+  sources, and answering questions about chemical enrichment.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...799..190C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1406.4869
+author: Clausen, D. and Piro, A. L. and Ott, C. D.
+author_list:
+- family: Clausen
+  given: D.
+- family: Piro
+  given: A. L.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-11 07:44:12 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/799/2/190
+eid: '190'
+eprint: '1406.4869'
+journal: \apj
+keywords: 'black hole physics, galaxies: abundances, nuclear reactions, nucleosynthesis,
+  abundances, stars: massive, supernovae: general'
+month: February
+pages: '190'
+papis_id: dc2992e53fff28c18f3c83191f8a4863
+primaryclass: astro-ph.HE
+ref: clausen.d.2015
+title: The Black Hole Formation Probability
+type: article
+volume: '799'
+year: '2015'

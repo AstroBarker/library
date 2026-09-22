@@ -1,0 +1,42 @@
+abstract: High-resolution two-dimensional simulations were performed for the first
+  5 minutes of the evolution of a core-collapse supernova explosion in a 15 Msolar
+  blue supergiant progenitor. The computations start shortly after bounce and include
+  neutrino-matter interactions by using a lightbulb approximation for the neutrinos
+  and a treatment of the nucleosynthesis due to explosive silicon and oxygen burning.
+  We find that newly formed iron-group elements are distributed throughout the inner
+  half of the helium core by Rayleigh-Taylor instabilities at the (Ni + Si)/O and
+  (C + O)/He interfaces, seeded by convective overturn during the early stages of
+  the explosion. Fast-moving nickel mushrooms with velocities up to ~4000 km s-1 are
+  observed. This offers a natural explanation for the mixing required in light-curve
+  and spectral synthesis studies of Type Ib explosions. A continuation of the calculations
+  to later times, however, indicates that the iron velocities observed in SN 1987A
+  cannot be reproduced because of a strong deceleration of the clumps in the dense
+  shell left behind by the shock at the He/H interface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...531L.123K
+arxivurl: http://arxiv.org/abs/astro-ph/9911183
+author: Kifonidis, K. and Plewa, T. and Janka, H.-T. and Müller, E.
+author_list:
+- family: Kifonidis
+  given: K.
+- family: Plewa
+  given: T.
+- family: Janka
+  given: H.-T.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 22:52:41 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/312541
+eprint: astro-ph/9911183
+journal: \apjl
+keywords: 'HYDRODYNAMICS, INSTABILITIES, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES,
+  SHOCK WAVES, STARS: SUPERNOVAE: GENERAL'
+month: March
+pages: L123-L126
+papis_id: 8763d1a4b99e65c42547227bba36643a
+ref: kifonidis.k.2000
+title: Nucleosynthesis and Clump Formation in a Core-Collapse Supernova
+type: article
+volume: '531'
+year: '2000'

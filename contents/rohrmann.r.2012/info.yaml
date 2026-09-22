@@ -1,0 +1,60 @@
+abstract: 'Context. White dwarf evolution is essentially a gravothermal cooling process,
+  which, for cool white dwarfs, depends on the treatment of the outer boundary conditions.  Aims:
+  We provide detailed outer boundary conditions that are appropriate to computing
+  the evolution of cool white dwarfs by employing detailed nongray model atmospheres
+  for pure hydrogen composition. We also explore the impact on the white dwarf cooling
+  times of different assumptions for energy transfer in the atmosphere of cool white
+  dwarfs.  Methods: Detailed nongray model atmospheres were computed by considering
+  nonideal effects in the gas equation of state and chemical equilibrium, collision-induced
+  absorption from molecules, and the Lyman alpha quasi-molecular opacity. We explored
+  the impact of outer boundary conditions provided by updated model atmospheres on
+  the cooling times of 0.60 and 0.90 M\&sun; white dwarf sequences.  Results: Our
+  results show that the use of detailed outer boundary conditions becomes relevant
+  for effective temperatures lower than 5800 K for sequences with 0.60 M\&sun; and
+  6100 K with 0.90 M\&sun;. Detailed model atmospheres predict ages that are up to
+  \approx{}10\% shorter at log (L/L\&sun;) = -4 when compared with the ages derived
+  using Eddington-like approximations at tauRoss = 2/3. We also analyze the effects
+  of various assumptions and physical processes that are relevant in the calculation
+  of outer boundary conditions. In particular, we find that the Lyalpha red wing absorption
+  does not substantially affect the evolution of white dwarfs.  Conclusions: White
+  dwarf cooling timescales are sensitive to the surface boundary conditions for Teff
+  \lessequivlnt{} 6000 K. Interestingly enough, nongray effects have few consequences
+  on these cooling times at observable luminosities. In fact, collision-induced absorption
+  processes, which significantly affect the spectra and colors of old white dwarfs
+  with hydrogen-rich atmospheres, have no noticeable effects on their cooling rates,
+  except throughout the Rosseland mean opacity.  Table with the outer boundary conditions
+  is only available at the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5)
+  or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/546/A119'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...546A.119R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2452
+author: Rohrmann, R. D. and Althaus, L. G. and García-Berro, E. and Córsico, A. H.
+  and Miller Bertolami, M. M.
+author_list:
+- family: Rohrmann
+  given: R. D.
+- family: Althaus
+  given: L. G.
+- family: García-Berro
+  given: E.
+- family: Córsico
+  given: A. H.
+- family: Miller Bertolami
+  given: M. M.
+date-added: 2017-08-10 20:53:05 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1051/0004-6361/201219292
+eid: A119
+eprint: '1209.2452'
+journal: \aap
+keywords: 'stars: evolution, stars: interiors, white dwarfs'
+month: October
+pages: A119
+papis_id: 0fc442743bc2d51da2b160b6eab3140f
+primaryclass: astro-ph.SR
+ref: rohrmann.r.2012
+title: Outer boundary conditions for evolving cool white dwarfs
+type: article
+volume: '546'
+year: '2012'

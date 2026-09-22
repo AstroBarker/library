@@ -1,0 +1,45 @@
+abstract: Galaxy clusters exhibit regular scaling relations among their bulk properties.
+  These relations establish vital links between halo mass and cluster observables.
+  Precision cosmology studies that depend on these links benefit from a better understanding
+  of scatter in the mass-observable scaling relations. Here, we study the role of
+  merger processes in introducing scatter into the M - TX relation, using a sample
+  of 121 galaxy clusters simulated with radiative cooling and supernova feedback,
+  along with three statistics previously proposed to measure X-ray surface brightness
+  substructure. These are the centroid variation (w), the axial ratio (eta), and the
+  power ratios (P20 and P30). We find that in this set of simulated clusters, each
+  substructure measure is correlated with a cluster's departures delta ln TX and delta
+  ln M from the mean M - TX relation, both for emission-weighted temperatures TEW
+  and for spectroscopic-like temperatures TSL, in the sense that clusters with more
+  substructure tend to be cooler at a given halo mass. In all cases, a three-parameter
+  fit to the M - TX relation that includes substructure information has less scatter
+  than a two-parameter fit to the basic M - TX relation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...685..118V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.0850
+author: Ventimiglia, D. A. and Voit, G. M. and Donahue, M. and Ameglio, S.
+author_list:
+- family: Ventimiglia
+  given: D. A.
+- family: Voit
+  given: G. M.
+- family: Donahue
+  given: M.
+- family: Ameglio
+  given: S.
+date-added: 2017-08-11 05:14:42 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/590485
+eid: 118-127
+eprint: '0806.0850'
+journal: \apj
+keywords: 'cosmological parameters, cosmology: theory, galaxies: clusters: general,
+  X-rays: galaxies: clusters'
+month: September
+pages: 118--127
+papis_id: 4e9ece9b916db1dfc637e1fe96488f2f
+ref: ventimiglia.d.2008
+title: Substructure and Scatter in the Mass-Temperature Relations of Simulated Clusters
+type: article
+volume: '685'
+year: '2008'

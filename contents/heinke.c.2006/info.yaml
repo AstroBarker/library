@@ -1,0 +1,46 @@
+abstract: Current X-ray missions are providing high-quality X-ray spectra from neutron
+  stars (NSs) in quiescent low-mass X-ray binaries (qLMXBs). This has motivated us
+  to calculate new hydrogen atmosphere models, including opacity due to free-free
+  absorption and Thomson scattering, thermal electron conduction, and self-irradiation
+  by photons from the compact object. We have constructed a self-consistent grid of
+  neutron star models covering a wide range of surface gravities, as well as effective
+  temperatures, which we make available to the scientific community. We present multiepoch
+  Chandra X-ray observations of the qLMXB X7 in the globular cluster 47 Tuc, which
+  is remarkably nonvariable on timescales from minutes to years. Its high-quality
+  X-ray spectrum is adequately fitted by our hydrogen atmosphere model without any
+  hard power-law component or narrow spectral features. If a mass of 1.4 Msolar is
+  assumed, our spectral fits require that its radius be in the range Rns=14.5+1.8-1.6
+  km (90\% confidence), which is larger than that expected from currently preferred
+  models of NS interiors. If its radius is assumed to be 10 km, then a mass of Mns=2.20+0.03-0.16
+  Msolar is required. Using models with the appropriate surface gravity for each value
+  of the mass and radius becomes important for interpretation of the highest quality
+  data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...644.1090H
+arxivurl: http://arxiv.org/abs/astro-ph/0506563
+author: Heinke, C. O. and Rybicki, G. B. and Narayan, R. and Grindlay, J. E.
+author_list:
+- family: Heinke
+  given: C. O.
+- family: Rybicki
+  given: G. B.
+- family: Narayan
+  given: R.
+- family: Grindlay
+  given: J. E.
+date-added: 2017-08-10 22:34:22 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/503701
+eprint: astro-ph/0506563
+journal: \apj
+keywords: 'Galaxy: Globular Clusters: Individual: NGC Number: NGC 104, Radiative Transfer,
+  Stars: Neutron, X-Rays: Binaries'
+month: June
+pages: 1090--1103
+papis_id: 0427c0550d0a859bb97e2a18b465e203
+ref: heinke.c.2006
+title: A Hydrogen Atmosphere Spectral Model Applied to the Neutron Star X7 in the
+  Globular Cluster 47 Tucanae
+type: article
+volume: '644'
+year: '2006'

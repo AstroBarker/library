@@ -1,0 +1,50 @@
+abstract: We perform numerical experiments to investigate the influence of inelastic
+  neutrino reactions with light nuclei on the standing accretion shock instability
+  (SASI). The time evolution of shock waves is calculated with a simple light-bulb
+  approximation for the neutrino transport and a multi-nuclei equation of state. The
+  neutrino absorptions and inelastic interactions with deuterons, tritons, helions,
+  and alpha particles are taken into account in the hydrodynamical simulations. In
+  addition, the effects of ordinary charged-current interactions with nucleons is
+  addressed in the simulations. Axial symmetry is assumed but no equatorial symmetry
+  is imposed. We show that the heating rates of deuterons reach as high as ~10\% of
+  those of nucleons around the bottom of the gain region. On the other hand, alpha
+  particles are heated near the shock wave, which is important when the shock wave
+  expands and the density and temperature of matter become low. It is also found that
+  the models with heating by light nuclei evolve differently in the non-linear phase
+  of SASI than do models that lack heating by light nuclei. This result is because
+  matter in the gain region has a varying density and temperature and therefore sub-regions
+  appear that are locally rich in deuterons and alpha particles. Although the light
+  nuclei are never dominant heating sources and they work favorably for shock revival
+  in some cases and unfavorably in other cases, they are non-negligible and warrant
+  further investigation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774...78F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.1510
+author: Furusawa, S. and Nagakura, H. and Sumiyoshi, K. and Yamada, S.
+author_list:
+- family: Furusawa
+  given: S.
+- family: Nagakura
+  given: H.
+- family: Sumiyoshi
+  given: K.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 14:42:37 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/1/78
+eid: '78'
+eprint: '1305.1510'
+journal: \apj
+keywords: 'equation of state, hydrodynamics, neutrinos, supernovae: general'
+month: September
+pages: '78'
+papis_id: e8d11af2559db24de074658327b7df0b
+primaryclass: astro-ph.HE
+ref: furusawa.s.2013a
+title: The Influence of Inelastic Neutrino Reactions with Light Nuclei on the Standing
+  Accretion Shock Instability in Core-collapse Supernovae
+type: article
+volume: '774'
+year: '2013'

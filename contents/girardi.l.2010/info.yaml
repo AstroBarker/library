@@ -1,0 +1,71 @@
+abstract: In an attempt to constrain evolutionary models of the asymptotic giant branch
+  (AGB) phase at the limit of low masses and low metallicities, we have examined the
+  luminosity functions and number ratios between AGB and red giant branch (RGB) stars
+  from a sample of resolved galaxies from the ACS Nearby Galaxy Survey Treasury. This
+  database provides Hubble Space Telescope optical photometry together with maps of
+  completeness, photometric errors, and star formation histories for dozens of galaxies
+  within 4 Mpc. We select 12 galaxies characterized by predominantly metal-poor populations
+  as indicated by a very steep and blue RGB, and which do not present any indication
+  of recent star formation in their color-magnitude diagrams. Thousands of AGB stars
+  brighter than the tip of the RGB (TRGB) are present in the sample (between 60 and
+  400 per galaxy), hence, the Poisson noise has little impact in our measurements
+  of the AGB/RGB ratio. We model the photometric data with a few sets of thermally
+  pulsing AGB (TP-AGB) evolutionary models with different prescriptions for the mass
+  loss. This technique allows us to set stringent constraints on the TP-AGB models
+  of low-mass, metal-poor stars (with M < 1.5 M sun, [Fe/H]\lessequivlnt{} -1.0).
+  Indeed, those which satisfactorily reproduce the observed AGB/RGB ratios have TP-AGB
+  lifetimes between 1.2 and 1.8 Myr, and finish their nuclear burning lives with masses
+  between 0.51 and 0.55 M sun. This is also in good agreement with recent observations
+  of white dwarf masses in the M4 old globular cluster. These constraints can be added
+  to those already derived from Magellanic Cloud star clusters as important mileposts
+  in the arduous process of calibrating AGB evolutionary models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...724.1030G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.4618
+author: Girardi, L. and Williams, B. F. and Gilbert, K. M. and Rosenfield, P. and
+  Dalcanton, J. J. and Marigo, P. and Boyer, M. L. and Dolphin, A. and Weisz, D. R.
+  and Melbourne, J. and Olsen, K. A. G. and Seth, A. C. and Skillman, E.
+author_list:
+- family: Girardi
+  given: L.
+- family: Williams
+  given: B. F.
+- family: Gilbert
+  given: K. M.
+- family: Rosenfield
+  given: P.
+- family: Dalcanton
+  given: J. J.
+- family: Marigo
+  given: P.
+- family: Boyer
+  given: M. L.
+- family: Dolphin
+  given: A.
+- family: Weisz
+  given: D. R.
+- family: Melbourne
+  given: J.
+- family: Olsen
+  given: K. A. G.
+- family: Seth
+  given: A. C.
+- family: Skillman
+  given: E.
+date-added: 2017-08-11 03:13:52 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/724/2/1030
+eprint: '1009.4618'
+journal: \apj
+keywords: 'stars: general'
+month: December
+pages: 1030--1043
+papis_id: af9c2544be4be0315f22294545f161f0
+primaryclass: astro-ph.SR
+ref: girardi.l.2010
+title: The ACS Nearby Galaxy Survey Treasury. IX. Constraining Asymptotic Giant Branch
+  Evolution with Old Metal-poor Galaxies
+type: article
+volume: '724'
+year: '2010'

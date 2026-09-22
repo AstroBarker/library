@@ -1,0 +1,48 @@
+abstract: We investigate the effect of shear viscosity, nu, and Ohmic resistivity,
+  eta, on the magnetorotational instability (MRI) in vertically stratified accretion
+  disks through a series of local simulations with the Athena code. First, we use
+  a series of unstratified simulations to calibrate physical dissipation as a function
+  of resolution and background field strength; the effect of the magnetic Prandtl
+  number, P m = nu/eta, on the turbulence is captured by ~32 grid zones per disk scale
+  height, H. In agreement with previous results, our stratified disk calculations
+  are characterized by a subthermal, predominately toroidal magnetic field that produces
+  MRI-driven turbulence for \vert{}z\vert{} <~ 2H. Above \vert{}z\vert{} ~ 2H, the
+  magnetic pressure dominates and the field is buoyantly unstable. Large-scale radial
+  and toroidal fields are also generated near the mid-plane and subsequently rise
+  through the disk. The polarity of this mean field switches on a roughly 10 orbit
+  period in a process that is well modeled by an alpha-Omega dynamo. Turbulent stress
+  increases with P m but with a shallower dependence compared to unstratified simulations.
+  For sufficiently large resistivity, eta ~ c s H/1000, where c s is the sound speed,
+  MRI turbulence within 2H of the mid-plane undergoes periods of resistive decay followed
+  by regrowth. This regrowth is caused by amplification of the toroidal field via
+  the dynamo. This process results in large amplitude variability in the stress on
+  10-100 orbital timescales, which may have relevance for partially ionized disks
+  that are observed to have high- and low-accretion states.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...730...94S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.0005
+author: Simon, J. B. and Hawley, J. F. and Beckwith, K.
+author_list:
+- family: Simon
+  given: J. B.
+- family: Hawley
+  given: J. F.
+- family: Beckwith
+  given: K.
+date-added: 2017-08-10 14:54:43 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/730/2/94
+eid: '94'
+eprint: '1010.0005'
+journal: \apj
+keywords: 'accretion, accretion disks, magnetohydrodynamics: MHD'
+month: April
+pages: '94'
+papis_id: 6973c17a3e4ddf96bb704d0bdc7dc25d
+primaryclass: astro-ph.HE
+ref: simon.j.2011
+title: Resistivity-driven State Changes in Vertically Stratified Accretion Disks
+type: article
+volume: '730'
+year: '2011'

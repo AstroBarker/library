@@ -1,0 +1,38 @@
+abstract: When three point masses form a hierarchical triple system, the short-period
+  orbit can be severely modified by the long-period orbit if the two orbits are inclined
+  to each other by more than about 39^deg (sin^{-1}sqrt{2/5}). Such an inclination
+  can induce `Kozai cycles' (Kozai, 1962), in which the eccentricity of the inner
+  orbit cycles by a large amount while its period and therefore semimajor axis remains
+  roughly constant. During those periastra when the eccentricity is largest, tidal
+  friction may become important, and this can result in a secular shrinkage of the
+  orbit, until it becomes circularised at a period of a few days. However, apsidal
+  motion due to either GR or to the quadrupolar distortion of the components (if they
+  are no longer treated as point masses) can reduce the range of eccentricity. We
+  explore the limits on outer and inner orbital period that these perturbations imply.
+  If the components are F/G/K/M dwarfs, then rotationally-driven dynamo activity can
+  become important at the short periods that can occur in the right circumstances.
+  It can cause the period to shorten further. The result may be a contact binary,
+  and/or a merger in which the two stars of the inner pair coalesce to form a single
+  rapidly rotating star. We suggest that this may be the origin of AB Dor, a very
+  rapidly rotating K dwarf that is probably about 50 Myr old.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006Ap\%26SS.304...75E
+author: Eggleton, P. P. and Kisseleva-Eggleton, L.
+author_list:
+- family: Eggleton
+  given: P. P.
+- family: Kisseleva-Eggleton
+  given: L.
+date-added: 2017-08-10 16:08:09 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1007/s10509-006-9078-z
+journal: \apss
+keywords: Binary stars, Triple stars
+month: August
+pages: 75--79
+papis_id: 71f679def3434017bd4134655f8e1c6c
+ref: eggleton.p.2006
+title: A Mechanism for Producing Short-Period Binaries
+type: article
+volume: '304'
+year: '2006'

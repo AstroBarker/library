@@ -1,0 +1,45 @@
+abstract: 'I collect virtually all photometry of the 10 known galactic recurrent novae
+  (RNe) and their 37 known eruptions. This consists of my modern measures of nearly
+  all archival plates (providing the only data for half of 37 known eruptions), my
+  own 10,000 CCD magnitudes from 1987 to present (providing virtually all of the magnitudes
+  in quiescence for seven RNe), over 140,000 visual magnitude estimates recorded by
+  amateur astronomers (who discovered half the known eruptions), and the small scattering
+  of magnitudes from all the literature. From this, I produce various uniform products:
+  (1) BVRIJHK comparison star magnitudes and BV comparison star sequences to cover
+  the entire range of eruption; (2) complete light curves for all eruptions; (3) best-fit
+  B and V light curve templates; (4) orbital periods for all but one RN; (5) exhaustive
+  searches for all missed eruptions; (6) measured discovery efficiencies since 1890;
+  (7) true recurrence time scales; (8) predicted next eruption dates; (9) variations
+  on time scales of minutes, hours, days, months, years, decades, and century; (10)
+  uniform distances and extinctions to all RNe; (11) BV colors at peak and UBVRIJHK
+  colors at minimum, all with extinction corrections; and (12) the spectral energy
+  distributions over UBVRIJHK. Highlights of this work include the discoveries of
+  one new RN, six previously unknown eruptions, and the orbital periods for half the
+  RNe. The goal of this work is to provide uniform demographics for answering questions
+  like the "What is the death rate of RNe in our Galaxy?" and "Are the white dwarfs
+  gaining or losing mass over each eruption cycle?." An important use of this work
+  is for the question of whether RNe can be the progenitors of Type Ia supernovae.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..187..275S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.4426
+author: Schaefer, B. E.
+author_list:
+- family: Schaefer
+  given: B. E.
+date-added: 2017-08-10 19:44:00 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0067-0049/187/2/275
+eprint: '0912.4426'
+journal: \apjs
+keywords: 'novae, cataclysmic variables, stars: individual: T Pyx U Sco CI Aql RS
+  Oph V2487 Oph'
+month: April
+pages: 275--373
+papis_id: b3199d7b4cebd59510ebc0ec5540fa39
+primaryclass: astro-ph.SR
+ref: schaefer.b.2010
+title: Comprehensive Photometric Histories of All Known Galactic Recurrent Novae
+type: article
+volume: '187'
+year: '2010'

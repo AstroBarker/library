@@ -1,0 +1,50 @@
+abstract: The origin of the shallow decay segment in Swift XRT light curves remains
+  a puzzle. We analyze the properties of this segment with a sample of 53 long Swift
+  GRBs detected before 2007 February. We show that the distributions of the sample's
+  characteristics are lognormal or normal, and its isotropic X-ray energy (Eiso,X)
+  is linearly correlated with the prompt gamma-ray energy but with a steeper photon
+  spectrum, aside from some X-ray flashes. No significant spectral evolution is observed
+  from this phase to the following phase, and the latter is usually consistent with
+  external-shock models, implying that the shallow decay is also of external-shock
+  origin, likely a refreshed external shock. Within the refreshed-shock model, the
+  data are generally consistent with a roughly constant injection luminosity up to
+  the end of this phase, tb. A positive correlation between Eiso,X and tb also favors
+  this scenario. Among the 13 bursts that have well-sampled optical light curves,
+  six have an optical break around tb and the breaks are consistent with being achromatic.
+  However, the other seven either do not show an optical break or have a break at
+  an epoch different from tb. This raises a concern for the energy injection scenario,
+  suggesting that the optical and X-ray emission may not be the same component, at
+  least for some bursts. There are four significant outliers in the sample, GRBs 060413,
+  060522, 060607A, and 070110. The shallow decay phase in these bursts is immediately
+  followed by a very steep decay after tb, which is inconsistent with any external-shock
+  model. The optical data for these bursts evolve independently from the X-ray data.
+  These X-ray plateaus likely have an internal origin and demand continuous operation
+  of a long-term central engine. We conclude that the observed shallow decay phase
+  likely has diverse physical origins.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670..565L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.1373
+author: Liang, E.-W. and Zhang, B.-B. and Zhang, B.
+author_list:
+- family: Liang
+  given: E.-W.
+- family: Zhang
+  given: B.-B.
+- family: Zhang
+  given: B.
+date-added: 2017-08-11 05:00:00 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521870
+eprint: '0705.1373'
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal, X-Rays: General'
+month: November
+pages: 565--583
+papis_id: 3f20c23234bb47a5a7941e49a8d92b5e
+ref: liang.e_w.2007
+title: A Comprehensive Analysis of Swift XRT Data. II. Diverse Physical Origins of
+  the Shallow Decay Segment
+type: article
+volume: '670'
+year: '2007'

@@ -1,0 +1,46 @@
+abstract: Three-dimensional (3D) simulations of core-collapse supernovae (CCSNe) are
+  granting new insight into the as-yet-uncertain mechanism that drives successful
+  explosions. While there is still debate about whether explosions are obtained more
+  easily in 3D than in 2D, it is undeniable that there exist qualitative and quantitative
+  differences between the results of 3D and 2D simulations. We present an extensive
+  set of high-resolution 1D, 2D, and 3D CCSN simulations with multispecies neutrino
+  leakage carried out in two different progenitors. Our simulations confirm the results
+  of Couch indicating that 2D explodes more readily than 3D. We argue that this is
+  due to the inadequacies of 2D to accurately capture important aspects of the 3D
+  dynamics. We find that without artificially enhancing the neutrino heating rate,
+  we do not obtain explosions in 3D. We examine the development of neutrino-driven
+  convection and the standing accretion shock instability (SASI) and find that, in
+  separate regimes, either instability can dominate. We find evidence for growth of
+  the SASI for both 15 M \&sun; and 27 M \&sun; progenitors; however, it is weaker
+  in 3D exploding models. The growth rate of both instabilities is artificially enhanced
+  along the symmetry axis in 2D as compared with our axis-free 3D Cartesian simulations.
+  Our work highlights the growing consensus that CCSNe must be studied in 3D if we
+  hope to solve the mystery of how the explosions are powered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...785..123C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.5728
+author: Couch, S. M. and O'Connor, E. P.
+author_list:
+- family: Couch
+  given: S. M.
+- family: O'Connor
+  given: E. P.
+date-added: 2017-08-10 14:31:22 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/785/2/123
+eid: '123'
+eprint: '1310.5728'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, neutrinos, stars: interiors, supernovae:
+  general'
+month: April
+pages: '123'
+papis_id: cc02d9244e63b5e7dbcb036ab80a0885
+primaryclass: astro-ph.HE
+ref: couch.s.2014
+title: High-resolution Three-dimensional Simulations of Core-collapse Supernovae in
+  Multiple Progenitors
+type: article
+volume: '785'
+year: '2014'

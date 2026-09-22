@@ -1,0 +1,76 @@
+abstract: We present predictions for hydrogen and helium emission line luminosities
+  from circumstellar matter around Type Ia supernovae (SNe Ia) using time dependent
+  photoionization modelling. Early high-resolution ESO/Very Large Telescope (VLT)
+  optical echelle spectra of the SN Ia 2000cx were taken before and up to \texttildelow{}70
+  d after maximum to probe the existence of such narrow emission lines from the supernova.
+  We detect no such lines, and from our modelling place an upper limit on the mass-loss
+  rate for the putative wind from the progenitor system, dot{M}\lessequivlnt{} 1.3\texttimes{}
+  10^{-5} M\_{\&sun;} yr^{-1}, assuming a speed of 10 km s-1 and solar abundances
+  for the wind. If the wind would be helium-enriched and/or faster, the upper limit
+  on dot{M} could be significantly higher. In the helium-enriched case, we show that
+  the best line to constrain the mass-loss would be He I lambda10 830. In addition
+  to confirming the details of interstellar Na I and Ca II absorption towards SN 2000cx
+  as discussed by Patat et al., we also find evidence for 6613.56 {\AA} diffuse interstellar
+  band absorption in the Milky Way. We also discuss measurements of the X-ray emission
+  from the interaction between the supernova ejecta and the wind and we re-evaluate
+  observations of SN 1992A obtained \texttildelow{}16 d after maximum by Schlegel
+  \& Petre. We find an upper limit of dot{M}\texttildelow{} 1.3\texttimes{} 10^{-5}
+  M\_{\&sun;} yr^{-1} which is significantly higher than that estimated by Schlegel
+  \& Petre. These results, together with the previous observational work on the normal
+  SNe Ia 1994D and 2001el, disfavour a symbiotic star in the upper mass-loss rate
+  regime (so-called Mira-type systems) from being the likely progenitor scenario for
+  these SNe. Our model calculations are general, and can also be used for the subclass
+  of SNe Ia that do show circumstellar interaction, e.g. the recent PTF 11kx. To constrain
+  hydrogen in late-time spectra, we present ESO/VLT and ESO/New Technology Telescope
+  optical and infrared observations of SNe Ia 1998bu and 2000cx in the nebular phase,
+  251-388 d after maximum. We see no signs of hydrogen line emission in SNe 1998bu
+  and 2000cx at these epochs, and from the absence of Halpha with a width of the order
+  of \texttildelow{}103 km s-1, we argue from modelling that the mass of such hydrogen-rich
+  gas must be \lessequivlnt{}0.03 M\&sun; for both supernovae. Comparing similar upper
+  limits with recent models of Pan et al., it seems that hydrogen-rich donors with
+  a separation of \lessequivlnt{}5 times the radius of the donor may be ruled out
+  for the five SNe Ia 1998bu, 2000cx, 2001el, 2005am and 2005cf. Larger separation,
+  helium-rich donors, or a double-degenerate origin for these supernovae seems more
+  likely. Our models have also been used to put the limit on hydrogen-rich gas in
+  the recent SN 2011fe, and for this supernova, a double-degenerate origin seems likely.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.435..329L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.4099
+author: Lundqvist, P. and Mattila, S. and Sollerman, J. and Kozma, C. and Baron, E.
+  and Cox, N. L. J. and Fransson, C. and Leibundgut, B. and Spyromilio, J.
+author_list:
+- family: Lundqvist
+  given: P.
+- family: Mattila
+  given: S.
+- family: Sollerman
+  given: J.
+- family: Kozma
+  given: C.
+- family: Baron
+  given: E.
+- family: Cox
+  given: N. L. J.
+- family: Fransson
+  given: C.
+- family: Leibundgut
+  given: B.
+- family: Spyromilio
+  given: J.
+date-added: 2017-08-10 19:19:19 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1303
+eprint: '1307.4099'
+journal: \mnras
+keywords: 'circumstellar matter, supernovae: general, supernovae: individual: SN 1992A,
+  supernovae: individual: SN 1998bu, supernovae: individual: SN 2000cx'
+month: October
+pages: 329--345
+papis_id: c04baa0e158a40565f3cf2d8d90a93ba
+primaryclass: astro-ph.HE
+ref: lundqvist.p.2013
+title: Hydrogen and helium in the spectra of Type Ia supernovae
+type: article
+volume: '435'
+year: '2013'

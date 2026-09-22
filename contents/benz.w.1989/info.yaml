@@ -1,0 +1,38 @@
+abstract: 'Three-dimensional numerical simulations are presented for collisions between
+  white dwarfs, using a smooth-particle hydrodynamics code with 5000 particles. The
+  code allows for radiation and degenerate pressure and uses a reduced nuclear network
+  which models the large release of nuclear energy. Two different collision models
+  are considered over a range of impact parameters: between two 0.06 solar-mass C-O
+  white dwarfs and between 0.9 solar-mass and 0.7 solar-mass C-O white dwarfs. In
+  nearly head-on collisions, a very substantial fraction of the mass is lost as a
+  result of a large release of nuclear energy. In grazing collisions, the fraction
+  of mass lost is close to that produced in collisions between main-sequence stars.
+  The quantity of processed elements ejected into the ISM by these collisions does
+  not significantly affect the chemical evolution of the Galaxy.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989ApJ...342..986B
+author: Benz, W. and Thielemann, F.-K. and Hills, J. G.
+author_list:
+- family: Benz
+  given: W.
+- family: Thielemann
+  given: F.-K.
+- family: Hills
+  given: J. G.
+date-added: 2017-08-10 17:42:50 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/167656
+journal: \apj
+keywords: Collisions, Computational Astrophysics, Hydrodynamics, Stellar Motions,
+  Three Dimensional Models, White Dwarf Stars, Chemical Evolution, Digital Simulation,
+  Main Sequence Stars, Milky Way Galaxy, Nuclear Energy, Stellar Interiors, Stellar
+  Mass Ejection
+month: July
+pages: 986--998
+papis_id: 6ad88d7e25e63b172f1b0465e491fa70
+ref: benz.w.1989
+title: Three-dimensional hydrodynamical simulations of stellar collisions. II - White
+  dwarfs
+type: article
+volume: '342'
+year: '1989'

@@ -1,0 +1,41 @@
+abstract: The characteristic approach to numerical relativity is a useful tool in
+  evolving gravitational systems. In the past this has been implemented using two
+  patches of stereographic angular coordinates. In other applications, a six-patch
+  angular coordinate system has proved effective. Here we investigate the use of a
+  six-patch system in characteristic numerical relativity, by comparing an existing
+  two-patch implementation (using second-order finite differencing throughout) with
+  a new six-patch implementation (using either second- or fourth-order finite differencing
+  for the angular derivatives). We compare these different codes by monitoring the
+  Einstein constraint equations, numerically evaluated independently from the evolution.
+  We find that, compared to the (second-order) two-patch code at equivalent resolutions,
+  the errors of the second-order six-patch code are smaller by a factor of about 2,
+  and the errors of the fourth-order six-patch code are smaller by a factor of nearly
+  50.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S.327R
+author: Reisswig, C. and Bishop, N. T. and Lai, C. W. and Thornburg, J. and Szilagyi,
+  B.
+author_list:
+- family: Reisswig
+  given: C.
+- family: Bishop
+  given: N. T.
+- family: Lai
+  given: C. W.
+- family: Thornburg
+  given: J.
+- family: Szilagyi
+  given: B.
+date-added: 2017-08-10 20:30:12 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1088/0264-9381/24/12/S21
+eprint: gr-qc/0610019
+journal: Classical and Quantum Gravity
+month: June
+pages: S327-S339
+papis_id: e5ee1d6aaf2c4b7ef4305d2b9202849a
+ref: reisswig.c.2007
+title: Characteristic evolutions in numerical relativity using six angular patches
+type: article
+volume: '24'
+year: '2007'

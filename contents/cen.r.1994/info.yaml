@@ -1,0 +1,45 @@
+abstract: 'A new, three-dimensional, shock-capturing, hydrodynamic code is utilized
+  to determine the distribution of hot gas in a cold dark matter (CDM) + lambda model
+  universe. Periodic boundary conditions are assumed: a box with size 85/h Mpc, having
+  cell size 0.31/h Mpc, is followed in a simulation with 2703 = 107.3 cells. We adopt
+  omega = 0.45, lambda = 0.55, h identically equal to H/100 km/s/Mpc = 0.6, and then,
+  from the cosmic background explorer (COBE) and light element nucleosynthesis, sigma8
+  = 0.77, omegab = 0.043. We identify the X-ray emitting clusters in the simulation
+  box, compute the luminosity function at several wavelength bands, the temperature
+  function and estimated sizes, as well as the evolution of these quantities with
+  redshift. This open model succeeds in matching local observations of clusters in
+  contrast to the standard omega = 1, CDM model, which fails. It predicts an order
+  of magnitude decline in the number density of bright (h nu = 2-10 keV) clusters
+  from z = 0 to z = 2 in contrast to a slight increase in the number density for standard
+  omega = 1, CDM model. This COBE-normalized CDM + lambda model produces approximately
+  the same number of X-ray clusters having Lx greater than 1043 erg/s as observed.
+  The background radiation field at 1 keV due to clusters is approximately the observed
+  background which, after correction for numerical effects, again indicates that the
+  model is consistent with observations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...429....4C
+arxivurl: http://arxiv.org/abs/astro-ph/9404012
+author: Cen, R. and Ostriker, J. P.
+author_list:
+- family: Cen
+  given: R.
+- family: Ostriker
+  given: J. P.
+date-added: 2017-08-11 07:42:06 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174297
+eprint: astro-ph/9404012
+journal: \apj
+keywords: Astronomical Models, Cosmology, Dark Matter, Galactic Clusters, Galactic
+  Evolution, X Ray Sources, Brightness Temperature, Computerized Simulation, Cosmic
+  X Rays, Distribution Functions, Hydrodynamic Equations, Luminosity, Three Dimensional
+  Models
+month: July
+pages: 4--21
+papis_id: ac746d371ce441c61a6c5fd542da3494
+ref: cen.r.1994
+title: 'X-ray clusters in a cold dark matter + lambda universe: A direct, large-scale,
+  high-resolution, hydrodynamic simulation'
+type: article
+volume: '429'
+year: '1994'

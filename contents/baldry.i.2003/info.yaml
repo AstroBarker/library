@@ -1,0 +1,47 @@
+abstract: We obtain constraints on the slope of a universal stellar initial mass function
+  (IMF) over a range of model cosmic star formation histories (SFHs) using z~0.1 luminosity
+  densities in the range from 0.2 to 2.2 mum. The age-IMF degeneracy of the integrated
+  spectra of stellar populations can be broken for the universe as a whole by using
+  direct measurements of (relative) cosmic SFH from high-redshift observations. These
+  have only marginal dependence on uncertainties in the IMF, whereas fitting to local
+  luminosity densities depends strongly on both cosmic SFH and the IMF. We fit to
+  these measurements using population synthesis and find the best-fit IMF power-law
+  slope to be Gamma=1.15+/-0.2 (assuming dN/dlogm~m-Gamma for 0.5-120 Msolar and m-0.5
+  for 0.1-0.5 Msolar). This M>0.5 Msolar slope is in good agreement with the Salpeter
+  IMF slope (Gamma=1.35). A strong upper limit of Gamma<1.7 is obtained, which effectively
+  rules out the Scalo IMF because its fraction of high-mass stars is too low. This
+  upper limit is at the 99.7\% confidence level if we assume a closed-box chemical
+  evolution scenario and 95\% if we assume constant solar metallicity. Fitting to
+  the Halpha line luminosity density, we obtain a best-fit IMF slope in good agreement
+  with that derived from broadband measurements. Marginalizing over cosmic SFH and
+  IMF slope, we obtain (95\% confidence ranges) Omegastars=(1.1-2.0)\texttimes{}10-3
+  h-1 for the stellar mass density, rhoSFR=(0.7-4.1)\texttimes{}10-2 h Msolar yr-1
+  Mpc-3 for the star formation rate density, and rhoL=(1.2-1.7)\texttimes{}1035 h
+  W Mpc-3 for the bolometric, attenuated, stellar luminosity density (0.09-5 mum).
+  Comparing this total stellar emission with an estimate of the total dust emission
+  implies a relatively modest average attenuation in the UV (<~1 mag at 0.2 mum).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...593..258B
+arxivurl: http://arxiv.org/abs/astro-ph/0304423
+author: Baldry, I. K. and Glazebrook, K.
+author_list:
+- family: Baldry
+  given: I. K.
+- family: Glazebrook
+  given: K.
+date-added: 2017-08-11 02:42:00 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376502
+eprint: astro-ph/0304423
+journal: \apj
+keywords: 'Galaxies: Evolution, Stars: Luminosity Function, Mass Function, Ultraviolet:
+  Galaxies'
+month: August
+pages: 258--271
+papis_id: 94ab5d4a04972faabdf1bc9fe3d8142f
+ref: baldry.i.2003
+title: Constraints on a Universal Stellar Initial Mass Function from Ultraviolet to
+  Near-Infrared Galaxy Luminosity Densities
+type: article
+volume: '593'
+year: '2003'

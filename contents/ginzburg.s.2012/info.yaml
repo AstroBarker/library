@@ -1,0 +1,50 @@
+abstract: Observations from the last decade have indicated the existence of a general
+  class of superluminous supernovae (SLSNe), in which the peak luminosity exceeds
+  1044 erg s-1. Here we focus on a subclass of these events, where the light curve
+  is also tens of days wide, so the total radiated energy is of order 1051 erg. If
+  the origin of these SLSNe is a core-collapse-driven explosion of a massive star,
+  then the mechanism that converts the explosion energy into radiation must be very
+  efficient (much more than in typical core-collapse SNe, where this efficiency is
+  of order 1\%). We examine the scenario where the radiated luminosity is due to efficient
+  conversion of kinetic energy of the ejected stellar envelope into radiation by interaction
+  with an optically thick, pre-existing circumstellar material, presumably the product
+  of a steady wind from the progenitor. We base the analysis on analytical derivations
+  of various limits, and on a simple, numerically solved, hydrodynamic diffusion model,
+  which allows us to explore the regime of interest, which does not correspond to
+  the analytical limits. In our results, we identify the qualitative behavior of the
+  observable light curves, and relate them to the parameters of the wind. We specifically
+  show that a wide and superluminous supernova requires the mass of the relevant wind
+  material to be comparable to that of the ejected material from the exploding progenitor.
+  We find the wind parameters that explain the peak luminosity and width of the bolometric
+  light curves of three particular SLSNe, namely, SN 2005ap, SN 2006gy, and SN 2010gx,
+  and show that they are best fitted with a wind that extends to a radius of order
+  1015 cm. These results serve as an additional indication that at least some SLSNe
+  may be powered by interaction of the ejected material with a steady wind of similar
+  mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757..178G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.3455
+author: Ginzburg, S. and Balberg, S.
+author_list:
+- family: Ginzburg
+  given: S.
+- family: Balberg
+  given: S.
+date-added: 2017-08-10 15:16:44 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/757/2/178
+eid: '178'
+eprint: '1205.3455'
+journal: \apj
+keywords: 'circumstellar matter, shock waves, supernovae: general, supernovae: individual:
+  SN 2005ap SN 2006gy SN 2010gx'
+month: October
+pages: '178'
+papis_id: 3957d25a257fb3783f565f7a6caa8161
+primaryclass: astro-ph.SR
+ref: ginzburg.s.2012
+title: Superluminous Light Curves from Supernovae Exploding in a Dense Wind
+type: article
+volume: '757'
+year: '2012'

@@ -1,0 +1,190 @@
+abstract: We present UV/optical observations and models of supernova (SN) 2023ixf,         a
+  type II SN located in Messier 101 at 6.9 Mpc. Early-time         (``flash'') spectroscopy
+  of SN 2023ixf, obtained primarily at         Lick Observatory, reveals emission
+  lines of H I, He I/II, C IV,         and N III/IV/V with a narrow core and broad,
+  symmetric wings         arising from the photo-ionization of dense, close-in         circumstellar
+  material (CSM) located around the progenitor star         prior to shock breakout.
+  These electron-scattering broadened         line profiles persist for  days with
+  respect to first         light, at which time Doppler broadened features from the
+  fastest         SN ejecta form, suggesting a reduction in CSM density at \$r rsim         10^{15}\$
+  cm. The early-time light curve of SN2023ixf shows peak         absolute magnitudes
+  (e.g., \$M\_{u} = -18.6\$ mag, \$M\_{g} = -18.4\$         mag) that are \$rsim 2\$
+  mag brighter than typical type II         supernovae, this photometric boost also
+  being consistent with         the shock power supplied from CSM interaction. Comparison
+  of SN         2023ixf to a grid of light curve and multi-epoch spectral models         from
+  the non-LTE radiative transfer code CMFGEN and the         radiation-hydrodynamics
+  code HERACLES suggests dense, solar-         metallicity, CSM confined to \$r =
+  (0.5-1) \times 10^{15}\$ cm and         a progenitor mass-loss rate of \$\dot{M}
+  = 10^{-2}\$         M\$\_{\odot}\$yr\$^{-1}\$. For the assumed progenitor wind velocity         of
+  \$v\_w = 50\$ km s\$^{-1}\$, this corresponds to enhanced mass-         loss (i.e.,
+  ``super-wind'' phase) during the last \-6         years before explosion.
+archiveprefix: arXiv
+author: Jacobson-Galan, W. V. and Dessart, L. and Margutti, R. and Chornock, R. and
+  Foley, R. J. and Kilpatrick, C. D. and Jones, D. O. and Taggart, K. and Angus, C.
+  R. and Bhattacharjee, S. and Braff, L. A. and Brethauer, D. and Burgasser, A. J.
+  and Cao, F. and Carlile, C. M. and Chambers, K. C. and Coulter, D. A. and Dominguez-Ruiz,
+  E. and Dickinson, C. B. and de Boer, T. and Gagliano, A. and Gall, C. and Gao, H.
+  and Gates, E. L. and Gomez, S. and Guolo, M. and Halford, M. R. J. and Hjorth, J.
+  and Huber, M. E. and Johnson, M. N. and Karpoor, P. R. and Laskar, T. and LeBaron,
+  N. and Li, Z. and Lin, Y. and Loch, S. D. and Lynam, P. D. and Magnier, E. A. and
+  Maloney, P. and Matthews, D. J. and McDonald, M. and Miao, H. Y. and Milisavljevic,
+  D. and Pan, Y. C. and Pradyumna, S. and Ransome, C. L. and Rees, J. M. and Rest,
+  A. and Rojas-Bravo, C. and Sandford, N. R. and Sandoval Ascencio, L. and Sanjaripour,
+  S. and Savino, A. and Sears, H. and Sharei, N. and Smartt, S. J. and Softich, E.
+  R. and Theissen, C. A. and Tinyanont, S. and Tohfa, H. and Villar, V. A. and Wang,
+  Q. and Wainscoat, R. J. and Westerling, A. L. and Wiston, E. and Wozniak, M. A.
+  and Yadavalli, S. K. and Zenati, Y.
+author_list:
+- family: Jacobson-Galan
+  given: W. V.
+- family: Dessart
+  given: L.
+- family: Margutti
+  given: R.
+- family: Chornock
+  given: R.
+- family: Foley
+  given: R. J.
+- family: Kilpatrick
+  given: C. D.
+- family: Jones
+  given: D. O.
+- family: Taggart
+  given: K.
+- family: Angus
+  given: C. R.
+- family: Bhattacharjee
+  given: S.
+- family: Braff
+  given: L. A.
+- family: Brethauer
+  given: D.
+- family: Burgasser
+  given: A. J.
+- family: Cao
+  given: F.
+- family: Carlile
+  given: C. M.
+- family: Chambers
+  given: K. C.
+- family: Coulter
+  given: D. A.
+- family: Dominguez-Ruiz
+  given: E.
+- family: Dickinson
+  given: C. B.
+- family: de Boer
+  given: T.
+- family: Gagliano
+  given: A.
+- family: Gall
+  given: C.
+- family: Gao
+  given: H.
+- family: Gates
+  given: E. L.
+- family: Gomez
+  given: S.
+- family: Guolo
+  given: M.
+- family: Halford
+  given: M. R. J.
+- family: Hjorth
+  given: J.
+- family: Huber
+  given: M. E.
+- family: Johnson
+  given: M. N.
+- family: Karpoor
+  given: P. R.
+- family: Laskar
+  given: T.
+- family: LeBaron
+  given: N.
+- family: Li
+  given: Z.
+- family: Lin
+  given: Y.
+- family: Loch
+  given: S. D.
+- family: Lynam
+  given: P. D.
+- family: Magnier
+  given: E. A.
+- family: Maloney
+  given: P.
+- family: Matthews
+  given: D. J.
+- family: McDonald
+  given: M.
+- family: Miao
+  given: H. Y.
+- family: Milisavljevic
+  given: D.
+- family: Pan
+  given: Y. C.
+- family: Pradyumna
+  given: S.
+- family: Ransome
+  given: C. L.
+- family: Rees
+  given: J. M.
+- family: Rest
+  given: A.
+- family: Rojas-Bravo
+  given: C.
+- family: Sandford
+  given: N. R.
+- family: Sandoval Ascencio
+  given: L.
+- family: Sanjaripour
+  given: S.
+- family: Savino
+  given: A.
+- family: Sears
+  given: H.
+- family: Sharei
+  given: N.
+- family: Smartt
+  given: S. J.
+- family: Softich
+  given: E. R.
+- family: Theissen
+  given: C. A.
+- family: Tinyanont
+  given: S.
+- family: Tohfa
+  given: H.
+- family: Villar
+  given: V. A.
+- family: Wang
+  given: Q.
+- family: Wainscoat
+  given: R. J.
+- family: Westerling
+  given: A. L.
+- family: Wiston
+  given: E.
+- family: Wozniak
+  given: M. A.
+- family: Yadavalli
+  given: S. K.
+- family: Zenati
+  given: Y.
+doi: 10.48550/arXiv.2306.04721
+eid: arXiv:2306.04721
+eprint: '2306.04721'
+groups: 2023ixf, Observation, Progenitor
+journal: arXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Astrophysics
+  of Galaxies, Astrophysics - Solar and Stellar Astrophysics
+month: June
+pages: arXiv:2306.04721
+papis_id: 3f3058ef2d77cffc00fc7f5f30ef956d
+primaryclass: astro-ph.HE
+ref: jacobson_galan.w.2023
+title: 'SN 2023ixf in Messier 101: Photo-ionization of Dense, Close-in Circumstellar
+  Material in a Nearby Type II Supernova'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2023arXiv230604721J
+year: '2023'

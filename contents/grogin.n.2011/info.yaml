@@ -1,0 +1,279 @@
+abstract: The Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey (CANDELS)
+  is designed to document the first third of galactic evolution, over the approximate
+  redshift (z) range 8-1.5. It will image >250,000 distant galaxies using three separate
+  cameras on the Hubble Space Telescope, from the mid-ultraviolet to the near-infrared,
+  and will find and measure Type Ia supernovae at z > 1.5 to test their accuracy as
+  standardizable candles for cosmology. Five premier multi-wavelength sky regions
+  are selected, each with extensive ancillary data. The use of five widely separated
+  fields mitigates cosmic variance and yields statistically robust and complete samples
+  of galaxies down to a stellar mass of 109 M \&sun; to z \approx{} 2, reaching the
+  knee of the ultraviolet luminosity function of galaxies to z \approx{} 8. The survey
+  covers approximately 800 arcmin2 and is divided into two parts. The CANDELS/Deep
+  survey (5sigma point-source limit H = 27.7 mag) covers ~125 arcmin2 within Great
+  Observatories Origins Deep Survey (GOODS)-N and GOODS-S. The CANDELS/Wide survey
+  includes GOODS and three additional fields (Extended Groth Strip, COSMOS, and Ultra-deep
+  Survey) and covers the full area to a 5sigma point-source limit of H >~ 27.0 mag.
+  Together with the Hubble Ultra Deep Fields, the strategy creates a three-tiered
+  "wedding-cake" approach that has proven efficient for extragalactic surveys. Data
+  from the survey are nonproprietary and are useful for a wide variety of science
+  investigations. In this paper, we describe the basic motivations for the survey,
+  the CANDELS team science goals and the resulting observational requirements, the
+  field selection and geometry, and the observing design. The Hubble data processing
+  and products are described in a companion paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..197...35G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.3753
+author: Grogin, N. A. and Kocevski, D. D. and Faber, S. M. and Ferguson, H. C. and
+  Koekemoer, A. M. and Riess, A. G. and Acquaviva, V. and Alexander, D. M. and Almaini,
+  O. and Ashby, M. L. N. and Barden, M. and Bell, E. F. and Bournaud, F. and Brown,
+  T. M. and Caputi, K. I. and Casertano, S. and Cassata, P. and Castellano, M. and
+  Challis, P. and Chary, R.-R. and Cheung, E. and Cirasuolo, M. and Conselice, C.
+  J. and Roshan Cooray, A. and Croton, D. J. and Daddi, E. and Dahlen, T. and Davé,
+  R. and de Mello, D. F. and Dekel, A. and Dickinson, M. and Dolch, T. and Donley,
+  J. L. and Dunlop, J. S. and Dutton, A. A. and Elbaz, D. and Fazio, G. G. and Filippenko,
+  A. V. and Finkelstein, S. L. and Fontana, A. and Gardner, J. P. and Garnavich, P.
+  M. and Gawiser, E. and Giavalisco, M. and Grazian, A. and Guo, Y. and Hathi, N.
+  P. and Häussler, B. and Hopkins, P. F. and Huang, J.-S. and Huang, K.-H. and Jha,
+  S. W. and Kartaltepe, J. S. and Kirshner, R. P. and Koo, D. C. and Lai, K. and Lee,
+  K.-S. and Li, W. and Lotz, J. M. and Lucas, R. A. and Madau, P. and McCarthy, P.
+  J. and McGrath, E. J. and McIntosh, D. H. and McLure, R. J. and Mobasher, B. and
+  Moustakas, L. A. and Mozena, M. and Nandra, K. and Newman, J. A. and Niemi, S.-M.
+  and Noeske, K. G. and Papovich, C. J. and Pentericci, L. and Pope, A. and Primack,
+  J. R. and Rajan, A. and Ravindranath, S. and Reddy, N. A. and Renzini, A. and Rix,
+  H.-W. and Robaina, A. R. and Rodney, S. A. and Rosario, D. J. and Rosati, P. and
+  Salimbeni, S. and Scarlata, C. and Siana, B. and Simard, L. and Smidt, J. and Somerville,
+  R. S. and Spinrad, H. and Straughn, A. N. and Strolger, L.-G. and Telford, O. and
+  Teplitz, H. I. and Trump, J. R. and van der Wel, A. and Villforth, C. and Wechsler,
+  R. H. and Weiner, B. J. and Wiklind, T. and Wild, V. and Wilson, G. and Wuyts, S.
+  and Yan, H.-J. and Yun, M. S.
+author_list:
+- family: Grogin
+  given: N. A.
+- family: Kocevski
+  given: D. D.
+- family: Faber
+  given: S. M.
+- family: Ferguson
+  given: H. C.
+- family: Koekemoer
+  given: A. M.
+- family: Riess
+  given: A. G.
+- family: Acquaviva
+  given: V.
+- family: Alexander
+  given: D. M.
+- family: Almaini
+  given: O.
+- family: Ashby
+  given: M. L. N.
+- family: Barden
+  given: M.
+- family: Bell
+  given: E. F.
+- family: Bournaud
+  given: F.
+- family: Brown
+  given: T. M.
+- family: Caputi
+  given: K. I.
+- family: Casertano
+  given: S.
+- family: Cassata
+  given: P.
+- family: Castellano
+  given: M.
+- family: Challis
+  given: P.
+- family: Chary
+  given: R.-R.
+- family: Cheung
+  given: E.
+- family: Cirasuolo
+  given: M.
+- family: Conselice
+  given: C. J.
+- family: Roshan Cooray
+  given: A.
+- family: Croton
+  given: D. J.
+- family: Daddi
+  given: E.
+- family: Dahlen
+  given: T.
+- family: Davé
+  given: R.
+- family: de Mello
+  given: D. F.
+- family: Dekel
+  given: A.
+- family: Dickinson
+  given: M.
+- family: Dolch
+  given: T.
+- family: Donley
+  given: J. L.
+- family: Dunlop
+  given: J. S.
+- family: Dutton
+  given: A. A.
+- family: Elbaz
+  given: D.
+- family: Fazio
+  given: G. G.
+- family: Filippenko
+  given: A. V.
+- family: Finkelstein
+  given: S. L.
+- family: Fontana
+  given: A.
+- family: Gardner
+  given: J. P.
+- family: Garnavich
+  given: P. M.
+- family: Gawiser
+  given: E.
+- family: Giavalisco
+  given: M.
+- family: Grazian
+  given: A.
+- family: Guo
+  given: Y.
+- family: Hathi
+  given: N. P.
+- family: Häussler
+  given: B.
+- family: Hopkins
+  given: P. F.
+- family: Huang
+  given: J.-S.
+- family: Huang
+  given: K.-H.
+- family: Jha
+  given: S. W.
+- family: Kartaltepe
+  given: J. S.
+- family: Kirshner
+  given: R. P.
+- family: Koo
+  given: D. C.
+- family: Lai
+  given: K.
+- family: Lee
+  given: K.-S.
+- family: Li
+  given: W.
+- family: Lotz
+  given: J. M.
+- family: Lucas
+  given: R. A.
+- family: Madau
+  given: P.
+- family: McCarthy
+  given: P. J.
+- family: McGrath
+  given: E. J.
+- family: McIntosh
+  given: D. H.
+- family: McLure
+  given: R. J.
+- family: Mobasher
+  given: B.
+- family: Moustakas
+  given: L. A.
+- family: Mozena
+  given: M.
+- family: Nandra
+  given: K.
+- family: Newman
+  given: J. A.
+- family: Niemi
+  given: S.-M.
+- family: Noeske
+  given: K. G.
+- family: Papovich
+  given: C. J.
+- family: Pentericci
+  given: L.
+- family: Pope
+  given: A.
+- family: Primack
+  given: J. R.
+- family: Rajan
+  given: A.
+- family: Ravindranath
+  given: S.
+- family: Reddy
+  given: N. A.
+- family: Renzini
+  given: A.
+- family: Rix
+  given: H.-W.
+- family: Robaina
+  given: A. R.
+- family: Rodney
+  given: S. A.
+- family: Rosario
+  given: D. J.
+- family: Rosati
+  given: P.
+- family: Salimbeni
+  given: S.
+- family: Scarlata
+  given: C.
+- family: Siana
+  given: B.
+- family: Simard
+  given: L.
+- family: Smidt
+  given: J.
+- family: Somerville
+  given: R. S.
+- family: Spinrad
+  given: H.
+- family: Straughn
+  given: A. N.
+- family: Strolger
+  given: L.-G.
+- family: Telford
+  given: O.
+- family: Teplitz
+  given: H. I.
+- family: Trump
+  given: J. R.
+- family: van der Wel
+  given: A.
+- family: Villforth
+  given: C.
+- family: Wechsler
+  given: R. H.
+- family: Weiner
+  given: B. J.
+- family: Wiklind
+  given: T.
+- family: Wild
+  given: V.
+- family: Wilson
+  given: G.
+- family: Wuyts
+  given: S.
+- family: Yan
+  given: H.-J.
+- family: Yun
+  given: M. S.
+date-added: 2017-08-11 00:05:12 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0067-0049/197/2/35
+eid: '35'
+eprint: '1105.3753'
+journal: \apjs
+keywords: 'cosmology: observations, galaxies: high-redshift'
+month: December
+pages: '35'
+papis_id: a8d541c5e789155f79a97c238512b722
+ref: grogin.n.2011
+title: 'CANDELS: The Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey'
+type: article
+volume: '197'
+year: '2011'

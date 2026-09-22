@@ -1,0 +1,44 @@
+abstract: We undertake a comparison of observed Algol-type binaries with a library
+  of computed Case A binary evolution tracks. The library consists of 5500 binary
+  tracks with various values of initial primary mass M10, mass ratio q0, and period
+  P0, designed to sample the phase-space of Case A binaries in the range -0.10<=logM10<=1.7.
+  Each binary is evolved using a standard code with the assumption that both total
+  mass and orbital angular momentum are conserved. This code follows the evolution
+  of both stars to the point where contact or reverse mass transfer occurs. The resulting
+  binary tracks show a rich variety of behavior that we sort into several subclasses
+  of case A and case B. We present the results of this classification, the final mass
+  ratio, and the fraction of time spent in Roche Lobe overflow for each binary system.
+  The conservative assumption under which we created this library is expected to hold
+  for a broad range of binaries, where both components have spectra in the range G0
+  to B1 and luminosity classes III to V. We gather a list of relatively well-determined,
+  observed hot Algol-type binaries meeting this criterion, as well as a list of cooler
+  Algol-type binaries, for which we expect significant dynamo-driven mass loss and
+  angular momentum loss. We fit each observed binary to our library of tracks using
+  a chi2-minimizing procedure. We find that the hot Algols display overall acceptable
+  chi2, confirming the conservative assumption, while the cool Algols show much less
+  acceptable chi2, suggesting the need for more free parameters, such as mass and
+  angular momentum loss.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...552..664N
+arxivurl: http://arxiv.org/abs/astro-ph/0009258
+author: Nelson, C. A. and Eggleton, P. P.
+author_list:
+- family: Nelson
+  given: C. A.
+- family: Eggleton
+  given: P. P.
+date-added: 2017-08-10 14:13:41 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/320560
+eprint: astro-ph/0009258
+journal: \apj
+keywords: 'Stars: Binaries: Close, Stars: Evolution'
+month: May
+pages: 664--678
+papis_id: 38ea5ed73a35ea62984e3f113b8ea6d5
+ref: nelson.c.2001
+title: A Complete Survey of Case A Binary Evolution with Comparison to Observed Algol-type
+  Systems
+type: article
+volume: '552'
+year: '2001'

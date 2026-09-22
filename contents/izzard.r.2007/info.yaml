@@ -1,0 +1,52 @@
+abstract: 'Context: We test the effect of proton-capture reaction rate uncertainties
+  on the abundances of the Ne, Na, Mg and Al isotopes processed by the NeNa and MgAl
+  chains during hot bottom burning (HBB) in asymptotic giant branch (AGB) stars of
+  intermediate mass between 4 and 6 M\&sun; and metallicities between Z = 0.0001 and
+  0.02.  Aims: We provide uncertainty ranges for the AGB stellar yields, for inclusion
+  in galactic chemical evolution models, and indicate which reaction rates are most
+  important and should be better determined.  Methods: We use a fast synthetic algorithm
+  based on detailed AGB models. We run a large number of stellar models, varying one
+  reaction per time for a very fine grid of values, as well as all reactions simultaneously.  Results:
+  We show that there are uncertainties in the yields of all the Ne, Na, Mg and Al
+  isotopes due to uncertain proton-capture reaction rates. The most uncertain yields
+  are those of 26Al and 23Na (variations of two orders of magnitude), 24Mg and 27Al
+  (variations of more than one order of magnitude), 20Ne and 22Ne (variations between
+  factors 2 and 7). In order to obtain more reliable Ne, Na, Mg and Al yields from
+  IM-AGB stars the rates that require more accurate determination are: 22Ne(p,gamma)23Na,
+  23Na(p,gamma)24Mg, 25Mg(p,gamma)26Al, 26Mg(p,gamma)27Al and 26Al(p,gamma)27Si.  Conclusions:
+  Detailed galactic chemical evolution models should be constructed to address the
+  impact of our uncertainty ranges on the observational constraints related to HBB
+  nucleosynthesis, such as globular cluster chemical anomalies.  Table 13 is only
+  available in electronic form at the CDS via anonymous ftp to cdsarc.u-strasbg.fr
+  (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/466/641'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...466..641I
+arxivurl: http://arxiv.org/abs/astro-ph/0703078
+author: Izzard, R. G. and Lugaro, M. and Karakas, A. I. and Iliadis, C. and van Raai,
+  M.
+author_list:
+- family: Izzard
+  given: R. G.
+- family: Lugaro
+  given: M.
+- family: Karakas
+  given: A. I.
+- family: Iliadis
+  given: C.
+- family: van Raai
+  given: M.
+date-added: 2017-08-11 02:17:02 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20066903
+eprint: astro-ph/0703078
+journal: \aap
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: AGB and post-AGB'
+month: May
+pages: 641--648
+papis_id: 4b614c7f2c00170d3f8c3e64815858de
+ref: izzard.r.2007
+title: Reaction rate uncertainties and the operation of the NeNa and MgAl chains during
+  HBB in intermediate-mass AGB stars
+type: article
+volume: '466'
+year: '2007'

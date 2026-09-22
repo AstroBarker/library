@@ -1,0 +1,56 @@
+abstract: We present a description of the adaptive mesh refinement (AMR) implementation
+  of the PLUTO code for solving the equations of classical and special relativistic
+  magnetohydrodynamics (MHD and RMHD). The current release exploits, in addition to
+  the static grid version of the code, the distributed infrastructure of the CHOMBO
+  library for multidimensional parallel computations over block-structured, adaptively
+  refined grids. We employ a conservative finite-volume approach where primary flow
+  quantities are discretized at the cell center in a dimensionally unsplit fashion
+  using the Corner Transport Upwind method. Time stepping relies on a characteristic
+  tracing step where piecewise parabolic method, weighted essentially non-oscillatory,
+  or slope-limited linear interpolation schemes can be handily adopted. A characteristic
+  decomposition-free version of the scheme is also illustrated. The solenoidal condition
+  of the magnetic field is enforced by augmenting the equations with a generalized
+  Lagrange multiplier providing propagation and damping of divergence errors through
+  a mixed hyperbolic/parabolic explicit cleaning step. Among the novel features, we
+  describe an extension of the scheme to include non-ideal dissipative processes,
+  such as viscosity, resistivity, and anisotropic thermal conduction without operator
+  splitting. Finally, we illustrate an efficient treatment of point-local, potentially
+  stiff source terms over hierarchical nested grids by taking advantage of the adaptivity
+  in time. Several multidimensional benchmarks and applications to problems of astrophysical
+  relevance assess the potentiality of the AMR version of PLUTO in resolving flow
+  features separated by large spatial and temporal disparities.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..198....7M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.0740
+author: Mignone, A. and Zanni, C. and Tzeferacos, P. and van Straalen, B. and Colella,
+  P. and Bodo, G.
+author_list:
+- family: Mignone
+  given: A.
+- family: Zanni
+  given: C.
+- family: Tzeferacos
+  given: P.
+- family: van Straalen
+  given: B.
+- family: Colella
+  given: P.
+- family: Bodo
+  given: G.
+date-added: 2017-08-10 18:55:13 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0067-0049/198/1/7
+eid: '7'
+eprint: '1110.0740'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: January
+pages: '7'
+papis_id: 6e8c7dd8e95f38fcabfc5efadd1fb3f5
+primaryclass: astro-ph.HE
+ref: mignone.a.2012a
+title: The PLUTO Code for Adaptive Mesh Computations in Astrophysical Fluid Dynamics
+type: article
+volume: '198'
+year: '2012'

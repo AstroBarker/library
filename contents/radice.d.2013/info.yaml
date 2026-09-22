@@ -1,0 +1,39 @@
+abstract: Recent work by McClarren and Hauck (2010) [31] suggests that the filtered
+  spherical harmonics method represents an efficient, robust, and accurate method
+  for radiation transport, at least in the two-dimensional (2D) case. We extend their
+  work to the three-dimensional (3D) case and find that all of the advantages of the
+  filtering approach identified in 2D are present also in the 3D case. We reformulate
+  the filter operation in a way that is independent of the timestep and of the spatial
+  discretization. We also explore different second- and fourth-order filters and find
+  that the second-order ones yield significantly better results. Overall, our findings
+  suggest that the filtered spherical harmonics approach represents a very promising
+  method for 3D radiation transport calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013JCoPh.242..648R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.1634
+author: Radice, D. and Abdikamalov, E. and Rezzolla, L. and Ott, C. D.
+author_list:
+- family: Radice
+  given: D.
+- family: Abdikamalov
+  given: E.
+- family: Rezzolla
+  given: L.
+- family: Ott
+  given: C. D.
+date-added: 2018-04-03 19:44:53 +0000
+date-modified: 2018-04-03 19:44:54 +0000
+doi: 10.1016/j.jcp.2013.01.048
+eprint: '1209.1634'
+journal: Journal of Computational Physics
+month: June
+pages: 648--669
+papis_id: 2444c31c40ee04ed9a9cdbd5b60d66f5
+primaryclass: astro-ph.HE
+ref: radice.d.2013
+title: A new spherical harmonics scheme for multi-dimensional radiation transport
+  I. Static matter configurations
+type: article
+volume: '242'
+year: '2013'

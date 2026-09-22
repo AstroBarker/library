@@ -1,0 +1,35 @@
+abstract: It is shown that a consideration of the magnetic field in a highly conducting
+  turbulent medium, using Lagrange variables, involves deriving kinetic equations
+  of fluid-particle transition probability densities. A derivation of such equations
+  is performed for joint probability densities of n particles up to n = 4. By assuming
+  normality of the one-particle distribution function it was found that these kinetic
+  equations are the generalized Kolmogorov-Fokker-Planck (KFP) equations. The dynamics
+  of mean and fluctuating magnetic fields is described by means of these equations.
+  The eddy diffusivity of a mean field for processes described by generalized KFP
+  equations coincides with that of a scalar field (depending in general on helicity
+  in implicit form). It is shown that at sufficiently large magnetic Reynolds numbers,
+  a turbulence with any spectrum generates fluctuating magnetic fields.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1986JFM...168...73V
+author: Vainshtein, S. I. and Kichatinov, L. L.
+author_list:
+- family: Vainshtein
+  given: S. I.
+- family: Kichatinov
+  given: L. L.
+date-added: 2017-08-11 03:50:36 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1017/S0022112086000290
+journal: Journal of Fluid Mechanics
+keywords: Fokker-Planck Equation, Kolmogoroff Theory, Magnetic Fields, Magnetohydrodynamics,
+  Turbulent Flow, Lagrange Multipliers, Probability Density Functions, Reynolds Number,
+  Turbulent Diffusion
+month: July
+pages: 73--87
+papis_id: eebf1c72493993d946a902de642865c1
+ref: vainshtein.s.1986
+title: The dynamics of magnetic fields in a highly conducting turbulent medium and
+  the generalized Kolmogorov-Fokker-Planck equations
+type: article
+volume: '168'
+year: '1986'

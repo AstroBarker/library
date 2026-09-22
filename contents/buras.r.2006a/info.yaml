@@ -1,0 +1,61 @@
+abstract: Spherically symmetric (1D) and two-dimensional (2D) supernova simulations
+  for progenitor stars between 11 M\_\&sun; and 25 M\_\&sun; are presented, making
+  use of the Prometheus/Vertex neutrino-hydrodynamics code, which employs a full spectral
+  treatment of neutrino transport and neutrino-matter interactions with a variable
+  Eddington factor closure of the O(v/c) moments equations of neutrino number, energy,
+  and momentum. Multi-dimensional transport aspects are treated by the ``ray-by-ray
+  plus'' approximation described in Paper I. We discuss in detail the variation of
+  the supernova evolution with the progenitor models, including one calculation for
+  a 15 M\_\&sun; progenitor whose iron core is assumed to rotate rigidly with an angular
+  frequency of 0.5 rad s-1 before collapse. We also test the sensitivity of our 2D
+  calculations to the angular grid resolution, the lateral wedge size of the computational
+  domain, and to the perturbations which seed convective instabilities in the post-bounce
+  core. In particular, we do not find any important differences depending on whether
+  random perturbations are included already during core collapse or whether such perturbations
+  are imposed on a 1D collapse model shortly after core bounce. Convection below the
+  neutrinosphere sets in 30-40 ms after bounce at a density well above 1012 g cm-3
+  in all 2D models, and encompasses a layer of growing mass as time goes on. It leads
+  to a more extended proto-neutron star structure with reduced mean energies of the
+  radiated neutrinos, but accelerated lepton number and energy loss and significantly
+  higher muon and tau neutrino luminosities at times later than about 100 ms after
+  bounce. While convection inside the nascent neutron star turns out to be insensitive
+  to our variations of the angular cell and grid size, the convective activity in
+  the neutrino-heated postshock layer gains more strength in better resolved models.
+  We find that low (l = 1, 2) convective modes, which require the use of a full 180
+  degree grid and are excluded in simulations with smaller angular wedges, can qualitatively
+  change the evolution of a model. In case of an 11.2 M\_\&sun; star, the lowest-mass
+  progenitor we investigate, a probably rather weak explosion by the convectively
+  supported neutrino-heating mechanism develops after about 150 ms post-bounce evolution
+  in a 2D simulation with 180 degrees, whereas the same model with 90 degree wedge
+  fails to explode like all other models. This sensitivity demonstrates the proximity
+  of our 2D calculations to the borderline between success and failure, and stresses
+  the need to strive for simulations in 3D, ultimately without the constraints connected
+  with the axis singularity of a polar coordinate grid.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...457..281B
+arxivurl: http://arxiv.org/abs/astro-ph/0512189
+author: Buras, R. and Janka, H.-T. and Rampp, M. and Kifonidis, K.
+author_list:
+- family: Buras
+  given: R.
+- family: Janka
+  given: H.-T.
+- family: Rampp
+  given: M.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-10 14:41:39 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20054654
+eprint: astro-ph/0512189
+journal: \aap
+keywords: 'supernovae: general, neutrinos, radiative transfer, hydrodynamics'
+month: October
+pages: 281--308
+papis_id: 61ce880279acebf973ac84ab8d14b8ee
+ref: buras.r.2006a
+title: Two-dimensional hydrodynamic core-collapse supernova simulations with spectral
+  neutrino transport. II. Models for different progenitor stars
+type: article
+volume: '457'
+year: '2006'

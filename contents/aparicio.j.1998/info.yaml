@@ -1,0 +1,24 @@
+abstract: We present a simple method for the calculation of generalized Fermi functions.
+  It is based on a straight integration using quadratures, with an adequate interval
+  subdivision and variable choice. The result is a fast and accurate algorithm, which
+  is compared with other existing methods in accuracy, versatility, and speed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJS..117..627A
+author: Aparicio, J. M.
+author_list:
+- family: Aparicio
+  given: J. M.
+date-added: 2017-08-11 01:17:17 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/313121
+journal: \apjs
+keywords: 'METHODS: NUMERICAL, EQUATION OF STATE, ATOMIC PROCESSES, Atomic Processes,
+  Equation of State, Methods: Numerical'
+month: July
+pages: 627--632
+papis_id: df4dc085611120e61a543a3807cadfb8
+ref: aparicio.j.1998
+title: A Simple and Accurate Method for the Calculation of Generalized Fermi Functions
+type: article
+volume: '117'
+year: '1998'

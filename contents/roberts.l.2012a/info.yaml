@@ -1,0 +1,53 @@
+abstract: Previous work on neutrino emission from proto-neutron stars which employed
+  full solutions of the Boltzmann equation showed that the average energies of emitted
+  electron neutrinos and antineutrinos are closer to one another than predicted by
+  older, more approximate work. This in turn implied that the neutrino driven wind
+  is proton rich during its entire life, precluding r-process nucleosynthesis and
+  the synthesis of Sr, Y, and Zr. This work relied on charged-current neutrino interaction
+  rates that are appropriate for a free nucleon gas. Here, it is shown in detail that
+  the inclusion of the nucleon potential energies and collisional broadening of the
+  response significantly alters this conclusion. Isovector interactions, which give
+  rise to the nuclear symmetry energy, produce a difference between the neutron and
+  proton single-particle energies DeltaU=Un-Up and alter the kinematics of the charged-current
+  reactions. In neutron-rich matter, and for a given neutrino/antineutrino energy,
+  the rate for nue+n-->e-+p is enhanced while nu\textasciimacron{}e+p-->n+e+ is suppressed
+  because the Q value for these reactions is altered by $\pm$DeltaU, respectively.
+  In the neutrino decoupling region, collisional broadening acts to enhance both nue
+  and nu\textasciimacron{}e cross sections, and random-phase approximation (RPA) corrections
+  decrease the nue cross section and increase the nu\textasciimacron{}e cross section,
+  but mean field shifts have a larger effect. Therefore, electron neutrinos decouple
+  at lower temperature than when the nucleons are assumed to be free and have lower
+  average energies. The change is large enough to allow for a reasonable period of
+  time when the neutrino driven wind is predicted to be neutron rich. It is also shown
+  that the electron fraction in the wind is influenced by the nuclear symmetry energy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PhRvC..86f5803R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.4066
+author: Roberts, L. F. and Reddy, S. and Shen, G.
+author_list:
+- family: Roberts
+  given: L. F.
+- family: Reddy
+  given: S.
+- family: Shen
+  given: G.
+date-added: 2018-06-13 19:39:48 +0000
+date-modified: 2018-06-13 19:39:50 +0000
+doi: 10.1103/PhysRevC.86.065803
+eid: 065803
+eprint: '1205.4066'
+journal: \prc
+keywords: Nuclear physics aspects of novae supernovae and other explosive environments,
+  Nuclear matter aspects of neutron stars, Equations of state of nuclear matter, Neutrino
+  muon pion and other elementary particles, cosmic rays
+month: December
+number: '6'
+pages: 065803
+papis_id: df4cd66fdc4a1facdf3b3cb7b1beaca0
+primaryclass: astro-ph.HE
+ref: roberts.l.2012a
+title: Medium modification of the charged-current neutrino opacity and its implications
+type: article
+volume: '86'
+year: '2012'

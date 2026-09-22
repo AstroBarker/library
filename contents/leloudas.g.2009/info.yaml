@@ -1,0 +1,96 @@
+abstract: 'Aims: We study a thermonuclear supernova (SN), emphasizing very late phases.  Methods:
+  An extensive dataset for SN 2003hv that covers the flux evolution from maximum light
+  to day +786 is presented. This includes 82 epochs of optical imaging, 24 epochs
+  of near-infrared (NIR) imaging, and 10 epochs of optical spectroscopy. These data
+  are combined with published nebular-phase IR spectra, and the observations are compared
+  to model light curves and synthetic nebular spectra.  Results: SN 2003hv is a normal
+  Type Ia supernova (SN Ia) with photometric and spectroscopic properties consistent
+  with its rarely observed B-band decline-rate parameter, Delta m15(B) = 1.61 $\pm$
+  0.02. The blueshift of the most isolated [Fe ii] lines in the nebular-phase optical
+  spectrum appears consistent with those observed in the IR at similar epochs. At
+  late times there is a prevalent color evolution from the optical toward the NIR
+  bands. We present the latest-ever detection of a SN Ia in the NIR in Hubble Space
+  Telescope images. The study of the ultraviolet/optical/infrared (UVOIR) light curve
+  reveals that a substantial fraction of the flux is ``missing'''' at late times.
+  Between 300 and 700 days past maximum brightness, the UVOIR light curve declines
+  linearly following the decay of radioactive 56Co, assuming full and instantaneous
+  positron trapping. At 700 days we detect a possible slowdown of the decline in optical-bands,
+  mainly in the V-band.  Conclusions: The data are incompatible with a dramatic infrared
+  catastrophe (IRC). However, the idea that an IRC occurred in the densest regions
+  before 350 days can explain the missing flux from the UVOIR wavelengths and the
+  flat-topped profiles in the NIR. We argue that such a scenario is possible if the
+  ejecta are clumpy. The observations suggest that positrons are most likely trapped
+  in the ejecta.  Based on observations collected at the European Southern Observatory,
+  Paranal, Chile (ESO Programmes 073.D-0294(AB), 074.D-0259(BC) and 075.D-0116(AB)),
+  Cerro Tololo Inter-American Observatory, Lick Observatory, Las Campanas Observatory,
+  Siding Spring Observatory, and the Hubble Space Telescope. Tables 3, 4, and Appendix
+  A are only available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...505..265L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.0537
+author: Leloudas, G. and Stritzinger, M. D. and Sollerman, J. and Burns, C. R. and
+  Kozma, C. and Krisciunas, K. and Maund, J. R. and Milne, P. and Filippenko, A. V.
+  and Fransson, C. and Ganeshalingam, M. and Hamuy, M. and Li, W. and Phillips, M.
+  M. and Schmidt, B. P. and Skottfelt, J. and Taubenberger, S. and Boldt, L. and Fynbo,
+  J. P. U. and Gonzalez, L. and Salvo, M. and Thomas-Osip, J.
+author_list:
+- family: Leloudas
+  given: G.
+- family: Stritzinger
+  given: M. D.
+- family: Sollerman
+  given: J.
+- family: Burns
+  given: C. R.
+- family: Kozma
+  given: C.
+- family: Krisciunas
+  given: K.
+- family: Maund
+  given: J. R.
+- family: Milne
+  given: P.
+- family: Filippenko
+  given: A. V.
+- family: Fransson
+  given: C.
+- family: Ganeshalingam
+  given: M.
+- family: Hamuy
+  given: M.
+- family: Li
+  given: W.
+- family: Phillips
+  given: M. M.
+- family: Schmidt
+  given: B. P.
+- family: Skottfelt
+  given: J.
+- family: Taubenberger
+  given: S.
+- family: Boldt
+  given: L.
+- family: Fynbo
+  given: J. P. U.
+- family: Gonzalez
+  given: L.
+- family: Salvo
+  given: M.
+- family: Thomas-Osip
+  given: J.
+date-added: 2017-08-10 21:19:34 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1051/0004-6361/200912364
+eprint: '0908.0537'
+journal: \aap
+keywords: 'supernovae: general, supernovae: individual: SN 2003hv'
+month: October
+pages: 265--279
+papis_id: ac11f234378dd8534bf20223f216cb97
+primaryclass: astro-ph.SR
+ref: leloudas.g.2009
+title: The normal Type Ia SN 2003hv out to very late phases
+type: article
+volume: '505'
+year: '2009'

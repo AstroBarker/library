@@ -1,0 +1,43 @@
+abstract: This paper presents color transformations for Hubble Space Telescope Near
+  Infrared Camera and Multi-Object Spectrometer (NICMOS) camera 2 observations to
+  the ground-based Carnegie image tube photometric system at Cerro Tololo Inter-American
+  Observatory (CIT/CTIO), using observations of 19 moderately bright, red stars in
+  Baade's window in the color range 0.7<(J-K)<1.6. We emphasize that these transformations
+  will be accurate only for cool giants of near-solar metallicity. We simulate both
+  NICMOS and ground-based photometry by convolving near-IR spectra taken above the
+  atmosphere with different filter transmission profiles. The results are consistent
+  with our transformation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000AJ....119..419S
+arxivurl: http://arxiv.org/abs/astro-ph/9909001
+author: Stephens, A. W. and Frogel, J. A. and Ortolani, S. and Davies, R. and Jablonka,
+  P. and Renzini, A. and Rich, R. M.
+author_list:
+- family: Stephens
+  given: A. W.
+- family: Frogel
+  given: J. A.
+- family: Ortolani
+  given: S.
+- family: Davies
+  given: R.
+- family: Jablonka
+  given: P.
+- family: Renzini
+  given: A.
+- family: Rich
+  given: R. M.
+date-added: 2017-08-11 04:14:18 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/301189
+eprint: astro-ph/9909001
+journal: \aj
+keywords: 'STARS: LATE-TYPE, TECHNIQUES: PHOTOMETRIC'
+month: January
+pages: 419--424
+papis_id: 5fb54c87da6e8a8766df5e2544b47e66
+ref: stephens.a.2000
+title: Hubble Space Telescope NICMOS Color Transformations and Photometric Calibrations
+type: article
+volume: '119'
+year: '2000'

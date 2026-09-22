@@ -1,0 +1,52 @@
+abstract: We use numerical simulations to study the effects of the patchiness of a
+  partly reionized intergalactic medium (IGM) on the observability of Lyalpha emitters
+  (LAEs) at high redshifts (z \greaterequivlnt{} 6). We present a new model that divides
+  the Lyalpha radiative transfer into a (circum)galactic and an extragalactic (IGM)
+  part, and investigate how the choice of intrinsic line model affects the IGM transmission
+  results. We use our model to study the impact of neutral hydrogen on statistical
+  observables such as the Lyalpha rest-frame equivalent width (REW) distribution,
+  the LAE luminosity function and the two-point correlation function. We find that
+  if the observed changes in LAE luminosity functions and equivalent width distributions
+  between z \texttildelow{} 6 and 7 are to be explained by an increased IGM neutral
+  fraction alone, we require an extremely late and rapid reionization scenario, where
+  the Universe was \texttildelow{}40 per cent ionized at z = 7, \texttildelow{}50
+  per cent ionized at z = 6.5 and \texttildelow{}100 per cent ionized at z = 6. This
+  is in conflict with other observations, suggesting that intrinsic LAE evolution
+  at z \greaterequivlnt{} 6 cannot be completely neglected. We show how the two-point
+  correlation function can provide more robust constraints once future observations
+  obtain larger LAE samples, and provide predictions for the sample sizes needed to
+  tell different reionization scenarios apart.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.1366J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.4028
+author: Jensen, H. and Laursen, P. and Mellema, G. and Iliev, I. T. and Sommer-Larsen,
+  J. and Shapiro, P. R.
+author_list:
+- family: Jensen
+  given: H.
+- family: Laursen
+  given: P.
+- family: Mellema
+  given: G.
+- family: Iliev
+  given: I. T.
+- family: Sommer-Larsen
+  given: J.
+- family: Shapiro
+  given: P. R.
+date-added: 2017-08-10 20:21:55 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts116
+eprint: '1206.4028'
+journal: \mnras
+keywords: 'radiative transfer, methods: numerical, galaxies: high-redshift, galaxies:
+  statistics'
+month: January
+pages: 1366--1381
+papis_id: fe42fe7b5dcf32d67480d054340413e4
+ref: jensen.h.2013
+title: On the use of Ly$α$ emitters as probes of reionization
+type: article
+volume: '428'
+year: '2013'

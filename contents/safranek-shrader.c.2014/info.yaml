@@ -1,0 +1,46 @@
+abstract: We present results from three cosmological simulations, only differing in
+  gas metallicity, that focus on the impact of metal fine-structure line cooling on
+  stellar cluster formation in a high-redshift atomic cooling halo. Sink particles
+  allow the process of gas hydrodynamics and accretion on to cluster stars to be followed
+  for \texttildelow{}4 Myr corresponding to multiple local free-fall times. At metallicities
+  at least 10-3 Z\&sun;, gas is able to reach the cosmic microwave background temperature
+  floor and fragment pervasively resulting in a stellar cluster of size \texttildelow{}1
+  pc and total mass \texttildelow{}1000 M\&sun;. The masses of individual sink particles
+  vary, but are typically \texttildelow{}100 M\&sun;, consistent with the Jeans mass
+  at TCMB, though some solar mass fragments are also produced. Below 10-4 Z\&sun;,
+  fragmentation is strongly suppressed on scales greater than 0.01 pc and total stellar
+  mass is lower by a factor of \texttildelow{}3 than in the higher metallicity simulations.
+  The sink particle accretion rates, and thus their masses, are determined by the
+  mass of the gravitationally unstable gas cloud and prolonged gas accretion over
+  many Myr, exhibiting features of both monolithic collapse and competitive accretion.
+  Even considering possible dust-induced fragmentation that may occur at higher densities,
+  the formation of a bona fide stellar cluster seems to require metal line cooling
+  and metallicities of at least \texttildelow{}10-3 Z\&sun;.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.438.1669S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.1982
+author: Safranek-Shrader, C. and Milosavljević, M. and Bromm, V.
+author_list:
+- family: Safranek-Shrader
+  given: C.
+- family: Milosavljević
+  given: M.
+- family: Bromm
+  given: V.
+date-added: 2017-08-10 19:05:14 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1093/mnras/stt2307
+eprint: '1307.1982'
+journal: \mnras
+keywords: 'stars: formation, galaxies: formation, galaxies: high-redshift, cosmology:
+  theory'
+month: February
+pages: 1669--1685
+papis_id: d9156deba08543ae81bd255cdc190a99
+ref: safranek_shrader.c.2014
+title: Star formation in the first galaxies - II. Clustered star formation and the
+  influence of metal line cooling
+type: article
+volume: '438'
+year: '2014'

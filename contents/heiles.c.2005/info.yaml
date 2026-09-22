@@ -1,0 +1,37 @@
+abstract: We discuss observations of the magnetic field, column density, and turbulence
+  in the cold neutral medium (CNM). The observed quantities are only indirectly related
+  to the intrinsic astronomical ones. We relate the observed and intrinsic quantities
+  by relating their univariate and bivariate probability distribution functions (pdf's).
+  We find that observations of the line-of-sight component of a magnetic field do
+  not constrain the pdf of the total field Btot very well but do constrain the median
+  value of Btot. In the CNM, we find a well-defined median magnetic field 6.0+/-1.8
+  muG. The CNM magnetic field dominates thermal motions. Turbulence and magnetism
+  are in approximate equipartition. We find that the probability distribution of column
+  density N\perp{}(HI) in the sheets closely follows N\perp{}(HI)-1 over a range of
+  2 orders of magnitude, 0.026<~N\perp{}(HI)<~2.6\texttimes{}1020 cm-2. The bivariate
+  distributions are not well enough determined to constrain structural models of CNM
+  sheets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...624..773H
+arxivurl: http://arxiv.org/abs/astro-ph/0501482
+author: Heiles, C. and Troland, T. H.
+author_list:
+- family: Heiles
+  given: C.
+- family: Troland
+  given: T. H.
+date-added: 2017-08-11 01:43:11 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428896
+eprint: astro-ph/0501482
+journal: \apj
+keywords: 'ISM: Magnetic Fields, ISM: Structure, Radio Lines: ISM, Turbulence'
+month: May
+pages: 773--793
+papis_id: aec309e44c35fede99d93358687ec73d
+ref: heiles.c.2005
+title: The Millennium Arecibo 21 Centimeter Absorption-Line Survey. IV. Statistics
+  of Magnetic Field, Column Density, and Turbulence
+type: article
+volume: '624'
+year: '2005'

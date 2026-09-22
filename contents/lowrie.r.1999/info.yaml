@@ -1,0 +1,40 @@
+abstract: The coupling of radiation transport and hydrodynamics is discussed for the
+  Eulerian frame. The discussion is aimed at developing a suitable set of equations
+  for nonrelativistic radiation hydrodynamics (RHD) that can be numerically integrated
+  using high-resolution methods for conservation laws. We outline how numerical methods
+  based on a wave decomposition may be developed, along with the importance of conservation,
+  particularly in the equilibrium regime. The properties of the RHD equations are
+  examined through asymptotic and dispersion analyses. The conditions required to
+  obtain the classical equilibrium limit are rigorously studied. The results show
+  that a simple coupling term developed recently by Morel, which retains a minimum
+  of relativistic corrections, may be sufficient for nonrelativistic flows. We also
+  give two constraints on the relativistic corrections that result in retaining terms
+  on the order of the truncation. In addition, the dispersion results for the P1 approximation
+  are studied in detail and are compared with both the exact-transport results and
+  a full relativistic treatment. We also examine some nonintuitive behavior in the
+  dispersion results.  This work was performed under the auspices of the US Department
+  of Energy by Los Alamos National Laboratory. LAUR 98-1919.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...521..432L
+author: Lowrie, R. B. and Morel, J. E. and Hittinger, J. A.
+author_list:
+- family: Lowrie
+  given: R. B.
+- family: Morel
+  given: J. E.
+- family: Hittinger
+  given: J. A.
+date-added: 2017-08-10 20:06:28 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307515
+journal: \apj
+keywords: HYDRODYNAMICS, RADIATIVE TRANSFER, WAVES, Hydrodynamics, Radiative Transfer,
+  Waves
+month: August
+pages: 432--450
+papis_id: 5fe1398048a0c91c93bd72b823b27221
+ref: lowrie.r.1999
+title: The Coupling of Radiation and Hydrodynamics
+type: article
+volume: '521'
+year: '1999'

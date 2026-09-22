@@ -1,0 +1,57 @@
+abstract: 'Aims: We assess the relationships between the surface densities of the
+  gas and star formation rate (SFR) within spiral arms of the nearby late-type spiral
+  galaxies M 81 and M 101. By analyzing these relationships locally, we empirically
+  derive a kiloparsec scale Kennicutt-Schmidt Law (SigmaSFR \propto{} SigmagasN).  Methods:
+  Both M 81 and M 101 were observed with the Far-Infrared Surveyor (FIS) aboard AKARI
+  in four far-infrared bands at 65, 90, 140, and 160 mum.  Results: The spectral energy
+  distributions of the whole galaxies show the presence of the cold dust component
+  (TC ~ 20 K) in addition to the warm dust component (TW ~ 60 K). We deconvolved the
+  cold and warm dust emission components spatially by making the best use of the multi-band
+  photometric capability of the FIS. The cold and warm dust components show power-law
+  correlations in various regions, which can be converted into the gas mass and the
+  SFR, respectively. We find a power-law correlation between the gas and SFR surface
+  densities with significant differences in the power-law index N between giant H
+  ii regions (N = 1.0 $\pm$ 0.5) and spiral arms (N = 2.2 \$\pm\$ 0.2) in M 101. The
+  power-law index for spiral arms in M 81 is similar (N = 1.9 \$\pm\$ 0.4) to that
+  of spiral arms in M 101.  Conclusions: The power-law index is not always constant
+  within a galaxy. The difference can be attributed to the difference in the star
+  formation processes on a kiloparsec scale. N ~= 2 seen in the spiral arms in M 81
+  and M 101 supports the scenario of star formation triggered by cloud-cloud collisions
+  enhanced by a spiral density wave, while N ~= 1 derived in giant H ii regions in
+  M 101 suggests the star formation induced by the Parker instability triggered by
+  high-velocity H i gas infall. The present method can be applied to a large galaxy
+  sample for which the AKARI All Sky Survey provides the same 4 far-infrared band
+  data.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...521A..48S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.2018
+author: Suzuki, T. and Kaneda, H. and Onaka, T. and Nakagawa, T. and Shibai, H.
+author_list:
+- family: Suzuki
+  given: T.
+- family: Kaneda
+  given: H.
+- family: Onaka
+  given: T.
+- family: Nakagawa
+  given: T.
+- family: Shibai
+  given: H.
+date-added: 2017-08-11 01:30:06 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/201014529
+eid: A48
+eprint: '1006.2018'
+journal: \aap
+keywords: 'dust, extinction, stars: formation, galaxies: structure, galaxies: individual:
+  M 81, galaxies: individual: M 101, infrared: ISM'
+month: October
+pages: A48
+papis_id: 7a11a7b6edf7e852d80d8a97569a5350
+ref: suzuki.t.2010
+title: Kiloparsec-scale star formation law in M 81 and M 101 based on AKARI far-infrared
+  observations
+type: article
+volume: '521'
+year: '2010'

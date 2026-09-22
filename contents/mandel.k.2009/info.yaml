@@ -1,0 +1,54 @@
+abstract: We present a comprehensive statistical analysis of the properties of Type
+  Ia supernova (SN Ia) light curves in the near-infrared using recent data from Peters
+  Automated InfraRed Imaging TELescope and the literature. We construct a hierarchical
+  Bayesian framework, incorporating several uncertainties including photometric error,
+  peculiar velocities, dust extinction, and intrinsic variations, for principled and
+  coherent statistical inference. SN Ia light-curve inferences are drawn from the
+  global posterior probability of parameters describing both individual supernovae
+  and the population conditioned on the entire SN Ia NIR data set. The logical structure
+  of the hierarchical model is represented by a directed acyclic graph. Fully Bayesian
+  analysis of the model and data is enabled by an efficient Markov Chain Monte Carlo
+  algorithm exploiting the conditional probabilistic structure using Gibbs sampling.
+  We apply this framework to the JHKs SN Ia light-curve data. A new light-curve model
+  captures the observed J-band light-curve shape variations. The marginal intrinsic
+  variances in peak absolute magnitudes are sigma(MJ ) = 0.17 $\pm$ 0.03, sigma(MH
+  ) = 0.11 \$\pm\$ 0.03, and sigma(MKs ) = 0.19 \$\pm\$ 0.04. We describe the first
+  quantitative evidence for correlations between the NIR absolute magnitudes and J-band
+  light-curve shapes, and demonstrate their utility for distance estimation. The average
+  residual in the Hubble diagram for the training set SNe at cz > 2000kms-1 is 0.10
+  mag. The new application of bootstrap cross-validation to SN Ia light-curve inference
+  tests the sensitivity of the statistical model fit to the finite sample and estimates
+  the prediction error at 0.15 mag. These results demonstrate that SN Ia NIR light
+  curves are as effective as corrected optical light curves, and, because they are
+  less vulnerable to dust absorption, they have great potential as precise and accurate
+  cosmological distance indicators.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..629M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.0536
+author: Mandel, K. S. and Wood-Vasey, W. M. and Friedman, A. S. and Kirshner, R. P.
+author_list:
+- family: Mandel
+  given: K. S.
+- family: Wood-Vasey
+  given: W. M.
+- family: Friedman
+  given: A. S.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-10 18:19:24 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/1/629
+eprint: '0908.0536'
+journal: \apj
+keywords: 'distance scale, supernovae: general'
+month: October
+pages: 629--651
+papis_id: ad2e2e43da8a5ec85ebe269814002e34
+primaryclass: astro-ph.CO
+ref: mandel.k.2009
+title: 'Type Ia Supernova Light-Curve Inference: Hierarchical Bayesian Analysis in
+  the Near-Infrared'
+type: article
+volume: '704'
+year: '2009'

@@ -1,0 +1,44 @@
+abstract: 'Context: We investigate the hydrodynamics of the core helium flash close
+  to its peak. Past research concerned with the dynamics of this event is inconclusive.
+  However, the most recent multidimensional hydrodynamic studies suggest a quiescent
+  behavior and seem to rule out an explosive scenario.  Aims: Depending on initial
+  conditions, turbulence models, grid resolution, and dimensionality of the simulation,
+  previous work indicated that the core helium flash could lead either to the disruption
+  of a low-mass star or to a quiescent quasi-hydrostatic evolution. We attempt to
+  clarify this issue by simulating the evolution with advanced numerical methods and
+  detailed microphysics.  Methods: Assuming spherical or axial symmetry, we simulate
+  the evolution of the helium core of a 1.25~M\&sun; star with a metallicity Z=0.02
+  during the core helium flash at its peak with a grid-based hydrodynamical code.
+  Results: We find that the core helium flash neither rips the star apart, nor significantly
+  alters its structure, since convection plays a crucial role in keeping the star
+  in hydrostatic equilibrium. In addition, our simulations indicate the presence of
+  overshooting, which implies new predictions concerning mixing of chemical species
+  in red giants.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...490..265M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0805.1355
+author: Mocák, M. and Müller, E. and Weiss, A. and Kifonidis, K.
+author_list:
+- family: Mocák
+  given: M.
+- family: Müller
+  given: E.
+- family: Weiss
+  given: A.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-11 03:54:55 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:200810169
+eprint: '0805.1355'
+journal: \aap
+keywords: 'stars: evolution, hydrodynamics, convection, stars: interiors'
+month: October
+pages: 265--277
+papis_id: e27fd42dd2ce717e3c730146787f2f19
+ref: mocak.m.2008
+title: The core helium flash revisited. I. One and two-dimensional hydrodynamic simulations
+type: article
+volume: '490'
+year: '2008'

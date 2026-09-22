@@ -1,0 +1,47 @@
+abstract: The structure and dynamics of diffuse gas in the Milky Way and other disk
+  galaxies may be strongly influenced by thermal and magnetorotational instabilities
+  (TI and MRI, respectively) on scales ~1-100 pc. We initiate a study of these processes,
+  using two-dimensional numerical hydrodynamic and magnetohydrodynamic simulations
+  with conditions appropriate for the atomic interstellar medium (ISM). Our simulations
+  incorporate thermal conduction and adopt local ``shearing-periodic'' equations of
+  motion and boundary conditions to study dynamics of a (100 pc) 2 radial-vertical
+  section of the disk. We demonstrate, consistent with previous work, that nonlinear
+  development of ``pure TI'' produces a network of filaments that condense into cold
+  clouds at their intersections, yielding a distinct two-phase warm/cold medium within
+  ~20 Myr. TI-driven turbulent motions of the clouds and warm intercloud medium are
+  present but saturate at quite subsonic amplitudes for uniform initial P/k=2000 K
+  cm -3. MRI has previously been studied in near-uniform media; our simulations include
+  both TI+MRI models, which begin from uniform-density conditions, and cloud+MRI models,
+  which begin with a two-phase cloudy medium. Both the TI+MRI and cloud+MRI models
+  show that MRI develops within a few galactic orbital times, just as for a uniform
+  medium. The mean separation between clouds can affect which MRI mode dominates the
+  evolution. Provided intercloud separations do not exceed half the MRI wavelength,
+  we find the MRI growth rates are similar to those for the corresponding uniform
+  medium. This opens the possibility that if low cloud volume filling factors increase
+  MRI dissipation times compared to those in a uniform medium, then MRI-driven motions
+  in the ISM could reach amplitudes comparable to observed H I turbulent line widths.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...601..905P
+arxivurl: http://arxiv.org/abs/astro-ph/0310510
+author: Piontek, R. A. and Ostriker, E. C.
+author_list:
+- family: Piontek
+  given: R. A.
+- family: Ostriker
+  given: E. C.
+date-added: 2017-08-11 01:39:57 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380785
+eprint: astro-ph/0310510
+journal: \apj
+keywords: 'Galaxies: ISM, Instabilities, ISM: Kinematics and Dynamics, ISM: Magnetic
+  Fields, Magnetohydrodynamics: MHD'
+month: February
+pages: 905--920
+papis_id: 503a814aa0c938e4a336a1c778a9c220
+ref: piontek.r.2004
+title: 'Thermal and Magnetorotational Instability in the Interstellar Medium: Two-dimensional
+  Numerical Simulations'
+type: article
+volume: '601'
+year: '2004'

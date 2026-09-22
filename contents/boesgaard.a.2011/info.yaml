@@ -1,0 +1,61 @@
+abstract: The light elements, Li, Be, and B, provide tracers for many aspects of astronomy
+  including stellar structure, Galactic evolution, and cosmology. We have made observations
+  of Be in 117 metal-poor stars ranging in metallicity from [Fe/H] = -0.5 to -3.5
+  with Keck I/HIRES. Our spectra are high resolution (~42,000) and high signal to
+  noise (the median is 106 per pixel). We have determined the stellar parameters spectroscopically
+  from lines of Fe I, Fe II, Ti I, and Ti II. The abundances of Be and O were derived
+  by spectrum synthesis techniques, while abundances of Fe, Ti, and Mg were found
+  from many spectral line measurements. There is a linear relationship between [Fe/H]
+  and A(Be) with a slope of +0.88 $\pm$ 0.03 over three orders of magnitude in [Fe/H].
+  We find that Be is enhanced relative to Fe; [Be/Fe] is +0.40 near [Fe/H] ~-3.3 and
+  drops to 0.0 near [Fe/H] ~-1.7. For the relationship between A(Be) and [O/H], we
+  find a gradual change in slope from 0.69 \$\pm\$ 0.13 for the Be-poor/O-poor stars
+  to 1.13 \$\pm\$ 0.10 for the Be-rich/O-rich stars. Inasmuch as the relationship
+  between [Fe/H] and [O/H] seems robustly linear (slope = +0.75 \$\pm\$ 0.03), we
+  conclude that the slope change in Be versus O is due to the Be abundance. Much of
+  the Be would have been formed in the vicinity of Type II supernova (SN II) in the
+  early history of the Galaxy and by Galactic cosmic-ray (GCR) spallation in the later
+  eras. Although Be is a by-product of CNO, we have used Ti and Mg abundances as alpha-element
+  surrogates for O in part because O abundances are rather sensitive to both stellar
+  temperature and surface gravity. We find that A(Be) tracks [Ti/H] very well with
+  a slope of 1.00 \$\pm\$ 0.04. It also tracks [Mg/H] very well with a slope of 0.88
+  \$\pm\$ 0.03. We have kinematic information on 114 stars in our sample and they
+  divide equally into dissipative and accretive stars. Almost the full range of [Fe/H]
+  and [O/H] is covered in each group. There are distinct differences in the relationships
+  of A(Be) and [Fe/H] and of A(Be) and [O/H] for the dissipative and the accretive
+  stars. It is likely that the formation of Be in the accretive stars was primarily
+  in the vicinity of SN II, while the Be in the dissipative stars was primarily formed
+  by GCR spallation. We find that Be is not as good a cosmochronometer as Fe. We have
+  found a spread in A(Be) that is valid at the 4sigma level between [O/H] = -0.5 and
+  -1.0, which corresponds to -0.9 and -1.6 in [Fe/H].
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...743..140B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.2823
+author: Boesgaard, A. M. and Rich, J. A. and Levesque, E. M. and Bowler, B. P.
+author_list:
+- family: Boesgaard
+  given: A. M.
+- family: Rich
+  given: J. A.
+- family: Levesque
+  given: E. M.
+- family: Bowler
+  given: B. P.
+date-added: 2017-08-10 23:05:27 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/743/2/140
+eid: '140'
+eprint: '1110.2823'
+journal: \apj
+keywords: 'Galaxy: disk, Galaxy: halo, stars: abundances, stars: evolution, stars:
+  late-type, stars: Population II'
+month: December
+pages: '140'
+papis_id: caaeed3370cb6574d7d3d8da3c031204
+primaryclass: astro-ph.SR
+ref: boesgaard.a.2011
+title: Beryllium and Alpha-element Abundances in a Large Sample of Metal-poor Stars
+type: article
+volume: '743'
+year: '2011'

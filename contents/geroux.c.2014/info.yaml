@@ -1,0 +1,38 @@
+abstract: We have developed a multi-dimensional radiation hydrodynamics code to simulate
+  the interaction of radial stellar pulsation and convection for full-amplitude pulsating
+  models. Convection is computed using large eddy simulations. Here, we perform three-dimensional
+  (3D) simulations of RR Lyrae stars for comparison with previously reported 2D simulations.
+  We find that the time-dependent behavior of the peak convective flux on pulsation
+  phase is very similar in both the 2D and 3D calculations. The growth rates of the
+  pulsation in the 2D calculations are about 0.1\% higher than in the 3D calculations.
+  The amplitude of the light curve for a 6500 K RR Lyrae model is essentially the
+  same for our 2D and 3D calculations, as is the rising light curve. There are differences
+  in the slope at various times during falling light.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...783..107G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.3642
+author: Geroux, C. M. and Deupree, R. G.
+author_list:
+- family: Geroux
+  given: C. M.
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-10 18:34:06 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/783/2/107
+eid: '107'
+eprint: '1401.3642'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: oscillations, stars:
+  variables: general, stars: variables: RR Lyrae'
+month: March
+pages: '107'
+papis_id: b0510e5e383e6917aab92c243a249445
+primaryclass: astro-ph.SR
+ref: geroux.c.2014
+title: Radial Stellar Pulsation and Three-dimensional Convection. III. Comparison
+  of Two-dimensional and Three-dimensional Convection Effects on Radial Pulsation
+type: article
+volume: '783'
+year: '2014'

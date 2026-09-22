@@ -1,0 +1,97 @@
+abstract: We apply the Standardized Candle Method (SCM) for Type II Plateau supernovae
+  (SNe II-P), which relates the velocity of the ejecta of a SN to its luminosity during
+  the plateau, to 15 SNe II-P discovered over the three season run of the Sloan Digital
+  Sky Survey-II Supernova Survey. The redshifts of these SNe---0.027 < z < 0.144---cover
+  a range hitherto sparsely sampled in the literature; in particular, our SNe II-P
+  sample contains nearly as many SNe in the Hubble flow (z > 0.01) as all of the current
+  literature on the SCM combined. We find that the SDSS SNe have a very small intrinsic
+  I-band dispersion (0.22 mag), which can be attributed to selection effects. When
+  the SCM is applied to the combined SDSS-plus-literature set of SNe II-P, the dispersion
+  increases to 0.29 mag, larger than the scatter for either set of SNe separately.
+  We show that the standardization cannot be further improved by eliminating SNe with
+  positive plateau decline rates, as proposed in Poznanski et al. We thoroughly examine
+  all potential systematic effects and conclude that for the SCM to be useful for
+  cosmology, the methods currently used to determine the Fe II velocity at day 50
+  must be improved, and spectral templates able to encompass the intrinsic variations
+  of Type II-P SNe will be needed.  Based in part on data collected at Subaru Telescope,
+  which is operated by the National Astronomical Observatory of Japan.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...708..661D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.5597
+author: D'Andrea, C. B. and Sako, M. and Dilday, B. and Frieman, J. A. and Holtzman,
+  J. and Kessler, R. and Konishi, K. and Schneider, D. P. and Sollerman, J. and Wheeler,
+  J. C. and Yasuda, N. and Cinabro, D. and Jha, S. and Nichol, R. C. and Lampeitl,
+  H. and Smith, M. and Atlee, D. W. and Bassett, B. and Castander, F. J. and Goobar,
+  A. and Miquel, R. and Nordin, J. and Östman, L. and Prieto, J. L. and Quimby, R.
+  and Riess, A. G. and Stritzinger, M.
+author_list:
+- family: D'Andrea
+  given: C. B.
+- family: Sako
+  given: M.
+- family: Dilday
+  given: B.
+- family: Frieman
+  given: J. A.
+- family: Holtzman
+  given: J.
+- family: Kessler
+  given: R.
+- family: Konishi
+  given: K.
+- family: Schneider
+  given: D. P.
+- family: Sollerman
+  given: J.
+- family: Wheeler
+  given: J. C.
+- family: Yasuda
+  given: N.
+- family: Cinabro
+  given: D.
+- family: Jha
+  given: S.
+- family: Nichol
+  given: R. C.
+- family: Lampeitl
+  given: H.
+- family: Smith
+  given: M.
+- family: Atlee
+  given: D. W.
+- family: Bassett
+  given: B.
+- family: Castander
+  given: F. J.
+- family: Goobar
+  given: A.
+- family: Miquel
+  given: R.
+- family: Nordin
+  given: J.
+- family: Östman
+  given: L.
+- family: Prieto
+  given: J. L.
+- family: Quimby
+  given: R.
+- family: Riess
+  given: A. G.
+- family: Stritzinger
+  given: M.
+date-added: 2017-08-10 18:24:46 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/708/1/661
+eprint: '0910.5597'
+journal: \apj
+keywords: 'cosmology: observations, distance scale, supernovae: general, surveys'
+month: January
+pages: 661--674
+papis_id: 5332b44f00058c3633fd9386383f7a8c
+ref: d_andrea.c.2010
+title: Type II-P Supernovae from the SDSS-II Supernova Survey and the Standardized
+  Candle Method
+type: article
+volume: '708'
+year: '2010'

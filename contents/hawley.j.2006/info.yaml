@@ -1,0 +1,44 @@
+abstract: We compute a series of three-dimensional general relativistic magnetohydrodynamic
+  simulations of accretion flows in the Kerr metric and investigate the properties
+  of the resulting unbound outflows. The strength of the outflows increases sharply
+  with increasing black hole rotation rate. Several generic features are observed.
+  The mass in the outflow in concentrated in a hollow cone whose opening angle is
+  largely determined by the effective potential for matter with specific angular momentum
+  comparable to that of the innnermost stable circular orbit. The pressure in the
+  accretion disk's corona provides the dominant force accelerating the matter outward.
+  The principle element shaping the outflow is therefore the centrifugal barrier preventing
+  accreting matter from coming close to the rotation axis. The funnel inside the centrifugal
+  barrier contains very little matter and is dominated by electromagnetic fields that
+  rotate at a rate tied closely to the rotation of the black hole, even when the black
+  hole spins in a sense opposite to the rotation of the accretion flow. These fields
+  carry an outward-going Poynting flux whose immediate energy source is the rotating
+  spacetime of the Kerr black hole. When the spin parameter a/M of the black hole
+  exceeds ~=0.9, the energy carried to infinity by these outflows can be comparable
+  to the nominal radiative efficiency predicted in the Novikov-Thorne model. Similarly,
+  the expelled angular momentum can be comparable to that accreted by the black hole.
+  Both the electromagnetic and the matter outflows contribute significantly to the
+  energy and angular momentum of the outflow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...641..103H
+arxivurl: http://arxiv.org/abs/astro-ph/0512227
+author: Hawley, J. F. and Krolik, J. H.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Krolik
+  given: J. H.
+date-added: 2017-08-10 16:33:46 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500385
+eprint: astro-ph/0512227
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Jets, Magnetohydrodynamics:
+  MHD'
+month: April
+pages: 103--116
+papis_id: 18c196bcd93b0403e93cc6be547084af
+ref: hawley.j.2006
+title: Magnetically Driven Jets in the Kerr Metric
+type: article
+volume: '641'
+year: '2006'

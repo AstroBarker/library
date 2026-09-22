@@ -1,0 +1,35 @@
+abstract: 'Aims.We investigate the effect of including a proper energy balance on
+  the interaction of a low-mass planet with a protoplanetary disk. Methods: .We use
+  a three-dimensional version of the RODEO method to perform hydrodynamical simulations
+  including the energy equation. Radiation is included in the flux-limited diffusion
+  approach. Results: .The sign of the torque is sensitive to the ability of the disk
+  to radiate away the energy generated in the immediate surroundings of the planet.
+  In the case of high opacity, corresponding to the dense inner regions of protoplanetary
+  disks, migration is directed outward, instead of the usual inward migration that
+  was found in locally isothermal disks. For low values of the opacity we recover
+  inward migration and show that torques originating in the coorbital region are responsible
+  for the change in migration direction.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...459L..17P
+arxivurl: http://arxiv.org/abs/astro-ph/0608658
+author: Paardekooper, S.-J. and Mellema, G.
+author_list:
+- family: Paardekooper
+  given: S.-J.
+- family: Mellema
+  given: G.
+date-added: 2017-08-11 05:53:22 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20066304
+eprint: astro-ph/0608658
+journal: \aap
+keywords: 'radiative transfer, hydrodynamics, methods: numerical, planets and satellites:
+  formation'
+month: November
+pages: L17-L20
+papis_id: 289ffa2b13243d1b15e5e2f29fc5232d
+ref: paardekooper.s_j.2006
+title: Halting type I planet migration in non-isothermal disks
+type: article
+volume: '459'
+year: '2006'

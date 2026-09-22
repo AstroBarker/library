@@ -1,0 +1,41 @@
+abstract: The installation of the Wide Field Camera 3 (WFC3) on the Hubble Space Telescope
+  (HST) will revolutionize the study of high-redshift galaxy populations. Initial
+  observations of the HST Ultra Deep Field (UDF) have yielded multiple z >~ 7 dropout
+  candidates. Supplemented by the GOODS Early Release Science (ERS) and further UDF
+  pointings, these data will provide crucial information about the most distant known
+  galaxies. However, achieving tight constraints on the z ~ 7 galaxy luminosity function
+  (LF) will require even more ambitious photometric surveys. Using a Fisher matrix
+  approach to fully account for Poisson and cosmic sample variance, as well as covariances
+  in the data, we estimate the uncertainties on LF parameters achieved by surveys
+  of a given area and depth. Applying this method to WFC3 z ~ 7 dropout galaxy samples,
+  we forecast the LF parameter uncertainties for a variety of model surveys. We demonstrate
+  that performing a wide area (~1 deg2) survey to H AB ~ 27 depth or increasing the
+  UDF depth to H AB ~ 30 provides excellent constraints on the high-z LF when combined
+  with the existing Ultradeep Field Guest Observation and GOODS ERS data. We also
+  show that the shape of the matter power spectrum may limit the possible gain of
+  splitting wide area (gsim0.5 deg2) high-redshift surveys into multiple fields to
+  probe statistically independent regions; the increased rms density fluctuations
+  in smaller volumes mostly offset the improved variance gained from independent samples.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713.1266R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.1008
+author: Robertson, B. E.
+author_list:
+- family: Robertson
+  given: B. E.
+date-added: 2017-08-10 20:27:05 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/2/1266
+eprint: '1001.1008'
+journal: \apj
+keywords: 'galaxies: abundances, methods: statistical, surveys'
+month: April
+pages: 1266--1281
+papis_id: 4cce3d4abb0761faaa1792a5a00c0fd8
+primaryclass: astro-ph.IM
+ref: robertson.b.2010b
+title: Estimating Luminosity Function Constraints from High-Redshift Galaxy Surveys
+type: article
+volume: '713'
+year: '2010'

@@ -1,0 +1,46 @@
+abstract: We present calculations of the radio emission from supernovae based on high-resolution
+  simulations of the hydrodynamics and radiation transfer, using simple energy density
+  relations that link the properties of the radiating electrons and the magnetic field
+  to the hydrodynamics. As a specific example we model the emission from SN 1993J,
+  which cannot be adequately fitted with the often-used analytic minishell model,
+  and present a good fit to the radio evolution at a single frequency. Both free-free
+  absorption and synchrotron self-absorption are needed to fit the light curve at
+  early times, and a circumstellar density profile of rho~r-1.7 provides the best
+  fit to the later data. We show that the interaction of density structures in the
+  ejecta with the reverse supernova shock may produce features in the radio light
+  curves such as have been observed. We discuss the use of high-resolution radio images
+  of supernovae to distinguish between different absorption mechanisms and determine
+  the origin of specific light curve features. Comparisons of VLBI images of SN 1993J
+  with synthetic model images suggest that internal free-free absorption completely
+  obscures emission at 8.4 GHz passing through the center of the supernova for the
+  first few tens of years after explosion. We predict that at 8.4 GHz the internal
+  free-free absorption is currently declining, and that over the next ~40 yr the surface
+  brightness of the center of the source should increase relative to the bright ring
+  of emission seen in VLBI images. Similar absorption in a nearby supernova would
+  make the detection of a radio pulsar at 1 GHz impossible for ~150 yr after explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...562..869M
+arxivurl: http://arxiv.org/abs/astro-ph/0107552
+author: Mioduszewski, A. J. and Dwarkadas, V. V. and Ball, L.
+author_list:
+- family: Mioduszewski
+  given: A. J.
+- family: Dwarkadas
+  given: V. V.
+- family: Ball
+  given: L.
+date-added: 2017-08-11 06:34:39 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323852
+eprint: astro-ph/0107552
+journal: \apj
+keywords: 'Hydrodynamics, Radio Continuum: Stars, Shock Waves, Stars: Supernovae:
+  General, supernovae: individual (SN 1980K, SN 1993J)'
+month: December
+pages: 869--879
+papis_id: 20a893371e456d376a164fd93995794e
+ref: mioduszewski.a.2001
+title: Simulated Radio Images and Light Curves of Young Supernovae
+type: article
+volume: '562'
+year: '2001'

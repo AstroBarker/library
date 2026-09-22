@@ -1,0 +1,43 @@
+abstract: 'As we enter the era of gravitational wave astronomy, we are beginning to
+  collect observations which will enable us to explore aspects of astrophysics of
+  massive stellar binaries which were previously beyond reach. In this paper we describe
+  COMPAS (Compact Object Mergers: Population Astrophysics and Statistics), a new platform
+  to allow us to deepen our understanding of isolated binary evolution and the formation
+  of gravitational-wave sources. We describe the computational challenges associated
+  with their exploration, and present preliminary results on overcoming them using
+  Gaussian process regression as a simulation emulation technique.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017IAUS..325...46B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1704.03781
+author: Barrett, J. W. and Mandel, I. and Neijssel, C. J. and Stevenson, S. and Vigna-Gómez,
+  A.
+author_list:
+- family: Barrett
+  given: J. W.
+- family: Mandel
+  given: I.
+- family: Neijssel
+  given: C. J.
+- family: Stevenson
+  given: S.
+- family: Vigna-Gómez
+  given: A.
+booktitle: Astroinformatics
+date-added: 2018-07-20 17:32:09 +0000
+date-modified: 2018-07-20 17:32:11 +0000
+doi: 10.1017/S1743921317000059
+editor: '{Brescia}, M. and {Djorgovski}, S.~G. and {Feigelson}, E.~D. and {Longo},
+  G. and {Cavuoti}, S.'
+eprint: '1704.03781'
+keywords: 'gravitational waves, methods: data analysis, (stars:) binaries: general'
+month: June
+pages: 46--50
+papis_id: 4c785aec2e2f1d630c546c98b440d89f
+primaryclass: astro-ph.HE
+ref: barrett.j.2017
+series: IAU Symposium
+title: Exploring the Parameter Space of Compact Binary Population Synthesis
+type: inproceedings
+volume: '325'
+year: '2017'

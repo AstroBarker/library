@@ -1,0 +1,53 @@
+abstract: The large range of time and length scales involved in Type Ia supernovae
+  (SNe Ia) requires the use of flame models. As a prelude to exploring various options
+  for flame models, we consider in this paper high-resolution, three-dimensional simulations
+  of the small-scale dynamics of nuclear flames in the supernova environment in which
+  the details of the flame structure are fully resolved. The range of densities examined,
+  (1-8) \texttimes{} 107 g cm-3, spans the transition from the laminar flamelet regime
+  to the distributed burning regime where small-scale turbulence disrupts the flame.
+  The use of a low Mach number algorithm facilitates the accurate resolution of the
+  thermal structure of the flame and the inviscid turbulent kinetic energy cascade,
+  while implicitly incorporating kinetic energy dissipation at the grid-scale cutoff.
+  For an assumed background of isotropic Kolmogorov turbulence with an energy characteristic
+  of SNe Ia, we find a transition density between 1 and 3 \texttimes{} 107 g cm-3,
+  where the nature of the burning changes qualitatively. By 1 \texttimes{} 107 g cm-3,
+  energy diffusion by conduction and radiation is exceeded, on the flame scale, by
+  turbulent advection. As a result, the effective Lewis number approaches unity. That
+  is, the flame resembles a laminar flame but is turbulently broadened with an effective
+  diffusion coefficient, DT ~ u'l, where u' is the turbulent intensity and l is the
+  integral scale. For the larger integral scales characteristic of a real supernova,
+  the flame structure is predicted to become complex and unsteady. Implications for
+  a possible transition to detonation are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...689.1173A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.2816
+author: Aspden, A. J. and Bell, J. B. and Day, M. S. and Woosley, S. E. and Zingale,
+  M.
+author_list:
+- family: Aspden
+  given: A. J.
+- family: Bell
+  given: J. B.
+- family: Day
+  given: M. S.
+- family: Woosley
+  given: S. E.
+- family: Zingale
+  given: M.
+date-added: 2017-08-11 03:52:10 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/592726
+eid: 1173-1185
+eprint: '0811.2816'
+journal: \apj
+keywords: 'conduction, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, turbulence, white dwarfs'
+month: December
+pages: 1173--1185
+papis_id: 4a11d5d3544a0b0c7422444107f04222
+ref: aspden.a.2008
+title: Turbulence-Flame Interactions in Type Ia Supernovae
+type: article
+volume: '689'
+year: '2008'

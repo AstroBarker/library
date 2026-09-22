@@ -1,0 +1,42 @@
+abstract: We calculate light curves for gamma-ray burst afterglows when material ejected
+  in the explosion is confined to a jet that propagates in a medium with a power-law
+  density profile. The observed light-curve decay steepens by a factor of Gamma2 when
+  an observer sees the edge of the jet. In a uniform density medium, the increase
+  in the power-law index (beta) of the light curve as a result of this edge effect
+  is ~0.7 and is completed over one decade in observer time. For a preejected stellar
+  wind (rho~r-2), beta increases by ~0.4 over two decades in time as a result of the
+  edge effect, and the steepening of the light curve as a result of the jet sideways
+  expansion takes about four decades in time. Therefore, a break in the light curve
+  for a jet in a wind model is unlikely to be detected even for a very narrow opening
+  angle of a few degrees or less, a case where the lateral expansion occurs at early
+  times when the afterglow is bright. The light curve for the afterglow of GRB 990510,
+  for which an increase in beta of approximately 1.35 was observed on a timescale
+  of 3 days, cannot be explained by only the sideways expansion and the edge effects
+  in a jet in a uniform interstellar medium-the increase in beta is too large and
+  too rapid. However, the passage of the cooling or synchrotron peak frequencies through
+  the observing band at about 0.1-1 day together with jet edge effect explains the
+  observed data. The jet opening angle is found to be ~5$\,^{\circ}$, and the energy
+  in the explosion to be about 1051 ergs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...541L...9K
+arxivurl: http://arxiv.org/abs/astro-ph/0003264
+author: Kumar, P. and Panaitescu, A.
+author_list:
+- family: Kumar
+  given: P.
+- family: Panaitescu
+  given: A.
+date-added: 2017-08-11 01:55:10 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/312888
+eprint: astro-ph/0003264
+journal: \apjl
+keywords: 'Gamma Rays: Bursts, Gamma Rays: Theory'
+month: September
+pages: L9-L12
+papis_id: 82570a737972b9eda97d318fab058736
+ref: kumar.p.2000
+title: Steepening of Afterglow Decay for Jets Interacting with Stratified Media
+type: article
+volume: '541'
+year: '2000'

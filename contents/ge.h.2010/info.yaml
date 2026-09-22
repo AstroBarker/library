@@ -1,0 +1,68 @@
+abstract: The asymptotic response of donor stars in interacting binary systems to
+  very rapid mass loss is characterized by adiabatic expansion throughout their interiors.
+  In this limit, energy generation and heat flow through the stellar interior can
+  be neglected. We model this response by constructing model sequences, beginning
+  with a donor star filling its Roche lobe at an arbitrary point in its evolution,
+  holding its specific entropy and composition profiles fixed as mass is removed from
+  the surface. The stellar interior remains in hydrostatic equilibrium. Luminosity
+  profiles in these adiabatic models of mass-losing stars can be reconstructed from
+  the specific entropy profiles and their gradients. These approximations are validated
+  by comparison with time-dependent binary mass transfer calculations. We describe
+  how adiabatic mass-loss sequences can be used to quantify threshold conditions for
+  dynamical timescale mass transfer, and to establish the range of post-common envelope
+  binaries that are allowed energetically. In dynamical timescale mass transfer, the
+  adiabatic response of the donor star drives it to expand beyond its Roche lobe,
+  leading to runaway mass transfer and the formation of a common envelope with its
+  companion star. For donor stars with surface convection zones of any significant
+  depth, this runaway condition is encountered early in mass transfer, if at all;
+  but for main-sequence stars with radiative envelopes, it may be encountered after
+  a prolonged phase of thermal timescale mass transfer, a so-called delayed dynamical
+  instability. We identify the critical binary mass ratio for the onset of dynamical
+  timescale mass transfer as that ratio for which the adiabatic response of the donor
+  star radius to mass loss matches that of its Roche lobe at some point during mass
+  transfer; if the ratio of donor to accretor masses exceeds this critical value,
+  dynamical timescale mass transfer ensues. In common envelope evolution, the dissipation
+  of orbital energy of the binary provides the energy to eject the common envelope;
+  the energy budget for this process consists essentially of the initial orbital energy
+  of the binary and the initial self-energies of the binary components. We emphasize
+  that, because the stellar core and envelope contribute mutually to each other's
+  gravitational potential energy, proper evaluation of the total energy of a star
+  requires integration over the entire stellar interior, and not just over the ejected
+  envelope alone as commonly assumed. We show that the change in total energy of the
+  donor star, as a function of its remaining mass along an adiabatic mass-loss sequence,
+  can be calculated either by integration over initial and final models, or by a path
+  integral along the mass-loss sequence. That change in total energy of the donor
+  star, combined with the requirement that both remnant donor and its companion star
+  fit within their respective Roche lobes, then circumscribes energetically possible
+  survivors of common envelope evolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...717..724G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.3099
+author: Ge, H. and Hjellming, M. S. and Webbink, R. F. and Chen, X. and Han, Z.
+author_list:
+- family: Ge
+  given: H.
+- family: Hjellming
+  given: M. S.
+- family: Webbink
+  given: R. F.
+- family: Chen
+  given: X.
+- family: Han
+  given: Z.
+date-added: 2017-08-11 00:55:41 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0004-637X/717/2/724
+eprint: '1005.3099'
+journal: \apj
+keywords: 'binaries: close, stars: evolution, stars: interiors, stars: mass-loss'
+month: July
+pages: 724--738
+papis_id: 3df84752c205de007e08baff6d10c835
+primaryclass: astro-ph.SR
+ref: ge.h.2010
+title: Adiabatic Mass Loss in Binary Stars. I. Computational Method
+type: article
+volume: '717'
+year: '2010'

@@ -1,0 +1,51 @@
+abstract: Recent Hubble Space Telescope observations of the Crab Nebula show filamentary
+  structures that appear to originate from the Rayleigh-Taylor (R-T) instability operating
+  on the supernova ejecta accelerated by the pulsar-driven wind. In order to understand
+  the origin and formation of the filaments in the Crab Nebula, we study the interaction
+  of a pulsar wind with the uniformly expanding supernova remnant by means of numerical
+  simulation. We derive the self-similar solution of this model for a general power-law
+  density profile of supernova ejecta.  By performing two-dimensional numerical simulations,
+  we find three independent instabilities in the interaction region between the pulsar
+  wind and the expanding supernova remnant. The first weak instability occurs in the
+  very beginning and is caused by the impulsive acceleration of supernova ejecta by
+  the pulsar wind. The second instability occurs in the postshock flow (shock wave
+  driven by pulsar bubble) during the intermediate stage. This second instability
+  develops briefly while the gradients of density and pressure are of opposite signs
+  (satisfying the criterion of the R-T instability). The third and most important
+  instability develops as the shock driven by the pulsar bubble becomes accelerated
+  (r ~ t6/5). This is the strongest instability and produces pronounced filamentary
+  structures that resemble the observed filaments in the Crab Nebula. Our numerical
+  simulations can reproduce important observational features of the Crab Nebula. The
+  high-density heads in the R-T fingertips are produced because of the compressibility
+  of the gas. The density of these heads is found to be about 10 times higher than
+  other regions in the fingers. The mass contained in the R-T fingers is found to
+  be 60\%-75\% of the total shocked mass, and the kinetic energy within the R-T fingers
+  is 55\%-72\% of the total kinetic energy of the shocked flow. The R-T fingers are
+  found to accelerate with a slower rate than the shock front, which is consistent
+  with the observations. By comparing our simulations and the observations, we infer
+  that the some finger-like filaments (region F or G in Hester's observations) started
+  to develop about 657 yr ago.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...499..282J
+arxivurl: http://arxiv.org/abs/astro-ph/9712054
+author: Jun, B.-I.
+author_list:
+- family: Jun
+  given: B.-I.
+date-added: 2017-08-11 04:53:19 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305627
+eprint: astro-ph/9712054
+journal: \apj
+keywords: 'HYDRODYNAMICS, INSTABILITIES, ISM: INDIVIDUAL NAME: CRAB NEBULA, STARS:
+  PULSARS: GENERAL, SHOCK WAVES, ISM: SUPERNOVA REMNANTS, Hydrodynamics, Instabilities,
+  ISM: Individual: Name: Crab Nebula, Stars: Pulsars: General, Shock Waves, ISM: Supernova
+  Remnants'
+month: May
+pages: 282--293
+papis_id: 127da73d6982ab5f6a7bae9690b1c0f2
+ref: jun.b_i.1998
+title: Interaction of a Pulsar Wind with the Expanding Supernova Remnant
+type: article
+volume: '499'
+year: '1998'

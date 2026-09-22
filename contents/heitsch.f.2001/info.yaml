@@ -1,0 +1,45 @@
+abstract: 'Hydrodynamic supersonic turbulence can only prevent local gravitational
+  collapse if the turbulence is driven on scales smaller than the local Jeans lengths
+  in the densest regions, which is a very severe requirement (see Paper I). Magnetic
+  fields have been suggested to support molecular clouds either magnetostatically
+  or via magnetohydrodynamic (MHD) waves. Whereas the first mechanism would form sheetlike
+  clouds, the second mechanism not only could exert a pressure onto the gas counteracting
+  the gravitational forces but could lead to a transfer of turbulent kinetic energy
+  down to smaller spatial scales via MHD wave interactions. This turbulent magnetic
+  cascade might provide sufficient energy at small scales to halt local collapse.
+  We test this hypothesis with MHD simulations at resolutions up to 2563 zones done
+  with ZEUS-3D. We first derive a resolution criterion for self-gravitating, magnetized
+  gas: to prevent collapse of magnetostatically supported regions caused by numerical
+  diffusion, the minimum Jeans length must be resolved by four zones. Resolution of
+  MHD waves increases this requirement to roughly six zones. We then find that magnetic
+  fields cannot prevent local collapse unless they provide magnetostatic support.
+  Weaker magnetic fields do somewhat delay collapse and cause it to occur more uniformly
+  across the supported region in comparison to the hydrodynamical case. However, they
+  still cannot prevent local collapse for much longer than a global free-fall time.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...547..280H
+arxivurl: http://arxiv.org/abs/astro-ph/0009227
+author: Heitsch, F. and Mac Low, M.-M. and Klessen, R. S.
+author_list:
+- family: Heitsch
+  given: F.
+- family: Mac Low
+  given: M.-M.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-11 01:26:19 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/318335
+eprint: astro-ph/0009227
+journal: \apj
+keywords: 'ISM: Clouds, ISM: Kinematics and Dynamics, ISM: Magnetic Fields, Turbulence,
+  Magnetohydrodynamics: MHD'
+month: January
+pages: 280--291
+papis_id: a0834717074a4495b389d5d9eb096e06
+ref: heitsch.f.2001
+title: Gravitational Collapse in Turbulent Molecular Clouds. II. Magnetohydrodynamical
+  Turbulence
+type: article
+volume: '547'
+year: '2001'

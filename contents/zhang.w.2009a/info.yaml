@@ -1,0 +1,44 @@
+abstract: Magnetic field strengths inferred for relativistic outflows including gamma-ray
+  bursts (GRBs) and active galactic nuclei are larger than naively expected by orders
+  of magnitude. We present three-dimensional relativistic magnetohydrodynamic simulations
+  demonstrating amplification and saturation of a magnetic field by a macroscopic
+  turbulent dynamo triggered by the Kelvin-Helmholtz shear instability. We find rapid
+  growth of electromagnetic energy due to the stretching and folding of field lines
+  in the turbulent velocity field resulting from nonlinear development of the instability.
+  Using conditions relevant for GRB internal shocks and late phases of GRB afterglow,
+  we obtain amplification of the electromagnetic energy fraction to epsilon B  ~ 5
+  \texttimes{} 10-3. This value decays slowly after the shear is dissipated and appears
+  to be largely independent of the initial field strength. The conditions required
+  for operation of the dynamo are the presence of velocity shear and some seed magnetization
+  both of which are expected to be commonplace. We also find that the turbulent kinetic
+  energy spectrum for the case studied obeys Kolmogorov's 5/3 law and that the electromagnetic
+  energy spectrum is essentially flat with the bulk of the electromagnetic energy
+  at small scales.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...692L..40Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3638
+author: Zhang, W. and MacFadyen, A. and Wang, P.
+author_list:
+- family: Zhang
+  given: W.
+- family: MacFadyen
+  given: A.
+- family: Wang
+  given: P.
+date-added: 2017-08-10 22:39:38 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/692/1/L40
+eprint: '0811.3638'
+journal: \apjl
+keywords: 'gamma rays: bursts, instabilities, magnetic fields, methods: numerical,
+  MHD, relativity, turbulence'
+month: February
+pages: L40-L44
+papis_id: 247d2b056af287794b113eb8980519d5
+ref: zhang.w.2009a
+title: 'Three-Dimensional Relativistic Magnetohydrodynamic Simulations of the Kelvin-Helmholtz
+  Instability: Magnetic Field Amplification by a Turbulent Dynamo'
+type: article
+volume: '692'
+year: '2009'

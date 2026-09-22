@@ -1,0 +1,50 @@
+abstract: Based on multidimensional, multigroup, flux-limited-diffusion hydrodynamic
+  simulations of core-collapse supernovae with the VULCAN/2D code, we study the physical
+  conditions within and in the vicinity of the nascent proto-neutron star (PNS). Our
+  numerical study follows the evolution of the collapsing envelope of the 11 Msolar
+  model of Woosley \& Weaver from ~200 ms before bounce to ~300 ms after bounce on
+  a spatial grid that switches from Cartesian at the PNS center to spherical above
+  a 10 km radius. As has been shown previously, we do not see any large-scale overturn
+  of the inner PNS material. Convection, directly connected to the PNS, is found to
+  occur in two distinct regions, between 10 and 20 km, coincident with the region
+  of negative lepton gradient, and exterior to the PNS, above 50 km. Separating these
+  two regions, an interface with no sizable inward or outward motion is the site of
+  gravity waves, emerging at 200-300 ms after core bounce, excited by the convection
+  in the outer convective zone. In the PNS convection is always confined within the
+  neutrinospheric radii for all neutrino energies above just a few MeV. We find that
+  such convective motions do not appreciably enhance the nue neutrino luminosity,
+  and that they enhance the nu\textasciimacron{}e and ``numu'' luminosities modestly
+  by ~15\% and ~30\%, respectively, during the first postbounce 100-200 ms. Moreover,
+  we see no evidence of doubly diffusive instabilities in the PNS, expected to operate
+  on diffusion timescales of at least a second, much longer than the millisecond timescale
+  associated with PNS convection. PNS convection is thus found to be a secondary feature
+  of the core-collapse phenomenon, rather than a decisive ingredient for a successful
+  explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...645..534D
+arxivurl: http://arxiv.org/abs/astro-ph/0510229
+author: Dessart, L. and Burrows, A. and Livne, E. and Ott, C. D.
+author_list:
+- family: Dessart
+  given: L.
+- family: Burrows
+  given: A.
+- family: Livne
+  given: E.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-10 16:19:12 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/504068
+eprint: astro-ph/0510229
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Neutrinos, Stars: Neutron, Stars: Supernovae:
+  General, Waves'
+month: July
+pages: 534--550
+papis_id: 99a34bec2be4a959583487a3ce363065
+ref: dessart.l.2006
+title: Multidimensional Radiation/Hydrodynamic Simulations of Proto-Neutron Star Convection
+type: article
+volume: '645'
+year: '2006'

@@ -1,0 +1,68 @@
+abstract: We summarize panchromatic Extragalactic Background Light data to place upper
+  limits on the integrated near-infrared surface brightness (SB) that may come from
+  Population III stars and possible accretion disks around their stellar-mass black
+  holes (BHs) in the epoch of First Light, broadly taken from z ~= 7--17. Theoretical
+  predictions and recent near-infrared power spectra provide tighter constraints on
+  their sky signal. We outline the physical properties of zero-metallicity Population
+  III stars from MESA stellar evolution models through helium depletion and of BH
+  accretion disks at z\greaterequivlnt{} 7. We assume that second-generation non-zero-metallicity
+  stars can form at higher multiplicity, so that BH accretion disks may be fed by
+  Roche-lobe overflow from lower-mass companions. We use these near-infrared SB constraints
+  to calculate the number of caustic transits behind lensing clusters that the James
+  Webb Space Telescope and the next-generation ground-based telescopes may observe
+  for both Population III stars and their BH accretion disks. Typical caustic magnifications
+  can be mu ~= {10}4{--}{10}5, with rise times of hours and decline times of \lessequivlnt{}
+  1 year for cluster transverse velocities of {v}T\lessequivlnt{} 1000 km s-1. Microlensing
+  by intracluster-medium objects can modify transit magnifications but lengthen visibility
+  times. Depending on BH masses, accretion-disk radii, and feeding efficiencies, stellar-mass
+  BH accretion-disk caustic transits could outnumber those from Population III stars.
+  To observe Population III caustic transits directly may require monitoring 3--30
+  lensing clusters to {AB}\lessequivlnt{} 29 mag over a decade.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJS..234...41W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1801.03584
+author: Windhorst, R. A. and Timmes, F. X. and Wyithe, J. S. B. and Alpaslan, M. and
+  Andrews, S. K. and Coe, D. and Diego, J. M. and Dijkstra, M. and Driver, S. P. and
+  Kelly, P. L. and Kim, D.
+author_list:
+- family: Windhorst
+  given: R. A.
+- family: Timmes
+  given: F. X.
+- family: Wyithe
+  given: J. S. B.
+- family: Alpaslan
+  given: M.
+- family: Andrews
+  given: S. K.
+- family: Coe
+  given: D.
+- family: Diego
+  given: J. M.
+- family: Dijkstra
+  given: M.
+- family: Driver
+  given: S. P.
+- family: Kelly
+  given: P. L.
+- family: Kim
+  given: D.
+date-added: 2018-04-25 23:34:12 +0000
+date-modified: 2018-04-25 23:34:12 +0000
+doi: 10.3847/1538-4365/aaa760
+eid: '41'
+eprint: '1801.03584'
+journal: \apjs
+keywords: 'accretion, accretion disks, galaxies: clusters: general, gravitational
+  lensing: strong, infrared: diffuse background, stars: black holes, stars: Population
+  III'
+month: February
+pages: '41'
+papis_id: bb5cc02d172fbcac1da76787d79c6a42
+ref: windhorst.r.2018
+title: On the Observability of Individual Population III Stars and Their Stellar-mass
+  Black Hole Accretion Disks through Cluster Caustic Transits
+type: article
+volume: '234'
+year: '2018'

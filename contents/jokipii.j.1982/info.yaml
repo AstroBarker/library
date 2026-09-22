@@ -1,0 +1,32 @@
+abstract: The gradient and curvature drifts implicit in change of the ambient magnetic
+  field at a hydromagnetic shock wave are incorporated into the diffusive theory of
+  shock acceleration of charged particles. The conventional jump condition at the
+  shock is modified by a term incorporating the large drift along the shock plane.
+  This term vanished identically for one-dimensional systems, but must be included
+  in general for shocks which are finite in transverse extent or which have transverse
+  structure. It is found that the effect of the drift is such that the transverse
+  drift rate is proportional to the acceleration rate, and for perpendicular shocks
+  is exactly equal to the rate of change of energy in the V x B electric field observed
+  in the shock frame. This establishes a connection with the 'shock drift' models
+  which neglect diffusion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982ApJ...255..716J
+author: Jokipii, J. R.
+author_list:
+- family: Jokipii
+  given: J. R.
+date-added: 2017-08-10 22:01:30 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/159870
+journal: \apj
+keywords: Charged Particles, Magnetohydrodynamic Waves, Particle Acceleration, Particle
+  Diffusion, Particle Motion, Shock Wave Interaction, Drift Rate, Electric Field Strength,
+  Energy Transfer, Particle Energy, Plasma Acceleration, Transverse Waves
+month: April
+pages: 716--720
+papis_id: c169418f25589f560227c694e0d0775b
+ref: jokipii.j.1982
+title: Particle drift, diffusion, and acceleration at shocks
+type: article
+volume: '255'
+year: '1982'

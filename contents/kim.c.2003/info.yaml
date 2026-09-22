@@ -1,0 +1,41 @@
+abstract: Estimates of the Galactic coalescence rate (R) of close binaries with two
+  neutron stars (NS-NS) are known to be uncertain by large factors (about 2 orders
+  of magnitude) mainly because of the small number of systems detected as binary radio
+  pulsars. We present an analysis method that allows us to estimate the Galactic NS-NS
+  coalescence rate using the current observed sample and, importantly, to assign a
+  statistical significance to these estimates and calculate the allowed ranges of
+  values at various confidence levels. The method involves the simulation of selection
+  effects inherent in all relevant radio pulsar surveys and a Bayesian statistical
+  analysis for the probability distribution of the rate. The most likely values for
+  the total Galactic coalescence rate (Rpeak) lie in the range 2-60 Myr-1 depending
+  on different pulsar population models. For our reference model 1, in which the most
+  likely estimates of pulsar population properties are adopted, we obtain Rtot=8+9-5
+  Myr-1 at a 68\% statistical confidence level. The corresponding ranges of expected
+  detection rates of NS-NS inspiral are 3+4-2\texttimes{}10-3 yr-1 for the initial
+  LIGO and 18+21-11 yr-1 for the advanced LIGO.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...584..985K
+arxivurl: http://arxiv.org/abs/astro-ph/0207408
+author: Kim, C. and Kalogera, V. and Lorimer, D. R.
+author_list:
+- family: Kim
+  given: C.
+- family: Kalogera
+  given: V.
+- family: Lorimer
+  given: D. R.
+date-added: 2017-08-11 08:23:59 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/345740
+eprint: astro-ph/0207408
+journal: \apj
+keywords: 'Stars: Binaries: Close, Gravitational Waves, Stars: Neutron'
+month: February
+pages: 985--995
+papis_id: 82029c9956826ae37cd091b2adaaa596
+ref: kim.c.2003
+title: The Probability Distribution of Binary Pulsar Coalescence Rates. I. Double
+  Neutron Star Systems in the Galactic Field
+type: article
+volume: '584'
+year: '2003'

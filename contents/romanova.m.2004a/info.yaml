@@ -1,0 +1,56 @@
+abstract: The physics of the hot spots on stellar surfaces and the associated variability
+  of accreting magnetized rotating stars is investigated for the first time using
+  fully three-dimensional magnetohydrodynamic simulations. The magnetic moment of
+  the star, mu, is inclined relative to its rotation axis, Omega, by an angle Theta
+  (we call this angle the ``misalignment angle''), while the disk's rotation axis
+  is parallel to Omega. A sequence of misalignment angles between Theta=0$\,^{\circ}$
+  and 90\$\,^{\circ}\$ was investigated. The hot spots arise on the stellar surface
+  because of the impact on the surface of magnetically channeled accretion streams.
+  The distribution of different parameters in the hot spots reflects those in the
+  funnel streams near the surface of the star. Typically, at small Theta the spots
+  as observed are shaped like a bow curved around the magnetic axis, while at the
+  largest values of Theta the spots are shaped like a bar crossing the magnetic pole.
+  The physical parameters (density, velocity, temperature, matter, energy fluxes,
+  etc.) increase toward the central regions of the spots; thus, the size of the spots
+  is different at different values of these parameters. At relatively low density
+  and temperature, the spots occupy approximately 10\%-20\% of the stellar surface,
+  while at the highest values of these parameters this area may be less than 1\% of
+  the area of the star. The size of the spots increases with the accretion rate. Rotation
+  of the star leads to the observed variability of brightness. The light curves were
+  calculated for different values of Theta and inclination angles of the disk, i.
+  They show a range of variability patterns, including curves with one maximum per
+  period (at most angles Theta and i) and curves with two maxima per period (at large
+  Theta and i). At small Theta, the funnel streams may rotate faster or slower than
+  the star, and this may lead to quasi-periodic variability of the star. The results
+  are of interest for understanding the variability and quasi variability of classical
+  T Tauri stars, millisecond pulsars, and cataclysmic variables.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...610..920R
+arxivurl: http://arxiv.org/abs/astro-ph/0404496
+author: Romanova, M. M. and Ustyugova, G. V. and Koldoba, A. V. and Lovelace, R. V.
+  E.
+author_list:
+- family: Romanova
+  given: M. M.
+- family: Ustyugova
+  given: G. V.
+- family: Koldoba
+  given: A. V.
+- family: Lovelace
+  given: R. V. E.
+date-added: 2017-08-11 06:40:55 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421867
+eprint: astro-ph/0404496
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Magnetic Fields, Magnetohydrodynamics: MHD,
+  Plasmas, Stars: Magnetic Fields, X-Rays: Stars'
+month: August
+pages: 920--932
+papis_id: 9c86622eff792b32871022b44d773547
+ref: romanova.m.2004a
+title: Three-dimensional Simulations of Disk Accretion to an Inclined Dipole. II.
+  Hot Spots and Variability
+type: article
+volume: '610'
+year: '2004'

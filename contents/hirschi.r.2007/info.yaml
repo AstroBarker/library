@@ -1,0 +1,46 @@
+abstract: 'Context: Precise measurements of the surface abundances of extremely low-metallicity
+  stars have recently been obtained, and they provide new constraints for the stellar
+  evolution models.  Aims: Stellar evolution models were computed in order to explain
+  the surface abundances observed, in particular of nitrogen.  Methods: Two series
+  of models were computed. The first series consists of 20 M\_\&sun; models with varying
+  initial metallicity (Z=0.02 down to Z=10-8) and rotation (\upsilonini=0-600 km s-1).
+  The second one consists of models with an initial metallicity of Z=10-8, masses
+  between 9 and 85 M\_\&sun;, and fast initial rotation velocities (\upsilonini=600-800
+  km s-1).   Results: The most interesting models are those with Z=10-8 ([ Fe/H]\texttildelow{}-6.6).
+  In the course of helium burning, carbon and oxygen are mixed into the hydrogen-burning
+  shell. This boosts the importance of the shell and causes a reduction of the CO
+  core mass. Later in the evolution, the hydrogen shell deepens and produces a large
+  amount of primary nitrogen. For the most massive models (M\gtrapprox{} 60 M\_\&sun;),
+  significant mass loss occurs during the red supergiant stage. This mass loss is
+  due to the surface enrichment in CNO elements via rotational and convective mixing.
+  The 85 M\_\&sun; model ends up as a WO-type Wolf-Rayet star. Therefore the models
+  predict SNe of type Ic and possibly long and soft GRBs at very low metallicities.
+  The rotating 20 M\_\&sun; models can best reproduce the observed CNO abundances
+  at the surface of extremely metal-poor (EMP) stars and the metallicity trends when
+  their angular momentum content is the same as at solar metallicity (and therefore
+  have an increasing surface velocity with decreasing metallicity). The wind of the
+  massive-star models can reproduce the CNO abundances of the most metal-poor carbon-rich
+  star known to date, HE1327-2326.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...461..571H
+arxivurl: http://arxiv.org/abs/astro-ph/0608170
+author: Hirschi, R.
+author_list:
+- family: Hirschi
+  given: R.
+date-added: 2017-08-11 00:13:45 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20065356
+eprint: astro-ph/0608170
+journal: \aap
+keywords: 'stars: abundances, stars: evolution, stars:, rotation, stars: mass-loss,
+  stars: Wolf-Rayet, stars: supernovae: general'
+month: January
+pages: 571--583
+papis_id: d82de57c05e104bc33189e70b70539aa
+ref: hirschi.r.2007
+title: Very low-metallicity massive stars:. Pre-SN evolution models and primary nitrogen
+  production
+type: article
+volume: '461'
+year: '2007'

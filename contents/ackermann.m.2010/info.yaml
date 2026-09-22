@@ -1,0 +1,436 @@
+abstract: We present detailed observations of the bright short-hard gamma-ray burst
+  GRB 090510 made with the Gamma-ray Burst Monitor (GBM) and Large Area Telescope
+  (LAT) on board the Fermi observatory. GRB 090510 is the first burst detected by
+  the LAT that shows strong evidence for a deviation from a Band spectral fitting
+  function during the prompt emission phase. The time-integrated spectrum is fit by
+  the sum of a Band function with E peak = 3.9 $\pm$ 0.3 MeV, which is the highest
+  yet measured, and a hard power-law component with photon index -1.62 \$\pm\$ 0.03
+  that dominates the emission below \approx{}20 keV and above \approx{}100 MeV. The
+  onset of the high-energy spectral component appears to be delayed by ~0.1 s with
+  respect to the onset of a component well fit with a single Band function. A faint
+  GBM pulse and a LAT photon are detected 0.5 s before the main pulse. During the
+  prompt phase, the LAT detected a photon with energy 30.5+5.8 -2.6 GeV, the highest
+  ever measured from a short GRB. Observation of this photon sets a minimum bulk outflow
+  Lorentz factor, Gammagsim 1200, using simple gammagamma opacity arguments for this
+  GRB at redshift z = 0.903 and a variability timescale on the order of tens of ms
+  for the \approx{}100 keV-few MeV flux. Stricter high confidence estimates imply
+  Gamma >~ 1000 and still require that the outflows powering short GRBs are at least
+  as highly relativistic as those of long-duration GRBs. Implications of the temporal
+  behavior and power-law shape of the additional component on synchrotron/synchrotron
+  self-Compton, external-shock synchrotron, and hadronic models are considered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...716.1178A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.2141
+author: Ackermann, M. and Asano, K. and Atwood, W. B. and Axelsson, M. and Baldini,
+  L. and Ballet, J. and Barbiellini, G. and Baring, M. G. and Bastieri, D. and Bechtol,
+  K. and Bellazzini, R. and Berenji, B. and Bhat, P. N. and Bissaldi, E. and Blandford,
+  R. D. and Bloom, E. D. and Bonamente, E. and Borgland, A. W. and Bouvier, A. and
+  Bregeon, J. and Brez, A. and Briggs, M. S. and Brigida, M. and Bruel, P. and Buson,
+  S. and Caliandro, G. A. and Cameron, R. A. and Caraveo, P. A. and Carrigan, S. and
+  Casandjian, J. M. and Cecchi, C. and Çelik, Ö. and Charles, E. and Chiang, J. and
+  Ciprini, S. and Claus, R. and Cohen-Tanugi, J. and Connaughton, V. and Conrad, J.
+  and Dermer, C. D. and de Palma, F. and Dingus, B. L. and Silva, E. d. C. e. and
+  Drell, P. S. and Dubois, R. and Dumora, D. and Farnier, C. and Favuzzi, C. and Fegan,
+  S. J. and Finke, J. and Focke, W. B. and Frailis, M. and Fukazawa, Y. and Fusco,
+  P. and Gargano, F. and Gasparrini, D. and Gehrels, N. and Germani, S. and Giglietto,
+  N. and Giordano, F. and Glanzman, T. and Godfrey, G. and Granot, J. and Grenier,
+  I. A. and Grondin, M.-H. and Grove, J. E. and Guiriec, S. and Hadasch, D. and Harding,
+  A. K. and Hays, E. and Horan, D. and Hughes, R. E. and Jóhannesson, G. and Johnson,
+  W. N. and Kamae, T. and Katagiri, H. and Kataoka, J. and Kawai, N. and Kippen, R.
+  M. and Knödlseder, J. and Kocevski, D. and Kouveliotou, C. and Kuss, M. and Lande,
+  J. and Latronico, L. and Lemoine-Goumard, M. and Llena Garde, M. and Longo, F. and
+  Loparco, F. and Lott, B. and Lovellette, M. N. and Lubrano, P. and Makeev, A. and
+  Mazziotta, M. N. and McEnery, J. E. and McGlynn, S. and Meegan, C. and Mészáros,
+  P. and Michelson, P. F. and Mitthumsiri, W. and Mizuno, T. and Moiseev, A. A. and
+  Monte, C. and Monzani, M. E. and Moretti, E. and Morselli, A. and Moskalenko, I.
+  V. and Murgia, S. and Nakajima, H. and Nakamori, T. and Nolan, P. L. and Norris,
+  J. P. and Nuss, E. and Ohno, M. and Ohsugi, T. and Omodei, N. and Orlando, E. and
+  Ormes, J. F. and Ozaki, M. and Paciesas, W. S. and Paneque, D. and Panetta, J. H.
+  and Parent, D. and Pelassa, V. and Pepe, M. and Pesce-Rollins, M. and Piron, F.
+  and Preece, R. and Rainò, S. and Rando, R. and Razzano, M. and Razzaque, S. and
+  Reimer, A. and Ritz, S. and Rodriguez, A. Y. and Roth, M. and Ryde, F. and Sadrozinski,
+  H. F.-W. and Sander, A. and Scargle, J. D. and Schalk, T. L. and Sgrò, C. and Siskind,
+  E. J. and Smith, P. D. and Spandre, G. and Spinelli, P. and Stamatikos, M. and Stecker,
+  F. W. and Strickman, M. S. and Suson, D. J. and Tajima, H. and Takahashi, H. and
+  Takahashi, T. and Tanaka, T. and Thayer, J. B. and Thayer, J. G. and Thompson, D.
+  J. and Tibaldo, L. and Toma, K. and Torres, D. F. and Tosti, G. and Tramacere, A.
+  and Uchiyama, Y. and Uehara, T. and Usher, T. L. and van der Horst, A. J. and Vasileiou,
+  V. and Vilchez, N. and Vitale, V. and von Kienlin, A. and Waite, A. P. and Wang,
+  P. and Wilson-Hodge, C. and Winer, B. L. and Wu, X. F. and Yamazaki, R. and Yang,
+  Z. and Ylinen, T. and Ziegler, M.
+author_list:
+- family: Ackermann
+  given: M.
+- family: Asano
+  given: K.
+- family: Atwood
+  given: W. B.
+- family: Axelsson
+  given: M.
+- family: Baldini
+  given: L.
+- family: Ballet
+  given: J.
+- family: Barbiellini
+  given: G.
+- family: Baring
+  given: M. G.
+- family: Bastieri
+  given: D.
+- family: Bechtol
+  given: K.
+- family: Bellazzini
+  given: R.
+- family: Berenji
+  given: B.
+- family: Bhat
+  given: P. N.
+- family: Bissaldi
+  given: E.
+- family: Blandford
+  given: R. D.
+- family: Bloom
+  given: E. D.
+- family: Bonamente
+  given: E.
+- family: Borgland
+  given: A. W.
+- family: Bouvier
+  given: A.
+- family: Bregeon
+  given: J.
+- family: Brez
+  given: A.
+- family: Briggs
+  given: M. S.
+- family: Brigida
+  given: M.
+- family: Bruel
+  given: P.
+- family: Buson
+  given: S.
+- family: Caliandro
+  given: G. A.
+- family: Cameron
+  given: R. A.
+- family: Caraveo
+  given: P. A.
+- family: Carrigan
+  given: S.
+- family: Casandjian
+  given: J. M.
+- family: Cecchi
+  given: C.
+- family: Çelik
+  given: Ö.
+- family: Charles
+  given: E.
+- family: Chiang
+  given: J.
+- family: Ciprini
+  given: S.
+- family: Claus
+  given: R.
+- family: Cohen-Tanugi
+  given: J.
+- family: Connaughton
+  given: V.
+- family: Conrad
+  given: J.
+- family: Dermer
+  given: C. D.
+- family: de Palma
+  given: F.
+- family: Dingus
+  given: B. L.
+- family: Silva
+  given: E. d. C. e.
+- family: Drell
+  given: P. S.
+- family: Dubois
+  given: R.
+- family: Dumora
+  given: D.
+- family: Farnier
+  given: C.
+- family: Favuzzi
+  given: C.
+- family: Fegan
+  given: S. J.
+- family: Finke
+  given: J.
+- family: Focke
+  given: W. B.
+- family: Frailis
+  given: M.
+- family: Fukazawa
+  given: Y.
+- family: Fusco
+  given: P.
+- family: Gargano
+  given: F.
+- family: Gasparrini
+  given: D.
+- family: Gehrels
+  given: N.
+- family: Germani
+  given: S.
+- family: Giglietto
+  given: N.
+- family: Giordano
+  given: F.
+- family: Glanzman
+  given: T.
+- family: Godfrey
+  given: G.
+- family: Granot
+  given: J.
+- family: Grenier
+  given: I. A.
+- family: Grondin
+  given: M.-H.
+- family: Grove
+  given: J. E.
+- family: Guiriec
+  given: S.
+- family: Hadasch
+  given: D.
+- family: Harding
+  given: A. K.
+- family: Hays
+  given: E.
+- family: Horan
+  given: D.
+- family: Hughes
+  given: R. E.
+- family: Jóhannesson
+  given: G.
+- family: Johnson
+  given: W. N.
+- family: Kamae
+  given: T.
+- family: Katagiri
+  given: H.
+- family: Kataoka
+  given: J.
+- family: Kawai
+  given: N.
+- family: Kippen
+  given: R. M.
+- family: Knödlseder
+  given: J.
+- family: Kocevski
+  given: D.
+- family: Kouveliotou
+  given: C.
+- family: Kuss
+  given: M.
+- family: Lande
+  given: J.
+- family: Latronico
+  given: L.
+- family: Lemoine-Goumard
+  given: M.
+- family: Llena Garde
+  given: M.
+- family: Longo
+  given: F.
+- family: Loparco
+  given: F.
+- family: Lott
+  given: B.
+- family: Lovellette
+  given: M. N.
+- family: Lubrano
+  given: P.
+- family: Makeev
+  given: A.
+- family: Mazziotta
+  given: M. N.
+- family: McEnery
+  given: J. E.
+- family: McGlynn
+  given: S.
+- family: Meegan
+  given: C.
+- family: Mészáros
+  given: P.
+- family: Michelson
+  given: P. F.
+- family: Mitthumsiri
+  given: W.
+- family: Mizuno
+  given: T.
+- family: Moiseev
+  given: A. A.
+- family: Monte
+  given: C.
+- family: Monzani
+  given: M. E.
+- family: Moretti
+  given: E.
+- family: Morselli
+  given: A.
+- family: Moskalenko
+  given: I. V.
+- family: Murgia
+  given: S.
+- family: Nakajima
+  given: H.
+- family: Nakamori
+  given: T.
+- family: Nolan
+  given: P. L.
+- family: Norris
+  given: J. P.
+- family: Nuss
+  given: E.
+- family: Ohno
+  given: M.
+- family: Ohsugi
+  given: T.
+- family: Omodei
+  given: N.
+- family: Orlando
+  given: E.
+- family: Ormes
+  given: J. F.
+- family: Ozaki
+  given: M.
+- family: Paciesas
+  given: W. S.
+- family: Paneque
+  given: D.
+- family: Panetta
+  given: J. H.
+- family: Parent
+  given: D.
+- family: Pelassa
+  given: V.
+- family: Pepe
+  given: M.
+- family: Pesce-Rollins
+  given: M.
+- family: Piron
+  given: F.
+- family: Preece
+  given: R.
+- family: Rainò
+  given: S.
+- family: Rando
+  given: R.
+- family: Razzano
+  given: M.
+- family: Razzaque
+  given: S.
+- family: Reimer
+  given: A.
+- family: Ritz
+  given: S.
+- family: Rodriguez
+  given: A. Y.
+- family: Roth
+  given: M.
+- family: Ryde
+  given: F.
+- family: Sadrozinski
+  given: H. F.-W.
+- family: Sander
+  given: A.
+- family: Scargle
+  given: J. D.
+- family: Schalk
+  given: T. L.
+- family: Sgrò
+  given: C.
+- family: Siskind
+  given: E. J.
+- family: Smith
+  given: P. D.
+- family: Spandre
+  given: G.
+- family: Spinelli
+  given: P.
+- family: Stamatikos
+  given: M.
+- family: Stecker
+  given: F. W.
+- family: Strickman
+  given: M. S.
+- family: Suson
+  given: D. J.
+- family: Tajima
+  given: H.
+- family: Takahashi
+  given: H.
+- family: Takahashi
+  given: T.
+- family: Tanaka
+  given: T.
+- family: Thayer
+  given: J. B.
+- family: Thayer
+  given: J. G.
+- family: Thompson
+  given: D. J.
+- family: Tibaldo
+  given: L.
+- family: Toma
+  given: K.
+- family: Torres
+  given: D. F.
+- family: Tosti
+  given: G.
+- family: Tramacere
+  given: A.
+- family: Uchiyama
+  given: Y.
+- family: Uehara
+  given: T.
+- family: Usher
+  given: T. L.
+- family: van der Horst
+  given: A. J.
+- family: Vasileiou
+  given: V.
+- family: Vilchez
+  given: N.
+- family: Vitale
+  given: V.
+- family: von Kienlin
+  given: A.
+- family: Waite
+  given: A. P.
+- family: Wang
+  given: P.
+- family: Wilson-Hodge
+  given: C.
+- family: Winer
+  given: B. L.
+- family: Wu
+  given: X. F.
+- family: Yamazaki
+  given: R.
+- family: Yang
+  given: Z.
+- family: Ylinen
+  given: T.
+- family: Ziegler
+  given: M.
+date-added: 2017-08-11 02:06:58 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/716/2/1178
+eprint: '1005.2141'
+journal: \apj
+keywords: 'gamma-ray burst: individual: GRB 090510, radiation mechanisms: non-thermal'
+month: June
+pages: 1178--1190
+papis_id: dedd619d9eaf26bdd99cd7dca941ccd6
+primaryclass: astro-ph.HE
+ref: ackermann.m.2010
+title: 'Fermi Observations of GRB 090510: A Short-Hard Gamma-ray Burst with an Additional,
+  Hard Power-law Component from 10 keV TO GeV Energies'
+type: article
+volume: '716'
+year: '2010'

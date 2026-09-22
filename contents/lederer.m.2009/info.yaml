@@ -1,0 +1,55 @@
+abstract: 'Context: With certain assumptions, radiative energy transport can be modelled
+  by the diffusion approximation. In this case, the Rosseland mean opacity coefficient
+  characterises the interaction between radiation and matter. The opacity data are
+  usually available in pre-tabulated form, and in the generation of the data one assumes
+  a distinct heavy element mixture, which is usually a scaled solar one. Therefore,
+  presently available data is unable to cover the full parameter range of some astrophysical
+  problems, in which the chemical composition of the medium being considered varies.  Aims:
+  We attempt to produce low temperature opacity data incorporating the effects of
+  varied abundances of the elements carbon and nitrogen. For our temperature range
+  of interest, molecules represent the dominant opacity source. Our dataset covers
+  a wide metallicity range and is meant to provide important input data for stellar
+  evolution models and other applications.  Methods: We conduct chemical equilibrium
+  calculations to evaluate the partial pressures of neutral atoms, ions, and molecules.
+  Based on a large dataset containing atomic line and continuum data and, most importantly,
+  a plethora of molecular lines, we calculate Rosseland mean opacity coefficients
+  not only for a number of different metallicities, but also for varied abundances
+  of the isotopes 12C and 14N at each metallicity. The molecular data comprise the
+  main opacity sources for either an oxygen-rich or carbon-rich chemistry. We tabulate
+  the opacity coefficients as a function of temperature and, basically, density.  Results:
+  Due to the special role of the CO molecule, within a certain chemistry regime an
+  alteration to the carbon abundance causes considerable changes in the Rosseland
+  opacity. The transition from a scaled solar (i.e. oxygen-rich) mixture to a carbon-rich
+  regime results in opacities that can, at low temperatures, differ by orders of magnitude
+  from to the initial situation. The reason is that the mean opacity in either case
+  is due to different molecular absorbers. Variations in the abundance of nitrogen
+  have less pronounced effects but, nevertheless, cannot be neglected.  Conclusions:
+  In typical astrophysical applications, it is indispensable to take into account
+  opacity variations due to chemistry changes. In this respect, the new data is superior
+  to previous compilations, but is, however, still subject to uncertainties.  Database
+  of Rosseland opacities is only available in electronic form at the CDS via anonymous
+  ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/494/403'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...494..403L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.5672
+author: Lederer, M. T. and Aringer, B.
+author_list:
+- family: Lederer
+  given: M. T.
+- family: Aringer
+  given: B.
+date-added: 2017-08-11 04:28:43 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1051/0004-6361:200810576
+eprint: '0810.5672'
+journal: \aap
+keywords: 'radiative transfer, molecular data, stars: evolution'
+month: January
+pages: 403--416
+papis_id: 5e4214b89a3a73e2645f9686f257fef1
+ref: lederer.m.2009
+title: Low temperature Rosseland opacities with varied abundances of carbon and nitrogen
+type: article
+volume: '494'
+year: '2009'

@@ -1,0 +1,33 @@
+abstractnote: Here, we present a new Lagrangian discontinuous Galerkin (DG) hydrodynamic
+  method for solving the two-dimensional gas dynamic equations on unstructured hybrid
+  meshes. The physical conservation laws for the momentum and total energy are discretized
+  using a DG method based on linear Taylor expansions. Three different approaches
+  are investigated for calculating the density variation over the element. The first
+  approach evolves a Taylor expansion of the specific volume field. The second approach
+  follows certain finite element methods and uses the strong mass conservation to
+  calculate the density field at a location inside the element or on the element surface.
+  The third approach evolves a Taylor expansion of the density field. The nodal velocity,
+  and the corresponding forces, are explicitly calculated by solving a multidirectional
+  approximate Riemann problem. An effective limiting strategy is presented that ensures
+  monotonicity of the primitive variables. This new Lagrangian DG hydrodynamic method
+  conserves mass, momentum, and total energy. Results from a suite of test problems
+  are presented to demonstrate the robustness and expected second-order accuracy of
+  this new method.
+author: Liu, Xiaodong and Morgan, Nathaniel Ray and Burton, Donald E.
+author_list:
+- family: Liu
+  given: Xiaodong
+- family: Morgan
+  given: Nathaniel Ray
+- family: Burton
+  given: Donald E.
+doi: 10.1016/j.compfluid.2017.12.007
+journal: Computers and Fluids
+month: '12'
+papis_id: 12be4e9e71224d7909fb20f7c055a208
+place: United States
+ref: liu.xiaodong.2017
+title: A Lagrangian discontinuous Galerkin hydrodynamic method
+type: article
+volume: '163'
+year: '2017'

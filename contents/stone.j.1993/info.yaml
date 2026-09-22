@@ -1,0 +1,36 @@
+abstract: A description is presented of the numerical algorithms needed to solve the
+  coupled time-dependent hydrodynamics and nonequilibrium rate equation. A test problem
+  based on the overstability of radiative shocks is detailed, and 2D models of protostellar
+  jets that were computed with both time-dependent nonequilibrium cooling and time-independent
+  cooling (using the assumption of complete ionization) are compared. Substantial
+  differences in the morphology of the jets in these two cases are noted to be due
+  to differences in the effective cooling rates between the two formalisms for the
+  same model parameters. The second part of this work presents multidimensional time-dependent
+  numerical simulations protostellar jets into a uniform ambient medium; these employ
+  a nonequilibrium treatment of optically thin radiative cooling. Attention is given
+  to 2D and 3D models of pulsed jets in which the jet velocity is assumed to be intrinsically
+  variable.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...413..198S
+author: Stone, J. M. and Norman, M. L.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 03:22:14 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172988
+journal: \apj
+keywords: Cool Stars, Pre-Main Sequence Stars, Protostars, Pulsed Radiation, Radio
+  Jets (Astronomy), Two Dimensional Models, Gas Dynamics, Interstellar Matter, Stellar
+  Models
+month: August
+pages: 198--220
+papis_id: b13170b2b6a2d1b3913a313d66ff1d70
+ref: stone.j.1993
+title: Numerical simulations of protostellar jets with nonequilibrium cooling. I -
+  Method and two-dimensional results. II - Models of pulsed jets
+type: article
+volume: '413'
+year: '1993'

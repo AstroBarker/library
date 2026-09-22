@@ -1,0 +1,53 @@
+abstract: We investigate the acceleration of shock waves to relativistic velocities
+  in the outer layers of exploding stars. By concentrating the energy of the explosion
+  in the outermost ejecta, such trans-relativistic blast waves can serve as the progenitors
+  of gamma-ray bursts (GRBs); in particular, the ``baryon-loading'' problem that plagues
+  many models of GRBs is circumvented. Postshock acceleration is effective in boosting
+  the kinetic energy in relativistic ejecta. We present physically motivated analytic
+  expressions to describe trans-relativistic blast waves in supernovae, and we validate
+  these expressions against numerical simulations of test problems. Investigating
+  the effect of stellar structure on mass ejection, we find that relativistic ejecta
+  are enhanced in more centrally condensed envelopes, e.g., for radiative envelopes,
+  when the luminosity approaches the Eddington limit. Convenient formulae are presented
+  with which to estimate the production of relativistic ejecta from a given progenitor.
+  We apply our analytic and numerical methods to a model of SN 1998bw, finding significantly
+  enhanced relativistic ejecta compared to previous studies. We propose that GRB 980425
+  is associated with SN 1998bw and may have resulted from an approximately spherical
+  explosion producing ~10-6 Msolar of mildly relativistic ejecta with mean Lorentz
+  factor Gamma~2, which then interacted with a dense circumstellar wind with a mass-loss
+  rate of approximately a few times 10-4 Msolar yr-1. A highly asymmetric explosion
+  is not required. An extreme model of ``hypernova'' explosions in massive stars is
+  able to account for the energetics and relativistic ejecta velocities required by
+  many of the observed cosmological GRBs. However, the most energetic bursts require
+  asymmetric expulsion of ejecta, perhaps caused by rotationally flattened progenitors.
+  We present simplified models and simulations of explosions resulting from accretion-induced
+  collapse of white dwarfs and phase transitions of neutron stars. While we find increased
+  energies in relativistic ejecta compared to previous studies, these explosions are
+  unlikely to be observed at cosmological distances with current detectors, unless
+  extreme explosion energies and asymmetries are invoked.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...551..946T
+arxivurl: http://arxiv.org/abs/astro-ph/0012003
+author: Tan, J. C. and Matzner, C. D. and McKee, C. F.
+author_list:
+- family: Tan
+  given: J. C.
+- family: Matzner
+  given: C. D.
+- family: McKee
+  given: C. F.
+date-added: 2017-08-10 16:47:23 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/320245
+eprint: astro-ph/0012003
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Hydrodynamics, Relativity, Shock Waves, Stars: Neutron,
+  Stars: Supernovae: Individual: Alphanumeric: SN 1998bw, Stars: White Dwarfs'
+month: April
+pages: 946--972
+papis_id: d228c8e2197b7c1af345b47515c4cf74
+ref: tan.j.2001
+title: Trans-Relativistic Blast Waves in Supernovae as Gamma-Ray Burst Progenitors
+type: article
+volume: '551'
+year: '2001'

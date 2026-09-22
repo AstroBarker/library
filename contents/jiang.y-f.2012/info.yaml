@@ -1,0 +1,48 @@
+abstract: We describe a numerical algorithm to integrate the equations of radiation
+  magnetohydrodynamics in multidimensions using Godunov methods. This algorithm solves
+  the radiation moment equations in the mixed frame, without invoking any diffusion-like
+  approximations. The moment equations are closed using a variable Eddington tensor
+  whose components are calculated from a formal solution of the transfer equation
+  at a large number of angles using the method of short characteristics. We use a
+  comprehensive test suite to verify the algorithm, including convergence tests of
+  radiation-modified linear acoustic and magnetosonic waves, the structure of radiation-modified
+  shocks, and two-dimensional tests of photon bubble instability and the ablation
+  of dense clouds by an intense radiation field. These tests cover a very wide range
+  of regimes, including both optically thick and thin flows, and ratios of the radiation
+  to gas pressure of at least 10-4-104. Across most of the parameter space, we find
+  that the method is accurate. However, the tests also reveal there are regimes where
+  the method needs improvement, for example when both the radiation pressure and absorption
+  opacity are very large. We suggest modifications to the algorithm that will improve
+  the accuracy in this case. We discuss the advantages of this method over those based
+  on flux-limited diffusion. In particular, we find that the method is not only substantially
+  more accurate, but often no more expensive than the diffusion approximation for
+  our intended applications.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..199...14J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.2223
+author: Jiang, Y.-F. and Stone, J. M. and Davis, S. W.
+author_list:
+- family: Jiang
+  given: Y.-F.
+- family: Stone
+  given: J. M.
+- family: Davis
+  given: S. W.
+date-added: 2017-08-10 20:05:34 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0067-0049/199/1/14
+eid: '14'
+eprint: '1201.2223'
+journal: \apjs
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, radiative transfer'
+month: March
+pages: '14'
+papis_id: ceb0cd1fc02dfc8fe90318b917a62d36
+primaryclass: astro-ph.HE
+ref: jiang.y_f.2012
+title: A Godunov Method for Multidimensional Radiation Magnetohydrodynamics Based
+  on a Variable Eddington Tensor
+type: article
+volume: '199'
+year: '2012'

@@ -1,0 +1,26 @@
+abstract: The Reynolds stress formalism is adopted to treat turbulent convection.
+  This methodology is reviewed, and it is suggested that it may prove very useful
+  to treat stellar and accretion disk turbulent convection, as well as in the construction
+  of the subgrid models needed in large eddy simulations. A set of differential equations
+  that yield the mean and turbulent quantities such as convective fluxes, turbulent
+  viscosity, and turbulent conductivity is presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...392..218C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2018-05-13 20:11:07 +0000
+date-modified: 2018-05-13 20:11:08 +0000
+doi: 10.1086/171420
+journal: \apj
+keywords: Convective Flow, Magnetohydrodynamic Turbulence, Reynolds Stress, Stellar
+  Structure, Accretion Disks, Stellar Interiors, Stellar Models
+month: June
+pages: 218--232
+papis_id: 31e27a70a77c5a266bdef32e5c45cda2
+ref: canuto.v.1992
+title: Turbulent convection with overshooting - Reynolds stress approach
+type: article
+volume: '392'
+year: '1992'

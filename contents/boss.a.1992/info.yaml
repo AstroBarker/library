@@ -1,0 +1,33 @@
+abstract: Two related numerical schemes for calculating the 3D collapse of protostellar
+  clouds are defined, developed, and checked on a wide variety of test problems in
+  spherical symmetry and multiple dimensions. One scheme is first-order accurate in
+  time (code S), and the other second-order accurate in time (code ST). Through convergence
+  testing, the codes are shown to be second-order accurate in spatial differences.
+  Compared with the previous 3D code, the combination of reduced numerical dissipation
+  through second-order accuracy and of removing the systematic bias toward central
+  concentrations implies that the tendency for fragmentation into binary or multiple
+  protostars should increase. A reinvestigation of fragmentation as a mechanism for
+  forming binary stars is expected to yield an even more favorable evaluation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJS...83..311B
+author: Boss, A. P. and Myhill, E. A.
+author_list:
+- family: Boss
+  given: A. P.
+- family: Myhill
+  given: E. A.
+date-added: 2017-08-10 16:44:07 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191739
+journal: \apjs
+keywords: Gravitational Collapse, Hydrodynamics, Molecular Clouds, Protostars, Star
+  Formation, Computational Astrophysics, Poisson Equation, Spherical Coordinates
+month: December
+pages: 311--327
+papis_id: a456d3e83b72dacd3d6e5b8acda677c3
+ref: boss.a.1992
+title: 'Protostellar hydrodynamics: Constructing and testing a spatially and temporally
+  second-order-accurate method. I - Spherical coordinates'
+type: article
+volume: '83'
+year: '1992'

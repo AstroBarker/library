@@ -1,0 +1,55 @@
+abstract: We study the initiation of the detonation in the gravitationally confined
+  detonation (GCD) model of Type Ia supernovae (SNe Ia). In this model, ignition occurs
+  at one or several off-center points, resulting in a burning bubble of hot ash that
+  rises rapidly, breaks through the surface of the star, and collides at a point on
+  the stellar surface opposite the breakout, producing a high-velocity inwardly directed
+  flow. Initiation of the detonation occurs spontaneously in a region where the length
+  scale of the temperature gradient extending from the flow (in which carbon burning
+  is already occurring) into unburned fuel is commensurate to the range of critical
+  length scales which have been derived from one-dimensional simulations that resolve
+  the initiation of a detonation. By increasing the maximum resolution in a truncated
+  cone that encompasses this region, beginning somewhat before initiation of the detonation
+  occurs, we successfully simulate in situ the first gradient-initiated detonation
+  in a whole-star simulation. The detonation emerges when a compression wave overruns
+  a pocket of fuel situated in a Kelvin-Helmholtz cusp at the leading edge of the
+  inwardly directed jet of burning carbon. The compression wave preconditions the
+  temperature in the fuel in such a way that the Zel'dovich gradient mechanism can
+  operate and a detonation ensues. We explore the dependence of the length scale of
+  the temperature gradient on spatial resolution and discuss the implications for
+  the robustness of this detonation mechanism. We find that the time and the location
+  at which initiation of the detonation occurs varies with resolution. In particular,
+  initiation of a detonation had not yet occurred in our highest resolution simulation
+  by the time we ended the simulation because of the computational demand it required.
+  However, it may detonate later. We suggest that the turbulent shear layer surrounding
+  the inwardly directed jet provides the most favorable physical conditions, and therefore
+  the most likely location, for initiation of a detonation in the GCD model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700..642S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0905.3104
+author: Seitenzahl, I. R. and Meakin, C. A. and Lamb, D. Q. and Truran, J. W.
+author_list:
+- family: Seitenzahl
+  given: I. R.
+- family: Meakin
+  given: C. A.
+- family: Lamb
+  given: D. Q.
+- family: Truran
+  given: J. W.
+date-added: 2017-08-11 00:45:44 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/700/1/642
+eprint: '0905.3104'
+journal: \apj
+keywords: 'hydrodynamics, shock waves, supernovae: general, white dwarfs'
+month: July
+pages: 642--653
+papis_id: 2588b9ed2e9a11b984525a87885bca6d
+primaryclass: astro-ph.SR
+ref: seitenzahl.i.2009
+title: Initiation of the Detonation in the Gravitationally Confined Detonation Model
+  of Type Ia Supernovae
+type: article
+volume: '700'
+year: '2009'

@@ -1,0 +1,56 @@
+abstract: 'A variety of current models of gamma-ray bursts (GRBs) suggest a common
+  engine: a black hole of several solar masses accreting matter from a disk at a rate
+  of 0.01 to 10 Msolar s-1. Using a numerical model for relativistic disk accretion,
+  we have studied steady state accretion at these high rates. Outside about 108 cm,
+  the disk is advection dominated; energy released by dissipation is carried in by
+  the optically thick gas, and the disk does not cool. Inside this radius, for accretion
+  rates greater than about 0.01 Msolar s-1 a global state of balanced power comes
+  to exist between neutrino losses, chiefly pair capture on nucleons, and dissipation.
+  As a result of these losses, the temperature is reduced, the density is raised,
+  and the disk scale height is reduced compared to the advective solution. The sudden
+  onset of neutrino losses (due to the high temperature dependence) and photodisintegration
+  leads to an abrupt thinning of the disk that may provide a favorable geometry for
+  jet production. The inner disk remains optically thin to neutrinos for accretion
+  rates of up to about 1 Msolar s-1. The energy emitted in neutrinos is less, and
+  in the case of low accretion rates, very much less, than the maximum efficiency
+  factor for black hole accretion (0.057 for no rotation; 0.42 for extreme Kerr rotation)
+  times the accretion rate, Mc2. Neutrino temperatures at the last stable orbit range
+  from 2 MeV (no rotation, slow accretion) to 13 MeV (Kerr geometry, rapid accretion),
+  and the density ranges from 109 to 1012 g cm-3. The efficiency for producing a pair
+  fireball along the rotational axis by neutrino annihilation is calculated and found
+  to be highly variable and very sensitive to the accretion rate. For some of the
+  higher accretion rates studied, it can be several percent or more; for accretion
+  rates less than 0.05 Msolar s-1, it is essentially zero. The efficiency of the Blandford-Znajek
+  mechanism in extracting rotational energy from the black hole is also estimated.
+  In light of these results, the viability of various gamma-ray burst models is discussed,
+  and the sensitivity of the results to disk viscosity, black hole rotation rate,
+  and black hole mass is explored. A diverse range of GRB energies seems unavoidable,
+  and neutrino annihilation in hyperaccreting black hole systems can explain bursts
+  of up to 1052 ergs. Larger energies can be inferred for beaming systems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...518..356P
+arxivurl: http://arxiv.org/abs/astro-ph/9807028
+author: Popham, R. and Woosley, S. E. and Fryer, C.
+author_list:
+- family: Popham
+  given: R.
+- family: Woosley
+  given: S. E.
+- family: Fryer
+  given: C.
+date-added: 2017-08-10 17:58:59 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307259
+eprint: astro-ph/9807028
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, BLACK HOLE PHYSICS, GAMMA RAYS: BURSTS, RADIATION
+  MECHANISMS: THERMAL, Accretion, Accretion Disks, Black Hole Physics, Gamma Rays:
+  Bursts, Radiation Mechanisms: Thermal'
+month: June
+pages: 356--374
+papis_id: 74bf3c15eb2c61e4561ce10b7c7e4643
+ref: popham.r.1999
+title: Hyperaccreting Black Holes and Gamma-Ray Bursts
+type: article
+volume: '518'
+year: '1999'

@@ -1,0 +1,43 @@
+abstract: Turbulence driven by magnetorotational instability (MRI) affects planetesimal
+  formation by inducing diffusion and collisional fragmentation of dust particles.
+  We examine conditions preferred for planetesimal formation in MRI-inactive "dead
+  zones" using an analytic dead-zone model based on our recent resistive MHD simulations.
+  We argue that successful planetesimal formation requires not only a sufficiently
+  large dead zone (which can be produced by tiny dust grains) but also a sufficiently
+  small net vertical magnetic flux (NVF). Although often ignored, the latter condition
+  is indeed important since the NVF strength determines the saturation level of turbulence
+  in MRI-active layers. We show that direct collisional formation of icy planetesimal
+  across the fragmentation barrier is possible when the NVF strength is lower than
+  10 mG (for the minimum-mass solar nebula model). Formation of rocky planetesimals
+  via the secular gravitational instability is also possible within a similar range
+  of the NVF strength. Our results indicate that the fate of planet formation largely
+  depends on how the NVF is radially transported in the initial disk formation and
+  subsequent disk accretion processes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...753L...8O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.6754
+author: Okuzumi, S. and Hirose, S.
+author_list:
+- family: Okuzumi
+  given: S.
+- family: Hirose
+  given: S.
+date-added: 2017-08-10 14:57:48 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/2041-8205/753/1/L8
+eid: L8
+eprint: '1205.6754'
+journal: \apjl
+keywords: 'dust, extinction, magnetic fields, magnetohydrodynamics, planets and satellites:
+  formation, protoplanetary disks, turbulence'
+month: July
+pages: L8
+papis_id: 82f5e016a61adea933f54be0c1b3bca9
+primaryclass: astro-ph.EP
+ref: okuzumi.s.2012
+title: 'Planetesimal Formation in Magnetorotationally Dead Zones: Critical Dependence
+  on the Net Vertical Magnetic Flux'
+type: article
+volume: '753'
+year: '2012'

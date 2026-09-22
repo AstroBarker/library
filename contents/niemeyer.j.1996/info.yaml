@@ -1,0 +1,49 @@
+abstract: A series of two-dimensional numerical simulations of explosive nuclear burning
+  is presented for white dwarfs near the Chandrasekhar mass. We assume that the burning
+  begins as a slow deflagration front at or near the center of the star and continues
+  until the density in the burning regions has declined to about 107 g cm-3, where
+  the flame is essentially extinguished. We employ a novel numerical representation
+  of the turbulent flame brush based upon ideas previously developed for modeling
+  laboratory combustion and explore in some detail the sensitivity of the outcome
+  to the manner in which burning is initiated. In particular, we simulate (1) a centrally
+  ignited deflagration, (2) off-center ignition at a single "point," and (3) simultaneous
+  off-center ignition at five "points." We find that the amount of 56Ni that is produced
+  and other observable properties depend sensitively upon how the fuel is ignited.  Because
+  of the immediate onset of buoyant acceleration, the burning region in models ignited
+  off center rises toward the surface more quickly than in the (commonly assumed)
+  case of central ignition. With the exception of the model that ignited off-center
+  at a single point, all models are unbound at the end of the computations, and between
+  0.59 Msun (central ignition) and 0.65 Msun (ignition at multiple "points") of matter
+  are processed into nuclear-burning products. These results would guarantee an observable,
+  though weak, Type Ia supernova. Our results are expected to change for simulations
+  in three dimensions, especially for the off-center ignitions discussed in this paper,
+  and late detonations driven by pulsations are not unambiguously excluded. We can,
+  however, state that the chances for a direct transition to a detonation appear small
+  because, in all our models, the turbulent velocity of the burning front remains
+  very subsonic.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...471..903N
+arxivurl: http://arxiv.org/abs/astro-ph/9605169
+author: Niemeyer, J. C. and Hillebrandt, W. and Woosley, S. E.
+author_list:
+- family: Niemeyer
+  given: J. C.
+- family: Hillebrandt
+  given: W.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-11 03:40:08 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/178017
+eprint: astro-ph/9605169
+journal: \apj
+keywords: 'NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: INTERIORS, STARS:
+  SUPERNOVAE: GENERAL'
+month: November
+pages: '903'
+papis_id: c410b97d29c19cc9e7b356c585fe9043
+ref: niemeyer.j.1996
+title: Off-Center Deflagrations in Chandrasekhar Mass Type IA Supernova Models
+type: article
+volume: '471'
+year: '1996'

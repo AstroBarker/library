@@ -1,0 +1,47 @@
+abstract: A variety of stellar sources have been proposed for the origin of the short-lived
+  radioisotopes that existed at the time of the formation of the earliest solar system
+  solids, including Type II supernovae (SNe), asymptotic giant branch (AGB) and super-AGB
+  stars, and Wolf-Rayet star winds. Our previous adaptive mesh hydrodynamics models
+  with the FLASH2.5 code have shown which combinations of shock wave parameters are
+  able to simultaneously trigger the gravitational collapse of a target dense cloud
+  core and inject significant amounts of shock wave gas and dust, showing that thin
+  SN shocks may be uniquely suited for the task. However, recent meteoritical studies
+  have weakened the case for a direct SN injection to the presolar cloud, motivating
+  us to re-examine a wider range of shock wave and cloud core parameters, including
+  rotation, in order to better estimate the injection efficiencies for a variety of
+  stellar sources. We find that SN shocks remain as the most promising stellar source,
+  though planetary nebulae resulting from AGB star evolution cannot be conclusively
+  ruled out. Wolf-Rayet (WR) star winds, however, are likely to lead to cloud core
+  shredding, rather than to collapse. Injection efficiencies can be increased when
+  the cloud is rotating about an axis aligned with the direction of the shock wave,
+  by as much as a factor of ~10. The amount of gas and dust accreted from the post-shock
+  wind can exceed that injected from the shock wave, with implications for the isotopic
+  abundances expected for a SN source.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...770...51B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.0249
+author: Boss, A. P. and Keiser, S. A.
+author_list:
+- family: Boss
+  given: A. P.
+- family: Keiser
+  given: S. A.
+date-added: 2017-08-10 19:55:27 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/770/1/51
+eid: '51'
+eprint: '1305.0249'
+journal: \apj
+keywords: 'hydrodynamics, ISM: supernova remnants, planetary nebulae: general, planets
+  and satellites: formation, protoplanetary disks, stars: formation'
+month: June
+pages: '51'
+papis_id: 475d5c3e84812e68b110d64788ad0358
+primaryclass: astro-ph.SR
+ref: boss.a.2013
+title: Triggering Collapse of the Presolar Dense Cloud Core and Injecting Short-lived
+  Radioisotopes with a Shock Wave. II. Varied Shock Wave and Cloud Core Parameters
+type: article
+volume: '770'
+year: '2013'

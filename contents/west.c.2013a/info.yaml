@@ -1,0 +1,49 @@
+abstract: We study the sensitivity of presupernova evolution and supernova nucleosynthesis
+  yields of massive stars to variations of the helium-burning reaction rates within
+  the range of their uncertainties. The current solar abundances from Lodders are
+  used for the initial stellar composition. We compute a grid of 12 initial stellar
+  masses and 176 models per stellar mass to explore the effects of independently varying
+  the 12C(alpha, gamma)16O and 3alpha reaction rates, denoted R alpha, 12 and R 3alpha,
+  respectively. The production factors of both the intermediate-mass elements (A =
+  16-40) and the s-only isotopes along the weak s-process path (70Ge, 76Se, 80Kr,
+  82Kr, 86Sr, and 87Sr) were found to be in reasonable agreement with predictions
+  for variations of R 3alpha and R alpha, 12 of \% the s-only isotopes, however, tend
+  to favor higher values of R 3alpha than the intermediate-mass isotopes. The experimental
+  uncertainty (one standard deviation) in R 3alpha(R alpha, 12) is approximately \\\%(\\\%).
+  The results show that a more accurate measurement of one of these rates would decrease
+  the uncertainty in the other as inferred from the present calculations. We also
+  observe sharp changes in production factors and standard deviations for small changes
+  in the reaction rates, due to differences in the convection structure of the star.
+  The compactness parameter was used to assess which models would likely explode as
+  successful supernovae, and hence contribute explosive nucleosynthesis yields. We
+  also provide the approximate remnant masses for each model and the carbon mass fractions
+  at the end of core-helium burning as a key parameter for later evolution stages.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769....2W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.5513
+author: West, C. and Heger, A. and Austin, S. M.
+author_list:
+- family: West
+  given: C.
+- family: Heger
+  given: A.
+- family: Austin
+  given: S. M.
+date-added: 2017-08-10 15:04:32 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/769/1/2
+eid: '2'
+eprint: '1212.5513'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, Sun: abundances, supernovae:
+  general'
+month: May
+pages: '2'
+papis_id: 4c0a06c35fcb9b4a9e8ba8b2be336ebb
+primaryclass: astro-ph.SR
+ref: west.c.2013a
+title: The Impact of Helium-burning Reaction Rates on Massive Star Evolution and Nucleosynthesis
+type: article
+volume: '769'
+year: '2013'

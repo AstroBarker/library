@@ -1,0 +1,81 @@
+abstract: We report the detection of a strong, organized magnetic field in the secondary
+  component of the massive O8III/I+O7.5V/III double-lined spectroscopic binary system
+  HD 47129 (Plaskett's star) in the context of the Magnetism in Massive Stars survey.
+  Eight independent Stokes V observations were acquired using the Echelle SpectroPolarimetric
+  Device for the Observations of Stars (ESPaDOnS) spectropolarimeter at the Canada-France-Hawaii
+  Telescope and the Narval spectropolarimeter at the T{\'e}lescope Bernard Lyot. Using
+  least-squares deconvolution we obtain definite detections of signal in Stokes V
+  in three observations. No significant signal is detected in the diagnostic null
+  (N) spectra. The Zeeman signatures are broad and track the radial velocity of the
+  secondary component; we therefore conclude that the rapidly rotating secondary component
+  is the magnetized star. Correcting the polarized spectra for the line and continuum
+  of the (sharp-lined) primary, we measured the longitudinal magnetic field from each
+  observation. The longitudinal field of the secondary is variable and exhibits extreme
+  values of -810 $\pm$ 150 and +680 \$\pm\$ 190 G, implying a minimum surface dipole
+  polar strength of 2850 \$\pm\$ 500 G. In contrast, we derive an upper limit (3sigma)
+  to the primary's surface magnetic field of 230 G. The combination of a strong magnetic
+  field and rapid rotation leads us to conclude that the secondary hosts a centrifugal
+  magnetosphere fed through a magnetically confined wind. We revisit the properties
+  of the optical line profiles and X-ray emission - previously interpreted as a consequence
+  of colliding stellar winds - in this context. We conclude that HD 47129 represents
+  a heretofore unique stellar system - a close, massive binary with a rapidly rotating,
+  magnetized component - that will be a rich target for further study.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.1686G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.6326
+author: 'Grunhut, J. H. and Wade, G. A. and Leutenegger, M. and Petit, V. and Rauw,
+  G. and Neiner, C. and Martins, F. and Cohen, D. H. and Gagné, M. and Ignace, R.
+  and Mathis, S. and de Mink, S. E. and Moffat, A. F. J. and Owocki, S. and Shultz,
+  M. and Sundqvist, J. and MiMeS Collaboration, '
+author_list:
+- family: Grunhut
+  given: J. H.
+- family: Wade
+  given: G. A.
+- family: Leutenegger
+  given: M.
+- family: Petit
+  given: V.
+- family: Rauw
+  given: G.
+- family: Neiner
+  given: C.
+- family: Martins
+  given: F.
+- family: Cohen
+  given: D. H.
+- family: Gagné
+  given: M.
+- family: Ignace
+  given: R.
+- family: Mathis
+  given: S.
+- family: de Mink
+  given: S. E.
+- family: Moffat
+  given: A. F. J.
+- family: Owocki
+  given: S.
+- family: Shultz
+  given: M.
+- family: Sundqvist
+  given: J.
+- family: MiMeS Collaboration
+  given: ''
+date-added: 2017-08-10 14:14:55 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts153
+eprint: '1209.6326'
+journal: \mnras
+keywords: 'stars: massive, stars: rotation'
+month: January
+pages: 1686--1695
+papis_id: 93cd1b74b68c1593e0d95cfc963942b0
+primaryclass: astro-ph.SR
+ref: grunhut.j.2013
+title: Discovery of a magnetic field in the rapidly rotating O-type secondary of the
+  colliding-wind binary HD 47129 (Plaskett's star)
+type: article
+volume: '428'
+year: '2013'

@@ -1,0 +1,36 @@
+abstract: A multigroup diffusion scheme is derived from the Boltzmann equation for
+  efficient numerical computation of neutrino transport in a collapsing stellar core.
+  This scheme treats all neutrino-scattering processes correctly with a Legendre expansion
+  of the scattering rates. Modifications of the diffusion coefficient and the addition
+  of a flux limiter extend the applicability of the scheme to neutrino-transparent
+  regimes and improve the agreement of the solution in both opaque and transparent
+  regimes with those obtained analytically for some test problems. In addition, a
+  more accurate treatment of the neutrino flow across shock discontinuities is developed
+  through a shock-matching condition. The solutions given by this multigroup flux-limited
+  diffusion scheme are compared with those of a modified SN code.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978Ap\%26SS..59..261B
+author: Bruenn, S. W. and Buchler, J. R. and Yueh, W. R.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: Buchler
+  given: J. R.
+- family: Yueh
+  given: W. R.
+date-added: 2017-08-10 19:41:37 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1007/BF01023919
+journal: \apss
+keywords: Neutrinos, Particle Diffusion, Stellar Models, Supernovae, Transport Properties,
+  Boltzmann Transport Equation, Diffusion Coefficient, Legendre Functions, Scattering
+  Functions, Shock Discontinuity
+month: December
+pages: 261--284
+papis_id: a41de0616fdfec4bb2fbb6f437048be6
+ref: bruenn.s.1978
+title: Neutrino transport in supernova models - A multigroup, flux limited diffusion
+  scheme
+type: article
+volume: '59'
+year: '1978'

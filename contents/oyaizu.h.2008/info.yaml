@@ -1,0 +1,50 @@
+abstract: We present and describe a catalog of galaxy photometric redshifts (photo-z's)
+  for the Sloan Digital Sky Survey (SDSS) Data Release 6 (DR6). We use the neural
+  network (NN) technique to calculate photo-z's and the nearest neighbor error (NNE)
+  method to estimate photo-z errors for ~77 million objects classified as galaxies
+  in DR6 with r < 22. The photo-z and photo-z error estimators are trained and validated
+  on a sample of ~640,000 galaxies that have SDSS photometry and spectroscopic redshifts
+  measured by SDSS, the Two Degree Field, the SDSS Luminous Red Galaxy and Quasi-stellar
+  Object Survey (2SLAQ), the Canada-France Redshift Survey (CFRS), the Canadian Network
+  for Observational Cosmology Field Galaxy Survey (CNOC2), the Team Keck Redshift
+  Survey (TKRS), the Deep Extragalactic Evolutionary Probe (DEEP), and DEEP2. For
+  the two best NN methods we have tried, we find that 68\% of the galaxies in the
+  validation set have a photo-z error smaller than sigma68 = 0.021 or 0.024. After
+  presenting our results and quality tests, we provide a short guide for users accessing
+  the public data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...674..768O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.0030
+author: Oyaizu, H. and Lima, M. and Cunha, C. E. and Lin, H. and Frieman, J. and Sheldon,
+  E. S.
+author_list:
+- family: Oyaizu
+  given: H.
+- family: Lima
+  given: M.
+- family: Cunha
+  given: C. E.
+- family: Lin
+  given: H.
+- family: Frieman
+  given: J.
+- family: Sheldon
+  given: E. S.
+date-added: 2017-08-10 17:15:49 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/523666
+eid: 768-783
+eprint: '0708.0030'
+journal: \apj
+keywords: 'catalogs, distance scale, galaxies: distances and redshifts, large-scale
+  structure of universe'
+month: February
+pages: 768--783
+papis_id: 0422f756879f2763ba21131777d0e795
+ref: oyaizu.h.2008
+title: A Galaxy Photometric Redshift Catalog for the Sloan Digital Sky Survey Data
+  Release 6
+type: article
+volume: '674'
+year: '2008'

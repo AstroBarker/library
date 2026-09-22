@@ -1,0 +1,71 @@
+abstract: 'Aims: We use the deepest existing mid- and far-infrared observations (reaching
+  ~3 mJy at 70 mum) obtained with Spitzer in the Great Observatories Origins Deep
+  Survey (GOODS) and Far Infrared Deep Extragalactic Legacy survey (FIDEL) fields
+  to derive the evolution of the rest-frame 15 mum, 35 mum, and total infrared luminosity
+  functions of galaxies spanning z<1.3. We thereby quantify the fractional contribution
+  of infrared luminous galaxies to the comoving star formation rate density over this
+  redshift range. In comparison with previous studies, the present one takes advantage
+  of deep 70 mum observations that provide a more robust infrared luminosity indicator
+  than 24 mum affected by the emission of PAHs at high redshift (z\texttildelow{}1),
+  and we use several independent fields to control cosmic variance.  Methods: We used
+  a new extraction technique based on the well-determined positions of galaxies at
+  shorter wavelengths to extract the 24 and 70 mum flux densities of galaxies. It
+  is found that sources separated by a minimum of 0.5 \texttimes{} FWHM are deblended
+  by this technique, which facilitates multi-wavelength associations of counterparts.
+  Using a combination of photometric and spectroscopic redshifts that exist for ~80\%
+  of the sources in our sample, we are able to estimate the rest-frame luminosities
+  of galaxies at 15 mum and 35 mum. By complementing direct detections with a careful
+  stacking analysis, we measured the mid- and far-infrared luminosity functions of
+  galaxies over a factor ~100 in luminosity (1011~L\&sun; <\texttildelow{} L\_IR <\texttildelow{}
+  1013~L\&sun;) at z<1.3. A stacking analysis was performed to validate the bolometric
+  corrections and to compute comoving star-formation rate densities in three redshift
+  bins 0.4<z<0.7, 0.7<z<1.0 and, 1.0<z<1.3.  Results: We find that the average infrared
+  spectral energy distribution of galaxies over the last 2/3 of the cosmic time is
+  consistent with that of local galaxies, although individual sources do present significant
+  scatter. We also measured both the bright and faint ends of the infrared luminosity
+  functions and find no evidence for a change in the slope of the double power law
+  used to characterize the luminosity function. The redshift evolution of infrared
+  luminous galaxies is consistent with pure luminosity evolution proportional to (1+z)3.6$\pm$.4
+  up to z\texttildelow{}1.3. We do not find evidence of differential evolution between
+  LIRGs and ULIRGs up to z\texttildelow{}1.3, in contrast with previous claims. The
+  comoving number density of infrared luminous galaxies has increased by a factor
+  of \texttildelow{}100 between 0<z<1. By z\texttildelow{}1.0, LIRGs produce half
+  of the total comoving infrared luminosity density.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...496...57M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.1543
+author: Magnelli, B. and Elbaz, D. and Chary, R. R. and Dickinson, M. and Le Borgne,
+  D. and Frayer, D. T. and Willmer, C. N. A.
+author_list:
+- family: Magnelli
+  given: B.
+- family: Elbaz
+  given: D.
+- family: Chary
+  given: R. R.
+- family: Dickinson
+  given: M.
+- family: Le Borgne
+  given: D.
+- family: Frayer
+  given: D. T.
+- family: Willmer
+  given: C. N. A.
+date-added: 2017-08-10 23:59:59 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1051/0004-6361:200811443
+eprint: '0901.1543'
+journal: \aap
+keywords: 'galaxies: evolution, infrared: galaxies, galaxies: starburst, cosmology:
+  observations'
+month: March
+pages: 57--75
+papis_id: f3782302015f82ef52aa1ccb4eb3c394
+primaryclass: astro-ph.CO
+ref: magnelli.b.2009
+title: The 0.4 $łt$ z \$łt\$ 1.3 star formation history of the Universe as viewed
+  in the far-infrared
+type: article
+volume: '496'
+year: '2009'

@@ -1,0 +1,31 @@
+abstract: This is the fifth paper in a series in which we construct and study the
+  so-called Runge-Kutta discontinuous Galerkin method for numerically solving hyperbolic
+  conservation laws. In this paper, we extend the method to multidimensional nonlinear
+  systems of conservation laws. The algorithms are described and discussed, including
+  algorithm formulation and practical implementation issues such as the numerical
+  fluxes, quadrature rules, degrees of freedom, and the slope limiters, both in the
+  triangular and the rectangular element cases. Numerical experiments for two-dimensional
+  Euler equations of compressible gas dynamics are presented that show the effect
+  of the (formal) order of accuracy and the use of triangles or rectangles on the
+  quality of the approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998JCoPh.141..199C
+author: Cockburn, B. and Shu, C.-W.
+author_list:
+- family: Cockburn
+  given: B.
+- family: Shu
+  given: C.-W.
+date-added: 2018-04-04 14:25:20 +0000
+date-modified: 2018-04-04 14:25:20 +0000
+doi: 10.1006/jcph.1998.5892
+journal: Journal of Computational Physics
+month: April
+pages: 199--224
+papis_id: c0f156eaef75319f08d6943e09965105
+ref: cockburn.b.1998
+title: The Runge-Kutta Discontinuous Galerkin Method for Conservation Laws V. Multidimensional
+  Systems
+type: article
+volume: '141'
+year: '1998'

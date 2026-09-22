@@ -1,0 +1,36 @@
+abstract: 'There were several errors in Tables 1, and 3. The corrections are as follows:
+  1. In Tables 2 and 3, the 10\% error in uncertainty of the calculated level lifetime
+  of R. Kurucz was not included in the value for the uncertainty of A, the transition
+  probability. The tables have been corrected adding this 10\% error in quadrature
+  to the uncertainty in A. 2. The line identifications in this paper were taken from
+  the work of Zapadlik et al. (2000). The authors made an error in taking these identifications
+  from Zapadlik et al. for the level at 32767 cm-1, resulting in errors in calculation
+  of branching fractions for this level. These have now been corrected in Table 1.
+  3. The comparison values of Bizzarri et al. (1993) had been omitted in some cases
+  in Tables 1, 2, and 3. These have now been included. Tables 1, 2, and 3 are published
+  in their entirety in the electronic version of the Astrophysical Journal Supplement.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJS..138..247P
+author: Pickering, J. C. and Thorne, A. P. and Perez, R.
+author_list:
+- family: Pickering
+  given: J. C.
+- family: Thorne
+  given: A. P.
+- family: Perez
+  given: R.
+date-added: 2017-08-10 23:15:41 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/323910
+journal: \apjs
+keywords: Errata, Addenda
+month: January
+pages: 247--248
+papis_id: 4ca9b6183bdc11aae6e95ca9749dd8e9
+ref: pickering.j.2002
+title: 'Erratum: ``Oscillator Strengths of Transitions in Ti II in the Visible and
+  Ultraviolet Regions'''' (<A href=``bib_query?2001ApJS...132..403P''''>ApJS, 132,
+  403 [2001]</A>)'
+type: article
+volume: '138'
+year: '2002'

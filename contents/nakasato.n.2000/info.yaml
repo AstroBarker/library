@@ -1,0 +1,39 @@
+abstract: The long-term evolution of supernova (SN) remnants in the primordial interstellar
+  medium (ISM) with an inhomogeneous structure is calculated to investigate metal
+  enrichment of the primordial gas. For this purpose, we have constructed a parallel
+  three-dimensional hydrodynamics code incorporating the radiative cooling and self-gravity.
+  The self-gravity and radiative cooling develop the inhomogeneous structure of the
+  ISM from a small perturbation with a power-law spectrum. The resultant density ranges
+  from 0.5 to 106 cm -3. Calculations for an SN with the progenitor mass of 20 Msolar
+  are performed as the first step of a series of our study. It is found from the results
+  that a single SN distributes some of the newly synthesized heavy elements into a
+  dense filament of the ISM with densities ranging from 100 to 104 cm-3 depending
+  on where the SN explodes. Thus, the metallicity [Mg/H] of the dense filaments polluted
+  by the SN ejecta becomes -2.7 +/- 0.5. From these filaments, the first Population
+  II stars will form. This value is in accordance with previous analytical work by
+  Shigeyama \& Tsujimoto with an accuracy of ~0.3 dex.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...541L..59N
+arxivurl: http://arxiv.org/abs/astro-ph/0007440
+author: Nakasato, N. and Shigeyama, T.
+author_list:
+- family: Nakasato
+  given: N.
+- family: Shigeyama
+  given: T.
+date-added: 2017-08-11 05:19:57 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/312901
+eprint: astro-ph/0007440
+journal: \apjl
+keywords: 'Galaxies: ISM, Hydrodynamics, ISM: Abundances, ISM: Structure, Methods:
+  Numerical, ISM: Supernova Remnants'
+month: October
+pages: L59-L62
+papis_id: fc86823c84732a6bdd35223a22e5a50b
+ref: nakasato.n.2000
+title: Metal Enrichment of the Primordial Interstellar Medium through Three-dimensional
+  Hydrodynamical Evolution of the First Supernova Remnant
+type: article
+volume: '541'
+year: '2000'

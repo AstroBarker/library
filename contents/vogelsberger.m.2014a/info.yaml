@@ -1,0 +1,51 @@
+abstract: Previous simulations of the growth of cosmic structures have broadly reproduced
+  the `cosmic web' of galaxies that we see in the Universe, but failed to create a
+  mixed population of elliptical and spiral galaxies, because of numerical inaccuracies
+  and incomplete physical models. Moreover, they were unable to track the small-scale
+  evolution of gas and stars to the present epoch within a representative portion
+  of the Universe. Here we report a simulation that starts 12 million years after
+  the Big Bang, and traces 13 billion years of cosmic evolution with 12 billion resolution
+  elements in a cube of 106.5 megaparsecs a side. It yields a reasonable population
+  of ellipticals and spirals, reproduces the observed distribution of galaxies in
+  clusters and characteristics of hydrogen on large scales, and at the same time matches
+  the `metal' and hydrogen content of galaxies on small scales.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014Natur.509..177V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1405.1418
+author: Vogelsberger, M. and Genel, S. and Springel, V. and Torrey, P. and Sijacki,
+  D. and Xu, D. and Snyder, G. and Bird, S. and Nelson, D. and Hernquist, L.
+author_list:
+- family: Vogelsberger
+  given: M.
+- family: Genel
+  given: S.
+- family: Springel
+  given: V.
+- family: Torrey
+  given: P.
+- family: Sijacki
+  given: D.
+- family: Xu
+  given: D.
+- family: Snyder
+  given: G.
+- family: Bird
+  given: S.
+- family: Nelson
+  given: D.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:25:09 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1038/nature13316
+eprint: '1405.1418'
+journal: \nat
+month: May
+pages: 177--182
+papis_id: 7df0942eaf916905b6246e747c982e48
+ref: vogelsberger.m.2014a
+title: Properties of galaxies reproduced by a hydrodynamic simulation
+type: article
+volume: '509'
+year: '2014'

@@ -1,0 +1,48 @@
+abstract: Two-dimensional (2D) hydrodynamical simulations of progenitor evolution
+  of a 23 M sun star, close to core collapse (in ~1 hr in one dimension (1D)), with
+  simultaneously active C, Ne, O, and Si burning shells, are presented and contrasted
+  to existing 1D models (which are forced to be quasi-static). Pronounced asymmetries
+  and strong dynamical interactions between shells are seen in 2D. Although instigated
+  by turbulence, the dynamic behavior proceeds to sufficiently large amplitudes that
+  it couples to the nuclear burning. Dramatic growth of low-order modes is seen as
+  well as large deviations from spherical symmetry in the burning shells. The vigorous
+  dynamics is more violent than that seen in earlier burning stages in the three-dimensional
+  (3D) simulations of a single cell in the oxygen burning shell, or in 2D simulations
+  not including an active Si shell. Linear perturbative analysis does not capture
+  the chaotic behavior of turbulence (e.g., strange attractors such as that discovered
+  by Lorenz), and therefore badly underestimates the vigor of the instability. The
+  limitations of 1D and 2D models are discussed in detail. The 2D models, although
+  flawed geometrically, represent a more realistic treatment of the relevant dynamics
+  than existing 1D models, and present a dramatically different view of the stages
+  of evolution prior to collapse. Implications for interpretation of SN1987A, abundances
+  in young supernova remnants, pre-collapse outbursts, progenitor structure, neutron
+  star kicks, and fallback are outlined. While 2D simulations provide new qualitative
+  insight, fully 3D simulations are needed for a quantitative understanding of this
+  stage of stellar evolution. The necessary properties of such simulations are delineated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...733...78A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.5646
+author: Arnett, W. D. and Meakin, C.
+author_list:
+- family: Arnett
+  given: W. D.
+- family: Meakin
+  given: C.
+date-added: 2017-08-10 15:13:05 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/733/2/78
+eid: '78'
+eprint: '1101.5646'
+journal: \apj
+keywords: 'convection, hydrodynamics, nuclear reactions, nucleosynthesis, abundances,
+  stars: massive, supernovae: general, turbulence'
+month: June
+pages: '78'
+papis_id: 69f7adcb3e751a68c2a50e596e3ba4ac
+primaryclass: astro-ph.SR
+ref: arnett.w.2011
+title: Toward Realistic Progenitors of Core-collapse Supernovae
+type: article
+volume: '733'
+year: '2011'

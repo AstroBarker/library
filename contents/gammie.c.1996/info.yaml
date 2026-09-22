@@ -1,0 +1,33 @@
+abstract: We put forward a model for accretion disks around T Tauri stars. The model
+  assumes that angular momentum transport is driven by magnetic fields and can occur
+  only in those parts of the disk that are sufficiently ionized that the gas can couple
+  to the magnetic field. These regions lie at R \lessequivlnt{} 0.1 AU, where collisional
+  ionization is effective, and at R \lessequivlnt{} 0.1 AU in a layer of thickness
+  \approx{} 100 g cm-2 at the surface of the disk where cosmic-ray ionization is effective.  The
+  model predicts that the stellar accretion rate is about 10-8 Msun yr-1, independent
+  of the rate of infall onto the disk. Matter that is not accreted onto the star accumulates
+  in the inner few AU of the disk at a rate of about 10-3 Msun in 104 yr. Given this
+  buildup it is unlikely that accretion is steady. The effective temperature profile
+  is Te \texttildelow{} r-1/2 outside of 0.1 AU, which differs from the canonical
+  Te \texttildelow{} r-3/4. We calculate the expected spectral energy distribution
+  for the disk and show that this temperature profile produces an infrared excess.
+  Finally, we discuss some of the leading uncertainties in the theory.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...457..355G
+author: Gammie, C. F.
+author_list:
+- family: Gammie
+  given: C. F.
+date-added: 2017-08-10 14:53:53 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176735
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, STARS: MAGNETIC FIELDS, STARS: PRE-MAIN-SEQUENCE'
+month: January
+pages: '355'
+papis_id: 6ad130a59bddd4cf886b354d0df59063
+ref: gammie.c.1996
+title: Layered Accretion in T Tauri Disks
+type: article
+volume: '457'
+year: '1996'

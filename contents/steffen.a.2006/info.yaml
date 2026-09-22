@@ -1,0 +1,59 @@
+abstract: We present partial-correlation analyses that examine the strengths of the
+  relationships between l2500{\AA}, l2keV, alphaOX, and redshift for optically selected
+  active galactic nuclei (AGNs). We extend the work of Strateva and coworkers, which
+  analyzed optically selected AGNs from the Sloan Digital Sky Survey (SDSS), by including
+  52 moderate-luminosity, optically selected AGNs from the COMBO-17 survey with corresponding
+  deep (~250 ks to 1 Ms) X-ray observations from the Extended  Chandra Deep Field-South.
+  The COMBO-17 survey extends ~3 mag deeper than the SDSS and probes the moderate-luminosity
+  AGNs that numerically dominate the AGN population in the universe. We also include
+  recently published observations of 19 high-redshift, optically selected AGNs and
+  46 luminous, low-redshift AGNs from the Bright Quasar Survey. The full sample used
+  in our analysis consists of 333 AGNs, extending out to z~6, with 293 (88\%) having
+  X-ray detections. The sample spans five decades in UV luminosity and four decades
+  in X-ray luminosity. We confirm that alphaOX is strongly anticorrelated with l2500{\AA}
+  (13.6 sigma), the highest significance found for this relation to date, and find
+  evidence suggesting that the slope of this relation may be dependent on l2500{\AA}.
+  We find that no significant correlation exists between alphaOX and redshift (1.3
+  sigma) and constrain the maximum evolution of AGN UV-to-X-ray flux ratios to be
+  less than 30\% (1 sigma) out to z=5. Using our sample's high X-ray detection fraction,
+  we also find a significant anticorrelation (3.0 sigma) between alphaOX and l2keV.
+  We make comparisons to earlier studies on this topic and discuss implications for
+  X-ray and optical AGN luminosity functions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006AJ....131.2826S
+arxivurl: http://arxiv.org/abs/astro-ph/0602407
+author: Steffen, A. T. and Strateva, I. and Brandt, W. N. and Alexander, D. M. and
+  Koekemoer, A. M. and Lehmer, B. D. and Schneider, D. P. and Vignali, C.
+author_list:
+- family: Steffen
+  given: A. T.
+- family: Strateva
+  given: I.
+- family: Brandt
+  given: W. N.
+- family: Alexander
+  given: D. M.
+- family: Koekemoer
+  given: A. M.
+- family: Lehmer
+  given: B. D.
+- family: Schneider
+  given: D. P.
+- family: Vignali
+  given: C.
+date-added: 2017-08-11 06:24:18 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/503627
+eprint: astro-ph/0602407
+journal: \aj
+keywords: 'Galaxies: Active, Galaxies: Evolution, Galaxies: Nuclei, Methods: Statistical,
+  Ultraviolet: Galaxies, X-Rays: Galaxies'
+month: June
+pages: 2826--2842
+papis_id: a22f9b6c69e08d169d3ae66312430584
+ref: steffen.a.2006
+title: The X-Ray-to-Optical Properties of Optically Selected Active Galaxies over
+  Wide Luminosity and Redshift Ranges
+type: article
+volume: '131'
+year: '2006'

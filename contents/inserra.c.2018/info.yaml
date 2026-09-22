@@ -1,0 +1,53 @@
+abstract: We investigate the identification of hydrogen-poor superluminous supernovae
+  (SLSNe I) using a photometric analysis, without including an arbitrary magnitude
+  threshold. We assemble a homogeneous sample of previously classified SLSNe I from
+  the literature, and fit their light curves using Gaussian processes. From the fits,
+  we identify four photometric parameters that have a high statistical significance
+  when correlated, and combine them in a parameter space that conveys information
+  on their luminosity and color evolution. This parameter space presents a new definition
+  for SLSNe I, which can be used to analyze existing and future transient data sets.
+  We find that 90\% of previously classified SLSNe I meet our new definition. We also
+  examine the evidence for two subclasses of SLSNe I, combining their photometric
+  evolution with spectroscopic information, namely the photospheric velocity and its
+  gradient. A cluster analysis reveals the presence of two distinct groups. ``Fast''
+  SLSNe show fast light curves and color evolution, large velocities, and a large
+  velocity gradient. ``Slow'' SLSNe show slow light curve and color evolution, small
+  expansion velocities, and an almost non-existent velocity gradient. Finally, we
+  discuss the impact of our analyses in the understanding of the powering engine of
+  SLSNe, and their implementation as cosmological probes in current and future surveys.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...854..175I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1711.03787
+author: Inserra, C. and Prajs, S. and Gutierrez, C. P. and Angus, C. and Smith, M.
+  and Sullivan, M.
+author_list:
+- family: Inserra
+  given: C.
+- family: Prajs
+  given: S.
+- family: Gutierrez
+  given: C. P.
+- family: Angus
+  given: C.
+- family: Smith
+  given: M.
+- family: Sullivan
+  given: M.
+date-added: 2018-04-25 23:33:10 +0000
+date-modified: 2018-04-25 23:33:11 +0000
+doi: 10.3847/1538-4357/aaaaaa
+eid: '175'
+eprint: '1711.03787'
+journal: \apj
+keywords: 'methods: data analysis, supernovae: general, surveys'
+month: February
+pages: '175'
+papis_id: 69da4030a7c4aa1b6d8b9c5edeb78ff1
+primaryclass: astro-ph.HE
+ref: inserra.c.2018
+title: A Statistical Approach to Identify Superluminous Supernovae and Probe Their
+  Diversity
+type: article
+volume: '854'
+year: '2018'

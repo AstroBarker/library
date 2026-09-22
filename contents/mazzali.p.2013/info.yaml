@@ -1,0 +1,62 @@
+abstract: 'SN 2010ah, a very broad-lined Type Ic supernova (SN) discovered by the
+  Palomar Transient Factory, was interesting because of its relatively high luminosity
+  and the high velocity of the absorption lines, which was comparable to that of gamma-ray
+  burst (GRB)/SNe, suggesting a high explosion kinetic energy. However, no GRB was
+  detected in association with the SN. Here, the properties of SN 2010ah are determined
+  with higher accuracy than previous studies through modelling. New Subaru telescope
+  photometry is presented. A bolometric light curve is constructed taking advantage
+  of the spectral similarity with SN 1998bw. Radiation transport tools are used to
+  reproduce the spectra and the light curve. The results thus obtained regarding ejecta
+  mass, composition and kinetic energy are then used to compute a synthetic light
+  curve. This is in reasonable agreement with the early bolometric light curve of
+  SN 2010ah, but a high abundance of 56Ni at high velocity is required to reproduce
+  the early rise, while a dense inner core must be used to reproduce the slow decline
+  at late phases. The high-velocity 56Ni cannot have been located on our line of sight,
+  which may be indirect evidence for an off-axis, aspherical explosion. The main properties
+  of SN 2010ah are: ejected mass Mej \approx{} 3 M\&sun;; kinetic energy Ekin \approx{}
+  1052 erg, M(56Ni) \approx{} 0.25 M\&sun;. The mass located at v \greaterequivlnt{}
+  0.1 c is \texttildelow{}0.2 M\&sun;. Although these values, in particular the Ekin,
+  are quite large for a Type Ic SN, they are all smaller (especially Mej) than those
+  typical of GRB/SNe. This confirms the tendency for these quantities to correlate,
+  and suggests that there are minimum requirements for a GRB/SN, which SN 2010ah may
+  not meet although it comes quite close. Depending on whether a neutron star or a
+  black hole was formed following core collapse, SN 2010ah was the explosion of a
+  CO core of \texttildelow{}5 to 6 M\&sun;, pointing to a progenitor mass of \texttildelow{}24-28
+  M\&sun;.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.432.2463M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.1801
+author: Mazzali, P. A. and Walker, E. S. and Pian, E. and Tanaka, M. and Corsi, A.
+  and Hattori, T. and Gal-Yam, A.
+author_list:
+- family: Mazzali
+  given: P. A.
+- family: Walker
+  given: E. S.
+- family: Pian
+  given: E.
+- family: Tanaka
+  given: M.
+- family: Corsi
+  given: A.
+- family: Hattori
+  given: T.
+- family: Gal-Yam
+  given: A.
+date-added: 2017-08-10 16:55:21 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1093/mnras/stt605
+eprint: '1305.1801'
+journal: \mnras
+keywords: 'radiation mechanisms: thermal, supernovae: general, supernovae: individual:
+  SN 2010ah'
+month: July
+pages: 2463--2473
+papis_id: 5296e5bede2d177c18e7352fb6bd1030
+ref: mazzali.p.2013
+title: The very energetic, broad-lined Type Ic supernova 2010ah (PTF10bzf) in the
+  context of GRB/SNe
+type: article
+volume: '432'
+year: '2013'

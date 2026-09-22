@@ -1,0 +1,47 @@
+abstract: 'Context. The Moon has a tenuous exosphere consisting of atoms that are
+  ejected from the surface by energetic processes, including hypervelocity micrometeoritic
+  impacts, photon-stimulated desorption by UV radiation, and ion sputtering.  Aims:
+  We calculate the vapor and neutral Na production rates on the Moon caused by impacts
+  of meteoroids in the radius range of 5-100 mum. We considered a previously published
+  dynamical model to compute the flux of meteoroids at the heliocentric distance of
+  the Moon.  Methods: The orbital evolution of dust particles of different sizes is
+  computed with an N-body numerical code. It includes the effects of Poynting-Robertson
+  drag, solar wind drag, and planetary perturbations. The vapor production rate and
+  the number of neutral atoms released in the exosphere of the Moon are computed with
+  a well-established formulation.  Results: The result shows that the neutral Na production
+  rate computed following our model is higher than previous estimates. This difference
+  can be due to the dynamical evolution model that we used to compute the flux and
+  also to the mean velocity, which is 15.3 km s-1 instead of 12.75 km s-1 as reported
+  in literature.  Conclusions: Until now, the micrometeoritic impacts have been considered
+  a negligible source for the release of neutral sodium atoms into the exosphere compared
+  to other mechanisms, but according to our calculations, the contribution may be
+  8\% of the photo-stimulated desorption at the subsolar point, becoming similar in
+  the dawn and dusk regions and dominant on the night side.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...551A..27C
+author: Cremonese, G. and Borin, P. and Lucchetti, A. and Marzari, F. and Bruno, M.
+author_list:
+- family: Cremonese
+  given: G.
+- family: Borin
+  given: P.
+- family: Lucchetti
+  given: A.
+- family: Marzari
+  given: F.
+- family: Bruno
+  given: M.
+date-added: 2017-08-11 07:53:03 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1051/0004-6361/201220541
+eid: A27
+journal: \aap
+keywords: 'methods: statistical, meteorites, meteors, meteoroids, Moon'
+month: March
+pages: A27
+papis_id: f50a0e62725c1ff0a2c2cb4492bb0546
+ref: cremonese.g.2013
+title: Micrometeoroids flux on the Moon
+type: article
+volume: '551'
+year: '2013'

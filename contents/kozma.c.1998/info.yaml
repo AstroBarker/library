@@ -1,0 +1,59 @@
+abstract: Using the temperature and ionization calculated in our previous paper, we
+  model the spectral evolution of SN 1987A. We find that the temperature evolution
+  is directly reflected in the time evolution of the lines. In particular, the IR
+  catastrophe is seen in the metal lines as a transition from thermal to nonthermal
+  excitation, seen most clearly in the [O I] lambdalambda6300, 6364 lines. The good
+  agreement with observations clearly confirms the predicted optical to IR transition.
+  Because the line emissivity is independent of temperature in the nonthermal phase,
+  this phase has a strong potential for estimating the total mass of the most abundant
+  elements. The hydrogen lines arise as a result of recombinations following ionizations
+  in the Balmer continuum during the first ~500 days and later as a result of nonthermal
+  ionizations.  The distribution of the different zones, and therefore the gamma-ray
+  deposition, is determined from the line profiles of the most important lines, where
+  possible. We find that hydrogen extends into the core to <~700 km s-1. The hydrogen
+  envelope has a density profile close to rho ~ V-2 from 2000-5000 km s-1. The total
+  mass of hydrogen-rich gas is ~7.7 M\&sun;, of which ~2.2 M\&sun; is mixed within
+  2000 km s-1. The helium mass derived from the line fluxes is sensitive to assumptions
+  about the degree of redistribution in the line. The mass of the helium-dominated
+  zone is consistent with ~1.9 M\&sun;, with a further ~3.9 M\&sun; of helium residing
+  in the hydrogen component. Most of the oxygen-rich gas is confined to 400-2000 km
+  s-1, with a total mass of ~1.9 M\&sun;. Because of uncertainties in the modeling
+  of the nonthermal excitation of the [O I] lines, the uncertainty in the estimated
+  oxygen mass is considerable. Masses of nitrogen, neon, magnesium, iron, and nickel
+  are also estimated.  The dominant contribution to the line luminosity often originates
+  in a different zone from that in which most of the newly synthesized material resides.
+  This applies to, e.g., carbon, calcium, and iron. The [C I] lines, arising mainly
+  in the helium zone, indicate a substantially lower abundance of carbon mixed with
+  helium than given by stellar evolution models, and a more extended zone with CNO-processed
+  gas is also indicated. The [Fe II] lines have in most phases a strong contribution
+  from primordial iron, and at t >~ 600-800 days this component dominates the [Fe
+  II] lines. The wings of the [Fe II] lines may therefore come from primordial iron
+  rather than synthesized iron mixed to high velocity. Lines from ions with low ionization
+  potentials indicate that the UV field below at least 1600 {\AA} is severely quenched
+  by dust absorption and resonance scattering.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...497..431K
+arxivurl: http://arxiv.org/abs/astro-ph/9712224
+author: Kozma, C. and Fransson, C.
+author_list:
+- family: Kozma
+  given: C.
+- family: Fransson
+  given: C.
+date-added: 2017-08-10 21:17:11 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305452
+eprint: astro-ph/9712224
+journal: \apj
+keywords: 'LINE FORMATION, STARS: ABUNDANCES, STARS: EVOLUTION, STARS: INTERIORS,
+  STARS: SUPERNOVAE: INDIVIDUAL ALPHANUMERIC: SN 1987A, Line: Formation, Nuclear Reactions,
+  Nucleosynthesis, Abundances, Stars: Abundances, Stars: Evolution, Stars: Interiors,
+  Stars: Supernovae: Individual: Alphanumeric: SN 1987A'
+month: April
+pages: 431--457
+papis_id: 749bd1718f9c6ed0efdaf4f749eb867b
+ref: kozma.c.1998
+title: Late Spectral Evolution of SN 1987A. II. Line Emission
+type: article
+volume: '497'
+year: '1998'

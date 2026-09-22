@@ -1,0 +1,35 @@
+abstract: Local characteristic decomposition (LCD) is widely used in high-order numerical
+  methods for hyperbolic systems of conservation laws to reduce spurious oscillations
+  appearing in the computed solutions. The LCD implementation requires a representative
+  average interface state, typically obtained using arithmetic or Roe-type averages
+  of the nearly grid values. We propose an entropy-based LCD (ELCD), in which the
+  states in the two cells adjacent to an interface are considered together with several
+  nearby states in phase space. Among these candidates, we select the state that locally
+  minimizes the entropy and use it as an average interface state for linearizing the
+  flux Jacobian. We incorporate the ELCD into several second-order finite-volume and
+  fifth-order finite-difference schemes. Numerical experiments for the two-dimensional
+  Euler equations of gas dynamics show that the schemes, which utilize the ELCD procedure
+  generally resolve complex wave structures more sharply than their counterparts,
+  which use the arithmetic averages.
+author: Chu, Shaoshuai and Herty, Michael and Kurganov, Alexander
+author_list:
+- family: Chu
+  given: Shaoshuai
+- family: Herty
+  given: Michael
+- family: Kurganov
+  given: Alexander
+doc_url: https://arxiv.org/pdf/2609.19838v1
+eprint: 2609.19838v1
+eprintclass: math.NA
+eprinttype: arxiv
+files:
+- chu-shaoshuai-2026.pdf
+month: 9
+papis_id: 186a143f57d841d38c1c60db19a883fa
+ref: chu.shaoshuai.2026
+time-added: 2026-09-20-23:08:53
+title: Entropy-Based Local Characteristic Decomposition
+type: article
+url: http://arxiv.org/abs/2609.19838v1
+year: 2026

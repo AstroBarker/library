@@ -1,0 +1,50 @@
+abstract: We obtain the general forms of the axisymmetric stability criteria in a
+  magnetized compressible Couette flow using an energy variational principle, the
+  so-called interchange or Chandrasekhar's method, which we applied successfully in
+  the incompressible case. This formulation accounts for the simultaneous presence
+  of gravity, rotation, a toroidal magnetic field, a weak axial magnetic field, entropy
+  gradients, and density gradients in the initial equilibrium state. The power of
+  the method lies in its simplicity, which allows us to derive extremely compact and
+  physically clear expressions for the relevant stability criteria despite the inclusion
+  of so many physical effects. In the implementation of the method, all the applicable
+  conservation laws are explicitly taken into account during the variations of a quantity
+  with dimensions of energy that we call the ``free-energy function.'' As in the incompressible
+  case, the presence of an axial field invalidates the conservation laws of angular
+  momentum and azimuthal magnetic flux and introduces instead isorotation and axial
+  current conservation along field lines. Our results are therefore markedly different
+  depending on whether an axial magnetic field is present, and they generalize in
+  two simple expressions all previously known, partial stability criteria for the
+  appearance of magnetorotational instability. Furthermore, the coupling between magnetic
+  tension and buoyancy and its influence to the dynamics of nonhomoentropic magnetized
+  flows become quite clear from our results. In the limits of plane-parallel atmospheres
+  and homoentropic flows, our formulation easily recovers the stability criteria for
+  suppression of convective and Parker instabilities, as well as some related special
+  cases studied over 40 years ago by Newcomb and Tserkovnikov via laborious variational
+  techniques.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...586..372C
+arxivurl: http://arxiv.org/abs/astro-ph/0211511
+author: Christodoulou, D. M. and Contopoulos, J. and Kazanas, D.
+author_list:
+- family: Christodoulou
+  given: D. M.
+- family: Contopoulos
+  given: J.
+- family: Kazanas
+  given: D.
+date-added: 2017-08-11 00:29:47 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/367615
+eprint: astro-ph/0211511
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Hydrodynamics, Instabilities, Magnetohydrodynamics:
+  MHD, Stars: Magnetic Fields, Stars: Mass Loss'
+month: March
+pages: 372--383
+papis_id: 73f47290e528b4f2cb0b91c4b6d58b69
+ref: christodoulou.d.2003
+title: 'Interchange Method in Compressible Magnetized Couette Flow: Magnetorotational
+  and Magnetoconvective Instabilities'
+type: article
+volume: '586'
+year: '2003'

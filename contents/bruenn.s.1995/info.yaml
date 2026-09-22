@@ -1,0 +1,35 @@
+abstract: The instabilities that are believed to play an important role in the supernova
+  mechanism are reviewed. We then investigate the dynamics of two of these instabilities,
+  prompt convection and neutron fingers, and its consequences for the supernova outcome.
+  We find that prompt convection occurs immediately after shock propagation and is
+  primarily entropy driven. A number of detailed one-dimensional spherically symmetric
+  simulations of prompt convection are performed using a mixing length algorithm in
+  a code coupling the core hydrodynamics with multigroup flux-limited diffusion of
+  neutrinos of all types. We find that prompt convection does not have a significant
+  effect on the neutrino luminosities or spectra and, furthermore, that the core is
+  not amenable to shock revival at this time. Consequently, we do not find that prompt
+  convection is important for the supernova mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995PhR...256...69B
+author: Bruenn, S. W. and Mezzacappa, A. and Dineva, T.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: Mezzacappa
+  given: A.
+- family: Dineva
+  given: T.
+date-added: 2017-08-10 13:57:11 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1016/0370-1573(94)00102-9
+journal: \physrep
+keywords: 'Supernovae: Neutrinos, Supernovae: Stellar Evolution, Supernovae: Core
+  Collapse'
+month: May
+pages: 69--94
+papis_id: ee567cc2b644264f822d38966bf54323
+ref: bruenn.s.1995
+title: Dynamic and diffusive instabilities in core collapse supernovae.
+type: article
+volume: '256'
+year: '1995'

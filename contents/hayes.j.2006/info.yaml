@@ -1,0 +1,62 @@
+abstract: This paper describes ZEUS-MP, a multiphysics, massively parallel, message-passing
+  implementation of the ZEUS code. ZEUS-MP differs significantly from the thoroughly
+  documented ZEUS-2D code, the completely undocumented (in peer-reviewed literature)
+  ZEUS-3D code, and a marginally documented ``version 1'' of ZEUS-MP first distributed
+  publicly in 1999. ZEUS-MP offers an MHD algorithm that is better suited for multidimensional
+  flows than the ZEUS-2D module by virtue of modifications to the method of characteristics
+  scheme first suggested by Hawley \& Stone. This MHD module is shown to compare quite
+  favorably to the TVD scheme described by Ryu et al. ZEUS-MP is the first publicly
+  available ZEUS code to allow the advection of multiple chemical (or nuclear) species.
+  Radiation hydrodynamic simulations are enabled via an implicit flux-limited radiation
+  diffusion (FLD) module. The hydrodynamic, MHD, and FLD modules can be used, singly
+  or in concert, in one, two, or three space dimensions. In addition, so-called 1.5D
+  and 2.5D grids, in which the ``half-D'' denotes a symmetry axis along which a constant
+  but nonzero value of velocity or magnetic field is evolved, are supported. Self-gravity
+  can be included either through the assumption of a GM/r potential or through a solution
+  of Poisson's equation using one of three linear solver packages (conjugate gradient,
+  multigrid, and FFT) provided for that purpose. Point-mass potentials are also supported.
+  Because ZEUS-MP is designed for large simulations on parallel computing platforms,
+  considerable attention is paid to the parallel performance characteristics of each
+  module in the code. Strong-scaling tests involving pure hydrodynamics (with and
+  without self-gravity), MHD, and RHD are performed in which large problems (2563
+  zones) are distributed among as many as 1024 processors of an IBM SP3. Parallel
+  efficiency is a strong function of the amount of communication required between
+  processors in a given algorithm, but all modules are shown to scale well on up to
+  1024 processors for the chosen fixed problem size.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..165..188H
+arxivurl: http://arxiv.org/abs/astro-ph/0511545
+author: Hayes, J. C. and Norman, M. L. and Fiedler, R. A. and Bordner, J. O. and Li,
+  P. S. and Clark, S. E. and ud-Doula, A. and Mac Low, M.-M.
+author_list:
+- family: Hayes
+  given: J. C.
+- family: Norman
+  given: M. L.
+- family: Fiedler
+  given: R. A.
+- family: Bordner
+  given: J. O.
+- family: Li
+  given: P. S.
+- family: Clark
+  given: S. E.
+- family: ud-Doula
+  given: A.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-10 14:40:43 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/504594
+eprint: astro-ph/0511545
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Magnetohydrodynamics: MHD, Radiative
+  Transfer'
+month: July
+pages: 188--228
+papis_id: 30e0119ec2ca62c72a66ac401400a715
+ref: hayes.j.2006
+title: Simulating Radiating and Magnetized Flows in Multiple Dimensions with ZEUS-MP
+type: article
+volume: '165'
+year: '2006'

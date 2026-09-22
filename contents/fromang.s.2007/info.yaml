@@ -1,0 +1,50 @@
+abstract: 'Aims:We study the properties of MHD turbulence driven by the magnetorotational
+  instability (MRI) in accretion disks. To do this we perform a series of numerical
+  simulations for which the resolution is gradually increased.  Methods: We adopt
+  the local shearing box model and focus on the special case for which the initial
+  magnetic flux threading the disk vanishes. We employ the finite difference code
+  ZEUS to evolve the ideal MHD equations.  Results: Performing a set of numerical
+  simulations in a fixed computational domain with increasing resolution, we demonstrate
+  that turbulent activity decreases as resolution increases. The highest resolution
+  considered is 256 grid cells per scale height. We quantify the turbulent activity
+  by measuring the rate of angular momentum transport through evaluating the standard
+  alpha parameter. We find alpha = 0.004 when (N\_x,N\_y,N\_z) = (64,100,64), alpha
+  = 0.002 when (N\_x,N\_y,N\_z) = (128,200,128) and alpha = 0.001 when (N\_x,N\_y,N\_z)
+  = (256,400,256). This steady decline is an indication that numerical dissipation,
+  occurring at the grid scale is an important determinant of the saturated form of
+  the MHD turbulence. Analysing the results in Fourier space, we demonstrate that
+  this is due to the MRI forcing significant flow energy all the way down to the grid
+  dissipation scale. We also use our results to study the properties of the numerical
+  dissipation in ZEUS. Its amplitude is characterised by the magnitude of an effective
+  magnetic Reynolds number ReM which increases from 104 to 105 as the number of grid
+  points is increased from 64 to 256 per scale height.  Conclusions: The simulations
+  we have carried out do not produce results that are independent of the numerical
+  dissipation scale, even at the highest resolution studied. Thus it is important
+  to use physical dissipation, both viscous and resistive, and to quantify contributions
+  from numerical effects, when performing numerical simulations of MHD turbulence
+  with zero net flux in accretion disks at the resolutions normally considered.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...476.1113F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.3621
+author: Fromang, S. and Papaloizou, J.
+author_list:
+- family: Fromang
+  given: S.
+- family: Papaloizou
+  given: J.
+date-added: 2017-08-10 18:05:53 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1051/0004-6361:20077942
+eprint: '0705.3621'
+journal: \aap
+keywords: 'accretion, accretion disks, magnetohydrodynamics (MHD), methods: numerical'
+month: December
+pages: 1113--1122
+papis_id: 3fdf7832e3686d5907256c996e226389
+ref: fromang.s.2007
+title: MHD simulations of the magnetorotational instability in a shearing box with
+  zero net flux. I. The issue of convergence
+type: article
+volume: '476'
+year: '2007'

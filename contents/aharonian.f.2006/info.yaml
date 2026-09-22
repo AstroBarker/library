@@ -1,0 +1,260 @@
+abstract: The diffuse extragalactic background light consists of the sum of the starlight
+  emitted by galaxies through the history of the Universe, and it could also have
+  an important contribution from the `first stars', which may have formed before galaxy
+  formation began. Direct measurements are difficult and not yet conclusive, owing
+  to the large uncertainties caused by the bright foreground emission associated with
+  zodiacal light. An alternative approach is to study the absorption features imprinted
+  on the gamma-ray spectra of distant extragalactic objects by interactions of those
+  photons with the background light photons. Here we report the discovery of gamma-ray
+  emission from the blazars H 2356 - 309 and 1ES 1101 - 232, at redshifts z = 0.165
+  and z = 0.186, respectively. Their unexpectedly hard spectra provide an upper limit
+  on the background light at optical/near-infrared wavelengths that appears to be
+  very close to the lower limit given by the integrated light of resolved galaxies.
+  The background flux at these wavelengths accordingly seems to be strongly dominated
+  by the direct starlight from galaxies, thus excluding a large contribution from
+  other sources-in particular from the first stars formed. This result also indicates
+  that intergalactic space is more transparent to gamma-rays than previously thought.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006Natur.440.1018A
+arxivurl: http://arxiv.org/abs/astro-ph/0508073
+author: Aharonian, F. and Akhperjanian, A. G. and Bazer-Bachi, A. R. and Beilicke,
+  M. and Benbow, W. and Berge, D. and Bernlöhr, K. and Boisson, C. and Bolz, O. and
+  Borrel, V. and Braun, I. and Breitling, F. and Brown, A. M. and Chadwick, P. M.
+  and Chounet, L.-M. and Cornils, R. and Costamante, L. and Degrange, B. and Dickinson,
+  H. J. and Djannati-Ataı̈, A. and Drury, L. O. and Dubus, G. and Emmanoulopoulos,
+  D. and Espigat, P. and Feinstein, F. and Fontaine, G. and Fuchs, Y. and Funk, S.
+  and Gallant, Y. A. and Giebels, B. and Gillessen, S. and Glicenstein, J. F. and
+  Goret, P. and Hadjichristidis, C. and Hauser, D. and Hauser, M. and Heinzelmann,
+  G. and Henri, G. and Hermann, G. and Hinton, J. A. and Hofmann, W. and Holleran,
+  M. and Horns, D. and Jacholkowska, A. and de Jager, O. C. and Khélifi, B. and Klages,
+  S. and Komin, N. and Konopelko, A. and Latham, I. J. and Le Gallou, R. and Lemière,
+  A. and Lemoine-Goumard, M. and Leroy, N. and Lohse, T. and Martin, J. M. and Martineau-Huynh,
+  O. and Marcowith, A. and Masterson, C. and McComb, T. J. L. and de Naurois, M. and
+  Nolan, S. J. and Noutsos, A. and Orford, K. J. and Osborne, J. L. and Ouchrif, M.
+  and Panter, M. and Pelletier, G. and Pita, S. and Pühlhofer, G. and Punch, M. and
+  Raubenheimer, B. C. and Raue, M. and Raux, J. and Rayner, S. M. and Reimer, A. and
+  Reimer, O. and Ripken, J. and Rob, L. and Rolland, L. and Rowell, G. and Sahakian,
+  V. and Saugé, L. and Schlenker, S. and Schlickeiser, R. and Schuster, C. and Schwanke,
+  U. and Siewert, M. and Sol, H. and Spangler, D. and Steenkamp, R. and Stegmann,
+  C. and Tavernet, J.-P. and Terrier, R. and Théoret, C. G. and Tluczykont, M. and
+  van Eldik, C. and Vasileiadis, G. and Venter, C. and Vincent, P. and Völk, H. J.
+  and Wagner, S. J.
+author_list:
+- family: Aharonian
+  given: F.
+- family: Akhperjanian
+  given: A. G.
+- family: Bazer-Bachi
+  given: A. R.
+- family: Beilicke
+  given: M.
+- family: Benbow
+  given: W.
+- family: Berge
+  given: D.
+- family: Bernlöhr
+  given: K.
+- family: Boisson
+  given: C.
+- family: Bolz
+  given: O.
+- family: Borrel
+  given: V.
+- family: Braun
+  given: I.
+- family: Breitling
+  given: F.
+- family: Brown
+  given: A. M.
+- family: Chadwick
+  given: P. M.
+- family: Chounet
+  given: L.-M.
+- family: Cornils
+  given: R.
+- family: Costamante
+  given: L.
+- family: Degrange
+  given: B.
+- family: Dickinson
+  given: H. J.
+- family: Djannati-Ataı̈
+  given: A.
+- family: Drury
+  given: L. O.
+- family: Dubus
+  given: G.
+- family: Emmanoulopoulos
+  given: D.
+- family: Espigat
+  given: P.
+- family: Feinstein
+  given: F.
+- family: Fontaine
+  given: G.
+- family: Fuchs
+  given: Y.
+- family: Funk
+  given: S.
+- family: Gallant
+  given: Y. A.
+- family: Giebels
+  given: B.
+- family: Gillessen
+  given: S.
+- family: Glicenstein
+  given: J. F.
+- family: Goret
+  given: P.
+- family: Hadjichristidis
+  given: C.
+- family: Hauser
+  given: D.
+- family: Hauser
+  given: M.
+- family: Heinzelmann
+  given: G.
+- family: Henri
+  given: G.
+- family: Hermann
+  given: G.
+- family: Hinton
+  given: J. A.
+- family: Hofmann
+  given: W.
+- family: Holleran
+  given: M.
+- family: Horns
+  given: D.
+- family: Jacholkowska
+  given: A.
+- family: de Jager
+  given: O. C.
+- family: Khélifi
+  given: B.
+- family: Klages
+  given: S.
+- family: Komin
+  given: N.
+- family: Konopelko
+  given: A.
+- family: Latham
+  given: I. J.
+- family: Le Gallou
+  given: R.
+- family: Lemière
+  given: A.
+- family: Lemoine-Goumard
+  given: M.
+- family: Leroy
+  given: N.
+- family: Lohse
+  given: T.
+- family: Martin
+  given: J. M.
+- family: Martineau-Huynh
+  given: O.
+- family: Marcowith
+  given: A.
+- family: Masterson
+  given: C.
+- family: McComb
+  given: T. J. L.
+- family: de Naurois
+  given: M.
+- family: Nolan
+  given: S. J.
+- family: Noutsos
+  given: A.
+- family: Orford
+  given: K. J.
+- family: Osborne
+  given: J. L.
+- family: Ouchrif
+  given: M.
+- family: Panter
+  given: M.
+- family: Pelletier
+  given: G.
+- family: Pita
+  given: S.
+- family: Pühlhofer
+  given: G.
+- family: Punch
+  given: M.
+- family: Raubenheimer
+  given: B. C.
+- family: Raue
+  given: M.
+- family: Raux
+  given: J.
+- family: Rayner
+  given: S. M.
+- family: Reimer
+  given: A.
+- family: Reimer
+  given: O.
+- family: Ripken
+  given: J.
+- family: Rob
+  given: L.
+- family: Rolland
+  given: L.
+- family: Rowell
+  given: G.
+- family: Sahakian
+  given: V.
+- family: Saugé
+  given: L.
+- family: Schlenker
+  given: S.
+- family: Schlickeiser
+  given: R.
+- family: Schuster
+  given: C.
+- family: Schwanke
+  given: U.
+- family: Siewert
+  given: M.
+- family: Sol
+  given: H.
+- family: Spangler
+  given: D.
+- family: Steenkamp
+  given: R.
+- family: Stegmann
+  given: C.
+- family: Tavernet
+  given: J.-P.
+- family: Terrier
+  given: R.
+- family: Théoret
+  given: C. G.
+- family: Tluczykont
+  given: M.
+- family: van Eldik
+  given: C.
+- family: Vasileiadis
+  given: G.
+- family: Venter
+  given: C.
+- family: Vincent
+  given: P.
+- family: Völk
+  given: H. J.
+- family: Wagner
+  given: S. J.
+date-added: 2017-08-11 03:23:25 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1038/nature04680
+eprint: astro-ph/0508073
+journal: \nat
+month: April
+pages: 1018--1021
+papis_id: 3d4064d6e25f0967edd0989ce014bc1a
+ref: aharonian.f.2006
+title: A low level of extragalactic background light as revealed by $γ$-rays from
+  blazars
+type: article
+volume: '440'
+year: '2006'

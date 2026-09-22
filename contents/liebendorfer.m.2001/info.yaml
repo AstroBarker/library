@@ -1,0 +1,45 @@
+abstract: We report on the stellar core collapse, bounce, and postbounce evolution
+  of a 13 Msolar star in a self-consistent general relativistic spherically symmetric
+  simulation based on Boltzmann neutrino transport. We conclude that approximations
+  to exact neutrino transport and the omission of general relativistic effects were
+  not alone responsible for the failure of numerous preceding attempts to model supernova
+  explosions in spherical symmetry. Compared to simulations in Newtonian gravity,
+  the general relativistic simulation results in a smaller shock radius. We however
+  argue that the higher neutrino luminosities and rms energies in the general relativistic
+  case could lead to a larger supernova explosion energy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001PhRvD..63j3004L
+arxivurl: http://arxiv.org/abs/astro-ph/0006418
+author: Liebendörfer, M. and Mezzacappa, A. and Thielemann, F.-K. and Messer, O. E.
+  and Hix, W. R. and Bruenn, S. W.
+author_list:
+- family: Liebendörfer
+  given: M.
+- family: Mezzacappa
+  given: A.
+- family: Thielemann
+  given: F.-K.
+- family: Messer
+  given: O. E.
+- family: Hix
+  given: W. R.
+- family: Bruenn
+  given: S. W.
+date-added: 2017-08-10 14:06:51 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1103/PhysRevD.63.103004
+eid: '103004'
+eprint: astro-ph/0006418
+journal: \prd
+keywords: Supernovae, Nuclear physics aspects of novae supernovae and other explosive
+  environments, Relativistic fluid dynamics, Radiative transfer, scattering
+month: May
+number: '10'
+pages: '103004'
+papis_id: 0296f7f5930dd49457a111396365e7bf
+ref: liebendorfer.m.2001
+title: 'Probing the gravitational well: No supernova explosion in spherical symmetry
+  with general relativistic Boltzmann neutrino transport'
+type: article
+volume: '63'
+year: '2001'

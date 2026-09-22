@@ -1,0 +1,50 @@
+abstract: We study the properties of cosmological shock waves identified in high-resolution,
+  N-body/hydrodynamic simulations of a LambdaCDM universe and their role on thermalization
+  of gas and acceleration of nonthermal, cosmic-ray (CR) particles. External shocks
+  form around sheets, filaments, and knots of mass distribution when the gas in void
+  regions accretes onto them. Within those nonlinear structures, internal shocks are
+  produced by infall of previously shocked gas to filaments and knots and during subclump
+  mergers, as well as by chaotic flow motions. Due to the low temperature of the accreting
+  gas, the Mach number of external shocks is high, extending up to M~100 or higher.
+  In contrast, internal shocks have mostly low Mach numbers. For all shocks of M>=1.5,
+  the mean distance between shock surfaces over the entire computed volume is ~4 h-1
+  Mpc at present, or ~1 h-1 Mpc for internal shocks within nonlinear structures. Identified
+  external shocks are more extensive, with their surface area ~2 times larger than
+  that of identified internal shocks at present. However, especially because of higher
+  preshock densities but also due to higher shock speeds, internal shocks dissipate
+  more energy. Hence, the internal shocks are mainly responsible for gas thermalization
+  as well as CR acceleration. In fact, internal shocks with 2<~M<~4 contribute about
+  one-half of the total dissipation. Using a nonlinear diffusive shock acceleration
+  model for CR protons, we estimate the ratio of CR energy to gas thermal energy dissipated
+  at cosmological shock waves to be about one-half through the history of the universe.
+  Our result supports scenarios in which the intracluster medium contains energetically
+  significant populations of CRs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...593..599R
+arxivurl: http://arxiv.org/abs/astro-ph/0305164
+author: Ryu, D. and Kang, H. and Hallman, E. and Jones, T. W.
+author_list:
+- family: Ryu
+  given: D.
+- family: Kang
+  given: H.
+- family: Hallman
+  given: E.
+- family: Jones
+  given: T. W.
+date-added: 2017-08-11 07:40:25 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376723
+eprint: astro-ph/0305164
+journal: \apj
+keywords: 'Cosmology: Large-Scale Structure of Universe, Methods: Numerical, Shock
+  Waves'
+month: August
+pages: 599--610
+papis_id: 96215d3de8145b7904e80fe9badccdba
+ref: ryu.d.2003
+title: Cosmological Shock Waves and Their Role in the Large-Scale Structure of the
+  Universe
+type: article
+volume: '593'
+year: '2003'

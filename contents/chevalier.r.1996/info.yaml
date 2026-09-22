@@ -1,0 +1,43 @@
+abstract: Steady neutron star accretion with neutrino losses can potentially occur
+  in a dense environment such as the interior of a supernova or inside a stellar envelope
+  during a spiral-in phase. With spherical accretion, there is a critical accretion
+  rate, M , below which steady flow is not possible because of radiative diffusion
+  effects. When rotation of the gas is allowed, the centrifugal support lowers the
+  flow pressure and keeps gas from directly reaching the neutron star surface. The
+  value of A cn is correspondingly raised, either because of radiative diffusion or
+  because the shocked envelope around the neutron star reaches the characteristic
+  accretion radius. Even if a disk does form and viscous angular momentum transport
+  occurs, the value of alpha in a steady alpha-disk model must be small (< 2 x 10-6)
+  in order to allow a balance of neutrino cooling and viscous heating. Alternatively,
+  the possibility of an advection-dominated disk relaxes the need for neutrino cooling
+  except close to the neutron star; however, the pressure profile in such a disk increases
+  the required shock radius and thus increases the value of Mcn. For SN 1987A, these
+  considerations reinforce the arguments that either a black hole is accreting dense
+  gas or there has been mass loss from the envelope around a central neutron star.
+  Neutrino cooling may aid the formation of a dense disk around a newly formed neutron
+  star. For spiral-in of a neutron star through a massive star envelope, rotation
+  may prevent rapid accretion for even a fairly compact envelope. The radius of the
+  shocked region becomes greater than the radius of the sonic point in the accretion
+  flow; the sonic radius depends on the relative importance of gas and radiation pressure
+  in the stellar envelope. However, neutron star spiral-in to a stellar core is likely
+  to be accompanied by strong accretion, making it difficult to form stars with neutron
+  star cores in this way.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...459..322C
+author: Chevalier, R. A.
+author_list:
+- family: Chevalier
+  given: R. A.
+date-added: 2017-08-11 02:12:55 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176895
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, EQUATION OF STATE, STARS: NEUTRON, STARS: ROTATION'
+month: March
+pages: '322'
+papis_id: 09a3e43f6a8392593b431eea25f47e3b
+ref: chevalier.r.1996
+title: 'Neutrino-cooled Accretion: Rotation and Stellar Equation of State'
+type: article
+volume: '459'
+year: '1996'

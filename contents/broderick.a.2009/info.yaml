@@ -1,0 +1,52 @@
+abstract: Recent millimeter-VLBI observations of Sagittarius A\textasteriskcentered
+  (Sgr A\textasteriskcentered) have, for the first time, directly probed distances
+  comparable to the horizon scale of a black hole. This provides unprecedented access
+  to the environment immediately around the horizon of an accreting black hole. We
+  leverage both existing spectral and polarization measurements and our present understanding
+  of accretion theory to produce a suite of generic radiatively inefficient accretion
+  flow (RIAF) models of Sgr A\textasteriskcentered, which we then fit to these recent
+  millimeter-VLBI observations. We find that if the accretion flow onto Sgr A\textasteriskcentered
+  is well described by an RIAF model, the orientation and magnitude of the black hole's
+  spin are constrained to a two-dimensional surface in the spin, inclination, position
+  angle parameter space. For each of these, we find the likeliest values and their
+  1sigma and 2sigma errors to be a = 0+0.4+0.7, theta = 50$\,^{\circ}$^{+10\$\,^{\circ}\$
+  +30\$\,^{\circ}\$}\_{-10\$\,^{\circ}\$ -10\$\,^{\circ}\$}, and xi = -20\$\,^{\circ}\$^{+31\$\,^{\circ}\$
+  +107\$\,^{\circ}\$}\_{-16\$\,^{\circ}\$ -29\$\,^{\circ}\$}, when the resulting probability
+  distribution is marginalized over the others. The most probable combination is a
+  = 0+0.2+0.4, theta = 90\$\,^{\circ}\$\_{-40\$\,^{\circ}\$ -50\$\,^{\circ}\$}, and
+  xi ={-14\$\,^{\circ}\$}^{+7\$\,^{\circ}\$ +11\$\,^{\circ}\$}\_{-7\$\,^{\circ}\$
+  -11\$\,^{\circ}\$}, though the uncertainties on these are very strongly correlated,
+  and high probability configurations exist for a variety of inclination angles above
+  30\$\,^{\circ}\$ and spins below 0.99. Nevertheless, this demonstrates the ability
+  millimeter-VLBI observations, even with only a few stations, to significantly constrain
+  the properties of Sgr A\textasteriskcentered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...697...45B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.4490
+author: Broderick, A. E. and Fish, V. L. and Doeleman, S. S. and Loeb, A.
+author_list:
+- family: Broderick
+  given: A. E.
+- family: Fish
+  given: V. L.
+- family: Doeleman
+  given: S. S.
+- family: Loeb
+  given: A.
+date-added: 2017-08-10 22:22:24 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/697/1/45
+eprint: '0809.4490'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, Galaxy: center, submillimeter,
+  techniques: interferometric'
+month: May
+pages: 45--54
+papis_id: a662cfb32ffafccf453256d342d2c947
+ref: broderick.a.2009
+title: Estimating the Parameters of Sagittarius A\textasteriskcentered's Accretion
+  Flow Via Millimeter VLBI
+type: article
+volume: '697'
+year: '2009'

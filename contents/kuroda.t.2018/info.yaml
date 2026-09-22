@@ -1,0 +1,41 @@
+abstract: We study the final fate of a very massive star by performing full general
+  relativistic (GR), three-dimensional (3D) simulation with three-flavor multi-energy
+  neutrino transport. Utilizing a 70 solar mass zero metallicity progenitor, we self-consistently
+  follow the radiation-hydrodynamics from the onset of gravitational core-collapse
+  until the second collapse of the proto-neutron star (PNS), leading to black hole
+  (BH) formation. Our results show that the BH formation occurs at a post-bounce time
+  of Tpb \texttildelow{} 300 ms for the 70 M\&sun; star. This is significantly earlier
+  than those in the literature where lower mass progenitors were employed. At a few
+  \texttildelow{}10 ms before BH formation, we find that the stalled bounce shock
+  is revived by intense neutrino heating from the very hot PNS, which is aided by
+  violent convection behind the shock. In the context of 3D-GR core-collapse modeling
+  with multi-energy neutrino transport, our numerical results present the first evidence
+  to validate a fallback BH formation scenario of the 70M\&sun; star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.tmpL..59K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1801.01293
+author: Kuroda, T. and Kotake, K. and Takiwaki, T. and Thielemann, F.-K.
+author_list:
+- family: Kuroda
+  given: T.
+- family: Kotake
+  given: K.
+- family: Takiwaki
+  given: T.
+- family: Thielemann
+  given: F.-K.
+date-added: 2018-04-25 23:34:40 +0000
+date-modified: 2018-04-25 23:34:41 +0000
+doi: 10.1093/mnrasl/sly059
+eprint: '1801.01293'
+journal: \mnras
+keywords: 'supernovae: general, stars: black holes, hydrodynamics, neutrinos'
+month: April
+papis_id: 909fba51fe382ea6953c87399c847e5a
+primaryclass: astro-ph.HE
+ref: kuroda.t.2018
+title: A full general relativistic neutrino radiation-hydrodynamics simulation of
+  a collapsing very massive star and the formation of a black hole
+type: article
+year: '2018'

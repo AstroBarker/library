@@ -1,0 +1,52 @@
+abstract: We have performed 2.5-dimensional general relativistic magnetohydrodynamic
+  (MHD) simulations of collapsars including a rotating black hole. This paper is an
+  extension of our previous paper. The current calculation focuses on the effect of
+  black hole rotation using general relativistic MHD with simplified microphysics;
+  i.e., we ignore neutrino cooling, physical equation of state, and photodisintegration.
+  Initially, we assume that the core collapse has failed in this star. A rotating
+  black hole of a few solar masses is inserted by hand into the calculation. We consider
+  two cases, a corotating case and a counterrotating case with respect to the black
+  hole rotation. Although the counterrotating case may be unrealistic for collapsars,
+  we perform it as the maximally dragging case of a magnetic field. The simulation
+  results show the formation of a disklike structure and the generation of a jetlike
+  outflow near the central black hole. The jetlike outflow propagates outwardly with
+  the twisted magnetic field and becomes collimated. We have found that the jets are
+  generated and accelerated mainly by the magnetic field. The total jet velocity in
+  the rotating black hole case is comparable to that of the nonrotating black hole
+  case, ~0.3c. When the rotation of the black hole is faster, the magnetic field is
+  twisted strongly owing to the frame-dragging effect. The magnetic energy stored
+  by the twisting magnetic field is directly converted to kinetic energy of the jet
+  rather than propagating as an Alfv{\'e}n wave. Thus, as the rotation of the black
+  hole becomes faster, the poloidal velocity of the jet becomes faster. In the rapidly
+  rotating black hole case the jetlike outflow can be produced by the frame-dragging
+  effect only through twisting of the magnetic field, even if there is no stellar
+  rotation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...615..389M
+arxivurl: http://arxiv.org/abs/astro-ph/0310017
+author: Mizuno, Y. and Yamada, S. and Koide, S. and Shibata, K.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Yamada
+  given: S.
+- family: Koide
+  given: S.
+- family: Shibata
+  given: K.
+date-added: 2017-08-11 02:07:51 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/423949
+eprint: astro-ph/0310017
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Gamma Rays: Bursts, Methods:
+  Numerical, Magnetohydrodynamics: MHD, Relativity, Stars: Supernovae: General'
+month: November
+pages: 389--401
+papis_id: 4ed2b15c5d85c8f7dc1f412919ca8d48
+ref: mizuno.y.2004a
+title: 'General Relativistic Magnetohydrodynamic Simulations of Collapsars: Rotating
+  Black Hole Cases'
+type: article
+volume: '615'
+year: '2004'

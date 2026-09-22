@@ -1,0 +1,67 @@
+abstract: Despite much effort in the past decades, the C-burning reaction rate is
+  uncertain by several orders of magnitude, and the relative strength between the
+  different channels 12C(12C, alpha)20Ne, 12C(12C, p)23Na, and 12C(12C, n)23Mg is
+  poorly determined. Additionally, in C-burning conditions a high 12C+12C rate may
+  lead to lower central C-burning temperatures and to 13C(alpha, n)16O emerging as
+  a more dominant neutron source than 22Ne(alpha, n)25Mg, increasing significantly
+  the s-process production. This is due to the chain 12C(p, gamma)13N followed by
+  13N(beta +)13C, where the photodisintegration reverse channel 13N(gamma, p)12C is
+  strongly decreasing with increasing temperature. Presented here is the impact of
+  the 12C+12C reaction uncertainties on the s-process and on explosive p-process nucleosynthesis
+  in massive stars, including also fast rotating massive stars at low metallicity.
+  Using various 12C+12C rates, in particular an upper and lower rate limit of ~50,000
+  higher and ~20 lower than the standard rate at 5 \texttimes{} 108 K, five 25 M \&sun;
+  stellar models are calculated. The enhanced s-process signature due to 13C(alpha,
+  n)16O activation is considered, taking into account the impact of the uncertainty
+  of all three C-burning reaction branches. Consequently, we show that the p-process
+  abundances have an average production factor increased up to about a factor of eight
+  compared with the standard case, efficiently producing the elusive Mo and Ru proton-rich
+  isotopes. We also show that an s-process being driven by 13C(alpha, n)16O is a secondary
+  process, even though the abundance of 13C does not depend on the initial metal content.
+  Finally, implications for the Sr-peak elements inventory in the solar system and
+  at low metallicity are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...762...31P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.3962
+author: Pignatari, M. and Hirschi, R. and Wiescher, M. and Gallino, R. and Bennett,
+  M. and Beard, M. and Fryer, C. and Herwig, F. and Rockefeller, G. and Timmes, F.
+  X.
+author_list:
+- family: Pignatari
+  given: M.
+- family: Hirschi
+  given: R.
+- family: Wiescher
+  given: M.
+- family: Gallino
+  given: R.
+- family: Bennett
+  given: M.
+- family: Beard
+  given: M.
+- family: Fryer
+  given: C.
+- family: Herwig
+  given: F.
+- family: Rockefeller
+  given: G.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-10 15:01:04 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/762/1/31
+eid: '31'
+eprint: '1212.3962'
+journal: \apj
+keywords: 'stars: abundances, stars: evolution, stars: interiors'
+month: January
+pages: '31'
+papis_id: 20bad367ece7e1530f33e6e7548811fb
+primaryclass: astro-ph.SR
+ref: pignatari.m.2013
+title: The $^12$C + \$^12\$C Reaction and the Impact on Nucleosynthesis in Massive
+  Stars
+type: article
+volume: '762'
+year: '2013'

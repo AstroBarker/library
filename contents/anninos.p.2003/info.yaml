@@ -1,0 +1,35 @@
+abstract: We have developed a new massively parallel radiation-hydrodynamics code
+  (Cosmos) for Newtonian and relativistic astrophysical problems that also includes
+  radiative cooling, self-gravity, and nonequilibrium, multispecies chemistry. Several
+  numerical methods are implemented for the hydrodynamics, including options for both
+  internal and total energy conserving schemes. Radiation is treated using flux-limited
+  diffusion. The chemistry incorporates 27 reactions, including both collisional and
+  radiative processes for atomic hydrogen and helium gases, and molecular hydrogen
+  chains. In this paper we discuss the equations and present results from test problems
+  carried out to verify the robustness and accuracy of our code in the Newtonian regime.
+  An earlier paper presented tests of the relativistic capabilities of Cosmos.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..147..177A
+arxivurl: http://arxiv.org/abs/astro-ph/0303209
+author: Anninos, P. and Fragile, P. C. and Murray, S. D.
+author_list:
+- family: Anninos
+  given: P.
+- family: Fragile
+  given: P. C.
+- family: Murray
+  given: S. D.
+date-added: 2017-08-11 05:30:26 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/375184
+eprint: astro-ph/0303209
+journal: \apjs
+keywords: 'Diffusion, Hydrodynamics, Instabilities, Methods: Numerical, Shock Waves'
+month: July
+pages: 177--186
+papis_id: 3bfcb866f194b32301a641d098f0c027
+ref: anninos.p.2003
+title: 'Cosmos: A Radiation-Chemo-Hydrodynamics Code for Astrophysical Problems'
+type: article
+volume: '147'
+year: '2003'

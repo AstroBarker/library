@@ -1,0 +1,50 @@
+abstract: We present the results of three-dimensional radiation hydrodynamics simulations
+  of the formation and evolution of early H II/He III regions around the first stars.
+  Cooling and recollapse of the gas in the relic H II region is also followed in a
+  full cosmological context, until second-generation stars are formed. We first carry
+  out ray-tracing simulations of ionizing radiation transfer from the first star.
+  Hydrodynamics is directly coupled with photoionization heating as well as radiative
+  and chemical cooling. The photoionized hot gas is evacuated out of the host halo
+  at a velocity of ~30 km s-1. This radiative feedback effect quenches further star
+  formation within the halo for over tens to a hundred million years. We show that
+  the thermal and chemical evolution of the photoionized gas in the relic H II region
+  is remarkably different from that of a neutral primordial gas. Efficient molecular
+  hydrogen production in the recombining gas enables it to cool to ~100 K, where fractionation
+  of HD/H2 occurs. The gas further cools by HD line cooling down to a few tens of
+  kelvins. Interestingly, at high redshifts (z>10), the minimum gas temperature is
+  limited by that of the cosmic microwave background with TCMB=2.728(1+z). The gas
+  cloud experiences runaway collapse when its mass is ~40 Msolar, which is significantly
+  smaller than a typical clump mass of ~200-300 Msolar for early primordial gas clouds.
+  We argue that massive, rather than very massive, primordial stars may form in the
+  relic H II region. Such stars might be responsible for early metal enrichment of
+  the interstellar medium from which recently discovered hyper-metal-poor stars were
+  born.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...663..687Y
+arxivurl: http://arxiv.org/abs/astro-ph/0610819
+author: Yoshida, N. and Oh, S. P. and Kitayama, T. and Hernquist, L.
+author_list:
+- family: Yoshida
+  given: N.
+- family: Oh
+  given: S. P.
+- family: Kitayama
+  given: T.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 04:54:48 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518227
+eprint: astro-ph/0610819
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, Galaxies: Formation, Stars:
+  Formation'
+month: July
+pages: 687--707
+papis_id: 345ba943fb26b641177e4279e423f8d2
+ref: yoshida.n.2007
+title: Early Cosmological H II/He III Regions and Their Impact on Second-Generation
+  Star Formation
+type: article
+volume: '663'
+year: '2007'

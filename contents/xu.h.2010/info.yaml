@@ -1,0 +1,52 @@
+abstract: We present a series of cosmological magnetohydrodynamic simulations that
+  simultaneously follow the formation of a galaxy cluster and evolution of magnetic
+  fields ejected by an active galactic nucleus (AGN). Specifically, we investigate
+  the influence of both the epoch of the AGN (z ~ 3-0.5) and the AGN energy (~3 \texttimes{}
+  1057- 2 \texttimes{} 1060 erg) on the final magnetic field distribution in a relatively
+  massive cluster (M vir ~ 1015 M sun). We find that as long as the AGN magnetic fields
+  are ejected before the major mergers in the cluster formation history, magnetic
+  fields can be transported throughout the cluster and can be further amplified by
+  the intracluster medium (ICM) turbulence caused by hierarchical mergers during the
+  cluster formation process. The total magnetic energy in the cluster can reach ~1061
+  erg, with micro Gauss fields distributed over the ~Mpc scale. The amplification
+  of the total magnetic energy by the ICM turbulence can be significant, up to ~1000
+  times in some cases. Therefore even weak magnetic fields from AGNs can be used to
+  magnetize the cluster to the observed level. The final magnetic energy in the ICM
+  is determined by the ICM turbulent energy, with a weak dependence on the AGN injection
+  energy. We discuss the properties of magnetic fields throughout the cluster and
+  the synthetic Faraday rotation measure maps they produce. We also show that high
+  spatial resolution over most of the magnetic regions of the cluster is very important
+  to capture the small-scale dynamo process and maintain the magnetic field structure
+  in our simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...725.2152X
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.0030
+author: Xu, H. and Li, H. and Collins, D. C. and Li, S. and Norman, M. L.
+author_list:
+- family: Xu
+  given: H.
+- family: Li
+  given: H.
+- family: Collins
+  given: D. C.
+- family: Li
+  given: S.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 03:20:39 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/725/2/2152
+eprint: '1011.0030'
+journal: \apj
+keywords: 'galaxies: active, galaxies: clusters: general, magnetohydrodynamics: MHD,
+  methods: numerical, turbulence'
+month: December
+pages: 2152--2165
+papis_id: 1e7ce8659d38a94dea90151400812a05
+ref: xu.h.2010
+title: Evolution and Distribution of Magnetic Fields from Active Galactic Nuclei in
+  Galaxy Clusters. I. The Effect of Injection Energy and Redshift
+type: article
+volume: '725'
+year: '2010'

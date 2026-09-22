@@ -1,0 +1,56 @@
+abstract: The overwhelming evidence that the core collapse supernova mechanism is
+  inherently multidimensional, the complexity of the physical processes involved,
+  and the increasing evidence from simulations that the explosion is marginal presents
+  great computational challenges for the realistic modeling of this event, particularly
+  in 3 spatial dimensions. We have developed a code scalable to computations in 3
+  dimensions that couples PPM Lagrangian-withremap hydrodynamics, multigroup flux-limited
+  diffusion neutrino transport (with many improvements), and a nuclear network. The
+  neutrino transport is performed in a ''ray-by-ray-plus'' approximation, wherein
+  all the lateral effects of neutrinos are included (e.g., pressure, velocity corrections,
+  advection) except lateral transport. A moving radial grid option permits the evolution
+  to be carried out from initial core collapse with only modest demands on the number
+  of radial zones. The inner part of the core is evolved after collapse, along with
+  the rest of the core and mantle, by subcycling the lateral evolution near the center
+  as demanded by the small Courant times. We present results of 2-D simulations of
+  a symmetric and an asymmetric collapse of both a 15 and an 11 Modot progenitor.
+  In each of these simulations we have discovered that once the oxygen-rich material
+  reaches the shock there is a synergistic interplay between the reduced ram pressure,
+  the energy released by the burning of the shock-heated oxygen-rich material, and
+  the neutrino energy deposition that leads to a revival of the shock and an explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006JPhCS..46..393B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.0537
+author: Bruenn, S. W. and Dirk, C. J. and Mezzacappa, A. and Hayes, J. C. and Blondin,
+  J. M. and Hix, W. R. and Messer, O. E. B.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: Dirk
+  given: C. J.
+- family: Mezzacappa
+  given: A.
+- family: Hayes
+  given: J. C.
+- family: Blondin
+  given: J. M.
+- family: Hix
+  given: W. R.
+- family: Messer
+  given: O. E. B.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-11 06:57:28 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1088/1742-6596/46/1/054
+editor: '{Strayer}, M.'
+eprint: '0709.0537'
+month: September
+pages: 393--402
+papis_id: 13d7742fad90197d803eeff42753589e
+ref: bruenn.s.2006
+series: Journal of Physics Conference Series
+title: Modeling core collapse supernovae in 2 and 3 dimensions with spectral neutrino
+  transport
+type: inproceedings
+volume: '46'
+year: '2006'

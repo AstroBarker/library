@@ -1,0 +1,51 @@
+abstract: 'Massive stars disproportionately influence their surroundings. How they
+  form has only started to become clear recently through radiation gas dynamical simulations.
+  However, until now, no simulation has simultaneously included both magnetic fields
+  and ionizing radiation. Here we present the results from the first radiation-magnetohydrodynamical
+  (RMHD) simulation including ionization feedback, comparing an RMHD model of a 1000
+  M sun rotating cloud to earlier radiation gas dynamical models with the same initial
+  density and velocity distributions. We find that, despite starting with a strongly
+  supercritical mass-to-flux ratio, the magnetic field has three effects. First, the
+  field offers locally support against gravitational collapse in the accretion flow,
+  substantially reducing the amount of secondary fragmentation in comparison to the
+  gas dynamical case. Second, the field drains angular momentum from the collapsing
+  gas, further increasing the amount of material available for accretion by the central,
+  massive, protostar, and thus increasing its final mass by about 50\% from the purely
+  gas dynamical case. Third, the field is wound up by the rotation of the flow, driving
+  a tower flow. However, this flow never achieves the strength seen in low-mass star
+  formation simulations for two reasons: gravitational fragmentation disrupts the
+  circular flow in the central regions where the protostars form, and the expanding
+  H II regions tend to further disrupt the field geometry. Therefore, ionizing radiation
+  is likely to dominate outflow dynamics in regions of massive star formation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...729...72P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.5905
+author: Peters, T. and Banerjee, R. and Klessen, R. S. and Mac Low, M.-M.
+author_list:
+- family: Peters
+  given: T.
+- family: Banerjee
+  given: R.
+- family: Klessen
+  given: R. S.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:25:34 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/729/1/72
+eid: '72'
+eprint: '1010.5905'
+journal: \apj
+keywords: 'H II regions, ISM: jets and outflows, magnetohydrodynamics: MHD, radiative
+  transfer, stars: formation, stars: massive'
+month: March
+pages: '72'
+papis_id: c579ae28b99d25bd0971afadb4ada34c
+primaryclass: astro-ph.SR
+ref: peters.t.2011
+title: The Interplay of Magnetic Fields, Fragmentation, and Ionization Feedback in
+  High-mass Star Formation
+type: article
+volume: '729'
+year: '2011'

@@ -1,0 +1,56 @@
+abstract: It is widely recognized that nucleosynthetic output of the first Population
+  III supernovae was a catalyst defining the character of subsequent stellar generations.
+  Most of the work on the earliest enrichment was carried out assuming that the first
+  stars were extremely massive and that the associated supernovae were unusually energetic,
+  enough to completely unbind the baryons in the host cosmic minihalo and disperse
+  the synthesized metals into the intergalactic medium. Recent work, however, suggests
+  that the first stars may in fact have been somewhat less massive, with a characteristic
+  mass scale of a few tens of solar masses. We present a cosmological simulation following
+  the transport of the metals synthesized in a Population III supernova assuming that
+  it had an energy of 1051 erg, compatible with standard Type II supernovae. A young
+  supernova remnant is inserted in the first star's relic H II region in the free
+  expansion phase and is followed for 40 Myr employing adaptive mesh refinement and
+  Lagrangian tracer particle techniques. The supernova remnant remains partially trapped
+  within the minihalo, and the thin snowplow shell develops pronounced instability
+  and fingering. Roughly half of the ejecta turn around and fall back toward the center
+  of the halo, with 1\% of the ejecta reaching the center in ~30 kyr and 10\% in ~10
+  Myr. The average metallicity of the combined returning ejecta and the pristine filaments
+  feeding into the halo center from the cosmic web is ~0.001-0.01 Z \&sun;, but the
+  two remain unmixed until accreting onto the central hydrostatic core that is unresolved
+  at the end of the simulation. We conclude that if Population III stars had less
+  extreme masses, they promptly enriched the host minihalos with metals and triggered
+  Population II star formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...761...56R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.2957
+author: Ritter, J. S. and Safranek-Shrader, C. and Gnat, O. and Milosavljević, M.
+  and Bromm, V.
+author_list:
+- family: Ritter
+  given: J. S.
+- family: Safranek-Shrader
+  given: C.
+- family: Gnat
+  given: O.
+- family: Milosavljević
+  given: M.
+- family: Bromm
+  given: V.
+date-added: 2017-08-10 19:03:45 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/761/1/56
+eid: '56'
+eprint: '1203.2957'
+journal: \apj
+keywords: 'cosmology: theory, galaxies: dwarf, galaxies: formation, hydrodynamics,
+  ISM: structure, stars: formation, supernovae: general'
+month: December
+pages: '56'
+papis_id: 787b274df7d973b2890528ee440001ee
+ref: ritter.j.2012
+title: Confined Population III Enrichment and the Prospects for Prompt Second-generation
+  Star Formation
+type: article
+volume: '761'
+year: '2012'

@@ -1,0 +1,43 @@
+abstract: 'To investigate the formation mechanism of relativistic jets in active galactic
+  nuclei and microquasars, we have developed a new general relativistic magnetohydrodynamic
+  code in Kerr geometry. Here we report on the first numerical simulations of jet
+  formation in a rapidly rotating (a=0.95) Kerr black hole magnetosphere. We study
+  cases in which the Keplerian accretion disk is both corotating and counter-rotating
+  with respect to the black hole rotation, and investigate the first ~50 light-crossing
+  times. In the corotating disk case, our results are almost the same as those in
+  Schwarzschild black hole cases: a gas pressure-driven jet is formed by a shock in
+  the disk, and a weaker magnetically driven jet is also generated outside the gas
+  pressure-driven jet. On the other hand, in the counter-rotating disk case, a new
+  powerful magnetically driven jet is formed inside the gas pressure-driven jet. The
+  newly found magnetically driven jet in the latter case is accelerated by a strong
+  magnetic field created by frame dragging in the ergosphere. Through this process,
+  the magnetic field extracts the energy of the black hole rotation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...536..668K
+arxivurl: http://arxiv.org/abs/astro-ph/9907435
+author: Koide, S. and Meier, D. L. and Shibata, K. and Kudoh, T.
+author_list:
+- family: Koide
+  given: S.
+- family: Meier
+  given: D. L.
+- family: Shibata
+  given: K.
+- family: Kudoh
+  given: T.
+date-added: 2017-08-11 06:46:03 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308986
+eprint: astro-ph/9907435
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Jets, Magnetic
+  Fields, Methods: Numerical, Magnetohydrodynamics: MHD, Relativity'
+month: June
+pages: 668--674
+papis_id: fc3ff13dad0d2d5acad9062c312da9e3
+ref: koide.s.2000
+title: General Relativistic Simulations of Early Jet Formation in a Rapidly Rotating
+  Black Hole Magnetosphere
+type: article
+volume: '536'
+year: '2000'

@@ -1,0 +1,51 @@
+abstract: We present the first two-dimensional general relativistic (GR) simulations
+  of stellar core collapse and explosion with the COCONUT hydrodynamics code in combination
+  with the VERTEX solver for energy-dependent, three-flavor neutrino transport, using
+  the extended conformal flatness condition for approximating the space-time metric
+  and a ray-by-ray-plus ansatz to tackle the multi-dimensionality of the transport.
+  For both of the investigated 11.2 and 15 M \&sun; progenitors we obtain successful,
+  though seemingly marginal, neutrino-driven supernova explosions. This outcome and
+  the time evolution of the models basically agree with results previously obtained
+  with the PROMETHEUS hydro solver including an approximative treatment of relativistic
+  effects by a modified Newtonian potential. However, GR models exhibit subtle differences
+  in the neutrinospheric conditions compared with Newtonian and pseudo-Newtonian simulations.
+  These differences lead to significantly higher luminosities and mean energies of
+  the radiated electron neutrinos and antineutrinos and therefore to larger energy-deposition
+  rates and heating efficiencies in the gain layer with favorable consequences for
+  strong nonradial mass motions and ultimately for an explosion. Moreover, energy
+  transfer to the stellar medium around the neutrinospheres through nucleon recoil
+  in scattering reactions of heavy-lepton neutrinos also enhances the mentioned effects.
+  Together with previous pseudo-Newtonian models, the presented relativistic calculations
+  suggest that the treatment of gravity and energy-exchanging neutrino interactions
+  can make differences of even 50\%-100\% in some quantities and is likely to contribute
+  to a finally successful explosion mechanism on no minor level than hydrodynamical
+  differences between different dimensions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756...84M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.0815
+author: Müller, B. and Janka, H.-T. and Marek, A.
+author_list:
+- family: Müller
+  given: B.
+- family: Janka
+  given: H.-T.
+- family: Marek
+  given: A.
+date-added: 2017-08-10 14:29:45 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/756/1/84
+eid: '84'
+eprint: '1202.0815'
+journal: \apj
+keywords: 'gravitation, hydrodynamics, neutrinos, supernovae: general, radiative transfer'
+month: September
+pages: '84'
+papis_id: d9396ef0163035ca0c0d31cdb92904f2
+primaryclass: astro-ph.SR
+ref: muller.b.2012
+title: A New Multi-dimensional General Relativistic Neutrino Hydrodynamics Code for
+  Core-collapse Supernovae. II. Relativistic Explosion Models of Core-collapse Supernovae
+type: article
+volume: '756'
+year: '2012'

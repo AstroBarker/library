@@ -1,0 +1,42 @@
+abstract: General Relativity predicts that the passage of matter or radiation from
+  an asymmetrically-emitting source should cause a permanent change in the local space-time
+  metric. This phenomenon, called the \emph{gravitational memory effect}, has never
+  been observed, however supernova neutrinos have long been considered a promising
+  avenue for its detection in the future. With the advent of deci-Hertz gravitational
+  wave interferometers, observing the supernova neutrino memory will be possible,
+  with important implications for multimessenger astronomy and for tests of gravity.
+  In this work, we develop a phenomenological (analytical) toy model for the supernova
+  neutrino memory effect, which is overall consistent with the results of numerical
+  simulations. This description is then generalized to several case studies of interest.
+  We find that, for a galactic supernova, the dimensionless strain, $h(t)$, is of
+  order \$\sim 10^{-22} - 10^{-21}\$, and develops over a typical time scale that
+  varies between \$\sim 0.1 - 10\$ s, depending on the time-evolution of the anisotropy
+  of the neutrino emission. The characteristic strain, \$h\_c(f)\$, has a maximum
+  at a frequency \$f\_{max} \sim {\mathcal O}(10^{-1}) - {\mathcal O}(1)\$ Hz. The
+  detailed features of the time- and frequency-structure of the memory strain will
+  inform us of the matter dynamics near the collapsed core, and allow to distinguish
+  between different stellar collapse scenarios. Next generation gravitational wave
+  detectors like DECIGO and BBO will be sensitive to the neutrino memory effect for
+  supernovae at typical galactic distances and beyond; with Ultimate DECIGO exceeding
+  a detectability distance of 10 Mpc.
+archiveprefix: arXiv
+author: Mukhopadhyay, Mainak and Cardona, Carlos and Lunardini, Cecilia
+author_list:
+- family: Mukhopadhyay
+  given: Mainak
+- family: Cardona
+  given: Carlos
+- family: Lunardini
+  given: Cecilia
+eprint: '2105.05862'
+file: :mukhopadhyay2021 - The Neutrino Gravitational Memory from a Core Collapse Supernova\_
+  Phenomenology and Physics Potential.pdf:PDF
+keywords: astro-ph.HE, gr-qc, hep-ph
+month: May
+papis_id: a423b93e8189766b823295304a5efb25
+primaryclass: astro-ph.HE
+ref: mukhopadhyay.mainak.2021
+title: 'The neutrino gravitational memory from a core collapse supernova: phenomenology
+  and physics potential'
+type: article
+year: '2021'

@@ -1,0 +1,63 @@
+abstract: Rossby waves (r-modes) in rapidly rotating neutron stars are unstable because
+  of the emission of gravitational radiation. As a result, the stellar rotational
+  energy is converted into both gravitational waves and r-mode energy. The saturation
+  level for the r-mode energy is a fundamental parameter needed to determine how fast
+  the neutron star spins down, as well as whether gravitational waves will be detectable.
+  In this paper we study saturation by nonlinear transfer of energy to the sea of
+  stellar ``inertial'' oscillation modes that arise in rotating stars with negligible
+  buoyancy and elastic restoring forces. We present detailed calculations of stellar
+  inertial modes in the WKB limit, their linear damping by bulk and shear viscosity,
+  and the nonlinear coupling forces among these modes. The saturation amplitude is
+  derived in the extreme limits of strong or weak driving by radiation reaction, as
+  compared to the damping rate of low-order inertial modes. In the weak driving case,
+  energy can be stably transferred to a small number of modes, which damp the energy
+  as heat or neutrinos. In the strong driving case, we show that a turbulent cascade
+  develops, with a constant flux of energy to large wavenumbers and small frequencies
+  where it is damped by shear viscosity. We find that the saturation energy is extremely
+  small, at least 4 orders of magnitude smaller than that found by previous investigators.
+  We show that the large saturation energy found in the simulations of Lindblom and
+  coworkers is an artifact of their unphysically large radiation reaction force. In
+  most physical situations of interest, for either nascent, rapidly rotating neutron
+  stars or neutron stars being spun up by accretion in low-mass X-ray binaries (LMXBs),
+  the strong driving limit is appropriate and the saturation energy is roughly Er-mode/(0.5Mr2\textasteriskcenteredOmega2)~=0.1gammagr/Omega~=10-6(nuspin/103Hz)5,
+  where M and r\textasteriskcentered are the stellar mass and radius, respectively,
+  gammagr is the driving rate by gravitational radiation, Omega is the angular velocity
+  of the star, and nuspin is the spin frequency. At such a low saturation amplitude,
+  the characteristic time for the star to exit the region of r-mode instability is
+  >~103-104 yr, depending sensitively on the instability curve. Although our saturation
+  amplitude is smaller than that found by previous investigators, it is still sufficiently
+  large to explain the observed period clustering in LMXBs. We find that the r-mode
+  signal from both newly born neutron stars and LMXBs in the spin-down phase of Levin's
+  limit cycle will be detectable by enhanced LIGO detectors out to ~100-200 kpc.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...591.1129A
+arxivurl: http://arxiv.org/abs/astro-ph/0202345
+author: Arras, P. and Flanagan, E. E. and Morsink, S. M. and Schenk, A. K. and Teukolsky,
+  S. A. and Wasserman, I.
+author_list:
+- family: Arras
+  given: P.
+- family: Flanagan
+  given: E. E.
+- family: Morsink
+  given: S. M.
+- family: Schenk
+  given: A. K.
+- family: Teukolsky
+  given: S. A.
+- family: Wasserman
+  given: I.
+date-added: 2017-08-11 03:16:06 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/374657
+eprint: astro-ph/0202345
+journal: \apj
+keywords: 'Gravitational Waves, Stars: Neutron, Stars: Oscillations, Turbulence'
+month: July
+pages: 1129--1151
+papis_id: 60ed8290a5cc83bb59e49f01d456c406
+ref: arras.p.2003
+title: Saturation of the r-Mode Instability
+type: article
+volume: '591'
+year: '2003'

@@ -1,0 +1,39 @@
+abstract: We derive new equations using the mixed-frame approach for one- and two-dimensional
+  (axisymmetric) time-dependent radiation transport and the associated couplings with
+  matter. Our formulation is multigroup and multiangle and includes anisotropic scattering,
+  frequency (energy)-dependent scattering and absorption, complete velocity dependence
+  to order v/c, rotation, and energy redistribution due to inelastic scattering. Hence,
+  the ``2D'' realization is actually ``6 1/2''-dimensional. The effects of radiation
+  viscosity are automatically incorporated. Moreover, we develop accelerated lambda
+  iteration, Krylov subspace (GMRES), discontinuous finite element, and Feautrier
+  numerical methods for solving the equations and present the results of one-dimensional
+  numerical tests of the new formalism. The virtues of the mixed-frame approach include
+  simple velocity dependence with no velocity derivatives, straight characteristics,
+  simple physical interpretation, and clear generalization to higher dimensions. Our
+  treatment can be used for both photon and neutrino transport, but we focus on neutrino
+  transport and applications to core-collapse supernova theory in the discussions
+  and examples.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...659.1458H
+arxivurl: http://arxiv.org/abs/astro-ph/0609049
+author: Hubeny, I. and Burrows, A.
+author_list:
+- family: Hubeny
+  given: I.
+- family: Burrows
+  given: A.
+date-added: 2017-08-10 19:41:55 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512179
+eprint: astro-ph/0609049
+journal: \apj
+keywords: 'Hydrodynamics, Methods: Numerical, Neutrinos, Stars: Supernovae: General'
+month: April
+pages: 1458--1487
+papis_id: 2eeb166c3eaf891d1bee327d4f3a6c1d
+ref: hubeny.i.2007
+title: A New Algorithm for Two-Dimensional Transport for Astrophysical Simulations.
+  I. General Formulation and Tests for the One-Dimensional Spherical Case
+type: article
+volume: '659'
+year: '2007'

@@ -1,0 +1,43 @@
+abstract: The thermonuclear runaway that culminates in the explosion of a Chandrasekhar
+  mass white dwarf as a Type Ia supernova begins centuries before the star actually
+  explodes. Here, using a three-dimensional anelastic code, we examine numerically
+  the convective flow during the last minute of that runaway, a time that is crucial
+  in determining just where and how often the supernova ignites. We find that the
+  overall convective flow is dipolar, with the higher temperature fluctuations in
+  an outbound flow preferentially on one side of the star. Taken at face value, this
+  suggests an asymmetric ignition that may well persist in the geometry of the final
+  explosion. However, we also find that even a moderate amount of rotation tends to
+  fracture this dipole flow, making ignition over a broader region more likely. Although
+  our calculations lack the resolution to study the flow at astrophysically relevant
+  Rayleigh numbers, we also speculate that the observed dipolar flow would become
+  less organized as the viscosity becomes very small. Motion within the dipole flow
+  shows evidence of turbulence, suggesting that only geometrically large fluctuations
+  (~1 km) would persist to ignite the runaway. We also examine the probability density
+  function for the temperature fluctuations, finding evidence for a Gaussian rather
+  than exponential distribution, which suggests that ignition sparks may be strongly
+  spatially clustered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..407K
+arxivurl: http://arxiv.org/abs/astro-ph/0509367
+author: Kuhlen, M. and Woosley, S. E. and Glatzmaier, G. A.
+author_list:
+- family: Kuhlen
+  given: M.
+- family: Woosley
+  given: S. E.
+- family: Glatzmaier
+  given: G. A.
+date-added: 2017-08-10 21:08:15 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500105
+eprint: astro-ph/0509367
+journal: \apj
+keywords: 'Hydrodynamics, Stars: Supernovae: General'
+month: March
+pages: 407--416
+papis_id: 29fdb2fe28771b25f2190b3f62eaec13
+ref: kuhlen.m.2006
+title: Carbon Ignition in Type Ia Supernovae. II. A Three-dimensional Numerical Model
+type: article
+volume: '640'
+year: '2006'

@@ -1,0 +1,58 @@
+abstract: We show model light curves of superluminous supernova 2006gy on the assumption
+  that the supernova is powered by the collision of supernova ejecta and a dense circumstellar
+  medium. The initial conditions are constructed based on the shock breakout condition,
+  assuming that the circumstellar medium is dense enough to cause a shock breakout
+  within it. We perform a set of numerical light-curve calculations using the one-dimensional
+  multigroup radiation hydrodynamics code stella. We succeed in reproducing the overall
+  features of the early light curve of SN 2006gy with a circumstellar medium of mass
+  about 15 M\&sun; (the average mass-loss rate is \texttildelow{}0.1 M\&sun; yr-1).
+  Thus, the progenitor of SN 2006gy is likely a very massive star. The density profile
+  of the circumstellar medium is not well constrained by light-curve modelling alone,
+  but our modelling disfavours a circumstellar medium formed by steady mass loss.
+  The ejecta mass is estimated to be comparable to or less than 15 M\&sun; and the
+  explosion energy is expected to be more than 4 \texttimes{} 1051 erg. No 56Ni is
+  required to explain the early light curve. We find that multidimensional effects,
+  e.g. Rayleigh-Taylor instability, which is expected to take place in the cool dense
+  shell between the supernova ejecta and the dense circumstellar medium, are important
+  in understanding supernovae powered by shock interaction. We also show the evolution
+  of optical and near-infrared model light curves of high-redshift superluminous supernovae.
+  They can potentially be used to identify SN 2006gy-like superluminous supernovae
+  in future optical and near-infrared transient surveys.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.1020M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.6109
+author: Moriya, T. J. and Blinnikov, S. I. and Tominaga, N. and Yoshida, N. and Tanaka,
+  M. and Maeda, K. and Nomoto, K.
+author_list:
+- family: Moriya
+  given: T. J.
+- family: Blinnikov
+  given: S. I.
+- family: Tominaga
+  given: N.
+- family: Yoshida
+  given: N.
+- family: Tanaka
+  given: M.
+- family: Maeda
+  given: K.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 17:14:47 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts075
+eprint: '1204.6109'
+journal: \mnras
+keywords: 'circumstellar matter, stars: mass-loss, supernovae: individual: SN 2006gy,
+  early Universe'
+month: January
+pages: 1020--1035
+papis_id: 7082dcd5a22242be78f159cdd49924b7
+primaryclass: astro-ph.HE
+ref: moriya.t.2013a
+title: 'Light-curve modelling of superluminous supernova 2006gy: collision between
+  supernova ejecta and a dense circumstellar medium'
+type: article
+volume: '428'
+year: '2013'

@@ -1,0 +1,44 @@
+abstract: This paper examines the variability of daily averages of the magnetic field
+  strength B in the heliosheath and in the distant solar wind measured by Voyager
+  1 (V1) and Voyager 2 (V2), respectively, from 2005.0 to 2006.9. In the heliosheath,
+  a spatial gradient of (0.0023+/-0.0011) nT AU-1 is observed, which constrains models
+  of the inner heliosheath. This gradent is small compared to the expected average
+  gradient of B across the entire heliosheath. In the heliosheath the profile of B
+  is generally filamentary with numerous jumps, but a large-amplitude sine wave with
+  a period of ~200 days was observed by V1 at the end of the interval. The fluctuations
+  of daily averages of B observed by V1 and V2 have a Gaussian distribution and lognormal
+  distribution, respectively. The autocorrelation of B(t) from day of year (DOY) 1-512
+  was an exponential function with an e-folding time of ~3.7+/-0.5 days for V1 and
+  2.5+/-0.3 days for V2. On scales from 1-4 days, the autocorrelation function was
+  a power law with exponent alpha=-0.440+/-0.031 for V1 and alpha=-0.497+/-0.002 for
+  V2. The distribution of differences of successive daily averages of B for both V1
+  and V2 is the Tsallis distribution of nonextensive statistical mechanics with the
+  nonextensivity parameter q=1.55+/-0.05. V2 (at ~S26$\,^{\circ}$) observed both positive
+  and negative magnetic polarities throughout the interval from 2005.0 to 2006.9.
+  There is evidence that V1 (at N34\$\,^{\circ}\$) might be entering a region of negative
+  magnetic polarity as the latitudinal extent of the heliospheric current sheet decreases
+  during the declining phase of solar cycle 23.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...668.1246B
+author: Burlaga, L. F. and Ness, N. F. and Acuña, M. H.
+author_list:
+- family: Burlaga
+  given: L. F.
+- family: Ness
+  given: N. F.
+- family: Acuña
+  given: M. H.
+date-added: 2017-08-10 22:00:12 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521349
+journal: \apj
+keywords: 'Magnetic Fields, Magnetohydrodynamics: MHD, Sun: Solar Wind, Turbulence'
+month: October
+pages: 1246--1258
+papis_id: 446a47be3035fd77939dc36c1f51045d
+ref: burlaga.l.2007
+title: 'Magnetic Fields in the Heliosheath and Distant Heliosphere: Voyager 1 and
+  2 Observations During 2005 and 2006'
+type: article
+volume: '668'
+year: '2007'

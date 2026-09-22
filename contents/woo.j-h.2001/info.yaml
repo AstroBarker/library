@@ -1,0 +1,35 @@
+abstract: In stellar evolution calculations, the local pressure scale height is often
+  used to empirically constrain the amount of convective core overshoot. However,
+  this method brings unsatisfactory results for low-mass stars (<=1.1-1.2 Msolar for
+  Z=Zsolar), which have very small cores or no convective core at all. Following Roxburgh's
+  integral constraint, we implemented an upper limit of overshoot within the conventional
+  method of alpha parameterization to remove an overly large overshoot effect on low-mass
+  stars. The erroneously large effect of core overshoot due to the failure of alpha
+  parameterization can be effectively corrected by limiting the amount of overshoot
+  to <=15\% of the core radius; 15\% of the core radius would be a proper limit of
+  overshoot, which can be implemented in a stellar evolution code for intermediate-
+  to low-mass stars. The temperature structure of the overshoot region does not play
+  a crucial role in stellar evolution since this transition region is very thin.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001AJ....122.1602W
+arxivurl: http://arxiv.org/abs/astro-ph/0106061
+author: Woo, J.-H. and Demarque, P.
+author_list:
+- family: Woo
+  given: J.-H.
+- family: Demarque
+  given: P.
+date-added: 2017-08-10 20:44:07 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/322122
+eprint: astro-ph/0106061
+journal: \aj
+keywords: 'Stars: Color-Magnitude Diagrams, Stars: Evolution'
+month: September
+pages: 1602--1606
+papis_id: a990cd0076443b243a14dd08f81edb92
+ref: woo.j_h.2001
+title: Empirical Constraints on Convective Core Overshoot
+type: article
+volume: '122'
+year: '2001'

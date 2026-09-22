@@ -1,0 +1,59 @@
+abstract: We present a number of statistical tools that show promise for obtaining
+  information on turbulence in molecular clouds (MCs) and diffuse interstellar medium
+  (ISM). For our tests we make use of three-dimensional 5123 compressible MHD isothermal
+  simulations performed for different sonic, i.e., M\_s\equiv{} V\_L/V\_s, where VL
+  is the injection velocity, Vs is the sound velocity, and Alfv{\'e}nic M\_A\equiv{}
+  V\_L/V\_A, where VA is the Alfv{\'e}n velocity, Mach numbers. We introduce the bispectrum,
+  a new tool for statistical studies of the interstellar medium which, unlike an ordinary
+  power spectrum of turbulence, preserves the phase information of the stochastic
+  field. We show that the bispectra of the three-dimensional stochastic density field
+  and of column densities, available from observations, are similar. This opens good
+  prospects for studies of MCs and diffuse media with the new tool. We use the bispectrum
+  technique to define the role of nonlinear wave-wave interactions in the turbulent
+  energy cascade. We also obtained the bispectrum function for density and column
+  densities with varying magnetic field strength. As expected, a strong correlation
+  is obtained for wave modes k 1 = k 2 for all models. Larger values of M\_{s} result
+  in increased correlations for modes with k 1 != k 2. This effect becomes more evident
+  with increasing magnetic field intensity. We believe that the different MHD wave
+  modes, e.g., Alfv{\'e}n and magneto-acoustic, which arise in strongly magnetized
+  turbulence, may be responsible for the increased correlations compared to purely
+  hydrodynamical perturbations. In addition to the bispectrum, we calculated the third
+  and fourth statistical moments of density and column density, namely, skewness and
+  kurtosis, respectively. We found a strong dependence of skewness and kurtosis with
+  M\_{s}. In particular, as M\_{s} increases, so does the Gaussian asymmetry of the
+  density distribution. We also studied the correlations of two-dimensional column
+  density with dispersion of velocities and magnetic field, as well as the correlations
+  of three-dimensional density with magnetic and kinetic energy and M\_{A} for comparison.
+  Our results show that column density is linearly correlated with magnetic field
+  for high M\_{s}. This trend is independent of the turbulent kinetic energy and can
+  be used to characterize inhomogeneities of physical properties in low density clumps
+  in the ISM.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...693..250B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.0822
+author: Burkhart, B. and Falceta-Gonçalves, D. and Kowal, G. and Lazarian, A.
+author_list:
+- family: Burkhart
+  given: B.
+- family: Falceta-Gonçalves
+  given: D.
+- family: Kowal
+  given: G.
+- family: Lazarian
+  given: A.
+date-added: 2017-08-10 22:40:51 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/693/1/250
+eprint: '0811.0822'
+journal: \apj
+keywords: 'ISM: structure, MHD, turbulence'
+month: March
+pages: 250--266
+papis_id: d671df0c473af2341b036616d566add1
+ref: burkhart.b.2009
+title: 'Density Studies of MHD Interstellar Turbulence: Statistical Moments, Correlations
+  and Bispectrum'
+type: article
+volume: '693'
+year: '2009'

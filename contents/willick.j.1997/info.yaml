@@ -1,0 +1,60 @@
+abstract: This is the third in a series of papers in which we assemble and analyze
+  a homogeneous catalog of peculiar velocity data. In Papers I and II, we described
+  the Tully-Fisher (TF) redshift-distance samples that constitute the bulk of the
+  catalog and our methodology for obtaining mutually consistent TF calibrations for
+  these samples. In this paper, we supply further technical details of the treatment
+  of the data and present a subset of the catalog in tabular form. The full catalog,
+  known as the Mark III Catalog of Galaxy Peculiar Velocities, is available in accessible
+  on-line databases, as described herein. The electronic catalog incorporates not
+  only the TF samples discussed in Papers I and II but also elliptical galaxy Dn-sigma
+  samples originally presented elsewhere. The relative zero pointing of the elliptical
+  and spiral data sets is discussed here.  The basic elements of the Mark III Catalog
+  are the observables for each object (redshift, magnitude, velocity width, etc.)
+  and inferred distances derived from the TF or Dn-sigma relations. Distances obtained
+  from both the forward and inverse TF relations are tabulated for the spirals. Malmquist
+  bias-corrected distances are computed for each catalog object using density fields
+  obtained from the IRAS 1.2 Jy redshift survey. Distances for both individual objects
+  and groups are provided. A variety of auxiliary data, including distances and local
+  densities predicted from the IRAS redshift survey reconstruction method, are tabulated
+  as well. We study the distributions of TF residuals for three of our samples and
+  conclude that they are well approximated as Gaussian. However, for the Mathewson
+  et al. sample we demonstrate a significant decrease in TF scatter with increasing
+  velocity width. We test for, but find no evidence of, a correlation between TF residuals
+  and galaxy morphology. Finally, we derive transformations that map the apparent
+  magnitude and velocity width data for each spiral sample onto a common system. This
+  permits the application of analysis methods that assume that a unique TF relation
+  describes the entire sample.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJS..109..333W
+arxivurl: http://arxiv.org/abs/astro-ph/9610202
+author: Willick, J. A. and Courteau, S. and Faber, S. M. and Burstein, D. and Dekel,
+  A. and Strauss, M. A.
+author_list:
+- family: Willick
+  given: J. A.
+- family: Courteau
+  given: S.
+- family: Faber
+  given: S. M.
+- family: Burstein
+  given: D.
+- family: Dekel
+  given: A.
+- family: Strauss
+  given: M. A.
+date-added: 2017-08-10 23:42:25 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/312983
+eprint: astro-ph/9610202
+journal: \apjs
+keywords: 'CATALOGS, GALAXIES: DISTANCES AND REDSHIFTS, GALAXIES: PHOTOMETRY, Catalogs,
+  Galaxies: Distances and Redshifts, Galaxies: Photometry'
+month: April
+pages: 333--366
+papis_id: 85cdc9541281485ca39361ab6cda9064
+ref: willick.j.1997
+title: Homogeneous Velocity-Distance Data for Peculiar Velocity Analysis. III. The
+  Mark III Catalog of Galaxy Peculiar Velocities
+type: article
+volume: '109'
+year: '1997'

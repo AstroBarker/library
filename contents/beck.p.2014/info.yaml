@@ -1,0 +1,125 @@
+abstract: 'Context. The unparalleled photometric data obtained by NASA''s Kepler Space
+  Telescope has led to improved understanding of red giant stars and binary stars.
+  Seismology allows us to constrain the properties of red giants. In addition to eclipsing
+  binaries, eccentric non-eclipsing binaries that exhibit ellipsoidal modulations
+  have been detected with Kepler.  Aims: We aim to study the properties of eccentric
+  binary systems containing a red giant star and to derive the parameters of the primary
+  giant component.  Methods: We applied asteroseismic techniques to determine the
+  masses and radii of the primary component of each system. For a selected target,
+  light and radial velocity curve modelling techniques were applied to extract the
+  parameters of the system and its primary component. Stellar evolution and its effects
+  on the evolution of the binary system were studied from theoretical models.  Results:
+  The paper presents the asteroseismic analysis of 18 pulsating red giants in eccentric
+  binary systems, for which masses and radii were constrained. The orbital periods
+  of these systems range from 20 to 440 days. The results of our ongoing radial velocity
+  monitoring programme with the Hermes spectrograph reveal an eccentricity range of
+  e = 0.2 to 0.76. As a case study we present a detailed analysis of KIC 5006817,
+  whose rich oscillation spectrum allows for detailed seismic analysis. From seismology
+  we constrain the rotational period of the envelope to be at least 165 d, which is
+  roughly twice the orbital period. The stellar core rotates 13 times faster than
+  the surface. From the spectrum and radial velocities we expect that the Doppler
+  beaming signal should have a maximum amplitude of 300 ppm in the light curve. Fixing
+  the mass and radius to the asteroseismically determined values, we find from our
+  binary modelling a value of the gravity darkening exponent that is significantly
+  larger than expected. Through binary modelling, we determine the mass of the secondary
+  component to be 0.29 $\pm$ 0.03 M\&sun;.  Conclusions: For KIC 5006817 we exclude
+  pseudo-synchronous rotation of the red giant with the orbit. The comparison of the
+  results from seismology and modelling of the light curve shows a possible alignment
+  of the rotational and orbital axis at the 2sigma level. Red giant eccentric systems
+  could be progenitors of cataclysmic variables and hot subdwarf B stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...564A..36B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1312.4500
+author: Beck, P. G. and Hambleton, K. and Vos, J. and Kallinger, T. and Bloemen, S.
+  and Tkachenko, A. and García, R. A. and Østensen, R. H. and Aerts, C. and Kurtz,
+  D. W. and De Ridder, J. and Hekker, S. and Pavlovski, K. and Mathur, S. and De Smedt,
+  K. and Derekas, A. and Corsaro, E. and Mosser, B. and Van Winckel, H. and Huber,
+  D. and Degroote, P. and Davies, G. R. and Prša, A. and Debosscher, J. and Elsworth,
+  Y. and Nemeth, P. and Siess, L. and Schmid, V. S. and Pápics, P. I. and de Vries,
+  B. L. and van Marle, A. J. and Marcos-Arenal, P. and Lobel, A.
+author_list:
+- family: Beck
+  given: P. G.
+- family: Hambleton
+  given: K.
+- family: Vos
+  given: J.
+- family: Kallinger
+  given: T.
+- family: Bloemen
+  given: S.
+- family: Tkachenko
+  given: A.
+- family: García
+  given: R. A.
+- family: Østensen
+  given: R. H.
+- family: Aerts
+  given: C.
+- family: Kurtz
+  given: D. W.
+- family: De Ridder
+  given: J.
+- family: Hekker
+  given: S.
+- family: Pavlovski
+  given: K.
+- family: Mathur
+  given: S.
+- family: De Smedt
+  given: K.
+- family: Derekas
+  given: A.
+- family: Corsaro
+  given: E.
+- family: Mosser
+  given: B.
+- family: Van Winckel
+  given: H.
+- family: Huber
+  given: D.
+- family: Degroote
+  given: P.
+- family: Davies
+  given: G. R.
+- family: Prša
+  given: A.
+- family: Debosscher
+  given: J.
+- family: Elsworth
+  given: Y.
+- family: Nemeth
+  given: P.
+- family: Siess
+  given: L.
+- family: Schmid
+  given: V. S.
+- family: Pápics
+  given: P. I.
+- family: de Vries
+  given: B. L.
+- family: van Marle
+  given: A. J.
+- family: Marcos-Arenal
+  given: P.
+- family: Lobel
+  given: A.
+date-added: 2017-08-10 19:12:36 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1051/0004-6361/201322477
+eid: A36
+eprint: '1312.4500'
+journal: \aap
+keywords: 'stars: solar-type, binaries: general, stars: rotation, Sun: oscillations,
+  stars: individual: KIC5006817, asteroseismology'
+month: April
+pages: A36
+papis_id: fa7756249d18e62c43b9bda8c6fb63d9
+primaryclass: astro-ph.SR
+ref: beck.p.2014
+title: Pulsating red giant stars in eccentric binary systems discovered from Kepler
+  space-based photometry. A sample study and the analysis of KIC 5006817
+type: article
+volume: '564'
+year: '2014'

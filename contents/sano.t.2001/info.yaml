@@ -1,0 +1,39 @@
+abstract: The nonlinear evolution and saturation mechanism of the magnetorotational
+  instability (MRI) are investigated using three-dimensional resistive MHD simulations.
+  A local shearing box is used for our numerical analysis, and the simulations begin
+  with a purely vertical magnetic field. We find that the magnetic stress in the nonlinear
+  stage of the MRI is strongly fluctuating. The time evolution shows the quasi-periodic
+  recurrence of spike-shaped variations, typically for a few orbits, which correspond
+  to the rapid amplification of the magnetic field by the nonlinear growth of a two-channel
+  solution followed by decay through magnetic reconnections. The increase rate of
+  the total energy in the shearing box system is analytically related to the volume-averaged
+  torque in the system. We find that at the saturated state this energy gain of the
+  system is balanced with the increase of thermal energy, mostly due to joule heating.
+  The spike-shaped time evolution is a general feature of the nonlinear evolution
+  of the MRI in disks threaded by vertical fields and can be seen if the effective
+  magnetic Reynolds number is larger than about unity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...561L.179S
+arxivurl: http://arxiv.org/abs/astro-ph/0110125
+author: Sano, T. and Inutsuka, S.-i.
+author_list:
+- family: Sano
+  given: T.
+- family: Inutsuka
+  given: S.-i.
+date-added: 2017-08-10 20:13:18 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/324763
+eprint: astro-ph/0110125
+journal: \apjl
+keywords: 'Accretion, Accretion Disks, Diffusion, Instabilities, Magnetohydrodynamics:
+  MHD, Turbulence'
+month: November
+pages: L179-L182
+papis_id: c50bea44261e18175abbcaf0115a0f49
+ref: sano.t.2001
+title: 'Saturation and Thermalization of the Magnetorotational Instability: Recurrent
+  Channel Flows and Reconnections'
+type: article
+volume: '561'
+year: '2001'

@@ -1,0 +1,41 @@
+abstract: GenASiS (General Astrophysical Simulation System) is a new code being developed
+  initially and primarily, though by no means exclusively, for the simulation of core-collapse
+  supernovae on the world's leading capability supercomputers. This paper---the first
+  in a series---demonstrates a centrally refined coordinate patch suitable for gravitational
+  collapse and documents methods for compressible nonrelativistic hydrodynamics. We
+  benchmark the hydrodynamics capabilities of GenASiS against many standard test problems;
+  the results illustrate the basic competence of our implementation, demonstrate the
+  strengths and limitations of the HLLC relative to the HLL Riemann solver in a number
+  of interesting cases, and provide preliminary indications of the code's ability
+  to scale and to function with cell-by-cell fixed-mesh refinement.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJS..210...17C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.3392
+author: Cardall, C. Y. and Budiardja, R. D. and Endeve, E. and Mezzacappa, A.
+author_list:
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+- family: Endeve
+  given: E.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-08-11 07:46:34 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0067-0049/210/2/17
+eid: '17'
+eprint: '1207.3392'
+journal: \apjs
+keywords: 'hydrodynamics, methods: numerical'
+month: February
+pages: '17'
+papis_id: aa8fb00b91872c5e9470e04e17cc9c41
+primaryclass: astro-ph.IM
+ref: cardall.c.2014
+title: 'GENASIS: General Astrophysical Simulation System. I. Refinable Mesh and Nonrelativistic
+  Hydrodynamics'
+type: article
+volume: '210'
+year: '2014'

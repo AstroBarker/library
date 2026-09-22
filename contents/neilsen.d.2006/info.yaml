@@ -1,0 +1,32 @@
+abstract: A new algorithm for solving the general relativistic MHD equations is described
+  in this paper. We design our scheme to incorporate black hole excision with smooth
+  boundaries, and to simplify solving the combined Einstein and MHD equations with
+  AMR. The fluid equations are solved using a finite difference convex ENO method.
+  Excision is implemented using overlapping grids. Elliptic and hyperbolic divergence
+  cleaning techniques allow for maximum flexibility in choosing coordinate systems,
+  and we compare both methods for a standard problem. Numerical results of standard
+  test problems are presented in two-dimensional flat space using excision, overlapping
+  grids and elliptic and hyperbolic divergence cleaning.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23S.505N
+author: Neilsen, D. and Hirschmann, E. W. and Millward, R. S.
+author_list:
+- family: Neilsen
+  given: D.
+- family: Hirschmann
+  given: E. W.
+- family: Millward
+  given: R. S.
+date-added: 2017-08-11 06:46:20 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1088/0264-9381/23/16/S12
+eprint: gr-qc/0512147
+journal: Classical and Quantum Gravity
+month: August
+pages: S505-S527
+papis_id: 17e567b05d2c53e2a1ec72a1f39c1171
+ref: neilsen.d.2006
+title: 'Relativistic MHD and excision: formulation and initial tests'
+type: article
+volume: '23'
+year: '2006'

@@ -1,0 +1,44 @@
+abstract: 'We begin an exploration of the capacity of the stationary accretion shock
+  instability (SASI) to generate magnetic fields by adding a weak, stationary, and
+  radial (but bipolar) magnetic field, and in some cases rotation, to an initially
+  spherically symmetric fluid configuration that models a stalled shock in the post-bounce
+  supernova environment. In axisymmetric simulations, we find that cycles of latitudinal
+  flows into and radial flows out of the polar regions amplify the field parallel
+  to the symmetry axis, typically increasing the total magnetic energy by about 2
+  orders of magnitude. Non-axisymmetric calculations result in fundamentally different
+  flows and a larger magnetic energy increase: shearing associated with the SASI spiral
+  mode contributes to a widespread and turbulent field amplification mechanism, boosting
+  the magnetic energy by almost 4 orders of magnitude (a result which remains very
+  sensitive to the spatial resolution of the numerical simulations). While the SASI
+  may contribute to neutron star magnetization, these simulations do not show qualitatively
+  new features in the global evolution of the shock as a result of SASI-induced magnetic
+  field amplification.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713.1219E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3385
+author: Endeve, E. and Cardall, C. Y. and Budiardja, R. D. and Mezzacappa, A.
+author_list:
+- family: Endeve
+  given: E.
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-08-10 14:40:33 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/2/1219
+eprint: '0811.3385'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, stars: magnetic field, supernovae:
+  general'
+month: April
+pages: 1219--1243
+papis_id: 3079712356f55f6922cf6380b6a1f642
+ref: endeve.e.2010
+title: Generation of Magnetic Fields By the Stationary Accretion Shock Instability
+type: article
+volume: '713'
+year: '2010'

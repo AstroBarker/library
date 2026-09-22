@@ -1,0 +1,59 @@
+abstract: We present an implicit finite difference representation for general relativistic
+  radiation hydrodynamics in spherical symmetry. Our code, AGILE-BOLTZTRAN, solves
+  the Boltzmann transport equation for the angular and spectral neutrino distribution
+  functions in self-consistent simulations of stellar core collapse and postbounce
+  evolution. It implements a dynamically adaptive grid in comoving coordinates. A
+  comoving frame in the momentum phase space facilitates the evaluation and tabulation
+  of neutrino-matter interaction cross sections but produces a multitude of observer
+  corrections in the transport equation. Most macroscopically interesting physical
+  quantities are defined by expectation values of the distribution function. We optimize
+  the finite differencing of the microscopic transport equation for a consistent evolution
+  of important expectation values. We test our code in simulations launched from progenitor
+  stars with 13 solar masses and 40 solar masses. Half a second after core collapse
+  and bounce, the protoneutron star in the latter case reaches its maximum mass and
+  collapses further to form a black hole. When the hydrostatic gravitational contraction
+  sets in, we find a transient increase in electron flavor neutrino luminosities due
+  to a change in the accretion rate. The mu- and tau-neutrino luminosities and rms
+  energies, however, continue to rise because previously shock-heated material with
+  a nondegenerate electron gas starts to replace the cool degenerate material at their
+  production site. We demonstrate this by supplementing the concept of neutrinospheres
+  with a more detailed statistical description of the origin of escaping neutrinos.
+  Adhering to our tradition, we compare the evolution of the 13 Msolar progenitor
+  star to corresponding simulations with the multigroup flux-limited diffusion approximation,
+  based on a recently developed flux limiter. We find similar results in the postbounce
+  phase and validate this MGFLD approach for the spherically symmetric case with standard
+  input physics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJS..150..263L
+arxivurl: http://arxiv.org/abs/astro-ph/0207036
+author: Liebendörfer, M. and Messer, O. E. B. and Mezzacappa, A. and Bruenn, S. W.
+  and Cardall, C. Y. and Thielemann, F.-K.
+author_list:
+- family: Liebendörfer
+  given: M.
+- family: Messer
+  given: O. E. B.
+- family: Mezzacappa
+  given: A.
+- family: Bruenn
+  given: S. W.
+- family: Cardall
+  given: C. Y.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-10 18:28:35 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/380191
+eprint: astro-ph/0207036
+journal: \apjs
+keywords: 'Hydrodynamics, Methods: Numerical, Neutrinos, Radiative Transfer, Relativity,
+  Stars: Supernovae: General'
+month: January
+pages: 263--316
+papis_id: 4095c475a526204ff18f1cd22b2a0b49
+ref: liebendorfer.m.2004
+title: A Finite Difference Representation of Neutrino Radiation Hydrodynamics in Spherically
+  Symmetric General Relativistic Spacetime
+type: article
+volume: '150'
+year: '2004'

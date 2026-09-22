@@ -1,0 +1,48 @@
+abstract: We study gravitational waves (GWs) from a set of 2D multigroup neutrino
+  radiation hydrodynamic simulations of core-collapse supernovae (CCSNe). Our goal
+  is to systematize the current knowledge about the post-bounce CCSN GW signal and
+  recognize the templatable features that could be used by the ground-based laser
+  interferometers. We demonstrate that, starting from \texttildelow{}400 ms after
+  core bounce, the dominant GW signal represents the fundamental quadrupole (l = 2)
+  oscillation mode (f-mode) of the proto-neutron star (PNS), which can be accurately
+  reproduced by a linear perturbation analysis of the angle-averaged PNS profile.
+  Before that, in the time interval between \texttildelow{}200 and \texttildelow{}400
+  ms after bounce, the dominant mode has two radial nodes and represents a g-mode.
+  We associate the high-frequency noise in the GW spectrograms above the main signal
+  with p-modes, while below the dominant frequency there is a region with very little
+  power. The collection of models presented here summarizes the dependence of the
+  CCSN GW signal on the progenitor mass, equation of state, many-body corrections
+  to the neutrino opacity, and rotation. Weak dependence of the dominant GW frequency
+  on the progenitor mass motivates us to provide a simple fit for it as a function
+  of time, which can be used as a prior when looking for CCSN candidates in the LIGO
+  data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...861...10M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1801.01914
+author: Morozova, V. and Radice, D. and Burrows, A. and Vartanyan, D.
+author_list:
+- family: Morozova
+  given: V.
+- family: Radice
+  given: D.
+- family: Burrows
+  given: A.
+- family: Vartanyan
+  given: D.
+date-added: 2018-08-26 21:00:34 -0400
+date-modified: 2018-08-26 21:00:36 -0400
+doi: 10.3847/1538-4357/aac5f1
+eid: '10'
+eprint: '1801.01914'
+journal: \apj
+keywords: 'equation of state, gravitational waves, hydrodynamics, supernovae: general'
+month: July
+pages: '10'
+papis_id: e3276aa7ad187f217e1c044ecdf73afa
+primaryclass: astro-ph.HE
+ref: morozova.v.2018a
+title: The Gravitational Wave Signal from Core-collapse Supernovae
+type: article
+volume: '861'
+year: '2018'

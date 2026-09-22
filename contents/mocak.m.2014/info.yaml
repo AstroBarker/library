@@ -1,0 +1,51 @@
+abstract: 'We present a statistical analysis of turbulent convection in stars within
+  our Reynolds-Averaged Navier Stokes (RANS) framework in spherical geometry which
+  we derived from first principles. The primary results reported in this document
+  include: (1) an extensive set of mean-field equations for compressible, multi-species
+  hydrodynamics, and (2) corresponding mean-field data computed from various simulation
+  models. Some supplementary scale analysis data is also presented. The simulation
+  data which is presented includes: (1) shell convection during oxygen burning in
+  a 23 solar mass supernova progenitor, (2) envelope convection in a 5 solar mass
+  red giant, (3) shell convection during the helium flash, and (4) a hydrogen injection
+  flash in a 1.25 solar mass star. These simulations have been partially described
+  previously in Meakin [2006], Meakin and Arnett [2007a,b, 2010], Arnett et al. [2009,
+  2010], Viallet et al. [2011, 2013a,b] and Mocak et al. [2009, 2011]. New data is
+  also included in this document with several new domain and resolution configurations
+  as well as some variations in the physical model such as convection zone depth and
+  driving source term. The long term goal of this work is to aid in the development
+  of more sophisticated models for treating hydrodynamic phenomena (e.g., turbulent
+  convection) in the field of stellar evolution by providing a direct link between
+  3D simulation data and the mean fields which are modeled by 1D stellar evolution
+  codes. As such, this data can be used to test previously proposed turbulence models
+  found in the literature and sometimes used in stellar modeling. This data can also
+  serve to test basic physical principles for model building and inspire new prescriptions
+  for use in 1D evolution codes.'
+adscomment: 176 Pages, 115 Figures
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014arXiv1401.5176M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.5176
+author: Mocák, M. and Meakin, C. and Viallet, M. and Arnett, D.
+author_list:
+- family: Mocák
+  given: M.
+- family: Meakin
+  given: C.
+- family: Viallet
+  given: M.
+- family: Arnett
+  given: D.
+date-added: 2018-04-26 01:29:36 +0000
+date-modified: 2018-04-26 01:29:36 +0000
+eprint: '1401.5176'
+journal: ArXiv e-prints
+keywords: Astrophysics - Solar and Stellar Astrophysics, Physics - Fluid Dynamics,
+  Physics - Geophysics
+month: January
+papis_id: 09def55853a820bbc27c8cb58f9744cb
+primaryclass: astro-ph.SR
+ref: mocak.m.2014
+title: Compressible Hydrodynamic Mean-Field Equations in Spherical Geometry and their
+  Application to Turbulent Stellar Convection Data
+type: article
+year: '2014'

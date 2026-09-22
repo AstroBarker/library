@@ -1,0 +1,52 @@
+abstract: 'We study the instantaneous virial balance of CCs in numerical models of
+  MCs. The models represent a range of magnetic field strengths in MCs from subcritical
+  to nonmagnetic regimes. We identify CCs at different density thresholds and calculate,
+  for each object, the terms that enter the EVT. A CC is gravitationally bound when
+  the gravitational term in the EVT is larger than the amount for the system to be
+  virialized, which is more stringent than the condition that it be large enough to
+  make the total volume energy negative. We also calculate other quantities used to
+  indicate the state of gravitational boundedness: Jeans number Jc, mass-to-magnetic
+  flux ratio muc, and virial parameter alphavir. Our results suggest the following:
+  (1) CCs are dynamical out-of-equilibrium structures. (2) The surface energies are
+  of the same order as their volume counterparts. (3) CCs are either in the process
+  of being compressed or dispersed by the velocity field. Yet, not all CCs that have
+  a compressive net kinetic energy are gravitationally bound. (4) There is no one-to-one
+  correspondence between the states of gravitational boundedness as described by the
+  virial analysis or by the other indicators. In general, in the virial analysis,
+  only the inner regions of the objects are gravitationally bound, whereas Jc, alphavir,
+  and muc estimates tend to show that they are more bound at the lowest threshold
+  levels and more magnetically supercritical. (5) We observe, in the nonmagnetic simulation,
+  the existence of a bound core with structural and dynamical properties that resemble
+  those of Barnard 68. This suggests that such cores can form in a larger MC and then
+  be confined by the warm gas of a newly formed, nearby H II region.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...661..262D
+arxivurl: http://arxiv.org/abs/astro-ph/0607362
+author: Dib, S. and Kim, J. and Vázquez-Semadeni, E. and Burkert, A. and Shadmehri,
+  M.
+author_list:
+- family: Dib
+  given: S.
+- family: Kim
+  given: J.
+- family: Vázquez-Semadeni
+  given: E.
+- family: Burkert
+  given: A.
+- family: Shadmehri
+  given: M.
+date-added: 2017-08-10 23:23:29 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/513708
+eprint: astro-ph/0607362
+journal: \apj
+keywords: 'ISM: Clouds, ISM: Globules, ISM: Kinematics and Dynamics, ISM: Magnetic
+  Fields, Magnetohydrodynamics: MHD, Turbulence'
+month: May
+pages: 262--284
+papis_id: 7fdb3f67fe1d6e120c5a29f839c34b5b
+ref: dib.s.2007
+title: The Virial Balance of Clumps and Cores in Molecular Clouds
+type: article
+volume: '661'
+year: '2007'

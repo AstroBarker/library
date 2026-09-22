@@ -1,0 +1,41 @@
+abstract: A third order shock-capturing numerical scheme for three-dimensional special
+  relativistic magnetohydrodynamics (3-D RMHD) is presented and validated against
+  several numerical tests. The simple and efficient central scheme described in Paper
+  I (Del Zanna \& Bucciantini \cite{Zanna2002}) for relativistic hydrodynamics is
+  here extended to the magnetic case by following the strategies prescribed for classical
+  MHD by Londrillo \& Del Zanna (\cite{Londrillo2000}). The scheme completely avoids
+  spectral decomposition into characteristic waves, which is computationally expensive
+  and subject to many degenerate cases in the magnetic case, while it makes use of
+  a two-speed Riemann solver that just requires the knowledge of the two local fast
+  magnetosonic velocities. Moreover, the onset of spurious magnetic monopoles, which
+  is a typical problem for multi-dimensional MHD upwind codes, is prevented by properly
+  taking into account the solenoidal constraint and the specific antisymmetric nature
+  of the induction equation. Finally, the extension to generalized orthogonal curvilinear
+  coordinate systems is included, thus the scheme is ready to incorporate general
+  relativistic (GRMHD) effects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...400..397D
+arxivurl: http://arxiv.org/abs/astro-ph/0210618
+author: Del Zanna, L. and Bucciantini, N. and Londrillo, P.
+author_list:
+- family: Del Zanna
+  given: L.
+- family: Bucciantini
+  given: N.
+- family: Londrillo
+  given: P.
+date-added: 2017-08-10 21:04:03 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1051/0004-6361:20021641
+eprint: astro-ph/0210618
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), relativity, shock waves, methods: numerical'
+month: March
+pages: 397--413
+papis_id: 6597c85f5de94bf9980a603d638eacd8
+ref: del_zanna.l.2003
+title: An efficient shock-capturing central-type scheme for multidimensional relativistic
+  flows. II. Magnetohydrodynamics
+type: article
+volume: '400'
+year: '2003'

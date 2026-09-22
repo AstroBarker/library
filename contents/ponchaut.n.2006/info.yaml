@@ -1,0 +1,41 @@
+abstract: The problem of a cylindrically or spherically imploding and reflecting shock
+  wave in a flow initially at rest is studied without the use of the strong-shock
+  approximation. Dimensional arguments are first used to show that this flow admits
+  a general solution where an infinitesimally weak shock from infinity strengthens
+  as it converges towards the origin. For a perfect-gas equation of state, this solution
+  depends only on the dimensionality of the flow and on the ratio of specific heats.
+  The Guderley power-law result can then be interpreted as the leading-order, strong-shock
+  approximation, valid near the origin at the implosion centre. We improve the Guderley
+  solution by adding two further terms in the series expansion solution for both the
+  incoming and the reflected shock waves. A series expansion, valid where the shock
+  is still weak and very far from the origin, is also constructed. With an appropriate
+  change of variables and using the exact shock-jump conditions, a numerical, characteristics-based
+  solution is obtained describing the general shock motion from almost infinity to
+  very close to the reflection point. Comparisons are made between the series expansions,
+  the characteristics solution, and the results obtained using an Euler solver. These
+  show that the addition of two terms to the Guderley solution significantly extends
+  the range of validity of the strong-shock series expansion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006JFM...560..103P
+author: Ponchaut, N. F. and Hornung, H. G. and Pullin, D. I. and Mouton, C. A.
+author_list:
+- family: Ponchaut
+  given: N. F.
+- family: Hornung
+  given: H. G.
+- family: Pullin
+  given: D. I.
+- family: Mouton
+  given: C. A.
+date-added: 2017-08-10 15:19:52 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1017/S0022112006000590
+journal: Journal of Fluid Mechanics
+month: August
+pages: 103--122
+papis_id: 0a2464f85f0775a497a255275a339818
+ref: ponchaut.n.2006
+title: On imploding cylindrical and spherical shock waves in a perfect gas
+type: article
+volume: '560'
+year: '2006'

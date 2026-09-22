@@ -1,0 +1,75 @@
+abstract: We present a case study of validating an astrophysical simulation code.
+  Our study focuses on validating FLASH, a parallel, adaptive-mesh hydrodynamics code
+  for studying the compressible, reactive flows found in many astrophysical environments.
+  We describe the astrophysics problems of interest and the challenges associated
+  with simulating these problems. We describe methodology and discuss solutions to
+  difficulties encountered in verification and validation. We describe verification
+  tests regularly administered to the code, present the results of new verification
+  tests, and outline a method for testing general equations of state. We present the
+  results of two validation tests in which we compared simulations to experimental
+  data. The first is of a laser-driven shock propagating through a multilayer target,
+  a configuration subject to both Rayleigh-Taylor and Richtmyer-Meshkov instabilities.
+  The second test is a classic Rayleigh-Taylor instability, where a heavy fluid is
+  supported against the force of gravity by a light fluid. Our simulations of the
+  multilayer target experiments showed good agreement with the experimental results,
+  but our simulations of the Rayleigh-Taylor instability did not agree well with the
+  experimental results. We discuss our findings and present results of additional
+  simulations undertaken to further investigate the Rayleigh-Taylor instability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJS..143..201C
+arxivurl: http://arxiv.org/abs/astro-ph/0206251
+author: Calder, A. C. and Fryxell, B. and Plewa, T. and Rosner, R. and Dursi, L. J.
+  and Weirs, V. G. and Dupont, T. and Robey, H. F. and Kane, J. O. and Remington,
+  B. A. and Drake, R. P. and Dimonte, G. and Zingale, M. and Timmes, F. X. and Olson,
+  K. and Ricker, P. and MacNeice, P. and Tufo, H. M.
+author_list:
+- family: Calder
+  given: A. C.
+- family: Fryxell
+  given: B.
+- family: Plewa
+  given: T.
+- family: Rosner
+  given: R.
+- family: Dursi
+  given: L. J.
+- family: Weirs
+  given: V. G.
+- family: Dupont
+  given: T.
+- family: Robey
+  given: H. F.
+- family: Kane
+  given: J. O.
+- family: Remington
+  given: B. A.
+- family: Drake
+  given: R. P.
+- family: Dimonte
+  given: G.
+- family: Zingale
+  given: M.
+- family: Timmes
+  given: F. X.
+- family: Olson
+  given: K.
+- family: Ricker
+  given: P.
+- family: MacNeice
+  given: P.
+- family: Tufo
+  given: H. M.
+date-added: 2017-08-11 00:44:58 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342267
+eprint: astro-ph/0206251
+journal: \apjs
+keywords: 'Hydrodynamics, Instabilities, Methods: Numerical, Shock Waves'
+month: November
+pages: 201--229
+papis_id: e00f583bd7d56014941d3a2c55840081
+ref: calder.a.2002
+title: On Validating an Astrophysical Simulation Code
+type: article
+volume: '143'
+year: '2002'

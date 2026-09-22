@@ -1,0 +1,50 @@
+abstract: We describe a phenomenological model for molecular hydrogen formation suited
+  for applications in galaxy formation simulations, which includes nonequilibrium
+  formation of H2 on dust and approximate treatment of both its self-shielding and
+  shielding by dust from the dissociating UV radiation. The model is applicable in
+  simulations in which individual star-forming regions---the giant molecular complexes---can
+  be identified (resolution of tens of parsecs) and their mean internal density estimated
+  reliably, even if internal structure is not resolved. In agreement with previous
+  studies, calculations based on our model show that the transition from atomic to
+  fully molecular phase depends primarily on the metallicity, which we assume is directly
+  related to the dust abundance, and clumpiness of the interstellar medium. The clumpiness
+  simply boosts the formation rate of molecular hydrogen, while dust serves both as
+  a catalyst of H2 formation and as an additional shielding from dissociating UV radiation.
+  The upshot is that it is difficult to form fully shielded giant molecular clouds
+  while gas metallicity is low. However, once the gas is enriched to Z ~ 0.01-0.1
+  Z sun, the subsequent star formation and enrichment can proceed at a much faster
+  rate. This may keep star formation efficiency in the low-mass, low-metallicity progenitors
+  of galaxies very low for a certain period of time with the effect similar to a strong
+  "feedback" mechanism. The effect may help explain the steep increase of the mass-to-light
+  ratio toward smaller masses observed in the local galaxy population. We apply the
+  model and star formation recipes based on the local amount of molecular gas to an
+  output from a cosmological simulation of galaxy formation and show that resulting
+  global correlations between star formation and gas, and H2 surface densities are
+  in good agreement with observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...697...55G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.4148
+author: Gnedin, N. Y. and Tassis, K. and Kravtsov, A. V.
+author_list:
+- family: Gnedin
+  given: N. Y.
+- family: Tassis
+  given: K.
+- family: Kravtsov
+  given: A. V.
+date-added: 2017-08-10 15:41:13 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/697/1/55
+eprint: '0810.4148'
+journal: \apj
+keywords: 'cosmology: theory, galaxies: evolution, galaxies: formation, methods: numerical,
+  stars: formation'
+month: May
+pages: 55--67
+papis_id: 715be7edeb9ab70af494cfc1046eab68
+ref: gnedin.n.2009
+title: Modeling Molecular Hydrogen and Star Formation in Cosmological Simulations
+type: article
+volume: '697'
+year: '2009'

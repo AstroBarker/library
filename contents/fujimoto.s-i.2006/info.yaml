@@ -1,0 +1,52 @@
+abstract: We perform two-dimensional, axisymmetric, magnetohydrodynamic simulations
+  of the collapse of a rotating star of 40 Msolar in light of the collapsar model
+  of gamma-ray bursts. Considering two distributions of angular momentum, up to ~1017
+  cm2 s-1, and the uniform vertical magnetic field, we investigate the formation of
+  an accretion disk around a black hole and the jet production near the black hole.
+  After material reaches the black hole with high angular momentum, the disk forms
+  inside a surface of weak shock. The disk reaches a quasi-steady state for stars
+  whose magnetic field is less than 1010 G before the collapse. We find that the jet
+  can be driven by the magnetic fields even if the central core does not rotate as
+  rapidly as previously assumed as long as the outer layers of the star have sufficiently
+  high angular momentum. The magnetic fields are chiefly amplified inside the disk
+  due to the compression and the wrapping of the field. The fields inside the disk
+  propagate to the polar region along the inner boundary near the black hole through
+  the Alfv{\'e}n wave and eventually drive the jet. The quasi-steady disk is not an
+  advection-dominated disk but a neutrino cooling-dominated one. Mass accretion rates
+  in the disks are greater than 0.01 Msolar s-1 with large fluctuations. The disk
+  is transparent for neutrinos. The dense part of the disk, which is located near
+  the black hole, emits neutrinos efficiently at a constant rate of <8\texttimes{}1051
+  ergs s-1. The neutrino luminosity is much smaller than those from supernovae after
+  the neutrino burst.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...644.1040F
+arxivurl: http://arxiv.org/abs/astro-ph/0602457
+author: Fujimoto, S.-i. and Kotake, K. and Yamada, S. and Hashimoto, M.-a. and Sato,
+  K.
+author_list:
+- family: Fujimoto
+  given: S.-i.
+- family: Kotake
+  given: K.
+- family: Yamada
+  given: S.
+- family: Hashimoto
+  given: M.-a.
+- family: Sato
+  given: K.
+date-added: 2017-08-11 00:32:12 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/503624
+eprint: astro-ph/0602457
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Gamma Rays: Bursts, Methods: Numerical, Magnetohydrodynamics:
+  MHD, Stars: Supernovae: General'
+month: June
+pages: 1040--1055
+papis_id: 14e5f01daebf662c5e7c409336ae1de7
+ref: fujimoto.s_i.2006
+title: Magnetohydrodynamic Simulations of a Rotating Massive Star Collapsing to a
+  Black Hole
+type: article
+volume: '644'
+year: '2006'

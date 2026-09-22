@@ -1,0 +1,58 @@
+abstract: 'Context: AGB stars have long been held responsible for the important star-to-star
+  variations in light elements observed in Galactic globular clusters (GCs).  Aims:
+  We analyse the main impacts of a first generation of rotating intermediate-mass
+  stars on the chemical properties of second-generation GC stars. The rotating models
+  were computed without magnetic fields and without the effects of internal gravity
+  waves. They account for the transports by meridional currents and turbulence. Methods:
+  We computed the evolution of both standard and rotating stellar models with initial
+  masses between 2.5 and 8 {M\_\&sun;} within the metallicity range covered by Galactic
+  GCs.  Results: During central He-burning, rotational mixing transports fresh CO-rich
+  material from the core towards the hydrogen-burning shell, leading to the production
+  of primary 14N. In stars more massive than M\gtrapprox{} 4 {M\_\&sun;}, the convective
+  envelope reaches this reservoir during the second dredge-up episode, resulting in
+  a large increase in the total C+N+O content at the stellar surface and in the stellar
+  wind. The corresponding pollution depends on the initial metallicity. At low- and
+  intermediate-metallicity (i.e., [Fe/H] lower than or equal to \texttildelow{} -1.2),
+  it is at odds with the constancy of C+N+O observed among GC low-mass stars.  Conclusions:
+  With the given input physics, our models suggest that massive (i.e., >=4 {M\_\&sun;})
+  rotating AGB stars have not shaped the abundance patterns observed in low- and intermediate-metallicity
+  GCs. Our non-rotating models, on the other hand, do not predict surface C+N+O enhancements,
+  hence are in a better position as sources of the chemical anomalies in GCs showing
+  the constancy of the C+N+O. However at the moment, there is no reason to think that
+  intermediate-mass stars were not rotating. On the contrary there is observational
+  evidence that stars in clusters have higher rotational velocities than in the field.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...505..727D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.5200
+author: Decressin, T. and Charbonnel, C. and Siess, L. and Palacios, A. and Meynet,
+  G. and Georgy, C.
+author_list:
+- family: Decressin
+  given: T.
+- family: Charbonnel
+  given: C.
+- family: Siess
+  given: L.
+- family: Palacios
+  given: A.
+- family: Meynet
+  given: G.
+- family: Georgy
+  given: C.
+date-added: 2017-08-11 00:17:56 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1051/0004-6361/200911822
+eprint: '0907.5200'
+journal: \aap
+keywords: 'stars: AGB and post-AGB, star: rotation, star: abundances, globular clusters:
+  general'
+month: October
+pages: 727--733
+papis_id: 06cefef08d3cb54ddb3208af87e838ee
+primaryclass: astro-ph.SR
+ref: decressin.t.2009
+title: CNO enrichment by rotating AGB stars in globular clusters
+type: article
+volume: '505'
+year: '2009'

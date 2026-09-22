@@ -1,0 +1,37 @@
+abstract: We describe a high-throughput optical spectrograph that has been in operation
+  at the Cassegrain focus of the 1.5-m Tillinghast reflector since 1994 January. FAST
+  has a 3'-long slit and is typically operated at resolutions between 1 and 6 {\AA}.
+  With a collimated beam diameter of ~100 mm, FAST (with a 300 lines mm^-1 grating
+  and a 1.5"-wide slit) offers 4000 {\AA} of spectral coverage at 3 {\AA} resolution.
+  FAST's optics are primarily reflective, are adequately sized to prevent vignetting,
+  and use high-performance coatings. The high measured system peak efficiency of 26\%
+  (fraction of light incident on the primary detected at the CCD) demonstrates that
+  the throughput of reflective optics can be quite competitive with that of refractive
+  optics. FAST's structure is constructed from graphite-epoxy composite panels, which
+  have an excellent stiffness-to-weight ratio and low thermal expansion, resulting
+  in low flexure and excellent focus stability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998PASP..110...79F
+author: Fabricant, D. and Cheimets, P. and Caldwell, N. and Geary, J.
+author_list:
+- family: Fabricant
+  given: D.
+- family: Cheimets
+  given: P.
+- family: Caldwell
+  given: N.
+- family: Geary
+  given: J.
+date-added: 2017-08-10 21:04:29 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/316111
+journal: \pasp
+keywords: 'INSTRUMENTATION: SPECTROGRAPHS'
+month: January
+pages: 79--85
+papis_id: 50fbe28f3a13382e05b62b7c496ef60f
+ref: fabricant.d.1998
+title: The FAST Spectrograph for the Tillinghast Telescope
+type: article
+volume: '110'
+year: '1998'

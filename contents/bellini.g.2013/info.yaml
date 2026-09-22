@@ -1,0 +1,231 @@
+abstract: The solar neutrino experiment Borexino, which is located in the Gran Sasso
+  underground laboratories, is in a unique position to study muon-induced backgrounds
+  in an organic liquid scintillator. In this study, a large sample of cosmic muons
+  is identified and tracked by a muon veto detector external to the liquid scintillator,
+  and by the specific light patterns observed when muons cross the scintillator volume.
+  The yield of muon-induced neutrons is found to be Yn = (3.10$\pm$.11)\cdot{}10-4
+  n/(mu\cdot{}(g/cm2)). The distance profile between the parent muon track and the
+  neutron capture point has the average value lambda = (81.5\.7) cm. Additionally
+  the yields of a number of cosmogenic radioisotopes are measured for 12N, 12B, 8He,
+  9C, 9Li, 8B, 6He, 8Li, 11Be, 10C and 11C. All results are compared with Monte Carlo
+  simulation predictions using the FLUKA and GEANT4 packages. General agreement between
+  data and simulation is observed for the cosmogenic production yields with a few
+  exceptions, the most prominent case being 11C yield for which both codes return
+  about 50\% lower values. The predicted mu-n distance profile and the neutron multiplicity
+  distribution are found to be overall consistent with data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013JCAP...08..049B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.7381
+author: Bellini, G. and Benziger, J. and Bick, D. and Bonfini, G. and Bravo, D. and
+  Buizza Avanzini, M. and Caccianiga, B. and Cadonati, L. and Calaprice, F. and Cavalcante,
+  P. and Chavarria, A. and Chepurnov, A. and D'Angelo, D. and Davini, S. and Derbin,
+  A. and Empl, A. and Etenko, A. and Fomenko, K. and Franco, D. and Galbiati, C. and
+  Gazzana, S. and Ghiano, C. and Giammarchi, M. and Göger-Neff, M. and Goretti, A.
+  and Grandi, L. and Hagner, C. and Hungerford, E. and Ianni, A. and Ianni, A. and
+  Kobychev, V. and Korablev, D. and Korga, G. and Kryn, D. and Laubenstein, M. and
+  Lewke, T. and Litvinovich, E. and Loer, B. and Lombardi, P. and Lombardi, F. and
+  Ludhova, L. and Lukyanchenko, G. and Machulin, I. and Manecki, S. and Maneschg,
+  W. and Manuzio, G. and Meindl, Q. and Meroni, E. and Miramonti, L. and Misiaszek,
+  M. and Möllenberg, R. and Mosteiro, P. and Muratova, V. and Oberauer, L. and Obolensky,
+  M. and Ortica, F. and Otis, K. and Pallavicini, M. and Papp, L. and Perasso, L.
+  and Perasso, S. and Pocar, A. and Ranucci, G. and Razeto, A. and Re, A. and Romani,
+  A. and Rossi, N. and Saldanha, R. and Salvo, C. and Schönert, S. and Simgen, H.
+  and Skorokhvatov, M. and Smirnov, O. and Sotnikov, A. and Sukhotin, S. and Suvorov,
+  Y. and Tartaglia, R. and Testera, G. and Vignaud, D. and Vogelaar, R. B. and von
+  Feilitzsch, F. and Winter, J. and Wojcik, M. and Wright, A. and Wurm, M. and Xu,
+  J. and Zaimidoroga, O. and Zavatarelli, S. and Zuzel, G.
+author_list:
+- family: Bellini
+  given: G.
+- family: Benziger
+  given: J.
+- family: Bick
+  given: D.
+- family: Bonfini
+  given: G.
+- family: Bravo
+  given: D.
+- family: Buizza Avanzini
+  given: M.
+- family: Caccianiga
+  given: B.
+- family: Cadonati
+  given: L.
+- family: Calaprice
+  given: F.
+- family: Cavalcante
+  given: P.
+- family: Chavarria
+  given: A.
+- family: Chepurnov
+  given: A.
+- family: D'Angelo
+  given: D.
+- family: Davini
+  given: S.
+- family: Derbin
+  given: A.
+- family: Empl
+  given: A.
+- family: Etenko
+  given: A.
+- family: Fomenko
+  given: K.
+- family: Franco
+  given: D.
+- family: Galbiati
+  given: C.
+- family: Gazzana
+  given: S.
+- family: Ghiano
+  given: C.
+- family: Giammarchi
+  given: M.
+- family: Göger-Neff
+  given: M.
+- family: Goretti
+  given: A.
+- family: Grandi
+  given: L.
+- family: Hagner
+  given: C.
+- family: Hungerford
+  given: E.
+- family: Ianni
+  given: A.
+- family: Ianni
+  given: A.
+- family: Kobychev
+  given: V.
+- family: Korablev
+  given: D.
+- family: Korga
+  given: G.
+- family: Kryn
+  given: D.
+- family: Laubenstein
+  given: M.
+- family: Lewke
+  given: T.
+- family: Litvinovich
+  given: E.
+- family: Loer
+  given: B.
+- family: Lombardi
+  given: P.
+- family: Lombardi
+  given: F.
+- family: Ludhova
+  given: L.
+- family: Lukyanchenko
+  given: G.
+- family: Machulin
+  given: I.
+- family: Manecki
+  given: S.
+- family: Maneschg
+  given: W.
+- family: Manuzio
+  given: G.
+- family: Meindl
+  given: Q.
+- family: Meroni
+  given: E.
+- family: Miramonti
+  given: L.
+- family: Misiaszek
+  given: M.
+- family: Möllenberg
+  given: R.
+- family: Mosteiro
+  given: P.
+- family: Muratova
+  given: V.
+- family: Oberauer
+  given: L.
+- family: Obolensky
+  given: M.
+- family: Ortica
+  given: F.
+- family: Otis
+  given: K.
+- family: Pallavicini
+  given: M.
+- family: Papp
+  given: L.
+- family: Perasso
+  given: L.
+- family: Perasso
+  given: S.
+- family: Pocar
+  given: A.
+- family: Ranucci
+  given: G.
+- family: Razeto
+  given: A.
+- family: Re
+  given: A.
+- family: Romani
+  given: A.
+- family: Rossi
+  given: N.
+- family: Saldanha
+  given: R.
+- family: Salvo
+  given: C.
+- family: Schönert
+  given: S.
+- family: Simgen
+  given: H.
+- family: Skorokhvatov
+  given: M.
+- family: Smirnov
+  given: O.
+- family: Sotnikov
+  given: A.
+- family: Sukhotin
+  given: S.
+- family: Suvorov
+  given: Y.
+- family: Tartaglia
+  given: R.
+- family: Testera
+  given: G.
+- family: Vignaud
+  given: D.
+- family: Vogelaar
+  given: R. B.
+- family: von Feilitzsch
+  given: F.
+- family: Winter
+  given: J.
+- family: Wojcik
+  given: M.
+- family: Wright
+  given: A.
+- family: Wurm
+  given: M.
+- family: Xu
+  given: J.
+- family: Zaimidoroga
+  given: O.
+- family: Zavatarelli
+  given: S.
+- family: Zuzel
+  given: G.
+date-added: 2017-08-10 17:41:01 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/1475-7516/2013/08/049
+eid: 049
+eprint: '1304.7381'
+journal: \jcap
+month: August
+pages: 049
+papis_id: 07fa7dfaf21ad507168202ae2228c064
+primaryclass: physics.ins-det
+ref: bellini.g.2013
+title: Cosmogenic Backgrounds in Borexino at 3800 m water-equivalent depth
+type: article
+volume: '8'
+year: '2013'

@@ -1,0 +1,47 @@
+abstract: 'We measure apparent velocities (v app) of the Halpha and  Hbeta Balmer
+  line cores for 449 non-binary thin disk normal DA white  dwarfs (WDs) using optical
+  spectra taken for the European Southern  Observatory SN Ia progenitor survey (SPY).
+  Assuming these WDs are nearby  and comoving, we correct our velocities to the local
+  standard of rest so that  the remaining stellar motions are random. By averaging
+  over the sample, we are left with the mean gravitational redshift, [vg]: we find
+  [vg] = [vapp] = 32.57  $\pm$ 1.17 km s-1. Using the mass-radius relation from  evolutionary
+  models, this translates to a mean mass of  0.647+0.013 -0.014 Msun. We interpret
+  this  as the mean mass for all DAs. Our results are in agreement with previous  gravitational
+  redshift studies but are significantly higher than all previous  spectroscopic determinations
+  except the recent findings of Tremblay \&  Bergeron. Since the gravitational redshift
+  method is independent of surface  gravity from atmosphere models, we investigate
+  the mean mass of DAs with  spectroscopic T eff both above and below 12,000 K fits
+  to line  profiles give a rapid increase in the mean mass with decreasing  Teff.
+  Our results are consistent with no significant change  in mean mass: [M]hot = 0.640
+  \$\pm\$  0.014 M\&sun; and [M]cool =  0.686+0.035 -0.039 M\&sun;.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...712..585F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.2009
+author: Falcon, R. E. and Winget, D. E. and Montgomery, M. H. and Williams, K. A.
+author_list:
+- family: Falcon
+  given: R. E.
+- family: Winget
+  given: D. E.
+- family: Montgomery
+  given: M. H.
+- family: Williams
+  given: K. A.
+date-added: 2017-08-10 22:47:00 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/712/1/585
+eprint: '1002.2009'
+journal: \apj
+keywords: 'stars: kinematics and dynamics, techniques: radial velocities, techniques:
+  spectroscopic, white dwarfs'
+month: March
+pages: 585--595
+papis_id: 8c551e7c45d1b6de65114c925d9b8eac
+primaryclass: astro-ph.SR
+ref: falcon.r.2010
+title: A Gravitational Redshift Determination of the Mean Mass of White Dwarfs. DA
+  Stars
+type: article
+volume: '712'
+year: '2010'

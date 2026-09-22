@@ -1,0 +1,33 @@
+abstract: We review various prescriptions which have been proposed for the turbulent
+  transport of matter and angular momentum in differentially rotating stellar radiation
+  zones. A new prescription is presented for the horizontal transport associated with
+  the anisotropic shear turbulence which is produced by the differential rotation
+  in latitude; this ``beta-viscosity'' is drawn from torque measurements in the classical
+  Couette-Taylor experiment (Richard \& Zahn \cite{Richard99}, A\&A, 347, 734). Its
+  implementation in a stellar evolution code leads to enhanced mixing, as illustrated
+  by models of a rotating main-sequence star of 1.5 solar mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...425..243M
+arxivurl: http://arxiv.org/abs/astro-ph/0403580
+author: Mathis, S. and Palacios, A. and Zahn, J.-P.
+author_list:
+- family: Mathis
+  given: S.
+- family: Palacios
+  given: A.
+- family: Zahn
+  given: J.-P.
+date-added: 2017-08-10 17:06:18 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1051/0004-6361:20040279
+eprint: astro-ph/0403580
+journal: \aap
+keywords: 'turbulence, stars: evolution'
+month: October
+pages: 243--247
+papis_id: 0b81f7a0ed43fef543a159fb1d7fb4a9
+ref: mathis.s.2004
+title: On shear-induced turbulence in rotating stars
+type: article
+volume: '425'
+year: '2004'

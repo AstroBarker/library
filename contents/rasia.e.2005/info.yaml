@@ -1,0 +1,55 @@
+abstract: The thermal properties of hydrodynamical simulations of galaxy clusters
+  are usually compared to observations by relying on the emission-weighted temperature
+  Tew instead of on the spectroscopic X-ray temperature Tspec, which is obtained by
+  actual observational data. In a recent paper, Mazzotta et al. show that if the intracluster
+  medium is thermally complex, Tew fails at reproducing Tspec. They propose a new
+  formula, the spectroscopic-like temperature, Tsl, which approximates Tspec better
+  than a few percent. By analyzing a set of hydrodynamical simulations of galaxy clusters,
+  we find that Tsl is lower than Tew by 20\%-30\%. As a consequence, the normalization
+  of the M-Tsl relation from the simulations is larger than the observed one by about
+  50\%. If masses in simulated clusters are estimated by following the same assumptions
+  of hydrostatic equilibrium and beta-model gas density profile, as is often done
+  for observed clusters, then the M-T relation decreases by about 40\% and significantly
+  reduces its scatter. On the basis of this result, we conclude that using the observed
+  M-T relation to infer the amplitude of the power spectrum from the X-ray temperature
+  function could bias low sigma8 by 10\%-20\%. This may alleviate the tension between
+  the value of sigma8 inferred from the cluster number density and those from the
+  cosmic microwave background and large-scale structure.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...618L...1R
+arxivurl: http://arxiv.org/abs/astro-ph/0409650
+author: Rasia, E. and Mazzotta, P. and Borgani, S. and Moscardini, L. and Dolag, K.
+  and Tormen, G. and Diaferio, A. and Murante, G.
+author_list:
+- family: Rasia
+  given: E.
+- family: Mazzotta
+  given: P.
+- family: Borgani
+  given: S.
+- family: Moscardini
+  given: L.
+- family: Dolag
+  given: K.
+- family: Tormen
+  given: G.
+- family: Diaferio
+  given: A.
+- family: Murante
+  given: G.
+date-added: 2017-08-11 05:13:44 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427554
+eprint: astro-ph/0409650
+journal: \apjl
+keywords: 'Cosmology: Cosmological Parameters, Cosmology: Theory, Cosmology: Dark
+  Matter, Galaxies: Clusters: General, X-Rays: Galaxies'
+month: January
+pages: L1-L4
+papis_id: a0e0f5f76d3dccf50b651326661f0ca2
+ref: rasia.e.2005
+title: 'Mismatch between X-Ray and Emission-weighted Temperatures in Galaxy Clusters:
+  Cosmological Implications'
+type: article
+volume: '618'
+year: '2005'

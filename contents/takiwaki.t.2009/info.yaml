@@ -1,0 +1,44 @@
+abstract: We perform a series of two-dimensional magnetohydrodynamic core-collapse
+  simulations of rapidly rotating and strongly magnetized massive stars. To study
+  the properties of magnetic explosions for a longer time stretch of postbounce evolution,
+  we develop a new code under the framework of special relativity including a realistic
+  equation of state with a multiflavor neutrino leakage scheme. Our results show the
+  generation of the magnetically dominated jets in the two ways. One is launched just
+  after the core bounce in a prompt way and another is launched at ~100 ms after the
+  stall of the prompt shock. We find that the shock-revival occurs when the magnetic
+  pressure becomes strong enough, due to the field wrapping, to overwhelm the ram
+  pressure of the accreting matter. The critical toroidal magnetic fields for the
+  magnetic shock-revival are found to be universal of ~1015 G behind the jets. We
+  point out that the time difference before the shock-revival has a strong correlation
+  with the explosion energies. Our results suggest that the magnetically dominated
+  jets are accompanied by the formation of the magnetars. Since the jets are mildly
+  relativistic, we speculate that they might be the origin of some observed X-ray
+  flashes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691.1360T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0712.1949
+author: Takiwaki, T. and Kotake, K. and Sato, K.
+author_list:
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+- family: Sato
+  given: K.
+date-added: 2017-08-10 20:13:10 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/2/1360
+eprint: '0712.1949'
+journal: \apj
+keywords: 'gamma rays: bursts, methods: numerical, MHD, pulsars: general, relativity,
+  supernovae: general'
+month: February
+pages: 1360--1379
+papis_id: 450dd33adeaec21497fd4e77ba1eb930
+ref: takiwaki.t.2009
+title: Special Relativistic Simulations of Magnetically Dominated Jets in Collapsing
+  Massive Stars
+type: article
+volume: '691'
+year: '2009'

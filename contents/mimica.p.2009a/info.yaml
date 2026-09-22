@@ -1,0 +1,56 @@
+abstract: We present numerical simulations of the spectral evolution and emission
+  of radio components in relativistic jets. We compute jet models by means of a relativistic
+  hydrodynamics code. We have developed an algorithm (SPEV) for the transport of a
+  population of nonthermal electrons including radiative losses. For large values
+  of the ratio of gas pressure to magnetic field energy density, alphaB ~ 6 \texttimes{}
+  104, quiescent jet models show substantial spectral evolution, with observational
+  consequences only above radio frequencies. Larger values of the magnetic field (alphaB
+  ~ 6 \texttimes{} 102), such that synchrotron losses are moderately important at
+  radio frequencies, present a larger ratio of shocked-to-unshocked regions brightness
+  than the models without radiative losses, despite the fact that they correspond
+  to the same underlying hydrodynamic structure. We also show that jets with a positive
+  photon spectral index result if the lower limit gammamin of the nonthermal particle
+  energy distribution is large enough. A temporary increase of the Lorentz factor
+  at the jet inlet produces a traveling perturbation that appears in the synthetic
+  maps as a superluminal component. We show that trailing components can be originated
+  not only in pressure matched jets, but also in overpressured ones, where the existence
+  of recollimation shocks does not allow for a direct identification of such features
+  as Kelvin-Helmholtz modes, and its observational imprint depends on the observing
+  frequency. If the magnetic field is large (alphaB ~ 6 \texttimes{} 102), the spectral
+  index in the rarefaction trailing the traveling perturbation does not change much
+  with respect to the same model without any hydrodynamic perturbation. If the synchrotron
+  losses are considered the spectral index displays a smaller value than in the corresponding
+  region of the quiescent jet model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...696.1142M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.1143
+author: Mimica, P. and Aloy, M.-A. and Agudo, I. and Martí, J. M. and Gómez, J. L.
+  and Miralles, J. A.
+author_list:
+- family: Mimica
+  given: P.
+- family: Aloy
+  given: M.-A.
+- family: Agudo
+  given: I.
+- family: Martí
+  given: J. M.
+- family: Gómez
+  given: J. L.
+- family: Miralles
+  given: J. A.
+date-added: 2017-08-11 05:39:41 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/696/2/1142
+eprint: '0811.1143'
+journal: \apj
+keywords: 'galaxies: jets, hydrodynamics, radiation mechanisms: non-thermal, relativity'
+month: May
+pages: 1142--1163
+papis_id: 0cd44db02d695ee87919c3bf85ad8e6a
+ref: mimica.p.2009a
+title: Spectral Evolution of Superluminal Components in Parsec-Scale Jets
+type: article
+volume: '696'
+year: '2009'

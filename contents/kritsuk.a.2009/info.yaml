@@ -1,0 +1,41 @@
+abstract: We present results of large-scale three-dimensional weakly magnetized supersonic
+  turbulence simulations with an isothermal equation of state at grid resolutions
+  up to 10243 cells with the Piecewise Parabolic Method on a Local Stencil. The turbulence
+  is driven by a large-scale isotropic solenoidal force in a periodic computational
+  domain and fully develops in a few flow crossing times. We then evolve the flow
+  for a number of flow crossing times and analyze various statistical properties of
+  the saturated turbulent state. We show that the energy transfer rate in the inertial
+  range of scales is surprisingly close to a constant, indicating that Kolmogorov's
+  phenomenology for incompressible turbulence can be extended to magnetized supersonic
+  flows. We also discuss numerical dissipation effects and convergence of different
+  turbulence diagnostics as grid resolution refines from 2563 to 10243 cells.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009JPhCS.180a2020K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.0378
+author: Kritsuk, A. G. and Ustyugov, S. D. and Norman, M. L. and Padoan, P.
+author_list:
+- family: Kritsuk
+  given: A. G.
+- family: Ustyugov
+  given: S. D.
+- family: Norman
+  given: M. L.
+- family: Padoan
+  given: P.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 22:39:29 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/1742-6596/180/1/012020
+eid: '012020'
+eprint: '0908.0378'
+month: July
+pages: '012020'
+papis_id: 488af2aef0c670836568b23307dc1360
+primaryclass: astro-ph.GA
+ref: kritsuk.a.2009
+series: Journal of Physics Conference Series
+title: Simulating supersonic turbulence in magnetized molecular clouds
+type: inproceedings
+volume: '180'
+year: '2009'

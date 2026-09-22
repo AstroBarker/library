@@ -1,0 +1,45 @@
+abstract: In this work, we analyse late-time (t > 100 d) optical spectra of low-redshift
+  (z < 0.1) Type Ia supernovae (SNe Ia) which come mostly from the Berkeley Supernova
+  Ia Program (BSNIP) data set. We also present spectra of SN 2011 by for the first
+  time. The BSNIP sample studied consists of 34 SNe Ia with 60 nebular spectra, to
+  which we add nebular spectral feature measurements of 20 SNe Ia from previously
+  published work (Maeda et al. and Blondin et al.), representing the largest set of
+  late-time SN Ia spectra ever analysed. The full width at half-maximum intensity
+  and velocities of the [Fe III] lambda4701, [Fe II] lambda7155 and [Ni II] lambda7378
+  emission features are measured in most observations of spectroscopically normal
+  objects where the data have signal-to-noise ratios \greaterequivlnt{} 20 pixel-1
+  and are older than 160 d past maximum brightness. The velocities of all three features
+  are seen to be relatively constant with time, increasing only a few to \texttildelow{}20
+  km s-1 d-1. The nebular velocity (vneb, calculated by taking the average of the
+  [Fe II] lambda7155 and [Ni II] lambda7378 velocities) is correlated with the near-maximum-brightness
+  velocity gradient and early-time ejecta velocity. Nearly all high velocity gradient
+  objects have redshifted nebular lines while most low velocity gradient objects have
+  blueshifted nebular lines. No correlation is found between vneb and Deltam15(B),
+  and for a given light-curve shape there is a large range of observed nebular velocities.
+  The data also indicate a correlation between observed (B - V)max and vneb.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430.1030S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.0279
+author: Silverman, J. M. and Ganeshalingam, M. and Filippenko, A. V.
+author_list:
+- family: Silverman
+  given: J. M.
+- family: Ganeshalingam
+  given: M.
+- family: Filippenko
+  given: A. V.
+date-added: 2017-08-10 21:18:36 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/sts674
+eprint: '1211.0279'
+journal: \mnras
+keywords: 'methods: data analysis, techniques: spectroscopic, supernovae: general'
+month: April
+pages: 1030--1041
+papis_id: 25205e13172b6aeec4192c3101f90232
+ref: silverman.j.2013
+title: Berkeley Supernova Ia Program - V. Late-time spectra of Type Ia Supernovae
+type: article
+volume: '430'
+year: '2013'

@@ -1,0 +1,45 @@
+abstract: We investigate synchrotron emission models as the source of gamma-ray burst
+  (GRB) spectra. We show that including the possibility for synchrotron self-absorption,
+  a ``smooth cutoff'' to the electron energy distribution, and an anisotropic distribution
+  for the electron pitch angles produces a whole range of low-energy spectral behavior.
+  In addition, we show that the procedure of spectral fitting to GRB data over a finite
+  bandwidth can introduce a spurious correlation between spectral parameters-in particular,
+  the value of the peak of the nuFnu spectrum, Ep, and the low-energy photon spectral
+  index alpha (the lower Ep is, the lower [softer] the fitted value of alpha will
+  be). From this correlation and knowledge of the Ep distribution, we show how to
+  derive the expected distribution of alpha. We show that optically thin synchrotron
+  models with an isotropic electron pitch angle distribution can explain the distribution
+  of alpha below alpha=-2/3. This agreement is achieved if we relax the unrealistic
+  assumption of the presence of a sharp low-energy cutoff in the spectrum of accelerated
+  electrons and allow for a more gradual break. We show that this low-energy portion
+  of the electron spectrum can be at most flat. We also show that optically thin synchrotron
+  models with an anisotropic electron pitch angle distribution can explain all bursts
+  with -2/3<~alpha<~0. The very few bursts with low-energy spectral indices that fall
+  above alpha=0 may be due to the presence of a synchrotron self-absorption frequency
+  entering the lower end of the BATSE window. Our results also predict a particular
+  relationship between alpha and Ep during the temporal evolution of a GRB. We give
+  examples of spectral evolution in GRBs and discuss how its behavior is consistent
+  with the above models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...543..722L
+arxivurl: http://arxiv.org/abs/astro-ph/0007061
+author: Lloyd, N. M. and Petrosian, V.
+author_list:
+- family: Lloyd
+  given: N. M.
+- family: Petrosian
+  given: V.
+date-added: 2017-08-11 05:55:25 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317125
+eprint: astro-ph/0007061
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal'
+month: November
+pages: 722--732
+papis_id: c31d30916b3f7ac15539e19a23c917c5
+ref: lloyd.n.2000
+title: Synchrotron Radiation as the Source of Gamma-Ray Burst Spectra
+type: article
+volume: '543'
+year: '2000'

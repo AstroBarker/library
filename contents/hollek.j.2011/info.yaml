@@ -1,0 +1,61 @@
+abstract: We present a comprehensive abundance analysis of 20 elements for 16 new
+  low-metallicity stars from the Chemical Abundances of Stars in the Halo (CASH) project.
+  The abundances have been derived from both Hobby-Eberly Telescope High Resolution
+  Spectrograph snapshot spectra (R ~15, 000) and corresponding high-resolution (R
+  ~35, 000) Magellan Inamori Kyocera Echelle spectra. The stars span a metallicity
+  range from [Fe/H] from -2.9 to -3.9, including four new stars with [Fe/H] < -3.7.
+  We find four stars to be carbon-enhanced metal-poor (CEMP) stars, confirming the
+  trend of increasing [C/Fe] abundance ratios with decreasing metallicity. Two of
+  these objects can be classified as CEMP-no stars, adding to the growing number of
+  these objects at [Fe/H]< - 3. We also find four neutron-capture-enhanced stars in
+  the sample, one of which has [Eu/Fe] of 0.8 with clear r-process signatures. These
+  pilot sample stars are the most metal-poor ([Fe/H] <~ -3.0) of the brightest stars
+  included in CASH and are used to calibrate a newly developed, automated stellar
+  parameter and abundance determination pipeline. This code will be used for the entire
+  ~500 star CASH snapshot sample. We find that the pipeline results are statistically
+  identical for snapshot spectra when compared to a traditional, manual analysis from
+  a high-resolution spectrum.  Based on observations obtained with the Hobby-Eberly
+  Telescope, which is a joint project of the University of Texas at Austin, the Pennsylvania
+  State University, Stanford University, Ludwig-Maximilians-Universit{\"a}t M{\"u}nchen,
+  and Georg-August-Universit{\"a}t G{\"o}ttingen.  Based on observations gathered
+  with the 6.5 m Magellan Telescopes located at Las Campanas Observatory, Chile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742...54H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4422
+author: Hollek, J. K. and Frebel, A. and Roederer, I. U. and Sneden, C. and Shetrone,
+  M. and Beers, T. C. and Kang, S.-j. and Thom, C.
+author_list:
+- family: Hollek
+  given: J. K.
+- family: Frebel
+  given: A.
+- family: Roederer
+  given: I. U.
+- family: Sneden
+  given: C.
+- family: Shetrone
+  given: M.
+- family: Beers
+  given: T. C.
+- family: Kang
+  given: S.-j.
+- family: Thom
+  given: C.
+date-added: 2017-08-11 07:36:02 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/742/1/54
+eid: '54'
+eprint: '1108.4422'
+journal: \apj
+keywords: 'Galaxy: halo, methods: data analysis, stars: abundances, stars: atmospheres,
+  stars: Population II'
+month: November
+pages: '54'
+papis_id: fdad14a3d9c38f96c4ee0e42c53b62dc
+ref: hollek.j.2011
+title: The Chemical Abundances of Stars in the Halo (CASH) Project. II. A Sample of
+  14 Extremely Metal-poor Stars
+type: article
+volume: '742'
+year: '2011'

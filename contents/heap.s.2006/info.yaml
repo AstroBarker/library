@@ -1,0 +1,57 @@
+abstract: We present a comprehensive analysis of high-resolution, far-ultraviolet
+  HST STIS, FUSE, and optical spectra of 18 O stars in the Small Magellanic Cloud.
+  Our analysis is based on the OSTAR2002 grid of NLTE metal-line-blanketed model atmospheres
+  calculated with our code TLUSTY. We systematically explore and present the sensitivity
+  of various UV and optical lines to different stellar parameters. We have obtained
+  consistent fits of the UV and the optical spectrum to derive the effective temperature,
+  surface gravity, surface composition, and microturbulent velocity of each star.
+  Stellar radii, masses, and luminosities follow directly. For stars of the same spectral
+  subtype, we find a general good agreement between effective temperature determinations
+  obtained with TLUSTY, CMFGEN, and FASTWIND models, which are all lower than the
+  standard Teff calibration of O stars. We propose a new calibration between the spectral
+  type and effective temperature based on our results from UV metal lines, as well
+  as optical hydrogen and helium lines. The lower effective temperatures translate
+  into ionizing luminosities that are smaller by a factor of 3 compared to luminosities
+  inferred from previous standard calibrations. The chemical composition analysis
+  reveals that the surface of about 80\% of the program stars is moderately to strongly
+  enriched in nitrogen, while showing the original helium, carbon, and oxygen abundances.
+  Our results support the new stellar evolution models that predict that the surface
+  of fast rotating stars becomes nitrogen-rich during the main-sequence phase because
+  of rotationally induced mixing. Enrichment factors are, however, larger than predicted
+  by stellar evolution models. Most stars exhibit the ``mass discrepancy'' problem,
+  which we interpret as a result of fast rotation that lowers the measured effective
+  gravity. Nitrogen enrichment and low spectroscopic masses are therefore two manifestations
+  of fast rotation. Our study thus emphasizes the importance of rotation in our understanding
+  of the properties of massive stars and provides a framework for investigating populations
+  of low-metallicity massive stars at low and high redshifts.  Based on observations
+  with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science
+  Institute, which is operated by the Association of Universities for Research in
+  Astronomy, Inc., under NASA contract NAS5-2655. Also based on observations made
+  with the NASA-CNES-CSA Far Ultraviolet Spectroscopic Explorer, which is operated
+  for NASA by Johns Hopkins University under NASA contract NAS5-32985.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...638..409H
+arxivurl: http://arxiv.org/abs/astro-ph/0412345
+author: Heap, S. R. and Lanz, T. and Hubeny, I.
+author_list:
+- family: Heap
+  given: S. R.
+- family: Lanz
+  given: T.
+- family: Hubeny
+  given: I.
+date-added: 2017-08-11 00:19:04 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/498635
+eprint: astro-ph/0412345
+journal: \apj
+keywords: 'Galaxies: Magellanic Clouds, Stars: Abundances, Stars: Atmospheres, Stars:
+  Early-Type, Stars: Fundamental Parameters'
+month: February
+pages: 409--432
+papis_id: b5d52c2aa320dc911750a8ea8fa6c334
+ref: heap.s.2006
+title: Fundamental Properties of O-Type Stars
+type: article
+volume: '638'
+year: '2006'

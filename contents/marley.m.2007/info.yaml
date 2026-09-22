@@ -1,0 +1,53 @@
+abstract: Traditional thermal evolution models of giant planets employ arbitrary initial
+  conditions selected more for computational expediency than physical accuracy. Since
+  the initial conditions are eventually forgotten by the evolving planet, this approach
+  is valid for mature planets, if not young ones. To explore the evolution at young
+  ages of jovian mass planets, we have employed model planets created by one implementation
+  of the core-accretion mechanism as initial conditions for evolutionary calculations.
+  The luminosities and early cooling rates of young planets are highly sensitive to
+  their internal entropies, which depend on the formation mechanism and are highly
+  model dependent. As a result of the accretion shock through which most of the planetary
+  mass is processed, we find lower initial internal entropies than commonly assumed
+  in published evolution tracks. Consequently, young Jovian planets are smaller, cooler,
+  and several to 100 times less luminous than predicted by earlier models. Furthermore,
+  the time interval during which the young Jupiters are fainter than expected depends
+  on the mass of planet. Jupiter mass planets (1MJ) align with the conventional model
+  luminosity in as little at 20 million years, but 10MJ planets can take up to 1 billion
+  years to match commonly cited luminosities, given our implementation of the core-accretion
+  mechanism. If our assumptions, especially including our treatment of the accretion
+  shock, are correct and if extrasolar Jovian planets indeed form with low entropy,
+  then young Jovian planets are substantially fainter at young ages than currently
+  believed. Furthermore, early evolution tracks should be regarded as uncertain for
+  much longer than the commonly quoted 106 yr. These results have important consequences
+  both for detection strategies and for assigning masses to young Jovian planets based
+  on observed luminosities.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...655..541M
+arxivurl: http://arxiv.org/abs/astro-ph/0609739
+author: Marley, M. S. and Fortney, J. J. and Hubickyj, O. and Bodenheimer, P. and
+  Lissauer, J. J.
+author_list:
+- family: Marley
+  given: M. S.
+- family: Fortney
+  given: J. J.
+- family: Hubickyj
+  given: O.
+- family: Bodenheimer
+  given: P.
+- family: Lissauer
+  given: J. J.
+date-added: 2017-08-10 20:42:38 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/509759
+eprint: astro-ph/0609739
+journal: \apj
+keywords: 'Stars: Planetary Systems: Formation, Planets and Satellites: Formation'
+month: January
+pages: 541--549
+papis_id: 6144a3038bcc40247362a948e4b44351
+ref: marley.m.2007
+title: On the Luminosity of Young Jupiters
+type: article
+volume: '655'
+year: '2007'

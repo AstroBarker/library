@@ -1,0 +1,77 @@
+abstract: Bright circumstellar nebulae around massive stars are potentially useful
+  to derive time-dependent mass-loss rates and hence constrain the evolution of the
+  central stars. A key case in this context is the relatively young ejection-type
+  nebula M1-67 around the runaway Population I Wolf-Rayet star WR 124 (=209 BAC),
+  which exhibits a WN 8 spectrum. With HST-WFPC2 we have obtained a deep, Halpha image
+  of M1-67. This image shows a wealth of complex detail that was briefly presented
+  previously by Grosdidier et al. With the interferometer of the Universit{\'e} Laval
+  (Qu{\'e}bec, Canada), we have obtained complementary Fabry-Perot Halpha data using
+  Canada-France-Hawaii Telescope (CFHT) MOS/SIS. From these data M1-67 appears more
+  or less as a spherical (or elliptical, with the major axis along the line of sight),
+  thick, shell seen almost exactly along its direction of rapid spatial motion away
+  from the observer in the ISM. However, a simple thick shell by itself would not
+  explain the observed multiple radial velocities along the line of sight. This velocity
+  dispersion leads one to consider M1-67 as a thick accelerating shell. Given the
+  extreme perturbations of the velocity field in M1-67, it is virtually impossible
+  to measure any systematic impact of the present WR (or previous LBV) wind on the
+  nebular structure. The irregular nature of the velocity field is likely due to either
+  large variations in the density distribution of the ambient ISM or large variations
+  in the central star mass-loss history. In addition, either from the density field
+  or the velocity field, we find no clear evidence for a bipolar outflow, as was claimed
+  in other studies. On the deep Halpha image we have performed continuous wavelet
+  transforms to isolate stochastic structures of different characteristic size and
+  look for scaling laws. Small-scale wavelet coefficients show that the density field
+  of M1-67 is remarkably structured in chaotically (or possibly radially) oriented
+  filaments everywhere in the nebula. We draw attention to a short, marginally inertial
+  range at the smallest scales (6.7-15.0\texttimes{}10-3 pc), which can be attributed
+  to turbulence in the nebula, and a strong scale break at larger scales. Examination
+  of the structure functions for different orders shows that the turbulent regime
+  may be intermittent. Using our Fabry-Perot interferograms, we also present an investigation
+  of the statistical properties of fluctuating gas motions using structure functions
+  traced by Halpha emission-line centroid velocities. We find that there is a clear
+  correlation at scales 0.02-0.22 pc between the mean quadratic differences of radial
+  velocities and distance over the surface of the nebula. This implies that the velocity
+  field shows an inertial range likely related to turbulence, though not coincident
+  with the small inertial range detected from the density field. The first- and second-order
+  moments of the velocity increments are found to scale as <\vert{}Deltav(r)\vert{}>~r0.5
+  and <\vert{}Deltav(r)\vert{}2>~r0.9. The former scaling law strongly suggests that
+  supersonic, compressible turbulence is at play in the nebula; on the other hand,
+  the latter scaling law agrees very well with Larson-type laws for velocity turbulence.
+  Examination of the structure functions for different orders shows that the turbulent
+  regime is slightly intermittent and highly multifractal with universal multifractal
+  indexes alpha~1.90-1.92 and C1~0.04+/-0.01. Based on observations made with the
+  NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science Institute,
+  which is operated by the Association of Universities for Research in Astronomy,
+  Inc., under NASA contract NAS 5-26555. Also based on observations collected at the
+  Canada-France-Hawaii Telescope (CFHT), which is operated by CNRS of France, NRC
+  of Canada, and the University of Hawaii.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...562..753G
+author: Grosdidier, Y. and Moffat, A. F. J. and Blais-Ouellette, S. and Joncas, G.
+  and Acker, A.
+author_list:
+- family: Grosdidier
+  given: Y.
+- family: Moffat
+  given: A. F. J.
+- family: Blais-Ouellette
+  given: S.
+- family: Joncas
+  given: G.
+- family: Acker
+  given: A.
+date-added: 2017-08-11 04:42:04 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323357
+journal: \apj
+keywords: 'ISM: Bubbles, ISM: individual (M1-67), ISM: Kinematics and Dynamics, stars:
+  individual (WR 124), Stars: Wolf-Rayet, Turbulence'
+month: December
+pages: 753--769
+papis_id: 2da32903cd3a203926d9d070efe0caac
+ref: grosdidier.y.2001
+title: 'Hubble Space Telescope Imagery and Canada-France-Hawaii Telescope Fabry-Perot
+  Two-dimensional Spectroscopy in H$α$ of the Ejected Nebula M1-67: Turbulent Status'
+type: article
+volume: '562'
+year: '2001'

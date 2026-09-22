@@ -1,0 +1,56 @@
+abstract: Relativistic astrophysical phenomena such as gamma-ray bursts (GRBs) and
+  active galactic nuclei often require long-lived strong magnetic fields that cannot
+  be achieved by shock compression alone. Here, we report on three-dimensional special-relativistic
+  magnetohydrodynamic (MHD) simulations that we performed using a second-order Godunov-type
+  conservative code to explore the amplification and decay of macroscopic turbulence
+  dynamo excited by the so-called Richtmyer-Meshkov instability (RMI; a Rayleigh-Taylor-type
+  instability). This instability is an inevitable outcome of interactions between
+  shock and ambient density fluctuations. We find that the magnetic energy grows exponentially
+  in a few eddy-turnover times because of field-line stretching and then, following
+  the decay of kinetic turbulence, decays with a temporal power-law exponent of -0.7.
+  The magnetic energy fraction can reach epsilon B  ~ 0.1 but depends on the initial
+  magnetic field strength, which can diversify the observed phenomena. We find that
+  the magnetic energy grows by at least two orders of magnitude compared to the magnetic
+  energy immediately behind the shock, provided the kinetic energy of turbulence injected
+  by the RMI is greater than the magnetic energy. This minimum degree of amplification
+  does not depend on the amplitude of the initial density fluctuations, while the
+  growth timescale and the maximum magnetic energy depend on the degree of inhomogeneity
+  in the density. The transition from Kolmogorov cascade to MHD critical balance cascade
+  occurs at ~1/10th the initial inhomogeneity scale, which limits the maximum synchrotron
+  polarization to less than ~2\%. We derive analytical formulas for these numerical
+  results and apply them to GRBs. New results include the avoidance of electron cooling
+  with RMI turbulence, the turbulent photosphere model via RMI, and the shallow decay
+  of the early afterglow from RMI. We also perform a simulation of freely decaying
+  turbulence with relativistic velocity dispersion. We find that relativistic turbulence
+  begins to decay much more quickly than one eddy-turnover time because of rapid shock
+  dissipation, which does not support the relativistic turbulence model by Narayan
+  \& Kumar.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...734...77I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.6350
+author: Inoue, T. and Asano, K. and Ioka, K.
+author_list:
+- family: Inoue
+  given: T.
+- family: Asano
+  given: K.
+- family: Ioka
+  given: K.
+date-added: 2017-08-11 02:09:49 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/734/2/77
+eid: '77'
+eprint: '1011.6350'
+journal: \apj
+keywords: 'gamma-ray burst: general, instabilities, magnetic fields, turbulence'
+month: June
+pages: '77'
+papis_id: fb2e9ebdc0df6bca01684286b731652f
+primaryclass: astro-ph.HE
+ref: inoue.t.2011
+title: Three-dimensional Simulations of Magnetohydrodynamic Turbulence Behind Relativistic
+  Shock Waves and Their Implications for Gamma-Ray Bursts
+type: article
+volume: '734'
+year: '2011'

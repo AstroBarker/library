@@ -1,0 +1,42 @@
+abstract: In this paper, we present a detailed numerical investigation of the hypothesis
+  that a rotation of astrophysical jets can be caused by magnetohydrodynamic (MHD)
+  shocks in a helical magnetic field. Shock compression of the helical magnetic field
+  results in a toroidal Lorentz force component that will accelerate the jet material
+  in the toroidal direction. This process transforms magnetic angular momentum (magnetic
+  stress) carried along the jet into kinetic angular momentum (rotation). The mechanism
+  proposed here only works in a helical magnetic field configuration. We demonstrate
+  the feasibility of this mechanism by axisymmetric MHD simulations in 1.5 and 2.5
+  dimensions using the PLUTO code. In our setup, the jet is injected into the ambient
+  gas with zero kinetic angular momentum (no rotation). We apply different dynamical
+  parameters for jet propagation such as the jet internal Alfv{\'e}n Mach number and
+  fast magnetosonic Mach number, the density contrast of the jet to the ambient medium,
+  and the external sonic Mach number of the jet. The mechanism we suggest should work
+  for a variety of jet applications, e.g., protostellar or extragalactic jets, and
+  internal jet shocks (jet knots) or external shocks between the jet and the ambient
+  gas (entrainment). For typical parameter values for protostellar jets, the numerically
+  derived rotation feature looks consistent with the observations, i.e., rotational
+  velocities of 0.1\%-1\% of the jet bulk velocity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737...43F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.6232
+author: Fendt, C.
+author_list:
+- family: Fendt
+  given: C.
+date-added: 2017-08-10 23:04:36 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/1/43
+eid: '43'
+eprint: '1105.6232'
+journal: \apj
+keywords: 'ISM: jets and outflows, magnetohydrodynamics: MHD, shock waves, stars:
+  mass-loss'
+month: August
+pages: '43'
+papis_id: b2b0c0d4068da7ce940f446b3d24aaf4
+ref: fendt.c.2011
+title: Jet Rotation Driven by Magnetohydrodynamic Shocks in Helical Magnetic Fields
+type: article
+volume: '737'
+year: '2011'

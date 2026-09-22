@@ -1,0 +1,41 @@
+abstract: We investigate the estimation of orbital parameters by least-chi2 Keplerian
+  fits to radial velocity (RV) data using synthetic data sets. We find that while
+  the fitted period is fairly accurate, the best-fit eccentricity and Mpsin i are
+  systematically biased upward from the true values for low signal-to-noise ratio,
+  K/sigma lesssim 3, and a moderate number of observations, Nobslesssim 60, leading
+  to a suppression of the number of nearly circular orbits. Assuming intrinsic distributions
+  of orbital parameters, we generate a large number of mock RV data sets and study
+  the selection effect on the eccentricity distribution. We find that the overall
+  detection efficiency only mildly decreases with eccentricity. This is because although
+  high-eccentricity orbits are more difficult to sample, they also have larger RV
+  amplitudes for fixed planet mass and orbital semimajor axis. Thus, the primary source
+  of uncertainty in the eccentricity distribution comes from biases in Keplerian fits
+  to detections with low-amplitude and/or small Nobs, rather than from selection effects.
+  Our results suggest that the abundance of low-eccentricity exoplanets may be underestimated
+  in the current sample, and we urge caution in interpreting the eccentricity distributions
+  of low-amplitude detections in future RV samples.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...685..553S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.0032
+author: Shen, Y. and Turner, E. L.
+author_list:
+- family: Shen
+  given: Y.
+- family: Turner
+  given: E. L.
+date-added: 2017-08-10 23:27:31 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/590548
+eid: 553-559
+eprint: '0806.0032'
+journal: \apj
+keywords: 'planetary systems, techniques: radial velocities'
+month: September
+pages: 553--559
+papis_id: d2c0714f647b47d4f01d4bb7d9b46e68
+ref: shen.y.2008
+title: On the Eccentricity Distribution of Exoplanets from Radial Velocity Surveys
+type: article
+volume: '685'
+year: '2008'

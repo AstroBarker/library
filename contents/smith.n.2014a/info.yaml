@@ -1,0 +1,48 @@
+abstract: Both observations and numerical simulations are discordant with predictions
+  of conventional stellar evolution codes for the latest stages of a massive star's
+  life before core collapse. The most dramatic example of this disconnect is in the
+  eruptive mass loss occurring in the decade preceding Type IIn supernovae. We outline
+  the key empirical evidence that indicates severe pre-supernova instability in massive
+  stars, and we suggest that the chief reason that these outbursts are absent in stellar
+  evolution models may lie in the treatment of turbulent convection in these codes.
+  The mixing length theory that is used ignores (1) finite amplitude fluctuations
+  in velocity and temperature and (2) their nonlinear interaction with nuclear burning.
+  Including these fluctuations is likely to give rise to hydrodynamic instabilities
+  in the latest burning sequences, which prompts us to discuss a number of far-reaching
+  implications for the fates of massive stars. In particular, we explore connections
+  to enhanced pre-supernova mass loss, unsteady nuclear burning and consequent eruptions,
+  swelling of the stellar radius that may trigger violent interactions with a companion
+  star, and potential modifications to the core structure that could dramatically
+  alter calculations of the core-collapse explosion mechanism itself. These modifications
+  may also impact detailed nucleosynthesis and measured isotopic anomalies in meteorites,
+  as well as the interpretation of young core-collapse supernova remnants. Understanding
+  these critical instabilities in the final stages of evolution may make possible
+  the development of an early warning system for impending core collapse, if we can
+  identify their asteroseismological or eruptive signatures.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...785...82S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.5035
+author: Smith, N. and Arnett, W. D.
+author_list:
+- family: Smith
+  given: N.
+- family: Arnett
+  given: W. D.
+date-added: 2017-08-10 15:08:17 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/785/2/82
+eid: '82'
+eprint: '1307.5035'
+journal: \apj
+keywords: 'instabilities, meteorites, meteors, meteoroids, nuclear reactions, nucleosynthesis,
+  abundances, stars: mass-loss, supernovae: general, turbulence'
+month: April
+pages: '82'
+papis_id: ea7ee8fc489f27783732d98f4d9d6af2
+primaryclass: astro-ph.SR
+ref: smith.n.2014a
+title: 'Preparing for an Explosion: Hydrodynamic Instabilities and Turbulence in Presupernovae'
+type: article
+volume: '785'
+year: '2014'

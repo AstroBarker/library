@@ -1,0 +1,40 @@
+abstract: 'Causality alone suffices to set a lower bound on the period of rotation
+  of relativistic stars as a function of their maximum observed mass. That is, by
+  assuming a one-parameter equation of state (EOS) that satisfies vsound < c and that
+  allows stars with masses as large as the largest observed neutron star mass, Mmaxsph,
+  we find P(ms)>0.282+0.196(Mmaxsph/Msolar-1.442). The limit does not assume that
+  the EOS agrees with a known low-density form for ordinary matter, and if one adds
+  that assumption, the minimum period is raised by a few percent: for a match at n
+  = 0.1 fm-3, we find P(ms)>0.295 +0.203(Mmaxsph/Msolar-1.442). The minimizing EOS
+  yields models with a maximally soft exterior supported by a maximally stiff core.
+  An analogous upper limit set by causality on the maximum mass of rotating neutron
+  stars requires a low-density match, and the limit depends on the matching density,
+  \ensuremath{\epsilon}m. We recompute it, obtaining a slightly revised value, Mmaxrot~=6.1(2\texttimes{}1014
+  g cm-3/\ensuremath{\epsilon}m)1/2 M\&sun;.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...488..799K
+arxivurl: http://arxiv.org/abs/astro-ph/9608179
+author: Koranda, S. and Stergioulas, N. and Friedman, J. L.
+author_list:
+- family: Koranda
+  given: S.
+- family: Stergioulas
+  given: N.
+- family: Friedman
+  given: J. L.
+date-added: 2017-08-10 22:33:17 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304714
+eprint: astro-ph/9608179
+journal: \apj
+keywords: 'Stars: Fundamental Parameters, Stars: Interiors, Stars: Neutron, Stars:
+  Rotation'
+month: October
+pages: 799--806
+papis_id: c760e430306d3b6e55d596e01f9f620f
+ref: koranda.s.1997
+title: Upper Limits Set by Causality on the Rotation and Mass of Uniformly Rotating
+  Relativistic Stars
+type: article
+volume: '488'
+year: '1997'

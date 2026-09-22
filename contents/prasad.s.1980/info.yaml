@@ -1,0 +1,38 @@
+abstract: A time-dependent gas phase chemical model of the chemistry in interstellar
+  clouds is presented which uses a comprehensive library consisting of over 1400 reactions
+  for 137 species. Specified constant density, temperature, and radiation field intensity
+  are used to generate the evolution with time of these species for l07 years in four
+  model clouds to simulate the outer and inner components of zeta Oph and of Orion.  No
+  a priori assumptions are made concerning production and loss mechanisms, and the
+  algorithm decides which are the major processes from an extensive list of potential
+  production and loss mechanisms for each species. The C, N, and 0 families of chemical
+  species are discussed in detail with particular emphasis on production and loss
+  processes, and on the interrelationships among the chemistries of these families.
+  A number of diagrams are used to illustrate the chemistry in interstellar clouds
+  resulting from the models. The utility of the model is that it allows for easy testing
+  of schemes for the chemistry and chemical evolution in interstellar clouds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1980ApJS...43....1P
+author: Prasad, S. S. and Huntress Jr., W. T.
+author_list:
+- family: Prasad
+  given: S. S.
+- family: Huntress Jr.
+  given: W. T.
+date-added: 2017-08-11 06:05:52 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/190665
+journal: \apjs
+keywords: Astronomical Models, Chemical Reactions, Data Bases, Interstellar Chemistry,
+  Interstellar Gas, Abundance, Cosmic Rays, Ionization Coefficients, Nitrogen Compounds,
+  Organic Chemistry, Photochemical Reactions, Radiant Flux Density, Tables (Data),
+  Ultraviolet Radiation
+month: May
+pages: 1--35
+papis_id: 51d33bcc8b35c3d475e373078be65bc4
+ref: prasad.s.1980
+title: A model for gas phase chemistry in interstellar clouds. I - The basic model,
+  library of chemical reactions, and chemistry among C, N, and O compounds
+type: article
+volume: '43'
+year: '1980'

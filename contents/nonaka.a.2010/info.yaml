@@ -1,0 +1,53 @@
+abstract: Many astrophysical phenomena are highly subsonic, requiring specialized
+  numerical methods suitable for long-time integration. In a series of earlier papers
+  we described the development of MAESTRO, a low Mach number stellar hydrodynamics
+  code that can be used to simulate long-time, low-speed flows that would be prohibitively
+  expensive to model using traditional compressible codes. MAESTRO is based on an
+  equation set derived using low Mach number asymptotics; this equation set does not
+  explicitly track acoustic waves and thus allows a significant increase in the time
+  step. MAESTRO is suitable for two- and three-dimensional local atmospheric flows
+  as well as three-dimensional full-star flows. Here, we continue the development
+  of MAESTRO by incorporating adaptive mesh refinement (AMR). The primary difference
+  between MAESTRO and other structured grid AMR approaches for incompressible and
+  low Mach number flows is the presence of the time-dependent base state, whose evolution
+  is coupled to the evolution of the full solution. We also describe how to incorporate
+  the expansion of the base state for full-star flows, which involves a novel mapping
+  technique between the one-dimensional base state and the Cartesian grid, as well
+  as a number of overall improvements to the algorithm. We examine the efficiency
+  and accuracy of our adaptive code, and demonstrate that it is suitable for further
+  study of our initial scientific application, the convective phase of Type Ia supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..188..358N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.0112
+author: Nonaka, A. and Almgren, A. S. and Bell, J. B. and Lijewski, M. J. and Malone,
+  C. M. and Zingale, M.
+author_list:
+- family: Nonaka
+  given: A.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Lijewski
+  given: M. J.
+- family: Malone
+  given: C. M.
+- family: Zingale
+  given: M.
+date-added: 2017-08-10 16:58:55 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0067-0049/188/2/358
+eprint: '1005.0112'
+journal: \apjs
+keywords: 'convection, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: June
+pages: 358--383
+papis_id: b71d5e6f47dc134bbab6ea400e80e487
+primaryclass: astro-ph.IM
+ref: nonaka.a.2010
+title: 'MAESTRO: An Adaptive Low Mach Number Hydrodynamics Algorithm for Stellar Flows'
+type: article
+volume: '188'
+year: '2010'

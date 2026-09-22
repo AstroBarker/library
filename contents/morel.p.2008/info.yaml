@@ -1,0 +1,38 @@
+abstract: The cesam code is a consistent set of programs and routines which perform
+  calculations of 1D quasi-hydrostatic stellar evolution including microscopic diffusion
+  of chemical species and diffusion of angular momentum. The solution of the quasi-static
+  equilibrium is performed by a collocation method based on piecewise polynomials
+  approximations projected on a B-spline basis; that allows stable and robust calculations,
+  and the exact restitution of the solution, not only at grid points, even for the
+  discontinuous variables. Other advantages are the monitoring by only one parameter
+  of the accuracy and its improvement by super-convergence. An automatic mesh refinement
+  has been designed for adjusting the localisations of grid points according to the
+  changes of unknowns. For standard models, the evolution of the chemical composition
+  is solved by stiffly stable schemes of orders up to four; in the convection zones
+  mixing and evolution of chemical are simultaneous. The solution of the diffusion
+  equation employs the Galerkin finite elements scheme; the mixing of chemicals is
+  then performed by a strong turbulent diffusion. A precise restoration of the atmosphere
+  is allowed for.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008Ap\%26SS.316...61M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.2019
+author: Morel, P. and Lebreton, Y.
+author_list:
+- family: Morel
+  given: P.
+- family: Lebreton
+  given: Y.
+date-added: 2017-08-11 04:22:44 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1007/s10509-007-9663-9
+eprint: '0801.2019'
+journal: \apss
+month: August
+pages: 61--73
+papis_id: 7a3559638bc875cf010d98187b157883
+ref: morel.p.2008
+title: 'CESAM: a free code for stellar evolution calculations'
+type: article
+volume: '316'
+year: '2008'

@@ -1,0 +1,49 @@
+abstract: Some fraction of the material ejected in a core collapse supernova explosion
+  may remain bound to the compact remnant, and eventually turn around and fall back.
+  We show that the late time (gsimdays) power potentially associated with the accretion
+  of this "fallback" material could significantly affect the optical light curve,
+  in some cases producing super-luminous or otherwise peculiar supernovae. We use
+  spherically symmetric hydrodynamical models to estimate the accretion rate at late
+  times for a range of progenitor masses and radii and explosion energies. The accretion
+  rate onto the proto-neutron star or black hole decreases as \dot{M} \propto t^{-5/3}
+  at late times, but its normalization can be significantly enhanced at low explosion
+  energies, in very massive stars, or if a strong reverse shock wave forms at the
+  helium/hydrogen interface in the progenitor. If the resulting super-Eddington accretion
+  drives an outflow which thermalizes in the outgoing ejecta, the supernova debris
+  will be re-energized at a time when photons can diffuse out efficiently. The resulting
+  light curves are different and more diverse than previous fallback supernova models
+  which ignored the input of accretion power and produced short-lived, dim transients.
+  The possible outcomes when fallback accretion power is significant include super-luminous
+  (gsim 1044 erg s-1) Type II events of both short and long durations, as well as
+  luminous Type I events from compact stars that may have experienced significant
+  mass loss. Accretion power may unbind the remaining infalling material, causing
+  a sudden decrease in the brightness of some long duration Type II events. This scenario
+  may be relevant for explaining some of the recently discovered classes of peculiar
+  and rare supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...772...30D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.7240
+author: Dexter, J. and Kasen, D.
+author_list:
+- family: Dexter
+  given: J.
+- family: Kasen
+  given: D.
+date-added: 2017-08-10 17:12:55 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/772/1/30
+eid: '30'
+eprint: '1210.7240'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, stars: massive, stars:
+  neutron, supernovae: general, supernovae: individual: SN 2008es SN 1998bw SN 2010X'
+month: July
+pages: '30'
+papis_id: 2045d70ad3e2f8e053c5fd50f4b83cc4
+primaryclass: astro-ph.HE
+ref: dexter.j.2013
+title: Supernova Light Curves Powered by Fallback Accretion
+type: article
+volume: '772'
+year: '2013'

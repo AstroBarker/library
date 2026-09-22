@@ -1,0 +1,60 @@
+abstract: 'We use two-dimensional simulations to study turbulent and fully compressible
+  thermal convection in deep atmospheres. Density contrasts across these convective
+  layers are typically around 50. The fluid model is that of an ideal gas with a constant
+  thermal conductivity. The piecewise-parabolic method (PPM), with thermal conductivity
+  added in, is used to solve the fluid equations of motion. No explicit viscosity
+  is included, and the low numerical viscosity of PPM leads to a very low effective
+  Prandtl number. The resulting flows are temporally and spatially chaotic. Some of
+  the simulations possess sufficiently high spatial resolutions that eddies of widely
+  ranging sizes are allowed to coexist in the same pressure scale heights. We study
+  a variety of convective systems: we vary the mesh resolution, the initial state,
+  the strength with which the convection is driven, and the thermal conductivity.
+  All of our results are subject to the highly idealized model we have adopted. The
+  main point of this study is to illustrate the effects of a wide range of spatial
+  scales on the nature of compressible convection. We describe and characterize the
+  numerical viscosity of PPM and relate this numerical viscosity to the rate of decay
+  of eddies and power spectra of the convective flows. We analyze the statistics of
+  eddies and find a universal eddy profile for our low Prandtl number convective flows.
+  We perform a Fourier analysis of the convective velocities and determine timescales
+  for dynamic relaxation, dependence of the flow with depth, and relations between
+  mesh resolution and global convective flow. The velocity power spectra systematically
+  steepen as the depth increases, so that velocity over long wavelengths increases
+  with depth and relative velocities across small wavelengths decreases with depth.
+  We examine dynamic and thermal relaxation processes, interaction of small and large
+  scales, mechanisms that undermine the stability of smooth flows, global structure
+  of high-resolution, low Prandtl number-convection, compressibility, and small-scale
+  structures in convection. Supersonic flow is present in all of our models, even
+  for the most weakly driven where the temperature gradient along the lower boundary
+  exceeds the adiabatic value by 0.4\%. Shocks are ubiquitous and are an important
+  mechanism for damping the flow. Small and large eddies coexist in the largest scale
+  heights. <Large eddies occasionally span the depth of the layer, but there are not
+  persistent convection cells. \&Small eddies exist at all depths independent of local
+  scale height. The largest eddies are predominantly in the largest/lowest scale heights.
+  The correlation lengths of velocity fields and energy fluxes tend to be longer for
+  vertical displacements than for horizontal displacements. \textasteriskcenteredOver
+  the span of resolutions tested here, correlation lengths systematically decrease
+  with increasing mesh resolution.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJS...93..309P
+author: Porter, D. H. and Woodward, P. R.
+author_list:
+- family: Porter
+  given: D. H.
+- family: Woodward
+  given: P. R.
+date-added: 2017-08-11 03:54:33 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192057
+journal: \apjs
+keywords: Compressible Flow, Computational Astrophysics, Convective Flow, Stellar
+  Atmospheres, Stellar Convection, Stellar Models, Two Dimensional Models, Euler Equations
+  Of Motion, Fourier Analysis, Shock Waves, Thermal Conductivity, Turbulence, Vortices
+month: July
+pages: 309--349
+papis_id: 98d7547191e51728b41f507e45a68498
+ref: porter.d.1994
+title: High-resolution simulations of compressible convection using the piecewise-parabolic
+  method
+type: article
+volume: '93'
+year: '1994'

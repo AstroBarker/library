@@ -1,0 +1,40 @@
+abstract: We present the results of a numerical magnetohydrodynamic simulation that
+  demonstrates a mechanism by which magnetic fields tap the rotational energy of a
+  stellar core and expel the envelope. Our numerical setup, designed to focus on the
+  basic physics of the outflow mechanism, consists of a solid, gravitating sphere,
+  which may represent the compact core of a star, surrounded by an initially hydrostatic
+  envelope of ionized gas. The core is threaded by a dipolar magnetic field that also
+  permeates the envelope. At the start of the simulation, the core begins to rotate
+  at 10\% of the escape speed. The magnetic field is sufficiently strong to drive
+  a magnetorotational explosion, whereby the entire envelope is expelled, confirming
+  the expectation of analytical models. Furthermore, the dipolar nature of the field
+  results in an explosion that is enhanced simultaneously along the rotation axis
+  (a jet) and along the magnetic equator. While the initial condition is simplified,
+  the simulation approximates circumstances that may arise in astrophysical objects
+  such as Type II supernovae, gamma-ray bursts, and proto-planetary nebulae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...647L..45M
+arxivurl: http://arxiv.org/abs/astro-ph/0606741
+author: Matt, S. and Frank, A. and Blackman, E. G.
+author_list:
+- family: Matt
+  given: S.
+- family: Frank
+  given: A.
+- family: Blackman
+  given: E. G.
+date-added: 2017-08-11 05:29:56 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/507325
+eprint: astro-ph/0606741
+journal: \apjl
+keywords: 'Magnetohydrodynamics: MHD, ISM: Planetary Nebulae: General, Stars: Evolution,
+  Stars: Mass Loss, Stars: Rotation, Stars: Supernovae: General'
+month: August
+pages: L45-L48
+papis_id: 1cc9dc5fa5d722fa70a6e96d1092e638
+ref: matt.s.2006
+title: Astrophysical Explosions Driven by a Rotating, Magnetized, Gravitating Sphere
+type: article
+volume: '647'
+year: '2006'

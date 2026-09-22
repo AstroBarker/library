@@ -1,0 +1,55 @@
+abstract: We use the ACS BViz data from the HUDF and all other deep HST ACS fields
+  (including the GOODS fields) to find large samples of star-forming galaxies at z~4
+  and ~5 and to extend our previous z~6 sample. These samples contain 4671, 1416,
+  and 627 B-, V-, and i-dropouts, respectively, and reach to extremely low luminosities
+  [(0.01-0.04)L\textasteriskcenteredz=3 or MUV~-16 to -17], allowing us to determine
+  the rest-frame UV LF and faint-end slope alpha at z~4-6 to high accuracy. We find
+  faint-end slopes alpha=-1.73+/-0.05, -1.66+/-0.09, and -1.74+/-0.16 at z~4, ~5,
+  and ~6, respectively, suggesting that the faint-end slope is very steep and shows
+  little evolution with cosmic time. We find that M\textasteriskcenteredUV brightens
+  considerably in the 0.7 Gyr from z~6 to ~4 (by ~0.7 mag from M\textasteriskcenteredUV=-20.24+/-0.19
+  to -20.98+/-0.10). The observed increase in the characteristic luminosity over this
+  range is almost identical to that expected for the halo mass function, suggesting
+  that the observed evolution is likely due to the hierarchical coalescence and merging
+  of galaxies. The evolution in phi\textasteriskcentered is not significant. The UV
+  luminosity density at z~6 is modestly lower than (0.45+/-0.09 times) that at z~4
+  (integrated to -17.5 mag) although a larger change is seen in the dust-corrected
+  SFR density. We thoroughly examine published LF results and assess the reasons for
+  their wide dispersion. We argue that the results reported here are the most robust
+  available. The extremely steep faint-end slopes alpha found here suggest that lower
+  luminosity galaxies play a significant role in reionizing the universe. Finally,
+  recent search results for galaxies at z~7-8 are used to extend our estimates of
+  the evolution of M\textasteriskcentered from z~7-8 to z~4.  Based on observations
+  made with the NASA/ESA Hubble Space Telescope, which is operated by the Association
+  of Universities for Research in Astronomy, Inc., under NASA contract NAS 5-26555.
+  These observations are associated with programs 9425, 9575, 9803, 9978, 10189, 10339,
+  10340, and 10632.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670..928B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.2080
+author: Bouwens, R. J. and Illingworth, G. D. and Franx, M. and Ford, H.
+author_list:
+- family: Bouwens
+  given: R. J.
+- family: Illingworth
+  given: G. D.
+- family: Franx
+  given: M.
+- family: Ford
+  given: H.
+date-added: 2017-08-10 20:15:48 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/521811
+eprint: '0707.2080'
+journal: \apj
+keywords: 'Galaxies: Evolution, Galaxies: High-Redshift'
+month: December
+pages: 928--958
+papis_id: 91ff71131dfbd162daec727294102d21
+ref: bouwens.r.2007
+title: 'UV Luminosity Functions at z̃4, 5, and 6 from the Hubble Ultra Deep Field
+  and Other Deep Hubble Space Telescope ACS Fields: Evolution and Star Formation History'
+type: article
+volume: '670'
+year: '2007'

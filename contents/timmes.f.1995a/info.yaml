@@ -1,0 +1,39 @@
+abstract: Using the output from a grid of 60 Type II supernova models (Woosley \&
+  Weaver 1995) of varying mass (11 approx. less than (M/solar mass) approx. less than
+  40) and metallicity (0, 10-4, 0.01, and 1 solar metallicity), the chemical evolution
+  of 76 stable isotopes, from hydrogen to zinc, is calculated. The chemical evolution
+  calculation employs a simple dynamical model for the Galaxy (infall with a 4 Gyr
+  e-folding timescale onto a exponential disk and 1/r2 bulge), and standard evolution
+  parameters, such as a Salpeter initial mass function and a quadratic Schmidt star
+  formation rate. The theoretical results are compared in detail with observed stellar
+  abundances in stars with metallicities in the range -3.0 approx. less than (Fe/H)
+  approx. less than 0.0 dex. While our discussion focuses on the solar neighborhood
+  where there are the most observations, the supernova rates, an intrinsically Galactic
+  quality, are also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJS...98..617T
+arxivurl: http://arxiv.org/abs/astro-ph/9411003
+author: Timmes, F. X. and Woosley, S. E. and Weaver, T. A.
+author_list:
+- family: Timmes
+  given: F. X.
+- family: Woosley
+  given: S. E.
+- family: Weaver
+  given: T. A.
+date-added: 2017-08-10 18:47:48 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192172
+eprint: astro-ph/9411003
+journal: \apjs
+keywords: Abundance, Chemical Evolution, Galactic Evolution, Galactic Structure, Metallicity,
+  Nuclear Fusion, Stellar Mass, Stellar Models, Supernovae, Carbon, Helium, Metals,
+  Nitrogen, Oxygen
+month: June
+pages: 617--658
+papis_id: c8a618461c7b694b388acc83eef4821f
+ref: timmes.f.1995a
+title: 'Galactic chemical evolution: Hydrogen through zinc'
+type: article
+volume: '98'
+year: '1995'

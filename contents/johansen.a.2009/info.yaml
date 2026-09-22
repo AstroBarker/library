@@ -1,0 +1,45 @@
+abstract: We study the behavior of magnetorotational turbulence in shearing box simulations
+  with a radial and azimuthal extent up to 10 scale heights. Maxwell and Reynolds
+  stresses are found to increase by more than a factor of 2 when increasing the box
+  size beyond two scale heights in the radial direction. Further increase of the box
+  size has little or no effect on the statistical properties of the turbulence. An
+  inverse cascade excites magnetic field structures at the largest scales of the box.
+  The corresponding 10\% variation in the Maxwell stress launches a zonal flow of
+  alternating sub- and super-Keplerian velocity. This, in turn, generates a banded
+  density structure in geostrophic balance between pressure and Coriolis forces. We
+  present a simplified model for the appearance of zonal flows, in which stochastic
+  forcing by the magnetic tension on short timescales creates zonal flow structures
+  with lifetimes of several tens of orbits. We experiment with various improved shearing
+  box algorithms to reduce the numerical diffusivity introduced by the supersonic
+  shear flow. While a standard finite difference advection scheme shows signs of a
+  suppression of turbulent activity near the edges of the box, this problem is eliminated
+  by a new method where the Keplerian shear advection is advanced in time by interpolation
+  in Fourier space.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...697.1269J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3937
+author: Johansen, A. and Youdin, A. and Klahr, H.
+author_list:
+- family: Johansen
+  given: A.
+- family: Youdin
+  given: A.
+- family: Klahr
+  given: H.
+date-added: 2017-08-10 14:47:32 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/697/2/1269
+eprint: '0811.3937'
+journal: \apj
+keywords: 'diffusion, hydrodynamics, instabilities, planetary systems: protoplanetary
+  disks, solar system: formation, turbulence'
+month: June
+pages: 1269--1289
+papis_id: cb1f7c0b360f0cf5b05c847d4c67c67f
+ref: johansen.a.2009
+title: Zonal Flows and Long-lived Axisymmetric Pressure Bumps in Magnetorotational
+  Turbulence
+type: article
+volume: '697'
+year: '2009'

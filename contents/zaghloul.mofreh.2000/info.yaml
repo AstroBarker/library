@@ -1,0 +1,30 @@
+abstract: A simple formulation and solution strategy for the Saha equation is introduced.
+  The formulation discriminates between the cases in which either the pressure or
+  the number density of heavy particles is known. This discrimination allows the method
+  to be generalized to include all problems of practical interest, as well as to clarify
+  ambiguities found in other formulations in the literature. The present method overcomes
+  restrictions imposed on other competitive techniques and takes into account all
+  possible formulae for nonideality corrections. In most practical cases the solution
+  of the nonlinear set of the Saha equations is reduced to the simple problem of solving
+  a single transcendental equation.
+author: Zaghloul, Mofreh R and Bourham, Mohamed A and Doster, J Michael
+author_list:
+- family: Zaghloul
+  given: Mofreh R
+- family: Bourham
+  given: Mohamed A
+- family: Doster
+  given: J Michael
+doi: 10.1088/0022-3727/33/8/314
+journal: 'Journal of Physics D: Applied Physics'
+month: apr
+number: '8'
+pages: '977'
+papis_id: 74d5d8352aa5132ee00829afbc493045
+ref: zaghloul.mofreh.2000
+title: A simple formulation and solution strategy of the Saha equation for ideal and
+  nonideal plasmas
+type: article
+url: https://dx.doi.org/10.1088/0022-3727/33/8/314
+volume: '33'
+year: '2000'

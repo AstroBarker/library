@@ -1,0 +1,54 @@
+abstract: The direct impact of white dwarfs has been suggested as a plausible channel
+  for Type Ia supernovae. In spite of their (a priori) rareness, in highly populated
+  globular clusters and in galactic centres, where the amount of white dwarfs is considerable,
+  the rate of violent collisions between two of them might be non-negligible. Even
+  more, there are indications that binary white dwarf systems orbited by a third stellar-mass
+  body have an important chance to induce a clean head-on collision. Therefore, this
+  scenario represents a source of contamination for the supernova light-curve sample
+  that it is used as standard candles in cosmology, and it deserves further investigation.
+  Some groups have conducted numerical simulations of this scenario, but their results
+  show several differences. In this paper, we address some of the possible sources
+  of these differences, presenting the results of high-resolution hydrodynamical simulations
+  jointly with a detailed nuclear post-processing of the nuclear abundances, to check
+  the viability of white dwarf collisions to produce significant amounts of 56Ni.
+  To that purpose, we use a 2D axisymmetric smoothed particle hydrodynamic code to
+  obtain a resolution considerably higher than in previous studies. In this work,
+  we also study how the initial mass and nuclear composition affect the results. The
+  gravitational wave emission is also calculated, as this is a unique signature of
+  this kind of events. All calculated models produce a significant amount of 56Ni,
+  ranging from 0.1 to 1.1 M\&sun;, compatible not only with normal-branch Type Ia
+  supernova but also with the subluminous and super-Chandrasekhar subset. Nevertheless,
+  the distribution mass function of white dwarfs favours collisions among 0.6-0.7
+  M\&sun; objects, leading to subluminous events.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.436.3413G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.6884
+author: García-Senz, D. and Cabezón, R. M. and Arcones, A. and Relaño, A. and Thielemann,
+  F. K.
+author_list:
+- family: García-Senz
+  given: D.
+- family: Cabezón
+  given: R. M.
+- family: Arcones
+  given: A.
+- family: Relaño
+  given: A.
+- family: Thielemann
+  given: F. K.
+date-added: 2017-08-10 17:43:03 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1093/mnras/stt1821
+eprint: '1309.6884'
+journal: \mnras
+keywords: 'supernovae: general, white dwarfs'
+month: December
+pages: 3413--3429
+papis_id: bfcbf095143acb98df5415df451e96f4
+primaryclass: astro-ph.SR
+ref: garcia_senz.d.2013
+title: High-resolution simulations of the head-on collision of white dwarfs
+type: article
+volume: '436'
+year: '2013'

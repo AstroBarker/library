@@ -1,0 +1,47 @@
+abstract: The magnetosphere of a rotating pulsar naturally develops a current sheet
+  (CS) beyond the light cylinder (LC). Magnetic reconnection in this CS inevitably
+  dissipates a nontrivial fraction of the pulsar spin-down power within a few LC radii.
+  We develop a basic physical picture of reconnection in this environment and discuss
+  its implications for the observed pulsed gamma-ray emission. We argue that reconnection
+  proceeds in the plasmoid-dominated regime, via a hierarchical chain of multiple
+  secondary islands/flux ropes. The inter-plasmoid reconnection layers are subject
+  to strong synchrotron cooling, leading to significant plasma compression. Using
+  the conditions of pressure balance across these current layers, the balance between
+  the heating by magnetic energy dissipation and synchrotron cooling, and Ampere's
+  law, we obtain simple estimates for key parameters of the layers---temperature,
+  density, and layer thickness. In the comoving frame of the relativistic pulsar wind
+  just outside of the equatorial CS, these basic parameters are uniquely determined
+  by the strength of the reconnecting upstream magnetic field. For the case of the
+  Crab pulsar, we find them to be of order 10 GeV, 1013 cm-3, and 10 cm, respectively.
+  After accounting for the bulk Doppler boosting due to the pulsar wind, the synchrotron
+  and inverse-Compton emission from the reconnecting CS can explain the observed pulsed
+  high-energy (GeV) and very high energy (~100 GeV) radiation, respectively. Also,
+  we suggest that the rapid relative motions of the secondary plasmoids in the hierarchical
+  chain may contribute to the production of the pulsar radio emission.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...780....3U
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.3346
+author: Uzdensky, D. A. and Spitkovsky, A.
+author_list:
+- family: Uzdensky
+  given: D. A.
+- family: Spitkovsky
+  given: A.
+date-added: 2017-08-10 15:45:54 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/780/1/3
+eid: '3'
+eprint: '1210.3346'
+journal: \apj
+keywords: 'gamma rays: stars, magnetic reconnection, pulsars: general, pulsars: individual:
+  Crab, radiation mechanisms: non-thermal, relativistic processes'
+month: January
+pages: '3'
+papis_id: 0eb8b076dbcf20375918c13a8f26b58f
+primaryclass: astro-ph.HE
+ref: uzdensky.d.2014
+title: Physical Conditions in the Reconnection Layer in Pulsar Magnetospheres
+type: article
+volume: '780'
+year: '2014'

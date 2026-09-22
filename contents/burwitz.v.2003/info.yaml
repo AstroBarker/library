@@ -1,0 +1,52 @@
+abstract: We present results of the analysis of data collected in 57-ks XMM-Newton
+  and 505-ks Chandra observations of the nearby ( =~  120 pc) isolated neutron star
+  RX J1856.5-3754. We confirm most of the statements made by Burwitz et al. (\cite{Buretal01})
+  who discussed the original 55-ks Chandra data. Detailed spectral analysis of the
+  combined X-ray and optical data rules out the currently available nonmagnetic light
+  and heavy element neutron star atmosphere (LTE) models with hydrogen, helium, iron
+  and solar compositions. We find that strongly magnetized atmosphere models also
+  are unable to represent the data. The X-ray and optical data show no spectral features
+  and are best fitted with a two-component blackbody model with kTbb,X\infty =~ 63.5
+  eV and Rbb,X\infty =~  4.4 (d/120 pc) km for the hot X-ray emitting region, and
+  kTbb,opt\infty < 33 eV and Rbb,opt\infty >  17 (d/120 pc) km for the rest of the
+  neutron star surface responsible for the optical flux. The large number of counts
+  collected with XMM-Newton allows us to reduce the upper limit on periodic variation
+  in the X-ray range down to 1.3\% (at a 2sigma confidence level) in the 10-3-50 Hz
+  frequency range. In an attempt to explain this small variability, we discuss an
+  one-component model with kTbbinfty  =~ 63 eV and Rbbinfty =~ 12.3 (d/120 pc) km.
+  This model requires a low radiative efficiency in the X-ray domain, which may be
+  expected if the neutron star has a condensed matter surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...399.1109B
+arxivurl: http://arxiv.org/abs/astro-ph/0211536
+author: Burwitz, V. and Haberl, F. and Neuhäuser, R. and Predehl, P. and Trümper,
+  J. and Zavlin, V. E.
+author_list:
+- family: Burwitz
+  given: V.
+- family: Haberl
+  given: F.
+- family: Neuhäuser
+  given: R.
+- family: Predehl
+  given: P.
+- family: Trümper
+  given: J.
+- family: Zavlin
+  given: V. E.
+date-added: 2017-08-11 04:16:05 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1051/0004-6361:20021747
+eprint: astro-ph/0211536
+journal: \aap
+keywords: 'stars: atmospheres, stars: individual: RX J1856.5-3754, stars: neutron,
+  X-rays: stars'
+month: March
+pages: 1109--1114
+papis_id: cf7bc5cb38aa1ccf9e8441d3d5085299
+ref: burwitz.v.2003
+title: The thermal radiation of the isolated neutron star RX J1856.5-3754 observed
+  with Chandra and XMM-Newton
+type: article
+volume: '399'
+year: '2003'

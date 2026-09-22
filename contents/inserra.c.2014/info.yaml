@@ -1,0 +1,51 @@
+abstract: We investigate the use of type Ic superluminous supernovae (SLSN Ic) as
+  standardizable candles and distance indicators. Their appeal as cosmological probes
+  stems from their remarkable peak luminosities, hot blackbody temperatures, and bright
+  rest-frame ultraviolet emission. We present a sample of 16 published SLSN, from
+  redshifts 0.1 to 1.2, and calculate accurate K corrections to determine uniform
+  magnitudes in 2 synthetic rest-frame filter bandpasses with central wavelengths
+  at 400 nm and 520 nm. At 400 nm, we find an encouragingly low scatter in their uncorrected,
+  raw mean magnitudes with M(400) = -21.86 $\pm$ 0.35 mag for the full sample of 16
+  objects. We investigate the correlation between their decline rates and peak magnitude
+  and find that the brighter events appear to decline more slowly. In a manner similar
+  to the Phillips relation for type Ia SNe (SNe Ia), we define a DeltaM 20 decline
+  relation. This correlates peak magnitude and decline over 20 days and can reduce
+  the scatter in standardized peak magnitudes to \.22 mag. We further show that M(400)
+  appears to have a strong color dependence. Redder objects are fainter and also become
+  redder faster. Using this peak magnitudecolor evolution relation, a surprisingly
+  low scatter of between \.08 mag and \.13 mag can be found in peak magnitudes, depending
+  on sample selection. However, we caution that only 8 to 10 objects currently have
+  enough data to test this peak magnitudecolor evolution relation. We conclude that
+  SLSN Ic are promising distance indicators in the high-redshift universe in regimes
+  beyond those possible with SNe Ia. Although the empirical relationships are encouraging,
+  the unknown progenitor systems, how they may evolve with redshift, and the uncertain
+  explosion physics are of some concern. The two major measurement uncertainties are
+  the limited numbers of low-redshift, well-studied objects available to test these
+  relationships and internal dust extinction in the host galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...796...87I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1409.4429
+author: Inserra, C. and Smartt, S. J.
+author_list:
+- family: Inserra
+  given: C.
+- family: Smartt
+  given: S. J.
+date-added: 2017-08-10 18:24:26 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/796/2/87
+eid: '87'
+eprint: '1409.4429'
+journal: \apj
+keywords: 'distance scale, supernovae: general'
+month: December
+pages: '87'
+papis_id: b82fe7af02af538fd1ffcaffae2015aa
+primaryclass: astro-ph.SR
+ref: inserra.c.2014
+title: Superluminous Supernovae as Standardizable Candles and High-redshift Distance
+  Probes
+type: article
+volume: '796'
+year: '2014'

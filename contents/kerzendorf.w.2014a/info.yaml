@@ -1,0 +1,41 @@
+abstract: We present TARDIS - an open-source code for rapid spectral modelling of
+  supernovae (SNe). Our goal is to develop a tool that is sufficiently fast to allow
+  exploration of the complex parameter spaces of models for SN ejecta. This can be
+  used to analyse the growing number of high-quality SN spectra being obtained by
+  transient surveys. The code uses Monte Carlo methods to obtain a self-consistent
+  description of the plasma state and to compute a synthetic spectrum. It has a modular
+  design to facilitate the implementation of a range of physical approximations that
+  can be compared to assess both accuracy and computational expediency. This will
+  allow users to choose a level of sophistication appropriate for their application.
+  Here, we describe the operation of the code and make comparisons with alternative
+  radiative transfer codes of differing levels of complexity (SYN++, PYTHON and ARTIS).
+  We then explore the consequence of adopting simple prescriptions for the calculation
+  of atomic excitation, focusing on four species of relevance to Type Ia SN spectra
+  - Si II, S II, Mg II and Ca II. We also investigate the influence of three methods
+  for treating line interactions on our synthetic spectra and the need for accurate
+  radiative rate estimates in our scheme.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.440..387K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.5469
+author: Kerzendorf, W. E. and Sim, S. A.
+author_list:
+- family: Kerzendorf
+  given: W. E.
+- family: Sim
+  given: S. A.
+date-added: 2017-08-10 17:43:31 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1093/mnras/stu055
+eprint: '1401.5469'
+journal: \mnras
+keywords: 'radiative transfer, methods: numerical, supernovae: general'
+month: May
+pages: 387--404
+papis_id: 703e5dcd04167dd3f5ba1508f68bdd71
+primaryclass: astro-ph.SR
+ref: kerzendorf.w.2014a
+title: A spectral synthesis code for rapid modelling of supernovae
+type: article
+volume: '440'
+year: '2014'

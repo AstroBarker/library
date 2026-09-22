@@ -1,0 +1,46 @@
+abstract: In many astrophysical simulations, both Eulerian and Lagrangian quantities
+  are of interest. For example, in a galaxy cluster merger simulation, the intracluster
+  gas can have Eulerian discretization, while dark matter can be modeled using particles.
+  FLASH, a component-based scientific simulation code, superimposes a Lagrangian framework
+  atop an adaptive mesh refinement Eulerian framework to enable such simulations.
+  The discretization of the field variables is Eulerian, while the Lagrangian entities
+  occur in many different forms including tracer particles, massive particles, charged
+  particles in particle-in-cell mode, and Lagrangian markers to model fluid-structure
+  interactions. These widely varying roles for Lagrangian entities are possible because
+  of the highly modular, flexible, and extensible architecture of the Lagrangian framework.
+  In this paper, we describe the Lagrangian framework in FLASH in the context of two
+  very different applications, Type Ia supernovae and galaxy cluster mergers, which
+  use the Lagrangian entities in fundamentally different ways.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..201...27D
+author: Dubey, A. and Daley, C. and ZuHone, J. and Ricker, P. M. and Weide, K. and
+  Graziani, C.
+author_list:
+- family: Dubey
+  given: A.
+- family: Daley
+  given: C.
+- family: ZuHone
+  given: J.
+- family: Ricker
+  given: P. M.
+- family: Weide
+  given: K.
+- family: Graziani
+  given: C.
+date-added: 2017-08-10 18:56:00 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0067-0049/201/2/27
+eid: '27'
+journal: \apjs
+keywords: 'galaxies: clusters: general, hydrodynamics, methods: numerical, supernovae:
+  general'
+month: August
+pages: '27'
+papis_id: 036826692b8f4a859738157ee828ef57
+ref: dubey.a.2012
+title: Imposing a Lagrangian Particle Framework on an Eulerian Hydrodynamics Infrastructure
+  in FLASH
+type: article
+volume: '201'
+year: '2012'

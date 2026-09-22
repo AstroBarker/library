@@ -1,0 +1,46 @@
+abstract: 'Swift J164449.3+573451 is an exciting transient event, likely powered by
+  the tidal disruption of a star by a massive black hole. The distance to the source,
+  its transient nature, and high internal column density serve to complicate several
+  means of estimating the mass of the black hole. Utilizing newly refined relationships
+  between black hole mass, radio luminosity, and X-ray luminosity, and de-beaming
+  the source flux, a weak constraint on the black hole mass is obtained: log(M BH/M
+  sun) = 5.5 $\pm$ 1.1 (1sigma confidence). The confidence interval is determined
+  from the current intrinsic scatter in the relation, which includes effects from
+  X-ray variability and accretion modes. This mass range is broad, but it includes
+  low values that are consistent with some variability arguments, and it safely excludes
+  high-mass values where it becomes impossible for black holes to disrupt stars. Future
+  refinements in relationships between black hole mass, radio luminosity, and X-ray
+  luminosity will be able to reduce the uncertainty in related mass estimates by a
+  factor of two, making this technique comparable to estimates based on the M-sigma
+  relationship. Possible difficulties in placing such events on the fundamental plane,
+  a potential future test of their suitability, and uncertainties in mass stemming
+  from variable X-ray emission are discussed. As near- and longer-term survey efforts
+  such as Pan-STARRS, LSST, LOFAR, the Square Kilometer Array, and eROSITA begin to
+  detect many tidal disruption events, black hole mass estimates from combined X-ray
+  and radio observations may prove to be very pragmatic.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738L..13M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.2502
+author: Mı̈ller, J. M. and Gültekin, K.
+author_list:
+- family: Mı̈ller
+  given: J. M.
+- family: Gültekin
+  given: K.
+date-added: 2017-08-11 02:04:58 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/2041-8205/738/1/L13
+eid: L13
+eprint: '1106.2502'
+journal: \apjl
+keywords: accretion, accretion disks, black hole physics
+month: September
+pages: L13
+papis_id: 1c128dc897e1b4f1e9a1b3cc7acb5e4f
+primaryclass: astro-ph.HE
+ref: miller.j.2011a
+title: X-Ray and Radio Constraints on the Mass of the Black Hole in Swift J164449.3+573451
+type: article
+volume: '738'
+year: '2011'

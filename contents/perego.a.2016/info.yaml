@@ -1,0 +1,47 @@
+abstract: We present an Advanced Spectral Leakage (ASL) scheme to model neutrinos
+  in the context of core-collapse supernovae (CCSNe) and compact binary mergers. Based
+  on previous gray leakage schemes, the ASL scheme computes the neutrino cooling rates
+  by interpolating local production and diffusion rates (relevant in optically thin
+  and thick regimes, respectively) separately for discretized values of the neutrino
+  energy. Neutrino trapped components are also modeled, based on equilibrium and timescale
+  arguments. The better accuracy achieved by the spectral treatment allows a more
+  reliable computation of neutrino heating rates in optically thin conditions. The
+  scheme has been calibrated and tested against Boltzmann transport in the context
+  of Newtonian spherically symmetric models of CCSNe. ASL shows a very good qualitative
+  and a partial quantitative agreement for key quantities from collapse to a few hundreds
+  of milliseconds after core bounce. We have proved the adaptability and flexibility
+  of our ASL scheme, coupling it to an axisymmetric Eulerian and to a three-dimensional
+  smoothed particle hydrodynamics code to simulate core collapse. Therefore, the neutrino
+  treatment presented here is ideal for large parameter-space explorations, parametric
+  studies, high-resolution tests, code developments, and long-term modeling of asymmetric
+  configurations, where more detailed neutrino treatments are not available or are
+  currently computationally too expensive.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJS..223...22P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1511.08519
+author: Perego, A. and Cabezón, R. M. and Käppeli, R.
+author_list:
+- family: Perego
+  given: A.
+- family: Cabezón
+  given: R. M.
+- family: Käppeli
+  given: R.
+date-added: 2017-08-10 13:55:53 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0067-0049/223/2/22
+eid: '22'
+eprint: '1511.08519'
+journal: \apjs
+keywords: 'hydrodynamics, neutrinos, radiative transfer, stars: neutron, supernovae:
+  general'
+month: April
+pages: '22'
+papis_id: e7276c85eb8fa88eaafae668261956fb
+primaryclass: astro-ph.IM
+ref: perego.a.2016
+title: An Advanced Leakage Scheme for Neutrino Treatment in Astrophysical Simulations
+type: article
+volume: '223'
+year: '2016'

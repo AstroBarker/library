@@ -1,0 +1,50 @@
+abstract: Using a sample of 228 optically selected active galactic nuclei (AGNs) in
+  the 0.01-6.3 redshift range with a high fraction of X-ray detections (81\%-86\%),
+  we study the relation between rest-frame UV and soft X-ray emission and its evolution
+  with cosmic time. The majority of the AGNs in our sample (155 objects) have been
+  selected from the Sloan Digital Sky Survey (SDSS) in an unbiased way, rendering
+  the sample results representative of all SDSS AGNs. The addition of two heterogeneous
+  samples of 36 high-redshift and 37 low-redshift AGNs further supports and extends
+  our conclusions. We confirm that the X-ray emission from AGNs is correlated with
+  their UV emission and that the ratio of the monochromatic luminosity emitted at
+  2 keV compared to 2500 {\AA} decreases with increasing luminosity (alphaox=-0.136lUV+2.616,
+  where lUV is in log units) but does not change with cosmic time. These results apply
+  to intrinsic AGN emission, as we correct or control for the effects of the host
+  galaxy, UV/X-ray absorption, and any X-ray emission associated with radio emission
+  in AGNs. We investigate a variety of systematic errors and can thereby state with
+  confidence that (1) the alphaox-lUV anticorrelation is real and not a result of
+  accumulated systematic errors and (2) any alphaox dependence on redshift is negligible
+  in comparison. We provide the best quantification of the alphaox-lUV relation to
+  date for normal radio-quiet AGNs; this should be of utility for researchers pursuing
+  a variety of studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005AJ....130..387S
+arxivurl: http://arxiv.org/abs/astro-ph/0503009
+author: Strateva, I. V. and Brandt, W. N. and Schneider, D. P. and Vanden Berk, D.
+  G. and Vignali, C.
+author_list:
+- family: Strateva
+  given: I. V.
+- family: Brandt
+  given: W. N.
+- family: Schneider
+  given: D. P.
+- family: Vanden Berk
+  given: D. G.
+- family: Vignali
+  given: C.
+date-added: 2017-08-11 06:21:28 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431247
+eprint: astro-ph/0503009
+journal: \aj
+keywords: 'Galaxies: Active, Galaxies: Evolution, Galaxies: Nuclei, Methods: Statistical,
+  Ultraviolet: Galaxies, X-Rays: Galaxies'
+month: August
+pages: 387--405
+papis_id: 117d46c72b1330a9e6c900655d898f50
+ref: strateva.i.2005
+title: Soft X-Ray and Ultraviolet Emission Relations in Optically Selected AGN Samples
+type: article
+volume: '130'
+year: '2005'

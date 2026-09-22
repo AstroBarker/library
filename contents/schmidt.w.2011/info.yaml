@@ -1,0 +1,56 @@
+abstract: 'Context. Compressible turbulence influences the dynamics of the interstellar
+  and the intergalactic medium over a vast range of length scales. In numerical simulations,
+  phenomenological subgrid scale (SGS) models are used to describe particular physical
+  processes below the grid scale. In most cases, these models do not cover fluid-dynamical
+  interactions between resolved and unresolved scales, or the employed SGS model is
+  not applicable to turbulence in the highly compressible regime.  Aims: We formulate
+  and implement the Euler equations with SGS dynamics and provide numerical tests
+  of an SGS turbulence energy model that predicts the turbulent pressure of unresolved
+  velocity fluctuations and the rate of dissipation for highly compressible turbulence.  Methods:
+  We tested closures for the turbulence energy cascade by filtering data from high-resolution
+  simulations of forced isothermal and adiabatic turbulence. Optimal properties and
+  an excellent correlation are found for a linear combination of the eddy-viscosity
+  closure that is employed in LES of weakly compressible turbulence and a term that
+  is nonlinear in the Jacobian matrix of the velocity. Using this mixed closure, the
+  SGS turbulence energy model is validated in LES of turbulence with stochastic forcing.  Results:
+  It is found that the SGS model satisfies several important requirements: 1. The
+  mean SGS turbulence energy follows a power law for varying grid scale. 2. The root
+  mean square (rms) Mach number of the unresolved velocity fluctuations is proportional
+  to the rms Mach number of the resolved turbulence, independent of the forcing. 3.
+  The rate of dissipation and the turbulence energy flux are constant. Moreover, we
+  discuss difficulties with direct estimates of the turbulent pressure and the dissipation
+  rate on the basis of resolved flow quantities that have recently been proposed.  Conclusions:
+  In combination with the energy injection by stellar feedback and other unresolved
+  processes, the proposed SGS model is applicable to a variety of problems in computational
+  astrophysics. By computing the SGS turbulence energy, the treatment of star formation
+  and stellar feedback in galaxy simulations can be improved. Furthermore, we expect
+  that the turbulent pressure on the grid scale affects the stability of gas against
+  gravitational collapse. The influence of small-scale turbulence on emission line
+  broadening, e.g., of O VI, in the intergalactic medium is another potential application.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A.106S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.4492
+author: Schmidt, W. and Federrath, C.
+author_list:
+- family: Schmidt
+  given: W.
+- family: Federrath
+  given: C.
+date-added: 2017-08-10 15:39:18 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/201015630
+eid: A106
+eprint: '1010.4492'
+journal: \aap
+keywords: 'hydrodynamics, turbulence, methods: numerical, ISM: kinematics and dynamics,
+  galaxies: evolution'
+month: April
+pages: A106
+papis_id: c2ace3d43ae4ca7bdd241de0faa2a875
+ref: schmidt.w.2011
+title: A fluid-dynamical subgrid scale model for highly compressible astrophysical
+  turbulence
+type: article
+volume: '528'
+year: '2011'

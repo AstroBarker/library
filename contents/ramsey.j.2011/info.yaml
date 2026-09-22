@@ -1,0 +1,36 @@
+abstract: We present the first 2.5-dimensional magnetohydrodynamic (MHD) simulations
+  of protostellar jets that include both the region in which the jet is launched magnetocentrifugally
+  at scale lengths <0.1 AU and where the propagating jet is observed at scale lengths
+  >103 AU. These simulations, performed with the new adaptive mesh refinement MHD
+  code AZEuS, reveal interesting relationships between conditions at the disk surface,
+  such as the magnetic field strength, and direct observables such as proper motion,
+  jet rotation, jet radius, and mass flux. By comparing these quantities with observed
+  values, we present direct numerical evidence that the magnetocentrifugal launching
+  mechanism is capable, by itself, of launching realistic protostellar jets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...728L..11R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.3723
+author: Ramsey, J. P. and Clarke, D. A.
+author_list:
+- family: Ramsey
+  given: J. P.
+- family: Clarke
+  given: D. A.
+date-added: 2017-08-10 23:28:36 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/2041-8205/728/1/L11
+eid: L11
+eprint: '1012.3723'
+journal: \apjl
+keywords: 'ISM: jets and outflows, magnetohydrodynamics: MHD, stars: formation'
+month: February
+pages: L11
+papis_id: 3d0a36ddba5bc16438e0895e6ca291f1
+primaryclass: astro-ph.SR
+ref: ramsey.j.2011
+title: Simulating Protostellar Jets Simultaneously at Launching and Observational
+  Scales
+type: article
+volume: '728'
+year: '2011'

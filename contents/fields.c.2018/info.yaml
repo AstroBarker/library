@@ -1,0 +1,58 @@
+abstract: We explore properties of core-collapse supernova progenitors with respect
+  to the composite uncertainties in the thermonuclear reaction rates by coupling the
+  probability density functions of the reaction rates provided by the STARLIB reaction
+  rate library with MESA stellar models. We evolve 1000 models of 15{M}o  from the
+  pre-main sequence to core O-depletion at solar and subsolar metallicities for a
+  total of 2000 Monte Carlo stellar models. For each stellar model, we independently
+  and simultaneously sample 665 thermonuclear reaction rates and use them in a MESA
+  in situ reaction network that follows 127 isotopes from 1H to 64Zn. With this framework
+  we survey the core mass, burning lifetime, composition, and structural properties
+  at five different evolutionary epochs. At each epoch we measure the probability
+  distribution function of the variations of each property and calculate Spearman
+  rank-order correlation coefficients for each sampled reaction rate to identify which
+  reaction rate has the largest impact on the variations on each property. We find
+  that uncertainties in the reaction rates of {}14{{N}}{({{p}},gamma )}15{{O}}, triple-alpha,
+  {}12{{C}}{(alpha ,gamma )}16{{O}}, 12C(12C,p)23Na, 12C(16O, p)27Al, 16O(16O,n)31S,
+  16O(16O, p)31P, and 16O(16O,alpha)28Si dominate the variations of the properties
+  surveyed. We find that variations induced by uncertainties in nuclear reaction rates
+  grow with each passing phase of evolution, and at core H-, He-depletion they are
+  of comparable magnitude to the variations induced by choices of mass resolution
+  and network resolution. However, at core C-, Ne-, and O-depletion, the reaction
+  rate uncertainties can dominate the variation, causing uncertainty in various properties
+  of the stellar model in the evolution toward iron core-collapse.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJS..234...19F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.06057
+author: Fields, C. E. and Timmes, F. X. and Farmer, R. and Petermann, I. and Wolf,
+  W. M. and Couch, S. M.
+author_list:
+- family: Fields
+  given: C. E.
+- family: Timmes
+  given: F. X.
+- family: Farmer
+  given: R.
+- family: Petermann
+  given: I.
+- family: Wolf
+  given: W. M.
+- family: Couch
+  given: S. M.
+date-added: 2018-03-20 12:49:55 +0000
+date-modified: 2018-03-20 12:49:56 +0000
+doi: 10.3847/1538-4365/aaa29b
+eid: '19'
+eprint: '1712.06057'
+journal: \apjs
+keywords: 'stars: abundances, stars: evolution, stars: interiors, supernovae: general'
+month: February
+pages: '19'
+papis_id: 35b19261681e43fbfed96176b413cdc5
+primaryclass: astro-ph.SR
+ref: fields.c.2018
+title: The Impact of Nuclear Reaction Rate Uncertainties on the Evolution of Core-collapse
+  Supernova Progenitors
+type: article
+volume: '234'
+year: '2018'

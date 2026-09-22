@@ -1,0 +1,52 @@
+abstract: We present the results of a systematic study of the evolution of low- and
+  intermediate-mass X-ray binaries (LMXBs and IMXBs). Using a standard Henyey-type
+  stellar evolution code and a standard model for binary interactions, we have calculated
+  100 binary evolution sequences containing a neutron star and a normal-type companion
+  star, where the initial mass of the secondary ranges from 0.6 to 7 Msolar and the
+  initial orbital period from ~4 hr to ~100 days. This range samples the entire range
+  of parameters one is likely to encounter for LMXBs and IMXBs. The sequences show
+  an enormous variety of evolutionary histories and outcomes, where different mass
+  transfer mechanisms dominate in different phases. Very few sequences resemble the
+  classical evolution of cataclysmic variables, where the evolution is driven by magnetic
+  braking and gravitational radiation alone. Many systems experience a phase of mass
+  transfer on a thermal timescale and may briefly become detached immediately after
+  this phase (for the more massive secondaries). In agreement with previous results
+  (Tauris \& Savonije 1999), we find that all sequences with (sub)giant donors up
+  to ~2 Msolar are stable against dynamical mass transfer. Sequences where the secondary
+  has a radiative envelope are stable against dynamical mass transfer for initial
+  masses up to ~4 Msolar. For higher initial masses, they experience a delayed dynamical
+  instability after a stable phase of mass transfer lasting up to ~106 yr. Systems
+  where the initial orbital period is just below the bifurcation period of ~18 hr
+  evolve toward extremely short orbital periods (as short as ~10 minutes). For a 1
+  Msolar secondary, the initial period range that leads to the formation of ultracompact
+  systems (with minimum periods less than ~40 minutes) is 13-18 hr. Since systems
+  that start mass transfer in this period range are naturally produced as a result
+  of tidal capture, this may explain the large fraction of ultracompact LMXBs observed
+  in globular clusters. The implications of this study for our understanding of the
+  population of X-ray binaries and the formation of millisecond pulsars are also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...565.1107P
+arxivurl: http://arxiv.org/abs/astro-ph/0107261
+author: Podsiadlowski, P. and Rappaport, S. and Pfahl, E. D.
+author_list:
+- family: Podsiadlowski
+  given: P.
+- family: Rappaport
+  given: S.
+- family: Pfahl
+  given: E. D.
+date-added: 2017-08-11 04:15:17 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/324686
+eprint: astro-ph/0107261
+journal: \apj
+keywords: 'Stars: Binaries: Close, Stars: Pulsars: General, Stars: Neutron, Stars:
+  White Dwarfs, X-Rays: Stars'
+month: February
+pages: 1107--1133
+papis_id: e0011b117fa57379c5af11baff7ee373
+ref: podsiadlowski.p.2002
+title: Evolutionary Sequences for Low- and Intermediate-Mass X-Ray Binaries
+type: article
+volume: '565'
+year: '2002'

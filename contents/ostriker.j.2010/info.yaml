@@ -1,0 +1,47 @@
+abstract: The deposition of mechanical feedback from a supermassive black hole (SMBH)
+  in an active galactic nucleus into the surrounding galaxy occurs via broad-line
+  winds which must carry mass and radial momentum as well as energy. The effect can
+  be summarized by the dimensionless parameter eta ={\dot{M}\_outf}/{\dot{M}\_acc}=
+  {2 \ensuremath{\epsilon}\_wc^2}/{v\_w^2} where epsilonw (\equiv{} \dot{E}\_w/(\dot{M}\_accc^2))
+  is the efficiency with which accreted matter is turned into wind energy in the disk
+  surrounding the central SMBH. The outflowing mass and momentum are proportional
+  to eta, and many prior treatments have essentially assumed that eta = 0. We perform
+  one- and two-dimensional simulations and find that the growth of the central SMBH
+  is very sensitive to the inclusion of the mass and momentum driving but is insensitive
+  to the assumed mechanical efficiency. For example in representative calculations,
+  the omission of momentum and mass feedback leads to a hundred-fold increase in the
+  mass of the SMBH to over 1010 M sun. When allowance is made for momentum driving,
+  the final SMBH mass is much lower and the wind efficiencies that lead to the most
+  observationally acceptable results are relatively low with epsilonw <~ 10-4.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722..642O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.2923
+author: Ostriker, J. P. and Choi, E. and Ciotti, L. and Novak, G. S. and Proga, D.
+author_list:
+- family: Ostriker
+  given: J. P.
+- family: Choi
+  given: E.
+- family: Ciotti
+  given: L.
+- family: Novak
+  given: G. S.
+- family: Proga
+  given: D.
+date-added: 2017-08-11 02:35:20 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/1/642
+eprint: '1004.2923'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, galaxies: active, galaxies:
+  nuclei, galaxies: starburst, quasars: general'
+month: October
+pages: 642--652
+papis_id: e3f180904ba4463a3bcb2dfabc231d64
+ref: ostriker.j.2010
+title: 'Momentum Driving: Which Physical Processes Dominate Active Galactic Nucleus
+  Feedback?'
+type: article
+volume: '722'
+year: '2010'

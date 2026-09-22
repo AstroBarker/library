@@ -1,0 +1,57 @@
+abstract: In this paper we present a compilation of results from our most advanced
+  neutron star merger simulations. Special aspects of these models were refered to
+  in earlier publications (Ruffert \& Janka \cite{ruf99}; Janka et al. \cite{jan99}),
+  but a description of the employed numerical procedures and a more complete overview
+  over a large number of computed models are given here. The three-dimensional hydrodynamic
+  simulations were done with a code based on the Piecewise Parabolic Method (PPM),
+  which solves the discretized conservation laws for mass, momentum, energy and, in
+  addition, for the electron lepton number in an Eulerian frame of reference. Up to
+  five levels of nested cartesian grids ensure higher numerical resolution (about
+  0.6 km) around the center of mass while the evolution is followed in a large computational
+  volume (side length between 300 and 400 km). The simulations are basically Newtonian,
+  but gravitational-wave emission and the corresponding back-reaction on the hydrodynamic
+  flow are taken into account. The use of a physical nuclear equation of state allows
+  us to follow the thermodynamic history of the stellar medium and to compute the
+  energy and lepton number loss due to the emission of neutrinos. The computed models
+  differ concerning the neutron star masses and mass ratios, the neutron star spins,
+  the numerical resolution expressed by the cell size of the finest grid and the number
+  of grid levels, and the calculation of the temperature from the solution of the
+  entropy equation instead of the energy equation. The models were evaluated for the
+  corresponding gravitational-wave and neutrino emission and the mass loss which occurs
+  during the dynamical phase of the merging. The results can serve for comparison
+  with smoothed particle hydrodynamics (SPH) simulations. In addition, they define
+  a reference point for future models with a better treatment of general relativity
+  and with improvements of the complex input physics. Our simulations show that the
+  details of the gravitational-wave emission are still sensitive to the numerical
+  resolution, even in our highest-quality calculations. The amount of mass which can
+  be ejected from neutron star mergers depends strongly on the angular momentum of
+  the system. Our results do not support the initial conditions of temperature and
+  proton-to-nucleon ratio needed according to recent work for producing a solar r-process
+  pattern for nuclei around and above the A~ 130 peak. The improved models confirm
+  our previous conclusion that gamma-ray bursts are not powered by neutrino emission
+  during the dynamical phase of the merging of two neutron stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...380..544R
+arxivurl: http://arxiv.org/abs/astro-ph/0106229
+author: Ruffert, M. and Janka, H.-T.
+author_list:
+- family: Ruffert
+  given: M.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 15:49:58 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1051/0004-6361:20011453
+eprint: astro-ph/0106229
+journal: \aap
+keywords: 'STARS: NEUTRON, BINARIES: CLOSE, HYDRODYNAMICS, GRAVITATIONAL WAVES, NUCLEAR
+  REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, ELEMENTARY PARTICLES'
+month: December
+pages: 544--577
+papis_id: a7bc5fdffdc060fcdf8a2ad759174755
+ref: ruffert.m.2001
+title: Coalescing neutron stars - A step towards physical models. III. Improved numerics
+  and different neutron star masses and spins
+type: article
+volume: '380'
+year: '2001'

@@ -1,0 +1,35 @@
+abstract: It has been known since 1987 that many features of supernovae cannot be
+  described by the spherically-symmetric picture assumed in one-dimensional explosion
+  models. However, the study of the propagation of a supernova shock through a star
+  in more than one spatial dimension is still in its infancy. Understanding this propagation,
+  and the mixing associated with it, is critical for determining accurate supernova
+  yields and correctly interpreting observations based on those yields --- from gamma-rays
+  and overall light curves produced in supernova explosions to the abundances of isotopes
+  studied in stars. Here we review the current state-of-the-art in this field. By
+  necessity, this problem is computational and therefore provides an ideal setting
+  to discuss how verification and validation techniques can play an important role
+  in taking full advantage of the results from numerical simulations. We discuss this
+  problem using the full arsenal of verification and validation techniques currently
+  available.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007IJMPD..16..941F
+author: Fryer, C. L. and Hungerford, A. L. and Rockefeller, G.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Hungerford
+  given: A. L.
+- family: Rockefeller
+  given: G.
+date-added: 2017-08-11 01:51:58 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1142/S0218271807010523
+journal: International Journal of Modern Physics D
+keywords: Supernova, mixing, massive stars, computation
+pages: 941--981
+papis_id: 98e0bfce05384c150af5af318c413c9b
+ref: fryer.c.2007c
+title: Supernova Explosions:. Understanding Mixing
+type: article
+volume: '16'
+year: '2007'

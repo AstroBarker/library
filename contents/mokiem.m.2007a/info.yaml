@@ -1,0 +1,76 @@
+abstract: We have studied the optical spectra of a sample of 28 O- and early B-type
+  stars in the Large Magellanic Cloud, 22 of which are associated with the young star
+  forming region N11. Our observations sample the central associations of LH9 and
+  LH10, and the surrounding regions. Stellar parameters are determined using an automated
+  fitting method (Mokiem et al. 2005), which combines the stellar atmosphere code
+  fastwind (Puls et al. 2005) with the genetic algorithm based optimisation routine
+  pikaia (Charbonneau 1995). We derive an age of 7.0 $\pm$ 1.0 and 3.0 \$\pm\$ 1.0
+  Myr for LH9 and LH10, respectively. The age difference and relative distance of
+  the associations are consistent with a sequential star formation scenario in which
+  stellar activity in LH9 triggered the formation of LH10. Our sample contains four
+  stars of spectral type O2. From helium and hydrogen line fitting we find the hottest
+  three of these stars to be  49{-}54 kK (compared to 45{-}46 kK for O3 stars). Detailed
+  determination of the helium mass fraction reveals that the masses of helium enriched
+  dwarfs and giants derived in our spectroscopic analysis are systematically lower
+  than those implied by non-rotating evolutionary tracks. We interpret this as evidence
+  for efficient rotationally enhanced mixing leading to the surfacing of primary helium
+  and to an increase of the stellar luminosity. This result is consistent with findings
+  for SMC stars by Mokiem et al. (2006). For bright giants and supergiants no such
+  mass discrepancy is found; these stars therefore appear to follow tracks of modestly
+  or non-rotating objects. The set of programme stars was sufficiently large to establish
+  the mass loss rates of OB stars in this Z \texttildelow{} 1/2 Z\&sun; environment
+  sufficiently accurate to allow for a quantitative comparison with similar objects
+  in the Galaxy and the SMC. The mass loss properties are found to be intermediate
+  to massive stars in the Galaxy and SMC. Comparing the derived modified wind momenta
+  D\_mom as a function of luminosity with predictions for LMC metallicities by Vink
+  et al. (2001) yields good agreement in the entire luminosity range that was investigated,
+  i.e. 5.0 < log L/L\&sun;< 6.1.  Appendix A is only available in electronic form
+  at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...465.1003M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.1113
+author: Mokiem, M. R. and de Koter, A. and Evans, C. J. and Puls, J. and Smartt, S.
+  J. and Crowther, P. A. and Herrero, A. and Langer, N. and Lennon, D. J. and Najarro,
+  F. and Villamariz, M. R. and Vink, J. S.
+author_list:
+- family: Mokiem
+  given: M. R.
+- family: de Koter
+  given: A.
+- family: Evans
+  given: C. J.
+- family: Puls
+  given: J.
+- family: Smartt
+  given: S. J.
+- family: Crowther
+  given: P. A.
+- family: Herrero
+  given: A.
+- family: Langer
+  given: N.
+- family: Lennon
+  given: D. J.
+- family: Najarro
+  given: F.
+- family: Villamariz
+  given: M. R.
+- family: Vink
+  given: J. S.
+date-added: 2017-08-11 00:21:25 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20066489
+eprint: '0704.1113'
+journal: \aap
+keywords: 'galaxies: Magellanic Clouds, stars: atmospheres, stars:, early-type, stars:
+  fundamental parameters, stars: mass loss, stars: evolution'
+month: April
+pages: 1003--1019
+papis_id: 4b3767dc754145334a490dfa7db445b9
+ref: mokiem.m.2007a
+title: 'The VLT-FLAMES survey of massive stars: wind properties and evolution of hot
+  massive stars in the Large Magellanic Cloud'
+type: article
+volume: '465'
+year: '2007'

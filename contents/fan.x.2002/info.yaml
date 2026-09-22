@@ -1,0 +1,56 @@
+abstract: We study the process of cosmic reionization and estimate the ionizing background
+  in the intergalactic medium (IGM) using the Lyman series absorption in the spectra
+  of the four quasars at 5.7<z<6.3 discovered by the Sloan Digital Sky Survey. We
+  derive the redshift evolution of the ionizing background at high redshifts, using
+  both semianalytic techniques and cosmological simulations to model the density fluctuations
+  in the IGM. The existence of the complete Lyalpha Gunn-Peterson (GP) trough in the
+  spectrum of the z=6.28 quasar SDSS 1030+0524 indicates a photoionization rate (Gamma-12
+  in units of 10-12 s-1) at z~6 lower than 0.08, at least a factor of 6 smaller than
+  the value at z~3. The Lybeta and Lygamma GP troughs give an even stronger limit
+  Gamma-12<~0.02 due to their smaller oscillator strengths, indicating that the ionizing
+  background in the IGM at z~6 is more than 20 times lower than that at z~3. Meanwhile,
+  the volume-averaged neutral hydrogen fraction increases from 10-5 at z~3 to greater
+  than 10-3 at z~6. At this redshift, the mass-averaged neutral hydrogen fraction
+  is larger than 1\%; the mildly overdense regions (delta>3) are still mostly neutral,
+  and the comoving mean free path of ionizing photons is shorter than 8 Mpc. Comparison
+  with simulations of cosmological reionization shows that the observed properties
+  of the IGM at z~6 are typical of those in the era at the end of the overlap stage
+  of reionization when the individual H II regions merge. Thus z~6 marks the end of
+  the reionization epoch. The redshift of reionization constrains the small-scale
+  power of the mass-density fluctuations and the star-forming efficiency of the first
+  generation of objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....123.1247F
+arxivurl: http://arxiv.org/abs/astro-ph/0111184
+author: Fan, X. and Narayanan, V. K. and Strauss, M. A. and White, R. L. and Becker,
+  R. H. and Pentericci, L. and Rix, H.-W.
+author_list:
+- family: Fan
+  given: X.
+- family: Narayanan
+  given: V. K.
+- family: Strauss
+  given: M. A.
+- family: White
+  given: R. L.
+- family: Becker
+  given: R. H.
+- family: Pentericci
+  given: L.
+- family: Rix
+  given: H.-W.
+date-added: 2017-08-10 20:26:10 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/339030
+eprint: astro-ph/0111184
+journal: \aj
+keywords: 'Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines'
+month: March
+pages: 1247--1257
+papis_id: aeff7de6f180f4820264a9802a666fef
+ref: fan.x.2002
+title: Evolution of the Ionizing Background and the Epoch of Reionization from the
+  Spectra of z̃6 Quasars
+type: article
+volume: '123'
+year: '2002'

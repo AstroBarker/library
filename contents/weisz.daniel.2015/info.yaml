@@ -1,0 +1,105 @@
+abstract: We have undertaken the largest systematic study of the high-mass stellar         initial
+  mass function (IMF) to date using the optical color-         magnitude diagrams
+  (CMDs) of 85 resolved, young (4 \{Myr\} t 25         \{Myr\}), intermediate mass
+  star clusters ({}10$^{3}$-{}10\$^{4}\$         M\$\_{{\ensuremath{\odot}}}\$), observed
+  as part of the         Panchromatic Hubble Andromeda Treasury program. We fit each         cluster{\textquoteright}s
+  CMD to measure its mass function (MF)         slope for stars {\ensuremath{\gtrsim}}2         M\$\_{{\ensuremath{\odot}}}\$.
+  By modeling the ensemble of         clusters, we find the distribution of MF slopes
+  is best         described by {\ensuremath{\Gamma}} =         +\{1.45\}\$\_{-0.06}\$\$^{+0.03}\$
+  with a very small intrinsic         scatter and no drastic outliers. This model
+  allows the MF slope         to depend on cluster mass, size, and age, but the data
+  imply no         significant dependencies within this regime of cluster         properties.
+  The lack of an age dependence suggests that the MF         slope has not significantly
+  evolved over the first         {\ensuremath{\sim}}25 Myr and provides direct observational         evidence
+  that the measured MF represents the IMF. Taken         together, this analysis{\textemdash}based
+  on an unprecedented         large sample of young clusters, homogeneously constructed
+  CMDs,         well-defined selection criteria, and consistent principled         modeling{\textemdash}implies
+  that the high-mass IMF slope in M31         clusters is universal. The IMF has a
+  slope         ({\ensuremath{\Gamma}} = +\{1.45\}\$\_{-0.06}\$\$^{+0.03}\$;         statistical
+  uncertainties) that is slightly steeper than the         canonical Kroupa (+1.30)
+  and Salpeter (+1.35) values, and our         measurement of it represents a factor
+  of {\ensuremath{\sim}}20         improvement in precision over the Kroupa IMF (+1.30         {\ensuremath{\pm}}
+  0.7). Using our inference model on select         Milky Way (MW) and LMC high-mass
+  IMF studies from the         literature, we find \{{\ensuremath{\Gamma}}         \}\$\_{\{MW}\$\}{\ensuremath{\sim}}
+  +1.15+/- 0.1 and         \{{\ensuremath{\Gamma}} \}\$\_{\{LMC}\$\}{\ensuremath{\sim}}         +1.3+/-
+  0.1, both with intrinsic scatter of         {\ensuremath{\sim}}0.3-0.4 dex. Thus,
+  while the high-mass IMF in         the Local Group may be universal, systematics
+  in the literature         of IMF studies preclude any definitive conclusions; homogenous         investigations
+  of the high-mass IMF in the local universe are         needed to overcome this limitation.
+  Consequently, the present         study represents the most robust measurement of
+  the high-mass         IMF slope to date. To facilitate practical use over the full         stellar
+  mass spectrum, we have grafted the M31 high-mass IMF         slope onto widely used
+  sub-solar mass Kroupa and Chabrier IMFs.         The increased steepness in the
+  M31 high-mass IMF slope implies         that commonly used UV- and H{\ensuremath{\alpha}}-based
+  star         formation rates should be increased by a factor of         {\ensuremath{\sim}}1.3-1.5
+  and the number of stars with masses         8 M\$\_{{\ensuremath{\odot}}}\$ is {\ensuremath{\sim}}25\%
+  fewer         than expected for a Salpeter/Kroupa IMF.         Based on observations
+  made with the         NASA/ESA Hubble Space Telescope, obtained at the Space Telescope         Science
+  Institute, which is operated by the Association of         Universities for Research
+  in Astronomy, Inc., under NASA         contract NAS 5-26555. These observations
+  are associated with         program \#12055.
+archiveprefix: arXiv
+author: Weisz, Daniel R. and Johnson, L. Clifton and Foreman-Mackey, Daniel and Dolphin,
+  Andrew E. and Beerman, Lori C. and Williams, Benjamin F. and Dalcanton, Julianne
+  J. and Rix, Hans-Walter and Hogg, David W. and Fouesneau, Morgan and Johnson, Benjamin
+  D. and Bell, Eric F. and Boyer, Martha L. and Gouliermis, Dimitrios and Guhathakurta,
+  Puragra and Kalirai, Jason S. and Lewis, Alexia R. and Seth, Anil C. and Skillman,
+  Evan D.
+author_list:
+- family: Weisz
+  given: Daniel R.
+- family: Johnson
+  given: L. Clifton
+- family: Foreman-Mackey
+  given: Daniel
+- family: Dolphin
+  given: Andrew E.
+- family: Beerman
+  given: Lori C.
+- family: Williams
+  given: Benjamin F.
+- family: Dalcanton
+  given: Julianne J.
+- family: Rix
+  given: Hans-Walter
+- family: Hogg
+  given: David W.
+- family: Fouesneau
+  given: Morgan
+- family: Johnson
+  given: Benjamin D.
+- family: Bell
+  given: Eric F.
+- family: Boyer
+  given: Martha L.
+- family: Gouliermis
+  given: Dimitrios
+- family: Guhathakurta
+  given: Puragra
+- family: Kalirai
+  given: Jason S.
+- family: Lewis
+  given: Alexia R.
+- family: Seth
+  given: Anil C.
+- family: Skillman
+  given: Evan D.
+doi: 10.1088/0004-637X/806/2/198
+eid: '198'
+eprint: '1502.06621'
+journal: \apj
+keywords: 'galaxies: star clusters: general, galaxies: star formation, Hertzsprung{\textendash}Russell
+  and C{\textendash}M diagrams, Local Group, stars: luminosity function, mass function,
+  Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic
+  Astrophysics'
+month: June
+number: '2'
+pages: '198'
+papis_id: 1e375edcf1f72d15d53fc954a1869db2
+primaryclass: astro-ph.GA
+ref: weisz.daniel.2015
+title: The High-mass Stellar Initial Mass Function in M31 Clusters
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W
+volume: '806'
+year: '2015'

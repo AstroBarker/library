@@ -1,0 +1,40 @@
+abstract: A dynamic method based on Kalman filtering is presented to isolate low-frequency
+  unsteadiness from turbulent fluctuations in the large-eddy simulation (LES) of unsteady
+  turbulent flows. The method can be viewed as an adaptive exponential smoothing,
+  in which the smoothing factor adapts itself dynamically to the local behavior of
+  the flow. Interestingly, the proposed method does not require any empirical tuning.
+  In practice, it is used to estimate a shear-improved Smagorinsky viscosity, in which
+  the low-frequency component of the velocity field is used to estimate a correction
+  term to the Smagorinsky viscosity. The LES of the flow past a circular cylinder
+  at Reynolds number ReD = 4.7 \texttimes{} 104 is examined as a challenging test
+  case. Good comparisons are obtained with the experimental results, indicating the
+  relevance of the shear-improved Smagorinsky model and the efficiency of the Kalman
+  filtering. Finally, the adaptive cut-off of the Kalman filter is investigated, and
+  shown to adapt locally and instantaneously to the complex flow around the cylinder.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011JPhCS.318d2047C
+author: Cahuzac, A. and Boudet, J. and Borgnat, P. and Lévêque, E.
+author_list:
+- family: Cahuzac
+  given: A.
+- family: Boudet
+  given: J.
+- family: Borgnat
+  given: P.
+- family: Lévêque
+  given: E.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 15:43:51 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/1742-6596/318/4/042047
+eid: '042047'
+month: December
+pages: '042047'
+papis_id: 82fbaa9bf042e065222958938b14669b
+ref: cahuzac.a.2011
+series: Journal of Physics Conference Series
+title: 'Dynamic Kalman filtering to separate low-frequency instabilities from turbulent
+  fluctuations: Application to the Large-Eddy Simulation of unsteady turbulent flows'
+type: inproceedings
+volume: '318'
+year: '2011'

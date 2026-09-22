@@ -1,0 +1,36 @@
+abstract: FLASH is a flexible, modular and parallel application code capable of simulating
+  the compressible, reactive flows found in many astrophysical environments. It is
+  a collection of inter-operable modules which can be combined to generate different
+  applications. FLASH is gaining increasing recognition as a community code with a
+  fairly wide external user base. Unlike other component-based codes that have historically
+  met with varying degrees of success. FLASH started out as a more traditional scientific
+  code and evolved into a modular one as insights were gained into manageability,
+  extensibility and efficiency. As a result, the development of the code has been,
+  and continues to be, driven by the dual goals of application requirements and modularity.
+  In this tutorial paper, we give an overview of the FLASH code architecture and capabilities.
+  We also include an example of a customized application adapted from the sample applications
+  provided with the code distribution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008PhST..132a4046D
+author: Dubey, A. and Reid, L. B. and Fisher, R.
+author_list:
+- family: Dubey
+  given: A.
+- family: Reid
+  given: L. B.
+- family: Fisher
+  given: R.
+date-added: 2017-08-11 04:30:00 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1088/0031-8949/2008/T132/014046
+eid: '014046'
+journal: Physica Scripta Volume T
+month: December
+number: '1'
+pages: '014046'
+papis_id: 0416de384bd4d81005159d84cb968121
+ref: dubey.a.2008
+title: Introduction to FLASH 3.0, with application to supersonic turbulence
+type: article
+volume: '132'
+year: '2008'

@@ -1,0 +1,44 @@
+abstract: Observations suggest that star clusters often form in binaries or larger
+  bound groups. Therefore, mergers between two clusters are likely to occur. If these
+  clusters both harbor an intermediate-mass black hole (IMBH; ~102-104 Msolar) in
+  their center, they can become a strong source of gravitational waves when the black
+  holes merge with each other. To understand the dynamical processes that operate
+  in such a scenario, we simulate the merger of two stellar clusters each containing
+  63,000 particles and a central IMBH, using the direct-summation NBODY4 code on special-purpose
+  GRAPE6 hardware. Within ~7 Myr the clusters have merged and the IMBHs constitute
+  a hard binary. The final coalescence happens in ~108 yr. We find that interactions
+  with stars increase the eccentricity of the IMBH binary to about 0.8. Although the
+  binary later circularizes by emission of gravitational waves, the residual eccentricity
+  can be detectable by the Laser Interferometer Space Antenna (LISA) through its influence
+  on the phase of the waves if the last few years of inspiral are observed. For proposed
+  higher frequency space-based missions such as the Big Bang Observer (BBO), whose
+  first purpose is to search for an inflation-generated gravitational waves background
+  in the 10-1 to 1 Hz range, binary IMBH inspirals would be a foreground noise source.
+  However, we find that the inspiral signals could be characterized accurately enough
+  that they could be removed from the data stream and in the process provide us with
+  detailed information about these astrophysical events.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...653L..53A
+arxivurl: http://arxiv.org/abs/astro-ph/0610478
+author: Amaro-Seoane, P. and Freitag, M.
+author_list:
+- family: Amaro-Seoane
+  given: P.
+- family: Freitag
+  given: M.
+date-added: 2017-08-11 08:22:20 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/510405
+eprint: astro-ph/0610478
+journal: \apjl
+keywords: 'Black Hole Physics, Gravitational Waves, Methods: n-Body Simulations, Stellar
+  Dynamics'
+month: December
+pages: L53-L56
+papis_id: fa596fc654733ec88e501b7f495f3ba4
+ref: amaro_seoane.p.2006
+title: 'Intermediate-Mass Black Holes in Colliding Clusters: Implications for Lower
+  Frequency Gravitational-Wave Astronomy'
+type: article
+volume: '653'
+year: '2006'

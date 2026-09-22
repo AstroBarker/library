@@ -1,0 +1,47 @@
+abstract: We describe a numerical code to solve the equations for ideal magnetohydrodynamics
+  (MHD). It is based on an explicit finite difference scheme on an Eulerian grid,
+  called the total variation diminishing (TVD) scheme, which is a second-order-accurate
+  extension of the Roe-type upwind scheme. We also describe a non-linear Riemann solver
+  for ideal MHD, which includes rarefractions as well as shocks. The numerical code
+  and the Riemann solver have been used to test each other. Extensive tests encompassing
+  all the possible ideal MHD structures with planar symmetries (i.e., one-dimensional
+  flows) are presented. These include those for which the field structure is two dimensional
+  (i.e., those flows often called '1 + 1/2 dimensional') as well as those for which
+  the magnetic field plane rotates (i.e., those flows often called '1 + 1/2 + 1/2
+  dimensional'). Results indicate that the code can resolve strong fast, slow, and
+  magnetosonic shocks within two to four cells, but more cells are required if shocks
+  become weak. With proper steepening, we could resolve rotational discontinuities
+  within three to five cells. However, without successful implementation of steepening,
+  contact discontinuities are resolved with approximately 10 cells and tangential
+  discontinuities are resolved with approximately 15 cells. Out tests confirm that
+  slow compound structures with tow-dimensional magnetic fields are composed of intermediate
+  shocks (so-called 2-4 intermediate shocks) followed by slow rarefaction waves. Finally,
+  tests demostrate that in two-dimensional magnetohydrodynamics, fast compound structures,
+  which are composed of intermediate shocks (so-called 1-3 intermediate shocks) preceeded
+  by fast rarefaction waves, are also possible.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...442..228R
+arxivurl: http://arxiv.org/abs/astro-ph/9404074
+author: Ryu, D. and Jones, T. W.
+author_list:
+- family: Ryu
+  given: D.
+- family: Jones
+  given: T. W.
+date-added: 2017-08-10 23:29:16 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175437
+eprint: astro-ph/9404074
+journal: \apj
+keywords: Algorithms, Computational Astrophysics, Magnetic Fields, Magnetohydrodynamics,
+  One Dimensional Flow, Shock Waves, Computational Grids, Finite Difference Theory,
+  Shock Tubes, Tvd Schemes, Upwind Schemes (Mathematics)
+month: March
+pages: 228--258
+papis_id: 6495a57f4f4e7cd483e64d32037f6a2d
+ref: ryu.d.1995
+title: 'Numerical magetohydrodynamics in astrophysics: Algorithm and tests for one-dimensional
+  flow`'
+type: article
+volume: '442'
+year: '1995'

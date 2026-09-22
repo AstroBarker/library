@@ -1,0 +1,32 @@
+abstract: The tasks of the DAOPHOT program, developed to exploit the capability of
+  photometrically linear image detectors to perform stellar photometry in crowded
+  fields, are discussed. Raw CCD images are prepared prior to analysis, and following
+  the obtaining of an initial star list with the FIND program, synthetic aperture
+  photometry is performed on the detected objects with the PHOT routine. A local sky
+  brightness and a magnitude are computed for each star in each of the specified stellar
+  apertures, and for crowded fields, the empirical point-spread function must then
+  be obtained for each data frame. The GROUP routine divides the star list for a given
+  frame into optimum subgroups, and then the NSTAR routine is used to obtain photometry
+  for all the stars in the frame by means of least- squares profile fits. The process
+  is illustrated with images of stars in a crowded field, and shortcomings and possible
+  improvements of the program are considered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1987PASP...99..191S
+author: Stetson, P. B.
+author_list:
+- family: Stetson
+  given: P. B.
+date-added: 2017-08-11 03:46:44 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/131977
+journal: \pasp
+keywords: Algorithms, Astronomical Photometry, Computer Programs, Charge Coupled Devices,
+  Color-Magnitude Diagram, Magellanic Clouds, Point Spread Functions, Television Cameras
+month: March
+pages: 191--222
+papis_id: 53976e76c0574bcd54a39f1f0d3ab2a8
+ref: stetson.p.1987
+title: DAOPHOT - A computer program for crowded-field stellar photometry
+type: article
+volume: '99'
+year: '1987'

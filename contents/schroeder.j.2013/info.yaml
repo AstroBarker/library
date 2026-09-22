@@ -1,0 +1,54 @@
+abstract: 'The spectra of several high-redshift (z > 6) quasars have shown indications
+  for a Gunn-Peterson (GP) damping wing, suggesting a substantial mean neutral hydrogen
+  fraction (bar{x}\_{H riptscriptstyle I}^IGMgtrsim 0.03) in the z \approx{} 6 intergalactic
+  medium (IGM). However, previous analyses assumed that the IGM was uniformly ionized
+  outside of the quasar''s H ii region. Here we relax this assumption and model patchy
+  reionization scenarios for a range of IGM and quasar parameters. Compared to uniform
+  reionization, patchy reionization imprints a different average damping wing profile
+  with an associated sightline-to-sightline scatter. We quantify the impact of these
+  differences on the inferred bar{x}\_{H riptscriptstyle I}^IGM, by fitting the spectra
+  of three quasars: SDSS J1148+5251 (z = 6.4189), J1030+0524 (z = 6.308) and J1623+3112
+  (z = 6.247). We find that the best-fitting values of bar{x}\_{H riptscriptstyle
+  I}^IGM in the patchy models agree well with the uniform case. More importantly,
+  we confirm that the observed spectra favour the presence of a GP damping wing, with
+  peak likelihoods decreasing by factors of \greaterequivlnt{} few-10 when the spectra
+  are modelled without a damping wing. We also find that the Lyalpha absorption spectra,
+  by themselves, cannot distinguish the damping wing in a relatively neutral IGM from
+  a damping wing in a highly ionized IGM, caused either by an isolated neutral patch
+  or by a damped Lyalpha absorber (DLA). However, neutral patches in a highly ionized
+  universe (bar{x}\_{H riptscriptstyle I}^IGMlesssim 10^{-2}) and DLAs with the large
+  required column densities (N\_{H I}gtrsim {{ few}}\texttimes{} 10^{20}{{ cm}^{-2}})
+  are both rare. As a result, when we include reasonable prior probabilities for the
+  line of sight (LOS) to intercept either a neutral patch or a DLA at the required
+  distance of \texttildelow{} 40-60 comoving Mpc away from the quasar, we find strong
+  lower limits on the neutral fraction in the IGM, bar{x}\_{H riptscriptstyle I}^IGMgtrsim
+  0.1 (at 95 per cent confidence). This supports earlier claims that a substantial
+  global fraction of hydrogen in the z \approx{} 6 IGM is in neutral form.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.3058S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.2838
+author: Schroeder, J. and Mesinger, A. and Haiman, Z.
+author_list:
+- family: Schroeder
+  given: J.
+- family: Mesinger
+  given: A.
+- family: Haiman
+  given: Z.
+date-added: 2017-08-10 20:26:44 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts253
+eprint: '1204.2838'
+journal: \mnras
+keywords: 'quasars: general, cosmology-theory, dark ages, reionization, first stars,
+  diffuse radiation, early Universe, large-scale structure of Universe'
+month: February
+pages: 3058--3071
+papis_id: c705575e39ec1cd71989db8a3d24974f
+ref: schroeder.j.2013
+title: 'Evidence of Gunn-Peterson damping wings in high-z quasar spectra: strengthening
+  the case for incomplete reionization at z \tilde 6-7'
+type: article
+volume: '428'
+year: '2013'

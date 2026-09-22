@@ -1,0 +1,44 @@
+abstract: CL{\'E}S is an evolution code recently developed to produce stellar models
+  meeting the specific requirements of studies in asteroseismology. It offers the
+  users a lot of choices in the input physics they want in their models and its versatility
+  allows them to tailor the code to their needs and implement easily new features.
+  We describe the features implemented in the current version of the code and the
+  techniques used to solve the equations of stellar structure and evolution. A brief
+  account is given of the use of the program and of a solar calibration realized with
+  it.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008Ap\%26SS.316...83S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0712.3471
+author: Scuflaire, R. and Théado, S. and Montalbán, J. and Miglio, A. and Bourge,
+  P.-O. and Godart, M. and Thoul, A. and Noels, A.
+author_list:
+- family: Scuflaire
+  given: R.
+- family: Théado
+  given: S.
+- family: Montalbán
+  given: J.
+- family: Miglio
+  given: A.
+- family: Bourge
+  given: P.-O.
+- family: Godart
+  given: M.
+- family: Thoul
+  given: A.
+- family: Noels
+  given: A.
+date-added: 2017-08-11 04:26:26 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1007/s10509-007-9650-1
+eprint: '0712.3471'
+journal: \apss
+month: August
+pages: 83--91
+papis_id: ec9413053aef5dbc9befe294b79cc006
+ref: scuflaire.r.2008
+title: CLÉS, Code Liégeois d'Évolution Stellaire
+type: article
+volume: '316'
+year: '2008'

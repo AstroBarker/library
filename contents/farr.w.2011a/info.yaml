@@ -1,0 +1,63 @@
+abstract: We perform a Bayesian analysis of the mass distribution of stellar-mass
+  black holes using the observed masses of 15 low-mass X-ray binary systems undergoing
+  Roche lobe overflow and 5 high-mass, wind-fed X-ray binary systems. Using Markov
+  Chain Monte Carlo calculations, we model the mass distribution both parametrically---as
+  a power law, exponential, Gaussian, combination of two Gaussians, or log-normal
+  distribution---and non-parametrically---as histograms with varying numbers of bins.
+  We provide confidence bounds on the shape of the mass distribution in the context
+  of each model and compare the models with each other by calculating their relative
+  Bayesian evidence as supported by the measurements, taking into account the number
+  of degrees of freedom of each model. The mass distribution of the low-mass systems
+  is best fit by a power law, while the distribution of the combined sample is best
+  fit by the exponential model. This difference indicates that the low-mass subsample
+  is not consistent with being drawn from the distribution of the combined population.
+  We examine the existence of a "gap" between the most massive neutron stars and the
+  least massive black holes by considering the value, M 1\%, of the 1\% quantile from
+  each black hole mass distribution as the lower bound of black hole masses. Our analysis
+  generates posterior distributions for M 1\%; the best model (the power law) fitted
+  to the low-mass systems has a distribution of lower bounds with M 1\%>4.3 M sun
+  with 90\% confidence, while the best model (the exponential) fitted to all 20 systems
+  has M 1\%>4.5 M sun with 90\% confidence. We conclude that our sample of black hole
+  masses provides strong evidence of a gap between the maximum neutron star mass and
+  the lower bound on black hole masses. Our results on the low-mass sample are in
+  qualitative agreement with those of Ozel et al., although our broad model selection
+  analysis more reliably reveals the best-fit quantitative description of the underlying
+  mass distribution. The results on the combined sample of low- and high-mass systems
+  are in qualitative agreement with Fryer \& Kalogera, although the presence of a
+  mass gap remains theoretically unexplained.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...741..103F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.1459
+author: Farr, W. M. and Sravan, N. and Cantrell, A. and Kreidberg, L. and Bailyn,
+  C. D. and Mandel, I. and Kalogera, V.
+author_list:
+- family: Farr
+  given: W. M.
+- family: Sravan
+  given: N.
+- family: Cantrell
+  given: A.
+- family: Kreidberg
+  given: L.
+- family: Bailyn
+  given: C. D.
+- family: Mandel
+  given: I.
+- family: Kalogera
+  given: V.
+date-added: 2017-08-10 18:37:41 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/741/2/103
+eid: '103'
+eprint: '1011.1459'
+journal: \apj
+keywords: 'methods: data analysis, X-rays: binaries'
+month: November
+pages: '103'
+papis_id: e787a9616def44f604389424b892c026
+ref: farr.w.2011a
+title: The Mass Distribution of Stellar-mass Black Holes
+type: article
+volume: '741'
+year: '2011'

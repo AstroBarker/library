@@ -1,0 +1,57 @@
+abstract: 'Context. An equation of state (EoS) is a relation between thermodynamic
+  state variables and it is essential for closing the set of equations describing
+  a fluid system. Although an ideal EoS with a constant adiabatic index Gamma is the
+  preferred choice owing to its simplistic implementation, many astrophysical fluid
+  simulations may benefit from a more sophisticated treatment that can account for
+  diverse chemical processes.  Aims: In the present work we first review the basic
+  thermodynamic principles of a gas mixture in terms of its thermal and caloric EoS
+  by including effects like ionization, dissociation, and temperature dependent degrees
+  of freedom such as molecular vibrations and rotations. The formulation is revisited
+  in the context of plasmas that are either in equilibrium conditions (local thermodynamic-
+  or collisional excitation-equilibria) or described by non-equilibrium chemistry
+  coupled to optically thin radiative cooling. We then present a numerical implementation
+  of thermally ideal gases obeying a more general caloric EoS with non-constant adiabatic
+  index in Godunov-type numerical schemes.  Methods: We discuss the necessary modifications
+  to the Riemann solver and to the conversion between total energy and pressure (or
+  vice versa) routinely invoked in Godunov-type schemes. We then present two different
+  approaches for computing the EoS. The first employs root-finder methods and it is
+  best suited for EoS in analytical form. The second is based on lookup tables and
+  interpolation and results in a more computationally efficient approach, although
+  care must be taken to ensure thermodynamic consistency.  Results: A number of selected
+  benchmarks demonstrate that the employment of a non-ideal EoS can lead to important
+  differences in the solution when the temperature range is 500-104 K where dissociation
+  and ionization occur. The implementation of selected EoS introduces additional computational
+  costs although the employment of lookup table methods (when possible) can significantly
+  reduce the overhead by a factor of ~ 3-4.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015A\%26A...580A.110V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1506.01562
+author: Vaidya, B. and Mignone, A. and Bodo, G. and Massaglia, S.
+author_list:
+- family: Vaidya
+  given: B.
+- family: Mignone
+  given: A.
+- family: Bodo
+  given: G.
+- family: Massaglia
+  given: S.
+date-added: 2018-03-16 17:34:49 +0000
+date-modified: 2018-03-16 17:34:50 +0000
+doi: 10.1051/0004-6361/201526247
+eid: A110
+eprint: '1506.01562'
+journal: \aap
+keywords: 'equation of state, methods: numerical, atomic processes, molecular processes,
+  shock waves'
+month: August
+pages: A110
+papis_id: 9cedf7224cf0b6c6226e55c727daf5d6
+primaryclass: astro-ph.IM
+ref: vaidya.b.2015
+title: 'Astrophysical fluid simulations of thermally ideal gases with non-constant
+  adiabatic index: numerical implementation'
+type: article
+volume: '580'
+year: '2015'

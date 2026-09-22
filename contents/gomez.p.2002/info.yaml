@@ -1,0 +1,52 @@
+abstract: We report the results of recent numerical simulations of the head-on merger
+  of a cooling flow cluster with an infalling subcluster of galaxies. The objective
+  of these simulations was to examine the effects of different types of cluster mergers
+  (with 16:1 and 4:1 mass ratios) on the evolution of cluster cooling flows (with
+  mass accretion rates of 100 and 400 Msolar yr-1). The two-dimensional simulations
+  were performed with a combined hydrodynamics/N-body code on a uniform grid with
+  a resolution of 20 kpc (~12 zones per core radius). In our simulations, cooling
+  flow disruption is indicated by a dramatic increase (by a factor of 10-40) in the
+  central cooling time of the primary cluster. We find that the ram pressure of the
+  infalling gas is crucial in determining the fate of the cooling flow, because disruption
+  occurs when a substantial amount of subcluster gas reaches the primary's core. In
+  such cases, the subcluster gas can increase the central cooling time by displacing
+  the high-density cooling gas and by heating it via shocks and turbulent gas motions.
+  However, the fate of a merging cooling flow is also dependent on its initial cooling
+  time. In cases where the initial cooling time is very short (i.e., 10-40 times shorter
+  than the Hubble time), then even if the flow is disrupted, the central cooling time
+  will remain less than a Hubble time, and the flow will likely reestablish itself.
+  This has an important observational consequence, because such clusters will be classified
+  as cooling flows on the basis of their cooling times, even though they have undergone
+  a significant merger. In addition, we find that there is a time delay between core
+  crossing and the point at which the central cooling time of a disrupted flow becomes
+  of order a Hubble time. Thus, even in the case of disruption, a cluster can be classified
+  as a cooling flow and exhibit substructure (indicative of a merger) for 1-2 Gyr
+  after merging with a subcluster. We argue that our results make it possible to reconcile
+  the high cooling flow frequency inferred by some observations with both high merger
+  rates and a high frequency of substructure.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...569..122G
+author: Gómez, P. L. and Loken, C. and Roettiger, K. and Burns, J. O.
+author_list:
+- family: Gómez
+  given: P. L.
+- family: Loken
+  given: C.
+- family: Roettiger
+  given: K.
+- family: Burns
+  given: J. O.
+date-added: 2017-08-11 04:01:47 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/339280
+journal: \apj
+keywords: 'Galaxies: Cooling Flows, Galaxies: Clusters: General, Galaxies: Intergalactic
+  Medium, X-Rays: Galaxies'
+month: April
+pages: 122--133
+papis_id: 5071f12a026ecc1ba69eda27d1dd47e2
+ref: gomez.p.2002
+title: Do Cooling Flows Survive Cluster Mergers?
+type: article
+volume: '569'
+year: '2002'

@@ -1,0 +1,36 @@
+abstract: Recent OPAL calculations have obtained significant differences in the Rosseland
+  mean opacities compared with earlier Los Alamos work. These new opacities have had
+  a favorable impact on several astrophysical problems, but the efforts have concentrated
+  on hydrogen main-sequence stars or stellar envelopes. The present calculations consider
+  carbon- and oxygen-rich mixtures. It is shown that, for such mixtures, the Coulomb
+  corrections beyond the weak-coupling approximation are not negligible in the ionization-balance
+  calculations when Rosseland mean opacities are computed. As for hydrogen-rich compositions,
+  the hydrogen-depleted mixtures can show factors of 2-3 enhancements in the opacity
+  compared with the Los Alamos results at temperatures of a few hundred thousand degrees.
+  For temperatures above a million degrees there are opacity increases as well as
+  decreases of approximately 20 percent, depending on density. Tables of Rosseland
+  mean opacities are provided that allow accurate interpolation for compositions of
+  arbitrary amounts of hydrogen, carbon, and oxygen.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...412..752I
+author: Iglesias, C. A. and Rogers, F. J.
+author_list:
+- family: Iglesias
+  given: C. A.
+- family: Rogers
+  given: F. J.
+date-added: 2017-08-10 19:08:38 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172958
+journal: \apj
+keywords: Carbon Isotopes, Hydrogen Isotopes, Main Sequence Stars, Oxygen Isotopes,
+  Stellar Envelopes, Stellar Evolution, Asymptotic Giant Branch Stars, Radiative Transfer,
+  Stellar Structure
+month: August
+pages: 752--760
+papis_id: 7303671a8351436ff71668aab2b8ad17
+ref: iglesias.c.1993
+title: Radiative opacities for carbon- and oxygen-rich mixtures
+type: article
+volume: '412'
+year: '1993'

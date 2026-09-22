@@ -1,0 +1,48 @@
+abstract: In recent work we presented the first results of global general relativistic
+  magnetohydrodynamic (GRMHD) simulations of tilted (or misaligned) accretion disks
+  around rotating black holes. The simulated tilted disks showed dramatic differences
+  from comparable untilted disks, such as asymmetrical accretion onto the hole through
+  opposing "plunging streams" and global precession of the disk powered by a torque
+  provided by the black hole. However, those simulations used a traditional spherical-polar
+  grid that was purposefully under-resolved along the pole, which prevented us from
+  assessing the behavior of any jets that may have been associated with the tilted
+  disks. To address this shortcoming we have added a block-structured "cubed-sphere"
+  grid option to the Cosmos++ GRMHD code, which will allow us to simultaneously resolve
+  the disk and polar regions. Here we present our implementation of this grid and
+  the results of a small suite of validation tests intended to demonstrate that the
+  new grid performs as expected. The most important test in this work is a comparison
+  of identical tilted disks, one evolved using our spherical-polar grid and the other
+  with the cubed-sphere grid. We also demonstrate an interesting dependence of the
+  early-time evolution of our disks on their orientation with respect to the grid
+  alignment. This dependence arises from the differing treatment of current sheets
+  within the disks, especially whether or not they are aligned with symmetry planes
+  of the grid.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691..482F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.3819
+author: Fragile, P. C. and Lindner, C. C. and Anninos, P. and Salmonson, J. D.
+author_list:
+- family: Fragile
+  given: P. C.
+- family: Lindner
+  given: C. C.
+- family: Anninos
+  given: P.
+- family: Salmonson
+  given: J. D.
+date-added: 2017-08-10 19:16:58 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/1/482
+eprint: '0809.3819'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, methods: numerical, MHD,
+  relativity'
+month: January
+pages: 482--494
+papis_id: 52ad8bb35aa5c724b7d00a497e142aed
+ref: fragile.p.2009
+title: Application of the Cubed-Sphere Grid to Tilted Black Hole Accretion Disks
+type: article
+volume: '691'
+year: '2009'

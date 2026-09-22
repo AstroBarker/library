@@ -1,0 +1,63 @@
+abstract: We computed a comprehensive set of theoretical ultraviolet spectra of hot,
+  massive stars with the radiation-hydrodynamics code WM-Basic. This model atmosphere
+  and spectral synthesis code is optimized for computing the strong P Cygni type lines
+  originating in the winds of hot stars, which are the strongest features in the ultraviolet
+  spectral region. The computed set is suitable as a spectral library for inclusion
+  in evolutionary synthesis models of star clusters and star-forming galaxies. The
+  chosen stellar parameters cover the upper left Hertzsprung-Russell diagram at L
+  >~ 102.75 L sun and T eff >~ 20,000 K. The adopted elemental abundances are 0.05
+  Z sun, 0.2 Z sun, 0.4 Z sun, Z sun, and 2 Z sun. The spectra cover the wavelength
+  range from 900 to 3000 {\AA} and have a resolution of 0.4 {\AA}. We compared the
+  theoretical spectra to data of individual hot stars in the Galaxy and the Magellanic
+  Clouds obtained with the International Ultraviolet Explorer and Far Ultraviolet
+  Spectroscopic Explorer satellites and found very good agreement. We built a library
+  with the set of spectra and implemented it into the evolutionary synthesis code
+  Starburst99 where it complements and extends the existing empirical library toward
+  lower chemical abundances. Comparison of population synthesis models at solar and
+  near-solar composition demonstrates consistency between synthetic spectra generated
+  with either library. We discuss the potential of the new library for the interpretation
+  of the rest-frame ultraviolet spectra of star-forming galaxies. Properties that
+  can be addressed with the models include ages, initial mass function, and heavy-element
+  abundance. The library can be obtained both individually or as part of the Starburst99
+  package.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..189..309L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.5624
+author: Leitherer, C. and Ortiz Otálvaro, P. A. and Bresolin, F. and Kudritzki, R.-P.
+  and Lo Faro, B. and Pauldrach, A. W. A. and Pettini, M. and Rix, S. A.
+author_list:
+- family: Leitherer
+  given: C.
+- family: Ortiz Otálvaro
+  given: P. A.
+- family: Bresolin
+  given: F.
+- family: Kudritzki
+  given: R.-P.
+- family: Lo Faro
+  given: B.
+- family: Pauldrach
+  given: A. W. A.
+- family: Pettini
+  given: M.
+- family: Rix
+  given: S. A.
+date-added: 2017-08-10 14:12:12 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0067-0049/189/2/309
+eprint: '1006.5624'
+journal: \apjs
+keywords: 'galaxies: abundances, galaxies: high-redshift, galaxies: stellar content,
+  hydrodynamics, line: profiles, stars: early-type, stars: mass-loss, ultraviolet:
+  stars'
+month: August
+pages: 309--335
+papis_id: 38d95b96052b6e43f4dc5d8bdf98d7ac
+primaryclass: astro-ph.SR
+ref: leitherer.c.2010
+title: A Library of Theoretical Ultraviolet Spectra of Massive, Hot Stars for Evolutionary
+  Synthesis
+type: article
+volume: '189'
+year: '2010'

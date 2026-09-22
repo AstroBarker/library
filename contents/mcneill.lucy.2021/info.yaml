@@ -1,0 +1,38 @@
+abstract: We study differential rotation in late-stage shell convection in a 3D hydrodynamic
+  simulation of a rapidly rotating $16M_\odot$ helium star with a particular focus
+  on the convective oxygen shell. We find that the oxygen shell develops a quasi-stationary
+  pattern of differential rotation that is neither described by uniform angular velocity
+  as assumed in current stellar evolution models of supernova progenitors, nor by
+  uniform specific angular momentum. Instead, the oxygen shell develops a positive
+  angular velocity gradient with faster rotation at the equator than at the pole by
+  tens of percent. We show that the angular momentum transport inside the convection
+  zone is not adequately captured by a diffusive mixing-length flux proportional to
+  the angular velocity or angular momentum gradient. Zonal flow averages reveal stable
+  large-scale meridional flow and an entropy deficit near the equator that mirrors
+  the patterns in the angular velocity. The structure of the flow is reminiscent of
+  simulations of stellar surface convection zones and the differential rotation of
+  the Sun, suggesting that similar effects are involved; future simulations will need
+  to address in more detail how the interplay of buoyancy, inertial forces, and turbulent
+  stresses shapes differential rotation during late-stage convection in massive stars.
+  Our findings may have implications for neutron star birth spin periods and supernova
+  explosion scenarios that involve rapid core rotation. If convective regions develop
+  positive angular velocity gradients, angular momentum could be shuffled out of the
+  core region more efficiently, potentially making the formation of millisecond magnetars
+  more difficult.
+archiveprefix: arXiv
+author: McNeill, Lucy O. and Müller, Bernhard
+author_list:
+- family: McNeill
+  given: Lucy O.
+- family: Müller
+  given: Bernhard
+eprint: '2107.00173'
+file: :mcneill\_2021 - Differential Rotation in a 3D Simulation of Oxygen Shell Burning.pdf:PDF
+keywords: astro-ph.SR, astro-ph.HE
+month: July
+papis_id: 4d3210211c82f702caa3124ce8555d7a
+primaryclass: astro-ph.SR
+ref: mcneill.lucy.2021
+title: Differential Rotation in a 3D Simulation of Oxygen Shell Burning
+type: article
+year: '2021'

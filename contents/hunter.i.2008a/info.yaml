@@ -1,0 +1,73 @@
+abstract: 'Aims:We aim to provide the atmospheric parameters and rotational velocities
+  for a large sample of O- and early B-type stars, analysed in a homogeneous and consistent
+  manner, for use in constraining theoretical models.  Methods: Atmospheric parameters,
+  stellar masses, and rotational velocities have been estimated for approximately
+  250 early B-type stars in the Large (LMC) and Small (SMC) Magellanic Clouds from
+  high-resolution VLT-FLAMES data using the non-LTE TLUSTY model atmosphere code.
+  This data set has been supplemented with our previous analyses of some 50 O-type
+  stars (Mokiem et al. 2006, 2007) and 100 narrow-lined early B-type stars (Hunter
+  et al. 2006; Trundle et al. 2007) from the same survey, providing a sample of ~400
+  early-type objects.  Results: Comparison of the rotational velocities with evolutionary
+  tracks suggests that the end of core hydrogen burning occurs later than currently
+  predicted and we argue for an extension of the evolutionary tracks. We also show
+  that the large number of the luminous blue supergiants observed in the fields are
+  unlikely to have directly evolved from main-sequence massive O-type stars as neither
+  their low rotational velocities nor their position on the H-R diagram are predicted.
+  We suggest that blue loops or mass-transfer binary systems may populate the blue
+  supergiant regime. By comparing the rotational velocity distributions of the Magellanic
+  Cloud stars to a similar Galactic sample, we find that (at 3sigma confidence level)
+  massive stars (above 8 M\&sun;) in the SMC rotate faster than those in the solar
+  neighbourhood. However there appears to be no significant difference between the
+  rotational velocity distributions in the Galaxy and the LMC. We find that the v
+  sin i distributions in the SMC and LMC can modelled with an intrinsic rotational
+  velocity distribution that is a Gaussian peaking at 175 km s-1 (SMC) and 100 km
+  s-1 (LMC) with a 1/e half width of 150 km s-1. We find that in NGC 346 in the SMC,
+  the 10-25 M\&sun; main-sequence stars appear to rotate faster than their higher
+  mass counterparts. It is not expected that O-type stars spin down significantly
+  through angular momentum loss via stellar winds at SMC metallicity, hence this could
+  be a reflection of mass dependent birth spin rates. Recently Yoon et al. (2006)
+  have determined rates of GRBs by modelling rapidly rotating massive star progenitors.
+  Our measured rotational velocity distribution for the 10-25 M\&sun; stars is peaked
+  at slightly higher velocities than they assume, supporting the idea that GRBs could
+  come from rapid rotators with initial masses as low as 14 M\&sun; at low metallicities.  Based
+  on observations at the European Southern Observatory in programmes 171.0237 and
+  073.0234. Tables 1, 3-6 are only available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...479..541H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0711.2264
+author: Hunter, I. and Lennon, D. J. and Dufton, P. L. and Trundle, C. and Simón-Díaz,
+  S. and Smartt, S. J. and Ryans, R. S. I. and Evans, C. J.
+author_list:
+- family: Hunter
+  given: I.
+- family: Lennon
+  given: D. J.
+- family: Dufton
+  given: P. L.
+- family: Trundle
+  given: C.
+- family: Simón-Díaz
+  given: S.
+- family: Smartt
+  given: S. J.
+- family: Ryans
+  given: R. S. I.
+- family: Evans
+  given: C. J.
+date-added: 2017-08-10 19:35:47 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1051/0004-6361:20078511
+eprint: '0711.2264'
+journal: \aap
+keywords: 'stars: early-type, stars: atmospheres, stars: rotation, stars: evolution,
+  galaxies: Magellanic Clouds'
+month: February
+pages: 541--555
+papis_id: 9544928d26843f87fb5c1935deda57af
+ref: hunter.i.2008a
+title: 'The VLT-FLAMES survey of massive stars: atmospheric parameters and rotational
+  velocity distributions for B-type stars in the Magellanic Clouds'
+type: article
+volume: '479'
+year: '2008'

@@ -1,0 +1,25 @@
+abstract: We describe the Garching Stellar Evolution Code. General features, treatment
+  of the microphysics, details of the numerical solution, handling and particularities
+  are discussed. The standard solar model serves as the most basic benchmark to test
+  the accurateness of the code and is presented, too.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008Ap\%26SS.316...99W
+author: Weiss, A. and Schlattl, H.
+author_list:
+- family: Weiss
+  given: A.
+- family: Schlattl
+  given: H.
+date-added: 2017-08-11 04:22:03 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1007/s10509-007-9606-5
+journal: \apss
+month: August
+pages: 99--106
+papis_id: 37ee449936d8e7fff059273ea99fb1c5
+ref: weiss.a.2008
+title: GARSTEC\mdashthe Garching Stellar Evolution Code. The direct descendant of
+  the legendary Kippenhahn code
+type: article
+volume: '316'
+year: '2008'

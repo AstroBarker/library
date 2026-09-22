@@ -1,0 +1,47 @@
+abstract: 'We compute the reionization histories of hydrogen and helium caused by
+  the ionizing radiation fields produced by stars and quasars. For the quasars we
+  use a model based on halo-merger rates that reproduces all known properties of the
+  quasar luminosity function at high redshifts. The less constrained properties of
+  the ionizing radiation produced by stars are modeled with two free parameters: (i)
+  a transition redshift, ztran, above which the stellar population is dominated by
+  massive, zero-metallicity stars and below which it is dominated by a Scalo mass
+  function; and (ii) the product of the escape fraction of stellar ionizing photons
+  from their host galaxies and the star formation efficiency, fescf\textasteriskcentered.
+  We constrain the allowed range of these free parameters at high redshifts on the
+  basis of the lack of the H I Gunn-Peterson trough at z<~6 and the upper limit on
+  the total intergalactic optical depth for electron scattering, taues<0.18, from
+  recent cosmic microwave background (CMB) experiments. We find that quasars ionize
+  helium by a redshift z~4, but cannot reionize hydrogen by themselves before z~6.
+  A major fraction of the allowed combinations of fescf\textasteriskcentered and ztran
+  leads to an early peak in the ionized fraction because of the presence of metal-free
+  stars at high redshifts. This sometimes results in two reionization epochs, namely,
+  an early H II or He III overlap phase followed by recombination and a second overlap
+  phase. Even if early overlap is not achieved, the peak in the visibility function
+  for scattering of the CMB often coincides with the early ionization phase rather
+  than with the actual reionization epoch. Consequently, taues does not correspond
+  directly to the reionization redshift. We generically find values of taues>~7\%,
+  which should be detectable by the MAP satellite.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...586..693W
+arxivurl: http://arxiv.org/abs/astro-ph/0209056
+author: Wyithe, J. S. B. and Loeb, A.
+author_list:
+- family: Wyithe
+  given: J. S. B.
+- family: Loeb
+  given: A.
+date-added: 2017-08-10 20:22:05 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/367721
+eprint: astro-ph/0209056
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, Galaxies: Intergalactic Medium,
+  Stars: Formation'
+month: April
+pages: 693--708
+papis_id: c49f3437103df9e08465ea822ac4f329
+ref: wyithe.j.2003
+title: Reionization of Hydrogen and Helium by Early Stars and Quasars
+type: article
+volume: '586'
+year: '2003'

@@ -1,0 +1,58 @@
+abstract: 'We present the spectrum of compact object masses: neutron stars and black
+  holes (BHs) that originate from single stars in different environments. In particular,
+  we calculate the dependence of maximum BH mass on metallicity and on some specific
+  wind mass loss rates (e.g., Hurley et al. and Vink et al.). Our calculations show
+  that the highest mass BHs observed in the Galaxy M bh ~ 15 M sun in the high metallicity
+  environment (Z = Z sun = 0.02) can be explained with stellar models and the wind
+  mass loss rates adopted here. To reach this result we had to set luminous blue variable
+  mass loss rates at the level of ~10-4 M sun yr-1 and to employ metallicity-dependent
+  Wolf-Rayet winds. With such winds, calibrated on Galactic BH mass measurements,
+  the maximum BH mass obtained for moderate metallicity (Z = 0.3 Z sun = 0.006) is
+  M bh,max = 30 M sun. This is a rather striking finding as the mass of the most massive
+  known stellar BH is M bh = 23-34 M sun and, in fact, it is located in a small star-forming
+  galaxy with moderate metallicity. We find that in the very low (globular cluster-like)
+  metallicity environment the maximum BH mass can be as high as M bh,max = 80 M sun
+  (Z = 0.01 Z sun = 0.0002). It is interesting to note that X-ray luminosity from
+  Eddington-limited accretion onto an 80 M sun BH is of the order of ~1040 erg s-1
+  and is comparable to luminosities of some known ultra-luminous X-ray sources. We
+  emphasize that our results were obtained for single stars only and that binary interactions
+  may alter these maximum BH masses (e.g., accretion from a close companion). This
+  is strictly a proof-of-principle study which demonstrates that stellar models can
+  naturally explain even the most massive known stellar BHs.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...714.1217B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0904.2784
+author: Belczynski, K. and Bulik, T. and Fryer, C. L. and Ruiter, A. and Valsecchi,
+  F. and Vink, J. S. and Hurley, J. R.
+author_list:
+- family: Belczynski
+  given: K.
+- family: Bulik
+  given: T.
+- family: Fryer
+  given: C. L.
+- family: Ruiter
+  given: A.
+- family: Valsecchi
+  given: F.
+- family: Vink
+  given: J. S.
+- family: Hurley
+  given: J. R.
+date-added: 2017-08-11 03:36:44 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/714/2/1217
+eprint: '0904.2784'
+journal: \apj
+keywords: 'binaries: close, black hole physics, gravitational waves, stars: evolution,
+  stars: neutron'
+month: May
+pages: 1217--1226
+papis_id: ec3822631be1247ad252776c080435b2
+primaryclass: astro-ph.SR
+ref: belczynski.k.2010
+title: On the Maximum Mass of Stellar Black Holes
+type: article
+volume: '714'
+year: '2010'

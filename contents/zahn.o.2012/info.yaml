@@ -1,0 +1,160 @@
+abstract: The epoch of reionization is a milestone of cosmological structure formation,
+  marking the birth of the first objects massive enough to yield large numbers of
+  ionizing photons. However, the mechanism and timescale of reionization remain largely
+  unknown. Measurements of the cosmic microwave background (CMB) Doppler effect from
+  ionizing bubbles embedded in large-scale velocity streams---known as the patchy
+  kinetic Sunyaev-Zel'dovich (kSZ) effect---can be used to constrain the duration
+  of reionization. When combined with large-scale CMB polarization measurements, the
+  evolution of the ionized fraction, {\bar{x}}\_e, can be inferred. Using new multi-frequency
+  data from the South Pole Telescope (SPT), we show that the ionized fraction evolved
+  relatively rapidly. For our basic foreground model, we find the kSZ power sourced
+  by reionization at l = 3000 to be D patchy 3000 <= 2.1 muK2 at 95\% confidence.
+  Using reionization simulations, we translate this to a limit on the duration of
+  reionization of \Delta z \equiv z\_{{\bar{x}}\_e=0.20}-z\_{{\bar{x}}\_e=0.99} \le
+  4.4 (95\% confidence). We find that this constraint depends on assumptions about
+  the angular correlation between the thermal SZ power and the cosmic infrared background
+  (CIB). Introducing the degree of correlation as a free parameter, we find that the
+  limit on kSZ power weakens to D patchy 3000 <= 4.9 muK2, implying Deltaz <= 7.9
+  (95\% confidence). We combine the SPT constraint on the duration of reionization
+  with the Wilkinson Microwave Anisotropy Probe measurement of the integrated optical
+  depth to probe the cosmic ionization history. We find that reionization ended with
+  95\% confidence at z > 7.2 under the assumption of no tSZ-CIB correlation, and z
+  > 5.8 when correlations are allowed. Improved constraints from the full SPT data
+  set in conjunction with upcoming Herschel and Planck data should detect extended
+  reionization at >95\% confidence provided Deltaz >= 2. These CMB observations complement
+  other observational probes of the epoch of reionization such as the redshifted 21
+  cm line and narrowband surveys for Lyalpha-emitting galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756...65Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.6386
+author: Zahn, O. and Reichardt, C. L. and Shaw, L. and Lidz, A. and Aird, K. A. and
+  Benson, B. A. and Bleem, L. E. and Carlstrom, J. E. and Chang, C. L. and Cho, H.
+  M. and Crawford, T. M. and Crites, A. T. and de Haan, T. and Dobbs, M. A. and Doré,
+  O. and Dudley, J. and George, E. M. and Halverson, N. W. and Holder, G. P. and Holzapfel,
+  W. L. and Hoover, S. and Hou, Z. and Hrubes, J. D. and Joy, M. and Keisler, R. and
+  Knox, L. and Lee, A. T. and Leitch, E. M. and Lueker, M. and Luong-Van, D. and McMahon,
+  J. J. and Mehl, J. and Meyer, S. S. and Millea, M. and Mohr, J. J. and Montroy,
+  T. E. and Natoli, T. and Padin, S. and Plagge, T. and Pryke, C. and Ruhl, J. E.
+  and Schaffer, K. K. and Shirokoff, E. and Spieler, H. G. and Staniszewski, Z. and
+  Stark, A. A. and Story, K. and van Engelen, A. and Vanderlinde, K. and Vieira, J.
+  D. and Williamson, R.
+author_list:
+- family: Zahn
+  given: O.
+- family: Reichardt
+  given: C. L.
+- family: Shaw
+  given: L.
+- family: Lidz
+  given: A.
+- family: Aird
+  given: K. A.
+- family: Benson
+  given: B. A.
+- family: Bleem
+  given: L. E.
+- family: Carlstrom
+  given: J. E.
+- family: Chang
+  given: C. L.
+- family: Cho
+  given: H. M.
+- family: Crawford
+  given: T. M.
+- family: Crites
+  given: A. T.
+- family: de Haan
+  given: T.
+- family: Dobbs
+  given: M. A.
+- family: Doré
+  given: O.
+- family: Dudley
+  given: J.
+- family: George
+  given: E. M.
+- family: Halverson
+  given: N. W.
+- family: Holder
+  given: G. P.
+- family: Holzapfel
+  given: W. L.
+- family: Hoover
+  given: S.
+- family: Hou
+  given: Z.
+- family: Hrubes
+  given: J. D.
+- family: Joy
+  given: M.
+- family: Keisler
+  given: R.
+- family: Knox
+  given: L.
+- family: Lee
+  given: A. T.
+- family: Leitch
+  given: E. M.
+- family: Lueker
+  given: M.
+- family: Luong-Van
+  given: D.
+- family: McMahon
+  given: J. J.
+- family: Mehl
+  given: J.
+- family: Meyer
+  given: S. S.
+- family: Millea
+  given: M.
+- family: Mohr
+  given: J. J.
+- family: Montroy
+  given: T. E.
+- family: Natoli
+  given: T.
+- family: Padin
+  given: S.
+- family: Plagge
+  given: T.
+- family: Pryke
+  given: C.
+- family: Ruhl
+  given: J. E.
+- family: Schaffer
+  given: K. K.
+- family: Shirokoff
+  given: E.
+- family: Spieler
+  given: H. G.
+- family: Staniszewski
+  given: Z.
+- family: Stark
+  given: A. A.
+- family: Story
+  given: K.
+- family: van Engelen
+  given: A.
+- family: Vanderlinde
+  given: K.
+- family: Vieira
+  given: J. D.
+- family: Williamson
+  given: R.
+date-added: 2017-08-10 20:27:33 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/756/1/65
+eid: '65'
+eprint: '1111.6386'
+journal: \apj
+keywords: 'cosmology: theory, intergalactic medium, large-scale structure of universe'
+month: September
+pages: '65'
+papis_id: 8e21c0b789a52056ef7a31671be1a9f5
+ref: zahn.o.2012
+title: Cosmic Microwave Background Constraints on the Duration and Timing of Reionization
+  from the South Pole Telescope
+type: article
+volume: '756'
+year: '2012'

@@ -1,0 +1,38 @@
+abstract: The first few seconds of the explosion of SN 1987A are modeled here using
+  a 2D cylindrical geometry smooth particle hydrodynamics code. The success of the
+  explosion is determined to be sensitive to the duration of the infall, the timing
+  of the bounce, and the subsequent neutrino heating. A semianalytical model for the
+  initial structure of the collapsed object is used to present two simulations that
+  differ by the mass that has been allowed to collapse into a neutron star prior to
+  the bounce. In the case of a short initial infall, the explosion fails due to excessive
+  cooling. For a longer initial infall, the cooling is less and the explosion is successful
+  although relatively weak. It is shown that in this case, a successful explosion
+  is brought about by the presence of an entropy gradient which, combined with the
+  gravitational pull of the neutron star, leads to extremely strong instabilities.
+  The critical importance of the global circulation for the success of the explosion
+  is demonstrated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...395..642H
+author: Herant, M. and Benz, W. and Colgate, S.
+author_list:
+- family: Herant
+  given: M.
+- family: Benz
+  given: W.
+- family: Colgate
+  given: S.
+date-added: 2017-08-10 20:58:11 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171685
+journal: \apj
+keywords: Gravitational Collapse, Hydrodynamic Equations, Neutrinos, Neutron Stars,
+  Stellar Evolution, Supernova 1987a, Baryons, Iron, Line Spectra, Stellar Mass Accretion
+month: August
+pages: 642--653
+papis_id: 69abf2f2525bc52f43a465a83f4a5452
+ref: herant.m.1992
+title: Postcollapse hydrodynamics of SN 1987A - Two-dimensional simulations of the
+  early evolution
+type: article
+volume: '395'
+year: '1992'

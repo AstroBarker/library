@@ -1,0 +1,58 @@
+abstract: We have performed ab initio neutrino radiation hydrodynamics simulations
+  in three and two spatial dimensions (3D and 2D) of core-collapse supernovae from
+  the same 15 M \&sun; progenitor through 440 ms after core bounce. Both 3D and 2D
+  models achieve explosions; however, the onset of explosion (shock revival) is delayed
+  by ~100 ms in 3D relative to the 2D counterpart and the growth of the diagnostic
+  explosion energy is slower. This is consistent with previously reported 3D simulations
+  utilizing iron-core progenitors with dense mantles. In the ~100 ms before the onset
+  of explosion, diagnostics of neutrino heating and turbulent kinetic energy favor
+  earlier explosion in 2D. During the delay, the angular scale of convective plumes
+  reaching the shock surface grows and explosion in 3D is ultimately lead by a single,
+  large-angle plume, giving the expanding shock a directional orientation not dissimilar
+  from those imposed by axial symmetry in 2D simulations. We posit that shock revival
+  and explosion in the 3D simulation may be delayed until sufficiently large plumes
+  form, whereas such plumes form more rapidly in 2D, permitting earlier explosions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...807L..31L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1505.05110
+author: Lentz, E. J. and Bruenn, S. W. and Hix, W. R. and Mezzacappa, A. and Messer,
+  O. E. B. and Endeve, E. and Blondin, J. M. and Harris, J. A. and Marronetti, P.
+  and Yakunin, K. N.
+author_list:
+- family: Lentz
+  given: E. J.
+- family: Bruenn
+  given: S. W.
+- family: Hix
+  given: W. R.
+- family: Mezzacappa
+  given: A.
+- family: Messer
+  given: O. E. B.
+- family: Endeve
+  given: E.
+- family: Blondin
+  given: J. M.
+- family: Harris
+  given: J. A.
+- family: Marronetti
+  given: P.
+- family: Yakunin
+  given: K. N.
+date-added: 2017-08-10 14:09:03 +0000
+date-modified: 2018-07-17 10:02:17 +0000
+doi: 10.1088/2041-8205/807/2/L31
+eid: L31
+eprint: '1505.05110'
+journal: \apjl
+keywords: 'neutrinos, stars: evolution, stars: massive, supernovae: general'
+month: July
+pages: L31
+papis_id: 2dca875365a8c68f4cec2a7fbfc41718
+primaryclass: astro-ph.SR
+ref: lentz.e.2015
+title: Three-dimensional Core-collapse Supernova Simulated Using a 15 M $_\sun$ Progenitor
+type: article
+volume: '807'
+year: '2015'

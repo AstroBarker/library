@@ -1,0 +1,41 @@
+abstract: 'We present an initial report on 160 simulations of a highly simplified
+  model of the post-bounce core-collapse supernova environment in three spatial dimensions
+  (3D). We set different values of a parameter characterizing the impact of nuclear
+  dissociation at the stalled shock in order to regulate the post-shock fluid velocity,
+  thereby determining the relative importance of convection and the stationary accretion
+  shock instability (SASI). While our convection-dominated runs comport with the paradigmatic
+  notion of a ``critical neutrino luminosity'''' for explosion at a given mass accretion
+  rate (albeit with a nontrivial spread in explosion times just above threshold),
+  the outcomes of our SASI-dominated runs are much more stochastic: a sharp threshold
+  critical luminosity is ``smeared out'''' into a rising probability of explosion
+  over a \texttildelow{}20\% range of luminosity. We also find that the SASI-dominated
+  models are able to explode with 3-4 times less efficient neutrino heating, indicating
+  that progenitor properties, and fluid and neutrino microphysics, conducive to the
+  SASI would make the neutrino-driven explosion mechanism more robust.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...813L...6C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1509.02494
+author: Cardall, C. Y. and Budiardja, R. D.
+author_list:
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+date-added: 2017-08-10 13:51:04 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1088/2041-8205/813/1/L6
+eid: L6
+eprint: '1509.02494'
+journal: \apjl
+keywords: 'hydrodynamics, instabilities, stars: evolution, supernovae: general'
+month: November
+pages: L6
+papis_id: 8c31960b4cc98471c1777e9e6a78ecaa
+primaryclass: astro-ph.HE
+ref: cardall.c.2015a
+title: Stochasticity and Efficiency in Simplified Models of Core-collapse Supernova
+  Explosions
+type: article
+volume: '813'
+year: '2015'

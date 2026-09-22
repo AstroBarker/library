@@ -1,0 +1,42 @@
+abstract: The gravitational wave signal arising from the collapsing iron core of a
+  Type II supernova progenitor star carries with it the imprint of the progenitor's
+  mass, rotation rate, degree of differential rotation, and the bounce depth. Here,
+  we show how to infer the gravitational radiation waveform of a core-collapse event
+  from noisy observations in a network of two or more LIGO-like gravitational wave
+  detectors and, from the recovered signal, constrain these source properties. Using
+  these techniques, predictions from recent core-collapse modeling efforts, and the
+  LIGO performance during its S4 science run, we also show that gravitational wave
+  observations by LIGO might have been sufficient to provide reasonable estimates
+  of the progenitor mass, angular momentum and differential angular momentum, and
+  depth of the core at bounce, for a rotating core-collapse event at a distance of
+  a few kpc.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...678.1142S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.2157
+author: Summerscales, T. Z. and Burrows, A. and Finn, L. S. and Ott, C. D.
+author_list:
+- family: Summerscales
+  given: T. Z.
+- family: Burrows
+  given: A.
+- family: Finn
+  given: L. S.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-11 05:33:01 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/528362
+eid: 1142-1157
+eprint: '0704.2157'
+journal: \apj
+keywords: 'gravitational waves, methods: data analysis, supernovae: general'
+month: May
+pages: 1142--1157
+papis_id: fa63cf609eb0fdd54323fca198529804
+ref: summerscales.t.2008
+title: 'Maximum Entropy for Gravitational Wave Data Analysis: Inferring the Physical
+  Parameters of Core-Collapse Supernovae'
+type: article
+volume: '678'
+year: '2008'

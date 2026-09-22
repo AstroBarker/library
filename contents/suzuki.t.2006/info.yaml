@@ -1,0 +1,54 @@
+abstract: We investigate how properties of the corona and solar wind in open coronal
+  holes depend on properties of magnetic fields and their footpoint motions at the
+  surface. We perform one-dimensional magnetohydrodynamical (MHD) simulations for
+  the heating and the acceleration in coronal holes by low-frequency Alfv{\'e}n waves
+  from the photosphere to 0.3 or 0.1 AU. We impose low-frequency (\lessequivlnt{}0.05
+  Hz) transverse fluctuations of the field lines at the photosphere with various amplitude,
+  spectrum, and polarization in the open flux tubes with different photospheric field
+  strength, Br,0, and superradial expansion of the cross section, fmax. We find that
+  transonic solar winds are universal consequences. The atmosphere is also stably
+  heated up to \greaterequivlnt{}106 K by the dissipation of the Alfv{\'e}n waves
+  through compressive-wave generation and wave reflection in the cases of the sufficient
+  wave input with photospheric amplitude, <dv\perp{},0> \greaterequivlnt{} 0.7 km
+  s-1. The density, and accordingly the mass flux, of solar winds show a quite sensitive
+  dependence on <dv\perp{},0> because of an unstable aspect of the heating by the
+  nonlinear Alfv{\'e}n waves. A case with <dv\perp{},0> = 0.4 km s-1 gives ~=50 times
+  smaller mass flux than the fiducial case for the fast wind with <dv\perp{},0> =
+  0.7 km s-1; solar wind virtually disappears only if <dv\perp{},0> becomes ~=1/2.
+  We also find that the solar wind speed has a positive correlation with Br,0/fmax,
+  which is consistent with recent observations by Kojima et al. On the basis of these
+  findings, we show that both fast and slow solar winds can be explained by the single
+  process, the dissipation of the low-frequency Alfv{\'e}n waves, with different sets
+  of <dv\perp{},0> and Br,0/fmax. Our simulations naturally explain the observed (1)
+  anticorrelation of the solar wind speed and the coronal temperature and (2) larger
+  amplitude of Alfv{\'e}nic fluctuations in the fast wind. In Appendix A, we also
+  explain our implementation of the outgoing boundary condition of the MHD waves with
+  some numerical tests.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006JGRA..111.6101S
+arxivurl: http://arxiv.org/abs/astro-ph/0511006
+author: Suzuki, T. K. and Inutsuka, S.-I.
+author_list:
+- family: Suzuki
+  given: T. K.
+- family: Inutsuka
+  given: S.-I.
+date-added: 2017-08-10 14:50:02 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1029/2005JA011502
+eid: A06101
+eprint: astro-ph/0511006
+journal: Journal of Geophysical Research (Space Physics)
+keywords: 'Space Plasma Physics: MHD waves and instabilities (2149, 2752, 6050), Solar
+  Physics, Astrophysics, and Astronomy: Corona, and Astronomy: Coronal holes, Space
+  Plasma Physics: Nonlinear phenomena (4400, 6944), Space Plasma Physics: Kinetic
+  waves and instabilities, corona, solar wind, waves'
+month: June
+pages: A06101
+papis_id: d7d9f22d3312cbefbec26ab42546fa92
+ref: suzuki.t.2006
+title: 'Solar winds driven by nonlinear low-frequency Alfvén waves from the photosphere:
+  Parametric study for fast/slow winds and disappearance of solar winds'
+type: article
+volume: '111'
+year: '2006'

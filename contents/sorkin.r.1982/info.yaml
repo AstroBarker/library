@@ -1,0 +1,27 @@
+abstract: Theorems are established which let one detect instabilities without recourse
+  to the usual perturbation analysis. The method applies to any system whose stable
+  equilibria maximize a functional S at fixed values of one or more parameters Ealpha.
+  It generalizes the "turning point method" by inferring instability from the behavior
+  in equilibrium of the Ealpha and of their conjugate parameters \partial{}S/\partial{}SEalpha.
+  The "cusp catastrophe" and the black hole equilibrium family illustrate the approach.
+  In connection with the latter, an Appendix proves that the Gibbs free energy is
+  an analytic function of its natural arguments, as would be expected if all the equilibria
+  belonged to a single thermodynamic phase.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982ApJ...257..847S
+author: Sorkin, R. D.
+author_list:
+- family: Sorkin
+  given: R. D.
+date-added: 2017-08-10 17:51:05 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/160034
+journal: \apj
+month: June
+pages: '847'
+papis_id: b6e32c17d2e1f130f606fe4e843037ed
+ref: sorkin.r.1982
+title: A Stability Criterion for Many Parameter Equilibrium Families
+type: article
+volume: '257'
+year: '1982'

@@ -1,0 +1,51 @@
+abstract: SN 1006 is the prototype of shell supernova remnants, in which non-thermal
+  synchrotron emission dominates the X-ray spectrum. The non-thermal emission is due
+  to the cosmic-ray electrons accelerated behind the blast wave. The X-ray synchrotron
+  emission is due to the highest energy electrons, and is thus a tracer of the maximum
+  energy electrons may reach behind a shock. We have put together all XMM-Newton observations
+  to build a full map of SN 1006. The very low brightness above 2 keV in the interior
+  indicates that the bright non-thermal limbs are polar caps rather than an equator.
+  This implies that the ambient magnetic field runs southwest to northeast, along
+  the Galactic plane. We used a combined VLA/Parkes radio map to anchor the spectrum
+  at low energy, and model the spectra with synchrotron emission from a cut-off power-law
+  electron distribution, plus a thermal component. We present radial and azimuthal
+  profiles of the cut-off frequency. The cut-off frequency decreases steeply with
+  radius towards the center and with position angle away from the maximum emission.
+  The maximum energy reached by accelerated particles, as well as their number, must
+  be higher at the bright limbs than elsewhere. This implies interesting constraints
+  for acceleration at perpendicular shocks. Overall the XMM-Newton data is consistent
+  with the model in which the magnetic field is amplified where acceleration is efficient.  Based
+  on observations obtained with XMM-Newton, an ESA science mission with instruments
+  and contributions directly funded by ESA member states and the USA (NASA).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...425..121R
+author: Rothenflug, R. and Ballet, J. and Dubner, G. and Giacani, E. and Decourchelle,
+  A. and Ferrando, P.
+author_list:
+- family: Rothenflug
+  given: R.
+- family: Ballet
+  given: J.
+- family: Dubner
+  given: G.
+- family: Giacani
+  given: E.
+- family: Decourchelle
+  given: A.
+- family: Ferrando
+  given: P.
+date-added: 2017-08-10 22:03:00 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1051/0004-6361:20047104
+journal: \aap
+keywords: 'acceleration of particles, magnetic fields, ISM: cosmic rays, ISM: supernova
+  remnants, X-rays: individuals: SN 1006'
+month: October
+pages: 121--131
+papis_id: 45bde44b013e991399444f7681662ade
+ref: rothenflug.r.2004
+title: Geometry of the non-thermal emission in SN 1006. Azimuthal variations of cosmic-ray
+  acceleration
+type: article
+volume: '425'
+year: '2004'

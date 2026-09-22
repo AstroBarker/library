@@ -1,0 +1,46 @@
+abstract: 'We study the formation of H2 in the ISM, using a modified version of the
+  astrophysical magnetohydrodynamical code ZEUS-MP that includes a nonequilibrium
+  treatment of the formation and destruction of H2. We examine two different approximations
+  to treat the shielding of H2 against photodissociation: a local approximation, which
+  gives us a solid lower bound on the amount of shielding, and a method based on ray-tracing
+  that is considerably more accurate in some circumstances but that produces results
+  that are harder to clearly interpret. In both cases, the computational cost of determining
+  H2 photodissociation rates is reduced by enough to make three-dimensional high-resolution
+  simulations of cloud formation feasible with modest computational resources. Our
+  modification to ZEUS-MP also includes a detailed treatment of the thermal behavior
+  of the gas. In this paper, we focus on the problem of molecular cloud formation
+  in gravitationally unstable, initially static gas. (In a subsequent paper, we consider
+  turbulent flow.) We show that in these conditions, and for initial densities consistent
+  with those observed in the cold, neutral atomic phase of the interstellar medium,
+  H2 formation occurs on a timescale t>=10 Myr, comparable to or longer than the gravitational
+  free-fall timescale of the cloud. We also show that the collapsing gas very quickly
+  reaches thermal equilibrium and that the equation of state of the thermal equilibrium
+  gas is generally softer than isothermal. Finally, we demonstrate that although these
+  results show little sensitivity to variations in most of our simulation parameters,
+  they are highly sensitive to the assumed initial density ni. Reducing ni significantly
+  increases the cloud formation timescale and decreases the amount of hydrogen ultimately
+  converted to H2.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..169..239G
+arxivurl: http://arxiv.org/abs/astro-ph/0605120
+author: Glover, S. C. O. and Mac Low, M.-M.
+author_list:
+- family: Glover
+  given: S. C. O.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:42:50 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512238
+eprint: astro-ph/0605120
+journal: \apjs
+keywords: 'Astrochemistry, ISM: Clouds, ISM: Molecules, Molecular Processes'
+month: April
+pages: 239--268
+papis_id: 7cf6d2fbbf6e5d7c607244d48cf6393a
+ref: glover.s.2007
+title: Simulating the Formation of Molecular Clouds. I. Slow Formation by Gravitational
+  Collapse from Static Initial Conditions
+type: article
+volume: '169'
+year: '2007'

@@ -1,0 +1,43 @@
+abstract: 'We present models of ohmic heating in the interiors of hot Jupiters in
+  which we decouple the interior and the wind zone by replacing the wind zone with
+  a boundary temperature T iso and magnetic field B phi0. Ohmic heating influences
+  the contraction of gas giants in two ways: by direct heating within the convection
+  zone and by heating outside the convection zone, which increases the effective insulation
+  of the interior. We calculate these effects and show that internal ohmic heating
+  is only able to slow the contraction rate of a cooling gas giant once the planet
+  reaches a critical value of internal entropy. We determine the age of the gas giant
+  when ohmic heating becomes important as a function of mass, T iso, and induced B
+  phi0. With this survey of parameter space complete, we then adopt the wind zone
+  scalings of Menou and calculate the expected evolution of gas giants with different
+  levels of irradiation. We find that, with this prescription of magnetic drag, it
+  is difficult to inflate massive planets or those with strong irradiation using ohmic
+  heating, meaning that we are unable to account for many of the observed hot Jupiter
+  radii. This is in contrast to previous evolutionary models that assumed that a constant
+  fraction of the irradiation is transformed into ohmic power.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...47H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.3278
+author: Huang, X. and Cumming, A.
+author_list:
+- family: Huang
+  given: X.
+- family: Cumming
+  given: A.
+date-added: 2017-08-10 20:42:05 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/757/1/47
+eid: '47'
+eprint: '1207.3278'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, planets and satellites: atmospheres, planets
+  and satellites: interiors, planets and satellites: magnetic fields'
+month: September
+pages: '47'
+papis_id: 5b0565070fd3f272888f7e6fd66f5f85
+primaryclass: astro-ph.EP
+ref: huang.x.2012
+title: Ohmic Dissipation in the Interiors of Hot Jupiters
+type: article
+volume: '757'
+year: '2012'

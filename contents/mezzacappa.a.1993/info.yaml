@@ -1,0 +1,35 @@
+abstract: A numerical method for solving the Boltzmann equation coupled to hydrodynamic
+  flows, a relativistic equation of state, and lepton conservation for fermion transport
+  has been developed. Difficulties encountered in past attempts to solve the neutron
+  Boltzmann equation in stellar cores have been overcome. In particular, the correct
+  diffusion limit for optically thick zones has been obtained without introducing
+  ad hoc factors in the radial transport term. Oscillations in the neutrino distribution
+  function in optically thin zones have been avoided. New numerical techniques for
+  the angular aberration and frequency shift terms have been developed and successfully
+  implemented. In particular, a finite difference representation has been developed
+  for the angular aberration term that can be used with Gaussian quadratures and Bruenn's
+  method has been successfully generated for the frequency shift term.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...405..669M
+author: Mezzacappa, A. and Bruenn, S. W.
+author_list:
+- family: Mezzacappa
+  given: A.
+- family: Bruenn
+  given: S. W.
+date-added: 2017-08-10 18:29:01 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172395
+journal: \apj
+keywords: Boltzmann Transport Equation, Computational Astrophysics, Finite Difference
+  Theory, Gravitational Collapse, Neutrinos, Stellar Cores, Hydrodynamics, Newton-Raphson
+  Method, Radiation Transport, Symmetry
+month: March
+pages: 669--684
+papis_id: e064e3b7eacdbd8917caf79479564a74
+ref: mezzacappa.a.1993
+title: A numerical method for solving the neutrino Boltzmann equation coupled to spherically
+  symmetric stellar core collapse
+type: article
+volume: '405'
+year: '1993'

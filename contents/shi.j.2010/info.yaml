@@ -1,0 +1,45 @@
+abstract: We study the properties of the turbulence driven by the magnetorotational
+  instability in a stratified shearing box with outflow boundary conditions and an
+  equation of state determined by self-consistent dissipation and radiation losses.
+  A series of simulations with increasing resolution are performed within a fixed
+  computational box. We achieve numerical convergence with respect to radial and azimuthal
+  resolution. As vertical resolution is improved, the ratio of stress to pressure
+  increases slowly, but the absolute levels of both the stress and the pressure increase
+  noticeably. These results are in contrast with those of previous work on unstratified
+  shearing boxes, in which improved resolution caused a diminution in the magnetic
+  field strength. We argue that the persistence of strong magnetic field at higher
+  resolution found in the stratified case is due to buoyancy. In addition, we find
+  that the time-averaged vertical correlation length of the magnetic field near the
+  disk midplane is sime3 times larger than that found in previous unstratified simulations,
+  decreasing slowly with improved vertical resolution. We further show that the undulatory
+  Parker instability drives the magnetic field upwelling at several scale heights
+  from the midplane that is characteristic of stratified magnetohydrodynamics-turbulent
+  disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...708.1716S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.2003
+author: Shi, J. and Krolik, J. H. and Hirose, S.
+author_list:
+- family: Shi
+  given: J.
+- family: Krolik
+  given: J. H.
+- family: Hirose
+  given: S.
+date-added: 2017-08-10 14:51:19 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/708/2/1716
+eprint: '0909.2003'
+journal: \apj
+keywords: 'accretion, accretion disks, methods: numerical, MHD, radiative transfer'
+month: January
+pages: 1716--1727
+papis_id: ce45ce0b69ca8426a22fe72c1b179b65
+primaryclass: astro-ph.HE
+ref: shi.j.2010
+title: What is the Numerically Converged Amplitude of Magnetohydrodynamics Turbulence
+  in Stratified Shearing Boxes?
+type: article
+volume: '708'
+year: '2010'

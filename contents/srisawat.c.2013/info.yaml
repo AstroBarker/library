@@ -1,0 +1,75 @@
+abstract: 'Merger trees follow the growth and merger of dark-matter haloes over cosmic
+  history. As well as giving important insights into the growth of cosmic structure
+  in their own right, they provide an essential backbone to semi-analytic models of
+  galaxy formation. This paper is the first in a series to arise from the Sussing
+  Merger Trees Workshop in which 10 different tree-building algorithms were applied
+  to the same set of halo catalogues and their results compared. Although many of
+  these codes were similar in nature, all algorithms produced distinct results. Our
+  main conclusions are that a useful merger-tree code should possess the following
+  features: (i) the use of particle IDs to match haloes between snapshots; (ii) the
+  ability to skip at least one, and preferably more, snapshots in order to recover
+  subhaloes that are temporarily lost during merging; (iii) the ability to cope with
+  (and ideally smooth out) large, temporary fluctuations in halo mass. Finally, to
+  enable different groups to communicate effectively, we defined a common terminology
+  that we used when discussing merger trees and we encourage others to adopt the same
+  language. We also specified a minimal output format to record the results.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.436..150S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.3577
+author: Srisawat, C. and Knebe, A. and Pearce, F. R. and Schneider, A. and Thomas,
+  P. A. and Behroozi, P. and Dolag, K. and Elahi, P. J. and Han, J. and Helly, J.
+  and Jing, Y. and Jung, I. and Lee, J. and Mao, Y.-Y. and Onions, J. and Rodriguez-Gomez,
+  V. and Tweed, D. and Yi, S. K.
+author_list:
+- family: Srisawat
+  given: C.
+- family: Knebe
+  given: A.
+- family: Pearce
+  given: F. R.
+- family: Schneider
+  given: A.
+- family: Thomas
+  given: P. A.
+- family: Behroozi
+  given: P.
+- family: Dolag
+  given: K.
+- family: Elahi
+  given: P. J.
+- family: Han
+  given: J.
+- family: Helly
+  given: J.
+- family: Jing
+  given: Y.
+- family: Jung
+  given: I.
+- family: Lee
+  given: J.
+- family: Mao
+  given: Y.-Y.
+- family: Onions
+  given: J.
+- family: Rodriguez-Gomez
+  given: V.
+- family: Tweed
+  given: D.
+- family: Yi
+  given: S. K.
+date-added: 2017-08-11 07:24:33 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1545
+eprint: '1307.3577'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: evolution, galaxies: haloes, dark matter'
+month: November
+pages: 150--162
+papis_id: c9ef3457273147037e5f7cd78f773d5e
+primaryclass: astro-ph.CO
+ref: srisawat.c.2013
+title: 'Sussing Merger Trees: The Merger Trees Comparison Project'
+type: article
+volume: '436'
+year: '2013'

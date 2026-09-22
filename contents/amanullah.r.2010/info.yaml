@@ -1,0 +1,153 @@
+abstract: We report on work to increase the number of well-measured Type Ia supernovae
+  (SNe Ia) at high redshifts. Light curves, including high signal-to-noise Hubble
+  Space Telescope data, and spectra of six SNe Ia that were discovered during 2001,
+  are presented. Additionally, for the two SNe with z > 1, we present ground-based
+  J-band photometry from Gemini and the Very Large Telescope. These are among the
+  most distant SNe Ia for which ground-based near-IR observations have been obtained.
+  We add these six SNe Ia together with other data sets that have recently become
+  available in the literature to the Union compilation. We have made a number of refinements
+  to the Union analysis chain, the most important ones being the refitting of all
+  light curves with the SALT2 fitter and an improved handling of systematic errors.
+  We call this new compilation, consisting of 557 SNe, the Union2 compilation. The
+  flat concordance LambdaCDM model remains an excellent fit to the Union2 data with
+  the best-fit constant equation-of-state parameter w = -0.997+0.050 -0.054(stat)+0.077
+  -0.082(stat + sys together) for a flat universe, or w = -1.038+0.056 -0.059(stat)+0.093
+  -0.097(stat + sys together) with curvature. We also present improved constraints
+  on w(z). While no significant change in w with redshift is detected, there is still
+  considerable room for evolution in w. The strength of the constraints depends strongly
+  on redshift. In particular, at z >~ 1, the existence and nature of dark energy are
+  only weakly constrained by the data.  Based in part on observations made with the
+  NASA/ESA Hubble Space Telescope, obtained from the data archive at the Space Telescope
+  Science Institute (STScI). STScI is operated by the Association of Universities
+  for Research in Astronomy (AURA), Inc. under the NASA contract NAS 5-26555. The
+  observations are associated with programs HST-GO-08585 and HST-GO-09075. Based,
+  in part, on observations obtained at the ESO La Silla Paranal Observatory (ESO programs
+  67.A-0361 and 169.A-0382). Based, in part, on observations obtained at the Cerro-Tololo
+  Inter-American Observatory (CTIO), National Optical Astronomy Observatory (NOAO).
+  Based on observations obtained at the Canada-France-Hawaii Telescope (CFHT). Based,
+  in part, on observations obtained at the Gemini Observatory (Gemini programs GN-2001A-SV-19
+  and GN-2002A-Q-31). Based, in part on observations obtained at the Subaru Telescope.
+  Based, in part, on data that were obtained at the W. M. Keck Observatory.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...716..712A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.1711
+author: Amanullah, R. and Lidman, C. and Rubin, D. and Aldering, G. and Astier, P.
+  and Barbary, K. and Burns, M. S. and Conley, A. and Dawson, K. S. and Deustua, S.
+  E. and Doi, M. and Fabbro, S. and Faccioli, L. and Fakhouri, H. K. and Folatelli,
+  G. and Fruchter, A. S. and Furusawa, H. and Garavini, G. and Goldhaber, G. and Goobar,
+  A. and Groom, D. E. and Hook, I. and Howell, D. A. and Kashikawa, N. and Kim, A.
+  G. and Knop, R. A. and Kowalski, M. and Linder, E. and Meyers, J. and Morokuma,
+  T. and Nobili, S. and Nordin, J. and Nugent, P. E. and Östman, L. and Pain, R. and
+  Panagia, N. and Perlmutter, S. and Raux, J. and Ruiz-Lapuente, P. and Spadafora,
+  A. L. and Strovink, M. and Suzuki, N. and Wang, L. and Wood-Vasey, W. M. and Yasuda,
+  N. and Supernova Cosmology Project, T.
+author_list:
+- family: Amanullah
+  given: R.
+- family: Lidman
+  given: C.
+- family: Rubin
+  given: D.
+- family: Aldering
+  given: G.
+- family: Astier
+  given: P.
+- family: Barbary
+  given: K.
+- family: Burns
+  given: M. S.
+- family: Conley
+  given: A.
+- family: Dawson
+  given: K. S.
+- family: Deustua
+  given: S. E.
+- family: Doi
+  given: M.
+- family: Fabbro
+  given: S.
+- family: Faccioli
+  given: L.
+- family: Fakhouri
+  given: H. K.
+- family: Folatelli
+  given: G.
+- family: Fruchter
+  given: A. S.
+- family: Furusawa
+  given: H.
+- family: Garavini
+  given: G.
+- family: Goldhaber
+  given: G.
+- family: Goobar
+  given: A.
+- family: Groom
+  given: D. E.
+- family: Hook
+  given: I.
+- family: Howell
+  given: D. A.
+- family: Kashikawa
+  given: N.
+- family: Kim
+  given: A. G.
+- family: Knop
+  given: R. A.
+- family: Kowalski
+  given: M.
+- family: Linder
+  given: E.
+- family: Meyers
+  given: J.
+- family: Morokuma
+  given: T.
+- family: Nobili
+  given: S.
+- family: Nordin
+  given: J.
+- family: Nugent
+  given: P. E.
+- family: Östman
+  given: L.
+- family: Pain
+  given: R.
+- family: Panagia
+  given: N.
+- family: Perlmutter
+  given: S.
+- family: Raux
+  given: J.
+- family: Ruiz-Lapuente
+  given: P.
+- family: Spadafora
+  given: A. L.
+- family: Strovink
+  given: M.
+- family: Suzuki
+  given: N.
+- family: Wang
+  given: L.
+- family: Wood-Vasey
+  given: W. M.
+- family: Yasuda
+  given: N.
+- family: Supernova Cosmology Project
+  given: T.
+date-added: 2017-08-11 01:11:44 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/716/1/712
+eprint: '1004.1711'
+journal: \apj
+keywords: 'cosmological parameters, cosmology: observations, supernovae: general'
+month: June
+pages: 712--738
+papis_id: 3fe3a38e52e3fe7ea2bf051095983bc9
+primaryclass: astro-ph.CO
+ref: amanullah.r.2010
+title: Spectra and Hubble Space Telescope Light Curves of Six Type Ia Supernovae at
+  0.511 $łt$ z \$łt\$ 1.12 and the Union2 Compilation
+type: article
+volume: '716'
+year: '2010'

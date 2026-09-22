@@ -1,0 +1,66 @@
+abstract: High-quality observations of B and V light curves obtained at Las Campanas
+  Observatory for local Type Ia Supernovae (SNe Ia) show clear evidence that SNe Ia
+  with the same brightness decline or stretch may have systematic and independent
+  deviations at times t <~ 5 days before and at times t >~ 30 days after maximum light.
+  This suggests the existence of two independent secondary parameters that control
+  the shape of SN Ia light curves in addition to the primary light curve parameter,
+  stretch s or Deltam 15. The secondary parameters may reflect two independent physical
+  effects caused by variations in the initial carbon-to-oxygen (C/O) profile in the
+  progenitor and the initial central density rho c  in a carbon-oxygen white dwarf
+  exploding as an SN Ia. Theoretical light curves of delayed detonation SN Ia models
+  with varying progenitor masses on the main sequence, varying accretion rates, and
+  varying primordial metallicity reproduce two morphologically different and independent
+  types of variations in observed visual light curves. These calculations predict
+  small variations of \approx{}0.05 mag in the absolute brightness of SNe Ia which
+  are correlated with the variations of progenitor mass on the main-sequence M MS,
+  which changes the C/O profile, and rho c , which depends on the accretion rate.
+  Such variations in real supernovae will induce systematic errors in SN Ia calibration
+  at high redshifts. A physically motivated three-parameter, s, C/O, rho c , template
+  for SNe Ia light curves might take these variations into account. Comparison between
+  the theoretical predictions and the observational results agree qualitatively; however,
+  the observations show variations between the B and V light curves that are not expected
+  from the modeling and may indicate limitations in the details of the theoretical
+  models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...710..444H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.2231
+author: 'Höflich, P. and Krisciunas, K. and Khokhlov, A. M. and Baron, E. and Folatelli,
+  G. and Hamuy, M. and Phillips, M. M. and Suntzeff, N. and Wang, L. and NSF07-SNIa
+  Collaboration, '
+author_list:
+- family: Höflich
+  given: P.
+- family: Krisciunas
+  given: K.
+- family: Khokhlov
+  given: A. M.
+- family: Baron
+  given: E.
+- family: Folatelli
+  given: G.
+- family: Hamuy
+  given: M.
+- family: Phillips
+  given: M. M.
+- family: Suntzeff
+  given: N.
+- family: Wang
+  given: L.
+- family: NSF07-SNIa Collaboration
+  given: ''
+date-added: 2017-08-10 22:47:19 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/710/1/444
+eprint: '0912.2231'
+journal: \apj
+keywords: 'distance scale, supernovae: general, supernovae: individual: 2004ef 2005al
+  2005am 2005el 2005ki 2005na'
+month: February
+pages: 444--455
+papis_id: 3a184c6dd3b649f748e846ea221190fa
+ref: hoflich.p.2010
+title: Secondary Parameters of Type Ia Supernova Light Curves
+type: article
+volume: '710'
+year: '2010'

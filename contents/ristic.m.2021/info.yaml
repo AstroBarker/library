@@ -1,0 +1,56 @@
+abstract: Detailed radiative transfer simulations of kilonovae are difficult to apply
+  directly to observations; they only sparsely cover simulation parameters, such as
+  the mass, velocity, morphology, and composition of the ejecta. On the other hand,
+  semianalytic models for kilonovae can be evaluated continuously over model parameters,
+  but neglect important physical details which are not incorporated in the simulations,
+  thus introducing systematic bias. Starting with a grid of 2D anisotropic simulations
+  of kilonova light curves covering a wide range of ejecta properties, we apply adaptive-learning
+  techniques to iteratively choose new simulations and produce high-fidelity surrogate
+  models for those simulations. These surrogate models allow for continuous evaluation
+  across model parameters while retaining the microphysical details about the ejecta.
+  Using a new code for multimessenger inference, we demonstrate how to use our interpolated
+  models to infer kilonova parameters. Comparing to inferences using simplified analytic
+  models, we recover different ejecta properties. We discuss the implications of this
+  analysis which is qualitatively consistent with similar previous work using detailed
+  ejecta opacity calculations and which illustrates systematic challenges for kilonova
+  modeling. An associated data and code release provides our interpolated light-curve
+  models, interpolation implementation which can be applied to reproduce our work
+  or extend to new models, and our multimessenger parameter inference engine.
+author: Ristic, M. and Champion, E. and O'Shaughnessy, R. and Wollaeger, R. and Korobkin,
+  O. and Chase, E. A. and Fryer, C. L. and Hungerford, A. L. and Fontes, C. J.
+author_list:
+- family: Ristic
+  given: M.
+- family: Champion
+  given: E.
+- family: O'Shaughnessy
+  given: R.
+- family: Wollaeger
+  given: R.
+- family: Korobkin
+  given: O.
+- family: Chase
+  given: E. A.
+- family: Fryer
+  given: C. L.
+- family: Hungerford
+  given: A. L.
+- family: Fontes
+  given: C. J.
+doc_url: https://arxiv.org/pdf/2105.07013v2
+doi: 10.1103/PhysRevResearch.4.013046
+eprint: 2105.07013v2
+eprintclass: astro-ph.HE
+eprinttype: arxiv
+files:
+- ristic.m.2021.pdf
+journal: Phys. Rev. Research 4, 013046 (2022)
+month: 5
+papis_id: 83b8bcbed2efdca7023b2db4533cc1e9
+ref: ristic.m.2021
+time-added: 2026-09-21-15:56:07
+title: 'Interpolating Detailed Simulations of Kilonovae: Adaptive Learning and Parameter
+  Inference Applications'
+type: article
+url: http://arxiv.org/abs/2105.07013v2
+year: 2021

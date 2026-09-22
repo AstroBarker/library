@@ -1,0 +1,45 @@
+abstract: 'A star can be tidally disrupted around a massive black hole. It is known
+  that the debris forms a precessing stream, which may collide with itself. The stream
+  collision is a key process in determining the subsequent evolution of the stellar
+  debris: if the orbital energy is efficiently dissipated, the debris will eventually
+  form a circular disk (or torus). In this paper, we have numerically studied such
+  a stream collision resulting from the encounter between a 106 Msolar black hole
+  and a 1 Msolar normal star with a pericenter radius of 100 Rsolar. A simple treatment
+  for radiative cooling has been adopted for both optically thick and optically thin
+  regions. We have found that approximately 10\% to 15\% of the initial kinetic energy
+  of the streams is converted into thermal energy during the collision. The spread
+  in angular momentum of the incoming stream is increased by a factor of 2 to 3, and
+  such an increase, together with the decrease in kinetic energy, significantly helps
+  the circularization process. The initial luminosity burst produced by the collision
+  may reach as high as 1041 ergs s-1 in 104 s, after which the luminosity increases
+  again (but slowly this time) to a steady value of a few 1040 ergs s-1 in a few times
+  105 s. The radiation from the system is expected to be close to Planckian, with
+  an effective temperature of ~105 K.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...519..647K
+arxivurl: http://arxiv.org/abs/astro-ph/9902132
+author: Kim, S. S. and Park, M.-G. and Lee, H. M.
+author_list:
+- family: Kim
+  given: S. S.
+- family: Park
+  given: M.-G.
+- family: Lee
+  given: H. M.
+date-added: 2017-08-11 06:21:02 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307394
+eprint: astro-ph/9902132
+journal: \apj
+keywords: 'BLACK HOLE PHYSICS, GALAXIES: NUCLEI, HYDRODYNAMICS, METHODS: NUMERICAL,
+  RADIATION MECHANISMS: THERMAL, Black Hole Physics, Galaxies: Nuclei, Hydrodynamics,
+  Methods: Numerical, Radiation Mechanisms: Thermal'
+month: July
+pages: 647--657
+papis_id: 9f98b0b24c2ad6ed5c9a4963f58785cb
+ref: kim.s.1999
+title: The Stream-Stream Collision after the Tidal Disruption of a Star around a Massive
+  Black Hole
+type: article
+volume: '519'
+year: '1999'

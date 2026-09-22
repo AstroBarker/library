@@ -1,0 +1,54 @@
+abstract: We report the results of new SPH calculations of parabolic collisions between
+  two main-sequence stars in a globular cluster. Such collisions are directly relevant
+  to the formation of blue stragglers. In particular, we consider parent stars of
+  mass M/MTO = 0.2, 0.5, 0.75, and 1, where MTO is the cluster turnoff mass (typically
+  about 0.8 Msun). The parent star models are more realistic, and the numerical resolution
+  of the hydrodynamics more detailed, than in previous studies. We focus on the hydrodynamic
+  mixing of helium and hydrogen, which plays a crucial role in establishing the color,
+  luminosity, and lifetime of collisional blue stragglers. In all cases we find negligible
+  hydrodynamic mixing of helium into the outer envelope of the merger remnant. The
+  amount of hydrogen carried into the core of the merger remnant depends strongly
+  on the entropy profiles of the colliding stars. For stars with nearly equal masses
+  (and hence entropy profiles), the composition profile of the remnant closely resembles
+  that of the parents. If the parent stars were close to turnoff, very little hydrogen
+  is present at the center of the merger remnant and the main-sequence lifetime of
+  the blue straggler could be short. In contrast, during a collision between stars
+  with sufficiently different masses (mass ratio q <= 0.5), the hydrogen-rich material
+  originally in the smaller star maintains, on average, a lower specific entropy than
+  that of the more massive star and therefore settles preferentially in the core of
+  the merger remnant. Through this process, moderately massive blue stragglers (with
+  masses MTO <= MBS <= l.5MTO) can obtain a significant supply of fresh hydrogen fuel,
+  thereby extending their main-sequence lifetime. We conclude, in contrast to what
+  has often been assumed, that blue stragglers formed by direct stellar collisions
+  do not necessarily have initially homogeneous composition profiles. However, we
+  also demonstrate that the final merged configurations, although close to hydrostatic
+  equilibrium, are typically far from thermal equilibrium. Therefore, it is possible
+  that convective, semiconvective, or rotationally induced mixing could occur on a
+  thermal timescale, as the merger remnant recontracts to the main sequence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...468..797L
+arxivurl: http://arxiv.org/abs/astro-ph/9511074
+author: Lombardi Jr., J. C. and Rasio, F. A. and Shapiro, S. L.
+author_list:
+- family: Lombardi Jr.
+  given: J. C.
+- family: Rasio
+  given: F. A.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-10 19:31:57 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177736
+eprint: astro-ph/9511074
+journal: \apj
+keywords: 'STARS: BLUE STRAGGLERS, HYDRODYNAMICS, STARS: EVOLUTION, STARS: INTERIORS,
+  STARS: ROTATION'
+month: September
+pages: '797'
+papis_id: 768205fa4efcc039099ad3ad77b8d5f7
+ref: lombardi_jr.j.1996
+title: Collisions of Main-Sequence Stars and the Formation of Blue Stragglers in Globular
+  Clusters
+type: article
+volume: '468'
+year: '1996'

@@ -1,0 +1,44 @@
+abstract: If supermassive black holes (SMBHs) are the energy sources that power quasars
+  and active galactic nuclei (AGNs), then QSO SDSS 1148+5251, the quasar with the
+  highest redshift (zQSO=6.43), hosts an SMBH formed within ~0.9 Gyr after the big
+  bang. This requirement places constraints on the cosmological formation of SMBHs,
+  believed to grow from smaller initial seeds by a combination of accretion and mergers.
+  We focus on gas accretion onto seeds produced by the collapse of Population III
+  stars at high redshift. We incorporate the results of recent relativistic, MHD simulations
+  of disk accretion onto Kerr black holes to track the coupled evolution of the masses
+  and spins of the holes. We allow for an additional amplification of ~104 in the
+  mass of a typical seed due to mergers, consistent with recent Monte Carlo simulations
+  of hierarchical mergers of cold dark matter halos containing black hole seeds. We
+  find that the growth of Population III black hole remnants to ~109 Msolar by zQSO>~6.43
+  favors MHD accretion disks over standard thin disks. MHD disks tend to drive the
+  holes to a submaximal equilibrium spin rate a/M~0.95 and radiation efficiency \ensuremath{\epsilon}M~0.2,
+  while standard thin disks drive them to maximal spin (a/M=1) and efficiency (\ensuremath{\epsilon}M=0.42).
+  This small difference in efficiency results in a huge difference in mass amplification
+  by accretion at the Eddington limit. The MHD equilibrium efficiency is consistent
+  with the observed ratio of the QSO plus AGN luminosity density to the local SMBH
+  mass density. Our prototype analysis is designed to stimulate the incorporation
+  of results from relativistic stellar collapse and MHD accretion simulations in future
+  Monte Carlo simulations of hierarchical structure formation to better determine
+  the cosmological role of SMBHs and their mass and spin distributions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...620...59S
+arxivurl: http://arxiv.org/abs/astro-ph/0411156
+author: Shapiro, S. L.
+author_list:
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-10 21:43:55 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427065
+eprint: astro-ph/0411156
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Cosmology: Theory, Magnetohydrodynamics:
+  MHD, Galaxies: Quasars: General'
+month: February
+pages: 59--68
+papis_id: fef1b0dd2c1456d49d92e1e03fc9b0cf
+ref: shapiro.s.2005
+title: Spin, Accretion, and the Cosmological Growth of Supermassive Black Holes
+type: article
+volume: '620'
+year: '2005'

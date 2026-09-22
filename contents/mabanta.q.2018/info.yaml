@@ -1,0 +1,48 @@
+abstract: An important result in core-collapse supernova (CCSN) theory is that spherically
+  symmetric, one-dimensional simulations routinely fail to explode, yet multidimensional
+  simulations often explode. Numerical investigations suggest that turbulence eases
+  the condition for explosion, but how it does it is not fully understood. We develop
+  a turbulence model for neutrino-driven convection, and show that this turbulence
+  model reduces the condition for explosions by about 30\%, in concordance with multidimensional
+  simulations. In addition, we identify which turbulent terms enable explosions. Contrary
+  to prior suggestions, turbulent ram pressure is not the dominant factor in reducing
+  the condition for explosion. Instead, there are many contributing factors, with
+  ram pressure being only one of them, but the dominant factor is turbulent dissipation
+  (TD). Primarily, TD provides extra heating, adding significant thermal pressure
+  and reducing the condition for explosion. The source of this TD power is turbulent
+  kinetic energy, which ultimately derives its energy from the higher potential of
+  an unstable convective profile. Investigating a turbulence model in conjunction
+  with an explosion condition enables insight that is difficult to glean from merely
+  analyzing complex multidimensional simulations. An explosion condition presents
+  a clear diagnostic to explain why stars explode, and the turbulence model allows
+  us to explore how turbulence enables explosion. Although we find that TD is a significant
+  contributor to successful supernova explosions, it is important to note that this
+  work is to some extent qualitative. Therefore, we suggest ways to further verify
+  and validate our predictions with multidimensional simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...856...22M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1706.00072
+author: Mabanta, Q. A. and Murphy, J. W.
+author_list:
+- family: Mabanta
+  given: Q. A.
+- family: Murphy
+  given: J. W.
+date-added: 2018-04-25 23:56:46 +0000
+date-modified: 2018-04-25 23:56:46 +0000
+doi: 10.3847/1538-4357/aaaec7
+eid: '22'
+eprint: '1706.00072'
+journal: \apj
+keywords: 'hydrodynamics, methods: analytical, methods: numerical, shock waves, supernovae:
+  general, turbulence'
+month: March
+pages: '22'
+papis_id: fa74072a2b9f5062a74ae7a44af618ac
+primaryclass: astro-ph.HE
+ref: mabanta.q.2018
+title: How Turbulence Enables Core-collapse Supernova Explosions
+type: article
+volume: '856'
+year: '2018'

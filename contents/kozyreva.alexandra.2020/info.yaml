@@ -1,0 +1,50 @@
+abstract: The signal from a shock breakout (SBO) is the first signature of a         supernova
+  explosion, apart from gravitational waves and         neutrinos. Observational properties
+  of SBOs, such as bolometric         luminosity and colour temperature, are connected
+  with the         parameters of the supernova progenitor and explosion. The         detection
+  of SBOs or the cooling of SBOs will constrain the         progenitor and explosion
+  models of collapsing stars. Since the         recent launch of the eROSITA on the
+  SPECTRUM-RG spacecraft, the         detection rate for SBOs is a few events per
+  year. In the current         study, we examine the analytical formulae derived by
+  Shussman,         Waldman \& Nakar (arXiv:1610.05323). We use four red supergiant         models
+  from their study, while running explosions with the         radiation hydrodynamics
+  code stella. We conclude that there is a         good agreement between analytical
+  and numerical approaches for         bolometric luminosity and colour temperature
+  during SBOs. The         analytical formulae for the SBO signal based on the global         supernova
+  parameters can be used instead of running time-         consuming numerical simulations.
+  We define the spectral range in         which analytical formulae for SBO spectra
+  are valid. We provide         an improved analytical expression for the SBO spectral
+  energy         distribution. We confirm that the colour temperature is         dependent
+  on radius derived by analytical studies and we suggest         using early time
+  observations to confine the progenitor radius.         Additionally, we show the
+  prediction for the SBO signal from red         supergiants as seen by eROSITA.
+archiveprefix: arXiv
+author: Kozyreva, Alexandra and Nakar, Ehud and Waldman, Roni and Blinnikov, Sergei
+  and Baklanov, Petr
+author_list:
+- family: Kozyreva
+  given: Alexandra
+- family: Nakar
+  given: Ehud
+- family: Waldman
+  given: Roni
+- family: Blinnikov
+  given: Sergei
+- family: Baklanov
+  given: Petr
+doi: 10.1093/mnras/staa924
+eprint: '2003.14097'
+journal: \mnras
+keywords: 'radiative transfer, stars: massive, supernovae: general, Astrophysics -
+  High Energy Astrophysical Phenomena'
+month: May
+number: '3'
+pages: 3927--3936
+papis_id: fd2ef3c8bbfe4d12476c848796d8e677
+primaryclass: astro-ph.HE
+ref: kozyreva.alexandra.2020
+title: 'Shock breakouts from red supergiants: analytical and numerical predictions'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.3927K
+volume: '494'
+year: '2020'

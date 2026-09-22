@@ -1,0 +1,43 @@
+abstract: We present an analysis of the observed broad iron line feature and putative
+  warm absorber in the long 2001 XMM-Newton observation of the Seyfert 1.2 galaxy
+  MCG -06-30-15. The new kerrdisk model we have designed for simulating line emission
+  from accretion disk systems allows black hole spin to be a free parameter in the
+  fit, enabling the user to formally constrain the angular momentum of a black hole,
+  among other physical parameters of the system. In an important extension of previous
+  work, we derive constraints on the black hole spin in MCG -06-30-15 using a self-consistent
+  model for X-ray reflection from the surface of the accretion disk while simultaneously
+  accounting for absorption by dusty photoionized material along the line of sight
+  (the warm absorber). Even including these complications, the XMM-Newton EPIC pn
+  data require extreme relativistic broadening of the X-ray reflection spectrum; assuming
+  no emission from within the radius of marginal stability, we derive a formal constraint
+  on the dimensionless black hole spin parameter of a=0.989+0.009-0.002 at 90\% confidence.
+  The principal unmodeled effect that can significantly reduce the inferred black
+  hole spin is powerful emission from within the radius of marginal stability. Although
+  significant theoretical developments are required to fully understand this region,
+  we argue that the need for a rapidly spinning black hole is robust to physically
+  plausible levels of emission from within the radius of marginal stability. In particular,
+  we show that a nonrotating black hole is strongly ruled out.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...652.1028B
+arxivurl: http://arxiv.org/abs/astro-ph/0608502
+author: Brenneman, L. W. and Reynolds, C. S.
+author_list:
+- family: Brenneman
+  given: L. W.
+- family: Reynolds
+  given: C. S.
+date-added: 2017-08-10 22:21:57 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/508146
+eprint: astro-ph/0608502
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Individual: Alphanumeric:
+  MCG -6-30-15, Galaxies: Nuclei, Galaxies: Seyfert, X-Rays: Galaxies'
+month: December
+pages: 1028--1043
+papis_id: 171f4cbb8d99c928b9ee513103a1c1a8
+ref: brenneman.l.2006
+title: Constraining Black Hole Spin via X-Ray Spectroscopy
+type: article
+volume: '652'
+year: '2006'

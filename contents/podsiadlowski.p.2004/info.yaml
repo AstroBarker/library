@@ -1,0 +1,60 @@
+abstract: We systematically examine how the presence in a binary affects the final
+  core structure of a massive star and its consequences for the subsequent supernova
+  explosion. Interactions with a companion star may change the final rate of rotation,
+  the size of the helium core, the strength of carbon burning, and the final iron
+  core mass. Stars with initial masses larger than ~11 Msolar that experience core
+  collapse will generally have smaller iron cores at the point of explosion if they
+  lost their envelopes through a binary interaction during or soon after core hydrogen
+  burning. Stars below ~11 Msolar, on the other hand, can end up with larger helium
+  and metal cores if they have a close companion, since the second dredge-up phase
+  that reduces the helium core mass dramatically in single stars does not occur once
+  the hydrogen envelope is lost. We find that the initially more massive stars in
+  binary systems with masses in the range 8-11 Msolar are likely to undergo an electron-capture
+  supernova, while single stars in the same mass range would end as ONeMg white dwarfs.
+  We suggest that the core collapse in an electron-capture supernova (and possibly
+  in the case of relatively small iron cores) leads to a prompt or fast explosion
+  rather than a very slow, delayed neutrino-driven explosion and that this naturally
+  produces neutron stars with low-velocity kicks. This leads to a dichotomous distribution
+  of neutron star kicks, as inferred previously, where neutron stars in relatively
+  close binaries attain low kick velocities. We illustrate the consequences of such
+  a dichotomous kick scenario using binary population synthesis simulations and discuss
+  its implications. This scenario has also important consequences for the minimum
+  initial mass of a massive star that becomes a neutron star. For single stars the
+  critical mass may be as high as 10-12 Msolar, while for close binaries it may be
+  as low as 6-8 Msolar. These critical masses depend on the treatment of convection,
+  the amount of convective overshooting, and the metallicity of the star, and will
+  generally be lower for larger amounts of convective overshooting and lower metallicity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...612.1044P
+arxivurl: http://arxiv.org/abs/astro-ph/0309588
+author: Podsiadlowski, P. and Langer, N. and Poelarends, A. J. T. and Rappaport, S.
+  and Heger, A. and Pfahl, E.
+author_list:
+- family: Podsiadlowski
+  given: P.
+- family: Langer
+  given: N.
+- family: Poelarends
+  given: A. J. T.
+- family: Rappaport
+  given: S.
+- family: Heger
+  given: A.
+- family: Pfahl
+  given: E.
+date-added: 2017-08-10 22:06:05 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421713
+eprint: astro-ph/0309588
+journal: \apj
+keywords: 'Stars: Binaries: Close, Galaxy: Globular Clusters: General, Stars: Evolution,
+  Stars: Neutron, Stars: Supernovae: General, X-Rays: Stars'
+month: September
+pages: 1044--1051
+papis_id: 9bc940975cf72b7f57c4e5ae126fadb9
+ref: podsiadlowski.p.2004
+title: The Effects of Binary Evolution on the Dynamics of Core Collapse and Neutron
+  Star Kicks
+type: article
+volume: '612'
+year: '2004'

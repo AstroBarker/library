@@ -1,0 +1,41 @@
+abstract: Motivated by the necessity of large-scale mixing in modeling the light curves
+  of Type Ib/Ic supernovae (SN Ib/Ic), the Rayleigh-Taylor (R-T) instabilities in
+  exploding helium stars of masses M(alpha) = 3.3, 4, and 6 solar masses are calculated
+  for the first time with a two-dimensional hydrodynamical code. Mixing of the ejected
+  material induced by the instabilities is found to be more extensive for smaller
+  mass stars. For M(alpha) less than about 4 solar masses, Ni-56 is mixed to the outermost
+  helium envelope. For M(alpha) greater than about 6 solar masses, on the contrary,
+  the growth of the R-T instability is too weak to convey Ni-56 into the outer layers.
+  The extensive mixing in smaller mass stars is consistent with the early light curve
+  models for SN 1983N (Type Ib) and SN 1987M (Type Ic) whose declines are as fast
+  as and even faster than Type Ia supernovae. On the other hand, no significant mixing
+  for larger M-alpha may be consistent with the slow decline of SN Ib 1984L. Thus
+  the observed variation of the SN Ib/Ic light curves can naturally be accounted for
+  by the variation of mixing as a function of the helium star mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...368L..27H
+author: Hachisu, I. and Matsuda, T. and Nomoto, K. and Shigeyama, T.
+author_list:
+- family: Hachisu
+  given: I.
+- family: Matsuda
+  given: T.
+- family: Nomoto
+  given: K.
+- family: Shigeyama
+  given: T.
+date-added: 2017-08-10 23:45:32 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/185940
+journal: \apjl
+keywords: Helium, Light Curve, Stellar Models, Supernovae, Taylor Instability, Neutron
+  Stars, Rayleigh Scattering, Stellar Mass Ejection, Wolf-Rayet Stars
+month: February
+pages: L27-L30
+papis_id: 8262498e42e71388e15794360e31ccb3
+ref: hachisu.i.1991
+title: Rayleigh-Taylor instabilities and mixing in the helium star models for Type
+  Ib/Ic supernovae
+type: article
+volume: '368'
+year: '1991'

@@ -1,0 +1,39 @@
+abstract: One of the difficulties in numerically modeling supernovae is the great
+  disparity in timescales present in the phenomena. The late-time explosion mechanism
+  is thought to take place on timescales of seconds while the Courant-Friedrichs-Lewy
+  (CFL) stability timescale for explicit hydrodynamic techniques is typically a fraction
+  of a microsecond. We present an implicit finite difference algorithm with variable
+  time centering for solving the equations of general relativistic Langrangean hydrodynamics
+  in the case of spherical symmetry. The use of an implicit algorithm circumvents
+  the CFL stability criterion, thus allowing substantially longer time steps in numerical
+  simulations. The major motivation for this work is to allow us to conduct numerical
+  simulations of the late-time neutrino reheating mechanism for supernovae explosions.
+  In addition to presenting the finite difference scheme for the general relativistic
+  hydrodynamics equations, we discuss the numerical strategy for solving these equations.
+  Finally, and perhaps most important, we evaluate the performance of this scheme
+  on several standard hydrodynamic test problems. The results of the implicit scheme
+  for the test problems are compared to those of a widely used explicit scheme for
+  the purpose of code validation. These tests also serve the secondary purpose of
+  exploring the performance of the explicit algorithm.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...445..811S
+author: Swesty, F. D.
+author_list:
+- family: Swesty
+  given: F. D.
+date-added: 2017-08-11 04:38:09 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175742
+journal: \apj
+keywords: Chronology, Explosions, Gravitational Collapse, Hydrodynamic Equations,
+  Relativistic Effects, Stellar Cores, Stellar Models, Supernovae, Algorithms, Finite
+  Difference Theory, Neutrinos, Pressure Effects, Shock Waves, Time Lag
+month: June
+pages: 811--827
+papis_id: 899c2f985f4f2331679e8333a4efa624
+ref: swesty.f.1995
+title: Implicit general relativistic hydrodynamic methods for modeling the late-time
+  explosion mechanism in core collapse supernovae
+type: article
+volume: '445'
+year: '1995'

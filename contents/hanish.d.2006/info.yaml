@@ -1,0 +1,91 @@
+abstract: 'We derive observed Halpha and R-band luminosity densities of an H I-selected
+  sample of nearby galaxies using the SINGG sample to be l''Halpha=(9.4+/-1.8)\texttimes{}1038
+  h70 ergs s-1 Mpc-3 for Halpha and l''R=(4.4+/-0.7)\texttimes{}1037 h70 ergs s-1
+  {\AA}-1 Mpc-3 in the R band. This R-band luminosity density is approximately 70\%
+  of that found by the Sloan Digital Sky Survey. This leads to a local star formation
+  rate density of log(rho\textperiodcentered{}SFR [Msolar yr-1 Mpc-3])=-1.80+0.13-0.07(random)+/-0.03(systematic)+log(h70)
+  after applying a mean internal extinction correction of 0.82 mag. The gas cycling
+  time of this sample is found to be tgas=7.5+1.3-2.1 Gyr, and the volume-averaged
+  equivalent width of the SINGG galaxies is EW(Halpha)=28.8+7.2-4.7 {\AA} (21.2+4.2-3.5
+  {\AA} without internal dust correction). As with similar surveys, these results
+  imply that rho\textperiodcentered{}SFR(z) decreases drastically from z~1.5 to the
+  present. A comparison of the dynamical masses of the SINGG galaxies evaluated at
+  their optical limits with their stellar and H I masses shows significant evidence
+  of downsizing: the most massive galaxies have a larger fraction of their mass locked
+  up in stars compared with H I, while the opposite is true for less massive galaxies.
+  We show that the application of the Kennicutt star formation law to a galaxy having
+  the median orbital time at the optical limit of this sample results in a star formation
+  rate decay with cosmic time similar to that given by the rho\textperiodcentered{}SFR(z)
+  evolution. This implies that the rho\textperiodcentered{}SFR(z) evolution is primarily
+  due to the secular evolution of galaxies, rather than interactions or mergers. This
+  is consistent with the morphologies predominantly seen in the SINGG sample.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...649..150H
+arxivurl: http://arxiv.org/abs/astro-ph/0604442
+author: Hanish, D. J. and Meurer, G. R. and Ferguson, H. C. and Zwaan, M. A. and Heckman,
+  T. M. and Staveley-Smith, L. and Bland-Hawthorn, J. and Kilborn, V. A. and Koribalski,
+  B. S. and Putman, M. E. and Ryan-Weber, E. V. and Oey, M. S. and Kennicutt Jr.,
+  R. C. and Knezek, P. M. and Meyer, M. J. and Smith, R. C. and Webster, R. L. and
+  Dopita, M. A. and Doyle, M. T. and Drinkwater, M. J. and Freeman, K. C. and Werk,
+  J. K.
+author_list:
+- family: Hanish
+  given: D. J.
+- family: Meurer
+  given: G. R.
+- family: Ferguson
+  given: H. C.
+- family: Zwaan
+  given: M. A.
+- family: Heckman
+  given: T. M.
+- family: Staveley-Smith
+  given: L.
+- family: Bland-Hawthorn
+  given: J.
+- family: Kilborn
+  given: V. A.
+- family: Koribalski
+  given: B. S.
+- family: Putman
+  given: M. E.
+- family: Ryan-Weber
+  given: E. V.
+- family: Oey
+  given: M. S.
+- family: Kennicutt Jr.
+  given: R. C.
+- family: Knezek
+  given: P. M.
+- family: Meyer
+  given: M. J.
+- family: Smith
+  given: R. C.
+- family: Webster
+  given: R. L.
+- family: Dopita
+  given: M. A.
+- family: Doyle
+  given: M. T.
+- family: Drinkwater
+  given: M. J.
+- family: Freeman
+  given: K. C.
+- family: Werk
+  given: J. K.
+date-added: 2017-08-11 03:32:33 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/504681
+eprint: astro-ph/0604442
+journal: \apj
+keywords: 'Galaxies: Evolution, Galaxies: ISM, Galaxies: Starburst, Stars: Formation,
+  Surveys'
+month: September
+pages: 150--162
+papis_id: b402c7a8f3c58cbbbe1f54d74a7cdb33
+ref: hanish.d.2006
+title: The Survey for Ionization in Neutral Gas Galaxies. II. The Star Formation Rate
+  Density of the Local Universe
+type: article
+volume: '649'
+year: '2006'

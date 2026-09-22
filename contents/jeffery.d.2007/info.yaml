@@ -1,0 +1,53 @@
+abstract: 'Two quantitative tests DIFF1 and DIFF2 for measuring goodness of fit between
+  two locally normalized supernova spectra are presented. Locally normalized spectra
+  are obtained by dividing a spectrum by the same spectrum smoothed over a wavelength
+  interval relatively large compared to line features, but relatively small compared
+  to continuum features. DIFF1 essentially measures the mean relative difference between
+  the line patterns of locally normalized spectra, and DIFF2 is DIFF1 minimized by
+  a relative logarithmic wavelength shift between the spectra: the shift is effectively
+  an artificial relative Doppler shift. Both DIFF1 and DIFF2 measure the physical
+  similarity of line formation and thus of supernovae. DIFF1 puts more weight on overall
+  physical similarity of the supernovae than DIFF2 because the DIFF2 shift compensates
+  somewhat for some physical distinction in the supernovae. Both tests are useful
+  in ordering supernovae into empirical groupings for further analysis. We present
+  some examples of locally normalized spectra for Type IIb supernova SN 1993J with
+  some analysis of these spectra. The UV parts of two of the SN 1993J spectra are
+  HST spectra that have not been published before. We also give an example of fitted
+  locally normalized spectra and, as an example of the utility of DIFF1 and DIFF2,
+  some preliminary statistical results for hydrogen-deficient core-collapse (HDCC)
+  supernova spectra. This paper makes use of and refers to material to found at the
+  first author''s online supernova spectrum database SUSPEND (Supernovae Spectra Pending
+  further analysis).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..171..493J
+arxivurl: http://arxiv.org/abs/astro-ph/0607084
+author: Jeffery, D. J. and Ketchum, W. and Branch, D. and Baron, E. and Elmhamdi,
+  A. and Danziger, I. J.
+author_list:
+- family: Jeffery
+  given: D. J.
+- family: Ketchum
+  given: W.
+- family: Branch
+  given: D.
+- family: Baron
+  given: E.
+- family: Elmhamdi
+  given: A.
+- family: Danziger
+  given: I. J.
+date-added: 2017-08-10 21:05:54 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/518423
+eprint: astro-ph/0607084
+journal: \apjs
+keywords: 'Methods: Data Analysis, Stars: Supernovae: General, supernovae: individual
+  (SN 1987K), Stars: Supernovae: Individual: Alphanumeric: SN 1993J'
+month: August
+pages: 493--511
+papis_id: c33212893f52c36250fd2a6938bac9d2
+ref: jeffery.d.2007
+title: Goodness-of-Fit Tests DIFF1 and DIFF2 for Locally Normalized Supernova Spectra
+type: article
+volume: '171'
+year: '2007'

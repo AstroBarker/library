@@ -1,0 +1,51 @@
+abstract: We present new results from the only two-dimensional multi-group, multi-angle
+  calculations of core-collapse supernova evolution. The first set of results from
+  these calculations was published in 2008 by Ott et al. We have followed a nonrotating
+  and a rapidly rotating 20 M sun model for ~400 ms after bounce. We show that the
+  radiation fields vary much less with angle than the matter quantities in the region
+  of net neutrino heating. This happens because most neutrinos are emitted from inner
+  radiative regions and because the specific intensity is an integral over sources
+  from many angles at depth. The latter effect can only be captured by multi-angle
+  transport. We then compute the phase relationship between dipolar oscillations in
+  the shock radius and in matter and radiation quantities throughout the post-shock
+  region. We demonstrate a connection between variations in neutrino flux and the
+  hydrodynamical shock oscillations, and use a variant of the Rayleigh test to estimate
+  the detectability of these neutrino fluctuations in IceCube and Super-Kamiokande.
+  Neglecting flavor oscillations, fluctuations in our nonrotating model would be detectable
+  to ~10 kpc in IceCube, and a detailed power spectrum could be measured out to ~5
+  kpc. These distances are considerably lower in our rapidly rotating model or with
+  significant flavor oscillations. Finally, we measure the impact of rapid rotation
+  on detectable neutrino signals. Our rapidly rotating model has strong, species-dependent
+  asymmetries in both its peak neutrino flux and its light curves. The peak flux and
+  decline rate show pole-equator ratios of up to ~3 and ~2, respectively.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...728....8B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.4654
+author: Brandt, T. D. and Burrows, A. and Ott, C. D. and Livne, E.
+author_list:
+- family: Brandt
+  given: T. D.
+- family: Burrows
+  given: A.
+- family: Ott
+  given: C. D.
+- family: Livne
+  given: E.
+date-added: 2017-08-10 14:37:00 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/728/1/8
+eid: '8'
+eprint: '1009.4654'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, stars: interiors, supernovae: general'
+month: February
+pages: '8'
+papis_id: 65252e52a81fc6fd64bb434dac346746
+primaryclass: astro-ph.HE
+ref: brandt.t.2011
+title: Results from Core-collapse Simulations with Multi-dimensional, Multi-angle
+  Neutrino Transport
+type: article
+volume: '728'
+year: '2011'

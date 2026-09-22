@@ -1,0 +1,45 @@
+abstract: We present interplanetary network localization information for 218 gamma-ray
+  bursts in the third BATSE catalog obtained by analyzing the arrival times of these
+  bursts with the Ulysses and Compton Gamma Ray Observatory spacecraft. For any given
+  burst observed by these two spacecraft, arrival time analysis (or ``triangulation'')
+  results in an annulus of possible arrival directions whose half-width varies between
+  7" and 32', depending on the intensity and time history of the burst and the distance
+  of the Ulysses spacecraft from Earth. This annulus generally intersects the BATSE
+  error circle, which results in an average reduction of a factor of 30 of the error
+  box area.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJS..120..399H
+arxivurl: http://arxiv.org/abs/astro-ph/9811473
+author: Hurley, K. and Briggs, M. S. and Kippen, R. M. and Kouveliotou, C. and Meegan,
+  C. and Fishman, G. and Cline, T. and Boer, M.
+author_list:
+- family: Hurley
+  given: K.
+- family: Briggs
+  given: M. S.
+- family: Kippen
+  given: R. M.
+- family: Kouveliotou
+  given: C.
+- family: Meegan
+  given: C.
+- family: Fishman
+  given: G.
+- family: Cline
+  given: T.
+- family: Boer
+  given: M.
+date-added: 2017-08-11 06:06:31 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/313178
+eprint: astro-ph/9811473
+journal: \apjs
+keywords: 'CATALOGS, GAMMA RAYS: BURSTS, Catalogs, Gamma Rays: Bursts'
+month: February
+pages: 399--408
+papis_id: f9acfcf20aa60e309271b8fc8ee1dead
+ref: hurley.k.1999
+title: The ULYSSES Supplement to the BATSE 3B Catalog of Cosmic Gamma-Ray Bursts
+type: article
+volume: '120'
+year: '1999'

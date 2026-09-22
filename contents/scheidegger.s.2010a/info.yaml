@@ -1,0 +1,77 @@
+abstract: We present a gravitational wave (GW) analysis of an extensive series of
+  three-dimensional magnetohydrodynamical core-collapse simulations. Our 25 models
+  are based on a 15 M\&sun; progenitor stemming from (i) stellar evolution calculations;
+  (ii) a spherically symmetric effective general relativistic potential, either the
+  Lattimer-Swesty (with three possible compressibilities) or the Shen equation of
+  state for hot, dense matter; and (iii) a neutrino parametrisation scheme that is
+  accurate until about 5 ms postbounce. For three representative models, we also included
+  long-term neutrino physics by means of a leakage scheme, which is based on partial
+  implementation of the isotropic diffusion source approximation (IDSA). We systematically
+  investigated the effects of the equation of state, the initial rotation rate, and
+  both the toroidal and the poloidal magnetic fields on the GW signature. We stress
+  the importance of including of postbounce neutrino physics, since it quantitatively
+  alters the GW signature. Slowly rotating models, or those that do not rotate at
+  all, show GW emission caused by prompt and proto-neutron star (PNS) convection.
+  Moreover, the signal stemming from prompt convection allows for the distinction
+  between the two different nuclear equations of state indirectly by different properties
+  of the fluid instabilities. For simulations with moderate or even fast rotation
+  rates, we only find the axisymmetric type I wave signature at core bounce. In line
+  with recent results, we could confirm that the maximum GW amplitude scales roughly
+  linearly with the ratio of rotational to gravitational energy at core bounce below
+  a threshold value of about 10\%. We point out that models set up with an initial
+  central angular velocity of 2pi rad s-1 or faster show nonaxisymmetric narrow-band
+  GW radiation during the postbounce phase. This emission process is caused by a low
+  T/\vert{}W\vert{} dynamical instability. Apart from these two points, we show that
+  it is generally very difficult to discern the effects of the individual features
+  of the input physics in a GW signal from a rotating core-collapse supernova that
+  can be attributed unambiguously to a specific model. Weak magnetic fields do not
+  notably influence the dynamical evolution of the core and thus the GW emission.
+  However, for strong initial poloidal magnetic fields (\greaterequivlnt{}1012 G),
+  the combined action of flux-freezing and field winding leads to conditions where
+  the ratio of magnetic field pressure to matter pressure reaches about unity which
+  leads to the onset of a jet-like supernova explosion. The collimated bipolar out-stream
+  of matter is then reflected in the emission of a type IV GW signal. In contradiction
+  to axisymmetric simulations, we find evidence that nonaxisymmetric fluid modes can
+  counteract or even suppress jet formation for models with strong initial toroidal
+  magnetic fields. The results of models with continued neutrino emission show that
+  including of the deleptonisation during the postbounce phase is an indispensable
+  issue for the quantitative prediction of GWs from core-collapse supernovae, because
+  it can alter the GW amplitude up to a factor of 10 compared to a pure hydrodynamical
+  treatment. Our collapse simulations indicate that corresponding events in our Galaxy
+  would be detectable either by LIGO, if the source is rotating, or at least by the
+  advanced LIGO detector, if it is not or only slowly rotating.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...514A..51S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.1570
+author: Scheidegger, S. and Käppeli, R. and Whitehouse, S. C. and Fischer, T. and
+  Liebendörfer, M.
+author_list:
+- family: Scheidegger
+  given: S.
+- family: Käppeli
+  given: R.
+- family: Whitehouse
+  given: S. C.
+- family: Fischer
+  given: T.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-10 16:24:02 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1051/0004-6361/200913220
+eid: A51
+eprint: '1001.1570'
+journal: \aap
+keywords: 'gravitational waves, supernovae: general, hydrodynamics, neutrinos, stars:
+  rotation, stars: neutron'
+month: May
+pages: A51
+papis_id: 7ff68830e2d027d5454ca835bc9e069d
+primaryclass: astro-ph.HE
+ref: scheidegger.s.2010a
+title: The influence of model parameters on the prediction of gravitational wave signals
+  from stellar core collapse
+type: article
+volume: '514'
+year: '2010'

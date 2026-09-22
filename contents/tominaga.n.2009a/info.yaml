@@ -1,0 +1,54 @@
+abstract: Shock breakout is the brightest radiative phenomenon in a Type II supernova
+  (SN). Although it was predicted to be bright, direct observation is difficult due
+  to the short duration and X-ray/ultraviolet-peaked spectra. First entire observations
+  of the shock breakouts of Type II Plateau SNe (SNe IIP) were reported in 2008 by
+  ultraviolet and optical observations by the Galaxy Evolution Explorer satellite
+  and supernova legacy survey (SNLS), named SNLS-04D2dc and SNLS-06D1jd. We present
+  multicolor light curves of an SN IIP, including the shock breakout and plateau,
+  calculated with a multigroup radiation hydrodynamical code STELLA and an evolutionary
+  progenitor model. The synthetic multicolor light curves reproduce well the observations
+  of SNLS-04D2dc. This is the first study to reproduce the ultraviolet light curve
+  of the shock breakout and the optical light curve of the plateau consistently. We
+  conclude that SNLS-04D2dc is the explosion with a canonical explosion energy 1.2
+  \texttimes{} 1051 erg and that its progenitor is a star with a zero-age main-sequence
+  mass 20 M sun and a presupernova radius 800 R sun. The model demonstrates that the
+  peak apparent B-band magnitude of the shock breakout would be m B ~ 26.4 mag if
+  an SN identical to SNLS-04D2dc occurs at a redshift z = 1, which can be reached
+  by 8m-class telescopes. The result evidences that the shock breakout has a great
+  potential to detect SNe IIP at z gsim 1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...705L..10T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.2162
+author: Tominaga, N. and Blinnikov, S. and Baklanov, P. and Morokuma, T. and Nomoto,
+  K. and Suzuki, T.
+author_list:
+- family: Tominaga
+  given: N.
+- family: Blinnikov
+  given: S.
+- family: Baklanov
+  given: P.
+- family: Morokuma
+  given: T.
+- family: Nomoto
+  given: K.
+- family: Suzuki
+  given: T.
+date-added: 2017-08-11 01:20:10 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/705/1/L10
+eprint: '0908.2162'
+journal: \apjl
+keywords: 'radiative transfer, shock waves, stars: evolution, supernovae: general,
+  supernovae: individual: SNLS-04D2dc'
+month: November
+pages: L10-L14
+papis_id: 66803c948634ca4cd3cb43f4e4a179f2
+primaryclass: astro-ph.HE
+ref: tominaga.n.2009a
+title: 'Properties of Type II Plateau Supernova SNLS-04D2dc: Multicolor Light Curves
+  of Shock Breakout and Plateau'
+type: article
+volume: '705'
+year: '2009'

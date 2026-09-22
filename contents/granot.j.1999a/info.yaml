@@ -1,0 +1,41 @@
+abstract: 'Gamma-ray burst (GRB) afterglow is reasonably described by synchrotron
+  emission from relativistic blast waves at cosmological distances. We perform detailed
+  calculations taking into account the effect of synchrotron self-absorption. We consider
+  emission from the whole region behind the shock front, and use the Blandford-McKee
+  self-similar solution to describe the fluid behind the shock. We calculate the spectra
+  and the observed image of a GRB afterglow near the self-absorption frequency, nua,
+  and derive an accurate expression for nua. We show that the image is rather homogeneous
+  for nu<nua, as opposed to the bright ring at the outer edge and the dim center,
+  which appear at higher frequencies. We compare the spectra we obtain to radio observations
+  of GRB 970508. We combine the calculations of the spectra near the self-absorption
+  frequency with other parts of the spectra and obtain revised estimates for the physical
+  parameters of the burst: E52=0.53, epsiloe=0.59, epsiloB=0.014, n1=3.0. These estimates
+  different by up to 2 orders of magnitude from the estimates based on an approximate
+  spectrum.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...527..236G
+arxivurl: http://arxiv.org/abs/astro-ph/9808007
+author: Granot, J. and Piran, T. and Sari, R.
+author_list:
+- family: Granot
+  given: J.
+- family: Piran
+  given: T.
+- family: Sari
+  given: R.
+date-added: 2017-08-11 02:11:43 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308052
+eprint: astro-ph/9808007
+journal: \apj
+keywords: 'GAMMA RAYS: BURSTS, GAMMA RAYS: THEORY, RADIATION MECHANISMS: NONTHERMAL,
+  SHOCK WAVES, Gamma Rays: Bursts, Gamma Rays: Theory, Radiation Mechanisms: Nonthermal,
+  Shock Waves'
+month: December
+pages: 236--246
+papis_id: b95cd25313327e43dc4bb9e93a41b656
+ref: granot.j.1999a
+title: Synchrotron Self-Absorption in Gamma-Ray Burst Afterglow
+type: article
+volume: '527'
+year: '1999'

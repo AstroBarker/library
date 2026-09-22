@@ -1,0 +1,109 @@
+abstract: This paper discusses Swift observations of the gamma-ray burst GRB 050315
+  (z=1.949) from 80 s to 10 days after the onset of the burst. The X-ray light curve
+  displayed a steep early decay (t-5) for ~200 s and several breaks. However, both
+  the prompt hard X-ray/gamma-ray emission (observed by the BAT) and the first ~300
+  s of X-ray emission (observed by the XRT) can be explained by exponential decays,
+  with similar decay constants. Extrapolating the BAT light curve into the XRT band
+  suggests that the rapidly decaying, early X-ray emission was simply a continuation
+  of the fading prompt emission; this strong similarity between the prompt gamma-ray
+  and early X-ray emission may be related to the simple temporal and spectral character
+  of this X-ray-rich GRB. The prompt (BAT) spectrum was steep down to ~15 keV and
+  appeared to continue through the XRT bandpass, implying a low peak energy, inconsistent
+  with the Amati relation. Following the initial steep decline, the X-ray afterglow
+  did not fade for ~1.2\texttimes{}104 s, after which time it decayed with a temporal
+  index of alpha~0.7, followed by a second break at ~2.5\texttimes{}105 s to a slope
+  of alpha~2. The apparent ``plateau'' in the X-ray light curve, after the early rapid
+  decay, makes this one of the most extreme examples of the steep-flat-steep X-ray
+  light curves revealed by Swift. If the second afterglow break is identified with
+  a jet break, then the jet opening angle was theta0~5deg, implying Egamma>~1050 ergs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...638..920V
+arxivurl: http://arxiv.org/abs/astro-ph/0510677
+author: Vaughan, S. and Goad, M. R. and Beardmore, A. P. and O'Brien, P. T. and Osborne,
+  J. P. and Page, K. L. and Barthelmy, S. D. and Burrows, D. N. and Campana, S. and
+  Cannizzo, J. K. and Capalbi, M. and Chincarini, G. and Cummings, J. R. and Cusumano,
+  G. and Giommi, P. and Godet, O. and Hill, J. E. and Kobayashi, S. and Kumar, P.
+  and La Parola, V. and Levan, A. and Mangano, V. and Mészáros, P. and Moretti, A.
+  and Morris, D. C. and Nousek, J. A. and Pagani, C. and Palmer, D. M. and Racusin,
+  J. L. and Romano, P. and Tagliaferri, G. and Zhang, B. and Gehrels, N.
+author_list:
+- family: Vaughan
+  given: S.
+- family: Goad
+  given: M. R.
+- family: Beardmore
+  given: A. P.
+- family: O'Brien
+  given: P. T.
+- family: Osborne
+  given: J. P.
+- family: Page
+  given: K. L.
+- family: Barthelmy
+  given: S. D.
+- family: Burrows
+  given: D. N.
+- family: Campana
+  given: S.
+- family: Cannizzo
+  given: J. K.
+- family: Capalbi
+  given: M.
+- family: Chincarini
+  given: G.
+- family: Cummings
+  given: J. R.
+- family: Cusumano
+  given: G.
+- family: Giommi
+  given: P.
+- family: Godet
+  given: O.
+- family: Hill
+  given: J. E.
+- family: Kobayashi
+  given: S.
+- family: Kumar
+  given: P.
+- family: La Parola
+  given: V.
+- family: Levan
+  given: A.
+- family: Mangano
+  given: V.
+- family: Mészáros
+  given: P.
+- family: Moretti
+  given: A.
+- family: Morris
+  given: D. C.
+- family: Nousek
+  given: J. A.
+- family: Pagani
+  given: C.
+- family: Palmer
+  given: D. M.
+- family: Racusin
+  given: J. L.
+- family: Romano
+  given: P.
+- family: Tagliaferri
+  given: G.
+- family: Zhang
+  given: B.
+- family: Gehrels
+  given: N.
+date-added: 2017-08-11 04:47:47 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/499069
+eprint: astro-ph/0510677
+journal: \apj
+keywords: 'Gamma Rays: Bursts, X-rays: individual (GRB 050315)'
+month: February
+pages: 920--929
+papis_id: 32910e4eee991efb7232188f70ae7b73
+ref: vaughan.s.2006
+title: Swift Observations of the X-Ray-Bright GRB 050315
+type: article
+volume: '638'
+year: '2006'

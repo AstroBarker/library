@@ -1,0 +1,47 @@
+abstract: Observations of metal-poor stars indicate that at least two different nucleosynthesis
+  sites contribute to the production of r-process elements. One site is responsible
+  for the production of light r-process elements Z \lessequivlnt{} 50, while the other
+  produces the heavy r-process elements. We have analyzed recent observations of metal-poor
+  stars selecting only stars that are enriched in light r-process elements and poor
+  in heavy r-process elements. We find a strong correlation between the observed abundances
+  of the N = 50 elements (Sr, Y and Zr) and Fe. It suggest that neutrino-driven winds
+  from core-collapse supernova are the main site for the production of these elements.
+  We explore this possibility by performing nucleosynthesis calculations based on
+  long-term Boltzmann neutrino transport simulations. We use an equation of state
+  that reproduces recent constrains on the nuclear symmetry energy. We predict that
+  the early ejecta is neutron rich with Ye \texttildelow{} 0.48, it becomes proton
+  rich around 4 s and reaches Ye = 0.586 at 9 s when our simulation stops. The nucleosynthesis
+  in this model produces elements between Zn and Mo, including 92Mo. The elemental
+  abundances are consistent with the observations of the metal-poor star HD 12263.
+  For the elements between Ge and Mo, we produce mainly the neutron-deficient isotopes.
+  This prediction can be confirmed by observations of isotopic abundances in metal-poor
+  stars. No elements heavier than Mo (Z = 42) and no heavy r-process elements are
+  produced in our calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014JPhG...41d4008M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1309.5477
+author: Martínez-Pinedo, G. and Fischer, T. and Huther, L.
+author_list:
+- family: Martínez-Pinedo
+  given: G.
+- family: Fischer
+  given: T.
+- family: Huther
+  given: L.
+date-added: 2017-08-10 13:53:02 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0954-3899/41/4/044008
+eid: 044008
+eprint: '1309.5477'
+journal: Journal of Physics G Nuclear Physics
+month: April
+number: '4'
+pages: 044008
+papis_id: d06a970fb91ede1c2640886c8e09f356
+primaryclass: astro-ph.HE
+ref: martinez_pinedo.g.2014
+title: Supernova neutrinos and nucleosynthesis
+type: article
+volume: '41'
+year: '2014'

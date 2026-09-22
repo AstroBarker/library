@@ -1,0 +1,47 @@
+abstract: We implement a second-order accurate constrained transport (CT) magnetohydrodynamics
+  (MHD) module with first-order flux correction in the open-source, adaptive mesh
+  refinement (AMR), GPU-accelerated code quokka, supporting both ideal and resistive
+  (constant Ohmic) regimes. For computing and averaging the electromotive forces (EMFs)
+  at cell edges, the basis of any CT-MHD method, we experiment with a wide range of
+  recent, state-of-the-art schemes, together with different reconstruction schemes.
+  Alongside these, we develop a new EMF compute scheme that requires fewer reconstruction
+  steps than existing approaches. We evaluate these scheme combinations on the basis
+  of accuracy, stability, and GPU throughput, and demonstrate that our new scheme
+  achieves accuracy comparable to the best-in-class existing methods, together with
+  greater stability in reconnection-dominated flows and roughly 25--60% higher GPU
+  throughput. Using this scheme, quokka achieves excellent results across a wide range
+  of MHD flow regimes, reaching >50 million cell updates per GPU per second, with
+  >70% parallel efficiency out to >500 GPUs. Finally, we confirm that our CT implementation
+  preserves divergence-free magnetic fields (to machine precision) under AMR.
+author: Kriel, Neco and Cole-Kodikara, Elizabeth and Wibking, Benjamin and Krumholz,
+  Mark R. and He, Chong-Chong and Sarkar, Anish and Li, Pak Shing
+author_list:
+- family: Kriel
+  given: Neco
+- family: Cole-Kodikara
+  given: Elizabeth
+- family: Wibking
+  given: Benjamin
+- family: Krumholz
+  given: Mark R.
+- family: He
+  given: Chong-Chong
+- family: Sarkar
+  given: Anish
+- family: Li
+  given: Pak Shing
+doc_url: https://arxiv.org/pdf/2609.10816v2
+eprint: 2609.10816v2
+eprintclass: astro-ph.IM
+eprinttype: arxiv
+files:
+- kriel-neco-2026.pdf
+month: 9
+papis_id: c4268110757c32255f6501c99c07e5a7
+ref: kriel.neco.2026
+time-added: 2026-09-17-11:47:09
+title: Magnetising the quokka code with fast, second-order accurate, error-correcting
+  schemes for magnetohydrodynamics on GPUs
+type: article
+url: http://arxiv.org/abs/2609.10816v2
+year: 2026

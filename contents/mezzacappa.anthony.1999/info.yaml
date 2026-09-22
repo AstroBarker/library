@@ -1,0 +1,68 @@
+abstract: "Core collapse supernovae occupy a special place in the cosmic hierarchy
+  for their role in disseminating and producing most elements in the Universe heavier
+  than hydrogen and helium, without which life as we know it would not be possible.
+  These catastrophic events mark the end of a massive star's life and the birth of
+  a neutron star or a black hole, and are the most energetic explosions in the Cosmos.
+  Core collapse supernovae result when the iron core of a massive star becomes unstable
+  at the end of the star's evolution, collapses on itself, rebounds at ultra-high
+  densities, and produces a shock wave that will ultimately be responsible for disrupting
+  the star. As infalling core material passes through the shock, it is compressed
+  and heated, and the core nuclei are dissociated (broken up) at the expense of thermal,
+  pressure-producing energy behind the shock, thereby weakening it. In addition to
+  this energy loss, energy is carried away from the shocked region by massless particles
+  know as {\\^a}\x80\x9Cneutrinos{\\^a}\x80\x9D. The shock stalls, and is later thought
+  to be revived by a {\\^a}\x80\x9Cneutrino heating{\\^a}\x80\x9D mechanism. At the
+  time the shock stalls, the core consists of an inner {\\^a}\x80\x9Cneutrinosphere{\\^a}\x80\x9D
+  radiating neutrinos and {\\^a}\x80\x9Cantineutrinos{\\^a}\x80\x9D of three {\\^a}\x80\x9Cflavors{\\^a}\x80\x9D:
+  {\\^a}\x80\x9Celectron{\\^a}\x80\x9D, {\\^a}\x80\x9Cmuon{\\^a}\x80\x9D, and {\\^a}\x80\x9Ctau{\\^a}\x80\x9D
+  neutrinos and their antineutrinos. This inner core will ultimately radiate away
+  its thermal energy, cool, and go on to form a neutron star or a black hole. Revival
+  of the stalled shock above the neutrinosphere is mediated by the absorption of electron
+  neutrinos and antineutrinos emerging from the radiating proto-neutron star. This
+  heating depends sensitively on the neutrino luminosities, spectra, and distribution
+  of neutrino direction cosines in the region behind the shock. In turn, this depends
+  on the neutrino transport through three regions: the {\\^a}\x80\x9Cneutrino-thick{\\^a}\x80\x9D,
+  diffusion region deep within the core below the neutrinosphere, the {\\^a}\x80\x9Csemitransparent{\\^a}\x80\x9D
+  region encompassing the neutrinosphere, and the {\\^a}\x80\x9Cneutrino-thin{\\^a}\x80\x9D,
+  streaming region at larger radii. Sufficient accuracy for a definitive simulation
+  of the supernova outcome can be obtained only via a solution of the neutrino Boltzmann
+  transport equations and their coupling to the hydrodynamics equations governing
+  the evolution of the core material. In this article we present a numerical method
+  to solve the neutrino Boltzmann equations coupled to the core hydrodynamics. Spherical
+  symmetry is assumed, but our methods extend to multidimensional Boltzmann transport
+  simulations. (With the assumption of spherical symmetry, radius is the only spatial
+  variable, rendering the simulation, at least as far as the spatial dimensions are
+  concerned, one-dimensional. However, as we will discuss, the Boltzmann equation
+  is a {\\^a}\x80\x9Cphase space{\\^a}\x80\x9D equation in radius and neutrino direction
+  cosine and energy, and therefore, inherently multidimensional even when spherical
+  symmetry is assumed.) We also present the results of comparisons of {\\^a}\x80\x9Cmultigroup
+  flux-limited diffusion{\\^a}\x80\x9D (approximate) neutrino transport and Boltzmann
+  (exact) neutrino transport in post-core bounce supernova environments, with an eye
+  toward the quantities central to the neutrino-heating, shock-revival mechanism.
+  Multigroup flux-limited diffusion is the most sophisticated transport approximation
+  implemented thus far in core collapse supernova simulations, and will be described
+  in some detail in this article. Our results demonstrate that differences significant
+  to shock revival are obtained with the two transport schemes, supporting the claim
+  that accurate neutrino transport is paramount in simulations of these important
+  cosmic events. We discuss the ramifications our results have for our ongoing simulations
+  of core collapse supernovae with exact Boltzmann neutrino transport."
+author: Mezzacappa, Anthony and Messer, O.E.B.
+author_list:
+- family: Mezzacappa
+  given: Anthony
+- family: Messer
+  given: O.E.B.
+doi: https://doi.org/10.1016/S0377-0427(99)00162-4
+issn: 0377-0427
+journal: Journal of Computational and Applied Mathematics
+keywords: Radiation transport, Neutrinos, Supernovae, Boltzmann equation, Implicit
+  methods
+number: '1'
+pages: 281--319
+papis_id: 026267a9b8a260a4396187c6fff7809e
+ref: mezzacappa.anthony.1999
+title: Neutrino transport in core collapse supernovae
+type: article
+url: http://www.sciencedirect.com/science/article/pii/S0377042799001624
+volume: '109'
+year: '1999'

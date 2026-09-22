@@ -1,0 +1,36 @@
+abstract: Results are presented from numerical simulations of the early stages of
+  the explosion of SN 1987A. Using a two-dimensional cylindrical geometry version
+  of a smooth particle hydrodynamics code, the explosion is followed for three months
+  to investigate both the early hydrodynamical instabilities and the effect of the
+  subsequent radioactive decay of Ni-56 and Co-56 with half-lives of 6.1 and 77.8
+  days, respectively. It is shown that the mixing induced by hydrodynamical instabilities
+  occurring during the first few hours is substantially modified at later time by
+  the radioactive decay of Ni-56 and Co-56. The inner cavity of the expanding supernova
+  remnant fills up with nickel, its decay products thus forming a giant 'nickel bubble'.
+  The peak velocity of the nickel increases by approximately 30 percent after the
+  decays. While these results adequately model the core of the observed Fe line profiles,
+  they fail to reproduce the high velocity wings of the spectra.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...370L..81H
+author: Herant, M. and Benz, W.
+author_list:
+- family: Herant
+  given: M.
+- family: Benz
+  given: W.
+date-added: 2017-08-11 01:53:22 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/185982
+journal: \apjl
+keywords: Computerized Simulation, Magnetohydrodynamic Stability, Stellar Models,
+  Supernova 1987a, Two Dimensional Models, Cobalt Isotopes, Computational Astrophysics,
+  Nickel Isotopes, Radioactive Decay
+month: April
+pages: L81-L84
+papis_id: 78be1f03d0e0eb59c873bd165c28442d
+ref: herant.m.1991
+title: Hydrodynamical instabilities and mixing in SN 1987A - Two-dimensional simulations
+  of the first 3 months
+type: article
+volume: '370'
+year: '1991'

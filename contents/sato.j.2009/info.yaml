@@ -1,0 +1,40 @@
+abstract: The physical processes involved in the advective-acoustic instability are
+  investigated with two-dimensional numerical simulations. Simple toy models, developed
+  in a companion paper, are used to describe the coupling between acoustic and entropy/vorticity
+  waves, produced either by a stationary shock or by the deceleration of the flow.
+  Using two Eulerian codes based on different second-order upwind schemes, we confirm
+  the results of the perturbative analysis. The numerical convergence with respect
+  to the computation mesh size is studied with one-dimensional simulations. We demonstrate
+  that the numerical accuracy of the quantities that depend on the physics of the
+  shock is limited to a linear convergence. We argue that this property is likely
+  to be true for most current numerical schemes dealing with standing accretion shock
+  instability in the core-collapse problem, and could be solved by the use of advanced
+  techniques for the numerical treatment of the shock. We propose a strategy to choose
+  the mesh size for an accurate treatment of the advective-acoustic coupling in future
+  numerical simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694..833S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.2303
+author: Sato, J. and Foglizzo, T. and Fromang, S.
+author_list:
+- family: Sato
+  given: J.
+- family: Foglizzo
+  given: T.
+- family: Fromang
+  given: S.
+date-added: 2017-08-10 21:01:50 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/694/2/833
+eprint: '0809.2303'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, shock waves, supernovae: general'
+month: April
+pages: 833--841
+papis_id: ffb88d9cb0e3f737492474165d0bb7f9
+ref: sato.j.2009
+title: A Simple Toy Model of the Advective-Acoustic Instability. II. Numerical Simulations
+type: article
+volume: '694'
+year: '2009'

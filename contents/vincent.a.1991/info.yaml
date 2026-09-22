@@ -1,0 +1,33 @@
+abstract: A direct numerical simulation at resolution 240-cubed is used to obtain
+  a statistically stationary three-dimensional homogeneous and isotropic turbulent
+  field at a Reynolds number around 1000. The energy spectrum displays an inertial
+  subrange. The velocity derivative distribution, known to be strongly non-Gaussian,
+  is found to be close to, but not, exponential. The nth-order moments of this distribution,
+  as well as the velocity structure functions, do not scale with n as predicted by
+  intermittency models. Visualization of the flow confirms the previous finding that
+  the strongest vorticity is organized in very elongated thin tubes. The width of
+  these tubes is of the order of a few dissipation scales, while their length can
+  reach the integral scale of the flow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991JFM...225....1V
+author: Vincent, A. and Meneguzzi, M.
+author_list:
+- family: Vincent
+  given: A.
+- family: Meneguzzi
+  given: M.
+date-added: 2017-08-11 06:58:57 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1017/S0022112091001957
+journal: Journal of Fluid Mechanics
+keywords: Computerized Simulation, Energy Spectra, Flow Visualization, Homogeneous
+  Turbulence, Probability Distribution Functions, Reynolds Number, Eigenvectors, Navier-Stokes
+  Equation, Three Dimensional Models, Turbulent Flow, Vorticity
+month: April
+pages: 1--20
+papis_id: 5d27e2e9d6b018fc627e0c82e0c0080c
+ref: vincent.a.1991
+title: The spatial structure and statistical properties of homogeneous turbulence
+type: article
+volume: '225'
+year: '1991'

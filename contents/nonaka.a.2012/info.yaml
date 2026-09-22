@@ -1,0 +1,53 @@
+abstract: We extend our previous three-dimensional, full-star simulations of the final
+  hours of convection preceding ignition in Type Ia supernovae to higher resolution
+  using the adaptive mesh refinement capability of our low Mach number code, MAESTRO.
+  We report the statistics of the ignition of the first flame at an effective 4.34
+  km resolution and general flow field properties at an effective 2.17 km resolution.
+  We find that off-center ignition is likely, with radius of 50 km most favored and
+  a likely range of 40-75 km. This is consistent with our previous coarser (8.68 km
+  resolution) simulations, implying that we have achieved sufficient resolution in
+  our determination of likely ignition radii. The dynamics of the last few hot spots
+  preceding ignition suggest that a multiple ignition scenario is not likely. With
+  improved resolution, we can more clearly see the general flow pattern in the convective
+  region, characterized by a strong outward plume with a lower speed recirculation.
+  We show that the convective core is turbulent with a Kolmogorov spectrum and has
+  a lower turbulent intensity and larger integral length scale than previously thought
+  (on the order of 16 km s-1 and 200 km, respectively), and we discuss the potential
+  consequences for the first flames.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...745...73N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.3086
+author: Nonaka, A. and Aspden, A. J. and Zingale, M. and Almgren, A. S. and Bell,
+  J. B. and Woosley, S. E.
+author_list:
+- family: Nonaka
+  given: A.
+- family: Aspden
+  given: A. J.
+- family: Zingale
+  given: M.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:36:02 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/745/1/73
+eid: '73'
+eprint: '1111.3086'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: January
+pages: '73'
+papis_id: 5678e3f6abde034f39ed26ac757f2414
+primaryclass: astro-ph.HE
+ref: nonaka.a.2012
+title: High-resolution Simulations of Convection Preceding Ignition in Type Ia Supernovae
+  Using Adaptive Mesh Refinement
+type: article
+volume: '745'
+year: '2012'

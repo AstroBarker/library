@@ -1,0 +1,66 @@
+abstract: We present a large and updated stellar evolution database for low-, intermediate-,
+  and high-mass stars in a wide metallicity range, suitable for studying Galactic
+  and extragalactic simple and composite stellar populations using population synthesis
+  techniques. The stellar mass range is between ~0.5 and 10 Msolar with a fine mass
+  spacing. The metallicity [Fe/H] comprises 10 values ranging from -2.27 to 0.40,
+  with a scaled solar metal distribution. The initial He mass fraction ranges from
+  Y=0.245, for the more metal-poor composition, up to 0.303 for the more metal-rich
+  one, with DeltaY/DeltaZ~1.4. For each adopted chemical composition, the evolutionary
+  models have been computed without (canonical models) and with overshooting from
+  the Schwarzschild boundary of the convective cores during the central H-burning
+  phase. Semiconvection is included in the treatment of core convection during the
+  He-burning phase. The whole set of evolutionary models can be used to compute isochrones
+  in a wide age range, from ~30 Myr to ~15 Gyr. Both evolutionary models and isochrones
+  are available in several observational planes, employing an updated set of bolometric
+  corrections and color-Teff relations computed for this project. The number of points
+  along the models and the resulting isochrones is selected in such a way that interpolation
+  for intermediate metallicities not contained in the grid is straightforward; a simple
+  quadratic interpolation produces results of sufficient accuracy for population synthesis
+  applications.We compare our isochrones with results from a series of widely used
+  stellar evolution databases and perform some empirical tests for the reliability
+  of our models. Since this work is devoted to scaled solar chemical compositions,
+  we focus our attention on the Galactic disk stellar populations, employing multicolor
+  photometry of unevolved field main-sequence stars with precise Hipparcos parallaxes,
+  well-studied open clusters, and one eclipsing binary system with precise measurements
+  of masses, radii, and [Fe/H] of both components. We find that the predicted metallicity
+  dependence of the location of the lower, unevolved main sequence in the color magnitude
+  diagram (CMD) appears in satisfactory agreement with empirical data. When comparing
+  our models with CMDs of selected, well-studied, open clusters, once again we were
+  able to properly match the whole observed evolutionary sequences by assuming cluster
+  distance and reddening estimates in satisfactory agreement with empirical evaluations
+  of these quantities. In general, models including overshooting during the H-burning
+  phase provide a better match to the observations, at least for ages below ~4 Gyr.
+  At [Fe/H] around solar and higher ages (i.e., smaller convective cores) before the
+  onset of radiative cores, the selected efficiency of core overshooting may be too
+  high in our model, as well as in various other models in the literature. Since we
+  also provide canonical models, the reader is strongly encouraged to always compare
+  the results from both sets in this critical age range.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...612..168P
+arxivurl: http://arxiv.org/abs/astro-ph/0405193
+author: Pietrinferni, A. and Cassisi, S. and Salaris, M. and Castelli, F.
+author_list:
+- family: Pietrinferni
+  given: A.
+- family: Cassisi
+  given: S.
+- family: Salaris
+  given: M.
+- family: Castelli
+  given: F.
+date-added: 2017-08-11 04:24:04 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/422498
+eprint: astro-ph/0405193
+journal: \apj
+keywords: 'Galaxies: Stellar Content, Galaxy: Disk, Galaxy: Open Clusters and Associations:
+  General, Stars: Evolution, Stars: Horizontal-Branch'
+month: September
+pages: 168--190
+papis_id: 7da5d160a39891ead2f7854004a316a0
+ref: pietrinferni.a.2004
+title: A Large Stellar Evolution Database for Population Synthesis Studies. I. Scaled
+  Solar Models and Isochrones
+type: article
+volume: '612'
+year: '2004'

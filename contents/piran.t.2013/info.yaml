@@ -1,0 +1,53 @@
+abstract: Compact binary mergers are prime sources of gravitational waves (GWs), targeted
+  by current and next generation detectors. The question `what is the observable electromagnetic
+  (EM) signature of a compact binary merger?' is an intriguing one with crucial consequences
+  to the quest for GWs. We present a large set of numerical simulations that focus
+  on the EM signals that emerge from the dynamically ejected subrelativistic material.
+  These outflows produce on a time-scale of a day macronovae - short-lived infrared
+  (IR) to ultraviolet (UV) signals powered by radioactive decay. Like in regular supernovae
+  the interaction of this outflow with the surrounding matter inevitably leads to
+  a long-lasting remnant. We calculate the expected radio signals of these remnants
+  on time-scales longer than a year, when the subrelativistic ejecta dominate the
+  emission. We discuss their detectability in 1.4 GHz and 150 MHz and compare it with
+  an updated estimate of the detectability of short gamma-ray bursts' orphan afterglows
+  (which are produced by a different component of this outflow). We find that mergers
+  with characteristics similar to those of the Galactic neutron star binary population
+  (similar masses and typical circummerger Galactic disc density of \texttildelow{}1
+  cm-3) that take place at the detection horizon of advanced GW detectors (300 Mpc)
+  yield 1.4 GHz [150 MHz] signals of \texttildelow{}50 [300] muJy, for several years.
+  The signal on time-scales of weeks is dominated by the mildly and/or ultrarelativistic
+  outflow, which is not accounted for by our simulations, and is expected to be even
+  brighter. Upcoming all sky surveys are expected to detect a few dozen, and possibly
+  more, merger remnants at any given time thereby providing robust lower limits to
+  the mergers rate even before the advanced GW detectors become operational. The macronovae
+  signals from the same distance peak in the IR to UV range at an observed magnitude
+  that may be as bright as 22-23 about 10 h after the merger but dimmer, redder and
+  longer if the opacity is larger.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430.2121P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.6242
+author: Piran, T. and Nakar, E. and Rosswog, S.
+author_list:
+- family: Piran
+  given: T.
+- family: Nakar
+  given: E.
+- family: Rosswog
+  given: S.
+date-added: 2017-08-10 15:48:24 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/stt037
+eprint: '1204.6242'
+journal: \mnras
+keywords: 'gravitational waves, stars: neutron, radio continuum: general, surveys,
+  gamma-ray burst: general'
+month: April
+pages: 2121--2136
+papis_id: 6041f42ecfdd43c2cc9ada3c24f9c8b3
+primaryclass: astro-ph.HE
+ref: piran.t.2013
+title: The electromagnetic signals of compact binary mergers
+type: article
+volume: '430'
+year: '2013'

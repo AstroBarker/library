@@ -1,0 +1,53 @@
+abstract: Recent supernova (SN) observations have motivated renewed interest in SN
+  shock breakouts from stars surrounded by thick winds. In such events the interaction
+  with the wind powers the observed luminosity, and predictions include observable
+  hard X-rays. Wind breakouts on timescales of a day or longer are currently the most
+  probable for detection. Here, we study the signal that follows such events. We start
+  from the breakout of the radiation-mediated shock, finding that the breakout temperature
+  can vary significantly from one event to another (104 to 5 \texttimes{} 106 K) due
+  to possible deviation from thermal equilibrium. In general, events with longer breakout
+  pulse duration, t bo, are softer. We follow the observed radiation through the evolution
+  of the collisionless shock that forms after the breakout of the radiation-mediated
+  shock. We restrict the study of the collisionless shock evolution to cases where
+  the breakout itself is in thermal equilibrium, peaking in optical/UV. In these cases
+  the post-breakout emission contains two spectral components---soft (optical/UV)
+  and hard (X-rays and possibly soft gamma-rays). Right after the breakout pulse X-rays
+  are strongly suppressed, and they carry only a small fraction of the total luminosity.
+  The hard component becomes harder, and its luminosity rises quickly afterward, gaining
+  dominance at ~10-50 t bo. The ratio of the peak optical/UV to the peak X-ray luminosity
+  depends mostly on the breakout time. In early breakouts (t bo <~ 20 days for typical
+  parameters) they are comparable, while in late breakouts (t bo >~ 80 days for typical
+  parameters) the X-rays become dominant only after the total luminosity has dropped
+  significantly. In terms of prospects for X-ray and soft gamma-ray detections, it
+  is best to observe 100-500 days after explosions with breakout timescales between
+  a week and a month.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759..108S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.3437
+author: Svirski, G. and Nakar, E. and Sari, R.
+author_list:
+- family: Svirski
+  given: G.
+- family: Nakar
+  given: E.
+- family: Sari
+  given: R.
+date-added: 2017-08-10 16:02:14 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/2/108
+eid: '108'
+eprint: '1202.3437'
+journal: \apj
+keywords: 'stars: mass-loss, stars: winds, outflows, supernovae: general, supernovae:
+  individual: PTF 09uj SN 2006gy, X-rays: general'
+month: November
+pages: '108'
+papis_id: ec6b23ae527c79049c43cd13d14ed338
+primaryclass: astro-ph.HE
+ref: svirski.g.2012
+title: Optical to X-Ray Supernova Light Curves Following Shock Breakout through a
+  Thick Wind
+type: article
+volume: '759'
+year: '2012'

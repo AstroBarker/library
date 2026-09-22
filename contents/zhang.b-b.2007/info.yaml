@@ -1,0 +1,45 @@
+abstract: An early steep decay component following the prompt GRBs is commonly observed
+  in Swift XRT light curves, which is regarded as the tail emission of the prompt
+  gamma rays. Prompted by the observed strong spectral evolution in the tails of GRBs
+  060218 and 060614, we present a systematic time-resolved spectral analysis for the
+  Swift GRB tails detected between 2005 February and 2007 January. We select a sample
+  of 44 tails that are bright enough to perform time-resolved spectral analyses. Among
+  them 11 tails are smooth and without superimposing significant flares, and their
+  spectra have no significant temporal evolution. We suggest that these tails are
+  dominated by the curvature effect of the prompt gamma rays due to delay of propagation
+  of photons from large angles with respect to the line of sight. More interestingly,
+  33 tails show clear hard-to-soft spectral evolution, with 16 of them being smooth
+  tails directly following the prompt GRBs, and the others being superimposed with
+  large flares. We focus on the 16 clean, smooth tails and consider three toy models
+  to interpret the spectral evolution. The curvature effect of a structured jet and
+  a model invoking superposition of the curvature effect tail and a putative underlying
+  soft emission component cannot explain all the data. The third model, which invokes
+  an evolving exponential spectrum, seems to reproduce both the light curve and the
+  spectral evolution of all the bursts, including GRBs 060218 and 060614. More detailed
+  physical models are called for to understand the apparent evolution effect.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...666.1002Z
+arxivurl: http://arxiv.org/abs/astro-ph/0612246
+author: Zhang, B.-B. and Liang, E.-W. and Zhang, B.
+author_list:
+- family: Zhang
+  given: B.-B.
+- family: Liang
+  given: E.-W.
+- family: Zhang
+  given: B.
+date-added: 2017-08-11 05:00:13 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519548
+eprint: astro-ph/0612246
+journal: \apj
+keywords: 'Gamma Rays: Bursts'
+month: September
+pages: 1002--1011
+papis_id: 2afef6ff2f2e7d4ec967fe6511d0ebb6
+ref: zhang.b_b.2007
+title: A Comprehensive Analysis of Swift XRT Data. I. Apparent Spectral Evolution
+  of Gamma-Ray Burst X-Ray Tails
+type: article
+volume: '666'
+year: '2007'

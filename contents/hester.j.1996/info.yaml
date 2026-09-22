@@ -1,0 +1,109 @@
+abstract: Recently obtained Hubble Space Telescope WFPC2 images of the Crab Nebula
+  show that the emission-line filaments are dominated by structures that morphologically
+  appear to be the result of magnetic Rayleigh- Taylor (R-T) instabilities at the
+  interface between the pulsar-driven synchrotron nebula and a shell of swept- up
+  ejecta. We replace this morphological argument with a quantitative treatment of
+  the growth rate and characteristic wavelength of such instabilities. Using published
+  data on the rate of expansion of the synchrotron nebula and the density of the ejecta,
+  together with a wavelength for the instability measured from the WFPC2 images, we
+  calculate a magnetic field strength of \texttildelow{}540 muG. This is within a
+  factor of 2 of the canonical minimum energy equipartition field of 300 muG, and
+  probably closer than that to a more realistic estimate of the field at the edge
+  of the Crab.  Comparison of the detailed morphology and ionization structure of
+  the R-T fingers in the Crab with recent magnetohydrodynamical simulations which
+  follow the development of magnetic R-T instabilities into the nonlinear regime is
+  used to establish a sequence of filament properties which are determined by the
+  density of the shell of swept-up ejecta at the edge of the synchrotron nebula. When
+  the density is below a critical value, the interface is stable. For somewhat higher
+  densities R-T instabilities grow, but the field, which becomes aligned along the
+  length of the R-T fingers, is strong enough to prevent the development of secondary
+  Kelvin-Helmholtz (K-H) instabilities as the finger falls through the lighter medium.
+  At higher densities these K-H instabilities develop, but the field is still strong
+  enough to maintain a long streamer-like connection between the head of the filament
+  and the shell. In a few cases, the density of the shell is high enough that the
+  magnetic field is unable to prevent the fragmentation of R-T fingers, and the structure
+  becomes more characteristic of a nonmagnetic R-T instability. The magnetic field
+  is oriented along the length of an R-T finger, so material is free to "pour" into
+  the finger from above. In equilibrium, gradients in thermal pressure and effective
+  gravity must balance along field lines. As a result, loss of pressure support in
+  the fingers due to cooling enhances the flow of material into the fingers, "siphoning"
+  gas into the finger from above.  If an extended remnant of ejecta surrounds the
+  visible extent of the Crab, as has been suggested frequently, then the synchrotron
+  nebula is expanding through this extended remnant, sweeping up ejecta as it goes.
+  R-T instabilities channel this swept-up ejecta into the hierarchy of dense visible
+  filaments. It seems likely that the current system of filaments originated as a
+  result of R-T instabilities as the synchrotron nebula expanded out through more
+  uniformly distributed ejecta. If an extended remnant remains today, then filament
+  formation is an ongoing process.  The ionization structure of filaments is also
+  found to change in a systematic way as a function of the relative importance of
+  the magnetic field and the mass density.  Filaments which are dominated by the magnetic
+  field are confined by the field and have sharp, well defined edges. Filaments in
+  which the magnetic field is less dominant consist of high-density, low-ionization
+  cores embedded within more extended high-ionization material. This confirms a previous
+  suggestion that variations in magnetic confinement are an important caveat to published
+  interpretations of spectra of Crab filaments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...456..225H
+author: Hester, J. J. and Stone, J. M. and Scowen, P. A. and Jun, B.-I. and Gallagher
+  III, J. S. and Norman, M. L. and Ballester, G. E. and Burrows, C. J. and Casertano,
+  S. and Clarke, J. T. and Crisp, D. and Griffiths, R. E. and Hoessel, J. G. and Holtzman,
+  J. A. and Krist, J. and Mould, J. R. and Sankrit, R. and Stapelfeldt, K. R. and
+  Trauger, J. T. and Watson, A. and Westphal, J. A.
+author_list:
+- family: Hester
+  given: J. J.
+- family: Stone
+  given: J. M.
+- family: Scowen
+  given: P. A.
+- family: Jun
+  given: B.-I.
+- family: Gallagher III
+  given: J. S.
+- family: Norman
+  given: M. L.
+- family: Ballester
+  given: G. E.
+- family: Burrows
+  given: C. J.
+- family: Casertano
+  given: S.
+- family: Clarke
+  given: J. T.
+- family: Crisp
+  given: D.
+- family: Griffiths
+  given: R. E.
+- family: Hoessel
+  given: J. G.
+- family: Holtzman
+  given: J. A.
+- family: Krist
+  given: J.
+- family: Mould
+  given: J. R.
+- family: Sankrit
+  given: R.
+- family: Stapelfeldt
+  given: K. R.
+- family: Trauger
+  given: J. T.
+- family: Watson
+  given: A.
+- family: Westphal
+  given: J. A.
+date-added: 2017-08-11 04:48:40 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176643
+journal: \apj
+keywords: 'INSTABILITIES, ISM: INDIVIDUAL NAME: CRAB NEBULA, ISM: STRUCTURE, RADIATION
+  MECHANISMS: NONTHERMAL'
+month: January
+pages: '225'
+papis_id: 76a2d4b7d6579f6b96a06a45f96ef754
+ref: hester.j.1996
+title: WFPC2 Studies of the Crab Nebula. III. Magnetic Rayleigh-Taylor Instabilities
+  and the Origin of the Filaments
+type: article
+volume: '456'
+year: '1996'

@@ -1,0 +1,46 @@
+abstract: 'Aims: We measure the turbulent resistivity in the nonlinear regime of the
+  MRI, and evaluate the turbulent magnetic Prandtl number.  Methods: We perform a
+  set of numerical simulations with the Eulerian finite volume codes Athena and Ramses
+  in the framework of the shearing box model. We consider models including explicit
+  dissipation coefficients and magnetic field topologies such that the net magnetic
+  flux threading the box in both the vertical and azimuthal directions vanishes. Results:
+  We first demonstrate good agreement between the two codes by comparing the properties
+  of the turbulent states in simulations having identical microscopic diffusion coefficients
+  (viscosity and resistivity). We find the properties of the turbulence do not change
+  when the box size is increased in the radial direction, provided it is elongated
+  in the azimuthal direction. To measure the turbulent resistivity in the disk, we
+  impose a fixed electromotive force on the flow and measure the amplitude of the
+  saturated magnetic field that results. We obtain a turbulent resistivity that is
+  in rough agreement with mean field theories like the Second Order Smoothing Approximation.
+  The numerical value translates into a turbulent magnetic Prandtl number Pmt of order
+  unity. Pmt appears to be an increasing function of the forcing we impose. It also
+  becomes smaller as the box size is increased in the radial direction, in good agreement
+  with previous results obtained in very large boxes.  Conclusions: Our results are
+  in general agreement with other recently published papers studying the same problem
+  but using different methodology. Thus, our conclusion that Pmt is of order unity
+  appears robust.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...507...19F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.4422
+author: Fromang, S. and Stone, J. M.
+author_list:
+- family: Fromang
+  given: S.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-11 06:29:34 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1051/0004-6361/200912752
+eprint: '0906.4422'
+journal: \aap
+keywords: 'accretion, accretion disks, magnetohydrodynamics (MHD), methods: numerical'
+month: November
+pages: 19--28
+papis_id: 6c94f9b0e1e7e8b6670601bf99008cf1
+primaryclass: astro-ph.SR
+ref: fromang.s.2009
+title: Turbulent resistivity driven by the magnetorotational instability
+type: article
+volume: '507'
+year: '2009'

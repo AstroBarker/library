@@ -1,0 +1,45 @@
+abstract: We present an open-source update to the spherically symmetric, general-relativistic
+  hydrodynamics, core-collapse supernova (CCSN) code GR1D. The source code is available
+  at http://www.GR1Dcode.org. We extend its capabilities to include a general-relativistic
+  treatment of neutrino transport based on the moment formalisms of Shibata et al.
+  and Cardall et al. We pay special attention to implementing and testing numerical
+  methods and approximations that lessen the computational demand of the transport
+  scheme by removing the need to invert large matrices. This is especially important
+  for the implementation and development of moment-like transport methods in two and
+  three dimensions. A critical component of neutrino transport calculations is the
+  neutrino-matter interaction coefficients that describe the production, absorption,
+  scattering, and annihilation of neutrinos. In this article we also describe our
+  open-source neutrino interaction library NuLib (available at http://www.nulib.org).
+  We believe that an open-source approach to describing these interactions is one
+  of the major steps needed to progress toward robust models of CCSNe and robust predictions
+  of the neutrino signal. We show, via comparisons to full Boltzmann neutrino-transport
+  simulations of CCSNe, that our neutrino transport code performs remarkably well.
+  Furthermore, we show that the methods and approximations we employ to increase efficiency
+  do not decrease the fidelity of our results. We also test the ability of our general-relativistic
+  transport code to model failed CCSNe by evolving a 40-solar-mass progenitor to the
+  onset of collapse to a black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJS..219...24O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1411.7058
+author: O'Connor, E.
+author_list:
+- family: O'Connor
+  given: E.
+date-added: 2017-08-10 14:07:13 +0000
+date-modified: 2018-04-01 12:22:17 +0000
+doi: 10.1088/0067-0049/219/2/24
+eid: '24'
+eprint: '1411.7058'
+journal: \apjs
+keywords: 'black hole physics, hydrodynamics, neutrinos, radiative transfer, stars:
+  neutron, supernovae: general'
+month: August
+pages: '24'
+papis_id: 108c7b55af6269eb9c38b65633200d7c
+primaryclass: astro-ph.HE
+ref: o_connor.e.2015
+title: An Open-source Neutrino Radiation Hydrodynamics Code for Core-collapse Supernovae
+type: article
+volume: '219'
+year: '2015'

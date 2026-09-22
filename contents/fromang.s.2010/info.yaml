@@ -1,0 +1,46 @@
+abstract: 'Aims: This letter investigates the transport properties of MHD turbulence
+  induced by the magnetorotational instability at large Reynolds numbers Re when the
+  magnetic Prandtl number Pm is larger than unity.  Methods: Three MHD simulations
+  of the magnetorotational instability (MRI) in the unstratified shearing box with
+  zero net flux are presented. These simulations are performed with the code Zeus
+  and consider the evolution of the rate of angular momentum transport as Re is gradually
+  increased from 3125 to 12 500 while simultaneously keeping Pm = 4. To ensure that
+  the small scale features of the flow are well resolved, the resolution varies from
+  128 cells per disk scaleheight to 512 cells per scaleheight. The latter constitutes
+  the highest resolution of an MRI turbulence simulation to date.  Results: The rate
+  of angular momentum transport, measured using the alpha parameter, depends only
+  very weakly on the Reynolds number: alpha is found to be about 7 \texttimes{} 10-3
+  with variations around this mean value bounded by 15\% in all simulations. There
+  is no systematic evolution with Re. For the best resolved model, the kinetic energy
+  power spectrum tentatively displays a power-law range with an exponent -3/2, while
+  the magnetic energy is found to shift to smaller and smaller scales as the magnetic
+  Reynolds number increases. A couple of different diagnostics both suggest a well-defined
+  injection length of a fraction of a scaleheight.  Conclusions: The results presented
+  in this letter are consistent with the MRI being able to transport angular momentum
+  efficiently at large Reynolds numbers when Pm = 4 in unstratified zero net flux
+  shearing boxes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...514L...5F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.2382
+author: Fromang, S.
+author_list:
+- family: Fromang
+  given: S.
+date-added: 2017-08-11 02:17:57 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1051/0004-6361/201014284
+eid: L5
+eprint: '1004.2382'
+journal: \aap
+keywords: 'accretion, accretion disks, magnetohydrodynamics (MHD), methods: numerical'
+month: May
+pages: L5
+papis_id: baf5d7f6481908b3be7f5b51017df565
+primaryclass: astro-ph.HE
+ref: fromang.s.2010
+title: 'MHD simulations of the magnetorotational instability in a shearing box with
+  zero net flux: the case Pm = 4'
+type: article
+volume: '514'
+year: '2010'

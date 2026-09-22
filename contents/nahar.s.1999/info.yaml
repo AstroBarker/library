@@ -1,0 +1,35 @@
+abstract: A comprehensive and self-consistent set of new atomic data for photoionization
+  cross sections, sigmaPI, and total unified recombination rate coefficients, alphaR(T),
+  of oxygen ions are obtained. The calculations are carried out in the close coupling
+  approximation employing the R-matrix method. The unified treatment of total recombination
+  includes both the radiative and dielectronic processes. The analysis of astrophysical
+  spectra and ionization balance requires atomic data for all ionization stages of
+  an element, and the accuracy depends on the self-consistency and completeness of
+  data. In the present work the criterion of self-consistency between the rates for
+  the inverse processes of photoionization and recombination is satisfied in an ab
+  initio manner by employing an identical set of eigenfunction expansions in the calculations
+  for both atomic processes. State-specific recombination rate coefficients are also
+  presented for a large number of bound states. As a first application, the present
+  alphaR(T) are used to obtain ionization fractions of oxygen ions in plasmas in coronal
+  equilibrium. Ionization fractions in photoionization equilibrium can be readily
+  obtained by employing the present data for the total sigmaPI and foralphaR(T).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJS..120..131N
+author: Nahar, S. N.
+author_list:
+- family: Nahar
+  given: S. N.
+date-added: 2017-08-11 06:01:56 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/313173
+journal: \apjs
+keywords: ATOMIC DATA, ATOMIC PROCESSES, Atomic Data, Atomic Processes
+month: January
+pages: 131--145
+papis_id: dc18ba53c39077255cd5d2d271b00ec2
+ref: nahar.s.1999
+title: Electron-Ion Recombination Rate Coefficients, Photoionization Cross Sections,
+  and Ionization Fractions for Astrophysically Abundant Elements. II. Oxygen Ions
+type: article
+volume: '120'
+year: '1999'

@@ -1,0 +1,61 @@
+abstract: Observational evidence points to a red supergiant (RSG) progenitor for         SN
+  2023ixf. The progenitor candidate has been detected in         archival images at
+  wavelengths (>0.6 micron) where RSGs         typically emit profusely. This object
+  is distinctly variable in         the infrared (IR). We characterize the variability
+  using pre-         explosion mid-IR (3.6 and 4.5 micron) Spitzer and ground-based         near-IR
+  (JHKs) archival data jointly covering a duration of         around 19 yr. The IR
+  light curves exhibit significant         variability with RMS amplitudes in the
+  range of 0.2-0.4 mag,         increasing with decreasing wavelength. From a robust
+  period         analysis of the more densely sampled Spitzer data, we measure a         period
+  of 1091+/-71 days. We demonstrate using Gaussian Process         modeling that this
+  periodicity is also present in the near-IR         light curves, thus indicating
+  a common physical origin, which is         likely pulsational instability also seen
+  in other RSGs. We use         the period-luminosity relation for RSGs from the literature
+  to         derive a value of M\_K=-11.58+/-0.12 mag, corresponding to         log(L/L\_sun)
+  in the range 5.2-5.5 dex assuming an M spectral         type for the RSG progenitor
+  candidate. This gives an independent         estimate of its luminosity, unaffected
+  by uncertainties in         extinction and distance. Assuming the progenitor candidate         underwent
+  enhanced dust-driven mass-loss during the time of         these archival observations,
+  and using an empirical period-         luminosity-based mass-loss prescription,
+  we obtain a mass-loss         rate of around (2-4)x10\^-4 M\_sun/yr. Comparing the
+  above         luminosity with stellar evolution models, we infer an initial         mass
+  for the progenitor candidate of 20+/-4 M\_sun, making this         one of the most
+  massive progenitors for a Type II SN detected         to-date.
+archiveprefix: arXiv
+author: Soraisam, Monika D. and Szalai, Tamás and Van Dyk, Schuyler D. and Andrews,
+  Jennifer E. and Srinivasan, Sundar and Chun, Sang-Hyun and Matheson, Thomas and
+  Scicluna, Peter and Vasquez-Torres, Diego A.
+author_list:
+- family: Soraisam
+  given: Monika D.
+- family: Szalai
+  given: Tamás
+- family: Van Dyk
+  given: Schuyler D.
+- family: Andrews
+  given: Jennifer E.
+- family: Srinivasan
+  given: Sundar
+- family: Chun
+  given: Sang-Hyun
+- family: Matheson
+  given: Thomas
+- family: Scicluna
+  given: Peter
+- family: Vasquez-Torres
+  given: Diego A.
+doi: 10.48550/arXiv.2306.10783
+eid: arXiv:2306.10783
+eprint: '2306.10783'
+journal: arXiv e-prints
+keywords: Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Astrophysics
+  of Galaxies, Astrophysics - High Energy Astrophysical Phenomena
+month: June
+pages: arXiv:2306.10783
+papis_id: c0c854cb2ce234110db9f28956c5fe18
+primaryclass: astro-ph.SR
+ref: soraisam.monika.2023
+title: 'The SN 2023ixf Progenitor in M101: I. Infrared Variability'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2023arXiv230610783S
+year: '2023'

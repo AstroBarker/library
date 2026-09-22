@@ -1,0 +1,33 @@
+abstract: Interstellar molecular clouds have power-law size L and mass M distributions
+  of the form n(L)dL = L-alphaLdL and n(M)dM = M-alphaMdM, where M \propto{} LK is
+  also a power law. These relations are shown to result from the fractal and scale-free
+  nature of interstellar gas with power indices that are independent of distance.
+  The results are alphaL = 1 + D and alphaM = 1 + D/K for interstellar fractal dimension
+  D = 2.3$\pm$.3 and a value of K in the range 2.4-3.7, as determined from cloud surveys
+  in the literature. The same fractal dimension also results from the expected relation
+  D = K when the M(L) correlation includes many different surveys, spanning a range
+  of 1010 in mass. These results imply that interstellar CO clouds are the unresolved
+  parts of a pervasive fractal structure in the interstellar gas. The similarity between
+  n(M) for interstellar clouds and n(M) for globular clusters suggests that the clusters
+  formed inside fractal progenitor clouds at a nearly constant efficiency.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...471..816E
+author: Elmegreen, B. G. and Falgarone, E.
+author_list:
+- family: Elmegreen
+  given: B. G.
+- family: Falgarone
+  given: E.
+date-added: 2017-08-11 01:37:51 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/178009
+journal: \apj
+keywords: 'ISM: CLOUDS, ISM: STRUCTURE, TURBULENCE'
+month: November
+pages: '816'
+papis_id: fa58dcfb63f25931c8b7345a8c2b72b9
+ref: elmegreen.b.1996
+title: A Fractal Origin for the Mass Spectrum of Interstellar Clouds
+type: article
+volume: '471'
+year: '1996'

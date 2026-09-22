@@ -1,0 +1,47 @@
+abstract: There are a growing number of nearby supernovae (SNe) for which the progenitor
+  star is detected in archival pre-explosion imaging. From these images it is possible
+  to measure the progenitor's brightness a few years before explosion, and ultimately
+  estimate its initial mass. Previous work has shown that II-P and II-L SNe have red
+  supergiant (RSG) progenitors, and that the range of initial masses for these progenitors
+  seems to be limited to \lessequivlnt{} 17 M\&sun;. This is in contrast with the
+  cut-off of 25-30 M\&sun; predicted by evolutionary models, a result that is termed
+  the `red supergiant problem'. Here we investigate one particular source of systematic
+  error present in converting pre-explosion photometry into an initial mass, which
+  of the bolometric correction (BC) used to convert a single-band flux into a bolometric
+  luminosity. We show, using star clusters, that RSGs evolve to later spectral types
+  as they approach SN, which in turn causes the BC to become larger. Failure to account
+  for this results in a systematic underestimate of a star's luminosity, and hence
+  its initial mass. Using our empirically motivated BCs we reappraise the II-P and
+  II-L SNe that have their progenitors detected in pre-explosion imaging. Fitting
+  an initial mass function to these updated masses results in an increased upper mass
+  cut-off of Mhi = 19.0^{+2.5}\_{-1.3} M\&sun;, with a 95 per cent upper confidence
+  limit of <27 M\&sun;. Accounting for finite sample size effects and systematic uncertainties
+  in the mass-luminosity relationship raises the cut-off to Mhi = 25 M\&sun; (<33
+  M\&sun;, 95 per cent confidence). We therefore conclude that there is currently
+  no strong evidence for `missing' high-mass progenitors to core-collapse SNe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.474.2116D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1709.06116
+author: Davies, B. and Beasor, E. R.
+author_list:
+- family: Davies
+  given: B.
+- family: Beasor
+  given: E. R.
+date-added: 2018-08-03 08:13:36 -0400
+date-modified: 2018-08-03 08:13:37 -0400
+doi: 10.1093/mnras/stx2734
+eprint: '1709.06116'
+journal: \mnras
+keywords: 'stars: evolution, stars: late-type, stars: massive, supergiants, supernovae:
+  general'
+month: February
+pages: 2116--2128
+papis_id: ebf97ee90db0514244b67b02c7f5c550
+primaryclass: astro-ph.SR
+ref: davies.b.2018
+title: The initial masses of the red supergiant progenitors to Type II supernovae
+type: article
+volume: '474'
+year: '2018'

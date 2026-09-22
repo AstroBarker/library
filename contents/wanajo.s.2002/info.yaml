@@ -1,0 +1,62 @@
+abstract: The discovery of the second highly r-process-enhanced, extremely metal poor
+  star, CS 31082-001 ([Fe/H]=-2.9) has provided a powerful new tool for age determination
+  by virtue of the detection and measurement of the radioactive species uranium and
+  thorium. Because the half-life of 238U is one-third that of 232Th, the U-Th pair
+  can, in principle, provide a far more precise cosmochronometer than the Th-Eu pair
+  that has been used in previous investigations. In the application of this chronometer,
+  the age of (the progenitor of) CS 31082-001 can be regarded as the minimum age of
+  the Galaxy, and hence of the universe. One of the serious limitations of this approach,
+  however, is that predictions of the production ratio of U and Th have not been made
+  in the context of a realistic astrophysical model of the r-process. We have endeavored
+  to produce such a model, based on the ``neutrino winds'' that are expected to arise
+  from the nascent neutron star of a core-collapse supernova. In this model, the proto-neutron
+  star mass and the (asymptotic) neutrino sphere radius are assumed to be 2.0 Msolar
+  and 10 km, respectively. Recent hydrodynamic studies indicate that there may exist
+  difficulties in obtaining such a compact (massive and/or small in radius) remnant.
+  Nevertheless, we utilize this set of parameter choices since previous work suggests
+  that the third r-process peak (and thus U and Th) is hardly reached when one adopts
+  a less compact proto-neutron star in the framework of the neutrino-wind scenario.
+  The temperature and density histories of the material involved in the neutron-capture
+  processes are obtained with the assumption of a steady flow of the neutrino-powered
+  winds, with general relativistic effects taken into account. The electron fraction
+  is taken to be a free parameter, constant with time. The r-process nucleosynthesis
+  in these trajectories is calculated with a nuclear reaction network code including
+  actinides up to Z=100. The mass-integrated r-process yields, obtained by assuming
+  a simple time evolution of the neutrino luminosity, are compared to the available
+  spectroscopic elemental abundance data of CS 31082-001. As a result, the ``age''
+  of this star is determined to be 14.1+/-2.5 Gyr, in excellent agreement with lower
+  limits on the age of the universe estimated by other dating techniques, as well
+  as with other stellar radioactive age estimates. Future measurements of Pt and Pb
+  in this star, as well as expansion of searches for additional r-process-enhanced,
+  metal-poor stars (especially those in which both U and Th are measurable), are of
+  special importance to constrain the current astrophysical models for the r-process.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577..853W
+arxivurl: http://arxiv.org/abs/astro-ph/0206133
+author: Wanajo, S. and Itoh, N. and Ishimaru, Y. and Nozawa, S. and Beers, T. C.
+author_list:
+- family: Wanajo
+  given: S.
+- family: Itoh
+  given: N.
+- family: Ishimaru
+  given: Y.
+- family: Nozawa
+  given: S.
+- family: Beers
+  given: T. C.
+date-added: 2017-08-11 04:48:34 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342230
+eprint: astro-ph/0206133
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Abundances, Stars:
+  Supernovae: General'
+month: October
+pages: 853--865
+papis_id: 348e67e72f03ef2e75dcecf737948c86
+ref: wanajo.s.2002
+title: The r-Process in the Neutrino Winds of Core-Collapse Supernovae and U-Th Cosmochronology
+type: article
+volume: '577'
+year: '2002'

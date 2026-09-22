@@ -1,0 +1,46 @@
+abstract: The principles underlying a proposed class of black hole accretion models
+  are examined. The flows are generally referred to as ``convection-dominated'' and
+  are characterized by inward transport of angular momentum by thermal convection
+  and outward viscous transport, vanishing mass accretion, and vanishing local energy
+  dissipation. In this paper, we examine the viability of these ideas by explicitly
+  calculating the leading-order angular momentum transport of axisymmetric modes in
+  magnetized, differentially rotating, stratified flows. The modes are destabilized
+  by the generalized magnetorotational instability, including the effects of angular
+  velocity and entropy gradients. It is explicitly shown that modes that would be
+  stable in the absence of a destabilizing entropy gradient transport angular momentum
+  outward. There are no inward-transporting modes at all, unless the magnitude of
+  the (imaginary) Brunt-V{\"a}is{\"a}l{\"a} frequency is comparable to the epicyclic
+  frequency, a condition requiring substantial levels of dissipation. When inward-transporting
+  modes do exist, they appear at long wavelengths, unencumbered by magnetic tension.
+  Moreover, very general thermodynamic principles prohibit the complete recovery of
+  irreversible dissipative energy losses, a central feature of convection-dominated
+  models. Dissipationless flow is incompatible with the increasing inward entropy
+  gradient needed for the existence of inward-transporting modes. Indeed, under steady
+  conditions, dissipation of the free energy of differential rotation inevitably requires
+  outward angular momentum transport. Our results are in good agreement with global
+  MHD simulations, which find significant levels of outward transport and energy dissipation,
+  whether or not destabilizing entropy gradients are present.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...573..749B
+arxivurl: http://arxiv.org/abs/astro-ph/0201428
+author: Balbus, S. A. and Hawley, J. F.
+author_list:
+- family: Balbus
+  given: S. A.
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-11 00:36:24 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340767
+eprint: astro-ph/0201428
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Convection, Instabilities,
+  Magnetohydrodynamics: MHD, Turbulence'
+month: July
+pages: 749--753
+papis_id: 0032dae84ddba393e579e009d0cb704d
+ref: balbus.s.2002
+title: On the Nature of Angular Momentum Transport in Nonradiative Accretion Flows
+type: article
+volume: '573'
+year: '2002'

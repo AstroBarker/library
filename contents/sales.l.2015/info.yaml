@@ -1,0 +1,63 @@
+abstract: Observationally, the fraction of blue satellite galaxies decreases steeply
+  with host halo mass, and their radial distribution around central galaxies is significantly
+  shallower in massive (M\textasteriskcentered >= 1011 M\&sun;) than in Milky Way-like
+  systems. Theoretical models, based primarily on semi-analytical techniques, have
+  had a long-standing problem with reproducing these trends, instead predicting too
+  few blue satellites in general but also estimating a radial distribution that is
+  too shallow, regardless of primary mass. In this Letter, we use the Illustris cosmological
+  simulation to study the properties of satellite galaxies around isolated primaries.
+  For the first time, we find good agreement between theory and observations. We identify
+  the main source of this success relative to earlier work to be a consequence of
+  the large gas contents of satellites at infall, a factor \texttildelow{}5-10 times
+  larger than in semi-analytical models. Because of their relatively large gas reservoirs,
+  satellites can continue to form stars long after infall, with a typical time-scale
+  for star-formation to be quenched \texttildelow{}2 Gyr in groups but more than \texttildelow{}5
+  Gyr for satellites around Milky Way-like primaries. The gas contents we infer are
+  consistent with z = 0 observations of H I gas in galaxies, although we find large
+  discrepancies among reported values in the literature. A testable prediction of
+  our model is that the gas-to-stellar mass ratio of satellite progenitors should
+  vary only weakly with cosmic time.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.447L...6S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1410.7400
+author: Sales, L. V. and Vogelsberger, M. and Genel, S. and Torrey, P. and Nelson,
+  D. and Rodriguez-Gomez, V. and Wang, W. and Pillepich, A. and Sijacki, D. and Springel,
+  V. and Hernquist, L.
+author_list:
+- family: Sales
+  given: L. V.
+- family: Vogelsberger
+  given: M.
+- family: Genel
+  given: S.
+- family: Torrey
+  given: P.
+- family: Nelson
+  given: D.
+- family: Rodriguez-Gomez
+  given: V.
+- family: Wang
+  given: W.
+- family: Pillepich
+  given: A.
+- family: Sijacki
+  given: D.
+- family: Springel
+  given: V.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:30:34 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnrasl/slu173
+eprint: '1410.7400'
+journal: \mnras
+keywords: 'galaxies: evolution, galaxies: haloes, galaxies: structure'
+month: February
+pages: L6-L10
+papis_id: d3008915c58e23ae3438fb473f3cbefa
+ref: sales.l.2015
+title: The colours of satellite galaxies in the Illustris simulation
+type: article
+volume: '447'
+year: '2015'

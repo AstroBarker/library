@@ -1,0 +1,52 @@
+abstract: We report on phase-referenced very long baseline interferometry radio observations
+  of the Type IIb supernova 2011dh, at times t = 83 days and 179 days after the explosion
+  and at frequencies, respectively, of 22.2 and 8.4 GHz. We detected SN 2011dh at
+  both epochs. At the first epoch only an upper limit on SN 2011dh's angular size
+  was obtained, but at the second epoch, we determine the angular radius of SN 2011dh's
+  radio emission to be 0.25 $\pm$ 0.08 mas by fitting a spherical shell model directly
+  to the visibility measurements. At a distance of 8.4 Mpc, this angular radius corresponds
+  to a time-averaged (since t = 0) expansion velocity of the forward shock of 21,
+  000 \$\pm\$ 7000 km s-1. Our measured values of the radius of the emission region
+  are in excellent agreement with those derived from fitting synchrotron self-absorbed
+  models to the radio spectral energy distribution, providing strong confirmation
+  for the latter method of estimating the radius. We find that SN 2011dh's radius
+  evolves in a power-law fashion, with Rvpropt 0.92 \$\pm\$ 0.10.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...751..125B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.0771
+author: Bietenholz, M. F. and Brunthaler, A. and Soderberg, A. M. and Krauss, M. and
+  Zauderer, B. and Bartel, N. and Chomiuk, L. and Rupen, M. P.
+author_list:
+- family: Bietenholz
+  given: M. F.
+- family: Brunthaler
+  given: A.
+- family: Soderberg
+  given: A. M.
+- family: Krauss
+  given: M.
+- family: Zauderer
+  given: B.
+- family: Bartel
+  given: N.
+- family: Chomiuk
+  given: L.
+- family: Rupen
+  given: M. P.
+date-added: 2017-08-10 21:22:08 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/751/2/125
+eid: '125'
+eprint: '1201.0771'
+journal: \apj
+keywords: 'radio continuum: general, supernovae: individual: SN 2011dh'
+month: June
+pages: '125'
+papis_id: 71f1408b6c486a7685aea9add17e15d2
+primaryclass: astro-ph.HE
+ref: bietenholz.m.2012
+title: VLBI Observations of the Nearby Type IIb Supernova 2011dh
+type: article
+volume: '751'
+year: '2012'

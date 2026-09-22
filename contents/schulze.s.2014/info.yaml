@@ -1,0 +1,209 @@
+abstract: 'Context. At low redshift, a handful of gamma-ray bursts (GRBs) have been
+  discovered with luminosities that are substantially lower (Liso \lessequivlnt{}
+  1048.5 erg s-1) than the average of more distant ones (Liso \greaterequivlnt{} 1049.5
+  erg s-1). It has been suggested that the properties of several low-luminosity (low-L)
+  GRBs are due to shock break-out, as opposed to the emission from ultrarelativistic
+  jets. This has led to much debate about how the populations are connected.  Aims:
+  The burst at redshift z = 0.283 from 2012 April 22 is one of the very few examples
+  of intermediate-L GRBs with a gamma-ray luminosity of Liso ~ 1049.6-49.9 erg s-1
+  that have been detected up to now. With the robust detection of its accompanying
+  supernova SN 2012bz, it has the potential to answer important questions on the origin
+  of low- and high-L GRBs and the GRB-SN connection.  Methods: We carried out a spectroscopy
+  campaign using medium- and low-resolution spectrographs with 6-10-m class telescopes,
+  which covered a time span of 37.3 days, and a multi-wavelength imaging campaign,
+  which ranged from radio to X-ray energies over a duration of ~270 days. Furthermore,
+  we used a tuneable filter that is centred at Halpha to map star-formation in the
+  host and the surrounding galaxies. We used these data to extract and model the properties
+  of different radiation components and fitted the spectral energy distribution to
+  extract the properties of the host galaxy.  Results: Modelling the light curve and
+  spectral energy distribution from the radio to the X-rays revealed that the blast
+  wave expanded with an initial Lorentz factor of Gamma0 ~ 50, which is a low value
+  in comparison to high-L GRBs, and that the afterglow had an exceptionally low peak
+  luminosity density of \lessequivlnt{}2 \texttimes{} 1030 erg s-1 Hz-1 in the sub-mm.
+  Because of the weak afterglow component, we were able to recover the signature of
+  a shock break-out in an event that was not a genuine low-L GRB for the first time.
+  At 1.4 hr after the burst, the stellar envelope had a blackbody temperature of kBT
+  ~ 16 eV and a radius of ~7 \texttimes{} 1013 cm (both in the observer frame). The
+  accompanying SN 2012bz reached a peak luminosity of MV = -19.7 mag, which is 0.3
+  mag more luminous than SN 1998bw. The synthesised nickel mass of 0.58 M\&sun;, ejecta
+  mass of 5.87 M\&sun;, and kinetic energy of 4.10 \texttimes{} 1052 erg were among
+  the highest for GRB-SNe, which makes it the most luminous spectroscopically confirmed
+  SN to date. Nebular emission lines at the GRB location were visible, which extend
+  from the galaxy nucleus to the explosion site. The host and the explosion site had
+  close-to-solar metallicity. The burst occurred in an isolated star-forming region
+  with an SFR that is 1/10 of that in the galaxy''s nucleus.  Conclusions: While the
+  prompt gamma-ray emission points to a high-L GRB, the weak afterglow and the low
+  Gamma0 were very atypical for such a burst. Moreover, the detection of the shock
+  break-out signature is a new quality for high-L GRBs. So far, shock break-outs were
+  exclusively detected for low-L GRBs, while GRB 120422A had an intermediate Liso
+  of ~1049.6-49.9 erg s-1. Therefore, we conclude that GRB 120422A was a transition
+  object between low- and high-L GRBs, which supports the failed-jet model that connects
+  low-L GRBs that are driven by shock break-outs and high-L GRBs that are powered
+  by ultra-relativistic jets.  Appendices are available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...566A.102S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.3774
+author: Schulze, S. and Malesani, D. and Cucchiara, A. and Tanvir, N. R. and Krühler,
+  T. and de Ugarte Postigo, A. and Leloudas, G. and Lyman, J. and Bersier, D. and
+  Wiersema, K. and Perley, D. A. and Schady, P. and Gorosabel, J. and Anderson, J.
+  P. and Castro-Tirado, A. J. and Cenko, S. B. and De Cia, A. and Ellerbroek, L. E.
+  and Fynbo, J. P. U. and Greiner, J. and Hjorth, J. and Kann, D. A. and Kaper, L.
+  and Klose, S. and Levan, A. J. and Martín, S. and O'Brien, P. T. and Page, K. L.
+  and Pignata, G. and Rapaport, S. and Sánchez-Ramírez, R. and Sollerman, J. and Smith,
+  I. A. and Sparre, M. and Thöne, C. C. and Watson, D. J. and Xu, D. and Bauer, F.
+  E. and Bayliss, M. and Björnsson, G. and Bremer, M. and Cano, Z. and Covino, S.
+  and D'Elia, V. and Frail, D. A. and Geier, S. and Goldoni, P. and Hartoog, O. E.
+  and Jakobsson, P. and Korhonen, H. and Lee, K. Y. and Milvang-Jensen, B. and Nardini,
+  M. and Nicuesa Guelbenzu, A. and Oguri, M. and Pandey, S. B. and Petitpas, G. and
+  Rossi, A. and Sandberg, A. and Schmidl, S. and Tagliaferri, G. and Tilanus, R. P.
+  J. and Winters, J. M. and Wright, D. and Wuyts, E.
+author_list:
+- family: Schulze
+  given: S.
+- family: Malesani
+  given: D.
+- family: Cucchiara
+  given: A.
+- family: Tanvir
+  given: N. R.
+- family: Krühler
+  given: T.
+- family: de Ugarte Postigo
+  given: A.
+- family: Leloudas
+  given: G.
+- family: Lyman
+  given: J.
+- family: Bersier
+  given: D.
+- family: Wiersema
+  given: K.
+- family: Perley
+  given: D. A.
+- family: Schady
+  given: P.
+- family: Gorosabel
+  given: J.
+- family: Anderson
+  given: J. P.
+- family: Castro-Tirado
+  given: A. J.
+- family: Cenko
+  given: S. B.
+- family: De Cia
+  given: A.
+- family: Ellerbroek
+  given: L. E.
+- family: Fynbo
+  given: J. P. U.
+- family: Greiner
+  given: J.
+- family: Hjorth
+  given: J.
+- family: Kann
+  given: D. A.
+- family: Kaper
+  given: L.
+- family: Klose
+  given: S.
+- family: Levan
+  given: A. J.
+- family: Martín
+  given: S.
+- family: O'Brien
+  given: P. T.
+- family: Page
+  given: K. L.
+- family: Pignata
+  given: G.
+- family: Rapaport
+  given: S.
+- family: Sánchez-Ramírez
+  given: R.
+- family: Sollerman
+  given: J.
+- family: Smith
+  given: I. A.
+- family: Sparre
+  given: M.
+- family: Thöne
+  given: C. C.
+- family: Watson
+  given: D. J.
+- family: Xu
+  given: D.
+- family: Bauer
+  given: F. E.
+- family: Bayliss
+  given: M.
+- family: Björnsson
+  given: G.
+- family: Bremer
+  given: M.
+- family: Cano
+  given: Z.
+- family: Covino
+  given: S.
+- family: D'Elia
+  given: V.
+- family: Frail
+  given: D. A.
+- family: Geier
+  given: S.
+- family: Goldoni
+  given: P.
+- family: Hartoog
+  given: O. E.
+- family: Jakobsson
+  given: P.
+- family: Korhonen
+  given: H.
+- family: Lee
+  given: K. Y.
+- family: Milvang-Jensen
+  given: B.
+- family: Nardini
+  given: M.
+- family: Nicuesa Guelbenzu
+  given: A.
+- family: Oguri
+  given: M.
+- family: Pandey
+  given: S. B.
+- family: Petitpas
+  given: G.
+- family: Rossi
+  given: A.
+- family: Sandberg
+  given: A.
+- family: Schmidl
+  given: S.
+- family: Tagliaferri
+  given: G.
+- family: Tilanus
+  given: R. P. J.
+- family: Winters
+  given: J. M.
+- family: Wright
+  given: D.
+- family: Wuyts
+  given: E.
+date-added: 2017-08-10 16:51:25 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1051/0004-6361/201423387
+eid: A102
+eprint: '1401.3774'
+journal: \aap
+keywords: 'gamma-ray burst: individual: GRB 120422A, supernovae: individual: SN 2012bz,
+  dust, extinction, galaxies: ISM, galaxies: individual: GRB 120422A'
+month: June
+pages: A102
+papis_id: 160a6efa02aa1b2331b2d1966b5f7a96
+primaryclass: astro-ph.HE
+ref: schulze.s.2014
+title: 'GRB 120422A/SN 2012bz: Bridging the gap between low- and high-luminosity gamma-ray
+  bursts'
+type: article
+volume: '566'
+year: '2014'

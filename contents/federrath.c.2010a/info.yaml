@@ -1,0 +1,55 @@
+abstract: Star formation is such a complex process that accurate numerical tools are
+  needed to quantitatively examine the mass distribution and accretion of fragments
+  in collapsing, turbulent, magnetized gas clouds. To enable a numerical treatment
+  of this regime, we implemented sink particles in the adaptive mesh refinement (AMR)
+  hydrodynamics code FLASH. Sink particles are created in regions of local gravitational
+  collapse, and their trajectories and accretion can be followed over many dynamical
+  times. We perform a series of tests including the time integration of circular and
+  elliptical orbits, the collapse of a Bonnor-Ebert sphere, and a rotating, fragmenting
+  cloud core. We compare the collapse of a highly unstable singular isothermal sphere
+  to the theory by Shu and show that the sink particle accretion rate is in excellent
+  agreement with the theoretical prediction. To model eccentric orbits and close encounters
+  of sink particles accurately, we show that a very small time step is often required,
+  for which we implemented subcycling of the N-body system. We emphasize that a sole
+  density threshold for sink particle creation is insufficient in supersonic flows,
+  if the density threshold is below the opacity limit. In that case, the density can
+  exceed the threshold in strong shocks that do not necessarily lead to local collapse.
+  Additional checks for bound state, gravitational potential minimum, Jeans instability,
+  and converging flows are absolutely necessary for meaningful creation of sink particles.
+  We apply our new sink particle module for FLASH to the formation of a stellar cluster,
+  and compare to a smoothed particle hydrodynamics (SPH) code with sink particles.
+  Our comparison shows encouraging agreement of gas properties, indicated by column
+  density distributions and radial profiles, and of sink particle formation times
+  and positions. We find excellent agreement in the number of sink particles formed,
+  and in their accretion and mass distributions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713..269F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.4456
+author: Federrath, C. and Banerjee, R. and Clark, P. C. and Klessen, R. S.
+author_list:
+- family: Federrath
+  given: C.
+- family: Banerjee
+  given: R.
+- family: Clark
+  given: P. C.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-10 15:42:01 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/1/269
+eprint: '1001.4456'
+journal: \apj
+keywords: 'accretion, accretion disks, hydrodynamics, ISM: kinematics and dynamics,
+  methods: numerical, shock waves, stars: formation'
+month: April
+pages: 269--290
+papis_id: 5f1db62dbef169e0fa9b811385310e9a
+primaryclass: astro-ph.SR
+ref: federrath.c.2010a
+title: 'Modeling Collapse and Accretion in Turbulent Gas Clouds: Implementation and
+  Comparison of Sink Particles in AMR and SPH'
+type: article
+volume: '713'
+year: '2010'

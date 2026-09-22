@@ -1,0 +1,57 @@
+abstract: We report the discovery of a redshift z=6.56 galaxy lying behind the cluster
+  Abell 370. The object HCM 6A was found in a narrowband imaging survey using a 118
+  {\AA} bandpass filter centered at 9152 {\AA} in the Low-Resolution Imaging Spectrograph
+  (LRIS) camera on the 10 m Keck II telescope. Candidate Lyalpha emitters were identified
+  by the equivalent width of the emission and the absence of lower wavelength flux
+  in ultradeep broadband images. HCM 6A is the first galaxy to be confirmed at redshift
+  z>6 and has Wlambda(observed)= 190 {\AA}, flux=2.7\texttimes{}10-17 ergs cm-2 s-1.
+  Spectra obtained with LRIS confirm the emission line and the continuum break across
+  the line and show an asymmetric line profile with steep falloff on the blue side.
+  Deep Subaru near-infrared Cooled Infrared Spectrograph and Camera for OHS images
+  in J, H, and K' that extend the sampled continuum to longer wavelengths give a consistent
+  estimate of the continuum flux density in these line-free regions of (2.6+/-0.7)\texttimes{}10-30
+  ergs cm-2 s-1 Hz-1. The line width and strength, asymmetric profile, and very deep
+  spectral break are only consistent with the interpretation of the line as a redshifted
+  Lyalpha feature. From the detailed lensing model of this cluster, we estimate a
+  lensing amplification of 4.5 for this galaxy, which is located slightly over an
+  arcminute from the center of the cluster, for an unlensed flux of 6.5\texttimes{}10-18
+  ergs cm-2 s-1. The presence of such a galaxy suggests that the reionizing epoch
+  is beyond z=6.6. Based in part on data collected at the Subaru Telescope, which
+  is operated by the National Astronomical Society of Japan.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...568L..75H
+arxivurl: http://arxiv.org/abs/astro-ph/0203091
+author: Hu, E. M. and Cowie, L. L. and McMahon, R. G. and Capak, P. and Iwamuro, F.
+  and Kneib, J.-P. and Maihara, T. and Motohara, K.
+author_list:
+- family: Hu
+  given: E. M.
+- family: Cowie
+  given: L. L.
+- family: McMahon
+  given: R. G.
+- family: Capak
+  given: P.
+- family: Iwamuro
+  given: F.
+- family: Kneib
+  given: J.-P.
+- family: Maihara
+  given: T.
+- family: Motohara
+  given: K.
+date-added: 2017-08-10 20:22:31 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/340424
+eprint: astro-ph/0203091
+journal: \apjl
+keywords: 'Cosmology: Observations, Cosmology: Early Universe, Galaxies: Distances
+  and Redshifts, Galaxies: Evolution, Galaxies: Formation'
+month: April
+pages: L75-L79
+papis_id: 0c689df5f98cbb988bfdd0b192279a03
+ref: hu.e.2002
+title: A Redshift z=6.56 Galaxy behind the Cluster Abell 370
+type: article
+volume: '568'
+year: '2002'

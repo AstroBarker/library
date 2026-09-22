@@ -1,0 +1,43 @@
+abstract: We continue to investigate the possibility that interstellar turbulence
+  is caused by nonlinear interactions among shear Alfven waves. Here, we restrict
+  attention to the symmetric case where the oppositely directed waves carry equal
+  energy fluxes. This precludes application to the solar wind in which the outward
+  flux significantly exceeds the ingoing one. All our detailed calculations are carried
+  out for an incompressible magnetized fluid. In incompressible magnetohydrodynamics
+  (MHD), nonlinear interactions only occur between oppositely direct waves. We present
+  a theory for the strong turbulence of shear Alfven waves. It has the following main
+  characteristics. (1) The inertial-stage energy spectrum exhibits a critical balance
+  between linear wave periods and nonlinear turnover timescales. (2) The 'eddies'
+  are elongated in the direction of the field on small spatial scales; the parallel
+  and perpendicular components of the wave vector, kz and k(perpendicular) are related
+  by kz approximately equals kperpendicular to2/3 L-1/3, where L is the outer scale
+  of the turbulence. (3) The 'one-dimensional' energy spectrum is proportional to
+  kperpendicular-5/3-an anisotropic Kolmogorov energy spectrum. Shear Alfvenic turbulence
+  mixes specific entropy as a passive contaminant. This gives rise to an electron
+  density power spectrum whose form mimics the energy spectrum of the turbulence.
+  Radio wave scattering by these electron density fluctuations produces anisotropic
+  scatter-broadened images. Damping by ion-neutral collisions restricts Alfvenic turbulence
+  to highly ionized regions of the interstellar medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...438..763G
+author: Goldreich, P. and Sridhar, S.
+author_list:
+- family: Goldreich
+  given: P.
+- family: Sridhar
+  given: S.
+date-added: 2017-08-10 14:56:48 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175121
+journal: \apj
+keywords: Interstellar Space, Magnetic Fields, Magnetohydrodynamic Turbulence, Magnetohydrodynamic
+  Waves, Electron Density (Concentration), Energy Spectra, Radio Waves, Variations,
+  Wave Scattering
+month: January
+pages: 763--775
+papis_id: 974a4ea5108f6f44345c916d14f70d5d
+ref: goldreich.p.1995
+title: 'Toward a theory of interstellar turbulence. 2: Strong alfvenic turbulence'
+type: article
+volume: '438'
+year: '1995'

@@ -1,0 +1,39 @@
+abstract: The absolute-magnitude distributions of seven supernova (SN) types are presented.
+  The data used here were primarily taken from the Asiago Supernova Catalogue, but
+  were supplemented with additional data. We accounted for both foreground and host-galaxy
+  extinction. A bootstrap method is used to correct the samples for Malmquist bias.
+  Separately, we generate volume-limited samples, restricted to events within 100
+  Mpc. We find that the superluminous events (MB < -21) make up only about 0.1\% of
+  all SNe in the bias-corrected sample. The subluminous events (MB > -15) make up
+  about 3\%. The normal Ia distribution was the brightest with a mean absolute blue
+  magnitude of -19.25. The IIP distribution was the dimmest at -16.75.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014AJ....147..118R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1403.5755
+author: Richardson, D. and Jenkins III, R. L. and Wright, J. and Maddox, L.
+author_list:
+- family: Richardson
+  given: D.
+- family: Jenkins III
+  given: R. L.
+- family: Wright
+  given: J.
+- family: Maddox
+  given: L.
+date-added: 2017-08-11 08:16:54 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-6256/147/5/118
+eid: '118'
+eprint: '1403.5755'
+journal: \aj
+keywords: 'supernovae: general'
+month: May
+pages: '118'
+papis_id: 58bc51a0eec9727bd60fb19d05f33290
+primaryclass: astro-ph.SR
+ref: richardson.d.2014
+title: Absolute-magnitude Distributions of Supernovae
+type: article
+volume: '147'
+year: '2014'

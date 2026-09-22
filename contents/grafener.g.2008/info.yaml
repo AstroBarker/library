@@ -1,0 +1,51 @@
+abstract: 'Context: The mass loss from Wolf-Rayet (WR) stars is of fundamental importance
+  for the final fate of massive stars and their chemical yields. Its Z-dependence
+  is discussed in relation to the formation of long-duration Gamma Ray Bursts (GRBs)
+  and the yields from early stellar generations. However, the mechanism of formation
+  of WR-type stellar winds is still under debate.  Aims: We present the first fully
+  self-consistent atmosphere/wind models for late-type WN stars. We investigate the
+  mechanisms leading to their strong mass loss, and examine the dependence on stellar
+  parameters, in particular on the metallicity Z.  Methods: We perform a systematic
+  parameter study of the mass loss from WNL stars, utilizing a new generation of hydrodynamic
+  non-LTE model atmospheres. The models include a self-consistent treatment of the
+  wind hydrodynamics, and take Fe-group line-blanketing and clumping into account.
+  They thus allow a realistic modelling of the expanding atmospheres of WR stars.
+  The results are verified by comparison with observed WNL spectra.  Results: We identify
+  WNL stars as very massive stars close to the Eddington limit, potentially still
+  in the phase of central H-burning. Due to their high L/M ratios, these stars develop
+  optically thick, radiatively driven winds. These winds show qualitatively different
+  properties than the thin winds of OB stars. The resultant mass loss depends strongly
+  on Z, but also on the Eddington factor Gamma\_e, and the stellar temperature T\_star.
+  We combine our results in a parametrized mass loss recipe for WNL stars.  Conclusions:
+  According to our present model computations, stars close to the Eddington limit
+  tend to form strong WR-type winds, even at very low Z. Our models thus predict an
+  efficient mass loss mechanism for low metallicity stars. For extremely metal-poor
+  stars, we find that the self-enrichment with primary nitrogen can drive WR-type
+  mass loss. These first WN stars might play an important role in the enrichment of
+  the early ISM with freshly produced nitrogen.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...482..945G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.0866
+author: Gräfener, G. and Hamann, W.-R.
+author_list:
+- family: Gräfener
+  given: G.
+- family: Hamann
+  given: W.-R.
+date-added: 2017-08-11 00:24:55 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1051/0004-6361:20066176
+eprint: '0803.0866'
+journal: \aap
+keywords: 'stars: Wolf-Rayet, stars: early-type, stars: atmospheres, stars: mass-loss,
+  stars: winds, , outflows, stars: individual: WR 22'
+month: May
+pages: 945--960
+papis_id: c48be8ed961d24e6f4ea4b4645f399db
+ref: grafener.g.2008
+title: Mass loss from late-type WN stars and its Z-dependence. Very massive stars
+  approaching the Eddington limit
+type: article
+volume: '482'
+year: '2008'

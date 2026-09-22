@@ -1,0 +1,56 @@
+abstract: 'Context. The evolution of stars and planets is mostly controlled by the
+  properties of their atmosphere. This is particularly true in the case of exoplanets
+  close to their stars, for which one has to account both for an (often intense) irradiation
+  flux, and from an intrinsic flux responsible for the progressive loss of the inner
+  planetary heat.  Aims: The goals of the present work are to help understanding the
+  coupling between radiative transfer and advection in exoplanetary atmospheres and
+  to provide constraints on the temperatures of the deep atmospheres. This is crucial
+  in assessing whether modifying assumed opacity sources and/or heat transport may
+  explain the inflated sizes of a significant number of giant exoplanets found so
+  far.  Methods: I use a simple analytical approach inspired by Eddington''s approximation
+  for stellar atmospheres to derive a relation between temperature and optical depth
+  valid for plane-parallel static grey atmospheres which are both transporting an
+  intrinsic heat flux and receiving an outer radiation flux. The model is parameterized
+  as a function of mean visible and thermal opacities, respectively.  Results: The
+  model is shown to reproduce relatively well temperature profiles obtained from more
+  sophisticated radiative transfer calculations of exoplanetary atmospheres. It naturally
+  explains why a temperature inversion (stratosphere) appears when the opacity in
+  the optical becomes significant compared to that in the infrared. I further show
+  that the mean equivalent flux (proportional to T4) is conserved in the presence
+  of horizontal advection on constant optical depth levels. This implies with these
+  hypotheses that the deep atmospheric temperature used as outer boundary for the
+  evolution models should be calculated from models pertaining to the entire planetary
+  atmosphere, not from ones that are relevant to the day side or to the substellar
+  point. In these conditions, present-day models yield deep temperatures that are
+  ~1000 K too cold to explain the present size of planet HD 209458b. An tenfold increase
+  in the infrared to visible opacity ratio would be required to slow the planetary
+  cooling and contraction sufficiently to explain its size. However, the mean equivalent
+  flux is not conserved anymore in the presence of opacity variations, or in the case
+  of non-radiative vertical transport of energy: The presence of clouds on the night
+  side or a downward transport of kinetic energy and its dissipation at deep levels
+  would help making the deep atmosphere hotter and may explain the inflated sizes
+  of giant exoplanets.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...520A..27G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.4702
+author: Guillot, T.
+author_list:
+- family: Guillot
+  given: T.
+date-added: 2017-08-10 20:50:02 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/200913396
+eid: A27
+eprint: '1006.4702'
+journal: \aap
+keywords: 'planetary systems, stars: atmospheres, planets and satellites: general'
+month: September
+pages: A27
+papis_id: 0bbf845a90b2f59d8e633ccaf89eff9c
+primaryclass: astro-ph.EP
+ref: guillot.t.2010
+title: On the radiative equilibrium of irradiated planetary atmospheres
+type: article
+volume: '520'
+year: '2010'

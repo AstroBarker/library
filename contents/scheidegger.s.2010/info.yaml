@@ -1,0 +1,46 @@
+abstract: We have performed a set of 11 three-dimensional magnetohydrodynamical (MHD)
+  core-collapse supernova simulations in order to investigate the dependences of the
+  gravitational wave signal on the progenitor's initial conditions. We study the effects
+  of the initial central angular velocity and different variants of neutrino transport.
+  Our models are started up from a 15Modot progenitor and incorporate an effective
+  general relativistic gravitational potential and a finite temperature nuclear equation
+  of state. Furthermore, the electron flavour neutrino transport is tracked by efficient
+  algorithms for the radiative transfer of massless fermions. We find that non- and
+  slowly rotating models show gravitational wave emission due to prompt- and lepton
+  driven convection that reveals details about the hydrodynamical state of the fluid
+  inside the protoneutron stars. Furthermore we show that protoneutron stars can become
+  dynamically unstable to rotational instabilities at T/\vert{}W\vert{} values as
+  low as ~2\% at core bounce. We point out that the inclusion of deleptonization during
+  the postbounce phase is very important for the quantitative gravitational wave (GW)
+  prediction, as it enhances the absolute values of the gravitational wave trains
+  up to a factor of ten with respect to a lepton-conserving treatment.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27k4101S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.1455
+author: Scheidegger, S. and Whitehouse, S. C. and Käppeli, R. and Liebendörfer, M.
+author_list:
+- family: Scheidegger
+  given: S.
+- family: Whitehouse
+  given: S. C.
+- family: Käppeli
+  given: R.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-10 20:57:31 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0264-9381/27/11/114101
+eid: '114101'
+eprint: '0912.1455'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '114101'
+papis_id: b6ad124fe542305d86239abdf32c4abd
+primaryclass: astro-ph.HE
+ref: scheidegger.s.2010
+title: Gravitational waves from supernova matter
+type: article
+volume: '27'
+year: '2010'

@@ -1,0 +1,88 @@
+abstract: We investigate in this paper the core-collapse supernova explosion mechanism
+  in both one and two dimensions. With a radiation/hydrodynamic code based upon the
+  PPM algorithm, we verify the usefulness of neutrino-driven overturn ("convection")
+  between the shock and the neutrinosphere in igniting the supernova explosion. The
+  two-dimensional simulation of the core of a 15 Msun star that we present here indicates
+  that the breaking of spherical symmetry may be central to the explosion itself and
+  that a multitude of bent and broken fingers is a common feature of the ejecta. As
+  in one dimension, the explosion seems to be a mathematically critical phenomenon,
+  evolving from a steady state to explosion after a critical mass accretion rate through
+  the stalled shock has been reached. In the two-dimensional simulation the preexplosion
+  convective phase lasted \texttildelow{}30 overturns (\texttildelow{}100 ms) before
+  exploding. The preexplosion steady state in two dimensions is similar to that achieved
+  in one dimension, but in two dimensions, owing to the longer dwell time of matter
+  in the overturning region, the average entropy achieved behind the stalled shock
+  is larger. In addition, the entropy gradient in the convecting region is flatter.
+  These effects, together with the dynamical pressure of the buoyant plumes, serve
+  to increase the steady state shock radius (Rs) over its value in one dimension by
+  30\%-100\%. A large Rs enlarges the volume of the gain region, puts shocked matter
+  lower in the gravitational potential well, and lowers the accretion ram pressure
+  at the shock for a given Mdot. The critical condition for explosion is thereby relaxed.
+  Since the "escape" temperature (Tesc) decreases with radius faster than the actual
+  matter temperature (T) behind the shock, a larger Rs puts a larger fraction of the
+  shocked material above its local escape temperature. T > Tesc is the condition for
+  a thermally driven corona to lift off a star. In one, two, or three dimensions,
+  since supernovae are driven by neutrino heating, they are coronal phenomena, akin
+  to winds, though initially bounded by an accretion ram. Neutrino radiation pressure
+  is unimportant.  We find that large and small eddies coexist, both before and after
+  explosion. In the unstable region before explosion, columnar downflows are quasi-periodically
+  formed and break up. These plumes excite nonlinear internal g-modes that feed back
+  onto the convection and cause the plumes to meander over the neutrino- sphere. The
+  radial neutrino flux fluctuates with angle and time in response to the anisotropic
+  mass flux onto the neutrinospheres by as much as a factor of 3. The boiling motion
+  of the unstable region interior to the shock is epitomized by neutrino-heated bubbles
+  that rise and collide episodically with the shock, whose radius oscillates in angle
+  and time by as much as 30\%. The angle-averaged neutrino luminosities vary by as
+  much as 60\% and decrease by a factor of 2 right after the explosion in a characteristic
+  way.  The region interior to the neutrinosphere has weakly unstable lepton and entropy
+  gradients that drive persistent convective motions after core bounce. However, the
+  effects of this convection on the driving neutrino luminosities seem dwarfed by
+  the effects of convective dredge-up and by the wildly varying accretion component.  We
+  see no evidence of a "building" or accumulation of energy before explosion, save
+  in the kinetic energy, in response to the decaying accretion ram. In fact, the total
+  energy in the overturning region decreases steadily before explosion. In addition,
+  we have noted a nontrivial dependence on the neutrino transport algorithm. We would
+  eschew terms such as "robust" when referring to the effect of convection on the
+  outcome of collapse.  Neutrino energy is pumped into the supernova during the shock's
+  propagation through the inner many thousands of kilometers and not "instantaneously."  Curiously,
+  just after the explosion is triggered, the matter that will eventually be ejected
+  is still bound. In addition, for a given asymptotic explosion energy, the amount
+  of mass that reaches explosive nucleosynthesis temperatures is less than heretofore
+  assumed. This may help to solve the 56Ni overproduction problem encountered in previous
+  models of explosive nucleosynthesis.  The high-speed fingers that emerge from our
+  model core seem a natural explanation for the nickel bullets seen in SN 1987A and
+  the shrapnel inferred in some supernova remnants. In addition, the vigorous convective
+  motions interior to the shock can impart to the residue recoil velocities and spins.
+  The magnitudes of the former might be within reach of the observed pulsar proper
+  motions, but extensive new calculations remain to be done to verify this. Within
+  100 ms of the explosion, a strong, neutrino-driven wind is blowing outward from
+  the proto neutron star that clears the interior of mass and, while operative, does
+  not allow fallback. At the base of the rising explosion plumes (in the early wind),
+  a few high-entropy (\texttildelow{}60) clumps are ejected, whose subsequent evolution
+  may prove to be of relevance to the r-process.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...450..830B
+arxivurl: http://arxiv.org/abs/astro-ph/9506061
+author: Burrows, A. and Hayes, J. and Fryxell, B. A.
+author_list:
+- family: Burrows
+  given: A.
+- family: Hayes
+  given: J.
+- family: Fryxell
+  given: B. A.
+date-added: 2017-08-10 14:36:08 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176188
+eprint: astro-ph/9506061
+journal: \apj
+keywords: 'NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: INTERIORS, STARS:
+  SUPERNOVAE: GENERAL'
+month: September
+pages: '830'
+papis_id: b870f109f32846f3184001cebf2d23d6
+ref: burrows.a.1995
+title: On the Nature of Core-Collapse Supernova Explosions
+type: article
+volume: '450'
+year: '1995'

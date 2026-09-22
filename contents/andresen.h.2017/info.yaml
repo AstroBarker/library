@@ -1,0 +1,49 @@
+abstract: We present gravitational wave (GW) signal predictions from four 3D multigroup
+  neutrino hydrodynamics simulations of core-collapse supernovae of progenitors with
+  11.2, 20 and 27 M\&sun;. GW emission in the pre-explosion phase strongly depends
+  on whether the post-shock flow is dominated by the standing accretion shock instability
+  (SASI) or convection and differs considerably from 2D models. SASI activity produces
+  a strong signal component below 250 Hz through asymmetric mass motions in the gain
+  layer and a non-resonant coupling to the proto-neutron star (PNS). Both convection-
+  and SASI-dominated models show GW emission above 250 Hz, but with considerably lower
+  amplitudes than in 2D. This is due to a different excitation mechanism for high-frequency
+  l = 2 motions in the PNS surface, which are predominantly excited by PNS convection
+  in 3D. Resonant excitation of high-frequency surface g modes in 3D by mass motions
+  in the gain layer is suppressed compared to 2D because of smaller downflow velocities
+  and a lack of high-frequency variability in the downflows. In the exploding 20 M\&sun;
+  model, shock revival results in enhanced low-frequency emission due to a change
+  of the preferred scale of the convective eddies in the PNS convection zone. Estimates
+  of the expected excess power in two frequency bands suggest that second-generation
+  detectors will only be able to detect very nearby events, but that third-generation
+  detectors could distinguish SASI- and convection-dominated models at distances of
+  \texttildelow{} 10 kpc.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017MNRAS.468.2032A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1607.05199
+author: Andresen, H. and Müller, B. and Müller, E. and Janka, H.-T.
+author_list:
+- family: Andresen
+  given: H.
+- family: Müller
+  given: B.
+- family: Müller
+  given: E.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 13:56:41 +0000
+date-modified: 2017-12-05 16:36:24 +0000
+doi: 10.1093/mnras/stx618
+eprint: '1607.05199'
+journal: \mnras
+keywords: 'gravitational waves, hydrodynamics, instabilities, supernovae: general'
+month: June
+pages: 2032--2051
+papis_id: 6a0e3a54164d2c4783dfde27fe5aaf62
+primaryclass: astro-ph.HE
+ref: andresen.h.2017
+title: Gravitational wave signals from 3D neutrino hydrodynamics simulations of core-collapse
+  supernovae
+type: article
+volume: '468'
+year: '2017'

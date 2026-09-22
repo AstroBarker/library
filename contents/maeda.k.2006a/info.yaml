@@ -1,0 +1,45 @@
+abstract: A fully 3D Monte Carlo scheme is applied to compute optical bolometric light
+  curves for aspherical (jetlike) supernova explosion models. Density and abundance
+  distributions are taken from hydrodynamic explosion models, with the energy varied
+  as a parameter to explore the dependence. Our models show initially a very large
+  degree (~4 depending on model parameters) of boosting luminosity toward the polar
+  (z) direction relative to the equatorial (r) plane, which decreases as the time
+  of the peak is approached. After the peak, the factor of the luminosity boost remains
+  almost constant (~1.2) until the supernova enters the nebular phase. This behavior
+  is due mostly to the aspherical 56Ni distribution in the earlier phase and to the
+  disklike inner low-velocity structure in the later phase. In addition, the aspherical
+  models yield an earlier peak date than the spherical models, especially if viewed
+  from near the z-axis. Aspherical models with an ejecta mass of ~10 Msolar are examined,
+  and one with a kinetic energy of expansion of ~(2+/-0.5)\texttimes{}1052 ergs and
+  a mass of 56Ni of ~0.4 Msolar yields a light curve in agreement with the observed
+  light curve of SN 1998bw (the prototypical hyperenergetic supernova). The aspherical
+  model is also at least qualitatively consistent with evolution of photospheric velocities,
+  showing large velocities near the z-axis. In addition, a late-phase nebular spectrum
+  is well explained. The viewing angle is close to the z-axis, strengthening the case
+  for the association of SN 1998bw with the gamma-ray burst GRB 980425.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...645.1331M
+arxivurl: http://arxiv.org/abs/astro-ph/0511389
+author: Maeda, K. and Mazzali, P. A. and Nomoto, K.
+author_list:
+- family: Maeda
+  given: K.
+- family: Mazzali
+  given: P. A.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 18:38:17 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/504581
+eprint: astro-ph/0511389
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Radiative Transfer, Stars: Supernovae: General, Stars:
+  Supernovae: Individual: Alphanumeric: SN 1998bw'
+month: July
+pages: 1331--1344
+papis_id: c22c880f2bd9832189648ced981b51e5
+ref: maeda.k.2006a
+title: Optical Emission from Aspherical Supernovae and the Hypernova SN 1998bw
+type: article
+volume: '645'
+year: '2006'

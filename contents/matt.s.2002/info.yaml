@@ -1,0 +1,49 @@
+abstract: We examine, parametrically, the interaction between the magnetosphere of
+  a rotating young stellar object and a circumstellar accretion disk using 2.5-dimensional
+  (cylindrically symmetric) numerical magnetohydrodynamic simulations. The interaction
+  drives a collimated outflow, and we find that the jet formation mechanism is robust.
+  For variations in initial disk density of a factor of 16, variations of stellar
+  dipole strength of a factor of 4, and various initial conditions with respect to
+  the disk truncation radius and the existence of a disk field, outflows with similar
+  morphologies were consistently produced. Second, the system is self-regulating,
+  where the outflow properties depend relatively weakly on the parameters above. The
+  large-scale magnetic field structure rapidly evolves to a configuration that removes
+  angular momentum from the disk at a rate that depends most strongly on the field
+  and weakly on the rotation rate of the footpoints of the field in the disk and the
+  mass outflow rate. Third, the simulated jets are episodic, with the timescale of
+  jet outbursts identical to the timescale of magnetically induced oscillations of
+  the inner edge of the disk. To better understand the physics controlling these disk
+  oscillations, we present a semianalytical model and confirm that the oscillation
+  period is set by the spin-down rate of the disk inner edge. Finally, our simulations
+  offer strong evidence that it is indeed the interaction of the stellar magnetosphere
+  with the disk, rather than some primordial field in the disk itself, that is responsible
+  for the formation of jets from these systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...574..232M
+arxivurl: http://arxiv.org/abs/astro-ph/0203420
+author: Matt, S. and Goodson, A. P. and Winglee, R. M. and Böhm, K.-H.
+author_list:
+- family: Matt
+  given: S.
+- family: Goodson
+  given: A. P.
+- family: Winglee
+  given: R. M.
+- family: Böhm
+  given: K.-H.
+date-added: 2017-08-11 03:09:38 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/340896
+eprint: astro-ph/0203420
+journal: \apj
+keywords: 'Accretion, Accretion Disks, ISM: Jets and Outflows, Magnetohydrodynamics:
+  MHD, Stars: Magnetic Fields, Stars: Pre-Main-Sequence'
+month: July
+pages: 232--245
+papis_id: 7824af76cbfc6164aa6e8d69c710f8f3
+ref: matt.s.2002
+title: Simulation-based Investigation of a Model for the Interaction between Stellar
+  Magnetospheres and Circumstellar Accretion Disks
+type: article
+volume: '574'
+year: '2002'

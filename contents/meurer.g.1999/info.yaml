@@ -1,0 +1,56 @@
+abstract: 'We refine a technique to measure the absorption-corrected ultraviolet (UV)
+  luminosity of starburst galaxies using rest-frame UV quantities alone and apply
+  it to Lyman-limit U dropouts at z~3 found in the Hubble Deep Field (HDF). The method
+  is based on an observed correlation between the ratio of far-infrared (FIR) to UV
+  fluxes with spectral slope beta (a UV color). A simple fit to this relation allows
+  the UV flux absorbed by dust and reprocessed to the FIR to be calculated, and hence
+  the dust-free UV luminosity to be determined. International Ultraviolet Explorer
+  spectra and Infrared Astronomical Satellite fluxes of local starbursts are used
+  to calibrate the FFIR/F1600 versus beta relation in terms of A1600 (the dust absorption
+  at 1600 {\AA}) and the transformation from broadband photometric color to beta.
+  Both calibrations are almost completely independent of theoretical stellar-population
+  models. We show that the recent marginal and nondetections of HDF U dropouts at
+  radio and submillimeter wavelengths are consistent with their assumed starburst
+  nature and our calculated A1600. This is also true of recent observations of the
+  ratio of optical emission-line flux to UV flux density in the brightest U dropouts.
+  This latter ratio turns out not to be a good indicator of dust extinction. In U
+  dropouts, absolute magnitude M1600,0 correlates with beta: brighter galaxies are
+  redder, as is observed to be the case for local starburst galaxies. This suggests
+  that a mass-metallicity relationship is already in place at z~3. The absorption-corrected
+  UV luminosity function of U dropouts extends up to M1600,0~-24 AB mag, corresponding
+  to a star formation rate ~200 \Mscrsolar yr-1 (H0=50 km s-1 Mpc-3 and q0=0.5 are
+  assumed throughout). The absorption-corrected UV luminosity density at z~3 is rho1600,0>=1.4\texttimes{}1027
+  ergs-1 Hz-1 Mpc-1. It is still a lower limit since completeness corrections have
+  not been done and because only galaxies with A1600<~3.6 mag are blue enough in the
+  UV to be selected as U dropouts. The luminosity-weighted mean dust-absorption factor
+  of our sample is 5.4+/-0.9 at 1600 {\AA}.  Based on observations with the NASA/ESA
+  Hubble Space Telescope obtained at the Space Telescope Science Institute, which
+  is operated by the Association of Universities for Research in Astronomy, Inc.,
+  under NASA contract NAS 5-26555.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...521...64M
+arxivurl: http://arxiv.org/abs/astro-ph/9903054
+author: Meurer, G. R. and Heckman, T. M. and Calzetti, D.
+author_list:
+- family: Meurer
+  given: G. R.
+- family: Heckman
+  given: T. M.
+- family: Calzetti
+  given: D.
+date-added: 2017-08-10 20:15:02 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307523
+eprint: astro-ph/9903054
+journal: \apj
+keywords: 'GALAXIES: ISM, GALAXIES: PHOTOMETRY, INFRARED: GALAXIES, ULTRAVIOLET: GALAXIES,
+  Galaxies: ISM, Galaxies: Photometry, Infrared: Galaxies, Ultraviolet: Galaxies'
+month: August
+pages: 64--80
+papis_id: 2c0994497c4f7da953178a4dcb722088
+ref: meurer.g.1999
+title: Dust Absorption and the Ultraviolet Luminosity Density at z ̃ 3 as Calibrated
+  by Local Starburst Galaxies
+type: article
+volume: '521'
+year: '1999'

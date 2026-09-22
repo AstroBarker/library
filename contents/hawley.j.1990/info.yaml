@@ -1,0 +1,32 @@
+abstract: Nonaxisymmetric instabilities in accretion disks are investigated in terms
+  of the slender, non-self-gravitating, ideal fluid torus model. Nonlinear simulations
+  are carried out in two and tree dimensions, using Cartesian-grid finite differencing.
+  The fastest growing instability is the principal mode. This mode saturates with
+  the formation of ellipsoidal density distributions, designated as 'planets'. The
+  simulations provide evidence for nonlinear mode-mode coupling. When several wavenumbers
+  m are unstable, multiple 'planets' form that subsequently merge. Sources of numerical
+  error are examined, and the effects are contrasted with those of the physical instability.
+  The same qualitative evolution is seen in both the two- and the three-dimensional
+  simulations, even though strict vertical hydrostatic equilibrium is no longer rigorously
+  maintained after mode saturation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1990ApJ...356..580H
+author: Hawley, J. F.
+author_list:
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-10 19:16:36 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/168864
+journal: \apj
+keywords: Accretion Disks, Astronomical Models, Angular Momentum, Density Distribution,
+  Flow Stability, Hydrodynamics
+month: June
+pages: 580--590
+papis_id: 583e6e827ad443fdc5f8fab87516b387
+ref: hawley.j.1990
+title: Nonaxisymmetric instabilities in a slender torus - Two- and three-dimensional
+  simulations
+type: article
+volume: '356'
+year: '1990'

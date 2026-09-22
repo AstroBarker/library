@@ -1,0 +1,143 @@
+abstract: The COSMOS Spitzer survey (S-COSMOS) is a Legacy program (Cycles 2+3) designed
+  to carry out a uniform deep survey of the full 2 deg2 COSMOS field in all seven
+  Spitzer bands (3.6, 4.5, 5.6, 8.0, 24.0, 70.0, and 160.0 mum). This paper describes
+  the survey parameters, mapping strategy, data reduction procedures, achieved sensitivities
+  to date, and the complete data set for future reference. We show that the observed
+  infrared backgrounds in the S-COSMOS field are within 10\% of the predicted background
+  levels. The fluctuations in the background at 24 mum have been measured and do not
+  show any significant contribution from cirrus, as expected. In addition, we report
+  on the number of asteroid detections in the low Galactic latitude COSMOS field.
+  We use the Cycle 2 S-COSMOS data to determine preliminary number counts, and compare
+  our results with those from previous Spitzer Legacy surveys (e.g., SWIRE, GOODS).
+  The results from this ``first analysis'' confirm that the S-COSMOS survey will have
+  sufficient sensitivity with IRAC to detect ~L\textasteriskcentered disks and spheroids
+  out to z>~3, and with MIPS to detect ultraluminous starbursts and AGNs out to z~3
+  at 24 mum and out to z~1.5-2 at 70 and 160 mum.  Based on observations with the
+  NASA/ESA Hubble Space Telescope obtained at the Space Telescope Science Institute,
+  which is operated by the Association of Universities for Research in Astronomy (AURA),
+  Inc., under NASA contract NAS 5-26555 also based on data collected at the Subaru
+  Telescope, which is operated by the National Astronomical Observatory of Japan;
+  the XMM-Newton, an ESA science mission with instruments and contributions directly
+  funded by ESA Member States and NASA; the European Southern Observatory under Large
+  Program 175.A-0839, Chile; Kitt Peak National Observatory, Cerro Tololo Inter-American
+  Observatory, and the National Optical Astronomy Observatory, which are operated
+  by AURA under cooperative agreement with the National Science Foundation; the National
+  Radio Astronomy Observatory, which is a facility of the National Science Foundation
+  operated under cooperative agreement by Associated Universities, Inc.; and the Canada-France-Hawaii
+  Telescope (CFHT) with MegaPrime/MegaCam operated as a joint project by the CFHT
+  Corporation, CEA/DAPNIA, the National Research Council of Canada, the Canadian Astronomy
+  Data Centre, the Centre National de la Recherche Scientifique de France, TERAPIX,
+  and the University of Hawaii.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..172...86S
+arxivurl: http://arxiv.org/abs/astro-ph/0701318
+author: Sanders, D. B. and Salvato, M. and Aussel, H. and Ilbert, O. and Scoville,
+  N. and Surace, J. A. and Frayer, D. T. and Sheth, K. and Helou, G. and Brooke, T.
+  and Bhattacharya, B. and Yan, L. and Kartaltepe, J. S. and Barnes, J. E. and Blain,
+  A. W. and Calzetti, D. and Capak, P. and Carilli, C. and Carollo, C. M. and Comastri,
+  A. and Daddi, E. and Ellis, R. S. and Elvis, M. and Fall, S. M. and Franceschini,
+  A. and Giavalisco, M. and Hasinger, G. and Impey, C. and Koekemoer, A. and Le Fèvre,
+  O. and Lilly, S. and Liu, M. C. and McCracken, H. J. and Mobasher, B. and Renzini,
+  A. and Rich, M. and Schinnerer, E. and Shopbell, P. L. and Taniguchi, Y. and Thompson,
+  D. J. and Urry, C. M. and Williams, J. P.
+author_list:
+- family: Sanders
+  given: D. B.
+- family: Salvato
+  given: M.
+- family: Aussel
+  given: H.
+- family: Ilbert
+  given: O.
+- family: Scoville
+  given: N.
+- family: Surace
+  given: J. A.
+- family: Frayer
+  given: D. T.
+- family: Sheth
+  given: K.
+- family: Helou
+  given: G.
+- family: Brooke
+  given: T.
+- family: Bhattacharya
+  given: B.
+- family: Yan
+  given: L.
+- family: Kartaltepe
+  given: J. S.
+- family: Barnes
+  given: J. E.
+- family: Blain
+  given: A. W.
+- family: Calzetti
+  given: D.
+- family: Capak
+  given: P.
+- family: Carilli
+  given: C.
+- family: Carollo
+  given: C. M.
+- family: Comastri
+  given: A.
+- family: Daddi
+  given: E.
+- family: Ellis
+  given: R. S.
+- family: Elvis
+  given: M.
+- family: Fall
+  given: S. M.
+- family: Franceschini
+  given: A.
+- family: Giavalisco
+  given: M.
+- family: Hasinger
+  given: G.
+- family: Impey
+  given: C.
+- family: Koekemoer
+  given: A.
+- family: Le Fèvre
+  given: O.
+- family: Lilly
+  given: S.
+- family: Liu
+  given: M. C.
+- family: McCracken
+  given: H. J.
+- family: Mobasher
+  given: B.
+- family: Renzini
+  given: A.
+- family: Rich
+  given: M.
+- family: Schinnerer
+  given: E.
+- family: Shopbell
+  given: P. L.
+- family: Taniguchi
+  given: Y.
+- family: Thompson
+  given: D. J.
+- family: Urry
+  given: C. M.
+- family: Williams
+  given: J. P.
+date-added: 2017-08-10 17:20:53 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/517885
+eprint: astro-ph/0701318
+journal: \apjs
+keywords: 'Cosmology: Observations, Galaxies: Evolution, Galaxies: Formation, Infrared:
+  Galaxies, Cosmology: Large-Scale Structure of Universe, Surveys'
+month: September
+pages: 86--98
+papis_id: 435bcd280e3bf32431150fa64ab40a76
+ref: sanders.d.2007
+title: 'S-COSMOS: The Spitzer Legacy Survey of the Hubble Space Telescope ACS 2 deg$^2$
+  COSMOS Field I: Survey Strategy and First Analysis'
+type: article
+volume: '172'
+year: '2007'

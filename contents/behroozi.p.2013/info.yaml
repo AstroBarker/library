@@ -1,0 +1,50 @@
+abstract: We present a new algorithm for generating merger trees and halo catalogs
+  which explicitly ensures consistency of halo properties (mass, position, and velocity)
+  across time steps. Our algorithm has demonstrated the ability to improve both the
+  completeness (through detecting and inserting otherwise missing halos) and purity
+  (through detecting and removing spurious objects) of both merger trees and halo
+  catalogs. In addition, our method is able to robustly measure the self-consistency
+  of halo finders; it is the first to directly measure the uncertainties in halo positions,
+  halo velocities, and the halo mass function for a given halo finder based on consistency
+  between snapshots in cosmological simulations. We use this algorithm to generate
+  merger trees for two large simulations (Bolshoi and Consuelo) and evaluate two halo
+  finders (ROCKSTAR and BDM). We find that both the ROCKSTAR and BDM halo finders
+  track halos extremely well; in both, the number of halos which do not have physically
+  consistent progenitors is at the 1\%-2\% level across all halo masses. Our code
+  is publicly available at http://code.google.com/p/consistent-trees. Our trees and
+  catalogs are publicly available at http://hipacc.ucsc.edu/Bolshoi/.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...763...18B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.4370
+author: Behroozi, P. S. and Wechsler, R. H. and Wu, H.-Y. and Busha, M. T. and Klypin,
+  A. A. and Primack, J. R.
+author_list:
+- family: Behroozi
+  given: P. S.
+- family: Wechsler
+  given: R. H.
+- family: Wu
+  given: H.-Y.
+- family: Busha
+  given: M. T.
+- family: Klypin
+  given: A. A.
+- family: Primack
+  given: J. R.
+date-added: 2017-08-11 07:30:23 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/763/1/18
+eid: '18'
+eprint: '1110.4370'
+journal: \apj
+keywords: 'dark matter, galaxies: abundances, galaxies: evolution, methods: numerical'
+month: January
+pages: '18'
+papis_id: d8aa1c01f587014fd43114ee52c3d12c
+primaryclass: astro-ph.CO
+ref: behroozi.p.2013
+title: Gravitationally Consistent Halo Catalogs and Merger Trees for Precision Cosmology
+type: article
+volume: '763'
+year: '2013'

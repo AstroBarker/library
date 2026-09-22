@@ -1,0 +1,52 @@
+abstract: Uniqueness problems in the elliptic sector of constrained formulations of
+  Einstein equations have a dramatic effect on the physical validity of some numerical
+  solutions, for instance, when calculating the spacetime of very compact stars or
+  nascent black holes. The fully constrained formulation (FCF) proposed by Bonazzola,
+  Gourgoulhon, Grandcl{\'e}ment, and Novak is one of these formulations. It contains,
+  as a particular case, the approximation of the conformal flatness condition (CFC)
+  which, in the last ten years, has been used in many astrophysical applications.
+  The elliptic part of the FCF basically shares the same differential operators as
+  the elliptic equations in the CFC scheme. We present here a reformulation of the
+  elliptic sector of the CFC that has the fundamental property of overcoming the local
+  uniqueness problems. The correct behavior of our new formulation is confirmed by
+  means of a battery of numerical simulations. Finally, we extend these ideas to the
+  FCF, complementing the mathematical analysis carried out in previous studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009PhRvD..79b4017C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.2325
+author: Cordero-Carrión, I. and Cerdá-Durán, P. and Dimmelmeier, H. and Jaramillo,
+  J. L. and Novak, J. and Gourgoulhon, E.
+author_list:
+- family: Cordero-Carrión
+  given: I.
+- family: Cerdá-Durán
+  given: P.
+- family: Dimmelmeier
+  given: H.
+- family: Jaramillo
+  given: J. L.
+- family: Novak
+  given: J.
+- family: Gourgoulhon
+  given: E.
+date-added: 2017-12-19 18:45:41 +0000
+date-modified: 2017-12-19 18:45:41 +0000
+doi: 10.1103/PhysRevD.79.024017
+eid: '024017'
+eprint: '0809.2325'
+journal: \prd
+keywords: Initial value problem existence and uniqueness of solutions, Numerical relativity,
+  Post-Newtonian approximation, perturbation theory, related approximations, Late
+  stages of stellar evolution
+month: January
+number: '2'
+pages: '024017'
+papis_id: dfaffbe0363e891015b0751ba9fbff70
+primaryclass: gr-qc
+ref: cordero_carrion.i.2009
+title: 'Improved constrained scheme for the Einstein equations: An approach to the
+  uniqueness issue'
+type: article
+volume: '79'
+year: '2009'

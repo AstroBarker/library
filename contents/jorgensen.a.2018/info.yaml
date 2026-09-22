@@ -1,0 +1,48 @@
+abstract: Standard 1D stellar evolution models do not correctly reproduce the structure
+  of the outermost layers of stars with convective envelopes. This has been a long-standing
+  problem in stellar modelling affecting both the predicted evolutionary paths and
+  the attributed oscillation frequencies, and indirectly biasing numerous quantities
+  derived from stellar evolution calculations. We present a novel method that mostly
+  eliminates these structural defects by appending mean 3D simulations of stellar
+  envelopes. In contrast to previous attempts we impose the complete structure derived
+  from 3D simulations at each time step during the entire evolution. For this purpose,
+  we interpolate in grids of pre-computed 3D simulations and use the resulting structure
+  as boundary conditions, in order to solve the stellar structure equations for the
+  1D interior at each time step. Our method provides a continuous transition in many
+  quantities from the interior to the imposed interpolated 3D surface layers. We present
+  a solar calibration model and show that the obtained structure of the surface layers
+  reliably mimics that of the underlying 3D simulations for the present Sun. Moreover,
+  we perform a helioseismic analysis, showing that our method mostly eliminates the
+  structural contribution to the discrepancy between model frequencies and observed
+  p-mode frequencies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.tmpL.155J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1808.08886
+author: Jørgensen, A. C. S. and Mosumgaard, J. R. and Weiss, A. and Aguirre, V. S.
+  and Christensen-Dalsgaard, J.
+author_list:
+- family: Jørgensen
+  given: A. C. S.
+- family: Mosumgaard
+  given: J. R.
+- family: Weiss
+  given: A.
+- family: Aguirre
+  given: V. S.
+- family: Christensen-Dalsgaard
+  given: J.
+date-added: 2018-08-28 15:32:00 -0400
+date-modified: 2018-08-28 15:32:02 -0400
+doi: 10.1093/mnrasl/sly152
+eprint: '1808.08886'
+journal: \mnras
+keywords: 'stars: interiors, stars: atmospheres, Sun: helioseismology, Sun: evolution'
+month: August
+papis_id: fadc95327ac2656e4d2843fdef65cac1
+primaryclass: astro-ph.SR
+ref: jorgensen.a.2018
+title: 'Coupling 1D stellar evolution with 3D-hydrodynamical simulations on-the-fly
+  I: A New Standard Solar Model'
+type: article
+year: '2018'

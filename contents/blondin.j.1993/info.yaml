@@ -1,0 +1,27 @@
+abstract: We derive interpolation formulae for a third-order finite difference method
+  in curvilinear, orthogonal coordinate systems. These formulae serve as a supplement
+  to Colella and Woodward's PPM scheme for problems where the coordinate origin is
+  included in the computational domain. Numerical examples of the improved accuracy
+  of the advection scheme near coordinate singularities are shown.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJS...88..589B
+author: Blondin, J. M. and Lufkin, E. A.
+author_list:
+- family: Blondin
+  given: J. M.
+- family: Lufkin
+  given: E. A.
+date-added: 2017-08-10 16:44:53 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191834
+journal: \apjs
+keywords: Finite Difference Theory, Interpolation, Spherical Coordinates, Advection,
+  Polynomials, Singularity (Mathematics)
+month: October
+pages: 589--594
+papis_id: 91930ba4ea9624ca9bc0b8d93d6f3b93
+ref: blondin.j.1993
+title: The piecewise-parabolic method in curvilinear coordinates
+type: article
+volume: '88'
+year: '1993'

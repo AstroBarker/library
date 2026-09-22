@@ -1,0 +1,75 @@
+abstract: We have studied the optical spectra of a sample of 31 O-and early B-type
+  stars in the Small Magellanic Cloud, 21 of which are associated with the young massive
+  cluster NGC 346. Stellar parameters are determined using an automated fitting method
+  (Mokiem et al. 2005, A\&A, 441, 711), which combines the stellar atmosphere code
+  FASTWIND (Puls et al. 2005, A\&A, 435, 669) with the genetic algorithm based optimisation
+  routine PIKAIA (Charbonneau 1995, ApJS, 101, 309). Comparison with predictions of
+  stellar evolution that account for stellar rotation does not result in a unique
+  age, though most stars are best represented by an age of 1-3 Myr. The automated
+  method allows for a detailed determination of the projected rotational velocities.
+  The present day v\_r sin i distribution of the 21 dwarf stars in our sample is consistent
+  with an underlying rotational velocity (v\_r) distribution that can be characterised
+  by a mean velocity of about 160 - 190 km s-1 and an effective half width of 100
+  - 150 km s-1. The vr distribution must include a small percentage of slowly rotating
+  stars. If predictions of the time evolution of the equatorial velocity for massive
+  stars within the environment of the SMC are correct (Maeder \& Meynet 2001, A\&A,
+  373, 555), the young age of the cluster implies that this underlying distribution
+  is representative for the initial rotational velocity distribution. The location
+  in the Hertzsprung-Russell diagram of the stars showing helium enrichment is in
+  qualitative agreement with evolutionary tracks accounting for rotation, but not
+  for those ignoring v\_r. The mass loss rates of the SMC objects having luminosities
+  of log L\textasteriskcentered/L\&sun; \greaterequivlnt{} 5.4 are in excellent agreement
+  with predictions by Vink et al. (2001, A\&A, 369, 574). However, for lower luminosity
+  stars the winds are too weak to determine dot{M} accurately from the optical spectrum.
+  Three targets were classifiedas Vz stars, two of which are located close to the
+  theoretical zero-age main sequence. Three lower luminosity targets that were not
+  classified as Vz stars are also found to lie near the ZAMS. We argue that this is
+  related to a temperature effect inhibiting cooler from displaying the spectral features
+  required for the Vz luminosity class.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...456.1131M
+arxivurl: http://arxiv.org/abs/astro-ph/0606403
+author: Mokiem, M. R. and de Koter, A. and Evans, C. J. and Puls, J. and Smartt, S.
+  J. and Crowther, P. A. and Herrero, A. and Langer, N. and Lennon, D. J. and Najarro,
+  F. and Villamariz, M. R. and Yoon, S.-C.
+author_list:
+- family: Mokiem
+  given: M. R.
+- family: de Koter
+  given: A.
+- family: Evans
+  given: C. J.
+- family: Puls
+  given: J.
+- family: Smartt
+  given: S. J.
+- family: Crowther
+  given: P. A.
+- family: Herrero
+  given: A.
+- family: Langer
+  given: N.
+- family: Lennon
+  given: D. J.
+- family: Najarro
+  given: F.
+- family: Villamariz
+  given: M. R.
+- family: Yoon
+  given: S.-C.
+date-added: 2017-08-10 19:29:14 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1051/0004-6361:20064995
+eprint: astro-ph/0606403
+journal: \aap
+keywords: 'galaxies: Magellanic Clouds, stars: atmospheres, stars:, early-type, stars:
+  fundamental parameters, stars: mass-loss, stars: rotation'
+month: September
+pages: 1131--1151
+papis_id: d055d5ec098e5630d7cd4eba87300526
+ref: mokiem.m.2006
+title: 'The VLT-FLAMES survey of massive stars: mass loss and rotation of early-type
+  stars in the SMC'
+type: article
+volume: '456'
+year: '2006'

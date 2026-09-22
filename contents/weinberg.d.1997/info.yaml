@@ -1,0 +1,46 @@
+abstract: Using cosmological simulations that incorporate gasdynamics and gravitational
+  forces, we investigate the influence of photoionization by an ultraviolet radiation
+  background on the formation of galaxies. In our highest resolution simulations,
+  we find that photoionization has essentially no effect on the baryonic mass function
+  of galaxies at z = 2, down to our resolution limit of ~5 \texttimes{} 109 M\&sun;.
+  We do, however, find a strong interplay between the mass resolution of a simulation
+  and the microphysics included in the computation of heating and cooling rates. At
+  low resolution, a photoionizing background can appear to suppress the formation
+  of even relatively massive galaxies. However, when the same initial conditions are
+  evolved with a factor of 8 improvement in mass resolution, this effect disappears.
+  Our results demonstrate the need for care in interpreting the results of cosmological
+  simulations that incorporate hydrodynamics and radiation physics. For example, we
+  conclude that a simulation with limited resolution may yield more accurate results
+  if it ignores some relevant physical processes, such as photoionization. At higher
+  resolution, the simulated population of massive galaxies is insensitive to the treatment
+  of photoionization or the inclusion of star formation in the simulations, but it
+  does depend significantly on the amplitude of the initial density fluctuations.
+  By z = 2, an Omega = 1 cold dark matter model normalized to produce the observed
+  masses of present-day clusters has already formed galaxies with baryon masses exceeding
+  1011 M\&sun;.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...477....8W
+arxivurl: http://arxiv.org/abs/astro-ph/9604175
+author: Weinberg, D. H. and Hernquist, L. and Katz, N.
+author_list:
+- family: Weinberg
+  given: D. H.
+- family: Hernquist
+  given: L.
+- family: Katz
+  given: N.
+date-added: 2017-08-11 06:50:37 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303683
+eprint: astro-ph/9604175
+journal: \apj
+keywords: 'Galaxies: Formation, Galaxies: Luminosity Function, Mass Function, Hydrodynamics,
+  Methods: Numerical, Radiative Transfer'
+month: March
+pages: 8--20
+papis_id: 358d9a1015ccba51405fd11299459860
+ref: weinberg.d.1997
+title: Photoionization, Numerical Resolution, and Galaxy Formation
+type: article
+volume: '477'
+year: '1997'

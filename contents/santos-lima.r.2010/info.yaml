@@ -1,0 +1,62 @@
+abstract: The diffusion of astrophysical magnetic fields in conducting fluids in the
+  presence of turbulence depends on whether magnetic fields can change their topology
+  via reconnection in highly conducting media. Recent progress in understanding fast
+  magnetic reconnection in the presence of turbulence reassures that the magnetic
+  field behavior in computer simulations and turbulent astrophysical environments
+  is similar, as far as magnetic reconnection is concerned. This makes it meaningful
+  to perform MHD simulations of turbulent flows in order to understand the diffusion
+  of magnetic field in astrophysical environments. Our studies of magnetic field diffusion
+  in turbulent medium reveal interesting new phenomena. First of all, our three-dimensional
+  MHD simulations initiated with anti-correlating magnetic field and gaseous density
+  exhibit at later times a de-correlation of the magnetic field and density, which
+  corresponds well to the observations of the interstellar media. While earlier studies
+  stressed the role of either ambipolar diffusion or time-dependent turbulent fluctuations
+  for de-correlating magnetic field and density, we get the effect of permanent de-correlation
+  with one fluid code, i.e., without invoking ambipolar diffusion. In addition, in
+  the presence of gravity and turbulence, our three-dimensional simulations show the
+  decrease of the magnetic flux-to-mass ratio as the gaseous density at the center
+  of the gravitational potential increases. We observe this effect both in the situations
+  when we start with equilibrium distributions of gas and magnetic field and when
+  we follow the evolution of collapsing dynamically unstable configurations. Thus,
+  the process of turbulent magnetic field removal should be applicable both to quasi-static
+  subcritical molecular clouds and cores and violently collapsing supercritical entities.
+  The increase of the gravitational potential as well as the magnetization of the
+  gas increases the segregation of the mass and magnetic flux in the saturated final
+  state of the simulations, supporting the notion that the reconnection-enabled diffusivity
+  relaxes the magnetic field + gas system in the gravitational field to its minimal
+  energy state. This effect is expected to play an important role in star formation,
+  from its initial stages of concentrating interstellar gas to the final stages of
+  the accretion to the forming protostar. In addition, we benchmark our codes by studying
+  the heat transfer in magnetized compressible fluids and confirm the high rates of
+  turbulent advection of heat obtained in an earlier study.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...714..442S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.1117
+author: Santos-Lima, R. and Lazarian, A. and de Gouveia Dal Pino, E. M. and Cho, J.
+author_list:
+- family: Santos-Lima
+  given: R.
+- family: Lazarian
+  given: A.
+- family: de Gouveia Dal Pino
+  given: E. M.
+- family: Cho
+  given: J.
+date-added: 2017-08-11 01:23:16 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/714/1/442
+eprint: '0910.1117'
+journal: \apj
+keywords: 'diffusion, ISM: magnetic fields, magnetohydrodynamics: MHD, stars: formation,
+  turbulence'
+month: May
+pages: 442--461
+papis_id: e0dff98a969e8f5afec763a0da85a2d4
+primaryclass: astro-ph.GA
+ref: santos_lima.r.2010
+title: Diffusion of Magnetic Field and Removal of Magnetic Flux from Clouds Via Turbulent
+  Reconnection
+type: article
+volume: '714'
+year: '2010'

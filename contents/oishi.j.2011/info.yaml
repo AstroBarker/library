@@ -1,0 +1,49 @@
+abstract: The magnetorotational instability (MRI) may dominate outward transport of
+  angular momentum in accretion disks, allowing material to fall onto the central
+  object. Previous work has established that the MRI can drive a mean-field dynamo,
+  possibly leading to a self-sustaining accretion system. Recently, however, simulations
+  of the scaling of the angular momentum transport parameter alphaSS with the magnetic
+  Prandtl number Pm have cast doubt on the ability of the MRI to transport astrophysically
+  relevant amounts of angular momentum in real disk systems. Here, we use simulations
+  including explicit physical viscosity and resistivity to show that when vertical
+  stratification is included, mean-field dynamo action operates, driving the system
+  to a configuration in which the magnetic field is not fully helical. This relaxes
+  the constraints on the generated field provided by magnetic helicity conservation,
+  allowing the generation of a mean field on timescales independent of the resistivity.
+  Our models demonstrate the existence of a critical magnetic Reynolds number Rmcrit,
+  below which transport becomes strongly Pm-dependent and chaotic, but above which
+  the transport is steady and Pm-independent. Prior simulations showing Pm dependence
+  had Rm < Rmcrit. We conjecture that this steady regime is possible because the mean-field
+  dynamo is not helicity-limited and thus does not depend on the details of the helicity
+  ejection process. Scaling to realistic astrophysical parameters suggests that disks
+  around both protostars and stellar mass black holes have Rm Gt Rmcrit. Thus, we
+  suggest that the strong Pm dependence seen in recent simulations does not occur
+  in real systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...740...18O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.5093
+author: Oishi, J. S. and Mac Low, M.-M.
+author_list:
+- family: Oishi
+  given: J. S.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 02:18:10 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/740/1/18
+eid: '18'
+eprint: '1102.5093'
+journal: \apj
+keywords: 'accretion, accretion disks, dynamo, instabilities, magnetohydrodynamics:
+  MHD'
+month: October
+pages: '18'
+papis_id: 613fa2cafd750de3102c68f22022c477
+primaryclass: astro-ph.SR
+ref: oishi.j.2011
+title: Magnetorotational Turbulence Transports Angular Momentum in Stratified Disks
+  with Low Magnetic Prandtl Number but Magnetic Reynolds Number above a Critical Value
+type: article
+volume: '740'
+year: '2011'

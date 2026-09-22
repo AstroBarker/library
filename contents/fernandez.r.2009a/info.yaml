@@ -1,0 +1,47 @@
+abstract: 'We examine the stability of a standing shock wave within a spherical accretion
+  flow onto a gravitating star, in the context of core-collapse supernova explosions.
+  Our focus is on the effect of nuclear dissociation below the shock on the linear
+  growth, and nonlinear saturation, of nonradial oscillations of the shocked fluid.
+  We combine two-dimensional, time-dependent hydrodynamic simulations using FLASH2.5
+  with a solution to the linear eigenvalue problem, and demonstrate the consistency
+  of the two approaches. Previous studies of this "standing accretion shock instability"
+  (SASI) have focused either on zero-energy accretion flows without nuclear dissociation,
+  or made use of a detailed finite-temperature nuclear equation of state and included
+  strong neutrino heating. Our main goal in this and subsequent papers is to introduce
+  equations of state of increasing complexity, in order to isolate the various competing
+  effects. In this work, we employ an ideal gas equation of state with a constant
+  rate of nuclear dissociation below the shock, and do not include neutrino heating.
+  We find that a negative Bernoulli parameter below the shock significantly lowers
+  the real frequency, growth rate, and saturation amplitude of the SASI. A decrease
+  in the adiabatic index has similar effects. The nonlinear development of the instability
+  is characterized by an expansion of the shock driven by turbulent kinetic energy
+  at nearly constant internal energy. Our results also provide further insight into
+  the instability mechanism: the rate of growth of a particular mode is fastest when
+  the radial advection time from the shock to the accretor overlaps with the period
+  of a standing lateral sound wave. The fastest-growing mode can therefore be modified
+  by nuclear dissociation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...697.1827F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.2795
+author: Fernández, R. and Thompson, C.
+author_list:
+- family: Fernández
+  given: R.
+- family: Thompson
+  given: C.
+date-added: 2017-08-10 14:43:35 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/697/2/1827
+eprint: '0811.2795'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, nuclear reactions, nucleosynthesis, abundances,
+  shock waves, supernovae: general'
+month: June
+pages: 1827--1841
+papis_id: 8ad235a85c540e810f04a84980b7b5c7
+ref: fernandez.r.2009a
+title: Stability of a Spherical Accretion Shock with Nuclear Dissociation
+type: article
+volume: '697'
+year: '2009'

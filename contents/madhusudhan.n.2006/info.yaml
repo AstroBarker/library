@@ -1,0 +1,50 @@
+abstract: We have computed models for ultraluminous X-ray sources (ULXs) consisting
+  of a black hole accretor of intermediate mass (IMBH; e.g., ~1000 Msolar) and a captured
+  donor star. For each of four different sets of initial donor masses and orbital
+  separations we computed 30,000 binary evolution models using a full Henyey stellar
+  evolution code. To our knowledge, this is the first time that a population of X-ray
+  binaries this large has been carried out with other than approximation methods,
+  and it serves to demonstrate the feasibility of this approach to large-scale population
+  studies of mass transfer binaries. In the present study, we find that in order to
+  have a plausible efficiency for producing active ULX systems with IMBHs having luminosities
+  >~1040 ergs s-1, there are two basic requirements for the capture of companion/donor
+  stars. First, the donor stars should be massive, i.e., >~8 Msolar. Second, the initial
+  orbital separations after circularization should be close, i.e., <~6-30 times the
+  radius of the donor star when on the main sequence. Even under these optimistic
+  conditions, we show that the production rate of IMBH-ULX systems may fall short
+  of the observed values by factors of 10-100.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640..918M
+arxivurl: http://arxiv.org/abs/astro-ph/0511393
+author: Madhusudhan, N. and Justham, S. and Nelson, L. and Paxton, B. and Pfahl, E.
+  and Podsiadlowski, P. and Rappaport, S.
+author_list:
+- family: Madhusudhan
+  given: N.
+- family: Justham
+  given: S.
+- family: Nelson
+  given: L.
+- family: Paxton
+  given: B.
+- family: Pfahl
+  given: E.
+- family: Podsiadlowski
+  given: P.
+- family: Rappaport
+  given: S.
+date-added: 2017-08-11 04:27:49 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500238
+eprint: astro-ph/0511393
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: General, Black Hole Physics,
+  Galaxies: Star Clusters, X-Rays: Binaries'
+month: April
+pages: 918--922
+papis_id: f6c99aa5fa09f1ca79687cc9685b074f
+ref: madhusudhan.n.2006
+title: Models of Ultraluminous X-Ray Sources with Intermediate-Mass Black Holes
+type: article
+volume: '640'
+year: '2006'

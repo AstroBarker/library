@@ -1,0 +1,75 @@
+abstract: Stationary MHD outflows from a rotating accretion disk are investigated
+  numerically by time-dependent axisymmetric simulations. The initial magnetic field
+  is taken to be a split-monopole poloidal field configuration frozen into the disk.
+  The disk is treated as a perfectly conducting, time-independent density boundary
+  [rho(r)] in Keplerian rotation. The outflow velocity from this surface is not specified
+  but rather is determined self-consistently from the MHD equations. The temperature
+  of the matter outflowing from the disk is small in the region where the magnetic
+  field is inclined away from the symmetry axis (c2s<<v2K) but relatively high (c2s<~v2K)
+  at very small radii in the disk, where the magnetic field is not inclined away from
+  the axis. We have found a large class of stationary MHD winds. Within the simulation
+  region, the outflow accelerates from thermal velocity (~cs) to a much larger asymptotic
+  poloidal flow velocity of the order of 1/2sqrt(GM/ri), where M is the mass of the
+  central object and ri is the inner radius of the disk. This asymptotic velocity
+  is much larger than the local escape speed and is larger than fast magnetosonic
+  speed by a factor of ~1.75. The acceleration distance for the outflow, over which
+  the flow accelerates from ~0\% to, say, 90\% of the asymptotic speed, occurs at
+  a flow distance of about 80ri. The outflows are approximately spherical, with only
+  small collimation within the simulation region. The collimation distance over which
+  the flow becomes collimated (with divergence less than, say, 100) is much larger
+  than the size of our simulation region. Close to the disk the outflow is driven
+  by the centrifugal force, while at all larger distances the flow is driven by the
+  magnetic force, which is proportional to -\bigtriangledown{}(rBphi)2, where Bphi
+  is the toroidal field. Our stationary numerical solutions allow us to (1) compare
+  the results with MHD theory of stationary flows, (2) investigate the influence of
+  different outer boundary conditions on the flows, and (3) investigate the influence
+  of the shape of the simulation region on the flows. Different comparisons were made
+  with the theory. The ideal MHD integrals of motion (constants on flux surfaces)
+  were calculated along magnetic field lines and were shown to be constants with an
+  accuracy of 5\%-15\%. Other characteristics of the numerical solutions were compared
+  with the theory, including conditions at the Alfv{\'e}n surface. Different outer
+  boundary conditions on the toroidal component of the magnetic field were investigated.
+  We conclude that the commonly used ``free'' boundary condition on the toroidal field
+  leads to artificial magnetic forces on the outer boundaries, which can significantly
+  influence to the calculated flows. New outer boundary conditions are proposed and
+  investigated that do not give artificial forces. We show that simulated flows may
+  depend on the shape of the simulation region. Namely, if the simulation region is
+  elongated in the z-direction, then Mach cones on the outer cylindrical boundary
+  may be partially directed inside the simulation region. Because of this, the boundary
+  can have an artificial influence on the calculated flow. This effect is reduced
+  if the computational region is approximately square or if it is spherical. Simulations
+  of MHD outflows with an elongated computational region can lead to artificial collimation
+  of the flow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...516..221U
+arxivurl: http://arxiv.org/abs/astro-ph/9812284
+author: Ustyugova, G. V. and Koldoba, A. V. and Romanova, M. M. and Chechetkin, V.
+  M. and Lovelace, R. V. E.
+author_list:
+- family: Ustyugova
+  given: G. V.
+- family: Koldoba
+  given: A. V.
+- family: Romanova
+  given: M. M.
+- family: Chechetkin
+  given: V. M.
+- family: Lovelace
+  given: R. V. E.
+date-added: 2017-08-10 23:00:29 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307093
+eprint: astro-ph/9812284
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, GALAXIES: JETS, ISM: JETS AND OUTFLOWS, ISM:
+  MAGNETIC FIELDS, MAGNETOHYDRODYNAMICS: MHD, PLASMAS, Accretion, Accretion Disks,
+  Galaxies: Jets, ISM: Jets and Outflows, ISM: Magnetic Fields, Magnetohydrodynamics:
+  MHD, Plasmas'
+month: May
+pages: 221--235
+papis_id: 0f890217a79d5362dc9cc1ce77ffbd4d
+ref: ustyugova.g.1999
+title: 'Magnetocentrifugally Driven Winds: Comparison of MHD Simulations with Theory'
+type: article
+volume: '516'
+year: '1999'

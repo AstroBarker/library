@@ -1,0 +1,64 @@
+abstract: The early stages of decelerating gamma-ray burst (GRB) afterglow jets have
+  been notoriously difficult to resolve numerically using two-dimensional hydrodynamical
+  simulations even at very high resolution, due to the extreme thinness of the blast
+  wave and high outflow Lorentz factors. However, these resolution issues can be avoided
+  by performing the simulations in a boosted frame, which makes it possible to calculate
+  afterglow light curves from numerically computed flows in sufficient detail to accurately
+  quantify the shape of the jet break and the post-break steepening of the light curve.
+  Here, we study afterglow jet breaks for jets with opening angles of 0.05, 0.1, and
+  0.2 radians decelerating in a surrounding medium of constant density, observed at
+  various angles ranging from on-axis to the edge of the jet. A single set of scale-invariant
+  functions describing the time evolution of afterglow synchrotron spectral break
+  frequencies and peak flux, depending only on jet opening angle and observer angle,
+  are all that is needed to reconstruct light curves for arbitrary explosion energy,
+  circumburst density and synchrotron particle distribution power law slope p. These
+  functions are presented in the paper. Their time evolutions change directly following
+  the jet break, although an earlier reported temporary post-break steepening of the
+  cooling break is found to have been resolution-induced. We compare synthetic light
+  curves to fit functions using sharp power law breaks as well as smooth power law
+  transitions. We confirm our earlier finding that the measured jet break time is
+  very sensitive to the angle of the observer and can be postponed significantly.
+  We find that the difference in temporal indices across the jet break is larger than
+  theoretically anticipated and is about -(0.5 + 0.5p) below the cooling break and
+  about -(0.25 + 0.5p) above the cooling break, both leading to post-break slopes
+  of roughly about 0.25 - 1.3p, although different observer angles, jet opening angles
+  and heuristic descriptions of the break introduce a wide range of temporal indices.
+  Nevertheless, the post-break slope from our constant density interstellar medium
+  simulations is sufficiently steep to be hard to reconcile with post-break slopes
+  measured for the Swift sample, suggesting that Swift GRBs mostly do not explode
+  in a homogeneous medium or that the jet breaks are hidden from view by additional
+  physics such as prolonged energy injection or viewing angle effects. A comparison
+  between different smooth power law fit functions shows that although smooth power
+  law transitions of the type introduced by Harrison et al. often provide better fits,
+  smooth power law transitions of the type introduced by Beuermann et al. or even
+  sharp power law fits are easier to interpret in terms of the underlying model. Light
+  curves and spectral break and peak flux evolution functions will be made publicly
+  available online at http://cosmo.nyu.edu/afterglowlibrary.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...767..141V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.1985
+author: van Eerten, H. and MacFadyen, A.
+author_list:
+- family: van Eerten
+  given: H.
+- family: MacFadyen
+  given: A.
+date-added: 2017-08-11 07:02:31 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/767/2/141
+eid: '141'
+eprint: '1209.1985'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, methods: data analysis, methods:
+  numerical, shock waves'
+month: April
+pages: '141'
+papis_id: a41b7174c022b143ca3e43ed180fe4e6
+primaryclass: astro-ph.HE
+ref: van_eerten.h.2013
+title: Gamma-Ray Burst Afterglow Light Curves from a Lorentz-boosted Simulation Frame
+  and the Shape of the Jet Break
+type: article
+volume: '767'
+year: '2013'

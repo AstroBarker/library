@@ -1,0 +1,49 @@
+abstract: We conduct an analytic and numerical study of the dynamics of supernova
+  remnant (SNR) evolution from the ejecta-dominated stage through the Sedov-Taylor
+  (ST) stage, the stages that precede the onset of dynamically significant radiative
+  losses and/or pressure confinement by the ambient medium. We assume spherical symmetry
+  and focus on the evolution of ejecta described by a power-law density distribution
+  expanding into a uniform ambient medium. We emphasize that all nonradiative remnants
+  of a given power-law structure evolve according to a single unified solution, and
+  we discuss this general property in detail. Use of dimensionless quantities constructed
+  from the characteristic dimensional parameters of the problem--the ejecta energy,
+  ejecta mass, and ambient density--makes the unified nature of the solution manifest.
+  It is also possible to obtain a unified solution for the ST and radiative stages
+  of evolution, and we place our work in the context of scaling laws for solutions
+  for SNR evolution in those stages. We present numerical simulations of the flow
+  and approximate analytic solutions for the motions of both the reverse shock and
+  blast-wave shock. These solutions follow the shocks through the nonradiative stages
+  of remnant evolution across periods of self-similar flow linked by non-self-similar
+  behavior. We elucidate the dependence of the ejecta-dominated evolution on the ejecta
+  power-law index n by developing a general trajectory for all n and explaining its
+  relation to the solutions of Chevalier and Nadyozhin for n>5 and Hamilton \& Sarazin
+  for n=0. We demonstrate excellent agreement between our analytic solutions and numerical
+  simulations. These solutions should be valuable in describing remnants such as SN
+  1006, Tycho, Kepler, Cassiopeia A, and other relatively young SNRs that are between
+  the early ejecta-dominated stage and the late Sedov-Taylor stage. In appendices,
+  we extend our results to power-law ambient media, and we describe an early period
+  of the evolution in which the SNR is radiative and evolves according to a nonunified
+  solution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJS..120..299T
+author: Truelove, J. K. and McKee, C. F.
+author_list:
+- family: Truelove
+  given: J. K.
+- family: McKee
+  given: C. F.
+date-added: 2017-08-10 17:28:31 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/313176
+journal: \apjs
+keywords: 'HYDRODYNAMICS, SHOCK WAVES, ISM: SUPERNOVA REMNANTS, STARS: SUPERNOVAE:
+  GENERAL, Hydrodynamics, Shock Waves, ISM: Supernova Remnants, Stars: Supernovae:
+  General'
+month: February
+pages: 299--326
+papis_id: a92a5aaa2c22290f5c83a5e2d33d0f0f
+ref: truelove.j.1999
+title: Evolution of Nonradiative Supernova Remnants
+type: article
+volume: '120'
+year: '1999'

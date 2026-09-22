@@ -1,0 +1,40 @@
+abstract: We consider a subset of the physical processes that determine the spin j\equiv{}a/M
+  of astrophysical black holes. These include (1) Initial conditions. Recent models
+  suggest that the collapse of a supermassive star is likely to produce a black hole
+  with j~0.7. (2) Major mergers. The outcome of a nearly equal mass black hole-black
+  hole merger is not yet known, but we review the current best guesses and analytic
+  bounds. (3) Minor mergers. We recover the result of Blandford \& Hughes that accretion
+  of small companions with isotropically distributed orbital angular momenta results
+  in spin-down, with j~M-7/3. (4) Accretion. We present new results from fully relativistic
+  magnetohydrodynamic (MHD) accretion simulations. These show that, at least for one
+  sequence of flow models, spin equilibrium (dj/dt=0) is reached for j~0.9, far less
+  than the canonical value 0.998 of Thorne that was derived in the absence of MHD
+  effects. This equilibrium value may be inapplicable to some accretion flows, particularly
+  thin disks. Nevertheless, it opens the possibility that black holes that have grown
+  primarily through accretion are not maximally rotating.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...602..312G
+arxivurl: http://arxiv.org/abs/astro-ph/0310886
+author: Gammie, C. F. and Shapiro, S. L. and McKinney, J. C.
+author_list:
+- family: Gammie
+  given: C. F.
+- family: Shapiro
+  given: S. L.
+- family: McKinney
+  given: J. C.
+date-added: 2017-08-11 03:16:16 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380996
+eprint: astro-ph/0310886
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Methods: Numerical, Magnetohydrodynamics:
+  MHD'
+month: February
+pages: 312--319
+papis_id: 5a53af6a621a551d065a4d2ca9dbf897
+ref: gammie.c.2004
+title: Black Hole Spin Evolution
+type: article
+volume: '602'
+year: '2004'

@@ -1,0 +1,36 @@
+abstract: 'Starting from Wilson''s (1982) idea that the supernova gets its energy
+  from neutrinos heating the mantle of the star, I use the neutrino observations to
+  find the available neutrino flux. This agrees well with computations by Wilson and
+  Mayle (1989), using ''neutron fingers''. In the mantle of the star, one can define
+  a ''gain radius'': outside this radius, the energy gain from neutrino absorption
+  is greater than the energy loss by electron capture. The temperature and density
+  are calculated from simple arguments for r greater than 100 km. In the region where
+  free nucleons dominate, the entropy is assumed to be constant; in the region where
+  nucleons and alpha particles are mixed, the fraction of nucleons is determined from
+  the internal energy. One can then calculate the fraction of neutrino energy which
+  can be transferred to the region outside the gain radius; this turns out to be 1-2
+  percent. With the observed neutrino flux, this gives a supernova energy of 0.8 foe
+  (1 foe = 10 exp 51 ergs); nucleosynthesis adds about 0.4 foe, for a total of 1.2
+  foe, compared with the observed energy of 1.4 +/- 0.4 foe. It is shown that, and
+  why, the shock wave starts only after some delay.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...412..192B
+author: Bethe, H. A.
+author_list:
+- family: Bethe
+  given: H. A.
+date-added: 2017-08-11 06:30:30 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172911
+journal: \apj
+keywords: Computational Astrophysics, Neutrinos, Nuclear Astrophysics, Stellar Interiors,
+  Supernova 1987a, Electron Capture, Shock Fronts, Shock Waves, Stellar Convection,
+  Stellar Mass Accretion, Stellar Structure, Temperature Distribution
+month: July
+pages: 192--202
+papis_id: 66a9c726e9d663811d9d2561fda30daa
+ref: bethe.h.1993
+title: SN 1987A - an empirical and analytic approach
+type: article
+volume: '412'
+year: '1993'

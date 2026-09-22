@@ -1,0 +1,52 @@
+abstract: We have extended the ANTARES code to simulate the coupling of pulsation
+  with convection in Cepheid-like variables in an increasingly realistic way, in particular
+  in multidimensions, 2D at this stage. Present-day models of radially pulsating stars
+  assume radial symmetry and have the pulsation-convection interaction included via
+  model equations containing ad hoc closures and moreover parameters whose values
+  are barely known. We intend to construct ever more realistic multidimensional models
+  of Cepheids. In this paper, the first of a series, we describe the basic numerical
+  approach and how it is motivated by physical properties of these objects which are
+  sometimes more, sometimes less obvious. For the construction of appropriate models
+  a polar grid comoving with the mean radial velocity has been introduced to optimize
+  radial resolution throughout the different pulsation phases. The grid is radially
+  stretched to account for the change of spatial scales due to vertical stratification
+  and a new grid refinement scheme is introduced to resolve the upper, hydrogen ionization
+  zone where the gradient of temperature is steepest. We demonstrate that the simulations
+  are not conservative when the original weighted essentially non-oscillatory method
+  implemented in ANTARES is used and derive a new scheme which allows a conservative
+  time evolution. The numerical approximation of diffusion follows the same principles.
+  Moreover, the radiative transfer solver has been modified to improve the efficiency
+  of calculations on parallel computers. We show that with these improvements, the
+  ANTARES code can be used for realistic simulations of the convection-pulsation interaction
+  in Cepheids. We discuss the properties of several numerical models of this kind
+  which include the upper 42 per cent of a Cepheid along its radial coordinate and
+  assume different opening angles. The models are suitable for an in-depth study of
+  convection and pulsation in these objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.435.3191M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2952
+author: Mundprecht, E. and Muthsam, H. J. and Kupka, F.
+author_list:
+- family: Mundprecht
+  given: E.
+- family: Muthsam
+  given: H. J.
+- family: Kupka
+  given: F.
+date-added: 2017-08-10 18:32:46 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnras/stt1511
+eprint: '1209.2952'
+journal: \mnras
+keywords: 'convection, hydrodynamics, methods: numerical, stars: variables: Cepheids'
+month: November
+pages: 3191--3205
+papis_id: 2cfa89345bbc99e5930c097fc57a7ce0
+primaryclass: astro-ph.SR
+ref: mundprecht.e.2013
+title: Multidimensional realistic modelling of Cepheid-like variables - I. Extensions
+  of the ANTARES code
+type: article
+volume: '435'
+year: '2013'

@@ -1,0 +1,61 @@
+abstract: 'Context. Global magnetohydrodynamic simulations show the growth of Kelvin-Helmholtz
+  instabilities at the contact surface of two merging neutron stars. That region has
+  been identified as the site of efficient amplification of magnetic fields. However,
+  these global simulations, due to numerical limitations, were unable to determine
+  the saturation level of the field strength, and thus the possible back-reaction
+  of the magnetic field onto the flow.  Aims: We investigate the amplification of
+  initially weak magnetic fields in Kelvin-Helmholtz unstable shear flows, and the
+  back-reaction of the field onto the flow.  Methods: We use a high-resolution finite-volume
+  ideal MHD code to perform 2D and 3D local simulations of hydromagnetic shear flows,
+  both for idealized systems and simplified models of merger flows.  Results: In 2D,
+  the magnetic field is amplified on time scales of less than 0.01 ms until it reaches
+  locally equipartition with the kinetic energy. Subsequently, it saturates due to
+  resistive instabilities that disrupt the Kelvin-Helmholtz unstable vortex and decelerate
+  the shear flow on a secular time scale. We determine scaling laws of the field amplification
+  with the initial field strength and the grid resolution. In 3D, the hydromagnetic
+  mechanism seen in 2D may be dominated by purely hydrodynamic instabilities leading
+  to less filed amplification. We find maximum magnetic fields ~1016 G locally, and
+  rms maxima within the box ~1015 G. However, due to the fast decay of the shear flow
+  such strong fields exist only for a short period (<0.1 ms). In the saturated state
+  of most models, the magnetic field is mainly oriented parallel to the shear flow
+  for rather strong initial fields, while weaker initial fields tend to lead to a
+  more balanced distribution of the field energy among the components. In all models
+  the flow shows small-scale features. The magnetic field is at most in energetic
+  equipartition with the decaying shear flow.  Conclusions: The magnetic field may
+  be amplified efficiently to very high field strengths, the maximum field energy
+  reaching values of the order of the kinetic energy associated with the velocity
+  components transverse to the interface between the two neutron stars. However, the
+  dynamic impact of the field onto the flow is limited to the shear layer, and it
+  may not be adequate to produce outflows, because the time during which the magnetic
+  field stays close to its maximum value is short compared to the time scale for launching
+  an outflow (i.e., a few milliseconds).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...515A..30O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.6031
+author: Obergaulinger, M. and Aloy, M. A. and Müller, E.
+author_list:
+- family: Obergaulinger
+  given: M.
+- family: Aloy
+  given: M. A.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 16:05:29 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1051/0004-6361/200913386
+eid: A30
+eprint: '1003.6031'
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), instabilities, turbulence, stars: neutron,
+  gamma-ray burst: general'
+month: June
+pages: A30
+papis_id: 0311a8b4de3c030ec0128f05cefae659
+primaryclass: astro-ph.SR
+ref: obergaulinger.m.2010
+title: Local simulations of the magnetized Kelvin-Helmholtz instability in neutron-star
+  mergers
+type: article
+volume: '515'
+year: '2010'

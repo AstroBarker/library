@@ -1,0 +1,45 @@
+abstract: We show that converging spherical and cylindrical shock waves may ignite
+  a detonation wave in a combustible medium, provided the radius at which the shocks
+  become strong exceeds a critical radius, R crit. An approximate analytic expression
+  for R crit is derived for an ideal gas equation of state and a simple (power-law-Arrhenius)
+  reaction law, and shown to reproduce the results of numerical solutions. For typical
+  acetylene-air experiments we find R crit ~ 100 mum (spherical) and R crit ~ 1 mm
+  (cylindrical). We suggest that the deflagration to detonation transition (DDT) observed
+  in these systems may be due to converging shocks produced by the turbulent deflagration
+  flow, which reaches sub- (but near) sonic velocities on scales GtR crit. Our suggested
+  mechanism differs from that proposed by Zel'dovich et al., in which a fine-tuned
+  spatial gradient in the chemical induction time is required to be maintained within
+  the turbulent deflagration flow. Our analysis may be readily extended to more complicated
+  equations of state and reaction laws. An order of magnitude estimate of R crit within
+  a white dwarf at the pre-detonation conditions believed to lead to Type Ia supernova
+  explosions is 0.1 km, suggesting that our proposed mechanism may be relevant for
+  DDT initiation in these systems. The relevance of our proposed ignition mechanism
+  to DDT initiation may be tested by both experiments and numerical simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...752...89K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4690
+author: Kushnir, D. and Livne, E. and Waxman, E.
+author_list:
+- family: Kushnir
+  given: D.
+- family: Livne
+  given: E.
+- family: Waxman
+  given: E.
+date-added: 2017-08-10 15:28:03 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/752/2/89
+eid: '89'
+eprint: '1108.4690'
+journal: \apj
+keywords: 'hydrodynamics, shock waves, supernovae: individual: Ia'
+month: June
+pages: '89'
+papis_id: c3aebb312c282421ba1d02324369472a
+primaryclass: astro-ph.HE
+ref: kushnir.d.2012
+title: Imploding Ignition Waves. I. One-dimensional Analysis
+type: article
+volume: '752'
+year: '2012'

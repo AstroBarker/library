@@ -1,0 +1,47 @@
+abstract: We present a numerical method for the study of double white dwarf (DWD)
+  binary systems at the onset of super-Eddington mass transfer. We incorporate the
+  physics of ideal inviscid hydrodynamical flow, Newtonian self-gravity, and radiation
+  transport on a three-dimensional uniformly rotating cylindrical Eulerian grid. Care
+  has been taken to conserve the key physical quantities such as angular momentum
+  and energy. Our new method conserves total energy to a higher degree of accuracy
+  than other codes that are presently being used to model mass transfer in DWD systems.
+  We present the results of verification tests and simulate the first 20 + orbits
+  of a binary system of mass ratio q = 0.7 at the onset of dynamically unstable direct
+  impact mass transfer. The mass transfer rate quickly exceeds the critical Eddington
+  limit by many orders of magnitude, and thus we are unable to model a trans-Eddington
+  phase. It appears that radiation pressure does not significantly affect the accretion
+  flow in the highly super-Eddington regime. An optically thick common envelope forms
+  around the binary within a few orbits. Although this envelope quickly exceeds the
+  spatial domain of the computational grid, the fraction of the common envelope that
+  exceeds zero gravitational binding energy is extremely small, suggesting that radiation-driven
+  mass loss is insignificant in this regime. It remains to be seen whether simulations
+  that capture the trans-Eddington phase of such flows will lead to the same conclusion
+  or show that substantial material gets expelled.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..199...35M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.6208
+author: Marcello, D. C. and Tohline, J. E.
+author_list:
+- family: Marcello
+  given: D. C.
+- family: Tohline
+  given: J. E.
+date-added: 2017-08-10 19:15:46 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0067-0049/199/2/35
+eid: '35'
+eprint: '1404.6208'
+journal: \apjs
+keywords: 'binaries: close, gravitation, hydrodynamics, methods: numerical, radiative
+  transfer, white dwarfs'
+month: April
+pages: '35'
+papis_id: cc83d3f7e10f9825606f5ffd3a9ff95e
+primaryclass: astro-ph.SR
+ref: marcello.d.2012
+title: A Numerical Method for Studying Super-Eddington Mass Transfer in Double White
+  Dwarf Binaries
+type: article
+volume: '199'
+year: '2012'

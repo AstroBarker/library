@@ -1,0 +1,44 @@
+abstract: We describe a generic infrastructure for time evolution simulations in numerical
+  relativity using multiple grid patches. After a motivation of this approach, we
+  discuss the relative advantages of global and patch-local tensor bases. We describe
+  both our multi-patch infrastructure and our time evolution scheme, and comment on
+  adaptive time integrators and parallelization. We also describe various patch system
+  topologies that provide spherical outer and/or multiple inner boundaries. We employ
+  penalty inter-patch boundary conditions, and we demonstrate the stability and accuracy
+  of our three-dimensional implementation. We solve both a scalar wave equation on
+  a stationary rotating black hole background and the full Einstein equations. For
+  the scalar wave equation, we compare the effects of global and patch-local tensor
+  bases, different finite differencing operators and the effect of artificial dissipation
+  onto stability and accuracy. We show that multi-patch systems can directly compete
+  with the so-called fixed mesh refinement approach; however, one can also combine
+  both. For the Einstein equations, we show that using multiple grid patches with
+  penalty boundary conditions leads to a robustly stable system. We also show long-term
+  stable and accurate evolutions of a one-dimensional nonlinear gauge wave. Finally,
+  we evolve weak gravitational waves in three dimensions and extract accurate waveforms,
+  taking advantage of the spherical shape of our grid lines.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23S.553S
+author: Schnetter, E. and Diener, P. and Dorband, E. N. and Tiglio, M.
+author_list:
+- family: Schnetter
+  given: E.
+- family: Diener
+  given: P.
+- family: Dorband
+  given: E. N.
+- family: Tiglio
+  given: M.
+date-added: 2017-08-10 18:55:54 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1088/0264-9381/23/16/S14
+eprint: gr-qc/0602104
+journal: Classical and Quantum Gravity
+month: August
+pages: S553-S578
+papis_id: f5674eb9cdb6608d5aa5babe48e5f61d
+ref: schnetter.e.2006
+title: A multi-block infrastructure for three-dimensional time-dependent numerical
+  relativity
+type: article
+volume: '23'
+year: '2006'

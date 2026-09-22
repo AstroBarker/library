@@ -1,0 +1,56 @@
+abstract: Using the latest stellar evolution models, theoretical stellar spectra,
+  and a compilation of observed emission line strengths from Wolf-Rayet (W-R) stars,
+  we construct evolutionary synthesis models for young starbursts. We explicitly distinguish
+  between the various W-R subtypes (WN, WC, WO), whose relative frequency is a strong
+  function of metallicity, and we treat O and Of stars separately.  We calculate the
+  numbers of O and W-R stars produced during a starburst and provide detailed predictions
+  of UV and optical emission line strengths for both the W-R stellar lines and the
+  major nebular hydrogen and helium emission lines, as a function of several input
+  parameters related to the starburst episode. We also derive the theoretical frequency
+  of W-R-rich starbursts.  Our models predict that nebular He II lambda4686 emission
+  from a low-metallicity starburst should be associated with the presence of WC/WO
+  stars and/or hot WN stars evolving to become WC/WO stars. In addition, W-R stars
+  contribute to broad components beneath the nebular Balmer lines; the broad W-R component
+  may constitute several percent of the total flux in the line.  We review the various
+  techniques used to derive the W-R and O star content from integrated spectra, assess
+  their accuracy, and propose two new formulae to estimate the W-R/O number ratio
+  from UV or optical spectra.  We also explore the implications of the formation of
+  W-R stars through mass transfer in close binary systems in instantaneous bursts.
+  While the formation of W-R stars through Roche lobe overflow prolongs the W-R-dominated
+  phase, there are clear observational signatures that allow us to distinguish the
+  phases in which W-R stars are formed predominantly through single or binary star
+  channels. In particular at low metallicities, when massive close binaries contribute
+  significantly to the formation of W-R stars, the binary-dominated phase is expected
+  to occur at ages corresponding to relatively low Hbeta equivalent widths.  The observational
+  features predicted by our models allow a detailed quantitative determination of
+  the massive star population in a starburst region (particularly in so-called ``W-R
+  galaxies'') from its integrated spectrum and provide a means of deriving the burst
+  properties (e.g., duration and age) and the parameters of the initial mass function
+  of young starbursts. The model predictions should provide the most reliable determinations
+  to date. They can also be used to test current theories of massive star evolution
+  and atmospheres and to investigate the variation in stellar properties with metallicity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...497..618S
+arxivurl: http://arxiv.org/abs/astro-ph/9711140
+author: Schaerer, D. and Vacca, W. D.
+author_list:
+- family: Schaerer
+  given: D.
+- family: Vacca
+  given: W. D.
+date-added: 2017-08-10 17:16:13 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305487
+eprint: astro-ph/9711140
+journal: \apj
+keywords: 'GALAXIES: STARBURST, GALAXIES: STELLAR CONTENT, ISM: H II REGIONS, STARS:
+  WOLF-RAYET, Galaxies: Starburst, Galaxies: Stellar Content, ISM: H II Regions, Stars:
+  Wolf-Rayet'
+month: April
+pages: 618--644
+papis_id: 0c0a4b9e6314fa0e0ee246de04afddb1
+ref: schaerer.d.1998
+title: New Models for Wolf-Rayet and O Star Populations in Young Starbursts
+type: article
+volume: '497'
+year: '1998'

@@ -1,0 +1,48 @@
+abstract: We have constructed a comprehensive statistical model for Type Ia supernova
+  (SN Ia) light curves spanning optical through near-infrared (NIR) data. A hierarchical
+  framework coherently models multiple random and uncertain effects, including intrinsic
+  supernova (SN) light curve covariances, dust extinction and reddening, and distances.
+  An improved BAYESN Markov Chain Monte Carlo code computes probabilistic inferences
+  for the hierarchical model by sampling the global probability density of parameters
+  describing individual SNe and the population. We have applied this hierarchical
+  model to optical and NIR data of 127 SNe Ia from PAIRITEL, CfA3, Carnegie Supernova
+  Project, and the literature. We find an apparent population correlation between
+  the host galaxy extinction AV and the ratio of total-to-selective dust absorption
+  RV . For SNe with low dust extinction, AV <~ 0.4, we find RV \approx{} 2.5-2.9,
+  while at high extinctions, AV >~ 1, low values of RV < 2 are favored. The NIR luminosities
+  are excellent standard candles and are less sensitive to dust extinction. They exhibit
+  low correlation with optical peak luminosities, and thus provide independent information
+  on distances. The combination of NIR and optical data constrains the dust extinction
+  and improves the predictive precision of individual SN Ia distances by about 60\%.
+  Using cross-validation, we estimate an rms distance modulus prediction error of
+  0.11 mag for SNe with optical and NIR data versus 0.15 mag for SNe with optical
+  data alone. Continued study of SNe Ia in the NIR is important for improving their
+  utility as precise and accurate cosmological distance indicators.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...731..120M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.5910
+author: Mandel, K. S. and Narayan, G. and Kirshner, R. P.
+author_list:
+- family: Mandel
+  given: K. S.
+- family: Narayan
+  given: G.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-10 18:22:19 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/731/2/120
+eid: '120'
+eprint: '1011.5910'
+journal: \apj
+keywords: 'distance scale, methods: statistical, supernovae: general'
+month: April
+pages: '120'
+papis_id: 7f859b0d3fdd0fe3451c2f775f45bbce
+ref: mandel.k.2011
+title: 'Type Ia Supernova Light Curve Inference: Hierarchical Models in the Optical
+  and Near-infrared'
+type: article
+volume: '731'
+year: '2011'

@@ -1,0 +1,46 @@
+abstract: 'Context. In the absence of rotation and shear, and under the assumption
+  of constant temperature or specific entropy, purely potential forcing by localized
+  expansion waves is known to produce irrotational flows that have no vorticity.  Aims:
+  Here we study the production of vorticity under idealized conditions when there
+  is rotation, shear, or baroclinicity, to address the problem of vorticity generation
+  in the interstellar medium in a systematic fashion.  Methods: We use three-dimensional
+  periodic box numerical simulations to investigate the various effects in isolation.  Results:
+  We find that for slow rotation, vorticity production in an isothermal gas is small
+  in the sense that the ratio of the root-mean-square values of vorticity and velocity
+  is small compared with the wavenumber of the energy-carrying motions. For Coriolis
+  numbers above a certain level, vorticity production saturates at a value where the
+  aforementioned ratio becomes comparable with the wavenumber of the energy-carrying
+  motions. Shear also raises the vorticity production, but no saturation is found.
+  When the assumption of isothermality is dropped, there is significant vorticity
+  production by the baroclinic term once the turbulence becomes supersonic. In galaxies,
+  shear and rotation are estimated to be insufficient to produce significant amounts
+  of vorticity, leaving therefore only the baroclinic term as the most favorable candidate.
+  We also demonstrate vorticity production visually as a result of colliding shock
+  fronts.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A.145D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.5281
+author: Del Sordo, F. and Brandenburg, A.
+author_list:
+- family: Del Sordo
+  given: F.
+- family: Brandenburg
+  given: A.
+date-added: 2017-08-11 01:21:45 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201015661
+eid: A145
+eprint: '1008.5281'
+journal: \aap
+keywords: 'turbulence, dynamo, magnetohydrodynamics (MHD), ISM: bubbles, galaxies:
+  magnetic fields, galaxies: ISM'
+month: April
+pages: A145
+papis_id: 99262af270c3eb1d2f0bd0776462dee7
+primaryclass: astro-ph.GA
+ref: del_sordo.f.2011
+title: Vorticity production through rotation, shear, and baroclinicity
+type: article
+volume: '528'
+year: '2011'

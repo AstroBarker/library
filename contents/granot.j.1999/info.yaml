@@ -1,0 +1,41 @@
+abstract: 'The power-law decay of gamma-ray burst (GRB) afterglow can be well described
+  by synchrotron emission from a relativistic spherical blast wave, driven by an expanding
+  fireball. We calculate the spectrum and the light curve expected from an adiabatic
+  blast wave which is described by the Blandford-McKee self-similar solution. These
+  calculations include emission from the whole blast wave and not just from the shock
+  front. We provide numerical corrections that can be used to modify simple analytic
+  estimates of such emission. We find that the expected light curve and spectra are
+  flat near the peak. This rules out the interpretation of the sharp optical peak
+  observed in GRB 970508 as the peak of the light curve. We also calculate the observed
+  image of an afterglow. This image could be resolved in future VLBI observations,
+  and its structure could influence microlensing and scintillation. The observed image
+  is ringlike: brighter near the edge and dimmer at the center. The image depends
+  on the observed frequency. The contrast between the edge and the center increases
+  and the ring becomes narrower at higher frequencies.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...513..679G
+arxivurl: http://arxiv.org/abs/astro-ph/9806192
+author: Granot, J. and Piran, T. and Sari, R.
+author_list:
+- family: Granot
+  given: J.
+- family: Piran
+  given: T.
+- family: Sari
+  given: R.
+date-added: 2017-08-11 01:56:40 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306884
+eprint: astro-ph/9806192
+journal: \apj
+keywords: 'GAMMA RAYS: BURSTS, GAMMA RAYS: THEORY, HYDRODYNAMICS, MAGNETIC FIELDS,
+  RELATIVITY, SHOCK WAVES, Gamma Rays: Bursts, Gamma Rays: Theory, Hydrodynamics,
+  Magnetic Fields, Relativity, Shock Waves'
+month: March
+pages: 679--689
+papis_id: 68142a1bb809fe097ed89577941c2cee
+ref: granot.j.1999
+title: Images and Spectra from the Interior of a Relativistic Fireball
+type: article
+volume: '513'
+year: '1999'

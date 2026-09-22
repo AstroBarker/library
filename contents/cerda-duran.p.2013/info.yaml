@@ -1,0 +1,50 @@
+abstract: We present general relativistic numerical simulations of collapsing stellar
+  cores. Our initial model consists of a low metallicity rapidly-rotating progenitor
+  which is evolved in axisymmetry with the latest version of our general relativistic
+  code CoCoNuT, which allows for black hole formation and includes the effects of
+  a microphysical equation of state (LS220) and a neutrino leakage scheme to account
+  for radiative losses. The motivation of our study is to analyze in detail the emission
+  of gravitational waves in the collapsar scenario of long gamma-ray bursts. Our simulations
+  show that the phase during which the proto-neutron star (PNS) survives before ultimately
+  collapsing to a black hole is particularly optimal for gravitational wave emission.
+  The high-amplitude waves last for several seconds and show a remarkable quasi-periodicity
+  associated with the violent PNS dynamics, namely during the episodes of convection
+  and the subsequent nonlinear development of the standing-accretion shock instability
+  (SASI). By analyzing the spectrogram of our simulations we are able to identify
+  the frequencies associated with the presence of g-modes and with the SASI motions
+  at the PNS surface. We note that the gravitational waves emitted reach large enough
+  amplitudes to be detected with third-generation detectors such as the Einstein Telescope
+  within a Virgo Cluster volume at rates <~ 0.1 yr-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...779L..18C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.8290
+author: Cerdá-Durán, P. and DeBrye, N. and Aloy, M. A. and Font, J. A. and Obergaulinger,
+  M.
+author_list:
+- family: Cerdá-Durán
+  given: P.
+- family: DeBrye
+  given: N.
+- family: Aloy
+  given: M. A.
+- family: Font
+  given: J. A.
+- family: Obergaulinger
+  given: M.
+date-added: 2017-08-10 22:26:45 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/2041-8205/779/2/L18
+eid: L18
+eprint: '1310.8290'
+journal: \apjl
+keywords: 'black hole physics, gravitational waves, stars: massive, supernovae: general'
+month: December
+pages: L18
+papis_id: 40cdf82a69176e762a59c2f03448b1fd
+primaryclass: astro-ph.SR
+ref: cerda_duran.p.2013
+title: Gravitational Wave Signatures in Black Hole Forming Core Collapse
+type: article
+volume: '779'
+year: '2013'

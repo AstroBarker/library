@@ -1,0 +1,36 @@
+abstract: A general stability analysis is given of the Kevin-Helmholtz instability,
+  for the case of sheared MHD flow of finite thickness in a compressible plasma which
+  allows for the arbitrary orientation of the magnetic field, velocity flow, and wave
+  vector in the plane perpendicular to the velocity gradient. The stability problem
+  is reduced to the solution of a single second-order differential equation including
+  a gravitational term to represent the coupling between the Kelvin-Helmholtz mode
+  and the interchange mode. Compressibility and a magnetic field component parallel
+  to the flow are found to be stabilizing effects, with destabilization of only the
+  fast magnetosonic mode in the transverse case, and the presence of both Alfven and
+  slow magnetosonic components in the parallel case. Analysis results are used in
+  a discussion of the stability of sheared plasma flow at the magnetopause boundary
+  and in the solar wind.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982JGR....87.7431M
+author: Miura, A. and Pritchett, P. L.
+author_list:
+- family: Miura
+  given: A.
+- family: Pritchett
+  given: P. L.
+date-added: 2017-08-10 23:50:38 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1029/JA087iA09p07431
+journal: \jgr
+keywords: Kelvin-Helmholtz Instability, Magnetohydrodynamic Stability, Solar Wind,
+  Space Plasmas, Compressible Fluids, Eigenvalues, Magnetopause, Solar Terrestrial
+  Interactions
+month: September
+pages: 7431--7444
+papis_id: e7e334cb4e9e6b6bb99ec3f55d27e656
+ref: miura.a.1982
+title: Nonlocal stability analysis of the MHD Kelvin-Helmholtz instability in a compressible
+  plasma
+type: article
+volume: '87'
+year: '1982'

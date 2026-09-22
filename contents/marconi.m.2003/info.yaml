@@ -1,0 +1,54 @@
+abstract: We present predicted relations connecting pulsational (period and amplitude
+  of pulsation) and evolutionary (mass, absolute magnitude, and color) parameters,
+  as based on a wide set of convective pulsating models of RR Lyrae stars with Z=0.001,
+  Y=0.24, and mass and luminosity suitable for the ``old'' (age > 8 Gyr) variables
+  observed in globular clusters. The relations are collated with sound constraints
+  on the mass of pulsators, as inferred from up-to-date evolutionary models of horizontal-branch
+  stars, in order to provide a self-consistent theoretical framework for the analysis
+  of observed variables. The theoretical predictions are tested through a detailed
+  comparison with measurements of RR Lyrae stars in the globular cluster M3. We show
+  that the predicted relations satisfy a variety of observed data, thus providing
+  a pulsational route to the determination of accurate distances to RR Lyrae-rich
+  globular clusters with intermediate metal content. We show that current uncertainties
+  on the intrinsic luminosity of up-to-date horizontal-branch models, as due to the
+  input physics used in the computations by the different authors, have a quite low
+  influence (~0.02-0.03 mag) on the pulsational distance modulus. On the contrary,
+  the effect of the different bolometric corrections adopted to convert bolometric
+  luminosity into absolute magnitude is of the order of ~0.05-0.06 mag. The pulsation
+  models are also used to perform some valuable tests on the physics adopted in current
+  stellar evolution computations. We show that the constraints inferred by pulsation
+  theory support the large value of the mixing-length parameter (l/Hp=1.9-2.0) adopted
+  to fit observed red giant branches, but that, at the same time, they would yield
+  that the luminosity of the horizontal-branch updated models is too bright by ~0.08+/-0.05
+  mag, if helium diffusion and metal diffusion are neglected. Conversely, if element
+  diffusion is properly taken into account, then there is a marginal discrepancy of
+  ~0.04+/-0.05 mag between evolutionary and pulsational predictions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...596..299M
+arxivurl: http://arxiv.org/abs/astro-ph/0306356
+author: Marconi, M. and Caputo, F. and Di Criscienzo, M. and Castellani, M.
+author_list:
+- family: Marconi
+  given: M.
+- family: Caputo
+  given: F.
+- family: Di Criscienzo
+  given: M.
+- family: Castellani
+  given: M.
+date-added: 2017-08-10 18:35:50 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/377641
+eprint: astro-ph/0306356
+journal: \apj
+keywords: 'Galaxy: Globular Clusters: Individual: Messier Number: M3, Stars: Evolution,
+  Stars: Horizontal-Branch, Stars: Variables: Other: (RR Lyrae)'
+month: October
+pages: 299--313
+papis_id: b97f2ea5257de6bbc20d0bb8f5bb44ce
+ref: marconi.m.2003
+title: RR Lyrae Stars in Galactic Globular Clusters. II. A Theoretical Approach to
+  Variables in M3
+type: article
+volume: '596'
+year: '2003'

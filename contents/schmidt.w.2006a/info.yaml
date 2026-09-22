@@ -1,0 +1,45 @@
+abstract: The dynamics of the explosive burning process is highly sensitive to the
+  flame speed model in numerical simulations of type Ia supernovae. Based upon the
+  hypothesis that the effective flame speed is determined by the unresolved turbulent
+  velocity fluctuations, we employ a new subgrid scale model which includes a localised
+  treatment of the energy transfer through the turbulence cascade in combination with
+  semi-statistical closures for the dissipation and non-local transport of turbulence
+  energy. In addition, subgrid scale buoyancy effects are included. In the limit of
+  negligible energy transfer and transport, the dynamical model reduces to the Sharp-Wheeler
+  relation. According to our findings, the Sharp-Wheeler relation is insuffcient to
+  account for the complicated turbulent dynamics of flames in thermonuclear supernovae.
+  The application of a co-moving grid technique enables us to achieve very high spatial
+  resolution in the burning region. Turbulence is produced mostly at the flame surface
+  and in the interior ash regions. Consequently, there is a pronounced anisotropy
+  in the vicinity of the flame fronts. The localised subgrid scale model predicts
+  significantly enhanced energy generation and less unburnt carbon and oxygen at low
+  velocities compared to earlier simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...450..283S
+arxivurl: http://arxiv.org/abs/astro-ph/0601500
+author: Schmidt, W. and Niemeyer, J. C. and Hillebrandt, W. and Röpke, F. K.
+author_list:
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+- family: Hillebrandt
+  given: W.
+- family: Röpke
+  given: F. K.
+date-added: 2017-08-10 15:35:48 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1051/0004-6361:20053618
+eprint: astro-ph/0601500
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, turbulence, convection, methods:,
+  numerical'
+month: April
+pages: 283--294
+papis_id: f87d63e43dcaf8e82ff9364efcb9b5a3
+ref: schmidt.w.2006a
+title: A localised subgrid scale model for fluid dynamical simulations in astrophysics.
+  II. Application to type Ia supernovae
+type: article
+volume: '450'
+year: '2006'

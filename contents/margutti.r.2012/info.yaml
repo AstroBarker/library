@@ -1,0 +1,134 @@
+abstract: We present a generalized analytic formalism for the inverse Compton X-ray
+  emission from hydrogen-poor supernovae and apply this framework to SN 2011fe using
+  Swift X-Ray Telescope (XRT), UVOT, and Chandra observations. We characterize the
+  optical properties of SN 2011fe in the Swift bands and find them to be broadly consistent
+  with a "normal" SN Ia, however, no X-ray source is detected by either XRT or Chandra.
+  We constrain the progenitor system mass-loss rate \dot{M}< 2\times 10^{-9}\ {M\_{\odot
+  }}\ yr^{-1} (3sigma c.l.) for wind velocity vw = 100 km s-1. Our result rules out
+  symbiotic binary progenitors for SN 2011fe and argues against Roche lobe overflowing
+  subgiants and main-sequence secondary stars if >~ 1\% of the transferred mass is
+  lost at the Lagrangian points. Regardless of the density profile, the X-ray non-detections
+  are suggestive of a clean environment (n CSM < 150 cm-3) for 2 \texttimes{} 1015
+  <~ R <~ 5 \texttimes{} 1016 cm around the progenitor site. This is either consistent
+  with the bulk of material being confined within the binary system or with a significant
+  delay between mass loss and supernova explosion. We furthermore combine X-ray and
+  radio limits from Chomiuk et al. to constrain the post-shock energy density in magnetic
+  fields. Finally, we searched for the shock breakout pulse using gamma-ray observations
+  from the Interplanetary Network and find no compelling evidence for a supernova-associated
+  burst. Based on the compact radius of the progenitor star we estimate that the shock
+  breakout pulse was likely not detectable by current satellites.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...751..134M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.0741
+author: Margutti, R. and Soderberg, A. M. and Chomiuk, L. and Chevalier, R. and Hurley,
+  K. and Milisavljevic, D. and Foley, R. J. and Hughes, J. P. and Slane, P. and Fransson,
+  C. and Moe, M. and Barthelmy, S. and Boynton, W. and Briggs, M. and Connaughton,
+  V. and Costa, E. and Cummings, J. and Del Monte, E. and Enos, H. and Fellows, C.
+  and Feroci, M. and Fukazawa, Y. and Gehrels, N. and Goldsten, J. and Golovin, D.
+  and Hanabata, Y. and Harshman, K. and Krimm, H. and Litvak, M. L. and Makishima,
+  K. and Marisaldi, M. and Mitrofanov, I. G. and Murakami, T. and Ohno, M. and Palmer,
+  D. M. and Sanin, A. B. and Starr, R. and Svinkin, D. and Takahashi, T. and Tashiro,
+  M. and Terada, Y. and Yamaoka, K.
+author_list:
+- family: Margutti
+  given: R.
+- family: Soderberg
+  given: A. M.
+- family: Chomiuk
+  given: L.
+- family: Chevalier
+  given: R.
+- family: Hurley
+  given: K.
+- family: Milisavljevic
+  given: D.
+- family: Foley
+  given: R. J.
+- family: Hughes
+  given: J. P.
+- family: Slane
+  given: P.
+- family: Fransson
+  given: C.
+- family: Moe
+  given: M.
+- family: Barthelmy
+  given: S.
+- family: Boynton
+  given: W.
+- family: Briggs
+  given: M.
+- family: Connaughton
+  given: V.
+- family: Costa
+  given: E.
+- family: Cummings
+  given: J.
+- family: Del Monte
+  given: E.
+- family: Enos
+  given: H.
+- family: Fellows
+  given: C.
+- family: Feroci
+  given: M.
+- family: Fukazawa
+  given: Y.
+- family: Gehrels
+  given: N.
+- family: Goldsten
+  given: J.
+- family: Golovin
+  given: D.
+- family: Hanabata
+  given: Y.
+- family: Harshman
+  given: K.
+- family: Krimm
+  given: H.
+- family: Litvak
+  given: M. L.
+- family: Makishima
+  given: K.
+- family: Marisaldi
+  given: M.
+- family: Mitrofanov
+  given: I. G.
+- family: Murakami
+  given: T.
+- family: Ohno
+  given: M.
+- family: Palmer
+  given: D. M.
+- family: Sanin
+  given: A. B.
+- family: Starr
+  given: R.
+- family: Svinkin
+  given: D.
+- family: Takahashi
+  given: T.
+- family: Tashiro
+  given: M.
+- family: Terada
+  given: Y.
+- family: Yamaoka
+  given: K.
+date-added: 2017-08-10 16:49:25 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/751/2/134
+eid: '134'
+eprint: '1202.0741'
+journal: \apj
+keywords: 'radiation mechanisms: non-thermal, supernovae: individual: SN2011fe'
+month: June
+pages: '134'
+papis_id: 0c44a7733ec263b23f4cc54ddc2ca2c3
+primaryclass: astro-ph.HE
+ref: margutti.r.2012
+title: 'Inverse Compton X-Ray Emission from Supernovae with Compact Progenitors: Application
+  to SN2011fe'
+type: article
+volume: '751'
+year: '2012'

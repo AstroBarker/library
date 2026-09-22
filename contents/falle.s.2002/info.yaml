@@ -1,0 +1,24 @@
+abstract: We show that there are simple one-dimensional problems for which the MHD
+  code, ZEUS, generates significant errors, whereas upwind conservative schemes perform
+  very well on these problems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577L.123F
+arxivurl: http://arxiv.org/abs/astro-ph/0207419
+author: Falle, S. A. E. G.
+author_list:
+- family: Falle
+  given: S. A. E. G.
+date-added: 2017-08-10 23:30:34 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344336
+eprint: astro-ph/0207419
+journal: \apjl
+keywords: 'Hydrodynamics, Methods: Numerical, Magnetohydrodynamics: MHD'
+month: October
+pages: L123-L126
+papis_id: 7a724107795739402b5d218a22699faf
+ref: falle.s.2002
+title: Rarefaction Shocks, Shock Errors, and Low Order of Accuracy in ZEUS
+type: article
+volume: '577'
+year: '2002'

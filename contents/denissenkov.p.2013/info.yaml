@@ -1,0 +1,47 @@
+abstract: Novae are cataclysmic variables driven by accretion of H-rich material onto
+  a white dwarf (WD) star from its low-mass main-sequence binary companion. New time-domain
+  observational capabilities, such as the Palomar Transient Factory and Pan-STARRS,
+  have revealed a diversity of their behavior that should be theoretically addressed.
+  Nova outbursts depend sensitively on nuclear physics data, and more readily available
+  nova simulations are needed in order to effectively prioritize experimental effort
+  in nuclear astrophysics. In this paper, we use the MESA stellar evolution code to
+  construct multicycle nova evolution sequences with CO WD cores. We explore a range
+  of WD masses and accretion rates as well as the effect of different cooling times
+  before the onset of accretion. In addition, we study the dependence on the elemental
+  abundance distribution of accreted material and convective boundary mixing at the
+  core-envelope interface. Models with such convective boundary mixing display an
+  enrichment of the accreted envelope with C and O from the underlying WD that is
+  commensurate with observations. We compare our results with the previous work and
+  investigate a new scenario for novae with the 3He-triggered convection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...762....8D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.5209
+author: Denissenkov, P. A. and Herwig, F. and Bildsten, L. and Paxton, B.
+author_list:
+- family: Denissenkov
+  given: P. A.
+- family: Herwig
+  given: F.
+- family: Bildsten
+  given: L.
+- family: Paxton
+  given: B.
+date-added: 2017-08-10 19:44:48 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/762/1/8
+eid: '8'
+eprint: '1210.5209'
+journal: \apj
+keywords: 'methods: numerical, novae, cataclysmic variables, stars: abundances, stars:
+  evolution, stars: interiors'
+month: January
+pages: '8'
+papis_id: 5c44152c39a5fba9be3414c84f933b76
+primaryclass: astro-ph.SR
+ref: denissenkov.p.2013
+title: 'MESA Models of Classical Nova Outbursts: The Multicycle Evolution and Effects
+  of Convective Boundary Mixing'
+type: article
+volume: '762'
+year: '2013'

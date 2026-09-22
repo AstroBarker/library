@@ -1,0 +1,53 @@
+abstract: We perform experimental simulations with spherical symmetry and axisymmetry
+  to understand the post-shock-revival evolution of core-collapse supernovae. Assuming
+  that the stalled shock wave is relaunched by neutrino heating and employing the
+  so-called light bulb approximation, we induce shock revival by raising the neutrino
+  luminosity up to the critical value, which is determined by dynamical simulations.
+  A 15 M \&sun; progenitor model is employed. We incorporate nuclear network calculations
+  with a consistent equation of state in the simulations to account for the energy
+  release by nuclear reactions and their feedback to hydrodynamics. Varying the shock-relaunch
+  time rather arbitrarily, we investigate the ensuing long-term evolutions systematically,
+  paying particular attention to the explosion energy and nucleosynthetic yields as
+  a function of relaunch time, or equivalently, the accretion rate at shock revival.
+  We study in detail how the diagnostic explosion energy approaches the asymptotic
+  value and which physical processes contribute in what proportions to the explosion
+  energy. Furthermore, we study the dependence of physical processes on the relaunch
+  time and the dimension of dynamics. We find that the contribution of nuclear reactions
+  to the explosion energy is comparable to or greater than that of neutrino heating.
+  In particular, recombinations are dominant over burnings in the contributions of
+  nuclear reactions. Interestingly, one-dimensional (1D) models studied in this paper
+  cannot produce the appropriate explosion energy and nickel mass simultaneously;
+  nickels are overproduced. This problem is resolved in 2D models if the shock is
+  relaunched at 300-400 ms after the bounce.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...771...27Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.4824
+author: Yamamoto, Y. and Fujimoto, S.-i. and Nagakura, H. and Yamada, S.
+author_list:
+- family: Yamamoto
+  given: Y.
+- family: Fujimoto
+  given: S.-i.
+- family: Nagakura
+  given: H.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 16:19:59 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/771/1/27
+eid: '27'
+eprint: '1209.4824'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general'
+month: July
+pages: '27'
+papis_id: 38292a4f9537a43e171ccfe990b4b851
+primaryclass: astro-ph.HE
+ref: yamamoto.y.2013
+title: Post-shock-revival Evolution in the Neutrino-heating Mechanism of Core-collapse
+  Supernovae
+type: article
+volume: '771'
+year: '2013'

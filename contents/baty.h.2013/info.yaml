@@ -1,0 +1,39 @@
+abstract: Magnetic reconnection associated to the double tearing mode is investigated
+  by means of resistive relativistic magnetohydrodynamic simulations. A linearly unstable
+  double current sheet system in two-dimensional Cartesian geometry is considered.
+  For initial perturbations of large enough longitudinal wavelengths, a fast reconnection
+  event is triggered by a secondary instability that is structurally driven by the
+  non-linear evolution of the magnetic islands. The latter reconnection phase and
+  time-scale appear to weakly depend on the plasma resistivity and magnetization parameter.
+  We discuss the possible role of such explosive reconnection dynamics to explain
+  the MeV flares observed in the Crab Pulsar nebula. Indeed, the time-scale and the
+  critical minimum wavelength give constraints on the Lorentz factor of the striped
+  wind and on the location of the emission region, respectively.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.436L..20B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.0906
+author: Baty, H. and Petri, J. and Zenitani, S.
+author_list:
+- family: Baty
+  given: H.
+- family: Petri
+  given: J.
+- family: Zenitani
+  given: S.
+date-added: 2017-08-10 16:32:48 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1093/mnrasl/slt104
+eprint: '1308.0906'
+journal: \mnras
+keywords: 'magnetic reconnection, MHD, plasmas, methods: numerical'
+month: November
+pages: L20-L24
+papis_id: 199db17be5640c94ef3595562b760ae1
+primaryclass: astro-ph.HE
+ref: baty.h.2013
+title: 'Explosive reconnection of double tearing modes in relativistic plasmas: application
+  to the Crab flares'
+type: article
+volume: '436'
+year: '2013'

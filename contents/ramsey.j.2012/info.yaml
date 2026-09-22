@@ -1,0 +1,37 @@
+abstract: A new adaptive mesh refinement (AMR) version of the ZEUS-3D astrophysical
+  magnetohydrodynamical fluid code, AZEuS, is described. The AMR module in AZEuS has
+  been completely adapted to the staggered mesh that characterizes the ZEUS family
+  of codes on which scalar quantities are zone-centered and vector components are
+  face-centered. In addition, for applications using static grids, it is necessary
+  to use higher-order interpolations for prolongation to minimize the errors caused
+  by waves crossing from a grid of one resolution to another. Finally, solutions to
+  test problems in one, two, and three dimensions in both Cartesian and spherical
+  coordinates are presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..199...13R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.4390
+author: Ramsey, J. P. and Clarke, D. A. and Men'shchikov, A. B.
+author_list:
+- family: Ramsey
+  given: J. P.
+- family: Clarke
+  given: D. A.
+- family: Men'shchikov
+  given: A. B.
+date-added: 2017-08-10 23:29:55 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0067-0049/199/1/13
+eid: '13'
+eprint: '1112.4390'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: March
+pages: '13'
+papis_id: 0257f29f12333fcdd94af0fb005abb1f
+primaryclass: astro-ph.IM
+ref: ramsey.j.2012
+title: 'AZEuS: An Adaptive Zone Eulerian Scheme for Computational Magnetohydrodynamics'
+type: article
+volume: '199'
+year: '2012'

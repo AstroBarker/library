@@ -1,0 +1,46 @@
+abstract: The Bondi-Hoyle formula gives the approximate accretion rate onto a point
+  particle accreting from a uniform medium. However, in many situations accretion
+  onto point particles occurs from media that are turbulent rather than uniform. In
+  this paper we give an approximate solution to the problem of a point particle accreting
+  from an ambient medium of supersonically turbulent gas. Accretion in such media
+  is bimodal, at some points resembling classical Bondi-Hoyle flow, and in other cases
+  being closer to the vorticity-dominated accretion flows recently studied by Krumholz,
+  McKee, \& Klein. Based on this observation, we develop a theoretical prediction
+  for the accretion rate and confirm that our predictions are highly consistent with
+  the results of numerical simulations. The distribution of accretion rates is lognormal,
+  and the mean accretion rate in supersonically turbulent gas can be substantially
+  enhanced above the value that would be predicted by a naive application of the Bondi-Hoyle
+  formula. However, it can also be suppressed by the vorticity, just as Krumholz,
+  McKee, \& Klein found for non-supersonic vorticity-dominated flows. Magnetic fields,
+  which we have not included in these models, may further inhibit accretion. Our results
+  have significant implications for a number of astrophysical problems, ranging from
+  star formation to the black holes in galactic centers. In particular, there are
+  likely to be significant errors in results that assume that accretion from turbulent
+  media occurs at the unmodified Bondi-Hoyle rate or that are based on simulations
+  that do not resolve the Bondi-Hoyle radius of accreting objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...638..369K
+arxivurl: http://arxiv.org/abs/astro-ph/0510410
+author: Krumholz, M. R. and McKee, C. F. and Klein, R. I.
+author_list:
+- family: Krumholz
+  given: M. R.
+- family: McKee
+  given: C. F.
+- family: Klein
+  given: R. I.
+date-added: 2017-08-11 05:48:14 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/498844
+eprint: astro-ph/0510410
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Hydrodynamics, Stars: Formation,
+  Turbulence'
+month: February
+pages: 369--381
+papis_id: 9a77d1cd0ee58722e0da1363ce71ad23
+ref: krumholz.m.2006
+title: Bondi-Hoyle Accretion in a Turbulent Medium
+type: article
+volume: '638'
+year: '2006'

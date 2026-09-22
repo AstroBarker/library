@@ -1,0 +1,39 @@
+abstract: SAX J1808.4-3658 has a 2.5 ms neutron star rotation period and exhibits
+  X-ray pulsations due to its rotating hot spot. Here we present an analysis of the
+  pulse shapes of SAX J1808.4-3658 during its 1998 outburst. The modeling of the pulse
+  shape includes several effects, including gravitational light bending, Doppler effects,
+  and two spectral components with different emissivity. In addition, we include the
+  new effects of light travel time delays and the neutron star's oblate shape. We
+  also consider two different data sets, with different selections in time period
+  (1 vs. 19 days of data combined) and different energy binning and time resolution.
+  We find that including time delays and oblateness results in a stronger restriction
+  on allowed masses and radii. A second result is that the choice of data selection
+  strongly affects the allowed masses and radii. Overall, the derived constraints
+  on mass and radius favor compact stars and a soft equation of state.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...672.1119L
+arxivurl: http://arxiv.org/abs/astro-ph/0703287
+author: Leahy, D. A. and Morsink, S. M. and Cadeau, C.
+author_list:
+- family: Leahy
+  given: D. A.
+- family: Morsink
+  given: S. M.
+- family: Cadeau
+  given: C.
+date-added: 2017-08-10 22:25:59 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/523794
+eid: 1119-1126
+eprint: astro-ph/0703287
+journal: \apj
+keywords: 'pulsars: individual: SAX J1808.4{\ndash}3658, relativity, stars: neutron,
+  stars: rotation, X-rays: binaries'
+month: January
+pages: 1119--1126
+papis_id: 8c564af5fe5a8771e0e7fd696e75a31b
+ref: leahy.d.2008
+title: Limits on Mass and Radius for the Millisecond-Period X-Ray Pulsar SAX J1808.4-3658
+type: article
+volume: '672'
+year: '2008'

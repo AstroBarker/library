@@ -1,0 +1,65 @@
+abstract: We present the results of nucleosynthesis calculations based on multi-dimensional
+  (2D and 3D) hydrodynamical simulations of the thermonuclear burning phase in type
+  Ia supernovae (hereafter SN Ia). The detailed nucleosynthetic yields of our explosion
+  models are calculated by post-processing the ejecta, using passively advected tracer
+  particles. The nuclear reaction network employed in computing the explosive nucleosynthesis
+  contains 383 nuclear species, ranging from neutrons, protons, and alpha-particles
+  to 98Mo. Our models follow the common assumption that SN Ia are the explosions of
+  white dwarfs that have approached the Chandrasekhar mass (Mch\texttildelow{} 1.39),
+  and are disrupted by thermonuclear fusion of carbon and oxygen. But in contrast
+  to 1D models which adjust the burning speed to reproduce lightcurves and spectra,
+  the thermonuclear burning model applied in this paper does not contain adjustable
+  parameters. Therefore variations of the explosion energies and nucleosynthesis yields
+  are dependent on changes of the initial conditions only. Here we discuss the nucleosynthetic
+  yields obtained in 2D and 3D models with two different choices of ignition conditions
+  (centrally ignited, in which the spherical initial flame geometry is perturbated
+  with toroidal rings, and bubbles, in which multi-point ignition conditions are simulated),
+  but keeping the initial composition of the white dwarf unchanged. Constraints imposed
+  on the hydrodynamical models from nucleosynthesis as well as from the radial velocity
+  distribution of the elements are discussed in detail. We show that in our simulations
+  unburned C and O varies typically from \texttildelow{}40\% to \texttildelow{}50\%
+  of the total ejected material. Some of the unburned material remains between the
+  flame plumes and is concentrated in low velocity regions at the end of the simulations.
+  This effect is more pronounced in 2D than in 3D and in models with a small number
+  of (large) ignition spots. The main differences between all our models and standard
+  1D computations are, besides the higher mass fraction of unburned C and O, the C/O
+  ratio (in our case is typically a factor of 2.5 higher than in 1D computations),
+  and somewhat lower abundances of certain intermediate mass nuclei such as S, Cl,
+  Ar, K, and Ca, and of 56Ni. We also demonstrate that the amount of 56Ni produced
+  in the explosion is a very sensitive function of density and temperature. Because
+  explosive C and O burning may produce the iron-group elements and their isotopes
+  in rather different proportions one can get different 56Ni-fractions (and thus supernova
+  luminosities) without changing the kinetic energy of the explosion. Finally, we
+  show that we need the high resolution multi-point ignition (bubbles) model to burn
+  most of the material in the center (demonstrating that high resolution coupled with
+  a large number of ignition spots is crucial to get rid of unburned material in a
+  pure deflagration SN Ia model).  Tables 1 and 2 are only available in electronic
+  form at http://www.edpsciences.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...425.1029T
+arxivurl: http://arxiv.org/abs/astro-ph/0406281
+author: Travaglio, C. and Hillebrandt, W. and Reinecke, M. and Thielemann, F.-K.
+author_list:
+- family: Travaglio
+  given: C.
+- family: Hillebrandt
+  given: W.
+- family: Reinecke
+  given: M.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-11 07:30:57 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1051/0004-6361:20041108
+eprint: astro-ph/0406281
+journal: \aap
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, stars: supernovae:
+  general'
+month: October
+pages: 1029--1040
+papis_id: 0ea27632e04517a1500b8b9179290cbf
+ref: travaglio.c.2004a
+title: Nucleosynthesis in multi-dimensional SN Ia explosions
+type: article
+volume: '425'
+year: '2004'

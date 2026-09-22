@@ -1,0 +1,48 @@
+abstract: SN 1987A provides a unique opportunity to study the evolution of a supernova
+  from explosion into very late phases. Owing to the rich chemical structure, the
+  multitude of physical processes involved and extensive radiative transfer effects,
+  detailed modeling is needed to interpret the emission from this and other supernovae.
+  In this paper, we analyze the late-time (about eight years) Hubble Space Telescope
+  spectrum of the SN 1987A ejecta, where 44Ti is the dominant power source. Based
+  on an explosion model for a 19 M\&sun; progenitor, we compute a model spectrum by
+  calculating the degradation of positrons and gamma-rays from the radioactive decays,
+  solving the equations governing temperature, ionization balance and NLTE level populations,
+  and treating the radiative transfer with a Monte Carlo technique. We obtain a UV/optical/NIR
+  model spectrum that reproduces most of the lines in the observed spectrum with good
+  accuracy. We find non-local radiative transfer in atomic lines to be an important
+  process also at this late stage of the supernova, with  30\% of the emerging flux
+  in the optical and NIR coming from scattering/fluorescence. We investigate the question
+  of where the positrons deposit their energy, and favor the scenario where they are
+  locally trapped in the Fe/He clumps by a magnetic field. Energy deposition into
+  these largely neutral Fe/He clumps makes Fe I lines prominent in the emerging spectrum.
+  With the best available estimates for the dust extinction, we determine the amount
+  of 44Ti produced in the explosion to be 1.5-0.5+0.5e-4Mo.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...530A..45J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.3653
+author: Jerkstrand, A. and Fransson, C. and Kozma, C.
+author_list:
+- family: Jerkstrand
+  given: A.
+- family: Fransson
+  given: C.
+- family: Kozma
+  given: C.
+date-added: 2017-08-10 15:31:57 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201015937
+eid: A45
+eprint: '1103.3653'
+journal: \aap
+keywords: 'line: formation, line: identification, radiative transfer, supernovae:
+  individual: 1987A'
+month: June
+pages: A45
+papis_id: a4619f8fdc3e58ba615ac81286c7ff94
+primaryclass: astro-ph.HE
+ref: jerkstrand.a.2011
+title: The $^44$Ti-powered spectrum of SN 1987A
+type: article
+volume: '530'
+year: '2011'

@@ -1,0 +1,55 @@
+abstract: 'The light from a shock breakout of stellar explosions, which carries a
+  wealth of information, strongly depends on the shock velocity at the time of the
+  breakout. The emission from Newtonian breakouts, typical in regular core-collapse
+  supernovae (SNe), has been explored extensively. However, a large variety of explosions
+  result in mildly or ultrarelativistic breakouts, where the observed signature is
+  unknown. Here we calculate the luminosity and spectrum produced by relativistic
+  breakouts. In order to do so, we improve the analytic description of relativistic
+  radiation-mediated shocks and follow the system from the breakout itself, through
+  the planar phase and into the spherical phase. We limit our calculation to cases
+  where the post-breakout acceleration of the gas ends during the planar phase (i.e.,
+  the final gas Lorentz factor <~ 30). We find that spherical relativistic breakouts
+  produce a flash of gamma rays with energy, E bo, temperature, T bo, and duration,
+  t obs bo, that provide the breakout radius (\approx{}5 R \&sun;(t obs bo/10 s)(T
+  bo/50 keV)2) and the Lorentz factor (\approx{}T bo/50 keV). They also always satisfy
+  a relativistic breakout relation (t obs bo/20 s) ~ (E bo/1046 erg)1/2(T bo/50 keV)-2.68.
+  The breakout flare is typically followed, on longer timescales, by X-rays that carry
+  a comparable energy. We apply our model to a variety of explosions, including Type
+  Ia and .Ia SNe, accretion-induced collapse, energetic SNe, and gamma-ray bursts
+  (GRBs). We find that all these events produce detectable gamma-ray signals, some
+  of which may have already been seen. Some particular examples are: (1) relativistic
+  shock breakouts provide a natural explanation to the energy, temperature, and timescales
+  of low-luminosity GRBs. Indeed, all observed low-luminosity GRBs satisfy the relativistic
+  breakout relation. (2) Nearby broad-line Type Ib/c (like SN 2002ap) may produce
+  a detectable gamma-ray signal. (3) Galactic Type Ia SNe may produce detectable gamma-ray
+  flares. We conclude that relativistic shock breakouts provide a generic process
+  for the production of gamma-ray flares.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747...88N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.2556
+author: Nakar, E. and Sari, R.
+author_list:
+- family: Nakar
+  given: E.
+- family: Sari
+  given: R.
+date-added: 2017-08-10 16:45:43 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/2/88
+eid: '88'
+eprint: '1106.2556'
+journal: \apj
+keywords: 'gamma-ray burst: general, gamma-ray burst: individual: 980425 031203 061218
+  100316D 101225A, radiative transfer, relativistic processes, shock waves, supernovae:
+  general'
+month: March
+pages: '88'
+papis_id: c4154765b02e275ab888302321b70358
+primaryclass: astro-ph.HE
+ref: nakar.e.2012
+title: 'Relativistic Shock Breakouts\mdashA Variety of Gamma-Ray Flares: From Low-luminosity
+  Gamma-Ray Bursts to Type Ia Supernovae'
+type: article
+volume: '747'
+year: '2012'

@@ -1,0 +1,49 @@
+abstract: We introduce the Making Galaxies In a Cosmological Context (MAGICC) programme
+  of smoothed particle hydrodynamics simulations. We describe a parameter study of
+  galaxy formation simulations of an L\textasteriskcentered galaxy that uses early
+  stellar feedback combined with supernova feedback to match the stellar mass-halo
+  mass relationship. While supernova feedback alone can reduce star formation enough
+  to match the stellar mass-halo mass relationship, the galaxy forms too many stars
+  before z = 2 to match the evolution seen using abundance matching. Our early stellar
+  feedback is purely thermal and thus operates like an ultraviolet ionization source
+  as well as providing some additional pressure from the radiation of massive, young
+  stars. The early feedback heats gas to >106 K before cooling it to 104 K. The pressure
+  from this hot gas creates a more extended disc and prevents more star formation
+  prior to z = 1 than supernova feedback alone. The resulting disc galaxy has a flat
+  rotation curve, an exponential surface brightness profile, and matches a wide range
+  of disc scaling relationships. The disc forms from the inside-out with an increasing
+  exponential scale length as the galaxy evolves. Overall, early stellar feedback
+  helps to simulate galaxies that match observational results at low and high redshifts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428..129S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.0002
+author: Stinson, G. S. and Brook, C. and Macciò, A. V. and Wadsley, J. and Quinn,
+  T. R. and Couchman, H. M. P.
+author_list:
+- family: Stinson
+  given: G. S.
+- family: Brook
+  given: C.
+- family: Macciò
+  given: A. V.
+- family: Wadsley
+  given: J.
+- family: Quinn
+  given: T. R.
+- family: Couchman
+  given: H. M. P.
+date-added: 2017-08-10 21:38:57 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts028
+eprint: '1208.0002'
+journal: \mnras
+keywords: 'hydrodynamics, galaxies: formation, galaxies: ISM'
+month: January
+pages: 129--140
+papis_id: 051b3826248860fee17d702a91db2235
+ref: stinson.g.2013
+title: 'Making Galaxies In a Cosmological Context: the need for early stellar feedback'
+type: article
+volume: '428'
+year: '2013'

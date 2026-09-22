@@ -1,0 +1,45 @@
+abstract: 'Global time-dependent simulations provide a means to investigate time-dependent
+  dynamic evolution in accretion disks. This paper seeks to extend previous local
+  simulations by beginning a systematic effort to develop fully global three-dimensional
+  simulations. The nonlinear development of the magnetorotational instability is investigated
+  using a time-explicit finite difference code written in cylindrical coordinates.
+  The equations of ideal magnetohydrodynamics are solved with the assumption of an
+  adiabatic equation of state. Both a Newtonian potential and a pseudo-Newtonian potential
+  are used. Two simplifications are also explored: a cylindrical gravitational potential
+  (the ``cylindrical disk'''') and axisymmetry. The results from those simulations
+  are compared with fully three-dimensional global simulations. The global simulations
+  begin with equilibrium pressure-supported accretion tori. Two different initial
+  field geometries are investigated: poloidal fields that are constant along initial
+  equidensity surfaces and toroidal fields with a constant ratio of gas to magnetic
+  pressure. In both cases the magnetorotational instability rapidly develops and the
+  torus becomes turbulent. The resulting turbulence transports angular momentum, and
+  the torus develops an angular momentum distribution that is near Keplerian. A comparison
+  with axisymmetric simulations shows that in three dimensions the magnetorotational
+  instability can act as a dynamo and regenerate poloidal field, thereby sustaining
+  the turbulence. As previously observed in local simulations, the stress is dominated
+  by the Maxwell component. The total stress in the interior of the disk is ~0.1-0.2
+  times the thermal pressure. At late time the disks are characterized by relatively
+  thick configurations, with rapid time dependence and tightly wrapped, low-m spiral
+  structures.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...528..462H
+arxivurl: http://arxiv.org/abs/astro-ph/9907385
+author: Hawley, J. F.
+author_list:
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-10 14:59:10 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308180
+eprint: astro-ph/9907385
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, INSTABILITIES, MAGNETOHYDRODYNAMICS: MHD, Accretion,
+  Accretion Disks, Instabilities, Magnetohydrodynamics: MHD'
+month: January
+pages: 462--479
+papis_id: a1074308f80643bad938d20021c482d6
+ref: hawley.j.2000
+title: Global Magnetohydrodynamical Simulations of Accretion Tori
+type: article
+volume: '528'
+year: '2000'

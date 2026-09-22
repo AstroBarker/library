@@ -1,0 +1,44 @@
+abstract: Early-phase optical spectra of aspherical jet-like supernovae (SNe) are
+  presented. We focus on energetic core-collapse SNe, or hypernovae. Based on hydrodynamic
+  and nucleosynthetic models, radiative transfer in the SN atmosphere is solved with
+  a multidimensional Monte Carlo radiative transfer code, SAMURAI. Since the luminosity
+  is boosted in the jet direction, the temperature there is higher than in the equatorial
+  plane by ~2000 K. This causes anisotropic ionization in the ejecta. Emergent spectra
+  are different depending on viewing angle, reflecting both aspherical abundance distribution
+  and anisotropic ionization. Spectra computed with an aspherical explosion model
+  with kinetic energy 20\texttimes{}1051 ergs are compatible with those of the Type
+  Ic SN 1998bw if ~10\%-20\% of the synthesized metals are mixed out to higher velocities.
+  The simulations enable us to predict the properties of off-axis hypernovae. Even
+  if an aspherical hypernova explosion is observed from the side, it should show hypernova-like
+  spectra but with some differences in the line velocity, the width of the Fe absorptions,
+  and the strength of the Na I line.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...668L..19T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.3242
+author: Tanaka, M. and Maeda, K. and Mazzali, P. A. and Nomoto, K.
+author_list:
+- family: Tanaka
+  given: M.
+- family: Maeda
+  given: K.
+- family: Mazzali
+  given: P. A.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 22:53:03 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/522671
+eprint: '0708.3242'
+journal: \apjl
+keywords: 'Radiative Transfer, Stars: Supernovae: General, Stars: Supernovae: Individual:
+  Alphanumeric: SN 1998bw'
+month: October
+pages: L19-L22
+papis_id: 1c291491a6e6cad5eba722282c5a8a49
+ref: tanaka.m.2007
+title: 'Multidimensional Simulations for Early-Phase Spectra of Aspherical Hypernovae:
+  SN 1998bw and Off-Axis Hypernovae'
+type: article
+volume: '668'
+year: '2007'

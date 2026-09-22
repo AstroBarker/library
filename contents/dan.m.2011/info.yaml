@@ -1,0 +1,67 @@
+abstract: We present the results of a systematic numerical study of the onset of mass
+  transfer in double degenerate binary systems and its impact on the subsequent evolution.
+  All investigated systems belong to the regime of direct impact, unstable mass transfer.
+  In all of the investigated cases, even those considered unstable by conventional
+  stability analysis, we find a long-lived mass transfer phase continuing for as many
+  as several dozen orbital periods. This settles a recent debate sparked by a discrepancy
+  between earlier smoothed particle hydrodynamics (SPH) calculations that showed disruptions
+  after a few orbital periods and newer grid-based studies in which mass transfer
+  continued for tens of orbits. The number of orbits a binary survives sensitively
+  depends on the exact initial conditions. We find that the approximate initial conditions
+  that have been used in most previous SPH calculations have a serious impact on all
+  stages of the evolution from the onset of mass transfer up to the final structure
+  of the remnant. We compare "approximate" initial conditions where spherical stars
+  are placed at an initial separation obtained from an estimate of the Roche lobe
+  size with "accurate" initial conditions that were constructed by carefully driving
+  the binary system to equilibrium by a relaxation scheme. Simulations that use the
+  approximate initial conditions underestimate the initial separation when mass transfer
+  sets in, which yields a binary that only survives for only a few orbits and thus
+  a rapidly fading gravitational wave signal. Conversely, the accurate initial conditions
+  produce a binary system in which the mass transfer phase is extended by almost two
+  orders of magnitude in time, resulting in a gravitational wave signal with amplitude
+  and frequency that remain essentially constant up until merger. As we show that
+  these binaries can survive at small separation for hundreds of orbital periods,
+  their associated gravitational wave signal should be included when calculating the
+  gravitational wave foreground (although expected to be below Laser Interferometer
+  Space Antenna's sensitivity at these high frequencies). We also show that the inclusion
+  of the entropy increase associated with shock heating of the accreted material reduces
+  the number of orbits a binary survives given the same initial conditions, although
+  the effect is not as pronounced when using the appropriate initial conditions. The
+  use of accurate initial conditions and a correct treatment of shock heating allows
+  for a reliable time evolution of the temperature, density, and angular momentum,
+  which are important when considering thermonuclear events that may occur during
+  the mass transfer phase and/or after merger. Our treatment allows us to accurately
+  identify when surface detonations may occur in the lead-up to the merger, as well
+  as the properties of final merger products.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737...89D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.5132
+author: Dan, M. and Rosswog, S. and Guillochon, J. and Ramirez-Ruiz, E.
+author_list:
+- family: Dan
+  given: M.
+- family: Rosswog
+  given: S.
+- family: Guillochon
+  given: J.
+- family: Ramirez-Ruiz
+  given: E.
+date-added: 2017-08-10 22:45:50 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/2/89
+eid: '89'
+eprint: '1101.5132'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general, white dwarfs'
+month: August
+pages: '89'
+papis_id: 8cfa0d7cb549965be5df190acc5ae470
+primaryclass: astro-ph.HE
+ref: dan.m.2011
+title: 'Prelude to A Double Degenerate Merger: The Onset of Mass Transfer and Its
+  Impact on Gravitational Waves and Surface Detonations'
+type: article
+volume: '737'
+year: '2011'

@@ -1,0 +1,53 @@
+abstract: We consider current observational constraints on the presence of cool, optically
+  thick disk material in quiescent black hole binaries, specifically focusing on a
+  case study of the prototypical system A0620-00. Such material might be expected
+  to be present theoretically but is usually claimed to make a negligible contribution
+  at optical and IR wavelengths. The primary argument is based on measurements of
+  the veiling of stellar photospheric absorption lines, in which it is assumed that
+  the disk spectrum is featureless. We use simulated spectra to explore the sensitivity
+  of veiling measurements to uncertainties in companion temperature, gravity, and
+  metallicity. We find that the derived veiling is extremely sensitive to a mismatch
+  between the temperature and metallicity of the companion and template but that the
+  effect of a plausible gravity mismatch is much smaller. In general, the resulting
+  uncertainty in the amount of veiling is likely to be much larger than the usually
+  quoted statistical uncertainty. We also simulate spectra in which the disk has an
+  emergent spectrum similar to the star and find that in this case, optical veiling
+  constraints are moderately robust. This is because the rotational broadening of
+  the disk is so large that the two line profiles effectively decouple, and the measurement
+  of the depth of stellar lines is largely unbiased by the disk component. We note,
+  however, that this is only true at intermediate resolutions or higher and that significant
+  bias might still affect low-resolution IR observations. Assuming that the optical
+  veiling is reliable, we then examine the constraints on the temperature and covering
+  factor of any optically thick disk component. These are stringent if the disk is
+  warm (Teff>~3500 K), but very temperature sensitive, and cooler disks are largely
+  unconstrained by optical measurements. Current IR veiling estimates do not help
+  much, representing rather high upper limits. Probably the best constraint comes
+  from the relative amplitudes of ellipsoidal variations in different bands, as these
+  are sensitive to differences in veiling that are expected for disks cooler than
+  the companion star. A significant disk contribution in the IR, up to ~25\%, is not
+  ruled out in this or any other way considered, however.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...630..405H
+arxivurl: http://arxiv.org/abs/astro-ph/0507461
+author: Hynes, R. I. and Robinson, E. L. and Bitner, M.
+author_list:
+- family: Hynes
+  given: R. I.
+- family: Robinson
+  given: E. L.
+- family: Bitner
+  given: M.
+date-added: 2017-08-11 00:41:20 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/431966
+eprint: astro-ph/0507461
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Black Hole Physics'
+month: September
+pages: 405--412
+papis_id: 8269643fd2a74c03753e1ab41c4bc753
+ref: hynes.r.2005
+title: Observational Constraints on Cool Disk Material in Quiescent Black Hole Binaries
+type: article
+volume: '630'
+year: '2005'

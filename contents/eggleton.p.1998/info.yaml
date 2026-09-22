@@ -1,0 +1,40 @@
+abstract: We derive from first principles the equations governing (a) the quadrupole
+  tensor of a star distorted both by rotation and by the presence of a companion in
+  a possibly eccentric orbit; (b) a functional form for the dissipative force of tidal
+  friction, based on the concept that the rate of energy loss from a time-dependent
+  tide should be a positive-definite function of the rate of change of the quadrupole
+  tensor as seen in the frame that rotates with the star; and (c) the equations governing
+  the rates of change of the magnitude and the direction of the stellar rotation,
+  the orbital period and eccentricity, based on the concept of the Laplace-Runge-Lenz
+  vector. Our analysis leads relatively simply to a closed set of equations, valid
+  for arbitrary inclination of the stellar spin to the orbit. The results are equivalent
+  to classical results based on the rather less clear principle that the tidal bulge
+  lags behind the line of centers by some time determined by the rate of dissipation.
+  Our analysis gives the effective lag time as a function of the dissipation rate
+  and the quadrupole moment. We discuss briefly some possible applications of the
+  formulation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...499..853E
+arxivurl: http://arxiv.org/abs/astro-ph/9801246
+author: Eggleton, P. P. and Kiseleva, L. G. and Hut, P.
+author_list:
+- family: Eggleton
+  given: P. P.
+- family: Kiseleva
+  given: L. G.
+- family: Hut
+  given: P.
+date-added: 2017-08-10 16:16:28 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305670
+eprint: astro-ph/9801246
+journal: \apj
+keywords: 'Stars: Binaries: Close, Hydrodynamics, Stars: Interiors, Stars: Rotation'
+month: May
+pages: 853--870
+papis_id: ba3fb8ab66012e2693d216b6fca54272
+ref: eggleton.p.1998
+title: The Equilibrium Tide Model for Tidal Friction
+type: article
+volume: '499'
+year: '1998'

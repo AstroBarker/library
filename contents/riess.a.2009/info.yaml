@@ -1,0 +1,78 @@
+abstract: This is the second of two papers reporting results from a program to determine
+  the Hubble constant to ~5\% precision from a refurbished distance ladder based on
+  extensive use of differential measurements. Here we report observations of 240 Cepheid
+  variables obtained with the Near-Infrared Camera and Multi-Object Spectrometer (NICMOS)
+  Camera 2 through the F160W filter on the Hubble Space Telescope (HST). The Cepheids
+  are distributed across six recent hosts of Type Ia supernovae (SNe Ia) and the "maser
+  galaxy" NGC 4258, allowing us to directly calibrate the peak luminosities of the
+  SNe Ia from the precise, geometric distance measurements provided by the masers.
+  New features of our measurement include the use of the same instrument for all Cepheid
+  measurements across the distance ladder and homogeneity of the Cepheid periods and
+  metallicities, thus necessitating only a differential measurement of Cepheid fluxes
+  and reducing the largest systematic uncertainties in the determination of the fiducial
+  SN Ia luminosity. In addition, the NICMOS measurements reduce the effects of differential
+  extinction in the host galaxies by a factor of ~5 over past optical data. Combined
+  with a greatly expanded set of 240 SNe Ia at z < 0.1 which define their magnitude-redshift
+  relation, we find H 0 = 74.2 $\pm$ 3.6 km s-1 Mpc-1, a 4.8\% uncertainty including
+  both statistical and systematic errors. To independently test the maser calibration,
+  we use 10 individual parallax measurements of Galactic Cepheids obtained with the
+  HST fine guidance sensor and find similar results. We show that the factor of 2.2
+  improvement in the precision of H 0 is a significant aid to the determination of
+  the equation-of-state parameter of dark energy, w = P/(rhoc 2). Combined with the
+  Wilkinson Microwave Anisotropy Probe five-year measurement of Omega M  h 2, we find
+  w = -1.12 \$\pm\$ 0.12 independent of any information from high-redshift SNe Ia
+  or baryon acoustic oscillations (BAO). This result is also consistent with analyses
+  based on the combination of high-redshift SNe Ia and BAO. The constraints on w(z)
+  now including high-redshift SNe Ia and BAO are consistent with a cosmological constant
+  and are improved by a factor of 3 due to the refinement in H 0 alone. We show that
+  future improvements in the measurement of H 0 are likely and should further contribute
+  to multi-technique studies of dark energy.  Based on observations with the NASA/ESA
+  Hubble Space Telescope, obtained at the Space Telescope Science Institute, which
+  is operated by AURA, Inc., under NASA contract NAS 5-26555.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...699..539R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0905.0695
+author: Riess, A. G. and Macri, L. and Casertano, S. and Sosey, M. and Lampeitl, H.
+  and Ferguson, H. C. and Filippenko, A. V. and Jha, S. W. and Li, W. and Chornock,
+  R. and Sarkar, D.
+author_list:
+- family: Riess
+  given: A. G.
+- family: Macri
+  given: L.
+- family: Casertano
+  given: S.
+- family: Sosey
+  given: M.
+- family: Lampeitl
+  given: H.
+- family: Ferguson
+  given: H. C.
+- family: Filippenko
+  given: A. V.
+- family: Jha
+  given: S. W.
+- family: Li
+  given: W.
+- family: Chornock
+  given: R.
+- family: Sarkar
+  given: D.
+date-added: 2017-08-11 03:45:54 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/699/1/539
+eprint: '0905.0695'
+journal: \apj
+keywords: 'cosmology: observations, distance scale, galaxies: distances and redshifts,
+  supernovae: general'
+month: July
+pages: 539--563
+papis_id: 58f94b4b026640646d76029d82b819ab
+primaryclass: astro-ph.CO
+ref: riess.a.2009
+title: A Redetermination of the Hubble Constant with the Hubble Space Telescope from
+  a Differential Distance Ladder
+type: article
+volume: '699'
+year: '2009'

@@ -1,0 +1,42 @@
+abstract: Regions of stellar and planetary interiors that are unstable according to
+  the Schwarzschild criterion, but stable according to the Ledoux criterion, are subject
+  to a form of oscillatory double-diffusive (ODD) convection often called "semi-convection."
+  In this series of papers, we use an extensive suite of three-dimensional (3D) numerical
+  simulations to quantify the transport of heat and composition by ODD convection,
+  and ultimately propose a new 1D prescription that can be used in stellar and planetary
+  structure and evolution models. The first paper in this series demonstrated that
+  under certain conditions ODD convection spontaneously transitions from an initial
+  homogeneous state of weak wave-breaking turbulence into a staircase of fully convective
+  layers, which results in a substantial increase in the transport of heat and composition.
+  Here, we present simulations of ODD convection in this layered regime, we describe
+  the dynamical behavior of the layers, and we derive empirical scaling laws for the
+  transport through layered convection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...768..157W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.1218
+author: Wood, T. S. and Garaud, P. and Stellmach, S.
+author_list:
+- family: Wood
+  given: T. S.
+- family: Garaud
+  given: P.
+- family: Stellmach
+  given: S.
+date-added: 2017-08-10 15:00:27 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/768/2/157
+eid: '157'
+eprint: '1212.1218'
+journal: \apj
+keywords: 'convection, hydrodynamics, planets and satellites: general, stars: interiors'
+month: May
+pages: '157'
+papis_id: 60a15f823473d299bf5107bf65677baf
+primaryclass: astro-ph.SR
+ref: wood.t.2013
+title: A New Model for Mixing by Double-diffusive Convection (Semi-convection). II.
+  The Transport of Heat and Composition through Layers
+type: article
+volume: '768'
+year: '2013'

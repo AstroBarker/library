@@ -1,0 +1,38 @@
+abstract: We study the statistics of density for supersonic turbulence in a medium
+  with magnetic pressure larger than the gaseous pressure. Our simulations exhibit
+  clumpy density structures, with the contrast increasing with the Mach number. At
+  Mach 10, the densities of some clumps are 3 orders of magnitude higher than the
+  mean density. These clumps give rise to a flat and approximately isotropic density
+  spectrum corresponding to the random distribution of clumps in space. We claim that
+  the clumps originate from our random, isotropic turbulence driving. When the contribution
+  from those clumps is suppressed by studying the logarithm of density, the density
+  statistics exhibit scale-dependent anisotropy consistent with the models in which
+  density structures arise from shearing by Alfv{\'e}n waves. It is noteworthy that
+  originally such models were advocated for the case of low-Mach, nearly incompressible
+  turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...624L..93B
+arxivurl: http://arxiv.org/abs/astro-ph/0502547
+author: Beresnyak, A. and Lazarian, A. and Cho, J.
+author_list:
+- family: Beresnyak
+  given: A.
+- family: Lazarian
+  given: A.
+- family: Cho
+  given: J.
+date-added: 2017-08-10 22:41:00 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/430702
+eprint: astro-ph/0502547
+journal: \apjl
+keywords: 'ISM: Clouds, ISM: Kinematics and Dynamics, ISM: Structure, Magnetohydrodynamics:
+  MHD, Turbulence'
+month: May
+pages: L93-L96
+papis_id: d217a5331056b55f9d04cd030a2d2027
+ref: beresnyak.a.2005
+title: Density Scaling and Anisotropy in Supersonic Magnetohydrodynamic Turbulence
+type: article
+volume: '624'
+year: '2005'

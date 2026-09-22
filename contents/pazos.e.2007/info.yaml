@@ -1,0 +1,62 @@
+abstract: We present a method for extracting gravitational waves from numerical spacetimes
+  which generalizes and refines one of the standard methods based on the Regge Wheeler
+  Zerilli perturbation formalism. At the analytical level, this generalization allows
+  a much more general class of slicing conditions for the background geometry, and
+  is thus not restricted to Schwarzschild-like coordinates. At the numerical level,
+  our approach uses high-order multi-block methods, which improve both the accuracy
+  of our simulations and of our extraction procedure. In particular, the latter is
+  simplified since there is no need for interpolation, and we can afford to extract
+  accurate waves at large radii with only little additional computational effort.
+  We then present fully nonlinear three-dimensional numerical evolutions of a distorted
+  Schwarzschild black hole in Kerr Schild coordinates with an odd parity perturbation
+  and analyse the improvement that we gain from our generalized wave extraction, comparing
+  our new method to the standard one. In particular, we analyse in detail the quasinormal
+  frequencies of the extracted waves, using both methods. We do so by comparing the
+  extracted waves with one-dimensional high resolution solutions of the corresponding
+  generalized Regge Wheeler equation. We explicitly see that the errors in the waveforms
+  extracted with the standard method at fixed, finite extraction radii do not converge
+  to zero with increasing resolution. We find that even with observers as far out
+  as R = 80M---which is larger than what is commonly used in state-of-the-art simulations---the
+  assumption in the standard method that the background is close to having Schwarzschild-like
+  coordinates increases the error in the extracted waves considerably. Furthermore,
+  those errors are dominated by the extraction method itself and not by the accuracy
+  of our simulations. For extraction radii between 20M and 80M and for the resolutions
+  that we use in this paper, our new method decreases the errors in the extracted
+  waves, compared to the standard method, by between one and three orders of magnitude.
+  In a general scenario, for example a collision of compact objects, there is no precise
+  definition of gravitational radiation at a finite distance, and gravitational wave
+  extraction methods at such distances are thus inherently approximate. The results
+  of this paper bring up the possibility that different choices in the wave extraction
+  procedure at a fixed and finite distance may result in relative differences in the
+  waveforms which are actually larger than the numerical errors in the solution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S.341P
+author: Pazos, E. and Dorband, E. N. and Nagar, A. and Palenzuela, C. and Schnetter,
+  E. and Tiglio, M.
+author_list:
+- family: Pazos
+  given: E.
+- family: Dorband
+  given: E. N.
+- family: Nagar
+  given: A.
+- family: Palenzuela
+  given: C.
+- family: Schnetter
+  given: E.
+- family: Tiglio
+  given: M.
+date-added: 2017-08-10 20:30:20 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1088/0264-9381/24/12/S22
+eprint: gr-qc/0612149
+journal: Classical and Quantum Gravity
+month: June
+pages: S341-S368
+papis_id: f4fd5dc033cedacc02a1a1b6d7a29a3a
+ref: pazos.e.2007
+title: How far away is far enough for extracting numerical waveforms, and how much
+  do they depend on the extraction method?
+type: article
+volume: '24'
+year: '2007'

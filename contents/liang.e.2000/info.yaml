@@ -1,0 +1,33 @@
+abstract: The evolution of the well-known Sedov-Taylor adiabatic blast waves can be
+  derived analytically using simple physical arguments. However, radiative blast waves
+  with energy loss concentrated at the shock front have only been studied numerically.
+  Here we show that if the shock radius evolution can be expressed as R~(at)n, then
+  using an approximation similar to that discussed by Zeldovich \& Raizer for the
+  adiabatic case, we can derive simple analytic relations for n and a as functions
+  of the pre- and postshock adiabatic indices, the energy loss fraction \ensuremath{\epsilon},
+  the initial energy E0, and initial deposition size R0. These analytic results are
+  in excellent agreement with previous numerical results. We also find that the results
+  are much more sensitive to the postshock adiabatic index in the central cavity than
+  the preshock adiabatic index.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...533..890L
+author: Liang, E. and Keilty, K.
+author_list:
+- family: Liang
+  given: E.
+- family: Keilty
+  given: K.
+date-added: 2017-08-11 00:58:44 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308686
+journal: \apj
+keywords: 'GAMMA RAYS: BURSTS, HYDRODYNAMICS, METHODS: ANALYTICAL, SHOCK WAVES, ISM:
+  SUPERNOVA REMNANTS'
+month: April
+pages: 890--892
+papis_id: 84ecf4fef3c03e33f622f3ac5ed16ba8
+ref: liang.e.2000
+title: An Analytic Approximation to Radiative Blast Wave Evolution
+type: article
+volume: '533'
+year: '2000'

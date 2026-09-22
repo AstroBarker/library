@@ -1,0 +1,45 @@
+abstract: We study compressible magnetohydrodynamic turbulence, which holds the key
+  to many astrophysical processes, including star formation and cosmic-ray propagation.
+  To account for the variations of the magnetic field in the strongly turbulent fluid,
+  we use wavelet decomposition of the turbulent velocity field into Alfv{\'e}n, slow,
+  and fast modes, which presents an extension of the Cho \& Lazarian decomposition
+  approach based on Fourier transforms. The wavelets allow us to follow the variations
+  of the local direction of the magnetic field and therefore improve the quality of
+  the decomposition compared to the Fourier transforms, which are done in the mean
+  field reference frame. For each resulting component, we calculate the spectra and
+  two-point statistics such as longitudinal and transverse structure functions as
+  well as higher order intermittency statistics. In addition, we perform a Helmholtz-
+  Hodge decomposition of the velocity field into incompressible and compressible parts
+  and analyze these components. We find that the turbulence intermittency is different
+  for different components, and we show that the intermittency statistics depend on
+  whether the phenomenon was studied in the global reference frame related to the
+  mean magnetic field or in the frame defined by the local magnetic field. The dependencies
+  of the measures we obtained are different for different components of the velocity;
+  for instance, we show that while the Alfv{\'e}n mode intermittency changes marginally
+  with the Mach number, the intermittency of the fast mode is substantially affected
+  by the change.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...720..742K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.3697
+author: Kowal, G. and Lazarian, A.
+author_list:
+- family: Kowal
+  given: G.
+- family: Lazarian
+  given: A.
+date-added: 2017-08-10 22:39:10 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/720/1/742
+eprint: '1003.3697'
+journal: \apj
+keywords: 'ISM: structure, magnetohydrodynamics: MHD, turbulence'
+month: September
+pages: 742--756
+papis_id: d4b7c2ed5a5c416fe5a0738c51fcf66d
+ref: kowal.g.2010
+title: 'Velocity Field of Compressible Magnetohydrodynamic Turbulence: Wavelet Decomposition
+  and Mode Scalings'
+type: article
+volume: '720'
+year: '2010'

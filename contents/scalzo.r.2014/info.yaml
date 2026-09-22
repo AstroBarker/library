@@ -1,0 +1,45 @@
+abstract: The ejected mass distribution of Type Ia supernovae (SNe Ia) directly probes
+  progenitor evolutionary history and explosion mechanisms, with implications for
+  their use as cosmological probes. Although the Chandrasekhar mass is a natural mass
+  scale for the explosion of white dwarfs as SNe Ia, models allowing SNe Ia to explode
+  at other masses have attracted much recent attention. Using an empirical relation
+  between the ejected mass and the light-curve width, we derive ejected masses Mej
+  and 56Ni masses MNi for a sample of 337 SNe Ia with redshifts z < 0.7 used in recent
+  cosmological analyses. We use hierarchical Bayesian inference to reconstruct the
+  joint Mej-MNi distribution, accounting for measurement errors. The inferred marginal
+  distribution of Mej has a long tail towards sub-Chandrasekhar masses, but cuts off
+  sharply above 1.4 M\&sun;. Our results imply that 25-50 per cent of normal SNe Ia
+  are inconsistent with Chandrasekhar-mass explosions, with almost all of these being
+  sub-Chandrasekhar mass; super-Chandrasekhar-mass explosions make up no more than
+  1 per cent of all spectroscopically normal SNe Ia. We interpret the SN Ia width-luminosity
+  relation as an underlying relation between Mej and MNi, and show that the inferred
+  relation is not naturally explained by the predictions of any single known explosion
+  mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.445.2535S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1408.6601
+author: Scalzo, R. A. and Ruiter, A. J. and Sim, S. A.
+author_list:
+- family: Scalzo
+  given: R. A.
+- family: Ruiter
+  given: A. J.
+- family: Sim
+  given: S. A.
+date-added: 2017-08-11 07:15:29 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu1808
+eprint: '1408.6601'
+journal: \mnras
+keywords: 'methods: statistical, supernovae: general, white dwarfs, dark energy'
+month: December
+pages: 2535--2544
+papis_id: 081ca3d351ec80f460d4b97dd81e44c4
+primaryclass: astro-ph.HE
+ref: scalzo.r.2014
+title: 'The ejected mass distribution of Type Ia supernovae: a significant rate of
+  non-Chandrasekhar-mass progenitors'
+type: article
+volume: '445'
+year: '2014'

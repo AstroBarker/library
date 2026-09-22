@@ -1,0 +1,31 @@
+abstract: Several recent investigations of post-main-sequence stellar evolution have
+  used a diffusion model of turbulent mixing, and each author has used a different
+  variation. We justify the diffusion model in the framework of a statistical theory
+  of turbulence and show that the difference between the two diffusion equations that
+  have been proposed is related to an ambiguity in the definition of a Lagrangian
+  hydrodynamical calculation by finite differences in the presence of turbulence.
+  We present difference equations for solving the diffusion equation which theory
+  and experience indicate are free of numerical difficulties.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1976ApJ...206..548C
+author: Cloutman, L. D. and Eoll, J. G.
+author_list:
+- family: Cloutman
+  given: L. D.
+- family: Eoll
+  given: J. G.
+date-added: 2017-08-11 00:35:10 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/154411
+journal: \apj
+keywords: Finite Difference Theory, Stellar Evolution, Stellar Models, Turbulence
+  Models, Turbulent Diffusion, Turbulent Mixing, Convective Flow, Error Analysis,
+  Main Sequence Stars, Mass Distribution, Transport Theory
+month: June
+pages: 548--554
+papis_id: 88e4c5cf960051a1e59def7ea93bc626
+ref: cloutman.l.1976
+title: Comments on the diffusion model of turbulent mixing
+type: article
+volume: '206'
+year: '1976'

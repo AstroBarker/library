@@ -1,0 +1,42 @@
+abstract: During a failed core-collapse supernova, the protoneutron star eventually
+  collapses under its own gravitational field and forms a black hole. This collapse
+  happens quickly, on the dynamical time of the protoneutron star, $\lesssim$.5 ms.
+  During this collapse, barring any excessive rotation, the entire protoneutron star
+  is accreted into the newly formed black hole. The main source of neutrinos is now
+  removed and the signal abruptly shuts off over this formation timescale. However,
+  while the source of neutrinos is turned off, the arrival times at an Earth-based
+  detector will depend on the neutrino path. We show here that a modest amount of
+  neutrinos, emitted just prior to the black hole forming, scatter on the infalling
+  material into our line of sight and arrive after the formation of the black hole,
+  up to 15 ms in our model. This neutrino echo, which we characterize with Monte Carlo
+  simulations and analytic models, has a significantly higher average energy (upwards
+  of \$\sim\$ 50 MeV) compared to the main neutrino signal, and for the canonical
+  failed supernova explored here, is likely detectable in \$\mathcal{O}\$(10 kT) supernova
+  neutrino detectors for Galactic failed supernovae. The presence of this signal is
+  important to consider if using black hole formation as a time post for triangulation
+  or the post black hole timing profile for neutrino mass measurements. On its own,
+  it can also be used to characterize or constrain the structure and nature of the
+  accretion flow.
+archiveprefix: arXiv
+author: Gullin, Samuel and O'Connor, Evan and Wang, Jia-Shian and Tseng, Jeff
+author_list:
+- family: Gullin
+  given: Samuel
+- family: O'Connor
+  given: Evan
+- family: Wang
+  given: Jia-Shian
+- family: Tseng
+  given: Jeff
+eprint: '2109.13242'
+file: :gullin\_2021 - Neutrino Echos Following Black Hole Formation in Core Collapse
+  Supernovae.pdf:PDF
+groups: Neutrinos
+keywords: astro-ph.HE, gr-qc
+month: September
+papis_id: dd78c036ac41759f7258ccc832679455
+primaryclass: astro-ph.HE
+ref: gullin.samuel.2021
+title: Neutrino Echos following Black Hole Formation in Core-Collapse Supernovae
+type: article
+year: '2021'

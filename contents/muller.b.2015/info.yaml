@@ -1,0 +1,48 @@
+abstract: 'Since core-collapse supernova simulations still struggle to produce robust
+  neutrino-driven explosions in 3D, it has been proposed that asphericities caused
+  by convection in the progenitor might facilitate shock revival by boosting the activity
+  of non-radial hydrodynamic instabilities in the post-shock region. We investigate
+  this scenario in depth using 42 relativistic 2D simulations with multigroup neutrino
+  transport to examine the effects of velocity and density perturbations in the progenitor
+  for different perturbation geometries that obey fundamental physical constraints
+  (like the anelastic condition). As a framework for analysing our results, we introduce
+  semi-empirical scaling laws relating neutrino heating, average turbulent velocities
+  in the gain region, and the shock deformation in the saturation limit of non-radial
+  instabilities. The squared turbulent Mach number, <Ma2>, reflects the violence of
+  aspherical motions in the gain layer, and explosive runaway occurs for <Ma2> \greaterequivlnt{}
+  0.3, corresponding to a reduction of the critical neutrino luminosity by \texttildelow{}
+  25 per cent compared to 1D. In the light of this theory, progenitor asphericities
+  aid shock revival mainly by creating anisotropic mass flux on to the shock: differential
+  infall efficiently converts velocity perturbations in the progenitor into density
+  perturbations deltarho/rho at the shock of the order of the initial convective Mach
+  number Maprog. The anisotropic mass flux and ram pressure deform the shock and thereby
+  amplify post-shock turbulence. Large-scale (l = 2, l = 1) modes prove most conducive
+  to shock revival, whereas small-scale perturbations require unrealistically high
+  convective Mach numbers. Initial density perturbations in the progenitor are only
+  of the order of Ma\_prog^2 and therefore play a subdominant role.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.448.2141M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1409.4783
+author: Müller, B. and Janka, H.-T.
+author_list:
+- family: Müller
+  given: B.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-11 07:12:08 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stv101
+eprint: '1409.4783'
+journal: \mnras
+keywords: 'hydrodynamics, instabilities, neutrinos, radiative transfer, supernovae:
+  general'
+month: April
+pages: 2141--2174
+papis_id: 00dc3c1907342366e48030ac06b16f3c
+primaryclass: astro-ph.SR
+ref: muller.b.2015
+title: Non-radial instabilities and progenitor asphericities in core-collapse supernovae
+type: article
+volume: '448'
+year: '2015'

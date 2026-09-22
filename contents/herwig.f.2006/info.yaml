@@ -1,0 +1,51 @@
+abstract: We present the first hydrodynamic, multidimensional simulations of He shell
+  flash convection. We investigate the properties of shell convection immediately
+  before the He luminosity peak during the 15th thermal pulse of a stellar evolution
+  track with initially 2 solar masses and metallicity Z=0.01. This choice is a representative
+  example of a low-mass asymptotic giant branch thermal pulse. We construct the initial
+  vertical stratification with a set of polytropes to resemble the stellar evolution
+  structure. Convection is driven by a constant volume heating in a thin layer at
+  the bottom of the unstable layer. We calculate a grid of two-dimensional simulations
+  with different resolutions and heating rates, plus one low-resolution three-dimensional
+  run. The flow field is dominated by large convective cells that are centered in
+  the lower half of the convection zone. It generates a rich spectrum of gravity waves
+  in the stable layers both above and beneath the convective shell. The magnitude
+  of the convective velocities from our one-dimensional mixing-length theory model
+  and the rms-averaged vertical velocities from the hydrodynamic model are consistent
+  within a factor of a few. However, the velocity profile in the hydrodynamic simulation
+  is more asymmetric and decays exponentially inside the convection zone. Both g-modes
+  and convective motions cross the formal convective boundaries, which leads to mixing
+  across the boundaries. Our resolution study shows consistent flow structures among
+  the higher resolution runs, and we see indications for convergence of the vertical
+  velocity profile inside the convection zone for the highest resolution simulations.
+  Many of the convective properties, in particular the exponential decay of the velocities,
+  depend only weakly on the heating rate. However, the amplitudes of the gravity waves
+  increase with both the heating rate and the resolution.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...642.1057H
+arxivurl: http://arxiv.org/abs/astro-ph/0601164
+author: Herwig, F. and Freytag, B. and Hueckstaedt, R. M. and Timmes, F. X.
+author_list:
+- family: Herwig
+  given: F.
+- family: Freytag
+  given: B.
+- family: Hueckstaedt
+  given: R. M.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-11 07:58:24 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/501119
+eprint: astro-ph/0601164
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Nuclear Reactions, Nucleosynthesis, Abundances,
+  Stars: AGB and Post-AGB'
+month: May
+pages: 1057--1074
+papis_id: b736af231334f2264eb351f9119fff12
+ref: herwig.f.2006
+title: Hydrodynamic Simulations of He Shell Flash Convection
+type: article
+volume: '642'
+year: '2006'

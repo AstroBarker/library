@@ -1,0 +1,33 @@
+abstract: In this paper we present a full general relativistic one-dimensional hydrocode
+  which incorporates a modern high-resolution shock-capturing algorithm, with an approximate
+  Riemann solver, for the correct modeling of formation and propagation of strong
+  shocks. The efficiency of this code in treating strong shocks is demonstrated by
+  some numerical experiments. The use of this technique in several astrophysical scenarios
+  is discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...462..839R
+arxivurl: http://arxiv.org/abs/astro-ph/9509121
+author: Romero, J. V. and Ibanez, J. M. A. and Marti, J. M. A. and Miralles, J. A.
+author_list:
+- family: Romero
+  given: J. V.
+- family: Ibanez
+  given: J. M. A.
+- family: Marti
+  given: J. M. A.
+- family: Miralles
+  given: J. A.
+date-added: 2017-08-11 03:10:24 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/177198
+eprint: astro-ph/9509121
+journal: \apj
+keywords: 'HYDRODYNAMICS, METHODS: NUMERICAL, RELATIVITY, SHOCK WAVES'
+month: May
+pages: '839'
+papis_id: f81e99dc01e61f39929da166aab4506d
+ref: romero.j.1996
+title: A New Spherically Symmetric General Relativistic Hydrodynamical Code
+type: article
+volume: '462'
+year: '1996'

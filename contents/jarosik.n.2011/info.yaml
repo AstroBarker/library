@@ -1,0 +1,95 @@
+abstract: New full-sky temperature and polarization maps based on seven years of data
+  from WMAP are presented. The new results are consistent with previous results, but
+  have improved due to reduced noise from the additional integration time, improved
+  knowledge of the instrument performance, and improved data analysis procedures.
+  The improvements are described in detail. The seven-year data set is well fit by
+  a minimal six-parameter flat LambdaCDM model. The parameters for this model, using
+  the WMAP data in conjunction with baryon acoustic oscillation data from the Sloan
+  Digital Sky Survey and priors on H 0 from Hubble Space Telescope observations, are
+  Omega b  h 2 = 0.02260 $\pm$ 0.00053, Omega c  h 2 = 0.1123 \$\pm\$ 0.0035, OmegaLambda
+  = 0.728+0.015 -0.016, ns = 0.963 \$\pm\$ 0.012, tau = 0.087 \$\pm\$ 0.014, and sigma8
+  = 0.809 \$\pm\$ 0.024 (68\% CL uncertainties). The temperature power spectrum signal-to-noise
+  ratio per multipole is greater that unity for multipoles ell <~ 919, allowing a
+  robust measurement of the third acoustic peak. This measurement results in improved
+  constraints on the matter density, Omega m  h 2 = 0.1334+0.0056 -0.0055, and the
+  epoch of matter-radiation equality, z eq = 3196+134 -133, using WMAP data alone.
+  The new WMAP data, when combined with smaller angular scale microwave background
+  anisotropy data, result in a 3sigma detection of the abundance of primordial helium,
+  Y He = 0.326 \$\pm\$ 0.075. When combined with additional external data sets, the
+  WMAP data also yield better determinations of the total mass of neutrinos, \sum{}m
+  nu <= 0.58 eV(95\%CL), and the effective number of neutrino species, N eff = 4.34+0.86
+  -0.88. The power-law index of the primordial power spectrum is now determined to
+  be ns = 0.963 \$\pm\$ 0.012, excluding the Harrison-Zel'dovich-Peebles spectrum
+  by >3sigma. These new WMAP measurements provide important tests of big bang cosmology.  WMAP
+  is the result of a partnership between Princeton University and NASA's Goddard Space
+  Flight Center. Scientific guidance is provided by the WMAP Science Team.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..192...14J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.4744
+author: Jarosik, N. and Bennett, C. L. and Dunkley, J. and Gold, B. and Greason, M.
+  R. and Halpern, M. and Hill, R. S. and Hinshaw, G. and Kogut, A. and Komatsu, E.
+  and Larson, D. and Limon, M. and Meyer, S. S. and Nolta, M. R. and Odegard, N. and
+  Page, L. and Smith, K. M. and Spergel, D. N. and Tucker, G. S. and Weiland, J. L.
+  and Wollack, E. and Wright, E. L.
+author_list:
+- family: Jarosik
+  given: N.
+- family: Bennett
+  given: C. L.
+- family: Dunkley
+  given: J.
+- family: Gold
+  given: B.
+- family: Greason
+  given: M. R.
+- family: Halpern
+  given: M.
+- family: Hill
+  given: R. S.
+- family: Hinshaw
+  given: G.
+- family: Kogut
+  given: A.
+- family: Komatsu
+  given: E.
+- family: Larson
+  given: D.
+- family: Limon
+  given: M.
+- family: Meyer
+  given: S. S.
+- family: Nolta
+  given: M. R.
+- family: Odegard
+  given: N.
+- family: Page
+  given: L.
+- family: Smith
+  given: K. M.
+- family: Spergel
+  given: D. N.
+- family: Tucker
+  given: G. S.
+- family: Weiland
+  given: J. L.
+- family: Wollack
+  given: E.
+- family: Wright
+  given: E. L.
+date-added: 2017-08-11 03:24:54 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0067-0049/192/2/14
+eid: '14'
+eprint: '1001.4744'
+journal: \apjs
+keywords: 'cosmic background radiation, space vehicles: instruments'
+month: February
+pages: '14'
+papis_id: ed144efaa087c0460426fc5234ef5a63
+ref: jarosik.n.2011
+title: 'Seven-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Sky Maps,
+  Systematic Errors, and Basic Results'
+type: article
+volume: '192'
+year: '2011'

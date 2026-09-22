@@ -1,0 +1,29 @@
+abstract: For a wide range of problems in radiation hydrodynamics the motion of the
+  matter is best described in an Eulerian coordinate system, and here a comoving-frame
+  equation of radiation transfer in such fixed coordinates is derived, using the radiation
+  quantities measured in the comoving frame. The choice of coordinates is arbitrary,
+  and the equation is given explicitly for an arbitrary diagonal metric, correct to
+  all orders in v/c. All comoving frame equations derived earlier are included as
+  special cases. An example is given for the case of a spherically symmetric flow
+  in a Schwarzschild metric.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1986ApJ...310..729R
+author: Riffert, H.
+author_list:
+- family: Riffert
+  given: H.
+date-added: 2017-08-10 22:27:27 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/164726
+journal: \apj
+keywords: Computational Astrophysics, Euler Equations Of Motion, Hydrodynamic Equations,
+  Radiative Transfer, Fluid Flow, Schwarzschild Metric
+month: November
+pages: 729--732
+papis_id: 2dbc3e6fdc46e4180b480923f4ab3991
+ref: riffert.h.1986
+title: A general Eulerian formulation of the comoving-frame equation of radiative
+  transfer
+type: article
+volume: '310'
+year: '1986'

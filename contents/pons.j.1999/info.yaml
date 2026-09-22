@@ -1,0 +1,59 @@
+abstract: We study the thermal and chemical evolution during the Kelvin-Helmholtz
+  phase of the birth of a neutron star, employing neutrino opacities that are consistently
+  calculated with the underlying equation of state (EOS). Expressions for the diffusion
+  coefficients appropriate for general relativistic neutrino transport in the equilibrium
+  diffusion approximation are derived. The diffusion coefficients are evaluated using
+  a field-theoretical finite-temperature EOS that includes the possible presence of
+  hyperons. The variation of the diffusion coefficients is studied as a function of
+  EOS and compositional parameters. We present results from numerical simulations
+  of proto-neutron star cooling for internal stellar properties as well as emitted
+  neutrino energies and luminosities. We discuss the influence of the initial stellar
+  model, the total mass, the underlying EOS, and the addition of hyperons on the evolution
+  of the proto-neutron star and on the expected signal in terrestrial detectors. We
+  find that the differences in predicted luminosities and emitted neutrino energies
+  do not depend much upon the details of the initial models or the underlying high-density
+  EOS for early times (t<10 s), provided that opacities are calculated consistently
+  with the EOS. The same holds true for models that allow for the presence of hyperons,
+  except when the initial mass is significantly larger than the maximum mass for cold,
+  catalyzed matter. For times larger than about 10 s, and prior to the occurrence
+  of neutrino transparency, the neutrino luminosities decay exponentially with a time
+  constant that is sensitive to the high-density properties of matter. We also find
+  the average emitted neutrino energy increases during the first 5 s of evolution
+  and then decreases nearly linearly with time. In general, increasing the proto-neutron
+  star mass increases the average energy and the luminosity of neutrinos, as well
+  as the overall evolutionary timescale. The influence of hyperons or variations in
+  the dense matter EOS is increasingly important at later times. Metastable stars,
+  those with hyperons that are unstable to collapse upon deleptonization, have relatively
+  long evolution times, which increase the nearer the mass is to the maximum mass
+  supportable by a cold, deleptonized star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...513..780P
+arxivurl: http://arxiv.org/abs/astro-ph/9807040
+author: Pons, J. A. and Reddy, S. and Prakash, M. and Lattimer, J. M. and Miralles,
+  J. A.
+author_list:
+- family: Pons
+  given: J. A.
+- family: Reddy
+  given: S.
+- family: Prakash
+  given: M.
+- family: Lattimer
+  given: J. M.
+- family: Miralles
+  given: J. A.
+date-added: 2017-08-10 15:47:26 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306889
+eprint: astro-ph/9807040
+journal: \apj
+keywords: 'ELEMENTARY PARTICLES, EQUATION OF STATE, STARS: INTERIORS, STARS: NEUTRON,
+  Elementary Particles, Equation of State, Stars: Interiors, Stars: Neutron'
+month: March
+pages: 780--804
+papis_id: a066c8f41cb7a3e1164221d8a359a70b
+ref: pons.j.1999
+title: Evolution of Proto-Neutron Stars
+type: article
+volume: '513'
+year: '1999'

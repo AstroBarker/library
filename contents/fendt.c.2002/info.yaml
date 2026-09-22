@@ -1,0 +1,44 @@
+abstract: Protostellar jets most probably originate in turbulent accretion disks surrounding
+  young stellar objects. We investigate the evolution of a disk wind into a collimated
+  jet under the influence of magnetic diffusivity, assuming that the turbulent pattern
+  in the disk will also enter the disk corona and the jet. Using the ZEUS-3D code
+  in the axisymmetry option we solve the time-dependent resistive MHD equations for
+  a model setup of a central star surrounded by an accretion disk. The disk is taken
+  as a time-independent boundary condition for the mass flow rate and the magnetic
+  flux distribution. We derive analytical estimates for the magnitude of magnetic
+  diffusion in a protostellar jet connecting our results to earlier work in the limit
+  of ideal MHD. We find that the diffusive jets propagate slower into the ambient
+  medium, most probably due to the lower mass flow rate in the axial direction. Close
+  to the star we find that a quasi stationary state evolves after several hundred
+  (weak diffusion) or thousand (strong diffusion) disk rotations. Magnetic diffusivity
+  affects the protostellar jet structure as follows. The jet poloidal magnetic field
+  becomes de-collimated. The jet velocity increases with increasing diffusivity, while
+  the degree of collimation for the hydrodynamic flow remains more or less the same.
+  We suggest that the mass flux is a proper tracer for the degree of jet collimation
+  and find indications of a critical value for the magnetic diffusivity above which
+  the jet collimation is only weak. We finally develop a self-consistent picture in
+  which all these effects can be explained in the framework of the Lorentz force.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...395.1045F
+arxivurl: http://arxiv.org/abs/astro-ph/0210082
+author: Fendt, C. and Čemeljić, M.
+author_list:
+- family: Fendt
+  given: C.
+- family: Čemeljić
+  given: M.
+date-added: 2017-08-10 23:03:25 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1051/0004-6361:20021442
+eprint: astro-ph/0210082
+journal: \aap
+keywords: 'accretion, accretion disks, MHD, ISM: jets and outflows, stars: mass loss,
+  stars: pre-main sequence, galaxies: jets'
+month: December
+pages: 1045--1060
+papis_id: 6696e75777cd264f6b300731bdb9690e
+ref: fendt.c.2002
+title: Formation of protostellar jets - effects of magnetic diffusion
+type: article
+volume: '395'
+year: '2002'

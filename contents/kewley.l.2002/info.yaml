@@ -1,0 +1,41 @@
+abstract: 'We investigate the Halpha and infrared star formation rate (SFR) diagnostics
+  for galaxies in the Nearby Field Galaxy Survey (NFGS). For the 81 galaxies in our
+  sample, we derive Halpha fluxes (included here) from integrated spectra. There is
+  a strong correlation between the ratio of far-infrared to optical luminosities L(FIR)/L(Halpha)
+  and the extinction E(B-V) measured with the Balmer decrement. Before reddening correction,
+  the SFR(IR) and SFR(Halpha) are related to each other by a power law: SFR(IR)=(2.7+/-0.3)SFR(Halpha)1.30+/-0.06.
+  Correction of the SFR(Halpha) for extinction using the Balmer decrement and a classical
+  reddening curve both reduces the scatter in the SFR(IR)-SFR(Halpha) correlation
+  and results in a much closer agreement between the two SFR indicators; SFR(IR)=(0.91+/-0.04)SFR(Halphacorr)1.07+/-0.03.
+  SFR(IR) and SFR(Halpha) agree to ~10\%. This SFR relationship spans 4 orders of
+  magnitude and holds for all Hubble types with IRAS detections in the NFGS. A constant
+  ratio between the SFR(IR) and SFR(Halpha) for all Hubble types, including early
+  types (S0-Sab), suggests that the IR emission in all these objects results from
+  a young stellar population.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....124.3135K
+arxivurl: http://arxiv.org/abs/astro-ph/0208508
+author: Kewley, L. J. and Geller, M. J. and Jansen, R. A. and Dopita, M. A.
+author_list:
+- family: Kewley
+  given: L. J.
+- family: Geller
+  given: M. J.
+- family: Jansen
+  given: R. A.
+- family: Dopita
+  given: M. A.
+date-added: 2017-08-11 03:27:31 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344487
+eprint: astro-ph/0208508
+journal: \aj
+keywords: 'ISM: Dust, Extinction, Galaxies: Spiral, Galaxies: Starburst'
+month: December
+pages: 3135--3143
+papis_id: 5e9cf35a04d0d409e2682f627a0282dd
+ref: kewley.l.2002
+title: The H$α$ and Infrared Star Formation Rates for the Nearby Field Galaxy Survey
+type: article
+volume: '124'
+year: '2002'

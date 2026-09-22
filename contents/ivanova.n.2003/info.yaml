@@ -1,0 +1,40 @@
+abstract: We present a description for the angular momentum loss rate due to magnetic
+  braking for late-type stars, taking into account recent observational data on the
+  relationship between stellar activity and rotation. The analysis is based on an
+  idealized two-component coronal model subject to constraints imposed on the variation
+  of the coronal gas density, with a rotation period inferred from the observed variation
+  of X-ray luminosity LX with rotation rate Omega (LX~Omega2) for single rotating
+  dwarfs. An application of the model to high rotation rates leads to a gradual turnover
+  of the X-ray luminosity that is similar to the saturation recently observed in rapidly
+  rotating dwarfs. The resulting angular momentum loss rate, J, depends on Omega in
+  the form J~Omegabeta, where beta~3 for slow rotators and ~1.3 for fast rotators.
+  The relation at high rotation rates significantly differs from the power-law exponent
+  for slowly rotating stars, depressing the angular momentum loss rate without necessarily
+  requiring the saturation of the magnetic field. The application of this model to
+  the evolution of cataclysmic variable binary systems leads to mass transfer rates
+  that are more in accordance with those observed compared to rates based on either
+  a Skumanich law or an empirical law based on beta=1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...599..516I
+arxivurl: http://arxiv.org/abs/astro-ph/0308361
+author: Ivanova, N. and Taam, R. E.
+author_list:
+- family: Ivanova
+  given: N.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 22:48:54 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379192
+eprint: astro-ph/0308361
+journal: \apj
+keywords: 'Stars: Binaries: Close, Stars: Magnetic Fields, Stars: Rotation, X-Rays:
+  Binaries'
+month: December
+pages: 516--521
+papis_id: 016f28ca059f94d1e8d9af582515739d
+ref: ivanova.n.2003
+title: Magnetic Braking Revisited
+type: article
+volume: '599'
+year: '2003'

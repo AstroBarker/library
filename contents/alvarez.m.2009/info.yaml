@@ -1,0 +1,46 @@
+abstract: The first stars, forming at redshifts z > 15 in minihalos with M ~ 105-6
+  M sun may leave behind remnant black holes, which could conceivably have been the
+  "seeds" for the supermassive black holes observed at z lsim 7. We study remnant
+  black hole growth through accretion, including for the first time the radiation
+  emitted due to accretion, with adaptive mesh refinement cosmological radiation-hydrodynamical
+  simulations. The effects of photoionization and heating dramatically affect the
+  large-scale inflow, resulting in negligible mass growth. We compare cases with accretion
+  luminosity included and neglected to show that accretion radiation drastically changes
+  the environment within 100 pc of the black hole, increasing gas temperatures by
+  an order of magnitude. Gas densities are reduced and further star formation in the
+  same minihalo is prevented for the 200 million years we followed. Without radiative
+  feedback included most seed black holes do not gain mass as efficiently as has been
+  hoped for in previous theories, implying that black hole remnants of population
+  III stars in minihalos are not likely to be miniquasars. Most importantly, however,
+  our calculations demonstrate that if these black holes are indeed accreting close
+  to the Bondi-Hoyle rate with 10\% radiative efficiency they have a dramatic local
+  effect in regulating star formation in the first galaxies. This suggests a novel
+  mechanism for massive black hole formation---stellar-mass black holes may have suppressed
+  fragmentation and star formation after falling into halos with virial temperatures
+  ~104 K, facilitating massive black hole formation at their centers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...701L.133A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.0820
+author: Alvarez, M. A. and Wise, J. H. and Abel, T.
+author_list:
+- family: Alvarez
+  given: M. A.
+- family: Wise
+  given: J. H.
+- family: Abel
+  given: T.
+date-added: 2017-08-10 21:48:33 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/701/2/L133
+eprint: '0811.0820'
+journal: \apjl
+keywords: 'black hole physics, cosmology: theory, galaxies: formation'
+month: August
+pages: L133-L137
+papis_id: 5a552dc40a1974c394214bd236677bd2
+ref: alvarez.m.2009
+title: Accretion onto the First Stellar-Mass Black Holes
+type: article
+volume: '701'
+year: '2009'

@@ -1,0 +1,51 @@
+abstract: In this study, a new active micro-mixer utilizing moving wall structures
+  has been demonstrated. Rapid and reliable fabrication techniques involving standard
+  SU-8 lithography and a polydimethylsiloxane (PDMS) replication process were employed
+  for the formation of this micro chip device. The moving wall structures are activated
+  pneumatically by buried side chambers which deform the channel walls and generate
+  a rapid mixing of the confluent sample streams. The deformation of the moving wall
+  structure can be controlled by the applied air pressure. A maximum deformation of
+  96.5 \mathrm{\mu}m (about 96.5\% of the channel width) can be achieved at an applied
+  pressure of 50 psi for a wall structure with a width of 50 \mathrm{\mu}m and a thickness
+  of 100 \mathrm{\mu}m. In this study, two pairs of moving wall structures were used
+  for active mixing of the samples. Two dynamic operation modes, namely symmetric
+  and asymmetric wall activation, are employed to alternately perturb the flow field
+  and to generate a significant mixing effect. Mixing efficiency as high as 93.6\%
+  and 96.4\%, respectively, can be achieved for these two modes. The effect of the
+  operation frequency was also investigated. Experimental results indicate that the
+  mixing efficiency increases with increasing operation frequency. However, once the
+  operation frequency is higher than the frequency response of the device, the mixing
+  efficiency drops sharply since the moving wall cannot be completely deflected within
+  one actuation cycle. A numerical simulation was employed to investigate the mixing
+  mechanism and to identify how the moving wall affected the sample flow field. Numerical
+  data are in reasonable agreement with the experimental data with a variation less
+  than 5\%. Experimental results and numerical data indicate that the developed chip
+  device can mix two confluent samples successfully. The development of active micro-mixers
+  is a crucial component in many microfluidic applications.  Preliminary results were
+  presented at The Asia-Pacific Conference of Transducers and Micro-Nano Technology
+  (APCOT), June 25-28, 2006.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007JMiMi..17..129H
+author: Hsiung, S.-K. and Lee, C.-H. and Lin, J.-L. and Lee, G.-B.
+author_list:
+- family: Hsiung
+  given: S.-K.
+- family: Lee
+  given: C.-H.
+- family: Lin
+  given: J.-L.
+- family: Lee
+  given: G.-B.
+date-added: 2017-08-11 06:41:39 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1088/0960-1317/17/1/017
+journal: Journal of Micromechanics and Microengineering
+month: January
+pages: 129--138
+papis_id: 22f0e78230fba56b7ef5dcc6f47d3222
+ref: hsiung.s_k.2007
+title: Active micro-mixers utilizing moving wall structures activated pneumatically
+  by buried side chambers
+type: article
+volume: '17'
+year: '2007'

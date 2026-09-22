@@ -1,0 +1,36 @@
+abstract: We describe a new numerical algorithm for ray tracing in the external spacetimes
+  of spinning compact objects characterized by arbitrary quadrupole moments. Such
+  spacetimes describe non-Kerr vacuum solutions that can be used to test the no-hair
+  theorem in conjunction with observations of accreting black holes. They are also
+  appropriate for neutron stars with spin frequencies in the ~= 300-600 Hz range,
+  which are typical of the bursting sources in low-mass X-ray binaries. We use our
+  algorithm to show that allowing for the quadrupole moment of the spacetime to take
+  arbitrary values leads to observable effects in the profiles of relativistic broadened
+  fluorescent iron lines from geometrically thin accretion disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...745....1P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.4078
+author: Psaltis, D. and Johannsen, T.
+author_list:
+- family: Psaltis
+  given: D.
+- family: Johannsen
+  given: T.
+date-added: 2017-08-10 22:21:48 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/745/1/1
+eid: '1'
+eprint: '1011.4078'
+journal: \apj
+keywords: black hole physics, radiative transfer, relativistic processes
+month: January
+pages: '1'
+papis_id: 85dcccb57e56c55a257b13f3882e2ec6
+primaryclass: astro-ph.HE
+ref: psaltis.d.2012
+title: A Ray-tracing Algorithm for Spinning Compact Object Spacetimes with Arbitrary
+  Quadrupole Moments. I. Quasi-Kerr Black Holes
+type: article
+volume: '745'
+year: '2012'

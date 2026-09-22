@@ -1,0 +1,41 @@
+abstract: A general method for constructing high-order upwind schemes for multidimensional
+  magnetohydrodynamics (MHD), having as a main built-in condition the divergence-free
+  constraint \nabla{}\textperiodcentered{}B=0 for the magnetic field vector B, is
+  proposed. The suggested procedure is based on consistency arguments, by taking into
+  account the specific operator structure of MHD equations with respect to the reference
+  Euler equations of gasdynamics. This approach leads in a natural way to a staggered
+  representation of the B field numerical data in which the divergence-free condition
+  in the cell-averaged form, corresponding to second-order accurate numerical derivatives,
+  is exactly fulfilled. To extend this property to higher order schemes, we then give
+  general prescriptions to satisfy a (r+1)th order accurate \nabla{}\textperiodcentered{}B=0
+  relation for any numerical B field having a rth order interpolation accuracy. Consistency
+  arguments lead also to a proper formulation of the upwind procedures needed to integrate
+  the induction equations, assuring the exact conservation in time of the divergence-free
+  condition and the related continuity properties for the B vector components. As
+  an application, a third-order code to simulate multidimensional MHD flows of astrophysical
+  interest is developed using essentially nonoscillatory-based reconstruction algorithms.
+  Several test problems to illustrate and validate the proposed approach are finally
+  presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...530..508L
+arxivurl: http://arxiv.org/abs/astro-ph/9910086
+author: Londrillo, P. and Del Zanna, L.
+author_list:
+- family: Londrillo
+  given: P.
+- family: Del Zanna
+  given: L.
+date-added: 2017-08-10 23:30:15 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308344
+eprint: astro-ph/9910086
+journal: \apj
+keywords: 'METHODS: NUMERICAL, MAGNETOHYDRODYNAMICS: MHD'
+month: February
+pages: 508--524
+papis_id: 96d77bcc6854b1a3334edb68f5e420d8
+ref: londrillo.p.2000
+title: High-Order Upwind Schemes for Multidimensional Magnetohydrodynamics
+type: article
+volume: '530'
+year: '2000'

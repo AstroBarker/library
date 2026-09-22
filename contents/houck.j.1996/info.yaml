@@ -1,0 +1,42 @@
+abstract: We have used a detailed non-LTE synthetic spectrum code to interpret Royal
+  Greenwich Observatory archive spectra from the nebular phase of SN 1993J. In general,
+  we obtain good agreement between the observed optical spectra and synthetic spectra
+  based on the helium star explosion model 4H 47 of Nomoto et al., corresponding to
+  a 3.2 Msun helium core with 0.08 Msun of 56Ni. The fit to the observed spectrum
+  is improved when some of the iron-rich material is macroscopically mixed outward
+  to a velocity of at least 3000 km s-1, and when some of the oxygen-rich material
+  is mixed inward to \texttildelow{}1000 km s-1. We find that the observed spectra
+  are consistent with a symmetric explosion in which \texttildelow{}0.5 Msun of oxygen
+  occupies a spherical shell between 1000-4000 km s-1. Observations interpreted earlier
+  as evidence for large asymmetries are better explained by line blending effects.
+  In particular, scattering of [O I] lambdalambda6300, 6364 by Halpha in the hydrogen
+  envelope strongly affects the [O I] profile. The width of the Halpha absorption
+  feature constrains the velocity thickness of the hydrogen envelope, while the observed
+  time evolution of this feature indicates that Halpha became optically thin in 1993
+  October, constraining the hydrogen density. From these constraints and the observed
+  Halpha luminosity and line width, we conclude that the H/He envelope mass is 0.2-0.4
+  Msun and that the bulk of this mass lies between 8500-10,000 km s-1/ The envelope
+  is significantly helium enriched. After \texttildelow{}350 days, an additional power
+  source is necessary to reproduce the observed Halpha luminosity. It is likely that
+  X-rays from the circumstellar interaction provide the necessary energy input.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...456..811H
+author: Houck, J. C. and Fransson, C.
+author_list:
+- family: Houck
+  given: J. C.
+- family: Fransson
+  given: C.
+date-added: 2017-08-10 23:38:10 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176699
+journal: \apj
+keywords: 'STARS: INTERIORS, STARS: SUPERNOVAE: INDIVIDUAL ALPHANUMERIC: SN 1993J'
+month: January
+pages: '811'
+papis_id: 3d27141ee85a40b6a9a2f4d2ce808b8a
+ref: houck.j.1996
+title: Analysis of the Late Optical Spectra of SN 1993J
+type: article
+volume: '456'
+year: '1996'

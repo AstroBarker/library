@@ -1,0 +1,51 @@
+abstract: 'Nonrelativistic three-dimensional magnetohydrodynamic (MHD) simulations
+  of Poynting flux-dominated (PFD) jets are presented. Our study focuses on the propagation
+  of strongly magnetized hypersonic but sub-Alfv{\''e}nic (C2s<<V2j<V2A) flow and
+  on the subsequent development of a current-driven (CD) kink instability. This instability
+  may be responsible for the ``wiggled'''' structures seen in subparsec-scale (VLBI)
+  jets. In the present paper, we investigate the nonlinear behavior of PFD jets in
+  a variety of external ambient magnetized gas distributions, including those with
+  density, pressure, and temperature gradients. Our numerical results show that the
+  jets can develop CD distortions in the trans-Alfv{\''e}nic flow case, even when
+  the flow itself is still strongly magnetically dominated. An internal nonaxisymmetric
+  body mode grows on timescales of order the Alfv{\''e}n crossing time and distorts
+  the structure and magnetic configuration of the jet. The kink (m=1) mode of the
+  CD instability, driven by the radial component of the Lorentz force, grows faster
+  than other higher order modes (m>1). In the jet frame the mode grows locally and
+  expands radially at each axial position where the jet is unstable: the instability,
+  therefore, does not propagate as a wave along the jet length. CD instabilities have
+  a number of features that make them an attractive explanation for the helical jet
+  structure observed in active galactic nuclei and pulsars: (1) because the magnetic
+  field remains strong, CD instabilities do not develop into full MHD turbulence;
+  (2) the helical structures saturate and advect with the bulk flow; (3) they distort
+  the body of the jet, not merely its interface with the ambient medium; (4) local
+  plasma flow, then, follows a helical path along the kinked magnetic field backbone.
+  A naturally occurring, external helically magnetized wind, which is (quasi-)axially
+  current-free, surrounds the well-collimated current-carrying jet and reduces velocity
+  shear between the jet and external medium. This stabilizes the growth of MHD Kelvin-Helmholtz
+  surface modes in the inner jet flow.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...617..123N
+arxivurl: http://arxiv.org/abs/astro-ph/0406405
+author: Nakamura, M. and Meier, D. L.
+author_list:
+- family: Nakamura
+  given: M.
+- family: Meier
+  given: D. L.
+date-added: 2017-08-10 16:35:25 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/425337
+eprint: astro-ph/0406405
+journal: \apj
+keywords: 'Instabilities, Galaxies: Active, Galaxies: Jets, Methods: Numerical, Magnetohydrodynamics:
+  MHD'
+month: December
+pages: 123--154
+papis_id: b3e407406faa2343c158ff77f952b359
+ref: nakamura.m.2004
+title: Poynting Flux-dominated Jets in Decreasing-Density Atmospheres. I. The Nonrelativistic
+  Current-driven Kink Instability and the Formation of ``Wiggled'' Structures
+type: article
+volume: '617'
+year: '2004'

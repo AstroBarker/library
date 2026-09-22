@@ -1,0 +1,74 @@
+abstract: 'Context: The nature of the progenitors of type Ia supernovae is still under
+  debate. KPD 1930+2752 is one of the best SN Ia progenitor candidates known today.
+  The object is a double degenerate system consisting of a subluminous B star (sdB)
+  and a massive white dwarf (WD). Maxted et al. ([CITE]) conclude that the system
+  mass exceeds the Chandrasekhar mass. This conclusion, however, rests on the assumption
+  that the sdB mass is 0.5 M\&sun;. However, recent binary population synthesis calculations
+  suggest that the mass of an sdB star may range from 0.3 M\&sun; to more than 0.7
+  M\&sun;.  Aims:  It is therefore important to measure the mass of the sdB star simultaneously
+  with that of the white dwarf. Since the rotation of the sdB star is tidally locked
+  to the orbit, the inclination of the system can be constrained if the sdB radius
+  and the projected rotational velocity can be measured with high precision. An analysis
+  of the ellipsoidal variations in the light curve allows the constraints derived
+  from spectroscopy to be tightened.  Methods: We derived the mass-radius relation
+  for the sdB star from a quantitative spectral analysis of 150 low-resolution spectra
+  obtained with the Calar Alto 2.2 m telescope using metal-rich, line-blanketed LTE
+  model atmospheres with and without NLTE line formation. The projected rotational
+  velocity was determined for the first time from 200 high-resolution spectra obtained
+  with the Keck I 10 m and with the ESO-VLT 8.2 m telescopes. In addition a reanalysis
+  of the published light curve was performed.  Results: The atmospheric and orbital
+  parameters were measured with unprecedented accuracy. In particular the projected
+  rotational velocity <[(v\_rot sin{i} = 92.3 $\pm$ 1.5 km s-1)]> was determined.
+  Assuming the companion to be a white dwarf, the mass of the sdB is limited between
+  <[(0.45 M\&sun;)]> and <[(0.64 M\&sun;)]> and the corresponding total mass of the
+  system ranges from <[(1.33 M\&sun;)]> to <[(2.04 M\&sun;)]>. This constrains the
+  inclination to i>68\$\,^{\circ}\$. The photometric analysis allows the parameters
+  to be constrained even more. A neutron star companion can be ruled out and the mass
+  of the sdB is limited to the range between <[(0.45 M\&sun;)]> and <[(0.52 M\&sun;)]>.
+  The total mass of the system ranges from <[(1.36 M\&sun;)]> to <[(1.48 M\&sun;)]>
+  and hence is likely to exceed the Chandrasekhar mass. The inclination angle is 80\$\,^{\circ}\$
+  and the light curve shows weak and shallow signs of eclipses. A high-precision light
+  curve is needed in order to accurately measure these eclipses. So KPD 1930+2752
+  qualifies as an excellent double degenerate supernova Ia progenitor candidate.  Some
+  of the data presented here were obtained at the W.M. Keck Observatory, which is
+  operated as a scientific partnership among the California Institute of Technology,
+  the University of California, and the National Aeronautics and Space Administration.
+  The Observatory was made possible by the generous financial support of the W.M.
+  Keck Foundation.  Based on observations collected at the Centro Astron{\''o}mico
+  Hispano Alem{\''a}n (CAHA) at Calar Alto, operated jointly by the Max-Planck Institut
+  f{\"u}r Astronomie and the Instituto de Astrof{\''\i}sica de Andaluc{\''\i}a (CSIC).  Based
+  on observations at the Paranal Observatory of the European Southern Observatory
+  for programme 167.D-0407.  R. N. gratefully acknowledges support from a PPARC Advanced
+  Fellowship.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...464..299G
+arxivurl: http://arxiv.org/abs/astro-ph/0609742
+author: Geier, S. and Nesslinger, S. and Heber, U. and Przybilla, N. and Napiwotzki,
+  R. and Kudritzki, R.-P.
+author_list:
+- family: Geier
+  given: S.
+- family: Nesslinger
+  given: S.
+- family: Heber
+  given: U.
+- family: Przybilla
+  given: N.
+- family: Napiwotzki
+  given: R.
+- family: Kudritzki
+  given: R.-P.
+date-added: 2017-08-10 19:16:31 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1051/0004-6361:20066098
+eprint: astro-ph/0609742
+journal: \aap
+month: March
+pages: 299--307
+papis_id: 6048355bafc10f6615a73b0109ea1441
+ref: geier.s.2007
+title: The hot subdwarf B + white dwarf binary KPD 1930+2752. A supernova type Ia
+  progenitor candidate
+type: article
+volume: '464'
+year: '2007'

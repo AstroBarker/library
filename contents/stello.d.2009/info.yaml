@@ -1,0 +1,101 @@
+abstract: For distant stars, as observed by the NASA Kepler satellite, parallax information
+  is currently of fairly low quality and is not complete. This limits the precision
+  with which the absolute sizes of the stars and their potential transiting planets
+  can be determined by traditional methods. Asteroseismology will be used to aid the
+  radius determination of stars observed during NASA's Kepler mission. We report on
+  the recent asteroFLAG hare-and-hounds Exercise\#2, where a group of "hares" simulated
+  data of F-K main-sequence stars that a group of "hounds" sought to analyze, aimed
+  at determining the stellar radii. We investigated stars in the range 9 < V < 15,
+  both with and without parallaxes. We further test different uncertainties in T eff,
+  and compare results with and without using asteroseismic constraints. Based on the
+  asteroseismic large frequency spacing, obtained from simulations of 4 yr time series
+  data from the Kepler mission, we demonstrate that the stellar radii can be correctly
+  and precisely determined, when combined with traditional stellar parameters from
+  the Kepler Input Catalogue. The radii found by the various methods used by each
+  independent hound generally agree with the true values of the artificial stars to
+  within 3\%, when the large frequency spacing is used. This is 5-10 times better
+  than the results where seismology is not applied. These results give strong confidence
+  that radius estimation can be performed to better than 3\% for solar-like stars
+  using automatic pipeline reduction. Even when the stellar distance and luminosity
+  are unknown we can obtain the same level of agreement. Given the uncertainties used
+  for this exercise we find that the input log g and parallax do not help to constrain
+  the radius, and that T eff and metallicity are the only parameters we need in addition
+  to the large frequency spacing. It is the uncertainty in the metallicity that dominates
+  the uncertainty in the radius.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700.1589S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.0766
+author: Stello, D. and Chaplin, W. J. and Bruntt, H. and Creevey, O. L. and García-Hernández,
+  A. and Monteiro, M. J. P. F. G. and Moya, A. and Quirion, P.-O. and Sousa, S. G.
+  and Suárez, J.-C. and Appourchaux, T. and Arentoft, T. and Ballot, J. and Bedding,
+  T. R. and Christensen-Dalsgaard, J. and Elsworth, Y. and Fletcher, S. T. and García,
+  R. A. and Houdek, G. and Jiménez-Reyes, S. J. and Kjeldsen, H. and New, R. and Régulo,
+  C. and Salabert, D. and Toutain, T.
+author_list:
+- family: Stello
+  given: D.
+- family: Chaplin
+  given: W. J.
+- family: Bruntt
+  given: H.
+- family: Creevey
+  given: O. L.
+- family: García-Hernández
+  given: A.
+- family: Monteiro
+  given: M. J. P. F. G.
+- family: Moya
+  given: A.
+- family: Quirion
+  given: P.-O.
+- family: Sousa
+  given: S. G.
+- family: Suárez
+  given: J.-C.
+- family: Appourchaux
+  given: T.
+- family: Arentoft
+  given: T.
+- family: Ballot
+  given: J.
+- family: Bedding
+  given: T. R.
+- family: Christensen-Dalsgaard
+  given: J.
+- family: Elsworth
+  given: Y.
+- family: Fletcher
+  given: S. T.
+- family: García
+  given: R. A.
+- family: Houdek
+  given: G.
+- family: Jiménez-Reyes
+  given: S. J.
+- family: Kjeldsen
+  given: H.
+- family: New
+  given: R.
+- family: Régulo
+  given: C.
+- family: Salabert
+  given: D.
+- family: Toutain
+  given: T.
+date-added: 2017-08-10 20:54:24 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/700/2/1589
+eprint: '0906.0766'
+journal: \apj
+keywords: 'stars: fundamental parameters, stars: interiors, stars: oscillations'
+month: August
+pages: 1589--1602
+papis_id: ff2ad574e5e4f38b81e08c68aba79ca6
+primaryclass: astro-ph.SR
+ref: stello.d.2009
+title: 'Radius Determination of Solar-type Stars Using Asteroseismology: What to Expect
+  from the Kepler Mission'
+type: article
+volume: '700'
+year: '2009'

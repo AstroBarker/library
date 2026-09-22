@@ -1,0 +1,454 @@
+abstract: The Sloan Digital Sky Survey (SDSS) is an imaging and spectroscopic survey
+  that will eventually cover approximately one-quarter of the celestial sphere and
+  collect spectra of ~106 galaxies, 100,000 quasars, 30,000 stars, and 30,000 serendipity
+  targets. In 2001 June, the SDSS released to the general astronomical community its
+  early data release, roughly 462 deg2 of imaging data including almost 14 million
+  detected objects and 54,008 follow-up spectra. The imaging data were collected in
+  drift-scan mode in five bandpasses (u, g, r, i, and z); our 95\% completeness limits
+  for stars are 22.0, 22.2, 22.2, 21.3, and 20.5, respectively. The photometric calibration
+  is reproducible to 5\%, 3\%, 3\%, 3\%, and 5\%, respectively. The spectra are flux-
+  and wavelength-calibrated, with 4096 pixels from 3800 to 9200 {\AA} at R~1800. We
+  present the means by which these data are distributed to the astronomical community,
+  descriptions of the hardware used to obtain the data, the software used for processing
+  the data, the measured quantities for each observed object, and an overview of the
+  properties of this data set.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002AJ....123..485S
+author: Stoughton, C. and Lupton, R. H. and Bernardi, M. and Blanton, M. R. and Burles,
+  S. and Castander, F. J. and Connolly, A. J. and Eisenstein, D. J. and Frieman, J.
+  A. and Hennessy, G. S. and Hindsley, R. B. and Ivezić, Ž. and Kent, S. and Kunszt,
+  P. Z. and Lee, B. C. and Meiksin, A. and Munn, J. A. and Newberg, H. J. and Nichol,
+  R. C. and Nicinski, T. and Pier, J. R. and Richards, G. T. and Richmond, M. W. and
+  Schlegel, D. J. and Smith, J. A. and Strauss, M. A. and SubbaRao, M. and Szalay,
+  A. S. and Thakar, A. R. and Tucker, D. L. and Vanden Berk, D. E. and Yanny, B. and
+  Adelman, J. K. and Anderson Jr., J. E. and Anderson, S. F. and Annis, J. and Bahcall,
+  N. A. and Bakken, J. A. and Bartelmann, M. and Bastian, S. and Bauer, A. and Berman,
+  E. and Böhringer, H. and Boroski, W. N. and Bracker, S. and Briegel, C. and Briggs,
+  J. W. and Brinkmann, J. and Brunner, R. and Carey, L. and Carr, M. A. and Chen,
+  B. and Christian, D. and Colestock, P. L. and Crocker, J. H. and Csabai, I. and
+  Czarapata, P. C. and Dalcanton, J. and Davidsen, A. F. and Davis, J. E. and Dehnen,
+  W. and Dodelson, S. and Doi, M. and Dombeck, T. and Donahue, M. and Ellman, N. and
+  Elms, B. R. and Evans, M. L. and Eyer, L. and Fan, X. and Federwitz, G. R. and Friedman,
+  S. and Fukugita, M. and Gal, R. and Gillespie, B. and Glazebrook, K. and Gray, J.
+  and Grebel, E. K. and Greenawalt, B. and Greene, G. and Gunn, J. E. and de Haas,
+  E. and Haiman, Z. and Haldeman, M. and Hall, P. B. and Hamabe, M. and Hansen, B.
+  and Harris, F. H. and Harris, H. and Harvanek, M. and Hawley, S. L. and Hayes, J.
+  J. E. and Heckman, T. M. and Helmi, A. and Henden, A. and Hogan, C. J. and Hogg,
+  D. W. and Holmgren, D. J. and Holtzman, J. and Huang, C.-H. and Hull, C. and Ichikawa,
+  S.-I. and Ichikawa, T. and Johnston, D. E. and Kauffmann, G. and Kim, R. S. J. and
+  Kimball, T. and Kinney, E. and Klaene, M. and Kleinman, S. J. and Klypin, A. and
+  Knapp, G. R. and Korienek, J. and Krolik, J. and Kron, R. G. and Krzesi\ŉski, J.
+  and Lamb, D. Q. and Leger, R. F. and Limmongkol, S. and Lindenmeyer, C. and Long,
+  D. C. and Loomis, C. and Loveday, J. and MacKinnon, B. and Mannery, E. J. and Mantsch,
+  P. M. and Margon, B. and McGehee, P. and McKay, T. A. and McLean, B. and Menou,
+  K. and Merelli, A. and Mo, H. J. and Monet, D. G. and Nakamura, O. and Narayanan,
+  V. K. and Nash, T. and Neilsen Jr., E. H. and Newman, P. R. and Nitta, A. and Odenkirchen,
+  M. and Okada, N. and Okamura, S. and Ostriker, J. P. and Owen, R. and Pauls, A.
+  G. and Peoples, J. and Peterson, R. S. and Petravick, D. and Pope, A. and Pordes,
+  R. and Postman, M. and Prosapio, A. and Quinn, T. R. and Rechenmacher, R. and Rivetta,
+  C. H. and Rix, H.-W. and Rockosi, C. M. and Rosner, R. and Ruthmansdorfer, K. and
+  Sandford, D. and Schneider, D. P. and Scranton, R. and Sekiguchi, M. and Sergey,
+  G. and Sheth, R. and Shimasaku, K. and Smee, S. and Snedden, S. A. and Stebbins,
+  A. and Stubbs, C. and Szapudi, I. and Szkody, P. and Szokoly, G. P. and Tabachnik,
+  S. and Tsvetanov, Z. and Uomoto, A. and Vogeley, M. S. and Voges, W. and Waddell,
+  P. and Walterbos, R. and Wang, S.-i. and Watanabe, M. and Weinberg, D. H. and White,
+  R. L. and White, S. D. M. and Wilhite, B. and Wolfe, D. and Yasuda, N. and York,
+  D. G. and Zehavi, I. and Zheng, W.
+author_list:
+- family: Stoughton
+  given: C.
+- family: Lupton
+  given: R. H.
+- family: Bernardi
+  given: M.
+- family: Blanton
+  given: M. R.
+- family: Burles
+  given: S.
+- family: Castander
+  given: F. J.
+- family: Connolly
+  given: A. J.
+- family: Eisenstein
+  given: D. J.
+- family: Frieman
+  given: J. A.
+- family: Hennessy
+  given: G. S.
+- family: Hindsley
+  given: R. B.
+- family: Ivezić
+  given: Ž.
+- family: Kent
+  given: S.
+- family: Kunszt
+  given: P. Z.
+- family: Lee
+  given: B. C.
+- family: Meiksin
+  given: A.
+- family: Munn
+  given: J. A.
+- family: Newberg
+  given: H. J.
+- family: Nichol
+  given: R. C.
+- family: Nicinski
+  given: T.
+- family: Pier
+  given: J. R.
+- family: Richards
+  given: G. T.
+- family: Richmond
+  given: M. W.
+- family: Schlegel
+  given: D. J.
+- family: Smith
+  given: J. A.
+- family: Strauss
+  given: M. A.
+- family: SubbaRao
+  given: M.
+- family: Szalay
+  given: A. S.
+- family: Thakar
+  given: A. R.
+- family: Tucker
+  given: D. L.
+- family: Vanden Berk
+  given: D. E.
+- family: Yanny
+  given: B.
+- family: Adelman
+  given: J. K.
+- family: Anderson Jr.
+  given: J. E.
+- family: Anderson
+  given: S. F.
+- family: Annis
+  given: J.
+- family: Bahcall
+  given: N. A.
+- family: Bakken
+  given: J. A.
+- family: Bartelmann
+  given: M.
+- family: Bastian
+  given: S.
+- family: Bauer
+  given: A.
+- family: Berman
+  given: E.
+- family: Böhringer
+  given: H.
+- family: Boroski
+  given: W. N.
+- family: Bracker
+  given: S.
+- family: Briegel
+  given: C.
+- family: Briggs
+  given: J. W.
+- family: Brinkmann
+  given: J.
+- family: Brunner
+  given: R.
+- family: Carey
+  given: L.
+- family: Carr
+  given: M. A.
+- family: Chen
+  given: B.
+- family: Christian
+  given: D.
+- family: Colestock
+  given: P. L.
+- family: Crocker
+  given: J. H.
+- family: Csabai
+  given: I.
+- family: Czarapata
+  given: P. C.
+- family: Dalcanton
+  given: J.
+- family: Davidsen
+  given: A. F.
+- family: Davis
+  given: J. E.
+- family: Dehnen
+  given: W.
+- family: Dodelson
+  given: S.
+- family: Doi
+  given: M.
+- family: Dombeck
+  given: T.
+- family: Donahue
+  given: M.
+- family: Ellman
+  given: N.
+- family: Elms
+  given: B. R.
+- family: Evans
+  given: M. L.
+- family: Eyer
+  given: L.
+- family: Fan
+  given: X.
+- family: Federwitz
+  given: G. R.
+- family: Friedman
+  given: S.
+- family: Fukugita
+  given: M.
+- family: Gal
+  given: R.
+- family: Gillespie
+  given: B.
+- family: Glazebrook
+  given: K.
+- family: Gray
+  given: J.
+- family: Grebel
+  given: E. K.
+- family: Greenawalt
+  given: B.
+- family: Greene
+  given: G.
+- family: Gunn
+  given: J. E.
+- family: de Haas
+  given: E.
+- family: Haiman
+  given: Z.
+- family: Haldeman
+  given: M.
+- family: Hall
+  given: P. B.
+- family: Hamabe
+  given: M.
+- family: Hansen
+  given: B.
+- family: Harris
+  given: F. H.
+- family: Harris
+  given: H.
+- family: Harvanek
+  given: M.
+- family: Hawley
+  given: S. L.
+- family: Hayes
+  given: J. J. E.
+- family: Heckman
+  given: T. M.
+- family: Helmi
+  given: A.
+- family: Henden
+  given: A.
+- family: Hogan
+  given: C. J.
+- family: Hogg
+  given: D. W.
+- family: Holmgren
+  given: D. J.
+- family: Holtzman
+  given: J.
+- family: Huang
+  given: C.-H.
+- family: Hull
+  given: C.
+- family: Ichikawa
+  given: S.-I.
+- family: Ichikawa
+  given: T.
+- family: Johnston
+  given: D. E.
+- family: Kauffmann
+  given: G.
+- family: Kim
+  given: R. S. J.
+- family: Kimball
+  given: T.
+- family: Kinney
+  given: E.
+- family: Klaene
+  given: M.
+- family: Kleinman
+  given: S. J.
+- family: Klypin
+  given: A.
+- family: Knapp
+  given: G. R.
+- family: Korienek
+  given: J.
+- family: Krolik
+  given: J.
+- family: Kron
+  given: R. G.
+- family: Krzesi\ŉski
+  given: J.
+- family: Lamb
+  given: D. Q.
+- family: Leger
+  given: R. F.
+- family: Limmongkol
+  given: S.
+- family: Lindenmeyer
+  given: C.
+- family: Long
+  given: D. C.
+- family: Loomis
+  given: C.
+- family: Loveday
+  given: J.
+- family: MacKinnon
+  given: B.
+- family: Mannery
+  given: E. J.
+- family: Mantsch
+  given: P. M.
+- family: Margon
+  given: B.
+- family: McGehee
+  given: P.
+- family: McKay
+  given: T. A.
+- family: McLean
+  given: B.
+- family: Menou
+  given: K.
+- family: Merelli
+  given: A.
+- family: Mo
+  given: H. J.
+- family: Monet
+  given: D. G.
+- family: Nakamura
+  given: O.
+- family: Narayanan
+  given: V. K.
+- family: Nash
+  given: T.
+- family: Neilsen Jr.
+  given: E. H.
+- family: Newman
+  given: P. R.
+- family: Nitta
+  given: A.
+- family: Odenkirchen
+  given: M.
+- family: Okada
+  given: N.
+- family: Okamura
+  given: S.
+- family: Ostriker
+  given: J. P.
+- family: Owen
+  given: R.
+- family: Pauls
+  given: A. G.
+- family: Peoples
+  given: J.
+- family: Peterson
+  given: R. S.
+- family: Petravick
+  given: D.
+- family: Pope
+  given: A.
+- family: Pordes
+  given: R.
+- family: Postman
+  given: M.
+- family: Prosapio
+  given: A.
+- family: Quinn
+  given: T. R.
+- family: Rechenmacher
+  given: R.
+- family: Rivetta
+  given: C. H.
+- family: Rix
+  given: H.-W.
+- family: Rockosi
+  given: C. M.
+- family: Rosner
+  given: R.
+- family: Ruthmansdorfer
+  given: K.
+- family: Sandford
+  given: D.
+- family: Schneider
+  given: D. P.
+- family: Scranton
+  given: R.
+- family: Sekiguchi
+  given: M.
+- family: Sergey
+  given: G.
+- family: Sheth
+  given: R.
+- family: Shimasaku
+  given: K.
+- family: Smee
+  given: S.
+- family: Snedden
+  given: S. A.
+- family: Stebbins
+  given: A.
+- family: Stubbs
+  given: C.
+- family: Szapudi
+  given: I.
+- family: Szkody
+  given: P.
+- family: Szokoly
+  given: G. P.
+- family: Tabachnik
+  given: S.
+- family: Tsvetanov
+  given: Z.
+- family: Uomoto
+  given: A.
+- family: Vogeley
+  given: M. S.
+- family: Voges
+  given: W.
+- family: Waddell
+  given: P.
+- family: Walterbos
+  given: R.
+- family: Wang
+  given: S.-i.
+- family: Watanabe
+  given: M.
+- family: Weinberg
+  given: D. H.
+- family: White
+  given: R. L.
+- family: White
+  given: S. D. M.
+- family: Wilhite
+  given: B.
+- family: Wolfe
+  given: D.
+- family: Yasuda
+  given: N.
+- family: York
+  given: D. G.
+- family: Zehavi
+  given: I.
+- family: Zheng
+  given: W.
+date-added: 2017-08-11 07:25:59 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/324741
+journal: \aj
+keywords: Atlases, Catalogs, Surveys
+month: January
+pages: 485--548
+papis_id: 9881d5ae8b859eec975cf967a4e15c96
+ref: stoughton.c.2002
+title: 'Sloan Digital Sky Survey: Early Data Release'
+type: article
+volume: '123'
+year: '2002'

@@ -1,0 +1,32 @@
+abstract: How the selection of the time-step criterion and the order of the integrator
+  change the efficiency of Aarseth-type N-body integrators is discussed. An alternative
+  to Aarseth's scheme based on the direct calculation of the time derivative of the
+  force using the Hermite interpolation is compared to Aarseth's scheme, which uses
+  the Newton interpolation to construct the predictor and corrector. How the number
+  of particles in the system changes the behavior of integrators is examined. The
+  Hermite scheme allows a time step twice as large as that for the standard Aarseth
+  scheme for the same accuracy. The calculation cost of the Hermite scheme per time
+  step is roughly twice as much as that of the standard Aarseth scheme. The optimal
+  order of the integrators depends on both the particle number and the accuracy required.
+  The time-step criterion of the standard Aarseth scheme is found to be inapplicable
+  to higher-order integrators, and a more uniformly reliable criterion is proposed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...369..200M
+author: Makino, J.
+author_list:
+- family: Makino
+  given: J.
+date-added: 2017-08-10 18:56:10 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/169751
+journal: \apj
+keywords: Fokker-Planck Equation, Hermitian Polynomial, Many Body Problem, Numerical
+  Integration, Runge-Kutta Method, Chaos, Energy Conservation, Statistical Analysis
+month: March
+pages: 200--212
+papis_id: d3fe2c6d6eb25968164c1259d6b8ba04
+ref: makino.j.1991
+title: Optimal order and time-step criterion for Aarseth-type N-body integrators
+type: article
+volume: '369'
+year: '1991'

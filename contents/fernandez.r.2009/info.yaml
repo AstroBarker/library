@@ -1,0 +1,48 @@
+abstract: We investigate the effects of neutrino heating and alpha-particle recombination
+  on the hydrodynamics of core-collapse supernovae. Our focus is on the nonlinear
+  dynamics of the shock wave that forms in the collapse and the assembly of positive
+  energy material below it. To this end, we perform time-dependent hydrodynamic simulations
+  with FLASH2.5 in spherical and axial symmetry. These generalize our previous calculations
+  by allowing for bulk neutrino heating and for nuclear statistical equilibrium between
+  n, p, and alpha. The heating rate is freely tunable, as is the starting radius of
+  the shock relative to the recombination radius of alpha-particles. An explosion
+  in spherical symmetry involves the excitation of an overstable mode, which may be
+  viewed as the ell = 0 version of the "Standing Accretion Shock Instability." In
+  two-dimensional simulations, nonspherical deformations of the shock are driven by
+  plumes of material with positive Bernoulli parameter, which are concentrated well
+  outside the zone of strong neutrino heating. The nonspherical modes of the shock
+  reach a large amplitude only when the heating rate is also high enough to excite
+  convection below the shock. The critical heating rate that causes an explosion depends
+  sensitively on the initial position of the shock relative to the recombination radius.
+  Weaker heating is required to drive an explosion in two dimensions than in one,
+  but the difference also depends on the size of the shock. Forcing the infalling
+  heavy nuclei to break up into n and p below the shock only causes a slight increase
+  in the critical heating rate, except when the shock starts out at a large radius.
+  This shows that heating by neutrinos (or some other mechanism) must play a significant
+  role in pushing the shock far enough out that recombination heating takes over.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...703.1464F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0812.4574
+author: Fernández, R. and Thompson, C.
+author_list:
+- family: Fernández
+  given: R.
+- family: Thompson
+  given: C.
+date-added: 2017-08-10 14:43:47 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/703/2/1464
+eprint: '0812.4574'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, nuclear reactions, nucleosynthesis, abundances,
+  shock waves, supernovae: general'
+month: October
+pages: 1464--1485
+papis_id: 805e34add9603a0960baad1543bcdace
+ref: fernandez.r.2009
+title: Dynamics of a Spherical Accretion Shock with Neutrino Heating and Alpha-Particle
+  Recombination
+type: article
+volume: '703'
+year: '2009'

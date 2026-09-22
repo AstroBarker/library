@@ -1,0 +1,56 @@
+abstract: This paper presents results from axisymmetric simulations of magneto-rotational
+  stellar core collapse to neutron stars in general relativity using the passive field
+  approximation for the magnetic field. These simulations are performed using a new
+  general relativistic numerical code specifically designed to study this astrophysical
+  scenario. The code is an extension of an existing (and thoroughly tested) hydrodynamics
+  code, which has been applied in the recent past to study relativistic rotational
+  core collapse. It is based on the conformally-flat approximation of Einstein's field
+  equations and conservative formulations of the magneto-hydrodynamics equations.
+  The code has been recently upgraded to incorporate a tabulated, microphysical equation
+  of state and an approximate deleptonization scheme. This allows us to perform the
+  most realistic simulations of magneto-rotational core collapse to date, which are
+  compared with simulations employing a simplified (hybrid) equation of state, widely
+  used in the relativistic core collapse community. Furthermore, state-of-the-art
+  (unmagnetized) initial models from stellar evolution are used. In general, stellar
+  evolution models predict weak magnetic fields in the progenitors, which justifies
+  our simplification of performing the computations under the approach that we call
+  the passive field approximation for the magnetic field. Our results show that for
+  the core collapse models with microphysics the saturation of the magnetic field
+  cannot be reached within dynamical time scales by winding up the poloidal magnetic
+  field into a toroidal one. We estimate the effect of other amplification mechanisms
+  including the magneto-rotational instability (MRI) and several types of dynamos.
+  We conclude that for progenitors with astrophysically expected (i.e. weak) magnetic
+  fields, the MRI is the only mechanism that could amplify the magnetic field on dynamical
+  time scales. The uncertainties about the strength of the magnetic field at which
+  the MRI saturates are discussed. All our microphysical models exhibit post-bounce
+  convective overturn in regions surrounding the inner part of the proto-neutron star.
+  Since this has a potential impact on enhancing the MRI, it deserves further investigation
+  with more accurate neutrino treatment or alternative microphysical equations of
+  state.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...474..169C
+arxivurl: http://arxiv.org/abs/astro-ph/0703597
+author: Cerdá-Durán, P. and Font, J. A. and Dimmelmeier, H.
+author_list:
+- family: Cerdá-Durán
+  given: P.
+- family: Font
+  given: J. A.
+- family: Dimmelmeier
+  given: H.
+date-added: 2017-08-10 21:56:40 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1051/0004-6361:20077432
+eprint: astro-ph/0703597
+journal: \aap
+keywords: 'gravitation, hydrodynamics, magnetohydrodynamics (MHD), methods: numerical,
+  stars: supernovae: general, relativity'
+month: October
+pages: 169--191
+papis_id: cea6c10a93cb6eb09132c47d067167ed
+ref: cerda_duran.p.2007
+title: General relativistic simulations of passive-magneto-rotational core collapse
+  with microphysics
+type: article
+volume: '474'
+year: '2007'

@@ -1,0 +1,69 @@
+abstract: With currently known input physics and computer simulations in one dimension,
+  a self-consistent treatment of core-collapse supernovae does not yet lead to successful
+  explosions, while two-dimensional models show some promise. Thus, there are strong
+  indications that the delayed neutrino mechanism works combined with a multidimensional
+  convection treatment for unstable layers (possibly with the aid of rotation, magnetic
+  fields and/or still existent uncertainties in neutrino opacities). On the other
+  hand, there is a need to provide correct nucleosynthesis abundances for the progressing
+  field of galactic evolution and observations of low-metallicity stars. The innermost
+  ejecta is directly affected by the explosion mechanism, i.e., most strongly, the
+  yields of Fe group nuclei for which an induced piston or thermal bomb treatment
+  will not provide the correct yields because the effect of neutrino interactions
+  is not included. We apply parameterized variations to the neutrino-scattering cross
+  sections in order to mimic in one dimension the possible increase of neutrino luminosities
+  caused by uncertainties in proto-neutron star convection. Alternatively, parameterized
+  variations are applied to the neutrino absorption cross sections on nucleons in
+  the ``gain region'' to mimic the increase in neutrino energy deposition enabled
+  by convective turnover. We find that both measures lead to similar results, causing
+  explosions and a Ye>0.5 in the innermost ejected layers, due to the combined effect
+  of a short weak-interaction timescale and a negligible electron degeneracy, unveiling
+  the proton-neutron mass difference. We include all weak interactions (electron and
+  positron capture, beta-decay, neutrino and antineutrino capture on nuclei, and neutrino
+  and antineutrino capture on nucleons) and present first nucleosynthesis results
+  for these innermost ejected layers to discuss how they improve predictions for Fe
+  group nuclei. The proton-rich environment results in enhanced abundances of 45Sc,
+  49Ti, and 64Zn as required by chemical evolution studies and observations of low-metallicity
+  stars, as well as appreciable production of nuclei in the mass range up to A=80.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...637..415F
+arxivurl: http://arxiv.org/abs/astro-ph/0410208
+author: Fröhlich, C. and Hauser, P. and Liebendörfer, M. and Martínez-Pinedo, G. and
+  Thielemann, F.-K. and Bravo, E. and Zinner, N. T. and Hix, W. R. and Langanke, K.
+  and Mezzacappa, A. and Nomoto, K.
+author_list:
+- family: Fröhlich
+  given: C.
+- family: Hauser
+  given: P.
+- family: Liebendörfer
+  given: M.
+- family: Martínez-Pinedo
+  given: G.
+- family: Thielemann
+  given: F.-K.
+- family: Bravo
+  given: E.
+- family: Zinner
+  given: N. T.
+- family: Hix
+  given: W. R.
+- family: Langanke
+  given: K.
+- family: Mezzacappa
+  given: A.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 18:26:49 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/498224
+eprint: astro-ph/0410208
+journal: \apj
+keywords: 'Stars: Supernovae: General'
+month: January
+pages: 415--426
+papis_id: daa47e8e31523751fc2dbe6431c2e067
+ref: frohlich.c.2006
+title: Composition of the Innermost Core-Collapse Supernova Ejecta
+type: article
+volume: '637'
+year: '2006'

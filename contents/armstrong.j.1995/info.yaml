@@ -1,0 +1,55 @@
+abstract: Interstellar scintillation (ISS), fluctuations in the amplitude and phase
+  of radio waves caused by scattering in the interstellar medium, is important as
+  a diagnostic of interstellar plasma turbulence. ISS is also of interest because
+  it is noise for other radio astronomical observations. The unifying concern is the
+  power spectrum of the interstellar electron density. Here we use ISS observations
+  through the nearby (less than or approximately =1 kpc) (ISM) to estimate the spectrum.
+  From measurements of angular broadening of pulsars and extragalactic sources, decorrelation
+  bandwidth of pulsars, refractive steering of features in pulsar dynamic spectra,
+  dispersion measured fluctuations of pulsars, and refractive scintillation index
+  measurements, we construct a composite structure function that is approximately
+  power law over 2 x 106 m less than scale less than 1013 m. The data are consistent
+  with the structure function having a logarithmic slope versus baseline less than
+  2; thus there is a meaningful connection between scales in the radiowave fluctuation
+  field and the scales in the electron density field causing the scattering. The data
+  give an upper limit to the inner scale, lo less than or approximately 108 m and
+  are consistent with much smaller values. We construct a composite electron density
+  spectrum that is approximately power law over at least the approximately = 5 decade
+  wavenumber range 10-13/m less than wavenumber less than 10-8/m and that may extend
+  to higher wavenumbers. The average spectral index of electron density over this
+  wavenumber range is approximately = 3.7, very close to the value expected for a
+  Kolmogorov process. The outer scale size, Lo, must be greater than or approximately
+  = 1013 m (determined from dispersion measure fluctuations). When the ISS data are
+  combined with measurements of differential Faraday rotation angle, and gradients
+  in the average electron density, constraints can be put on the spectrum at much
+  smaller wave numbers. The composite spectrum is consistent with a Kolmogorov-like
+  power law over a huge range (10 or more decades) of spatial wavenumber with an infrared
+  outer scale Lo greater than or approximately 1018m. This power-law subrange-expressed
+  as ratio of outer to inner scales-is comparable to or larger than that of other
+  naturally occurring turbulent fluids, such as the oceans or the solar wind. We outline
+  some of the theories for generating and maintaining such a spectrum over this huge
+  wavenumber range.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...443..209A
+author: Armstrong, J. W. and Rickett, B. J. and Spangler, S. R.
+author_list:
+- family: Armstrong
+  given: J. W.
+- family: Rickett
+  given: B. J.
+- family: Spangler
+  given: S. R.
+date-added: 2017-08-10 22:00:17 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175515
+journal: \apj
+keywords: Electron Density Profiles, Interstellar Matter, Power Spectra, Scintillation,
+  Astronomical Models, Plasma Turbulence, Pulsars, Radio Astronomy
+month: April
+pages: 209--221
+papis_id: ab8aafa43777b8b4dcf5ee33d832f344
+ref: armstrong.j.1995
+title: Electron density power spectrum in the local interstellar medium
+type: article
+volume: '443'
+year: '1995'

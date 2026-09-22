@@ -1,0 +1,83 @@
+abstract: This work aims to present our current best physical understanding of common-envelope
+  evolution (CEE). We highlight areas of consensus and disagreement, and stress ideas
+  which should point the way forward for progress in this important but long-standing
+  and largely unconquered problem. Unusually for CEE-related work, we mostly try to
+  avoid relying on results from population synthesis or observations, in order to
+  avoid potentially being misled by previous misunderstandings. As far as possible
+  we debate all the relevant issues starting from physics alone, all the way from
+  the evolution of the binary system immediately before CEE begins to the processes
+  which might occur just after the ejection of the envelope. In particular, we include
+  extensive discussion about the energy sources and sinks operating in CEE, and hence
+  examine the foundations of the standard energy formalism. Special attention is also
+  given to comparing the results of hydrodynamic simulations from different groups
+  and to discussing the potential effect of initial conditions on the differences
+  in the outcomes. We compare current numerical techniques for the problem of CEE
+  and also whether more appropriate tools could and should be produced (including
+  new formulations of computational hydrodynamics, and attempts to include 3D processes
+  within 1D codes). Finally we explore new ways to link CEE with observations. We
+  compare previous simulations of CEE to the recent outburst from V1309 Sco, and discuss
+  to what extent post-common-envelope binaries and nebulae can provide information,
+  e.g. from binary eccentricities, which is not currently being fully exploited.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26ARv..21...59I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.4302
+author: Ivanova, N. and Justham, S. and Chen, X. and De Marco, O. and Fryer, C. L.
+  and Gaburov, E. and Ge, H. and Glebbeek, E. and Han, Z. and Li, X.-D. and Lu, G.
+  and Marsh, T. and Podsiadlowski, P. and Potter, A. and Soker, N. and Taam, R. and
+  Tauris, T. M. and van den Heuvel, E. P. J. and Webbink, R. F.
+author_list:
+- family: Ivanova
+  given: N.
+- family: Justham
+  given: S.
+- family: Chen
+  given: X.
+- family: De Marco
+  given: O.
+- family: Fryer
+  given: C. L.
+- family: Gaburov
+  given: E.
+- family: Ge
+  given: H.
+- family: Glebbeek
+  given: E.
+- family: Han
+  given: Z.
+- family: Li
+  given: X.-D.
+- family: Lu
+  given: G.
+- family: Marsh
+  given: T.
+- family: Podsiadlowski
+  given: P.
+- family: Potter
+  given: A.
+- family: Soker
+  given: N.
+- family: Taam
+  given: R.
+- family: Tauris
+  given: T. M.
+- family: van den Heuvel
+  given: E. P. J.
+- family: Webbink
+  given: R. F.
+date-added: 2017-08-11 07:05:42 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1007/s00159-013-0059-2
+eid: '59'
+eprint: '1209.4302'
+journal: \aapr
+keywords: Close binaries, Stellar structure, interiors, evolution, Hydrodynamics
+month: February
+pages: '59'
+papis_id: a3a20b14385628d07bb6f5daee5acabe
+primaryclass: astro-ph.HE
+ref: ivanova.n.2013
+title: 'Common envelope evolution: where we stand and how we can move forward'
+type: article
+volume: '21'
+year: '2013'

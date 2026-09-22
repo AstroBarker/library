@@ -1,0 +1,63 @@
+abstract: We present a systematic study of the pure deflagration model of Type Ia
+  supernovae (SNe Ia) using three-dimensional, high-resolution, full-star hydrodynamical
+  simulations, nucleosynthetic yields calculated using Lagrangian tracer particles,
+  and light curves calculated using radiation transport. We evaluate the simulations
+  by comparing their predicted light curves with many observed SNe Ia using the SALT2
+  data-driven model and find that the simulations may correspond to under-luminous
+  SNe Iax. We explore the effects of the initial conditions on our results by varying
+  the number of randomly selected ignition points from 63 to 3500, and the radius
+  of the centered sphere they are confined in from 128 to 384 km. We find that the
+  rate of nuclear burning depends on the number of ignition points at early times,
+  the density of ignition points at intermediate times, and the radius of the confining
+  sphere at late times. The results depend primarily on the number of ignition points,
+  but we do not expect this to be the case in general. The simulations with few ignition
+  points release more nuclear energy E nuc, have larger kinetic energies E K, and
+  produce more 56Ni than those with many ignition points, and differ in the distribution
+  of 56Ni, Si, and C/O in the ejecta. For these reasons, the simulations with few
+  ignition points exhibit higher peak B-band absolute magnitudes M B and light curves
+  that rise and decline more quickly; their M B and light curves resemble those of
+  under-luminous SNe Iax, while those for simulations with many ignition points are
+  not.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...789..103L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.8221
+author: Long, M. and Jordan IV, G. C. and van Rossum, D. R. and Diemer, B. and Graziani,
+  C. and Kessler, R. and Meyer, B. and Rich, P. and Lamb, D. Q.
+author_list:
+- family: Long
+  given: M.
+- family: Jordan IV
+  given: G. C.
+- family: van Rossum
+  given: D. R.
+- family: Diemer
+  given: B.
+- family: Graziani
+  given: C.
+- family: Kessler
+  given: R.
+- family: Meyer
+  given: B.
+- family: Rich
+  given: P.
+- family: Lamb
+  given: D. Q.
+date-added: 2017-08-10 17:36:08 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/789/2/103
+eid: '103'
+eprint: '1307.8221'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, supernovae: general, white dwarfs'
+month: July
+pages: '103'
+papis_id: 85e5371bfc7c9bcef30f199b65bb9684
+primaryclass: astro-ph.HE
+ref: long.m.2014
+title: Three-dimensional Simulations of Pure Deflagration Models for Thermonuclear
+  Supernovae
+type: article
+volume: '789'
+year: '2014'

@@ -1,0 +1,38 @@
+abstract: A normal mode analysis for nonaxisymmetric perturbations in a thin, differentially
+  rotating disk with a vertical structure that is isothermal and convectively unstable
+  is performed. The vertical gravity is assumed to be external and constant. The perturbation
+  scale is assumed to be much shorter than the radius of the disk but comparable to
+  or less than the thickness. The initial value problem is formulated in shearing
+  coordinates. Dispersion relations are obtained for the three limiting cases of zero
+  shear, axisymmetric perturbations, and small radial wavelengths. The full effects
+  of shear are studied by integrating numerically the initial value problem. Nonaxisymmetric
+  local Fourier modes are found to have a radial wavenumber that increases linearly
+  with time in proportion to the shear times the azimuthal wavenumber. While Coriolis
+  forces exert stabilizing effects on the convective modes, reducing their growth
+  rate and the range of unstable wavelengths, shear has destablizing effects inasmuch
+  as it reduces the epicyclic frequency at a given angular velocity. In a Keplerian
+  disk, perturbations with azimuthal wavelengths about 2 times smaller than vertical
+  wavelengths grow exponentially.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...388..438R
+author: Ryu, D. and Goodman, J.
+author_list:
+- family: Ryu
+  given: D.
+- family: Goodman
+  given: J.
+date-added: 2017-08-11 00:36:53 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171165
+journal: \apj
+keywords: Accretion Disks, Convective Flow, Magnetohydrodynamic Stability, Mass Flow,
+  Rotating Plasmas, Active Galactic Nuclei, Angular Momentum, Angular Velocity, Momentum
+  Transfer, Quasars
+month: April
+pages: 438--450
+papis_id: cf6a59e1e102bcad8c4f2ec83f4c7a72
+ref: ryu.d.1992
+title: Convective instability in differentially rotating disks
+type: article
+volume: '388'
+year: '1992'

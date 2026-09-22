@@ -1,0 +1,52 @@
+abstract: We extend our investigation of magnetic field evolution in three-dimensional
+  flows driven by the stationary accretion shock instability (SASI) with a suite of
+  higher-resolution idealized models of the post-bounce core-collapse supernova environment.
+  Our magnetohydrodynamic simulations vary in initial magnetic field strength, rotation
+  rate, and grid resolution. Vigorous SASI-driven turbulence inside the shock amplifies
+  magnetic fields exponentially; but while the amplified fields reduce the kinetic
+  energy of small-scale flows, they do not seem to affect the global shock dynamics.
+  The growth rate and final magnitude of the magnetic energy are very sensitive to
+  grid resolution, and both are underestimated by the simulations. Nevertheless, our
+  simulations suggest that neutron star magnetic fields exceeding 1014 G can result
+  from dynamics driven by the SASI, even for non-rotating progenitors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...751...26E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.3108
+author: Endeve, E. and Cardall, C. Y. and Budiardja, R. D. and Beck, S. W. and Bejnood,
+  A. and Toedte, R. J. and Mezzacappa, A. and Blondin, J. M.
+author_list:
+- family: Endeve
+  given: E.
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+- family: Beck
+  given: S. W.
+- family: Bejnood
+  given: A.
+- family: Toedte
+  given: R. J.
+- family: Mezzacappa
+  given: A.
+- family: Blondin
+  given: J. M.
+date-added: 2017-08-10 14:45:18 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/751/1/26
+eid: '26'
+eprint: '1203.3108'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, stars: magnetic field, supernovae:
+  general, turbulence'
+month: May
+pages: '26'
+papis_id: 522a82a5386c3f8bac102629925c108c
+primaryclass: astro-ph.SR
+ref: endeve.e.2012
+title: 'Turbulent Magnetic Field Amplification from Spiral SASI Modes: Implications
+  for Core-collapse Supernovae and Proto-neutron Star Magnetization'
+type: article
+volume: '751'
+year: '2012'

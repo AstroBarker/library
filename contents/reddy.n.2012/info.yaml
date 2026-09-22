@@ -1,0 +1,103 @@
+abstract: We take advantage of the sensitivity and resolution of the Herschel Space
+  Observatory at 100 and 160 mum to directly image the thermal dust emission and investigate
+  the infrared luminosities (L IR) and dust obscuration of typical star-forming (L\textasteriskcentered)
+  galaxies at high redshift. Our sample consists of 146 UV-selected galaxies with
+  spectroscopic redshifts 1.5 <= z spec < 2.6 in the GOODS-North field. Supplemented
+  with deep Very Large Array and Spitzer imaging, we construct median stacks at the
+  positions of these galaxies at 24, 100, and 160 mum, and 1.4 GHz. The comparison
+  between these stacked fluxes and a variety of dust templates and calibrations implies
+  that typical star-forming galaxies with UV luminosities L UV >~ 1010 L \&sun; at
+  z ~ 2 are luminous infrared galaxies with a median L IR = (2.2 $\pm$ 0.3) \texttimes{}
+  1011 L \&sun;. Their median ratio of L IR to rest-frame 8 mum luminosity (L 8) is
+  L IR/L 8 = 8.9 \$\pm\$ 1.3 and is \approx{}80\% larger than that found for most
+  star-forming galaxies at z <~ 2. This apparent redshift evolution in the L IR/L
+  8 ratio may be tied to the trend of larger infrared luminosity surface density for
+  z >~ 2 galaxies relative to those at lower redshift. Typical galaxies at 1.5 <=
+  z < 2.6 have a median dust obscuration L IR/L UV = 7.1 \$\pm\$ 1.1, which corresponds
+  to a dust correction factor, required to recover the bolometric star formation rate
+  (SFR) from the unobscured UV SFR, of 5.2 \$\pm\$ 0.6. This result is similar to
+  that inferred from previous investigations of the UV, Halpha, 24 mum, radio, and
+  X-ray properties of the same galaxies studied here. Stacking in bins of UV slope
+  (beta) implies that L\textasteriskcentered galaxies with redder spectral slopes
+  are also dustier and that the correlation between beta and dustiness is similar
+  to that found for local starburst galaxies. Hence, the rest-frame ~= 30 and 50 mum
+  fluxes validate on average the use of the local UV attenuation curve to recover
+  the dust attenuation of typical star-forming galaxies at high redshift. In the simplest
+  interpretation, the agreement between the local and high-redshift UV attenuation
+  curves suggests a similarity in the dust production and stellar and dust geometries
+  of starburst galaxies over the last 10 billion years.  Herschel is an ESA space
+  observatory with science instruments provided by European-led Principal Investigator
+  consortia and with important participation from NASA.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...744..154R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.2653
+author: Reddy, N. and Dickinson, M. and Elbaz, D. and Morrison, G. and Giavalisco,
+  M. and Ivison, R. and Papovich, C. and Scott, D. and Buat, V. and Burgarella, D.
+  and Charmandaris, V. and Daddi, E. and Magdis, G. and Murphy, E. and Altieri, B.
+  and Aussel, H. and Dannerbauer, H. and Dasyra, K. and Hwang, H. S. and Kartaltepe,
+  J. and Leiton, R. and Magnelli, B. and Popesso, P.
+author_list:
+- family: Reddy
+  given: N.
+- family: Dickinson
+  given: M.
+- family: Elbaz
+  given: D.
+- family: Morrison
+  given: G.
+- family: Giavalisco
+  given: M.
+- family: Ivison
+  given: R.
+- family: Papovich
+  given: C.
+- family: Scott
+  given: D.
+- family: Buat
+  given: V.
+- family: Burgarella
+  given: D.
+- family: Charmandaris
+  given: V.
+- family: Daddi
+  given: E.
+- family: Magdis
+  given: G.
+- family: Murphy
+  given: E.
+- family: Altieri
+  given: B.
+- family: Aussel
+  given: H.
+- family: Dannerbauer
+  given: H.
+- family: Dasyra
+  given: K.
+- family: Hwang
+  given: H. S.
+- family: Kartaltepe
+  given: J.
+- family: Leiton
+  given: R.
+- family: Magnelli
+  given: B.
+- family: Popesso
+  given: P.
+date-added: 2017-08-11 00:03:04 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/744/2/154
+eid: '154'
+eprint: '1107.2653'
+journal: \apj
+keywords: 'dust, extinction, galaxies: high-redshift, infrared: galaxies'
+month: January
+pages: '154'
+papis_id: 56d05698cfff94e9bdda645e1d18813a
+ref: reddy.n.2012
+title: 'GOODS-Herschel Measurements of the Dust Attenuation of Typical Star-forming
+  Galaxies at High Redshift: Observations of Ultraviolet-selected Galaxies at z ̃
+  2'
+type: article
+volume: '744'
+year: '2012'

@@ -1,0 +1,65 @@
+abstract: This paper describes the response of the IceCube neutrino telescope located
+  at the geographic south pole to outbursts of MeV neutrinos from the core collapse
+  of nearby massive stars. IceCube was completed in December 2010 forming a lattice
+  of 5160 photomultiplier tubes that monitor a volume of ~1 km3 in the deep Antarctic
+  ice for particle induced photons. The telescope was designed to detect neutrinos
+  with energies greater than 100 GeV. Owing to subfreezing ice temperatures, the photomultiplier
+  dark noise rates are particularly low. Hence IceCube can also detect large numbers
+  of MeV neutrinos by observing a collective rise in all photomultiplier rates on
+  top of the dark noise. With 2 ms timing resolution, IceCube can detect subtle features
+  in the temporal development of the supernova neutrino burst. For a supernova at
+  the galactic center, its sensitivity matches that of a background-free megaton-scale
+  supernova search experiment. The sensitivity decreases to 20 standard deviations
+  at the galactic edge (30 kpc) and 6 standard deviations at the Large Magellanic
+  Cloud (50 kpc). IceCube is sending triggers from potential supernovae to the Supernova
+  Early Warning System. The sensitivity to neutrino properties such as the neutrino
+  hierarchy is discussed, as well as the possibility to detect the neutronization
+  burst, a short outbreak of \barnue's released by electron capture on protons soon
+  after collapse. Tantalizing signatures, such as the formation of a quark star or
+  a black hole as well as the characteristics of shock waves, are investigated to
+  illustrate IceCube's capability for supernova detection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...535A.109A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.0171
+author: Abbasi, R. and Abdou, Y. and Abu-Zayyad, T. and Ackermann, M. and Adams, J.
+  and Aguilar, J. A. and Ahlers, M. and Allen, M. M. and Altmann, D. and Andeen, K.
+  and al., et
+author_list:
+- family: Abbasi
+  given: R.
+- family: Abdou
+  given: Y.
+- family: Abu-Zayyad
+  given: T.
+- family: Ackermann
+  given: M.
+- family: Adams
+  given: J.
+- family: Aguilar
+  given: J. A.
+- family: Ahlers
+  given: M.
+- family: Allen
+  given: M. M.
+- family: Altmann
+  given: D.
+- family: Andeen
+  given: K.
+- family: al.
+  given: et
+date-added: 2017-08-10 14:40:10 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1051/0004-6361/201117810
+eid: A109
+eprint: '1108.0171'
+journal: \aap
+month: November
+pages: A109
+papis_id: 9f64e8f76a7dc361b541399e62589570
+primaryclass: astro-ph.HE
+ref: abbasi.r.2011
+title: IceCube sensitivity for low-energy neutrinos from nearby supernovae
+type: article
+volume: '535'
+year: '2011'

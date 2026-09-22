@@ -1,0 +1,60 @@
+abstract: As a neutron star is formed by the collapse of the iron core of a massive
+  star, its Kelvin-Helmholtz evolution is characterized by the release of gravitational
+  binding energy as neutrinos. The interaction of these neutrinos with heated material
+  above the neutron star generates a hot bubble in an atmosphere that is nearly in
+  hydrostatic equilibrium and heated, after approximately 10 s, to an entropy of S/NASk
+  greater than or approximately = 400. The neutron-to-proton ratio for material moving
+  outward through this bubble is set by the balance between neutrino and antineutrino
+  capture on nucleons. Because the electron antineutrino spectrum at this time is
+  hotter than the electron neutrino spectrum, the bubble is neutron-rich (0.38 less
+  than or approximately = Ye less than or approximately = 0.47). Previous work using
+  a schematic model has shown that these conditions are well suited to the production
+  of heavy elements by the r-process. In this paper we have advanced the numerical
+  modeling of a 20 solar mass 'delayed' supernova explosion to the point that we can
+  follow the detailed evolution of material moving through the bubble at the late
+  times appropiate to r-process nucleosynthesis. The supernova model predicts a final
+  kinetic energy for the ejecta of 1.5 x 1051 ergs and leaves behind a remnant with
+  a baryon mass of 1.50 solar mass (and a gravitational mass of 1.445 solar mass).
+  We follow the thermodynamic and compositional evolution of 40 trajectories in rho(t),
+  T(t), Ye(t) for a logarithmic grid of mass elements for the last approximately =
+  0.03 solar mass to be ejected by the proto-neutron star down to the last less than
+  10-6 solar mass of material expelled at up to approximately = 18 s after core collapse.
+  We find that an excellent fit to the solar r-process abundance distribution is obtained
+  with no adjustable parameters in the nucleosynthesis calculations. Moreover, the
+  abundances are produced in the quantities required to account for the present Galactic
+  abundances. However, at earlier times, this one-dimensional model ejects too much
+  material with entropies S/NAk approximately 50 and Ye approximately 0.46. This leads
+  to an acceptable over production of N = 50 nuclei, particularly Sr-88, Y-89, and
+  Zr-90, relative to their solar abundances. We speculate on various means to avoid
+  the early overproduction and/or ejection of N = 50 isotonic nuclei while still producing
+  and ejecting the correct amount of r-process material.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...433..229W
+author: Woosley, S. E. and Wilson, J. R. and Mathews, G. J. and Hoffman, R. D. and
+  Meyer, B. S.
+author_list:
+- family: Woosley
+  given: S. E.
+- family: Wilson
+  given: J. R.
+- family: Mathews
+  given: G. J.
+- family: Hoffman
+  given: R. D.
+- family: Meyer
+  given: B. S.
+date-added: 2017-08-10 18:44:59 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174638
+journal: \apj
+keywords: Gravitational Collapse, Neutrinos, Neutron Stars, Nuclear Fusion, Stellar
+  Gravitation, Stellar Mass Ejection, Stellar Models, Supernovae, Abundance, Elementary
+  Particle Interactions, Mathematical Models
+month: September
+pages: 229--246
+papis_id: 32c43d46a15ce52437c90d0ec0cbeb55
+ref: woosley.s.1994b
+title: The r-process and neutrino-heated supernova ejecta
+type: article
+volume: '433'
+year: '1994'

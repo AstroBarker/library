@@ -1,0 +1,67 @@
+abstract: 'Context. The surface of the Sun provides us with a unique and very detailed
+  view of turbulent stellar convection. Studying its dynamics can therefore help us
+  make significant progress in stellar convection modelling. Many features of solar
+  surface turbulence like the supergranulation are still poorly understood.  Aims:
+  The aim of this work is to give new observational constraints on these flows by
+  determining the horizontal scale dependence of the velocity and intensity fields,
+  as represented by their power spectra, and to offer some theoretical guidelines
+  to interpret these spectra.  Methods: We use long time-series of images taken by
+  the Solar Optical Telescope (SOT) on board the Hinode satellite; we reconstruct
+  both horizontal (by granule tracking) and vertical (by Doppler effect) velocity
+  fields in a field-of-view of ~ 75 \texttimes{} 75 Mm2. The dynamics in the subgranulation
+  range can be investigated with unprecedented precision thanks to the absence of
+  seeing effects and the use of the modulation transfer function of SOT for correcting
+  the spectra.  Results: At small subgranulation scales down to 0.4 Mm the spectral
+  density of kinetic energy associated with vertical motions exhibits a k-10/3-like
+  power law, while the intensity fluctuation spectrum follows either a k-17/3 or a
+  k-3-like power law at the two continuum levels investigated (525 and 450 nm respectively).
+  We discuss the possible physical origin of these scalings and interpret the combined
+  presence of k-17/3 and k-10/3 power laws for the intensity and vertical velocity
+  as a signature of buoyancy-driven turbulent dynamics in a strongly thermally diffusive
+  regime. In the mesogranulation range and up to a scale of 25 Mm, we find that the
+  amplitude of the vertical velocity field decreases like lambda-3/2 with the horizontal
+  scale lambda. This behaviour corresponds to a k2 spectral power law. Still in the
+  2.5-10 Mm mesoscale range, we find that intensity fluctuations in the blue continuum
+  also follow a k2 power law. In passing we show that granule tracking cannot sample
+  scales below 2.5 Mm. We finally further confirm the presence of a significant supergranulation
+  energy peak at 30 Mm in the horizontal velocity power spectrum and show that the
+  emergence of a pore erases this spectral peak. We tentatively estimate the scale
+  height of the vertical velocity field in the supergranulation range and find 1 Mm;
+  this value suggests that supergranulation flows are shallow.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...512A...4R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0911.3319
+author: Rieutord, M. and Roudier, T. and Rincon, F. and Malherbe, J.-M. and Meunier,
+  N. and Berger, T. and Frank, Z.
+author_list:
+- family: Rieutord
+  given: M.
+- family: Roudier
+  given: T.
+- family: Rincon
+  given: F.
+- family: Malherbe
+  given: J.-M.
+- family: Meunier
+  given: N.
+- family: Berger
+  given: T.
+- family: Frank
+  given: Z.
+date-added: 2017-08-10 17:56:39 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1051/0004-6361/200913303
+eid: A4
+eprint: '0911.3319'
+journal: \aap
+keywords: 'convection, turbulence, sun: photosphere'
+month: March
+pages: A4
+papis_id: c652346e4071b4410f02556ea16d703f
+primaryclass: astro-ph.SR
+ref: rieutord.m.2010
+title: On the power spectrum of solar surface flows
+type: article
+volume: '512'
+year: '2010'

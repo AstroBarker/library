@@ -1,0 +1,72 @@
+abstract: 'For spectroscopically confirmed Type Ia supernovae we evaluate models of
+  intrinsic brightness variations with detailed data/Monte Carlo comparisons of the
+  dispersion in the following quantities: Hubble-diagram scatter, color difference
+  (B - V - c) between the true B - V color and the fitted color (c) from the SALT-II
+  light curve model, and photometric redshift residual. The data sample includes 251
+  ugriz light curves from the three-season Sloan Digital Sky Survey-II and 191 griz
+  light curves from the Supernova Legacy Survey 3 year data release. We find that
+  the simplest model of a wavelength-independent (coherent) scatter is not adequate,
+  and that to describe the data the intrinsic-scatter model must have wavelength-dependent
+  variations resulting in a ~0.02 mag scatter in B - V - c. Relatively weak constraints
+  are obtained on the nature of intrinsic scatter because a variety of different models
+  can reasonably describe this photometric data sample. We use Monte Carlo simulations
+  to examine the standard approach of adding a coherent-scatter term in quadrature
+  to the distance-modulus uncertainty in order to bring the reduced chi2 to unity
+  when fitting a Hubble diagram. If the light curve fits include model uncertainties
+  with the correct wavelength dependence of the scatter, we find that this approach
+  is valid and that the bias on the dark energy equation-of-state parameter w is much
+  smaller (~0.001) than current systematic uncertainties. However, incorrect model
+  uncertainties can lead to a significant bias on the distance moduli, with up to
+  ~0.05 mag redshift-dependent variation. This bias is roughly reduced in half after
+  applying a Malmquist bias correction. For the recent SNLS3 cosmology results, we
+  estimate that this effect introduces an additional systematic uncertainty on w of
+  ~0.02, well below the total uncertainty. This uncertainty depends on the choice
+  of viable scatter models and the choice of supernova (SN) samples, and thus this
+  small w-uncertainty is not guaranteed in future cosmology results. For example,
+  the w-uncertainty for SDSS+SNLS (dropping the nearby SNe) increases to ~0.04.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764...48K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2482
+author: Kessler, R. and Guy, J. and Marriner, J. and Betoule, M. and Brinkmann, J.
+  and Cinabro, D. and El-Hage, P. and Frieman, J. A. and Jha, S. and Mosher, J. and
+  Schneider, D. P.
+author_list:
+- family: Kessler
+  given: R.
+- family: Guy
+  given: J.
+- family: Marriner
+  given: J.
+- family: Betoule
+  given: M.
+- family: Brinkmann
+  given: J.
+- family: Cinabro
+  given: D.
+- family: El-Hage
+  given: P.
+- family: Frieman
+  given: J. A.
+- family: Jha
+  given: S.
+- family: Mosher
+  given: J.
+- family: Schneider
+  given: D. P.
+date-added: 2017-08-10 17:36:20 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/1/48
+eid: '48'
+eprint: '1209.2482'
+journal: \apj
+keywords: 'dark energy, supernovae: general'
+month: February
+pages: '48'
+papis_id: 74b82d322cd4ccf2ba7fe397e21048d8
+ref: kessler.r.2013
+title: Testing Models of Intrinsic Brightness Variations in Type Ia Supernovae and
+  Their Impact on Measuring Cosmological Parameters
+type: article
+volume: '764'
+year: '2013'

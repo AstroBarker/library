@@ -1,0 +1,36 @@
+abstract: The detection of gravitational waves from astrophysical sources of gravitational
+  waves is a realistic goal for the current generation of interferometric gravitational-wave
+  detectors. Short duration bursts of gravitational waves from core-collapse supernovae
+  or mergers of binary black holes may bring a wealth of astronomical and astrophysical
+  information. The weakness of the waves and the rarity of the events urges the development
+  of optimal methods to detect the waves. The waves from these sources are not generally
+  known well enough to use matched filtering however; this drives the need to develop
+  new ways to exploit source simulation information in both detection and information
+  extraction. We present an algorithmic approach to using catalogues of gravitational-wave
+  signals developed through numerical simulation, or otherwise, to enhance our ability
+  to detect these waves. As more detailed simulations become available, it is straightforward
+  to incorporate the new information into the search method. This approach may also
+  be useful when trying to extract information from a gravitational-wave observation
+  by allowing direct comparison between the observation and simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004CQGra..21S1839B
+author: Brady, P. R. and Ray-Majumder, S.
+author_list:
+- family: Brady
+  given: P. R.
+- family: Ray-Majumder
+  given: S.
+date-added: 2017-08-11 05:33:39 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1088/0264-9381/21/20/027
+eprint: gr-qc/0405036
+journal: Classical and Quantum Gravity
+month: October
+pages: S1839-S1847
+papis_id: ab3c0378f631af7f5bb36932c82d1d93
+ref: brady.p.2004
+title: Incorporating information from source simulations into searches for gravitational-wave
+  bursts
+type: article
+volume: '21'
+year: '2004'

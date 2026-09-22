@@ -1,0 +1,41 @@
+abstract: 'Aims: We present the first theoretical SN Ia light curves calculated with
+  the time-dependent version of the general purpose model atmosphere code PHOENIX.
+  Our goal is to produce light curves and spectra of hydro models of all types of
+  supernovae.  Methods: We extend our model atmosphere code PHOENIX to calculate type
+  Ia supernovae light curves. A simple solver was implemented which keeps track of
+  energy conservation in the atmosphere during the free expansion phase.  Results:
+  The correct operation of the new additions to PHOENIX were verified in test calculations.
+  Furthermore, we calculated theoretical light curves and compared them to the observed
+  SN Ia light curves of SN 1999ee and SN 2002bo. We obtained LTE as well as NLTE model
+  light curves.  Conclusions: We have verified the correct operation of our extension
+  into the time domain. We have calculated the first SN Ia model light curves using
+  PHOENIX in both LTE and NLTE. For future work the infrared model light curves need
+  to be further investigated.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A.141J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.3330
+author: Jack, D. and Hauschildt, P. H. and Baron, E.
+author_list:
+- family: Jack
+  given: D.
+- family: Hauschildt
+  given: P. H.
+- family: Baron
+  given: E.
+date-added: 2017-08-11 08:03:01 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/201014778
+eid: A141
+eprint: '1105.3330'
+journal: \aap
+keywords: 'supernovae: general, radiative transfer, methods: numerical'
+month: April
+pages: A141
+papis_id: 31a3d144ac2251a2f955a98181774162
+primaryclass: astro-ph.SR
+ref: jack.d.2011
+title: Theoretical light curves of type Ia supernovae
+type: article
+volume: '528'
+year: '2011'

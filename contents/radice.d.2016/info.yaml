@@ -1,0 +1,53 @@
+abstract: We present results from high-resolution semiglobal simulations of neutrino-driven
+  convection in core-collapse supernovae. We employ an idealized setup with parameterized
+  neutrino heating/cooling and nuclear dissociation at the shock front. We study the
+  internal dynamics of neutrino-driven convection and its role in redistributing energy
+  and momentum through the gain region. We find that even if buoyant plumes are able
+  to locally transfer heat up to the shock, convection is not able to create a net
+  positive energy flux and overcome the downward transport of energy from the accretion
+  flow. Turbulent convection does, however, provide a significant effective pressure
+  support to the accretion flow as it favors the accumulation of energy, mass, and
+  momentum in the gain region. We derive an approximate equation that is able to explain
+  and predict the shock evolution in terms of integrals of quantities such as the
+  turbulent pressure in the gain region or the effects of nonradial motion of the
+  fluid. We use this relation as a way to quantify the role of turbulence in the dynamics
+  of the accretion shock. Finally, we investigate the effects of grid resolution,
+  which we change by a factor of 20 between the lowest and highest resolution. Our
+  results show that the shallow slopes of the turbulent kinetic energy spectra reported
+  in previous studies are a numerical artifact. Kolmogorov scaling is progressively
+  recovered as the resolution is increased.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...820...76R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1510.05022
+author: Radice, D. and Ott, C. D. and Abdikamalov, E. and Couch, S. M. and Haas, R.
+  and Schnetter, E.
+author_list:
+- family: Radice
+  given: D.
+- family: Ott
+  given: C. D.
+- family: Abdikamalov
+  given: E.
+- family: Couch
+  given: S. M.
+- family: Haas
+  given: R.
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 14:02:41 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/820/1/76
+eid: '76'
+eprint: '1510.05022'
+journal: \apj
+keywords: 'hydrodynamics, supernovae: general, turbulence'
+month: March
+pages: '76'
+papis_id: 5ed8aa9061c6c4fd6a411b4175dd0f6e
+primaryclass: astro-ph.HE
+ref: radice.d.2016
+title: 'Neutrino-driven Convection in Core-collapse Supernovae: High-resolution Simulations'
+type: article
+volume: '820'
+year: '2016'

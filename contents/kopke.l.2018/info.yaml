@@ -1,0 +1,47 @@
+abstract: The IceCube neutrino telescope monitors one cubic kilometer of deep Antarctic
+  ice by detecting Cherenkov photons emitted from charged secondaries produced when
+  neutrinos interact in the ice. The geometry of the detector, which comprises a lattice
+  of 5160 photomultipliers, is optimized for the detection of neutrinos above 100
+  GeV. However, at subfreezing ice temperatures, dark noise rates are low enough that
+  a high flux of MeV neutrinos streaming through the detector may be recognized by
+  a collective rate enhancement in all photomultipliers. This method can be used to
+  search for the signal of core collapse supernovae, providing sensitivity competitive
+  to Mton neutrino detectors to a supernova in our Galaxy. An online data acquisition
+  system dedicated to supernova detection has been running for several years, but
+  its shortcomings include limited sampling frequency and the fact that the burst
+  energy and direction cannot be reconstructed. A recently developed offline data
+  acquisition system allows IceCube to buffer all registered photons in the detector
+  in case of an alert with low probability to be erroneous. By analyzing such data
+  offline, a precision determination of the burst onset time and the characteristics
+  of rapidly varying fluxes, as well as estimates of the average neutrino energies
+  may be obtained. For supernovae ending in a black hole, the IceCube data can also
+  be used to determine the direction of the burst.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018JPhCS1029a2001K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1704.03823
+author: Köpke, L. and ``IceCube Collaboration1, $łt$. p. t.
+author_list:
+- family: Köpke
+  given: L.
+- family: '``IceCube Collaboration1'
+  given: $łt$. p. t.
+booktitle: Journal of Physics Conference Series
+date-added: 2018-08-26 20:57:29 -0400
+date-modified: 2018-08-26 20:57:32 -0400
+doi: 10.1088/1742-6596/1029/1/012001
+eid: '012001'
+eprint: '1704.03823'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation
+  and Methods for Astrophysics, Physics - Instrumentation and Detectors
+month: May
+pages: '012001'
+papis_id: d47ac7d31d46b9946560df0170a3832b
+primaryclass: astro-ph.HE
+ref: kopke.l.2018
+series: Journal of Physics Conference Series
+title: Improved Detection of Supernovae with the IceCube Observatory
+type: inproceedings
+volume: '1029'
+year: '2018'

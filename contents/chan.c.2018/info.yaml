@@ -1,0 +1,48 @@
+abstract: Fallback in core-collapse supernovae is considered a major ingredient for
+  explaining abundance anomalies in metal-poor stars and the natal kicks and spins
+  of black holes (BHs). We present a first 3D simulation of BH formation and fallback
+  in an ``aborted'' neutrino-driven explosion of a 40 solar mass zero-metallicity
+  progenitor from collapse to shock breakout. We follow the phase up to BH formation
+  using the relativistic COCONUT-FMT code. For the subsequent evolution to shock breakout
+  we apply the moving-mesh code AREPO to core-collapse supernovae for the first time.
+  Our simulation shows that despite early BH formation, neutrino-heated bubbles can
+  survive for tens of seconds before being accreted, leaving them sufficient time
+  to transfer part of their energy to sustain the shock wave as is propagates through
+  the envelope. Although the initial net energy (~2 Bethe) of the neutrino-heated
+  ejecta barely equals the binding energy of the envelope, 11 {M}o  of hydrogen are
+  still expelled with an energy of 0.23 Bethe. We find no significant mixing and only
+  a modest BH kick and spin, but speculate that stronger effects could occur for slightly
+  more energetic explosions or progenitors with less tightly bound envelopes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...852L..19C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.00838
+author: Chan, C. and Müller, B. and Heger, A. and Pakmor, R. and Springel, V.
+author_list:
+- family: Chan
+  given: C.
+- family: Müller
+  given: B.
+- family: Heger
+  given: A.
+- family: Pakmor
+  given: R.
+- family: Springel
+  given: V.
+date-added: 2018-04-25 23:45:47 +0000
+date-modified: 2018-04-25 23:45:48 +0000
+doi: 10.3847/2041-8213/aaa28c
+eid: L19
+eprint: '1710.00838'
+journal: \apjl
+keywords: 'methods: numerical, stars: black holes, stars: massive, supernovae: general'
+month: January
+pages: L19
+papis_id: 370d297c7e4788331dc05ff7694a1a42
+primaryclass: astro-ph.SR
+ref: chan.c.2018
+title: Black Hole Formation and Fallback during the Supernova Explosion of a 40 M
+  $_&sun;$ Star
+type: article
+volume: '852'
+year: '2018'

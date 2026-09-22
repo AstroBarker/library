@@ -1,0 +1,48 @@
+abstract: 'We construct models of core-collapse supernovae in one spatial dimension,
+  including rotation, angular momentum transport, and viscous dissipation employing
+  an alpha-prescription. We compare the evolution of a fiducial 11 Msolar nonrotating
+  progenitor with its evolution when including a wide range of imposed initial rotation
+  profiles (1.25s<P0<8 s, where P0 is the initial, approximately solid-body, rotation
+  period of the iron core). This range of P0 covers the region of parameter space
+  from where rotation begins to modify the dynamics (P0~8 s) to where angular velocities
+  at collapse approach Keplerian (P0~1 s). Under the assumption of strict angular
+  momentum conservation, all models in this range leave behind neutron stars with
+  spin periods <~10 ms, shorter than those of most radio pulsars but similar to those
+  expected theoretically for magnetars at birth. A fraction of the gravitational binding
+  energy of collapse is stored in the free energy of differential rotation. This energy
+  source may be tapped by viscous processes, providing a mechanism for energy deposition
+  that is not strongly coupled to the mass accretion rate through the stalled supernova
+  shock. This effect yields qualitatively new dynamics in models of supernovae. We
+  explore several potential mechanisms for viscosity in the core-collapse environment:
+  neutrino viscosity, turbulent viscosity caused by the magnetorotational instability
+  (MRI), and turbulent viscosity by entropy- and composition gradient-driven convection.
+  We argue that the MRI is the most effective. We find for rotation periods in the
+  range P0<~5 s and a range of viscous stresses that the postbounce dynamics is significantly
+  affected by the inclusion of this extra energy deposition mechanism; in several
+  cases we obtain strong supernova explosions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...620..861T
+arxivurl: http://arxiv.org/abs/astro-ph/0403224
+author: Thompson, T. A. and Quataert, E. and Burrows, A.
+author_list:
+- family: Thompson
+  given: T. A.
+- family: Quataert
+  given: E.
+- family: Burrows
+  given: A.
+date-added: 2017-08-10 16:23:26 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427177
+eprint: astro-ph/0403224
+journal: \apj
+keywords: 'Hydrodynamics, Stars: Magnetic Fields, Stars: Neutron, Stars: Supernovae:
+  General'
+month: February
+pages: 861--877
+papis_id: 26c4cd00ae6214b0091e5f7c50dd67b2
+ref: thompson.t.2005a
+title: Viscosity and Rotation in Core-Collapse Supernovae
+type: article
+volume: '620'
+year: '2005'

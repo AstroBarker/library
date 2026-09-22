@@ -1,0 +1,51 @@
+abstract: We analyze Spitzer GLIMPSE, Midcourse Space Experiment (MSX), and Wilkinson
+  Microwave Anisotropy Probe (WMAP) images of the Milky Way to identify 8 mum and
+  free-free sources in the Galaxy. Seventy-two of the 88 WMAP sources have coverage
+  in the GLIMPSE and MSX surveys suitable for identifying massive star-forming complexes
+  (SFCs). We measure the ionizing luminosity functions of the SFCs and study their
+  role in the turbulent motion of the Galaxy's molecular gas. We find a total Galactic
+  free-free flux f nu = 46,177.6 Jy; the 72 WMAP sources with full 8 mum coverage
+  account for 34,263.5 Jy (~75\%), with both measurements made at nu = 94 GHz (W band).
+  We find a total of 280 SFCs, of which 168 have unique kinematic distances and free-free
+  luminosities. We use a simple model for the radial distribution of star formation
+  to estimate the free-free and ionizing luminosity for the sources lacking distance
+  determinations. The total dust-corrected ionizing luminosity is Q = (2.9 $\pm$ 0.5)
+  \texttimes{} 1053 photons s-1, which implies a Galactic star formation rate of \dot{M}\_{\textasteriskcentered}
+  = 1.2 +/- 0.2 \,M\_{\odot } \,yr^{-1}. We present the (ionizing) luminosity function
+  of the SFCs and show that 24 sources emit half the ionizing luminosity of the Galaxy.
+  The SFCs appear as bubbles in GLIMPSE or MSX images; the radial velocities associated
+  with the bubble walls allow us to infer the expansion velocity of the bubbles. We
+  calculate the kinetic luminosity of the bubble expansion and compare it to the turbulent
+  luminosity of the inner molecular disk. SFCs emitting 80\% of the total Galactic
+  free-free luminosity produce a kinetic luminosity equal to 65\% of the turbulent
+  luminosity in the inner molecular disk. This suggests that the expansion of the
+  bubbles is a major driver of the turbulent motion of the inner Milky Way molecular
+  gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...752..146L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.4190
+author: Lee, E. J. and Murray, N. and Rahman, M.
+author_list:
+- family: Lee
+  given: E. J.
+- family: Murray
+  given: N.
+- family: Rahman
+  given: M.
+date-added: 2017-08-11 01:43:58 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/752/2/146
+eid: '146'
+eprint: '1204.4190'
+journal: \apj
+keywords: 'H II regions, infrared: ISM, stars: formation'
+month: June
+pages: '146'
+papis_id: a6a8ae24973a887c3d0fd1bfc86338de
+ref: lee.e.2012
+title: Milky Way Star-forming Complexes and the Turbulent Motion of the Galaxy's Molecular
+  Gas
+type: article
+volume: '752'
+year: '2012'

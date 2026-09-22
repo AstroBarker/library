@@ -1,0 +1,37 @@
+abstract: We describe a new method (HOP) for identifying groups of particles in N-body
+  simulations. Having assigned to every particle an estimate of its local density,
+  we associate each particle with the densest of the Nhop particles nearest to it.
+  Repeating this process allows us to trace a path, within the particle set itself,
+  from each particle in the direction of increasing density. The path ends when it
+  reaches a particle that is its own densest neighbor; all particles reaching the
+  same such particle are identified as a group. Combined with an adaptive smoothing
+  kernel for finding the densities, this method is spatially adaptive, coordinate-free,
+  and numerically straightforward. One can proceed to process the output by truncating
+  groups at a particular density contour and combining groups that share a (possibly
+  different) density contour. While the resulting algorithm has several user-chosen
+  parameters, we show that the results are insensitive to most of these, the exception
+  being the outer density cutoff of the groups.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...498..137E
+arxivurl: http://arxiv.org/abs/astro-ph/9712200
+author: Eisenstein, D. J. and Hut, P.
+author_list:
+- family: Eisenstein
+  given: D. J.
+- family: Hut
+  given: P.
+date-added: 2017-08-10 21:43:12 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305535
+eprint: astro-ph/9712200
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, COSMOLOGY: DARK MATTER, METHODS: NUMERICAL, Cosmology:
+  Theory, Cosmology: Dark Matter, Methods: Numerical'
+month: May
+pages: 137--142
+papis_id: e2dd6ea7218816fd0aa36cc1ca8bb99f
+ref: eisenstein.d.1998
+title: 'HOP: A New Group-Finding Algorithm for N-Body Simulations'
+type: article
+volume: '498'
+year: '1998'

@@ -1,0 +1,48 @@
+abstract: Hydrodynamical (HD) and magnetohydrodynamical (MHD) numerical simulations
+  of hot accretion flows have indicated that the inflow accretion rate decreases inward.
+  Two models have been proposed to explain this result. In the adiabatic inflow-outflow
+  solution (ADIOS), this is because of the loss of gas in the outflow. In the alternative
+  convection-dominated accretion flow model, it is thought that the flow is convectively
+  unstable and gas is locked in convective eddies. We investigate the nature of the
+  inward decrease of the accretion rate using HD and MHD simulations. We calculate
+  various properties of the inflow and outflow such as temperature and rotational
+  velocity. Systematic and significant differences are found. These results suggest
+  that the inflow and outflow are not simply convective turbulence; instead, systematic
+  inward and outward motion (i.e., real outflow) must exist. We have also analyzed
+  the convective stability of MHD accretion flows and found that they are stable.
+  These results favor the ADIOS scenario. We suggest that the mechanisms of producing
+  outflow in HD and MHD flows are the buoyancy associated with the convection and
+  the centrifugal force associated with the angular momentum transport mediated by
+  the magnetic field, respectively. The latter is similar to the Blandford \& Payne
+  mechanism but no large-scale open magnetic field is required. We discuss some possible
+  observational applications, including the Fermi bubble in the Galactic center and
+  winds in active galactic nuclei and black hole X-ray binaries.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...761..130Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.4173
+author: Yuan, F. and Bu, D. and Wu, M.
+author_list:
+- family: Yuan
+  given: F.
+- family: Bu
+  given: D.
+- family: Wu
+  given: M.
+date-added: 2017-08-10 18:04:01 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/761/2/130
+eid: '130'
+eprint: '1206.4173'
+journal: \apj
+keywords: accretion, accretion disks, black hole physics, hydrodynamics
+month: December
+pages: '130'
+papis_id: 78b61bda3896fde89b04456e9effaf7c
+primaryclass: astro-ph.HE
+ref: yuan.f.2012
+title: Numerical Simulation of Hot Accretion Flows. II. Nature, Origin, and Properties
+  of Outflows and their Possible Observational Applications
+type: article
+volume: '761'
+year: '2012'

@@ -1,0 +1,47 @@
+abstract: We measure nebular oxygen abundances for 204 emission-line galaxies with
+  redshifts 0.3<z<1.0 in the Great Observatories Origins Deep Survey-North (GOODS-N)
+  field using spectra from the Team Keck Redshift Survey. We also provide an updated
+  analytic prescription for estimating oxygen abundances using the traditional strong
+  emission line ratio, R23, based on the photoionization models of Kewley \& Dopita.
+  We include an analytic formula for very crude metallicity estimates using the [N
+  II]lambda6584/Halpha ratio. Oxygen abundances for GOODS-N galaxies span the range
+  8.2<=12+log(O/H)<9.1, corresponding to metallicities between 0.3 and 2.5 times the
+  solar value. This sample of galaxies exhibits a correlation between rest-frame blue
+  luminosity and gas-phase metallicity (i.e., an L-Z relation), consistent with L-Z
+  correlations of previously studied intermediate-redshift samples. The zero point
+  of the L-Z relation evolves with redshift, in the sense that galaxies of a given
+  luminosity become more metal-poor at higher redshift. Galaxies in luminosity bins
+  -18.5<MB<-21.5 exhibit a decrease in average oxygen abundance by 0.14+/-0.05 dex
+  from z=0 to 1. This rate of metal enrichment means that 28\%+/-0.07\% of metals
+  in local galaxies have been synthesized since z=1, in reasonable agreement with
+  the predictions based on published star formation rate densities, which show that
+  ~38\% of stars in the universe have formed during the same interval. The slope of
+  the L-Z relation may evolve, in the sense that the least luminous galaxies at each
+  redshift interval become increasingly metal-poor compared to more luminous galaxies.
+  We interpret this change in slope as evidence for more rapid chemical evolution
+  among the least luminous galaxies (MB>-20), consistent with scenarios whereby the
+  formation epoch for less massive galaxies is more recent than for massive galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...617..240K
+arxivurl: http://arxiv.org/abs/astro-ph/0408128
+author: Kobulnicky, H. A. and Kewley, L. J.
+author_list:
+- family: Kobulnicky
+  given: H. A.
+- family: Kewley
+  given: L. J.
+date-added: 2017-08-10 17:21:03 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/425299
+eprint: astro-ph/0408128
+journal: \apj
+keywords: 'Galaxies: Abundances, Galaxies: Evolution, Galaxies: Fundamental Parameters,
+  Galaxies: Starburst, ISM: H II Regions, ISM: Abundances'
+month: December
+pages: 240--261
+papis_id: f9077e172ed56ce68eda9f57b8a51b6f
+ref: kobulnicky.h.2004
+title: Metallicities of 0.3$łt$z0̇ Galaxies in the GOODS-North Field
+type: article
+volume: '617'
+year: '2004'

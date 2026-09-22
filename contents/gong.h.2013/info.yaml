@@ -1,0 +1,41 @@
+abstract: We describe the implementation and tests of sink particle algorithms in
+  the Eulerian grid-based code Athena. The introduction of sink particles enables
+  the long-term evolution of systems in which localized collapse occurs, and it is
+  impractical (or unnecessary) to resolve the accretion shocks at the centers of collapsing
+  regions. We discuss the similarities and differences of our methods compared to
+  other implementations of sink particles. Our criteria for sink creation are motivated
+  by the properties of the Larson-Penston collapse solution. We use standard particle-mesh
+  methods to compute particle and gas gravity together. Accretion of mass and momenta
+  onto sinks is computed using fluxes returned by the Riemann solver. A series of
+  tests based on previous analytic and numerical collapse solutions is used to validate
+  our method and implementation. We demonstrate use of our code for applications with
+  a simulation of planar converging supersonic turbulent flow, in which multiple cores
+  form and collapse to create sinks; these sinks continue to interact and accrete
+  from their surroundings over several Myr.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJS..204....8G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.6425
+author: Gong, H. and Ostriker, E. C.
+author_list:
+- family: Gong
+  given: H.
+- family: Ostriker
+  given: E. C.
+date-added: 2017-08-10 20:05:12 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0067-0049/204/1/8
+eid: '8'
+eprint: '1211.6425'
+journal: \apjs
+keywords: 'hydrodynamics, ISM: clouds, magnetohydrodynamics: MHD, methods: numerical,
+  stars: formation'
+month: January
+pages: '8'
+papis_id: 06159da3f964a3be20d5e038deebad8d
+primaryclass: astro-ph.IM
+ref: gong.h.2013
+title: Implementation of Sink Particles in the Athena Code
+type: article
+volume: '204'
+year: '2013'

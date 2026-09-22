@@ -1,0 +1,58 @@
+abstract: We examine the relation between presupernova stellar structure and the distribution
+  of ejecta in core-collapse supernovae of Types Ib, Ic, and II, under the approximations
+  of adiabatic, spherically symmetric flow. We develop a simple yet accurate analytical
+  formula for the velocity of the initial forward shock that traverses the stellar
+  envelope. For material that does not later experience a strong reverse shock, the
+  entropy deposited by this forward shock persists into the final, freely expanding
+  state. We demonstrate that the final density distribution can be approximated with
+  simple models for the final pressure distribution, in a way that matches the results
+  of simulations. Our results indicate that the distribution of density and radiation
+  pressure in a star's ejecta depends on whether the outer envelope is radiative or
+  convective, and if convective, on the composition structure of the star. Our models
+  are most accurate for the high-velocity ejecta cast away from the periphery of a
+  star. For stellar structures that limit to a common form in this region, the resulting
+  ejecta limit to a common distribution at high velocities because the blast wave
+  forgets its history as it approaches the stellar surface. We present formulae for
+  the final density distribution of this material as a function of mass, for both
+  radiative and efficiently convective envelopes. These formulae limit to the well-known
+  planar, self-similar solutions for mass shells approaching the stellar surface.
+  However, the assumption of adiabatic flow breaks down for shells of low optical
+  depth, so this planar limit need not be attained. The event of shock emergence,
+  which limits adiabatic flow, also produces a soft X-ray burst of radiation. Formulae
+  are given for the observable properties of this burst and their dependence on the
+  parameters of the explosion. Motivated by the relativistic expansion recently inferred
+  by Kulkarni et al. for the synchrotron shell around SN 1998bw, we estimate the criterion
+  for relativistic mass ejection and the rest mass of relativistic ejecta. We base
+  our models for the entire ejecta distribution on the high-velocity solution, on
+  our shock-velocity formula, and on realistic radiation pressure distributions. We
+  also present simpler, but less flexible, analytical approximations for ejecta distributions.
+  We survey the ejecta of the polytropic hydrogen envelopes of red supergiants. Our
+  models will be useful for studies of the light curves and circumstellar or interstellar
+  interactions of core-collapse supernovae, and of the birth of pulsar nebulae in
+  their ejecta.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...510..379M
+arxivurl: http://arxiv.org/abs/astro-ph/9807046
+author: Matzner, C. D. and McKee, C. F.
+author_list:
+- family: Matzner
+  given: C. D.
+- family: McKee
+  given: C. F.
+date-added: 2017-08-10 16:04:53 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306571
+eprint: astro-ph/9807046
+journal: \apj
+keywords: 'HYDRODYNAMICS, SHOCK WAVES, STARS: INTERIORS, ISM: SUPERNOVA REMNANTS,
+  STARS: SUPERNOVAE: GENERAL, STARS: SUPERNOVAE: INDIVIDUAL: ALPHANUMERIC: SN 1987A,
+  Hydrodynamics, Shock Waves, Stars: Interiors, ISM: Supernova Remnants, Stars: Supernovae:
+  General, Stars: Supernovae: Individual: Alphanumeric: SN 1987A'
+month: January
+pages: 379--403
+papis_id: 2369ab6a0eefd5aa158ddf4443ef9717
+ref: matzner.c.1999
+title: The Expulsion of Stellar Envelopes in Core-Collapse Supernovae
+type: article
+volume: '510'
+year: '1999'

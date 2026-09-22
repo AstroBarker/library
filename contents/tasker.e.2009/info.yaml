@@ -1,0 +1,45 @@
+abstract: We investigate the formation and evolution of giant molecular clouds (GMCs)
+  in a Milky-Way-like disk galaxy with a flat rotation curve. We perform a series
+  of three-dimensional adaptive mesh refinement numerical simulations that follow
+  both the global evolution on scales of ~20 kpc and resolve down to scales lsim10
+  pc with a multiphase atomic interstellar medium. In this first study, we omit star
+  formation and feedback, and focus on the processes of gravitational instability
+  and cloud collisions and interactions. We define clouds as regions with n H >= 100
+  cm-3 and track the evolution of individual clouds as they orbit through the galaxy
+  from their birth to their eventual destruction via merger or via destructive collision
+  with another cloud. After ~140 Myr a large fraction of the gas in the disk has fragmented
+  into clouds with masses ~106 M sun and a mass spectrum similar to that of Galactic
+  GMCs. The disk settles into a quasi-steady-state in which gravitational scattering
+  of clouds keeps the disk near the threshold of global gravitational instability.
+  The cloud collision time is found to be a small fraction, ~1/5, of the orbital time,
+  and this is an efficient mechanism to inject turbulence into the clouds. This helps
+  to keep clouds only moderately gravitationally bound, with virial parameters of
+  order unity. Many other observed GMC properties, such as mass surface density, angular
+  momentum, velocity dispersion, and vertical distribution, can be accounted for in
+  this simple model with no stellar feedback.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700..358T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.0207
+author: Tasker, E. J. and Tan, J. C.
+author_list:
+- family: Tasker
+  given: E. J.
+- family: Tan
+  given: J. C.
+date-added: 2017-08-10 23:25:30 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/700/1/358
+eprint: '0811.0207'
+journal: \apj
+keywords: 'galaxies: ISM, galaxies: spiral, galaxies: star clusters, ISM: clouds,
+  ISM: structure, methods: numerical, stars: formation'
+month: July
+pages: 358--375
+papis_id: 7f2326c4141dde03a14c3e779d1c642b
+ref: tasker.e.2009
+title: Star Formation in Disk Galaxies. I. Formation and Evolution of Giant Molecular
+  Clouds via Gravitational Instability and Cloud Collisions
+type: article
+volume: '700'
+year: '2009'

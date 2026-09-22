@@ -1,0 +1,39 @@
+abstract: We calculate the expected number of Type Ia supernovae (SN Ia) in the core-degenerate
+  (CD) scenario and find it to match observations within the uncertainties of the
+  code. In the CD scenario, the super-Chandrasekhar mass white dwarf (WD) is formed
+  at the termination of the common envelope phase from a merger of a WD companion
+  with the hot core of a massive asymptotic giant branch (AGB) star. We use a simple
+  population synthesis code that avoids the large uncertainties involved in estimating
+  the final orbital separation of the common envelope evolution. Instead, we assume
+  that systems where the core of the secondary AGB star is more massive than the WD
+  remnant of the primary star merge at the termination of the common envelope phase.
+  We also use a simple prescription to count systems that have strong interaction
+  during the AGB phase, but not during the earlier red giant branch (RGB) phase. The
+  fact that a very simple population synthesis code that uses the basics of stellar
+  evolution ingredients can match the observed rate of SN Ia might suggest that the
+  CD-scenario plays a major role in forming SN Ia.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428..579I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.0953
+author: Ilkov, M. and Soker, N.
+author_list:
+- family: Ilkov
+  given: M.
+- family: Soker
+  given: N.
+date-added: 2017-08-10 22:04:01 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts053
+eprint: '1208.0953'
+journal: \mnras
+keywords: 'binaries: close, stars: evolution, supernovae, white dwarfs'
+month: January
+pages: 579--586
+papis_id: 773d4d128cd509fda5574361e76b7bf2
+primaryclass: astro-ph.SR
+ref: ilkov.m.2013
+title: The number of progenitors in the core-degenerate scenario for Type Ia supernovae
+type: article
+volume: '428'
+year: '2013'

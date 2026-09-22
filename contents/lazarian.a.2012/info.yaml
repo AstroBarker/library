@@ -1,0 +1,60 @@
+abstract: Recent observational results for magnetic fields in molecular clouds reviewed
+  by Crutcher seem to be inconsistent with the predictions of the ambipolar diffusion
+  theory of star formation. These include the measured decrease in mass to flux ratio
+  between envelopes and cores, the failure to detect any self-gravitating magnetically
+  subcritical clouds, the determination of the flat probability distribution function
+  (PDF) of the total magnetic field strengths implying that there are many clouds
+  with very weak magnetic fields, and the observed scaling Bvproprho2/3 that implies
+  gravitational contraction with weak magnetic fields. We consider the problem of
+  magnetic field evolution in turbulent molecular clouds and discuss the process of
+  magnetic field diffusion mediated by magnetic reconnection. For this process that
+  we termed "reconnection diffusion," we provide a simple physical model and explain
+  that this process is inevitable in view of the present-day understanding of MHD
+  turbulence. We address the issue of the expected magnetization of cores and envelopes
+  in the process of star formation and show that reconnection diffusion provides an
+  efficient removal of magnetic flux that depends only on the properties of MHD turbulence
+  in the core and the envelope. We show that as the amplitude of turbulence as well
+  as the scale of turbulent motions decrease from the envelope to the core of the
+  cloud, the diffusion of the magnetic field is faster in the envelope. As a result,
+  the magnetic flux trapped during the collapse in the envelope is being released
+  faster than the flux trapped in the core, resulting in much weaker fields in envelopes
+  than in cores, as observed. We provide simple semi-analytical model calculations
+  which support this conclusion and qualitatively agree with the observational results.
+  Magnetic reconnection is also consistent with the lack of subcritical self-gravitating
+  clouds, with the observed flat PDF of field strengths, and with the scaling of field
+  strength with density. In addition, we demonstrate that the reconnection diffusion
+  process can account for the empirical Larson relations and list a few other implications
+  of the reconnection diffusion concept. We argue that magnetic reconnection provides
+  a solution to the magnetic flux problem of star formation that agrees better with
+  observations than the long-standing ambipolar diffusion paradigm. Due to the illustrative
+  nature of our simplified model we do not seek quantitative agreement, but discuss
+  the complementary nature of our approach to the three-dimensional MHD numerical
+  simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757..154L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.4698
+author: Lazarian, A. and Esquivel, A. and Crutcher, R.
+author_list:
+- family: Lazarian
+  given: A.
+- family: Esquivel
+  given: A.
+- family: Crutcher
+  given: R.
+date-added: 2017-08-11 01:30:36 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/757/2/154
+eid: '154'
+eprint: '1206.4698'
+journal: \apj
+keywords: 'cosmic rays, magnetohydrodynamics: MHD, scattering, turbulence'
+month: October
+pages: '154'
+papis_id: 5601ad27b19ce8f6bd72351d0ccdc4ba
+ref: lazarian.a.2012
+title: Magnetization of Cloud Cores and Envelopes and Other Observational Consequences
+  of Reconnection Diffusion
+type: article
+volume: '757'
+year: '2012'

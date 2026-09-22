@@ -1,0 +1,41 @@
+abstract: We present a one-equation subgrid scale model that evolves the turbulence
+  energy corresponding to unresolved velocity fluctuations in large eddy simulations.
+  The model is derived in the context of the Germano consistent decomposition of the
+  hydrodynamical equations. The eddy-viscosity closure for the rate of energy transfer
+  from resolved toward subgrid scales is localised by means of a dynamical procedure
+  for the computation of the closure parameter. Therefore, the subgrid scale model
+  applies to arbitrary flow geometry and evolution. For the treatment of microscopic
+  viscous dissipation a semi-statistical approach is used, and the gradient-diffusion
+  hypothesis is adopted for turbulent transport. A priori tests of the localised eddy-viscosity
+  closure and the gradient-diffusion closure are made by analysing data from direct
+  numerical simulations. As an a posteriori testing case, the large eddy simulation
+  of thermonuclear combustion in forced isotropic turbulence is discussed. We intend
+  the formulation of the subgrid scale model in this paper as a basis for more advanced
+  applications in numerical simulations of complex astrophysical phenomena involving
+  turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...450..265S
+arxivurl: http://arxiv.org/abs/astro-ph/0601499
+author: Schmidt, W. and Niemeyer, J. C. and Hillebrandt, W.
+author_list:
+- family: Schmidt
+  given: W.
+- family: Niemeyer
+  given: J. C.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:33:28 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1051/0004-6361:20053617
+eprint: astro-ph/0601499
+journal: \aap
+keywords: 'hydrodynamics, turbulence, methods: numerical'
+month: April
+pages: 265--281
+papis_id: ff16bcec22804777afb76429bedaaa2f
+ref: schmidt.w.2006
+title: A localised subgrid scale model for fluid dynamical simulations in astrophysics.
+  I. Theory and numerical tests
+type: article
+volume: '450'
+year: '2006'

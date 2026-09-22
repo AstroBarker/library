@@ -1,0 +1,54 @@
+abstract: 'Results of the commissioning of the first Gemini Multi-Object Spectrograph
+  (GMOS) are described. GMOS and the Gemini-North telescope act as a complete system
+  to exploit a large 8 m aperture with improved image quality. Key GMOS design features
+  such as the on-instrument wave-front sensor (OIWFS) and active flexure compensation
+  system maintain very high image quality and stability, allowing precision observations
+  of many targets simultaneously while reducing the need for frequent recalibration
+  and reacquisition of targets. In this paper, example observations in imaging, long-slit,
+  and multiobject spectroscopic modes are presented and verified by comparison with
+  data from the literature. The expected high throughput of GMOS is confirmed from
+  standard star observations; it peaks at about 60\% when imaging in the r'' and i''
+  bands, and at 45\%-50\% in spectroscopic mode at 6300 {\AA}. Deep GMOS photometry
+  in the g'', r'', and i'' filters is compared to data from the literature, and the
+  uniformity of this photometry across the GMOS field is verified. The multiobject
+  spectroscopic mode is demonstrated by observations of the galaxy cluster A383. Centering
+  of objects in the multislit mask was achieved to an rms accuracy of 80 mas across
+  the 5.5m field, and an optimized setup procedure (now in regular use) improves this
+  to better than 50 mas. Stability during these observations was high, as expected:
+  the average shift between object and slit positions was 5.3 mas hr-1, and the wavelength
+  scale drifted by only 0.1 {\AA} hr-1 (in a setup with spectral resolution of 6 {\AA}).
+  Finally, the current status of GMOS on Gemini-North is summarized, and future plans
+  are outlined.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004PASP..116..425H
+author: Hook, I. M. and Jørgensen, I. and Allington-Smith, J. R. and Davies, R. L.
+  and Metcalfe, N. and Murowinski, R. G. and Crampton, D.
+author_list:
+- family: Hook
+  given: I. M.
+- family: Jørgensen
+  given: I.
+- family: Allington-Smith
+  given: J. R.
+- family: Davies
+  given: R. L.
+- family: Metcalfe
+  given: N.
+- family: Murowinski
+  given: R. G.
+- family: Crampton
+  given: D.
+date-added: 2017-08-10 17:11:12 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/383624
+journal: \pasp
+keywords: 'Instrumentation: Spectrographs'
+month: May
+pages: 425--440
+papis_id: 85f15020a39346df57c0dffe7a8d8e60
+ref: hook.i.2004
+title: 'The Gemini-North Multi-Object Spectrograph: Performance in Imaging, Long-Slit,
+  and Multi-Object Spectroscopic Modes'
+type: article
+volume: '116'
+year: '2004'

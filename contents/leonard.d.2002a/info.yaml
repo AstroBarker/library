@@ -1,0 +1,84 @@
+abstract: We present 30 optical spectra and 49 photometric epochs sampling the first
+  517 days after discovery of supernova (SN) 1999em and derive its distance through
+  the expanding photosphere method (EPM). SN 1999em is shown to be a Type II-plateau
+  (II-P) event, with a photometric plateau lasting until about 100 days after explosion.
+  We identify the dominant ions responsible for most of the absorption features seen
+  in the optical portion of the spectrum during the plateau phase. Using the weakest
+  unblended absorption features to estimate photospheric velocity, we find the distance
+  to SN 1999em to be D=8.2+/-0.6 Mpc, with an explosion date of HJD 2,451,475.6+/-1.4,
+  or 5.3+/-1.4 days before discovery. We show that this distance estimate is about
+  10\% closer than the distance that results if the strong Fe II lambdalambda4924,
+  5018, 5169 absorption features, which have often been used in previous EPM studies,
+  are used to estimate photospheric velocity. We examine potential sources of systematic
+  error in EPM-derived distances and find the most significant to result from uncertainty
+  in the theoretical modeling of the flux distribution emitted by the SN photosphere
+  (i.e., the ``flux dilution factor''). We compare previously derived EPM distances
+  to eight SNe II in galaxies (or members of the same group) for which a recently
+  revised Cepheid distance exists from the Hubble Space Telescope Key Project and
+  find DCepheids/DEPM=0.87+/-0.06 (statistical); eliminating the three SNe II distances
+  for which a Cepheid distance exists only to a group member, and not the host galaxy
+  itself, yields DCepheids/DEPM=0.96+/-0.09. Additional direct comparisons, especially
+  to spectroscopically and photometrically normal SNe II-P, will certainly help to
+  produce a more robust comparison. Finally, we investigate the possible use of SNe
+  II-P as standard candles and find that for eight photometrically confirmed SNe II-P
+  with previously derived EPM distances and SN 1999em, the mean plateau absolute brightness
+  is MV(plateau)=-16.4+/-0.6 mag, implying that distances good to ~30\% (1 sigma)
+  may be possible without the need for a complete EPM analysis. At MV(plateau)=-15.9+/-0.2
+  mag, SN 1999em is somewhat fainter than the average SN II-P. The general consistency
+  of absolute SNe II-P brightness during the plateau suggests that the standard candle
+  assumption may allow SNe II-P to be viable cosmological beacons at z>2.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002PASP..114...35L
+arxivurl: http://arxiv.org/abs/astro-ph/0109535
+author: Leonard, D. C. and Filippenko, A. V. and Gates, E. L. and Li, W. and Eastman,
+  R. G. and Barth, A. J. and Bus, S. J. and Chornock, R. and Coil, A. L. and Frink,
+  S. and Grady, C. A. and Harris, A. W. and Malkan, M. A. and Matheson, T. and Quirrenbach,
+  A. and Treffers, R. R.
+author_list:
+- family: Leonard
+  given: D. C.
+- family: Filippenko
+  given: A. V.
+- family: Gates
+  given: E. L.
+- family: Li
+  given: W.
+- family: Eastman
+  given: R. G.
+- family: Barth
+  given: A. J.
+- family: Bus
+  given: S. J.
+- family: Chornock
+  given: R.
+- family: Coil
+  given: A. L.
+- family: Frink
+  given: S.
+- family: Grady
+  given: C. A.
+- family: Harris
+  given: A. W.
+- family: Malkan
+  given: M. A.
+- family: Matheson
+  given: T.
+- family: Quirrenbach
+  given: A.
+- family: Treffers
+  given: R. R.
+date-added: 2017-08-11 08:17:19 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/324785
+eprint: astro-ph/0109535
+journal: \pasp
+keywords: 'Cosmology: Observations, Cosmology: Distance Scale, Galaxies: Individual:
+  NGC Number: NGC 1637, supernovae: individual (SN 1999em)'
+month: January
+pages: 35--64
+papis_id: aa8659b584b146e221e89c009f028532
+ref: leonard.d.2002a
+title: The Distance to SN 1999em in NGC 1637 from the Expanding Photosphere Method
+type: article
+volume: '114'
+year: '2002'

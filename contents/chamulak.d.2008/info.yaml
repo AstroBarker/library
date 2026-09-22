@@ -1,0 +1,49 @@
+abstract: Prior to the explosion of a carbon-oxygen white dwarf in a Type Ia supernova
+  there is a long "simmering," during which the 12C +12C reaction gradually heats
+  the white dwarf on a long (~103 yr) timescale. Piro \& Bildsten showed that weak
+  reactions during this simmering set a maximum electron abundance Ye at the time
+  of the explosion. We investigate the nuclear reactions during this simmering with
+  a series of self-heating, at constant pressure, reaction network calculations. Unlike
+  in AGB stars, p captures onto 22Ne and heavier trace nuclei do not play a significant
+  role. The 12C abundance is sufficiently high that the neutrons preferentially capture
+  onto 12C , rather than iron group nuclei. As an aid to hydrodynamical simulations
+  of the simmering phase, we present fits to the rates of heating, electron capture,
+  change in mean atomic mass, and consumption of 12C in terms of the screened thermally
+  averaged cross section for 12C +12C . Our evaluation of the net heating rate includes
+  contributions from electron captures into the 3.68 MeV excited state of 13C . This
+  results in a slightly larger energy release, per 12C consumed, than that found by
+  Piro \& Bildsten, but less than that released for a burn to only 20Ne and 23Na .
+  We compare our one-zone results to more accurate integrations over the white dwarf
+  structure to estimate the amount of 12C that must be consumed to raise the white
+  dwarf temperature, and hence to determine the net reduction of Ye during simmering.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...677..160C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.1643
+author: Chamulak, D. A. and Brown, E. F. and Timmes, F. X. and Dupczak, K.
+author_list:
+- family: Chamulak
+  given: D. A.
+- family: Brown
+  given: E. F.
+- family: Timmes
+  given: F. X.
+- family: Dupczak
+  given: K.
+date-added: 2017-08-11 02:16:11 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/528944
+eid: 160-168
+eprint: '0801.1643'
+journal: \apj
+keywords: 'galaxies: evolution, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general, white dwarfs'
+month: April
+pages: 160--168
+papis_id: 9307f4fa06259c7733523f8f96d38f93
+ref: chamulak.d.2008
+title: The Reduction of the Electron Abundance during the Pre-explosion Simmering
+  in White Dwarf Supernovae
+type: article
+volume: '677'
+year: '2008'

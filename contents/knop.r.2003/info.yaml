@@ -1,0 +1,165 @@
+abstract: We report measurements of OmegaM, OmegaLambda, and w from 11 supernovae
+  (SNe) at z=0.36-0.86 with high-quality light curves measured using WFPC2 on the
+  Hubble Space Telescope (HST). This is an independent set of high-redshift SNe that
+  confirms previous SN evidence for an accelerating universe. The high-quality light
+  curves available from photometry on WFPC2 make it possible for these 11 SNe alone
+  to provide measurements of the cosmological parameters comparable in statistical
+  weight to the previous results. Combined with earlier Supernova Cosmology Project
+  data, the new SNe yield a measurement of the mass density OmegaM=0.25+0.07-0.06(statistical)+/-0.04
+  (identified systematics), or equivalently, a cosmological constant of OmegaLambda=0.75+0.06-0.07(statistical)+/-0.04
+  (identified systematics), under the assumptions of a flat universe and that the
+  dark energy equation-of-state parameter has a constant value w=-1. When the SN results
+  are combined with independent flat-universe measurements of OmegaM from cosmic microwave
+  background and galaxy redshift distortion data, they provide a measurement of w=-1.05+0.15-0.20(statistical)+/-0.09
+  (identified systematic), if w is assumed to be constant in time. In addition to
+  high-precision light-curve measurements, the new data offer greatly improved color
+  measurements of the high-redshift SNe and hence improved host galaxy extinction
+  estimates. These extinction measurements show no anomalous negative E(B-V) at high
+  redshift. The precision of the measurements is such that it is possible to perform
+  a host galaxy extinction correction directly for individual SNe without any assumptions
+  or priors on the parent E(B-V) distribution. Our cosmological fits using full extinction
+  corrections confirm that dark energy is required with P(OmegaLambda>0)>0.99, a result
+  consistent with previous and current SN analyses that rely on the identification
+  of a low-extinction subset or prior assumptions concerning the intrinsic extinction
+  distribution.  Based in part on observations made with the NASA/ESA Hubble Space
+  Telescope, obtained at the Space Telescope Science Institute, which is operated
+  by the Association of Universities for Research in Astronomy, Inc., under NASA contract
+  NAS 5-26555. These observations are associated with programs GO-7336, GO-7590, and
+  GO-8346. Some of the data presented herein were obtained at the W. M. Keck Observatory,
+  which is operated as a scientific partnership among the California Institute of
+  Technology, the University of California, and the National Aeronautics and Space
+  Administration. The Observatory was made possible by the generous financial support
+  of the W. M. Keck Foundation. Based in part on observations obtained at the WIYN
+  Observatory, which is a joint facility of the University of Wisconsin at Madison,
+  Indiana University, Yale University, and the National Optical Astronomy Observatory.
+  Based in part on observations made with the European Southern Observatory telescopes
+  (ESO programs 60.A-0586 and 265.A-5721). Based in part on observations made with
+  the Canada-France-Hawaii Telescope, operated by the National Research Council of
+  Canada, le Centre National de la Recherche Scientifique de France, and the University
+  of Hawaii.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...598..102K
+arxivurl: http://arxiv.org/abs/astro-ph/0309368
+author: Knop, R. A. and Aldering, G. and Amanullah, R. and Astier, P. and Blanc, G.
+  and Burns, M. S. and Conley, A. and Deustua, S. E. and Doi, M. and Ellis, R. and
+  Fabbro, S. and Folatelli, G. and Fruchter, A. S. and Garavini, G. and Garmond, S.
+  and Garton, K. and Gibbons, R. and Goldhaber, G. and Goobar, A. and Groom, D. E.
+  and Hardin, D. and Hook, I. and Howell, D. A. and Kim, A. G. and Lee, B. C. and
+  Lidman, C. and Mendez, J. and Nobili, S. and Nugent, P. E. and Pain, R. and Panagia,
+  N. and Pennypacker, C. R. and Perlmutter, S. and Quimby, R. and Raux, J. and Regnault,
+  N. and Ruiz-Lapuente, P. and Sainton, G. and Schaefer, B. and Schahmaneche, K. and
+  Smith, E. and Spadafora, A. L. and Stanishev, V. and Sullivan, M. and Walton, N.
+  A. and Wang, L. and Wood-Vasey, W. M. and Yasuda, N.
+author_list:
+- family: Knop
+  given: R. A.
+- family: Aldering
+  given: G.
+- family: Amanullah
+  given: R.
+- family: Astier
+  given: P.
+- family: Blanc
+  given: G.
+- family: Burns
+  given: M. S.
+- family: Conley
+  given: A.
+- family: Deustua
+  given: S. E.
+- family: Doi
+  given: M.
+- family: Ellis
+  given: R.
+- family: Fabbro
+  given: S.
+- family: Folatelli
+  given: G.
+- family: Fruchter
+  given: A. S.
+- family: Garavini
+  given: G.
+- family: Garmond
+  given: S.
+- family: Garton
+  given: K.
+- family: Gibbons
+  given: R.
+- family: Goldhaber
+  given: G.
+- family: Goobar
+  given: A.
+- family: Groom
+  given: D. E.
+- family: Hardin
+  given: D.
+- family: Hook
+  given: I.
+- family: Howell
+  given: D. A.
+- family: Kim
+  given: A. G.
+- family: Lee
+  given: B. C.
+- family: Lidman
+  given: C.
+- family: Mendez
+  given: J.
+- family: Nobili
+  given: S.
+- family: Nugent
+  given: P. E.
+- family: Pain
+  given: R.
+- family: Panagia
+  given: N.
+- family: Pennypacker
+  given: C. R.
+- family: Perlmutter
+  given: S.
+- family: Quimby
+  given: R.
+- family: Raux
+  given: J.
+- family: Regnault
+  given: N.
+- family: Ruiz-Lapuente
+  given: P.
+- family: Sainton
+  given: G.
+- family: Schaefer
+  given: B.
+- family: Schahmaneche
+  given: K.
+- family: Smith
+  given: E.
+- family: Spadafora
+  given: A. L.
+- family: Stanishev
+  given: V.
+- family: Sullivan
+  given: M.
+- family: Walton
+  given: N. A.
+- family: Wang
+  given: L.
+- family: Wood-Vasey
+  given: W. M.
+- family: Yasuda
+  given: N.
+date-added: 2017-08-11 04:30:42 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/378560
+eprint: astro-ph/0309368
+journal: \apj
+keywords: 'Cosmology: Cosmological Parameters, Cosmology: Observations, Stars: Supernovae:
+  General'
+month: November
+pages: 102--137
+papis_id: 48a3625cf8b10ce0bcd7b3f6e3744443
+ref: knop.r.2003
+title: New Constraints on $Ømega$\$_M\$, \$Ømega\$\$_Lambda\$, and w from an Independent
+  Set of 11 High-Redshift Supernovae Observed with the Hubble Space Telescope
+type: article
+volume: '598'
+year: '2003'

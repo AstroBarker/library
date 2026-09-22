@@ -1,0 +1,46 @@
+abstract: During the last decade it has become evident that the magnetorotational
+  instability is at the heart of the enhanced angular momentum transport in weakly
+  magnetized accretion disks around neutron stars and black holes. In this paper we
+  investigate the local linear stability of differentially rotating, magnetized flows
+  and the evolution of the magnetorotational instability beyond the weak-field limit.
+  We show that, when superthermal toroidal fields are considered, the effects of both
+  compressibility and magnetic tension forces, which are related to the curvature
+  of toroidal field lines, should be taken fully into account. We demonstrate that
+  the presence of a strong toroidal component in the magnetic field plays a nontrivial
+  role. When strong fields are considered, the strength of the toroidal magnetic field
+  not only modifies the growth rates of the unstable modes but also determines which
+  modes are subject to instabilities. We find that, for rotating configurations with
+  Keplerian laws, the magnetorotational instability is stabilized at low wavenumbers
+  for toroidal Alfv{\'e}n speeds exceeding the geometric mean of the sound speed and
+  the rotational speed. For a broad range of magnetic field strengths, we also find
+  that two additional distinct instabilities are present; they both appear as the
+  result of coupling between the modes that become the Alfv{\'e}n and the slow modes
+  in the limit of no rotation. We discuss the significance of our findings for the
+  stability of cold, magnetically dominated, rotating fluids and argue that, for these
+  systems, the curvature of toroidal field lines cannot be neglected even when short-wavelength
+  perturbations are considered. We also comment on the implications of our results
+  for the validity of shearing box simulations in which superthermal toroidal fields
+  are generated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...628..879P
+arxivurl: http://arxiv.org/abs/astro-ph/0406071
+author: Pessah, M. E. and Psaltis, D.
+author_list:
+- family: Pessah
+  given: M. E.
+- family: Psaltis
+  given: D.
+date-added: 2017-08-11 04:20:30 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/430940
+eprint: astro-ph/0406071
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Instabilities, Magnetohydrodynamics: MHD, Plasmas'
+month: August
+pages: 879--901
+papis_id: 07e58decff2b99a9303a5f449ed354ba
+ref: pessah.m.2005
+title: The Stability of Magnetized Rotating Plasmas with Superthermal Fields
+type: article
+volume: '628'
+year: '2005'

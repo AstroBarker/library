@@ -1,0 +1,57 @@
+abstract: 'Context. The solar-like pulsator HD 49385 was observed with the CoRoT satellite
+  over a period of 137 days. The analysis of its oscillation spectrum yielded precise
+  estimates of the mode frequencies over nine radial orders and distinguished some
+  unusual characteristics, such as some modes outside the identified ridges in the
+  {\''e}chelle diagram and that the curvature of the l = 1 ridge differs significantly
+  from that of the l = 0 ridge.  Aims: We search for stellar models that can reproduce
+  the peculiar features of the oscillation spectrum of HD 49385. After showing that
+  they can be accounted for only by a low-frequency l = 1 avoided crossing, we investigate
+  the information provided by the mixed modes about the structure of the core of HD
+  49385.  Methods: We propose a toy-model to study the case of avoided crossings with
+  a strong coupling between the p-mode and g-mode cavities in order to establish the
+  presence of mixed modes in the spectrum of HD 49385. We then show that traditional
+  optimization techniques are ill-suited to stars with mixed modes in avoided crossing.
+  We propose a new approach to the computation of grids of models that we apply to
+  HD 49385.  Results: The detection of mixed modes leads us to establish the post-main-sequence
+  status of HD 49385. The mixed mode frequencies suggest that there is a strong coupling
+  between the p-mode and g-mode cavities. As a result, we show that the amount of
+  core overshooting in HD 49385 is either very small (0 < alphaov < 0.05) or moderate
+  (0.18 < alphaov < 0.20). The mixing length parameter is found to be significantly
+  lower than the solar one (alphaCGM = 0.55 $\pm$ 0.04 compared to the solar value
+  alpha\&sun; = 0.64). Finally, we show that the revised solar abundances of Asplund
+  ensure closer agreement with the observations than the classical ones of Grevesse
+  \& Noels. At each step, we investigate the origin and meaning of these seismic diagnostics
+  in terms of the physical structure of the star.  Conclusions: The subgiant HD 49385
+  is the first star for which a thorough modeling has been attempted to reproduce
+  all the properties of an avoided crossing. It has provided the opportunity to show
+  that the study of the coupling between the cavities in these stars can provide valuable
+  insight into open questions such as core overshooting, the efficiency of convection,
+  and the abundances of heavy elements in stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...535A..91D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1109.1191
+author: Deheuvels, S. and Michel, E.
+author_list:
+- family: Deheuvels
+  given: S.
+- family: Michel
+  given: E.
+date-added: 2017-08-10 20:40:53 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1051/0004-6361/201117232
+eid: A91
+eprint: '1109.1191'
+journal: \aap
+keywords: 'stars: oscillations, stars: evolution, stars: interiors, stars: individual:
+  HD 49385'
+month: November
+pages: A91
+papis_id: f664188795fb6ad1bd5c4d88926ec697
+primaryclass: astro-ph.SR
+ref: deheuvels.s.2011
+title: 'Constraints on the structure of the core of subgiants via mixed modes: the
+  case of HD 49385'
+type: article
+volume: '535'
+year: '2011'

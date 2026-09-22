@@ -1,0 +1,47 @@
+abstract: We have calculated the mass accumulation efficiency during helium shell
+  flashes to examine whether or not a carbon-oxygen white dwarf (C+O WD) grows up
+  to the Chandrasekhar mass limit to ignite a Type Ia supernova (SN Ia) explosion.
+  It has been frequently argued that luminous supersoft X-ray sources (SSSs) and symbiotic
+  stars are progenitors of SNe Ia. In such systems, a C+O WD accretes hydrogen-rich
+  matter from a companion and burns hydrogen steadily on its surface. The WD develops
+  a helium layer underneath the hydrogen-rich envelope and undergoes periodic helium
+  shell flashes. Using the OPAL opacity, we have reanalyzed a full cycle of helium
+  shell flashes on a 1.3 Msolar C+O WD and confirmed that the helium envelope of the
+  WD expands to blow a strong wind. A part of the accumulated matter is lost by the
+  wind. The mass accumulation efficiency in helium shell flashes is estimated as etaHe=-0.175(logM+5.35)2+1.05
+  for -7.3<logM<-5.9 and etaHe=1 for -5.9<=logM<~-5, where the mass accretion rate
+  M is in units of Msolar yr-1. In relatively high mass accretion rates, as expected
+  in recent SN Ia progenitor models, the mass accumulation efficiency is large enough
+  for C+O WDs to grow to the Chandrasekhar mass, i.e., etaHe=0.9 for logM=-6.3 and
+  etaHe=0.57 for logM=-7.0. The wind velocity (~1000 km s-1) is much faster than the
+  orbital velocity of the binary (<~300 km s-1), and therefore the wind cannot be
+  accelerated further by the companion's motion. We suggest observational counterparts
+  of helium shell flashes in relation to long-term variations in supersoft X-ray fluxes
+  of SSSs and symbiotic stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...513L..41K
+arxivurl: http://arxiv.org/abs/astro-ph/9901080
+author: Kato, M. and Hachisu, I.
+author_list:
+- family: Kato
+  given: M.
+- family: Hachisu
+  given: I.
+date-added: 2017-08-10 19:50:56 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/311893
+eprint: astro-ph/9901080
+journal: \apjl
+keywords: 'STARS: BINARIES: CLOSE, STARS: NOVAE, CATACLYSMIC VARIABLES, STARS: MASS
+  LOSS, STARS: SUPERNOVAE: GENERAL, STARS: WHITE DWARFS, Stars: Binaries: Close, Stars:
+  Novae, Cataclysmic Variables, Stars: Mass Loss, Stars: Supernovae: General, Stars:
+  White Dwarfs'
+month: March
+pages: L41-L44
+papis_id: 70ed251143a6af8d8135d998b28911f9
+ref: kato.m.1999
+title: A New Estimation of Mass Accumulation Efficiency in Helium Shell Flashestoward
+  Type IA Supernova Explosions
+type: article
+volume: '513'
+year: '1999'

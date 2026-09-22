@@ -1,0 +1,92 @@
+abstract: 'We present observations of the afterglows and host galaxies of three short-duration
+  gamma-ray bursts (GRBs): 100625A, 101219A, and 110112A. We find that GRB 100625A
+  occurred in a z = 0.452 early-type galaxy with a stellar mass of \approx{}4.6 \texttimes{}
+  109 M \&sun; and a stellar population age of \approx{}0.7 Gyr, and GRB 101219A originated
+  in a star-forming galaxy at z = 0.718 with a stellar mass of \approx{}1.4 \texttimes{}
+  109 M \&sun;, a star formation rate of \approx{}16 M \&sun; yr-1, and a stellar
+  population age of \approx{}50 Myr. We also report the discovery of the optical afterglow
+  of GRB 110112A, which lacks a coincident host galaxy to i >~ 26 mag, and we cannot
+  conclusively identify any field galaxy as a possible host. From afterglow modeling,
+  the bursts have inferred circumburst densities of \approx{}10-4-1 cm-3 and isotropic-equivalent
+  gamma-ray and kinetic energies of \approx{}1050-1051 erg. These three events highlight
+  the diversity of galactic environments that host short GRBs. To quantify this diversity,
+  we use the sample of 36 Swift short GRBs with robust associations to an environment
+  (~1/2 of 68 short bursts detected by Swift to 2012 May) and classify bursts originating
+  from four types of environments: late-type (\approx{}50\%), early-type (\approx{}15\%),
+  inconclusive (\approx{}20\%), and "host-less" (lacking a coincident host galaxy
+  to limits of >~ 26 mag \approx{}15\%). To find likely ranges for the true late-
+  and early-type fractions, we assign each of the host-less bursts to either the late-
+  or early-type category using probabilistic arguments and consider the scenario that
+  all hosts in the inconclusive category are early-type galaxies to set an upper bound
+  on the early-type fraction. We calculate most likely ranges for the late- and early-type
+  fractions of \approx{}60\%-80\% and \approx{}20\%-40\%, respectively. We find no
+  clear trend between gamma-ray duration and host type. We also find no change to
+  the fractions when excluding events recently claimed as possible contaminants from
+  the long GRB/collapsar population. Our reported demographics are consistent with
+  a short GRB rate driven by both stellar mass and star formation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769...56F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.3221
+author: Fong, W. and Berger, E. and Chornock, R. and Margutti, R. and Levan, A. J.
+  and Tanvir, N. R. and Tunnicliffe, R. L. and Czekala, I. and Fox, D. B. and Perley,
+  D. A. and Cenko, S. B. and Zauderer, B. A. and Laskar, T. and Persson, S. E. and
+  Monson, A. J. and Kelson, D. D. and Birk, C. and Murphy, D. and Servillat, M. and
+  Anglada, G.
+author_list:
+- family: Fong
+  given: W.
+- family: Berger
+  given: E.
+- family: Chornock
+  given: R.
+- family: Margutti
+  given: R.
+- family: Levan
+  given: A. J.
+- family: Tanvir
+  given: N. R.
+- family: Tunnicliffe
+  given: R. L.
+- family: Czekala
+  given: I.
+- family: Fox
+  given: D. B.
+- family: Perley
+  given: D. A.
+- family: Cenko
+  given: S. B.
+- family: Zauderer
+  given: B. A.
+- family: Laskar
+  given: T.
+- family: Persson
+  given: S. E.
+- family: Monson
+  given: A. J.
+- family: Kelson
+  given: D. D.
+- family: Birk
+  given: C.
+- family: Murphy
+  given: D.
+- family: Servillat
+  given: M.
+- family: Anglada
+  given: G.
+date-added: 2017-08-10 15:51:47 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/769/1/56
+eid: '56'
+eprint: '1302.3221'
+journal: \apj
+keywords: 'gamma-ray burst: general'
+month: May
+pages: '56'
+papis_id: 1cdeefcc74f62da68a6e14d119fe02dc
+primaryclass: astro-ph.HE
+ref: fong.w.2013
+title: Demographics of the Galaxies Hosting Short-duration Gamma-Ray Bursts
+type: article
+volume: '769'
+year: '2013'

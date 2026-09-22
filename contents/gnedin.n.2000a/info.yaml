@@ -1,0 +1,42 @@
+abstract: I use simulations of cosmological reionization to quantify the effect of
+  photoionization on the gas fraction in low-mass objects, in particular the characteristic
+  mass scale below which the gas fraction is reduced compared to the universal value.
+  I show that this characteristic scale can be up to an order of magnitude lower than
+  the linear-theory Jeans mass, and that even if one defines the Jeans mass at a higher
+  overdensity, it does not track the evolution of this characteristic suppression
+  mass. Instead, the filtering mass, which corresponds directly to the scale over
+  which baryonic perturbations are smoothed in linear perturbation theory, provides
+  a remarkably good fit to the characteristic mass scale. Thus, it appears that the
+  effect of reionization on structure formation in both the linear and nonlinear regimes
+  is described by a single characteristic scale, the filtering scale of baryonic perturbations.
+  In contrast to the Jeans mass, the filtering mass depends on the full thermal history
+  of the gas instead of the instantaneous value of the sound speed, so it accounts
+  for the finite time required for pressure to influence the gas distribution in the
+  expanding universe. In addition to the characteristic suppression mass, I study
+  the full shape of the probability distribution to find an object with a given gas
+  mass among all the objects with the same total mass, and I show that the numerical
+  results can be described by a simple fitting formula that again depends only on
+  the filtering mass. This simple description of the probability distribution may
+  be useful for semianalytical modeling of structure formation in the early universe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...542..535G
+arxivurl: http://arxiv.org/abs/astro-ph/0002151
+author: Gnedin, N. Y.
+author_list:
+- family: Gnedin
+  given: N. Y.
+date-added: 2017-08-11 06:53:24 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317042
+eprint: astro-ph/0002151
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Galaxies: Intergalactic Medium,
+  Cosmology: Large-Scale Structure of Universe'
+month: October
+pages: 535--541
+papis_id: 4ea192fd2387a7bc8bde5e771b05ceb3
+ref: gnedin.n.2000a
+title: Effect of Reionization on Structure Formation in the Universe
+type: article
+volume: '542'
+year: '2000'

@@ -1,0 +1,68 @@
+abstract: The cold dark matter model has become the leading theoretical picture for
+  the formation of structure in the Universe. This model, together with the theory
+  of cosmic inflation, makes a clear prediction for the initial conditions for structure
+  formation and predicts that structures grow hierarchically through gravitational
+  instability. Testing this model requires that the precise measurements delivered
+  by galaxy surveys can be compared to robust and equally precise theoretical calculations.
+  Here we present a simulation of the growth of dark matter structure using 2,1603
+  particles, following them from redshift z = 127 to the present in a cube-shaped
+  region 2.230 billion lightyears on a side. In postprocessing, we also follow the
+  formation and evolution of the galaxies and quasars. We show that baryon-induced
+  features in the initial conditions of the Universe are reflected in distorted form
+  in the low-redshift galaxy distribution, an effect that can be used to constrain
+  the nature of dark energy with future generations of observational surveys of galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005Natur.435..629S
+arxivurl: http://arxiv.org/abs/astro-ph/0504097
+author: Springel, V. and White, S. D. M. and Jenkins, A. and Frenk, C. S. and Yoshida,
+  N. and Gao, L. and Navarro, J. and Thacker, R. and Croton, D. and Helly, J. and
+  Peacock, J. A. and Cole, S. and Thomas, P. and Couchman, H. and Evrard, A. and Colberg,
+  J. and Pearce, F.
+author_list:
+- family: Springel
+  given: V.
+- family: White
+  given: S. D. M.
+- family: Jenkins
+  given: A.
+- family: Frenk
+  given: C. S.
+- family: Yoshida
+  given: N.
+- family: Gao
+  given: L.
+- family: Navarro
+  given: J.
+- family: Thacker
+  given: R.
+- family: Croton
+  given: D.
+- family: Helly
+  given: J.
+- family: Peacock
+  given: J. A.
+- family: Cole
+  given: S.
+- family: Thomas
+  given: P.
+- family: Couchman
+  given: H.
+- family: Evrard
+  given: A.
+- family: Colberg
+  given: J.
+- family: Pearce
+  given: F.
+date-added: 2017-08-10 21:38:23 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1038/nature03597
+eprint: astro-ph/0504097
+journal: \nat
+month: June
+pages: 629--636
+papis_id: 57b03b6d77646c789c11c2e355ba604a
+ref: springel.v.2005
+title: Simulations of the formation, evolution and clustering of galaxies and quasars
+type: article
+volume: '435'
+year: '2005'

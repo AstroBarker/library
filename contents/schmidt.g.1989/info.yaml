@@ -1,0 +1,36 @@
+abstract: A new spectrograph has been commissioned for use on the Multiple-Mirror
+  Telescope (MMT). The instrument is a low-to-moderate-resolution CCD channel for
+  the two-beam MMT spectrograph which has until now been operated only with a blue-sensitive
+  photon-counting detector array. The new CCD channel offers very high throughput
+  in a range of operating modes, including long-slit spectroscopy using a variety
+  of single-order gratings, direct imaging, and cross-dispersed ('echellette') spectroscopy.
+  The latter mode makes efficient use of the full format of a TI 800 x 800 CCD by
+  providing complete spectral coverage from 4500 A to 1 micron in several spectral
+  orders at a resolution between 80 and 250 km/s. The design philosophy, details,
+  and performance of the instrument are discussed in the context of current needs
+  and future plans for upgrade of the MMT to a single 6.5-m primary.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989PASP..101..713S
+author: Schmidt, G. D. and Weymann, R. J. and Foltz, C. B.
+author_list:
+- family: Schmidt
+  given: G. D.
+- family: Weymann
+  given: R. J.
+- family: Foltz
+  given: C. B.
+date-added: 2017-08-10 16:37:21 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/132495
+journal: \pasp
+keywords: Charge Coupled Devices, Reflecting Telescopes, Spectrographs, Cameras, Imaging
+  Techniques, Mirrors, Pixels
+month: August
+pages: 713--724
+papis_id: 9eb85cff59bd4a47faeebd80d6845acf
+ref: schmidt.g.1989
+title: A moderate-resolution, high-throughput CCD channel for the Multiple Mirror
+  Telescope spectrograph
+type: article
+volume: '101'
+year: '1989'

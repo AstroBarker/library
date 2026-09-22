@@ -1,0 +1,56 @@
+abstract: We describe the AMReX suite of astrophysics codes and their application
+  to modeling problems in stellar astrophysics. Maestro is tuned to efficiently model
+  subsonic convective flows while Castro models the highly compressible flows associated
+  with stellar explosions. Both are built on the block-structured adaptive mesh refinement
+  library AMReX. Together, these codes enable a thorough investigation of stellar
+  phenomena, including Type Ia supernovae and X-ray bursts. We describe these science
+  applications and the approach we are taking to make these codes performant on current
+  and future many-core and GPU-based architectures.
+adscomment: submitted to Proceedings of AstroNum 2017 / Journal of Physics Conference
+  Series; 10 pages, 6 figures; all code freely available on github (see text for repo
+  links)
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv171106203Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1711.06203
+author: Zingale, M. and Almgren, A. S. and Barrios Sazo, M. G. and Beckner, V. E.
+  and Bell, J. B. and Friesen, B. and Jacobs, A. M. and Katz, M. P. and Malone, C.
+  M. and Nonaka, A. J. and Willcox, D. E. and Zhang, W.
+author_list:
+- family: Zingale
+  given: M.
+- family: Almgren
+  given: A. S.
+- family: Barrios Sazo
+  given: M. G.
+- family: Beckner
+  given: V. E.
+- family: Bell
+  given: J. B.
+- family: Friesen
+  given: B.
+- family: Jacobs
+  given: A. M.
+- family: Katz
+  given: M. P.
+- family: Malone
+  given: C. M.
+- family: Nonaka
+  given: A. J.
+- family: Willcox
+  given: D. E.
+- family: Zhang
+  given: W.
+date-added: 2017-11-17 14:39:57 +0000
+date-modified: 2017-12-05 16:36:24 +0000
+eprint: '1711.06203'
+journal: ArXiv e-prints
+keywords: Astrophysics - Instrumentation and Methods for Astrophysics
+month: November
+papis_id: ef5c08b08378bf9f1c1b2da69f1f30f7
+primaryclass: astro-ph.IM
+ref: zingale.m.2017
+title: 'Meeting the Challenges of Modeling Astrophysical Thermonuclear Explosions:
+  Castro, Maestro, and the AMReX Astrophysics Suite'
+type: article
+year: '2017'

@@ -1,0 +1,90 @@
+abstract: We report the results of an extensive imaging and spectroscopic survey in
+  the Great Observatories Origins Deep Survey (GOODS)-North field completed using
+  DEIMOS on the Keck II telescope. Observations of 2018 targets in a magnitude-limited
+  sample of 2911 objects to RAB=24.4 yield secure redshifts for a sample of 1440 galaxies
+  and active galactic nuclei (AGNs) plus 96 stars. In addition to redshifts and associated
+  quality assessments, our catalog also includes photometric and astrometric measurements
+  for all targets detected in our R-band imaging survey of the GOODS-North region.
+  We investigate various sources of incompleteness and find the redshift catalog to
+  be 53\% complete at its limiting magnitude. The median redshift of z=0.65 is lower
+  than in similar deep surveys because we did not select against low-redshift targets.
+  Comparison with other redshift surveys in the same field, including a complementary
+  Hawaii-led DEIMOS survey, establishes that our velocity uncertainties are as low
+  as sigma~40 km s-1 for red galaxies and that our redshift confidence assessments
+  are accurate. The distributions of rest-frame magnitudes and colors among the sample
+  agree well with model predictions out to and beyond z=1. We will release all survey
+  data, including extracted one-dimensional and sky-subtracted two-dimensional spectra,
+  thus providing a sizable and homogeneous database for the GOODS-North field, which
+  will enable studies of large-scale structure, spectral indices, internal galaxy
+  kinematics, and the predictive capabilities of photometric redshifts.  Based in
+  part on data obtained at the W. M. Keck Observatory, which is operated as a scientific
+  partnership among the California Institute of Technology, the University of California,
+  and NASA, and was made possible by the generous financial support of the W. M. Keck
+  Foundation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004AJ....127.3121W
+arxivurl: http://arxiv.org/abs/astro-ph/0401353
+author: Wirth, G. D. and Willmer, C. N. A. and Amico, P. and Chaffee, F. H. and Goodrich,
+  R. W. and Kwok, S. and Lyke, J. E. and Mader, J. A. and Tran, H. D. and Barger,
+  A. J. and Cowie, L. L. and Capak, P. and Coil, A. L. and Cooper, M. C. and Conrad,
+  A. and Davis, M. and Faber, S. M. and Hu, E. M. and Koo, D. C. and Le Mignant, D.
+  and Newman, J. A. and Songaila, A.
+author_list:
+- family: Wirth
+  given: G. D.
+- family: Willmer
+  given: C. N. A.
+- family: Amico
+  given: P.
+- family: Chaffee
+  given: F. H.
+- family: Goodrich
+  given: R. W.
+- family: Kwok
+  given: S.
+- family: Lyke
+  given: J. E.
+- family: Mader
+  given: J. A.
+- family: Tran
+  given: H. D.
+- family: Barger
+  given: A. J.
+- family: Cowie
+  given: L. L.
+- family: Capak
+  given: P.
+- family: Coil
+  given: A. L.
+- family: Cooper
+  given: M. C.
+- family: Conrad
+  given: A.
+- family: Davis
+  given: M.
+- family: Faber
+  given: S. M.
+- family: Hu
+  given: E. M.
+- family: Koo
+  given: D. C.
+- family: Le Mignant
+  given: D.
+- family: Newman
+  given: J. A.
+- family: Songaila
+  given: A.
+date-added: 2017-08-10 17:21:15 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/420999
+eprint: astro-ph/0401353
+journal: \aj
+keywords: 'Galaxies: Distances and Redshifts, Galaxies: Photometry'
+month: June
+pages: 3121--3136
+papis_id: 3ced40ee2275ce6df449a28c9c2940c6
+ref: wirth.g.2004
+title: The Team Keck Treasury Redshift Survey of the GOODS-North Field
+type: article
+volume: '127'
+year: '2004'

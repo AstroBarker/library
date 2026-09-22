@@ -1,0 +1,32 @@
+abstract: We describe the parallel implementation of our generalized stellar atmosphere
+  and non-LTE (NLTE) radiative transfer computer program PHOENIX. We discuss the parallel
+  algorithms we have developed for radiative transfer, spectral line opacity, and
+  NLTE opacity and rate calculations. Our implementation uses a multiple instruction-multiple
+  data design based on a relatively small number of MPI library calls. We report the
+  results of test calculations on a number of different parallel computers and discuss
+  the results of scalability tests.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...483..390H
+arxivurl: http://arxiv.org/abs/astro-ph/9607087
+author: Hauschildt, P. H. and Baron, E. and Allard, F.
+author_list:
+- family: Hauschildt
+  given: P. H.
+- family: Baron
+  given: E.
+- family: Allard
+  given: F.
+date-added: 2017-08-11 08:02:05 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304233
+eprint: astro-ph/9607087
+journal: \apj
+keywords: 'Methods: Numerical, Radiative Transfer, Stars: Atmospheres'
+month: July
+pages: 390--398
+papis_id: aacc2d7f3d15a920e24ae278e4c2b2ef
+ref: hauschildt.p.1997
+title: Parallel Implementation of the PHOENIX Generalized Stellar Atmosphere Program
+type: article
+volume: '483'
+year: '1997'

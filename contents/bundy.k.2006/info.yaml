@@ -1,0 +1,63 @@
+abstract: We characterize the mass-dependent evolution of more than 8000 galaxies
+  using spectroscopic redshifts from the DEEP2 Galaxy Redshift Survey in the range
+  0.4<z<1.4 and stellar masses calculated from K-band photometry obtained at Palomar
+  Observatory. This sample spans more than 1.5 deg2 in four independent fields. Using
+  rest-frame U-B color and [O II] equivalent widths, we distinguish star-forming from
+  passive populations in order to explore the nature of ``downsizing''-a pattern in
+  which the sites of active star formation shift from high-mass galaxies at early
+  times to lower mass systems at later epochs. We identify a mass limit, MQ, above
+  which star formation appears to be quenched and show that the physical mechanisms
+  responsible for downsizing can thus be empirically quantified by charting the evolution
+  in this threshold mass. We find that MQ decreases with time by a factor of ~3 across
+  our redshift range according to MQ~(1+z)3.5. To further constrain possible quenching
+  mechanisms, we investigate how downsizing depends on local galaxy environment using
+  the projected third-nearest-neighbor statistic Dp,3. For the majority of galaxies
+  near the median density, there is no significant correlation between downsizing
+  and environment. However, a trend is observed in the comparison between environments
+  that are more than 3 times overdense or underdense relative to the median. Here,
+  downsizing appears accelerated in overdense regions that host higher numbers of
+  massive, early-type galaxies as compared to the underdense regions. Our results
+  significantly constrain recent suggestions for the origin of downsizing and indicate
+  that the process for quenching star formation must, primarily, be internally driven.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...651..120B
+arxivurl: http://arxiv.org/abs/astro-ph/0512465
+author: Bundy, K. and Ellis, R. S. and Conselice, C. J. and Taylor, J. E. and Cooper,
+  M. C. and Willmer, C. N. A. and Weiner, B. J. and Coil, A. L. and Noeske, K. G.
+  and Eisenhardt, P. R. M.
+author_list:
+- family: Bundy
+  given: K.
+- family: Ellis
+  given: R. S.
+- family: Conselice
+  given: C. J.
+- family: Taylor
+  given: J. E.
+- family: Cooper
+  given: M. C.
+- family: Willmer
+  given: C. N. A.
+- family: Weiner
+  given: B. J.
+- family: Coil
+  given: A. L.
+- family: Noeske
+  given: K. G.
+- family: Eisenhardt
+  given: P. R. M.
+date-added: 2017-08-11 06:51:36 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/507456
+eprint: astro-ph/0512465
+journal: \apj
+keywords: 'Cosmology: Observations, Galaxies: Evolution, Galaxies: Formation'
+month: November
+pages: 120--141
+papis_id: cb6a69406ab6c2fa78bea82647e1de57
+ref: bundy.k.2006
+title: 'The Mass Assembly History of Field Galaxies: Detection of an Evolving Mass
+  Limit for Star-Forming Galaxies'
+type: article
+volume: '651'
+year: '2006'

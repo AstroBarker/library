@@ -1,0 +1,34 @@
+abstract: The accurate modelling of astrophysical scenarios involving compact objects
+  and magnetic fields, such as the collapse of rotating magnetized stars to black
+  holes or the phenomenology of gamma-ray bursts, requires the solution of the Einstein
+  equations together with those of general-relativistic magnetohydrodynamics. We present
+  a new numerical code developed to solve the full set of general-relativistic magnetohydrodynamics
+  equations in a dynamical and arbitrary spacetime with high-resolution shock-capturing
+  techniques on domains with adaptive mesh refinements. After a discussion of the
+  equations solved and of the techniques employed, we present a series of testbeds
+  carried out to validate the code and assess its accuracy. Such tests range from
+  the solution of relativistic Riemann problems in flat spacetime, over to the stationary
+  accretion onto a Schwarzschild black hole and up to the evolution of oscillating
+  magnetized stars in equilibrium and constructed as consistent solutions of the coupled
+  Einstein Maxwell equations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S.235G
+author: Giacomazzo, B. and Rezzolla, L.
+author_list:
+- family: Giacomazzo
+  given: B.
+- family: Rezzolla
+  given: L.
+date-added: 2017-08-10 20:07:42 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1088/0264-9381/24/12/S16
+eprint: gr-qc/0701109
+journal: Classical and Quantum Gravity
+month: June
+pages: S235-S258
+papis_id: a0909dcf277b1e64eaecd74a9edfb308
+ref: giacomazzo.b.2007
+title: 'WhiskyMHD: a new numerical code for general relativistic magnetohydrodynamics'
+type: article
+volume: '24'
+year: '2007'

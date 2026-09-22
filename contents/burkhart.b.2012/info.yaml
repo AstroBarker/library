@@ -1,0 +1,53 @@
+abstract: Faraday rotation of linearly polarized radio signals provides a very sensitive
+  probe of fluctuations in the interstellar magnetic field and ionized gas density
+  resulting from magnetohydrodynamic (MHD) turbulence. We used a set of statistical
+  tools to analyze images of the spatial gradient of linearly polarized radio emission
+  (\vert{}\nabla{}P\vert{}) for both observational data from a test image of the Southern
+  Galactic Plane Survey (SGPS) and isothermal three-dimensional simulations of MHD
+  turbulence. Visually, in both observations and simulations, a complex network of
+  filamentary structures is seen. Our analysis shows that the filaments in \vert{}\nabla{}P\vert{}
+  can be produced both by interacting shocks and random fluctuations characterizing
+  the non-differentiable field of MHD turbulence. The latter dominates for subsonic
+  turbulence, while the former is only present in supersonic turbulence. We show that
+  supersonic and subsonic turbulence exhibit different distributions as well as different
+  morphologies in the maps of \vert{}\nabla{}P\vert{}. Particularly, filaments produced
+  by shocks show a characteristic "double jump" profile at the sites of shock fronts
+  resulting from delta function-like increases in the density and/or magnetic field,
+  while those produced by subsonic turbulence show a single jump profile. In order
+  to quantitatively characterize these differences, we use the topology tool known
+  as the genus curve as well as the probability distribution function moments of the
+  image distribution. We find that higher values for the moments correspond to cases
+  of \vert{}\nabla{}P\vert{} with larger sonic Mach numbers. The genus analysis of
+  the supersonic simulations of \vert{}\nabla{}P\vert{} reveals a "swiss cheese" topology,
+  while the subsonic cases have characteristics of a "clump" topology. Based on the
+  analysis of the genus and the higher order moments, the SGPS test region data have
+  a distribution and morphology that match subsonic- to transonic-type turbulence,
+  which confirms what is now expected for the warm ionized medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749..145B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.3544
+author: Burkhart, B. and Lazarian, A. and Gaensler, B. M.
+author_list:
+- family: Burkhart
+  given: B.
+- family: Lazarian
+  given: A.
+- family: Gaensler
+  given: B. M.
+date-added: 2017-08-11 01:24:35 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/2/145
+eid: '145'
+eprint: '1111.3544'
+journal: \apj
+keywords: 'ISM: general, magnetohydrodynamics: MHD, polarization, shock waves, turbulence'
+month: April
+pages: '145'
+papis_id: 2b4a758de49fd58eafebdb40190c1e71
+ref: burkhart.b.2012
+title: Properties of Interstellar Turbulence from Gradients of Linear Polarization
+  Maps
+type: article
+volume: '749'
+year: '2012'

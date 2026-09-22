@@ -1,0 +1,54 @@
+abstract: In the cores of young dense star clusters, repeated stellar collisions involving
+  the same object can occur. It has been suggested that this leads to the formation
+  of an intermediate-mass black hole. To verify this scenario we compute the detailed
+  evolution of the merger remnant of three sequences, then follow the evolution until
+  the onset of carbon burning, and estimate the final remnant mass to determine the
+  ultimate fate of a runaway merger sequence. We use a detailed stellar evolution
+  code to follow the evolution of the collision product. At each collision we mix
+  the two colliding stars, accounting for the mass loss during the collision. During
+  the stellar evolution we apply mass-loss rates from the literature, as appropriate
+  for the evolutionary stage of the merger remnant. We computed models for high (Z
+  = 0.02) and low (Z = 0.001) metallicity to quantify metallicity effects. We find
+  that the merger remnant becomes a Wolf-Rayet star before the end of core hydrogen
+  burning. Mass loss from stellar winds dominates the mass increase due to repeated
+  mergers for all three merger sequences that we consider. In none of our high-metallicity
+  models an intermediate-mass black hole is formed, instead our models have a mass
+  of 10-14 {M}\_\&sun; at the onset of carbon burning. For low metallicity the final
+  remnant is more massive and may explode as a pair-creation supernova. We find that
+  our metal-rich models become inflated as a result of developing an extended low-density
+  envelope. This may increase the probability of further collisions, but self-consistent
+  N-body calculations with detailed evolution of runaway mergers are required to verify
+  this.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...497..255G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.1753
+author: Glebbeek, E. and Gaburov, E. and de Mink, S. E. and Pols, O. R. and Portegies
+  Zwart, S. F.
+author_list:
+- family: Glebbeek
+  given: E.
+- family: Gaburov
+  given: E.
+- family: de Mink
+  given: S. E.
+- family: Pols
+  given: O. R.
+- family: Portegies Zwart
+  given: S. F.
+date-added: 2017-08-10 14:17:54 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1051/0004-6361/200810425
+eprint: '0902.1753'
+journal: \aap
+keywords: 'stars: evolution, stars: formation, stars: mass-loss, galaxies: clusters:
+  general'
+month: April
+pages: 255--264
+papis_id: 8c1af593768430971e02ecaf6484e7a4
+primaryclass: astro-ph.SR
+ref: glebbeek.e.2009
+title: The evolution of runaway stellar collision products
+type: article
+volume: '497'
+year: '2009'

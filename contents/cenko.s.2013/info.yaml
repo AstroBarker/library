@@ -1,0 +1,112 @@
+abstract: 'We report the discovery by the Palomar Transient Factory (PTF) of the transient
+  source PTF11agg, which is distinguished by three primary characteristics: (1) bright
+  (R peak = 18.3 mag), rapidly fading (DeltaR = 4 mag in Deltat = 2 days) optical
+  transient emission; (2) a faint (R = 26.2 $\pm$ 0.2 mag), blue (g'' - R = 0.17 \$\pm\$
+  0.29 mag) quiescent optical counterpart; and (3) an associated year-long, scintillating
+  radio transient. We argue that these observed properties are inconsistent with any
+  known class of Galactic transients (flare stars, X-ray binaries, dwarf novae), and
+  instead suggest a cosmological origin. The detection of incoherent radio emission
+  at such distances implies a large emitting region, from which we infer the presence
+  of relativistic ejecta. The observed properties are all consistent with the population
+  of long-duration gamma-ray bursts (GRBs), marking the first time such an outburst
+  has been discovered in the distant universe independent of a high-energy trigger.
+  We searched for possible high-energy counterparts to PTF11agg, but found no evidence
+  for associated prompt emission. We therefore consider three possible scenarios to
+  account for a GRB-like afterglow without a high-energy counterpart: an "untriggered"
+  GRB (lack of satellite coverage), an "orphan" afterglow (viewing-angle effects),
+  and a "dirty fireball" (suppressed high-energy emission). The observed optical and
+  radio light curves appear inconsistent with even the most basic predictions for
+  off-axis afterglow models. The simplest explanation, then, is that PTF11agg is a
+  normal, on-axis long-duration GRB for which the associated high-energy emission
+  was simply missed. However, we have calculated the likelihood of such a serendipitous
+  discovery by PTF and find that it is quite small (\approx{}2.6\%). While not definitive,
+  we nonetheless speculate that PTF11agg may represent a new, more common (>4 times
+  the on-axis GRB rate at 90\% confidence) class of relativistic outbursts lacking
+  associated high-energy emission. If so, such sources will be uncovered in large
+  numbers by future wide-field optical and radio transient surveys.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...769..130C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1304.4236
+author: Cenko, S. B. and Kulkarni, S. R. and Horesh, A. and Corsi, A. and Fox, D.
+  B. and Carpenter, J. and Frail, D. A. and Nugent, P. E. and Perley, D. A. and Gruber,
+  D. and Gal-Yam, A. and Groot, P. J. and Hallinan, G. and Ofek, E. O. and Rau, A.
+  and MacLeod, C. L. and Miller, A. A. and Bloom, J. S. and Filippenko, A. V. and
+  Kasliwal, M. M. and Law, N. M. and Morgan, A. N. and Polishook, D. and Poznanski,
+  D. and Quimby, R. M. and Sesar, B. and Shen, K. J. and Silverman, J. M. and Sternberg,
+  A.
+author_list:
+- family: Cenko
+  given: S. B.
+- family: Kulkarni
+  given: S. R.
+- family: Horesh
+  given: A.
+- family: Corsi
+  given: A.
+- family: Fox
+  given: D. B.
+- family: Carpenter
+  given: J.
+- family: Frail
+  given: D. A.
+- family: Nugent
+  given: P. E.
+- family: Perley
+  given: D. A.
+- family: Gruber
+  given: D.
+- family: Gal-Yam
+  given: A.
+- family: Groot
+  given: P. J.
+- family: Hallinan
+  given: G.
+- family: Ofek
+  given: E. O.
+- family: Rau
+  given: A.
+- family: MacLeod
+  given: C. L.
+- family: Miller
+  given: A. A.
+- family: Bloom
+  given: J. S.
+- family: Filippenko
+  given: A. V.
+- family: Kasliwal
+  given: M. M.
+- family: Law
+  given: N. M.
+- family: Morgan
+  given: A. N.
+- family: Polishook
+  given: D.
+- family: Poznanski
+  given: D.
+- family: Quimby
+  given: R. M.
+- family: Sesar
+  given: B.
+- family: Shen
+  given: K. J.
+- family: Silverman
+  given: J. M.
+- family: Sternberg
+  given: A.
+date-added: 2017-08-11 08:00:37 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/769/2/130
+eid: '130'
+eprint: '1304.4236'
+journal: \apj
+keywords: 'gamma-ray burst: general, stars: flare, supernovae: general'
+month: June
+pages: '130'
+papis_id: 529a41cf9da2e8f10d34f43b1b6fa828
+ref: cenko.s.2013
+title: Discovery of a Cosmological, Relativistic Outburst via its Rapidly Fading Optical
+  Emission
+type: article
+volume: '769'
+year: '2013'

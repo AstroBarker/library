@@ -1,0 +1,53 @@
+abstract: The properties of the bright and energetic Type Ic SN 1997ef are investigated
+  using a Monte Carlo spectrum synthesis code. Analysis of the earliest spectra is
+  used to determine the time of outburst. The changing features of the spectrum and
+  the light curve are used to probe the ejecta and to determine their composition,
+  verifying the results of explosion calculations. Since synthetic spectra computed
+  using our best explosion model, CO100, are only moderately good reproductions of
+  the observations, the inverse approach is adopted, and a density structure is derived
+  by demanding that it gives the best possible fit to the observed spectrum at every
+  epoch analyzed. It is found that the density structure of model CO100 is adequate
+  at intermediate velocities (5000-25,000 km s-1), but that a slower density decline
+  (rho~r-4) is required to obtain the extensive line blending at high velocities (25,000-50,000
+  km s-1) that is the characterizing feature of this and other energetic Type Ic Supernovae.
+  Also, the inner ``hole'' in the density predicted by the model is found not to be
+  compatible with the observed evolution of the spectrum, which reaches very low photospheric
+  velocities at epochs of about 2 months. The ``best-fit'' density distribution results
+  in somewhat different parameters for the SN, namely an ejecta mass of 9.6 Msolar
+  (vs. 7.6 Msolar in CO100) and an explosion kinetic energy of 1.75\texttimes{}1052
+  ergs (vs. 8\texttimes{}1051 ergs in CO100). This revised value of the kinetic energy
+  brings SN 1997ef closer to the value for the ``prototypical'' Type Ic hypernova
+  SN 1998bw. The abundance distribution of model CO100 is found to hold well. The
+  modified density structure is used to compute a synthetic light curve, which is
+  found to agree very well with the observed bolometric light curve around maximum.
+  The amount of radioactive 56Ni produced by the SN is confirmed at 0.13 Msolar. In
+  the context of an axisymmetric explosion, a somewhat smaller kinetic energy than
+  that of SN 1998bw may have resulted from the nonalignment of the symmetry axis of
+  the SN and the line of sight. This might also explain the lack of evidence for a
+  gamma-ray burst correlated with SN 1997ef.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...545..407M
+arxivurl: http://arxiv.org/abs/astro-ph/0007222
+author: Mazzali, P. A. and Iwamoto, K. and Nomoto, K.
+author_list:
+- family: Mazzali
+  given: P. A.
+- family: Iwamoto
+  given: K.
+- family: Nomoto
+  given: K.
+date-added: 2017-08-10 16:53:46 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317808
+eprint: astro-ph/0007222
+journal: \apj
+keywords: 'Stars: Supernovae: General, supernovae: individual (SN 1997ef), Line: Formation,
+  Line: Identification, Line: Profiles'
+month: December
+pages: 407--419
+papis_id: 76ce2f3b67ceb5cceaf9ba3830eb0614
+ref: mazzali.p.2000
+title: A Spectroscopic Analysis of the Energetic Type Ic Hypernova SN 1997EF
+type: article
+volume: '545'
+year: '2000'

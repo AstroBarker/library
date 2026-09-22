@@ -1,0 +1,104 @@
+abstract: 'Aims: We investigate the global galaxy evolution over ~12 Gyr (0.05 <=
+  z <= 4.5), from the far ultraviolet (FUV) luminosity function (LF), luminosity density
+  (LD), and star formation rate density (SFRD), using the VIMOS-VLT Deep Survey (VVDS),
+  a single deep galaxy redshift survey with a well controlled selection function.  Methods:
+  We combine the VVDS Deep (17.5 <= IAB <= 24.0) and Ultra-Deep (23.00 <= i''AB <=
+  24.75) redshift surveys, totalizing ~11 000 galaxies, to estimate the rest-frame
+  FUV LF and LD, using a wide wavelength range of deep photometry (337 < lambda <
+  2310 nm). We extract the dust attenuation of the FUV radiation, embedded in the
+  well-constrained spectral energy distributions. We then derive the dust-corrected
+  SFRD.  Results: We find a constant and flat faint-end slope alpha in the FUV LF
+  at z < 1.7. At z > 1.7, we set alpha steepening with (1 + z). The absolute magnitude
+  M\textasteriskcenteredFUV steadily brightens in the entire range 0 < z < 4.5, and
+  at z > 2 it is on average brighter than in the literature, while phi\textasteriskcentered
+  is on average smaller. The evolution of our total LD shows a peak at z ~= 2, clearly
+  present also when considering all sources of uncertainty. The SFRD history peaks
+  as well at z ~= 2. It first steadily rises by a factor of ~6 during 2 Gyr (from
+  z = 4.5 to z = 2), and then decreases by a factor of ~12 during 10 Gyr down to z
+  = 0.05. This peak is mainly produced by a similar peak within the population of
+  galaxies with -21.5 <= MFUV <= - 19.5. As times goes by, the total SFRD is dominated
+  by fainter and fainter galaxies. The mean dust attenuation of the global galaxy
+  population rises fast by 1 mag during 2 Gyr from z ~= 4.5 to z ~ 2, reaches slowly
+  its maximum at z ~= 1 (AFUV ~= 2.2 mag), and then decreases by 1.1 mag during 7
+  Gyr down to z ~= 0.  Conclusions: We have derived the cosmic SFRD history and the
+  total dust amount in galaxies over a continuous period of ~12 Gyr, using a single
+  homogeneous spectroscopic redshift sample. The presence of a clear peak at z ~=
+  2 and a fast rise at z > 2 of the SFRD is compelling for models of galaxy formation.
+  This peak is mainly produced by bright galaxies (L \greaterequivlnt{} L\textasteriskcenteredz=2),
+  requiring that significant gas reservoirs still exist at this epoch and are probably
+  replenished by cold accretion and wet mergers, while feedback or quenching processes
+  are not yet strong enough to lower the SF. The dust attenuation maximum is reached
+  ~2 Gyr after the SFRD peak, implying a contribution from the intermediate-mass stars
+  to the dust production at z < 2.  Based on observations collected at the European
+  Organisation for Astronomical Research in the Southern Hemisphere, Chile under programs
+  072.A-0586 (GTO), 073.A-0647 (GTO) and 177.A-0837 (LP) at the Very Large Telescope,
+  Paranal, and based on observations obtained with MegaPrime/MegaCam, a joint project
+  of CFHT and CEA/DAPNIA, at the Canada-France-Hawaii Telescope (CFHT) which is operated
+  by the National Research Council (NRC) of Canada, the Institut National des Science
+  de l''Univers of the Centre National de la Recherche Scientifique (CNRS) of France,
+  and the University of Hawaii. This work is based in part on data products produced
+  at TERAPIX and the Canadian Astronomy Data Centre as part of the Canada-France-Hawaii
+  Telescope Legacy Survey, a collaborative project of NRC and CNRS.Appendices are
+  available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...539A..31C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1109.1005
+author: Cucciati, O. and Tresse, L. and Ilbert, O. and Le Fèvre, O. and Garilli, B.
+  and Le Brun, V. and Cassata, P. and Franzetti, P. and Maccagni, D. and Scodeggio,
+  M. and Zucca, E. and Zamorani, G. and Bardelli, S. and Bolzonella, M. and Bielby,
+  R. M. and McCracken, H. J. and Zanichelli, A. and Vergani, D.
+author_list:
+- family: Cucciati
+  given: O.
+- family: Tresse
+  given: L.
+- family: Ilbert
+  given: O.
+- family: Le Fèvre
+  given: O.
+- family: Garilli
+  given: B.
+- family: Le Brun
+  given: V.
+- family: Cassata
+  given: P.
+- family: Franzetti
+  given: P.
+- family: Maccagni
+  given: D.
+- family: Scodeggio
+  given: M.
+- family: Zucca
+  given: E.
+- family: Zamorani
+  given: G.
+- family: Bardelli
+  given: S.
+- family: Bolzonella
+  given: M.
+- family: Bielby
+  given: R. M.
+- family: McCracken
+  given: H. J.
+- family: Zanichelli
+  given: A.
+- family: Vergani
+  given: D.
+date-added: 2017-08-10 19:21:14 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1051/0004-6361/201118010
+eid: A31
+eprint: '1109.1005'
+journal: \aap
+keywords: 'cosmology: observations, galaxies: evolution, galaxies: high-redshift,
+  galaxies: luminosity function, mass function, galaxies: star formation'
+month: March
+pages: A31
+papis_id: bc7e0024afc8db3785b16fe66bcfbafe
+ref: cucciati.o.2012
+title: The star formation rate density and dust attenuation evolution over 12 Gyr
+  with the VVDS surveys
+type: article
+volume: '539'
+year: '2012'

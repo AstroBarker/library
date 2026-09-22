@@ -1,0 +1,66 @@
+abstract: The high-resolution X-ray spectrum of NGC 3783 shows several dozen absorption
+  lines and a few emission lines from the H-like and He-like ions of O, Ne, Mg, Si,
+  and S, as well as from Fe XVII-Fe XXIII L-shell transitions. We have reanalyzed
+  the Chandra HETGS spectrum using better flux and wavelength calibrations, along
+  with more robust methods. Combining several lines from each element, we clearly
+  demonstrate the existence of the absorption lines and determine that they are blueshifted
+  relative to the systemic velocity by -610+/-130 km s-1. We find the Ne absorption
+  lines in the High-Energy Grating spectrum to be resolved with FWHM=840+490-360 km
+  s-1; no other lines are resolved. The emission lines are consistent with being at
+  the systemic velocity. We have used regions in the spectrum where no lines are expected
+  to determine the X-ray continuum, and we model the absorption and emission lines
+  using photoionized-plasma calculations. The model consists of two absorption components,
+  with different covering factors, which have an order-of-magnitude difference in
+  their ionization parameters. The two components are spherically outflowing from
+  the active galactic nucleus, and thus contribute to both the absorption and the
+  emission via P Cygni profiles. The model also clearly requires O VII and O VIII
+  absorption edges. The low-ionization component of our model can plausibly produce
+  UV absorption lines with equivalent widths consistent with those observed from NGC
+  3783. However, we note that this result is highly sensitive to the unobservable
+  UV to X-ray continuum, and the available UV and X-ray observations cannot firmly
+  establish the relationship between the UV and X-ray absorbers. We find good agreement
+  between the Chandra spectrum and simultaneous ASCA and RXTE observations. The 1
+  keV deficit previously found when modeling ASCA data probably arises from iron L-shell
+  absorption lines not included in previous models. We also set an upper limit on
+  the FWHM of the narrow Fe Kalpha emission line of 3250 km s-1. This is consistent
+  with this line originating outside the broad-line region, possibly from a torus.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...554..216K
+arxivurl: http://arxiv.org/abs/astro-ph/0101540
+author: Kaspi, S. and Brandt, W. N. and Netzer, H. and George, I. M. and Chartas,
+  G. and Behar, E. and Sambruna, R. M. and Garmire, G. P. and Nousek, J. A.
+author_list:
+- family: Kaspi
+  given: S.
+- family: Brandt
+  given: W. N.
+- family: Netzer
+  given: H.
+- family: George
+  given: I. M.
+- family: Chartas
+  given: G.
+- family: Behar
+  given: E.
+- family: Sambruna
+  given: R. M.
+- family: Garmire
+  given: G. P.
+- family: Nousek
+  given: J. A.
+date-added: 2017-08-11 06:31:31 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321333
+eprint: astro-ph/0101540
+journal: \apj
+keywords: 'Galaxies: Active, galaxies: individual (NGC 3783), Galaxies: Nuclei, Galaxies:
+  Seyfert, Techniques: Spectroscopic, X-Rays: Galaxies'
+month: June
+pages: 216--232
+papis_id: 23618aa12ea3f955a5e9b05de8e55f74
+ref: kaspi.s.2001
+title: High-Resolution X-Ray Spectroscopy and Modeling of the Absorbing and Emitting
+  Outflow in NGC 3783
+type: article
+volume: '554'
+year: '2001'

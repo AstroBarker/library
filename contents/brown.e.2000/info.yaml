@@ -1,0 +1,42 @@
+abstract: 'A neutron star in a long-lived, low-mass binary can easily accrete enough
+  matter to replace its entire crust. Previous authors noted that an accreted crust,
+  being formed from the burning of accreted hydrogen and helium, allows a series of
+  nonequilibrium reactions, at densities >~6x1011 g cm-3, which release a substantial
+  amount of heat (~1 MeV per accreted nucleon). Recent calculations by Schatz et al.
+  showed that the crystalline lattice of an accreted crust is also likely to be quite
+  impure. This paper discusses the thermal structure of such a neutron star and surveys
+  how the crust reactions and impurities affect the crust temperature. During accretion
+  rapid enough to make the accreted hydrogen and helium burn stably (M~10-8 Msolar
+  yr-1; typical of the brightest low-mass neutron star binaries), most of the heat
+  released in the crust is conducted into the core, where neutrino emission regulates
+  the temperature. As a result there is an inversion of the thermal gradient: the
+  temperature decreases with depth in the inner crust. The thermal structure in the
+  crust at these high accretion rates is insensitive to the temperature in the hydrogen/helium
+  burning shell. When the crust is very impure, the temperature can reach ~8x108 K
+  at densities >~6x1011 g cm-3. This peak temperature depends mostly on the amount
+  of heat released and the thermal conductivity and in particular is roughly independent
+  of the core temperature. The high crust temperatures are sufficient to melt the
+  crystalline lattice in thin layers where electron captures have substantially reduced
+  the nuclear charge.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...531..988B
+arxivurl: http://arxiv.org/abs/astro-ph/9910215
+author: Brown, E. F.
+author_list:
+- family: Brown
+  given: E. F.
+date-added: 2017-08-11 08:11:45 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308487
+eprint: astro-ph/9910215
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, CONDUCTION, STARS: INTERIORS, STARS: NEUTRON'
+month: March
+pages: 988--1002
+papis_id: 0cfbfecf5566c9a26115d97b935a362a
+ref: brown.e.2000
+title: Nuclear Heating and Melted Layers in the Inner Crust of an Accreting Neutron
+  Star
+type: article
+volume: '531'
+year: '2000'

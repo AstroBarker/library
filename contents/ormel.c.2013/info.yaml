@@ -1,0 +1,48 @@
+abstract: A critical phase in the standard model for planet formation is the runaway
+  growth (RG) phase. During RG bodies in the 0.1-100 km size range (planetesimals)
+  quickly produce a number of much larger seeds. The RG phase is essential for planet
+  formation as the emergent planetary embryos can accrete the leftover planetesimals
+  at large gravitational focusing factors. However, torques resulting from turbulence-induced
+  density fluctuations may violate the criterion for the onset of RG, which is that
+  the magnitude of the planetesimals' random (eccentric) motions is less than their
+  escape velocity. This condition represents a more stringent constraint than the
+  condition that planetesimals survive their mutual collisions. To investigate the
+  effects of magneto-rotational instability turbulence on the viability of the RG
+  scenario, we apply our semi-analytical recipes of Paper I, which we augment by a
+  coagulation/fragmentation model for the dust component. We find that the surface-area-equivalent
+  abundance of 0.1 mum particles is reduced by factors 102-103, which tends to render
+  the dust irrelevant to the turbulence. We express the turbulent activity in the
+  midplane regions in terms of a size s run above which planetesimals will experience
+  RG. We find that s run is mainly determined by the strength of the vertical net
+  field that threads the disks and the disk radius. At disk radii beyond 5 AU, s run
+  becomes larger than ~100 km and the collision times among these bodies longer than
+  the duration of the nebula phase. Our findings imply that the classical, planetesimal-dominated
+  model for planet formation is not viable in the outer regions of a turbulent disk.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...771...44O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.1890
+author: Ormel, C. W. and Okuzumi, S.
+author_list:
+- family: Ormel
+  given: C. W.
+- family: Okuzumi
+  given: S.
+date-added: 2017-08-10 14:48:42 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/771/1/44
+eid: '44'
+eprint: '1305.1890'
+journal: \apj
+keywords: 'dust, extinction, magnetic fields, planets and satellites: formation, protoplanetary
+  disks, turbulence'
+month: July
+pages: '44'
+papis_id: ea8aa207122088d95f3f8f812e48ba07
+primaryclass: astro-ph.EP
+ref: ormel.c.2013
+title: The Fate of Planetesimals in Turbulent Disks with Dead Zones. II. Limits on
+  the Viability of Runaway Accretion
+type: article
+volume: '771'
+year: '2013'

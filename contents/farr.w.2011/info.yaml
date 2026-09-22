@@ -1,0 +1,47 @@
+abstract: 'The system PSR J0737-3039 is the only binary pulsar known to consist of
+  two radio pulsars (PSR J0737-3039 A and PSR J0737-3039 B). This unique configuration
+  allows measurements of spin orientation for both pulsars: pulsar A''s spin is tilted
+  from the orbital angular momentum by no more than 14 deg at 95\% confidence; pulsar
+  B''s by 130 $\pm$ 1 deg at 99.7\% confidence. This spin-spin misalignment requires
+  that the origin of most of B''s present-day spin is connected to the supernova that
+  formed pulsar B. Under the simplified assumption of a single, instantaneous kick
+  during the supernova, the spin could be thought of as originating from the off-center
+  nature of the kick, causing pulsar B to tumble to its misaligned state. With this
+  assumption, and using current constraints on the kick magnitude, we find that pulsar
+  B''s instantaneous kick must have been displaced from the center of mass of the
+  exploding star by at least 1 km and probably 5-10 km. Regardless of the details
+  of the kick mechanism and the process that produced pulsar B''s current spin, the
+  measured spin-spin misalignment in the double pulsar system provides an empirical,
+  direct constraint on the angular momentum production in this supernova. This constraint
+  can be used to guide core-collapse simulations and the quest for understanding the
+  spins and kicks of compact objects.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742...81F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.5001
+author: Farr, W. M. and Kremer, K. and Lyutikov, M. and Kalogera, V.
+author_list:
+- family: Farr
+  given: W. M.
+- family: Kremer
+  given: K.
+- family: Lyutikov
+  given: M.
+- family: Kalogera
+  given: V.
+date-added: 2017-08-10 22:06:25 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/742/2/81
+eid: '81'
+eprint: '1104.5001'
+journal: \apj
+keywords: 'pulsars: individual: J0737{\ndash}3039, supernovae: general'
+month: December
+pages: '81'
+papis_id: 0188756a07cd0777abad46fd15ace046
+primaryclass: astro-ph.HE
+ref: farr.w.2011
+title: Spin Tilts in the Double Pulsar Reveal Supernova Spin Angular-momentum Production
+type: article
+volume: '742'
+year: '2011'

@@ -1,0 +1,50 @@
+abstract: We investigate the rates at which energy is supplied to individual p-modes
+  as a function of their frequencies nu and angular degrees l. The observationally
+  determined rates are compared with those calculated on the hypothesis that the modes
+  are stochastically excited by turbulent convection. The observationally determined
+  excitation rate is assumed to be equal to the product of the mode's energy E and
+  its (radian) line width Gamma. We obtain E from the mode's mean square surface velocity
+  with the aid of its velocity eigenfuction. We assume that Gamma measures the mode's
+  energy decay rate, even though quasi-elastic scattering may dominate true absorption.
+  At fixed l, E(Gamma) arises as nu7 at low nu, reaches a peak at nu approximately
+  equal 3.5 mHz, and then declines as nu4.4 at higher nu . At fixed nu, E(Gamma) exhibits
+  a slow decline with increasing l. To calculate energy input rates, Palpha, we rely
+  on the mixing-length model of turbulent convection. We find entropy fluctuations
+  to be about an order of magnitude more effective than the Reynolds stress in exciting
+  p-modes . The calculated Palpha mimic the nu7 dependence of E(Gamma) at low nu and
+  the nu-4.4 dependence at high nu. The break of 11.4 powers in the nu-dependence
+  of E(Gamma) across its peak is attributed to a combination of (1) the reflection
+  of high-frequency acoustic waves just below the photosphere where the scale height
+  drops precipitously and (2) the absence of energy-bearing eddies with short enough
+  correlation times to excite high-frequency modes. Two parameters associated with
+  the eddy correlation time are required to match the location and shape of the break.
+  The appropriate values of these parameters, while not unnatural, are poorly constrained
+  by theory. The calculated Palpha can also be made to fit the magnitude of E(Gamma)
+  with a reasonable value for the eddy aspect ratio. Our resutls suggest a possible
+  explanation for the decline of mode energy with increasing l at fixed nu. Entropy
+  fluctuations couple to changes in volume associated with the oscillation mode. These
+  decrease with decreasing n at fixed nu, becoming almost zero for the f-mode.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...424..466G
+author: Goldreich, P. and Murray, N. and Kumar, P.
+author_list:
+- family: Goldreich
+  given: P.
+- family: Murray
+  given: N.
+- family: Kumar
+  given: P.
+date-added: 2017-08-10 19:22:18 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173904
+journal: \apj
+keywords: Acoustic Excitation, Entropy, Solar Convection (Astronomy), Sound Waves,
+  Stellar Models, Sun, Turbulence, P Waves, Solar Atmosphere, Wave Equations
+month: March
+pages: 466--479
+papis_id: f27b783ac7a3a0b781c28a0d1f93a526
+ref: goldreich.p.1994
+title: Excitation of solar p-modes
+type: article
+volume: '424'
+year: '1994'

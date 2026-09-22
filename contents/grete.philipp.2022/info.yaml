@@ -1,0 +1,46 @@
+abstract: Magnetized turbulence is ubiquitous in many astrophysical and         terrestrial
+  plasmas but no universal theory exists. Even the         detailed energy dynamics
+  in magnetohydrodynamic (MHD) turbulence         are still not well understood. We
+  present a suite of subsonic,         super-Alfv{\'e}nic, high plasma-beta MHD turbulence
+  simulations         that only vary in their dynamical range, i.e., in their         separation
+  between the large-scale forcing and dissipation         scales, and their dissipation
+  mechanism (implicit large eddy         simulation, ILES, versus and direct numerical
+  simulation, DNS).         Using an energy transfer analysis framework we calculate
+  the         effective, numerical viscosities and resistivities and         demonstrate
+  and that all ILES calculations of MHD turbulence are         resolved and correspond
+  to an equivalent visco-resistive MHD         turbulence calculation. Increasing
+  the number of grid points         used in an ILES corresponds to lowering the dissipation         coefficients,
+  i.e., larger (kinetic and magnetic) Reynolds         numbers for a constant forcing
+  scale. Independently, we use this         same framework to demonstrate that --
+  contrary to hydrodynamic         turbulence -- the cross-scale energy fluxes are
+  not constant in         MHD turbulence. This applies both to different mediators
+  (such         as cascade processes or magnetic tension) for a given dynamical         range
+  as well as to a dependence on the dynamical range itself,         which determines
+  the physical properties of the flow. We do not         observe any indication of
+  convergence even at the highest         resolution (largest Reynolds numbers) simulation
+  at $2{,}048^3$         cells, calling into question whether an asymptotic regime
+  in MHD         turbulence exists, and, if so, what it looks like.
+archiveprefix: arXiv
+author: Grete, Philipp and O'Shea, Brian W. and Beckwith, Kris
+author_list:
+- family: Grete
+  given: Philipp
+- family: O'Shea
+  given: Brian W.
+- family: Beckwith
+  given: Kris
+eid: arXiv:2211.09750
+eprint: '2211.09750'
+journal: arXiv e-prints
+keywords: Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical
+  Phenomena, Astrophysics - Solar and Stellar Astrophysics, Physics - Fluid Dynamics,
+  Physics - Plasma Physics
+month: November
+pages: arXiv:2211.09750
+papis_id: 547a9ae7df66bafadd34cf127c8eb334
+primaryclass: astro-ph.GA
+ref: grete.philipp.2022
+title: As a matter of dynamical range -- scale dependent energy dynamics in MHD turbulence
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2022arXiv221109750G
+year: '2022'

@@ -1,0 +1,42 @@
+abstract: We derive from first principles the equations which govern the behavior
+  of small-amplitude fluctuations in a homogeneous and isotropic radiating fluid.
+  Products of the fluctuating quantities are shown to obey a wave-energy conservation
+  law from which it follows that all perturbations must ultimately decay in time.
+  Under fairly general circumstances the governing equations may be solved through
+  the use of integral transforms which affords an accounting of the various wave modes
+  supported by the radiating fluid. In addition to the familiar radiatively modified
+  acoustic mode, the radiation-diffusion mode, the radiative-relaxation mode, and
+  the isotropization and exchange modes which constitute the discrete spectrum of
+  the differential equation, we find a continuous spectrum of wave modes associated
+  with the "collisionless" nature of the photons on timescales short compared to the
+  photon lifetime. This continuous spectrum is eliminated if an Eddington approximation
+  is used to close the hierarchy of equations that relate the fluctuating angular
+  moments of the radiation field. Quantitative results are obtained for the simple
+  case in which the opacity may be regarded as being independent of the frequency
+  of the photon and the source function may be approximated by the (local) Planck
+  function.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...456..879B
+author: Bogdan, T. J. and Knoelker, M. and MacGregor, K. B. and Kim, E.-J.
+author_list:
+- family: Bogdan
+  given: T. J.
+- family: Knoelker
+  given: M.
+- family: MacGregor
+  given: K. B.
+- family: Kim
+  given: E.-J.
+date-added: 2017-08-11 00:47:35 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176704
+journal: \apj
+keywords: 'HYDRODYNAMICS, RADIATIVE TRANSFER, SUN: OSCILLATIONS, WAVES'
+month: January
+pages: '879'
+papis_id: 5680468ba74fc7e54fa100db62bfb728
+ref: bogdan.t.1996
+title: Waves in Radiating Fluids
+type: article
+volume: '456'
+year: '1996'

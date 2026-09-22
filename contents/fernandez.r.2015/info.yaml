@@ -1,0 +1,43 @@
+abstract: We investigate the effect of dimensionality on the transition to explosion
+  in neutrino-driven core-collapse supernovae. Using parametrized hydrodynamic simulations
+  of the stalled supernova shock in one, two (2D), and three spatial dimensions (3D),
+  we systematically probe the extent to which hydrodynamic instabilities alone can
+  tip the balance in favour of explosion. In particular, we focus on systems that
+  are well into the regimes where the standing accretion shock instability (SASI)
+  or neutrino-driven convection dominates the dynamics. We find that SASI-dominated
+  models can explode with up to \texttildelow{}20 per cent lower neutrino luminosity
+  in 3D than in 2D, with the magnitude of this difference decreasing with increasing
+  resolution. This improvement in explosion conditions is related to the ability of
+  spiral modes to generate more non-radial kinetic energy than a single sloshing mode,
+  increasing the size of the average shock radius, and hence generating better conditions
+  for the formation of large-scale, high-entropy bubbles. In contrast, convection-dominated
+  explosions show a smaller difference in their critical heating rate between 2D and
+  3D (<8 per cent), in agreement with previous studies. The ability of our numerical
+  implementation to maintain arbitrary symmetries is quantified with a set of SASI-based
+  tests. We discuss implications for the diversity of explosion paths in a realistic
+  supernova environment.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.452.2071F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1504.07996
+author: Fernández, R.
+author_list:
+- family: Fernández
+  given: R.
+date-added: 2017-08-10 13:51:20 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1093/mnras/stv1463
+eprint: '1504.07996'
+journal: \mnras
+keywords: 'hydrodynamics, instabilities, neutrinos, nuclear reactions, nucleosynthesis,
+  abundances, shock waves, supernovae: general'
+month: September
+pages: 2071--2086
+papis_id: c70b5c09e768f6fcdf919e577627495e
+primaryclass: astro-ph.HE
+ref: fernandez.r.2015
+title: Three-dimensional simulations of SASI- and convection-dominated core-collapse
+  supernovae
+type: article
+volume: '452'
+year: '2015'

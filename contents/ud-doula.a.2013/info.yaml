@@ -1,0 +1,56 @@
+abstract: We present the first fully 3D magnetohydrodynamic (MHD) simulation for magnetic
+  channelling and confinement of a radiatively driven, massive-star wind. The specific
+  parameters are chosen to represent the prototypical slowly rotating magnetic O star
+  theta1 Ori C, for which centrifugal and other dynamical effects of rotation are
+  negligible. The computed global structure in latitude and radius resembles that
+  found in previous 2D simulations, with unimpeded outflow along open field lines
+  near the magnetic poles, and a complex equatorial belt of inner wind trapping by
+  closed loops near the stellar surface, giving way to outflow above the Alfv{\'e}n
+  radius. In contrast to this previous 2D work, the 3D simulation described here now
+  also shows how this complex structure fragments in azimuth, forming distinct clumps
+  of closed loop infall within the Alfv{\'e}n radius, transitioning in the outer wind
+  to radial spokes of enhanced density with characteristic azimuthal separation of
+  15$\,^{\circ}$-20\$\,^{\circ}\$. Applying these results in a 3D code for line radiative
+  transfer, we show that emission from the associated 3D `dynamical magnetosphere'
+  matches well the observed Halpha emission seen from theta1 Ori C, fitting both its
+  dynamic spectrum over rotational phase and the observed level of cycle-to-cycle
+  stochastic variation. Comparison with previously developed 2D models for the Balmer
+  emission from a dynamical magnetosphere generally confirms that time averaging over
+  2D snapshots can be a good proxy for the spatial averaging over 3D azimuthal wind
+  structure. Nevertheless, fully 3D simulations will still be needed to model the
+  emission from magnetospheres with non-dipole field components, such as suggested
+  by asymmetric features seen in the Halpha equivalent-width curve of theta1 Ori C.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.2723U
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.5298
+author: ud-Doula, A. and Sundqvist, J. O. and Owocki, S. P. and Petit, V. and Townsend,
+  R. H. D.
+author_list:
+- family: ud-Doula
+  given: A.
+- family: Sundqvist
+  given: J. O.
+- family: Owocki
+  given: S. P.
+- family: Petit
+  given: V.
+- family: Townsend
+  given: R. H. D.
+date-added: 2017-08-10 19:28:10 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts246
+eprint: '1210.5298'
+journal: \mnras
+keywords: 'MHD, magnetic fields, stars: early-type, stars: mass-loss, stars: rotation,
+  stars: winds, outflows'
+month: January
+pages: 2723--2730
+papis_id: c15bbe61dd64595608abe6a11df6c70e
+primaryclass: astro-ph.SR
+ref: ud_doula.a.2013
+title: First 3DMHD simulation of a massive-star magnetosphere with application to
+  H$α$ emission from þetas\$^1\$ Ori C
+type: article
+volume: '428'
+year: '2013'

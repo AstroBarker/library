@@ -1,0 +1,42 @@
+abstract: We explore the three-dimensional properties of convective, luminous ($L\approx10^{4.5}-10^{5}L_\odot$),
+  Hydrogen-rich envelopes of Red Supergiants (RSGs) based on radiation hydrodynamic
+  simulations in spherical geometry using \$\texttt{Athena++}\$. These computations
+  comprise \$\approx30\%\$ of the stellar volume, include gas and radiation pressure,
+  and self-consistently track the gravitational potential for the outer \$\approx
+  3M\_\odot\$ of the simulated \$M\approx15M\_\odot\$ stars. This work reveals a radius,
+  \$R\_\mathrm{corr}\$, around which the nature of the convection changes. For \$r>R\_\mathrm{corr}\$,
+  though still optically thick, diffusion of photons dominates the energy transport.
+  Such a regime is well-studied in less luminous stars, but in RSGs, the near- (or
+  above-) Eddington luminosity (due to opacity enhancements at ionization transitions)
+  leads to the unusual outcome of denser regions moving outwards rather than inward.
+  This region of the star also has a large amount of turbulent pressure, yielding
+  a density structure much more extended than 1D stellar evolution predicts. This
+  "halo" of material will impact predictions for both shock breakout and early lightcurves
+  of Type II-P supernovae. Inside of \$R\_\mathrm{corr}\$, we find a nearly flat entropy
+  profile as expected in the efficient regime of mixing-length-theory (MLT). Radiation
+  pressure provides \$\approx1/3\$ of the support against gravity in this region.
+  Our comparisons to MLT suggest a mixing length of \$\alpha=3-4\$, consistent with
+  the sizes of convective plumes seen in the simulations. The temporal variability
+  of these 3D models is mostly on the timescale of the convective plume lifetimes
+  (\$\approx300\$ days), with amplitudes consistent with those observed photometrically.
+archiveprefix: arXiv
+author: Goldberg, Jared A. and Jiang, Yan-Fei and Bildsten, Lars
+author_list:
+- family: Goldberg
+  given: Jared A.
+- family: Jiang
+  given: Yan-Fei
+- family: Bildsten
+  given: Lars
+eprint: '2110.03261'
+file: :goldberg\_2021 - Numerical Simulations of Convective 3 Dimensional Red Supergiant
+  Envelopes.pdf:PDF
+groups: Progenitor
+keywords: astro-ph.SR
+month: October
+papis_id: 4d788f2ed443d021683cb718c39a3867
+primaryclass: astro-ph.SR
+ref: goldberg.jared.2021
+title: Numerical Simulations of Convective 3-Dimensional Red Supergiant Envelopes
+type: article
+year: '2021'

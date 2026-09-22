@@ -1,0 +1,44 @@
+abstract: We study the dynamical evolution of a test particle that orbits a star in
+  the presence of an exterior massive planet, considering octupole-order secular interactions.
+  In the standard Kozai mechanism (SKM), the planet's orbit is circular and so the
+  particle conserves vertical angular momentum. As a result, the particle's orbit
+  oscillates periodically, exchanging eccentricity for inclination. However, when
+  the planet's orbit is eccentric, the particle's vertical angular momentum varies
+  and its Kozai oscillations are modulated on longer timescales---we call this the
+  eccentric Kozai mechanism (EKM). The EKM can lead to behavior that is dramatically
+  different from the SKM. In particular, the particle's orbit can flip from prograde
+  to retrograde and back again, and it can reach arbitrarily high eccentricities given
+  enough time. We map out the conditions under which this dramatic behavior (flipping
+  and extreme eccentricities) occurs and show that when the planet's eccentricity
+  is sufficiently high, it occurs quite generically. For example, when the planet's
+  eccentricity exceeds a few percent of the ratio of semimajor axes (outer to inner),
+  around half of randomly oriented test particle orbits will flip and reach extreme
+  eccentricities. The SKM has often been invoked for bringing pairs of astronomical
+  bodies (star-star, planet-star, compact-object pairs) close together. Including
+  the effect of the EKM will enhance the rate at which such matchmaking occurs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742...94L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.3329
+author: Lithwick, Y. and Naoz, S.
+author_list:
+- family: Lithwick
+  given: Y.
+- family: Naoz
+  given: S.
+date-added: 2017-08-10 16:11:46 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/742/2/94
+eid: '94'
+eprint: '1106.3329'
+journal: \apj
+keywords: 'gravitation, planets and satellites: dynamical evolution and stability'
+month: December
+pages: '94'
+papis_id: cb4fd80de342597f431d35a008abd673
+primaryclass: astro-ph.EP
+ref: lithwick.y.2011
+title: The Eccentric Kozai Mechanism for a Test Particle
+type: article
+volume: '742'
+year: '2011'

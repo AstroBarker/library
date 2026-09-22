@@ -1,0 +1,28 @@
+abstract: We are in the process of updating and extending the OPAL equation-of-state
+  (EOS) and opacity data to include low-mass stars. The EOS part of that effort now
+  is complete, and the results are described herein. The new data cover main-sequence
+  stars having mass >=0.1 Msolar. As a result of the more extreme matter conditions
+  encountered with low-mass stars, we have added new physics. The electrons are now
+  treated as relativistic, and we have improved our treatment of molecules. We also
+  consider the implications of the new results for helioseismology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...576.1064R
+author: Rogers, F. J. and Nayfonov, A.
+author_list:
+- family: Rogers
+  given: F. J.
+- family: Nayfonov
+  given: A.
+date-added: 2017-08-10 20:47:26 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/341894
+journal: \apj
+keywords: 'Atomic Processes, Equation of State, Sun: Oscillations'
+month: September
+pages: 1064--1074
+papis_id: 5002d292081c1aa0d25d95603323bee0
+ref: rogers.f.2002
+title: 'Updated and Expanded OPAL Equation-of-State Tables: Implications for Helioseismology'
+type: article
+volume: '576'
+year: '2002'

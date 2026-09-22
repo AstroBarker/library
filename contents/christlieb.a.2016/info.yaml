@@ -1,0 +1,64 @@
+abstract: We propose a high-order finite difference weighted ENO (WENO) method for
+  the ideal magnetohydrodynamics (MHD) equations. The proposed method is single-stage
+  (i.e., it has no internal stages to store), single-step (i.e., it has no time history
+  that needs to be stored), maintains a discrete divergence-free condition on the
+  magnetic field, and has the capacity to preserve the positivity of the density and
+  pressure. To accomplish this, we use a Taylor discretization of the Picard integral
+  formulation (PIF) of the finite difference WENO method proposed in Christlieb et
+  al. (2015) [23], where the focus is on a high-order discretization of the fluxes
+  (as opposed to the conserved variables). We use the version where fluxes are expanded
+  to third-order accuracy in time, and for the fluid variables space is discretized
+  using the classical fifth-order finite difference WENO discretization. We use constrained
+  transport in order to obtain divergence-free magnetic fields, which means that we
+  simultaneously evolve the magnetohydrodynamic (that has an evolution equation for
+  the magnetic field) and magnetic potential equations alongside each other, and set
+  the magnetic field to be the (discrete) curl of the magnetic potential after each
+  time step. In this work, we compute these derivatives to fourth-order accuracy.
+  In order to retain a single-stage, single-step method, we develop a novel Lax-Wendroff
+  discretization for the evolution of the magnetic potential, where we start with
+  technology used for Hamilton-Jacobi equations in order to construct a non-oscillatory
+  magnetic field. The end result is an algorithm that is similar to our previous work
+  Christlieb et al. (2014) [8], but this time the time stepping is replaced through
+  a Taylor method with the addition of a positivity-preserving limiter. Finally, positivity
+  preservation is realized by introducing a parameterized flux limiter that considers
+  a linear combination of high and low-order numerical fluxes. The choice of the free
+  parameter is then given in such a way that the fluxes are limited towards the low-order
+  solver until positivity is attained. Given the lack of additional degrees of freedom
+  in the system, this positivity limiter lacks energy conservation where the limiter
+  turns on. However, this ingredient can be dropped for problems where the pressure
+  does not become negative. We present two and three dimensional numerical results
+  for several standard test problems including a smooth Alfv{\'e}n wave (to verify
+  formal order of accuracy), shock tube problems (to test the shock-capturing ability
+  of the scheme), Orszag-Tang, and cloud shock interactions. These results assert
+  the robustness and verify the high-order of accuracy of the proposed scheme.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016JCoPh.316..218C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1509.09208
+author: Christlieb, A. J. and Feng, X. and Seal, D. C. and Tang, Q.
+author_list:
+- family: Christlieb
+  given: A. J.
+- family: Feng
+  given: X.
+- family: Seal
+  given: D. C.
+- family: Tang
+  given: Q.
+date-added: 2017-08-10 14:03:13 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1016/j.jcp.2016.04.016
+eprint: '1509.09208'
+journal: Journal of Computational Physics
+keywords: Magnetohydrodynamics, Finite difference WENO, Lax-Wendroff, Constrained
+  transport, Positivity preserving, High order
+month: July
+pages: 218--242
+papis_id: c03a94cded65bd2a6585df57c67ef24c
+primaryclass: math.NA
+ref: christlieb.a.2016
+title: A high-order positivity-preserving single-stage single-step method for the
+  ideal magnetohydrodynamic equations
+type: article
+volume: '316'
+year: '2016'

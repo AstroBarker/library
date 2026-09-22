@@ -1,0 +1,37 @@
+abstract: A collection is presented of MHD problems that will provide researchers
+  who have interests in modeling MHD phenomena with a battery of tests (a 'test suite')
+  for calibrating their numerical algorithms. Use of these tests will provide a common
+  reference for comparison of different numerical MHD algorithms. The test suite includes
+  both 1D and 2D problems. Taken together, these problems test the abilities of a
+  numerical method to propagate accurately all of the MHD wave families in moving
+  and stationary media, to capture MHD shocks and contact discontinuities, and to
+  model accurately Lorentz force terms in multiple dimensions. An example solution
+  of each test problem is presented. Diagnostic convergence-testing procedures that
+  provide a quantitative evaluation of MHD algorithms are demonstrated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...388..415S
+author: Stone, J. M. and Hawley, J. F. and Evans, C. R. and Norman, M. L.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Hawley
+  given: J. F.
+- family: Evans
+  given: C. R.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 07:46:19 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171164
+journal: \apj
+keywords: Interstellar Magnetic Fields, Lorentz Force, Magnetohydrodynamic Waves,
+  Shock Discontinuity, Algorithms, Interstellar Matter, Molecular Clouds, Shock Tubes,
+  Star Formation, Wave Propagation
+month: April
+pages: 415--437
+papis_id: 1f1040a74dd0e29f54a1ca10b66eb379
+ref: stone.j.1992
+title: A test suite for magnetohydrodynamical simulations
+type: article
+volume: '388'
+year: '1992'

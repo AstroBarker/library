@@ -1,0 +1,43 @@
+abstract: In proto-neutron stars with strong magnetic fields, the cross section for
+  nue (nu\textasciimacron{}e) absorption on neutrons (protons) depends on the local
+  magnetic field strength resulting from the quantization of energy levels for the
+  e- (e+) produced in the final state. If the neutron star possesses an asymmetric
+  magnetic field topology in the sense that the magnitude of magnetic field in the
+  north pole is different from that in the south pole, then asymmetric neutrino emission
+  may be generated. We calculate the absorption cross sections of nue and nu\textasciimacron{}e
+  in strong magnetic fields as a function of the neutrino energy. These cross sections
+  exhibit oscillatory behaviors that occur because new Landau levels for the e- (e+)
+  become accessible as the neutrino energy increases. By evaluating the appropriately
+  averaged neutrino opacities, we demonstrate that the change in the local neutrino
+  flux caused by the modified opacities is rather small. To generate appreciable kick
+  velocity (~300 km s-1) to the newly formed neutron star, the difference between
+  the field strengths at the two opposite poles of the star must be at least 1016
+  G. We also consider the magnetic field effect on the spectral neutrino energy fluxes.
+  The oscillatory features in the absorption opacities give rise to modulations in
+  the emergent spectra of nue and nu\textasciimacron{}e.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...505..844L
+arxivurl: http://arxiv.org/abs/astro-ph/9802345
+author: Lai, D. and Qian, Y.-Z.
+author_list:
+- family: Lai
+  given: D.
+- family: Qian
+  given: Y.-Z.
+date-added: 2017-08-11 01:51:50 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306203
+eprint: astro-ph/9802345
+journal: \apj
+keywords: 'DENSE MATTER, MAGNETIC FIELDS, STARS: PULSARS: GENERAL, RADIATIVE TRANSFER,
+  STARS: NEUTRON, STARS: SUPERNOVAE: GENERAL, Dense Matter, Magnetic Fields, Stars:
+  Pulsars: General, Radiative Transfer, Stars: Neutron, Stars: Supernovae: General'
+month: October
+pages: 844--853
+papis_id: 4e3869e8114025f494bc323e21fa1ffb
+ref: lai.d.1998
+title: 'Neutrino Transport in Strongly Magnetized Proto-Neutron Stars and the Origin
+  of Pulsar Kicks: The Effect of Asymmetric Magnetic Field Topology'
+type: article
+volume: '505'
+year: '1998'

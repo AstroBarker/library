@@ -1,0 +1,37 @@
+abstract: 'Aims: We present first results and tests of a time-dependent extension
+  to the general purpose model atmosphere code PHOENIX. We aim to produce light curves
+  and spectra of hydro models for all types of supernovae. Methods: We extend our
+  model atmosphere code PHOENIX to solve time-dependent non-grey, NLTE, radiative
+  transfer in a special relativistic framework. A simple hydrodynamics solver was
+  implemented to keep track of the energy conservation of the atmosphere during free
+  expansion.  Results: The correct operation of the new additions to PHOENIX were
+  verified in test calculations.  Conclusions: We have shown the correct operation
+  of our extension to time-dependent radiative transfer and will be able to calculate
+  supernova light curves and spectra in future work.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...502.1043J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.1441
+author: Jack, D. and Hauschildt, P. H. and Baron, E.
+author_list:
+- family: Jack
+  given: D.
+- family: Hauschildt
+  given: P. H.
+- family: Baron
+  given: E.
+date-added: 2017-08-11 08:05:30 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1051/0004-6361/200810982
+eprint: '0907.1441'
+journal: \aap
+keywords: 'stars: supernovae: general, radiative transfer, methods: numerical'
+month: August
+pages: 1043--1049
+papis_id: eb83296dc86be7e05365a5f4898c62c3
+primaryclass: astro-ph.IM
+ref: jack.d.2009
+title: Time-dependent radiative transfer with PHOENIX
+type: article
+volume: '502'
+year: '2009'

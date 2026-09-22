@@ -1,0 +1,132 @@
+abstract: 'We present the HIPASS Bright Galaxy Catalog (BGC), which contains the 1000
+  H I brightest galaxies in the southern sky as obtained from the H I Parkes All-Sky
+  Survey (HIPASS). The selection of the brightest sources is based on their H I peak
+  flux density (Speak>~116 mJy) as measured from the spatially integrated HIPASS spectrum.
+  The derived H I masses range from ~107 to 4\texttimes{}1010 Msolar. While the BGC
+  (z<0.03) is complete in Speak, only a subset of ~500 sources can be considered complete
+  in integrated H I flux density (FHI>~25 Jy km s-1). The HIPASS BGC contains a total
+  of 158 new redshifts. These belong to 91 new sources for which no optical or infrared
+  counterparts have previously been cataloged, an additional 51 galaxies for which
+  no redshifts were previously known, and 16 galaxies for which the cataloged optical
+  velocities disagree. Of the 91 newly cataloged BGC sources, only four are definite
+  H I clouds: while three are likely Magellanic debris with velocities around 400
+  km s-1, one is a tidal cloud associated with the NGC 2442 galaxy group. The remaining
+  87 new BGC sources, the majority of which lie in the zone of avoidance, appear to
+  be galaxies. We identified optical counterparts to all but one of the 30 new galaxies
+  at Galactic latitudes \vert{}b\vert{}>10deg. Therefore, the BGC yields no evidence
+  for a population of ``free-floating'''' intergalactic H I clouds without associated
+  optical counterparts. HIPASS provides a clear view of the local large-scale structure.
+  The dominant features in the sky distribution of the BGC are the Supergalactic Plane
+  and the Local Void. In addition, one can clearly see the Centaurus Wall, which connects
+  via the Hydra and Antlia Clusters to the Puppis Filament. Some previously hardly
+  noticable galaxy groups stand out quite distinctly in the H I sky distribution.
+  Several new structures, including some not behind the Milky Way, are seen for the
+  first time.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004AJ....128...16K
+arxivurl: http://arxiv.org/abs/astro-ph/0404436
+author: Koribalski, B. S. and Staveley-Smith, L. and Kilborn, V. A. and Ryder, S.
+  D. and Kraan-Korteweg, R. C. and Ryan-Weber, E. V. and Ekers, R. D. and Jerjen,
+  H. and Henning, P. A. and Putman, M. E. and Zwaan, M. A. and de Blok, W. J. G. and
+  Calabretta, M. R. and Disney, M. J. and Minchin, R. F. and Bhathal, R. and Boyce,
+  P. J. and Drinkwater, M. J. and Freeman, K. C. and Gibson, B. K. and Green, A. J.
+  and Haynes, R. F. and Juraszek, S. and Kesteven, M. J. and Knezek, P. M. and Mader,
+  S. and Marquarding, M. and Meyer, M. and Mould, J. R. and Oosterloo, T. and O'Brien,
+  J. and Price, R. M. and Sadler, E. M. and Schröder, A. and Stewart, I. M. and Stootman,
+  F. and Waugh, M. and Warren, B. E. and Webster, R. L. and Wright, A. E.
+author_list:
+- family: Koribalski
+  given: B. S.
+- family: Staveley-Smith
+  given: L.
+- family: Kilborn
+  given: V. A.
+- family: Ryder
+  given: S. D.
+- family: Kraan-Korteweg
+  given: R. C.
+- family: Ryan-Weber
+  given: E. V.
+- family: Ekers
+  given: R. D.
+- family: Jerjen
+  given: H.
+- family: Henning
+  given: P. A.
+- family: Putman
+  given: M. E.
+- family: Zwaan
+  given: M. A.
+- family: de Blok
+  given: W. J. G.
+- family: Calabretta
+  given: M. R.
+- family: Disney
+  given: M. J.
+- family: Minchin
+  given: R. F.
+- family: Bhathal
+  given: R.
+- family: Boyce
+  given: P. J.
+- family: Drinkwater
+  given: M. J.
+- family: Freeman
+  given: K. C.
+- family: Gibson
+  given: B. K.
+- family: Green
+  given: A. J.
+- family: Haynes
+  given: R. F.
+- family: Juraszek
+  given: S.
+- family: Kesteven
+  given: M. J.
+- family: Knezek
+  given: P. M.
+- family: Mader
+  given: S.
+- family: Marquarding
+  given: M.
+- family: Meyer
+  given: M.
+- family: Mould
+  given: J. R.
+- family: Oosterloo
+  given: T.
+- family: O'Brien
+  given: J.
+- family: Price
+  given: R. M.
+- family: Sadler
+  given: E. M.
+- family: Schröder
+  given: A.
+- family: Stewart
+  given: I. M.
+- family: Stootman
+  given: F.
+- family: Waugh
+  given: M.
+- family: Warren
+  given: B. E.
+- family: Webster
+  given: R. L.
+- family: Wright
+  given: A. E.
+date-added: 2017-08-10 23:41:51 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421744
+eprint: astro-ph/0404436
+journal: \aj
+keywords: 'Galaxies: Distances and Redshifts, Galaxies: Fundamental Parameters, Galaxies:
+  Kinematics and Dynamics, Galaxies: Intergalactic Medium, radio emission lines, Surveys'
+month: July
+pages: 16--46
+papis_id: c825df6da32311709a1c1873b1c8649d
+ref: koribalski.b.2004
+title: 'The 1000 Brightest HIPASS Galaxies: H I Properties'
+type: article
+volume: '128'
+year: '2004'

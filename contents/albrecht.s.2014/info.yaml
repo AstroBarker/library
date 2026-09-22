@@ -1,0 +1,65 @@
+abstract: As part of the Binaries Are Not Always Neatly Aligned project (BANANA),
+  we have found that the eclipsing binary CV Velorum has misaligned rotation axes.
+  Based on our analysis of the Rossiter-McLaughlin effect, we find sky-projected spin-orbit
+  angles of betap = -52$\,^{\circ}$ \$\pm\$ 6\$\,^{\circ}\$ and betas = 3\$\,^{\circ}\$
+  \$\pm\$ 7\$\,^{\circ}\$ for the primary and secondary stars (B2.5V + B2.5V, P =
+  6.9 days). We combine this information with several measurements of changing projected
+  stellar rotation speeds (vsin i sstarf) over the last 30 yr, leading to a model
+  in which the primary star's obliquity is \approx{}65\$\,^{\circ}\$, and its spin
+  axis precesses around the total angular momentum vector with a period of about 140
+  yr. The geometry of the secondary star is less clear, although a significant obliquity
+  is also implicated by the observed time variations in the vsin i sstarf. By integrating
+  the secular tidal evolution equations backward in time, we find that the system
+  could have evolved from a state of even stronger misalignment similar to DI  Herculis,
+  a younger but otherwise comparable binary.  Based on observations made with ESOs
+  2.2 m Telescopes at the La Silla Paranal Observatory under programme ID 084.C-1008
+  and under MPIA guaranteed time.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...785...83A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1403.0583
+author: Albrecht, S. and Winn, J. N. and Torres, G. and Fabrycky, D. C. and Setiawan,
+  J. and Gillon, M. and Jehin, E. and Triaud, A. and Queloz, D. and Snellen, I. and
+  Eggleton, P.
+author_list:
+- family: Albrecht
+  given: S.
+- family: Winn
+  given: J. N.
+- family: Torres
+  given: G.
+- family: Fabrycky
+  given: D. C.
+- family: Setiawan
+  given: J.
+- family: Gillon
+  given: M.
+- family: Jehin
+  given: E.
+- family: Triaud
+  given: A.
+- family: Queloz
+  given: D.
+- family: Snellen
+  given: I.
+- family: Eggleton
+  given: P.
+date-added: 2017-08-10 16:16:10 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/785/2/83
+eid: '83'
+eprint: '1403.0583'
+journal: \apj
+keywords: 'binaries: eclipsing, stars: early-type, stars: formation, stars: individual:
+  CV Velorum DI Herculis EP Crucis, stars: kinematics and dynamics, stars: rotation,
+  techniques: spectroscopic'
+month: April
+pages: '83'
+papis_id: 22b40cad30bf31c1d1c0f9f50f765228
+primaryclass: astro-ph.SR
+ref: albrecht.s.2014
+title: The BANANA Project. V. Misaligned and Precessing Stellar Rotation Axes in CV
+  Velorum
+type: article
+volume: '785'
+year: '2014'

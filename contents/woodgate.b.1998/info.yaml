@@ -1,0 +1,125 @@
+abstract: The Space Telescope Imaging Spectrograph (STIS) instrument was installed
+  on the Hubble Space Telescope (HST) during the second servicing mission, in 1997
+  February. Four bands cover the wavelength range of 115-1000 nm, with spectral resolving
+  powers between 26 and 200,000. Camera modes are used for target acquisition and
+  deep imaging. Correction for HST's spherical aberration and astigmatism is included.
+  The 115-170 nm range is covered by a CsI MAMA (Multianode Microchannel Array) detector
+  and the 165-310 nm range by a Cs\_2Te MAMA, each with a format of 2048x2048 pixels,
+  while the 305-555 and 550-1000 nm ranges are covered by a single CCD with a format
+  of 1024x1024 pixels. The multiplexing advantage of using these two-dimensional detectors
+  compared with the 1x512 pixel detectors of the first-generation spectrographs is
+  1 or 2 orders of magnitude, depending on the mode used. The relationship between
+  the scientific goals and the instrument specifications and design is discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998PASP..110.1183W
+author: Woodgate, B. E. and Kimble, R. A. and Bowers, C. W. and Kraemer, S. and Kaiser,
+  M. E. and Danks, A. C. and Grady, J. F. and Loiacono, J. J. and Brumfield, M. and
+  Feinberg, L. and Gull, T. R. and Heap, S. R. and Maran, S. P. and Lindler, D. and
+  Hood, D. and Meyer, W. and Vanhouten, C. and Argabright, V. and Franka, S. and Bybee,
+  R. and Dorn, D. and Bottema, M. and Woodruff, R. and Michika, D. and Sullivan, J.
+  and Hetlinger, J. and Ludtke, C. and Stocker, R. and Delamere, A. and Rose, D. and
+  Becker, I. and Garner, H. and Timothy, J. G. and Blouke, M. and Joseph, C. L. and
+  Hartig, G. and Green, R. F. and Jenkins, E. B. and Linsky, J. L. and Hutchings,
+  J. B. and Moos, H. W. and Boggess, A. and Roesler, F. and Weistrop, D.
+author_list:
+- family: Woodgate
+  given: B. E.
+- family: Kimble
+  given: R. A.
+- family: Bowers
+  given: C. W.
+- family: Kraemer
+  given: S.
+- family: Kaiser
+  given: M. E.
+- family: Danks
+  given: A. C.
+- family: Grady
+  given: J. F.
+- family: Loiacono
+  given: J. J.
+- family: Brumfield
+  given: M.
+- family: Feinberg
+  given: L.
+- family: Gull
+  given: T. R.
+- family: Heap
+  given: S. R.
+- family: Maran
+  given: S. P.
+- family: Lindler
+  given: D.
+- family: Hood
+  given: D.
+- family: Meyer
+  given: W.
+- family: Vanhouten
+  given: C.
+- family: Argabright
+  given: V.
+- family: Franka
+  given: S.
+- family: Bybee
+  given: R.
+- family: Dorn
+  given: D.
+- family: Bottema
+  given: M.
+- family: Woodruff
+  given: R.
+- family: Michika
+  given: D.
+- family: Sullivan
+  given: J.
+- family: Hetlinger
+  given: J.
+- family: Ludtke
+  given: C.
+- family: Stocker
+  given: R.
+- family: Delamere
+  given: A.
+- family: Rose
+  given: D.
+- family: Becker
+  given: I.
+- family: Garner
+  given: H.
+- family: Timothy
+  given: J. G.
+- family: Blouke
+  given: M.
+- family: Joseph
+  given: C. L.
+- family: Hartig
+  given: G.
+- family: Green
+  given: R. F.
+- family: Jenkins
+  given: E. B.
+- family: Linsky
+  given: J. L.
+- family: Hutchings
+  given: J. B.
+- family: Moos
+  given: H. W.
+- family: Boggess
+  given: A.
+- family: Roesler
+  given: F.
+- family: Weistrop
+  given: D.
+date-added: 2017-08-10 23:18:41 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/316243
+journal: \pasp
+keywords: 'INSTRUMENTATION: SPECTROGRAPHS'
+month: October
+pages: 1183--1204
+papis_id: 47bc03e2185ade49cc8b92ee8017f917
+ref: woodgate.b.1998
+title: The Space Telescope Imaging Spectrograph Design
+type: article
+volume: '110'
+year: '1998'

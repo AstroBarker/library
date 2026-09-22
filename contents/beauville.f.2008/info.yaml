@@ -1,0 +1,96 @@
+abstract: Presented in this paper is a detailed and direct comparison of the detection
+  pipelines used by LIGO and Virgo in their attempt to observe gravitational waves
+  from binary neutron star systems. In order to test the search programs, numerous
+  inspiral signals were added to 24 h of simulated detector data. The efficiencies
+  of the different pipelines were tested, and found to be very similar. Parameter
+  estimation routines were also tested. We demonstrate that there are definite benefits
+  if LIGO and Virgo conduct a joint coincident analysis; these advantages include
+  increased detection efficiency and information on source sky location.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008CQGra..25d5001B
+author: 'Beauville, F. and Bizouard, M.-A. and Blackburn, L. and Bosi, L. and Brocco,
+  L. and Brown, D. A. and Buskulic, D. and Cavalier, F. and Chatterji, S. and Christensen,
+  N. and Clapson, A.-C. and Fairhurst, S. and Grosjean, D. and Guidi, G. and Hello,
+  P. and Heng, S. and Hewitson, M. and Katsavounidis, E. and Klimenko, S. and Knight,
+  M. and Lazzarini, A. and Leroy, N. and Marion, F. and Markowitz, J. and Melachrinos,
+  C. and Mours, B. and Ricci, F. and Viceré, A. and Yakushin, I. and Zanolin, M. and
+  joint LIGO/Virgo working Group, '
+author_list:
+- family: Beauville
+  given: F.
+- family: Bizouard
+  given: M.-A.
+- family: Blackburn
+  given: L.
+- family: Bosi
+  given: L.
+- family: Brocco
+  given: L.
+- family: Brown
+  given: D. A.
+- family: Buskulic
+  given: D.
+- family: Cavalier
+  given: F.
+- family: Chatterji
+  given: S.
+- family: Christensen
+  given: N.
+- family: Clapson
+  given: A.-C.
+- family: Fairhurst
+  given: S.
+- family: Grosjean
+  given: D.
+- family: Guidi
+  given: G.
+- family: Hello
+  given: P.
+- family: Heng
+  given: S.
+- family: Hewitson
+  given: M.
+- family: Katsavounidis
+  given: E.
+- family: Klimenko
+  given: S.
+- family: Knight
+  given: M.
+- family: Lazzarini
+  given: A.
+- family: Leroy
+  given: N.
+- family: Marion
+  given: F.
+- family: Markowitz
+  given: J.
+- family: Melachrinos
+  given: C.
+- family: Mours
+  given: B.
+- family: Ricci
+  given: F.
+- family: Viceré
+  given: A.
+- family: Yakushin
+  given: I.
+- family: Zanolin
+  given: M.
+- family: joint LIGO/Virgo working Group
+  given: ''
+date-added: 2017-08-11 03:41:33 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1088/0264-9381/25/4/045001
+eid: '045001'
+eprint: gr-qc/0701027
+journal: Classical and Quantum Gravity
+month: February
+number: '4'
+pages: '045001'
+papis_id: f601e2106a3091f8881035bc44ef0c9f
+ref: beauville.f.2008
+title: Detailed comparison of LIGO and Virgo inspiral pipelines in preparation for
+  a joint search
+type: article
+volume: '25'
+year: '2008'

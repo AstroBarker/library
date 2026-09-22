@@ -1,0 +1,44 @@
+abstract: We present the first unrestricted, three-dimensional relativistic hydrodynamical
+  calculations of the blob of gas associated with the jet that produces a gamma-ray
+  burst. We investigate the deceleration phase of the blob, which corresponds to the
+  time when afterglow radiation is produced, concentrating on the transition in which
+  the relativistic beaming gamma-1 goes from being less than theta, where gamma is
+  the bulk Lorentz factor and theta is the angular width of the jet, to gamma-1 being
+  greater than theta. We study the time-dependent evolution of the physical parameters
+  associated with the jet, both parallel to the direction of motion and perpendicular
+  to it. We calculate light curves for observers at varying angles with respect to
+  the velocity vector of the blob, assuming optically thin emission that scales with
+  the local pressure. Our main findings are that (1) gas ahead of the advancing blob
+  does not accrete onto and merge with the blob material but rather flows around the
+  blob, (2) the decay light curve steepens at a time corresponding roughly to gamma-1~theta
+  (in accord with earlier studies), and (3) the rate of decrease of the forward component
+  of momentum in the blob is well fitted by a simple model in which the gas in front
+  of the blob exerts a drag force on the blob and the cross-sectional area of the
+  blob increases quadratically with laboratory time (or distance).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...601..380C
+arxivurl: http://arxiv.org/abs/astro-ph/0310113
+author: Cannizzo, J. K. and Gehrels, N. and Vishniac, E. T.
+author_list:
+- family: Cannizzo
+  given: J. K.
+- family: Gehrels
+  given: N.
+- family: Vishniac
+  given: E. T.
+date-added: 2017-08-11 02:07:28 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380436
+eprint: astro-ph/0310113
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Hydrodynamics, Methods: Numerical, Relativity, Shock
+  Waves'
+month: January
+pages: 380--390
+papis_id: 6b1d760e7402f75151f9e551144b3086
+ref: cannizzo.j.2004
+title: 'A Numerical Gamma-Ray Burst Simulation Using Three-Dimensional Relativistic
+  Hydrodynamics: The Transition from Spherical to Jetlike Expansion'
+type: article
+volume: '601'
+year: '2004'

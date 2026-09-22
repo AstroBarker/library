@@ -1,0 +1,37 @@
+abstract: In this paper, we review the development of the Runge-Kutta discontinuous
+  Galerkin (RBLDG) methods for non-linear convection-dominated problems. These robust
+  and accurate methods have made their way into the main stream of computational fluid
+  dynamics and are quickly finding use in a wide variety of applications. They combine
+  a special class of Runge-Kutta time discretizations, that allows the method to be
+  non-linearly stable regardless of its accuracy, with a finite element space discretization
+  by discontinuous approximations, that incorporates the ideas of numerical fluxes
+  and slope limiters coined during the remarkable development of the high-resolution
+  finite difference and finite volume schemes. The resulting RBLDG methods are stable,
+  high-order accurate, and highly parallelizable schemes that can easily handle complicated
+  geometries and boundary conditions. We review the theoretical and algorithmic aspects
+  of these methods and show several applications including nonlinear conservation
+  laws, the compressible and incompressible Navier-Stokes equations, and Hamilton-Jacobi-like
+  equations.
+author: Cockburn, Bernardo and Shu, Chi Wang
+author_list:
+- family: Cockburn
+  given: Bernardo
+- family: Shu
+  given: Chi Wang
+day: '1'
+groups: Numerical Methods - General
+issn: 0885-7474
+journal: Journal of Scientific Computing
+keywords: Convection-diffusion equations, Discontinuous Galerkin methods, Non-linear
+  conservation laws
+language: English (US)
+month: '12'
+number: '3'
+pages: 173--261
+papis_id: 92e4b7208db6836f60f41531f0bfa002
+publisher: Springer New York
+ref: cockburn.bernardo.2001
+title: Runge-Kutta Discontinuous Galerkin methods for convection-dominated problems
+type: article
+volume: '16'
+year: '2001'

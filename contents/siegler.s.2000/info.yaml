@@ -1,0 +1,36 @@
+abstract: We present a fully Lagrangian conservation form of the general relativistic
+  hydrodynamic equations for perfect fluids with artificial viscosity in a given arbitrary
+  background spacetime. This conservation formulation is achieved by choosing suitable
+  Lagrangian time evolution variables, from which the generic fluid variables of rest-mass
+  density, 3-velocity, and thermodynamic pressure have to be determined. We present
+  the corresponding equations for an ideal gas and show the existence and uniqueness
+  of the solution. On the basis of the Lagrangian formulation we have developed a
+  three-dimensional general relativistic smoothed particle hydrodynamics (SPH) code
+  using the standard SPH formalism as known from nonrelativistic fluid dynamics. One-dimensional
+  simulations of a shock tube and a wall shock are presented together with a two-dimensional
+  test calculation of an inclined shock tube. With our method we can model ultrarelativistic
+  fluid flows including shocks with Lorentz factors of even 1000.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...531.1053S
+arxivurl: http://arxiv.org/abs/astro-ph/9904070
+author: Siegler, S. and Riffert, H.
+author_list:
+- family: Siegler
+  given: S.
+- family: Riffert
+  given: H.
+date-added: 2017-08-10 18:02:49 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308482
+eprint: astro-ph/9904070
+journal: \apj
+keywords: 'HYDRODYNAMICS, METHODS: NUMERICAL, RELATIVITY, SHOCK WAVES'
+month: March
+pages: 1053--1066
+papis_id: 2f8f018e6fc597559f0bae1155c8037e
+ref: siegler.s.2000
+title: Smoothed Particle Hydrodynamics Simulations of Ultrarelativistic Shocks with
+  Artificial Viscosity
+type: article
+volume: '531'
+year: '2000'

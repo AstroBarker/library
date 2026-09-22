@@ -1,0 +1,38 @@
+abstract: The radiation hydrodynamical (RHD) algorithms in ZEUS-2D are described.
+  These algorithms use a tensor variable Eddington factor, computed from a solution
+  of the static transfer equation, to close the system of radiation moment equations.
+  This full transport algorithm, which differs significantly from more commonly used
+  methods based on the diffusion approximation, is applicable in both optically thin
+  and thick media. Results computed by these algorithms on a new collection of RHD
+  test problems are presented. For the transfer equation, very detailed tests are
+  possible which compare the numerical solution for the specific intensity at every
+  point on a given tangent plane to the known analytic solution. It is shown that,
+  while the interpolation inherent in the method of short characteristics makes the
+  solution diffusive, it is not overly so. For certain restricted geometries and physical
+  conditions, these methods reproduce the expected results either identically or qualitatively.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJS...80..819S
+author: Stone, J. M. and Mihalas, D. and Norman, M. L.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Mihalas
+  given: D.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 20:00:23 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191682
+journal: \apjs
+keywords: Computational Astrophysics, Cosmic Plasma, Hydrodynamic Equations, Magnetohydrodynamic
+  Flow, Radiative Transfer, Two Dimensional Models, Algorithms, Computational Grids,
+  Finite Difference Theory, Plasma Radiation
+month: June
+pages: 819--845
+papis_id: 0b3341f3857fdbaab75d2b9b6f7889d7
+ref: stone.j.1992c
+title: 'ZEUS-2D: A radiation magnetohydrodynamics code for astrophysical flows in
+  two space dimensions. III - The radiation hydrodynamic algorithms and tests'
+type: article
+volume: '80'
+year: '1992'

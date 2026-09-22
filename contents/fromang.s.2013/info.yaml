@@ -1,0 +1,54 @@
+abstract: 'Aims: The aim of this paper is to investigate the properties of accretion
+  disks threaded by a weak vertical magnetic field, with a particular focus on the
+  interplay between magnetohydrodynamic (MHD) turbulence driven by the magnetorotational
+  instability (MRI) and outflows that might be launched from the disk.  Methods: For
+  that purpose, we use a set of numerical simulations performed with the MHD code
+  RAMSES in the framework of the shearing box model. We concentrate on the case of
+  a rather weak vertical magnetic field such that the initial ratio beta0 of the thermal
+  and magnetic pressures in the disk midplane equals 104.  Results: As reported recently,
+  we find that MHD turbulence drives an efficient outflow out of the computational
+  box. We demonstrate a strong sensitivity of that result to the box size: enlargements
+  in the radial and vertical directions lead to a reduction of up to an order of magnitude
+  in the mass-loss rate. Such a dependence prevents any realistic estimates of disk
+  mass-loss rates being derived using shearing-box simulations. We find however that
+  the flow morphology is robust and independent of the numerical details of the simulations.
+  Its properties display some features and approximate invariants that are reminiscent
+  of the Blandford \& Payne launching mechanism, but differences exist. For the magnetic
+  field strength considered in this paper, we also find that angular momentum transport
+  is most likely dominated by MHD turbulence, the saturation of which scales with
+  the magnetic Prandtl number, the ratio of viscosity and resistivity, in a way that
+  is in good agreement with expectations based on unstratified simulations.  Conclusions:
+  This paper thus demonstrates for the first time that accretion disks can simultaneously
+  exhibit MRI-driven MHD turbulence along with magneto-centrifugally accelerated outflows.
+  However, in contradiction with previously published results, such outflows probably
+  have little impact on the disk dynamics.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...552A..71F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.6664
+author: Fromang, S. and Latter, H. and Lesur, G. and Ogilvie, G. I.
+author_list:
+- family: Fromang
+  given: S.
+- family: Latter
+  given: H.
+- family: Lesur
+  given: G.
+- family: Ogilvie
+  given: G. I.
+date-added: 2017-08-10 14:56:10 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1051/0004-6361/201220016
+eid: A71
+eprint: '1210.6664'
+journal: \aap
+keywords: 'accretion, accretion disks, magnetohydrodynamics (MHD), methods: numerical'
+month: April
+pages: A71
+papis_id: dc4794293710d56d6b9fa2e9cf865bbc
+primaryclass: astro-ph.HE
+ref: fromang.s.2013
+title: Local outflows from turbulent accretion disks
+type: article
+volume: '552'
+year: '2013'

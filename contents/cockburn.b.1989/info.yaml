@@ -1,0 +1,33 @@
+abstract: This is the third paper in a series in which we construct and analyze a
+  class of TVB (total variation bounded) discontinuous Galerkin finite element methods
+  for solving conservation laws ut+ Sigmai=1 d( fi( u) xi=0. In this paper we present
+  the method in a system of equations, stressing the point of how to use the weak
+  form in the component spaces, but to use the local projection limiting in the characteristic
+  fields, and how to implement boundary conditions. A 1-dimensional system is thus
+  chosen as a model. Different implementation techniques are discussed, theories analogous
+  to scalar cases are proven for linear systems, and numerical results are given illustrating
+  the method on nonlinear systems. Discussions of handling complicated geometries
+  via adaptive triangle elements will appear in future papers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989JCoPh..84...90C
+author: Cockburn, B. and Lin, S.-Y. and Shu, C.-W.
+author_list:
+- family: Cockburn
+  given: B.
+- family: Lin
+  given: S.-Y.
+- family: Shu
+  given: C.-W.
+date-added: 2018-04-04 14:25:29 +0000
+date-modified: 2018-04-04 14:25:30 +0000
+doi: 10.1016/0021-9991(89)90183-6
+journal: Journal of Computational Physics
+month: September
+pages: 90--113
+papis_id: 2c50667e15a90096c9d669feac7ffcf7
+ref: cockburn.b.1989
+title: 'TVB Runge Kutta Local Projection Discontinuous Galerkin Finite Element Method
+  for Conservation Laws III: One-Dimensional Systems'
+type: article
+volume: '84'
+year: '1989'

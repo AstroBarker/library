@@ -1,0 +1,36 @@
+abstract: Magnetic fields can play a major role in the dynamics of outstanding explosions
+  associated to violent events such as GRBs and hypernovae, since they provide a natural
+  mechanism to harness the rotational energy of the central proto-neutron star and
+  power relativistic jets through the stellar progenitor. As the structure of such
+  fields is quite uncertain, most numerical models of MHD-driven core-collapse supernovae
+  consider an aligned dipole as initial magnetic field, while the field's morphology
+  can actually be much more complex. We present three-dimensional simulations of core-collapse
+  supernovae with more realistic magnetic structures, such as quadrupolar fields and,
+  for the first time, a tilted dipolar field. Configurations other than an aligned
+  dipole produce weaker explosions and less collimated outflows, but can at the same
+  time be more efficient in extracting the rotational energy from the PNS. This energy
+  is then stored in the surroundings of the PNS, rather than powering the polar jets.
+  A significant axial dipolar component is also produced by models starting with a
+  quadrupolar field, pointing to an effective dynamo mechanism operating in proximity
+  of the PNS surface.
+archiveprefix: arXiv
+author: Bugli, Matteo and Guilet, Jérôme and Obergaulinger, Martin
+author_list:
+- family: Bugli
+  given: Matteo
+- family: Guilet
+  given: Jérôme
+- family: Obergaulinger
+  given: Martin
+eprint: '2105.00665'
+file: :Bugli2021 - Three Dimensional Core Collapse Supernovae with Complex Magnetic
+  Structures\_ I. Explosion Dynamics.pdf:PDF
+keywords: astro-ph.HE, astro-ph.SR
+month: May
+papis_id: 402f1183e4d1e56bb08630dc45dd92d9
+primaryclass: astro-ph.HE
+ref: bugli.matteo.2021
+title: 'Three-dimensional core-collapse supernovae with complex magnetic structures:
+  I. Explosion dynamics'
+type: article
+year: '2021'

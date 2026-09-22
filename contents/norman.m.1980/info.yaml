@@ -1,0 +1,33 @@
+abstract: The isothermal collapse of a rotating axisymmetric gas cloud is calculated.
+  The cloud is slowly rotating so that the collapse is deep, severely testing the
+  angular momentum advection. Special care is taken to improve local conservation
+  of angular momentum, which is monitored by a mass versus specific angular momentum
+  spectrum. It is found that the collapse is a runaway yielding central disklike regions
+  of increasing mass density and flatness. Although the numerical solution cannot
+  become singular, it is shown that a possible final state for the cloud consistent
+  with its mass versus specific angular momentum spectrum is an equilibrium thin disk
+  which is singular in surface density and angular velocity at the rotation axis.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1980ApJ...239..968N
+author: Norman, M. L. and Wilson, J. R. and Barton, R. T.
+author_list:
+- family: Norman
+  given: M. L.
+- family: Wilson
+  given: J. R.
+- family: Barton
+  given: R. T.
+date-added: 2017-08-10 19:14:57 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/158185
+journal: \apj
+keywords: Astrophysics, Gravitational Collapse, Planetary Nebulae, Protostars, Advection,
+  Angular Momentum, Isothermal Processes, Rotating Environments
+month: August
+pages: 968--981
+papis_id: 16599004df3c96ba3116914bcc12b62b
+ref: norman.m.1980
+title: A new calculation on rotating protostar collapse
+type: article
+volume: '239'
+year: '1980'

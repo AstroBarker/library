@@ -1,0 +1,63 @@
+abstract: 'The non-linear evolution of the Kelvin-Helmholtz instability is a popular
+  test for code verification. To date, most Kelvin-Helmholtz problems discussed in
+  the literature are ill-posed: they do not converge to any single solution with increasing
+  resolution. This precludes comparisons among different codes and severely limits
+  the utility of the Kelvin-Helmholtz instability as a test problem. The lack of a
+  reference solution has led various authors to assert the accuracy of their simulations
+  based on ad hoc proxies, e.g. the existence of small-scale structures. This paper
+  proposes well-posed two-dimensional Kelvin-Helmholtz problems with smooth initial
+  conditions and explicit diffusion. We show that in many cases numerical errors/noise
+  can seed spurious small-scale structure in Kelvin-Helmholtz problems. We demonstrate
+  convergence to a reference solution using both ATHENA, a Godunov code, and DEDALUS,
+  a pseudo-spectral code. Problems with constant initial density throughout the domain
+  are relatively straightforward for both codes. However, problems with an initial
+  density jump (which are the norm in astrophysical systems) exhibit rich behaviour
+  and are more computationally challenging. In the latter case, ATHENA simulations
+  are prone to an instability of the inner rolled-up vortex; this instability is seeded
+  by grid-scale errors introduced by the algorithm, and disappears as resolution increases.
+  Both ATHENA and DEDALUS exhibit late-time chaos. Inviscid simulations are riddled
+  with extremely vigorous secondary instabilities which induce more mixing than simulations
+  with explicit diffusion. Our results highlight the importance of running well-posed
+  test problems with demonstrated convergence to a reference solution. To facilitate
+  future comparisons, we include as supplementary material the resolved, converged
+  solutions to the Kelvin-Helmholtz problems in this paper in machine-readable form.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016MNRAS.455.4274L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1509.03630
+author: Lecoanet, D. and McCourt, M. and Quataert, E. and Burns, K. J. and Vasil,
+  G. M. and Oishi, J. S. and Brown, B. P. and Stone, J. M. and O'Leary, R. M.
+author_list:
+- family: Lecoanet
+  given: D.
+- family: McCourt
+  given: M.
+- family: Quataert
+  given: E.
+- family: Burns
+  given: K. J.
+- family: Vasil
+  given: G. M.
+- family: Oishi
+  given: J. S.
+- family: Brown
+  given: B. P.
+- family: Stone
+  given: J. M.
+- family: O'Leary
+  given: R. M.
+date-added: 2017-08-10 14:05:06 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1093/mnras/stv2564
+eprint: '1509.03630'
+journal: \mnras
+keywords: 'hydrodynamics, instabilities, methods: numerical'
+month: February
+pages: 4274--4288
+papis_id: 3c01fdc30c717e18f1730e000534a6a1
+primaryclass: astro-ph.IM
+ref: lecoanet.d.2016
+title: A validated non-linear Kelvin-Helmholtz benchmark for numerical hydrodynamics
+type: article
+volume: '455'
+year: '2016'

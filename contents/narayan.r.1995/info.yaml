@@ -1,0 +1,49 @@
+abstract: We consider axisymmetric viscous accretion flows where a fraction of of
+  the viscously dissipated energy is stored in the accreting gas as entropy and a
+  fraction 1 - f is radiated. Assuming alpha-viscosity we obtain a two-parameter family
+  of self-similar solutions. Very few such exact self-consistent solutions are known
+  for viscous differentially rotating flows. When the parameter f is small, that is,
+  when there is very little advection, our solutions resemble standard thin accretion
+  disks in many respects except that they have a hot tenuous corona above the disk.
+  In the opposite advection-dominated limit, when f approaches 1, the solutions approach
+  nearly spherical accretion. The gas is almost at virial temperature and rotates
+  at much below the Keplerian rate, and the flow is much more akin to Bondi accretion
+  than to disk accretion. None of the solutions have funnels. We compare our exact
+  self-similar solutions with approximate solutions which have been previously obtained
+  using a height-integrated system of equations. We find that various dynamical variables
+  such as the radial velocity, angular velocity, and sound speed estimated from the
+  approximate solutions agree very well with the corresponding spherically averaged
+  quantities in the exact solutions. We conclude that the height-integration approximation
+  is an excellent one for a wide range of accretion conditions, including nearly spherical
+  flows, provided the equations are interpreted as spherical averages. We find that
+  the Bernoulli parameter is positive in all our solutions, especially close to the
+  rotation axis. This effect is produced by viscous transport of energy from small
+  to large radii and from the equator to poles. In addition, all the solutions are
+  convectively unstable, and the convection is especially important near the rotation
+  axis. For both reasons, we suggest that a bipolar outflow will develop along the
+  axis of these flows, fed by material from the surface layers of the equatorial inflow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...444..231N
+arxivurl: http://arxiv.org/abs/astro-ph/9411058
+author: Narayan, R. and Yi, I.
+author_list:
+- family: Narayan
+  given: R.
+- family: Yi
+  given: I.
+date-added: 2017-08-11 00:28:48 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175599
+eprint: astro-ph/9411058
+journal: \apj
+keywords: Accretion Disks, Advection, Analogies, Axisymmetric Flow, Bipolarity, Computational
+  Astrophysics, Flow Equations, Viscous Flow, Approximation, Convection, Flow Characteristics,
+  Hydrodynamics, Interstellar Matter, Stellar Rotation, Viscosity
+month: May
+pages: 231--243
+papis_id: b34639d18839028cd288bdf7062f1393
+ref: narayan.r.1995
+title: 'Advection-dominated accretion: Self-similarity and bipolar outflows'
+type: article
+volume: '444'
+year: '1995'

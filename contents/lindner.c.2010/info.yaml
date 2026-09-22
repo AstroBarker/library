@@ -1,0 +1,56 @@
+abstract: We present axisymmetric hydrodynamical simulations of the long-term accretion
+  of a rotating gamma-ray burst (GRB) progenitor star, a "collapsar," onto the central
+  compact object, which we take to be a black hole. The simulations were carried out
+  with the adaptive-mesh-refinement code FLASH in two spatial dimensions and with
+  an explicit shear viscosity. The evolution of the central accretion rate exhibits
+  phases reminiscent of the long GRB gamma-ray and X-ray light curve, which lends
+  support to the proposal by Kumar et al. that the luminosity is modulated by the
+  central accretion rate. In the first "prompt" phase, the black hole acquires most
+  of its final mass through supersonic quasiradial accretion occurring at a steady
+  rate of ~0.2 M sun s-1. After a few tens of seconds, an accretion shock sweeps outward
+  through the star. The formation and outward expansion of the accretion shock is
+  accompanied with a sudden and rapid power-law decline in the central accretion rate
+  \dot{M}\propto{} t^{-2.8}, which resembles the L X vprop t -3 decline observed in
+  the X-ray light curves. The collapsed, shock-heated stellar envelope settles into
+  a thick, low-mass equatorial disk embedded within a massive, pressure-supported
+  atmosphere. After a few hundred seconds, the inflow of low angular momentum material
+  in the axial funnel reverses into an outflow from the thick disk. Meanwhile, the
+  rapid decline of the accretion rate slows down, which is potentially suggestive
+  of the "plateau" phase in the X-ray light curve. We complement our adiabatic simulations
+  with an analytical model that takes into account the cooling by neutrino emission
+  and estimate that the duration of the prompt phase can be ~20 s. The model suggests
+  that the steep decline in GRB X-ray light curves is triggered by the circularization
+  of the infalling stellar envelope at radii where the virial temperature is below
+  1010 K, such that neutrino cooling is inefficient and an outward expansion of the
+  accretion shock becomes imminent; GRBs with longer prompt gamma-ray emission should
+  have more slowly rotating envelopes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713..800L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.4989
+author: Lindner, C. C. and Milosavljević, M. and Couch, S. M. and Kumar, P.
+author_list:
+- family: Lindner
+  given: C. C.
+- family: Milosavljević
+  given: M.
+- family: Couch
+  given: S. M.
+- family: Kumar
+  given: P.
+date-added: 2017-08-11 00:31:14 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/2/800
+eprint: '0910.4989'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, gamma-ray burst: general,
+  stars: winds, outflows, supernovae: general'
+month: April
+pages: 800--815
+papis_id: 79986a3f7831f4766aea196405752989
+primaryclass: astro-ph.HE
+ref: lindner.c.2010
+title: Collapsar Accretion and the Gamma-Ray Burst X-Ray Light Curve
+type: article
+volume: '713'
+year: '2010'

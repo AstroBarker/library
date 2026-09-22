@@ -1,0 +1,78 @@
+abstract: 'Aims: We study the hydrodynamic evolution of a non-spherical core-collapse
+  supernova in two spatial dimensions. We begin our study from the moment of shock
+  revival - taking into account neutrino heating and cooling, nucleosynthesis, convection,
+  and the standing accretion shock (SASI) instability of the supernova blast - and
+  continue for the first week after the explosion when the expanding flow becomes
+  homologous and the ejecta enter the early supernova remnant (SNR) phase. We observe
+  the growth and interaction of Richtmyer-Meshkov, Rayleigh-Taylor, and Kelvin-Helmholtz
+  instabilities resulting in an extensive mixing of the heavy elements throughout
+  the ejecta. We obtain a series of models at progressively higher resolution and
+  provide a discussion of numerical convergence.  Methods: Different from previous
+  studies, our computations are performed in a single domain. Periodic mesh mapping
+  is avoided. This is made possible by employing cylindrical coordinates, and an adaptive
+  mesh refinement (AMR) strategy in which the computational workload (defined as the
+  product of the total number of computational cells and the length of the time step)
+  is monitored and, if necessary, reduced.  Results: Our results are in overall good
+  agreement with the AMR simulations we have reported in the past. We show, however,
+  that numerical convergence is difficult to achieve, due to the strongly non-linear
+  nature of the problem. Even more importantly, we find that our model displays a
+  strong tendency to expand laterally away from the equatorial plane and toward the
+  poles. We demonstrate that this expansion is a physical property of the low-mode,
+  SASI instability. Although the SASI operates only within about the first second
+  of the explosion, it leaves behind a large lateral velocity gradient in the post
+  shock layer which affects the evolution for minutes and hours later. This results
+  in a prolate deformation of the ejecta and a fast advection of the highest-velocity
+  56Ni-rich material from moderate latitudes to the polar regions of our grid within
+  only 300 s after core bounce. This effect - if confirmed by 3D simulations - might
+  actually be responsible for the global asymmetry of the nickel lines in SN 1987A.
+  Yet, it also poses difficulties for the analysis of 2D SASI-dominated explosions
+  in terms of the maximum nickel velocities, since discretization errors at the poles
+  are considered non-negligible.  Conclusions: The simulations demonstrate that significant
+  radial and lateral motions in the post-shock region, produced by convective overturn
+  and the SASI during the early explosion phase, contribute to the evolution for minutes
+  and hours after shock revival. They lead to both later clump formation, and a significant
+  prolate deformation of the ejecta which are observed even as late as one week after
+  the explosion. This ejecta deformation may be considered final, since the expansion
+  has long become homologous by that time. As pointed out in the recent analysis by
+  Kjaer et al., such an ejecta morphology is in good agreement with the observational
+  data of SN 1987A. Systematic future studies are needed to investigate how the SASI-induced
+  late-time lateral expansion that we find in this work depends on the dominant mode
+  of the SASI when the early explosion phase ends, and to which extent it is affected
+  by the dimensionality of the simulations. The impact on and importance of the SASI
+  for the distribution of iron group nuclei and the morphology of the young SNR argues
+  for future three-dimensional explosion and post-explosion studies on singularity-free
+  grids that cover the entire sphere. Given the results of our 2D resolution study,
+  present three-dimensional simulations must be regarded as underresolved, and their
+  conclusions must be verified by a proper numerical convergence analysis in three
+  dimensions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...521A..38G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.0463
+author: Gawryszczak, A. and Guzman, J. and Plewa, T. and Kifonidis, K.
+author_list:
+- family: Gawryszczak
+  given: A.
+- family: Guzman
+  given: J.
+- family: Plewa
+  given: T.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-10 16:17:52 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/200913431
+eid: A38
+eprint: '1007.0463'
+journal: \aap
+keywords: 'hydrodynamics, instabilities, shock waves, supernovae: general'
+month: October
+pages: A38
+papis_id: 34b97315e11aa70a2e27b62fcc6c9524
+primaryclass: astro-ph.SR
+ref: gawryszczak.a.2010
+title: Non-spherical core collapse supernovae. III. Evolution towards homology and
+  dependence on the numerical resolution
+type: article
+volume: '521'
+year: '2010'

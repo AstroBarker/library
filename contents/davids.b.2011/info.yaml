@@ -1,0 +1,47 @@
+abstract: We present a Monte Carlo calculation of the astrophysical rate of the 15O(alpha,
+  gamma)19Ne reaction based on an evaluation of published experimental data. By considering
+  the likelihood distributions of individual resonance parameters derived from measurements,
+  estimates of upper and lower limits on the reaction rate at the 99.73\% confidence
+  level are derived in addition to the recommended, median value. These three reaction
+  rates are used as input for three separate calculations of Type I X-ray bursts (XRBs)
+  using spherically symmetric, hydrodynamic simulations of an accreting neutron star.
+  In this way the influence of the 15O(alpha, gamma)19Ne reaction rate on the peak
+  luminosity, recurrence time, and associated nucleosynthesis in models of Type I
+  XRBs is studied. Contrary to previous findings, no substantial effect on any of
+  these quantities is observed in a sequence of four bursts when varying the reaction
+  rate between its lower and upper limits. Rather, the differences in these quantities
+  are comparable to the burst-to-burst variations with a fixed reaction rate, indicating
+  that uncertainties in the 15O(alpha, gamma)19Ne reaction rate do not strongly affect
+  the predictions of this Type I XRB model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...735...40D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.2877
+author: Davids, B. and Cyburt, R. H. and José, J. and Mythili, S.
+author_list:
+- family: Davids
+  given: B.
+- family: Cyburt
+  given: R. H.
+- family: José
+  given: J.
+- family: Mythili
+  given: S.
+date-added: 2017-08-10 17:46:54 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/735/1/40
+eid: '40'
+eprint: '1104.2877'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: neutron, X-rays:
+  binaries, X-rays: bursts'
+month: July
+pages: '40'
+papis_id: b5b7f8277e92d62fcdeb28065e6b271f
+primaryclass: astro-ph.HE
+ref: davids.b.2011
+title: The Influence of Uncertainties in the $^15$O(\$α\$, \$γ\$)\$^19\$Ne Reaction
+  Rate on Models of Type I X-Ray Bursts
+type: article
+volume: '735'
+year: '2011'

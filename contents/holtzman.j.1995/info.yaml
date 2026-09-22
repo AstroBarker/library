@@ -1,0 +1,75 @@
+abstract: The Wide Field Planetary Camera 2 (WFPC2) was installed in the Hubble Space
+  Telescope (HST) in 1993 December. Since then, the instrument has been providing
+  high-quality images. A significant among of calibration data has been collected
+  to aid in the understanding of the on-orbit performance of the instrument. Generally,
+  the behavior of the camera is similar to its performance during the system-level
+  thermal vacuum test at JPL in 1993 May. Surprises were a significant charge-transfer-efficiency
+  (CTE) problem and a significant growth rate in hot pixels at the original operating
+  temperature of the CCDs (-76 deg C). The operating temperature of the WFPC2 CCDs
+  was changed to -88 deg C on 1994 April 23, and significant improvements in CTE and
+  hot pixels are seen at this temperature. In this paper we describe the on-orbit
+  performance of the WFPC2. We discuss the optical and thermal history, the instrument
+  throughput and stability, the Point Spread Function (PSF), the effects of undersampling
+  on photometry, the properties of cosmic rays observed on-orbit, and the geometric
+  distortion in the camera. We present the best techniques for the reduction of WFPC2
+  data, and describe the construction of calibration products including superbiases,
+  super-darks, and flat fields.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995PASP..107..156H
+author: Holtzman, J. A. and Hester, J. J. and Casertano, S. and Trauger, J. T. and
+  Watson, A. M. and Ballester, G. E. and Burrows, C. J. and Clarke, J. T. and Crisp,
+  D. and Evans, R. W. and Gallagher III, J. S. and Griffiths, R. E. and Hoessel, J.
+  G. and Matthews, L. D. and Mould, J. R. and Scowen, P. A. and Stapelfeldt, K. R.
+  and Westphal, J. A.
+author_list:
+- family: Holtzman
+  given: J. A.
+- family: Hester
+  given: J. J.
+- family: Casertano
+  given: S.
+- family: Trauger
+  given: J. T.
+- family: Watson
+  given: A. M.
+- family: Ballester
+  given: G. E.
+- family: Burrows
+  given: C. J.
+- family: Clarke
+  given: J. T.
+- family: Crisp
+  given: D.
+- family: Evans
+  given: R. W.
+- family: Gallagher III
+  given: J. S.
+- family: Griffiths
+  given: R. E.
+- family: Hoessel
+  given: J. G.
+- family: Matthews
+  given: L. D.
+- family: Mould
+  given: J. R.
+- family: Scowen
+  given: P. A.
+- family: Stapelfeldt
+  given: K. R.
+- family: Westphal
+  given: J. A.
+date-added: 2017-08-10 21:16:36 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/133533
+journal: \pasp
+keywords: Astronomical Photography, Calibrating, Cameras, Cassegrain Optics, Hubble
+  Space Telescope, Wide Angle Lenses, Aerospace Environments, Charge Coupled Devices,
+  Cosmic Rays, Operating Temperature
+month: February
+pages: 156--178
+papis_id: ebe934cc29fdec05385502bf5bb9b4f7
+ref: holtzman.j.1995
+title: The performance and calibration of WFPC2 on the Huble Space Telescope
+type: article
+volume: '107'
+year: '1995'

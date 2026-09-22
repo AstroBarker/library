@@ -1,0 +1,45 @@
+abstract: The radio observations have revealed the compelling evidence of the existence
+  of relativistic jets not only from active galactic nuclei but also from ``microquasars''
+  in our Galaxy. In the cores of these objects, it is believed that a black hole exists
+  and that violent phenomena occur in the black hole magnetosphere, forming the relativistic
+  jets. To simulate the jet formation in the magnetosphere, we have newly developed
+  the general relativistic magnetohydrodynamic code. Using the code, we present a
+  model of these relativistic jets, in which magnetic fields penetrating the accretion
+  disk around a black hole play a fundamental role of inducing nonsteady accretion
+  and ejection of plasmas. According to our simulations, a jet is ejected from a close
+  vicinity to a black hole (inside 3rS, where rS is the Schwarzschild radius) at a
+  maximum speed of ~90\% of the light velocity (i.e., a Lorentz factor of ~2). The
+  jet has a two-layered shell structure consisting of a fast gas pressure-driven jet
+  in the inner part and a slow magnetically driven jet in the outer part, both of
+  which are collimated by the global poloidal magnetic field penetrating the disk.
+  The former jet is a result of a strong pressure increase due to shock formation
+  in the disk through fast accretion flow (``advection-dominated disk'') inside 3rS,
+  which has never been seen in the nonrelativistic calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...495L..63K
+author: Koide, S. and Shibata, K. and Kudoh, T.
+author_list:
+- family: Koide
+  given: S.
+- family: Shibata
+  given: K.
+- family: Kudoh
+  given: T.
+date-added: 2017-08-11 05:28:11 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/311204
+journal: \apjl
+keywords: 'BLACK HOLE PHYSICS, GALAXIES: JETS, RELATIVITY, MAGNETIC FIELDS, MAGNETOHYDRODYNAMICS:
+  MHD, ACCRETION, ACCRETION DISKS, METHODS: NUMERICAL, Accretion, Accretion Disks,
+  Black Hole Physics, Galaxies: Jets, Magnetic Fields, Methods: Numerical, Magnetohydrodynamics:
+  MHD, Relativity'
+month: March
+pages: L63-L66
+papis_id: 499cfb1250f1e3e7f688c689c7160995
+ref: koide.s.1998
+title: 'General Relativistic Magnetohydrodynamic Simulations of Jets from Black Hole
+  Accretions Disks: Two-Component Jets Driven by Nonsteady Accretion of Magnetized
+  Disks'
+type: article
+volume: '495'
+year: '1998'

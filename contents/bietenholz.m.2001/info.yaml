@@ -1,0 +1,48 @@
+abstract: Phase-referenced VLBI observations of supernova 1993J at 24 epochs, from
+  50 days after shock breakout to the present, allowed us to determine the coordinates
+  of the explosion center relative to the quasi-stationary core of the host galaxy
+  M81 with an accuracy of 45 muas and to determine the nominal proper motion of the
+  geometric center of the radio shell with an accuracy of 9 muas yr-1. The uncertainties
+  correspond to 160 AU for the position and 160 km s-1 for the proper motion at the
+  distance of the source of 3.63 Mpc. After correcting for the expected galactic proper
+  motion of the supernova around the core of M81 using H I rotation curves, we obtain
+  a peculiar proper motion of the radio shell center of only 320+/-160 km s-1 to the
+  south, which limits any possible one-sided expansion of the shell. We also find
+  that the shell is highly circular, the outer contours in fact being circular to
+  within 3\%. Combining our proper-motion values with the degree of circular symmetry,
+  we find that the expansion of the shock front from the explosion center is isotropic
+  to within 5.5\% in the plane of the sky. This is a more fundamental result on isotropic
+  expansion than can be derived from the circularity of the images alone. The brightness
+  of the radio shell, however, varies along the ridge and systematically changes with
+  time. The degree of isotropy in the expansion of the shock front contrasts with
+  the asymmetries and polarization found in optical spectral lines. Asymmetric density
+  distributions in the ejecta, or more likely in the circumstellar medium, are favored
+  to reconcile the radio and optical results. We see no sign of any disklike density
+  distribution of the circumstellar material, with the average axis ratio of the radio
+  shell of SN 1993J being less than 1.04.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...557..770B
+arxivurl: http://arxiv.org/abs/astro-ph/0104156
+author: Bietenholz, M. F. and Bartel, N. and Rupen, M. P.
+author_list:
+- family: Bietenholz
+  given: M. F.
+- family: Bartel
+  given: N.
+- family: Rupen
+  given: M. P.
+date-added: 2017-08-11 06:39:38 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321647
+eprint: astro-ph/0104156
+journal: \apj
+keywords: 'galaxies: individual (NGC 3031, M81), supernovae: individual (SN 1993J),
+  Techniques: Interferometric'
+month: August
+pages: 770--781
+papis_id: 0527ab868cc9867e9fec141810dee2d4
+ref: bietenholz.m.2001
+title: SN 1993J VLBI. I. The Center of the Explosion and a Limit on Anisotropic Expansion
+type: article
+volume: '557'
+year: '2001'

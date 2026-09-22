@@ -1,0 +1,65 @@
+abstract: We present new measurements of stellar velocity dispersions, using spectra
+  obtained with the Keck Echellette Spectrograph and Imager (ESI) and the Magellan
+  Echellette (MagE), for 76 Seyfert 1 galaxies from the recent catalog of Greene \&
+  Ho. These objects were selected from the Sloan Digital Sky Survey (SDSS) to have
+  estimated black hole (BH) masses below 2 \texttimes{} 106 M sun. Combining our results
+  with previous ESI observations of similar objects, we obtain an expanded sample
+  of 93 galaxies and examine the relation between BH mass and velocity dispersion
+  (the M BH-sigma\textasteriskcentered relation) for active galaxies with low BH masses.
+  The low-mass active galaxies tend to follow the extrapolation of the M BH-sigma\textasteriskcentered
+  relation of inactive galaxies. Including results for active galaxies of higher BH
+  mass from the literature, we find a zero point alpha = 7.68 $\pm$ 0.08 and slope
+  of beta = 3.32 \$\pm\$ 0.22 for the M BH-sigma\textasteriskcentered relation (in
+  the form log M BH = alpha + betalog (sigma\textasteriskcentered/200 km s-1)), with
+  intrinsic scatter of 0.46 \$\pm\$ 0.03 dex. This result is consistent, within the
+  uncertainties, with the slope of the M BH-sigma\textasteriskcentered relation for
+  reverberation-mapped active galaxies with BH masses from 106 to 109 M sun. For the
+  subset of our sample having morphological information from Hubble Space Telescope
+  images, we examine the slope of the M BH-sigma\textasteriskcentered relation separately
+  for subsamples of barred and unbarred host galaxies, and find no significant evidence
+  for a difference in slope. We do find a mild offset between low-inclination and
+  high-inclination disk galaxies, such that more highly inclined galaxies tend to
+  have larger sigma\textasteriskcentered at a given value of BH mass, presumably due
+  to the contribution of disk rotation within the spectroscopic aperture. We also
+  find that the velocity dispersion of the ionized gas, measured from narrow emission
+  lines including [N II] lambda6583, [S II] lambdalambda6716, 6731, and the core of
+  [O III] lambda5007 (with the blueshifted wing removed), trace the stellar velocity
+  dispersion well for this large sample of low-mass Seyfert 1 galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...739...28X
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.6232
+author: Xiao, T. and Barth, A. J. and Greene, J. E. and Ho, L. C. and Bentz, M. C.
+  and Ludwig, R. R. and Jiang, Y.
+author_list:
+- family: Xiao
+  given: T.
+- family: Barth
+  given: A. J.
+- family: Greene
+  given: J. E.
+- family: Ho
+  given: L. C.
+- family: Bentz
+  given: M. C.
+- family: Ludwig
+  given: R. R.
+- family: Jiang
+  given: Y.
+date-added: 2017-08-11 02:03:29 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/739/1/28
+eid: '28'
+eprint: '1106.6232'
+journal: \apj
+keywords: 'galaxies: active, galaxies: dwarf, galaxies: nuclei, galaxies: Seyfert'
+month: September
+pages: '28'
+papis_id: 994d0e745c0c745f2789073384a82ec4
+primaryclass: astro-ph.CO
+ref: xiao.t.2011
+title: Exploring the Low-mass End of the M $_BH$-\$σ\$\$_\textasteriskcentered\$ Relation
+  with Active Galaxies
+type: article
+volume: '739'
+year: '2011'

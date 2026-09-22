@@ -1,0 +1,65 @@
+abstract: 'In recent years proper-motion measurements have been added to the set of
+  observational constraints on the current properties of Galactic X-ray binaries.
+  We develop an analysis that allows us to consider all this available information
+  and reconstruct the full evolutionary history of X-ray binaries back to the time
+  of core collapse and compact object formation. This analysis accounts for five evolutionary
+  phases: mass transfer through the ongoing X-ray phase, tidal circularization before
+  the onset of Roche lobe overflow, motion through the Galactic potential after the
+  formation of the compact object, binary orbital dynamics at the time of core collapse,
+  and hydrodynamic modeling of the core collapse that connects the compact object
+  to its progenitor and any nucleosynthetic constraints available. In this first paper
+  we present this analysis in a comprehensive manner and apply it to the soft X-ray
+  transient GRO J1655-40. This is the first analysis that incorporates all observational
+  constraints on the current system properties and uses the full three-dimensional
+  peculiar velocity constraints right after core collapse instead of lower limits
+  on the current space velocity given by the present-day radial velocity. We find
+  that the system has remained within 200 pc from the Galactic plane throughout its
+  entire lifetime and that the mass loss and a kick possibly associated with the black
+  hole formation imparted a kick velocity of ~=45-115 km s-1 to the binary''s center
+  of mass. Right after black hole formation, the system consists of a ~=3.5-6.3 Msolar
+  black hole and a ~=2.3-4 Msolar main-sequence star. At the onset of the X-ray phase
+  the donor is still on the main sequence. We find that a symmetric black hole formation
+  event cannot be formally excluded but that the associated system parameters are
+  only marginally consistent with the currently observed binary properties. Black
+  hole formation mechanisms involving an asymmetric supernova explosion with associated
+  black hole kick velocities of a few tens of km s-1, on the other hand, satisfy the
+  constraints much more comfortably. We also derive an upper limit on the black hole
+  kick magnitude of ~=210 km s-1.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...625..324W
+arxivurl: http://arxiv.org/abs/astro-ph/0411423
+author: Willems, B. and Henninger, M. and Levin, T. and Ivanova, N. and Kalogera,
+  V. and McGhee, K. and Timmes, F. X. and Fryer, C. L.
+author_list:
+- family: Willems
+  given: B.
+- family: Henninger
+  given: M.
+- family: Levin
+  given: T.
+- family: Ivanova
+  given: N.
+- family: Kalogera
+  given: V.
+- family: McGhee
+  given: K.
+- family: Timmes
+  given: F. X.
+- family: Fryer
+  given: C. L.
+date-added: 2017-08-10 18:47:13 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/429557
+eprint: astro-ph/0411423
+journal: \apj
+keywords: 'Stars: Binaries: Close, Stars: Evolution, X-Rays: Binaries, X-Rays: Individual:
+  Alphanumeric: GRO J1655-40'
+month: May
+pages: 324--346
+papis_id: a812fbc0fc403c0065e6994a9f1de7e8
+ref: willems.b.2005a
+title: Understanding Compact Object Formation and Natal Kicks. I. Calculation Methods
+  and the Case of GRO J1655-40
+type: article
+volume: '625'
+year: '2005'

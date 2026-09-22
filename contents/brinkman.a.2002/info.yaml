@@ -1,0 +1,62 @@
+abstract: Using the combined spectral and spatial resolving power of the Low Energy
+  Transmission Grating (LETGS) on board Chandra, we obtain separate spectra from the
+  bright central source of NGC 1068 (Primary region), and from a fainter bright spot
+  4\arcsec to the NE (Secondary region). Both spectra are dominated by discrete line
+  emission from H- and He-like ions of C through S, and from Fe L-shell ions, but
+  also include narrow radiative recombination continua (RRC), indicating that most
+  of the observed soft X-ray emission arises in low-temperature (kTe ~ few eV) photoionized
+  plasma. We confirm the conclusions of Kinkhabwala et al. (\cite{kinkhabwala02b}),
+  based on XMM-Newton Reflection Grating Spectrometer (RGS) observations, that the
+  entire nuclear spectrum can be explained by recombination/radiative cascade following
+  photoionization, and radiative decay following photoexcitation, with no evidence
+  for the presence of hot, collisionally ionized plasma. In addition, we show that
+  this same model also provides an excellent fit to the spectrum of the Secondary
+  region, albeit with radial column densities roughly a factor of three lower, as
+  would be expected given its distance from the source of the ionizing continuum.
+  The remarkable overlap and kinematical agreement of the optical and X-ray line emission,
+  coupled with the need for a distribution of ionization parameter to explain the
+  X-ray spectra, collectively imply the presence of a distribution of densities (over
+  a few orders of magnitude) at each radius in the ionization cone. Relative abundances
+  of all elements are consistent with Solar abundance, except for N, which is 2-3
+  times Solar. Finally, the long wavelength spectrum beyond 30 {\AA} is rich of L-shell
+  transitions of Mg, Si, S, and Ar, and M-shell transitions of Fe. The velocity dispersion
+  decreases with increasing ionization parameter, which has been deduced from the
+  measured line intensities of particularly these long wavelength lines in conjunction
+  with the Fe-L shell lines.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...396..761B
+arxivurl: http://arxiv.org/abs/astro-ph/0211403
+author: Brinkman, A. C. and Kaastra, J. S. and van der Meer, R. L. J. and Kinkhabwala,
+  A. and Behar, E. and Kahn, S. M. and Paerels, F. B. S. and Sako, M.
+author_list:
+- family: Brinkman
+  given: A. C.
+- family: Kaastra
+  given: J. S.
+- family: van der Meer
+  given: R. L. J.
+- family: Kinkhabwala
+  given: A.
+- family: Behar
+  given: E.
+- family: Kahn
+  given: S. M.
+- family: Paerels
+  given: F. B. S.
+- family: Sako
+  given: M.
+date-added: 2017-08-11 06:33:23 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1051/0004-6361:20020918
+eprint: astro-ph/0211403
+journal: \aap
+keywords: 'galaxies: individual: NGC 1068, galaxies: Seyfert, quasars: emission lines,
+  X-rays: galaxies'
+month: December
+pages: 761--772
+papis_id: a3b3efda67cde8bb1888888628aed7f5
+ref: brinkman.a.2002
+title: The soft X-ray spectrum from NGC 1068 observed with LETGS on Chandra
+type: article
+volume: '396'
+year: '2002'

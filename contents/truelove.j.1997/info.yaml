@@ -1,0 +1,58 @@
+abstract: We demonstrate with a new three-dimensional adaptive mesh refinement code
+  that perturbations arising from discretization of the equations of self-gravitational
+  hydrodynamics can grow into fragments in multiple-grid simulations, a process we
+  term ``artificial fragmentation.'' We present star formation calculations of isothermal
+  collapse of dense molecular cloud cores. In simulation of a Gaussian-profile cloud
+  free of applied perturbations, we find artificial fragmentation can be avoided across
+  the isothermal density regime by ensuring the ratio of cell size to Jeans length,
+  which we call the Jeans number, J \equiv{} Deltax/lambdaJ , is kept below 0.25.
+  We refer to the constraint that lambdaJ be resolved as the Jeans condition. When
+  an m = 2 perturbation is included, we again find it necessary to keep J <= 0.25
+  to achieve a converged morphology. Collapse to a filamentary singularity occurs
+  without fragmentation of the filament, in agreement with the predictions of Inutsuka
+  \& Miyama. Simulation beyond the time of this singularity requires an arresting
+  agent to slow the runaway density growth. Physically, the breakdown of isothermality
+  due to the buildup of opacity acts as this agent, but many published calculations
+  have instead used artificial viscosity for this purpose. Because artificial viscosity
+  is resolution dependent, such calculations produce resolution-dependent results.
+  In the context of the perturbed Gaussian cloud, we show that use of artificial viscosity
+  to arrest collapse results in significant violation of the Jeans condition. We also
+  show that if the applied perturbation is removed from such a calculation, numerical
+  fluctuations grow to produce substantial fragments not unlike those found when the
+  perturbation is included. These findings indicate that calculations that employ
+  artificial viscosity to halt collapse are susceptible to contamination by artificial
+  fragmentation. The Jeans condition has important implications for numerical studies
+  of isothermal self-gravitational hydrodynamics problems insofar as it is a necessary
+  but not, in general, sufficient condition for convergence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...489L.179T
+author: Truelove, J. K. and Klein, R. I. and McKee, C. F. and Holliman II, J. H. and
+  Howell, L. H. and Greenough, J. A.
+author_list:
+- family: Truelove
+  given: J. K.
+- family: Klein
+  given: R. I.
+- family: McKee
+  given: C. F.
+- family: Holliman II
+  given: J. H.
+- family: Howell
+  given: L. H.
+- family: Greenough
+  given: J. A.
+date-added: 2017-08-10 21:38:32 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/310975
+journal: \apjl
+keywords: 'GRAVITATION, HYDRODYNAMICS, ISM: CLOUDS, METHODS: NUMERICAL, STARS: FORMATION,
+  Gravitation, Hydrodynamics, ISM: Clouds, Methods: Numerical, Stars: Formation'
+month: November
+pages: L179-L183
+papis_id: a36ea5b580d56cbe5982cc555516e443
+ref: truelove.j.1997
+title: 'The Jeans Condition: A New Constraint on Spatial Resolution in Simulations
+  of Isothermal Self-gravitational Hydrodynamics'
+type: article
+volume: '489'
+year: '1997'

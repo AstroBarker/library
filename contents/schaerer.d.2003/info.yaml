@@ -1,0 +1,57 @@
+abstract: 'Using new sets of stellar evolution models at very low metallicities (Z
+  = 10-7, 10-5) and previously published grids we examine spectral properties of the
+  ionising continua, the Lyman-break, and the Lyalpha and He I lambda 4471iuv recombination
+  lines in starbursts. The metallicity dependence of these properties, especially
+  the transition from primordial galaxies (Population III) to currently observed metallicities,
+  is examined for various IMFs and star formation histories. For the average properties
+  of starbursts, approximated by a model with constant star formation, the main findings
+  are: - The Lyman continuum flux Q(H) increases with decreasing metallicity. For
+  a universal Salpeter IMF from 1-100 Msun the enhancement reaches typically a factor
+  of ~ 3 between solar metallicity and Pop III objects. - While for metallicities
+  Z >~ 1/50 Zsun the amplitude of the Lyman-break depends little on Z, a reduction
+  by a factor ~ 2 is found at lower metallicities, due to the strong increase of the
+  average stellar temperature. - Using theoretical models and empirical constraints
+  we discuss the expected evolution of the hardness of He+ to H ionising photons,
+  Q(He+)/Q(H), with metallicity and possible uncertainties. Over the metallicity range
+  Z=0 to ~ 10-4 the hardness decreases from log (Q(He+)/Q(H)) ~ -1.4 ... -2.3 by ~
+  1.5-2 or more orders of magnitude, depending strongly on the upper mass cut-off
+  of the IMF. From empirical constraints we derive a hardness log (Q(He+)/Q(H)) ~
+  -3.2 to -2.6 for metal-poor starbursts (1/25 <~ Z/Zsun <~ 1/4) and softer spectra
+  for higher metallicities. We also provide a simple estimate of the possible impact
+  of hot WR like stars on Q(He+)/Q(H) at very low metallicities (Z <~ 10-4). - Calibrations
+  for star formation rate determinations from various recombination lines at all metallicities
+  and for various IMFs are derived. For young bursts the maximum Lyalpha equivalent
+  width is shown to increase strongly with decreasing metallicity from W(Lyalpha )
+  ~ 250-350 {\AA} at Z >~ 1/50 Zsun to 400-850 {\AA} or higher at Z between 10-5 and
+  0 (Pop III) for the same Salpeter IMF. However, for well known reasons, the Lyalpha
+  emission predicted likely represents an upper limit. Non-negligible He I lambda
+  4471iuv emission due to stellar photoionisation appears to be limited to very small
+  metallicities (log (Z/Zsun) <~ -5.3) and Population III objects. The predictions,
+  available on the Web through the CDS and at http://webast.ast.obs-mip.fr/sfr/, should
+  be useful for a variety of studies regarding high redshift galaxies, cosmological
+  reionisation, and others. The catalog is only available in electronic form at the
+  CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http:/ /cdsweb.u-strasbg.fr/
+  cgi-bin/qcat?J/ A+A/397/527'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...397..527S
+arxivurl: http://arxiv.org/abs/astro-ph/0210462
+author: Schaerer, D.
+author_list:
+- family: Schaerer
+  given: D.
+date-added: 2017-08-10 20:16:40 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1051/0004-6361:20021525
+eprint: astro-ph/0210462
+journal: \aap
+keywords: 'cosmology: early Universe, galaxies: stellar content, stars: general, stars:
+  fundamental parameters, stars: atmospheres'
+month: January
+pages: 527--538
+papis_id: ec2bf39573146fe50d987326cb316c8a
+ref: schaerer.d.2003
+title: 'The transition from Population III to normal galaxies: Lyalpha and He II emission
+  and the ionising properties of high redshift starburst galaxies'
+type: article
+volume: '397'
+year: '2003'

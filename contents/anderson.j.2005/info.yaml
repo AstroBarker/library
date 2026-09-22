@@ -1,0 +1,51 @@
+abstract: We present the results of a series of time-dependent numerical simulations
+  of cold, magnetocentrifugally launched winds from accretion disks. The goal of this
+  study is to determine how the mass loading from the disk affects the structure and
+  dynamics of the wind for a given distribution of magnetic fields. Our simulations
+  span 4.5 dex of mass loading; in the context of a disk with a launching region from
+  0.1 to 1.0 AU around a 1 Msolar star and a field strength of about 20 G at the inner
+  disk edge, this amounts to mass-loss rates of 1\texttimes{}10-9-3\texttimes{}10-5
+  Msolar yr-1 from each side of the disk. We find that, as expected intuitively, the
+  degree of collimation of the wind increases with mass loading; however, even the
+  ``lightest'' wind simulated is significantly collimated compared with the force-free
+  magnetic configuration of the same magnetic flux distribution at the launching surface,
+  which becomes radial at large distances. The implication is that for flows from
+  young stellar objects, a radial field approximation is inappropriate. Surprisingly,
+  the terminal velocity of the wind and the magnetic lever arm are still well described
+  by the analytical solutions for a radial field geometry. We also find that the isodensity
+  contours and the Alfv{\'e}n surface are approximately self-similar in mass loading.
+  The wind becomes unsteady above some critical mass-loading rate. The exact value
+  of the critical rate depends on the (small) velocity with which we inject the material
+  into the wind. For a small enough injection speed, we are able to obtain the first
+  examples of a class of heavily loaded magnetocentrifugal winds with magnetic fields
+  completely dominated by the toroidal component all the way to the launching surface.
+  The stability of such toroidally dominated winds in three dimensions will be the
+  subject of a future investigation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...630..945A
+arxivurl: http://arxiv.org/abs/astro-ph/0410704
+author: Anderson, J. M. and Li, Z.-Y. and Krasnopolsky, R. and Blandford, R. D.
+author_list:
+- family: Anderson
+  given: J. M.
+- family: Li
+  given: Z.-Y.
+- family: Krasnopolsky
+  given: R.
+- family: Blandford
+  given: R. D.
+date-added: 2017-08-10 23:03:50 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/432040
+eprint: astro-ph/0410704
+journal: \apj
+keywords: 'Accretion, Accretion Disks, ISM: Jets and Outflows, Magnetohydrodynamics:
+  MHD, Stars: Formation, Stars: Mass Loss, Stars: Pre-Main-Sequence'
+month: September
+pages: 945--957
+papis_id: c600caa2866da2cdbf4f19fd0b56e7f6
+ref: anderson.j.2005
+title: The Structure of Magnetocentrifugal Winds. I. Steady Mass Loading
+type: article
+volume: '630'
+year: '2005'

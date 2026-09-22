@@ -1,0 +1,64 @@
+abstract: A set of hydrodynamical models based on stellar evolutionary progenitors
+  is used to study the nature of SN 2011dh. Our modeling suggests that a large progenitor
+  star---with R ~ 200 R \&sun;---is needed to reproduce the early light curve (LC)
+  of SN 2011dh. This is consistent with the suggestion that the yellow super-giant
+  star detected at the location of the supernova (SN) in deep pre-explosion images
+  is the progenitor star. From the main peak of the bolometric LC and expansion velocities,
+  we constrain the mass of the ejecta to be \approx{}2 M \&sun;, the explosion energy
+  to be E = (6-10) \texttimes{} 1050 erg, and the 56Ni mass to be approximately 0.06
+  M \&sun;. The progenitor star was composed of a helium core of 3-4 M \&sun; and
+  a thin hydrogen-rich envelope of \approx{}0.1M \&sun; with a main-sequence mass
+  estimated to be in the range of 12-15 M \&sun;. Our models rule out progenitors
+  with helium-core masses larger than 8 M \&sun;, which correspond to M ZAMS >~ 25M
+  \&sun;. This suggests that a single star evolutionary scenario for SN 2011dh is
+  unlikely.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...31B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.5975
+author: Bersten, M. C. and Benvenuto, O. G. and Nomoto, K. and Ergon, M. and Folatelli,
+  G. and Sollerman, J. and Benetti, S. and Botticella, M. T. and Fraser, M. and Kotak,
+  R. and Maeda, K. and Ochner, P. and Tomasella, L.
+author_list:
+- family: Bersten
+  given: M. C.
+- family: Benvenuto
+  given: O. G.
+- family: Nomoto
+  given: K.
+- family: Ergon
+  given: M.
+- family: Folatelli
+  given: G.
+- family: Sollerman
+  given: J.
+- family: Benetti
+  given: S.
+- family: Botticella
+  given: M. T.
+- family: Fraser
+  given: M.
+- family: Kotak
+  given: R.
+- family: Maeda
+  given: K.
+- family: Ochner
+  given: P.
+- family: Tomasella
+  given: L.
+date-added: 2017-08-10 15:18:57 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/757/1/31
+eid: '31'
+eprint: '1207.5975'
+journal: \apj
+keywords: 'hydrodynamics, supernovae: general, supernovae: individual: SN 2011dh'
+month: September
+pages: '31'
+papis_id: 554b16a57bd9644973dd67bdd5435b82
+primaryclass: astro-ph.HE
+ref: bersten.m.2012
+title: The Type IIb Supernova 2011dh from a Supergiant Progenitor
+type: article
+volume: '757'
+year: '2012'

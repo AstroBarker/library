@@ -1,0 +1,78 @@
+abstract: In our original Letter, we calculated the likely size of the Galactic double
+  neutron star (DNS) population in two stages. First, we simulated the DNS distribution
+  in the Galaxy. At this stage, in addition to storing the spatial properties and
+  luminosities of the model pulsars, we also computed their expected dispersion measures
+  and pulse scatter broadening times using a model for the electron density distribution.
+  This information was stored to an intermediate file for subsequent analysis by our
+  simulation code, in which the simulated population was ``searched'' using detailed
+  models of the various pulsar surveys. Unfortunately, while the scatter-broadening
+  times created in the first part of the calculation were saved in units of milliseconds,
+  the survey simulation code assumed them in units of seconds. This error led to an
+  underprediction of the number of pulsars in the model observed samples, which in
+  turn resulted in an overestimate of the true number, and hence in-spiral rate, of
+  DNS binaries in the Galaxy.  We have now repeated these calculations using the correct
+  unit conversion and find the Galactic DNS in-spiral rate R to be 83.0+209.1-66.1
+  Myr-1 at a 95\% confidence interval (model 6), a factor of ~2.2 smaller than in
+  the original paper. The corresponding detection rates for the initial and advanced
+  LIGO are Rdet,ini=(34.8+87.6-27.7)\texttimes{}10-3 yr-1 and Rdet,adv=186.8+470.5-148.7
+  yr-1, respectively. For all models we consider, the estimated DNS in-spiral rates
+  range between ~4 and 224 Myr-1. We show the revised result for our reference model
+  in Figure 1. Table 1 summarizes the revised calculations for all models in our original
+  paper. However, we note that the increase rate factor (IRF) due to the discovery
+  of J0737-3039 remains essentially unaffected, since the unit error cancels out,
+  the IRF being a measure of relative changes in rate. The IRF is found to be in the
+  range 6-7 for all models under consideration. The exact values of IRF are shown
+  in Table 1.  This error also propagates through to our predictions for future DNS
+  discoveries in the Parkes multibeam survey. Repeating the analysis in {\S} 4 of
+  our original Letter, we find that the average number of DNS with properties similar
+  to those currently known to be detected using full acceleration search processing
+  is ~4. The revised probability distribution of expected detections is shown in Figure
+  2.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...614L.137K
+arxivurl: http://arxiv.org/abs/astro-ph/0312101
+author: Kalogera, V. and Kim, C. and Lorimer, D. R. and Burgay, M. and D'Amico, N.
+  and Possenti, A. and Manchester, R. N. and Lyne, A. G. and Joshi, B. C. and McLaughlin,
+  M. A. and Kramer, M. and Sarkissian, J. M. and Camilo, F.
+author_list:
+- family: Kalogera
+  given: V.
+- family: Kim
+  given: C.
+- family: Lorimer
+  given: D. R.
+- family: Burgay
+  given: M.
+- family: D'Amico
+  given: N.
+- family: Possenti
+  given: A.
+- family: Manchester
+  given: R. N.
+- family: Lyne
+  given: A. G.
+- family: Joshi
+  given: B. C.
+- family: McLaughlin
+  given: M. A.
+- family: Kramer
+  given: M.
+- family: Sarkissian
+  given: J. M.
+- family: Camilo
+  given: F.
+date-added: 2017-08-10 15:54:45 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/425868
+eprint: astro-ph/0312101
+journal: \apjl
+keywords: Errata, Addenda
+month: October
+pages: L137-L138
+papis_id: 179b2794935c200594f6f6497409daa4
+ref: kalogera.v.2004
+title: 'Erratum: ``The Cosmic Coalescence Rates for Double Neutron Star Binaries''''(<A
+  href=``/abs/2004ApJ...601L.179K''''>ApJ, 601, L179 [2004]</A>)'
+type: article
+volume: '614'
+year: '2004'

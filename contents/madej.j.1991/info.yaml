@@ -1,0 +1,30 @@
+abstract: Model atmosphere equations are derived which correspond to plane-parallel
+  nongray atmospheres of very hot neutron stars in hydrostatic and radiative equilibrium.
+  The nonlinear transfer equation used implements an exact photon redistribution function
+  which precisely traces even those scattering events having large photon-electron
+  energy exchange. The numerical results thus obtained encompass tables of the surface
+  fluxes for 20 model atmospheres whose T(eff) ranges from 6 to 30 million K. The
+  spectra of high gravity models are virtually identical with the blackbody spectrum
+  shifted toward higher energies, while models approaching the Eddington limit develop
+  a large low-energy hump.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...376..161M
+author: Madej, J.
+author_list:
+- family: Madej
+  given: J.
+date-added: 2017-08-11 02:47:47 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/170264
+journal: \apj
+keywords: Neutron Stars, Radiative Transfer, Stellar Atmospheres, X Ray Sources, X
+  Ray Spectra, Atmospheric Models, Compton Effect, Computational Astrophysics, Limb
+  Darkening, Numerical Analysis, X Ray Astronomy
+month: July
+pages: 161--176
+papis_id: c0df2110f7cdc314c39fe5fbbbeb959c
+ref: madej.j.1991
+title: Model atmospheres and X-ray spectra of bursting neutron stars
+type: article
+volume: '376'
+year: '1991'

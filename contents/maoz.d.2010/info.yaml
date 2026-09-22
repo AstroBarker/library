@@ -1,0 +1,62 @@
+abstract: Knowledge of the supernova (SN) delay time distribution (DTD)---the SN rate
+  versus time that would follow a hypothetical brief burst of star formation---can
+  shed light on SN progenitors and physics, as well as on the timescales of chemical
+  enrichment in different environments. We compile recent measurements of the Type-Ia
+  SN (SN Ia) rate in galaxy clusters at redshifts from z = 0 out to z = 1.45, just
+  2 Gyr after cluster star formation at z \approx{} 3. We review the plausible range
+  for the observed total iron-to-stellar mass ratio in clusters, based on the latest
+  data and analyses, and use it to constrain the time-integrated number of SN Ia events
+  in clusters. With these data, we recover the DTD of SNe Ia in cluster environments.
+  The DTD is sharply peaked at the shortest time-delay interval we probe, 0Gyr < t
+  < 2.2 Gyr, with a low tail out to delays of ~10 Gyr, and is remarkably consistent
+  with several recent DTD reconstructions based on different methods, applied to different
+  environments. We test DTD models from the literature, requiring that they simultaneously
+  reproduce the observed cluster SN rates and the observed iron-to-stellar mass ratios.
+  A parameterized power-law DTD of the form t -1.2$\pm$.3 from t = 400 Myr to a Hubble
+  time can satisfy both constraints. Shallower power laws such as t -1/2 cannot, assuming
+  a single DTD, and a single star formation burst (either brief or extended) at high
+  z. This implies that 50\%-85\% of SNe Ia explode within 1 Gyr of star formation.
+  DTDs from double-degenerate (DD) models, which generically have ~t -1 shapes over
+  a wide range of timescales, match the data, but only if their predictions are scaled
+  up by factors of 5-10. Single-degenerate (SD) DTDs always give poor fits to the
+  data, due to a lack of delayed SNe and overall low numbers of SNe. The observations
+  can also be reproduced with a combination of two SN Ia populations---a prompt SD
+  population of SNe Ia that explodes within a few Gyr of star formation, and produces
+  about 60\% of the iron mass in clusters, and a DD population that contributes the
+  events seen at z < 1.5. An alternative scenario of a single, prompt, SN Ia population,
+  but a composite star formation history in clusters, consisting of a burst at high
+  z, followed by a constant star formation rate, can reproduce the SN rates, but is
+  at odds with direct measurements of star formation in clusters at 0 < z < 1. Our
+  results support the existence of a DD progenitor channel for SNe Ia, if the overall
+  predicted numbers can be suitably increased.  Based on observations made with the
+  NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science Institute,
+  which is operated by the Association of Universities for Research in Astronomy,
+  Inc., under NASA contract NAS 5-26555. These observations are associated with programs
+  GO-10493 and GO-10793.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722.1879M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.3576
+author: Maoz, D. and Sharon, K. and Gal-Yam, A.
+author_list:
+- family: Maoz
+  given: D.
+- family: Sharon
+  given: K.
+- family: Gal-Yam
+  given: A.
+date-added: 2017-08-11 00:45:08 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/2/1879
+eprint: '1006.3576'
+journal: \apj
+keywords: 'galaxies: clusters: general, supernovae: general'
+month: October
+pages: 1879--1894
+papis_id: 98e25eb26194f0cf353fbeda11bca5d3
+ref: maoz.d.2010
+title: The Supernova Delay Time Distribution in Galaxy Clusters and Implications for
+  Type-Ia Progenitors and Metal Enrichment
+type: article
+volume: '722'
+year: '2010'

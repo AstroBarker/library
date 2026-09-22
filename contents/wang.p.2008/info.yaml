@@ -1,0 +1,45 @@
+abstract: 'Astrophysical relativistic flow problems require high-resolution three-dimensional
+  (3D) numerical simulations. In this paper, we describe a new parallel 3D code for
+  simulations of special relativistic hydrodynamics (SRHD) using both spatially and
+  temporally structured adaptive mesh refinement (AMR). We used the method of lines
+  to discretize the SRHD equations spatially and a total variation diminishing (TVD)
+  Runge-Kutta scheme for time integration. For spatial reconstruction, we have implemented
+  piecewise linear method (PLM), piecewise parabolic method (PPM), third-order convex
+  essentially nonoscillatory (CENO) and third- and fifth-order weighted essentially
+  nonoscillatory (WENO) schemes. Flux is computed using either direct flux reconstruction
+  or approximate Riemann solvers including HLL, modified Marquina flux, local Lax-Friedrichs
+  flux formulas, and HLLC. The AMR part of the code is built on top of the cosmological
+  Eulerian AMR code enzo. We discuss the coupling of the AMR framework with the relativistic
+  solvers. Via various test problems, we emphasize the importance of resolution studies
+  in relativistic flow simulations because extremely high resolution is required especially
+  when shear flows are present in the problem. We also present the results of two
+  3D simulations of astrophysical jets: AGN jets and GRB jets. Resolution study of
+  those two cases further highlights the need of high resolutions to calculate accurately
+  relativistic flow problems.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..176..467W
+arxivurl: http://arxiv.org/abs/astro-ph/0703742
+author: Wang, P. and Abel, T. and Zhang, W.
+author_list:
+- family: Wang
+  given: P.
+- family: Abel
+  given: T.
+- family: Zhang
+  given: W.
+date-added: 2017-08-10 21:24:37 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/529434
+eid: 467-483
+eprint: astro-ph/0703742
+journal: \apjs
+keywords: 'hydrodynamics, methods: numerical, relativity'
+month: June
+pages: 467--483
+papis_id: 14eb536ec6bb827d1fd68bd813de0bc0
+ref: wang.p.2008
+title: Relativistic Hydrodynamic Flows Using Spatial and Temporal Adaptive Structured
+  Mesh Refinement
+type: article
+volume: '176'
+year: '2008'

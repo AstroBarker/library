@@ -1,0 +1,50 @@
+abstract: Following our previous work, we investigate through hydrodynamic simulations
+  the destruction of newly formed dust grains by sputtering in the reverse shocks
+  of supernova remnants. Using an idealized setup of a planar shock impacting a dense,
+  spherical clump, we implant a population of Lagrangian particles into the clump
+  to represent a distribution of dust grains in size and composition. We vary the
+  relative velocity between the reverse shock and ejecta clump to explore the effects
+  of shock heating and cloud compression. Because supernova ejecta will be metal-enriched,
+  we consider gas metallicities from Z/Z \&sun; = 1 to 100 and their influence on
+  the cooling properties of the cloud and the thermal sputtering rates of embedded
+  dust grains. We post-process the simulation output to calculate grain sputtering
+  for a variety of species and size distributions. In the metallicity regime considered
+  in this paper, the balance between increased radiative cooling and increased grain
+  erosion depends on the impact velocity of the reverse shock. For slow shocks (v
+  shock <= 3000 km s-1), the amount of dust destruction is comparable across metallicities
+  or in some cases is decreased with increased metallicity. For higher shock velocities
+  (v shock >= 5000 km s-1), an increase in metallicity from Z/Z \&sun; = 10 to 100
+  can lead to an additional 24\% destruction of the initial dust mass. While the total
+  dust destruction varies widely across grain species and simulation parameters, our
+  most extreme cases result in complete destruction for some grain species and only
+  44\% dust mass survival for the most robust species. These survival rates are important
+  in understanding how early supernovae contribute to the observed dust masses in
+  high-redshift galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...748...12S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.0302
+author: Silvia, D. W. and Smith, B. D. and Shull, J. M.
+author_list:
+- family: Silvia
+  given: D. W.
+- family: Smith
+  given: B. D.
+- family: Shull
+  given: J. M.
+date-added: 2017-08-11 07:49:16 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/748/1/12
+eid: '12'
+eprint: '1111.0302'
+journal: \apj
+keywords: 'dust, extinction, hydrodynamics, ISM: supernova remnants, shock waves'
+month: March
+pages: '12'
+papis_id: 140b782beed8034809a4c71c090805e3
+ref: silvia.d.2012
+title: Numerical Simulations of Supernova Dust Destruction. II. Metal-enriched Ejecta
+  Knots
+type: article
+volume: '748'
+year: '2012'

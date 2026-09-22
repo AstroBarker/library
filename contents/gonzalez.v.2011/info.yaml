@@ -1,0 +1,57 @@
+abstract: We derive stellar masses from spectral energy distribution fitting to rest-frame
+  optical and UV fluxes for 401 star-forming galaxies at z ~ 4, 5, and 6 from Hubble-WFC3/IR
+  camera observations of the Early Release Science field combined with the deep GOODS-S
+  Spitzer/IRAC data (and include a previously published z ~ 7 sample). A mass-luminosity
+  relation with strongly luminosity-dependent  {M}/L\_UV ratios is found for the largest
+  sample (299 galaxies) at z ~ 4. The relation  {M}\propto L\_{UV,1500}^{1.7({+/-
+  }0.2)} has a well-determined intrinsic sample variance of 0.5 dex. This relation
+  is also consistent with the more limited samples at z ~ 5-7. This z ~ 4 mass-luminosity
+  relation, and the well-established faint UV-luminosity functions at z ~ 4-7, are
+  used to derive galaxy mass functions (MFs) to masses  {M}\sim 10^{8} at z ~ 4-7.
+  A bootstrap approach is used to derive the MFs to account for the large scatter
+  in the  {M}{--}L\_UV relation and the luminosity function uncertainties, along with
+  an analytical cross-check. The MFs are also corrected for the effects of incompleteness.
+  The incompleteness-corrected MFs are steeper than previously found, with slopes
+  alpha M  ~ -1.4 to -1.6 at low masses. These slopes are, however, still substantially
+  flatter than the MFs obtained from recent hydrodynamical simulations. We use these
+  MFs to estimate the stellar mass density (SMD) of the universe to a fixed M UV,
+  AB < - 18 as a function of redshift and find an SMD growth vprop(1 + z)-3.4 $\pm$
+  0.8 from z ~ 7 to z ~ 4. We also derive the SMD from the completeness-corrected
+  MFs to a mass limit {M}\sim 10^{8} M sun. Such completeness-corrected MFs and the
+  derived SMDs will be particularly important for comparisons as future MFs reach
+  to lower masses.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...735L..34G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.3901
+author: González, V. and Labbé, I. and Bouwens, R. J. and Illingworth, G. and Franx,
+  M. and Kriek, M.
+author_list:
+- family: González
+  given: V.
+- family: Labbé
+  given: I.
+- family: Bouwens
+  given: R. J.
+- family: Illingworth
+  given: G.
+- family: Franx
+  given: M.
+- family: Kriek
+  given: M.
+date-added: 2017-08-10 20:17:11 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/2041-8205/735/2/L34
+eid: L34
+eprint: '1008.3901'
+journal: \apjl
+keywords: 'galaxies: evolution, galaxies: high-redshift'
+month: July
+pages: L34
+papis_id: db1a591d8a4333135a835cd74a17527b
+ref: gonzalez.v.2011
+title: Evolution of Galaxy Stellar Mass Functions, Mass Densities, and Mass-to-light
+  Ratios from z ̃ 7 to z \̃ 4
+type: article
+volume: '735'
+year: '2011'

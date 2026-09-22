@@ -1,0 +1,46 @@
+abstract: We present the SFI++ data set, a homogeneously derived catalog of photometric
+  and rotational properties and the Tully-Fisher distances and peculiar velocities
+  derived from them. We make use of digital optical images, optical long-slit spectra,
+  and global H I line profiles to extract parameters of relevance to disk scaling
+  relations, incorporating several previously published data sets as well as a new
+  photometric sample of some 2000 objects. According to the completeness of available
+  redshift samples over the sky area, we exploit both a modified percolation algorithm
+  and the Voronoi-Delaunay method to assign individual galaxies to groups as well
+  as clusters, thereby reducing scatter introduced by local orbital motions. We also
+  provide corrections to the peculiar velocities for both homogeneous and inhomogeneous
+  Malmquist bias, making use of the 2MASS Redshift Survey density field to approximate
+  large-scale structure. We summarize the sample selection criteria, corrections made
+  to raw observational parameters, the grouping techniques, and our procedure for
+  deriving peculiar velocities. The final SFI++ peculiar velocity catalog of 4861
+  field and cluster galaxies is large enough to permit the study not just of the global
+  statistics of large-scale flows but also of the  details of the local velocity field.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..172..599S
+author: Springob, C. M. and Masters, K. L. and Haynes, M. P. and Giovanelli, R. and
+  Marinoni, C.
+author_list:
+- family: Springob
+  given: C. M.
+- family: Masters
+  given: K. L.
+- family: Haynes
+  given: M. P.
+- family: Giovanelli
+  given: R.
+- family: Marinoni
+  given: C.
+date-added: 2017-08-10 16:52:06 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/519527
+journal: \apjs
+keywords: 'Astronomical Data Bases: Miscellaneous, Galaxies: Distances and Redshifts,
+  Galaxies: Fundamental Parameters, Cosmology: Large-Scale Structure of Universe'
+month: October
+pages: 599--614
+papis_id: 0c19436d3d7bb0f746f6ace24924f4b5
+ref: springob.c.2007
+title: SFI++. II. A New I-Band Tully-Fisher Catalog, Derivation of Peculiar Velocities,
+  and Data Set Properties
+type: article
+volume: '172'
+year: '2007'

@@ -1,0 +1,33 @@
+abstract: Moving puncture simulations of black hole binaries rely on a specific gauge
+  choice that leads to approximately stationary coordinates near each black hole.
+  Part of the shift condition is a damping parameter, which has to be properly chosen
+  for stable evolutions. However, a constant damping parameter does not account for
+  the difference in mass in unequal mass binaries. We introduce a position-dependent
+  shift damping that addresses this problem. Although the coordinates change, the
+  changes in the extracted gravitational waves are small.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27k4008M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.3125
+author: Müller, D. and Brügmann, B.
+author_list:
+- family: Müller
+  given: D.
+- family: Brügmann
+  given: B.
+date-added: 2017-08-11 08:24:31 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0264-9381/27/11/114008
+eid: '114008'
+eprint: '0912.3125'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '114008'
+papis_id: f8f3239dc29f1111282a03d4e4b2f6a4
+primaryclass: gr-qc
+ref: muller.d.2010
+title: Toward a dynamical shift condition for unequal mass black hole binary simulations
+type: article
+volume: '27'
+year: '2010'

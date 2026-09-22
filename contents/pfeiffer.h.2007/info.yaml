@@ -1,0 +1,45 @@
+abstract: Binary black hole simulations starting from quasi-circular (i.e., zero radial
+  velocity) initial data have orbits with small but nonzero orbital eccentricities.
+  In this paper, the quasi-equilibrium initial-data method is extended to allow nonzero
+  radial velocities to be specified in binary black hole initial data. New low-eccentricity
+  initial data are obtained by adjusting the orbital frequency and radial velocities
+  to minimize the orbital eccentricity, and the resulting (~5 orbit) evolutions are
+  compared with those of quasi-circular initial data. Evolutions of the quasi-circular
+  data clearly show eccentric orbits, with eccentricity that decays over time. The
+  precise decay rate depends on the definition of eccentricity; if defined in terms
+  of variations in the orbital frequency, the decay rate agrees well with the prediction
+  of Peters (1964 Phys. Rev. 136 1224 32). The gravitational waveforms, which contain
+  ~8 cycles in the dominant l = m = 2 mode, are largely unaffected by the eccentricity
+  of the quasi-circular initial data. The overlap between the dominant mode in the
+  quasi-circular evolution and the same mode in the low-eccentricity evolution is
+  about 0.99.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S..59P
+author: Pfeiffer, H. P. and Brown, D. A. and Kidder, L. E. and Lindblom, L. and Lovelace,
+  G. and Scheel, M. A.
+author_list:
+- family: Pfeiffer
+  given: H. P.
+- family: Brown
+  given: D. A.
+- family: Kidder
+  given: L. E.
+- family: Lindblom
+  given: L.
+- family: Lovelace
+  given: G.
+- family: Scheel
+  given: M. A.
+date-added: 2017-08-11 06:17:39 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1088/0264-9381/24/12/S06
+eprint: gr-qc/0702106
+journal: Classical and Quantum Gravity
+month: June
+pages: S59-S81
+papis_id: 329b09d433101e66904306387ca0dff7
+ref: pfeiffer.h.2007
+title: Reducing orbital eccentricity in binary black hole simulations
+type: article
+volume: '24'
+year: '2007'

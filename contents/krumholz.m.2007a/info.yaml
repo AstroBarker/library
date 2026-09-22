@@ -1,0 +1,46 @@
+abstract: We simulate the early stages of the evolution of turbulent, virialized,
+  high-mass protostellar cores, with primary attention to how cores fragment and whether
+  they form a small or large number of protostars. Our simulations use the Orion adaptive
+  mesh refinement code to follow the collapse from ~0.1 pc scales to ~10 AU scales,
+  for durations that cover the main fragmentation phase, using three-dimensional gravito-radiation
+  hydrodynamics. We find that for a wide range of initial conditions radiation feedback
+  from accreting protostars inhibits the formation of fragments, so that the vast
+  majority of the collapsed mass accretes onto one or a few objects. Most of the fragmentation
+  that does occur takes place in massive, self-shielding disks. These are driven to
+  gravitational instability by rapid accretion, producing rapid mass and angular momentum
+  transport that allows most of the gas to accrete onto the central star rather than
+  forming fragments. In contrast, a control run using the same initial conditions
+  but an isothermal equation of state produces much more fragmentation, both in and
+  out of the disk. We conclude that massive cores with observed properties are not
+  likely to fragment into many stars, so that, at least at high masses, the core mass
+  function probably determines the stellar initial mass function. Our results also
+  demonstrate that simulations of massive star-forming regions that do not include
+  radiative transfer, and instead rely on a barotropic equation of state or optically
+  thin heating and cooling curves, are likely to produce misleading results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...656..959K
+arxivurl: http://arxiv.org/abs/astro-ph/0609798
+author: Krumholz, M. R. and Klein, R. I. and McKee, C. F.
+author_list:
+- family: Krumholz
+  given: M. R.
+- family: Klein
+  given: R. I.
+- family: McKee
+  given: C. F.
+date-added: 2017-08-11 01:45:13 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510664
+eprint: astro-ph/0609798
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Equation of State, ISM: Clouds, Methods: Numerical,
+  Radiative Transfer, Stars: Formation'
+month: February
+pages: 959--979
+papis_id: a418d1905a52acb631fb5b3ba6d36e5c
+ref: krumholz.m.2007a
+title: Radiation-Hydrodynamic Simulations of Collapse and Fragmentation in Massive
+  Protostellar Cores
+type: article
+volume: '656'
+year: '2007'

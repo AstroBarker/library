@@ -1,0 +1,45 @@
+abstract: 'Context: We present results from non linear MHD dynamo experiments with
+  a three-dimensional steady and smooth flow that drives fast dynamo action in the
+  kinematic regime. In the saturation regime, the system yields strong magnetic fields,
+  which undergo transitions between an energy-equipartition and a turbulent state.
+  The generation and evolution of such strong magnetic fields is relevant for the
+  understanding of dynamo action that occurs in stars and other astrophysical objects.
+  Aims: We study the mode of operation of this dynamo, in the linear and non-linear
+  saturation regimes. We also consider the effect of varying the magnetic and fluid
+  Reymolds number on the non-linear behaviour of the system.  Methods: We perform
+  three-dimensional non-linear MHD simulations and visualization using a high resolution
+  numerical scheme. Results: We find that this dynamo has a high growth rate in the
+  linear regime, and that it can saturate at a level significantly higher than intermittent
+  turbulent dynamos, namely at energy equipartition, for high values of the magnetic
+  and fluid Reynolds numbers. The equipartition solution however does not remain time-independent
+  during the simulation but exhibits a much more intricate behaviour than previously
+  thought. There are periods in time where the solution is smooth and close to energy-equipartition
+  and others where it becomes turbulent. Similarities and differences in the way the
+  magnetic field is amplified and sustained for experiments with varying Reynolds
+  numbers are discussed. Conclusions: Strong magnetic fields, in near equipartition,
+  can be generated also by a non-turbulent dynamo. A striking result is that the saturation
+  state of this dynamo reveals interesting transitions between turbulent and laminar
+  states.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...472..715A
+author: Archontis, V. and Dorch, S. B. F. and Nordlund, Å.
+author_list:
+- family: Archontis
+  given: V.
+- family: Dorch
+  given: S. B. F.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-11 03:20:28 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1051/0004-6361:20065087
+journal: \aap
+keywords: magnetic fields, magnetohydrodynamics (MHD), plasmas, turbulence
+month: September
+pages: 715--726
+papis_id: 4e5f5fc2c6ff323719f3086f48f340aa
+ref: archontis.v.2007
+title: Nonlinear MHD dynamo operating at equipartition
+type: article
+volume: '472'
+year: '2007'

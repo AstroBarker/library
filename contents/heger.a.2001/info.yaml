@@ -1,0 +1,55 @@
+abstract: Recent shell-model calculations of weak-interaction rates for nuclei in
+  the mass range A=45-65 have resulted in substantial revisions to the hitherto standard
+  set of Fuller, Fowler, \& Newman (FFN). In particular, key electron-capture rates,
+  such as that for 60Co, are much smaller. We consider here the effects of these revised
+  rates on the presupernova (post-oxygen burning) evolution of massive stars in the
+  mass range 11-40 Msolar. Moreover, we include, for the first time in models by our
+  group, the effects of modern rates for beta decay in addition to electron capture
+  and positron emission. Stars of 15, 25, and 40 Msolar are examined in detail using
+  both the full FFN rate set and the revised rates. An additional finely spaced (in
+  mass) grid of 34 models is also calculated in order to give the systematics of iron
+  core and silicon core masses. Values for the central electron mole number at the
+  time of iron core collapse in the new models are typically larger, by DeltaYe=0.005-0.015,
+  than those of Woosley \& Weaver, with a tendency for the more massive models to
+  display larger differences. About half of this change is a consequence of including
+  beta decay; the other half, the result of the smaller rates for electron capture.
+  Unlike what might be expected solely on basis of the larger Ye values, the new iron
+  core masses are systematically smaller owing to a decrease in the entropy in the
+  outer iron core. The changes in iron core mass range from zero to 0.1 Msolar (larger
+  changes for high-mass stars). It would be erroneous however to estimate the facility
+  of exploding these new models based solely upon their iron core mass since the entire
+  core structure is altered and the density change is not so different as the adjustments
+  in composition might suggest. We also observe, as predicted by Aufderheide et al.,
+  a tendency toward beta equilibrium just prior to the collapse of the core, and the
+  subsequent loss of that equilibrium as core collapse proceeds. This tendency is
+  more pronounced in the 15 Msolar model than in the heavier stars. We discuss the
+  key weak reaction rates, both beta decay and electron capture, responsible for the
+  evolution of Ye and make suggestions for future measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...560..307H
+arxivurl: http://arxiv.org/abs/astro-ph/0011507
+author: Heger, A. and Woosley, S. E. and Martínez-Pinedo, G. and Langanke, K.
+author_list:
+- family: Heger
+  given: A.
+- family: Woosley
+  given: S. E.
+- family: Martínez-Pinedo
+  given: G.
+- family: Langanke
+  given: K.
+date-added: 2017-08-10 19:04:47 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/324092
+eprint: astro-ph/0011507
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Evolution, Stars:
+  Interiors, Stars: Supernovae: General'
+month: October
+pages: 307--325
+papis_id: bac6cbf1766861e6cf39e5a8522f6813
+ref: heger.a.2001
+title: Presupernova Evolution with Improved Rates for Weak Interactions
+type: article
+volume: '560'
+year: '2001'

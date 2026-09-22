@@ -1,0 +1,32 @@
+abstract: A nonlinear, nonlocal, time-dependent treatment of convection suitable for
+  use in models of cool giant stars is presented. Local conservation equations plus
+  a diffusive transport equation are used to derive the convective hydrodynamic equations
+  for the case in which turbulent pressure, energy, and viscosity cannot be ignored.
+  The effects of convective overshooting, superadiabatic gradients, convection/pulsation
+  interaction, and time dependence enter this treatment in a natural way. Methods
+  of treating turbulent viscosity and acoustic losses are discussed. Also, an efficient
+  computational scheme for computing the derivatives needed for an implicit hydrodynamic
+  code is outlined. Application to RR Lyrae star envelopes will be presented in a
+  companion paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982ApJ...262..330S
+author: Stellingwerf, R. F.
+author_list:
+- family: Stellingwerf
+  given: R. F.
+date-added: 2017-08-10 18:32:24 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/160425
+journal: \apj
+keywords: Convection, Hydrodynamic Equations, Late Stars, Stellar Envelopes, Stellar
+  Models, Stellar Oscillations, Conservation Equations, Giant Stars, Nonlinear Equations,
+  Stellar Temperature, Time Dependence
+month: November
+pages: 330--343
+papis_id: fbcfc4f313aea43dce3361761bfa979b
+ref: stellingwerf.r.1982a
+title: Convection in pulsating stars. I - Nonlinear hydrodynamics. II - RR Lyrae convection
+  and stability
+type: article
+volume: '262'
+year: '1982'

@@ -1,0 +1,46 @@
+abstract: Radiative transfer plays a major role in high-energy astrophysics. In         multiple
+  scenarios and in a broad range of energy scales, the         coupling between matter
+  and radiation is essential to understand         the interplay between theory, observations
+  and numerical         simulations. In this paper, we present a novel scheme for         solving
+  the equations of radiation relativistic         magnetohydrodynamics within the
+  parallel code L{\'o}strego.         These equations, which are formulated taking
+  successive moments         of the Boltzmann radiative transfer equation, are solved
+  under         the gray-body approximation and the M1 closure using an IMEX         time
+  integration scheme. The main novelty of our scheme is that         we introduce
+  for the first time in the context of radiation         magnetohydrodynamics a family
+  of Jacobian-free Riemann solvers         based on internal approximations to the
+  Polynomial Viscosity         Matrix, which were demonstrated to be robust and accurate
+  for         non-radiative applications. The robustness and the limitations         of
+  the new algorithms are tested by solving a collection of one-         dimensional
+  and multi-dimensional test problems, both in the         free-streaming and in the
+  diffusion radiation transport limits.         Due to its stable performance, the
+  applicability of the scheme         presented in this paper to real astrophysical
+  scenarios in high-         energy astrophysics is promising. In future simulations,
+  we         expect to be able to explore the dynamical relevance of photon-         matter
+  interactions in the context of relativistic jets and         accretion discs, from
+  microquasars and AGN to gamma-ray bursts.
+archiveprefix: arXiv
+author: López-Miralles, Jose and Marı́a Mart\, Jose and Perucho, Manel
+author_list:
+- family: López-Miralles
+  given: Jose
+- family: Marı́a Mart\
+  given: Jose
+- family: Perucho
+  given: Manel
+eid: arXiv:2212.00370
+eprint: '2212.00370'
+groups: Numerical Methods - General
+journal: arXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation
+  and Methods for Astrophysics
+month: December
+pages: arXiv:2212.00370
+papis_id: 6c035afe8da1a1e227f38cea7cde9371
+primaryclass: astro-ph.HE
+ref: lopez_miralles.jose.2022
+title: On the application of Jacobian-free Riemann solvers for relativistic radiation
+  magnetohydrodynamics under M1 closure
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2022arXiv221200370L
+year: '2022'

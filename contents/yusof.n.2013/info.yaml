@@ -1,0 +1,71 @@
+abstract: There is observational evidence that supports the existence of very massive
+  stars (VMS) in the local universe. First, VMS (Mini \lessequivlnt{} 320 M\&sun;)
+  have been observed in the Large Magellanic Clouds (LMC). Secondly, there are observed
+  supernovae (SNe) that bear the characteristics of pair creation supernovae (PCSNe,
+  also referred to as pair instability SN) which have VMS as progenitors. The most
+  promising candidate to date is SN 2007bi. In order to investigate the evolution
+  and fate of nearby VMS, we calculated a new grid of models for such objects, for
+  solar, LMC and Small Magellanic Clouds (SMC) metallicities, which covers the initial
+  mass range from 120 to 500 M\&sun;. Both rotating and non-rotating models were calculated
+  using the GENEVA stellar evolution code and evolved until at least the end of helium
+  burning and for most models until oxygen burning. Since VMS have very large convective
+  cores during the main-sequence phase, their evolution is not so much affected by
+  rotational mixing, but more by mass loss through stellar winds. Their evolution
+  is never far from a homogeneous evolution even without rotational mixing. All the
+  VMS, at all the metallicities studied here, end their life as WC(WO)-type Wolf-Rayet
+  stars. Because of very important mass losses through stellar winds, these stars
+  may have luminosities during the advanced phases of their evolution similar to stars
+  with initial masses between 60 and 120 M\&sun;. A distinctive feature which may
+  be used to disentangle Wolf-Rayet stars originating from VMS from those originating
+  from lower initial masses would be the enhanced abundances of Ne and Mg at the surface
+  of WC stars. This feature is however not always apparent depending on the history
+  of mass loss. At solar metallicity, none of our models is expected to explode as
+  a PCSN. At the metallicity of the LMC, only stars more massive than 300 M\&sun;
+  are expected to explode as PCSNe. At the SMC metallicity, the mass range for the
+  PCSN progenitors is much larger and comprises stars with initial masses between
+  about 100 and 290 M\&sun;. All VMS in the metallicity range studied here produce
+  either a Type Ib SN or a Type Ic SN but not a Type II SN. We estimate that the progenitor
+  of SN 2007bi, assuming a SMC metallicity, had an initial mass between 160 and 175
+  M\&sun;. None of models presented in this grid produces gamma-ray bursts or magnetars.
+  They lose too much angular momentum by mass loss or avoid the formation of a black
+  hole by producing a completely disruptive PCSN.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.433.1114Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.2099
+author: Yusof, N. and Hirschi, R. and Meynet, G. and Crowther, P. A. and Ekström,
+  S. and Frischknecht, U. and Georgy, C. and Abu Kassim, H. and Schnurr, O.
+author_list:
+- family: Yusof
+  given: N.
+- family: Hirschi
+  given: R.
+- family: Meynet
+  given: G.
+- family: Crowther
+  given: P. A.
+- family: Ekström
+  given: S.
+- family: Frischknecht
+  given: U.
+- family: Georgy
+  given: C.
+- family: Abu Kassim
+  given: H.
+- family: Schnurr
+  given: O.
+date-added: 2017-08-10 22:19:34 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt794
+eprint: '1305.2099'
+journal: \mnras
+keywords: 'stars: evolution, stars: massive, stars: mass-loss'
+month: August
+pages: 1114--1132
+papis_id: b1d33236747a11b72e2456a84dc20bc6
+primaryclass: astro-ph.SR
+ref: yusof.n.2013
+title: Evolution and fate of very massive stars
+type: article
+volume: '433'
+year: '2013'

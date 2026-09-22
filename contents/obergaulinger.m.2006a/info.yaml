@@ -1,0 +1,61 @@
+abstract: We continue our investigations of the magnetorotational collapse of stellar
+  cores by discussing simulations performed with a modified Newtonian gravitational
+  potential that mimics general relativistic effects. The approximate TOV gravitational
+  potential used in our simulations captures several basic features of fully relativistic
+  simulations quite well. In particular, it is able to correctly reproduce the behavior
+  of models that show a qualitative change both of the dynamics and the gravitational
+  wave signal when switching from Newtonian to fully relativistic simulations. For
+  models where the dynamics and gravitational wave signals are already captured qualitatively
+  correctly by a Newtonian potential, the results of the Newtonian and the approximate
+  TOV models differ quantitatively. The collapse proceeds to higher densities with
+  the approximate TOV potential, allowing for a more efficient amplification of the
+  magnetic field by differential rotation. The strength of the saturation fields (\texttildelow{}
+  1015 ~ G at the surface of the inner core) is a factor of two to three higher than
+  in Newtonian gravity. Due to the more efficient field amplification, the influence
+  of magnetic fields is considerably more pronounced than in the Newtonian case for
+  some of the models. As in the Newtonian case, sufficiently strong magnetic fields
+  slow down the core's rotation and trigger a secular contraction phase to higher
+  densities. More clearly than in Newtonian models, the collapsed cores of these models
+  exhibit two different kinds of shock generation. Due to magnetic braking, a first
+  shock wave created during the initial centrifugal bounce at subnuclear densities
+  does not suffice for ejecting any mass, and the temporarily stabilized core continues
+  to collapse to supranuclear densities. Another stronger shock wave is generated
+  during the second bounce as the core exceeds nuclear matter density. The gravitational
+  wave signal of these models does not fit into the standard classification. Therefore,
+  in the first paper of this series we introduced a new type of gravitational wave
+  signal, which we call type IV or ``magnetic type''. This signal type is more frequent
+  for the approximate relativistic potential than for the Newtonian one. Most of our
+  weak-field models are marginally detectable with the current LIGO interferometer
+  for a source located at a distance of 10 kpc. Strongly magnetized models emit a
+  substantial fraction of their GW power at very low frequencies. A flat spectrum
+  between 10 Hz and \lessapprox{} 100 kHz denotes the generation of a jet-like hydromagnetic
+  outflow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...457..209O
+arxivurl: http://arxiv.org/abs/astro-ph/0602187
+author: Obergaulinger, M. and Aloy, M. A. and Dimmelmeier, H. and Müller, E.
+author_list:
+- family: Obergaulinger
+  given: M.
+- family: Aloy
+  given: M. A.
+- family: Dimmelmeier
+  given: H.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 18:48:39 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20064982
+eprint: astro-ph/0602187
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), gravitational waves, stars:, magnetic fields,
+  supernovae: general'
+month: October
+pages: 209--222
+papis_id: 7996075a1b46963f778f88f554210f00
+ref: obergaulinger.m.2006a
+title: 'Axisymmetric simulations of magnetorotational core collapse: approximate inclusion
+  of general relativistic effects'
+type: article
+volume: '457'
+year: '2006'

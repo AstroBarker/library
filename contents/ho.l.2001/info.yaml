@@ -1,0 +1,61 @@
+abstract: We report preliminary results from an arcsecond-resolution X-ray survey
+  of nearby galaxies using the Advanced CCD Imaging Spectrometer on board the Chandra
+  X-Ray Observatory. The total sample consists of 41 low-luminosity active galactic
+  nuclei (AGNs), including Seyfert galaxies, LINERs, and LINER/H II transition objects.
+  In the initial subsample of 24 objects observed thus far, we detect in ~62\% of
+  the objects a compact, pointlike source astrometrically coincident with either the
+  optical or radio position of the nucleus. The high detection rate strongly suggests
+  that the majority of the objects do contain weakly active, AGN-like cores, presumably
+  powered by central massive black holes. The 2-10 keV luminosities of the nuclear
+  sources range from less than 1038 to 1041 ergs s-1, with a median value of 2\texttimes{}1038
+  ergs s-1. Our detection limit corresponds to LX(2-10 keV)~8\texttimes{}1037 ergs
+  s-1 for the typical sample distance of 12 Mpc; this limit is 2 orders of magnitude
+  fainter than the weakest sources of this kind previously studied using ASCA or BeppoSAX.
+  The new data extend toward lower luminosities the known linear correlation between
+  hard X-ray and Halpha luminosity for broad-line AGNs. Many narrow-line objects do
+  contain X-ray cores, consistent with either weak AGNs or X-ray binary systems, but
+  they have X-ray luminosities a factor of 10 below the LX-LHalpha relation of the
+  broad-line sources. Their distributions of photon energies show no indication of
+  exceptionally high absorption. The optical line emission in these nuclei is likely
+  powered, at least in part, by stellar processes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...549L..51H
+arxivurl: http://arxiv.org/abs/astro-ph/0102504
+author: Ho, L. C. and Feigelson, E. D. and Townsley, L. K. and Sambruna, R. M. and
+  Garmire, G. P. and Brandt, W. N. and Filippenko, A. V. and Griffiths, R. E. and
+  Ptak, A. F. and Sargent, W. L. W.
+author_list:
+- family: Ho
+  given: L. C.
+- family: Feigelson
+  given: E. D.
+- family: Townsley
+  given: L. K.
+- family: Sambruna
+  given: R. M.
+- family: Garmire
+  given: G. P.
+- family: Brandt
+  given: W. N.
+- family: Filippenko
+  given: A. V.
+- family: Griffiths
+  given: R. E.
+- family: Ptak
+  given: A. F.
+- family: Sargent
+  given: W. L. W.
+date-added: 2017-08-11 06:22:04 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319138
+eprint: astro-ph/0102504
+journal: \apjl
+keywords: 'Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, X-Rays: Galaxies'
+month: March
+pages: L51-L54
+papis_id: 25453d2316bb1bfc130e04bee89d008e
+ref: ho.l.2001
+title: Detection of Nuclear X-Ray Sources in Nearby Galaxies with Chandra
+type: article
+volume: '549'
+year: '2001'

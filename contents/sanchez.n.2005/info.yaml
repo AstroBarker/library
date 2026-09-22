@@ -1,0 +1,39 @@
+abstract: 'The interstellar medium seems to have an underlying fractal structure,
+  which can be characterized through its fractal dimension. However, interstellar
+  clouds are observed as projected two-dimensional images, and the projection of a
+  three-dimensional fractal distorts its measured properties. Here we use simulated
+  fractal clouds to study the relationship between the three-dimensional fractal dimension
+  (Df) of modeled clouds and the dimension resulting from their projected images.
+  We analyze different fractal dimension estimators: the correlation and mass dimensions
+  of the clouds and the perimeter-based dimension of their boundaries (Dper). We find
+  the functional forms relating Df with the projected fractal dimensions, as well
+  as their dependence on the image resolution, which allow us to estimate the ``real''''
+  Df value of a cloud from its projection. The application of these results to Orion
+  A indicates in a self-consistent way that 2.5<~Df<~2.7 for this molecular cloud,
+  a value higher than the result Dper+1~=2.3 sometimes assumed in the literature for
+  interstellar clouds.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...625..849S
+arxivurl: http://arxiv.org/abs/astro-ph/0501573
+author: Sánchez, N. and Alfaro, E. J. and Pérez, E.
+author_list:
+- family: Sánchez
+  given: N.
+- family: Alfaro
+  given: E. J.
+- family: Pérez
+  given: E.
+date-added: 2017-08-11 01:46:11 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/429553
+eprint: astro-ph/0501573
+journal: \apj
+keywords: 'ISM: Clouds, ISM: General, ISM: Structure'
+month: June
+pages: 849--856
+papis_id: 7c1a0f85baa62f3f6941d986e7e714cc
+ref: sanchez.n.2005
+title: The Fractal Dimension of Projected Clouds
+type: article
+volume: '625'
+year: '2005'

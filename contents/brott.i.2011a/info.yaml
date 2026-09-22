@@ -1,0 +1,78 @@
+abstract: 'Context. Rotational mixing in massive stars is a widely applied concept,
+  with far-reaching consequences for stellar evolution, nucleosynthesis, and stellar
+  explosions.  Aims: Nitrogen surface abundances for a large and homogeneous sample
+  of massive B-type stars in the Large Magellanic Cloud (LMC) have recently been obtained
+  by the ESO VLT-FLAMES Survey of Massive Stars. This sample is the first to cover
+  a broad range of projected stellar rotational velocities, with a large enough sample
+  of high quality data to allow for a statistically significant analysis. Here we
+  use the sample to provide the first rigorous and quantitative test of the theory
+  of rotational mixing in massive stars.  Methods: We calculated a grid of stellar
+  evolution models, using the VLT-FLAMES sample to calibrate some of the uncertain
+  mixing processes. We developed a new population-synthesis code, which uses this
+  grid to simulate a large population of stars with masses, ages, and rotational velocity
+  distributions consistent with those from the VLT-FLAMES sample. The synthesized
+  population is then filtered by the selection effects in the observed sample, to
+  enable a direct comparison between the empirical results and theoretical predictions.  Results:
+  Our simulations reproduce the fraction of stars without significant nitrogen enrichment.
+  However, the predicted number of rapid rotators with enhanced nitrogen is about
+  twice as large as found observationally. Furthermore, two groups of stars (one consisting
+  of slowly rotating, nitrogen-enriched objects and another consisting of rapidly
+  rotating un-enriched objects) cannot be reproduced by our single-star population
+  synthesis.  Conclusions: Physical processes in addition to rotational mixing appear
+  to be required to understand the population of massive main-sequence stars from
+  the VLT-FLAMES sample. We discuss the possible role of binary stars and magnetic
+  fields in the interpretation of our results. We find that the population of slowly
+  rotating nitrogen-enriched stars is unlikely to be produced via mass transfer and
+  subsequent tidal spin-down in close binary systems. A conclusive assessment of the
+  role of rotational mixing in massive stars requires a quantitative analysis that
+  also accounts for the effects of binarity and magnetic fields.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...530A.116B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.0766
+author: Brott, I. and Evans, C. J. and Hunter, I. and de Koter, A. and Langer, N.
+  and Dufton, P. L. and Cantiello, M. and Trundle, C. and Lennon, D. J. and de Mink,
+  S. E. and Yoon, S.-C. and Anders, P.
+author_list:
+- family: Brott
+  given: I.
+- family: Evans
+  given: C. J.
+- family: Hunter
+  given: I.
+- family: de Koter
+  given: A.
+- family: Langer
+  given: N.
+- family: Dufton
+  given: P. L.
+- family: Cantiello
+  given: M.
+- family: Trundle
+  given: C.
+- family: Lennon
+  given: D. J.
+- family: de Mink
+  given: S. E.
+- family: Yoon
+  given: S.-C.
+- family: Anders
+  given: P.
+date-added: 2017-08-10 14:15:21 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201016114
+eid: A116
+eprint: '1102.0766'
+journal: \aap
+keywords: 'methods: statistical, stars: abundances, stars: evolution, stars: early-type,
+  stars: massive, stars: rotation'
+month: June
+pages: A116
+papis_id: 93df1020b6b8960bca2299ce0a7c1a67
+primaryclass: astro-ph.SR
+ref: brott.i.2011a
+title: Rotating massive main-sequence stars. II. Simulating a population of LMC early
+  B-type stars as a test of rotational mixing
+type: article
+volume: '530'
+year: '2011'

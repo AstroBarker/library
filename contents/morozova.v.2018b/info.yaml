@@ -1,0 +1,43 @@
+abstract: The X-ray signal from hydrogen-rich supernovae (SNe II) in the first tens
+  to hundreds of days after the shock breakout encodes important information about
+  the circumstellar material (CSM) surrounding their progenitors before explosion.
+  In this study, we describe a way to generate the SN II X-ray light curves from hydrodynamical
+  simulations performed with the code Athena++, using the X-ray package XSPEC. In
+  addition, we employ a radiation diffusion hydrodynamic code SNEC for generating
+  the optical light curves in different bands. In this numerical setup, we model the
+  X-ray and optical emission from a set of progenitor models, consisting of either
+  two (red supergiant + low density steady wind), or three (red supergiant + dense
+  CSM + low density steady wind) components. We vary the density in the wind and the
+  slope in the CSM to see how these parameters influence the resulting X-ray and optical
+  light curves. Among our models, we identify one that is able to roughly reproduce
+  both optical and X-ray data of the well observed SN 2013ej. In order to achieve
+  this, the slope of the dense CSM in this model should be steeper than the one of
+  a steady wind ($\rho\propto r^{-2}$), and closer to \$\rho\propto r^{-5}\$. On the
+  other hand, we show that too steep and extended CSM profiles may produce excessive
+  X-ray emission in the first few tens of days, up to a few orders of magnitude larger
+  than observed. We conclude that ability to reproduce the observed X-ray signal from
+  SNe~II together with their optical light curves is crucial in establishing the validity
+  of different CSM models.
+adscomment: 15 pages, 17 figures
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180407312M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1804.07312
+author: Morozova, V. and Stone, J. M.
+author_list:
+- family: Morozova
+  given: V.
+- family: Stone
+  given: J. M.
+date-added: 2018-05-03 19:50:55 +0000
+date-modified: 2018-05-03 19:50:56 +0000
+eprint: '1804.07312'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena
+month: April
+papis_id: 76803f70b59ddd14db4b9f5967c783bc
+primaryclass: astro-ph.HE
+ref: morozova.v.2018b
+title: 'Theoretical X-ray light curves of young SNe II: the example of SN 2013ej'
+type: article
+year: '2018'

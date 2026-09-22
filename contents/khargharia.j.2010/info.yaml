@@ -1,0 +1,52 @@
+abstract: 'We present near-infrared (NIR) broadband (0.80-2.42 mum) spectroscopy of
+  two low-mass X-ray binaries: V404 Cyg and Cen X-4. One important parameter required
+  in the determination of the mass of the compact objects in these systems is the
+  binary inclination. We can determine the inclination by modeling the ellipsoidal
+  modulations of the Roche-lobe filling donor star, but the contamination of the donor
+  star light from other components of the binary, particularly the accretion disk,
+  must be taken into account. To this end, we determined the donor star contribution
+  to the infrared flux by comparing the spectra of V404 Cyg and Cen X-4 to those of
+  various field K-stars of known spectral type. For V404 Cyg, we determined that the
+  donor star has a spectral type of K3 III. We determined the fractional donor contribution
+  to the NIR flux in the H and K bands as 0.98 $\pm$ 0.05 and 0.97 \$\pm\$ 0.09, respectively.
+  We remodeled the H-band light curve from Sanwal et al. after correcting for the
+  donor star contribution to obtain a new value for the binary inclination. From this,
+  we determined the mass of the black hole in V404 Cyg to be M BH = 9.0+0.2 -0.6 M
+  sun. We performed the same spectral analysis for Cen X-4 and found the spectral
+  type of the donor star to be in the range K5-M1 V. The donor star contribution in
+  Cen X-4 is 0.94 \$\pm\$ 0.14 in the H band while in the K band, the accretion disk
+  can contribute up to 10\% of the infrared flux. We remodeled the H-band light curve
+  from Shahbaz et al., again correcting for the fractional contribution of the donor
+  star to obtain the inclination. From this, we determined the mass of the neutron
+  star as M NS = 1.5+0.1 -0.4 M sun. However, the masses obtained for both systems
+  should be viewed with some caution since contemporaneous light curve and spectral
+  data are required to obtain definitive masses.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...716.1105K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.5358
+author: Khargharia, J. and Froning, C. S. and Robinson, E. L.
+author_list:
+- family: Khargharia
+  given: J.
+- family: Froning
+  given: C. S.
+- family: Robinson
+  given: E. L.
+date-added: 2017-08-11 00:42:59 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0004-637X/716/2/1105
+eprint: '1004.5358'
+journal: \apj
+keywords: 'binaries: close, infrared: stars, stars: individual: V404 Cyg Cen X-4,
+  stars: neutron'
+month: June
+pages: 1105--1117
+papis_id: b471b68bbada4f5dc3c90e3d6dbe61a6
+primaryclass: astro-ph.HE
+ref: khargharia.j.2010
+title: 'Near-infrared Spectroscopy of Low-mass X-ray Binaries: Accretion Disk Contamination
+  and Compact Object Mass Determination in V404 Cyg and Cen X-4'
+type: article
+volume: '716'
+year: '2010'

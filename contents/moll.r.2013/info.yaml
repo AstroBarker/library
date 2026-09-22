@@ -1,0 +1,41 @@
+abstract: Using two-dimensional and three-dimensional simulations, we study the "robustness"
+  of the double detonation scenario for Type Ia supernovae, in which a detonation
+  in the helium shell of a carbon-oxygen white dwarf induces a secondary detonation
+  in the underlying core. We find that a helium detonation cannot easily descend into
+  the core unless it commences (artificially) well above the hottest layer calculated
+  for the helium shell in current presupernova models. Compressional waves induced
+  by the sliding helium detonation, however, robustly generate hot spots which trigger
+  a detonation in the core. Our simulations show that this is true even for non-axisymmetric
+  initial conditions. If the helium is ignited at multiple points, then the internal
+  waves can pass through one another or be reflected, but this added complexity does
+  not defeat the generation of the hot spot. The ignition of very low-mass helium
+  shells depends on whether a thermonuclear runaway can simultaneously commence in
+  a sufficiently large region.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774..137M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.0324
+author: Moll, R. and Woosley, S. E.
+author_list:
+- family: Moll
+  given: R.
+- family: Woosley
+  given: S. E.
+date-added: 2017-08-10 15:22:40 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/2/137
+eid: '137'
+eprint: '1303.0324'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, shock waves,
+  supernovae: general, white dwarfs'
+month: September
+pages: '137'
+papis_id: ae07de4a373869abf11888094b1c47ae
+primaryclass: astro-ph.HE
+ref: moll.r.2013
+title: Multi-dimensional Models for Double Detonation in Sub-Chandrasekhar Mass White
+  Dwarfs
+type: article
+volume: '774'
+year: '2013'

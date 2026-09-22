@@ -1,0 +1,68 @@
+abstract: 'Context. The identity of the progenitor systems of Type Ia supernovae (SNe
+  Ia) is still uncertain. In the single-degenerate scenario, the interaction between
+  the supernova blast wave and the outer layers of a main sequence companion star
+  strips off hydrogen-rich material which is then mixed into the ejecta. Strong contamination
+  of the supernova ejecta with stripped material could lead to a conflict with observations
+  of SNe Ia. This constrains the single-degenerate progenitor model.  Aims: In this
+  work, our previous simulations based on simplified progenitor donor stars have been
+  updated by adopting more realistic progenitor-system models that result from fully
+  detailed, state-of-the-art binary evolution calculations.  Methods: We use Eggleton''s
+  stellar evolution code including the optically thick accretion wind model and taking
+  into account the possibility of the effects of accretion disk instabilities to obtain
+  realistic models of companion stars for different progenitor systems. The impact
+  of the supernova blast wave on these companion stars is followed in three-dimensional
+  hydrodynamic simulations employing the smoothed particle hydrodynamics code GADGET3.  Results:
+  For a suite of main sequence companions, we find that the mass of the material stripped
+  from the companions range from 0.11 M\&sun; to 0.18 M\&sun;. The kick velocity delivered
+  by the impact is between 51 km s-1 and 105 km s-1. We find that the stripped mass
+  and kick velocity depend on the ratio of the orbital separation to the radius of
+  a companion, af/R. They can be fitted in good approximation by a power law for a
+  given companion model. However, we do not find a single power law relation holding
+  for different companion models. This implies that the structure of the companion
+  star is also important for the amount of stripped material.  Conclusions: With more
+  realistic companion star models than those employed in previous studies, our simulations
+  show that the hydrogen masses stripped from companions are inconsistent with the
+  best observational limits (<=0.01 M\&sun;) derived from SN Ia nebular spectra. However,
+  a rigorous forward modeling from the results of impact simulations with radiation
+  transfer is required to reliably predict observable signatures of the stripped hydrogen
+  and to conclusively assess the viability of the considered SN Ia progenitor scenario.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...548A...2L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.4458
+author: Liu, Z. W. and Pakmor, R. and Röpke, F. K. and Edelmann, P. and Wang, B. and
+  Kromer, M. and Hillebrandt, W. and Han, Z. W.
+author_list:
+- family: Liu
+  given: Z. W.
+- family: Pakmor
+  given: R.
+- family: Röpke
+  given: F. K.
+- family: Edelmann
+  given: P.
+- family: Wang
+  given: B.
+- family: Kromer
+  given: M.
+- family: Hillebrandt
+  given: W.
+- family: Han
+  given: Z. W.
+date-added: 2017-08-10 20:10:37 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1051/0004-6361/201219357
+eid: A2
+eprint: '1209.4458'
+journal: \aap
+keywords: 'supernovae: general, hydrodynamics, binaries: close'
+month: December
+pages: A2
+papis_id: 4d7448a5cc6ba2d1e32897106d360114
+primaryclass: astro-ph.SR
+ref: liu.z.2012
+title: Three-dimensional simulations of the interaction between Type Ia supernova
+  ejecta and their main sequence companions
+type: article
+volume: '548'
+year: '2012'

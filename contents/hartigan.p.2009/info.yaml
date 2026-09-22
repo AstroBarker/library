@@ -1,0 +1,67 @@
+abstract: Collimated supersonic flows in laboratory experiments behave in a similar
+  manner to astrophysical jets provided that radiation, viscosity, and thermal conductivity
+  are unimportant in the laboratory jets and that the experimental and astrophysical
+  jets share similar dimensionless parameters such as the Mach number and the ratio
+  of the density between the jet and the ambient medium. When these conditions apply,
+  laboratory jets provide a means to study their astrophysical counterparts for a
+  variety of initial conditions, arbitrary viewing angles, and different times, attributes
+  especially helpful for interpreting astronomical images where the viewing angle
+  and initial conditions are fixed and the time domain is limited. Experiments are
+  also a powerful way to test numerical fluid codes in a parameter range in which
+  the codes must perform well. In this paper, we combine images from a series of laboratory
+  experiments of deflected supersonic jets with numerical simulations and new spectral
+  observations of an astrophysical example, the young stellar jet HH 110. The experiments
+  provide key insights into how deflected jets evolve in three dimensions, particularly
+  within working surfaces where multiple subsonic shells and filaments form, and along
+  the interface where shocked jet material penetrates into and destroys the obstacle
+  along its path. The experiments also underscore the importance of the viewing angle
+  in determining what an observer will see. The simulations match the experiments
+  so well that we can use the simulated velocity maps to compare the dynamics in the
+  experiment with those implied by the astronomical spectra. The experiments support
+  a model where the observed shock structures in HH 110 form as a result of a pulsed
+  driving source rather than from weak shocks that may arise in the supersonic shear
+  layer between the Mach disk and bow shock of the jet's working surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...705.1073H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.0318
+author: Hartigan, P. and Foster, J. M. and Wilde, B. H. and Coker, R. F. and Rosen,
+  P. A. and Hansen, J. F. and Blue, B. E. and Williams, R. J. R. and Carver, R. and
+  Frank, A.
+author_list:
+- family: Hartigan
+  given: P.
+- family: Foster
+  given: J. M.
+- family: Wilde
+  given: B. H.
+- family: Coker
+  given: R. F.
+- family: Rosen
+  given: P. A.
+- family: Hansen
+  given: J. F.
+- family: Blue
+  given: B. E.
+- family: Williams
+  given: R. J. R.
+- family: Carver
+  given: R.
+- family: Frank
+  given: A.
+date-added: 2017-08-11 04:50:20 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/705/1/1073
+eprint: '0910.0318'
+journal: \apj
+keywords: 'hydrodynamics, ISM: Herbig-Haro objects, ISM: jets and outflows, methods:
+  laboratory, shock waves'
+month: November
+pages: 1073--1094
+papis_id: 3c98d2c419d3b088aa8912735c9da48d
+ref: hartigan.p.2009
+title: 'Laboratory Experiments, Numerical Simulations, and Astronomical Observations
+  of Deflected Supersonic Jets: Application to HH 110'
+type: article
+volume: '705'
+year: '2009'

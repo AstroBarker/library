@@ -1,0 +1,59 @@
+abstract: We present results from the JINA REACLIB project, an ongoing effort to maintain
+  a current and accurate library of thermonuclear reaction rates for astrophysical
+  applications. Ongoing updates are transparently documented and version tracked,
+  and any set of rates is publicly available and can be downloaded via a Web interface
+  at http://groups.nscl.msu.edu/jina/reaclib/db/. We discuss here our library V1.0,
+  a snapshot of recommended rates for stable and explosive hydrogen and helium burning.
+  We show that the updated reaction rates lead to modest but significant changes in
+  full network, one-dimensional X-ray burst model calculations, compared with calculations
+  with previously used reaction rate sets. The late time behavior of X-ray burst light
+  curves shows significant changes, suggesting that the previously found small discrepancies
+  between model calculations and observations may be solved with a better understanding
+  of the nuclear input. Our X-ray burst model calculations are intended to serve as
+  a benchmark for future model comparisons and sensitivity studies, as the complete
+  underlying nuclear physics is fully documented and publicly available.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..189..240C
+author: Cyburt, R. H. and Amthor, A. M. and Ferguson, R. and Meisel, Z. and Smith,
+  K. and Warren, S. and Heger, A. and Hoffman, R. D. and Rauscher, T. and Sakharuk,
+  A. and Schatz, H. and Thielemann, F. K. and Wiescher, M.
+author_list:
+- family: Cyburt
+  given: R. H.
+- family: Amthor
+  given: A. M.
+- family: Ferguson
+  given: R.
+- family: Meisel
+  given: Z.
+- family: Smith
+  given: K.
+- family: Warren
+  given: S.
+- family: Heger
+  given: A.
+- family: Hoffman
+  given: R. D.
+- family: Rauscher
+  given: T.
+- family: Sakharuk
+  given: A.
+- family: Schatz
+  given: H.
+- family: Thielemann
+  given: F. K.
+- family: Wiescher
+  given: M.
+date-added: 2017-08-10 14:09:46 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0067-0049/189/1/240
+journal: \apjs
+keywords: 'nuclear reactions, nucleosynthesis, abundances, X-rays: bursts'
+month: July
+pages: 240--252
+papis_id: fe9fe040cb7fb1eb6f24daa8cb3f9294
+ref: cyburt.r.2010
+title: 'The JINA REACLIB Database: Its Recent Updates and Impact on Type-I X-ray Bursts'
+type: article
+volume: '189'
+year: '2010'

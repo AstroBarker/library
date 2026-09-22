@@ -1,0 +1,71 @@
+abstract: 'A dormant supermassive black hole lurking in the center of a galaxy will
+  be revealed when a star passes close enough to be torn apart by tidal forces, and
+  a flare of electromagnetic radiation is emitted when the bound fraction of the stellar
+  debris falls back onto the black hole and is accreted. Although the tidal disruption
+  of a star is a rare event in a galaxy, \approx{}10-4 yr-1, observational candidates
+  have emerged in all-sky X-ray and deep ultraviolet (UV) surveys in the form of luminous
+  UV/X-ray flares from otherwise quiescent galaxies. Here we present the third candidate
+  tidal disruption event discovered in the Galaxy Evolution Explorer (GALEX) Deep
+  Imaging Survey: a 1.6 \texttimes{} 1043 erg s-1 UV/optical flare from a star-forming
+  galaxy at z = 0.1855. The UV/optical spectral energy distribution (SED) during the
+  peak of the flare measured by GALEX and Palomar Large Field Camera imaging can be
+  modeled as a single temperature blackbody with T bb = 1.7 \texttimes{} 105 K and
+  a bolometric luminosity of 3 \texttimes{} 1045 erg s-1, assuming an internal extinction
+  with E(B - V)gas = 0.3. The Chandra upper limit on the X-ray luminosity during the
+  peak of the flare, LX (2 - 10 keV)<1041 erg s-1, is 2 orders of magnitude fainter
+  than expected from the ratios of UV to X-ray flux density observed in active galaxies.
+  We compare the light curves and broadband properties of all three tidal disruption
+  candidates discovered by GALEX, and find that (1) the light curves are well fitted
+  by the power-law decline expected for the fallback of debris from a tidally disrupted
+  solar-type star and (2) the UV/optical SEDs can be attributed to thermal emission
+  from an envelope of debris located at roughly 10 times the tidal disruption radius
+  of a \approx{}107 M sun central black hole. We use the observed peak absolute optical
+  magnitudes of the flares (-17.5>Mg > - 18.9) to predict the detection capabilities
+  of upcoming optical synoptic surveys.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698.1367G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0904.1596
+author: Gezari, S. and Heckman, T. and Cenko, S. B. and Eracleous, M. and Forster,
+  K. and Gonçalves, T. S. and Martin, D. C. and Morrissey, P. and Neff, S. G. and
+  Seibert, M. and Schiminovich, D. and Wyder, T. K.
+author_list:
+- family: Gezari
+  given: S.
+- family: Heckman
+  given: T.
+- family: Cenko
+  given: S. B.
+- family: Eracleous
+  given: M.
+- family: Forster
+  given: K.
+- family: Gonçalves
+  given: T. S.
+- family: Martin
+  given: D. C.
+- family: Morrissey
+  given: P.
+- family: Neff
+  given: S. G.
+- family: Seibert
+  given: M.
+- family: Schiminovich
+  given: D.
+- family: Wyder
+  given: T. K.
+date-added: 2017-08-11 02:05:52 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/2/1367
+eprint: '0904.1596'
+journal: \apj
+keywords: 'black hole physics, galaxies: nuclei, ultraviolet: ISM, X-rays: galaxies'
+month: June
+pages: 1367--1379
+papis_id: 29541a52c49a10f5eb3756d251e3950f
+primaryclass: astro-ph.CO
+ref: gezari.s.2009a
+title: Luminous Thermal Flares from Quiescent Supermassive Black Holes
+type: article
+volume: '698'
+year: '2009'

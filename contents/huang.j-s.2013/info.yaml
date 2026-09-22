@@ -1,0 +1,77 @@
+abstract: We present a multi-wavelength study of a 3.6 mum selected galaxy sample
+  in the Extended Groth Strip (EGS). The sample is complete for galaxies with stellar
+  mass >109.5 M \&sun; and redshift 0.4 < z < 1.2. In this redshift range, the Infrared
+  Array Camera 3.6 mum band measures the rest-frame near-infrared band, permitting
+  nearly unbiased selection with respect to both quiescent and star-forming galaxies.
+  The numerous spectroscopic redshifts available in the EGS are used to train an artificial
+  neural network to estimate photometric redshifts. The distribution of photometric
+  redshift errors is Gaussian with standard deviation ~0.025(1 + z), and the fraction
+  of redshift failures (>3sigma errors) is about 3.5\%. A new method of validation
+  based on pair statistics confirms the estimate of standard deviation even for galaxies
+  lacking spectroscopic redshifts. Basic galaxy properties measured include rest-frame
+  U - B colors, B- and K-band absolute magnitudes, and stellar masses. We divide the
+  sample into quiescent and star-forming galaxies according to their rest-frame U
+  - B colors and 24-3.6 mum flux density ratios and derive rest K-band luminosity
+  functions and stellar mass functions for quiescent, star-forming, and all galaxies.
+  The results show that massive, quiescent galaxies were in place by z \approx{} 1,
+  but lower mass galaxies generally ceased their star formation at later epochs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...766...21H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.1234
+author: Huang, J.-S. and Faber, S. M. and Willmer, C. N. A. and Rigopoulou, D. and
+  Koo, D. and Newman, J. and Shu, C. and Ashby, M. L. N. and Barmby, P. and Coil,
+  A. and Luo, Z. and Magdis, G. and Wang, T. and Weiner, B. and Willner, S. P. and
+  Zheng, X. Z. and Fazio, G. G.
+author_list:
+- family: Huang
+  given: J.-S.
+- family: Faber
+  given: S. M.
+- family: Willmer
+  given: C. N. A.
+- family: Rigopoulou
+  given: D.
+- family: Koo
+  given: D.
+- family: Newman
+  given: J.
+- family: Shu
+  given: C.
+- family: Ashby
+  given: M. L. N.
+- family: Barmby
+  given: P.
+- family: Coil
+  given: A.
+- family: Luo
+  given: Z.
+- family: Magdis
+  given: G.
+- family: Wang
+  given: T.
+- family: Weiner
+  given: B.
+- family: Willner
+  given: S. P.
+- family: Zheng
+  given: X. Z.
+- family: Fazio
+  given: G. G.
+date-added: 2017-08-10 22:27:21 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/766/1/21
+eid: '21'
+eprint: '1212.1234'
+journal: \apj
+keywords: 'cosmology: observations, galaxies: distances and redshifts, galaxies: evolution,
+  galaxies: luminosity function, mass function'
+month: March
+pages: '21'
+papis_id: 64ff88caf381d2d3dd5a2e63ea36a8b5
+ref: huang.j_s.2013
+title: 'Multi-Wavelength Study of a Complete IRAC 3.6 $μ$m Selected Galaxy Sample:
+  A Fair Census of Red and Blue Populations at Redshifts 0.4-1.2'
+type: article
+volume: '766'
+year: '2013'

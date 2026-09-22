@@ -1,0 +1,51 @@
+abstract: Traditional models of core collapse suggest that the issue of successful
+  versus failed supernova explosions and neutron star versus black hole formation
+  depends monotonically on the mass (and metallicity) of the progenitor star, with
+  mass above some cutoff leading to black holes with or without attendant supernova
+  explosions. Here we argue that the issue of success or failure of the explosion
+  or other possible outcomes may depend nonmonotonically on the rotation of the progenitor
+  star even for fixed progenitor mass and composition. We have computed ``shellular''
+  models of core collapse for a star of 15 Msolar with initial central angular velocity,
+  Omega0, in the range 0.1-8 rad s-1 until a few hundred milliseconds after bounce
+  to explore qualitative trends. The resulting rotational velocity of the proto-neutron
+  star is a nonmonotonic function of the initial rotational velocity. The model with
+  Omega0=4 rad s-1 gives the maximum postbounce rotation, with rotation comparable
+  to that necessary for secular or dynamical instability to occur. Models with Omega0>4
+  rad s-1 bounce at subnuclear density with gamma~4/3 and subsequently slowly contract.
+  The nonmonotonic behavior will be manifested in the rotation of the proto-neutron
+  star and hence in the strength of the associated magnetic field that will be generated
+  by shear in that rotating environment. We estimate that our maximally rotating and
+  shearing models generate toroidal fields approaching or exceeding 1017 G, strengths
+  nearing dynamical significance. One implication of this nonmonotonicity is that
+  the process of rotating, magnetic core collapse may itself provide a filter to select
+  specific outcomes from the distribution of initial rotation states. Possible outcomes
+  are black hole, neutron star, and black hole, as the initial angular momentum of
+  the progenitor increases. Within the regime of successful explosions leaving neutron
+  stars behind, a subset may spin rapidly enough, either initially or during the subsequent
+  deleptonization contraction phase, to drive an alpha-Omega dynamo and hence produce
+  the large dipole field associated with magnetars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629..414A
+arxivurl: http://arxiv.org/abs/astro-ph/0504563
+author: Akiyama, S. and Wheeler, J. C.
+author_list:
+- family: Akiyama
+  given: S.
+- family: Wheeler
+  given: J. C.
+date-added: 2017-08-10 22:28:34 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431322
+eprint: astro-ph/0504563
+journal: \apj
+keywords: 'Stars: Pulsars: General, Stars: Magnetic Fields, Stars: Rotation, Stars:
+  Supernovae: General'
+month: August
+pages: 414--421
+papis_id: d80e61c0f1dc975b14166ea00c7fd12d
+ref: akiyama.s.2005
+title: The Nonmonotonic Dependence of Supernova and Compact Remnant Formation on Progenitor
+  Rotation
+type: article
+volume: '629'
+year: '2005'

@@ -1,0 +1,43 @@
+abstract: 'We present results from axisymmetric time-dependent hydrodynamical calculations
+  of gas flows under the influence of the gravity of black holes in quasars. We assume
+  that the flows are nonrotating and exposed to quasar radiation. We take into account
+  X-ray heating and the radiation force due to electron scattering and spectral lines.
+  To compute the radiation field, we consider an optically thick, geometrically thin,
+  standard accretion disk as a source of UV photons and a spherical central object
+  as a source of X-rays. The gas temperature and ionization state in the flow are
+  calculated self-consistently from the photoionization and heating rate of the central
+  object. We find that for a 108 Msolar black hole with an accretion luminosity of
+  0.6 of the Eddington luminosity, the flow settles into a steady state and has two
+  components: (1) an equatorial inflow and (2) a bipolar inflow/outflow with the outflow
+  leaving the system along the disk rotational axis. The inflow is a realization of
+  a Bondi-like accretion flow. The second component is an example of a nonradial accretion
+  flow becoming an outflow once it is pushed close to the rotational axis where thermal
+  expansion and radiation pressure accelerate it outward. Our main result is that
+  the existence of the above two flow components is robust to the outer boundary conditions
+  and the geometry and spectral energy distribution of the radiation field. However,
+  the flow properties are not robust. In particular, the outflow power and collimation
+  is higher for the radiation dominated by the UV/disk emission than for the radiation
+  dominated by the X-ray/central engine emission. Our most intriguing result is that
+  a very narrow outflow driven by radiation pressure on lines can carry more energy
+  and mass than a broad outflow driven by thermal expansion.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...661..693P
+arxivurl: http://arxiv.org/abs/astro-ph/0702582
+author: Proga, D.
+author_list:
+- family: Proga
+  given: D.
+date-added: 2017-08-11 00:46:26 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/515389
+eprint: astro-ph/0702582
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Methods: Numerical'
+month: June
+pages: 693--702
+papis_id: 8b888df9d539908f051f84e24be5d261
+ref: proga.d.2007
+title: Dynamics of Accretion Flows Irradiated by a Quasar
+type: article
+volume: '661'
+year: '2007'

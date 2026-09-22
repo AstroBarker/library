@@ -1,0 +1,61 @@
+abstract: This is a status report on our endeavor to reveal the mechanism of core-collapse
+  supernovae (CCSNe) by large-scale numerical simulations. Multi-dimensionality of
+  the supernova engine, general relativistic magnetohydrodynamics, energy and lepton
+  number transport by neutrinos emitted from the forming neutron star, as well as
+  nuclear interactions there, are all believed to play crucial roles in repelling
+  infalling matter and producing energetic explosions. These ingredients are non-linearly
+  coupled with one another in the dynamics of core collapse, bounce, and shock expansion.
+  Serious quantitative studies of CCSNe hence make extensive numerical computations
+  mandatory. Since neutrinos are neither in thermal nor in chemical equilibrium in
+  general, their distributions in the phase space should be computed. This is a six-dimensional
+  (6D) neutrino transport problem and quite a challenge, even for those with access
+  to the most advanced numerical resources such as the "K computer". To tackle this
+  problem, we have embarked on efforts on multiple fronts. In particular, we report
+  in this paper our recent progresses in the treatment of multidimensional (multi-D)
+  radiation hydrodynamics. We are currently proceeding on two different paths to the
+  ultimate goal. In one approach, we employ an approximate but highly efficient scheme
+  for neutrino transport and treat 3D hydrodynamics and/or general relativity rigorously;
+  some neutrino-driven explosions will be presented and quantitative comparisons will
+  be made between 2D and 3D models. In the second approach, on the other hand, exact,
+  but so far Newtonian, Boltzmann equations are solved in two and three spatial dimensions;
+  we will show some example test simulations. We will also address the perspectives
+  of exascale computations on the next generation supercomputers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012PTEP.2012aA301K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1205.6284
+author: Kotake, K. and Sumiyoshi, K. and Yamada, S. and Takiwaki, T. and Kuroda, T.
+  and Suwa, Y. and Nagakura, H.
+author_list:
+- family: Kotake
+  given: K.
+- family: Sumiyoshi
+  given: K.
+- family: Yamada
+  given: S.
+- family: Takiwaki
+  given: T.
+- family: Kuroda
+  given: T.
+- family: Suwa
+  given: Y.
+- family: Nagakura
+  given: H.
+date-added: 2017-08-10 16:21:01 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1093/ptep/pts009
+eid: 01A301
+eprint: '1205.6284'
+journal: Progress of Theoretical and Experimental Physics
+month: August
+number: '1'
+pages: 01A301
+papis_id: a1a01c93a178d5d2c21a7a05bb75e5fc
+primaryclass: astro-ph.HE
+ref: kotake.k.2012
+title: 'Core-collapse supernovae as supercomputing science: A status report toward
+  six-dimensional simulations with exact Boltzmann neutrino transport in full general
+  relativity'
+type: article
+volume: '2012'
+year: '2012'

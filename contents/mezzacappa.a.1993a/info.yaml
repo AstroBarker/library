@@ -1,0 +1,31 @@
+abstract: A simulation has been conducted of a realistic gravitational collapse in
+  which neutrino-electron scattering is not approximated in the neutrino transport
+  equation. The simulation code is based on the Newtonian gravity, the O(v/c) Lagrangian
+  hydrodynamic equations, and the O(v/c) neutrino Boltzmann equation. Only electron-neutrino
+  weak interactions were included; these encompass electron capture on nuclei and
+  free protons, electron-neutrino absorption on nuclei and free neutrons, conservative
+  scattering of electron-neutrinos on free protons and neutrons, conservative coherent
+  scattering of electron-neutrinos on nuclei, and neutrino-electron scattering.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...410..740M
+author: Mezzacappa, A. and Bruenn, S. W.
+author_list:
+- family: Mezzacappa
+  given: A.
+- family: Bruenn
+  given: S. W.
+date-added: 2017-08-10 18:28:50 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172791
+journal: \apj
+keywords: Electron Scattering, Gravitational Collapse, Neutrinos, Nuclear Astrophysics,
+  Stellar Cores, Supernovae, Boltzmann Transport Equation, Computational Astrophysics,
+  Entropy, Leptons, Partial Differential Equations, Stellar Evolution
+month: June
+pages: 740--760
+papis_id: bcba985658605715ac5b471469e444aa
+ref: mezzacappa.a.1993a
+title: Stellar core collapse - A Boltzmann treatment of neutrino-electron scattering
+type: article
+volume: '410'
+year: '1993'

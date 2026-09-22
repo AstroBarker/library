@@ -1,0 +1,55 @@
+abstract: 'We present improved synthesis models of the evolving spectrum of the UV/X-ray
+  diffuse background, updating and extending our previous results. Five new main components
+  are added to our radiative transfer code CUBA: (1) the sawtooth modulation of the
+  background intensity from resonant line absorption in the Lyman series of cosmic
+  hydrogen and helium; (2) the X-ray emission from the obscured and unobscured quasars
+  that gives origin to the X-ray background; (3) a piecewise parameterization of the
+  distribution in redshift and column density of intergalactic absorbers that fits
+  recent measurements of the mean free path of 1 ryd photons; (4) an accurate treatment
+  of the photoionization structure of absorbers, which enters in the calculation of
+  the helium continuum opacity and recombination emissivity; and (5) the UV emission
+  from star-forming galaxies at all redshifts. We provide tables of the predicted
+  H I and He II photoionization and photoheating rates for use, e.g., in cosmological
+  hydrodynamics simulations of the Lyalpha forest and a new metallicity-dependent
+  calibration to the UV luminosity density-star formation rate density relation. A
+  "minimal cosmic reionization model" is also presented in which the galaxy UV emissivity
+  traces recent determinations of the cosmic history of star formation, the luminosity-weighted
+  escape fraction of hydrogen-ionizing radiation increases rapidly with look-back
+  time, the clumping factor of the high-redshift intergalactic medium evolves following
+  the results of hydrodynamic simulations, and Population III stars and miniquasars
+  make a negligible contribution to the metagalactic flux. The model provides a good
+  fit to the hydrogen-ionization rates inferred from flux decrement and proximity
+  effect measurements, predicts that cosmological H II (He III) regions overlap at
+  redshift 6.7 (2.8), and yields an optical depth to Thomson scattering, taues = 0.084
+  that is in agreement with Wilkinson Microwave Anisotropy Probe results. Our new
+  background intensities and spectra are sensitive to a number of poorly determined
+  input parameters and suffer from various degeneracies. Their predictive power should
+  be constantly tested against new observations. We are therefore making our redshift-dependent
+  UV/X emissivities and CUBA outputs freely available for public use at http://www.ucolick.org/~pmadau/CUBA.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...746..125H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.2039
+author: Haardt, F. and Madau, P.
+author_list:
+- family: Haardt
+  given: F.
+- family: Madau
+  given: P.
+date-added: 2017-08-10 20:17:21 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/746/2/125
+eid: '125'
+eprint: '1105.2039'
+journal: \apj
+keywords: 'cosmology: theory, diffuse radiation, intergalactic medium, galaxies: evolution,
+  quasars: general'
+month: February
+pages: '125'
+papis_id: 943dddb59334ed17445bc3504aa5d50a
+ref: haardt.f.2012
+title: Radiative Transfer in a Clumpy Universe. IV. New Synthesis Models of the Cosmic
+  UV/X-Ray Background
+type: article
+volume: '746'
+year: '2012'

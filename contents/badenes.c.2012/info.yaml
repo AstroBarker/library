@@ -1,0 +1,46 @@
+abstract: We use multi-epoch spectroscopy of ~4000 white dwarfs in the Sloan Digital
+  Sky Survey to constrain the properties of the Galactic population of binary white
+  dwarf systems and calculate their merger rate. With a Monte Carlo code, we model
+  the distribution of DeltaRVmax, the maximum radial velocity shift between exposures
+  of the same star, as a function of the binary fraction within 0.05 AU, f bin, and
+  the power-law index in the separation distribution at the end of the common-envelope
+  phase, alpha. Although there is some degeneracy between f bin and alpha, the 15
+  high-DeltaRVmax systems that we find constrain the combination of these parameters,
+  which determines a white dwarf merger rate per unit stellar mass of 1.4+3.4 -1.0
+  \texttimes{} 10-13 yr-1 M -1 \&sun; (1sigma limits). This is remarkably similar
+  to the measured rate of Type Ia supernovae (SNe Ia) per unit stellar mass in Milky-Way-like
+  Sbc galaxies. The rate of super-Chandrasekhar mergers is only 1.0+1.6 -0.6 \texttimes{}
+  10-14 yr-1 M -1 \&sun;. We conclude that there are not enough close binary white
+  dwarf systems to reproduce the observed SN Ia rate in the "classic" double degenerate
+  super-Chandrasekhar scenario. On the other hand, if sub-Chandrasekhar mergers can
+  lead to SNe Ia, as has been recently suggested by some studies, they could make
+  a major contribution to the overall SN Ia rate. Although unlikely, we cannot rule
+  out contamination of our sample by M-dwarf binaries or non-Gaussian errors. These
+  issues will be clarified in the near future by completing the follow-up of all 15
+  high-DeltaRVmax systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749L..11B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.5472
+author: Badenes, C. and Maoz, D.
+author_list:
+- family: Badenes
+  given: C.
+- family: Maoz
+  given: D.
+date-added: 2017-08-11 07:20:21 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/2041-8205/749/1/L11
+eid: L11
+eprint: '1202.5472'
+journal: \apjl
+keywords: 'binaries: close, white dwarfs, supernovae: general'
+month: April
+pages: L11
+papis_id: ab5eeb068fa0c41db5aac55b09b93d11
+primaryclass: astro-ph.SR
+ref: badenes.c.2012
+title: The Merger Rate of Binary White Dwarfs in the Galactic Disk
+type: article
+volume: '749'
+year: '2012'

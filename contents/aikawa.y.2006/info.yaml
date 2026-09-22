@@ -1,0 +1,43 @@
+abstract: We calculate the physical structure of protoplanetary disks by evaluating
+  the gas density and temperature self-consistently and solving separately for the
+  dust temperature. The effect of grain growth is taken into account by assuming a
+  power-law size distribution and varying the maximum radius of grains amax. In our
+  fiducial model with amax=10 mum, the gas is warmer than the dust in the surface
+  layer of the disk, while the gas and dust have the same temperature in deeper layers.
+  In the models with larger amax, the gas temperature in the surface layer is lower
+  than in the fiducial model because of reduced photoelectric heating rates from small
+  grains, while the deeper penetration of stellar radiation warms the gas at intermediate
+  height. A detailed chemical reaction network is solved at outer radii (r>=50 AU).
+  Vertical distributions of some molecular species at different radii are similar
+  when plotted as a function of hydrogen column density SigmaH from the disk surface.
+  Consequently, molecular column densities do not much depend on disk radius. In the
+  models with larger amax, the lower temperature in the surface layer makes the geometrical
+  thickness of the disk smaller, and the gaseous molecules are confined to smaller
+  heights. However, if we plot the vertical distributions of molecules as a function
+  of SigmaH, they do not significantly depend on amax. The dependence of the molecular
+  column densities on amax is not significant either. Notable exceptions are HCO+,
+  H+3, and H2D+, which have smaller column densities in the models with larger amax.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...642.1152A
+arxivurl: http://arxiv.org/abs/astro-ph/0601230
+author: Aikawa, Y. and Nomura, H.
+author_list:
+- family: Aikawa
+  given: Y.
+- family: Nomura
+  given: H.
+date-added: 2017-08-10 14:46:50 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/501114
+eprint: astro-ph/0601230
+journal: \apj
+keywords: 'ISM: Molecules, Stars: Planetary Systems: Protoplanetary Disks, Stars:
+  Pre-Main-Sequence'
+month: May
+pages: 1152--1162
+papis_id: 7a676ba0c49a913792c7aab467f61ec6
+ref: aikawa.y.2006
+title: Physical and Chemical Structure of Protoplanetary Disks with Grain Growth
+type: article
+volume: '642'
+year: '2006'

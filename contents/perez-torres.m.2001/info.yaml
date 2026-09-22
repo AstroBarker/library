@@ -1,0 +1,41 @@
+abstract: The standard model for radio supernovae considers that the observed synchrotron
+  radio emission arises from the high-energy shell that results from the strong interaction
+  between the expanding supernova ejecta and the circumstellar medium. This emission
+  is considered to be only partially absorbed by ionized thermal electrons in the
+  circumstellar wind of the progenitor star. Based on a study of the radio light curves
+  of the type II supernova SN1993J, we present evidence of synchrotron self-absorption.
+  Our modeling of the radio light curves requires a large initial magnetic field,
+  of about 30 Gauss, and the existence of an (initially) highly-relativistic population
+  of electrons. We also show that while at early epochs the dominant absorption mechanism
+  is external absorption by thermal electrons, at late epochs and long wavelengths
+  the dominant absorption mechanism is synchrotron self-absorption. Consequently,
+  the spectral turnover takes place at much shorter wavelengths than expected in the
+  standard model, and at long wavelengths (>=90 cm at current epochs) the flux predictions
+  depart substantially from those of the standard model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...374..997P
+arxivurl: http://arxiv.org/abs/astro-ph/0106177
+author: Pérez-Torres, M. A. and Alberdi, A. and Marcaide, J. M.
+author_list:
+- family: Pérez-Torres
+  given: M. A.
+- family: Alberdi
+  given: A.
+- family: Marcaide
+  given: J. M.
+date-added: 2017-08-10 19:19:38 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1051/0004-6361:20010774
+eprint: astro-ph/0106177
+journal: \aap
+keywords: 'RADIATION MECHANISMS: NON-THERMAL RADIATIVE TRANSFER, SUPERNOVAE: GENERAL,
+  SUPERNOVAE: INDIVIDUAL (SN 1993J)'
+month: August
+pages: 997--1002
+papis_id: 0d2a06075822fd5f93f99521c879d8b3
+ref: perez_torres.m.2001
+title: The role of synchrotron self-absorption in the late radio emission from SN
+  1993J
+type: article
+volume: '374'
+year: '2001'

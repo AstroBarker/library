@@ -1,0 +1,36 @@
+abstract: Radiative transfer and resonance-line formation in expanding, decelerating
+  stellar atmospheres are analyzed in the supersonic approximation, taking spherical
+  geometry into account and assuming complete redistribution over the line profile
+  in the fluid frame. The influence of interlayer radiative coupling is investigated,
+  and cases where the 'disconnected approximation' of Kuan and Kuhi (1975) applies
+  are identified. The radiation force on the atmospheric material is evaluated, the
+  applicability of decelerating atmospheres to real stars is discussed, and the effect
+  of the disconnected approximation is tested by using a program to turn the interlayer
+  radiative coupling on and off at will. Numerical results are presented which show
+  that the value of the source function is not very sensitive to the disconnected
+  approximation except at large radii and that the line profile is very sensitive
+  to the outer cutoff radius. Some cases of accelerating, infalling matter are also
+  considered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1977ApJ...215..247M
+author: Marti, F. and Noerdlinger, P. D.
+author_list:
+- family: Marti
+  given: F.
+- family: Noerdlinger
+  given: P. D.
+date-added: 2017-08-11 06:31:44 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/155354
+journal: \apj
+keywords: Line Spectra, Radiative Transfer, Stellar Atmospheres, Supersonic Flow,
+  Acceleration (Physics), Deceleration, Doppler Effect, Gas Expansion, Resonance
+month: July
+pages: 247--264
+papis_id: 87a1d3b43bca08f5f12673d4e7aa98e0
+ref: marti.f.1977
+title: Transfer of line radiation in differentially expanding atmospheres. V - Line
+  formation in a decelerating spherical flow
+type: article
+volume: '215'
+year: '1977'

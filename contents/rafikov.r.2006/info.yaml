@@ -1,0 +1,50 @@
+abstract: We study the effect of pulsar rotation on the timing of binary pulsars,
+  with particular emphasis on the double pulsar system J0737-3039. Special relativistic
+  aberration due to the orbital motion of a pulsar changes both the longitude and
+  latitude of the emission direction with respect to the pulsar spin axis. The former
+  gives rise to a shift of the arrival time of the pulse centroid (this is the conventional
+  ``longitudinal'' aberration delay), and the latter results in a distortion (contraction
+  or dilation) of the pulse profile on the orbital timescale. In the framework of
+  the rotating vector model of pulsar emission, the amplitude of pulse distortion
+  depends inversely on the variation of the polarization position angle across the
+  pulse. For a small angle between the pulsar magnetic and spin axes, as has been
+  inferred for PSR J0737-3039A from polarimetric observations, the pulse distortion
+  is significant (~1\%) and the associated ``latitudinal'' aberration delay is much
+  larger than the longitudinal one. We show that by monitoring the arrival time of
+  separate pulse components as a function of pulsar orbital phase, the latitudinal
+  aberration delay may be easily measured with the current timing precision. Such
+  a measurement would constrain the spin geometry of the system. The latitudinal delay
+  can also be detected by monitoring the system's orbital parameters on the geodetic
+  precession timescale. Because of the near-edge-on orbital orientation of the PSR
+  J0737-3039 system, general relativistic bending of pulsar A's radio beam near its
+  superior conjunction also introduces spin-dependent time delays of similar orders
+  of magnitude as the aberration delays. In addition, light bending splits the pulse
+  profile into two variable components, corresponding to two gravitationally lensed
+  images of the source. Detection of lensing effects is challenging, but it may be
+  possible with existing technology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...641..438R
+arxivurl: http://arxiv.org/abs/astro-ph/0503461
+author: Rafikov, R. R. and Lai, D.
+author_list:
+- family: Rafikov
+  given: R. R.
+- family: Lai
+  given: D.
+date-added: 2017-08-10 22:12:32 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500346
+eprint: astro-ph/0503461
+journal: \apj
+keywords: 'Stars: Binaries: General, Cosmology: Gravitational Lensing, Stars: Pulsars:
+  General, pulsars: individual (J0737-3039A), pulsars: individual (J0737-3039B), Stars:
+  Neutron'
+month: April
+pages: 438--446
+papis_id: 34cd96b44b102d98bcb51e49aaa7d360
+ref: rafikov.r.2006
+title: Effects of Pulsar Rotation on Timing Measurements of the Double Pulsar System
+  J0737-3039
+type: article
+volume: '641'
+year: '2006'

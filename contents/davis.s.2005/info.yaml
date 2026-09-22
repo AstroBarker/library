@@ -1,0 +1,48 @@
+abstract: We present calculations of non-LTE, relativistic accretion disk models applicable
+  to the high/soft state of black hole X-ray binaries. We include the effects of thermal
+  Comptonization and bound-free and free-free opacities of all abundant ion species.
+  Taking into account the relativistic propagation of photons from the local disk
+  surface to an observer at infinity, we present spectra calculated for a variety
+  of accretion rates, black hole spin parameters, disk inclinations, and stress prescriptions.
+  We also consider nonzero inner torques on the disk and explore different vertical
+  dissipation profiles, including some that are motivated by recent radiation magnetohydrodynamic
+  (MHD) simulations of magnetorotational turbulence. Bound-free metal opacity generally
+  produces significantly less spectral hardening than previous models that only considered
+  Compton scattering and free-free opacity. We find that the resulting effective photosphere
+  usually lies at a small fraction of the total column depth, producing spectra that
+  are remarkably independent of the stress prescription and vertical structure assumptions.
+  We provide detailed comparisons between our models and the widely used multicolor
+  disk model. Frequency-dependent discrepancies exist that may affect the parameters
+  of other spectral components when this simpler disk model is used to fit modern
+  X-ray data. For a given source, our models predict that the luminosity in the high/soft
+  state should approximately scale with the fourth power of the empirically inferred
+  maximum temperature, but with a slight hardening at high luminosities. This is in
+  good agreement with observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...621..372D
+arxivurl: http://arxiv.org/abs/astro-ph/0408590
+author: Davis, S. W. and Blaes, O. M. and Hubeny, I. and Turner, N. J.
+author_list:
+- family: Davis
+  given: S. W.
+- family: Blaes
+  given: O. M.
+- family: Hubeny
+  given: I.
+- family: Turner
+  given: N. J.
+date-added: 2017-08-11 05:44:46 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427278
+eprint: astro-ph/0408590
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Radiative Transfer, X-Rays:
+  Binaries'
+month: March
+pages: 372--387
+papis_id: 3fe1b2f59b6e9c1e24211e5381c46e57
+ref: davis.s.2005
+title: Relativistic Accretion Disk Models of High-State Black Hole X-Ray Binary Spectra
+type: article
+volume: '621'
+year: '2005'

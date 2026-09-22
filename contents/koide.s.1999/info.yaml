@@ -1,0 +1,48 @@
+abstract: 'Relativistic jets are observed in both active galactic nuclei (AGNs) and
+  ``microquasars'''' in our Galaxy. It is believed that these relativistic jets are
+  ejected from the vicinity of black holes. To investigate the formation mechanism
+  of these jets, we have developed a new general relativistic magnetohydrodynamic
+  (GRMHD) code. We report on the basic methods and test calculations to check whether
+  the code reproduces some analytical solutions, such as a standing shock and a Keplerian
+  disk with a steady state infalling corona or with a corona in hydrostatic equilibrium.
+  We then apply the code to the formation of relativistic MHD jets, investigating
+  the dynamics of an accretion disk initially threaded by a uniform poloidal magnetic
+  field in a nonrotating corona (either in a steady state infall or in hydrostatic
+  equilibrium) around a nonrotating black hole. The numerical results show the following:
+  as time goes on, the disk loses angular momentum as a result of magnetic braking
+  and falls into the black hole. The infalling motion of the disk, which is faster
+  than in the nonrelativistic case because of general relativistic effects below 3rS
+  (rS is the Schwarzschild radius), is strongly decelerated around r=2rS by centrifugal
+  force to form a shock inside the disk. The magnetic field is tightly twisted by
+  the differential rotation, and plasma in the shocked region of the disk is accelerated
+  by the JXB force to form bipolar relativistic jets. In addition, and interior to,
+  this magnetically driven jet, we also found a gas-pressure-driven jet ejected from
+  the shocked region by the gas-pressure force. This two-layered jet structure is
+  formed not only in the hydrostatic corona case but also in the steady state falling
+  corona case.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...522..727K
+author: Koide, S. and Shibata, K. and Kudoh, T.
+author_list:
+- family: Koide
+  given: S.
+- family: Shibata
+  given: K.
+- family: Kudoh
+  given: T.
+date-added: 2017-08-11 06:46:30 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307667
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, BLACK HOLE PHYSICS, GALAXIES: JETS, MAGNETOHYDRODYNAMICS:
+  MHD, RELATIVITY, Accretion, Accretion Disks, Black Hole Physics, Galaxies: Jets,
+  Magnetohydrodynamics: MHD, Relativity'
+month: September
+pages: 727--752
+papis_id: acc4baf4cb69900d527f1c28aa41cc9f
+ref: koide.s.1999
+title: 'Relativistic Jet Formation from Black Hole Magnetized Accretion Disks: Method,
+  Tests, and Applications of a General RelativisticMagnetohydrodynamic Numerical Code'
+type: article
+volume: '522'
+year: '1999'

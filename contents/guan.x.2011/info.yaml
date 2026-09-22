@@ -1,0 +1,44 @@
+abstract: We consider local, stratified, numerical models of isothermal accretion
+  disks. The novel feature of our treatment is that radial extent Lx and azimuthal
+  extent Ly satisfy H Lt Lx , Ly Lt R, where H is the scale height and R is the local
+  radius. This enables us to probe mesoscale structure in stratified thin disks. We
+  evolve the model at several resolutions, sizes, and initial magnetic field strengths.
+  Consistent with earlier work, we find that the saturated, turbulent state consists
+  of a weakly magnetized disk midplane coupled to a strongly magnetized corona, with
+  a transition at \vert{}z\vert{} ~ 2H. The saturated alpha ~= 0.01-0.02. A two-point
+  correlation function analysis reveals that the central 4H of the disk is dominated
+  by small-scale turbulence that is statistically similar to unstratified disk models,
+  while the coronal magnetic fields are correlated on scales ~10H. Nevertheless angular
+  momentum transport through the corona is small. A study of magnetic field loops
+  in the corona reveals few open field lines and predominantly toroidal loops with
+  a characteristic distance between footpoints that is ~H. Finally, we find quasi-periodic
+  oscillations with characteristic timescale ~30 Omega-1 in the magnetic field energy
+  density. These oscillations are correlated with oscillations in the mean azimuthal
+  field; we present a phenomenological, alpha-dynamo model that captures most aspects
+  of the oscillations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...728..130G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.3789
+author: Guan, X. and Gammie, C. F.
+author_list:
+- family: Guan
+  given: X.
+- family: Gammie
+  given: C. F.
+date-added: 2017-08-10 14:52:03 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-637X/728/2/130
+eid: '130'
+eprint: '1012.3789'
+journal: \apj
+keywords: 'accretion, accretion disks, magnetic fields, magnetohydrodynamics: MHD'
+month: February
+pages: '130'
+papis_id: 56946f614ff55f5129ea8c5776681b56
+primaryclass: astro-ph.HE
+ref: guan.x.2011
+title: Radially Extended, Stratified, Local Models of Isothermal Disks
+type: article
+volume: '728'
+year: '2011'

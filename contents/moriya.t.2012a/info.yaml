@@ -1,0 +1,49 @@
+abstract: We show that the diversity in the density slope of the dense wind due to
+  non-steady mass loss can be one way to explain the spectral diversity of Type II
+  luminous supernovae (LSNe). The interaction of SN ejecta and wind surrounding it
+  is considered to be a power source to illuminate LSNe because many LSNe show the
+  wind signature in their spectra (Type IIn LSNe). However, there also exist LSNe
+  without the spectral features caused by the wind (Type IIL LSNe). We show that,
+  even if LSNe are illuminated by the interaction, it is possible that they do not
+  show the narrow spectra from the wind if we take into account the non-steady mass
+  loss of their progenitors. When the shock breakout takes place in a dense wind with
+  the density structure rhovpropr -w , the ratio of the diffusion timescale in the
+  optically thick region of the wind (td ) and the shock propagation timescale of
+  the entire wind after the shock breakout (ts ) strongly depends on w. For the case
+  w <~ 1, both timescales are comparable (td /ts ~= 1) and td /ts gets smaller as
+  w gets larger. For the case td /ts ~= 1, the shock goes through the entire wind
+  just after the light-curve (LC) peak, and narrow spectral lines from the wind cannot
+  be observed after the LC peak (Type IIL LSNe). If td /ts is much smaller, the shock
+  wave continues to propagate in the wind after the LC peak, and unshocked wind remains
+  (Type IIn LSNe). This difference can be obtained only through careful treatment
+  of the shock breakout condition in a dense wind. The lack of narrow Lorentzian line
+  profiles in Type IIL LSNe before the LC peak can also be explained by the difference
+  in the density slope. Furthermore, we apply our model to Type IIn LSN 2006gy and
+  Type IIL LSN 2008es and find that our model is consistent with the observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747..118M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.3807
+author: Moriya, T. J. and Tominaga, N.
+author_list:
+- family: Moriya
+  given: T. J.
+- family: Tominaga
+  given: N.
+date-added: 2017-08-10 15:16:17 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/2/118
+eid: '118'
+eprint: '1110.3807'
+journal: \apj
+keywords: 'radiative transfer, shock waves, stars: mass-loss, supernovae: general,
+  supernovae: individual: SN 2006gy SN 2008es'
+month: March
+pages: '118'
+papis_id: d611e389df23c816941af767e8742fe2
+primaryclass: astro-ph.HE
+ref: moriya.t.2012a
+title: Diversity of Luminous Supernovae from Non-steady Mass Loss
+type: article
+volume: '747'
+year: '2012'

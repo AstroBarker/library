@@ -1,0 +1,51 @@
+abstract: Realistic numerical simulations, i.e., those that make minimal use of ad
+  hoc modeling, are essential for understanding the complex turbulent dynamics of
+  the interiors and atmospheres of the Sun and other stars and the basic mechanisms
+  of their magnetic activity and variability. The goal of this paper is to present
+  a detailed description and test results of a compressible radiative MHD code, `StellarBox',
+  specifically developed for simulating the convection zones, surface, and atmospheres
+  of the Sun and moderate-mass stars. The code solves the three-dimensional, fully
+  coupled compressible MHD equations using a fourth-order Pad\'e spatial differentiation
+  scheme and a fourth-order Runge-Kutta scheme for time integration. The radiative
+  transfer equation is solved using the Feautrier method for bi-directional ray tracing
+  and an opacity-binning technique. A specific feature of the code is the implementation
+  of subgrid-scale MHD turbulence models. The data structures are automatically configured,
+  depending on the computational grid and the number of available processors, to achieve
+  good load balancing. We present test results and illustrate the code's capabilities
+  for simulating the granular convection on the Sun and a set of main-sequence stars.
+  The results reveal substantial changes in the near-surface turbulent convection
+  in these stars, which in turn affect properties of the surface magnetic fields.
+  For example, in the solar case initially uniform vertical magnetic fields tend to
+  self-organize into compact (pore-like) magnetic structures, while in more massive
+  stars such structures are not formed and the magnetic field is distributed more-or-less
+  uniformly in the intergranular lanes.
+adscomment: 32 pages, 14 figures
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015arXiv150707999W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1507.07999
+author: Wray, A. A. and Bensassi, K. and Kitiashvili, I. N. and Mansour, N. N. and
+  Kosovichev, A. G.
+author_list:
+- family: Wray
+  given: A. A.
+- family: Bensassi
+  given: K.
+- family: Kitiashvili
+  given: I. N.
+- family: Mansour
+  given: N. N.
+- family: Kosovichev
+  given: A. G.
+date-added: 2017-08-10 14:10:26 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+eprint: '1507.07999'
+journal: ArXiv e-prints
+keywords: Astrophysics - Solar and Stellar Astrophysics
+month: July
+papis_id: f041fff510a4b2abb1fe026bfab75c17
+primaryclass: astro-ph.SR
+ref: wray.a.2015
+title: Simulations of Stellar Magnetoconvection using the Radiative MHD Code `StellarBox'
+type: article
+year: '2015'

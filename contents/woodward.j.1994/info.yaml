@@ -1,0 +1,43 @@
+abstract: 'Using numerical hydrodynamics techniques, we perform a nonlinear stability
+  analysis of accretion disk systems that contain thick, self-gravitating disks. The
+  systems are initially represented by a point mass Mc at the center and a geometrically
+  thick, axisymmetric disk of mass Md that supports uniform specific angular momentum
+  and obeys an n = 3/2, polytropic equation of state. The equilibrium disk structure
+  is uniquely defined upon the specification of two key dimensionless system parameters:
+  Md/Mc and T/absolute value of W (the ratio of rotational kinetic energy if the disk
+  to the gravitational potential energy of the system). The focus of this work is
+  on the identification of systems within this two-dimensional parameter space that
+  are marginally unstable toward the development of nonaxisymmetric distortions. The
+  geometric form and relative pattern speed of the disk''s distortion as well as the
+  likelihood of disk fragmentation as a result of such instabilities is examined,
+  particularly in the context of protostellar systems. The value of T/absolute value
+  of W at which thick disks first become dynamically unstable to nonaxisymmetric distortions
+  is found to vary significantly with the mass ratio of the accertion disk system.
+  Nonaxisymmetric eigenmodes with four distinctly different characters are identified
+  in systems with mass ratios in the range 0.2 less than or equal to (Md/Mc) less
+  than or equal to 5.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...420..247W
+author: Woodward, J. W. and Tohline, J. E. and Hachisu, I.
+author_list:
+- family: Woodward
+  given: J. W.
+- family: Tohline
+  given: J. E.
+- family: Hachisu
+  given: I.
+date-added: 2017-08-10 19:13:51 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173556
+journal: \apj
+keywords: Accretion Disks, Interstellar Matter, Protostars, Star Formation, Stellar
+  Envelopes, Stellar Models, Computational Astrophysics, Galactic Mass, Galactic Structure,
+  Gravitational Fields, Hydrodynamics
+month: January
+pages: 247--267
+papis_id: 194f0e7953d905cf6e5120e29fc2a107
+ref: woodward.j.1994
+title: The stability of thick, self-gravitating disks in protostellar systems
+type: article
+volume: '420'
+year: '1994'

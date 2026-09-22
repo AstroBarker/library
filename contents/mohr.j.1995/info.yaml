@@ -1,0 +1,50 @@
+abstract: We use a representative sample of 65 galaxy clusters observed with the Einstein
+  IPC to constrain the range of cluster X-ray morphologies. We develop and apply quantitative
+  and reproducible measures of cluster X-ray morphologies to constrain the intrinsic
+  distributions of (1) emission-weighted centroid variation Wx, (2) emission-weighted
+  axial ratio eta, (3) emission-weighted orientation theta0, and (4) measures of the
+  radial falloff alpha and beta. For each cluster we use a Monte Carlo procedure to
+  determine the effects of Poisson noise, detector imperfections, and foreground/background
+  X-ray point sources.  We then use the range of cluster X-ray morphologies to constrain
+  three generic cosmological models (Omega = 1, Omega0 = 0.2, and Omega0 = 0.2 and
+  lambda0 = 0.8). For each of these models, we evolve eight sets of Gaussian random
+  initial conditions consistent with an effective power spectrum P(k) \propto{} k-1
+  on cluster scales. Using this sample of 24 numerical cluster simulations which include
+  gravity and gas physics (but no cooling or ejection from galaxies), we compare the
+  X-ray morphologies of the observed and simulated clusters. Specifically, we build
+  artificial ensembles with the same distributions in the number of cluster photons,
+  X-ray temperature, and cluster redshift as the Einstein ensemble; we then compare
+  the observed and simulated distributions in Wx, eta, and alpha.  The comparisons
+  indicate that (1) these three morphological characteristics are sensitive to the
+  underlying cosmological model and (2) galaxy clusters with the observed range of
+  X-ray morphologies are very unlikely in low-Omega0 cosmologies. The analysis favors
+  the Omega = 1 model, though some discrepancies remain. We discuss the effects of
+  changing the initial conditions and of including additional physics in the simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...447....8M
+arxivurl: http://arxiv.org/abs/astro-ph/9501011
+author: Mohr, J. J. and Evrard, A. E. and Fabricant, D. G. and Geller, M. J.
+author_list:
+- family: Mohr
+  given: J. J.
+- family: Evrard
+  given: A. E.
+- family: Fabricant
+  given: D. G.
+- family: Geller
+  given: M. J.
+date-added: 2017-08-11 05:16:38 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175852
+eprint: astro-ph/9501011
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, GALAXIES: CLUSTERS: GENERAL, METHODS: NUMERICAL, X-RAYS:
+  GALAXIES'
+month: July
+pages: '8'
+papis_id: 713a11d9de7e389536af21b802d9f755
+ref: mohr.j.1995
+title: Cosmological Constraints from Observed Cluster X-Ray Morphologies
+type: article
+volume: '447'
+year: '1995'

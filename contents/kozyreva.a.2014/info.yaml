@@ -1,0 +1,57 @@
+abstract: 'Context. So-called superluminous supernovae have been recently discovered
+  in the local Universe. It appears possible that some of them originate in stellar
+  explosions induced by the pair instability mechanism. Recent stellar evolution models
+  also predict pair instability supernovae from very massive stars at fairly high
+  metallicities (i.e., Z ~ 0.004).  Aims: We provide supernova models and synthetic
+  light curves for two progenitor models, a 150 M\&sun; red supergiant and a 250 M\&sun;
+  yellow supergiant at a metallicity of Z = 0.001, for which the evolution from the
+  main sequence to collapse and the initiation of the pair instability supernova itself
+  has been previously computed in a realistic and self-consistent way.  Methods: We
+  use the radiation hydrodynamics code STELLA to describe the supernova evolution
+  of both models in a time frame of about 500 days.  Results: We describe the shock-breakout
+  phases of both supernovae, which are characterized by higher luminosity, longer
+  duration, and a lower effective temperature than those of ordinary Type IIP supernovae.
+  We derive the bolometric, as well as the U, B, V, R, and I, light curves of our
+  pair instability supernova models, which show a long-lasting plateau phase with
+  maxima at Mbol ~= -19.3 mag and -21.3 mag for our lower and higher mass models,
+  respectively. While we do not produce synthetic spectra, we also describe the photospheric
+  composition and velocity as a function of time.  Conclusions: We conclude that the
+  light curve of the explosion of our initially 150 M\&sun; star resembles those of
+  relatively bright type IIP supernovae, whereas its photospheric velocity at early
+  times is somewhat lower. Its 56Ni mass of 0.04 M\&sun; also falls well into the
+  range found in ordinary core collapse supernovae. The light curve and photospheric
+  velocity of our 250 M\&sun; models has a striking resemblance to that of the superluminous
+  SN 2007bi, strengthening its interpretation as pair instability supernova. We conclude
+  that pair instability supernovae may occur more frequently in the local universe
+  than previously assumed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...565A..70K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1403.5212
+author: Kozyreva, A. and Blinnikov, S. and Langer, N. and Yoon, S.-C.
+author_list:
+- family: Kozyreva
+  given: A.
+- family: Blinnikov
+  given: S.
+- family: Langer
+  given: N.
+- family: Yoon
+  given: S.-C.
+date-added: 2017-08-11 07:06:03 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1051/0004-6361/201423447
+eid: A70
+eprint: '1403.5212'
+journal: \aap
+keywords: 'stars: massive, stars: Population II, supernovae: general, radiative transfer,
+  hydrodynamics'
+month: May
+pages: A70
+papis_id: 41ffaf3b216c96209ddb9a079aab92b3
+primaryclass: astro-ph.HE
+ref: kozyreva.a.2014
+title: Observational properties of low-redshift pair instability supernovae
+type: article
+volume: '565'
+year: '2014'

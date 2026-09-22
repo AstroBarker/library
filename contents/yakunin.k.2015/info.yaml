@@ -1,0 +1,68 @@
+abstract: 'We present the gravitational waveforms computed in ab initio two-dimensional
+  core collapse supernova models evolved with the chimera code for progenitor masses
+  between 12 and 25 M\&sun; . All models employ multifrequency neutrino transport
+  in the ray-by-ray approximation, state-of-the-art weak interaction physics, relativistic
+  transport corrections such as the gravitational redshift of neutrinos, two-dimensional
+  hydrodynamics with the commensurate relativistic corrections, Newtonian self-gravity
+  with a general-relativistic monopole correction, and the Lattimer-Swesty equation
+  of state with 220 MeV compressibility, and begin with the most recent Woosley-Heger
+  nonrotating progenitors in this mass range. All of our models exhibit robust explosions.
+  Therefore, our waveforms capture all stages of supernova development: 1) a relatively
+  short and weak prompt signal, 2) a quiescent stage, 3) a strong signal due to convection
+  and standing accretion shock instability activity, 4) termination of active accretion
+  onto the proto-neutron star, and 5) a slowly increasing tail that reaches a saturation
+  value. Fourier decomposition shows that the gravitational wave signals we predict
+  should be observable by AdvLIGO for Galactic events across the range of progenitors
+  considered here. The fundamental limitation of these models is in their imposition
+  of axisymmetry. Further progress will require counterpart three-dimensional models,
+  which are underway.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015PhRvD..92h4040Y
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1505.05824
+author: Yakunin, K. N. and Mezzacappa, A. and Marronetti, P. and Yoshida, S. and Bruenn,
+  S. W. and Hix, W. R. and Lentz, E. J. and Bronson Messer, O. E. and Harris, J. A.
+  and Endeve, E. and Blondin, J. M. and Lingerfelt, E. J.
+author_list:
+- family: Yakunin
+  given: K. N.
+- family: Mezzacappa
+  given: A.
+- family: Marronetti
+  given: P.
+- family: Yoshida
+  given: S.
+- family: Bruenn
+  given: S. W.
+- family: Hix
+  given: W. R.
+- family: Lentz
+  given: E. J.
+- family: Bronson Messer
+  given: O. E.
+- family: Harris
+  given: J. A.
+- family: Endeve
+  given: E.
+- family: Blondin
+  given: J. M.
+- family: Lingerfelt
+  given: E. J.
+date-added: 2017-10-26 18:48:08 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1103/PhysRevD.92.084040
+eid: 084040
+eprint: '1505.05824'
+journal: \prd
+keywords: 'Gravitational waves: theory'
+month: October
+number: '8'
+pages: 084040
+papis_id: 5fb01127baab93a1bbae494f98dee5f7
+primaryclass: astro-ph.HE
+ref: yakunin.k.2015
+title: Gravitational wave signatures of ab initio two-dimensional core collapse supernova
+  explosion models for 12 -25 M$_&sun;$ stars
+type: article
+volume: '92'
+year: '2015'

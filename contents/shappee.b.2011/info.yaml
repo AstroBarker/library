@@ -1,0 +1,47 @@
+abstract: We accurately determine a new Cepheid distance to M101 (NGC 5457) using
+  archival Hubble Space Telescope (HST)/Advanced Camera for Surveys V and I time series
+  photometry of two fields within the galaxy. We make a slight modification to the
+  ISIS image subtraction package to obtain optimal differential light curves from
+  HST data. We discovered 827 Cepheids with periods between 3 and 80 days, the largest
+  extragalactic sample of Cepheids observed with HST by a factor of two. With this
+  large Cepheid sample, we find that the relative distance of M101 from the Large
+  Magellanic Cloud is DeltamuLMC = 10.63 $\pm$ 0.04 (random) \$\pm\$ 0.06 (systematic)
+  mag. If we use the geometrically determined maser distance to NGC 4258 as our distance
+  anchor, the distance modulus of M101 is mu0 = 29.04 \$\pm\$ 0.05 (random) \$\pm\$
+  0.18 (systematic) mag or D = 6.4 \$\pm\$ 0.2 (random) \$\pm\$ 0.5 (systematic) Mpc.
+  The uncertainty is dominated by the maser distance estimate (\.15 mag), which should
+  improve over the next few years. We determine a steep metallicity dependence, gamma,
+  for our Cepheid sample through two methods, yielding gamma = -0.80 \$\pm\$ 0.21
+  (random) \$\pm\$ 0.06 (systematic) mag dex-1 and gamma = -0.72+0.22 - 0.25 (random)
+  \$\pm\$ 0.06 (systematic) mag dex-1. We see marginal evidence for variations in
+  the Wesenheit period-luminosity relation slope as a function of deprojected galactocentric
+  radius. We also use the tip of the red giant branch method to independently determine
+  the distance modulus to M101 of mu0 = 29.05 \$\pm\$ 0.06 (random) \$\pm\$ 0.12 (systematic)
+  mag.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...733..124S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.3747
+author: Shappee, B. J. and Stanek, K. Z.
+author_list:
+- family: Shappee
+  given: B. J.
+- family: Stanek
+  given: K. Z.
+date-added: 2017-08-10 20:09:16 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/733/2/124
+eid: '124'
+eprint: '1012.3747'
+journal: \apj
+keywords: 'distance scale, galaxies: distances and redshifts, galaxies: individual:
+  M101, stars: variables: Cepheids, stars: variables: general, techniques: image processing'
+month: June
+pages: '124'
+papis_id: 230f700247000445107a098467bfbc43
+ref: shappee.b.2011
+title: A New Cepheid Distance to the Giant Spiral M101 Based on Image Subtraction
+  of Hubble Space Telescope/Advanced Camera for Surveys Observations
+type: article
+volume: '733'
+year: '2011'

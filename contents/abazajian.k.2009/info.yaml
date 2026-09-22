@@ -1,0 +1,67 @@
+abstract: This paper describes the Seventh Data Release of the Sloan Digital Sky Survey
+  (SDSS), marking the completion of the original goals of the SDSS and the end of
+  the phase known as SDSS-II. It includes 11,663 deg2 of imaging data, with most of
+  the ~2000 deg2 increment over the previous data release lying in regions of low
+  Galactic latitude. The catalog contains five-band photometry for 357 million distinct
+  objects. The survey also includes repeat photometry on a 120$\,^{\circ}$ long, 2fdg5
+  wide stripe along the celestial equator in the Southern Galactic Cap, with some
+  regions covered by as many as 90 individual imaging runs. We include a co-addition
+  of the best of these data, going roughly 2 mag fainter than the main survey over
+  250 deg2. The survey has completed spectroscopy over 9380 deg2 the spectroscopy
+  is now complete over a large contiguous area of the Northern Galactic Cap, closing
+  the gap that was present in previous data releases. There are over 1.6 million spectra
+  in total, including 930,000 galaxies, 120,000 quasars, and 460,000 stars. The data
+  release includes improved stellar photometry at low Galactic latitude. The astrometry
+  has all been recalibrated with the second version of the USNO CCD Astrograph Catalog,
+  reducing the rms statistical errors at the bright end to 45 milliarcseconds per
+  coordinate. We further quantify a systematic error in bright galaxy photometry due
+  to poor sky determination; this problem is less severe than previously reported
+  for the majority of galaxies. Finally, we describe a series of improvements to the
+  spectroscopic reductions, including better flat fielding and improved wavelength
+  calibration at the blue end, better processing of objects with extremely strong
+  narrow emission lines, and an improved determination of stellar metallicities.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..182..543A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0812.0649
+author: Abazajian, K. N. and Adelman-McCarthy, J. K. and Agüeros, M. A. and Allam,
+  S. S. and Allende Prieto, C. and An, D. and Anderson, K. S. J. and Anderson, S.
+  F. and Annis, J. and Bahcall, N. A. and al., et
+author_list:
+- family: Abazajian
+  given: K. N.
+- family: Adelman-McCarthy
+  given: J. K.
+- family: Agüeros
+  given: M. A.
+- family: Allam
+  given: S. S.
+- family: Allende Prieto
+  given: C.
+- family: An
+  given: D.
+- family: Anderson
+  given: K. S. J.
+- family: Anderson
+  given: S. F.
+- family: Annis
+  given: J.
+- family: Bahcall
+  given: N. A.
+- family: al.
+  given: et
+date-added: 2017-08-10 20:11:07 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0067-0049/182/2/543
+eid: 543-558
+eprint: '0812.0649'
+journal: \apjs
+keywords: atlases, catalogs, surveys
+month: June
+pages: 543--558
+papis_id: ef3835feb2f361c3a9188834f582c95b
+ref: abazajian.k.2009
+title: The Seventh Data Release of the Sloan Digital Sky Survey
+type: article
+volume: '182'
+year: '2009'

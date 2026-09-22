@@ -1,0 +1,27 @@
+abstract: A number of test problems for radiation and radiation-hydrodynamics computer
+  codes are described. These include evolution to radiative equilibrium, cooling from
+  radiative equilibrium, subcritical and supercritical radiating shocks, and a radiating
+  blast wave in a power-law density distribution. For each test problem, example input
+  parameters and plots of the results are presented. Some test problems for pure hydrodynamics
+  are also suggested. The radiation-hydrodynamics code used to perform the example
+  test problems and the equations it solves are described in some detail.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...424..275E
+author: Ensman, L.
+author_list:
+- family: Ensman
+  given: L.
+date-added: 2017-08-11 07:11:26 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173889
+journal: \apj
+keywords: Hydrodynamics, Mathematical Models, Radiant Cooling, Radiant Heating, Shock
+  Waves, Hydrodynamic Equations, Supernovae
+month: March
+pages: 275--291
+papis_id: f91f85e05a8ead0b6470ec0deb681524
+ref: ensman.l.1994
+title: Test problems for radiation and radiation-hydrodynamics codes
+type: article
+volume: '424'
+year: '1994'

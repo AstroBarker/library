@@ -1,0 +1,48 @@
+abstract: We present the new open-source spherically symmetric general-relativistic
+  (GR) hydrodynamics code GR1D. It is based on the Eulerian formulation of GR hydrodynamics
+  (GRHD) put forth by Romero-Ib{\'a}{\~n}ez-Gourgoulhon and employs radial-gauge,
+  polar-slicing coordinates in which the 3+1 equations simplify substantially. We
+  discretize the GRHD equations with a finite-volume scheme, employing piecewise-parabolic
+  reconstruction and an approximate Riemann solver. GR1D is intended for the simulation
+  of stellar collapse to neutron stars and black holes and will also serve as a testbed
+  for modeling technology to be incorporated in multi-D GR codes. Its GRHD part is
+  coupled to various finite-temperature microphysical equations of state in tabulated
+  form that we make available with GR1D. An approximate deleptonization scheme for
+  the collapse phase and a neutrino-leakage/heating scheme for the postbounce epoch
+  are included and described. We also derive the equations for effective rotation
+  in 1D and implement them in GR1D. We present an array of standard test calculations
+  and also show how simple analytic equations of state in combination with presupernova
+  models from stellar evolutionary calculations can be used to study qualitative aspects
+  of black hole formation in failing rotating core-collapse supernovae. In addition,
+  we present a simulation with microphysical equations of state and neutrino leakage/heating
+  of a failing core-collapse supernova and black hole formation in a presupernova
+  model of a 40 Modot zero-age main-sequence star. We find good agreement on the time
+  of black hole formation (within 20\%) and last stable protoneutron star mass (within
+  10\%) with predictions from simulations with full Boltzmann neutrino radiation hydrodynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27k4103O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.2393
+author: O'Connor, E. and Ott, C. D.
+author_list:
+- family: O'Connor
+  given: E.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-10 16:06:08 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0264-9381/27/11/114103
+eid: '114103'
+eprint: '0912.2393'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '114103'
+papis_id: d4cfb8bba55c059a1d4ebeb6acd4fe66
+primaryclass: astro-ph.HE
+ref: o_connor.e.2010
+title: A new open-source code for spherically symmetric stellar collapse to neutron
+  stars and black holes
+type: article
+volume: '27'
+year: '2010'

@@ -1,0 +1,52 @@
+abstract: 'Aims:We calculate the energy release associated with a strong first-order
+  phase transition, from normal phase N to an ``exotic'''' superdense phase S, in
+  a rotating neutron star. Such a phase transition Nlongrightarrow S, accompanied
+  by a density jump rho\_\_Nlongrightarrow rho\_\_S, is characterized by rho\_S/rho\_N>
+  {3over 2}(1+P\_0/rho\_Nc^2), where P0 is the pressure at which phase transition
+  occurs. Configurations with small S-phase cores are then unstable and collapse into
+  stars with large S-phase cores. The energy release is equal to the difference in
+  mass-energies between the initial (normal) configuration and the final configuration
+  containing an S-phase core, the total stellar baryon mass and angular momentum being
+  kept constant.  Methods: The calculations of the energy release are based on precise
+  numerical 2D calculations. Polytropic equations of state (EOSs) as well as realistic
+  EOSs with strong first-order phase transition due to kaon condensation are used.
+  For polytropic EOSs, a large parameter space is studied.  Results: For a fixed ``overpressure'''',
+  deltaoverline{P}, defined as the relative excess of central pressure of a collapsing
+  metastable star over the pressure of the equilibrium first-order phase transition,
+  the energy release E\_rel does not depend on the stellar angular momentum. It coincides
+  with that for nonrotating stars with the same deltaoverline{P}. Therefore, results
+  of 1D calculations of E\_rel(deltaoverline{P}) for non-rotating stars can be used
+  to predict, with very high precision, the outcome of much harder to perform 2D calculations
+  for rotating stars with the same deltaoverline{P}. This result holds also for deltaoverline{P}\_min<deltaoverline{P}<0,
+  corresponding to phase transitions overcoming the energy barrier separating metastable
+  N-phase configurations from those with an S-phase core. Such phase transitions could
+  be realized in the cores of newly born, hot, pulsating neutron stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...479..515Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.3691
+author: Zdunik, J. L. and Bejger, M. and Haensel, P. and Gourgoulhon, E.
+author_list:
+- family: Zdunik
+  given: J. L.
+- family: Bejger
+  given: M.
+- family: Haensel
+  given: P.
+- family: Gourgoulhon
+  given: E.
+date-added: 2017-08-11 06:10:28 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1051/0004-6361:20078346
+eprint: '0707.3691'
+journal: \aap
+keywords: 'dense matter, equation of state, stars: neutron, stars: rotation'
+month: February
+pages: 515--522
+papis_id: 98c366d1a4f3489f8818f140032c0062
+ref: zdunik.j.2008
+title: Strong first-order phase transition in a rotating neutron star core and the
+  associated energy release
+type: article
+volume: '479'
+year: '2008'

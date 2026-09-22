@@ -1,0 +1,43 @@
+abstract: We performed the first global numerical simulations of magnetorotational
+  instability from a sub-magnetar-class seed magnetic field in core-collapse supernovae.
+  As a result of axisymmetric ideal MHD simulations, we found that the magnetic field
+  is greatly amplified to magnetar-class strength. In the saturation phase, a substantial
+  part of the core is dominated by turbulence, and the magnetic field possesses dominant
+  large-scale components, comparable to the size of a proto-neutron star. A pattern
+  of coherent channel flows, which generally appears during the exponential growth
+  phase in previous local simulations, is not observed in our global simulations.
+  While the approximate convergence in the exponential growth rate is attained by
+  increasing spatial resolution, that of the saturation magnetic field is not achieved
+  due to still large numerical diffusion. Although the effect of the magnetic field
+  on the dynamics is found to be mild, a simulation with a high enough resolution
+  might result in a larger impact.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...770L..19S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.2856
+author: Sawai, H. and Yamada, S. and Suzuki, H.
+author_list:
+- family: Sawai
+  given: H.
+- family: Yamada
+  given: S.
+- family: Suzuki
+  given: H.
+date-added: 2017-08-10 18:56:20 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/2041-8205/770/2/L19
+eid: L19
+eprint: '1303.2856'
+journal: \apjl
+keywords: 'instabilities, magnetohydrodynamics: MHD, methods: numerical, stars: magnetars,
+  supernovae: general'
+month: June
+pages: L19
+papis_id: dcd61758bc8c9d508bff8c005ce97bad
+primaryclass: astro-ph.HE
+ref: sawai.h.2013a
+title: Global Simulations of Magnetorotational Instability in the Collapsed Core of
+  a Massive Star
+type: article
+volume: '770'
+year: '2013'

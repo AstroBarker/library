@@ -1,0 +1,48 @@
+abstract: In a systematic study, we compare the density statistics in high-resolution
+  numerical experiments of supersonic isothermal turbulence, driven by the usually
+  adopted solenoidal (divergence-free) forcing and by compressive (curl-free) forcing.
+  We find that for the same rms Mach number, compressive forcing produces much stronger
+  density enhancements and larger voids compared to solenoidal forcing. Consequently,
+  the Fourier spectra of density fluctuations are significantly steeper. This result
+  is confirmed using the Delta-variance analysis, which yields power-law exponents
+  beta ~ 3.4 for compressive forcing and beta ~ 2.8 for solenoidal forcing. We obtain
+  fractal dimension estimates from the density spectra and Delta-variance scaling,
+  and by using the box counting, mass size, and perimeter area methods applied to
+  the volumetric data, projections, and slices of our turbulent density fields. Our
+  results suggest that compressive forcing yields fractal dimensions significantly
+  smaller compared to solenoidal forcing. However, the actual values depend sensitively
+  on the adopted method, with the most reliable estimates based on the Delta-variance,
+  or equivalently, on Fourier spectra. Using these methods, we obtain D ~ 2.3 for
+  compressive and D ~ 2.6 for solenoidal forcing, which is within the range of fractal
+  dimension estimates inferred from observations (D ~ 2.0-2.7). The velocity dispersion
+  to size relations for both solenoidal and compressive forcings obtained from velocity
+  spectra follow a power law with exponents in the range 0.4-0.5, in good agreement
+  with previous studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...692..364F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0710.1359
+author: Federrath, C. and Klessen, R. S. and Schmidt, W.
+author_list:
+- family: Federrath
+  given: C.
+- family: Klessen
+  given: R. S.
+- family: Schmidt
+  given: W.
+date-added: 2017-08-11 01:29:53 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/692/1/364
+eprint: '0710.1359'
+journal: \apj
+keywords: 'hydrodynamics, ISM: clouds, ISM: kinematics and dynamics, ISM: structure,
+  methods: numerical, turbulence'
+month: February
+pages: 364--374
+papis_id: ec84375d0246d1f8887867e77ca1b6e0
+ref: federrath.c.2009
+title: 'The Fractal Density Structure in Supersonic Isothermal Turbulence: Solenoidal
+  Versus Compressive Energy Injection'
+type: article
+volume: '692'
+year: '2009'

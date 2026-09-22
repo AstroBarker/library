@@ -1,0 +1,56 @@
+abstract: We model the nucleosynthesis during the thermal pulse phase of a rotating,
+  solar metallicity, asymptotic giant branch (AGB) star of 3 Msolar, which was evolved
+  from a main-sequence model rotating with 250 km s-1 at the stellar equator. Rotationally
+  induced mixing during the thermal pulses produces a layer (~2\texttimes{}10-5 Msolar)
+  on top of the CO core where large amounts of protons and 12C coexist. With a postprocessing
+  nucleosynthesis and mixing code, we follow the abundance evolution in this layer,
+  in particular that of the neutron source 13C and of the neutron poison 14N. In our
+  AGB model mixing persists during the entire interpulse phase because of the steep
+  angular velocity gradient at the core-envelope interface, thereby spreading 14N
+  over the entire 13C-rich part of the layer. We follow the neutron production during
+  the interpulse phase and find a resulting maximum neutron exposure of taumax=0.04
+  mbarn-1, which is too small to produce any significant s-process. In parametric
+  models, we then investigate the combined effects of diffusive overshooting from
+  the convective envelope and rotationally induced mixing. Just adding the overshooting
+  and leaving the rotational mixing unchanged results in a small maximum neutron exposure
+  (0.03 mbarn-1). Models with overshoot and weaker interpulse mixing-as perhaps expected
+  from more slowly rotating stars-yield larger neutron exposures. In a model with
+  overshooting without any interpulse mixing a neutron exposure of up to 0.72 mbarn-1
+  is obtained, which is larger than required by observations. We conclude that the
+  incorporation of rotationally induced mixing processes has important consequences
+  for the production of heavy elements in AGB stars. While through a distribution
+  of initial rotation rates, it may lead to a natural spread in the neutron exposures
+  obtained in AGB stars of a given mass in general-as appears to be required by observations-it
+  may moderate the large neutron exposures found in models with diffusive overshoot
+  in particular. Our results suggest that both processes, diffusive overshoot and
+  rotational mixing, may be required to obtain a consistent description of the s-process
+  in AGB stars that fulfills all observational constraints. Finally, we find that
+  mixing due to rotation within our current framework does increase the production
+  of 15N in the partial mixing zone. However, this increase is not large enough to
+  boost the production of fluorine to the level required by observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...593.1056H
+arxivurl: http://arxiv.org/abs/astro-ph/0305491
+author: Herwig, F. and Langer, N. and Lugaro, M.
+author_list:
+- family: Herwig
+  given: F.
+- family: Langer
+  given: N.
+- family: Lugaro
+  given: M.
+date-added: 2017-08-10 20:35:06 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376726
+eprint: astro-ph/0305491
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: AGB and Post-AGB,
+  Stars: Evolution, Stars: Interiors, Stars: Rotation'
+month: August
+pages: 1056--1073
+papis_id: d1bc9642d2890190d706c141f2994667
+ref: herwig.f.2003
+title: The s-Process in Rotating Asymptotic Giant Branch Stars
+type: article
+volume: '593'
+year: '2003'

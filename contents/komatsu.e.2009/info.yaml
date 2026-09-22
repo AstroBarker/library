@@ -1,0 +1,103 @@
+abstract: 'The Wilkinson Microwave Anisotropy Probe (WMAP) 5-year data provide stringent
+  limits on deviations from the minimal, six-parameter Lambda cold dark matter model.
+  We report these limits and use them to constrain the physics of cosmic inflation
+  via Gaussianity, adiabaticity, the power spectrum of primordial fluctuations, gravitational
+  waves, and spatial curvature. We also constrain models of dark energy via its equation
+  of state, parity-violating interaction, and neutrino properties, such as mass and
+  the number of species. We detect no convincing deviations from the minimal model.
+  The six parameters and the corresponding 68\% uncertainties, derived from the WMAP
+  data combined with the distance measurements from the Type Ia supernovae (SN) and
+  the Baryon Acoustic Oscillations (BAO) in the distribution of galaxies, are: Omega
+  b  h 2 = 0.02267+0.00058 -0.00059, Omega c  h 2 = 0.1131 $\pm$ 0.0034, OmegaLambda
+  = 0.726 \$\pm\$ 0.015, ns = 0.960 \$\pm\$ 0.013, tau = 0.084 \$\pm\$ 0.016, and
+  Delta\_{R}^2 = (2.445\$\pm\$ 0.096)\texttimes{} 10^{-9} at k = 0.002 Mpc-1. From
+  these, we derive sigma8 = 0.812 \$\pm\$ 0.026, H 0 = 70.5 \$\pm\$ 1.3 km s-1 Mpc-1,
+  Omega b  = 0.0456 \$\pm\$ 0.0015, Omega c  = 0.228 \$\pm\$ 0.013, Omega m  h 2 =
+  0.1358+0.0037 -0.0036, z reion = 10.9 \$\pm\$ 1.4, and t 0 = 13.72 \$\pm\$ 0.12
+  Gyr. With the WMAP data combined with BAO and SN, we find the limit on the tensor-to-scalar
+  ratio of r < 0.22(95\%CL), and that ns > 1 is disfavored even when gravitational
+  waves are included, which constrains the models of inflation that can produce significant
+  gravitational waves, such as chaotic or power-law inflation models, or a blue spectrum,
+  such as hybrid inflation models. We obtain tight, simultaneous limits on the (constant)
+  equation of state of dark energy and the spatial curvature of the universe: -0.14
+  < 1 + w < 0.12(95\%CL) and -0.0179 < Omega k  < 0.0081(95\%CL). We provide a set
+  of "WMAP distance priors," to test a variety of dark energy models with spatial
+  curvature. We test a time-dependent w with a present value constrained as -0.33
+  < 1 + w 0 < 0.21 (95\% CL). Temperature and dark matter fluctuations are found to
+  obey the adiabatic relation to within 8.9\% and 2.1\% for the axion-type and curvaton-type
+  dark matter, respectively. The power spectra of TB and EB correlations constrain
+  a parity-violating interaction, which rotates the polarization angle and converts
+  E to B. The polarization angle could not be rotated more than -5fdg9 < Deltaalpha
+  < 2fdg4 (95\% CL) between the decoupling and the present epoch. We find the limit
+  on the total mass of massive neutrinos of \sum{}m nu < 0.67 eV(95\%CL), which is
+  free from the uncertainty in the normalization of the large-scale structure data.
+  The number of relativistic degrees of freedom (dof), expressed in units of the effective
+  number of neutrino species, is constrained as N eff = 4.4 \$\pm\$ 1.5 (68\%), consistent
+  with the standard value of 3.04. Finally, quantitative limits on physically-motivated
+  primordial non-Gaussianity parameters are -9 < f local NL < 111 (95\% CL) and -151
+  < f equil NL < 253 (95\% CL) for the local and equilateral models, respectively.  WMAP
+  is the result of a partnership between Princeton University and NASA''s Goddard
+  Space Flight Center. Scientific guidance is provided by the WMAP Science Team.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..180..330K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0803.0547
+author: Komatsu, E. and Dunkley, J. and Nolta, M. R. and Bennett, C. L. and Gold,
+  B. and Hinshaw, G. and Jarosik, N. and Larson, D. and Limon, M. and Page, L. and
+  Spergel, D. N. and Halpern, M. and Hill, R. S. and Kogut, A. and Meyer, S. S. and
+  Tucker, G. S. and Weiland, J. L. and Wollack, E. and Wright, E. L.
+author_list:
+- family: Komatsu
+  given: E.
+- family: Dunkley
+  given: J.
+- family: Nolta
+  given: M. R.
+- family: Bennett
+  given: C. L.
+- family: Gold
+  given: B.
+- family: Hinshaw
+  given: G.
+- family: Jarosik
+  given: N.
+- family: Larson
+  given: D.
+- family: Limon
+  given: M.
+- family: Page
+  given: L.
+- family: Spergel
+  given: D. N.
+- family: Halpern
+  given: M.
+- family: Hill
+  given: R. S.
+- family: Kogut
+  given: A.
+- family: Meyer
+  given: S. S.
+- family: Tucker
+  given: G. S.
+- family: Weiland
+  given: J. L.
+- family: Wollack
+  given: E.
+- family: Wright
+  given: E. L.
+date-added: 2017-08-11 02:38:42 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0067-0049/180/2/330
+eprint: '0803.0547'
+journal: \apjs
+keywords: 'cosmic microwave background, cosmology: observations, dark matter, early
+  universe, instrumentation: detectors, space vehicles: instruments, telescopes'
+month: February
+pages: 330--376
+papis_id: 1e7e2b8b68a1c692e87cd81e141edf74
+ref: komatsu.e.2009
+title: 'Five-Year Wilkinson Microwave Anisotropy Probe Observations: Cosmological
+  Interpretation'
+type: article
+volume: '180'
+year: '2009'

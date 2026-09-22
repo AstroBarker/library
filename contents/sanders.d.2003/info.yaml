@@ -1,0 +1,58 @@
+abstract: IRAS flux densities, redshifts, and infrared luminosities are reported for
+  all sources identified in the IRAS Revised Bright Galaxy Sample (RBGS), a complete
+  flux-limited survey of all extragalactic objects with total 60 mum flux density
+  greater than 5.24 Jy, covering the entire sky surveyed by IRAS at Galactic latitudes
+  \vert{}b\vert{}>5$\,^{\circ}$. The RBGS includes 629 objects, with median and mean
+  sample redshifts of 0.0082 and 0.0126, respectively, and a maximum redshift of 0.0876.
+  The RBGS supersedes the previous two-part IRAS Bright Galaxy Samples (BGS1+BGS2),
+  which were compiled before the final (Pass 3) calibration of the IRAS Level 1 Archive
+  in 1990 May. The RBGS also makes use of more accurate and consistent automated methods
+  to measure the flux of objects with extended emission. The RBGS contains 39 objects
+  that were not present in the BGS1+BGS2, and 28 objects from the BGS1+BGS2 have been
+  dropped from RBGS because their revised 60 mum flux densities are not greater than
+  5.24 Jy. Comparison of revised flux measurements for sources in both surveys shows
+  that most flux differences are in the range ~5\%-25\%, although some faint sources
+  at 12 and 25 mum differ by as much as a factor of 2. Basic properties of the RBGS
+  sources are summarized, including estimated total infrared luminosities, as well
+  as updates to cross identifications with sources from optical galaxy catalogs established
+  using the NASA/IPAC Extragalactic Database. In addition, an atlas of images from
+  the Digitized Sky Survey with overlays of the IRAS position uncertainty ellipse
+  and annotated scale bars is provided for ease in visualizing the optical morphology
+  in context with the angular and metric size of each object. The revised bolometric
+  infrared luminosity function, phi(Lir), for infrared-bright galaxies in the local
+  universe remains best fit by a double power law, phi(L)~Lalpha, with alpha=-0.6(+/-0.1)
+  and alpha=-2.2(+/-0.1) below and above the ``characteristic'' infrared luminosity
+  L\textasteriskcenteredir~1010.5Lsolar, respectively. A companion paper provides
+  IRAS High Resolution (HIRES) processing of over 100 RBGS sources where improved
+  spatial resolution often provides better IRAS source positions or allows for deconvolution
+  of close galaxy pairs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003AJ....126.1607S
+arxivurl: http://arxiv.org/abs/astro-ph/0306263
+author: Sanders, D. B. and Mazzarella, J. M. and Kim, D.-C. and Surace, J. A. and
+  Soifer, B. T.
+author_list:
+- family: Sanders
+  given: D. B.
+- family: Mazzarella
+  given: J. M.
+- family: Kim
+  given: D.-C.
+- family: Surace
+  given: J. A.
+- family: Soifer
+  given: B. T.
+date-added: 2017-08-11 00:00:26 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376841
+eprint: astro-ph/0306263
+journal: \aj
+keywords: 'Galaxies: General, Infrared Radiation'
+month: October
+pages: 1607--1664
+papis_id: 7b91505cdacdcbd4a97f754933af9f08
+ref: sanders.d.2003
+title: The IRAS Revised Bright Galaxy Sample
+type: article
+volume: '126'
+year: '2003'

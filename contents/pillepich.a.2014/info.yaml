@@ -1,0 +1,70 @@
+abstract: We use the Illustris simulations to gain insight into the build-up of the
+  outer, low-surface brightness regions which surround galaxies. We characterize the
+  stellar haloes by means of the logarithmic slope of the spherically averaged stellar
+  density profiles, alphaSTARS at z = 0, and we relate these slopes to the properties
+  of the underlying dark matter (DM) haloes, their central galaxies, and their assembly
+  histories. We analyse a sample of \texttildelow{}5000 galaxies resolved with more
+  than 5 \texttimes{} 104 particles each, and spanning a variety of morphologies and
+  halo masses (3 \texttimes{} 1011 <= Mvir \lessequivlnt{} 1014 M\&sun;). We find
+  a strong trend between stellar halo slope and total halo mass, where more massive
+  objects have shallower stellar haloes than the less massive ones (-5.5 $\pm$ 0.5
+  < alphaSTARS < -3.5 \$\pm\$ 0.2 in the studied mass range). At fixed halo mass,
+  we show that disc-like, blue, young, and more massive galaxies are surrounded by
+  significantly steeper stellar haloes than elliptical, red, older, and less massive
+  galaxies. Overall, the stellar density profiles fall off much more steeply than
+  the underlying DM, and no clear trend holds between stellar slope and DM halo concentration.
+  However, DM haloes which formed more recently, or which accreted larger fractions
+  of stellar mass from infalling satellites, exhibit shallower stellar haloes than
+  their older analogues with similar masses, by up to DeltaalphaSTARS \texttildelow{}
+  0.5-0.7. Our findings, combined with the most recent measurements of the strikingly
+  different stellar power-law indices for M31 and the Milky Way, appear to favour
+  a massive M31, and a Milky Way characterized by a much quieter accretion history
+  over the past 10 Gyr than its companion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.444..237P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1406.1174
+author: Pillepich, A. and Vogelsberger, M. and Deason, A. and Rodriguez-Gomez, V.
+  and Genel, S. and Nelson, D. and Torrey, P. and Sales, L. V. and Marinacci, F. and
+  Springel, V. and Sijacki, D. and Hernquist, L.
+author_list:
+- family: Pillepich
+  given: A.
+- family: Vogelsberger
+  given: M.
+- family: Deason
+  given: A.
+- family: Rodriguez-Gomez
+  given: V.
+- family: Genel
+  given: S.
+- family: Nelson
+  given: D.
+- family: Torrey
+  given: P.
+- family: Sales
+  given: L. V.
+- family: Marinacci
+  given: F.
+- family: Springel
+  given: V.
+- family: Sijacki
+  given: D.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:26:50 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1093/mnras/stu1408
+eprint: '1406.1174'
+journal: \mnras
+keywords: 'methods: numerical, Galaxy: formation, Galaxy: halo, galaxies: formation,
+  galaxies: haloes'
+month: October
+pages: 237--249
+papis_id: 07e866d8588712d6cea9ec2b72fb83e9
+ref: pillepich.a.2014
+title: 'Halo mass and assembly history exposed in the faint outskirts: the stellar
+  and dark matter haloes of Illustris galaxies'
+type: article
+volume: '444'
+year: '2014'

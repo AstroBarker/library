@@ -1,0 +1,40 @@
+abstract: We present three-dimensional smoothed particle hydrodynamics simulations
+  of supernova explosions from 100 s to 1 yr after core bounce. By extending our modeling
+  efforts to a three-dimensional hydrodynamics treatment, we are able to investigate
+  the effects of explosion asymmetries on mixing and gamma-ray line emergence in supernovae.
+  A series of initial explosion conditions are implemented, including jetlike and
+  equatorial asymmetries of varying degree. For comparison, symmetric explosion models
+  are also calculated. A series of time slices from the explosion evolution are further
+  analyzed using a three-dimensional Monte Carlo gamma-ray transport code. The emergent
+  hard X- and gamma-ray spectra are calculated as a function of both viewing angle
+  and time, including trends in the gamma-ray line profiles. We find significant differences
+  in the velocity distribution of radioactive nickel between the symmetric and asymmetric
+  explosion models. The effects of this spatial distribution change are reflected
+  in the overall high-energy spectrum, as well as in the individual gamma-ray line
+  profiles.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...594..390H
+arxivurl: http://arxiv.org/abs/astro-ph/0301120
+author: Hungerford, A. L. and Fryer, C. L. and Warren, M. S.
+author_list:
+- family: Hungerford
+  given: A. L.
+- family: Fryer
+  given: C. L.
+- family: Warren
+  given: M. S.
+date-added: 2017-08-11 01:53:09 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376776
+eprint: astro-ph/0301120
+journal: \apj
+keywords: 'Black Hole Physics, Gamma Rays: Theory, Stars: Neutron, Stars: Supernovae:
+  General'
+month: September
+pages: 390--403
+papis_id: 88160f51a60facfa1c7c685c362077a7
+ref: hungerford.a.2003
+title: Gamma-Ray Lines from Asymmetric Supernovae
+type: article
+volume: '594'
+year: '2003'

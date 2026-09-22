@@ -1,0 +1,49 @@
+abstract: Superbursts are rare day-long type I X-ray bursts due to carbon flashes
+  on accreting neutron stars in low-mass X-ray binaries. They heat the neutron star
+  envelope such that the burning of accreted hydrogen and helium becomes stable, and
+  the common shorter X-ray bursts are quenched. Short bursts reappear only after the
+  envelope cools down. We study multi-zone one-dimensional models of the neutron star
+  envelope, in which we follow carbon burning during the superburst, and we include
+  hydrogen and helium burning in the atmosphere above. We investigate the cases of
+  both a solar-composition and a helium-rich atmosphere. This allows us to study for
+  the first time a wide variety of thermonuclear burning behavior as well as the transitions
+  between the different regimes in a self-consistent manner. For solar composition,
+  burst quenching ends much sooner than previously expected. This is because of the
+  complex interplay between the 3alpha, hot CNO, and CNO breakout reactions. Stable
+  burning of hydrogen and helium transitions via marginally stable burning (mHz quasi-periodic
+  oscillations) to less energetic bursts with short recurrence times. We find a short-lived
+  bursting mode where weaker and stronger bursts alternate. Eventually the bursting
+  behavior changes back to that of the pre-superburst bursts. Because of the scarcity
+  of observations, this transition has not been directly detected after a superburst.
+  Using the MINBAR burst catalog we identify the shortest upper limit on the quenching
+  time for 4U 1636-536, and derive further constraints on the timescale on which bursts
+  return.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...752..150K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.1343
+author: Keek, L. and Heger, A. and in't Zand, J. J. M.
+author_list:
+- family: Keek
+  given: L.
+- family: Heger
+  given: A.
+- family: in't Zand
+  given: J. J. M.
+date-added: 2017-08-10 17:49:35 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/752/2/150
+eid: '150'
+eprint: '1204.1343'
+journal: \apj
+keywords: 'accretion, accretion disks, methods: numerical, nuclear reactions, nucleosynthesis,
+  abundances, stars: neutron, X-rays: binaries, X-rays: bursts'
+month: June
+pages: '150'
+papis_id: 9367bc8e7ad19399bd7f2d0a4b100863
+primaryclass: astro-ph.HE
+ref: keek.l.2012
+title: Superburst Models for Neutron Stars with Hydrogen- and Helium-rich Atmospheres
+type: article
+volume: '752'
+year: '2012'

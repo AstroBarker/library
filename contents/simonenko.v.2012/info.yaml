@@ -1,0 +1,44 @@
+abstract: Results of 2D numerical simulations of thermonuclear burning propagation
+  in a helium layer on a neutron star surface using the Euler-Lagrange TIGR-3T code
+  are presented. This process is crucial for the development of type I X-ray bursts.
+  Ignition and thermonuclear burning propagation are fairly easy to obtain when simulating
+  a layer with a density at the bottom of 1.75 \texttimes{} 108 g cm-3. Such a simulation
+  allows it to be compared with previous simulations based on other codes, including
+  the simulation based on the MPM code described previously. However, this density
+  is two orders of magnitude higher than can be obtained in observed bursters. The
+  implementation of efficient numerical methods for the description of heat conduction
+  and turbulence in the TIGR-3T code has allowed simulations to be performed for a
+  layer with a density at the bottom of 1.8 \texttimes{} 107 g cm-3. The fulfilment
+  of certain conditions on the size and shape of the initial temperature perturbation
+  is required for the propagation of thermonuclear burning. Simulations reveal a peculiar
+  burning propagation mechanism through compression of the layer ahead of the burning
+  front by the matter transferred above the free surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012AstL...38..305S
+author: Simonenko, V. A. and Gryaznykh, D. A. and Litvinenko, I. A. and Lykov, V.
+  A. and Shushlebin, A. N.
+author_list:
+- family: Simonenko
+  given: V. A.
+- family: Gryaznykh
+  given: D. A.
+- family: Litvinenko
+  given: I. A.
+- family: Lykov
+  given: V. A.
+- family: Shushlebin
+  given: A. N.
+date-added: 2017-08-10 17:02:29 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1134/S1063773712050088
+journal: Astronomy Letters
+keywords: X-ray bursts, thermonuclear burning, numerical simulations
+month: May
+pages: 305--320
+papis_id: afa60a412f1188c1984b3cc25b76804f
+ref: simonenko.v.2012
+title: 'Mechanism of thermonuclear burning propagation in a helium layer on a neutron
+  star surface: A refined model with heat conduction and subgrid turbulence'
+type: article
+volume: '38'
+year: '2012'

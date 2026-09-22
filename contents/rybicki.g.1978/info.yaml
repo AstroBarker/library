@@ -1,0 +1,30 @@
+abstract: The escape-probability technique of Sobolev for solving radiative transfer
+  problems in moving atmospheres is extended to treat flows in which the line-of-sight
+  component of the flow velocity is not monotonic. A completely general geometrical
+  configuration and flow velocity field are considered; an integral equation is derived
+  for configurations in which a surface is intersected an arbitrary number of times.
+  For the case of just two intersections, it is shown that an iterative solution always
+  converges rapidly. Numerical results for inverse power-law velocity fields demonstrate
+  the magnitude of the radiative coupling between distant parts of the atmosphere.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978ApJ...219..654R
+author: Rybicki, G. B. and Hummer, D. G.
+author_list:
+- family: Rybicki
+  given: G. B.
+- family: Hummer
+  given: D. G.
+date-added: 2017-08-11 06:30:42 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/155826
+journal: \apj
+keywords: Atmospheric Circulation, Flow Velocity, Radiative Transfer, Stellar Atmospheres,
+  Coupling, Iteration, Mathematical Models, Monotone Functions, Velocity Distribution
+month: January
+pages: 654--675
+papis_id: 0ff51d6417f6c23bf2ea974af4b1c5c1
+ref: rybicki.g.1978
+title: A generalization of the Sobolev method for flows with nonlocal radiative coupling
+type: article
+volume: '219'
+year: '1978'

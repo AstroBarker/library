@@ -1,0 +1,50 @@
+abstract: We describe the latest developments of the Geneva stellar evolution code
+  in order to model the pre-supernova evolution of rotating massive stars. Rotating
+  and non-rotating stellar models at solar metallicity with masses equal to 12, 15,
+  20, 25, 40 and 60 M\&sun; were computed from the ZAMS until the end of the core
+  silicon burning phase. We took into account meridional circulation, secular shear
+  instabilities, horizontal turbulence and dynamical shear instabilities. We find
+  that dynamical shear instabilities mainly smoothen the sharp angular velocity gradients
+  but do not transport angular momentum or chemical species over long distances. Most
+  of the differences between the pre-supernova structures obtained from rotating and
+  non-rotating stellar models have their origin in the effects of rotation during
+  the core hydrogen and helium burning phases. The advanced stellar evolutionary stages
+  appear too short in time to allow the rotational instabilities considered in this
+  work to have a significant impact during the late stages. In particular, the internal
+  angular momentum does not change significantly during the advanced stages of the
+  evolution. We can therefore have a good estimate of the final angular momentum at
+  the end of the core helium burning phase. The effects of rotation on pre-supernova
+  models are significant between 15 and 30 M\&sun;. Indeed, rotation increases the
+  core sizes (and the yields) by a factor \texttildelow{}1.5. Above 20 M\&sun;, rotation
+  may change the radius or colour of the supernova progenitors (blue instead of red
+  supergiant) and the supernova type (IIb or Ib instead of II). Rotation affects the
+  lower mass limits for radiative core carbon burning, for iron core collapse and
+  for black hole formation. For Wolf-Rayet stars (M \gtrapprox{} 30 M\&sun;), the
+  pre-supernova structures are mostly affected by the intensities of the stellar winds
+  and less by rotational mixing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...425..649H
+arxivurl: http://arxiv.org/abs/astro-ph/0406552
+author: Hirschi, R. and Meynet, G. and Maeder, A.
+author_list:
+- family: Hirschi
+  given: R.
+- family: Meynet
+  given: G.
+- family: Maeder
+  given: A.
+date-added: 2017-08-10 15:00:14 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1051/0004-6361:20041095
+eprint: astro-ph/0406552
+journal: \aap
+keywords: 'stars: evolution, stars: rotation, stars: Wolf-Rayet, stars: supernova:
+  general'
+month: October
+pages: 649--670
+papis_id: 27ec017f106b8706aac3b782196c6f5d
+ref: hirschi.r.2004
+title: Stellar evolution with rotation. XII. Pre-supernova models
+type: article
+volume: '425'
+year: '2004'

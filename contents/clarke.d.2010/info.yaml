@@ -1,0 +1,27 @@
+abstract: Recent and not-so-recent critiques of the widely used magnetohydrodynamics
+  (MHD) code, ZEUS-3D, challenge its reliability and efficiency suggesting that its
+  MHD algorithm is capable of "significant errors" in some simple one-dimensional
+  shock-tube problems. I show that these concerns are either inapplicable in multi-dimensional
+  astrophysical applications, or result from a misuse of the code rather than "flaws"
+  in its design. I also describe a few multi-dimensional test problems including one
+  for super-Alfv{\'e}nic turbulence, and highlight some recent innovations and improvements
+  to the code now available online.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..187..119C
+author: Clarke, D. A.
+author_list:
+- family: Clarke
+  given: D. A.
+date-added: 2017-08-10 23:30:25 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0067-0049/187/1/119
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: March
+pages: 119--134
+papis_id: d66080797abdd87211b7bda76ea39ac5
+ref: clarke.d.2010
+title: On the Reliability of ZEUS-3D
+type: article
+volume: '187'
+year: '2010'

@@ -1,0 +1,62 @@
+abstract: We explore the multimessenger signatures of encounters between two neutron
+  stars (ns2) and between a neutron star and a stellar mass black hole (nsbh). We
+  focus on the differences between gravitational-wave-driven binary mergers and dynamical
+  collisions that occur, for example, in globular clusters. Our discussion is based
+  on Newtonian hydrodynamics simulations that incorporate a nuclear equation of state
+  and a multiflavour neutrino treatment. For both types of encounters we compare the
+  gravitational wave and neutrino emission properties. We also calculate the rates
+  at which nearly unbound mass is delivered back to the central remnant in a ballistic-fallback-plus-viscous-disc
+  model and we analyse the properties of the dynamically ejected matter. Last but
+  not least we address the electromagnetic transients that accompany each type of
+  encounter.  We find that dynamical collisions are at least as promising as binary
+  mergers for producing (short) gamma-ray bursts, but they also share the same possible
+  caveats in terms of baryonic pollution. All encounter remnants produce peak neutrino
+  luminosities of at least \texttildelow{}1053 erg s-1, some of the collision cases
+  exceed this value by more than an order of magnitude. The canonical ns2 merger case
+  ejects more than 1 per cent of a solar mass of extremely neutron-rich (Ye \texttildelow{}
+  0.03) material, an amount that is consistent with double neutron star mergers being
+  a major source of r-process in the galaxy. nsbh collisions eject very large amounts
+  of matter (\texttildelow{}0.15 M\&sun;) which seriously constrains their admissible
+  occurrence rates. The compact object collision rate (sum of ns2 and nsbh) must therefore
+  be less, likely much less, than 10 per cent of the ns2 merger rate. The radioactively
+  decaying ejecta produce optical-ultraviolet `macronova' which, for the canonical
+  merger case, peak after \texttildelow{}0.4 d with a luminosity of \texttildelow{}5
+  \texttimes{} 1041 erg s-1. ns2 (nsbh) collisions reach up to two (four) times larger
+  peak luminosities. The dynamic ejecta deposit a kinetic energy comparable to a supernova
+  in the ambient medium. The canonical merger case releases approximately 2 \texttimes{}
+  1050 erg, the most extreme (but likely rare) cases deposit kinetic energies of up
+  to 1052 erg. The deceleration of this mildly relativistic material by the ambient
+  medium produces long lasting radio flares. A canonical ns2 merger at the detection
+  horizon of advanced LIGO/Virgo produces a radio flare that peaks on a time-scale
+  of 1 yr with a flux of \texttildelow{}0.1 mJy at 1.4 GHz. Collisions eject more
+  material at higher velocities and therefore produce brighter and longer lasting
+  flares.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.430.2585R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.6240
+author: Rosswog, S. and Piran, T. and Nakar, E.
+author_list:
+- family: Rosswog
+  given: S.
+- family: Piran
+  given: T.
+- family: Nakar
+  given: E.
+date-added: 2017-08-10 15:56:33 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/sts708
+eprint: '1204.6240'
+journal: \mnras
+keywords: 'black hole physics, gravitational waves, neutrinos, nuclear reactions,
+  nucleosynthesis, abundances, radiation mechanisms: non-thermal, gamma-ray bursts'
+month: April
+pages: 2585--2604
+papis_id: 3436ab9301cec36bdb1241ea55b4963b
+primaryclass: astro-ph.HE
+ref: rosswog.s.2013
+title: 'The multimessenger picture of compact object encounters: binary mergers versus
+  dynamical collisions'
+type: article
+volume: '430'
+year: '2013'

@@ -1,0 +1,66 @@
+abstract: While the origin of r-process nuclei remains a long-standing mystery, recent
+  spectroscopic studies of extremely metal poor stars in the Galactic halo strongly
+  suggest that it is associated with core-collapse supernovae. In this study we examine
+  r-process nucleosynthesis in a ``prompt supernova explosion'' from an 8-10 Msolar
+  progenitor star as an alternative scenario to the ``neutrino wind'' mechanism, which
+  has also been considered a promising site of the r-process. In the present model,
+  the progenitor star has formed an oxygen-neon-magnesium (O-Ne-Mg) core (of mass
+  1.38Msolar) at its center. Its smaller gravitational potential, as well as the smaller
+  core that is in nuclear statistical equilibrium at the time of core bounce, as compared
+  with the iron cores in more massive stars, may allow the star to explode hydrodynamically
+  rather than by delayed neutrino heating. The core-collapse simulations are performed
+  with a one-dimensional, Newtonian hydrodynamic code. We obtain a very weak prompt
+  explosion in which no r-processing occurs. We further simulate energetic prompt
+  explosions by enhancement of the shock-heating energy in order to investigate conditions
+  necessary for the production of r-process nuclei in such events. The r-process nucleosynthesis
+  is calculated using a nuclear reaction network code including relevant neutron-rich
+  isotopes with reactions among them. The highly neutronized ejecta (Ye~0.14-0.20)
+  lead to robust production of r-process nuclei; their relative abundances are in
+  excellent agreement with the solar r-process pattern. Our results suggest that prompt
+  explosions of 8-10Msolar stars with O-Ne-Mg cores can be a promising site of r-process
+  nuclei. The mass of the r-process material per event is about 2 orders of magnitude
+  larger than that expected from Galactic chemical evolution studies. We propose,
+  therefore, that only a small fraction of r-process material is ejected via ``mixing-fallback''
+  mechanism of the core matter, wherein most of the r-process material falls back
+  onto the proto-neutron star. A lower limit on the age of the universe is derived
+  by application of the uranium-thorium (U-Th) chronometer pair by comparison with
+  the observed ratio of these species in the highly r-process-enhanced, extremely
+  metal poor star CS 31082-001. The inferred age is 14.1+/-2.4 Gyr-the same as that
+  obtained previously based on the neutrino wind scenario with the same nuclear mass
+  formula. This suggests that chronometric estimates obtained using the U-Th pair
+  are independent of the astrophysical conditions considered.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...593..968W
+arxivurl: http://arxiv.org/abs/astro-ph/0302261
+author: Wanajo, S. and Tamamura, M. and Itoh, N. and Nomoto, K. and Ishimaru, Y. and
+  Beers, T. C. and Nozawa, S.
+author_list:
+- family: Wanajo
+  given: S.
+- family: Tamamura
+  given: M.
+- family: Itoh
+  given: N.
+- family: Nomoto
+  given: K.
+- family: Ishimaru
+  given: Y.
+- family: Beers
+  given: T. C.
+- family: Nozawa
+  given: S.
+date-added: 2017-08-11 02:54:02 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/376617
+eprint: astro-ph/0302261
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Abundances, Stars:
+  Supernovae: General'
+month: August
+pages: 968--979
+papis_id: b491296eff7027f093cfa4ccb65cb2e8
+ref: wanajo.s.2003
+title: The r-Process in Supernova Explosions from the Collapse of O-Ne-Mg Cores
+type: article
+volume: '593'
+year: '2003'

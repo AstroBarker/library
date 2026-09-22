@@ -1,0 +1,52 @@
+abstract: We present a cosmological analysis of the Lick Observatory Supernova Search
+  (LOSS) Type Ia supernova (SN Ia) photometry sample introduced by Ganeshalingam et
+  al. These supernovae (SNe) provide an effective anchor point to estimate cosmological
+  parameters when combined with data sets at higher redshift. The data presented by
+  Ganeshalingam et al. have been rereduced in the natural system of the Katzman Automatic
+  Imaging Telescope (KAIT) and Nickel telescopes to minimize systematic uncertainties.
+  We have run the light-curve-fitting software SALT2 on our natural-system light curves
+  to measure light-curve parameters for LOSS light curves and available SN Ia data
+  sets in the literature. We present a Hubble diagram of 586 SNe in the redshift range
+  z = 0.01-1.4 with a residual scatter of 0.176 mag. Of the 226 low-z SNe Ia in our
+  sample, 91 objects are from LOSS, including 45 without previously published distances.
+  Assuming a flat Universe, we find that the best fit for the dark energy equation-of-state
+  parameter w = -0.86^{+0.13}\_{-0.16} (stat) $\pm$.11 (sys) from SNe alone, consistent
+  with a cosmological constant. Our data prefer a Universe with an accelerating rate
+  of expansion with 99.999 per cent confidence. When looking at Hubble residuals as
+  a function of host-galaxy morphology, we do not see evidence for a significant trend,
+  although we find a somewhat reduced scatter in Hubble residuals from SNe residing
+  within a projected distance <10 kpc of the host-galaxy nucleus (sigma = 0.156 mag).
+  Similar to the results of Blondin, Mandel and Kirshner and Silverman et al., we
+  find that Hubble residuals do not correlate with the expansion velocity of Si II
+  lambda6355 measured in optical spectra near maximum light. Our data are consistent
+  with no presence of a local `Hubble bubble.' Improvements in cosmological analyses
+  within low-z samples can be achieved by better constraining calibration uncertainties
+  in the zero-points of photometric systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.433.2240G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.0824
+author: Ganeshalingam, M. and Li, W. and Filippenko, A. V.
+author_list:
+- family: Ganeshalingam
+  given: M.
+- family: Li
+  given: W.
+- family: Filippenko
+  given: A. V.
+date-added: 2017-08-10 17:40:10 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt893
+eprint: '1307.0824'
+journal: \mnras
+keywords: 'supernovae: general, cosmological parameters, cosmology: observations,
+  distance scale'
+month: August
+pages: 2240--2258
+papis_id: 5a55210fdbc2aa500b7e6333493f4107
+primaryclass: astro-ph.CO
+ref: ganeshalingam.m.2013
+title: Constraints on dark energy with the LOSS SN Ia sample
+type: article
+volume: '433'
+year: '2013'

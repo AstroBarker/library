@@ -1,0 +1,40 @@
+abstract: A model is developed for magnetic, ``propeller''-driven outflows that cause
+  a rapidly rotating magnetized star accreting from a disk to spin-down. Energy and
+  angular momentum lost by the star goes into expelling most of the accreting disk
+  matter. The theory gives an expression for the effective Alfv{\'e}n radius RA (where
+  the inflowing matter is effectively stopped), which depends on the mass accretion
+  rate, the star's mass and magnetic moment, and the star's rotation rate. The model
+  points to a mechanism for ``jumps'' between spin-down and spin-up evolution and
+  for the reverse transition, which are changes between two possible equilibrium configurations
+  of the system. In, for example, the transition from spin-down to spin-up states,
+  the Alfv{\'e}n radius RA decreases from a value larger than the corotation radius
+  to one that is smaller. In this transition the ``propeller'' goes from being ``on''
+  to being ``off.'' The ratio of the spin-down to spin-up torque (or the ratio for
+  the reverse change) in a jump is shown to be of order unity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...514..368L
+arxivurl: http://arxiv.org/abs/astro-ph/9811369
+author: Lovelace, R. V. E. and Romanova, M. M. and Bisnovatyi-Kogan, G. S.
+author_list:
+- family: Lovelace
+  given: R. V. E.
+- family: Romanova
+  given: M. M.
+- family: Bisnovatyi-Kogan
+  given: G. S.
+date-added: 2017-08-11 03:05:55 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306945
+eprint: astro-ph/9811369
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, MAGNETIC FIELDS, PLASMAS, STARS: MAGNETIC FIELDS,
+  X-RAYS: STARS, Accretion, Accretion Disks, Magnetic Fields, Plasmas, Stars: Magnetic
+  Fields, X-Rays: Stars'
+month: March
+pages: 368--372
+papis_id: baf2f187a72df2a1c95591582d52799a
+ref: lovelace.r.1999
+title: Magnetic Propeller Outflows
+type: article
+volume: '514'
+year: '1999'

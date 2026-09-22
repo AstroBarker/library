@@ -1,0 +1,56 @@
+abstract: 'Combined gravitational wave (GW) and electromagnetic (EM) observations
+  of compact binary mergers should enable detailed studies of astrophysical processes
+  in the strong-field gravity regime. This decade, ground-based GW interferometers
+  promise to routinely detect compact binary mergers. Unfortunately, networks of GW
+  interferometers have poor angular resolution on the sky and their EM signatures
+  are predicted to be faint. Therefore, a challenging goal will be to unambiguously
+  pinpoint the EM counterparts of GW mergers. We perform the first comprehensive end-to-end
+  simulation that focuses on: (1) GW sky localization, distance measures, and volume
+  errors with two compact binary populations and four different GW networks; (2) subsequent
+  EM detectability by a slew of multiwavelength telescopes; and (3) final identification
+  of the merger counterpart amidst a sea of possible astrophysical false positives.
+  First, we find that double neutron star binary mergers can be detected out to a
+  maximum distance of 400 Mpc (or 750 Mpc) by three (or five) detector GW networks,
+  respectively. Neutron-star-black-hole binary mergers can be detected a factor of
+  1.5 further out; their median to maximum sky localizations are 50-170 deg2 (or 6-65
+  deg2) for a three (or five) detector GW network. Second, by optimizing depth, cadence,
+  and sky area, we quantify relative fractions of optical counterparts that are detectable
+  by a suite of different aperture-size telescopes across the globe. Third, we present
+  five case studies to illustrate the diversity of scenarios in secure identification
+  of the EM counterpart. We discuss the case of a typical binary, neither beamed nor
+  nearby, and the challenges associated with identifying an EM counterpart at both
+  low and high Galactic latitudes. For the first time, we demonstrate how construction
+  of low-latency GW volumes in conjunction with local universe galaxy catalogs can
+  help solve the problem of false positives. We conclude with strategies that would
+  best prepare us for successfully identifying the elusive EM counterpart of a GW
+  merger.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...767..124N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.6362
+author: Nissanke, S. and Kasliwal, M. and Georgieva, A.
+author_list:
+- family: Nissanke
+  given: S.
+- family: Kasliwal
+  given: M.
+- family: Georgieva
+  given: A.
+date-added: 2017-08-11 07:01:44 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/767/2/124
+eid: '124'
+eprint: '1210.6362'
+journal: \apj
+keywords: 'binaries: close, catalogs, gamma-ray burst: general, gravitational waves,
+  stars: neutron, surveys'
+month: April
+pages: '124'
+papis_id: 374f51937c5315799f859255ca43eb59
+primaryclass: astro-ph.HE
+ref: nissanke.s.2013
+title: 'Identifying Elusive Electromagnetic Counterparts to Gravitational Wave Mergers:
+  An End-to-end Simulation'
+type: article
+volume: '767'
+year: '2013'

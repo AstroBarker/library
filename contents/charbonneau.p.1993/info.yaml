@@ -1,0 +1,58 @@
+abstract: 'We present a large set of numerical calculations describing the rotational
+  evolution of a solar-type star, in response to the torque exerted on it by a magnetically
+  coupled wind emanating from its surface. We consider a situation where the internal
+  redistribution of angular momentum in the radiative part of the envelope is dominated
+  by magnetic stresses arising from the shearing of a preexisting, large-scale, poloidal
+  magnetic field.  By assuming a time-independent poloidal magnetic field, neglecting
+  fluid motions in meridional planes, and restricting our attention to axisymmetric
+  systems, we reduce the spin-down problem to solving the (coupled) psi-components
+  of the momentum and induction equations. Nevertheless, our computations remain dynamical,
+  in that they take into account both the generation of a toroidal magnetic field
+  by shearing of the preexisting poloidal field, and the back-reaction of the resulting
+  Lorentz force on the differential rotation. It becomes possible to draw, for the
+  first time, a reasonably realistic and quantitative picture of the effects of large-scale
+  internal magnetic fields on the main-sequence rotational evolution of solar-type
+  stars.  We perform spin-down calculations for a standard solar model, starting from
+  the ZAMS and extending all the way to the solar age. The wind-induced surface torque
+  is computed using the axisymmetric formulation of Weber \& Davis (1967). We consider
+  a number of poloidal magnetic field configurations which differ both in the degree
+  of magnetic coupling between the convective envelope and radiative core and in average
+  strength.  The rotational evolution can be divided into three more or less distinct
+  phases: an initial phase of toroidal field buildup in the radiative zone, lasting
+  from a few times 104 to a few times 106 yr; a second period in which oscillations
+  set up in the radiative zone during the first phase are damped; and a third period,
+  lasting from an age of about 107 yr onward, characterized by a state of dynamical
+  balance between the total stresses (magnetic + viscous) at the core-envelope interface
+  and the wind-induced surface torque, leading to a quasistatic internal magnetic
+  and rotational evolution.  Our results also demonstrate (1) the existence of classes
+  of large-scale internal magnetic fields that can accommodate rapid spin-down near
+  the ZAMS and yield a weak internal differential rotation by the solar age, (2) the
+  importance of phase mixing in efficiently damping large-scale toroidal oscillations
+  pervading the radiative interior at early times, (3) the near-independence of the
+  present solar surface angular velocity on the strength and geometry (past and present)
+  of any internal large-scale magnetic field pervading the radiative interior, and
+  (4) the greater dependence of the present solar internal differential rotation on
+  the overall morphology (but not on the strength) of the internal magnetic field.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...417..762C
+author: Charbonneau, P. and MacGregor, K. B.
+author_list:
+- family: Charbonneau
+  given: P.
+- family: MacGregor
+  given: K. B.
+date-added: 2017-08-10 17:03:13 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173357
+journal: \apj
+keywords: 'MAGNETOHYDRODYNAMICS: MHD, STARS: INTERIORS, STARS: MAGNETIC FIELDS, STARS:
+  ROTATION, SUN: INTERIOR'
+month: November
+pages: '762'
+papis_id: fa1af0e5af4234a715a0114eebc135c7
+ref: charbonneau.p.1993
+title: Angular Momentum Transport in Magnetized Stellar Radiative Zones. II. The Solar
+  Spin-down
+type: article
+volume: '417'
+year: '1993'

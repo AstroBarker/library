@@ -1,0 +1,52 @@
+abstract: This work provides a statistical analysis of the massive star binary characteristics
+  in the Cygnus OB2 association using radial velocity information of 114 B3-O5 primary
+  stars and orbital properties for the 24 known binaries. We compare these data to
+  a series of Monte Carlo simulations to infer the intrinsic binary fraction and distributions
+  of mass ratios, periods, and eccentricities. We model the distribution of mass ratio,
+  log-period, and eccentricity as power laws and find best-fitting indices of alpha
+  = 0.1 $\pm$ 0.5, beta = 0.2 \$\pm\$ 0.4, and gamma = -0.6 \$\pm\$ 0.3, respectively.
+  These distributions indicate a preference for massive companions, short periods,
+  and low eccentricities. Our analysis indicates that the binary fraction of the cluster
+  is 44\% \$\pm\$ 8\% if all binary systems are (artificially) assumed to have P <
+  1000 days; if the power-law period distribution is extrapolated to 104 years, then
+  a plausible upper limit for bound systems, the binary fraction is ~90\% \$\pm\$
+  10\%. Of these binary (or higher order) systems, ~45\% will have companions close
+  enough to interact during pre- or post-main-sequence evolution (semi-major axis
+  lsim4.7 AU). The period distribution for P < 26 days is not well reproduced by any
+  single power law owing to an excess of systems with periods around 3-5 days (0.08-0.31
+  AU) and a relative shortage of systems with periods around 7-14 days (0.14-0.62
+  AU). We explore the idea that these longer-period systems evolved to produce the
+  observed excess of short-period systems. The best-fitting binary parameters imply
+  that secondaries generate, on average, ~16\% of the V-band light in young massive
+  populations. This means that photometrically based distance measurements for young
+  massive clusters and associations will be systematically low by ~8\% (0.16 mag in
+  the distance modulus) if the luminous contributions of unresolved secondaries are
+  not taken into account.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...751....4K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.2156
+author: Kiminki, D. C. and Kobulnicky, H. A.
+author_list:
+- family: Kiminki
+  given: D. C.
+- family: Kobulnicky
+  given: H. A.
+date-added: 2017-08-10 18:43:34 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/751/1/4
+eid: '4'
+eprint: '1203.2156'
+journal: \apj
+keywords: 'binaries: close, binaries: general, binaries: spectroscopic, stars: early-type,
+  stars: kinematics and dynamics, techniques: radial velocities'
+month: May
+pages: '4'
+papis_id: 285da733265a576b826968104fe605ed
+primaryclass: astro-ph.SR
+ref: kiminki.d.2012a
+title: An Updated Look at Binary Characteristics of Massive Stars in the Cygnus OB2
+  Association
+type: article
+volume: '751'
+year: '2012'

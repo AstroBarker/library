@@ -1,0 +1,39 @@
+abstract: The mu- and tau-neutrinos emitted from a proto-neutron star are produced
+  by nucleonic bremsstrahlung NN-->NNnunu and pair annihilation e+e--->nunu, reactions
+  that freeze out at the ``energy sphere.'' Before escaping from there to infinity,
+  the neutrinos diffuse through the ``scattering atmosphere,'' a layer in which their
+  main interaction is elastic scattering on nucleons nuN-->Nnu. If these collisions
+  are taken to be isoenergetic, as in all numerical supernova simulations, the neutrino
+  flux spectrum escaping to infinity depends only on the medium temperature TES and
+  the thermally averaged optical depth tauES at the energy sphere. For tauES=10-50,
+  one finds for the spectral flux temperature of the escaping neutrinos Tflux=0.5-0.6TES.
+  Including energy exchange (nucleon recoil) in nuN-->Nnu can shift Tflux both up
+  and down. DeltaTflux depends on tauES, on the scattering atmosphere's temperature
+  profile, and on TES. Based on a numerical study, we find that for typical conditions,
+  DeltaTflux/Tflux is between -10\% and -20\% and even for extreme parameter choices
+  does not exceed -30\%. The exact value of DeltaTflux/Tflux is surprisingly insensitive
+  to the assumed value of the nucleon mass; i.e., the exact efficiency of energy transfer
+  between neutrinos and nucleons is not important as long as it can occur at all.
+  Therefore, calculating the numu and nutau spectra does not seem to require a precise
+  knowledge of the nuclear medium's dynamical structure functions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...561..890R
+arxivurl: http://arxiv.org/abs/astro-ph/0105250
+author: Raffelt, G. G.
+author_list:
+- family: Raffelt
+  given: G. G.
+date-added: 2017-08-10 22:56:27 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323379
+eprint: astro-ph/0105250
+journal: \apj
+keywords: 'Diffusion, Neutrinos, Stars: Supernovae: General'
+month: November
+pages: 890--914
+papis_id: 112cdddeac8d9d7bafcf24249c2a784c
+ref: raffelt.g.2001
+title: Mu- and Tau-Neutrino Spectra Formation in Supernovae
+type: article
+volume: '561'
+year: '2001'

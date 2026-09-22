@@ -1,0 +1,39 @@
+abstract: We investigate the stability of incompressible, exact, non-ideal magnetorotational
+  (MRI) modes against parasitic instabilities. Both Kelvin-Helmholtz and tearing-mode
+  parasitic instabilities may occur in the dissipative regimes accessible to current
+  numerical simulations. We suppose that a primary MRI mode saturates at an amplitude
+  such that its fastest parasite has a growth rate comparable to its own. The predicted
+  alpha parameter then depends critically on whether the fastest primary and parasitic
+  modes fit within the computational domain and whether non-axisymmetric parasitic
+  modes are allowed. Hence, even simulations that resolve viscous and resistive scales
+  may not saturate properly unless the numerical domain is large enough to allow the
+  free evolution of both MRI and parasitic modes. To minimally satisfy these requirements
+  in simulations with vertical background fields, the vertical extent of the domain
+  should accommodate the fastest growing MRI mode while the radial and azimuthal extents
+  must be twice as large. The fastest parasites have horizontal wavelengths roughly
+  twice as long as the vertical wavelength of the primary.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698L..72P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.0794
+author: Pessah, M. E. and Goodman, J.
+author_list:
+- family: Pessah
+  given: M. E.
+- family: Goodman
+  given: J.
+date-added: 2017-08-11 00:08:40 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/1/L72
+eprint: '0902.0794'
+journal: \apjl
+keywords: accretion, accretion disks, black hole physics, instabilities, MHD, turbulence
+month: June
+pages: L72-L76
+papis_id: 3d7cce8507055d058e3d3273a42afffc
+primaryclass: astro-ph.HE
+ref: pessah.m.2009
+title: On the Saturation of the Magnetorotational Instability Via Parasitic Modes
+type: article
+volume: '698'
+year: '2009'

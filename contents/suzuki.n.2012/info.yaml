@@ -1,0 +1,193 @@
+abstract: We present Advanced Camera for Surveys, NICMOS, and Keck adaptive-optics-assisted
+  photometry of 20 Type Ia supernovae (SNe Ia) from the Hubble Space Telescope (HST)
+  Cluster Supernova Survey. The SNe Ia were discovered over the redshift interval
+  0.623 < z < 1.415. Of these SNe Ia, 14 pass our strict selection cuts and are used
+  in combination with the world's sample of SNe Ia to derive the best current constraints
+  on dark energy. Of our new SNe Ia, 10 are beyond redshift z = 1, thereby nearly
+  doubling the statistical weight of HST-discovered SNe Ia beyond this redshift. Our
+  detailed analysis corrects for the recently identified correlation between SN Ia
+  luminosity and host galaxy mass and corrects the NICMOS zero point at the count
+  rates appropriate for very distant SNe Ia. Adding these SNe improves the best combined
+  constraint on dark-energy density, rhoDE(z), at redshifts 1.0 < z < 1.6 by 18\%
+  (including systematic errors). For a flat LambdaCDM universe, we find OmegaLambda
+  = 0.729 $\pm$ 0.014 (68\% confidence level (CL) including systematic errors). For
+  a flat wCDM model, we measure a constant dark-energy equation-of-state parameter
+  w = -1.013+0.068 -0.073 (68\% CL). Curvature is constrained to ~0.7\% in the owCDM
+  model and to ~2\% in a model in which dark energy is allowed to vary with parameters
+  w 0 and wa . Further tightening the constraints on the time evolution of dark energy
+  will require several improvements, including high-quality multi-passband photometry
+  of a sample of several dozen z > 1 SNe Ia. We describe how such a sample could be
+  efficiently obtained by targeting cluster fields with WFC3 on board HST. The updated
+  supernova Union2.1 compilation of 580 SNe is available at http://supernova.lbl.gov/Union.  Based
+  in part on observations made with the NASA/ESA Hubble Space Telescope, obtained
+  from the data archive at the Space Telescope Institute. STScI is operated by the
+  Association of Universities for Research in Astronomy, Inc., under the NASA contract
+  NAS 5-26555. The observations are associated with program GO-10496.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...746...85S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.3470
+author: Suzuki, N. and Rubin, D. and Lidman, C. and Aldering, G. and Amanullah, R.
+  and Barbary, K. and Barrientos, L. F. and Botyanszki, J. and Brodwin, M. and Connolly,
+  N. and Dawson, K. S. and Dey, A. and Doi, M. and Donahue, M. and Deustua, S. and
+  Eisenhardt, P. and Ellingson, E. and Faccioli, L. and Fadeyev, V. and Fakhouri,
+  H. K. and Fruchter, A. S. and Gilbank, D. G. and Gladders, M. D. and Goldhaber,
+  G. and Gonzalez, A. H. and Goobar, A. and Gude, A. and Hattori, T. and Hoekstra,
+  H. and Hsiao, E. and Huang, X. and Ihara, Y. and Jee, M. J. and Johnston, D. and
+  Kashikawa, N. and Koester, B. and Konishi, K. and Kowalski, M. and Linder, E. V.
+  and Lubin, L. and Melbourne, J. and Meyers, J. and Morokuma, T. and Munshi, F. and
+  Mullis, C. and Oda, T. and Panagia, N. and Perlmutter, S. and Postman, M. and Pritchard,
+  T. and Rhodes, J. and Ripoche, P. and Rosati, P. and Schlegel, D. J. and Spadafora,
+  A. and Stanford, S. A. and Stanishev, V. and Stern, D. and Strovink, M. and Takanashi,
+  N. and Tokita, K. and Wagner, M. and Wang, L. and Yasuda, N. and Yee, H. K. C. and
+  Supernova Cosmology Project, T.
+author_list:
+- family: Suzuki
+  given: N.
+- family: Rubin
+  given: D.
+- family: Lidman
+  given: C.
+- family: Aldering
+  given: G.
+- family: Amanullah
+  given: R.
+- family: Barbary
+  given: K.
+- family: Barrientos
+  given: L. F.
+- family: Botyanszki
+  given: J.
+- family: Brodwin
+  given: M.
+- family: Connolly
+  given: N.
+- family: Dawson
+  given: K. S.
+- family: Dey
+  given: A.
+- family: Doi
+  given: M.
+- family: Donahue
+  given: M.
+- family: Deustua
+  given: S.
+- family: Eisenhardt
+  given: P.
+- family: Ellingson
+  given: E.
+- family: Faccioli
+  given: L.
+- family: Fadeyev
+  given: V.
+- family: Fakhouri
+  given: H. K.
+- family: Fruchter
+  given: A. S.
+- family: Gilbank
+  given: D. G.
+- family: Gladders
+  given: M. D.
+- family: Goldhaber
+  given: G.
+- family: Gonzalez
+  given: A. H.
+- family: Goobar
+  given: A.
+- family: Gude
+  given: A.
+- family: Hattori
+  given: T.
+- family: Hoekstra
+  given: H.
+- family: Hsiao
+  given: E.
+- family: Huang
+  given: X.
+- family: Ihara
+  given: Y.
+- family: Jee
+  given: M. J.
+- family: Johnston
+  given: D.
+- family: Kashikawa
+  given: N.
+- family: Koester
+  given: B.
+- family: Konishi
+  given: K.
+- family: Kowalski
+  given: M.
+- family: Linder
+  given: E. V.
+- family: Lubin
+  given: L.
+- family: Melbourne
+  given: J.
+- family: Meyers
+  given: J.
+- family: Morokuma
+  given: T.
+- family: Munshi
+  given: F.
+- family: Mullis
+  given: C.
+- family: Oda
+  given: T.
+- family: Panagia
+  given: N.
+- family: Perlmutter
+  given: S.
+- family: Postman
+  given: M.
+- family: Pritchard
+  given: T.
+- family: Rhodes
+  given: J.
+- family: Ripoche
+  given: P.
+- family: Rosati
+  given: P.
+- family: Schlegel
+  given: D. J.
+- family: Spadafora
+  given: A.
+- family: Stanford
+  given: S. A.
+- family: Stanishev
+  given: V.
+- family: Stern
+  given: D.
+- family: Strovink
+  given: M.
+- family: Takanashi
+  given: N.
+- family: Tokita
+  given: K.
+- family: Wagner
+  given: M.
+- family: Wang
+  given: L.
+- family: Yasuda
+  given: N.
+- family: Yee
+  given: H. K. C.
+- family: Supernova Cosmology Project
+  given: T.
+date-added: 2017-08-10 18:20:04 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/0004-637X/746/1/85
+eid: '85'
+eprint: '1105.3470'
+journal: \apj
+keywords: 'cosmological parameters, distance scale, supernovae: general'
+month: February
+pages: '85'
+papis_id: f2ad266ced8cd313de341b03d64fd867
+primaryclass: astro-ph.CO
+ref: suzuki.n.2012
+title: The Hubble Space Telescope Cluster Supernova Survey. V. Improving the Dark-energy
+  Constraints above z $\gt$ 1 and Building an Early-type-hosted Supernova Sample
+type: article
+volume: '746'
+year: '2012'

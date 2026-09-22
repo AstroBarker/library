@@ -1,0 +1,59 @@
+abstract: 'We have computed an extensive grid of binary evolution tracks to represent
+  low- and intermediate-mass X-ray binaries (LMXBs and IMXBs). The grid includes 42,000
+  models which cover 60 initial donor masses over the range of 1-4 M sun and, for
+  each of these, 700 initial orbital periods over the range of 10-250 hr. These results
+  can be applied to understanding LMXBs and IMXBs: those that evolve analogously to
+  cataclysmic variables, that form ultracompact binaries with P orb in the range of
+  6-50 minutes, and that lead to wide orbits with giant donors. We also investigate
+  the relic binary recycled radio pulsars into which these systems evolve. To evolve
+  the donor stars in this study, we utilized a newly developed stellar evolution code
+  called "MESA" that was designed, among other things, to be able to handle very low
+  mass and degenerate donors. This first application of the results is aimed at an
+  understanding of the newly discovered pulsar PSR J1614-2230 which has a 1.97 M sun
+  neutron star, P orb = 8.7 days, and a companion star of 0.5 M sun. We show that
+  (1) this system is a cousin to the LMXB Cyg X-2; (2) for neutron stars of canonical
+  birth mass 1.4 M sun, the initial donor stars which produce the closest relatives
+  to PSR J1614-2230 have a mass between 3.4 and 3.8 M sun; (3) neutron stars as massive
+  as 1.97 M sun are not easy to produce in spite of the initially high mass of the
+  donor star, unless they were already born as relatively massive neutron stars; (4)
+  to successfully produce a system like PSR J1614-2230 requires a minimum initial
+  neutron-star mass of at least 1.6 $\pm$ 0.1 M sun, as well as initial donor masses
+  and P orb of ~4.25 \$\pm\$ 0.10 M sun and ~49 \$\pm\$ 2 hr, respectively; and (5)
+  the current companion star is largely composed of CO, but should have a surface
+  H abundance of ~10\%-15\%.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...732...70L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1012.1877
+author: Lin, J. and Rappaport, S. and Podsiadlowski, P. and Nelson, L. and Paxton,
+  B. and Todorov, P.
+author_list:
+- family: Lin
+  given: J.
+- family: Rappaport
+  given: S.
+- family: Podsiadlowski
+  given: P.
+- family: Nelson
+  given: L.
+- family: Paxton
+  given: B.
+- family: Todorov
+  given: P.
+date-added: 2017-08-10 23:34:56 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/732/2/70
+eid: '70'
+eprint: '1012.1877'
+journal: \apj
+keywords: 'accretion, accretion disks, binaries: general, pulsars: individual: PSR
+  J1614{\ndash}2230, stars: evolution, X-rays: binaries'
+month: May
+pages: '70'
+papis_id: 503788f44678440ecfa8007917d1cd5c
+primaryclass: astro-ph.HE
+ref: lin.j.2011
+title: 'LMXB and IMXB Evolution: I. The Binary Radio Pulsar PSR J1614-2230'
+type: article
+volume: '732'
+year: '2011'

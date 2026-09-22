@@ -1,0 +1,45 @@
+abstract: We perform the first self-consistent, time-dependent, multi-group calculations
+  in two dimensions (2D) to address the consequences of using the ray-by-ray+ transport
+  simplification in core-collapse supernova simulations. Such a dimensional reduction
+  is employed by many researchers to facilitate their resource-intensive calculations.
+  Our new code (Fornax) implements multi-D transport, and can, by zeroing out transverse
+  flux terms, emulate the ray-by-ray+ scheme. Using the same microphysics, initial
+  models, resolution, and code, we compare the results of simulating 12, 15, 20, and
+  25 M \&sun; progenitor models using these two transport methods. Our findings call
+  into question the wisdom of the pervasive use of the ray-by-ray+ approach. Employing
+  it leads to maximum post-bounce/pre-explosion shock radii that are almost universally
+  larger by tens of kilometers than those derived using the more accurate scheme,
+  typically leaving the post-bounce matter less bound and artificially more ``explodable.''
+  In fact, for our 25 M \&sun; progenitor, the ray-by-ray+ model explodes, while the
+  corresponding multi-D transport model does not. Therefore, in two dimensions, the
+  combination of ray-by-ray+ with the axial sloshing hydrodynamics that is a feature
+  of 2D supernova dynamics can result in quantitatively, and perhaps qualitatively,
+  incorrect results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...831...81S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1512.00113
+author: Skinner, M. A. and Burrows, A. and Dolence, J. C.
+author_list:
+- family: Skinner
+  given: M. A.
+- family: Burrows
+  given: A.
+- family: Dolence
+  given: J. C.
+date-added: 2017-08-10 13:54:41 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/831/1/81
+eid: '81'
+eprint: '1512.00113'
+journal: \apj
+keywords: 'supernovae: general'
+month: November
+pages: '81'
+papis_id: 3f94d5e3f95a35be1f3d7beef529b638
+primaryclass: astro-ph.SR
+ref: skinner.m.2016
+title: Should One Use the Ray-by-Ray Approximation in Core-collapse Supernova Simulations?
+type: article
+volume: '831'
+year: '2016'

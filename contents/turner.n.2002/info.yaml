@@ -1,0 +1,44 @@
+abstract: We perform numerical simulations of magnetorotational instability in a local
+  patch of accretion disk in which radiation pressure exceeds gas pressure. Such conditions
+  may occur in the central regions of disks surrounding compact objects in active
+  galactic nuclei and Galactic X-ray sources. We assume axisymmetry and neglect vertical
+  stratification. The growth rates of the instability on initially uniform magnetic
+  fields are consistent with the linear analysis of Blaes \& Socrates (2001). As is
+  the case when radiation effects are neglected, the nonlinear development of the
+  instability leads to transitory turbulence when the initial magnetic field has no
+  net vertical flux. During the turbulent phase, angular momentum is transported outward.
+  The Maxwell stress is a few times the Reynolds stress, and their sum is about 4
+  times the mean pressure in the vertical component of the magnetic field. For magnetic
+  pressure exceeding gas pressure, turbulent fluctuations in the field produce density
+  contrasts about equal to the ratio of magnetic to gas pressure. These are many times
+  larger than in the corresponding gas pressure-dominated situation and may have profound
+  implications for the steady state vertical structure of radiation-dominated disks.
+  Diffusion of radiation from compressed regions damps turbulent motions, converting
+  kinetic energy into photon energy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...566..148T
+arxivurl: http://arxiv.org/abs/astro-ph/0110272
+author: Turner, N. J. and Stone, J. M. and Sano, T.
+author_list:
+- family: Turner
+  given: N. J.
+- family: Stone
+  given: J. M.
+- family: Sano
+  given: T.
+date-added: 2017-08-11 05:53:39 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338081
+eprint: astro-ph/0110272
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Instabilities, Magnetohydrodynamics: MHD, Radiative
+  Transfer'
+month: February
+pages: 148--163
+papis_id: d105fd492146e11c6844b6eca78c7515
+ref: turner.n.2002
+title: Local Axisymmetric Simulations of Magnetorotational Instability in Radiation-dominated
+  Accretion Disks
+type: article
+volume: '566'
+year: '2002'

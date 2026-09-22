@@ -1,0 +1,45 @@
+abstract: Neutron stars formed in Type II supernovae are likely to be initially obscured
+  by late-time fallback. Although much of the late-time fallback is quickly accreted
+  via neutrino cooling, some material remains on the neutron star, forming an atmosphere
+  that slowly accretes through photon emission. In this paper, we derive structure
+  equations of the fallback atmosphere and present results of one-dimensional simulations
+  of that fallback. The atmosphere remaining after neutrino cooling (Lnu) becomes
+  unimportant (Lnu<~LEdd,e-, the Compton Eddington limit) is only a fraction of the
+  total mass accreted (<~10-8 Macc=10-9 Msolar). Recombined iron dominates the opacity
+  in the outer regions, leading to an opacity 103-104 times higher than that of electron
+  scattering alone. The resultant photon emission of the remnant atmosphere is limited
+  to <~10-3LEdd,e-. The late-time evolution of this system leads to the formation
+  of a photon-driven wind from the accretion of the inner portion of the atmosphere,
+  leaving, for most cases, a bare neutron star on timescales shorter than 1 yr. The
+  degenerate remnant of 1987A may not be a black hole. Instead, the fallback material
+  may have already accreted or blown off in the accretion-driven wind. If the neutron
+  star has either a low magnetic field or a low rotational spin frequency, we would
+  not expect to see the neutron star remnant of 1987A.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...511..885F
+arxivurl: http://arxiv.org/abs/astro-ph/9808309
+author: Fryer, C. L. and Colgate, S. A. and Pinto, P. A.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Colgate
+  given: S. A.
+- family: Pinto
+  given: P. A.
+date-added: 2017-08-11 01:20:20 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306701
+eprint: astro-ph/9808309
+journal: \apj
+keywords: 'STARS: PULSARS: GENERAL, STARS: NEUTRON, STARS: SUPERNOVAE: GENERAL, STARS:
+  SUPERNOVAE: INDIVIDUAL: ALPHANUMERIC: SN 1987A, Stars: Pulsars: General, Stars:
+  Neutron, Stars: Supernovae: General, Stars: Supernovae: Individual: Alphanumeric:
+  SN 1987A'
+month: February
+pages: 885--895
+papis_id: 938d7ee7b80242084fb75880cea7526c
+ref: fryer.c.1999a
+title: Iron Opacity and the Pulsar of SN 1987A
+type: article
+volume: '511'
+year: '1999'

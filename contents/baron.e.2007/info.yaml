@@ -1,0 +1,41 @@
+abstract: 'Context: Higher resolution telescopes as well as 3D numerical simulations
+  will require the development of detailed 3D radiative transfer calculations. Building
+  upon our previous work we extend our method to include both continuum and line transfer.  Aims:
+  We present a general method to calculate radiative transfer including scattering
+  in the continuum as well as in lines in 3D static atmospheres.   Methods: The scattering
+  problem for line transfer is solved via means of an operator splitting (OS) technique.
+  The formal solution is based on a long-characteristics method. The approximate Lambda
+  operator is constructed considering nearest neighbors exactly. The code is parallelized
+  over both wavelength and solid angle using the MPI library. Results: We present
+  the results of several test cases with different values of the thermalization parameter
+  and two choices for the temperature structure. The results are directly compared
+  to 1D spherical tests. With our current grid setup the interior resolution is much
+  lower in 3D than in 1D, nevertheless the 3D results agree very well with the well-tested
+  1D calculations. We show that, with relatively simple parallelization, the code
+  scales to very large number of processors which is mandatory for practical applications.   Conclusions:
+  Advances in modern computers will make realistic 3D radiative transfer calculations
+  possible in the near future. Our current code scales to very large numbers of processors,
+  but requires larger memory per processor at high spatial resolution.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...468..255B
+arxivurl: http://arxiv.org/abs/astro-ph/0703437
+author: Baron, E. and Hauschildt, P. H.
+author_list:
+- family: Baron
+  given: E.
+- family: Hauschildt
+  given: P. H.
+date-added: 2017-08-10 19:43:14 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1051/0004-6361:20066755
+eprint: astro-ph/0703437
+journal: \aap
+keywords: 'radiative transfer, scattering, line: formation, methods: numerical'
+month: June
+pages: 255--261
+papis_id: c20f74cd52ab546870d8831582e3f8f0
+ref: baron.e.2007
+title: A 3D radiative transfer framework. II. Line transfer problems
+type: article
+volume: '468'
+year: '2007'

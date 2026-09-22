@@ -1,0 +1,74 @@
+abstract: Theoretical monochromatic light curves and photospheric expansion velocities
+  are compared with observations of 27 Type Ia supernovae (SN Ia's). A set of 37 models
+  has been considered which encompasses all currently discussed explosion scenarios
+  for Type Ia supernovae including deflagrations, detonations, delayed detonations,
+  `pulsating delayed detonations and tamped detonations of Chandrasekhar mass, and
+  helium detonations of low-mass white dwarfs. The explosions are calculated using
+  one-dimensional Lagrangian hydro and radiation-hydro codes with incorporated nuclear
+  networks. Subsequently, light curves are constructed using our light-curve (LC)
+  scheme which includes an implicit radiation transport, expansion opacities, a Monte
+  Carlo gamma-ray transport, and molecular and dust formation. For some supernovae,
+  results of detailed non-LTE calculations have been considered.  Observational properties
+  of our series of models are discussed, in particular, the relation between the absolute
+  brightness, postmaximum decline rates, the colors at several moments of time, etc.
+  All models with a 56Ni production larger than \approx{}0.4 Msun produce light curves
+  of similar brightness. The influence of the cosmological redshift on the light curves
+  and on the correction for interstellar reddening is discussed.  Based on data rectification
+  of the standard deviation, a quantitative procedure to fit the observations has
+  been used to determine the free parameters, i.e., the distance, the reddening, and
+  the time of the explosion. Fast-rising light curves (e.g., SN 1981B and SN 1994D)
+  can be reproduced by delayed detonation models or deflagration models similar to
+  W7. Slowly rising (tmax >= 16 days) light curves (e.g., SN 1984A and SN 1990N) cannot
+  be reproduced by standard detonation, deflagration, or delayed detonation models.
+  To obtain an acceptable agreement with observations, models are required in which
+  the C/O white dwarf is surrounded by an unburned extended envelope of typically
+  0.2-0.4 Msun which may either be preexisting or produced during the explosion. Our
+  interpretation of the light curves is also supported by the photospheric expansion
+  velocities. Mainly due to the fast increase of the y radiation produced by the outer
+  56Ni, the postmaximum decline of helium detonations tends to be faster compared
+  to observations of normal bright SN Ia's.  Strongly subluminous SN Ia's can be understood
+  in the framework of pulsating delayed detonations, both from the absolute brightness
+  and the colors.  Alternatively, subluminosity can be produced within the scenario
+  of helium detonations in low-mass white dwarfs of about 0.6-0.8 Msun if the explosion
+  occurs when rather little helium has been accreted.  However, even subluminous helium
+  detonation models are very blue at maximum light owing to heating in the outer layers,
+  and brighter models show a fast postmaximum decline, in contradiction to the observations.  We
+  find evidence for a correlation between the type of host galaxy and the explosion
+  mechanism. In spiral galaxies, about the same amount of prompt explosions (delayed
+  detonations and W7) and pulsating delayed detonations seems to occur. In contrast,
+  in ellipticals, the latter type is strongly favored. This difference may provide
+  a hint about the stellar evolution of the progenitors.  Based on a comparison of
+  theoretical light curves and observational data, the distances of the parent galaxies
+  are determined independently from secondary distance indicators. A comparison with
+  theoretical models allows for a consistent determination of the interstellar reddening
+  and the cosmological redshift For the example of SN 1988U, we show the need for
+  a simultaneous use of both spectral and light curve data if the data set is incomplete.  Based
+  on the models, SN Ia's allow for a measurement of the value of the Hubble constant
+  H0. H0 is found to be 67 km s-1 Mpc-1 within a 95\% probability for distances up
+  to 1.3 Gpc. SN 1988U at 1.3 Gpc is consistent with a deceleration parameter q0 of
+  0.7\$\pm\$.5 (1 sigma).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...457..500H
+arxivurl: http://arxiv.org/abs/astro-ph/9602025
+author: Hoeflich, P. and Khokhlov, A.
+author_list:
+- family: Hoeflich
+  given: P.
+- family: Khokhlov
+  given: A.
+date-added: 2017-08-10 15:22:09 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176748
+eprint: astro-ph/9602025
+journal: \apj
+keywords: 'STARS: SUPERNOVAE: GENERAL, HYDRODYNAMICS, COSMOLOGY: DISTANCE SCALE, NUCLEAR
+  REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, RADIATIVE TRANSFER, STARS: INTERIORS'
+month: February
+pages: '500'
+papis_id: 396621a4726b5e3583a4b717d5a38e41
+ref: hoeflich.p.1996
+title: 'Explosion Models for Type IA Supernovae: A Comparison with Observed Light
+  Curves, Distances, H 0, and Q 0'
+type: article
+volume: '457'
+year: '1996'

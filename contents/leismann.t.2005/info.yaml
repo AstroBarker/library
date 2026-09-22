@@ -1,0 +1,60 @@
+abstract: 'We have performed a comprehensive parameter study of the morphology and
+  dynamics of axisymmetric, magnetized, relativistic jets by means of numerical simulations.
+  The simulations have been performed with an upgraded version of the GENESIS code
+  which is based on a second-order accurate finite volume method involving an approximate
+  Riemann solver suitable for relativistic ideal magnetohydrodynamic flows, and a
+  method of lines. Starting from pure hydrodynamic models we consider the effect of
+  a magnetic field of increasing strength (up to beta \equiv{} \vert{}b\vert{}2/2p
+  \approx{} 3.3 times the equipartition value) and different topology (purely toroidal
+  or poloidal). We computed several series of models investigating the dependence
+  of the dynamics on the magnetic field in jets of different beam Lorentz factor and
+  adiabatic index. We find that the inclusion of the magnetic field leads to diverse
+  effects which contrary to Newtonian magnetohydrodynamics models do not always scale
+  linearly with the (relative) strength of the magnetic field. The relativistic models
+  show, however, some clear trends. Axisymmetric jets with toroidal magnetic fields
+  produce a cavity which consists of two parts: an inner one surrounding the beam
+  which is compressed by magnetic forces, and an adjacent outer part which is inflated
+  due to the action of the magnetic field. The outer border of the outer part of the
+  cavity is given by the bow-shock where its interaction with the external medium
+  takes place. Toroidal magnetic fields well below equipartition (beta = 0.05) combined
+  with a value of the adiabatic index of 4/3 yield extremely smooth jet cavities and
+  stable beams. Prominent nose cones form when jets are confined by toroidal fields
+  and carry a high Poynting flux (sigma\equiv{} \vert{}b\vert{}2/rho>0.01 and beta>=
+  1). In contrast, none of our models possessing a poloidal field develops such a
+  nose cone. The size of the nose cone is correlated with the propagation speed of
+  the Mach disc (the smaller the speed the larger is the size). If two models differ
+  only by the adiabatic index, jets having smaller adiabatic indices tend to develop
+  smaller nose cones.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...436..503L
+author: Leismann, T. and Antón, L. and Aloy, M. A. and Müller, E. and Martí, J. M.
+  and Miralles, J. A. and Ibáñez, J. M.
+author_list:
+- family: Leismann
+  given: T.
+- family: Antón
+  given: L.
+- family: Aloy
+  given: M. A.
+- family: Müller
+  given: E.
+- family: Martí
+  given: J. M.
+- family: Miralles
+  given: J. A.
+- family: Ibáñez
+  given: J. M.
+date-added: 2017-08-10 23:47:53 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1051/0004-6361:20042520
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), methods: numerical, relativity, galaxies:,
+  active, galaxies: jets'
+month: June
+pages: 503--526
+papis_id: 5c51376d687165adfa48115168f72c2c
+ref: leismann.t.2005
+title: Relativistic MHD simulations of extragalactic jets
+type: article
+volume: '436'
+year: '2005'

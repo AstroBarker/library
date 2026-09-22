@@ -1,0 +1,47 @@
+abstract: The recent emergence of a new class of accretion-powered, transient, millisecond
+  X-ray pulsars presents some difficulties for the conventional picture of accretion
+  onto rapidly rotating magnetized neutron stars and their spin behavior during outbursts.
+  In particular, it is not clear that the standard paradigm can accommodate the wide
+  range in M (i.e., >~ a factor of 50) over which these systems manage to accrete
+  and the high rate of spin-down that the neutron stars exhibit in at least a number
+  of cases. When the accretion rate drops sufficiently, the X-ray pulsar is said to
+  become a ``fast rotator,'' and in the conventional view, this is accompanied by
+  a transition from accretion to ``propellering,'' in which accretion ceases and the
+  matter is ejected from the system. On the theoretical side, we note that this scenario
+  for the onset of propellering cannot be entirely correct because it is not energetically
+  self-consistent. We show that, instead, the transition is likely to take place through
+  disks that combine accretion with spin-down and terminate at the corotation radius.
+  We demonstrate the existence of such disk solutions by modifying the Shakura-Sunyaev
+  equations with a simple magnetic torque prescription. The solutions are completely
+  analytic and have the same dependence on M and alpha (the viscosity parameter) as
+  the original Shakura-Sunyaev solutions, but the radial profiles can be considerably
+  modified, depending on the degree of fastness. We apply these results to compute
+  the torques expected during the outbursts of the transient millisecond pulsars and
+  find that we can explain the large spin-down rates that are observed for quite plausible
+  surface magnetic fields of ~109 G.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...606..436R
+arxivurl: http://arxiv.org/abs/astro-ph/0310224
+author: Rappaport, S. A. and Fregeau, J. M. and Spruit, H.
+author_list:
+- family: Rappaport
+  given: S. A.
+- family: Fregeau
+  given: J. M.
+- family: Spruit
+  given: H.
+date-added: 2017-08-11 03:05:09 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/382863
+eprint: astro-ph/0310224
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Stars: Pulsars: General,
+  Stars: Magnetic Fields, Stars: Neutron, X-Rays: Binaries'
+month: May
+pages: 436--443
+papis_id: 99402ed68396d3e33551f148fc4cf1ef
+ref: rappaport.s.2004
+title: Accretion onto Fast X-Ray Pulsars
+type: article
+volume: '606'
+year: '2004'

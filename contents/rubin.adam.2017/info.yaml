@@ -1,0 +1,45 @@
+abstract: Modern transient surveys have begun discovering and following supernovae         (SNe)
+  shortly after first light{\textemdash}providing systematic         measurements
+  of the rise of Type II SNe. We explore how analytic         models of early shock-cooling
+  emission from core-collapse SNe         can constrain the progenitor{\textquoteright}s
+  radius, explosion         velocity, and local host extinction. We simulate synthetic         photometry
+  in several realistic observing scenarios; assuming         the models describe the
+  typical explosions well, we find that         ultraviolet observations can constrain
+  the         progenitor{\textquoteright}s radius to a statistical uncertainty         of
+  {\ensuremath{\pm}}10\%-15\%, with a systematic uncertainty of         {\ensuremath{\pm}}20\%.
+  With these observations the local host         extinction (A $_{ V }$) can be constrained
+  to a factor of two         and the shock velocity to {\ensuremath{\pm}}5\% with
+  a         systematic uncertainty of {\ensuremath{\pm}}10\%. We also         reanalyze
+  the SN light curves presented by Garnavich et al.         (2016) and find that KSN
+  2011a can be fit by a blue supergiant         model with a progenitor radius of
+  \{R\}\$\_{s}\$<         7.7+8.8(\{stat\})+1.9(\{sys\}) \{R\}\$\_{{\ensuremath{\odot}}
+  }\$,         while KSN 2011d can be fit with a red supergiant model with a         progenitor
+  radius of \{R\}\$\_{s}\$=\{111\}\$\_{-21(\{stat}\$)-1(\{sys         \})\}\$^{+89(\{stat}\$)+49(\{sys\})\}
+  \{R\}\$\_{{\ensuremath{\odot}}         }\$. Our results do not agree with those
+  of Garnavich et al.         Moreover, we re-evaluate their claims and find that
+  there is no         statistically significant evidence for a shock-breakout flare
+  in         the light curve of KSN 2011d.
+archiveprefix: arXiv
+author: Rubin, Adam and Gal-Yam, Avishay
+author_list:
+- family: Rubin
+  given: Adam
+- family: Gal-Yam
+  given: Avishay
+doi: 10.3847/1538-4357/aa8465
+eid: '8'
+eprint: '1612.02805'
+journal: \apj
+keywords: 'supernovae: general, Astrophysics - High Energy Astrophysical Phenomena'
+month: October
+number: '1'
+pages: '8'
+papis_id: 4527856eaf8b45b3b95b45188efdbcf1
+primaryclass: astro-ph.HE
+ref: rubin.adam.2017
+title: 'Exploring the Efficacy and Limitations of Shock-cooling Models: New Analysis
+  of Type II Supernovae Observed by the Kepler Mission'
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2017ApJ...848....8R
+volume: '848'
+year: '2017'

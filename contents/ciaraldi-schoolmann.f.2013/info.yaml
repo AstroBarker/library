@@ -1,0 +1,46 @@
+abstract: 'Context. Delayed detonations of Chandrasekhar-mass white dwarfs are a promising
+  model for normal Type Ia supernova explosions. In these white dwarfs, the burning
+  starts out as a subsonic deflagration and turns at a later phase of the explosion
+  into a supersonic detonation. The mechanism of the underlying deflagration-to-detonation
+  transition (DDT) is unknown in detail, but necessary conditions have been recently
+  determined. The region of detonation initiation cannot be spatially resolved in
+  multidimensional full-star simulations of the explosion.  Aims: We develop a subgrid-scale
+  model for DDTs in thermonuclear supernova simulations that is consistent with the
+  currently known constraints.  Methods: The probability of a DDT occurring is calculated
+  from the distribution of turbulent velocities measured on the grid scale in the
+  vicinity of the flame and the fractal flame surface area that satisfies further
+  physical constraints, such as fuel fraction and fuel density.  Results: The implementation
+  of our DDT criterion provides a solid basis for simulations of thermonuclear supernova
+  explosions in the delayed detonation scenario. It accounts for the currently known
+  necessary conditions for the transition and avoids the inclusion of resolution-dependent
+  quantities in the model. The functionality of our DDT criterion is demonstrated
+  by the example of one three-dimensional thermonuclear supernova explosion simulation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...559A.117C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.8146
+author: Ciaraldi-Schoolmann, F. and Seitenzahl, I. R. and Röpke, F. K.
+author_list:
+- family: Ciaraldi-Schoolmann
+  given: F.
+- family: Seitenzahl
+  given: I. R.
+- family: Röpke
+  given: F. K.
+date-added: 2017-08-10 15:41:29 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1051/0004-6361/201321480
+eid: A117
+eprint: '1307.8146'
+journal: \aap
+keywords: 'supernovae: general, hydrodynamics, turbulence, methods: numerical'
+month: November
+pages: A117
+papis_id: a67924bb3fcc35d8328a8942e267b40b
+primaryclass: astro-ph.SR
+ref: ciaraldi_schoolmann.f.2013
+title: A subgrid-scale model for deflagration-to-detonation transitions in Type Ia
+  supernova explosion simulations. Numerical implementation
+type: article
+volume: '559'
+year: '2013'

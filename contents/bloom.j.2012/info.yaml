@@ -1,0 +1,68 @@
+abstract: While a white dwarf (WD) is, from a theoretical perspective, the most plausible
+  primary star of a Type Ia supernova (SN Ia), many other candidates have not been
+  formally ruled out. Shock energy deposited in the envelope of any exploding primary
+  contributes to the early SN brightness and, since this radiation energy is degraded
+  by expansion after the explosion, the diffusive luminosity depends on the initial
+  primary radius. We present a new non-detection limit of the nearby SN Ia 2011fe,
+  obtained at a time that appears to be just 4 hr after explosion, allowing us to
+  directly constrain the initial primary radius (Rp ). Coupled with the non-detection
+  of a quiescent X-ray counterpart and the inferred synthesized 56Ni mass, we show
+  that Rp <~ 0.02 R \&sun; (a factor of five smaller than previously inferred), that
+  the average density of the primary must be rho p  > 104 g cm-3, and that the effective
+  temperature must be less than a few \texttimes{} 105 K. This rules out hydrogen-burning
+  main-sequence stars and giants. Constructing the helium-burning and carbon-burning
+  main sequences, we find that such objects are also excluded. By process of elimination,
+  we find that only degeneracy-supported compact objects---WDs and neutron stars---are
+  viable as the primary star of SN 2011fe. With few caveats, we also restrict the
+  companion (secondary) star radius to R c <~ 0.1 R \&sun;, excluding Roche-lobe overflowing
+  red giant and main-sequence companions to high significance.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...744L..17B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.0966
+author: Bloom, J. S. and Kasen, D. and Shen, K. J. and Nugent, P. E. and Butler, N.
+  R. and Graham, M. L. and Howell, D. A. and Kolb, U. and Holmes, S. and Haswell,
+  C. A. and Burwitz, V. and Rodriguez, J. and Sullivan, M.
+author_list:
+- family: Bloom
+  given: J. S.
+- family: Kasen
+  given: D.
+- family: Shen
+  given: K. J.
+- family: Nugent
+  given: P. E.
+- family: Butler
+  given: N. R.
+- family: Graham
+  given: M. L.
+- family: Howell
+  given: D. A.
+- family: Kolb
+  given: U.
+- family: Holmes
+  given: S.
+- family: Haswell
+  given: C. A.
+- family: Burwitz
+  given: V.
+- family: Rodriguez
+  given: J.
+- family: Sullivan
+  given: M.
+date-added: 2017-08-10 19:49:32 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1088/2041-8205/744/2/L17
+eid: L17
+eprint: '1111.0966'
+journal: \apjl
+keywords: 'supernovae: individual: 2011fe white dwarfs, supernovae: general'
+month: January
+pages: L17
+papis_id: 620b16039d031651a2c9dba8c0ae03b8
+primaryclass: astro-ph.HE
+ref: bloom.j.2012
+title: A Compact Degenerate Primary-star Progenitor of SN 2011fe
+type: article
+volume: '744'
+year: '2012'

@@ -1,0 +1,42 @@
+abstract: Tensor-scalar theory of gravity allows the generation of gravitational waves
+  from astrophysical sources, like supernovae, even in the spherical case. That motivated
+  us to study the collapse of a degenerate stellar core, within tensor-scalar gravity,
+  leading to the formation of a neutron star through a bounce and the formation of
+  a shock. This paper discusses the effects of the scalar field on the evolution of
+  the system, as well as the appearance of strong nonperturbative effects of this
+  scalar field (the so-called spontaneous scalarization). As a main result, we describe
+  the resulting gravitational monopolar radiation (form and amplitude) and discuss
+  the possibility of its detection by the gravitational detectors currently under
+  construction, taking into account the existing constraints on the scalar field.
+  From the numerical point of view, it is worthy to point out that we have developed
+  a combined code that uses pseudo-spectral methods for the evolution of the scalar
+  field and High-Resolution Shock-Capturing schemes, as well as for the evolution
+  of the hydrodynamical system. Although this code has been used to integrate the
+  field equations of that theory of gravity, in the spherically symmetric case, a
+  by-product of the present work is to gain experience for an ulterior extension to
+  multidimensional problems in Numerical Relativity of such numerical strategy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...533..392N
+arxivurl: http://arxiv.org/abs/astro-ph/9911298
+author: Novak, J. and Ibáñez, J. M.
+author_list:
+- family: Novak
+  given: J.
+- family: Ibáñez
+  given: J. M.
+date-added: 2017-08-11 06:16:39 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308627
+eprint: astro-ph/9911298
+journal: \apj
+keywords: 'GRAVITATION, METHODS: NUMERICAL, SHOCK WAVES, STARS: INTERIORS, STARS:
+  SUPERNOVAE: GENERAL'
+month: April
+pages: 392--405
+papis_id: 57fbe4b225dcedcb5fe6bb9d9743d8b7
+ref: novak.j.2000
+title: Gravitational Waves from the Collapse and Bounce of a Stellar Core in Tensor-Scalar
+  Gravity
+type: article
+volume: '533'
+year: '2000'

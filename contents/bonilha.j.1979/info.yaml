@@ -1,0 +1,40 @@
+abstract: Monte Carlo calculations are carried out for resonance scattering inside
+  a plane-parallel slab for a large range of values of optical half-thickness tau
+  1/2. Analytical fitting formulae are presented for a number of quantities as functions
+  of tau 1/2 and of the damping constant a, all for tau 1/2 much greater than unity
+  but arbitrary values of tau 1/2a. These quantities include the number of scatterings,
+  the total path length, and the line width of emerging photons. Separate calculations
+  are carried out for slabs also containing true absorbers and for differentially
+  expanding slabs. Fitting formulas are presented for these cases in terms of an additional
+  dimensionless parameter, all for tau 1/2 much greater than unity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1979ApJ...233..649B
+author: Bonilha, J. R. M. and Ferch, R. and Salpeter, E. E. and Slater, G. and Noerdlinger,
+  P. D.
+author_list:
+- family: Bonilha
+  given: J. R. M.
+- family: Ferch
+  given: R.
+- family: Salpeter
+  given: E. E.
+- family: Slater
+  given: G.
+- family: Noerdlinger
+  given: P. D.
+date-added: 2017-08-11 05:45:56 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/157426
+journal: \apj
+keywords: Curve Fitting, Energy Absorption, Monte Carlo Method, Parallel Plates, Performance
+  Prediction, Resonance Scattering, Computerized Simulation, Optical Thickness, Slabs,
+  Spectral Energy Distribution, Spectral Line Width
+month: October
+pages: 649--660
+papis_id: 9f435cfccf271e5929f0ea36bfe23b60
+ref: bonilha.j.1979
+title: Monte Carlo calculations for resonance scattering with absorption or differential
+  expansion
+type: article
+volume: '233'
+year: '1979'

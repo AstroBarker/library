@@ -1,0 +1,91 @@
+abstract: 'Context. The star HD 49385 is the first G-type solar-like pulsator observed
+  in the seismology field of the space telescope CoRoT. The satellite collected 137
+  days of high-precision photometric data on this star, confirming that it presents
+  solar-like oscillations. HD 49385 was also observed in spectroscopy with the NARVAL
+  spectrograph in January 2009.  Aims: Our goal is to characterize HD 49385 using
+  both spectroscopic and seismic data.  Methods: The fundamental stellar parameters
+  of HD 49385 are derived with the semi-automatic software VWA, and the projected
+  rotational velocity is estimated by fitting synthetic profiles to isolated lines
+  in the observed spectrum. A maximum likelihood estimation is used to determine the
+  parameters of the observed p modes. We perform a global fit, in which modes are
+  fitted simultaneously over nine radial orders, with degrees ranging from l = 0 to
+  l = 3 (36 individual modes).  Results: Precise estimates of the atmospheric parameters
+  (Teff, [M/H], log g) and of the nu sin i of HD 49385 are obtained. The seismic analysis
+  of the star leads to a clear identification of the modes for degrees l = 0,1,2.
+  Around the maximum of the signal (nu ~= 1013 muHz), some peaks are found significant
+  and compatible with the expected characteristics of l = 3 modes. Our fit yields
+  robust estimates of the frequencies, linewidths and amplitudes of the modes. We
+  find amplitudes of ~5.6 $\pm$ 0.8 ppm for radial modes at the maximum of the signal.
+  The lifetimes of the modes range from one day (at high frequency) to a bit more
+  than two days (at low frequency). Significant peaks are found outside the identified
+  ridges and are fitted. They are attributed to mixed modes.  Based on data obtained
+  from the CoRoT (Convection, Rotation and planetary Transits) space mission, developed
+  by the French Space agency CNES in collaboration with the Science Programs of ESA,
+  Austria, Belgium, Brazil, Germany and Spain.Based on data obtained using the T{\''e}lescope
+  Bernard Lyot at Observatoire du Pic du Midi, CNRS and Universit{\''e} Paul Sabatier,
+  France.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...515A..87D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.4368
+author: Deheuvels, S. and Bruntt, H. and Michel, E. and Barban, C. and Verner, G.
+  and Régulo, C. and Mosser, B. and Mathur, S. and Gaulme, P. and Garcia, R. A. and
+  Boumier, P. and Appourchaux, T. and Samadi, R. and Catala, C. and Baudin, F. and
+  Baglin, A. and Auvergne, M. and Roxburgh, I. W. and Pérez Hernández, F.
+author_list:
+- family: Deheuvels
+  given: S.
+- family: Bruntt
+  given: H.
+- family: Michel
+  given: E.
+- family: Barban
+  given: C.
+- family: Verner
+  given: G.
+- family: Régulo
+  given: C.
+- family: Mosser
+  given: B.
+- family: Mathur
+  given: S.
+- family: Gaulme
+  given: P.
+- family: Garcia
+  given: R. A.
+- family: Boumier
+  given: P.
+- family: Appourchaux
+  given: T.
+- family: Samadi
+  given: R.
+- family: Catala
+  given: C.
+- family: Baudin
+  given: F.
+- family: Baglin
+  given: A.
+- family: Auvergne
+  given: M.
+- family: Roxburgh
+  given: I. W.
+- family: Pérez Hernández
+  given: F.
+date-added: 2017-08-10 20:50:36 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1051/0004-6361/200913490
+eid: A87
+eprint: '1003.4368'
+journal: \aap
+keywords: 'methods: data analysis, methods: statistical, methods: observational, stars:
+  oscillations, stars: individual: HD 49385'
+month: June
+pages: A87
+papis_id: c3c3f3afd6d68c83150298fbf3a80c30
+primaryclass: astro-ph.SR
+ref: deheuvels.s.2010
+title: Seismic and spectroscopic characterization of the solar-like pulsating CoRoT
+  target HD 49385
+type: article
+volume: '515'
+year: '2010'

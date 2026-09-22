@@ -1,0 +1,40 @@
+abstract: We report on the first phase of our study of slightly rotating accretion
+  flows onto black holes. We consider inviscid accretion flows with a spherically
+  symmetric density distribution at the outer boundary, but with spherical symmetry
+  broken by the introduction of a small, latitude-dependent angular momentum. We study
+  accretion flows by means of numerical two-dimensional, axisymmetric, hydrodynamical
+  simulations. Our main result is that the properties of the accretion flow do not
+  depend as much on the outer boundary conditions (i.e., the amount as well as distribution
+  of the angular momentum) as on the geometry of the nonaccreting matter. The material
+  that has too much angular momentum to be accreted forms a thick torus near the equator.
+  Consequently, the geometry of the polar region, where material is accreted (the
+  funnel), and the mass accretion rate through it are constrained by the size and
+  shape of the torus. Our results show one way in which the mass accretion rate of
+  slightly rotating gas can be significantly reduced compared to the accretion of
+  nonrotating gas (i.e., the Bondi rate) and set the stage for calculations that will
+  take into account the transport of angular momentum and energy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...582...69P
+arxivurl: http://arxiv.org/abs/astro-ph/0208517
+author: Proga, D. and Begelman, M. C.
+author_list:
+- family: Proga
+  given: D.
+- family: Begelman
+  given: M. C.
+date-added: 2017-08-11 06:08:50 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/344537
+eprint: astro-ph/0208517
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Active, Galaxies:
+  Jets, Hydrodynamics, Methods: Numerical'
+month: January
+pages: 69--81
+papis_id: 0bda57ac6078f7cc35f0ee1cda26028d
+ref: proga.d.2003
+title: 'Accretion of Low Angular Momentum Material onto Black Holes: Two-dimensional
+  Hydrodynamical Inviscid Case'
+type: article
+volume: '582'
+year: '2003'

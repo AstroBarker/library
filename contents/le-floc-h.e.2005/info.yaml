@@ -1,0 +1,88 @@
+abstract: We analyze a sample of ~2600 Spitzer MIPS 24 mum sources brighter than ~80
+  muJy and located in the Chandra Deep Field-South to characterize the evolution of
+  the comoving infrared (IR) energy density of the universe up to z~1. Using published
+  ancillary optical data, we first obtain a nearly complete redshift determination
+  for the 24 mum objects associated with R<~24 mag counterparts at z<~1. These sources
+  represent ~55\%-60\% of the total MIPS 24 mum population with f24mum>~80 muJy, the
+  rest of the sample likely lying at higher redshifts. We then determine an estimate
+  of their total IR luminosities using various libraries of IR spectral energy distributions.
+  We find that the 24 mum population at 0.5<~z<~1 is dominated by ``luminous infrared
+  galaxies'' (i.e., 1011 Lsolar<=LIR<=1012 Lsolar), the counterparts of which appear
+  to be also luminous at optical wavelengths and tend to be more massive than the
+  majority of optically selected galaxies. A significant number of fainter sources
+  (5\texttimes{}1010 Lsolar<~LIR<=1011 Lsolar) are also detected at similar distances.
+  We finally derive 15 mum and total IR luminosity functions (LFs) up to z~1. In agreement
+  with the previous results from the Infrared Space Observatory (ISO) and SCUBA and
+  as expected from the MIPS source number counts, we find very strong evolution of
+  the contribution of the IR-selected population with look-back time. Pure evolution
+  in density is firmly excluded by the data, but we find considerable degeneracy between
+  strict evolution in luminosity and a combination of increases in both density and
+  luminosity [L\textasteriskcenteredIR~(1+z)3.2+0.7-0.2, phi\textasteriskcenteredIR~(1+z)0.7+0.2-0.6].
+  A significant steepening of the faint-end slope of the IR luminosity function is
+  also unlikely, as it would overproduce the faint 24 mum source number counts. Our
+  results imply that the comoving IR energy density of the universe evolves as (1+z)3.9+/-0.4
+  up to z~1 and that galaxies luminous in the infrared (i.e., LIR>=1011 Lsolar) are
+  responsible for 70\%+/-15\% of this energy density at z~1. Taking into account the
+  contribution of the UV luminosity evolving as (1+z)~2.5, we infer that these IR-luminous
+  sources dominate the star-forming activity beyond z~0.7. The uncertainties affecting
+  these conclusions are largely dominated by the errors in the k-corrections used
+  to convert 24 mum fluxes into luminosities.  Based on observations made with Spitzer,
+  operated by the Jet Propulsion Laboratory under NASA contract 1407.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...632..169L
+arxivurl: http://arxiv.org/abs/astro-ph/0506462
+author: Le Floc'h, E. and Papovich, C. and Dole, H. and Bell, E. F. and Lagache, G.
+  and Rieke, G. H. and Egami, E. and Pérez-González, P. G. and Alonso-Herrero, A.
+  and Rieke, M. J. and Blaylock, M. and Engelbracht, C. W. and Gordon, K. D. and Hines,
+  D. C. and Misselt, K. A. and Morrison, J. E. and Mould, J.
+author_list:
+- family: Le Floc'h
+  given: E.
+- family: Papovich
+  given: C.
+- family: Dole
+  given: H.
+- family: Bell
+  given: E. F.
+- family: Lagache
+  given: G.
+- family: Rieke
+  given: G. H.
+- family: Egami
+  given: E.
+- family: Pérez-González
+  given: P. G.
+- family: Alonso-Herrero
+  given: A.
+- family: Rieke
+  given: M. J.
+- family: Blaylock
+  given: M.
+- family: Engelbracht
+  given: C. W.
+- family: Gordon
+  given: K. D.
+- family: Hines
+  given: D. C.
+- family: Misselt
+  given: K. A.
+- family: Morrison
+  given: J. E.
+- family: Mould
+  given: J.
+date-added: 2017-08-10 23:57:10 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/432789
+eprint: astro-ph/0506462
+journal: \apj
+keywords: 'Cosmology: Observations, Galaxies: Evolution, Galaxies: High-Redshift,
+  Infrared: Galaxies'
+month: October
+pages: 169--190
+papis_id: af004c5e61c5dc42d71d35e163d1096d
+ref: le_floc_h.e.2005
+title: 'Infrared Luminosity Functions from the Chandra Deep Field-South: The Spitzer
+  View on the History of Dusty Star Formation at 0 $łt$̃ z \$łt\$\̃ 1'
+type: article
+volume: '632'
+year: '2005'

@@ -1,0 +1,152 @@
+abstract: The Sloan Digital Sky Survey-II Supernova Survey has identified a large
+  number of new transient sources in a 300 deg2 region along the celestial equator
+  during its first two seasons of a three-season campaign. Multi-band (ugriz) light
+  curves were measured for most of the sources, which include solar system objects,
+  galactic variable stars, active galactic nuclei, supernovae (SNe), and other astronomical
+  transients. The imaging survey is augmented by an extensive spectroscopic follow-up
+  program to identify SNe, measure their redshifts, and study the physical conditions
+  of the explosions and their environment through spectroscopic diagnostics. During
+  the survey, light curves are rapidly evaluated to provide an initial photometric
+  type of the SNe, and a selected sample of sources are targeted for spectroscopic
+  observations. In the first two seasons, 476 sources were selected for spectroscopic
+  observations, of which 403 were identified as SNe. For the type Ia SNe, the main
+  driver for the survey, our photometric typing and targeting efficiency is 90\%.
+  Only 6\% of the photometric SN Ia candidates were spectroscopically classified as
+  non-SN Ia instead, and the remaining 4\% resulted in low signal-to-noise, unclassified
+  spectra. This paper describes the search algorithm and the software, and the real-time
+  processing of the SDSS imaging data. We also present the details of the supernova
+  candidate selection procedures and strategies for follow-up spectroscopic and imaging
+  observations of the discovered sources.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....135..348S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.2750
+author: Sako, M. and Bassett, B. and Becker, A. and Cinabro, D. and DeJongh, F. and
+  Depoy, D. L. and Dilday, B. and Doi, M. and Frieman, J. A. and Garnavich, P. M.
+  and Hogan, C. J. and Holtzman, J. and Jha, S. and Kessler, R. and Konishi, K. and
+  Lampeitl, H. and Marriner, J. and Miknaitis, G. and Nichol, R. C. and Prieto, J.
+  L. and Riess, A. G. and Richmond, M. W. and Romani, R. and Schneider, D. P. and
+  Smith, M. and SubbaRao, M. and Takanashi, N. and Tokita, K. and van der Heyden,
+  K. and Yasuda, N. and Zheng, C. and Barentine, J. and Brewington, H. and Choi, C.
+  and Dembicky, J. and Harnavek, M. and Ihara, Y. and Im, M. and Ketzeback, W. and
+  Kleinman, S. J. and Krzesi\ŉski, J. and Long, D. C. and Malanushenko, E. and Malanushenko,
+  V. and McMillan, R. J. and Morokuma, T. and Nitta, A. and Pan, K. and Saurage, G.
+  and Snedden, S. A.
+author_list:
+- family: Sako
+  given: M.
+- family: Bassett
+  given: B.
+- family: Becker
+  given: A.
+- family: Cinabro
+  given: D.
+- family: DeJongh
+  given: F.
+- family: Depoy
+  given: D. L.
+- family: Dilday
+  given: B.
+- family: Doi
+  given: M.
+- family: Frieman
+  given: J. A.
+- family: Garnavich
+  given: P. M.
+- family: Hogan
+  given: C. J.
+- family: Holtzman
+  given: J.
+- family: Jha
+  given: S.
+- family: Kessler
+  given: R.
+- family: Konishi
+  given: K.
+- family: Lampeitl
+  given: H.
+- family: Marriner
+  given: J.
+- family: Miknaitis
+  given: G.
+- family: Nichol
+  given: R. C.
+- family: Prieto
+  given: J. L.
+- family: Riess
+  given: A. G.
+- family: Richmond
+  given: M. W.
+- family: Romani
+  given: R.
+- family: Schneider
+  given: D. P.
+- family: Smith
+  given: M.
+- family: SubbaRao
+  given: M.
+- family: Takanashi
+  given: N.
+- family: Tokita
+  given: K.
+- family: van der Heyden
+  given: K.
+- family: Yasuda
+  given: N.
+- family: Zheng
+  given: C.
+- family: Barentine
+  given: J.
+- family: Brewington
+  given: H.
+- family: Choi
+  given: C.
+- family: Dembicky
+  given: J.
+- family: Harnavek
+  given: M.
+- family: Ihara
+  given: Y.
+- family: Im
+  given: M.
+- family: Ketzeback
+  given: W.
+- family: Kleinman
+  given: S. J.
+- family: Krzesi\ŉski
+  given: J.
+- family: Long
+  given: D. C.
+- family: Malanushenko
+  given: E.
+- family: Malanushenko
+  given: V.
+- family: McMillan
+  given: R. J.
+- family: Morokuma
+  given: T.
+- family: Nitta
+  given: A.
+- family: Pan
+  given: K.
+- family: Saurage
+  given: G.
+- family: Snedden
+  given: S. A.
+date-added: 2017-08-10 21:09:54 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1088/0004-6256/135/1/348
+eid: 348-373
+eprint: '0708.2750'
+journal: \aj
+keywords: 'cosmology: observations, methods: data analysis, techniques: image processing,
+  supernovae: general, surveys'
+month: January
+pages: 348--373
+papis_id: 717aee08c0d34f6f330b189d2cbe3c0e
+ref: sako.m.2008
+title: 'The Sloan Digital Sky Survey-II Supernova Survey: Search Algorithm and Follow-up
+  Observations'
+type: article
+volume: '135'
+year: '2008'

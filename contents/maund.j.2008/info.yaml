@@ -1,0 +1,54 @@
+abstract: 'Context: Linear spectropolarimetry is a ``photon-hungry'''' observing technique,
+  requiring a specific sequence of observations to determine the Stokes Q and U parameters.
+  For dual-beam spectropolarimeters, the Q and U Stokes parameters can be ideally
+  determined using observations at N=2 retarder plate positions. The additional polarization
+  signal introduced by instrumental effects requires the redundancy of N=4 observations
+  to correct for these effects and to accurately measure the linear polarization of
+  astronomical objects.  Aims: We wish to determine if the ``instrumental signature
+  corrections'''' for the Stokes Q and U parameters, \ensuremath{\epsilon}Q and \ensuremath{\epsilon}U,
+  are identical for observations with dual-beam spectropolarimeters. For instances
+  when observations were only acquired at N=3 retarder plate angles, we wish to determine
+  if the complete measurement of one Stokes parameter and the associated instrumental
+  signature correction can be used to determine the other Stokes parameter.  Methods:
+  We constructed analytical and Monte Carlo models of a general dual-beam spectropolarimeter
+  to study the factors affecting the assumption \ensuremath{\epsilon}Q=\ensuremath{\epsilon}U
+  and the uncertainty thereon. We compared these models with VLT FORS1 linear spectropolarimetry
+  observations.  Results: We find that, in general, \ensuremath{\epsilon}Q-\ensuremath{\epsilon}U\approx{}0,
+  with the variance around zero (Delta(\ensuremath{\epsilon}Q-\ensuremath{\epsilon}U))
+  being directly related to the signal-to-noise ratio of the observations. Observations
+  of a polarized standard star, observed under identical instrumental conditions over
+  the period of 2002-2007, show that the assumption of \ensuremath{\epsilon}Q-\ensuremath{\epsilon}U=0
+  is generally true over a long period, although the absolute values of \ensuremath{\epsilon}Q
+  and \ensuremath{\epsilon}U vary between observational epochs. While the variance
+  of \ensuremath{\epsilon}Q-\ensuremath{\epsilon}U is not dependent on the polarization
+  angle, significant deviations from \ensuremath{\epsilon}Q-\ensuremath{\epsilon}U=0
+  arise when p \gtrapprox{} 20\%. Conclusions: Incomplete VLT FORS1 spectropolarimetry
+  datasets, for which observations at only N=3 retarder plate position angles have
+  been acquired, can be analyzed under the assumption that \ensuremath{\epsilon}Q\approx{}\ensuremath{\epsilon}U.
+  The uncertainty associated with this assumption is directly related to the signal-to-noise
+  ratio of the observations. This property of the analysis of spectropolarimetry,
+  with dual beam spectropolarimeters, can be used to test for the presence of artifacts
+  affecting individual observations and to assess the quality of the data reduction,
+  when observations at all four retarder plate angles have been acquired.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...481..913M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0802.4420
+author: Maund, J. R.
+author_list:
+- family: Maund
+  given: J. R.
+date-added: 2017-08-11 05:51:51 +0000
+date-modified: 2017-12-05 16:37:04 +0000
+doi: 10.1051/0004-6361:20078302
+eprint: '0802.4420'
+journal: \aap
+keywords: 'instrumentation: polarimeters, polarization'
+month: April
+pages: 913--918
+papis_id: 53d03c32269322c14cae0ff9e984a52a
+ref: maund.j.2008
+title: Optical spectropolarimetry with incomplete data sets
+type: article
+volume: '481'
+year: '2008'

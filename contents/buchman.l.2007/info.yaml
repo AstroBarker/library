@@ -1,0 +1,34 @@
+abstract: 'In a recent article, we constructed a hierarchy {\cal B}\_L  of outer boundary
+  conditions for Einstein''s field equations with the property that, for a spherical
+  outer boundary, it is perfectly absorbing for linearized gravitational radiation
+  up to a given angular momentum number L. In this paper, we generalize {\cal B}\_2  so
+  that it can be applied to fairly general foliations of spacetime by space-like hypersurfaces
+  and general outer boundary shapes and further, we improve {\cal B}\_2  in two steps:
+  (i) we give a local boundary condition {\cal C}\_2  which is perfectly absorbing
+  including first-order contributions in 2M/R of curvature corrections for quadrupolar
+  waves (where M is the mass of the spacetime and R is a typical radius of the outer
+  boundary) and which significantly reduces spurious reflections due to backscatter,
+  and (ii) we give a non-local boundary condition {\cal D}\_2  which is exact when
+  first-order corrections in 2M/R for both curvature and backscatter are considered,
+  for quadrupolar radiation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S.307B
+author: Buchman, L. T. and Sarbach, O. C. A.
+author_list:
+- family: Buchman
+  given: L. T.
+- family: Sarbach
+  given: O. C. A.
+date-added: 2017-08-11 06:16:15 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1088/0264-9381/24/12/S20
+eprint: gr-qc/0703129
+journal: Classical and Quantum Gravity
+month: June
+pages: S307-S326
+papis_id: 547fd0ed5da695b49af41657786c4019
+ref: buchman.l.2007
+title: Improved outer boundary conditions for Einstein's field equations
+type: article
+volume: '24'
+year: '2007'

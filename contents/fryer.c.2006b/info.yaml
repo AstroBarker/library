@@ -1,0 +1,33 @@
+abstract: We provide a description of the SNSPH code-a parallel three-dimensional
+  radiation hydrodynamics code implementing tree code gravity, smooth particle hydrodynamics,
+  and flux-limited diffusion transport schemes. We provide descriptions of the physics
+  and parallelization techniques for this code. We present performance results on
+  a suite of code tests (both standard and new), showing the versatility of such a
+  code, but focusing on what we believe are important aspects of modeling core-collapse
+  supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643..292F
+arxivurl: http://arxiv.org/abs/astro-ph/0512532
+author: Fryer, C. L. and Rockefeller, G. and Warren, M. S.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Rockefeller
+  given: G.
+- family: Warren
+  given: M. S.
+date-added: 2017-08-10 19:16:45 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/501493
+eprint: astro-ph/0512532
+journal: \apj
+keywords: 'Methods: n-Body Simulations, Methods: Numerical, Stars: Supernovae: General'
+month: May
+pages: 292--305
+papis_id: ff379e78dd9255e3a857b0dddf6697a2
+ref: fryer.c.2006b
+title: 'SNSPH: A Parallel Three-dimensional Smoothed Particle Radiation Hydrodynamics
+  Code'
+type: article
+volume: '643'
+year: '2006'

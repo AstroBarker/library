@@ -1,0 +1,58 @@
+abstract: We present an improved method for determining the mass of neutron stars
+  in eclipsing X-ray pulsar binaries and apply the method to six systems, namely,
+  Vela X-1, 4U 1538-52, SMC X-1, LMC X-4, Cen X-3, and Her X-1. In previous studies
+  to determine neutron star mass, the X-ray eclipse duration has been approximated
+  analytically by assuming that the companion star is spherical with an effective
+  Roche lobe radius. We use a numerical code based on Roche geometry with various
+  optimizers to analyze the published data for these systems, which we supplement
+  with new spectroscopic and photometric data for 4U 1538-52. This allows us to model
+  the eclipse duration more accurately and thus calculate an improved value for the
+  neutron star mass. The derived neutron star mass also depends on the assumed Roche
+  lobe filling factor beta of the companion star, where beta = 1 indicates a completely
+  filled Roche lobe. In previous work a range of beta between 0.9 and 1.0 was usually
+  adopted. We use optical ellipsoidal light-curve data to constrain beta. We find
+  neutron star masses of 1.77 $\pm$ 0.08 M sun for Vela X-1, 0.87 \$\pm\$ 0.07 M sun
+  for 4U 1538-52 (eccentric orbit), 1.00 \$\pm\$ 0.10 M sun for 4U 1538-52 (circular
+  orbit), 1.04 \$\pm\$ 0.09 M sun for SMC X-1, 1.29 \$\pm\$ 0.05 M sun for LMC X-4,
+  1.49 \$\pm\$ 0.08 M sun for Cen X-3, and 1.07 \$\pm\$ 0.36 M sun for Her X-1. We
+  discuss the limits of the approximations that were used to derive the earlier mass
+  determinations, and we comment on the implications our new masses have for observationally
+  refining the upper and lower bounds of the neutron star mass distribution.  This
+  paper includes data gathered with the 6.5 m Magellan telescopes located at Las Campanas
+  Observatory, Chile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...730...25R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.2465
+author: Rawls, M. L. and Orosz, J. A. and McClintock, J. E. and Torres, M. A. P. and
+  Bailyn, C. D. and Buxton, M. M.
+author_list:
+- family: Rawls
+  given: M. L.
+- family: Orosz
+  given: J. A.
+- family: McClintock
+  given: J. E.
+- family: Torres
+  given: M. A. P.
+- family: Bailyn
+  given: C. D.
+- family: Buxton
+  given: M. M.
+date-added: 2017-08-10 23:34:08 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/730/1/25
+eid: '25'
+eprint: '1101.2465'
+journal: \apj
+keywords: 'methods: numerical, pulsars: individual: Vela X-1 4U 1538-42 SMC X-1 LMC
+  X-4 Cen X-3 Her X-1, stars: neutron, X-rays: binaries'
+month: March
+pages: '25'
+papis_id: 6868b15fdb504313ed066b7153001cef
+primaryclass: astro-ph.SR
+ref: rawls.m.2011
+title: Refined Neutron Star Mass Determinations for Six Eclipsing X-Ray Pulsar Binaries
+type: article
+volume: '730'
+year: '2011'

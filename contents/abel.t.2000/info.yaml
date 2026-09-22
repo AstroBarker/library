@@ -1,0 +1,45 @@
+abstract: Many questions in physical cosmology regarding the thermal history of the
+  intergalactic medium, chemical enrichment, reionization, etc., are thought to be
+  intimately related to the nature and evolution of pregalactic structure. In particular,
+  the efficiency of primordial star formation and the primordial initial mass function
+  are of special interest. We present results from high-resolution three-dimensional
+  adaptive mesh refinement simulations that follow the collapse of primordial molecular
+  clouds and their subsequent fragmentation within a cosmologically representative
+  volume. Comoving scales from 128 kpc down to 1 pc are followed accurately. Dark
+  matter dynamics, hydrodynamics, and all relevant chemical and radiative processes
+  (cooling) are followed self-consistently for a cluster-normalized cold dark matter
+  (CDM) structure formation model. Primordial molecular clouds with ~105 solar masses
+  are assembled by mergers of multiple objects that have formed hydrogen molecules
+  in the gas phase with a fractional abundance of <~10-4. As the subclumps merge,
+  cooling lowers the temperature to ~200 K in a ``cold pocket'' at the center of the
+  halo. Within this cold pocket, a quasi-hydrostatically contracting core with mass
+  ~200 Msolar and number densities >~105 cm-3 are found. We find that less than 1\%
+  of the primordial gas in such small-scale structures cools and collapses to sufficiently
+  high densities to be available for primordial star formation. Furthermore, it is
+  worthwhile to note that this study achieved the highest dynamic range covered by
+  structured adaptive mesh techniques in cosmological hydrodynamics to date.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...540...39A
+arxivurl: http://arxiv.org/abs/astro-ph/0002135
+author: Abel, T. and Bryan, G. L. and Norman, M. L.
+author_list:
+- family: Abel
+  given: T.
+- family: Bryan
+  given: G. L.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 22:20:11 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/309295
+eprint: astro-ph/0002135
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Methods: Numerical'
+month: September
+pages: 39--44
+papis_id: ca43d04aa463015d7675c16a25c5673b
+ref: abel.t.2000
+title: The Formation and Fragmentation of Primordial Molecular Clouds
+type: article
+volume: '540'
+year: '2000'

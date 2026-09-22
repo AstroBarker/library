@@ -1,0 +1,52 @@
+abstract: Standard models of radiation-supported accretion disks generally assume
+  that diffusive radiation flux is solely responsible for vertical heat transport.
+  This requires that heat must be generated at a critical rate per unit volume if
+  the disk is to be in hydrostatic and thermal equilibrium. This raises the question
+  of how heat is generated and how energy is transported in MHD turbulence. By analysis
+  of a number of radiation/MHD stratified shearing-box simulations, we show that the
+  divergence of the diffusive radiation flux is indeed capped at the critical rate,
+  but deep inside the disk, substantial vertical energy flux is also carried by advection
+  of radiation. Work done by radiation pressure is a significant part of the energy
+  budget, and much of this work is dissipated later through damping by radiative diffusion.
+  We show how this damping can be measured in the simulations and identify its physical
+  origins. Radiative damping accounts for as much as tens of percent of the total
+  dissipation and is the only realistic physical mechanism for dissipation of turbulence
+  that can actually be resolved in numerical simulations of accretion disks. Buoyancy
+  associated with dynamo-driven, highly magnetized, nearly isobaric nonlinear slow
+  magnetosonic fluctuations is responsible for the radiation advection flux and also
+  explains the persistent periodic magnetic upwelling seen at all values of the radiation
+  to gas pressure ratio. The intimate connection between radiation advection and magnetic
+  buoyancy is the first example we know of in astrophysics in which a dynamo has direct
+  impact on the global energetics of a system.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...733..110B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.5052
+author: Blaes, O. and Krolik, J. H. and Hirose, S. and Shabaltas, N.
+author_list:
+- family: Blaes
+  given: O.
+- family: Krolik
+  given: J. H.
+- family: Hirose
+  given: S.
+- family: Shabaltas
+  given: N.
+date-added: 2017-08-11 02:19:35 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/733/2/110
+eid: '110'
+eprint: '1103.5052'
+journal: \apj
+keywords: 'accretion, accretion disks, magnetohydrodynamics: MHD, radiative transfer,
+  turbulence, waves'
+month: June
+pages: '110'
+papis_id: 00ea10cdd0720deb575fd04801ddebb4
+primaryclass: astro-ph.HE
+ref: blaes.o.2011
+title: Dissipation and Vertical Energy Transport in Radiation-dominated Accretion
+  Disks
+type: article
+volume: '733'
+year: '2011'

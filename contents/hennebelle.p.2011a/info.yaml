@@ -1,0 +1,60 @@
+abstract: 'Context. Stars, and more particularly massive stars, have a drastic impact
+  on galaxy evolution. Yet the conditions in which they form and collapse are still
+  not fully understood.  Aims: In particular, the influence of the magnetic field
+  on the collapse of massive clumps is relatively unexplored, it is therefore of great
+  relevance in the context of the formation of massive stars to investigate its impact.  Methods:
+  We perform high resolution, MHD simulations of the collapse of one hundred solar
+  masses, turbulent and magnetized clouds, with the adaptive mesh refinement code
+  RAMSES. We compute various quantities such as mass distribution, magnetic field,
+  and angular momentum within the collapsing core and study the episodic outflows
+  and the fragmentation that occurs during the collapse.  Results: The magnetic field
+  has a drastic impact on the cloud evolution. We find that magnetic braking is able
+  to substantially reduce the angular momentum in the inner part of the collapsing
+  cloud. Fast and episodic outflows are being launched with typical velocities of
+  the order of 1-3 km s-1, although the highest velocities can be as high as 20-40
+  km s-1. The fragmentation in several objects is reduced in substantially magnetized
+  clouds with respect to hydrodynamical ones by a factor of the order of 1.5-2.  Conclusions:
+  We conclude that magnetic fields have a significant impact on the evolution of massive
+  clumps. In combination with radiation, magnetic fields largely determine the outcome
+  of massive core collapse. We stress that numerical convergence of MHD collapse is
+  a challenging issue. In particular, numerical diffusion appears to be important
+  at high density and therefore could possibly lead to an overestimation of the number
+  of fragments.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A..72H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.1574
+author: Hennebelle, P. and Commerçon, B. and Joos, M. and Klessen, R. S. and Krumholz,
+  M. and Tan, J. C. and Teyssier, R.
+author_list:
+- family: Hennebelle
+  given: P.
+- family: Commerçon
+  given: B.
+- family: Joos
+  given: M.
+- family: Klessen
+  given: R. S.
+- family: Krumholz
+  given: M.
+- family: Tan
+  given: J. C.
+- family: Teyssier
+  given: R.
+date-added: 2017-08-11 01:43:46 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/201016052
+eid: A72
+eprint: '1101.1574'
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), instabilities, ISM: kinematics and dynamics,
+  ISM: clouds, stars: formation'
+month: April
+pages: A72
+papis_id: 0b979927ed832f790b336a5e5bc4d4c3
+ref: hennebelle.p.2011a
+title: Collapse, outflows and fragmentation of massive, turbulent and magnetized prestellar
+  barotropic cores
+type: article
+volume: '528'
+year: '2011'

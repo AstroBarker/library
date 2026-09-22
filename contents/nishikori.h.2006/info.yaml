@@ -1,0 +1,48 @@
+abstract: We carried out global three-dimensional resistive magnetohydrodynamic simulations
+  of galactic gaseous disks to investigate how the galactic magnetic fields are amplified
+  and maintained. We adopt a steady axisymmetric gravitational potential given by
+  Miyamoto \& Nagai and Miyamoto et al. As the initial condition, we assume a warm
+  (T~105 K) rotating gas torus centered at varpi=10 kpc threaded by weak azimuthal
+  magnetic fields. Numerical results indicate that in differentially rotating galactic
+  gaseous disks, magnetic fields are amplified due to magnetorotational instability
+  and magnetic turbulence develops. After the amplification of magnetic energy saturates,
+  the disk stays in a quasi-steady state. The mean azimuthal magnetic field increases
+  with time and shows reversals with a period of 1 Gyr (2 Gyr for a full cycle). The
+  amplitude of Bvarphi near the equatorial plane is Bvarphi~1.5 muG at varpi=5 kpc.
+  The magnetic fields show large fluctuations whose standard deviation is comparable
+  to the mean field. The mean azimuthal magnetic field in the disk corona has a direction
+  opposite to the mean magnetic field inside the disk. The mass accretion rate driven
+  by the Maxwell stress is ~10-3 Msolar yr-1 at varpi=2.5 kpc when the mass of the
+  initial torus is ~5\texttimes{}108 Msolar. When we adopt an absorbing boundary condition
+  at r=0.8 kpc, the rotation curve obtained by numerical simulations almost coincides
+  with the rotation curve of the stars and the dark matter. Thus, even when magnetic
+  fields are not negligible for gas dynamics of a spiral galaxy, the galactic gravitational
+  potential can be derived from observations of the rotation curve using the gas component
+  of the disk.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...641..862N
+arxivurl: http://arxiv.org/abs/astro-ph/0601358
+author: Nishikori, H. and Machida, M. and Matsumoto, R.
+author_list:
+- family: Nishikori
+  given: H.
+- family: Machida
+  given: M.
+- family: Matsumoto
+  given: R.
+date-added: 2017-08-10 14:55:04 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500525
+eprint: astro-ph/0601358
+journal: \apj
+keywords: 'Galaxies: Spiral, ISM: Magnetic Fields, Magnetohydrodynamics: MHD'
+month: April
+pages: 862--877
+papis_id: 73f119cd017fbd4eeff7eabf1c90c4a1
+ref: nishikori.h.2006
+title: Global Three-dimensional Magentohydrodynamic Simulations of Galactic Gaseous
+  Disks. I. Amplification of Mean Magnetic Fields in an Axisymmetric Gravitational
+  Potential
+type: article
+volume: '641'
+year: '2006'

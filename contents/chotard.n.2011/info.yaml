@@ -1,0 +1,112 @@
+abstract: We employ 76 type Ia supernovae (SNe Ia) with optical spectrophotometry
+  within 2.5 days of B-band maximum light obtained by the Nearby Supernova Factory
+  to derive the impact of Si and Ca features on the supernovae intrinsic luminosity
+  and determine a dust reddening law. We use the equivalent width of Si ii lambda4131
+  in place of the light curve stretch to account for first-order intrinsic luminosity
+  variability. The resulting empirical spectral reddening law exhibits strong features
+  that are associated with Ca ii and Si ii lambda6355. After applying a correction
+  based on the Ca ii H\&K equivalent width we find a reddening law consistent with
+  a Cardelli extinction law. Using the same input data, we compare this result to
+  synthetic rest-frame UBVRI-like photometry to mimic literature observations. After
+  corrections for signatures correlated with Si ii lambda4131 and Ca ii H\&K equivalent
+  widths and introducing an empirical correlation between colors, we determine the
+  dust component in each band. We find a value of the total-to-selective extinction
+  ratio, RV = 2.8 $\pm$ 0.3. This agrees with the Milky Way value, in contrast to
+  the low RV values found in most previous analyses. This result suggests that the
+  long-standing controversy in interpreting SN Ia colors and their compatibility with
+  a classical extinction law, which is critical to their use as cosmological probes,
+  can be explained by the treatment of the dispersion in colors, and by the variability
+  of features apparent in SN Ia spectra.  Table 1 is available in electronic form
+  at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...529L...4C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.5300
+author: 'Chotard, N. and Gangler, E. and Aldering, G. and Antilogus, P. and Aragon,
+  C. and Bailey, S. and Baltay, C. and Bongard, S. and Buton, C. and Canto, A. and
+  Childress, M. and Copin, Y. and Fakhouri, H. K. and Hsiao, E. Y. and Kerschhaggl,
+  M. and Kowalski, M. and Loken, S. and Nugent, P. and Paech, K. and Pain, R. and
+  Pecontal, E. and Pereira, R. and Perlmutter, S. and Rabinowitz, D. and Runge, K.
+  and Scalzo, R. and Smadja, G. and Tao, C. and Thomas, R. C. and Weaver, B. A. and
+  Wu, C. and Nearby Supernova Factory, '
+author_list:
+- family: Chotard
+  given: N.
+- family: Gangler
+  given: E.
+- family: Aldering
+  given: G.
+- family: Antilogus
+  given: P.
+- family: Aragon
+  given: C.
+- family: Bailey
+  given: S.
+- family: Baltay
+  given: C.
+- family: Bongard
+  given: S.
+- family: Buton
+  given: C.
+- family: Canto
+  given: A.
+- family: Childress
+  given: M.
+- family: Copin
+  given: Y.
+- family: Fakhouri
+  given: H. K.
+- family: Hsiao
+  given: E. Y.
+- family: Kerschhaggl
+  given: M.
+- family: Kowalski
+  given: M.
+- family: Loken
+  given: S.
+- family: Nugent
+  given: P.
+- family: Paech
+  given: K.
+- family: Pain
+  given: R.
+- family: Pecontal
+  given: E.
+- family: Pereira
+  given: R.
+- family: Perlmutter
+  given: S.
+- family: Rabinowitz
+  given: D.
+- family: Runge
+  given: K.
+- family: Scalzo
+  given: R.
+- family: Smadja
+  given: G.
+- family: Tao
+  given: C.
+- family: Thomas
+  given: R. C.
+- family: Weaver
+  given: B. A.
+- family: Wu
+  given: C.
+- family: Nearby Supernova Factory
+  given: ''
+date-added: 2017-08-11 02:27:06 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201116723
+eid: L4
+eprint: '1103.5300'
+journal: \aap
+keywords: 'supernovae:general, dust, extinction, cosmology: observations'
+month: May
+pages: L4
+papis_id: 2fa8f0d9afaa7b5a276f1defb69c22a2
+ref: chotard.n.2011
+title: 'The reddening law of type Ia supernovae: separating intrinsic variability
+  from dust using equivalent widths'
+type: article
+volume: '529'
+year: '2011'

@@ -1,0 +1,48 @@
+abstract: AM Canum Venaticorum (AM CVn) binaries consist of a degenerate helium donor
+  and a helium, C/O, or O/Ne white dwarf accretor, with accretion rates of \dot{M}
+  = 10^{-13}\--10^{-5} \, M\_\odot \; yr^{-1}. For accretion rates <10-6 M sun yr-1,
+  the accreted helium ignites unstably, resulting in a helium flash. As the donor
+  mass and \dot{M} decrease, the ignition mass increases and eventually becomes larger
+  than the donor mass, yielding a "last-flash" ignition mass of lsim0.1 M sun. Bildsten
+  et al. have predicted that the largest outbursts of these systems will lead to dynamical
+  burning and thermonuclear supernovae. In this paper, we study the evolution of the
+  He-burning shells in more detail. We calculate maximum achievable temperatures as
+  well as the minimum envelope masses that achieve dynamical burning conditions, finding
+  that AM CVn systems with accretors gsim0.8 M sun will undergo dynamical burning.
+  Triple-alpha reactions during the hydrostatic evolution set a lower limit to the
+  12C mass fraction of 0.001-0.05 when dynamical burning occurs, but core dredge-up
+  may yield 12C, 16O, and/or 20Ne mass fractions of ~0.1. Accreted 14N will likely
+  remain 14N during the accretion and convective phases, but regardless of 14N's fate,
+  the neutron-to-proton ratio at the beginning of convection is fixed until the onset
+  of dynamical burning. During explosive burning, the 14N will undergo 14N(alpha,
+  gamma)18F(alpha, p)21Ne, liberating a proton for the subsequent 12C(p, gamma)13N(alpha,
+  p)16O reaction, which bypasses the relatively slow alpha-capture onto 12C. Future
+  hydrodynamic simulations must include these isotopes, as the additional reactions
+  will reduce the Zel'dovich-von Neumann-D{\"o}ring length, making the propagation
+  of the detonation wave more likely.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...699.1365S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0903.0654
+author: Shen, K. J. and Bildsten, L.
+author_list:
+- family: Shen
+  given: K. J.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 15:26:51 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/699/2/1365
+eprint: '0903.0654'
+journal: \apj
+keywords: 'binaries: close, novae, cataclysmic variables, supernovae: general, white
+  dwarfs'
+month: July
+pages: 1365--1373
+papis_id: e81925417f35e2901c8d54d03fa0fa2c
+primaryclass: astro-ph.HE
+ref: shen.k.2009
+title: Unstable Helium Shell Burning on Accreting White Dwarfs
+type: article
+volume: '699'
+year: '2009'

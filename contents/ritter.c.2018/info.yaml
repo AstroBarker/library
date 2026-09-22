@@ -1,0 +1,52 @@
+abstract: We provide here a significant extension of the NuGrid Set 1 models in mass
+  coverage and towards lower metallicity, adopting the same physics assumptions. The
+  combined data set now includes the initial masses M\_ZAMS/ M\_\&sun; = 1, 1.65,
+  2, 3, 4, 5, 6, 7, 12, 15, 20, 25 for Z = 0.02, 0.01, 0.006, 0.001, 0.0001 with alpha-enhanced
+  composition for the lowest three metallicities. These models are computed with the
+  MESA stellar evolution code and are evolved up to the AGB, the white dwarf stage,
+  or until core collapse. The nucleosynthesis was calculated for all isotopes in post-processing
+  with the NuGrid MPPNP code. Explosive nucleosynthesis is based on semi-analytic
+  1D shock models. Metallicity-dependent mass-loss, convective boundary mixing in
+  low- and intermediate-mass models and H and He core burning massive star models
+  are included. Convective O-C shell mergers in some stellar models lead to the strong
+  production of odd-Z elements P, Cl, K, and Sc. In AGB models with hot dredge-up,
+  the convective boundary mixing efficiency is reduced to accommodate for its energetic
+  feedback. In both low-mass and massive star models at the lowest metallicity, H-ingestion
+  events are observed and lead to i-process nucleosynthesis and substantial 15N production.
+  Complete yield data tables, derived data products and online analytic data access
+  are provided.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.480..538R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1709.08677
+author: Ritter, C. and Herwig, F. and Jones, S. and Pignatari, M. and Fryer, C. and
+  Hirschi, R.
+author_list:
+- family: Ritter
+  given: C.
+- family: Herwig
+  given: F.
+- family: Jones
+  given: S.
+- family: Pignatari
+  given: M.
+- family: Fryer
+  given: C.
+- family: Hirschi
+  given: R.
+date-added: 2018-08-27 15:22:23 -0400
+date-modified: 2018-08-27 15:22:26 -0400
+doi: 10.1093/mnras/sty1729
+eprint: '1709.08677'
+journal: \mnras
+keywords: 'stars: abundances, stars: evolution, stars: interiors'
+month: October
+pages: 538--571
+papis_id: 1b294a4cbaf041b2a31c86faa9cfc0d2
+primaryclass: astro-ph.SR
+ref: ritter.c.2018
+title: NuGrid stellar data set - II. Stellar yields from H to Bi for stellar models
+  with M$_ZAMS$ = 1-25 M\$_&sun;\$ and Z = 0.0001-0.02
+type: article
+volume: '480'
+year: '2018'

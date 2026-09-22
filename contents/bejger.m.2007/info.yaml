@@ -1,0 +1,41 @@
+abstract: 'Aims:Recent observations of XTE J1739-285 suggest that it contains a neutron
+  star rotating at 1122 Hz. Such rotation imposes bounds on the structure of neutron
+  star in XTE J1739-285. These bounds may be used to constrain poorly known equation
+  of state of dense matter at densities \gtrapprox{} 1015~g~cm-3.  Methods: One-parameter
+  families of stationary configurations rotating rigidly at 1122 Hz are constructed,
+  using a precise 2D code solving Einstein equations. Hydrostatic equilibrium solutions
+  are tested for stability with respect to axi-symmetric perturbations. A set of ten
+  diverse EOSs of neutron stars is considered. Hypothetical strange stars are also
+  studied. Results: For each EOS, the family of possible neutron star models is limited
+  by the mass shedding limit, corresponding to maximum allowed equatorial radius,
+  R\_max, and by the instability with respect to the axi-symmetric perturbations,
+  reached at the minimum allowed equatorial radius, R\_min. We get R\_min~= 10-13
+  km, and R\_max~= 16-18 km, with allowed mass 1.4-2.3~M\_\&sun;. Allowed stars with
+  hyperonic or exotic-phase core are supramassive and have a very narrow mass range.
+  Quark star with accreted crust might be allowed, provided such a model is able to
+  reproduce X-ray bursts from XTE J1739-285.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...464L..49B
+arxivurl: http://arxiv.org/abs/astro-ph/0612216
+author: Bejger, M. and Haensel, P. and Zdunik, J. L.
+author_list:
+- family: Bejger
+  given: M.
+- family: Haensel
+  given: P.
+- family: Zdunik
+  given: J. L.
+date-added: 2017-08-11 06:17:00 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1051/0004-6361:20066902
+eprint: astro-ph/0612216
+journal: \aap
+keywords: 'dense matter, equation of state, stars: neutron, stars: rotation'
+month: March
+pages: L49-L52
+papis_id: 7120595d04119cd700b2ad3a4d1ce385
+ref: bejger.m.2007
+title: Rotation at 1122 Hz and the neutron star structure
+type: article
+volume: '464'
+year: '2007'

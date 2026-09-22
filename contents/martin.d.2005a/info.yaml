@@ -1,0 +1,85 @@
+abstract: We have derived the bivariate luminosity function for the far-ultraviolet
+  (1530 {\AA}) and far-infrared (60 mum). We use matched GALEX and IRAS data, and
+  redshifts from NED and the PSCz survey. We have derived a total star formation luminosity
+  function phi(Ltot), with Ltot=LFUV+LFIR. Using these, we determined the cosmic ``star
+  formation rate'' (SFR) function and density for the local universe. The total SFR
+  function phi(Ltot) is fitted very well by a lognormal distribution over 5 decades
+  of luminosity. We find that the bivariate luminosity function phi(LFUV,LFIR) shows
+  a bimodal behavior, with LFIR tracking LFUV for Ltot<1010 Lsolar and LFUV saturating
+  at ~1010 Lsolar, while Ltot~LFIR for higher luminosities. We also calculate the
+  SFR density and compare it with other measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...619L..59M
+arxivurl: http://arxiv.org/abs/astro-ph/0411307
+author: Martin, D. C. and Seibert, M. and Buat, V. and Iglesias-Páramo, J. and Barlow,
+  T. A. and Bianchi, L. and Byun, Y.-I. and Donas, J. and Forster, K. and Friedman,
+  P. G. and Heckman, T. M. and Jelinsky, P. N. and Lee, Y.-W. and Madore, B. F. and
+  Malina, R. F. and Milliard, B. and Morrissey, P. F. and Neff, S. G. and Rich, R.
+  M. and Schiminovich, D. and Siegmund, O. H. W. and Small, T. and Szalay, A. S. and
+  Welsh, B. Y. and Wyder, T. K.
+author_list:
+- family: Martin
+  given: D. C.
+- family: Seibert
+  given: M.
+- family: Buat
+  given: V.
+- family: Iglesias-Páramo
+  given: J.
+- family: Barlow
+  given: T. A.
+- family: Bianchi
+  given: L.
+- family: Byun
+  given: Y.-I.
+- family: Donas
+  given: J.
+- family: Forster
+  given: K.
+- family: Friedman
+  given: P. G.
+- family: Heckman
+  given: T. M.
+- family: Jelinsky
+  given: P. N.
+- family: Lee
+  given: Y.-W.
+- family: Madore
+  given: B. F.
+- family: Malina
+  given: R. F.
+- family: Milliard
+  given: B.
+- family: Morrissey
+  given: P. F.
+- family: Neff
+  given: S. G.
+- family: Rich
+  given: R. M.
+- family: Schiminovich
+  given: D.
+- family: Siegmund
+  given: O. H. W.
+- family: Small
+  given: T.
+- family: Szalay
+  given: A. S.
+- family: Welsh
+  given: B. Y.
+- family: Wyder
+  given: T. K.
+date-added: 2017-08-11 03:25:38 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/425496
+eprint: astro-ph/0411307
+journal: \apjl
+keywords: 'Galaxies: Evolution, Galaxies: Fundamental Parameters, Galaxies: Luminosity
+  Function, Mass Function, Infrared: Galaxies, Ultraviolet: Galaxies'
+month: January
+pages: L59-L62
+papis_id: bd56076d649e9acf8b94d23e43e3bf5c
+ref: martin.d.2005a
+title: The Star Formation Rate Function of the Local Universe
+type: article
+volume: '619'
+year: '2005'

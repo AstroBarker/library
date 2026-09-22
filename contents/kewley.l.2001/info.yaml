@@ -1,0 +1,53 @@
+abstract: We have modeled a large sample of infrared starburst galaxies using both
+  the PEGASE v2.0 and STARBURST99 codes to generate the spectral energy distribution
+  (SED) of the young star clusters. PEGASE utilizes the Padova group tracks, while
+  STARBURST99 uses the Geneva group tracks, allowing comparison between the two. We
+  used our MAPPINGS III code to compute photoionization models that include a self-consistent
+  treatment of dust physics and chemical depletion. We use the standard optical diagnostic
+  diagrams as indicators of the hardness of the EUV radiation field in these galaxies.
+  These diagnostic diagrams are most sensitive to the spectral index of the ionizing
+  radiation field in the 1-4 ryd region. We find that warm infrared starburst galaxies
+  contain a relatively hard EUV field in this region. The PEGASE ionizing stellar
+  continuum is harder in the 1-4 ryd range than that of STARBURST99. As the spectrum
+  in this regime is dominated by emission from Wolf-Rayet (W-R) stars, this discrepancy
+  is most likely due to the differences in stellar atmosphere models used for the
+  W-R stars. The PEGASE models use the Clegg \& Middlemass planetary nebula nuclei
+  (PNN) atmosphere models for the W-R stars, whereas the STARBURST99 models use the
+  Schmutz, Leitherer, \& Gruenwald W-R atmosphere models. We believe that the Schmutz
+  et al. atmospheres are more applicable to the starburst galaxies in our sample;
+  however, they do not produce the hard EUV field in the 1-4 ryd region required by
+  our observations. The inclusion of continuum metal blanketing in the models may
+  be one solution. Supernova remnant (SNR) shock modeling shows that the contribution
+  by mechanical energy from SNRs to the photoionization models is <<20\%. The models
+  presented here are used to derive a new theoretical classification scheme for starbursts
+  and active galactic nucleus (AGN) galaxies based on the optical diagnostic diagrams.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...556..121K
+arxivurl: http://arxiv.org/abs/astro-ph/0106324
+author: Kewley, L. J. and Dopita, M. A. and Sutherland, R. S. and Heisler, C. A. and
+  Trevena, J.
+author_list:
+- family: Kewley
+  given: L. J.
+- family: Dopita
+  given: M. A.
+- family: Sutherland
+  given: R. S.
+- family: Heisler
+  given: C. A.
+- family: Trevena
+  given: J.
+date-added: 2017-08-11 06:24:07 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321545
+eprint: astro-ph/0106324
+journal: \apj
+keywords: 'Galaxies: Starburst, Radiation Mechanisms: Thermal'
+month: July
+pages: 121--140
+papis_id: 3f2d24b771036264500c025ef418d7be
+ref: kewley.l.2001
+title: Theoretical Modeling of Starburst Galaxies
+type: article
+volume: '556'
+year: '2001'

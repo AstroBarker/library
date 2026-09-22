@@ -1,0 +1,41 @@
+abstract: 'We introduce a new computational method for embedding Lagrangian sink particles
+  into a Eulerian calculation. Simulations of gravitational collapse or accretion
+  generally produce regions whose density greatly exceeds the mean density in the
+  simulation. These dense regions require extremely small time steps to maintain numerical
+  stability. Smoothed particle hydrodynamics (SPH) codes approach this problem by
+  introducing nongaseous, accreting sink particles, and Eulerian codes may introduce
+  fixed sink cells. However, until now there has been no approach that allows Eulerian
+  codes to follow accretion onto multiple, moving objects. We have removed that limitation
+  by extending the sink particle capability to Eulerian hydrodynamics codes. We have
+  tested this new method and found that it produces excellent agreement with analytic
+  solutions. In analyzing our sink particle method, we present a method for evaluating
+  the disk viscosity parameter alpha due to the numerical viscosity of a hydrodynamics
+  code and use it to compute alpha for our Cartesian adaptive mesh refinement (AMR)
+  code. We also present a simple application of this new method: studying the transition
+  from Bondi to Bondi-Hoyle accretion that occurs when a shock hits a particle undergoing
+  Bondi accretion.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...611..399K
+arxivurl: http://arxiv.org/abs/astro-ph/0312612
+author: Krumholz, M. R. and McKee, C. F. and Klein, R. I.
+author_list:
+- family: Krumholz
+  given: M. R.
+- family: McKee
+  given: C. F.
+- family: Klein
+  given: R. I.
+date-added: 2017-08-10 15:36:48 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421935
+eprint: astro-ph/0312612
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Hydrodynamics, Methods: Numerical, Shock Waves'
+month: August
+pages: 399--412
+papis_id: eadf122a7610a2fb249faa05cdd3d16d
+ref: krumholz.m.2004
+title: Embedding Lagrangian Sink Particles in Eulerian Grids
+type: article
+volume: '611'
+year: '2004'

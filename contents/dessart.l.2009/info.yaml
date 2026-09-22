@@ -1,0 +1,53 @@
+abstract: We present VULCAN/2D multigroup flux-limited-diffusion radiation-hydrodynamics
+  simulations of binary neutron star mergers, using the Shen equation of state, covering
+  gsim 100 ms, and starting from azimuthal-averaged two-dimensional slices obtained
+  from three-dimensional smooth-particle-hydrodynamics simulations of Rosswog \& Price
+  for 1.4 M sun(baryonic) neutron stars with no initial spins, co-rotating spins,
+  or counter-rotating spins. Snapshots are post-processed at 10 ms intervals with
+  a multiangle neutrino-transport solver. We find polar-enhanced neutrino luminosities,
+  dominated by {\bar nu}\_e and "numu" neutrinos at the peak, although nu e  emission
+  may be stronger at late times. We obtain typical peak neutrino energies for nu e
+  , {\bar nu}\_e, and "numu" of ~ 12, ~ 16, and ~ 22 MeV, respectively. The supermassive
+  neutron star (SMNS) formed from the merger has a cooling timescale of lsim 1 s.
+  Charge-current neutrino reactions lead to the formation of a thermally driven bipolar
+  wind with <\dot{M}> \texttildelow{} 10-3 M sun s-1 and baryon-loading in the polar
+  regions, preventing any production of a gamma-ray burst prior to black hole formation.
+  The large budget of rotational free energy suggests that magneto-rotational effects
+  could produce a much-greater polar mass loss. We estimate that lsim 10-4 M sun of
+  material with an electron fraction in the range 0.1-0.2 becomes unbound during this
+  SMNS phase as a result of neutrino heating. We present a new formalism to compute
+  the nu\_i{\bar nu}\_i annihilation rate based on moments of the neutrino-specific
+  intensity computed with our multiangle solver. Cumulative annihilation rates, which
+  decay as ~t -1.8, decrease over our 100 ms window from a few \texttimes{}1050 to
+  ~ 1049 erg s-1, equivalent to a few \texttimes{}1054 to ~ 1053 e-e+ pairs per second.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...690.1681D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.4380
+author: Dessart, L. and Ott, C. D. and Burrows, A. and Rosswog, S. and Livne, E.
+author_list:
+- family: Dessart
+  given: L.
+- family: Ott
+  given: C. D.
+- family: Burrows
+  given: A.
+- family: Rosswog
+  given: S.
+- family: Livne
+  given: E.
+date-added: 2017-08-10 17:52:40 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/690/2/1681
+eprint: '0806.4380'
+journal: \apj
+keywords: 'gamma rays: bursts, hydrodynamics, neutrinos, stars: neutron, stars: rotation,
+  supernovae: general'
+month: January
+pages: 1681--1705
+papis_id: 26fbc36f015d3530f7b7c7ffd5e374ec
+ref: dessart.l.2009
+title: Neutrino Signatures and the Neutrino-Driven Wind in Binary Neutron Star Mergers
+type: article
+volume: '690'
+year: '2009'

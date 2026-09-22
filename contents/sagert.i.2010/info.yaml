@@ -1,0 +1,54 @@
+abstract: Explosive astrophysical systems, such as supernovae or compact star binary
+  mergers, provide conditions where strange quark matter can appear. The high degree
+  of isospin asymmetry and temperatures of several MeV in such systems may cause a
+  transition to the quark phase already around saturation density. Observable signals
+  from the appearance of quark matter can be predicted and studied in astrophysical
+  simulations. As input in such simulations, an equation of state with an integrated
+  quark matter phase transition for a large temperature, density and proton fraction
+  range is required. Additionally, restrictions from heavy ion data and pulsar observation
+  must be considered. In this work we present such an approach. We implement a quark
+  matter phase transition in a hadronic equation of state widely used for astrophysical
+  simulations and discuss its compatibility with heavy ion collisions and pulsar data.
+  Furthermore, we review the recently studied implications of the QCD phase transition
+  during the early post-bounce evolution of core-collapse supernovae and introduce
+  the effects from strong interactions to increase the maximum mass of hybrid stars.
+  In the MIT bag model, together with the strange quark mass and the bag constant,
+  the strong coupling constant alphas provides a parameter to set the beginning and
+  extension of the quark phase and with this the mass and radius of hybrid stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010JPhG...37i4064S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.2320
+author: Sagert, I. and Fischer, T. and Hempel, M. and Pagliara, G. and Schaffner-Bielich,
+  J. and Thielemann, F.-K. and Liebendörfer, M.
+author_list:
+- family: Sagert
+  given: I.
+- family: Fischer
+  given: T.
+- family: Hempel
+  given: M.
+- family: Pagliara
+  given: G.
+- family: Schaffner-Bielich
+  given: J.
+- family: Thielemann
+  given: F.-K.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-11 02:50:57 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0954-3899/37/9/094064
+eid: 094064
+eprint: '1003.2320'
+journal: Journal of Physics G Nuclear Physics
+month: September
+number: '9'
+pages: 094064
+papis_id: bf7567883382e342778817b74531edab
+primaryclass: astro-ph.HE
+ref: sagert.i.2010
+title: Strange quark matter in explosive astrophysical systems
+type: article
+volume: '37'
+year: '2010'

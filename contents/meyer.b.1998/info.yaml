@@ -1,0 +1,69 @@
+abstract: 'Our first purpose is construction of a formal theory of quasi-equilibrium.
+  We define quasi-equilibrium, in its simplest form, as statistical equilibrium in
+  the face of an extra constraint on the nuclear populations. We show that the extra
+  constraint introduces a uniform translation of the chemical potentials for the heavy
+  nuclei and derive the abundances in terms of it. We then generalize this theory
+  to accommodate any number of constraints. For nucleosynthesis, the most important
+  constraint occurs when the total number of heavy nuclei Yh within a system of nuclei
+  differs from the number that would exist in nuclear statistical equilibrium (NSE)
+  under the same conditions of density and temperature. Three situations of high relevance
+  are (1) silicon burning, wherein the total number of nuclei exceeds but asymptotically
+  approaches the NSE number; (2) alpha-rich freezeout expansions of high entropy,
+  wherein Yh is less than the NSE number; and (3) expansions from high temperature
+  of low-entropy matter, in which Yh exceeds the NSE number. These are of importance,
+  respectively, within (1) supernova shells, (2) Type II supernova cores modestly
+  outside the mass cut, and (3) Type Ia supernova cores in near-Chandrasekhar-mass
+  events.  Our next goal is the detailed analysis of situation (2), the high-entropy
+  alpha-rich neutron-rich freezeout. We employ a nuclear reaction network, which we
+  integrate, to compare the actual abundances with those obtained at the same thermal
+  conditions by the quasi-equilibrium (QSE) theory and by the NSE theory. For this
+  detailed comparison, we choose a high-entropy photon-to-nucleon ratio phi = 6.8,
+  for which we conduct expansions at initial bulk neutron excess eta0 = 0.10. We demonstrate
+  that the abundance populations, as they begin expansion and cooling from temperature
+  10 \texttimes{} 109 K, are characterized by three distinct phases: (1) NSE, (2)
+  QSE having Yh smaller than the NSE value, and (3) final reaction rate-dependent
+  freezeout modifications of the QSE. We demonstrate that the true final abundances
+  are well approximated by the QSE distribution near the freezeout temperature T9f
+  = 4.0. During the expansion, the QSE distribution changes shape continuously in
+  ways that are independent of the reaction cross sections of the heavy nuclei with
+  free light particles. It is this changing shape, rather than ``nuclear flows,''''
+  that establish the abundance pattern. The abundance pattern is actually determined
+  by the parameter Yh and the degree to which it differs from the NSE value owing
+  to the slowness with which light particles can be assembled into heavy nuclei (A
+  >= 12). We also detail the nature and magnitude of the freezeout corrections to
+  the QSE distribution. The entire distribution depends less upon the values of heavy-element
+  cross sections than has been heretofore thought.  Our third goal is to survey the
+  alpha-rich freezeout. We do this by less complete analysis of nine different expansions
+  determined by the matrix of three distinct entropies (phi = 1.7, 6.8, and 17) and
+  three distinct initial neutron excesses (eta0 = 0.003, 0.10, and 0.1667). The trends
+  are easily comprehended in terms of the concept of quasi-equilibrium, whereas they
+  are not understandable in terms of either NSE or in terms of reaction rates. This
+  secures for the QSE concept a major diagnostic capability within nucleosynthesis
+  theory. We delineate the key trends and also remark on the ways that order arises
+  from disorder in this complex system. We conclude with a discussion of how such
+  systems assemble heavy nuclei.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...498..808M
+author: Meyer, B. S. and Krishnan, T. D. and Clayton, D. D.
+author_list:
+- family: Meyer
+  given: B. S.
+- family: Krishnan
+  given: T. D.
+- family: Clayton
+  given: D. D.
+date-added: 2017-08-10 19:53:08 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305562
+journal: \apj
+keywords: 'NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS: SUPERNOVAE: GENERAL,
+  Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Supernovae: General'
+month: May
+pages: 808--830
+papis_id: 8d6c7303a85f4dd0e01b35211d304879
+ref: meyer.b.1998
+title: Theory of Quasi-Equilibrium Nucleosynthesis and Applications to Matter Expanding
+  from High Temperature and Density
+type: article
+volume: '498'
+year: '1998'

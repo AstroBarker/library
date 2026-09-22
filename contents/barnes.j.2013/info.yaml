@@ -1,0 +1,48 @@
+abstract: The coalescence of compact objects is a promising astrophysical source of
+  detectable gravitational wave signals. The ejection of r-process material from such
+  mergers may lead to a radioactively powered electromagnetic counterpart signal which,
+  if discovered, would enhance the science returns. As very little is known about
+  the optical properties of heavy r-process elements, previous light-curve models
+  have adopted opacities similar to those of iron group elements. Here we consider
+  the effect of heavier elements, particularly the lanthanides, which increase the
+  ejecta opacity by several orders of magnitude. We include these higher opacities
+  in time-dependent, multi-wavelength radiative transport calculations to predict
+  the broadband light curves of one-dimensional models over a range of parameters
+  (ejecta masses ~10-3-10-1 M \&sun; and velocities ~0.1-0.3 c). We find that the
+  higher opacities lead to much longer duration light curves which can last a week
+  or more. The emission is shifted toward the infrared bands due to strong optical
+  line blanketing, and the colors at later times are representative of a blackbody
+  near the recombination temperature of the lanthanides (T ~ 2500 K). We further consider
+  the case in which a second mass outflow, composed of 56Ni, is ejected from a disk
+  wind, and show that the net result is a distinctive two component spectral energy
+  distribution, with a bright optical peak due to 56Ni and an infrared peak due to
+  r-process ejecta. We briefly consider the prospects for detection and identification
+  of these transients.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775...18B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.5787
+author: Barnes, J. and Kasen, D.
+author_list:
+- family: Barnes
+  given: J.
+- family: Kasen
+  given: D.
+date-added: 2017-08-10 15:56:57 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/775/1/18
+eid: '18'
+eprint: '1303.5787'
+journal: \apj
+keywords: 'atomic data, nuclear reactions, nucleosynthesis, abundances, opacity, radiative
+  transfer, stars: neutron, supernovae: general'
+month: September
+pages: '18'
+papis_id: 039fede8f80a455e17fa7d5b56da7bf8
+primaryclass: astro-ph.HE
+ref: barnes.j.2013
+title: Effect of a High Opacity on the Light Curves of Radioactively Powered Transients
+  from Compact Object Mergers
+type: article
+volume: '775'
+year: '2013'

@@ -1,0 +1,81 @@
+abstract: In recent years, many different numerical evolution schemes for Einstein's
+  equations have been proposed to address stability and accuracy problems that have
+  plagued the numerical relativity community for decades. Some of these approaches
+  have been tested on different spacetimes, and conclusions have been drawn based
+  on these tests. However, differences in results originate from many sources, including
+  not only formulations of the equations, but also gauges, boundary conditions, numerical
+  methods and so on. We propose to build up a suite of standardized testbeds for comparing
+  approaches to the numerical evolution of Einstein's equations that are designed
+  to both probe their strengths and weaknesses and to separate out different effects,
+  and their causes, seen in the results. We discuss general design principles of suitable
+  testbeds, and we present an initial round of simple tests with periodic boundary
+  conditions. This is a pivotal first step towards building a suite of testbeds to
+  serve the numerical relativists and researchers from related fields who wish to
+  assess the capabilities of numerical relativity codes. We present some examples
+  of how these tests can be quite effective in revealing various limitations of different
+  approaches, and illustrating their differences. The tests are presently limited
+  to vacuum spacetimes, can be run on modest computational resources and can be used
+  with many different approaches used in the relativity community.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004CQGra..21..589A
+author: Alcubierre, M. and Allen, G. and Bona, C. and Fiske, D. and Goodale, T. and
+  Guzmán, F. S. and Hawke, I. and Hawley, S. H. and Husa, S. and Koppitz, M. and Lechner,
+  C. and Pollney, D. and Rideout, D. and Salgado, M. and Schnetter, E. and Seidel,
+  E. and Shinkai, H.-a. and Shoemaker, D. and Szilágyi, B. and Takahashi, R. and Winicour,
+  J.
+author_list:
+- family: Alcubierre
+  given: M.
+- family: Allen
+  given: G.
+- family: Bona
+  given: C.
+- family: Fiske
+  given: D.
+- family: Goodale
+  given: T.
+- family: Guzmán
+  given: F. S.
+- family: Hawke
+  given: I.
+- family: Hawley
+  given: S. H.
+- family: Husa
+  given: S.
+- family: Koppitz
+  given: M.
+- family: Lechner
+  given: C.
+- family: Pollney
+  given: D.
+- family: Rideout
+  given: D.
+- family: Salgado
+  given: M.
+- family: Schnetter
+  given: E.
+- family: Seidel
+  given: E.
+- family: Shinkai
+  given: H.-a.
+- family: Shoemaker
+  given: D.
+- family: Szilágyi
+  given: B.
+- family: Takahashi
+  given: R.
+- family: Winicour
+  given: J.
+date-added: 2017-08-11 06:17:24 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1088/0264-9381/21/2/019
+eprint: gr-qc/0305023
+journal: Classical and Quantum Gravity
+month: January
+pages: 589--613
+papis_id: 0f880f4d44aa769040115057714ab0f9
+ref: alcubierre.m.2004
+title: Towards standard testbeds for numerical relativity
+type: article
+volume: '21'
+year: '2004'

@@ -1,0 +1,44 @@
+abstract: We present an analysis of the hydrodynamic stability of a cold slab bounded
+  by two accretion shocks. Previous numerical work (Hunter et al. 1986; Stevens, Blondin,
+  \& Pollack 1992) has shown that when the Mach number of the shock is large, the
+  slab is unstable. Here we show that to linear order both the bending and breathing
+  modes of such a slab are stable, with a real frequency of cs k, where k is the transverse
+  wavenumber. However, nonlinear effects will tend to soften the restoring forces
+  for bending modes, and when the slab displacement is comparable to its thickness
+  this gives rise to a nonlinear instability. The growth rate of the instability,
+  above this threshold but for small bending angles, is approximately cs k(k eta)1/2,
+  where eta is the slab displacement. When the bending angle is large (i.e., k eta
+  of order unity) the slab will contain a local vorticity comparable to cs/L, where
+  L is the slab thickness. We discuss the relationship between this work and previous
+  studies of shock instabilities, including the implications of this work for gravitational
+  instabilities of slabs. Finally, we examine the cases of a decelerating slab bounded
+  by a single shock and a stationary slab bounded on one side by thermal pressure.
+  The latter case is stable, but appears to be a special case. The former case is
+  subject to a nonlinear overstability driven by deceleration effects. We conclude
+  that shock-bounded slabs with a high-density compression ratio generically produce
+  substructure with a strong local shear, a bulk velocity dispersion like the sound
+  speed in the cold layer, and a characteristic scale comparable to the slab thickness.
+  We discuss the implications of this work for cosmology and the interstellar medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...428..186V
+arxivurl: http://arxiv.org/abs/astro-ph/9306025
+author: Vishniac, E. T.
+author_list:
+- family: Vishniac
+  given: E. T.
+date-added: 2017-08-11 01:40:06 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174231
+eprint: astro-ph/9306025
+journal: \apj
+keywords: Cosmology, Hydrodynamics, Interstellar Gas, Nonlinearity, Normal Shock Waves,
+  Slabs, Stability, Astronomical Models, Dimensional Analysis, Galactic Evolution,
+  Stellar Evolution, Vorticity
+month: June
+pages: 186--208
+papis_id: 28ffebfca84e75d407985efbd841bdce
+ref: vishniac.e.1994
+title: Nonlinear instabilities in shock-bounded slabs
+type: article
+volume: '428'
+year: '1994'

@@ -1,0 +1,70 @@
+abstract: The slow neutron capture process in massive stars (weak s process) produces
+  most of the s-process isotopes between iron and strontium. Neutrons are provided
+  by the 22Ne(alpha,n)25Mg reaction, which is activated at the end of the convective
+  He-burning core and in the subsequent convective C-burning shell. The s-process-rich
+  material in the supernova ejecta carries the signature of these two phases. In the
+  past years, new measurements of neutron capture cross sections of isotopes beyond
+  iron significantly changed the predicted weak s-process distribution. The reason
+  is that the variation of the Maxwellian-averaged cross sections (MACS) is propagated
+  to heavier isotopes along the s path. In the light of these results, we present
+  updated nucleosynthesis calculations for a 25 M sun star of Population I (solar
+  metallicity) in convective He-burning core and convective C-burning shell conditions.
+  In comparison with previous simulations based on the Bao et al. compilation, the
+  new measurement of neutron capture cross sections leads to an increase of s-process
+  yields from nickel up to selenium. The variation of the cross section of one isotope
+  along the s-process path is propagated to heavier isotopes, where the propagation
+  efficiency is higher for low cross sections. New 74Ge, 75As, and 78Se MACS result
+  in a higher production of germanium, arsenic, and selenium, thereby reducing the
+  s-process yields of heavier elements by propagation. Results are reported for the
+  He core and for the C shell. In shell C-burning, the s-process nucleosynthesis is
+  more uncertain than in the He core, due to higher MACS uncertainties at higher temperatures.
+  We also analyze the impact of using the new lower solar abundances for CNO isotopes
+  on the s-process predictions, where CNO is the source of 22Ne, and we show that
+  beyond Zn this is affecting the s-process yields more than nuclear or stellar model
+  uncertainties considered in this paper. In particular, using the new updated initial
+  composition, we obtain a high s-process production (overproduction higher than 16O,
+  ~100) for Cu, Ga, Ge, and As. Using the older abundances by Anders \& Grevesse,
+  also Se, Br, Kr, and Rb are efficiently produced. Our results have important implications
+  in explaining the origin of copper in the solar abundance distribution, pointing
+  to a prevailing contribution from the weak s-process in agreement with spectroscopic
+  observations and Galactic chemical evolution calculations. Because of the improvement
+  due to the new MACS for nickel and copper isotopes, the nucleosynthesis of copper
+  is less affected by nuclear uncertainties compared to heavier s-process elements.
+  An experimental determination of the 63Ni MACS is required for a further improvement
+  of the abundance prediction of copper. The available spectroscopic observations
+  of germanium and gallium in stars are also discussed, where most of the cosmic abundances
+  of these elements derives from the s-process in massive stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...710.1557P
+author: Pignatari, M. and Gallino, R. and Heil, M. and Wiescher, M. and Käppeler,
+  F. and Herwig, F. and Bisterzo, S.
+author_list:
+- family: Pignatari
+  given: M.
+- family: Gallino
+  given: R.
+- family: Heil
+  given: M.
+- family: Wiescher
+  given: M.
+- family: Käppeler
+  given: F.
+- family: Herwig
+  given: F.
+- family: Bisterzo
+  given: S.
+date-added: 2017-08-10 20:33:25 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/710/2/1557
+groups: Nucleosynthesis
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, stars: abundances'
+month: February
+pages: 1557--1577
+papis_id: 3abe13beb30c09eecd3087221bc84b92
+ref: pignatari.m.2010
+title: The Weak s-Process in Massive Stars and its Dependence on the Neutron Capture
+  Cross Sections
+type: article
+volume: '710'
+year: '2010'

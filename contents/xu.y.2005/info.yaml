@@ -1,0 +1,57 @@
+abstract: We present a Chandra ACIS study of the early-type galaxy NGC 4552. We detect
+  47 X-ray point sources, most of which are likely low-mass X-ray binaries (LMXBs),
+  within four effective radii (Re). The brightest X-ray source coincides with the
+  optical, UV, and radio center of the galaxy and shows variability on >1 hr timescales,
+  indicating the possible existence of a low-luminosity active galactic nucleus (AGN).
+  The 46 off-center sources and the unresolved point sources contribute about 29\%
+  and 20\% to the total luminosity of the galaxy, respectively. We find that after
+  correcting for the incompleteness at the low-luminosity end, the observed cumulative
+  X-ray luminosity function (XLF) of the off-center sources is best fitted by a broken
+  power-law model with a break at Lb=4.4+2.0-1.4\texttimes{}1038 ergs s-1. We identified
+  210 globular cluster (GC) candidates in a HST WFPC2 optical image of the galaxy's
+  central region. Of the 25 off-center LMXBs that fall within the WFPC2 field of view,
+  10 sources are coincident with a GC. Thus, the fraction of the GCs hosting bright
+  LMXBs and the fraction of the LMXBs associated with GCs are 4.8\% and 40\%, respectively.
+  In the V and I bands, the GCs hosting bright LMXBs are typically 1-2 mag brighter
+  than the GCs with no detected LMXBs. There are about 1.9+/-0.4 times as many LMXBs
+  in the red, metal-rich GCs as there are in the blue, metal-poor ones. We find no
+  obvious difference between the luminosity distributions of LMXBs in GCs and in the
+  field, but the cumulative spectrum of the LMXBs in GCs tends to be softer than that
+  of the LMXBs in field. We detected three X-ray sources that have isotropic luminosities
+  larger than 1039 ergs s-1. Only one of these is located in the joint Chandra-HST
+  field and is found to be associated with a GC. By studying its ACIS spectra we infer
+  that the this may be a candidate black hole system with a mass of 15-135 Msolar.
+  One of the other sources with a luminosity brighter than 1039 ergs s-1 reveals temporal
+  variations in brightness on timescales greater than 1 hr.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...631..809X
+arxivurl: http://arxiv.org/abs/astro-ph/0506258
+author: Xu, Y. and Xu, H. and Zhang, Z. and Kundu, A. and Wang, Y. and Wu, X.-P.
+author_list:
+- family: Xu
+  given: Y.
+- family: Xu
+  given: H.
+- family: Zhang
+  given: Z.
+- family: Kundu
+  given: A.
+- family: Wang
+  given: Y.
+- family: Wu
+  given: X.-P.
+date-added: 2017-08-11 06:29:12 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/432636
+eprint: astro-ph/0506258
+journal: \apj
+keywords: 'Stars: Binaries: Close, Galaxies: Elliptical and Lenticular, cD, galaxies:
+  individual (NGC 4552 (M89)), X-Rays: Binaries, X-Rays: Galaxies, X-Rays: Stars'
+month: October
+pages: 809--819
+papis_id: 7980e4ea0d11ffe494892700b25099fb
+ref: xu.y.2005
+title: Chandra Study of X-Ray Point Sources in the Early-Type Galaxy NGC 4552 (M89)
+type: article
+volume: '631'
+year: '2005'

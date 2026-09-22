@@ -1,0 +1,58 @@
+abstract: 'Context. Knowing accurate lead abundances of metal-poor stars provides
+  constraints on the Pb production mechanisms in the early Galaxy. Accurately deriving
+  thorium abundances permits a nucleo-chronometric age determination of the star.  Aims:
+  We aim to improve the calculation of the Pb i and Th ii lines in stellar atmospheres
+  based on non-local thermodynamic equilibrium (non-LTE) line formation, and to evaluate
+  the influence of departures from LTE on Pb and Th abundance determinations for a
+  range of stellar parameters by varying the metallicity from the solar value down
+  to [Fe/H] = -3.  Methods: We present comprehensive model atoms for Pb i and Th ii
+  and describe calculations of the Pb i energy levels and oscillator strengths.  Results:
+  The main non-LTE mechanism for Pb i is the ultraviolet overionization. We find that
+  non-LTE leads to systematically depleted total absorption in the Pb i lines and
+  accordingly, positive abundance corrections. The departures from LTE increase with
+  decreasing metallicity. Using the semi-empirical model atmosphere HM74, we determine
+  the lead non-LTE abundance for the Sun to be log \ensuremath{\epsilon}Pb, \&sun;  =
+  2.09, in agreement with the meteoritic lead abundance. We revised the Pb and Eu
+  abundances of the two strongly r-process enhanced stars CS 31082-001 and HE 1523-0901
+  and the metal-poor stellar sample. Our new results provide strong evidence of universal
+  Pb-to-Eu relative r-process yields during the course of Galactic evolution. The
+  stars in the metallicity range -2.3 < [Fe/H] < -1.4 have Pb/Eu abundance ratios
+  that are, on average, 0.51 dex higher than those of strongly r-process enhanced
+  stars. We conclude that the s-process production of lead started as early as the
+  time when Galactic metallicity had reached [Fe/H] = -2.3. The average Pb/Eu abundance
+  ratio of the mildly metal-poor stars, with -1.4 <= [Fe/H] <= -0.59, is very close
+  to the corresponding Solar System value, in line with the theoretical predictions
+  that AGB stars with [Fe/H] ~= -1 provided the largest contribution to the solar
+  abundance of s-nuclei of lead. The departures from LTE for Th ii are caused by the
+  pumping transitions from the levels with Eexc < 1 eV. Non-LTE leads to weakened
+  Th ii lines and positive abundance corrections. Overall, the abundance correction
+  does not exceed 0.2 dex when collisions with H i atoms are taken into account in
+  statistical equilibrium calculations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...540A..98M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.2630
+author: Mashonkina, L. and Ryabtsev, A. and Frebel, A.
+author_list:
+- family: Mashonkina
+  given: L.
+- family: Ryabtsev
+  given: A.
+- family: Frebel
+  given: A.
+date-added: 2017-08-11 07:34:44 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1051/0004-6361/201218790
+eid: A98
+eprint: '1202.2630'
+journal: \aap
+keywords: 'line: formation, nuclear reactions, nucleosynthesis, abundances, Sun: abundances,
+  stars: abundances, stars: atmospheres'
+month: April
+pages: A98
+papis_id: 636778da4d10df5aab946f33ea4a2a39
+ref: mashonkina.l.2012
+title: Non-LTE effects on the lead and thorium abundance determinations for cool stars
+type: article
+volume: '540'
+year: '2012'

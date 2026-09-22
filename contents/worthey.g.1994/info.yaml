@@ -1,0 +1,55 @@
+abstract: The construction of detailed models for intermediate and old stellar populations
+  is described. Input parameters include metallicity (-2 less than (Fe/H) less than
+  0.5), single-burst age (between 1.5 and 17 Gyr), and initial mass function (IMF)
+  exponent. Quantities output include broadband magnitudes, spectral energy distributions,
+  surface brightness fluctuation magnitudes, and a suite of 21 absorption feature
+  indices. The models are checked against a wide variety of available observations.
+  Examinations of model output yield the following conclusions. (1) If the percentage
+  change delta age/delta Z approximately equals 3/2 for two populations, they will
+  appear almost identical in most indices. A few indices break this degeneracy by
+  being either more abundance sensitive (Fe4668, Fe5015, Fe5709, and Fe5782) or more
+  age sensitive (G4300, H beta, and presumably higher order Balmer lines) than usual.
+  (2) Present uncertainties in stellar evolution are of the same magnitude as the
+  effects of IMF and Y in the indices studied. (3) Changes in abundance ratios (like
+  (Mg/Fe)) are predicted to be readily apparent in the spectra of old stellar populations.
+  (4) The I-band flux of a stellar population is predicted to be nearly independent
+  of metallicity and only modestly sensitive to age. The I band is therefore recommended
+  for standard candle work or studies of M/L in galaxies. Other conclusions stem from
+  this work. (1) Intercomparison of models and observations of two TiO indices seem
+  to indicate variation of the (V/Ti) ratio among galaxies, but it is not clear how
+  this observation ties into the standard picture of chemical enrichment. (2) Current
+  estimates of (Fe/H) for the most metal-rich globulars that are based on integrated
+  indices are probably slightly too high. (3) Colors of population models from different
+  authors exhibit a substantial range. At solar metallicity and 13 Gyr, this range
+  corresponds to an age error of roughly +/- 7 Gyr. Model colors from different authors
+  applied in a differential sense have smaller uncertainties. (4) In the present models
+  the dominant error for colors is probably the transformation from stellar atmospheric
+  parameters to stellar colors. <(5) Stellar B - V is difficult to model, and current
+  spreads among different authors can reach 0.2 mag. \&(6) If known defects in the
+  stellar flux library are corrected, the population model colors of this work in
+  passbands redder than U would be accurate to roughly 0.03 mag in an absolute sense.
+  These corrections are not made in the tables of model output.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJS...95..107W
+author: Worthey, G.
+author_list:
+- family: Worthey
+  given: G.
+date-added: 2017-08-11 04:24:13 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192096
+journal: \apjs
+keywords: Galactic Evolution, Globular Clusters, Hertzsprung-Russell Diagram, Horizontal
+  Branch Stars, Main Sequence Stars, Metallicity, Stellar Evolution, Stellar Models,
+  Color-Magnitude Diagram, Spectral Energy Distribution, Stellar Atmospheres, Stellar
+  Color, Stellar Composition, Stellar Interiors, Stellar Luminosity, Stellar Magnitude,
+  Stellar Mass, Stellar Spectrophotometry
+month: November
+pages: 107--149
+papis_id: d3eb5fb7a313d2458c1d4737a97278d2
+ref: worthey.g.1994
+title: Comprehensive stellar population models and the disentanglement of age and
+  metallicity effects
+type: article
+volume: '95'
+year: '1994'

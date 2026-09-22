@@ -1,0 +1,59 @@
+abstract: Biweekly timing observations of PSRs B1855+09 and B1937+21 have been made
+  at the Arecibo Observatory for more than 7 and 8 year, respectively, with uniform
+  procedures and only a few modest gaps. On each observing date we measure an equivalent
+  pulse arrival time for PSR B1855+09 at 1.4 GHz, with typical accuracies of about
+  0.8 micrometers and for PSR B1937 + 21 at both 1.4 and 2.4 GHz, with accuracies
+  around 0.2 micrometers. The pulse arrival times are fitted to a simple model for
+  each pulsar, yielding high-precision astrometric, rotational, and orbital parameters,
+  and a diverse range of conclusions. The celestial coordinates and proper motions
+  of the two pulsars are determined with uncertainties less than or equal to 0.12
+  mas and less than or equal to 0.06 mas/year in the reference frame of the DE200
+  planetary ephemeris. The annual parallaxes are found to be pi=1.1 +/- 0.3 mas and
+  pi less than 0.28 mas for PSRs B1855+09 and B1937+21, respectively. The general
+  relativistic Shapiro delay is measured in the PSR B1855+09 system and used to obtain
+  masses m1 = 1.50 +0.26 -0.14 solar mass and m (sub2) = 0.258 +0.028-0.016solar mass
+  for the pulsar and its orbiting companion. The extremely stable orbital period of
+  this system provides a phenomenological limit on the secular change of Newton's
+  gravitational constant, dot-G/G=(-9 +/- 18) x 10-12/year. Variations in the dispersion
+  measure of PSR B1937 + 21 indicate that the spectrum of electron-density fluctuations
+  in the interstellar medi um has a power-law index beta = 3.874 +/- 0.011, slightly
+  steeper than the Kolmogorov value of 11/3, and we find no strong evidence for an
+  'inner scale' greater than about 2 x 109cm. In the residual pulse arrival times
+  for PSR B1937+21 we have observed small systematic trends not explained by our deterministic
+  timing model. We discuss a number of possible causes; although the results are not
+  yet conclusive, the most straightforward interpretation is that the unmodeled noise
+  (a few microseconds over 8 yr, or Delta t/T approximately equals 10-14 is inherent
+  to the pulsar itself. In the present data set, PSR B1855+09 exhibits no discernible
+  timing noise. With conventional assumptions we derive a limit Omega g h2 less than
+  6 x 10-8 (95\% confidence) for the energy density, per logarithmic frequency interval,
+  in a cosmic background of stochastic gravitational waves. We discuss the feasibility
+  of establishing a pulsar-based timescale that might be used to test the stabilities
+  of the best available atomic clocks. In an Appendix, we propose guidelines for the
+  archiving of pulsar timing observations. Instructions are provided for obtaining
+  copies of our own archival data, via Internet.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...428..713K
+author: Kaspi, V. M. and Taylor, J. H. and Ryba, M. F.
+author_list:
+- family: Kaspi
+  given: V. M.
+- family: Taylor
+  given: J. H.
+- family: Ryba
+  given: M. F.
+date-added: 2017-08-10 23:32:03 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174280
+journal: \apj
+keywords: Arrivals, Background Radiation, Dispersion, Gravitational Waves, Precision,
+  Pulsars, Stellar Rotation, Time Measurement, X Ray Binaries, Analog To Digital Converters,
+  Atomic Clocks, Average, Data Acquisition, Signals, Spectrometers, Telescopes
+month: June
+pages: 713--728
+papis_id: 376405c8898c7d46b91f1bb566170e6e
+ref: kaspi.v.1994
+title: 'High-precision timing of millisecond pulsars. 3: Long-term monitoring of PSRs
+  B1855+09 and B1937+21'
+type: article
+volume: '428'
+year: '1994'

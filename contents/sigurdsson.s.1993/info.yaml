@@ -1,0 +1,40 @@
+abstract: An extensive series of three-body interactions involving hard binaries and
+  single stars are calculated by direct integration of \texttildelow{}105 encounters.  Unlike
+  previous calculations, the stars have different mass ratios, chosen to be representative
+  of the stellar and remnant population in a globular cluster, and most effort was
+  devoted to the difficult case of hard binaries, the most likely primordial binaries
+  to survive in a cluster. Graphs, tables and analytical fits to differential and
+  integral cross sections for properties of different interaction channels are presented
+  and discussed. The properties include exchange, binary semi-major axis, eccentricity,
+  and vector angular momentum, binary recoil velocity, and dissipative encounters
+  (collision or tidal capture). We compute mean energy transfer as a function of the
+  field star velocity and binary properties (relevant for Fokker-Planck models of
+  the evolution of clusters containing binaries). We find that mass-ratios of order
+  2 lead to significant differences and new phenomena in the interactions compared
+  with the equal mass case. Resonances are followed and are found to contribute strongly
+  to the cross sections for physical collisions of stars. We find that for moderately
+  hard binaries, exchange of heavy field stars is the dominant process. After such
+  an exchange the physical cross section for subsequent interactions increases, even
+  though the binary is hardened (binding energy increased) by the interaction. For
+  very hard binaries, dissipative interactions dominate the cross section.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...415..631S
+author: Sigurdsson, S. and Phinney, E. S.
+author_list:
+- family: Sigurdsson
+  given: S.
+- family: Phinney
+  given: E. S.
+date-added: 2017-08-10 21:32:46 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173190
+journal: \apj
+keywords: 'CELESTIAL MECHANICS, STELLAR DYNAMICS, GALAXY: GLOBULAR CLUSTERS: GENERAL'
+month: October
+pages: '631'
+papis_id: 71ec3ea2409ad0d7fb2ed953af0f9d93
+ref: sigurdsson.s.1993
+title: Binary--Single Star Interactions in Globular Clusters
+type: article
+volume: '415'
+year: '1993'

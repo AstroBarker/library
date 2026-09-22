@@ -1,0 +1,99 @@
+abstract: The Type Ia supernova SN 1992A in the 50 galaxy NGC 1380 was observed as
+  a target of opportunity by the International Ultraviolet Explorer (IUE) and with
+  great alacrity by the Hubble Space Telescope (HST). Here we present the HST and
+  lUE spectra and photometry that we obtained, as well as optical spectra obtained
+  at the Cerro Tololo Inter-American Observatory (CTIO). The HST Faint Object Spectrograph
+  (FOS) spectra, from 5 and 45 days past maximum light, are the best UV spectra of
+  a Type Ia supernova and reveal for the first time with good signal-to-noise ratio
+  the Type Ia spectral region blueward of \texttildelow{}2650 {\AA}. The UV photometry
+  taken in the F175W, F275W, and F342W bands defined by the HST filters shows light
+  curves that resemble the Type Ia template U light curve.  Using data from SN 1992A
+  and SN 1990N, we have constructed a Type Ia template light curve for the flux region
+  near 2750 {\AA} that is quite detailed from 14 days before maximum light to 22 days
+  after maximum light and that extends to 77 days after maximum light. This light
+  curve also resembles the template U light curve. A high-resolution HST Goddard High
+  Resolution Spectrograph (GHRS) spectrum of SN 1992A shows no evidence for any interstellar
+  lines attributable to NGC 1380 or to Galactic high-velocity clouds; low-velocity
+  Galactic gas gives rise to relatively weak Mg ii UV resonance absorption lines.
+  These results are consistent with low extinction along the line of sight to SN 1992A.  We
+  have done a parameterized LTE analysis of the SN 1992A spectra using a slightly
+  modified version of Woosley's delayed-detonation model DD4. We find that the features
+  in the region blueward of \texttildelow{}2650 {\AA} in the HST spectra are P Cygni
+  absorptions due to blends of iron peak element multiplets and the Mg II resonance
+  multiplet. Newly synthesized magnesium, sulfur, and silicon probably extend to velocities
+  at least as high as \texttildelow{}19,000 km s-1. Newly synthesized Ni-Co may dominate
+  the iron peak element abundances out to \texttildelow{}13,000 km s-1 in the ejecta
+  of SN 1992A as in model DD4. However, further investigation of the extent of Ni-Co
+  material in SN 1992A and other Type Ia supernovae is needed; this investigation
+  could greatly help constrain Type Ia models.  An analysis of the O I lambda7773
+  line in SN 1992A and other Type Ia supernovae implies that the oxygen-rich layer
+  in typical Type Ia's extends over a velocity range of at least \texttildelow{}11,000-19,000
+  km s-1. None of the explosion models we considered, including model DD4, has an
+  oxygen-rich layer that completely extends over this range. Model DD4, however, is
+  promising, and further investigation of delayed-detonation models of its kind is
+  merited.   Spectropolarimetric observations taken by Spyromilio \& Bailey of SN
+  1992A are consistent with the SN 1 992A being spherically symmetric. We discuss
+  these observations and the importance of taking spectropolarimetry of other Type
+  Ia supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...415..589K
+author: Kirshner, R. P. and Jeffery, D. J. and Leibundgut, B. and Challis, P. M. and
+  Sonneborn, G. and Phillips, M. M. and Suntzeff, N. B. and Smith, R. C. and Winkler,
+  P. F. and Winge, C. and Hamuy, M. and Hunter, D. A. and Roth, K. C. and Blades,
+  J. C. and Branch, D. and Chevalier, R. A. and Fransson, C. and Panagia, N. and Wagoner,
+  R. V. and Wheeler, J. C. and Harkness, R. P.
+author_list:
+- family: Kirshner
+  given: R. P.
+- family: Jeffery
+  given: D. J.
+- family: Leibundgut
+  given: B.
+- family: Challis
+  given: P. M.
+- family: Sonneborn
+  given: G.
+- family: Phillips
+  given: M. M.
+- family: Suntzeff
+  given: N. B.
+- family: Smith
+  given: R. C.
+- family: Winkler
+  given: P. F.
+- family: Winge
+  given: C.
+- family: Hamuy
+  given: M.
+- family: Hunter
+  given: D. A.
+- family: Roth
+  given: K. C.
+- family: Blades
+  given: J. C.
+- family: Branch
+  given: D.
+- family: Chevalier
+  given: R. A.
+- family: Fransson
+  given: C.
+- family: Panagia
+  given: N.
+- family: Wagoner
+  given: R. V.
+- family: Wheeler
+  given: J. C.
+- family: Harkness
+  given: R. P.
+date-added: 2017-08-10 21:13:44 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173188
+journal: \apj
+month: October
+pages: '589'
+papis_id: 85e12f0c4b9cbebc9418bf9eda9882fb
+ref: kirshner.r.1993
+title: 'SN 1992A: Ultraviolet and Optical Studies Based on HST, IUE, and CTIO Observations'
+type: article
+volume: '415'
+year: '1993'

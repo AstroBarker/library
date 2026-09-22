@@ -1,0 +1,45 @@
+abstract: The low Mach number approximation (LMNA) is applied to two-dimensional hydrodynamic
+  modeling of type I X-ray bursts on a rectangular patch on the surface of a nonrotating
+  neutron star. Because such phenomena involve decidedly subsonic flows, the time
+  step increase offered by the LMNA makes routine simulations of these deflagrations
+  feasible in an environment where strong gravity produces significant stratification,
+  while allowing for potentially significant lateral differences in temperature and
+  density. The model is employed to simulate the heating, peak, and initial cooling
+  stages in the deep envelope layers of a burst. During the deflagration, B{\'e}nard-like
+  cells naturally fill up a vertically expanding convective layer. The Mach number
+  is always less than 0.15 throughout the simulation, thus justifying the low Mach
+  number approximation. While the convective layer is superadiabatic on average, significant
+  fluctuations in adiabaticity occur within it on subconvective timescales. Due to
+  convective layer expansion, significant compositional mixing naturally occurs, but
+  tracer particle penetration through the convective layer boundaries on convective
+  timescales is temporary and spatially limited. Thus, mixing occurs on the relatively
+  slow burst timescale through thermal expansion of the convective layer rather than
+  from mass penetration of the convective layer boundary through particle convection.
+  At the convective layer boundaries where mixing is less efficient, the actual temperature
+  gradient more closely follows the Ledoux criterion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...653..545L
+arxivurl: http://arxiv.org/abs/astro-ph/0606207
+author: Lin, D. J. and Bayliss, A. and Taam, R. E.
+author_list:
+- family: Lin
+  given: D. J.
+- family: Bayliss
+  given: A.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 17:01:51 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/508863
+eprint: astro-ph/0606207
+journal: \apj
+keywords: 'Convection, Hydrodynamics, Methods: Numerical, Stars: Neutron, X-Rays:
+  Bursts'
+month: December
+pages: 545--557
+papis_id: 5d80fea3b388d4f06808e2685f9aa539
+ref: lin.d.2006
+title: Low Mach Number Modeling of Type I X-Ray Burst Deflagrations
+type: article
+volume: '653'
+year: '2006'

@@ -1,0 +1,35 @@
+abstract: An electron-positron equation of state based on table interpolation of the
+  Helmholtz free energy is developed and analyzed. The interpolation scheme guarantees
+  perfect thermodynamic consistency, independent of the interpolating function. The
+  choice of a biquintic Hermite polynomial as the interpolating function results in
+  accurately reproducing the underlying Helmholtz free energy data in the table, and
+  yields derivatives of the pressure, specific entropy, and specific internal energy
+  which are smooth and continuous. The execution speed--evaluated across several different
+  machine architectures, compiler options, and modes of operation--suggests that the
+  Helmholtz equation of state routine is faster than any of the five equation of state
+  routines surveyed by Timmes \& Arnett. When an optimal balance of accuracy, thermodynamic
+  consistency, and speed is desirable then the tabular Helmholtz equation of state
+  is an excellent choice, particularly for multidimensional models of stellar phenomena.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..126..501T
+author: Timmes, F. X. and Swesty, F. D.
+author_list:
+- family: Timmes
+  given: F. X.
+- family: Swesty
+  given: F. D.
+date-added: 2017-08-10 15:20:15 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/313304
+journal: \apjs
+keywords: 'EQUATION OF STATE, HYDRODYNAMICS, METHODS: NUMERICAL, STARS: GENERAL, Equation
+  of State, Hydrodynamics, Methods: Numerical, Stars: General'
+month: February
+pages: 501--516
+papis_id: d69bbf5bcaae7fdd203dec7586ea0fab
+ref: timmes.f.2000c
+title: The Accuracy, Consistency, and Speed of an Electron-Positron Equation of State
+  Based on Table Interpolation of the Helmholtz Free Energy
+type: article
+volume: '126'
+year: '2000'

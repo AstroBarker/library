@@ -1,0 +1,84 @@
+abstract: We systematically analyze the prompt emission and the early afterglow data
+  of a sample of 31 GRBs detected by Swift before 2005 September and estimate the
+  GRB radiative efficiency. BAT's narrow band inhibits a precise determination of
+  the GRB spectral parameters, and we have developed a method to estimate these parameters
+  with the hardness ratio information. The shallow decay component commonly existing
+  in early X-ray afterglows, if interpreted as continuous energy injection in the
+  external shock, suggests that the GRB efficiencies previously derived from the late-time
+  X-ray data were not reliable. We calculate two radiative efficiencies using the
+  afterglow kinetic energy EK derived at the putative deceleration time (tdec) and
+  at the break time (tb), when the energy injection phase ends, respectively. At tb
+  XRFs appear to be less efficient than normal GRBs. However, when we analyze the
+  data at tdec, XRFs are found to be as efficient as GRBs. Short GRBs have similar
+  radiative efficiencies to long GRBs despite of their different progenitors. Twenty-two
+  bursts in the sample are identified to have the afterglow cooling frequency below
+  the X-ray band. Assuming \ensuremath{\epsilon}e=0.1, we find etagamma(tb) usually
+  <10\% and etagamma(tdec) varying from a few percent to >90\%. Nine GRBs in the sample
+  have the afterglow cooling frequency above the X-ray band for a very long time.
+  This suggests a very small \ensuremath{\epsilon}B and/or a very low ambient density
+  n.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...655..989Z
+arxivurl: http://arxiv.org/abs/astro-ph/0610177
+author: Zhang, B. and Liang, E. and Page, K. L. and Grupe, D. and Zhang, B.-B. and
+  Barthelmy, S. D. and Burrows, D. N. and Campana, S. and Chincarini, G. and Gehrels,
+  N. and Kobayashi, S. and Mészáros, P. and Moretti, A. and Nousek, J. A. and O'Brien,
+  P. T. and Osborne, J. P. and Roming, P. W. A. and Sakamoto, T. and Schady, P. and
+  Willingale, R.
+author_list:
+- family: Zhang
+  given: B.
+- family: Liang
+  given: E.
+- family: Page
+  given: K. L.
+- family: Grupe
+  given: D.
+- family: Zhang
+  given: B.-B.
+- family: Barthelmy
+  given: S. D.
+- family: Burrows
+  given: D. N.
+- family: Campana
+  given: S.
+- family: Chincarini
+  given: G.
+- family: Gehrels
+  given: N.
+- family: Kobayashi
+  given: S.
+- family: Mészáros
+  given: P.
+- family: Moretti
+  given: A.
+- family: Nousek
+  given: J. A.
+- family: O'Brien
+  given: P. T.
+- family: Osborne
+  given: J. P.
+- family: Roming
+  given: P. W. A.
+- family: Sakamoto
+  given: T.
+- family: Schady
+  given: P.
+- family: Willingale
+  given: R.
+date-added: 2017-08-11 05:54:00 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/510110
+eprint: astro-ph/0610177
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Methods: Statistical, Radiation Mechanisms: Nonthermal,
+  Shock Waves'
+month: February
+pages: 989--1001
+papis_id: 39623b2ad2853907ad7ab96d41302242
+ref: zhang.b.2007
+title: 'GRB Radiative Efficiencies Derived from the Swift Data: GRBs versus XRFs,
+  Long versus Short'
+type: article
+volume: '655'
+year: '2007'

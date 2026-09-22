@@ -1,0 +1,45 @@
+abstract: Mergers of binary neutron stars usually result in the formation of a hypermassive
+  neutron star (HMNS). Whether and when this remnant collapses to a black hole (BH)
+  depends primarily on the equation of state and on angular momentum transport processes,
+  both of which are uncertain. Here, we show that the lifetime of the merger remnant
+  may be directly imprinted in the radioactively powered kilonova emission following
+  the merger. We employ axisymmetric, time-dependent hydrodynamic simulations of remnant
+  accretion discs orbiting an HMNS of variable lifetime, and characterize the effect
+  of this delay to BH formation on the disc wind ejecta. When BH formation is relatively
+  prompt (\lessequivlnt{}100 ms), outflows from the disc are sufficiently neutron
+  rich to form heavy r-process elements, resulting in \texttildelow{}week-long emission
+  with a spectral peak in the near-infrared (NIR), similar to that produced by the
+  dynamical ejecta. In contrast, delayed BH formation allows neutrinos from the HMNS
+  to raise the electron fraction in the polar direction to values such that potentially
+  Lanthanide-free outflows are generated. The lower opacity would produce a brighter,
+  bluer, and shorter-lived \texttildelow{} day-long emission (a `blue bump') prior
+  to the late NIR peak from the dynamical ejecta and equatorial wind. This new diagnostic
+  of BH formation should be useful for events with a signal to noise lower than that
+  required for direct detection of gravitational waveform signatures.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.441.3444M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1402.4803
+author: Metzger, B. D. and Fernández, R.
+author_list:
+- family: Metzger
+  given: B. D.
+- family: Fernández
+  given: R.
+date-added: 2017-08-10 16:45:13 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1093/mnras/stu802
+eprint: '1402.4803'
+journal: \mnras
+keywords: accretion, accretion discs, dense matter, gravitational waves, hydrodynamics,
+  neutrinos, nuclear reactions, nucleosynthesis, abundances
+month: July
+pages: 3444--3453
+papis_id: 119278ebdab6ae4391d3b5a28846b95e
+primaryclass: astro-ph.HE
+ref: metzger.b.2014
+title: Red or blue? A potential kilonova imprint of the delay until black hole formation
+  following a neutron star merger
+type: article
+volume: '441'
+year: '2014'

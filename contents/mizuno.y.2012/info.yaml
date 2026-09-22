@@ -1,0 +1,44 @@
+abstract: We have investigated the influence of jet rotation and differential motion
+  on the linear and nonlinear development of the current-driven (CD) kink instability
+  of force-free helical magnetic equilibria via three-dimensional relativistic magnetohydrodynamic
+  simulations. In this study, we follow the temporal development within a periodic
+  computational box. Displacement of the initial helical magnetic field leads to the
+  growth of the CD kink instability. We find that, in accordance with the linear stability
+  theory, the development of the instability depends on the lateral distribution of
+  the poloidal magnetic field. If the poloidal field significantly decreases outward
+  from the axis, then the initial small perturbations grow strongly, and if multiple
+  wavelengths are excited, then nonlinear interaction eventually disrupts the initial
+  cylindrical configuration. When the profile of the poloidal field is shallow, the
+  instability develops slowly and eventually saturates. We briefly discuss implications
+  of our findings for Poynting-dominated jets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...16M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.4949
+author: Mizuno, Y. and Lyubarsky, Y. and Nishikawa, K.-I. and Hardee, P. E.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Lyubarsky
+  given: Y.
+- family: Nishikawa
+  given: K.-I.
+- family: Hardee
+  given: P. E.
+date-added: 2017-08-10 16:34:55 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/757/1/16
+eid: '16'
+eprint: '1207.4949'
+journal: \apj
+keywords: 'galaxies: jets, instabilities, magnetohydrodynamics: MHD, methods: numerical'
+month: September
+pages: '16'
+papis_id: 3fbbb33a8f39d51766592e089739e945
+primaryclass: astro-ph.HE
+ref: mizuno.y.2012
+title: Three-dimensional Relativistic Magnetohydrodynamic Simulations of Current-driven
+  Instability. III. Rotating Relativistic Jets
+type: article
+volume: '757'
+year: '2012'

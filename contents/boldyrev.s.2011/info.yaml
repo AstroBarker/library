@@ -1,0 +1,40 @@
+abstract: The question is addressed as to what extent incompressible magnetohydrodynamics
+  can describe random magnetic and velocity fluctuations measured in the solar wind.
+  It is demonstrated that distributions of spectral indices for the velocity, magnetic
+  field, and total energy obtained from high-resolution numerical simulations of magnetohydrodynamic
+  turbulence are qualitatively and quantitatively similar to solar wind observations
+  at 1 AU. Both simulations and observations show that in the inertial range the magnetic
+  field spectrum Eb is steeper than the velocity spectrum Ev with Eb >~ Ev and that
+  the magnitude of the residual energy ER = Ev - Eb decreases nearly following a k
+  -2 bottom scaling.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...741L..19B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.0700
+author: Boldyrev, S. and Perez, J. C. and Borovsky, J. E. and Podesta, J. J.
+author_list:
+- family: Boldyrev
+  given: S.
+- family: Perez
+  given: J. C.
+- family: Borovsky
+  given: J. E.
+- family: Podesta
+  given: J. J.
+date-added: 2017-08-10 22:32:43 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/2041-8205/741/1/L19
+eid: L19
+eprint: '1106.0700'
+journal: \apjl
+keywords: 'magnetic fields, magnetohydrodynamics: MHD, methods: statistical, plasmas,
+  turbulence'
+month: November
+pages: L19
+papis_id: ac788a0b268c94eb002e89c6ebeb4c34
+ref: boldyrev.s.2011
+title: Spectral Scaling Laws in Magnetohydrodynamic Turbulence Simulations and in
+  the Solar Wind
+type: article
+volume: '741'
+year: '2011'

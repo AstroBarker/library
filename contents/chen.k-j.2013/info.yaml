@@ -1,0 +1,45 @@
+abstract: We introduce numerical algorithms for initializing multidimensional simulations
+  of stellar explosions with 1D stellar evolution models. The initial mapping from
+  1D profiles onto multidimensional grids can generate severe numerical artifacts,
+  one of the most severe of which is the violation of conservation laws for physical
+  quantities. We introduce a numerical scheme for mapping 1D spherically-symmetric
+  data onto multidimensional meshes so that these physical quantities are conserved.
+  We verify our scheme by porting a realistic 1D Lagrangian stellar profile to the
+  new multidimensional Eulerian hydro code CASTRO. Our results show that all important
+  features in the profiles are reproduced on the new grid and that conservation laws
+  are enforced at all resolutions after mapping. We also introduce a numerical scheme
+  for initializing multidimensional supernova simulations with realistic perturbations
+  predicted by 1D stellar evolution models. Instead of seeding 3D stellar profiles
+  with random perturbations, we imprint them with velocity perturbations that reproduce
+  the Kolmogorov energy spectrum expected for highly turbulent convective regions
+  in stars. Our models return Kolmogorov energy spectra and vortex structures like
+  those in turbulent flows before the modes become nonlinear. Finally, we describe
+  approaches to determining the resolution for simulations required to capture fluid
+  instabilities and nuclear burning. Our algorithms are applicable to multidimensional
+  simulations besides stellar explosions that range from astrophysics to cosmology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26C.....3...70C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.4842
+author: Chen, K.-J. and Heger, A. and Almgren, A. S.
+author_list:
+- family: Chen
+  given: K.-J.
+- family: Heger
+  given: A.
+- family: Almgren
+  given: A. S.
+date-added: 2017-08-25 17:47:04 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1016/j.ascom.2014.01.001
+eprint: '1204.4842'
+journal: Astronomy and Computing
+month: November
+pages: 70--78
+papis_id: 5e1e9af8fb46d04b7e860d59bbde3dbc
+primaryclass: astro-ph.HE
+ref: chen.k_j.2013
+title: Numerical approaches for multidimensional simulations of stellar explosions
+type: article
+volume: '3'
+year: '2013'

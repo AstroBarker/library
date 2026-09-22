@@ -1,0 +1,71 @@
+abstract: In providing an independent measure of the expansion history of the universe,
+  the Carnegie Supernova Project (CSP) has observed 71 high-z Type Ia supernovae (SNe
+  Ia) in the near-infrared bands Y and J. These can be used to construct rest-frame
+  i-band light curves which, when compared to a low-z sample, yield distance moduli
+  that are less sensitive to extinction and/or decline-rate corrections than in the
+  optical. However, working with NIR observed and i-band rest-frame photometry presents
+  unique challenges and has necessitated the development of a new set of observational
+  tools in order to reduce and analyze both the low-z and high-z CSP sample. We present
+  in this paper the methods used to generate uBVgriYJH light-curve templates based
+  on a sample of 24 high-quality low-z CSP SNe. We also present two methods for determining
+  the distances to the hosts of SN Ia events. A larger sample of 30 low-z SNe Ia in
+  the Hubble flow is used to calibrate these methods. We then apply the method and
+  derive distances to seven galaxies that are so nearby that their motions are not
+  dominated by the Hubble flow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011AJ....141...19B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1010.4040
+author: Burns, C. R. and Stritzinger, M. and Phillips, M. M. and Kattner, S. and Persson,
+  S. E. and Madore, B. F. and Freedman, W. L. and Boldt, L. and Campillay, A. and
+  Contreras, C. and Folatelli, G. and Gonzalez, S. and Krzeminski, W. and Morrell,
+  N. and Salgado, F. and Suntzeff, N. B.
+author_list:
+- family: Burns
+  given: C. R.
+- family: Stritzinger
+  given: M.
+- family: Phillips
+  given: M. M.
+- family: Kattner
+  given: S.
+- family: Persson
+  given: S. E.
+- family: Madore
+  given: B. F.
+- family: Freedman
+  given: W. L.
+- family: Boldt
+  given: L.
+- family: Campillay
+  given: A.
+- family: Contreras
+  given: C.
+- family: Folatelli
+  given: G.
+- family: Gonzalez
+  given: S.
+- family: Krzeminski
+  given: W.
+- family: Morrell
+  given: N.
+- family: Salgado
+  given: F.
+- family: Suntzeff
+  given: N. B.
+date-added: 2017-08-11 02:21:27 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0004-6256/141/1/19
+eid: '19'
+eprint: '1010.4040'
+journal: \aj
+keywords: 'cosmology: observations, distance scale, supernovae: general, techniques:
+  miscellaneous'
+month: January
+pages: '19'
+papis_id: a3e1b5dfc5cbc5b4700ba54261a8e34e
+ref: burns.c.2011
+title: 'The Carnegie Supernova Project: Light-curve Fitting with SNooPy'
+type: article
+volume: '141'
+year: '2011'

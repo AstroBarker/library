@@ -1,0 +1,57 @@
+abstract: We present a detailed X-ray spectral analysis of Cas A using a deep exposure
+  from the EPIC-MOS cameras on-board XMM-Newton. Spectral fitting was performed on
+  a 15x15 grid of 20" x 20" pixels using a two component non-equilibrium ionisation
+  model (NEI) giving maps of ionisation age, temperature, interstellar column density,
+  abundances for Ne, Mg, Si, S, Ca, Fe and Ni and Doppler velocities for the bright
+  Si-K, S-K and Fe-K line complexes. The abundance maps of Si, S, Ar and Ca are strongly
+  correlated. The correlation is particularly tight between Si and S. The measured
+  abundance ratios are consistent with the nucleosynthesis yield from the collapse
+  of a progenitor star of 12 Msun at the time of explosion. The distributions of the
+  abundance ratios Ne/Si, Mg/Si, Fe/Si and Ni/Si are very variable and distinctly
+  different from S/Si, Ar/Si and Ca/Si. This is also expected from the current models
+  of explosive nucleosynthesis. The ionisation age and temperature of both the hot
+  and cool NEI components varies considerably over the remnant. Accurate determination
+  of these parameters has enabled us to extract reliable Doppler velocities for the
+  hot and cold components. The combination of radial positions in the plane of the
+  sky and velocities along the line of sight have been used to measure the dynamics
+  of the X-ray emitting plasma. The data are consistent with a linear radial velocity
+  field for the plasma within the remnant with vs=2600 km s-1 at rs=153 arcsec implying
+  a primary shock velocity of 4000+/-500 km s-1 at this shock radius. The Si-K and
+  S-K line emission from the cool plasma component is confined to a relatively narrow
+  shell with radius 100-150 arcsec. This component is almost certainly ejecta material
+  which has been heated by a combination of the reverse shock and heating of ejecta
+  clumps as they plough through the medium which has been pre-heated by the primary
+  shock. The Fe-K line emission is expanding somewhat faster and spans a radius range
+  110-170 arcsec. The bulk of the Fe emission is confined to two large clumps and
+  it is likely that these too are the result of ablation from ejecta bullets rather
+  than swept up circumstellar medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...381.1039W
+arxivurl: http://arxiv.org/abs/astro-ph/0107270
+author: Willingale, R. and Bleeker, J. A. M. and van der Heyden, K. J. and Kaastra,
+  J. S. and Vink, J.
+author_list:
+- family: Willingale
+  given: R.
+- family: Bleeker
+  given: J. A. M.
+- family: van der Heyden
+  given: K. J.
+- family: Kaastra
+  given: J. S.
+- family: Vink
+  given: J.
+date-added: 2017-08-11 01:04:26 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1051/0004-6361:20011614
+eprint: astro-ph/0107270
+journal: \aap
+keywords: 'ISM: SUPERNOVA REMNANTS, ISM: INDIVIDUAL: CAS A'
+month: January
+pages: 1039--1048
+papis_id: b48d30142b5ddb861bb720c616795c3c
+ref: willingale.r.2002
+title: X-ray spectral imaging and Doppler mapping of Cassiopeia A
+type: article
+volume: '381'
+year: '2002'

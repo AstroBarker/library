@@ -1,0 +1,50 @@
+abstract: 'The presence of a dark matter core in the central kiloparsec of many dwarf
+  galaxies has been a long-standing problem in galaxy formation theories based on
+  the standard cold dark matter paradigm. Recent simulations, based on smooth particle
+  hydrodynamics and rather strong feedback recipes, have shown that it was indeed
+  possible to form extended dark matter cores using baryonic processes related to
+  a more realistic treatment of the interstellar medium. Using adaptive mesh refinement,
+  together with a new, stronger supernova feedback scheme that we have recently implemented
+  in the RAMSES code, we show that it is also possible to form a prominent dark matter
+  core within the well-controlled framework of an isolated, initially cuspy, 1010
+  M\&sun; dark matter halo. Although our numerical experiment is idealized, it allows
+  a clean and unambiguous identification of the dark matter core formation process.
+  Our dark matter inner profile is well fitted by a pseudo-isothermal profile with
+  a core radius of 800 pc. The core formation mechanism is consistent with the one
+  proposed by Pontzen \& Governato. We highlight two key observational predictions
+  of all simulations that find cusp-core transformations: (i) a bursty star formation
+  history with a peak-to-trough ratio of 5 to 10 and a duty cycle comparable to the
+  local dynamical time and (ii) a stellar distribution that is hot with v/sigma \texttildelow{}
+  1. We compare the observational properties of our model galaxy with recent measurements
+  of the isolated dwarf Wolf-Lundmark-Mellote (WLM). We show that the spatial and
+  kinematical distribution of stars and H I gas are in striking agreement with observations,
+  supporting the fundamental role played by stellar feedback in shaping both the stellar
+  and dark matter distribution.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.429.3068T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.4895
+author: Teyssier, R. and Pontzen, A. and Dubois, Y. and Read, J. I.
+author_list:
+- family: Teyssier
+  given: R.
+- family: Pontzen
+  given: A.
+- family: Dubois
+  given: Y.
+- family: Read
+  given: J. I.
+date-added: 2017-08-10 21:37:07 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts563
+eprint: '1206.4895'
+journal: \mnras
+keywords: 'galaxies: dwarf, ISM: structure, methods: numerical, dark matter'
+month: March
+pages: 3068--3078
+papis_id: ba4de25dd022dfcadd6385ed79e8b53b
+ref: teyssier.r.2013
+title: 'Cusp-core transformations in dwarf galaxies: observational predictions'
+type: article
+volume: '429'
+year: '2013'

@@ -1,0 +1,45 @@
+abstract: Global three-dimensional magnetohydrodynamic (MHD) simulations of turbulent
+  accretion disks are presented which start from fully equilibrium initial conditions
+  in which the magnetic forces are accounted for and the induction equation is satisfied.
+  The local linear theory of the magnetorotational instability (MRI) is used as a
+  predictor of the growth of magnetic field perturbations in the global simulations.
+  The linear growth estimates and global simulations diverge when nonlinear motions---perhaps
+  triggered by the onset of turbulence---upset the velocity perturbations used to
+  excite the MRI. The saturated state is found to be independent of the initially
+  excited MRI mode, showing that once the disk has expelled the initially net flux
+  field and settled into quasi-periodic oscillations in the toroidal magnetic flux,
+  the dynamo cycle regulates the global saturation stress level. Furthermore, time-averaged
+  measures of converged turbulence, such as the ratio of magnetic energies, are found
+  to be in agreement with previous works. In particular, the globally averaged stress
+  normalized to the gas pressure \overline{< alpha\_P> } = 0.034, with notably higher
+  values achieved for simulations with higher azimuthal resolution. Supplementary
+  tests are performed using different numerical algorithms and resolutions. Convergence
+  with resolution during the initial linear MRI growth phase is found for 23-35 cells
+  per scale height (in the vertical direction).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...763...99P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.1306
+author: Parkin, E. R. and Bicknell, G. V.
+author_list:
+- family: Parkin
+  given: E. R.
+- family: Bicknell
+  given: G. V.
+date-added: 2017-08-10 14:54:30 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/763/2/99
+eid: '99'
+eprint: '1212.1306'
+journal: \apj
+keywords: 'accretion, accretion disks, instabilities, magnetohydrodynamics: MHD, turbulence'
+month: February
+pages: '99'
+papis_id: e4b7de2082a5d6157c4e298775ae25ec
+primaryclass: astro-ph.HE
+ref: parkin.e.2013
+title: Equilibrium Disks, Magnetorotational Instability Mode Excitation, and Steady-state
+  Turbulence in Global Accretion Disk Simulations
+type: article
+volume: '763'
+year: '2013'

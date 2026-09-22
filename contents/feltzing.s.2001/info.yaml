@@ -1,0 +1,43 @@
+abstract: We derive stellar ages, from evolutionary tracks, and metallicities, from
+  Str{\"o}mgren photometry, for a sample of 5828 dwarf and sub-dwarf stars from the
+  Hipparcos Catalogue. This stellar disk sample is used to investigate the age-metallicity
+  diagram in the solar neighbourhood. Such diagrams are often used to derive a so
+  called age-metallicity relation. Because of the size of our sample, we are able
+  to quantify the impact on such diagrams, and derived relations, due to different
+  selection effects. Some of these effects are of a more subtle sort, giving rise
+  to erroneous conclusions. In particular we show that [1] the age-metallicity diagram
+  is well populated at all ages and especially that old, metal-rich stars do exist,
+  [2] the scatter in metallicity at any given age is larger than the observational
+  errors, [3] the exclusion of cooler dwarf stars from an age-metallicity sample preferentially
+  excludes old, metal-rich stars, depleting the upper right-hand corner of the age-metallicity
+  diagram, [4] the distance dependence found in the Edvardsson et al. sample by Garnett
+  \& Kobulnicky is an expected artifact due to the construction of the original sample.
+  We conclude that, although some of it can be attributed to stellar migration in
+  the galactic disk, a large part of the observed scatter is intrinsic to the formation
+  processes of stars. Based on results from the ESA Hipparcos satellite. Full Table
+  1 is only available in electronic form at the CDS via anonymous ftp to cdsarc.u-strasbg.fr
+  (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/377/911
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...377..911F
+arxivurl: http://arxiv.org/abs/astro-ph/0108191
+author: Feltzing, S. and Holmberg, J. and Hurley, J. R.
+author_list:
+- family: Feltzing
+  given: S.
+- family: Holmberg
+  given: J.
+- family: Hurley
+  given: J. R.
+date-added: 2017-08-11 08:04:59 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1051/0004-6361:20011119
+eprint: astro-ph/0108191
+journal: \aap
+month: October
+pages: 911--924
+papis_id: e78a01d526f79c8d46c4dc523f84bcb2
+ref: feltzing.s.2001
+title: The solar neighbourhood age-metallicity relation - Does it exist?
+type: article
+volume: '377'
+year: '2001'

@@ -1,0 +1,28 @@
+abstract: Good representations of the passbands for the Johnson-Cousins UBVRI system
+  have been devised by comparing synthetic photometry with actual observations and
+  with standard system magnitudes. Small adjustments have been made to previously
+  published passbands. Users are urged to match these passbands so that better photometry
+  and calibration are ensured. Mismatched B bands are shown to be a major source of
+  recent (U - B) transformation problems. The nature of systematic differences between
+  the natural colors of the most widely used sets of standard star photometry is investigated
+  and suggested CCD filter combinations are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1990PASP..102.1181B
+author: Bessell, M. S.
+author_list:
+- family: Bessell
+  given: M. S.
+date-added: 2017-08-11 03:45:33 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/132749
+journal: \pasp
+keywords: Astronomical Photometry, Spectral Bands, Ubv Spectra, Charge Coupled Devices,
+  Reference Stars, Stellar Color, Stellar Magnitude
+month: October
+pages: 1181--1199
+papis_id: 50c0d0c043c18602f8c83885f1326cf9
+ref: bessell.m.1990
+title: UBVRI passbands
+type: article
+volume: '102'
+year: '1990'

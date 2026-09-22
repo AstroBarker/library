@@ -1,0 +1,53 @@
+abstract: Magnetohydrodynamic turbulence is important in many high-energy astrophysical
+  systems, where instabilities can amplify the local magnetic field over very short
+  timescales. Specifically, the magnetorotational instability and dynamo action have
+  been suggested as a mechanism for the growth of magnetar-strength magnetic fields
+  (of 1015 gauss and above) and for powering the explosion of a rotating massive star.
+  Such stars are candidate progenitors of type Ic-bl hypernovae, which make up all
+  supernovae that are connected to long gamma-ray bursts. The magnetorotational instability
+  has been studied with local high-resolution shearing-box simulations in three dimensions,
+  and with global two-dimensional simulations, but it is not known whether turbulence
+  driven by this instability can result in the creation of a large-scale, ordered
+  and dynamically relevant field. Here we report results from global, three-dimensional,
+  general-relativistic magnetohydrodynamic turbulence simulations. We show that hydromagnetic
+  turbulence in rapidly rotating protoneutron stars produces an inverse cascade of
+  energy. We find a large-scale, ordered toroidal field that is consistent with the
+  formation of bipolar magnetorotationally driven outflows. Our results demonstrate
+  that rapidly rotating massive stars are plausible progenitors for both type Ic-bl
+  supernovae and long gamma-ray bursts, and provide a viable mechanism for the formation
+  of magnetars. Moreover, our findings suggest that rapidly rotating massive stars
+  might lie behind potentially magnetar-powered superluminous supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015Natur.528..376M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1512.00838
+author: Mösta, P. and Ott, C. D. and Radice, D. and Roberts, L. F. and Schnetter,
+  E. and Haas, R.
+author_list:
+- family: Mösta
+  given: P.
+- family: Ott
+  given: C. D.
+- family: Radice
+  given: D.
+- family: Roberts
+  given: L. F.
+- family: Schnetter
+  given: E.
+- family: Haas
+  given: R.
+date-added: 2017-08-10 14:02:33 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1038/nature15755
+eprint: '1512.00838'
+journal: \nat
+month: December
+pages: 376--379
+papis_id: da253d63f4bbcd5296e08cb1035354b9
+primaryclass: astro-ph.HE
+ref: mosta.p.2015
+title: A large-scale dynamo and magnetoturbulence in rapidly rotating core-collapse
+  supernovae
+type: article
+volume: '528'
+year: '2015'

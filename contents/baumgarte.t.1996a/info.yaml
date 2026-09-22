@@ -1,0 +1,50 @@
+abstract: We present numerical simulations of the delayed collapse of a hot nascent
+  neutron star to a black hole. Using a recently developed, singularity-avoiding dynamical
+  code we can follow the collapse to completion and can study the late-time effects.
+  We employ a hyperonic equation of state which is softer for deleptonized matter
+  than for lepton-rich matter. For this equation of state the maximum mass of stable
+  neutron stars therefore decreases as the protoneutron star loses lepton number by
+  emission of electron neutrinos during the first seconds after its formation in the
+  core bounce in a supernova. Protoneutron stars with masses within a critical window
+  are therefore stable initially but later inevitably collapse to a black hole.  We
+  study the last stages before such a collapse, as well as the final, dynamical implosion,
+  tracking the evolution of the star until its surface reaches the event horizon.
+  In particular, we determine the characteristics of the neutrino emission during
+  this delayed collapse of the protoneutron star. Since hot neutron star matter is
+  opaque to neutrinos, we find that there is no late increase or final, powerful outburst
+  of the neutrino emission. Instead, the fluxes gradually decrease as more and more
+  matter in the star approaches the event horizon and the gravitational redshift becomes
+  extremely strong. Because muon and tau neutrinos as well as electron antineutrinos
+  decouple from deeper, hotter layers than electron neutrinos, they are usually emitted
+  with higher mean energies. During the last millisecond before the neutron star goes
+  into the black hole, however, the gravitational redshift is so strong that the usual
+  order of mean neutrino energies and fluxes is inverted.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...468..823B
+author: Baumgarte, T. W. and Janka, H.-T. and Keil, W. and Shapiro, S. L. and Teukolsky,
+  S. A.
+author_list:
+- family: Baumgarte
+  given: T. W.
+- family: Janka
+  given: H.-T.
+- family: Keil
+  given: W.
+- family: Shapiro
+  given: S. L.
+- family: Teukolsky
+  given: S. A.
+date-added: 2017-08-10 23:36:04 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177738
+journal: \apj
+keywords: 'BLACK HOLE PHYSICS, DENSE MATTER, EQUATION OF STATE, METHODS: NUMERICAL,
+  STARS: EVOLUTION, STARS: NEUTRON'
+month: September
+pages: '823'
+papis_id: e137d009c857adf9e0207e5c638e3e1a
+ref: baumgarte.t.1996a
+title: Delayed Collapse of Hot Neutron Stars to Black Holes via Hadronic Phase Transitions
+type: article
+volume: '468'
+year: '1996'

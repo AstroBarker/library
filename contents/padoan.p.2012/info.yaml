@@ -1,0 +1,44 @@
+abstract: 'We show that supersonic MHD turbulence yields a star formation rate (SFR)
+  as low as observed in molecular clouds, for characteristic values of the free-fall
+  time divided by the dynamical time, t ff/t dyn, the Alfv{\''e}nic Mach number, {\cal
+  M}\_a, and the sonic Mach number, {\cal M}\_s. Using a very large set of deep adaptive-mesh-refinement
+  simulations, we quantify the dependence of the SFR per free-fall time, epsilonff,
+  on the above parameters. Our main results are (1) that epsilonff decreases exponentially
+  with increasing t ff/t dyn, but is insensitive to changes in {\cal M}\_s, for constant
+  values of t ff/t dyn and {\cal M}\_a. (2) Decreasing values of {\cal M}\_a (stronger
+  magnetic fields) reduce epsilonff, but only to a point, beyond which epsilonff increases
+  with a further decrease of {\cal M}\_a. (3) For values of {\cal M}\_a characteristic
+  of star-forming regions, epsilonff varies with {\cal M}\_a by less than a factor
+  of two. We propose a simple star formation law, based on the empirical fit to the
+  minimum epsilonff, and depending only on t ff/t dyn: epsilonff \approx{} epsilonwindexp
+  (- 1.6 t ff/t dyn). Because it only depends on the mean gas density and rms velocity,
+  this law is straightforward to implement in simulations and analytical models of
+  galaxy formation and evolution.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759L..27P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.3758
+author: Padoan, P. and Haugbølle, T. and Nordlund, Å.
+author_list:
+- family: Padoan
+  given: P.
+- family: Haugbølle
+  given: T.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-10 15:38:23 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/2041-8205/759/2/L27
+eid: L27
+eprint: '1208.3758'
+journal: \apjl
+keywords: 'ISM: kinematics and dynamics, magnetohydrodynamics: MHD, stars: formation,
+  turbulence'
+month: November
+pages: L27
+papis_id: 8924fa9cc98a61768fe9894c591fce0d
+ref: padoan.p.2012
+title: A Simple Law of Star Formation
+type: article
+volume: '759'
+year: '2012'

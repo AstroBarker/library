@@ -1,0 +1,47 @@
+abstract: Opacities and chemical abundance data are crucial ingredients of ultracool
+  dwarf and extrasolar giant planet atmosphere models. We report here on the detailed
+  sources of molecular opacity data employed by our group for this application. We
+  also present tables of Rosseland and Planck mean opacities, which are of use in
+  some studies of the atmospheres, interiors, and evolution of planets and brown dwarfs.
+  For the tables presented here we have included the opacities of important atomic
+  and molecular species, including the alkali elements, pressure-induced absorption
+  by hydrogen, and other significant opacity sources, but we neglect opacity from
+  condensates. We report for each species how we have assembled molecular line data
+  from a combination of public databases, laboratory data that is not yet in the public
+  databases, and our own numerical calculations. We combine these opacities with abundances
+  computed from a chemical equilibrium model using recently revised solar abundances
+  to compute mean opacities. The chemical equilibrium calculation accounts for the
+  settling of condensates in a gravitational field and is applicable to ultracool
+  dwarf and extrasolar planetary atmospheres, but not circumstellar disks. We find
+  that the inclusion of alkali atomic opacity substantially increases the mean opacities
+  over those currently in the literature at densities relevant to the atmospheres
+  and interiors of giant planets and brown dwarfs. We provide our opacity tables for
+  public use and discuss their limitations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..174..504F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.2374
+author: Freedman, R. S. and Marley, M. S. and Lodders, K.
+author_list:
+- family: Freedman
+  given: R. S.
+- family: Marley
+  given: M. S.
+- family: Lodders
+  given: K.
+date-added: 2017-08-10 20:41:02 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/521793
+eid: 504-513
+eprint: '0706.2374'
+journal: \apjs
+keywords: 'line: profiles, molecular data, stars: atmospheres, stars: low-mass, brown
+  dwarfs'
+month: February
+pages: 504--513
+papis_id: 4cb3505f36eabbc9870698d2c759cbd7
+ref: freedman.r.2008
+title: Line and Mean Opacities for Ultracool Dwarfs and Extrasolar Planets
+type: article
+volume: '174'
+year: '2008'

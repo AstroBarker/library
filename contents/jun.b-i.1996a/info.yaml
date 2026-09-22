@@ -1,0 +1,48 @@
+abstract: Young supernova remnants such as Tycho generally exhibit a bright circular
+  clumpy shell in both radio and X-ray emission. For several young remnants, various
+  arguments suggest that the magnetic field is larger than can be explained by compression
+  of a few microgauss ambient magnetic field by the shock wave. Radio polarization
+  studies reveal a net radial orientation of magnetic fields in the shell which cannot
+  be explained by the simple compression either. We model Rayleigh-Taylor instability
+  at the interface of the ejecta and the shocked ambient medium to explain these observations.
+  We have performed multidimensional MHD simulations of the instability in the shell
+  of a Type I supernova remnant for the first time utilizing a moving grid technique
+  which allows us to follow the growth of the instability and its effect on the local
+  magnetic field in detail. We find that the evolution of the instability is very
+  sensitive to the deceleration of the ejecta and the evolutionary stage of the remnant.
+  As the reverse shock enters the inner uniform density region, Chevalier's self-similar
+  stage ends and the thickness of radio shell increases and the instability weakens.
+  Our simulation shows that Rayleigh-Taylor and Kelvin-Helmholtz instabilities amplify
+  ambient magnetic fields locally by as much as a factor of 60 around dense figures
+  due to stretching, winding, and compression.  Globally, the amount of magnetic field
+  amplification is low and the magnetic energy density reaches only about 0.3\% of
+  the turbulent energy density at the end of simulation. Strong magnetic field lines
+  draped around the fingers produce the radial B vector polarization, whereas thermal
+  bremsstrahlung from the dense fingers themselves produces the clumpy X-ray emission.
+  As a result, the X-ray emission peaks inside of the radio emission. The surface
+  brightness profile shows no detailed correspondence between radio and X-ray emission.
+  The major part of radio and X-ray luminosity comes from the mixing region.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...465..800J
+arxivurl: http://arxiv.org/abs/astro-ph/9601035
+author: Jun, B.-I. and Norman, M. L.
+author_list:
+- family: Jun
+  given: B.-I.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 22:14:16 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177464
+eprint: astro-ph/9601035
+journal: \apj
+keywords: 'INSTABILITIES, ISM: MAGNETIC FIELDS, ISM: STRUCTURE, METHODS: NUMERICAL,
+  MAGNETOHYDRODYNAMICS: MHD, ISM: SUPERNOVA REMNANTS'
+month: July
+pages: '800'
+papis_id: 98b656fe580c909359603f3c2e28376b
+ref: jun.b_i.1996a
+title: On the Origin of Strong Magnetic Fields in Young Supernova Remnants
+type: article
+volume: '465'
+year: '1996'

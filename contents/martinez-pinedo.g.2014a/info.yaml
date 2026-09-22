@@ -1,0 +1,41 @@
+abstract: Observations of metal-poor stars indicate that at least two different nucleosynthesis
+  sites contribute to the production of r-process elements. One site is responsible
+  for the production of light r-process elements Z \lessequivlnt{} 50, while the other
+  produces the heavy r-process elements. We have analyzed recent observations of metal-poor
+  stars selecting only stars that are enriched in light r-process elements and poor
+  in heavy r-process elements. We find a strong correlation between the observed abundances
+  of the N = 50 elements (Sr, Y and Zr) and Fe. It suggest that neutrino-driven winds
+  from core-collapse supernova are the main site for the production of these elements.
+  We explore this possibility by performing nucleosynthesis calculations based on
+  long-term Boltzmann neutrino transport simulations. We use an equation of state
+  that reproduces recent constrains on the nuclear symmetry energy. We predict that
+  the early ejecta is neutron rich with Ye \sim{} 0.48, it becomes proton rich around
+  4~s and reaches Ye = 0.586 at 9~s when our simulation stops. The nucleosynthesis
+  in this model produces elements between Zn and Mo, including 92Mo. The elemental
+  abundances are consistent with the observations of the metal-poor star HD 12263.
+  For the elements between Ge and Mo, we produce mainly the neutron-deficient isotopes.
+  This prediction can be confirmed by observations of isotopic abundances in metal-poor
+  stars. No elements heavier than Mo (Z = 42) and no heavy r-process elements are
+  produced in our calculations.
+author: Martínez-Pinedo, G and Fischer, T and Huther, L
+author_list:
+- family: Martínez-Pinedo
+  given: G
+- family: Fischer
+  given: T
+- family: Huther
+  given: L
+doi: 10.1088/0954-3899/41/4/044008
+groups: Neutrinos, Nucleosynthesis
+journal: 'Journal of Physics G: Nuclear and Particle Physics'
+month: feb
+number: '4'
+pages: 044008
+papis_id: f6ef62ebd59fc1bad06b173f699ec8cd
+publisher: '{IOP} Publishing'
+ref: martinez_pinedo.g.2014a
+title: Supernova neutrinos and nucleosynthesis
+type: article
+url: https://doi.org/10.1088\%2F0954-3899\%2F41\%2F4\%2F044008
+volume: '41'
+year: '2014'

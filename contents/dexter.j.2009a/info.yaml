@@ -1,0 +1,44 @@
+abstract: The recent very long baseline interferometry (VLBI) observation of the Galactic
+  center black hole candidate Sgr A\textasteriskcentered at 1.3 mm shows source structure
+  on event-horizon scales. This detection enables a direct comparison of the emission
+  region with models of the accretion flow onto the black hole. We present the first
+  results from time-dependent radiative transfer of general relativistic MHD simulation
+  data, and compare simulated synchrotron images at black hole spin a = 0.9 with the
+  VLBI measurements. After tuning the accretion rate to match the millimeter flux,
+  we find excellent agreement between predicted and observed visibilities, even when
+  viewed face-on (i lsim 30$\,^{\circ}$). VLBI measurements on 2000-3000 km baselines
+  should constrain the inclination. The data constrain the accretion rate to be (1.0-2.3)\texttimes{}10-9
+  M sun yr-1 with 99\% confidence, consistent with but independent of prior estimates
+  derived from spectroscopic and polarimetric measurements. Finally, we compute light
+  curves, which show that magnetic turbulence can directly produce flaring events
+  with 0.5 hr rise times, 2-3.5 hr durations, and 40\%-50\% flux modulation, in agreement
+  with observations of Sgr A\textasteriskcentered at millimeter wavelengths.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...703L.142D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.0267
+author: Dexter, J. and Agol, E. and Fragile, P. C.
+author_list:
+- family: Dexter
+  given: J.
+- family: Agol
+  given: E.
+- family: Fragile
+  given: P. C.
+date-added: 2017-08-10 22:23:56 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/703/2/L142
+eprint: '0909.0267'
+journal: \apjl
+keywords: 'accretion, accretion disks, black hole physics, Galaxy: center, radiative
+  transfer, relativity'
+month: October
+pages: L142-L146
+papis_id: b8d14915ede1fca54e4e22e3c5f41cb1
+primaryclass: astro-ph.HE
+ref: dexter.j.2009a
+title: Millimeter Flares and VLBI Visibilities from Relativistic Simulations of Magnetized
+  Accretion Onto the Galactic Center Black Hole
+type: article
+volume: '703'
+year: '2009'

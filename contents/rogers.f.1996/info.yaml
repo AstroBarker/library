@@ -1,0 +1,40 @@
+abstract: OPAL opacities have recently helped to resolve a number of long-standing
+  discrepancies between theory and observation. This success has made it important
+  to provide the associated equation-of-state (EOS) data. The OPAL EOS is based on
+  an activity expansion of the grand canonical partition function of the plasma in
+  terms of its fundamental constituents (electrons and nuclei). The formation of composite
+  particles and many- body effects on the internal bound states occur naturally in
+  this approach. Hence, pressure ionization is a consequence of the theory. In contrast,
+  commonly used approaches, all of which are based on minimization of free energy,
+  are forced to assert the effect of the plasma on composite particles and must rely
+  on an ad hoc treatment of pressure ionization. Another advantage of the OPAL approach
+  is that it provides a systematic expansion in the Coulomb coupling parameter that
+  includes subtle quantum effects generally not considered in other EOS calculations.  Tables
+  have been generated that provide pressure, internal energy, entropy, and a variety
+  of derivative quantities. These tables cover a fairly broad range of conditions
+  and compositions applicable to general stellar-evolution calculations for stars
+  more massive than \texttildelow{}0.8 Msun. An interpolation code is provided along
+  with the tables to facilitate their use.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...456..902R
+author: Rogers, F. J. and Swenson, F. J. and Iglesias, C. A.
+author_list:
+- family: Rogers
+  given: F. J.
+- family: Swenson
+  given: F. J.
+- family: Iglesias
+  given: C. A.
+date-added: 2017-08-10 18:36:04 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176705
+journal: \apj
+keywords: ATOMIC PROCESSES, EQUATION OF STATE, ATOMIC DATA
+month: January
+pages: '902'
+papis_id: c01c47cddda8201890e1573185392a1d
+ref: rogers.f.1996
+title: OPAL Equation-of-State Tables for Astrophysical Applications
+type: article
+volume: '456'
+year: '1996'

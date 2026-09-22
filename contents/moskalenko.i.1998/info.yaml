@@ -1,0 +1,45 @@
+abstract: We have made a new calculation of the cosmic-ray secondary positron spectrum
+  using a diffusive halo model for Galactic cosmic-ray propagation. The code computes
+  self-consistently the spectra of primary and secondary nucleons, primary electrons,
+  and secondary positrons and electrons. The models are first adjusted to agree with
+  the observed cosmic-ray boron/carbon ratio, and the interstellar proton and helium
+  spectra are then computed; these spectra are used to obtain the source function
+  for the secondary positrons/electrons that are finally propagated with the same
+  model parameters. The primary electron spectrum is evaluated, again using the same
+  model. Fragmentation and energy losses are computed using realistic distributions
+  for the interstellar gas and radiation fields, and diffusive reacceleration is also
+  incorporated. Our study includes a critical reevaluation of the secondary decay
+  calculation for positrons.  The predicted positron fraction is in good agreement
+  with the measurements up to 10 GeV, beyond which the observed flux is higher than
+  that calculated. Since the positron fraction is now measured accurately in the 1-10
+  GeV range, our primary electron spectrum should be a good estimate of the true interstellar
+  spectrum in this range, of interest for gamma-ray and solar modulation studies.
+  We further show that a harder interstellar nucleon spectrum, similar to that suggested
+  to explain EGRET diffuse Galactic gamma-ray observations above 1 GeV, can reproduce
+  the positron observations above 10 GeV without requiring a primary positron component.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...493..694M
+arxivurl: http://arxiv.org/abs/astro-ph/9710124
+author: Moskalenko, I. V. and Strong, A. W.
+author_list:
+- family: Moskalenko
+  given: I. V.
+- family: Strong
+  given: A. W.
+date-added: 2017-08-10 22:37:13 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305152
+eprint: astro-ph/9710124
+journal: \apj
+keywords: 'ACCELERATION OF PARTICLES, ISM: COSMIC RAYS, DIFFUSION, ELEMENTARY PARTICLES,
+  GALAXY: HALO, GAMMA RAYS: THEORY, ISM: ABUNDANCES, Acceleration of Particles, ISM:
+  Cosmic Rays, Diffusion, Elementary Particles, Galaxy: Halo, Gamma Rays: Theory,
+  ISM: Abundances'
+month: January
+pages: 694--707
+papis_id: a4e8ec52827094c2f3269a7eb946adf2
+ref: moskalenko.i.1998
+title: Production and Propagation of Cosmic-Ray Positrons and Electrons
+type: article
+volume: '493'
+year: '1998'

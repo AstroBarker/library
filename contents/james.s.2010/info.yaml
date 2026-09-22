@@ -1,0 +1,44 @@
+abstract: We present synthetic spectral fits of the typical Type Ib SN 1999dn and
+  the hydrogen-rich Ib SN 2000H using the generalized non-local thermodynamic equilibrium
+  stellar atmospheres code PHOENIX. We fit model spectra to five epochs of SN 1999dn
+  ranging from 10 days pre-maximum light to 17 days post-maximum light and to the
+  two earliest epochs of SN 2000H available, maximum light and six days post-maximum.
+  Our goal is to investigate the possibility of hydrogen in Type Ib supernovae (SNe
+  Ib), specifically a feature around 6200 {\AA} which has previously been attributed
+  to high-velocity Halpha. In earlier work on SN 1999dn we found the most plausible
+  alternative to Halpha to be a blend of Si II and Fe II lines which can be adjusted
+  to fit by increasing the metallicity. Our models are simple; they assume a power-law
+  density profile with radius, homologous expansion, and solar compositions. The helium
+  core is produced by "burning" 4H-->He in order to conserve the nucleon number. For
+  models with hydrogen the outer skin of the model consists of a shell of solar composition.
+  The hydrogen mass of the standard solar composition shell is MH <~ 10-3 M sun in
+  SN 1999dn and MH <~ 0.2 M sun for SN 2000H. Our models fit the observed spectra
+  reasonably well, successfully reproducing most features including the characteristic
+  He I absorptions. The hydrogen feature in SN 1999dn is clear, but much more pronounced
+  in SN 2000H. We discuss a possible evolutionary scenario that accounts for the dichotomy
+  in the hydrogen shell mass between these two SNe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...718..957J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.1359
+author: James, S. and Baron, E.
+author_list:
+- family: James
+  given: S.
+- family: Baron
+  given: E.
+date-added: 2017-08-10 23:40:03 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0004-637X/718/2/957
+eprint: '1006.1359'
+journal: \apj
+keywords: 'supernovae: individual: 1999dn 2000H'
+month: August
+pages: 957--962
+papis_id: 21a8ae0af002e73c24f5a42cbc005136
+primaryclass: astro-ph.SR
+ref: james.s.2010
+title: Searching for Hydrogen in Type Ib Supernovae
+type: article
+volume: '718'
+year: '2010'

@@ -1,0 +1,42 @@
+abstract: We study scaling relations of compressible and strongly magnetized turbulence
+  using isothermal numerical simulations with resolution 5123. We find a good correspondence
+  of our results with the Fleck model of compressible hydrodynamic turbulence. In
+  particular, we find that the density-weighted velocity, i.e., v\equiv{}rho1/3u,
+  proposed by Kritsuk and coworkers obeys the Kolmogorov scaling, i.e., Ev(k)~k-5/3,
+  for the high Mach number turbulence. Similarly, we find that the exponents of the
+  third-order structure functions for v stay equal to unity for all Mach numbers studied.
+  The higher order correlations obey the She-L{\'e}v{\^e}que scalings corresponding
+  to the two-dimensional dissipative structures, and this result does not change with
+  the Mach number either. In contrast to velocity u, which exhibits different scaling
+  parallel and perpendicular to the local magnetic field, the scaling of v is similar
+  in both directions. In addition, we find that the peaks of density create a hierarchy
+  in which both physical and column densities decrease with the scale in accordance
+  to the Fleck predictions. This hierarchy can be related to ubiquitous small ionized
+  and neutral structures (SINS) in the interstellar gas. We believe that studies of
+  statistics of the column density peaks can provide both a consistency check for
+  the turbulence velocity studies and insight into supersonic turbulence, when the
+  velocity information is not available.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...666L..69K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.2464
+author: Kowal, G. and Lazarian, A.
+author_list:
+- family: Kowal
+  given: G.
+- family: Lazarian
+  given: A.
+date-added: 2017-08-10 22:41:09 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/521788
+eprint: '0705.2464'
+journal: \apjl
+keywords: 'ISM: Structure, Magnetohydrodynamics: MHD, Turbulence'
+month: September
+pages: L69-L72
+papis_id: 25005951a78ed61a3f58a06e2f7fb436
+ref: kowal.g.2007
+title: Scaling Relations of Compressible MHD Turbulence
+type: article
+volume: '666'
+year: '2007'

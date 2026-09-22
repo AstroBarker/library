@@ -1,0 +1,53 @@
+abstract: We apply our recently developed code for spherically symmetric, fully general
+  relativistic (GR) Lagrangian hydrodynamics and multigroup flux-limited diffusion
+  (MGFLD) neutrino transport to examine the effects of GR on the hydrodynamics and
+  transport during collapse, bounce, and the critical shock reheating phase of core
+  collapse supernovae. GR effects were examined by performing core collapse simulations
+  from several precollapse models in the Newtonian limit, in a hybrid limit consisting
+  of GR hydrodynamics and Newtonian transport, and in the fully GR limit. Comparisons
+  of models computed with GR versus Newtonian hydrodynamics show that collapse to
+  bounce takes slightly less time in the GR limit and that the shock propagates slightly
+  farther out in radius before receding. After a secondary quasi-static rise in the
+  shock radius, the shock radius declines considerably more rapidly in the GR simulations
+  than in the corresponding Newtonian simulations. During the shock reheating phase,
+  core collapse computed with GR hydrodynamics results in a substantially more compact
+  structure from the center out to the stagnated shock, the shock radius being reduced
+  by a factor of 2 after 300 ms for a 25 Msolar model and 600 ms for a 15 Msolar model,
+  times being measured from bounce. The inflow speed of material behind the shock
+  is also increased by about a factor of 2 throughout most of the evolution as a consequence
+  of GR hydrodynamics. Regarding neutrino transport, comparisons show that the luminosity
+  and rms energy of any neutrino flavor during the shock reheating phase increases
+  when switching from Newtonian to GR hydrodynamics. This arises from the close coupling
+  of the hydrodynamics and transport and the effect of GR hydrodynamics to produce
+  more compact core structures, hotter neutrinospheres at smaller radii. On additionally
+  switching from Newtonian to GR transport, gravitational time dilation and redshift
+  effects decrease the luminosities and rms energies of all neutrino flavors. This
+  decrease is less in magnitude than the increase in neutrino luminosities and rms
+  energies that arise when switching from Newtonian to GR hydrodynamics, with the
+  result that a fully GR simulation gives higher neutrino luminosities and harder
+  neutrino spectra than a fully Newtonian simulation of the same precollapse model.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...560..326B
+arxivurl: http://arxiv.org/abs/astro-ph/0101400
+author: Bruenn, S. W. and De Nisco, K. R. and Mezzacappa, A.
+author_list:
+- family: Bruenn
+  given: S. W.
+- family: De Nisco
+  given: K. R.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-08-10 18:26:02 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/322319
+eprint: astro-ph/0101400
+journal: \apj
+keywords: 'Hydrodynamics, Neutrinos, Relativity, Stars: Supernovae: General'
+month: October
+pages: 326--338
+papis_id: a47373527294b1ec85afdd4ca94a1562
+ref: bruenn.s.2001
+title: General Relativistic Effects in the Core Collapse Supernova Mechanism
+type: article
+volume: '560'
+year: '2001'

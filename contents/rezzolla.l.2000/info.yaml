@@ -1,0 +1,39 @@
+abstract: We show that r-mode oscillations distort the magnetic fields of neutron
+  stars and that their occurrence is likely to be limited by this interaction. If
+  the field is >~1016(Omega/OmegaB) G, where Omega and OmegaB are the angular velocities
+  of the star and at which mass shedding occurs, r-mode oscillations cannot occur.
+  Much weaker fields will prevent gravitational radiation from exciting r-mode oscillations
+  or will damp them on a relatively short timescale by extracting energy from the
+  modes faster than gravitational-wave emission can pump energy into them. For example,
+  a 1010 G poloidal magnetic field that threads the star's superconducting core is
+  likely to prevent the l=2 mode from being excited unless Omega exceeds 0.35OmegaB.
+  If Omega is larger than 0.35OmegaB initially, the l=2 mode may be excited but is
+  likely to decay rapidly once Omega falls below 0.35OmegaB, which happens in <~15
+  days if the saturation amplitude is >~0.1. The r-mode oscillations may play an important
+  role in determining the structure of neutron star magnetic fields.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...531L.139R
+arxivurl: http://arxiv.org/abs/astro-ph/9911188
+author: Rezzolla, L. and Lamb, F. K. and Shapiro, S. L.
+author_list:
+- family: Rezzolla
+  given: L.
+- family: Lamb
+  given: F. K.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-10 18:59:18 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/312539
+eprint: astro-ph/9911188
+journal: \apjl
+keywords: 'INSTABILITIES, MAGNETIC FIELDS, STARS: NEUTRON, STARS: OSCILLATIONS, STARS:
+  ROTATION'
+month: March
+pages: L139-L142
+papis_id: e06f8e6303f3387201abc5eb03165b69
+ref: rezzolla.l.2000
+title: R-Mode Oscillations in Rotating Magnetic Neutron Stars
+type: article
+volume: '531'
+year: '2000'

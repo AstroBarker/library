@@ -1,0 +1,82 @@
+abstract: We use astrometric, distance, and spindown data on pulsars to (1) estimate
+  three-dimensional velocity components, birth distances from the Galactic plane,
+  and ages of individual objects; (2) determine the distribution of space velocities
+  and the scale height of pulsar progenitors; (3) test spindown laws for pulsars;
+  (4) test for correlations between space velocities and other pulsar parameters;
+  and (5) place empirical requirements on mechanisms than can produce high-velocity
+  neutron stars. Our approach incorporates measurement errors, uncertainties in distances,
+  deceleration in the Galactic potential, and differential Galactic rotation. We focus
+  on a sample of proper motion measurements of young (<10 Myr) pulsars whose trajectories
+  may be accurately and simply modeled. This sample of 49 pulsars excludes millisecond
+  pulsars and other objects that may have undergone accretion-driven spinup. We estimate
+  velocity components and birth z distance on a case-by-case basis assuming that the
+  actual age equals the conventional spindown age for a braking index n = 3, no torque
+  decay, and birth periods much shorter than present-day periods. Every sample member
+  could have originated within 0.3 kpc of the Galactic plane while still having reasonable
+  present-day peculiar radial velocities. For the 49 object sample, the scale height
+  of the progenitors is ~0.13 kpc, and the three-dimensional velocities are distributed
+  in two components with characteristic speeds of 175+19-24 km s-1 and 700+300-132
+  km s-1, representing ~86\% and ~14\% of the population, respectively. The sample
+  velocities are inconsistent with a single-component Gaussian model and are well
+  described by a two-component Gaussian model but do not require models of additional
+  complexity. From the best-fit distribution, we estimate that about 20\% of the known
+  pulsars will escape the Galaxy, assuming an escape speed of 500 km s-1. The best-fit,
+  dual-component model, if augmented by an additional, low-velocity (<50 km s-1) component,
+  tolerates, at most, only a small extra contribution in number, less than 5\%. The
+  best three-component models do not show a preference for filling in the probability
+  distribution at speeds intermediate to 175 and 700 km s-1 but are nearly degenerate
+  with the best two-component models. We estimate that the high-velocity tail (>1000
+  km s-1) may be underrepresented (in the observed sample) by a factor ~2.3 owing
+  to selection effects in pulsar surveys. The estimates of scale height and velocity
+  parameters are insensitive to the explicit relation of chronological and spindown
+  ages. A further analysis starting from our inferred velocity distribution allows
+  us to test spindown laws and age estimates. There exist comparably good descriptions
+  of the data involving different combinations of braking index and torque decay timescale.
+  We find that a braking index of 2.5 is favored if torque decay occurs on a timescale
+  of ~3 Myr, while braking indices ~4.5 +/- 0.5 are preferred if there is no torque
+  decay. For the sample as a whole, the most probable chronological ages are typically
+  smaller than conventional spindown ages by factors as large as 2. We have also searched
+  for correlations between three-dimensional speeds of individual pulsars and combinations
+  of spin period and period derivative. None appears to be significant. We argue that
+  correlations identified previously between velocity and (apparent) magnetic moment
+  reflect the different evolutionary paths taken by young, isolated (nonbinary), high-field
+  pulsars and older, low-field pulsars that have undergone accretion-driven spinup.
+  We conclude that any such correlation measures differences in spin and velocity
+  selection in the evolution of the two populations and is not a measure of processes
+  taking place in the core collapse that produces neutron stars in the first place.
+  We assess mechanisms for producing high-velocity neutron stars, including disruption
+  of binary systems by symmetric supernovae and neutrino, baryonic, or electromagnetic
+  rocket effects during or shortly after the supernova. The largest velocities seen
+  (~1600 km s-1), along with the paucity of low-velocity pulsars, suggest that disruption
+  of binaries by symmetric explosions is insufficient. Rocket effects appear to be
+  a necessary and general phenomenon. The required kick amplitudes and the absence
+  of a magnetic field-velocity correlation do not yet rule out any of the rocket models.
+  However, the required amplitudes suggest that the core collapse process in a supernova
+  is highly dynamic and aspherical and that the impulse delivered to the neutron star
+  is larger than existing simulations of core collapse have achieved.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...505..315C
+arxivurl: http://arxiv.org/abs/astro-ph/9707308
+author: Cordes, J. M. and Chernoff, D. F.
+author_list:
+- family: Cordes
+  given: J. M.
+- family: Chernoff
+  given: D. F.
+date-added: 2017-08-11 04:39:30 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/306138
+eprint: astro-ph/9707308
+journal: \apj
+keywords: 'STARS: BINARIES: CLOSE, STARS: PULSARS: GENERAL, STARS: DISTANCES, STARS:
+  EVOLUTION, STARS: KINEMATICS, STARS: NEUTRON, Stars: Binaries: Close, Stars: Pulsars:
+  General, Stars: Distances, Stars: Evolution, Stars: Kinematics, Stars: Neutron'
+month: September
+pages: 315--338
+papis_id: 04069ddb09ab7dbfcc0bac83b9419be4
+ref: cordes.j.1998
+title: Neutron Star Population Dynamics. II. Three-dimensional Space Velocities of
+  Young Pulsars
+type: article
+volume: '505'
+year: '1998'

@@ -1,0 +1,56 @@
+abstract: The carbon-enhanced metal-poor (CEMP) stars constitute approximately one
+  fifth of the metal-poor ([Fe/H] \lessapprox{} -2) population but their origin is
+  not well understood. The most widely accepted formation scenario, at least for the
+  majority of CEMP stars which are also enriched in s-process elements, invokes mass-transfer
+  of carbon-rich material from a thermally-pulsing asymptotic giant branch (TPAGB)
+  primary star to a less massive main-sequence companion which is seen today. Recent
+  studies explore the possibility that an initial mass function biased toward intermediate-mass
+  stars is required to reproduce the observed CEMP fraction in stars with metallicity
+  [Fe/H]<-2.5. These models also implicitly predict a large number of nitrogen-enhanced
+  metal-poor (NEMP) stars which is not seen. In this paper we investigate whether
+  the observed CEMP and NEMP to extremely metal-poor (EMP) ratios can be explained
+  without invoking a change in the initial mass function. We construct binary-star
+  populations in an attempt to reproduce the observed number and chemical abundance
+  patterns of CEMP stars at a metallicity [Fe/H]\texttildelow{}-2.3. Our binary-population
+  models include synthetic nucleosynthesis in TPAGB stars and account for mass transfer
+  and other forms of binary interaction. This approach allows us to explore uncertainties
+  in the CEMP-star formation scenario by parameterization of uncertain input physics.
+  In particular, we consider the uncertainty in the physics of third dredge up in
+  the TPAGB primary, binary mass transfer and mixing in the secondary star. We confirm
+  earlier findings that with current detailed TPAGB models, in which third dredge
+  up is limited to stars more massive than about 1.25~M\&sun;, the large observed
+  CEMP fraction cannot be accounted for. We find that efficient third dredge up in
+  low-mass (less than 1.25~M\&sun;), low-metallicity stars may offer at least a partial
+  explanation for the large observed CEMP fraction while remaining consistent with
+  the small observed NEMP fraction.  Appendices A-E are only available in electronic
+  form at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...508.1359I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.2158
+author: Izzard, R. G. and Glebbeek, E. and Stancliffe, R. J. and Pols, O. R.
+author_list:
+- family: Izzard
+  given: R. G.
+- family: Glebbeek
+  given: E.
+- family: Stancliffe
+  given: R. J.
+- family: Pols
+  given: O. R.
+date-added: 2017-08-10 14:18:39 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1051/0004-6361/200912827
+eprint: '0910.2158'
+journal: \aap
+keywords: 'stars: carbon, binaries: close, stars: chemically peculiar, Galaxy: halo,
+  Galaxy: stellar content, nuclear reactions, nucleosynthesis, abundances'
+month: December
+pages: 1359--1374
+papis_id: f1990620bd3e3297b02e55028ffb54e1
+primaryclass: astro-ph.SR
+ref: izzard.r.2009
+title: Population synthesis of binary carbon-enhanced metal-poor stars
+type: article
+volume: '508'
+year: '2009'

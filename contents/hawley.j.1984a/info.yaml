@@ -1,0 +1,37 @@
+abstract: A two-dimensional axisymmetric computer code for calculating fully relativistic
+  ideal-gas hydrodynamics around a Kerr black hole is described. This code is being
+  used to study fully dynamic inviscid-fluid accretion onto black holes, as well as
+  the evolution and development of nonlinear instabilities in pressure-supported accretion
+  disks. The numerical techniques are developed and discussed. A variety of alternate
+  differencing schemes are compared on an analytic test bed. Some discussion is devoted
+  to general issues in finite differencing. The working code is calibrated using analytically
+  solvable accretion problems, including the radial accretion of dust and of fluid
+  with pressure (Bondi accretion). Two-dimensional test problems include the spiraling
+  infall of low-angular-momentum fluid, the formation of a pressure-supported torus,
+  and the stable evolution of a torus.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1984ApJS...55..211H
+author: Hawley, J. F. and Smarr, L. L. and Wilson, J. R.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Smarr
+  given: L. L.
+- family: Wilson
+  given: J. R.
+date-added: 2017-08-11 05:30:42 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/190953
+journal: \apjs
+keywords: Black Holes (Astronomy), Computational Fluid Dynamics, Finite Difference
+  Theory, Gas Dynamics, Stellar Mass Accretion, Calibrating, Codes, Cosmic Dust, Hydrodynamic
+  Equations, Inviscid Flow, Relativistic Effects, Shock Tubes
+month: June
+pages: 211--246
+papis_id: 58072c030c07d186b211805418e3ae0e
+ref: hawley.j.1984a
+title: A numerical study of nonspherical black hole accretion. II - Finite differencing
+  and code calibration
+type: article
+volume: '55'
+year: '1984'

@@ -1,0 +1,54 @@
+abstract: 'Context. For most astronomical objects, radiation is the only probe of
+  their physical properties. Therefore, it is important to have the most elaborate
+  theoretical tool to interpret observed spectra or images, thus providing invaluable
+  information to build theoretical models of the physical nature, the structure, and
+  the evolution of the studied objects.  Aims: We present IRIS, a new generic three-dimensional
+  (3D) spectral radiative transfer code that generates synthetic spectra, or images.
+  It can be used as a diagnostic tool for comparison with astrophysical observations
+  or laboratory astrophysics experiments.  Methods: We have developed a 3D short-characteristic
+  solver that works with a 3D nonuniform Cartesian grid. We have implemented a piecewise
+  cubic, locally monotonic, interpolation technique that dramatically reduces the
+  numerical diffusion effect. The code takes into account the velocity gradient effect
+  resulting in gradual Doppler shifts of photon frequencies and subsequent alterations
+  of spectral line profiles. It can also handle periodic boundary conditions. This
+  first version of the code assumes local thermodynamic equilibrium (LTE) and no scattering.
+  The opacities and source functions are specified by the user. In the near future,
+  the capabilities of IRIS will be extended to allow for non-LTE and scattering modeling.  Results:
+  IRIS has been validated through a number of tests. We provide the results for the
+  most relevant ones, in particular a searchlight beam test, a comparison with a 1D
+  plane-parallel model, and a test of the velocity gradient effect.  Conclusions:
+  IRIS is a generic code to address a wide variety of astrophysical issues applied
+  to different objects or structures, such as accretion shocks, jets in young stellar
+  objects, stellar atmospheres, exoplanet atmospheres, accretion disks, rotating stellar
+  winds, cosmological structures. It can also be applied to model laboratory astrophysics
+  experiments, such as radiative shocks produced with high power lasers.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...549A.126I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.4870
+author: Ibgui, L. and Hubeny, I. and Lanz, T. and Stehlé, C.
+author_list:
+- family: Ibgui
+  given: L.
+- family: Hubeny
+  given: I.
+- family: Lanz
+  given: T.
+- family: Stehlé
+  given: C.
+date-added: 2017-08-10 21:54:10 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1051/0004-6361/201220468
+eid: A126
+eprint: '1211.4870'
+journal: \aap
+keywords: 'methods: numerical, radiative transfer'
+month: January
+pages: A126
+papis_id: 3cb40c0f73069b5e357cb3a4b76f4b31
+primaryclass: astro-ph.IM
+ref: ibgui.l.2013
+title: 'IRIS: a generic three-dimensional radiative transfer code'
+type: article
+volume: '549'
+year: '2013'

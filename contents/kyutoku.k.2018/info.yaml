@@ -1,0 +1,58 @@
+abstract: We study the merger of black hole-neutron star binaries by fully general-relativistic
+  neutrino-radiation-hydrodynamics simulations throughout the coalescence, particularly
+  focusing on the role of neutrino irradiation in dynamical mass ejection. Neutrino
+  transport is incorporated by an approximate transfer scheme based on the truncated
+  moment formalism. While we fix the mass ratio of the black hole to the neutron star
+  to be 4 and the dimensionless spin parameter of the black hole to be 0.75, the equations
+  of state for finite-temperature neutron-star matter are varied. The hot accretion
+  disk formed after tidal disruption of the neutron star emits a copious amount of
+  neutrinos with the peak total luminosity \texttildelow{}1 - 3 \texttimes{}1053 erg
+  s-1 via thermal pair production and subsequent electron/positron captures on free
+  nucleons. Nevertheless, the neutrino irradiation does not modify significantly the
+  electron fraction of the dynamical ejecta from the neutrinoless beta -equilibrium
+  value at zero temperature of initial neutron stars. The mass of the wind component
+  driven by neutrinos from the remnant disk is negligible compared to the very neutron-rich
+  dynamical component, throughout our simulations performed until a few tens milliseconds
+  after the onset of merger, for the models considered in this study. These facts
+  suggest that the ejecta from black hole-neutron star binaries are very neutron rich
+  and are expected to accommodate strong r -process nucleosynthesis, unless magnetic
+  or viscous processes contribute substantially to the mass ejection from the disk.
+  We also find that the peak neutrino luminosity does not necessarily increase as
+  the disk mass increases, because tidal disruption of a compact neutron star can
+  result in a remnant disk with a small mass but high temperature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018PhRvD..97b3009K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.00827
+author: Kyutoku, K. and Kiuchi, K. and Sekiguchi, Y. and Shibata, M. and Taniguchi,
+  K.
+author_list:
+- family: Kyutoku
+  given: K.
+- family: Kiuchi
+  given: K.
+- family: Sekiguchi
+  given: Y.
+- family: Shibata
+  given: M.
+- family: Taniguchi
+  given: K.
+date-added: 2018-04-25 23:45:18 +0000
+date-modified: 2018-04-25 23:45:19 +0000
+doi: 10.1103/PhysRevD.97.023009
+eid: 023009
+eprint: '1710.00827'
+journal: \prd
+keywords: Astrophysics - High Energy Astrophysical Phenomena, General Relativity and
+  Quantum Cosmology
+month: January
+number: '2'
+pages: 023009
+papis_id: 4f4c9987d3bc4ec50d09ccf8f51978ce
+primaryclass: astro-ph.HE
+ref: kyutoku.k.2018
+title: 'Neutrino transport in black hole-neutron star binaries: Neutrino emission
+  and dynamical mass ejection'
+type: article
+volume: '97'
+year: '2018'

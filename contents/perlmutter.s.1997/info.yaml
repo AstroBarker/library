@@ -1,0 +1,97 @@
+abstract: We have developed a technique to systematically discover and study high-redshift
+  supernovae that can be used to measure the cosmological parameters. We report here
+  results based on the initial seven of more than 28 supernovae discovered to date
+  in the high-redshift supernova search of the Supernova Cosmology Project. We find
+  an observational dispersion in peak magnitudes of sigmaMB=0.27 this dispersion narrows
+  to sigmaMB,corr=0.19 after ``correcting'' the magnitudes using the light-curve ``width-luminosity''
+  relation found for nearby (z <= 0.1) Type Ia supernovae from the Cal{\'a}n/Tololo
+  survey (Hamuy et al.). Comparing light-curve width-corrected magnitudes as a function
+  of redshift of our distant (z = 0.35-0.46) supernovae to those of nearby Type Ia
+  supernovae yields a global measurement of the mass density, OmegaM=0.88+0.69-0.60
+  for a Lambda = 0 cosmology. For a spatially flat universe (i.e., OmegaM + OmegaLambda
+  = 1), we find OmegaM=0.94+0.34-0.28 or, equivalently, a measurement of the cosmological
+  constant, OmegaLambda=0.06+0.28-0.34 (<0.51 at the 95\% confidence level). For the
+  more general Friedmann-Lema{\^\i}tre cosmologies with independent OmegaM and OmegaLambda,
+  the results are presented as a confidence region on the OmegaM-OmegaLambda plane.
+  This region does not correspond to a unique value of the deceleration parameter
+  q0. We present analyses and checks for statistical and systematic errors and also
+  show that our results do not depend on the specifics of the width-luminosity correction.
+  The results for OmegaLambda-versus-OmegaM are inconsistent with Lambda-dominated,
+  low-density, flat cosmologies that have been proposed to reconcile the ages of globular
+  cluster stars with higher Hubble constant values.  Based in part on data from the
+  Isaac Newton Group Telescopes, KPNO and CTIO Observatories run by AURA, Mount Stromlo
+  \& Siding Spring Observatory, Nordic Optical Telescope, and the W. M. Keck Observatory
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...483..565P
+arxivurl: http://arxiv.org/abs/astro-ph/9608192
+author: Perlmutter, S. and Gabi, S. and Goldhaber, G. and Goobar, A. and Groom, D.
+  E. and Hook, I. M. and Kim, A. G. and Kim, M. Y. and Lee, J. C. and Pain, R. and
+  Pennypacker, C. R. and Small, I. A. and Ellis, R. S. and McMahon, R. G. and Boyle,
+  B. J. and Bunclark, P. S. and Carter, D. and Irwin, M. J. and Glazebrook, K. and
+  Newberg, H. J. M. and Filippenko, A. V. and Matheson, T. and Dopita, M. and Couch,
+  W. J.
+author_list:
+- family: Perlmutter
+  given: S.
+- family: Gabi
+  given: S.
+- family: Goldhaber
+  given: G.
+- family: Goobar
+  given: A.
+- family: Groom
+  given: D. E.
+- family: Hook
+  given: I. M.
+- family: Kim
+  given: A. G.
+- family: Kim
+  given: M. Y.
+- family: Lee
+  given: J. C.
+- family: Pain
+  given: R.
+- family: Pennypacker
+  given: C. R.
+- family: Small
+  given: I. A.
+- family: Ellis
+  given: R. S.
+- family: McMahon
+  given: R. G.
+- family: Boyle
+  given: B. J.
+- family: Bunclark
+  given: P. S.
+- family: Carter
+  given: D.
+- family: Irwin
+  given: M. J.
+- family: Glazebrook
+  given: K.
+- family: Newberg
+  given: H. J. M.
+- family: Filippenko
+  given: A. V.
+- family: Matheson
+  given: T.
+- family: Dopita
+  given: M.
+- family: Couch
+  given: W. J.
+date-added: 2017-08-10 18:24:01 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304265
+eprint: astro-ph/9608192
+journal: \apj
+keywords: 'Cosmology: Observations, Cosmology: Distance Scale, Stars: Supernovae:
+  General'
+month: July
+pages: 565--581
+papis_id: 0f99ecdeccf4911c62f6713b4f33cfa8
+ref: perlmutter.s.1997
+title: Measurements of the Cosmological Parameters $Ømega$ and \$Łambda\$ from the
+  First Seven Supernovae at z \$\gt\$= 0.35
+type: article
+volume: '483'
+year: '1997'

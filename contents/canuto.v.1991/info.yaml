@@ -1,0 +1,36 @@
+abstract: Improvements of the mixing-length theory (MLT) of turbulent convection in
+  stellar atmospheres are developed theoretically. It is pointed out that inaccuracies
+  are introduced into MLT by the approximating assumptions of a single large eddy
+  (rather than many eddies of different sizes) and of incompressibility. In the proposed
+  new model, the full spectrum of turbulent eddies is determined using more recent
+  turbulence models (e.g., the eddy-damped quasi-normal Markovian model of Orszag,
+  1977), and a new formula for the convective flux is obtained which gives values
+  up to 10 times greater than those of the MLT at high convective efficiencies. The
+  problem of compressibility is addressed by adding one of two new expressions (one
+  with no free parameters) for the mixing length. Numerical results from simulations
+  of a solar-type star and a 0.8-solar-mass globular-cluster star are presented in
+  tables and graphs and discussed in detail; the agreement with observations is found
+  to be better than with the MLT.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...370..295C
+author: Canuto, V. M. and Mazzitelli, I.
+author_list:
+- family: Canuto
+  given: V. M.
+- family: Mazzitelli
+  given: I.
+date-added: 2017-08-11 03:56:53 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/169815
+journal: \apj
+keywords: Free Convection, Magnetohydrodynamic Turbulence, Mixing Length Flow Theory,
+  Stellar Evolution, Stellar Interiors, Stellar Models, Computational Astrophysics,
+  Energy Spectra, Globular Clusters, Stellar Structure
+month: March
+pages: 295--311
+papis_id: cada7338061ae5306bae0f0dd5061ff8
+ref: canuto.v.1991
+title: 'Stellar Turbulent Convection: A New Model and Applications'
+type: article
+volume: '370'
+year: '1991'

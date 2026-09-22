@@ -1,0 +1,36 @@
+abstract: We calculate the global quasi-steady state of a thin disk perturbed by a
+  low-mass protoplanet orbiting at a fixed radius using extremely high resolution
+  numerical integrations of Euler's equations in two dimensions. The calculations
+  are carried out using a moving computational domain, which greatly reduces advection
+  errors and allows for much longer time steps than a fixed grid. We calculate the
+  angular momentum flux and the torque density as a function of radius and compare
+  them with analytical predictions. We discuss the quasi-steady state after 100 orbits
+  and the prospects for gap formation by low-mass planets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755....7D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.5608
+author: Duffell, P. C. and MacFadyen, A. I.
+author_list:
+- family: Duffell
+  given: P. C.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-10 22:15:06 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/1/7
+eid: '7'
+eprint: '1202.5608'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, planet-disk interactions, planets and
+  satellites: formation, protoplanetary disks'
+month: August
+pages: '7'
+papis_id: cf0aa351cbed65cf949ff5c7c64d431d
+primaryclass: astro-ph.EP
+ref: duffell.p.2012
+title: Global Calculations of Density Waves and Gap Formation in Protoplanetary Disks
+  Using a Moving Mesh
+type: article
+volume: '755'
+year: '2012'

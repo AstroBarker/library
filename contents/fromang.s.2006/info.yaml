@@ -1,0 +1,41 @@
+abstract: 'Aims. In this paper, we present a new method to perform numerical simulations
+  of astrophysical MHD flows using the Adaptive Mesh Refinement framework and Constrained
+  Transport.  Methods: . The algorithm is based on a previous work in which the MUSCL-Hancock
+  scheme was used to evolve the induction equation. In this paper, we detail the extension
+  of this scheme to the full MHD equations and discuss its properties.  Results: .
+  Through a series of test problems, we illustrate the performances of this new code
+  using two different MHD Riemann solvers (Lax-Friedrich and Roe) and the need of
+  the Adaptive Mesh Refinement capabilities in some cases. Finally, we show its versatility
+  by applying it to two completely different astrophysical situations well studied
+  in the past years: the growth of the magnetorotational instability in the shearing
+  box and the collapse of magnetized cloud cores. Conclusions: . We have implemented
+  a new Godunov scheme to solve the ideal MHD equations in the AMR code RAMSES. We
+  have shown that it results in a powerful tool that can be applied to a great variety
+  of astrophysical problems, ranging from galaxies formation in the early universe
+  to high resolution studies of molecular cloud collapse in our galaxy.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...457..371F
+arxivurl: http://arxiv.org/abs/astro-ph/0607230
+author: Fromang, S. and Hennebelle, P. and Teyssier, R.
+author_list:
+- family: Fromang
+  given: S.
+- family: Hennebelle
+  given: P.
+- family: Teyssier
+  given: R.
+date-added: 2017-08-10 23:28:24 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1051/0004-6361:20065371
+eprint: astro-ph/0607230
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), methods: numerical'
+month: October
+pages: 371--384
+papis_id: 18de35b2727c4976f2ec8960dc36cdd9
+ref: fromang.s.2006
+title: A high order Godunov scheme with constrained transport and adaptive mesh refinement
+  for astrophysical magnetohydrodynamics
+type: article
+volume: '457'
+year: '2006'

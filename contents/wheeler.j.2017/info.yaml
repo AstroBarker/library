@@ -1,0 +1,48 @@
+abstract: We explore simple semi-analytic fits to the bolometric light curve of Gaia17biu/SN
+  2017egm, the most nearby hydrogen-deficient superluminous supernova (SLSN I) yet
+  discovered. SN 2017egm has a quasi-bolometric light curve that is uncharacteristic
+  of other SLSN I by having a nearly linear rise to maximum and decline from peak,
+  with a very sharp transition. Magnetar models have difficulty explaining the sharp
+  peak and may tend to be too bright 20 days after maximum. Light curves powered only
+  by radioactive decay of 56Ni fail on similar grounds and because they demand greater
+  nickel mass than ejecta mass. Simple models based on circumstellar interaction (CSI)
+  do have a sharp peak corresponding to the epoch when the forward shock breaks out
+  of the optically thick circumstellar medium or the reverse shock reaches the inside
+  of the ejecta. We find that models based on CSI with a constant-density shell provide
+  an interesting fit to the bolometric light curve from 15 days before to 15 days
+  after peak light of SN 2017egm and that both magnetar and radioactive decay models
+  fail to fit the sharp peak. Future photometric observations should easily discriminate
+  basic CSI models from basic magnetar models. The implications of a CSI model are
+  briefly discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJ...851L..14W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.04994
+author: Wheeler, J. C. and Chatzopoulos, E. and Vinkó, J. and Tuminello, R.
+author_list:
+- family: Wheeler
+  given: J. C.
+- family: Chatzopoulos
+  given: E.
+- family: Vinkó
+  given: J.
+- family: Tuminello
+  given: R.
+date-added: 2018-04-25 23:43:27 +0000
+date-modified: 2018-04-25 23:43:28 +0000
+doi: 10.3847/2041-8213/aa9d84
+eid: L14
+eprint: '1710.04994'
+journal: \apjl
+keywords: 'galaxies: individual: NGC 3191, supernovae: general, supernovae: individual:
+  Gaia17biu, SN 2017egm'
+month: December
+pages: L14
+papis_id: 2de9f9814530ef48b6094962338c78a9
+primaryclass: astro-ph.HE
+ref: wheeler.j.2017
+title: Circumstellar Interaction Models for the Bolometric Light Curve of Type I Superluminous
+  SN 2017egm
+type: article
+volume: '851'
+year: '2017'

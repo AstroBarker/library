@@ -1,0 +1,65 @@
+abstract: By systematically analyzing the Swift/XRT light curves detected before 2009
+  July, we find 19 light curves that monotonously decay as a single power law (SPL)
+  with an index of 1 ~ 1.7 from tens (or hundreds) of seconds to ~105 s post the gamma-ray
+  burst (GRB) trigger. They are apparently different from the canonical light curves
+  characterized by a shallow-to-normal decay transition. We compare the observations
+  of the prompt gamma rays and the X-rays for these two samples of GRBs (SPL vs. canonical).
+  No statistical difference is found in the prompt gamma-ray properties for the two
+  samples. The X-ray properties of the two samples are also similar, although the
+  SPL sample tends to have a slightly lower neutral hydrogen absorption column for
+  the host galaxies and a slightly larger energy release compared with the canonical
+  sample. The SPL X-ray Telescope (XRT) light curves in the burst frame gradually
+  merge into a conflux, and their luminosities at 105 s are normally distributed at
+  log L/ergs s-1 = 45.6 $\pm$ 0.5. The normal decay segment of the canonical XRT light
+  curves has the same feature. Similar to the normal decay segment, the SPL light
+  curves satisfy the closure relations and therefore can be roughly explained with
+  external shock models. In the scenario that the X-rays are the afterglows of the
+  GRB fireball, our results indicate that the shallow decay would be due to energy
+  injection into the fireball and the total energy budget after injection for both
+  samples of GRBs is comparable. More intriguing, we find that a prior X-ray emission
+  model proposed by Yamazaki is more straightforward to interpret the observed XRT
+  data. We show that the zero times (T 0) of the X-rays are 102-105 s prior to the
+  GRB trigger for the canonical sample, and satisfy a log-normal distribution. The
+  negligible T 0's of the SPL sample are consistent with being the tail of T 0 distributions
+  at low end, suggesting that the SPL sample and the canonical sample may be from
+  a same parent sample. Referenced to T 0, the canonical XRT light curves well trace
+  the SPL light curves. The T 0's of the canonical light curves in our analysis are
+  usually much larger than the offsets of the known precursors from the main GRBs.
+  If the prior emission hypothesis is real, the X-ray emission is better interpreted
+  within the external shock models based on the spectral and temporal indices of the
+  X-rays. The lack of detection of a jet-like break in most XRT light curves implies
+  that the opening angle of the prior emission jet would be usually large.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...707..328L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.3504
+author: Liang, E.-W. and Lü, H.-J. and Hou, S.-J. and Zhang, B.-B. and Zhang, B.
+author_list:
+- family: Liang
+  given: E.-W.
+- family: Lü
+  given: H.-J.
+- family: Hou
+  given: S.-J.
+- family: Zhang
+  given: B.-B.
+- family: Zhang
+  given: B.
+date-added: 2017-08-11 05:01:51 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/707/1/328
+eprint: '0902.3504'
+journal: \apj
+keywords: 'gamma rays: bursts, gamma rays: observations, methods: data analysis, radiation
+  mechanisms: non-thermal'
+month: December
+pages: 328--342
+papis_id: 508ce95039b98913d71e36b94552273b
+primaryclass: astro-ph.HE
+ref: liang.e_w.2009
+title: A Comprehensive Analysis of Swift/X-Ray Telescope Data. IV. Single Power-Law
+  Decaying Light Curves Versus Canonical Light Curves and Implications for a Unified
+  Origin of X-Rays
+type: article
+volume: '707'
+year: '2009'

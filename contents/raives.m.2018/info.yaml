@@ -1,0 +1,51 @@
+abstract: 'Shock revival in core-collapse supernovae (CCSNe) may be due to the neutrino
+  mechanism. While it is known that in a neutrino-powered CCSN, explosion begins when
+  the neutrino luminosity of the proto-neutron star exceeds a critical value, the
+  physics of this condition in time-dependent, multidimensional simulations are not
+  fully understood. \citet{Pejcha2012} found that an `antesonic condition'' exists
+  for time-steady spherically symmetric models, potentially giving a physical explanation
+  for the critical curve observed in simulations. In this paper, we extend that analysis
+  to more general time-dependent polytropic models. We verify the critical antesonic
+  condition in our simulations, showing that models exceeding it drive transonic winds
+  whereas models below it exhibit steady accretion. In addition, we find that (1)
+  high spatial resolution is needed for accurate determination of the antesonic ratio
+  and shock radius at the critical curve, and that low resolution simulations systematically
+  underpredict these quantities, making explosion more difficult at lower resolution;
+  (2) there is an important physical connection between the critical mass accretion
+  rate at explosion and the mass loss rate of the post-explosion wind: the two are
+  directly proportional at criticality, implying that, at criticality, the wind kinetic
+  power is tied directly to the accretion power; (3) the value of the post-shock adiabatic
+  index $\Gamma$ has a large effect on the length and time scales of the post-bounce
+  evolution of the explosion larger values of \$\Gamma\$ result in a longer transition
+  from the accretion to wind phases.'
+adscomment: 12 pages, 11 figures; corrected typos in arXiv metadata
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180102626R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1801.02626
+author: Raives, M. J. and Couch, S. M. and Greco, J. P. and Pejcha, O. and Thompson,
+  T. A.
+author_list:
+- family: Raives
+  given: M. J.
+- family: Couch
+  given: S. M.
+- family: Greco
+  given: J. P.
+- family: Pejcha
+  given: O.
+- family: Thompson
+  given: T. A.
+date-added: 2018-04-06 15:00:45 +0000
+date-modified: 2018-04-06 15:00:46 +0000
+eprint: '1801.02626'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena
+month: January
+papis_id: 0dfca8c2f6b80d9d3cb40eca07b5765f
+primaryclass: astro-ph.HE
+ref: raives.m.2018
+title: 'The Antesonic Condition for the Explosion of Core-Collapse Supernovae I: Spherically
+  Symmetric Polytropic Models: Stability \amp Wind Emergence'
+type: article
+year: '2018'

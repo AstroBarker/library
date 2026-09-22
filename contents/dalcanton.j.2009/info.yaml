@@ -1,0 +1,101 @@
+abstract: The ACS Nearby Galaxy Survey Treasury (ANGST) is a systematic survey to
+  establish a legacy of uniform multi-color photometry of resolved stars for a volume-limited
+  sample of nearby galaxies (D < 4 Mpc). The survey volume encompasses 69 galaxies
+  in diverse environments, including close pairs, small and large groups, filaments,
+  and truly isolated regions. The galaxies include a nearly complete range of morphological
+  types spanning a factor of ~104 in luminosity and star formation rate. The survey
+  data consist of images taken with the Advanced Camera for Surveys (ACS) on the Hubble
+  Space Telescope (HST), supplemented with archival data and new Wide Field Planetary
+  Camera 2 (WFPC2) imaging taken after the failure of ACS. Survey images include wide
+  field tilings covering the full radial extent of each galaxy, and single deep pointings
+  in uncrowded regions of the most massive galaxies in the volume. The new wide field
+  imaging in ANGST reaches median 50\% completenesses of m F475W = 28.0 mag, m F606W
+  = 27.3 mag, and m F814W = 27.3 mag, several magnitudes below the tip of the red
+  giant branch (TRGB). The deep fields reach magnitudes sufficient to fully resolve
+  the structure in the red clump. The resulting photometric catalogs are publicly
+  accessible and contain over 34 million photometric measurements of >14 million stars.
+  In this paper we present the details of the sample selection, imaging, data reduction,
+  and the resulting photometric catalogs, along with an analysis of the photometric
+  uncertainties (systematic and random), for both ACS and WFPC2 imaging. We also present
+  uniformly derived relative distances measured from the apparent magnitude of the
+  TRGB.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..183...67D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0905.3737
+author: Dalcanton, J. J. and Williams, B. F. and Seth, A. C. and Dolphin, A. and Holtzman,
+  J. and Rosema, K. and Skillman, E. D. and Cole, A. and Girardi, L. and Gogarten,
+  S. M. and Karachentsev, I. D. and Olsen, K. and Weisz, D. and Christensen, C. and
+  Freeman, K. and Gilbert, K. and Gallart, C. and Harris, J. and Hodge, P. and de
+  Jong, R. S. and Karachentseva, V. and Mateo, M. and Stetson, P. B. and Tavarez,
+  M. and Zaritsky, D. and Governato, F. and Quinn, T.
+author_list:
+- family: Dalcanton
+  given: J. J.
+- family: Williams
+  given: B. F.
+- family: Seth
+  given: A. C.
+- family: Dolphin
+  given: A.
+- family: Holtzman
+  given: J.
+- family: Rosema
+  given: K.
+- family: Skillman
+  given: E. D.
+- family: Cole
+  given: A.
+- family: Girardi
+  given: L.
+- family: Gogarten
+  given: S. M.
+- family: Karachentsev
+  given: I. D.
+- family: Olsen
+  given: K.
+- family: Weisz
+  given: D.
+- family: Christensen
+  given: C.
+- family: Freeman
+  given: K.
+- family: Gilbert
+  given: K.
+- family: Gallart
+  given: C.
+- family: Harris
+  given: J.
+- family: Hodge
+  given: P.
+- family: de Jong
+  given: R. S.
+- family: Karachentseva
+  given: V.
+- family: Mateo
+  given: M.
+- family: Stetson
+  given: P. B.
+- family: Tavarez
+  given: M.
+- family: Zaritsky
+  given: D.
+- family: Governato
+  given: F.
+- family: Quinn
+  given: T.
+date-added: 2017-08-11 03:12:18 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0067-0049/183/1/67
+eprint: '0905.3737'
+journal: \apjs
+keywords: 'catalogs, galaxies: formation, galaxies: stellar content, surveys'
+month: July
+pages: 67--108
+papis_id: 460aab9bdae05446e1125532880987e7
+primaryclass: astro-ph.GA
+ref: dalcanton.j.2009
+title: The ACS Nearby Galaxy Survey Treasury
+type: article
+volume: '183'
+year: '2009'

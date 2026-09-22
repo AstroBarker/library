@@ -1,0 +1,64 @@
+abstract: The gamma-ray burst GRB 031203 at a redshift z=0.1055 revealed a highly
+  reddened Type Ic supernova, SN 2003lw, in its afterglow light. This is the third
+  well-established case of a link between a long-duration GRB and a Type Ic SN. The
+  SN light curve is obtained by subtracting the galaxy contribution and is modeled
+  together with two spectra at near-maximum epochs. A red VLT grism 150I spectrum
+  of the SN near peak is used to extend the spectral coverage, and in particular to
+  constrain the uncertain reddening, the most likely value for which is EG+H(B-V)~=1.07+/-0.05.
+  Accounting for reddening, SN 2003lw is ~0.3 mag brighter than the prototypical GRB-SN
+  1998bw. Light curve models yield a 56Ni mass of ~0.55 Msolar. The optimal explosion
+  model is somewhat more massive (Mej~13 Msolar) and more energetic (E~6\texttimes{}1052
+  ergs) than the model for SN 1998bw, implying a massive progenitor (40-50 Msolar).
+  The mass at high velocity is not very large (1.4 Msolar above 30,000 km s-1, but
+  only 0.1 Msolar above 60,000 km s-1), but it is sufficient to cause the observed
+  broad lines. The similarity of SNe 2003lw and 1998bw and the weakness of their related
+  GRBs, GRB 031203 and GRB 980425, suggest that both GRBs may be normal events viewed
+  slightly off-axis or a weaker but possibly more frequent type of GRB.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...645.1323M
+arxivurl: http://arxiv.org/abs/astro-ph/0603516
+author: Mazzali, P. A. and Deng, J. and Pian, E. and Malesani, D. and Tominaga, N.
+  and Maeda, K. and Nomoto, K. and Chincarini, G. and Covino, S. and Della Valle,
+  M. and Fugazza, D. and Tagliaferri, G. and Gal-Yam, A.
+author_list:
+- family: Mazzali
+  given: P. A.
+- family: Deng
+  given: J.
+- family: Pian
+  given: E.
+- family: Malesani
+  given: D.
+- family: Tominaga
+  given: N.
+- family: Maeda
+  given: K.
+- family: Nomoto
+  given: K.
+- family: Chincarini
+  given: G.
+- family: Covino
+  given: S.
+- family: Della Valle
+  given: M.
+- family: Fugazza
+  given: D.
+- family: Tagliaferri
+  given: G.
+- family: Gal-Yam
+  given: A.
+date-added: 2017-08-11 00:31:59 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/504415
+eprint: astro-ph/0603516
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Supernovae: General, Stars: Supernovae: Individual: Alphanumeric: SN 2003lw'
+month: July
+pages: 1323--1330
+papis_id: 794bf30537a776dd931487508cc05c18
+ref: mazzali.p.2006a
+title: Models for the Type Ic Hypernova SN 2003lw associated with GRB 031203
+type: article
+volume: '645'
+year: '2006'

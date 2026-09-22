@@ -1,0 +1,57 @@
+abstract: We follow the long-term evolution of the dynamic ejecta of neutron star
+  mergers for up to 100 years and over a density range of roughly 40 orders of magnitude.
+  We include the nuclear energy input from the freshly synthesized, radioactively
+  decaying nuclei in our simulations and study its effects on the remnant dynamics.
+  Although the nuclear heating substantially alters the long-term evolution, we find
+  that running nuclear networks over purely hydrodynamic simulations (i.e. without
+  heating) yields actually acceptable nucleosynthesis results. The main dynamic effect
+  of the radioactive heating is to quickly smooth out inhomogeneities in the initial
+  mass distribution, subsequently the evolution proceeds self-similarly and after
+  100 years the remnant still carries the memory of the initial binary mass ratio.
+  We also explore the nucleosynthetic yields for two mass ejection channels. The dynamic
+  ejecta very robustly produce `strong' r-process elements with A > 130 with a pattern
+  that is essentially independent of the details of the merging system. From a simple
+  model we find that neutrino-driven winds yield `weak' r-process contributions with
+  50 < A < 130 whose abundance patterns vary substantially between different merger
+  cases. This is because their electron fraction, set by the ratio of neutrino luminosities,
+  varies considerably from case to case. Such winds do not produce any 56Ni, but a
+  range of radioactive isotopes that are long-lived enough to produce a second, radioactively
+  powered electromagnetic transient in addition to the `macronova' from the dynamic
+  ejecta. While our wind model is very simple, it nevertheless demonstrates the potential
+  of such neutrino-driven winds for electromagnetic transients and it motivates further,
+  more detailed neutrino-hydrodynamic studies. The properties of the mentioned transients
+  are discussed in more detail in a companion paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.439..744R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.2939
+author: Rosswog, S. and Korobkin, O. and Arcones, A. and Thielemann, F.-K. and Piran,
+  T.
+author_list:
+- family: Rosswog
+  given: S.
+- family: Korobkin
+  given: O.
+- family: Arcones
+  given: A.
+- family: Thielemann
+  given: F.-K.
+- family: Piran
+  given: T.
+date-added: 2017-08-10 17:59:15 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1093/mnras/stt2502
+eprint: '1307.2939'
+journal: \mnras
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, gamma-ray
+  burst: general, stars: neutron'
+month: March
+pages: 744--756
+papis_id: 40ba698101c60764102209be9164cd1e
+primaryclass: astro-ph.HE
+ref: rosswog.s.2014
+title: The long-term evolution of neutron star merger remnants - I. The impact of
+  r-process nucleosynthesis
+type: article
+volume: '439'
+year: '2014'

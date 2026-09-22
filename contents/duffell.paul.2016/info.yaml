@@ -1,0 +1,32 @@
+abstract: This study presents a method for approximating the multidimensional         effects
+  of Rayleigh-Taylor (RT) instability as a modification of         the one-dimensional
+  (1D) hydro equations. This modification is         similar to the Shakura-Sunyaev
+  {\ensuremath{\alpha}}         prescription for modeling the coarse-grained effects
+  of         turbulence in astrophysical disks. The model introduces several         dimensionless
+  tunable parameters that are calibrated by         comparing with high-resolution
+  two-dimensional axisymmetric         numerical calculations of RT unstable flows.
+  A complete         description of the model is presented, along with a handful of         test
+  problems that demonstrate the extent to which the 1D model         is able to reproduce
+  multidimensional effects.
+archiveprefix: arXiv
+author: Duffell, Paul C.
+author_list:
+- family: Duffell
+  given: Paul C.
+doi: 10.3847/0004-637X/821/2/76
+eid: '76'
+eprint: '1504.02200'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, ISM: jets and outflows, ISM: supernova remnants,
+  shock waves, turbulence, Astrophysics - High Energy Astrophysical Phenomena'
+month: April
+number: '2'
+pages: '76'
+papis_id: e6be01dd4b7046f944a056d0b4dad36d
+primaryclass: astro-ph.HE
+ref: duffell.paul.2016
+title: A One-Dimensional Model for Rayleigh-Taylor Instability in Supernova Remnants
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2016ApJ...821...76D
+volume: '821'
+year: '2016'

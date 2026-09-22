@@ -1,0 +1,49 @@
+abstract: Using the Very Large Array, we have measured the proper motions of 28 radio
+  pulsars. On average, the pulsars studied are fainter and more distant than those
+  studied in earlier work, reducing the selection biases inherent in surveys restricted
+  to the solar neighborhood. The typical measurement precision achieved is a few milliarcseconds
+  per year, corresponding to a few tens of kilometers per second for a pulsar a kiloparsec
+  away. While our results compare well with higher precision measurements done using
+  very long baseline interferometry, we find that several earlier proper-motion surveys
+  appear to have reported overly optimistic measurement uncertainties, most likely
+  because of a failure to fully account for ionospheric effects. We discuss difficulties
+  inherent in estimating pulsar velocities from proper motions given poorly constrained
+  pulsar distances. Our observations favor a distribution with 20\% of pulsars in
+  a low-velocity component (sigmarm1D=99 km s-1) and 80\% in a high-velocity component
+  (sigma1D=294 km s-1). Furthermore, our sample is consistent with a scale height
+  of pulsar birthplaces comparable to the scale height of the massive stars that are
+  their presumed progenitors. No evidence is found in our data for a significant population
+  of young pulsars born far from the plane. We find that estimates of pulsar ages
+  based on kinematics agree well with the canonical spin-down age estimate, but agreement
+  is improved if braking indexes are drawn from a Gaussian distribution centered at
+  n=3 with width 0.8.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003AJ....126.3090B
+arxivurl: http://arxiv.org/abs/astro-ph/0309215
+author: Brisken, W. F. and Fruchter, A. S. and Goss, W. M. and Herrnstein, R. M. and
+  Thorsett, S. E.
+author_list:
+- family: Brisken
+  given: W. F.
+- family: Fruchter
+  given: A. S.
+- family: Goss
+  given: W. M.
+- family: Herrnstein
+  given: R. M.
+- family: Thorsett
+  given: S. E.
+date-added: 2017-08-11 04:38:46 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379559
+eprint: astro-ph/0309215
+journal: \aj
+keywords: 'Astrometry, Stars: Pulsars: General, Stars: Kinematics, Stars: Neutron'
+month: December
+pages: 3090--3098
+papis_id: 9bcbf043682081cb913f4b163e601edc
+ref: brisken.w.2003
+title: Proper-Motion Measurements with the VLA. II. Observations of 28 Pulsars
+type: article
+volume: '126'
+year: '2003'

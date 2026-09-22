@@ -1,0 +1,46 @@
+abstract: We present results for models of neutron stars and strange stars constructed
+  using the Hartle-Thorne slow-rotation method with a wide range of equations of state,
+  focusing on the values obtained for the angular momentum J and the quadrupole moment
+  Q, when the gravitational mass M and the rotational frequency Omega are specified.
+  Building on previous work, which showed surprising uniformity in the behaviour of
+  the moment of inertia for neutron-star models constructed with widely different
+  equations of state, we find similar uniformity for the quadrupole moment. These
+  two quantities, together with the mass, are fundamental for determining the vacuum
+  space-time outside neutron stars. We study particularly the dimensionless combination
+  of parameters QM/J2 (using units for which c = G = 1). This quantity goes to 1 in
+  the case of a Kerr-metric black hole and deviations away from 1 then characterize
+  the difference between neutron-star and black hole space-time. It is found that
+  QM/J2 for both neutron stars and strange stars decreases with increasing mass, for
+  a given equation of state, reaching a value of around 2 (or even less) for maximum-mass
+  models, meaning that their external space-time is then not very far from that of
+  the Kerr metric. If QM/J2 is plotted against R/2M (where R is the radius), it is
+  found that the relationship is nearly unique for neutron-star models, independent
+  of the equation of state, while it is significantly different for strange stars.
+  This gives a new way of possibly distinguishing between them.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.433.1903U
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.5925
+author: Urbanec, M. and Miller, J. C. and Stuchlík, Z.
+author_list:
+- family: Urbanec
+  given: M.
+- family: Miller
+  given: J. C.
+- family: Stuchlík
+  given: Z.
+date-added: 2017-08-10 22:34:50 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt858
+eprint: '1301.5925'
+journal: \mnras
+keywords: 'stars: neutron, stars: rotation'
+month: August
+pages: 1903--1909
+papis_id: 473a937e0c457a7c51ae02f911b408ca
+primaryclass: astro-ph.SR
+ref: urbanec.m.2013
+title: Quadrupole moments of rotating neutron stars and strange stars
+type: article
+volume: '433'
+year: '2013'

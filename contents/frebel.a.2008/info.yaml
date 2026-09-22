@@ -1,0 +1,52 @@
+abstract: We present a new abundance analysis of HE 1327-2326, which is currently
+  the most iron-poor star, based on observational data obtained with the VLT Ultraviolet
+  and Visual Echelle Spectrograph (UVES). We correct the one-dimensional (1D) LTE
+  abundances for three-dimensional (3D) effects to provide an abundance pattern that
+  supersedes previous works and should be used to observationally test current models
+  of the chemical yields of the first-generation supernovae (SNe). Apart from confirming
+  the 1D LTE abundances found in previous studies before accounting for 3D effects,
+  we make use of a novel technique to apply the 3D-1D corrections for CNO which are
+  a function of excitation potential and line strength for the molecular lines that
+  comprise the observable CH, NH, and OH features. We find that the fit to the NH
+  band at 3360 {\AA} is greatly improved due to the application of the 3D-1D corrections.
+  This may indicate that 3D effects are actually observable in this star. We also
+  report the first detection of several weak Ni lines. The cosmologically important
+  element Li is still not detected; the new Li upper limit is extremely low, A(Li)
+  < 0.62, and in stark contrast with results not only from the Wilkinson Microwave
+  Anisotropy Probe (WMAP) but also from other metal-poor stars. We also discuss how
+  the new corrected abundance pattern of HE 1327-2326 is being reproduced by individual
+  and integrated yields of SNe.  Based on observations collected at the European Southern
+  Observatory, Paranal, Chile (Proposal ID 075.D-0048).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...684..588F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0805.3341
+author: Frebel, A. and Collet, R. and Eriksson, K. and Christlieb, N. and Aoki, W.
+author_list:
+- family: Frebel
+  given: A.
+- family: Collet
+  given: R.
+- family: Eriksson
+  given: K.
+- family: Christlieb
+  given: N.
+- family: Aoki
+  given: W.
+date-added: 2017-08-11 04:54:04 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/590327
+eid: 588-602
+eprint: '0805.3341'
+journal: \apj
+keywords: 'early universe, Galaxy: halo, stars: abundances, stars: formation, stars:
+  individual: HE 1327{\ndash}2326, stars: Population II'
+month: September
+pages: 588--602
+papis_id: 5cc0a6618035395c0d2e1e5c20d1a8e7
+ref: frebel.a.2008
+title: HE 1327-2326, an Unevolved Star with [Fe/H]$łt$-5.0. II. New 3D-1D Corrected
+  Abundances from a Very Large Telescope UVES Spectrum
+type: article
+volume: '684'
+year: '2008'

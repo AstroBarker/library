@@ -1,0 +1,37 @@
+abstract: We review the current status of attempts to numerically model the merger
+  of neutron star-neutron star (NSNS) and black hole-neutron star (BHNS) binary systems
+  and describe the understanding of such events that is emerging from these calculations.
+  To accurately model the physics of NSNS and BHNS mergers is a difficult task. It
+  requires solving Einstein's equations for dynamic spacetimes containing black holes.
+  It also requires evolving the hot, supernuclear-density neutron star matter together
+  with the magnetic and radiation fields that can influence the post-merger dynamics.
+  Older studies concentrated on either one or the other of these challenges, but now
+  efforts are being made to model both relativity and microphysics accurately together.
+  These NSNS and BHNS simulations are then used to characterize the gravitational
+  wave signals of such events and to address their potential for generating short-duration
+  gamma ray bursts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27k4002D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0912.3529
+author: Duez, M. D.
+author_list:
+- family: Duez
+  given: M. D.
+date-added: 2017-08-10 22:33:08 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/0264-9381/27/11/114002
+eid: '114002'
+eprint: '0912.3529'
+journal: Classical and Quantum Gravity
+month: June
+number: '11'
+pages: '114002'
+papis_id: fbd85698ad50e78ed1d33ce3d4ce2d7b
+primaryclass: astro-ph.HE
+ref: duez.m.2010a
+title: 'Numerical relativity confronts compact neutron star binaries: a review and
+  status report'
+type: article
+volume: '27'
+year: '2010'

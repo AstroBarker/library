@@ -1,0 +1,32 @@
+abstract: Diffusion and heat conductivity within stars are shown to be substantially
+  affected by fluid shear motions, even when these motions do not mix fluid elements
+  (i.e., even when no fluid element wanders far from its equilibrium position). Internal
+  gravity waves (g-modes) are one example of such a nonmixing flow. A formalism, based
+  on Lagrangian flow coordinates, is developed to describe the effect in Boussinesq
+  approximation. The diffusion of passive contaminants and of specific entropy is
+  found to be generally enhanced, while the conduction of heat in stably stratified
+  layers is suppressed (the fluid motions power a thermodynamic refrigerator). Explicit
+  formulae are derived for flows which can be approximated as having spatially constant
+  velocity gradients, and also for interval gravity waves. In the latter case the
+  mechanical dissipation and thermodynamic efficiencies are calculated.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1981ApJ...248..751P
+author: Press, W. H. and Rybicki, G. B.
+author_list:
+- family: Press
+  given: W. H.
+- family: Rybicki
+  given: G. B.
+date-added: 2017-08-11 06:43:24 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/159199
+journal: \apj
+month: September
+pages: '751'
+papis_id: d82da0abf86f0d49fd88ac080c5e14d8
+ref: press.w.1981
+title: Enhancement of Passive Diffusion and Suppression of Heat Flux in a Fluid with
+  Time Varying Shear
+type: article
+volume: '248'
+year: '1981'

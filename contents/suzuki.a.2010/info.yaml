@@ -1,0 +1,37 @@
+abstract: We investigate the role of the bulk comptonization process in the propagation
+  of thermal photons emitted at the shock breakout of a supernova explosion. We use
+  a hydrodynamical model based on a self-similar solution for the shock breakout.
+  The propagation of photons is treated by a Monte Carlo technique. Results of the
+  simulations successfully reproduce the power-law spectrum observed by X-ray observations
+  for XRF 080109/SN 2008D, if a mildly relativistic shock velocity is assumed. Effects
+  of some radiative processes, photoionization, radiative recombination, and free-free
+  absorption on the propagation of emitted photons are also investigated. It is found
+  that any of them hardly changes the spectrum regarding the progenitor stars of Type
+  Ib or Ic supernovae. Light curves calculated under the assumption of a spherical
+  explosion indicate that the progenitor radius is required to be ~1013 cm.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...719..881S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.5173
+author: Suzuki, A. and Shigeyama, T.
+author_list:
+- family: Suzuki
+  given: A.
+- family: Shigeyama
+  given: T.
+date-added: 2017-08-11 02:44:47 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0004-637X/719/1/881
+eprint: '1006.5173'
+journal: \apj
+keywords: 'radiation mechanisms: non-thermal, shock waves, supernovae: general, supernovae:
+  individual: SN 2008D, X-rays: bursts'
+month: August
+pages: 881--889
+papis_id: 5c0a42b6e1b1ba3e9c878c6e94125a5a
+primaryclass: astro-ph.HE
+ref: suzuki.a.2010
+title: Non-thermal Photon Production via Bulk Comptonization at Supernova Shock Breakout
+type: article
+volume: '719'
+year: '2010'

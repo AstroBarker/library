@@ -1,0 +1,32 @@
+abstract: We present magnetohydrodynamic (MHD) models of stellar core collapse computed
+  with our astrophysical MHD code GenASiS. Microphysics in the models include a realistic
+  equation of state and a simple parametrization of deleptionization during collapse.
+  We give a brief description of some numerical results, and discuss requirements
+  for capturing the physics of the magnetorotational instability in the context of
+  core collapse supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007JPhCS..78a2016E
+author: Endeve, E. and Cardall, C. Y. and Budiardja, R. D. and Mezzacappa, A.
+author_list:
+- family: Endeve
+  given: E.
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+- family: Mezzacappa
+  given: A.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-11 05:02:07 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1088/1742-6596/78/1/012016
+eid: '012016'
+month: July
+pages: '012016'
+papis_id: 8e9aa6f452f10f9b488a4f76e8dd92c0
+ref: endeve.e.2007
+series: Journal of Physics Conference Series
+title: MHD models of stellar core collapse with GenASiS
+type: inproceedings
+volume: '78'
+year: '2007'

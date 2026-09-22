@@ -1,0 +1,47 @@
+abstract: During the core collapse of massive stars, the formation of the protoneutron
+  star is accompanied by the emission of a significant amount of mass-energy (\texttildelow{}0.3
+  M\&sun;) in the form of neutrinos. This mass-energy loss generates an outward-propagating
+  pressure wave that steepens into a shock near the stellar surface, potentially powering
+  a weak transient associated with an otherwise-failed supernova. We analytically
+  investigate this mass-loss-induced wave generation and propagation. Heuristic arguments
+  provide an accurate estimate of the amount of energy contained in the outgoing sound
+  pulse. We then develop a general formalism for analyzing the response of the star
+  to centrally concentrated mass loss in linear perturbation theory. To build intuition,
+  we apply this formalism to polytropic stellar models, finding qualitative and quantitative
+  agreement with simulations and heuristic arguments. We also apply our results to
+  realistic pre-collapse massive star progenitors (both giants and compact stars).
+  Our analytic results for the sound pulse energy, excitation radius, and steepening
+  in the stellar envelope are in good agreement with full time-dependent hydrodynamic
+  simulations. We show that prior to the sound pulses arrival at the stellar photosphere,
+  the photosphere has already reached velocities \texttildelow{}20 - 100\% of the
+  local sound speed, thus likely modestly decreasing the stellar effective temperature
+  prior to the star disappearing. Our results provide important constraints on the
+  physical properties and observational appearance of failed supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.tmp..643C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.01746
+author: Coughlin, E. R. and Quataert, E. and Fernández, R. and Kasen, D.
+author_list:
+- family: Coughlin
+  given: E. R.
+- family: Quataert
+  given: E.
+- family: Fernández
+  given: R.
+- family: Kasen
+  given: D.
+date-added: 2018-03-21 12:00:59 +0000
+date-modified: 2018-03-21 12:01:00 +0000
+doi: 10.1093/mnras/sty667
+eprint: '1710.01746'
+journal: \mnras
+keywords: 'black hole physics, hydrodynamics, methods: analytical, shock waves, supernovae:
+  general, waves'
+month: March
+papis_id: 4fe18889fde6b898013f50d4429c58b2
+primaryclass: astro-ph.HE
+ref: coughlin.e.2018
+title: A Physical Model of Mass Ejection in Failed Supernovae
+type: article
+year: '2018'

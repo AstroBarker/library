@@ -1,0 +1,61 @@
+abstract: 'Context. The Cygnus region harbours a huge complex of massive stars at
+  a distance of 1.0-2.0 kpc from us. About 170 O stars are distributed over several
+  OB associations, among which the Cyg OB2 cluster is by far the most important with
+  about 100-120 O stars. These massive stars inject large quantities of radioactive
+  nuclei into the interstellar medium, such as 26Al and 60Fe, and their gamma-ray
+  line decay signals can provide insight into the physics of massive stars and core-collapse
+  supernovae.  Aims: Past studies of the nucleosynthesis activity of Cygnus have concluded
+  that the level of 26Al decay emission as deduced from CGRO/COMPTEL observations
+  was a factor 2-3 above the predictions based on the theoretical yields available
+  at that time and on the observed stellar content of the Cygnus region. We reevaluate
+  the situation from new measurements of the gamma-ray decay fluxes with INTEGRAL/SPI
+  (presented in a previous paper) and new predictions based on recently improved stellar
+  models.  Methods: We built a grid of nucleosynthesis yields from recent models of
+  massive stars. Compared to previous works, our data include some of the effects
+  of stellar rotation for the higher mass stars and a coherent estimate of the contribution
+  from SNIb/c. We then developed a population synthesis code to predict the nucleosynthesis
+  activity and corresponding decay fluxes of a given stellar population of massive
+  stars.  Results: The observed decay fluxes from the Cygnus complex are found to
+  be consistent with the values predicted by population synthesis at solar metallicity;
+  and yet, when extrapolated to the possible subsolar metallicity of the Cygnus complex,
+  our predictions fail to account for the INTEGRAL/SPI measurements. The observed
+  extent of the 1809 keV emission from Cygnus is found to be consistent with the result
+  of a numerical simulation of the diffusion of 26Al inside the superbubble blown
+  by Cyg OB2.  Conclusions: Our work indicates that the past dilemma regarding the
+  gamma-ray line emission from Cygnus resulted from an overestimate of the 1809 keV
+  flux of the Cygnus complex, combined with an underestimate of the nucleosynthesis
+  yields. Our results illustrate the importance of stellar rotation and SNIb/c in
+  the nucleosynthesis of 26Al and 60Fe. The effects of binarity and metallicity may
+  also be necessary to account for the observations satisfactorily.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...511A..86M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.1522
+author: Martin, P. and Knödlseder, J. and Meynet, G. and Diehl, R.
+author_list:
+- family: Martin
+  given: P.
+- family: Knödlseder
+  given: J.
+- family: Meynet
+  given: G.
+- family: Diehl
+  given: R.
+date-added: 2017-08-10 19:54:23 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1051/0004-6361/200912864
+eid: A86
+eprint: '1001.1522'
+journal: \aap
+keywords: 'gamma rays: stars, gamma rays: ISM, open clusters and associations: individual:
+  Cygnus OB, stars: early-type, ISM: bubbles, nuclear reactions, nucleosynthesis,
+  abundances'
+month: February
+pages: A86
+papis_id: c31e3304c263f5d6241de644655d5d69
+primaryclass: astro-ph.HE
+ref: martin.p.2010
+title: Predicted gamma-ray line emission from the Cygnus complex
+type: article
+volume: '511'
+year: '2010'

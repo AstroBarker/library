@@ -1,0 +1,455 @@
+abstract: Millisecond pulsars (MSPs) have been firmly established as a class of gamma-ray
+  emitters via the detection of pulsations above 0.1 GeV from eight MSPs by the Fermi
+  Large Area Telescope (LAT). Using 13 months of LAT data, significant gamma-ray pulsations
+  at the radio period have been detected from the MSP PSR J0034-0534, making it the
+  ninth clear MSP detection by the LAT. The gamma-ray light curve shows two peaks
+  separated by 0.274 $\pm$ 0.015 in phase which are very nearly aligned with the radio
+  peaks, a phenomenon seen only in the Crab pulsar until now. The >=0.1 GeV spectrum
+  of this pulsar is well fit by an exponentially cutoff power law with a cutoff energy
+  of 1.8 \$\pm\$ 0.6 \$\pm\$ 0.1 GeV and a photon index of 1.5 \$\pm\$ 0.2 \$\pm\$
+  0.1, first errors are statistical and second are systematic. The near-alignment
+  of the radio and gamma-ray peaks strongly suggests that the radio and gamma-ray
+  emission regions are co-located and both are the result of caustic formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...712..957A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.2607
+author: Abdo, A. A. and Ackermann, M. and Ajello, M. and Allafort, A. and Baldini,
+  L. and Ballet, J. and Barbiellini, G. and Bastieri, D. and Bechtol, K. and Bellazzini,
+  R. and Berenji, B. and Blandford, R. D. and Bloom, E. D. and Bonamente, E. and Borgland,
+  A. W. and Bouvier, A. and Bregeon, J. and Brez, A. and Brigida, M. and Bruel, P.
+  and Burnett, T. H. and Buson, S. and Caliandro, G. A. and Cameron, R. A. and Camilo,
+  F. and Caraveo, P. A. and Carrigan, S. and Casandjian, J. M. and Cecchi, C. and
+  Çelik, Ö. and Chekhtman, A. and Cheung, C. C. and Chiang, J. and Ciprini, S. and
+  Claus, R. and Cognard, I. and Cohen-Tanugi, J. and Conrad, J. and Corbet, R. and
+  DeCesar, M. E. and Dermer, C. D. and Desvignes, G. and de Angelis, A. and de Palma,
+  F. and Digel, S. W. and Dormody, M. and Silva, E. d. C. e. and Drell, P. S. and
+  Dubois, R. and Dumora, D. and Espinoza, C. and Farnier, C. and Favuzzi, C. and Fegan,
+  S. J. and Focke, W. B. and Frailis, M. and Freire, P. C. C. and Fukazawa, Y. and
+  Funk, S. and Fusco, P. and Gargano, F. and Gasparrini, D. and Gehrels, N. and Germani,
+  S. and Giavitto, G. and Giglietto, N. and Giordano, F. and Glanzman, T. and Godfrey,
+  G. and Grenier, I. A. and Grondin, M.-H. and Grove, J. E. and Guillemot, L. and
+  Guiriec, S. and Hadasch, D. and Harding, A. K. and Hays, E. and Hobbs, G. and Horan,
+  D. and Hughes, R. E. and Jóhannesson, G. and Johnson, A. S. and Johnson, T. J. and
+  Johnson, W. N. and Johnston, S. and Kamae, T. and Katagiri, H. and Kataoka, J. and
+  Kawai, N. and Kerr, M. and Knödlseder, J. and Kramer, M. and Kuss, M. and Lande,
+  J. and Latronico, L. and Lemoine-Goumard, M. and Llena Garde, M. and Longo, F. and
+  Loparco, F. and Lott, B. and Lovellette, M. N. and Lubrano, P. and Lyne, A. G. and
+  Makeev, A. and Manchester, R. N. and Marelli, M. and Mazziotta, M. N. and McConville,
+  W. and McEnery, J. E. and McGlynn, S. and Meurer, C. and Michelson, P. F. and Mitthumsiri,
+  W. and Mizuno, T. and Moiseev, A. A. and Monte, C. and Monzani, M. E. and Morselli,
+  A. and Moskalenko, I. V. and Murgia, S. and Nolan, P. L. and Norris, J. P. and Noutsos,
+  A. and Nuss, E. and Ohsugi, T. and Omodei, N. and Orlando, E. and Ormes, J. F. and
+  Ozaki, M. and Paneque, D. and Panetta, J. H. and Parent, D. and Pelassa, V. and
+  Pepe, M. and Pesce-Rollins, M. and Pierbattista, M. and Piron, F. and Porter, T.
+  A. and Rainò, S. and Rando, R. and Ransom, S. M. and Razzano, M. and Reimer, A.
+  and Reimer, O. and Reposeur, T. and Ripken, J. and Ritz, S. and Rochester, L. S.
+  and Rodriguez, A. Y. and Romani, R. W. and Roth, M. and Ryde, F. and Sadrozinski,
+  H. F.-W. and Sander, A. and Saz Parkinson, P. M. and Scargle, J. D. and Sgrò, C.
+  and Siskind, E. J. and Smith, D. A. and Smith, P. D. and Spandre, G. and Spinelli,
+  P. and Stappers, B. W. and Starck, J.-L. and Strickman, M. S. and Suson, D. J. and
+  Takahashi, H. and Tanaka, T. and Thayer, J. B. and Thayer, J. G. and Theureau, G.
+  and Thompson, D. J. and Thorsett, S. E. and Tibaldo, L. and Torres, D. F. and Tosti,
+  G. and Tramacere, A. and Usher, T. L. and Van Etten, A. and Vasileiou, V. and Venter,
+  C. and Vilchez, N. and Vitale, V. and Waite, A. P. and Wallace, E. and Wang, P.
+  and Weltevrede, P. and Winer, B. L. and Wood, K. S. and Ylinen, T. and Ziegler,
+  M.
+author_list:
+- family: Abdo
+  given: A. A.
+- family: Ackermann
+  given: M.
+- family: Ajello
+  given: M.
+- family: Allafort
+  given: A.
+- family: Baldini
+  given: L.
+- family: Ballet
+  given: J.
+- family: Barbiellini
+  given: G.
+- family: Bastieri
+  given: D.
+- family: Bechtol
+  given: K.
+- family: Bellazzini
+  given: R.
+- family: Berenji
+  given: B.
+- family: Blandford
+  given: R. D.
+- family: Bloom
+  given: E. D.
+- family: Bonamente
+  given: E.
+- family: Borgland
+  given: A. W.
+- family: Bouvier
+  given: A.
+- family: Bregeon
+  given: J.
+- family: Brez
+  given: A.
+- family: Brigida
+  given: M.
+- family: Bruel
+  given: P.
+- family: Burnett
+  given: T. H.
+- family: Buson
+  given: S.
+- family: Caliandro
+  given: G. A.
+- family: Cameron
+  given: R. A.
+- family: Camilo
+  given: F.
+- family: Caraveo
+  given: P. A.
+- family: Carrigan
+  given: S.
+- family: Casandjian
+  given: J. M.
+- family: Cecchi
+  given: C.
+- family: Çelik
+  given: Ö.
+- family: Chekhtman
+  given: A.
+- family: Cheung
+  given: C. C.
+- family: Chiang
+  given: J.
+- family: Ciprini
+  given: S.
+- family: Claus
+  given: R.
+- family: Cognard
+  given: I.
+- family: Cohen-Tanugi
+  given: J.
+- family: Conrad
+  given: J.
+- family: Corbet
+  given: R.
+- family: DeCesar
+  given: M. E.
+- family: Dermer
+  given: C. D.
+- family: Desvignes
+  given: G.
+- family: de Angelis
+  given: A.
+- family: de Palma
+  given: F.
+- family: Digel
+  given: S. W.
+- family: Dormody
+  given: M.
+- family: Silva
+  given: E. d. C. e.
+- family: Drell
+  given: P. S.
+- family: Dubois
+  given: R.
+- family: Dumora
+  given: D.
+- family: Espinoza
+  given: C.
+- family: Farnier
+  given: C.
+- family: Favuzzi
+  given: C.
+- family: Fegan
+  given: S. J.
+- family: Focke
+  given: W. B.
+- family: Frailis
+  given: M.
+- family: Freire
+  given: P. C. C.
+- family: Fukazawa
+  given: Y.
+- family: Funk
+  given: S.
+- family: Fusco
+  given: P.
+- family: Gargano
+  given: F.
+- family: Gasparrini
+  given: D.
+- family: Gehrels
+  given: N.
+- family: Germani
+  given: S.
+- family: Giavitto
+  given: G.
+- family: Giglietto
+  given: N.
+- family: Giordano
+  given: F.
+- family: Glanzman
+  given: T.
+- family: Godfrey
+  given: G.
+- family: Grenier
+  given: I. A.
+- family: Grondin
+  given: M.-H.
+- family: Grove
+  given: J. E.
+- family: Guillemot
+  given: L.
+- family: Guiriec
+  given: S.
+- family: Hadasch
+  given: D.
+- family: Harding
+  given: A. K.
+- family: Hays
+  given: E.
+- family: Hobbs
+  given: G.
+- family: Horan
+  given: D.
+- family: Hughes
+  given: R. E.
+- family: Jóhannesson
+  given: G.
+- family: Johnson
+  given: A. S.
+- family: Johnson
+  given: T. J.
+- family: Johnson
+  given: W. N.
+- family: Johnston
+  given: S.
+- family: Kamae
+  given: T.
+- family: Katagiri
+  given: H.
+- family: Kataoka
+  given: J.
+- family: Kawai
+  given: N.
+- family: Kerr
+  given: M.
+- family: Knödlseder
+  given: J.
+- family: Kramer
+  given: M.
+- family: Kuss
+  given: M.
+- family: Lande
+  given: J.
+- family: Latronico
+  given: L.
+- family: Lemoine-Goumard
+  given: M.
+- family: Llena Garde
+  given: M.
+- family: Longo
+  given: F.
+- family: Loparco
+  given: F.
+- family: Lott
+  given: B.
+- family: Lovellette
+  given: M. N.
+- family: Lubrano
+  given: P.
+- family: Lyne
+  given: A. G.
+- family: Makeev
+  given: A.
+- family: Manchester
+  given: R. N.
+- family: Marelli
+  given: M.
+- family: Mazziotta
+  given: M. N.
+- family: McConville
+  given: W.
+- family: McEnery
+  given: J. E.
+- family: McGlynn
+  given: S.
+- family: Meurer
+  given: C.
+- family: Michelson
+  given: P. F.
+- family: Mitthumsiri
+  given: W.
+- family: Mizuno
+  given: T.
+- family: Moiseev
+  given: A. A.
+- family: Monte
+  given: C.
+- family: Monzani
+  given: M. E.
+- family: Morselli
+  given: A.
+- family: Moskalenko
+  given: I. V.
+- family: Murgia
+  given: S.
+- family: Nolan
+  given: P. L.
+- family: Norris
+  given: J. P.
+- family: Noutsos
+  given: A.
+- family: Nuss
+  given: E.
+- family: Ohsugi
+  given: T.
+- family: Omodei
+  given: N.
+- family: Orlando
+  given: E.
+- family: Ormes
+  given: J. F.
+- family: Ozaki
+  given: M.
+- family: Paneque
+  given: D.
+- family: Panetta
+  given: J. H.
+- family: Parent
+  given: D.
+- family: Pelassa
+  given: V.
+- family: Pepe
+  given: M.
+- family: Pesce-Rollins
+  given: M.
+- family: Pierbattista
+  given: M.
+- family: Piron
+  given: F.
+- family: Porter
+  given: T. A.
+- family: Rainò
+  given: S.
+- family: Rando
+  given: R.
+- family: Ransom
+  given: S. M.
+- family: Razzano
+  given: M.
+- family: Reimer
+  given: A.
+- family: Reimer
+  given: O.
+- family: Reposeur
+  given: T.
+- family: Ripken
+  given: J.
+- family: Ritz
+  given: S.
+- family: Rochester
+  given: L. S.
+- family: Rodriguez
+  given: A. Y.
+- family: Romani
+  given: R. W.
+- family: Roth
+  given: M.
+- family: Ryde
+  given: F.
+- family: Sadrozinski
+  given: H. F.-W.
+- family: Sander
+  given: A.
+- family: Saz Parkinson
+  given: P. M.
+- family: Scargle
+  given: J. D.
+- family: Sgrò
+  given: C.
+- family: Siskind
+  given: E. J.
+- family: Smith
+  given: D. A.
+- family: Smith
+  given: P. D.
+- family: Spandre
+  given: G.
+- family: Spinelli
+  given: P.
+- family: Stappers
+  given: B. W.
+- family: Starck
+  given: J.-L.
+- family: Strickman
+  given: M. S.
+- family: Suson
+  given: D. J.
+- family: Takahashi
+  given: H.
+- family: Tanaka
+  given: T.
+- family: Thayer
+  given: J. B.
+- family: Thayer
+  given: J. G.
+- family: Theureau
+  given: G.
+- family: Thompson
+  given: D. J.
+- family: Thorsett
+  given: S. E.
+- family: Tibaldo
+  given: L.
+- family: Torres
+  given: D. F.
+- family: Tosti
+  given: G.
+- family: Tramacere
+  given: A.
+- family: Usher
+  given: T. L.
+- family: Van Etten
+  given: A.
+- family: Vasileiou
+  given: V.
+- family: Venter
+  given: C.
+- family: Vilchez
+  given: N.
+- family: Vitale
+  given: V.
+- family: Waite
+  given: A. P.
+- family: Wallace
+  given: E.
+- family: Wang
+  given: P.
+- family: Weltevrede
+  given: P.
+- family: Winer
+  given: B. L.
+- family: Wood
+  given: K. S.
+- family: Ylinen
+  given: T.
+- family: Ziegler
+  given: M.
+date-added: 2017-08-10 22:08:24 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/712/2/957
+eprint: '1002.2607'
+journal: \apj
+keywords: 'gamma rays: general, pulsars: general, pulsars: individual: PSR J0034{\ndash}0534'
+month: April
+pages: 957--963
+papis_id: 524e3c7f4c5614f5b87f224a108e349e
+primaryclass: astro-ph.HE
+ref: abdo.a.2010
+title: 'Discovery of Pulsed $γ$-Rays from PSR J0034-0534 with the Fermi Large Area
+  Telescope: A Case for Co-Located Radio and \$γ\$-Ray Emission Regions'
+type: article
+volume: '712'
+year: '2010'

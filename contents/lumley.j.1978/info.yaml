@@ -1,0 +1,36 @@
+abstract: It is shown that a classical gradient transport model for buoyant-turbulent
+  transport in the upper part of the atmospheric boundary layer does not work because
+  it transports energy in the wrong direction. It is found, on the other hand, that
+  application of the eddy-damped quasi-Gaussian approximation to the equations for
+  the third moments results in a transport model which predicts realistic inversion
+  rise rates and heat-flux profiles. This is also a gradient transport model, but
+  with a flux of one quantity depending on gradients of all relevant quantities. Transport
+  coefficients are modified by the heat flux, so that the vertical transport is severely
+  reduced near the inversion base. A simple Lagrangian model of transport of an indelible
+  scalar in a stratified flow indicates that the form of the modified transport coefficients
+  results from a marked anisotropic change in the Lagrangian time scale in stratification.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978JFM....84..581L
+author: Lumley, J. L. and Zeman, O. and Siess, J.
+author_list:
+- family: Lumley
+  given: J. L.
+- family: Zeman
+  given: O.
+- family: Siess
+  given: J.
+date-added: 2017-08-10 19:22:08 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1017/S0022112078000348
+journal: Journal of Fluid Mechanics
+keywords: Atmospheric Boundary Layer, Buoyancy, Heat Flux, Stratified Flow, Turbulent
+  Flow, Turbulent Heat Transfer, Atmospheric Models, Flow Measurement, Mathematical
+  Models, Transport Properties, Wind Shear
+month: February
+pages: 581--597
+papis_id: 220d7bc7c2f0a129ae2ab3cb356efcea
+ref: lumley.j.1978
+title: The influence of buoyancy on turbulent transport
+type: article
+volume: '84'
+year: '1978'

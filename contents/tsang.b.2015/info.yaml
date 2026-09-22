@@ -1,0 +1,42 @@
+abstract: Radiation pressure can be dynamically important in star-forming environments
+  such as ultra-luminous infrared and submillimetre galaxies. Whether and how radiation
+  drives turbulence and bulk outflows in star formation sites is still unclear. The
+  uncertainty in part reflects the limitations of direct numerical schemes that are
+  currently used to simulate radiation transfer and radiation-gas coupling. An idealized
+  setup in which radiation is introduced at the base of a dusty atmosphere in a gravitational
+  field has recently become the standard test for radiation-hydrodynamics methods
+  in the context of star formation. To a series of treatments featuring the flux-limited
+  diffusion approximation as well as a short-characteristics tracing and M1 closure
+  for the variable Eddington tensor approximation, we here add another treatment that
+  is based on the implicit Monte Carlo radiation transfer scheme. Consistent with
+  all previous treatments, the atmosphere undergoes Rayleigh-Taylor instability and
+  readjusts to a near-Eddington-limited state. We detect late-time net acceleration
+  in which the turbulent velocity dispersion matches that reported previously with
+  the short-characteristics-based radiation transport closure, the most accurate of
+  the three preceding treatments. Our technical result demonstrates the importance
+  of accurate radiation transfer in simulations of radiative feedback.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.453.1108T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1506.05121
+author: Tsang, B. T.-H. and Milosavljević, M.
+author_list:
+- family: Tsang
+  given: B. T.-H.
+- family: Milosavljević
+  given: M.
+date-added: 2017-08-10 14:05:56 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1093/mnras/stv1707
+eprint: '1506.05121'
+journal: \mnras
+keywords: 'hydrodynamics, radiative transfer, methods: numerical, stars: formation,
+  ISM: kinematics and dynamics, galaxies: star formation'
+month: October
+pages: 1108--1120
+papis_id: c0d40f4ff2ab8dc8fff9e06f477a3c53
+ref: tsang.b.2015
+title: Radiation pressure driving of a dusty atmosphere
+type: article
+volume: '453'
+year: '2015'

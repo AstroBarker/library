@@ -1,0 +1,72 @@
+abstract: 'We present the results of analysis of "snapshot" spectra of 253 metal-poor
+  halo stars -3.8<= [Fe/H] <= -1.5 obtained in the HERES survey. The snapshot spectra
+  have been obtained with VLT/UVES and have typically S/N\texttildelow{} 54 per pixel
+  (ranging from 17 to 308), R\texttildelow{}20 000, lambda = 3760-4980 {\AA}. This
+  sample represents the major part of the complete HERES sample of 373 stars; however,
+  the CH strong content of the sample is not dealt with here. The spectra are analysed
+  using an automated line profile analysis method based on the Spectroscopy Made Easy
+  (SME) codes of Valenti \& Piskunov. Elemental abundances of moderate precision (absolute
+  rms errors of order 0.25 dex, relative rms errors of order 0.15 dex) have been obtained
+  for 22 elements, C, Mg, Al, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Zn, Sr, Y, Zr, Ba,
+  La, Ce, Nd, Sm, and Eu, where detectable. Of these elements, 14 are usually detectable
+  at the 3sigma confidence level for our typical spectra. The remainder can be detected
+  in the least metal-poor stars of the sample, spectra with higher than average S/N,
+  or when the abundance is enhanced. Among the sample of 253 stars, disregarding four
+  previously known comparison stars, we find 8 r-II stars and 35 r-I stars. The r-II
+  stars, including the two previously known examples CS 22892-052 and CS 31082-001,
+  are centred on a metallicity of [Fe/H] = -2.81, with a very small scatter, on the
+  order of 0.16 dex. The r-I stars are found across practically the entire metallicity
+  range of our sample. We also find three stars with strong enhancements of Eu which
+  are s-process rich. A significant number of new very metal-poor stars are confirmed:
+  49 stars with [Fe/H]<-3 and 181 stars with -3<[Fe/H]<-2. We find one star with [Fe/H]<-3.5.
+  We find the scatter in the abundance ratios of Mg, Ca, Sc, Ti, Cr, Fe, Co, and Ni,
+  with respect to Fe and Mg, to be similar to the estimated relative errors and thus
+  the cosmic scatter to be small, perhaps even non-existent. The elements C, Sr, Y,
+  Ba and Eu, and perhaps Zr, show scatter at [Fe/H] \lessapprox{} -2.5 significantly
+  larger than can be explained from the errors in the analysis, implying scatter which
+  is cosmic in origin. Significant scatter is observed in abundance ratios between
+  light and heavy neutron-capture elements at low metallicity and low levels of r-process
+  enrichment.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...439..129B
+arxivurl: http://arxiv.org/abs/astro-ph/0505050
+author: Barklem, P. S. and Christlieb, N. and Beers, T. C. and Hill, V. and Bessell,
+  M. S. and Holmberg, J. and Marsteller, B. and Rossi, S. and Zickgraf, F.-J. and
+  Reimers, D.
+author_list:
+- family: Barklem
+  given: P. S.
+- family: Christlieb
+  given: N.
+- family: Beers
+  given: T. C.
+- family: Hill
+  given: V.
+- family: Bessell
+  given: M. S.
+- family: Holmberg
+  given: J.
+- family: Marsteller
+  given: B.
+- family: Rossi
+  given: S.
+- family: Zickgraf
+  given: F.-J.
+- family: Reimers
+  given: D.
+date-added: 2017-08-11 07:35:07 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1051/0004-6361:20052967
+eprint: astro-ph/0505050
+journal: \aap
+keywords: 'stars: abundances, stars: population II, Galaxy: abundances, Galaxy: evolution,
+  Galaxy: halo'
+month: August
+pages: 129--151
+papis_id: 3229a1abd8782ad9943310b28904b87f
+ref: barklem.p.2005a
+title: The Hamburg/ESO R-process enhanced star survey (HERES). II. Spectroscopic analysis
+  of the survey sample
+type: article
+volume: '439'
+year: '2005'

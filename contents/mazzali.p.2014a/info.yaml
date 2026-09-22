@@ -1,0 +1,70 @@
+abstract: Hubble Space Telescope spectroscopic observations of the nearby Type Ia
+  supernova (SN Ia) SN 2011fe, taken on 10 epochs from -13.1 to +40.8 d relative to
+  B-band maximum light, and spanning the far-ultraviolet (UV) to the near-infrared
+  (IR) are presented. This spectroscopic coverage makes SN 2011fe the best-studied
+  local SN Ia to date. SN 2011fe is a typical moderately luminous SN Ia with no evidence
+  for dust extinction. Its near-UV spectral properties are representative of a larger
+  sample of local events (Maguire et al.). The near-UV to optical spectra of SN 2011fe
+  are modelled with a Monte Carlo radiative transfer code using the technique of `abundance
+  tomography', constraining the density structure and the abundance stratification
+  in the SN ejecta. SN 2011fe was a relatively weak explosion, with moderate Fe-group
+  yields. The density structures of the classical model W7 and of a delayed detonation
+  model were tested. Both have shortcomings. An ad hoc density distribution was developed
+  which yields improved fits and is characterized by a high-velocity tail, which is
+  absent in W7. However, this tail contains less mass than delayed detonation models.
+  This improved model has a lower energy than one-dimensional explosion models matching
+  typical SNe Ia (e.g. W7, WDD1; Iwamoto et al.). The derived Fe abundance in the
+  outermost layer is consistent with the metallicity at the SN explosion site in M101
+  (\texttildelow{}0.5 Z\&sun;). The spectroscopic rise-time (\texttildelow{}19 d)
+  is significantly longer than that measured from the early optical light curve, implying
+  a `dark phase' of \texttildelow{}1 d. A longer rise-time has significant implications
+  when deducing the properties of the white dwarf and binary system from the early
+  photometric behaviour.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.439.1959M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.2356
+author: Mazzali, P. A. and Sullivan, M. and Hachinger, S. and Ellis, R. S. and Nugent,
+  P. E. and Howell, D. A. and Gal-Yam, A. and Maguire, K. and Cooke, J. and Thomas,
+  R. and Nomoto, K. and Walker, E. S.
+author_list:
+- family: Mazzali
+  given: P. A.
+- family: Sullivan
+  given: M.
+- family: Hachinger
+  given: S.
+- family: Ellis
+  given: R. S.
+- family: Nugent
+  given: P. E.
+- family: Howell
+  given: D. A.
+- family: Gal-Yam
+  given: A.
+- family: Maguire
+  given: K.
+- family: Cooke
+  given: J.
+- family: Thomas
+  given: R.
+- family: Nomoto
+  given: K.
+- family: Walker
+  given: E. S.
+date-added: 2017-08-11 08:07:40 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1093/mnras/stu077
+eprint: '1305.2356'
+journal: \mnras
+keywords: 'radiative transfer, techniques: spectroscopic, supernovae: general, supernovae:
+  individual: SN 2011fe'
+month: April
+pages: 1959--1979
+papis_id: 2e02b1bb7eaa15c2fcc7cc735d509eae
+ref: mazzali.p.2014a
+title: 'Hubble Space Telescope spectra of the Type Ia supernova SN 2011fe: a tail
+  of low-density, high-velocity material with Z $łt$ Z\$_&sun;\$'
+type: article
+volume: '439'
+year: '2014'

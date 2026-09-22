@@ -1,0 +1,49 @@
+abstract: We investigate the relationship between H I, H2, and the star formation
+  rate (SFR) using azimuthally averaged data for seven CO-bright spiral galaxies.
+  Contrary to some earlier studies based on global fluxes, we find that SigmaSFR exhibits
+  a much stronger correlation with SigmaH2 than with SigmaHI, as SigmaHI saturates
+  at a value of ~ 10 Msolar pc-2 or even declines for large SigmaSFR. Hence, the good
+  correlation between SigmaSFR and the total (H I+H2) gas surface density Sigmagas
+  is driven by the molecular component in these galaxies, with the observed relation
+  between SigmaSFR and SigmaH2 following a Schmidt-type law of index nmol~0.8 if a
+  uniform extinction correction is applied or nmol~1.4 for a radially varying correction
+  dependent on gas density. The corresponding Schmidt law indices for Sigmagas versus
+  SigmaSFR are 1.1 and 1.7 for the two extinction models, in rough agreement with
+  previous studies of the disk-averaged star formation law. An alternative to the
+  Schmidt law, in which the gas depletion timescale is proportional to the orbital
+  timescale, is also consistent with the data if radially varying extinction corrections
+  are applied. We find no clear evidence for a link between the gravitational instability
+  parameter for the gas disk (Qg) and the SFR, and we suggest that Qg be considered
+  a measure of the gas fraction. This implies that for a state of marginal gravitational
+  stability to exist in galaxies with low gas fractions, it must be enforced by the
+  stellar component. In regions where we have both H I and CO measurements, the ratio
+  of H I to H2 surface density scales with radius as roughly R1.5, and we suggest
+  that the balance between H I and H2 is determined primarily by the midplane interstellar
+  pressure. These results favor a ``law'' of star formation in quiescent disks in
+  which the ambient pressure and metallicity control the formation of molecular clouds
+  from H I, with star formation then occurring at a roughly constant rate per unit
+  H2 mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...569..157W
+arxivurl: http://arxiv.org/abs/astro-ph/0112204
+author: Wong, T. and Blitz, L.
+author_list:
+- family: Wong
+  given: T.
+- family: Blitz
+  given: L.
+date-added: 2017-08-11 01:25:58 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/339287
+eprint: astro-ph/0112204
+journal: \apj
+keywords: 'Galaxies: Evolution, Galaxies: ISM, Stars: Formation'
+month: April
+pages: 157--183
+papis_id: c057ab91fb65a2cac16bb9afdcff60af
+ref: wong.t.2002
+title: The Relationship between Gas Content and Star Formation in Molecule-rich Spiral
+  Galaxies
+type: article
+volume: '569'
+year: '2002'

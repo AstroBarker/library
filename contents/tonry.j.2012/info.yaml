@@ -1,0 +1,66 @@
+abstract: 'The Pan-STARRS1 survey is collecting multi-epoch, multi-color observations
+  of the sky north of declination -30$\,^{\circ}$ to unprecedented depths. These data
+  are being photometrically and astrometrically calibrated and will serve as a reference
+  for many other purposes. In this paper, we present our determination of the Pan-STARRS1
+  photometric system: g P1, r P1, i P1, z P1, y P1, and w P1. The Pan-STARRS1 photometric
+  system is fundamentally based on the Hubble Space Telescope Calspec spectrophotometric
+  observations, which in turn are fundamentally based on models of white dwarf atmospheres.
+  We define the Pan-STARRS1 magnitude system and describe in detail our measurement
+  of the system passbands, including both the instrumental sensitivity and atmospheric
+  transmission functions. By-products, including transformations to other photometric
+  systems, Galactic extinction, and stellar locus, are also provided. We close with
+  a discussion of remaining systematic errors.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.0297
+author: Tonry, J. L. and Stubbs, C. W. and Lykke, K. R. and Doherty, P. and Shivvers,
+  I. S. and Burgett, W. S. and Chambers, K. C. and Hodapp, K. W. and Kaiser, N. and
+  Kudritzki, R.-P. and Magnier, E. A. and Morgan, J. S. and Price, P. A. and Wainscoat,
+  R. J.
+author_list:
+- family: Tonry
+  given: J. L.
+- family: Stubbs
+  given: C. W.
+- family: Lykke
+  given: K. R.
+- family: Doherty
+  given: P.
+- family: Shivvers
+  given: I. S.
+- family: Burgett
+  given: W. S.
+- family: Chambers
+  given: K. C.
+- family: Hodapp
+  given: K. W.
+- family: Kaiser
+  given: N.
+- family: Kudritzki
+  given: R.-P.
+- family: Magnier
+  given: E. A.
+- family: Morgan
+  given: J. S.
+- family: Price
+  given: P. A.
+- family: Wainscoat
+  given: R. J.
+date-added: 2017-08-10 17:22:22 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/750/2/99
+eid: '99'
+eprint: '1203.0297'
+journal: \apj
+keywords: 'atmospheric effects, instrumentation: photometers, surveys, techniques:
+  photometric'
+month: May
+pages: '99'
+papis_id: 8da2fa5e536b24cc9d0831cc8a5834a5
+primaryclass: astro-ph.IM
+ref: tonry.j.2012
+title: The Pan-STARRS1 Photometric System
+type: article
+volume: '750'
+year: '2012'

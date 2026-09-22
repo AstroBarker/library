@@ -1,0 +1,44 @@
+abstract: 'We perform 12 extremely high resolution adaptive mesh refinement cosmological
+  simulations of Population III star formation in a LambdaCDM universe, varying the
+  box size and large-scale structure, to understand systematic effects in the formation
+  of primordial protostellar cores. We find results that are qualitatively similar
+  to those of previous groups. We observe that in the absence of a photodissociating
+  ultraviolet background, the threshold halo mass for formation of a Population III
+  protostar does not evolve significantly with time in the redshift range studied
+  (33>z>19) but exhibits substantial scatter (1.5<Mvir/105 Msolar<7) due to different
+  halo assembly histories: halos that assembled more slowly develop cooling cores
+  at lower mass than those that assemble more rapidly, in agreement with previous
+  work. We do, however, observe significant evolution in the accretion rates of Population
+  III protostars with redshift, with objects that form later having higher maximum
+  accretion rates (m\textperiodcentered{}~=10-4 Msolar yr-1 at z=33 and ~=10-2 Msolar
+  yr-1 at z=20). This can be explained by considering the evolving virial properties
+  of the halos with redshift and the physics of molecular hydrogen formation at low
+  densities. Our result implies that the inferred mass distribution of Population
+  III stars is broader than previously thought and may evolve with redshift. Finally,
+  we observe that our collapsing protostellar cloud cores do not fragment, consistent
+  with previous results, which suggests that Population III stars that form in halos
+  of mass 105-106 Msolar always form in isolation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...654...66O
+arxivurl: http://arxiv.org/abs/astro-ph/0607013
+author: O'Shea, B. W. and Norman, M. L.
+author_list:
+- family: O'Shea
+  given: B. W.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 04:55:09 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/509250
+eprint: astro-ph/0607013
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: High-Redshift, Hydrodynamics, Stars: Formation'
+month: January
+pages: 66--92
+papis_id: 930d335b0d3cd7c70b0a2e8975c0a644
+ref: o_shea.b.2007
+title: Population III Star Formation in a $Łambda$CDM Universe. I. The Effect of Formation
+  Redshift and Environment on Protostellar Accretion Rate
+type: article
+volume: '654'
+year: '2007'

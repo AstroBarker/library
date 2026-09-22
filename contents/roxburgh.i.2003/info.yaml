@@ -1,0 +1,41 @@
+abstract: By considering stellar models with the same interior structure but different
+  outer layers we demonstrate that the ratio of the small to large separations of
+  acoustic oscillations in solar-like stars is essentially independent of the structure
+  of the outer layers, and is determined solely by the interior structure. Defining
+  the scaled Eulerian pressure perturbation psil (omega ,t) = r p' /(rho c)1/2 we
+  define the internal phase shift deltal (omega ,t) through the relation omega psi
+  /(dpsi /dt)=tan (omega  t -pil /2 + deltal ). The deltal  are almost independent
+  of acoustic radius t=int dr/c outside the stellar core and can be determined as
+  a continuous functions of omega  from partial wave solutions for the interior -
+  that is solutions of the oscillation equations for any omega  that satisfy the Laplace
+  boundary condition at a sufficiently large acoustic radius tf outside the stellar
+  core. If the omega  are eigenfrequencies then they satisfy the Eigenfrequency Equation
+  omega  T=(n+l/2) pi +alpha (omega )-deltal (omega ) where alpha (omega ) is the
+  l independent surface phase shift (Roxburgh \& Vorontsov 2000). Using this result
+  we show that the ratio of small to large separations is determined to high accuracy
+  solely by the internal phase shifts deltal (omega ) and hence by the interior structure
+  alone. The error in this result is estimated and shown to be smaller than that associated
+  with the errors in the determination of the frequencies (~0.1-0.3 mu Hz) from the
+  upcoming space missions MOST, COROT and Eddington.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...411..215R
+author: Roxburgh, I. W. and Vorontsov, S. V.
+author_list:
+- family: Roxburgh
+  given: I. W.
+- family: Vorontsov
+  given: S. V.
+date-added: 2017-08-10 20:40:31 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1051/0004-6361:20031318
+journal: \aap
+keywords: 'stars: oscillations'
+month: November
+pages: 215--220
+papis_id: 29811da930c6c08f666c9ba5c21474b2
+ref: roxburgh.i.2003
+title: The ratio of small to large separations of acoustic oscillations as a diagnostic
+  of the interior of solar-like stars
+type: article
+volume: '411'
+year: '2003'

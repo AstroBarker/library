@@ -1,0 +1,59 @@
+abstract: 'We present our numerical results of two-dimensional magnetohydrodynamic
+  (MHD) simulations of the collapse of rotating massive stars in light of the collapsar
+  model of gamma-ray bursts (GRBs). Pushed by recent evolution calculations of GRB
+  progenitors, we focus on lower angular momentum of the central core than those taken
+  mostly in previous studies. By performing special relativistic simulations including
+  both realistic equation of state and neutrino cooling, we follow a long-term evolution
+  of the slowly rotating collapsars up to ~10 s, accompanied by the formation of jets
+  and accretion disks. Our results show that for the GRB progenitors to function as
+  collapsars, there is a critical initial angular momentum, below which matter is
+  quickly swallowed to the central objects, no accretion disks and no MHD outflows
+  are formed. When larger than the criteria, we find the launch of the MHD jets in
+  the following two ways. For models with stronger initial magnetic fields, the magnetic
+  pressure amplified inside the accretion disk can drive the MHD outflows, which makes
+  the strong magnetic explosions like a "magnetic tower." For models with weaker initial
+  magnetic fields, the magnetic tower stalls first and the subsequent MHD outflows
+  are produced by the magnetic twisting of the turbulent inflows of the accreting
+  material from the equatorial to the polar regions. Regardless of the difference
+  in the formation, the jets can attain only mildly relativistic speeds with the explosion
+  energy less than 1049 erg. To obtain stronger neutrino energy depositions in the
+  polar funnel regions heated from the accretion disk, we find that smaller initial
+  angular momentum is favorable. This is because the gravitational compression makes
+  the temperature of the disk higher. Due to high neutrino opacity inside the disk,
+  we find that the luminosities of nu e  and \bar{nu}\_e become almost comparable,
+  which is advantageous for making the energy deposition rate larger. We discuss how
+  the energy deposition can be as efficient as the magnetically driven processes for
+  energetizing jets. Among the computed models, we suggest that the model with the
+  initial angular momentum of j ~ 1.5j lso (j lso: the angular momentum of the last
+  stable orbit) and with initial magnetic field strength of ~1010 G, provides a most
+  plausible condition for making fireballs for GRBs, because such model is appropriate
+  not only for producing the MHD outflows quickly by the magnetic towers, but also
+  for obtaining the stronger neutrino heating in the evacuated polar funnel.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..354H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0905.2006
+author: Harikae, S. and Takiwaki, T. and Kotake, K.
+author_list:
+- family: Harikae
+  given: S.
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+date-added: 2017-08-10 21:34:38 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/1/354
+eprint: '0905.2006'
+journal: \apj
+keywords: 'accretion, accretion disks, gamma rays: bursts, methods: numerical, MHD,
+  relativity, supernovae: general'
+month: October
+pages: 354--371
+papis_id: 0ad2105921e3996bc5c34d0f9ac9a423
+primaryclass: astro-ph.HE
+ref: harikae.s.2009
+title: Long-Term Evolution of Slowly Rotating Collapsar in Special Relativistic Magnetohydrodynamics
+type: article
+volume: '704'
+year: '2009'

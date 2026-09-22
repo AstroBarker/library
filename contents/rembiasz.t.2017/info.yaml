@@ -1,0 +1,53 @@
+abstract: We propose a simple ansatz for estimating the value of the numerical resistivity
+  and the numerical viscosity of any Eulerian MHD code. We test this ansatz with the
+  help of simulations of the propagation of (magneto)sonic waves, Alfv{\'e}n waves,
+  and the tearing mode (TM) instability using the MHD code Aenus. By comparing the
+  simulation results with analytical solutions of the resistive-viscous MHD equations
+  and an empirical ansatz for the growth rate of TMs, we measure the numerical viscosity
+  and resistivity of Aenus. The comparison shows that the fast magnetosonic speed
+  and wavelength are the characteristic velocity and length, respectively, of the
+  aforementioned (relatively simple) systems. We also determine the dependence of
+  the numerical viscosity and resistivity on the time integration method, the spatial
+  reconstruction scheme and (to a lesser extent) the Riemann solver employed in the
+  simulations. From the measured results, we infer the numerical resolution (as a
+  function of the spatial reconstruction method) required to properly resolve the
+  growth and saturation level of the magnetic field amplified by the magnetorotational
+  instability in the post-collapsed core of massive stars. Our results show that it
+  is most advantageous to resort to ultra-high-order methods (e.g., the ninth-order
+  monotonicity-preserving method) to tackle this problem properly, in particular,
+  in three-dimensional simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJS..230...18R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1611.05858
+author: Rembiasz, T. and Obergaulinger, M. and Cerdá-Durán, P. and Aloy, M.-Á. and
+  Müller, E.
+author_list:
+- family: Rembiasz
+  given: T.
+- family: Obergaulinger
+  given: M.
+- family: Cerdá-Durán
+  given: P.
+- family: Aloy
+  given: M.-Á.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 13:58:34 +0000
+date-modified: 2017-12-05 16:36:24 +0000
+doi: 10.3847/1538-4365/aa6254
+eid: '18'
+eprint: '1611.05858'
+journal: \apjs
+keywords: 'hydrodynamics, instabilities, magnetic reconnection, magnetohydrodynamics:
+  MHD, methods: numerical'
+month: June
+pages: '18'
+papis_id: 87cbbe85530f7173c1fc6df741cf0d31
+primaryclass: astro-ph.IM
+ref: rembiasz.t.2017
+title: On the Measurements of Numerical Viscosity and Resistivity in Eulerian MHD
+  Codes
+type: article
+volume: '230'
+year: '2017'

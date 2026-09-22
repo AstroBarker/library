@@ -1,0 +1,45 @@
+abstract: In the Cauchy problem of general relativity one considers initial data that
+  satisfies certain constraints. The evolution equations guarantee that the evolved
+  variables will satisfy the constraints at later instants of time. This is only true
+  within the domain of dependence of the initial data. If one wishes to consider situations
+  where the evolutions are studied for longer intervals than the size of the domain
+  of dependence, as is usually the case in three dimensional numerical relativity,
+  one needs to give boundary data. The boundary data should be specified in such a
+  way that the constraints are satisfied everywhere, at all times. In this paper we
+  address this problem for the case of general relativity linearized around Minkowski
+  space using the generalized Einstein-Christoffel symmetric hyperbolic system of
+  evolution equations. We study the evolution equations for the constraints, specify
+  boundary conditions for them that make them well posed and further choose these
+  boundary conditions in such a way that the evolution equations for the metric variables
+  are also well posed. We also consider the case of a manifold with a non-smooth boundary,
+  as is the usual case of the cubic boxes commonly used in numerical relativity. The
+  techniques discussed should be applicable to more general cases, as linearizations
+  around more complicated backgrounds, and may be used to establish well posedness
+  in the full non-linear case.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003CMaPh.240..377C
+author: Calabrese, G. and Pullin, J. and Reula, O. and Sarbach, O. and Tiglio, M.
+author_list:
+- family: Calabrese
+  given: G.
+- family: Pullin
+  given: J.
+- family: Reula
+  given: O.
+- family: Sarbach
+  given: O.
+- family: Tiglio
+  given: M.
+date-added: 2017-08-11 06:11:45 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1007/s00220-003-0889-2
+eprint: gr-qc/0209017
+journal: Communications in Mathematical Physics
+pages: 377--395
+papis_id: 945e1a9fe2278c966b13fe67352d856a
+ref: calabrese.g.2003
+title: Well Posed Constraint-Preserving Boundary Conditions for the Linearized Einstein
+  Equations
+type: article
+volume: '240'
+year: '2003'

@@ -1,0 +1,67 @@
+abstract: 'We construct dynamical models for a sample of 36 nearby galaxies with Hubble
+  Space Telescope (HST) photometry and ground-based kinematics. The models assume
+  that each galaxy is axisymmetric, with a two-integral distribution function, arbitrary
+  inclination angle, a position-independent stellar mass-to-light ratio Upsilon, and
+  a central massive dark object (MDO) of arbitrary mass M\_\textasteriskcentered.
+  They provide acceptable fits to 32 of the galaxies for some value of M\_\textasteriskcentered
+  and Upsilon the four galaxies that cannot be fitted have kinematically decoupled
+  cores. The mass-to-light ratios inferred for the 32 well-fitted galaxies are consistent
+  with the fundamental-plane correlation Upsilon ~ L^0.2, where L is galaxy luminosity.
+  In all but six galaxies the models require at the 95\% confidence level an MDO of
+  mass M\_\textasteriskcentered ~ 0.006M\_bulge = 0.006UpsilonL. Five of the six galaxies
+  consistent with M\_\textasteriskcentered = 0 are also consistent with this correlation.
+  The other (NGC 7332) has a much stronger upper limit on M\_\textasteriskcentered.
+  We predict the second-moment profiles that should be observed at HST resolution
+  for the 32 galaxies that our models describe well. We consider various parameterizations
+  for the probability distribution describing the correlation of the masses of these
+  MDOs with other galaxy properties. One of the best models can be summarized thus:
+  a fraction f ~= 0.97 of early-type galaxies have MDOs, whose masses are well described
+  by a Gaussian distribution in log (M\_\textasteriskcentered/M\_bulge) of mean -2.28
+  and standard deviation ~0.51. There is also marginal evidence that M\_\textasteriskcentered
+  is distributed differently for ``core'''' and ``power law'''' galaxies, with core
+  galaxies having a somewhat steeper dependence on M\_bulge.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998AJ....115.2285M
+arxivurl: http://arxiv.org/abs/astro-ph/9708072
+author: Magorrian, J. and Tremaine, S. and Richstone, D. and Bender, R. and Bower,
+  G. and Dressler, A. and Faber, S. M. and Gebhardt, K. and Green, R. and Grillmair,
+  C. and Kormendy, J. and Lauer, T.
+author_list:
+- family: Magorrian
+  given: J.
+- family: Tremaine
+  given: S.
+- family: Richstone
+  given: D.
+- family: Bender
+  given: R.
+- family: Bower
+  given: G.
+- family: Dressler
+  given: A.
+- family: Faber
+  given: S. M.
+- family: Gebhardt
+  given: K.
+- family: Green
+  given: R.
+- family: Grillmair
+  given: C.
+- family: Kormendy
+  given: J.
+- family: Lauer
+  given: T.
+date-added: 2017-08-11 06:26:31 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/300353
+eprint: astro-ph/9708072
+journal: \aj
+keywords: 'COSMOLOGY: DARK MATTER, GALAXIES: NUCLEI'
+month: June
+pages: 2285--2305
+papis_id: 1cd8f6f1df13199fd411be8bf983cce8
+ref: magorrian.j.1998
+title: The Demography of Massive Dark Objects in Galaxy Centers
+type: article
+volume: '115'
+year: '1998'

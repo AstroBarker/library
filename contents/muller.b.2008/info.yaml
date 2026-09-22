@@ -1,0 +1,41 @@
+abstract: We present the generalization of a recently introduced  modified gravitational
+  potential for self-gravitating fluids. The  use of this potential allows for an
+  accurate approximation of  general relativistic effects in an otherwise Newtonian
+  hydrodynamics  code also in cases of rapid rotation. We test this approach in  numerical
+  simulations of astrophysical scenarios related to compact  stars, like supernova
+  core collapse with both a simplified and  detailed microphysical description of
+  matter, and rotating neutron  stars in equilibrium. We assess the quality of the
+  new potential,  and demonstrate that it provides a significant improvement compared  to
+  previous formulations for such potentials. Newtonian simulations  of compact objects
+  employing such an effective relativistic  potential predict inaccurate pulsation
+  frequencies despite the  excellent agreement of the collapse dynamics and structure
+  of the  compact objects with general relativistic results. We analyze and  discuss
+  the reason for this behavior.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...489..301M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0802.2459
+author: Müller, B. and Dimmelmeier, H. and Müller, E.
+author_list:
+- family: Müller
+  given: B.
+- family: Dimmelmeier
+  given: H.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 21:33:32 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:200809609
+eprint: '0802.2459'
+journal: \aap
+keywords: 'gravitation, hydrodynamics, methods: numerical, relativity, stars: supernovae:
+  general'
+month: October
+pages: 301--314
+papis_id: 84c4c1cd56b9fe2203220185a88a83c5
+ref: muller.b.2008
+title: Exploring the relativistic regime with Newtonian hydrodynamics. II. An effective
+  gravitational potential for rapid rotation
+type: article
+volume: '489'
+year: '2008'

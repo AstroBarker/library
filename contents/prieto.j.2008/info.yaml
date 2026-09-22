@@ -1,0 +1,50 @@
+abstract: We investigate how the different types of supernovae are relatively affected
+  by the metallicity of their host galaxy. We match the SAI supernova catalog to the
+  SDSS DR4 catalog of star-forming galaxies with measured metallicities. These supernova
+  host galaxies span a range of oxygen abundance from 12 + log (O/H) = 7.9 to 9.3
+  (~0.1-2.7 solar) and a range in absolute magnitude from MB = - 15.2 to -22.2. To
+  reduce the various observational biases, we select a subsample of well-characterized
+  supernovae in the redshift range from 0.01 to 0.04, which leaves us with 58 SNe
+  II, 19 SNe Ib/c, and 38 SNe Ia. We find strong evidence that SNe Ib/c occur in higher
+  metallicity host galaxies than SNe II, while we see no effect for SNe Ia relative
+  to SNe II. We note some extreme and interesting supernova-host pairs, including
+  the metal-poor (~\frac{1}{4} solar) host of the recent SN Ia 2007bk, where the supernova
+  was found well outside of this dwarf galaxy. To extend the luminosity range of supernova
+  hosts to even fainter galaxies, we also match all the supernovae with z < 0.3 to
+  the SDSS DR6 sky images, resulting in 1225 matches. This allows us to identify some
+  even more extreme cases, such as the recent SN Ic 2007bg, where the likely host
+  of this hypernova-like event has an absolute magnitude MB ~ - 12, making it one
+  of the least luminous supernova hosts ever observed. This low-luminosity host is
+  certain to be very metal-poor (~\frac{1}{20} solar), and therefore this supernova
+  is an excellent candidate for association with an off-axis GRB. The two catalogs
+  that we have constructed are available online and will be updated regularly. Finally,
+  we discuss various implications of our findings for understanding supernova progenitors
+  and their host galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...673..999P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.0690
+author: Prieto, J. L. and Stanek, K. Z. and Beacom, J. F.
+author_list:
+- family: Prieto
+  given: J. L.
+- family: Stanek
+  given: K. Z.
+- family: Beacom
+  given: J. F.
+date-added: 2017-08-10 23:43:56 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/524654
+eid: 999-1008
+eprint: '0707.0690'
+journal: \apj
+keywords: 'supernovae: general'
+month: February
+pages: 999--1008
+papis_id: 41c1e61eda3a0ccc8129c57eb7ecf971
+ref: prieto.j.2008
+title: Characterizing Supernova Progenitors via the Metallicities of their Host Galaxies,
+  from Poor Dwarfs to Rich Spirals
+type: article
+volume: '673'
+year: '2008'

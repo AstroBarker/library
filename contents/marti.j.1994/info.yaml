@@ -1,0 +1,32 @@
+abstract: We consider the decay of an initial discontinuity in a polytropic gas in
+  a Minkowski space-time (the special relativistic Riemann problem). In order to get
+  a general analytical solution for this problem, we analyse the properties of the
+  relativistic flow across shock waves and rarefactions. As in classical hydrodynamics,
+  the solution of the Riemann problem is found by solving an implicit algebraic equation
+  which gives the pressure in the intermediate states. The solution presented here
+  contains as a particular case the special relativistic shock-tube problem in which
+  the gas is initially at rest. Finally, we discuss the impact of this result on the
+  development of high-resolution shock-capturing numerical codes to solve the equations
+  of relativistic hydrodynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994JFM...258..317M
+author: Marti, J. M. and Muller, E.
+author_list:
+- family: Marti
+  given: J. M.
+- family: Muller
+  given: E.
+date-added: 2017-08-11 05:19:49 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1017/S0022112094003344
+journal: Journal of Fluid Mechanics
+keywords: Cauchy Problem, Gases, Hydrodynamics, Relativistic Effects, Shock Waves,
+  Hydrodynamic Equations, Numerical Analysis, Shock Tubes
+month: January
+pages: 317--333
+papis_id: e84baa19186e9549d7a86a87bf69be14
+ref: marti.j.1994
+title: Analytical solution of the Riemann problem in relativistic hydrodynamics
+type: article
+volume: '258'
+year: '1994'

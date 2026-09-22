@@ -1,0 +1,28 @@
+abstract: In this paper we further explore a class of high order TVD (total variation
+  diminishing) Runge-Kutta time discretization initialized in a paper by Shu and Osher,
+  suitable for solving hyperbolic conservation laws with stable spatial discretizations.
+  We illustrate with numerical examples that non-TVD but linearly stable Runge-Kutta
+  time discretization can generate oscillations even for TVD (total variation diminishing)
+  spatial discretization, verifying the claim that TVD Runge-Kutta methods are important
+  for such applications. We then explore the issue of optimal TVD Runge-Kutta methods
+  ibr second, third and fourth order, and for low storage Runge-Kutta methods.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998MaCom..67...73G
+author: Gottlieb, S. and Shu, C. W.
+author_list:
+- family: Gottlieb
+  given: S.
+- family: Shu
+  given: C. W.
+date-added: 2017-08-10 13:55:02 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+journal: Mathematics of Computation
+keywords: high-resolution schemes, hyperbolic conservation-laws, finite-element method
+month: January
+pages: 73--85
+papis_id: 888326ca04d671dc0fac344d68ece684
+ref: gottlieb.s.1998
+title: Total variation diminishing Runge-Kutta schemes
+type: article
+volume: '67'
+year: '1998'

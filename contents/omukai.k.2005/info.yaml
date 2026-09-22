@@ -1,0 +1,48 @@
+abstract: The thermal and chemical evolution of star-forming clouds is studied for
+  different gas metallicities, Z, using the model of Omukai, updated to include deuterium
+  chemistry and the effects of cosmic microwave background (CMB) radiation. HD-line
+  cooling dominates the thermal balance of clouds when Z~10-5 to 10-3 Zsolar and density
+  ~105 cm-3. Early on, CMB radiation prevents the gas temperature from falling below
+  TCMB, although this hardly alters the cloud thermal evolution in low-metallicity
+  gas. From the derived temperature evolution, we assess cloud/core fragmentation
+  as a function of metallicity from linear perturbation theory, which requires that
+  the core elongation E\equiv{}(b-a)/a>ENL~1, where a (b) is the short (long) core
+  axis length. The fragment mass is given by the thermal Jeans mass at E=ENL. Given
+  these assumptions and the initial (Gaussian) distribution of E, we compute the fragment
+  mass distribution as a function of metallicity. We find that (1) for Z=0, all fragments
+  are very massive, <~103 Msolar, consistent with previous studies; (2) for Z>10-6
+  Zsolar a few clumps go through an additional high-density (>~1010 cm-3) fragmentation
+  phase driven by dust cooling, leading to low-mass fragments; (3) the mass fraction
+  in low-mass fragments is initially very small, but at Z~10-5 Zsolar it becomes dominant
+  and continues to grow as Z is increased; (4) as a result of the two fragmentation
+  modes, a bimodal mass distribution emerges in 0.01<Z/Zsolar<0.1 and (5) for >~0.1
+  Zsolar, the two peaks merge into a single-peaked mass function, which might be regarded
+  as the precursor of the ordinary Salpeter-like initial mass function.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...626..627O
+arxivurl: http://arxiv.org/abs/astro-ph/0503010
+author: Omukai, K. and Tsuribe, T. and Schneider, R. and Ferrara, A.
+author_list:
+- family: Omukai
+  given: K.
+- family: Tsuribe
+  given: T.
+- family: Schneider
+  given: R.
+- family: Ferrara
+  given: A.
+date-added: 2017-08-11 01:42:05 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/429955
+eprint: astro-ph/0503010
+journal: \apj
+keywords: 'Cosmology: Theory, Galaxies: Formation, Stars: Formation'
+month: June
+pages: 627--643
+papis_id: e5964cb89674067ce172f88968186d49
+ref: omukai.k.2005
+title: Thermal and Fragmentation Properties of Star-forming Clouds in Low-Metallicity
+  Environments
+type: article
+volume: '626'
+year: '2005'

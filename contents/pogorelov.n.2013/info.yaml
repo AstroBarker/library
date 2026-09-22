@@ -1,0 +1,57 @@
+abstract: The solar cycle has a profound influence on the solar wind (SW) interaction
+  with the local interstellar medium (LISM) on more than one timescales. Also, there
+  are substantial differences in individual solar cycle lengths and SW behavior within
+  them. The presence of a slow SW belt, with a variable latitudinal extent changing
+  within each solar cycle from rather small angles to 90$\,^{\circ}$, separated from
+  the fast wind that originates at coronal holes substantially affects plasma in the
+  inner heliosheath (IHS)---the SW region between the termination shock (TS) and the
+  heliopause (HP). The solar cycle may be the reason why the complicated flow structure
+  is observed in the IHS by Voyager 1. In this paper, we show that a substantial decrease
+  in the SW ram pressure observed by Ulysses between the TS crossings by Voyager 1
+  and 2 contributes significantly to the difference in the heliocentric distances
+  at which these crossings occurred. The Ulysses spacecraft is the source of valuable
+  information about the three-dimensional and time-dependent properties of the SW.
+  Its unique fast latitudinal scans of the SW regions make it possible to create a
+  solar cycle model based on the spacecraft in situ measurements. On the basis of
+  our analysis of the Ulysses data over the entire life of the mission, we generated
+  time-dependent boundary conditions at 10 AU from the Sun and applied our MHD-neutral
+  model to perform a numerical simulation of the SW-LISM interaction. We analyzed
+  the global variations in the interaction pattern, the excursions of the TS and the
+  HP, and the details of the plasma and magnetic field distributions in the IHS. Numerical
+  results are compared with Voyager data as functions of time in the spacecraft frame.
+  We discuss solar cycle effects which may be reasons for the recent decrease in the
+  TS particles (ions accelerated to anomalous cosmic-ray energies) flux observed by
+  Voyager 1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...772....2P
+author: Pogorelov, N. V. and Suess, S. T. and Borovikov, S. N. and Ebert, R. W. and
+  McComas, D. J. and Zank, G. P.
+author_list:
+- family: Pogorelov
+  given: N. V.
+- family: Suess
+  given: S. T.
+- family: Borovikov
+  given: S. N.
+- family: Ebert
+  given: R. W.
+- family: McComas
+  given: D. J.
+- family: Zank
+  given: G. P.
+date-added: 2017-08-10 18:55:48 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/772/1/2
+eid: '2'
+journal: \apj
+keywords: 'ISM: kinematics and dynamics, ISM: magnetic fields, solar wind, Sun: heliosphere'
+month: July
+pages: '2'
+papis_id: 3ddaa2563102e4fa272a9e877823df66
+ref: pogorelov.n.2013
+title: Three-dimensional Features of the Outer Heliosphere due to Coupling between
+  the Interstellar and Interplanetary Magnetic Fields. IV. Solar Cycle Model Based
+  on Ulysses Observations
+type: article
+volume: '772'
+year: '2013'

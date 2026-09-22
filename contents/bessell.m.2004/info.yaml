@@ -1,0 +1,48 @@
+abstract: 'We have determined the oxygen abundance of HE 0107-5240 from UV-OH lines
+  detected in VLT/UVES spectra. Using a plane-parallel LTE model atmosphere, we derive
+  [O/Fe]=+2.3, and a similar analysis of CD -38 yields [O/Fe]=+0.9. We estimate systematic
+  errors due to three-dimensional effects to be on the order of 0.3-0.4 dex. That
+  is, our derived O abundances are likely overestimates: effects from thermal inhomogeneities
+  due to convection may require that the abundances should be reduced by 0.3-0.4 dex
+  or even more. Radial velocity data for HE 0107-5240 based on high-resolution spectra
+  show that over a time span of 373 days, the radial velocity was constant at 44.5
+  km s-1, with a 1 sigma scatter of the measurements of 0.5 km s-1. However, it cannot
+  yet be ruled out that HE 0107-5240 is a very long period and/or low amplitude binary.
+  These results provide new constraints on scenarios for the origin of the abundance
+  pattern of HE 0107-5240. In particular, it seems unlikely that the large overabundances
+  of CNO have been produced in a medium-mass asymptotic giant branch star that later
+  evolved into a white dwarf. The oxygen abundance of HE 0107-5240 is significantly
+  smaller than the prediction of Umeda \& Nomoto from calculated yields of an ~25
+  Msolar Population III star exploding as a supernova of low explosion energy (Eexp=3\texttimes{}1050
+  ergs) with mixing and fallback. The scenario of Limongi et al., involving two Population
+  III supernovae, predicts an oxygen abundance of [O/Fe]=+4.1 for HE 0107-5240, in
+  strong contradiction to the observed value. In conclusion, none of the above-mentioned
+  scenarios, in their present realizations, can satisfactorily explain the abundance
+  pattern of HE 0107-5240.  Based on observations collected at the European Southern
+  Observatory, Paranal, Chile (proposal 70.D-0009).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...612L..61B
+arxivurl: http://arxiv.org/abs/astro-ph/0401450
+author: Bessell, M. S. and Christlieb, N. and Gustafsson, B.
+author_list:
+- family: Bessell
+  given: M. S.
+- family: Christlieb
+  given: N.
+- family: Gustafsson
+  given: B.
+date-added: 2017-08-11 04:57:13 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/424443
+eprint: astro-ph/0401450
+journal: \apjl
+keywords: 'Galaxy: Abundances, Galaxy: Halo, Stars: Abundances, Stars: Individual:
+  Alphanumeric: HE 0107-5240'
+month: September
+pages: L61-L63
+papis_id: f4d4bcb47ad09bc2ba281bccb7a27f2f
+ref: bessell.m.2004
+title: On the Oxygen Abundance of HE 0107-5240
+type: article
+volume: '612'
+year: '2004'

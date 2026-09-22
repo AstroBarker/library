@@ -1,0 +1,51 @@
+abstract: 'We present opacity sampling model atmospheres, synthetic spectra, and colors
+  for brown dwarfs and very low mass stars in the following two limiting cases of
+  dust grain formation: (1) Inefficient gravitational settling (i.e., the dust is
+  distributed according to the chemical equilibrium predictions) and (2) efficient
+  gravitational settling (i.e., the dust forms and depletes refractory elements from
+  the gas, but their opacity does not affect the thermal structure). The models include
+  the formation of over 600 gas-phase species and 1000 liquids and crystals and the
+  opacities of 30 different types of grains including corundum (Al2O3), the magnesium
+  aluminum spinel MgAl2O4, iron, enstatite (MgSiO3), forsterite (Mg2SiO4), amorphous
+  carbon, SiC, and a number of calcium silicates. The models extend from the beginning
+  of the grain formation regime well into the condensation regime of water ice (Teff=3000-100
+  K) and encompass the range of logg=2.5-6.0 at solar metallicity. We find that silicate
+  dust grains can form abundantly in the outer atmospheric layers of red and brown
+  dwarfs with a spectral type later than M8. The greenhouse effects of dust opacities
+  provide a natural explanation for the peculiarly red spectroscopic distribution
+  of the latest M dwarfs and young brown dwarfs. The grainless (cond) models, on the
+  other hand, correspond closely to methane brown dwarfs such as Gliese 229B. We also
+  discover that the lambdalambda5891, 5897 Na I D and lambdalambda7687, 7701 K I resonance
+  doublets play a critical role in T dwarfs, in which their red wings define the pseudocontinuum
+  from the I to the Z bandpass.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...556..357A
+arxivurl: http://arxiv.org/abs/astro-ph/0104256
+author: Allard, F. and Hauschildt, P. H. and Alexander, D. R. and Tamanai, A. and
+  Schweitzer, A.
+author_list:
+- family: Allard
+  given: F.
+- family: Hauschildt
+  given: P. H.
+- family: Alexander
+  given: D. R.
+- family: Tamanai
+  given: A.
+- family: Schweitzer
+  given: A.
+date-added: 2017-08-10 20:40:11 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321547
+eprint: astro-ph/0104256
+journal: \apj
+keywords: 'Stars: Atmospheres, Stars: Fundamental Parameters, Stars: Low-Mass, Brown
+  Dwarfs'
+month: July
+pages: 357--372
+papis_id: c65d7ac43a5e4f0e85334610e2c519a3
+ref: allard.f.2001
+title: The Limiting Effects of Dust in Brown Dwarf Model Atmospheres
+type: article
+volume: '556'
+year: '2001'

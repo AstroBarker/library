@@ -1,0 +1,40 @@
+abstract: We present an algorithm to identify the type of an SN spectrum and to determine
+  its redshift and age. This algorithm, based on the correlation techniques of Tonry
+  \& Davis, is implemented in the Supernova Identification (SNID) code. It is used
+  by members of ongoing high-redshift SN searches to distinguish between Type Ia and
+  Ib/c SNe and to identify ``peculiar'' SNe Ia. We develop a diagnostic to quantify
+  the quality of a correlation between the input and template spectra, which enables
+  a formal evaluation of the associated redshift error. Furthermore, by comparing
+  the correlation redshifts obtained using SNID with those determined from narrow
+  lines in the SN host galaxy spectrum, we show that accurate redshifts (with a typical
+  error sigmaz<~0.01) can be determined for SNe Ia without a spectrum of the host
+  galaxy. Last, the age of an input spectrum is determined with a typical accuracy
+  sigmat<~3 days, shown here by using high-redshift SNe Ia with well-sampled light
+  curves. The success of the correlation technique confirms the similarity of some
+  SNe Ia at low and high redshifts. The SNID code, which will be made available to
+  the community, can also be used for comparative studies of SN spectra, as well as
+  comparisons between data and models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...666.1024B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.4488
+author: Blondin, S. and Tonry, J. L.
+author_list:
+- family: Blondin
+  given: S.
+- family: Tonry
+  given: J. L.
+date-added: 2017-08-11 00:06:30 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/520494
+eprint: '0709.4488'
+journal: \apj
+keywords: 'Methods: Data Analysis, Methods: Statistical, Stars: Supernovae: General'
+month: September
+pages: 1024--1047
+papis_id: 7c83934271bd157a7d062ba9b75272ec
+ref: blondin.s.2007
+title: Determining the Type, Redshift, and Age of a Supernova Spectrum
+type: article
+volume: '666'
+year: '2007'

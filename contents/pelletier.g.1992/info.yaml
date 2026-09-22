@@ -1,0 +1,57 @@
+abstract: We present a general theory for the origin and collimation of centrifugally
+  driven, hydromagnetic winds from the surfaces of Keplerian accretion disks that
+  surround central objects such as young stellar objects (YSOs) or black holes. The
+  theory is fully two-dimensional and makes no assumption about self-similarity of
+  the flows. These winds efficiently extract disk angular momentum and convert the
+  gravitational binding energy released in the accretion process into the mechanical
+  energy of the wind. We investigate solutions under the very general assumption that
+  the magnetic flux in the disk scales as a power law in disk radius r0 as psi0 \propto{}
+  r3/2a0. We find analytical solutions for many of the physical quantities in the
+  outflow, such as the wind speed, mass-loss rate, thrust, density, Alfv{\'e}n surface,
+  etc. We demonstrate that the self-similar solutions of Blandford \& Payne (a = 2)
+  are a special case of our theory. We find that large classes of models have the
+  generic property that they self-collimate due to the J x B pinching force arising
+  from the toroidal magnetic field component in the outflow that dominates far from
+  the surface of the accretion disk. We also find that flows that achieve modest values
+  for fast magnetosonic Mach numbers recollimate toward the axis forming magnetic
+  focal points.  We identify a unique non-self-similar solution (a = 3) that carries
+  a constant current intensity everywhere (the toroidal field scales as Bphi \propto{}
+  r-1 - for this case) and is free of the divergences of self-similar models. We apply
+  our results to both bipolar outflows in the vicinity of YSOs and black hole/accretion
+  disk models for active galactic nuclei (AGNs). We find that modest magnetic field
+  strengths (<= 104 G for AGNs, 10 G for YSOs) in the inner portions of these disks
+  are sufficient to drive flows that match all the known observational constraints.
+  In no case do the required magnetic energy densities exceed that of thermal pressure
+  in these disks. An important new result in our theory is an intrinsic scale length
+  to the disk outflow. The mass accretion rate is fundamentally connected to the wind
+  mass-loss rate from the disk because it is the wind that carries off the disk angular
+  momentum. We typically find that the ratio of the wind mass-loss rate to the accretion
+  rate, MsW/Msa, is 10-1 for both the YSO and AGN models. Our results suggest that
+  the highly collimated outflows seen in regions of star formation and in galactic
+  nuclei share a simple physical mechanism that depends only upon the presence of
+  magnetized gas with angular momentum, and the depth of the central gravitational
+  potential well.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...394..117P
+author: Pelletier, G. and Pudritz, R. E.
+author_list:
+- family: Pelletier
+  given: G.
+- family: Pudritz
+  given: R. E.
+date-added: 2017-08-10 23:03:02 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171565
+journal: \apj
+keywords: 'Accretion Disks, Active Galactic Nuclei, Black Holes (Astronomy), Early
+  Stars, Magnetohydrodynamic Flow, Stellar Winds, Angular Momentum, Computational
+  Astrophysics, Hydrodynamic Equations, Interstellar Magnetic Fields, Stellar Mass
+  Ejection, galaxies: nuclei MHD stars: pre-main-sequence stars: mass loss'
+month: July
+pages: 117--138
+papis_id: 50a1c627b1f375dc7e2d2420c313821d
+ref: pelletier.g.1992
+title: Hydromagnetic disk winds in young stellar objects and active galactic nuclei
+type: article
+volume: '394'
+year: '1992'

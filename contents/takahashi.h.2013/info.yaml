@@ -1,0 +1,49 @@
+abstract: We propose an explicit-implicit scheme for numerically solving special relativistic
+  radiation hydrodynamic equations, which ensures a conservation of total energy and
+  momentum (matter and radiation). In our scheme, zeroth and first moment equations
+  of the radiation transfer equation are numerically solved without employing a flux-limited
+  diffusion approximation. For an hyperbolic term, of which the timescale is the light
+  crossing time when the flow velocity is comparable to the speed of light, is explicitly
+  solved using an approximate Riemann solver. Source terms describing an exchange
+  of energy and momentum between the matter and the radiation via the gas-radiation
+  interaction are implicitly integrated using an iteration method. The implicit scheme
+  allows us to relax the Courant-Friedrichs-Lewy condition in optically thick media,
+  where heating/cooling and scattering timescales could be much shorter than the dynamical
+  timescale. We show that our numerical code can pass test problems of one- and two-dimensional
+  radiation energy transport, and one-dimensional radiation hydrodynamics. Our newly
+  developed scheme could be useful for a number of relativistic astrophysical problems.
+  We also discuss how to extend our explicit-implicit scheme to the relativistic radiation
+  magnetohydrodynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...764..122T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.4910
+author: Takahashi, H. R. and Ohsuga, K. and Sekiguchi, Y. and Inoue, T. and Tomida,
+  K.
+author_list:
+- family: Takahashi
+  given: H. R.
+- family: Ohsuga
+  given: K.
+- family: Sekiguchi
+  given: Y.
+- family: Inoue
+  given: T.
+- family: Tomida
+  given: K.
+date-added: 2017-08-10 14:28:02 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1088/0004-637X/764/2/122
+eid: '122'
+eprint: '1212.4910'
+journal: \apj
+keywords: hydrodynamics, radiative transfer, relativistic processes
+month: February
+pages: '122'
+papis_id: 0d04707aeb85ddf250fac61a98cd4e8d
+primaryclass: astro-ph.HE
+ref: takahashi.h.2013
+title: Explicit-Implicit Scheme for Relativistic Radiation Hydrodynamics
+type: article
+volume: '764'
+year: '2013'

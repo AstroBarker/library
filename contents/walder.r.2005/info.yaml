@@ -1,0 +1,60 @@
+abstract: Using the two-dimensional, multigroup, flux-limited diffusion version of
+  the code VULCAN/2D, which also incorporates rotation, we have calculated the collapse,
+  bounce, shock formation, and early postbounce evolutionary phases of a core-collapse
+  supernova for a variety of initial rotation rates. This is the first series of such
+  multigroup calculations undertaken in supernova theory with fully multidimensional
+  tools. We find that although rotation generates pole-to-equator angular anisotropies
+  in the neutrino radiation fields, the magnitude of the asymmetries is not as large
+  as previously estimated. The finite width of the neutrino decoupling surfaces and
+  the significant emissivity above the tau=2/3 surface moderate the angular contrast.
+  Moreover, we find that the radiation field is always more spherically symmetric
+  than the matter distribution, with its plumes and convective eddies. The radiation
+  field at a point is an integral over many sources from the different contributing
+  directions. As such, its distribution is much smoother than that of the matter and
+  has very little power at high spatial frequencies. We present the dependence of
+  the angular anisotropy of the neutrino fields on neutrino species, neutrino energy,
+  and initial rotation rate. Only for our most rapidly rotating model do we start
+  to see qualitatively different hydrodynamics, but for the lower rates consistent
+  with the precollapse rotational profiles derived in the literature the anisotropies,
+  although interesting, are modest. This does not mean that rotation does not play
+  a key role in supernova dynamics. The decrease in the effective gravity due to the
+  centripetal effect can be quite important. Rather, it means that when a realistic
+  mapping between initial and final rotational profiles and two-dimensional multigroup
+  radiation hydrodynamics are incorporated into collapse simulations, the anisotropy
+  of the radiation fields may be only a secondary, not a pivotal, factor in the supernova
+  mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...626..317W
+arxivurl: http://arxiv.org/abs/astro-ph/0412187
+author: Walder, R. and Burrows, A. and Ott, C. D. and Livne, E. and Lichtenstadt,
+  I. and Jarrah, M.
+author_list:
+- family: Walder
+  given: R.
+- family: Burrows
+  given: A.
+- family: Ott
+  given: C. D.
+- family: Livne
+  given: E.
+- family: Lichtenstadt
+  given: I.
+- family: Jarrah
+  given: M.
+date-added: 2017-08-10 18:14:08 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/429816
+eprint: astro-ph/0412187
+journal: \apj
+keywords: 'Hydrodynamics, Neutrinos, Radiative Transfer, Stars: Rotation, Stars: Supernovae:
+  General'
+month: June
+pages: 317--332
+papis_id: 8345691450f91af364ba983be710acba
+ref: walder.r.2005
+title: Anisotropies in the Neutrino Fluxes and Heating Profiles in Two-dimensional,
+  Time-dependent, Multigroup Radiation Hydrodynamics Simulations of Rotating Core-Collapse
+  Supernovae
+type: article
+volume: '626'
+year: '2005'

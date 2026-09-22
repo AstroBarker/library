@@ -1,0 +1,358 @@
+abstract: A search for gravitational wave burst events has been performed with the
+  Virgo C7 commissioning run data that have been acquired in September 2005 over 5
+  days. It focused on unmodeled short duration signals in the frequency range 150
+  Hz to 2 kHz. A search aimed at detecting the GW emission from the merger and ring-down
+  phases of binary black hole coalescences was also carried out. An extensive understanding
+  of the data was required to be able to handle a burst search using the output of
+  only one detector. A 90\% confidence level upper limit on the number of expected
+  events given the Virgo C7 sensitivity curve has been derived as a function of the
+  signal strength, for unmodeled gravitational wave searches. The sensitivity of the
+  analysis presented is, in terms of the root sum square strain amplitude, hrss ~=
+  10-20 Hz-1/2. This can be interpreted in terms of a frequentist upper limit on the
+  rate {\cal{R}}\_{90\%}  of detectable gravitational wave bursts at the level of
+  1.1 events per day at a 90\% confidence level. From the binary black hole search,
+  we obtained the distance reach at 50\% and 90\% efficiency as a function of the
+  total mass of the final black hole. The maximal detection distance for non-spinning
+  high and equal mass black hole binary system obtained by this analysis in C7 data
+  is sime2.9 $\pm$ 0.1 Mpc for a detection efficiency of 50\% for a binary of total
+  mass 80 Modot.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009CQGra..26h5009A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0812.4870
+author: Acernese, F. and Alshourbagy, M. and Antonucci, F. and Aoudia, S. and Arun,
+  K. G. and Astone, P. and Ballardin, G. and Barone, F. and Barsotti, L. and Barsuglia,
+  M. and Bauer, T. S. and Bigotta, S. and Birindelli, S. and Bizouard, M.-A. and Boccara,
+  C. and Bondu, F. and Bonelli, L. and Bosi, L. and Braccini, S. and Bradaschia, C.
+  and Brillet, A. and Brisson, V. and Bulten, H. J. and Buskulic, D. and Cagnoli,
+  G. and Calloni, E. and Campagna, E. and Canuel, B. and Carbognani, F. and Carbone,
+  L. and Cavalier, F. and Cavalieri, R. and Cella, G. and Cesarini, E. and Chassande-Mottin,
+  E. and Chatterji, S. and Christensen, N. and Clapson, A.-C. and Cleva, F. and Coccia,
+  E. and Colombini, M. and Corda, C. and Corsi, A. and Cottone, F. and Coulon, J.-P.
+  and Cuoco, E. and D'Antonio, S. and Dari, A. and Dattilo, V. and Davier, M. and
+  De Rosa, R. and Del Prete, M. and Di Fiore, L. and Di Lieto, A. and Emilio, M. D.
+  P. and Di Virgilio, A. and Fafone, V. and Ferrante, I. and Fidecaro, F. and Fiori,
+  I. and Flaminio, R. and Fournier, J.-D. and Frasca, S. and Frasconi, F. and Gammaitoni,
+  L. and Garufi, F. and Genin, E. and Gennai, A. and Giazotto, A. and Granata, M.
+  and Granata, V. and Greverie, C. and Guidi, G. and Heitmann, H. and Hello, P. and
+  Hild, S. and Huet, D. and La Penna, P. and Laval, M. and Leroy, N. and Letendre,
+  N. and Lorenzini, M. and Loriette, V. and Losurdo, G. and Mackowski, J.-M. and Majorana,
+  E. and Man, N. and Mantovani, M. and Marchesoni, F. and Marion, F. and Marque, J.
+  and Martelli, F. and Masserot, A. and Menzinger, F. and Michel, C. and Milano, L.
+  and Minenkov, Y. and Mitra, S. and Moreau, J. and Morgado, N. and Mohan, M. and
+  Morgia, A. and Mosca, S. and Mours, B. and Neri, I. and Nocera, F. and Pagliaroli,
+  G. and Palomba, C. and Paoletti, F. and Pardi, S. and Pasqualetti, A. and Passaquieti,
+  R. and Passuello, D. and Persichetti, G. and Piergiovanni, F. and Pinard, L. and
+  Poggiani, R. and Punturo, M. and Puppo, P. and Rabaste, O. and Rapagnani, P. and
+  Regimbau, T. and Ricci, F. and Rocchi, A. and Rolland, L. and Romano, R. and Ruggi,
+  P. and Sassolas, B. and Sentenac, D. and Swinkels, B. L. and Terenzi, R. and Toncelli,
+  A. and Tonelli, M. and Tournefier, E. and Travasso, F. and Vajente, G. and van den
+  Brand, J. F. J. and van der Putten, S. and Verkindt, D. and Vetrano, F. and Viceré,
+  A. and Vinet, J.-Y. and Vocca, H. and Was, M. and Yvert, M.
+author_list:
+- family: Acernese
+  given: F.
+- family: Alshourbagy
+  given: M.
+- family: Antonucci
+  given: F.
+- family: Aoudia
+  given: S.
+- family: Arun
+  given: K. G.
+- family: Astone
+  given: P.
+- family: Ballardin
+  given: G.
+- family: Barone
+  given: F.
+- family: Barsotti
+  given: L.
+- family: Barsuglia
+  given: M.
+- family: Bauer
+  given: T. S.
+- family: Bigotta
+  given: S.
+- family: Birindelli
+  given: S.
+- family: Bizouard
+  given: M.-A.
+- family: Boccara
+  given: C.
+- family: Bondu
+  given: F.
+- family: Bonelli
+  given: L.
+- family: Bosi
+  given: L.
+- family: Braccini
+  given: S.
+- family: Bradaschia
+  given: C.
+- family: Brillet
+  given: A.
+- family: Brisson
+  given: V.
+- family: Bulten
+  given: H. J.
+- family: Buskulic
+  given: D.
+- family: Cagnoli
+  given: G.
+- family: Calloni
+  given: E.
+- family: Campagna
+  given: E.
+- family: Canuel
+  given: B.
+- family: Carbognani
+  given: F.
+- family: Carbone
+  given: L.
+- family: Cavalier
+  given: F.
+- family: Cavalieri
+  given: R.
+- family: Cella
+  given: G.
+- family: Cesarini
+  given: E.
+- family: Chassande-Mottin
+  given: E.
+- family: Chatterji
+  given: S.
+- family: Christensen
+  given: N.
+- family: Clapson
+  given: A.-C.
+- family: Cleva
+  given: F.
+- family: Coccia
+  given: E.
+- family: Colombini
+  given: M.
+- family: Corda
+  given: C.
+- family: Corsi
+  given: A.
+- family: Cottone
+  given: F.
+- family: Coulon
+  given: J.-P.
+- family: Cuoco
+  given: E.
+- family: D'Antonio
+  given: S.
+- family: Dari
+  given: A.
+- family: Dattilo
+  given: V.
+- family: Davier
+  given: M.
+- family: De Rosa
+  given: R.
+- family: Del Prete
+  given: M.
+- family: Di Fiore
+  given: L.
+- family: Di Lieto
+  given: A.
+- family: Emilio
+  given: M. D. P.
+- family: Di Virgilio
+  given: A.
+- family: Fafone
+  given: V.
+- family: Ferrante
+  given: I.
+- family: Fidecaro
+  given: F.
+- family: Fiori
+  given: I.
+- family: Flaminio
+  given: R.
+- family: Fournier
+  given: J.-D.
+- family: Frasca
+  given: S.
+- family: Frasconi
+  given: F.
+- family: Gammaitoni
+  given: L.
+- family: Garufi
+  given: F.
+- family: Genin
+  given: E.
+- family: Gennai
+  given: A.
+- family: Giazotto
+  given: A.
+- family: Granata
+  given: M.
+- family: Granata
+  given: V.
+- family: Greverie
+  given: C.
+- family: Guidi
+  given: G.
+- family: Heitmann
+  given: H.
+- family: Hello
+  given: P.
+- family: Hild
+  given: S.
+- family: Huet
+  given: D.
+- family: La Penna
+  given: P.
+- family: Laval
+  given: M.
+- family: Leroy
+  given: N.
+- family: Letendre
+  given: N.
+- family: Lorenzini
+  given: M.
+- family: Loriette
+  given: V.
+- family: Losurdo
+  given: G.
+- family: Mackowski
+  given: J.-M.
+- family: Majorana
+  given: E.
+- family: Man
+  given: N.
+- family: Mantovani
+  given: M.
+- family: Marchesoni
+  given: F.
+- family: Marion
+  given: F.
+- family: Marque
+  given: J.
+- family: Martelli
+  given: F.
+- family: Masserot
+  given: A.
+- family: Menzinger
+  given: F.
+- family: Michel
+  given: C.
+- family: Milano
+  given: L.
+- family: Minenkov
+  given: Y.
+- family: Mitra
+  given: S.
+- family: Moreau
+  given: J.
+- family: Morgado
+  given: N.
+- family: Mohan
+  given: M.
+- family: Morgia
+  given: A.
+- family: Mosca
+  given: S.
+- family: Mours
+  given: B.
+- family: Neri
+  given: I.
+- family: Nocera
+  given: F.
+- family: Pagliaroli
+  given: G.
+- family: Palomba
+  given: C.
+- family: Paoletti
+  given: F.
+- family: Pardi
+  given: S.
+- family: Pasqualetti
+  given: A.
+- family: Passaquieti
+  given: R.
+- family: Passuello
+  given: D.
+- family: Persichetti
+  given: G.
+- family: Piergiovanni
+  given: F.
+- family: Pinard
+  given: L.
+- family: Poggiani
+  given: R.
+- family: Punturo
+  given: M.
+- family: Puppo
+  given: P.
+- family: Rabaste
+  given: O.
+- family: Rapagnani
+  given: P.
+- family: Regimbau
+  given: T.
+- family: Ricci
+  given: F.
+- family: Rocchi
+  given: A.
+- family: Rolland
+  given: L.
+- family: Romano
+  given: R.
+- family: Ruggi
+  given: P.
+- family: Sassolas
+  given: B.
+- family: Sentenac
+  given: D.
+- family: Swinkels
+  given: B. L.
+- family: Terenzi
+  given: R.
+- family: Toncelli
+  given: A.
+- family: Tonelli
+  given: M.
+- family: Tournefier
+  given: E.
+- family: Travasso
+  given: F.
+- family: Vajente
+  given: G.
+- family: van den Brand
+  given: J. F. J.
+- family: van der Putten
+  given: S.
+- family: Verkindt
+  given: D.
+- family: Vetrano
+  given: F.
+- family: Viceré
+  given: A.
+- family: Vinet
+  given: J.-Y.
+- family: Vocca
+  given: H.
+- family: Was
+  given: M.
+- family: Yvert
+  given: M.
+date-added: 2017-08-10 21:55:32 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0264-9381/26/8/085009
+eid: 085009
+eprint: '0812.4870'
+journal: Classical and Quantum Gravity
+month: April
+number: '8'
+pages: 085009
+papis_id: ef5a29531829cd010c245e6bc7ca426b
+primaryclass: gr-qc
+ref: acernese.f.2009
+title: Gravitational wave burst search in the Virgo C7 data
+type: article
+volume: '26'
+year: '2009'

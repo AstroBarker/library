@@ -1,0 +1,64 @@
+abstract: We estimate the fraction of core-collapse supernovae (CCSNe) that remain
+  undetected by optical SN searches due to obscuration by large amounts of dust in
+  their host galaxies. This effect is especially important in luminous and ultraluminous
+  infrared galaxies, which are locally rare but dominate the star formation at redshifts
+  of z ~ 1-2. We perform a detailed investigation of the SN activity in the nearby
+  luminous infrared galaxy Arp 299 and estimate that up to 83\% of the SNe in Arp
+  299 and in similar galaxies in the local universe are missed by observations at
+  optical wavelengths. For rest-frame optical surveys we find the fraction of SNe
+  missed due to high dust extinction to increase from the average local value of ~19\%
+  to ~38\% at z ~ 1.2 and then remain roughly constant up to z ~ 2. It is therefore
+  crucial to take into account the effects of obscuration by dust when determining
+  SN rates at high redshift and when predicting the number of CCSNe detectable by
+  future high-z surveys such as LSST, JWST, and Euclid. For a sample of nearby CCSNe
+  (distances 6-15 Mpc) detected during the last 12 yr, we find a lower limit for the
+  local CCSN rate of 1.5+0.4 - 0.3 \texttimes{} 10-4 yr-1 Mpc-3, consistent with that
+  expected from the star formation rate. Even closer, at distances less than ~6 Mpc,
+  we find a significant increase in the CCSN rate, indicating a local overdensity
+  of star formation caused by a small number of galaxies that have each hosted multiple
+  SNe.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756..111M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.1314
+author: Mattila, S. and Dahlen, T. and Efstathiou, A. and Kankare, E. and Melinder,
+  J. and Alonso-Herrero, A. and Pérez-Torres, M. Á. and Ryder, S. and Väisänen, P.
+  and Östlin, G.
+author_list:
+- family: Mattila
+  given: S.
+- family: Dahlen
+  given: T.
+- family: Efstathiou
+  given: A.
+- family: Kankare
+  given: E.
+- family: Melinder
+  given: J.
+- family: Alonso-Herrero
+  given: A.
+- family: Pérez-Torres
+  given: M. Á.
+- family: Ryder
+  given: S.
+- family: Väisänen
+  given: P.
+- family: Östlin
+  given: G.
+date-added: 2017-08-11 00:03:22 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/756/2/111
+eid: '111'
+eprint: '1206.1314'
+journal: \apj
+keywords: 'galaxies: individual: Arp 299, galaxies: starburst, infrared: galaxies,
+  supernovae: general, supernovae: individual: SN 2005at SN 2010P'
+month: September
+pages: '111'
+papis_id: d40dfba86ac36414e971d7c82a32f424
+primaryclass: astro-ph.CO
+ref: mattila.s.2012
+title: Core-collapse Supernovae Missed by Optical Surveys
+type: article
+volume: '756'
+year: '2012'

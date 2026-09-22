@@ -1,0 +1,50 @@
+abstract: Type I X-ray bursts are thermonuclear explosions of accreted material on
+  the surface of neutron stars in low-mass X-ray binaries. Prior to the ignition of
+  a subsonic burning front, runaway burning at the base of the accreted layer drives
+  convection that mixes fuel and heavy-element ashes. In this paper, the second in
+  a series, we explore the behavior of this low Mach number convection in mixed hydrogen/helium
+  layers on the surface of a neutron star using two-dimensional simulations with the
+  Maestro code. Maestro takes advantage of the highly subsonic flow field by filtering
+  dynamically unimportant sound waves while retaining local compressibility effects,
+  such as those due to stratification and energy release from nuclear reactions. In
+  these preliminary calculations, we find that the rp-process approximate network
+  creates a convective region that is split into two layers. While this splitting
+  appears artificial due to the approximations of the network regarding nuclear flow
+  out of the breakout reaction 18Ne(alpha, p)21Na, these calculations hint at further
+  simplifications and improvements of the burning treatment for use in subsequent
+  calculations in three dimensions for a future paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...788..115M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.6286
+author: Malone, C. M. and Zingale, M. and Nonaka, A. and Almgren, A. S. and Bell,
+  J. B.
+author_list:
+- family: Malone
+  given: C. M.
+- family: Zingale
+  given: M.
+- family: Nonaka
+  given: A.
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+date-added: 2017-08-10 17:00:53 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/788/2/115
+eid: '115'
+eprint: '1404.6286'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: neutron, X-rays:
+  bursts'
+month: June
+pages: '115'
+papis_id: 7d2b4c9eac053cc6e9916f36bd78ff96
+primaryclass: astro-ph.HE
+ref: malone.c.2014
+title: Multidimensional Modeling of Type I X-Ray Bursts. II. Two-dimensional Convection
+  in a Mixed H/He Accretor
+type: article
+volume: '788'
+year: '2014'

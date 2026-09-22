@@ -1,0 +1,44 @@
+abstract: During the first 20 s of its life, the enormous neutrino luminosity of a
+  neutron star drives appreciable mass loss from its surface. This neutrino-driven
+  wind has been previously identified as a likely site for the r-process. Qian \&
+  Woosley have derived, both analytically and numerically, the physical conditions
+  relevant for heavy element synthesis in the wind. These conditions include the entropy
+  (S), the electron fraction (Ye), the dynamic timescale, and the mass loss rate.
+  Here we explore the implications of these conditions for nucleosynthesis. We find
+  that the standard wind models derived in that paper are inadequate to make the r-process,
+  though they do produce some rare species above the iron group. We further determine
+  the general restrictions on the entropy, the electron fraction, and the dynamic
+  timescale that are required to make the r-process. In particular, we derive from
+  nuclear reaction network calculations the conditions required to give a sufficient
+  neutron-to-seed ratio for production of the platinum peak. These conditions range
+  from Ye ~ 0.2 and S <~ 100 baryon-1 for reasonable dynamic timescales of ~0.001-0.1
+  s, to Ye ~ 0.4-0.495 and S >~ 400 baryon-1 for a dynamic timescale of ~0.1 s. These
+  conditions are also derived analytically to illustrate the physics determining the
+  neutron-to-seed ratio.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...482..951H
+arxivurl: http://arxiv.org/abs/astro-ph/9611097
+author: Hoffman, R. D. and Woosley, S. E. and Qian, Y.-Z.
+author_list:
+- family: Hoffman
+  given: R. D.
+- family: Woosley
+  given: S. E.
+- family: Qian
+  given: Y.-Z.
+date-added: 2017-08-10 15:47:06 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/304181
+eprint: astro-ph/9611097
+journal: \apj
+keywords: 'Elementary Particles, Nuclear Reactions, Nucleosynthesis, Abundances, Stars:
+  Mass Loss, Stars: Supernovae: General'
+month: June
+pages: 951--962
+papis_id: 8b71e641d279d6390dbbc1274d483b8f
+ref: hoffman.r.1997
+title: Nucleosynthesis in Neutrino-driven Winds. II. Implications for Heavy Element
+  Synthesis
+type: article
+volume: '482'
+year: '1997'

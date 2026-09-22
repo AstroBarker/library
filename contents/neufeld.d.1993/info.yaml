@@ -1,0 +1,38 @@
+abstract: We consider the radiative cooling of warm (T >= 100 K), fully molecular
+  astrophysical gas by rotational and vibrational transitions of the molecules H2O,
+  CO, and H2. Using an escape probability method to solve for the molecular level
+  populations, we have obtained the cooling rate for each molecule as a function of
+  temperature, density, and an optical depth parameter. A four-parameter expression
+  proves useful in fitting the run of cooling rate with density for any fixed values
+  of the temperature and optical depth parameter. We identify the various cooling
+  mechanisms which are dominant in different regions of the astrophysically relevant
+  parameter space. Given the assumption that water is very abundant in warm regions
+  of the interstellar medium, H2O rotational transitions are found to dominate the
+  cooling of warm interstellar gas over a wide portion of the parameter space considered.
+  While chemical models for the interstellar medium make the strong prediction that
+  water will be produced copiously at temperatures above a few hundred degrees, our
+  assumption of a high water abundance has yet to be tested observationally. The Infrared
+  Space Observatory and the Submillimeter Wave Astronomy Satellite will prove ideal
+  instruments for testing whether water is indeed an important coolant of interstellar
+  and circumstellar gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993ApJ...418..263N
+author: Neufeld, D. A. and Kaufman, M. J.
+author_list:
+- family: Neufeld
+  given: D. A.
+- family: Kaufman
+  given: M. J.
+date-added: 2017-08-11 06:05:57 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173388
+journal: \apj
+keywords: 'STARS: CIRCUMSTELLAR MATTER, ISM: MOLECULES, MOLECULAR PROCESSES'
+month: November
+pages: '263'
+papis_id: a71cecdb07f9c61d5f039e5bc4caf2d0
+ref: neufeld.d.1993
+title: Radiative Cooling of Warm Molecular Gas
+type: article
+volume: '418'
+year: '1993'

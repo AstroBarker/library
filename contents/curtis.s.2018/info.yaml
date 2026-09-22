@@ -1,0 +1,52 @@
+abstract: In a previously presented proof-of-principle study, we established a parametrized
+  spherically symmetric explosion method (PUSH) that can reproduce many features of
+  core-collapse supernovae for a wide range of pre-explosion models. The method is
+  based on the neutrino-driven mechanism and follows collapse, bounce and explosion.
+  There are two crucial aspects of our model for nucleosynthesis predictions. First,
+  the mass cut and explosion energy emerge simultaneously from the simulation (determining,
+  for each stellar model, the amount of Fe-group ejecta). Second, the interactions
+  between neutrinos and matter are included consistently (setting the electron fraction
+  of the innermost ejecta). In the present paper, we use the successful explosion
+  models from Ebinger et al. (2018) which include two sets of pre-explosion models
+  at solar metallicity, with combined masses between 10.8 and 120 M$_{\odot}$. We
+  perform systematic nucleosynthesis studies and predict detailed isotopic yields.
+  The resulting \$^{56}\$Ni ejecta are in overall agreement with observationally derived
+  values from normal core-collapse supernovae. The Fe-group yields are also in agreement
+  with derived abundances for metal-poor star HD84937. We also present a comparison
+  of our results with observational trends in alpha element to iron ratios.
+adscomment: 25 pages, 10 figures, 7 tables (submitted to ApJ)
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018arXiv180500498C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1805.00498
+author: Curtis, S. and Ebinger, K. and Fröhlich, C. and Hempel, M. and Perego, A.
+  and Liebendörfer, M. and Thielemann, F.-K.
+author_list:
+- family: Curtis
+  given: S.
+- family: Ebinger
+  given: K.
+- family: Fröhlich
+  given: C.
+- family: Hempel
+  given: M.
+- family: Perego
+  given: A.
+- family: Liebendörfer
+  given: M.
+- family: Thielemann
+  given: F.-K.
+date-added: 2018-05-19 23:54:09 +0000
+date-modified: 2018-05-19 23:54:10 +0000
+eprint: '1805.00498'
+journal: ArXiv e-prints
+keywords: Astrophysics - Solar and Stellar Astrophysics, Astrophysics - High Energy
+  Astrophysical Phenomena
+month: May
+papis_id: 23e341e1c6efd479bb9153f74cff299b
+primaryclass: astro-ph.SR
+ref: curtis.s.2018
+title: 'PUSHing Core-Collapse Supernovae to Explosions in Spherical Symmetry III:
+  Nucleosynthesis Yields'
+type: article
+year: '2018'

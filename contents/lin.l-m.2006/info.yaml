@@ -1,0 +1,29 @@
+abstract: A new numerical code for computing stationary axisymmetric rapidly rotating
+  stars in general relativity is presented. The formulation is based on a fully constrained-evolution
+  scheme for 3 + 1 numerical relativity using the Dirac gauge and maximal slicing.
+  We use both the polytropic and MIT bag model equations of state to demonstrate that
+  the code can construct rapidly rotating neutron star and strange star models. We
+  compare numerical models obtained by our code and a well-established code, which
+  uses a different gauge condition, and show that the two codes agree to a high degree
+  of accuracy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23.4545L
+author: Lin, L.-M. and Novak, J.
+author_list:
+- family: Lin
+  given: L.-M.
+- family: Novak
+  given: J.
+date-added: 2017-08-11 06:17:48 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1088/0264-9381/23/14/001
+eprint: gr-qc/0603048
+journal: Classical and Quantum Gravity
+month: July
+pages: 4545--4561
+papis_id: e951459b8c08a7e3b5cb9b1793111371
+ref: lin.l_m.2006
+title: Rotating star initial data for a constrained scheme in numerical relativity
+type: article
+volume: '23'
+year: '2006'

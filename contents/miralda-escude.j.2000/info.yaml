@@ -1,0 +1,49 @@
+abstract: A model of the density distribution in the intergalactic medium (IGM), motivated
+  by that found in numerical simulations, is used to demonstrate the effect of a clumpy
+  IGM and discrete sources on the reionization of the universe. In an inhomogeneous
+  universe reionization occurs outside-in, starting in voids and gradually penetrating
+  into overdense regions. Reionization should not be sudden but gradual, with a continuous
+  rise of the photon mean free path over a fair fraction of the Hubble time as the
+  emissivity increases. We show that a hydrogen Gunn-Peterson trough should be present
+  at z~=6 unless the emissivity increases with redshift at z>4. However, the epoch
+  of overlap of cosmological H II regions could have occurred at a higher redshift
+  if sources of low luminosity reionized the IGM; the Gunn-Peterson trough at z~6
+  would then appear because even the most underdense voids have a large enough neutral
+  fraction in ionization equilibrium to be optically thick to Lyalpha photons. Cosmological
+  H II regions near the epoch of overlap can produce gaps of transmitted flux only
+  if luminous quasars contributed to the reionization, producing large H II regions.
+  Despite the clumpiness of the matter distribution, recombinations do not increase
+  the required emissivity of ionizing photons by a large factor during the reionization
+  of hydrogen because the high-density gas is not ionized until a late time. We show
+  that the He II reionization was most likely delayed relative to the hydrogen reionization
+  but was probably complete by z~3 (the redshift where observations are available).
+  The reported large optical depth fluctuations of He II are not necessarily due to
+  an incomplete He II reionization but can arise from a combination of IGM density
+  fluctuations and variations in the intensity of the He II ionizing background due
+  to luminous QSOs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...530....1M
+arxivurl: http://arxiv.org/abs/astro-ph/9812306
+author: Miralda-Escudé, J. and Haehnelt, M. and Rees, M. J.
+author_list:
+- family: Miralda-Escudé
+  given: J.
+- family: Haehnelt
+  given: M.
+- family: Rees
+  given: M. J.
+date-added: 2017-08-10 20:15:39 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/308330
+eprint: astro-ph/9812306
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, GALAXIES: INTERGALACTIC MEDIUM, COSMOLOGY: LARGE-SCALE
+  STRUCTURE OF UNIVERSE, GALAXIES: QUASARS: ABSORPTION LINES'
+month: February
+pages: 1--16
+papis_id: 91f18854a23b893c4001035238fc36b1
+ref: miralda_escude.j.2000
+title: Reionization of the Inhomogeneous Universe
+type: article
+volume: '530'
+year: '2000'

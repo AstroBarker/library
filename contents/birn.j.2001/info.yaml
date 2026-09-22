@@ -1,0 +1,62 @@
+abstract: The Geospace Environmental Modeling (GEM) Reconnection Challenge project
+  is presented and the important results, which are presented in a series of companion
+  papers, are summarized. Magnetic reconnection is studied in a simple Harris sheet
+  configuration with a specified set of initial conditions, including a finite amplitude,
+  magnetic island perturbation to trigger the dynamics. The evolution of the system
+  is explored with a broad variety of codes, ranging from fully electromagnetic particle
+  in cell (PIC) codes to conventional resistive magnetohydrodynamic (MHD) codes, and
+  the results are compared. The goal is to identify the essential physics which is
+  required to model collisionless magnetic reconnection. All models that include the
+  Hall effect in the generalized Ohm's law produce essentially indistinguishable rates
+  of reconnection, corresponding to nearly Alfv{\'e}nic inflow velocities. Thus the
+  rate of reconnection is insensitive to the specific mechanism which breaks the frozen-in
+  condition, whether resistivity, electron inertia, or electron thermal motion. The
+  reconnection rate in the conventional resistive MHD model, in contrast, is dramatically
+  smaller unless a large localized or current dependent resistivity is used. The Hall
+  term brings the dynamics of whistler waves into the system. The quadratic dispersion
+  property of whistlers (higher phase speed at smaller spatial scales) is the key
+  to understanding these results. The implications of these results for trying to
+  model the global dynamics of the magnetosphere are discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001JGR...106.3715B
+author: Birn, J. and Drake, J. F. and Shay, M. A. and Rogers, B. N. and Denton, R.
+  E. and Hesse, M. and Kuznetsova, M. and Ma, Z. W. and Bhattacharjee, A. and Otto,
+  A. and Pritchett, P. L.
+author_list:
+- family: Birn
+  given: J.
+- family: Drake
+  given: J. F.
+- family: Shay
+  given: M. A.
+- family: Rogers
+  given: B. N.
+- family: Denton
+  given: R. E.
+- family: Hesse
+  given: M.
+- family: Kuznetsova
+  given: M.
+- family: Ma
+  given: Z. W.
+- family: Bhattacharjee
+  given: A.
+- family: Otto
+  given: A.
+- family: Pritchett
+  given: P. L.
+date-added: 2017-08-10 23:48:44 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1029/1999JA900449
+journal: \jgr
+keywords: 'Magnetospheric Physics: Magnetopause, cusp, and boundary layers, Magnetospheric
+  Physics: Magnetotail, Space Plasma Physics: Magnetic reconnection, Space Plasma
+  Physics: Numerical simulation studies'
+month: March
+pages: 3715--3720
+papis_id: f4df0b2376b1c6f56c8460b0eeb0ac8b
+ref: birn.j.2001
+title: Geospace Environmental Modeling (GEM) magnetic reconnection challenge
+type: article
+volume: '106'
+year: '2001'

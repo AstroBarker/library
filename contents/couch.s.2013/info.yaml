@@ -1,0 +1,50 @@
+abstract: 'Self-gravity computation by multipole expansion is a common approach in
+  problems such as core-collapse and Type Ia supernovae, where single large condensations
+  of mass must be treated. The standard formulation of multipole self-gravity in arbitrary
+  coordinate systems suffers from two significant sources of error, which we correct
+  in the formulation presented in this article. The first source of error is due to
+  the numerical approximation that effectively places grid cell mass at the central
+  point of the cell, then computes the gravitational potential at that point, resulting
+  in a convergence failure of the multipole expansion. We describe a new scheme that
+  avoids this problem by computing gravitational potential at cell faces. The second
+  source of error is due to sub-optimal choice of location for the expansion center,
+  which results in angular power at high multipole l values in the gravitational field,
+  requiring a high---and expensive---value of multipole cutoff l max. By introducing
+  a global measure of angular power in the gravitational field, we show that the optimal
+  coordinate for the expansion is the square-density-weighted mean location. We subject
+  our new multipole self-gravity algorithm, implemented in the FLASH simulation framework,
+  to two rigorous test problems: MacLaurin spheroids for which exact analytic solutions
+  are known, and core-collapse supernovae. We show that key observables of the core-collapse
+  simulations, particularly shock expansion, proto-neutron star motion, and momentum
+  conservation, are extremely sensitive to the accuracy of the multipole gravity,
+  and the accuracy of their computation is greatly improved by our reformulated solver.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...778..181C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.3135
+author: Couch, S. M. and Graziani, C. and Flocke, N.
+author_list:
+- family: Couch
+  given: S. M.
+- family: Graziani
+  given: C.
+- family: Flocke
+  given: N.
+date-added: 2017-08-10 14:40:59 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1088/0004-637X/778/2/181
+eid: '181'
+eprint: '1307.3135'
+journal: \apj
+keywords: 'gravitation, hydrodynamics, methods: numerical, stars: interiors, supernovae:
+  general'
+month: December
+pages: '181'
+papis_id: 81c5d7ad3066d562e215bed66092670c
+primaryclass: astro-ph.HE
+ref: couch.s.2013
+title: An Improved Multipole Approximation for Self-gravity and Its Importance for
+  Core-collapse Supernova Simulations
+type: article
+volume: '778'
+year: '2013'

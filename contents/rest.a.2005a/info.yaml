@@ -1,0 +1,92 @@
+abstract: 'Characterizing the nature and spatial distribution of the lensing objects
+  that produce the previously measured microlensing optical depth toward the Large
+  Magellanic Cloud (LMC) remains an open problem. We present an appraisal of the ability
+  of the SuperMACHO Project, a next-generation microlensing survey directed toward
+  the LMC, to discriminate between various proposed lensing populations. We consider
+  two scenarios: lensing by a uniform foreground screen of objects and self-lensing
+  by LMC stars. The optical depth for ``screen lensing'''' is essentially constant
+  across the face of the LMC, whereas the optical depth for self-lensing shows a strong
+  spatial dependence. We have carried out extensive simulations, based on data obtained
+  during the first year of the project, to assess the SuperMACHO survey''s ability
+  to discriminate between these two scenarios. In our simulations we predict the expected
+  number of observed microlensing events for various LMC models for each of our fields
+  by adding artificial stars to the images and estimating the spatial and temporal
+  efficiency of detecting microlensing events using Monte Carlo methods. We find that
+  the event rate itself shows significant sensitivity to the choice of the LMC luminosity
+  function, limiting the conclusions that can be drawn from the absolute rate. If
+  instead we determine the differential event rate across the LMC, we will decrease
+  the impact of these systematic biases and render our conclusions more robust. With
+  this approach the SuperMACHO Project should be able to distinguish between the two
+  categories of lens populations. This will provide important constraints on the nature
+  of the lensing objects and their contributions to the Galactic dark matter halo.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...634.1103R
+arxivurl: http://arxiv.org/abs/astro-ph/0509240
+author: Rest, A. and Stubbs, C. and Becker, A. C. and Miknaitis, G. A. and Miceli,
+  A. and Covarrubias, R. and Hawley, S. L. and Smith, R. C. and Suntzeff, N. B. and
+  Olsen, K. and Prieto, J. L. and Hiriart, R. and Welch, D. L. and Cook, K. H. and
+  Nikolaev, S. and Huber, M. and Prochtor, G. and Clocchiatti, A. and Minniti, D.
+  and Garg, A. and Challis, P. and Keller, S. C. and Schmidt, B. P.
+author_list:
+- family: Rest
+  given: A.
+- family: Stubbs
+  given: C.
+- family: Becker
+  given: A. C.
+- family: Miknaitis
+  given: G. A.
+- family: Miceli
+  given: A.
+- family: Covarrubias
+  given: R.
+- family: Hawley
+  given: S. L.
+- family: Smith
+  given: R. C.
+- family: Suntzeff
+  given: N. B.
+- family: Olsen
+  given: K.
+- family: Prieto
+  given: J. L.
+- family: Hiriart
+  given: R.
+- family: Welch
+  given: D. L.
+- family: Cook
+  given: K. H.
+- family: Nikolaev
+  given: S.
+- family: Huber
+  given: M.
+- family: Prochtor
+  given: G.
+- family: Clocchiatti
+  given: A.
+- family: Minniti
+  given: D.
+- family: Garg
+  given: A.
+- family: Challis
+  given: P.
+- family: Keller
+  given: S. C.
+- family: Schmidt
+  given: B. P.
+date-added: 2017-08-10 17:24:01 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/497060
+eprint: astro-ph/0509240
+journal: \apj
+keywords: 'Cosmology: Dark Matter, Galaxies: Halos, Galaxies: Structure, Galaxy: Structure,
+  Cosmology: Gravitational Lensing, Galaxies: Magellanic Clouds'
+month: December
+pages: 1103--1115
+papis_id: ed34b0919bcc4bc12d41b3272d116e90
+ref: rest.a.2005a
+title: 'Testing LMC Microlensing Scenarios: The Discrimination Power of the SuperMACHO
+  Microlensing Survey'
+type: article
+volume: '634'
+year: '2005'

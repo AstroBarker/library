@@ -1,0 +1,53 @@
+abstract: We present two-dimensional multigroup flux-limited diffusion magnetohydrodynamics
+  (MHD) simulations of the accretion-induced collapse (AIC) of a rapidly rotating
+  white dwarf. We focus on determining the dynamical role of MHD processes after the
+  formation of a millisecond-period proto-neutron star. We find that magnetic stresses
+  lead to a powerful explosion with an energy of a few Bethe, rather than a weak one
+  of at most 0.1 B, with an ejecta mass of ~0.1 Msolar, instead of a few 0.001 Msolar.
+  The core is spun down by ~30\% within 500 ms after bounce, and the rotational energy
+  extracted is channeled into magnetic energy that generates a strong magnetically
+  driven wind, rather than a weak neutrino-driven wind. Baryon loading of the ejecta,
+  while this wind prevails, precludes it from becoming relativistic. This suggests
+  that a gamma-ray burst (GRB) is not expected to emerge from such AICs during the
+  early proto-neutron star phase, except in the unlikely event that the massive white
+  dwarf in this AIC context has sufficient mass to lead to black hole formation. In
+  addition, we predict both negligible 56Ni production (that should result in an optically
+  dark, adiabatically cooled explosion), and the ejection of 0.1 Msolar of material
+  with an electron fraction of 0.1-0.2. Such pollution by neutron-rich nuclei puts
+  strong constraints on the possible rate of such AICs. Moreover, being free from
+  ``fallback,'' such highly magnetized millisecond-period proto-neutron stars may,
+  as they cool and contract, become magnetars, and the magnetically driven winds may
+  later transition into Poynting-flux-dominated and relativistic winds, eventually
+  detectable as GRBs at cosmological distances. The likely low event rate of AICs,
+  however, will constrain them to be, at best, a small subset of GRB and/or magnetar
+  progenitors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...669..585D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.3678
+author: Dessart, L. and Burrows, A. and Livne, E. and Ott, C. D.
+author_list:
+- family: Dessart
+  given: L.
+- family: Burrows
+  given: A.
+- family: Livne
+  given: E.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-11 03:37:51 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521701
+eprint: '0705.3678'
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Neutrinos, Stars: Neutron, Stars: Rotation, Stars:
+  Supernovae: General, Stars: White Dwarfs'
+month: November
+pages: 585--599
+papis_id: ee8872e3dd9924c9c2236c75b4d8f023
+ref: dessart.l.2007
+title: Magnetically Driven Explosions of Rapidly Rotating White Dwarfs Following Accretion-Induced
+  Collapse
+type: article
+volume: '669'
+year: '2007'

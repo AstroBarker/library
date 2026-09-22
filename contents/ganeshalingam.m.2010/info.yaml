@@ -1,0 +1,68 @@
+abstract: We present BVRI light curves of 165 Type Ia supernovae (SNe Ia) from the
+  Lick Observatory Supernova Search follow-up photometry program from 1998 through
+  2008. Our light curves are typically well sampled (cadence of 3-4 days) with an
+  average of 21 photometry epochs. We describe our monitoring campaign and the photometry
+  reduction pipeline that we have developed. Comparing our data set to that of Hicken
+  et al., with which we have 69 overlapping supernovae (SNe), we find that as an ensemble
+  the photometry is consistent, with only small overall systematic differences, although
+  individual SNe may differ by as much as 0.1 mag, and occasionally even more. Such
+  disagreement in specific cases can have significant implications for combining future
+  large data sets. We present an analysis of our light curves which includes template
+  fits of light-curve shape parameters useful for calibrating SNe Ia as distance indicators.
+  Assuming the B - V color of SNe Ia at 35 days past maximum light can be presented
+  as the convolution of an intrinsic Gaussian component and a decaying exponential
+  attributed to host-galaxy reddening, we derive an intrinsic scatter of sigma = 0.076
+  $\pm$ 0.019 mag, consistent with the Lira-Phillips law. This is the first of two
+  papers, the second of which will present a cosmological analysis of the data presented
+  herein.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..190..418G
+author: Ganeshalingam, M. and Li, W. and Filippenko, A. V. and Anderson, C. and Foster,
+  G. and Gates, E. L. and Griffith, C. V. and Grigsby, B. J. and Joubert, N. and Leja,
+  J. and Lowe, T. B. and Macomber, B. and Pritchard, T. and Thrasher, P. and Winslow,
+  D.
+author_list:
+- family: Ganeshalingam
+  given: M.
+- family: Li
+  given: W.
+- family: Filippenko
+  given: A. V.
+- family: Anderson
+  given: C.
+- family: Foster
+  given: G.
+- family: Gates
+  given: E. L.
+- family: Griffith
+  given: C. V.
+- family: Grigsby
+  given: B. J.
+- family: Joubert
+  given: N.
+- family: Leja
+  given: J.
+- family: Lowe
+  given: T. B.
+- family: Macomber
+  given: B.
+- family: Pritchard
+  given: T.
+- family: Thrasher
+  given: P.
+- family: Winslow
+  given: D.
+date-added: 2017-08-10 21:16:21 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0067-0049/190/2/418
+journal: \apjs
+keywords: 'galaxies: distances and redshifts, supernovae: general'
+month: October
+pages: 418--448
+papis_id: bcfc417949b478b406d400e6219b6dd9
+ref: ganeshalingam.m.2010
+title: 'Results of the Lick Observatory Supernova Search Follow-up Photometry Program:
+  BVRI Light Curves of 165 Type Ia Supernovae'
+type: article
+volume: '190'
+year: '2010'

@@ -1,0 +1,44 @@
+abstract: We perform a series of magnetohydrodynamic simulations of supernova cores.
+  Since the distributions of the angular momentum and the magnetic fields of strongly
+  magnetized stars are quite uncertain, we systematically change the combinations
+  of the strength of the angular momentum, rotation law, degree of differential rotation,
+  and profiles of the magnetic fields to construct the initial conditions. By so doing,
+  we estimate how the rotation-induced anisotropic neutrino heating is affected by
+  the strong magnetic fields through parity-violating effects and for the first time
+  investigate how the north-south asymmetry of the neutrino heating in a strongly
+  magnetized supernova core could be affected. As for the microphysics, we employ
+  a realistic equation of state based on the relativistic mean field theory and take
+  into account electron captures and the neutrino transport via a neutrino leakage
+  scheme. With these computations, we find that the neutrino heating rates are reduced
+  by <~0.5\% over those without the magnetic fields as a result of the parity-violating
+  effects in the vicinity of the north pole of a star, while they are enhanced by
+  about <~0.5\% in the vicinity of the south pole. If the global asymmetry of the
+  neutrino heating in the both of the poles develops in the later phases, the newly
+  born neutron star might be kicked toward the north pole in the subsequent period.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...618..474K
+arxivurl: http://arxiv.org/abs/astro-ph/0409244
+author: Kotake, K. and Yamada, S. and Sato, K.
+author_list:
+- family: Kotake
+  given: K.
+- family: Yamada
+  given: S.
+- family: Sato
+  given: K.
+date-added: 2017-08-11 02:45:23 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/425911
+eprint: astro-ph/0409244
+journal: \apj
+keywords: 'Neutrinos, Stars: Pulsars: General, Stars: Magnetic Fields, Stars: Rotation,
+  Stars: Supernovae: General'
+month: January
+pages: 474--484
+papis_id: 022ed09fea671513fd7e93586f8bc3a6
+ref: kotake.k.2005
+title: North-South Neutrino Heating Asymmetry in Strongly Magnetized and Rotating
+  Stellar Cores
+type: article
+volume: '618'
+year: '2005'

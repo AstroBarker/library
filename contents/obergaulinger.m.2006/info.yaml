@@ -1,0 +1,62 @@
+abstract: 'Aims.We have performed a comprehensive parameter study of the collapse
+  of rotating, strongly magnetized stellar cores in axisymmetry to determine their
+  gravitational wave signature based on the Einstein quadrupole formula.  Methods:
+  .We use a Newtonian explicit magnetohydrodynamic Eulerian code based on the relaxing-TVD
+  method for the solution of the ideal MHD equations, and apply the constraint-transport
+  method to guarantee a divergence-free evolution of the magnetic field. We neglect
+  effects due to neutrino transport and employ a simplified equation of state. The
+  initial models are polytropes in rotational equilibrium with a prescribed degree
+  of differential rotation and rotational energy. The initial magnetic fields are
+  purely poloidal the field strength ranging from 1010~G to 1013~G. The evolution
+  of the core is followed until a few ten milliseconds past core bounce.  Results:
+  .The initial magnetic fields are amplified mainly by the differential rotation of
+  the core giving rise to a strong toroidal field component with an energy comparable
+  to the rotational energy. The poloidal field component grows by compression during
+  collapse, but does not change significantly after core bounce. In large parts of
+  the simulated cores the growth time of the magneto-rotational instability (MRI)
+  is of the order of a few milliseconds. The saturation field strengths that can be
+  reached both via a pure Omega dynamo or the MRI are of the order of 1015~G at the
+  surface of the core. Sheet-like circulation flows which produce a strong poloidal
+  field component transporting angular momentum outwards develop due to MRI, provided
+  the initial field is not too weak. Weak initial magnetic fields (\lessapprox{}1011~G)
+  have no significant effect on the dynamics of the core and the gravitational wave
+  signal. Strong initial fields (\gtrapprox{}1012~G) cause considerable angular momentum
+  transport whereby rotational energy is extracted from the collapsed core which loses
+  centrifugal support and enters a phase of secular contraction. The gravitational
+  wave amplitude at bounce changes by up to a few ten percent compared to the corresponding
+  non-magnetic model. If the angular momentum losses are large, the post-bounce model.
+  If the angular momentum losses are large the post-bounce equilibrium state of the
+  core changes from a centrifugally to a pressure supported one. This transition imprints
+  in the gravitational wave signal a reduction of the amplitude of the large-scale
+  oscillations characteristic of cores bouncing due to centrifugal forces. In some
+  models the quasi-periodic large-scale oscillations are replaced by higher frequency
+  irregular oscillations. This pattern defines a new signal type which we call a type
+  IV gravitational wave signal. Collimated bipolar outflows give rise to a unique
+  feature that may allow their detection by means of gravitational wave astronomy:
+  a large positive quadrupole wave amplitude of similar size as that of the bounce
+  signal.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...450.1107O
+arxivurl: http://arxiv.org/abs/astro-ph/0510184
+author: Obergaulinger, M. and Aloy, M. A. and Müller, E.
+author_list:
+- family: Obergaulinger
+  given: M.
+- family: Aloy
+  given: M. A.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 19:24:43 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1051/0004-6361:20054306
+eprint: astro-ph/0510184
+journal: \aap
+month: May
+pages: 1107--1134
+papis_id: 887d256346949e7820db39bcfecc5135
+ref: obergaulinger.m.2006
+title: 'Axisymmetric simulations of magneto-rotational core collapse: dynamics and
+  gravitational wave signal'
+type: article
+volume: '450'
+year: '2006'

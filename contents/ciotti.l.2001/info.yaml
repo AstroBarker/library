@@ -1,0 +1,73 @@
+abstract: 'Most elliptical galaxies contain central black holes (BHs), and most also
+  contain significant amounts of hot gas capable of accreting on to the central BH
+  as a result of having cooling times that are short compared to the Hubble time.
+  Why, therefore, do we not see active galactic nuclei (AGNs) at the center of most
+  elliptical galaxies rather than in only (at most) a few percent of them? We here
+  propose the simple idea that feedback from accretion events heats the ambient gas,
+  retarding subsequent infall, in a follow-up to papers by Binney \& Tabor and Ciotti
+  \& Ostriker. Even small amounts of accretion on a central BH can cause the release
+  of enough energy to reverse the central inflow, when the Compton temperature (TX)
+  of the emitted radiation is higher than the mean galactic gas temperature, the basic
+  assumption of this paper. Well-observed nearby AGNs (3C 273, 3C 279), having TX
+  near 5\texttimes{}108 K, amply satisfy this requirement. In this context, we present
+  a new class of one-dimensional hydrodynamical evolutionary sequences for the gas
+  flows in elliptical galaxies with massive central BHs. The model galaxies are constrained
+  to lie on the fundamental plane of elliptical galaxies, and are surrounded by variable
+  amounts of dark matter. Two source terms operate: mass loss from evolving stars,
+  and a secularly declining heating by Type Ia supernovae (SNe Ia). Like the previous
+  models investigated by Ciotti et al., these new models can evolve up to three consecutive
+  evolutionary stages: the wind, outflow, and inflow phases. At this point the presence
+  of the BH dramatically alters the subsequent evolution, because of the energy emitted
+  by the accreting gas flow. The effects of Compton heating and cooling, hydrogen
+  and helium photoionization heating, and bremsstrahlung recycling on the gas flow
+  are investigated by numerical integration of the nonstationary equations of hydrodynamics,
+  in the simplifying assumption of spherical symmetry, and for various values of the
+  accretion efficiency and supernova rates. The resulting evolution is characterized
+  by strong oscillations, in which very fast and energetic bursts from the BH are
+  followed by longer periods during which the X-ray galaxy emission comes from the
+  coronal gas. For a fixed galaxy total mass and structure, the length and the intensity
+  of the bursts depend sensitively on the accretion efficiency and the SN Ia rate.
+  For high efficiency and SN Ia rate values, short and strong bursts are followed
+  by a degassing of the galaxy, with a consequent shut-off of the BH followed by a
+  long period when the mass loss from the stellar population replenishes the galaxy,
+  and after which a new cooling catastrophe another accretion event takes place. In
+  this case, high accretion rates characterize the BH evolution, but the total mass
+  accreted by the BH is very small. For low efficiency and SN Ia rate values, the
+  luminosity evolution is still characterized by strong intermittencies, but the number
+  of global degassing events is considerably reduced, and for very low efficiency
+  values it completely disappears. The remaining instability is then concentrated
+  in the central galactic regions. We also allow for departures from spherical symmetry
+  by examining scenarios in which the central engine is either an advection-dominated
+  accretion flow or a more conventional accretion disk that is optically thick except
+  for a polar region. The general property of highly unstable accretion remains true,
+  with central BHs growing episodically to the mass range 108-109 Msolar (in contrast
+  to DeltaMBH>~1010-1011 Msolar, if feedback is ignored). In all cases the duty cycle
+  (fraction of the time that the system will be seen as an AGN) is quite small and
+  in the range fBH~=10-4-2\texttimes{}10-3. Thus, for any reasonable value of the
+  efficiency, the presence of a massive BH at the center of a galaxy seems to be incompatible
+  with the presence of a long-lived cooling flow.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...551..131C
+arxivurl: http://arxiv.org/abs/astro-ph/9912064
+author: Ciotti, L. and Ostriker, J. P.
+author_list:
+- family: Ciotti
+  given: L.
+- family: Ostriker
+  given: J. P.
+date-added: 2017-08-11 05:41:16 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/320053
+eprint: astro-ph/9912064
+journal: \apj
+keywords: 'Galaxies: Cooling Flows, Galaxies: Active, Galaxies: Elliptical and Lenticular,
+  cD, Galaxies: ISM, Galaxies: Nuclei, X-Rays: Galaxies'
+month: April
+pages: 131--152
+papis_id: 582b580126d183479d3ed103e6c47901
+ref: ciotti.l.2001
+title: Cooling Flows and Quasars. II. Detailed Models of Feedback-modulated Accretion
+  Flows
+type: article
+volume: '551'
+year: '2001'

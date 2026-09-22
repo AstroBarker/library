@@ -1,0 +1,31 @@
+abstract: 'We present numerical studies of three-dimensional magnetohydrodynamic (MHD)
+  turbulence in a strongly magnetized medium in the extremely relativistic limit,
+  in which the inertia of the charge carriers can be neglected. We have focused on
+  strong Alfv{\''e}nic turbulence in the limit. We have found the following results.
+  First, the energy spectrum is consistent with a Kolmogorov spectrum: E(k)~k-5/3,
+  where k is the wavenumber. Second, turbulence shows a Goldreich-Sridhar type anisotropy:
+  k\vert{}\vert{}~k2/3\perp{}, where k\vert{}\vert{} and k\perp{} are wavenumbers
+  along and perpendicular to the local mean magnetic field directions, respectively.
+  These scalings are in agreement with earlier theoretical predictions by Thompson
+  \& Blaes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...621..324C
+arxivurl: http://arxiv.org/abs/astro-ph/0408318
+author: Cho, J.
+author_list:
+- family: Cho
+  given: J.
+date-added: 2017-08-10 22:40:37 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427493
+eprint: astro-ph/0408318
+journal: \apj
+keywords: 'Magnetohydrodynamics: MHD, Relativity, Turbulence'
+month: March
+pages: 324--327
+papis_id: becb8cde5bf88de719c17c69c6a3ebe6
+ref: cho.j.2005
+title: Simulations of Relativistic Force-free Magnetohydrodynamic Turbulence
+type: article
+volume: '621'
+year: '2005'

@@ -1,0 +1,37 @@
+abstract: We add an ensemble of nuclei to the equation of state for homogeneous nucleonic
+  matter to generate a new set of models suitable for astrophysical simulations of
+  core-collapse supernovae and neutron star mergers. We implement empirical constraints
+  from (i) nuclear mass measurements, (ii) proton-proton scattering phase shifts,
+  and (iii) neutron star observations. Our model is also guided by microscopic many-body
+  theory calculations based on realistic nuclear forces, including the zero-temperature
+  neutron matter equation of state from quantum Monte Carlo simulations and thermal
+  contributions to the free energy from finite-temperature many-body perturbation
+  theory. We ensure that the parameters of our model can be varied while preserving
+  thermodynamic consistency and the connection to experimental or observational data,
+  thus providing a probability distribution of the astrophysical hot and dense matter
+  equation of state. We compare our results with those obtained from other available
+  equations of state. While our probability distributions indeed represent a large
+  number of possible equations of state, we cannot yet claim to have fully explored
+  all of the uncertainties, especially with regard to the structure of nuclei in the
+  hot and dense medium.
+archiveprefix: arXiv
+author: Du, Xingfu and Steiner, Andrew W. and Holt, Jeremy W.
+author_list:
+- family: Du
+  given: Xingfu
+- family: Steiner
+  given: Andrew W.
+- family: Holt
+  given: Jeremy W.
+eprint: '2107.06697'
+file: :du\_2021 - Hot and Dense Matter Equation of State Probability Distributions
+  for Astrophysical Simulations.pdf:PDF
+keywords: nucl-th, astro-ph.HE, astro-ph.SR
+month: July
+papis_id: 990071b1d70c5714ec3342e55af491b0
+primaryclass: nucl-th
+ref: du.xingfu.2021
+title: Hot and Dense Matter Equation of State Probability Distributions for Astrophysical
+  Simulations
+type: article
+year: '2021'

@@ -1,0 +1,43 @@
+abstract: We present initial results from a population synthesis model aimed at determining
+  the star formation rate (SFR) of the Milky Way. We find that a total SFR of 0.68-1.45
+  M sun yr-1 is able to reproduce the observed number of young stellar objects (YSOs)
+  in the Spitzer/IRAC GLIMPSE survey of the Galactic plane, assuming simple prescriptions
+  for the three-dimensional Galactic distributions of YSOs and interstellar dust,
+  and using model spectral energy distributions to predict the brightness and color
+  of the synthetic YSOs at different wavelengths. This is the first Galaxy-wide measurement
+  derived from pre-main-sequence objects themselves, rather than global observables
+  such as the total radio continuum, Halpha, or FIR flux. The value obtained is slightly
+  lower than, but generally consistent with previously determined values. We will
+  extend this method in the future to fit the brightness, color, and angular distribution
+  of YSOs, and simultaneously make use of multiple surveys, to place constraints on
+  the input assumptions, and reduce uncertainties in the SFR estimate. Ultimately,
+  this will be one of the most accurate methods for determining the Galactic SFR,
+  as it makes use of stars of all masses (limited only by sensitivity) rather than
+  solely massive stars or indirect tracers of massive stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...710L..11R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.3672
+author: Robitaille, T. P. and Whitney, B. A.
+author_list:
+- family: Robitaille
+  given: T. P.
+- family: Whitney
+  given: B. A.
+date-added: 2017-08-10 17:26:21 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/2041-8205/710/1/L11
+eprint: '1001.3672'
+journal: \apjl
+keywords: 'Galaxy: fundamental parameters, infrared: stars, stars: formation, stars:
+  pre-main sequence'
+month: February
+pages: L11-L15
+papis_id: 5e75db50a3940142c79c56230b440ccc
+primaryclass: astro-ph.GA
+ref: robitaille.t.2010
+title: The Present-Day Star Formation Rate of the Milky Way Determined from Spitzer-Detected
+  Young Stellar Objects
+type: article
+volume: '710'
+year: '2010'

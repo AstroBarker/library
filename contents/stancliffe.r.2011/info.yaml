@@ -1,0 +1,53 @@
+abstract: 'We use the three-dimensional (3D) stellar structure code DJEHUTY to model
+  the ingestion of protons into the intershell convection zone of a 1 M \&sun; asymptotic
+  giant branch star of metallicity Z = 10-4. We have run two simulations: a low-resolution
+  one of around 300,000 zones and a high-resolution one consisting of 2,000,000 zones.
+  Both simulations have been evolved for about 4 hr of stellar time. We observe the
+  existence of fast, downward flowing plumes that are able to transport hydrogen into
+  close proximity to the helium-burning shell before burning takes place. The intershell
+  in the 3D model is richer in protons than the 1D model by several orders of magnitude
+  and so we obtain substantially higher hydrogen-burning luminosities---over 108 L
+  \&sun; in the high-resolution simulation---than are found in the 1D model. Convective
+  velocities in these simulations are over ten times greater than the predictions
+  of mixing length theory, though the 3D simulations have greater energy generation
+  due to the enhanced hydrogen burning. We find no evidence of the convective zone
+  splitting into two, though this could be as a result of insufficient spatial resolution
+  or because the models have not been evolved for long enough. We suggest that the
+  1D mixing length theory and particularly the use of a diffusion algorithm for mixing
+  do not give an accurate picture of these events. An advective mixing scheme may
+  give a better representation of the transport processes seen in the 3D models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742..121S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1109.1289
+author: Stancliffe, R. J. and Dearborn, D. S. P. and Lattanzio, J. C. and Heap, S.
+  A. and Campbell, S. W.
+author_list:
+- family: Stancliffe
+  given: R. J.
+- family: Dearborn
+  given: D. S. P.
+- family: Lattanzio
+  given: J. C.
+- family: Heap
+  given: S. A.
+- family: Campbell
+  given: S. W.
+date-added: 2017-08-10 19:22:43 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/742/2/121
+eid: '121'
+eprint: '1109.1289'
+journal: \apj
+keywords: 'convection, hydrodynamics, stars: AGB and post-AGB, stars: carbon, stars:
+  evolution, stars: Population II'
+month: December
+pages: '121'
+papis_id: be3dfb3ae8eb4bb8d687126b560263a3
+primaryclass: astro-ph.SR
+ref: stancliffe.r.2011
+title: Three-dimensional Hydrodynamical Simulations of a Proton Ingestion Episode
+  in a Low-metallicity Asymptotic Giant Branch Star
+type: article
+volume: '742'
+year: '2011'

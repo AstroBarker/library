@@ -1,0 +1,181 @@
+abstract: We have created a variety of composite quasar spectra using a homogeneous
+  data set of over 2200 spectra from the Sloan Digital Sky Survey (SDSS). The quasar
+  sample spans a redshift range of 0.044<=z<=4.789 and an absolute r' magnitude range
+  of -18.0 to -26.5. The input spectra cover an observed wavelength range of 3800-9200
+  {\AA} at a resolution of 1800. The median composite covers a rest-wavelength range
+  from 800 to 8555 {\AA} and reaches a peak signal-to-noise ratio of over 300 per
+  1 {\AA} resolution element in the rest frame. We have identified over 80 emission-line
+  features in the spectrum. Emission-line shifts relative to nominal laboratory wavelengths
+  are seen for many of the ionic species. Peak shifts of the broad permitted and semiforbidden
+  lines are strongly correlated with ionization energy, as previously suggested, but
+  we find that the narrow forbidden lines are also shifted by amounts that are strongly
+  correlated with ionization energy. The magnitude of the forbidden line shifts is
+  <~100 km s-1, compared with shifts of up to 550 km s-1 for some of the permitted
+  and semiforbidden lines. At wavelengths longer than the Lyalpha emission, the continuum
+  of the geometric mean composite is well fitted by two power laws, with a break at
+  ~5000 {\AA}. The frequency power-law index, alphanu, is -0.44 from ~1300 to 5000
+  {\AA} and -2.45 redward of ~5000 {\AA}. The abrupt change in slope can be accounted
+  for partly by host-galaxy contamination at low redshift. Stellar absorption lines,
+  including higher order Balmer lines, seen in the composites suggest that young or
+  intermediate-age stars make a significant contribution to the light of the host
+  galaxies. Most of the spectrum is populated by blended emission lines, especially
+  in the range 1500-3500 {\AA}, which can make the estimation of quasar continua highly
+  uncertain unless large ranges in wavelength are observed. An electronic table of
+  the median quasar template is available. Based on observations obtained with the
+  Sloan Digital Sky Survey, which is owned and operated by the Astrophysical Research
+  Consortium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001AJ....122..549V
+arxivurl: http://arxiv.org/abs/astro-ph/0105231
+author: Vanden Berk, D. E. and Richards, G. T. and Bauer, A. and Strauss, M. A. and
+  Schneider, D. P. and Heckman, T. M. and York, D. G. and Hall, P. B. and Fan, X.
+  and Knapp, G. R. and Anderson, S. F. and Annis, J. and Bahcall, N. A. and Bernardi,
+  M. and Briggs, J. W. and Brinkmann, J. and Brunner, R. and Burles, S. and Carey,
+  L. and Castander, F. J. and Connolly, A. J. and Crocker, J. H. and Csabai, I. and
+  Doi, M. and Finkbeiner, D. and Friedman, S. and Frieman, J. A. and Fukugita, M.
+  and Gunn, J. E. and Hennessy, G. S. and Ivezić, Ž. and Kent, S. and Kunszt, P. Z.
+  and Lamb, D. Q. and Leger, R. F. and Long, D. C. and Loveday, J. and Lupton, R.
+  H. and Meiksin, A. and Merelli, A. and Munn, J. A. and Newberg, H. J. and Newcomb,
+  M. and Nichol, R. C. and Owen, R. and Pier, J. R. and Pope, A. and Rockosi, C. M.
+  and Schlegel, D. J. and Siegmund, W. A. and Smee, S. and Snir, Y. and Stoughton,
+  C. and Stubbs, C. and SubbaRao, M. and Szalay, A. S. and Szokoly, G. P. and Tremonti,
+  C. and Uomoto, A. and Waddell, P. and Yanny, B. and Zheng, W.
+author_list:
+- family: Vanden Berk
+  given: D. E.
+- family: Richards
+  given: G. T.
+- family: Bauer
+  given: A.
+- family: Strauss
+  given: M. A.
+- family: Schneider
+  given: D. P.
+- family: Heckman
+  given: T. M.
+- family: York
+  given: D. G.
+- family: Hall
+  given: P. B.
+- family: Fan
+  given: X.
+- family: Knapp
+  given: G. R.
+- family: Anderson
+  given: S. F.
+- family: Annis
+  given: J.
+- family: Bahcall
+  given: N. A.
+- family: Bernardi
+  given: M.
+- family: Briggs
+  given: J. W.
+- family: Brinkmann
+  given: J.
+- family: Brunner
+  given: R.
+- family: Burles
+  given: S.
+- family: Carey
+  given: L.
+- family: Castander
+  given: F. J.
+- family: Connolly
+  given: A. J.
+- family: Crocker
+  given: J. H.
+- family: Csabai
+  given: I.
+- family: Doi
+  given: M.
+- family: Finkbeiner
+  given: D.
+- family: Friedman
+  given: S.
+- family: Frieman
+  given: J. A.
+- family: Fukugita
+  given: M.
+- family: Gunn
+  given: J. E.
+- family: Hennessy
+  given: G. S.
+- family: Ivezić
+  given: Ž.
+- family: Kent
+  given: S.
+- family: Kunszt
+  given: P. Z.
+- family: Lamb
+  given: D. Q.
+- family: Leger
+  given: R. F.
+- family: Long
+  given: D. C.
+- family: Loveday
+  given: J.
+- family: Lupton
+  given: R. H.
+- family: Meiksin
+  given: A.
+- family: Merelli
+  given: A.
+- family: Munn
+  given: J. A.
+- family: Newberg
+  given: H. J.
+- family: Newcomb
+  given: M.
+- family: Nichol
+  given: R. C.
+- family: Owen
+  given: R.
+- family: Pier
+  given: J. R.
+- family: Pope
+  given: A.
+- family: Rockosi
+  given: C. M.
+- family: Schlegel
+  given: D. J.
+- family: Siegmund
+  given: W. A.
+- family: Smee
+  given: S.
+- family: Snir
+  given: Y.
+- family: Stoughton
+  given: C.
+- family: Stubbs
+  given: C.
+- family: SubbaRao
+  given: M.
+- family: Szalay
+  given: A. S.
+- family: Szokoly
+  given: G. P.
+- family: Tremonti
+  given: C.
+- family: Uomoto
+  given: A.
+- family: Waddell
+  given: P.
+- family: Yanny
+  given: B.
+- family: Zheng
+  given: W.
+date-added: 2017-08-11 02:38:06 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321167
+eprint: astro-ph/0105231
+journal: \aj
+keywords: 'Galaxies: Quasars: Emission Lines, Galaxies: Quasars: General'
+month: August
+pages: 549--564
+papis_id: c739463327684cef13142df4610bb5c7
+ref: vanden_berk.d.2001
+title: Composite Quasar Spectra from the Sloan Digital Sky Survey
+type: article
+volume: '122'
+year: '2001'

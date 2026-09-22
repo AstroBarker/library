@@ -1,0 +1,47 @@
+abstract: Tidal disruption of main-sequence stars by black holes has generally been
+  thought to lead to a signal dominated by UV emission. If, however, the black hole
+  spins rapidly and the poloidal magnetic field intensity on the black hole horizon
+  is comparable to the inner accretion disk pressure, a powerful jet may form whose
+  luminosity can easily exceed the thermal UV luminosity. When the jet beam points
+  at Earth, its non-thermal luminosity can dominate the emitted spectrum. The thermal
+  and non-thermal components decay differently with time. In particular, the thermal
+  emission should remain roughly constant for a significant time after the period
+  of maximum accretion, beginning to diminish only after a delay, whereas after the
+  peak accretion rate, the non-thermal jet emission decays, but then reaches a plateau.
+  Both transitions are tied to a characteristic timescale t Edd at which the accretion
+  rate falls below Eddington. Making use of this timescale in a new parameter-inference
+  formalism for tidal disruption events with significant emission from a jet, we analyze
+  the recent flare source Swift J2058. It is consistent with an event in which a main-sequence
+  solar-type star is disrupted by a black hole of mass ~4 \texttimes{} 107 M \&sun;.
+  The beginning of the flat phase in the non-thermal emission from this source can
+  possibly be seen in the late-time light curve. Optical photometry over the first
+  ~= 40 days of this flare is also consistent with this picture, but is only weakly
+  constraining because the bolometric correction is very uncertain. We suggest that
+  future searches for main-sequence tidal disruptions use methods sensitive to jet
+  radiation as well as to thermal UV radiation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749...92K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.2802
+author: Krolik, J. H. and Piran, T.
+author_list:
+- family: Krolik
+  given: J. H.
+- family: Piran
+  given: T.
+date-added: 2017-08-11 02:06:01 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/1/92
+eid: '92'
+eprint: '1111.2802'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, stars: general'
+month: April
+pages: '92'
+papis_id: fd2caaf8fb3d091db520bf6b4d4d66e5
+primaryclass: astro-ph.HE
+ref: krolik.j.2012
+title: Jets from Tidal Disruptions of Stars by Black Holes
+type: article
+volume: '749'
+year: '2012'

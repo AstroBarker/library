@@ -1,0 +1,42 @@
+abstract: We use a set of magnetohydrodynamic simulations of fully developed (driven)
+  turbulence to study the anisotropy in the velocity field that is induced by the
+  presence of the magnetic field. In our models, we study turbulence characterized
+  by sonic Mach numbers Ms from 0.7 to 7.5 and Alfv{\'e}n Mach numbers from 0.4 to
+  7.7. These are used to produce synthetic observations (centroid maps) that are then
+  analyzed. To study the effect of large-scale density fluctuations and of white noise,
+  we have modified the density fields and obtained new centroid maps, which are analyzed.
+  We show that restricting the range of scales at which the anisotropy is measured
+  makes the method robust against such fluctuations. We show that the anisotropy in
+  the structure function of the maps reveals the direction of the magnetic field for
+  MA <~ 1.5, regardless of the sonic Mach number. We find that the degree of anisotropy
+  can be used to determine the degree of magnetization (i.e., MA ) for MA <~ 1.5.
+  To do this, one needs an additional measure of the sonic Mach number and an estimate
+  of the line of sight magnetic field, both feasible by other techniques, offering
+  a new opportunity to study the magnetization state of the interstellar medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...740..117E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.0693
+author: Esquivel, A. and Lazarian, A.
+author_list:
+- family: Esquivel
+  given: A.
+- family: Lazarian
+  given: A.
+date-added: 2017-08-11 01:36:58 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/740/2/117
+eid: '117'
+eprint: '1108.0693'
+journal: \apj
+keywords: 'ISM: general, ISM: structure, magnetohydrodynamics: MHD, radio lines: ISM,
+  turbulence'
+month: October
+pages: '117'
+papis_id: 47cb553233ffa4e29f6474c93653d36c
+ref: esquivel.a.2011
+title: Velocity Anisotropy as a Diagnostic of the Magnetization of the Interstellar
+  Medium and Molecular Clouds
+type: article
+volume: '740'
+year: '2011'

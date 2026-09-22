@@ -1,0 +1,52 @@
+abstract: We show three-dimensional magnetohydrodynamical simulations of a core-collapse
+  supernova in which the progenitor has magnetic fields inclined to the rotation axis.
+  The simulations employed a simple empirical equation of state in which the pressure
+  of degenerate gas is approximated by piecewise polytropes for simplicity. Energy
+  loss due to neutrinos is not taken into account for simplicity as well. The simulations
+  start from the stage of dynamical collapse of an iron core. The dynamical collapse
+  halts at t = 189 ms by the pressure of high-density gas, and a proto-neutron star
+  (PNS) forms. The evolution of the PNS was followed for about 40 ms in typical models.
+  When the initial rotation is mildly fast and the initial magnetic fields are mildly
+  strong, bipolar jets are launched from the upper atmosphere (r ~ 60 km ) of the
+  PNS. The jets are accelerated to ~3 \texttimes{} 104 km s-1, which is comparable
+  to the escape velocity at the footpoint. The jets are parallel to the initial rotation
+  axis. Before the launch of the jets, magnetic fields are twisted by rotation of
+  the PNS. The twisted magnetic fields form torus-shaped multilayers in which the
+  azimuthal component changes alternately. The formation of magnetic multilayers is
+  due to the initial condition in which the magnetic fields are inclined with respect
+  to the rotation axis. The energy of the jet depends only weakly on the initial magnetic
+  field assumed. When the initial magnetic fields are weaker, the time lag is longer
+  between the PNS formation and jet ejection. It is also shown that the time lag is
+  related to the Alfv{\'e}n transit time. Although the nearly spherical prompt shock
+  propagates outward in our simulations, it is an artifact due to our simplified equation
+  of state and neglect of neutrino loss. The morphology of twisted magnetic field
+  and associate jet ejection are, however, not affected by the simplification.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...683..357M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.3700
+author: Mikami, H. and Sato, Y. and Matsumoto, T. and Hanawa, T.
+author_list:
+- family: Mikami
+  given: H.
+- family: Sato
+  given: Y.
+- family: Matsumoto
+  given: T.
+- family: Hanawa
+  given: T.
+date-added: 2017-08-10 16:23:04 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/589759
+eid: 357-374
+eprint: '0804.3700'
+journal: \apj
+keywords: 'accretion, accretion disks, methods: numerical, MHD, supernovae: general'
+month: August
+pages: 357--374
+papis_id: 98ade44aec91e0f329a61f271811db2d
+ref: mikami.h.2008
+title: Three-dimensional Magnetohydrodynamical Simulations of a Core-Collapse Supernova
+type: article
+volume: '683'
+year: '2008'

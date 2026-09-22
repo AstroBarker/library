@@ -1,0 +1,32 @@
+abstract: Quasi-magnetohydrostatic and local ionization equilibria are assumed in
+  the present formulation and solution of the drift of magnetic field and ions embedded
+  in a self-gravitating layer of neutral isothermal gas. The introduction of Lagrangian
+  coordinates referred to the neutral gas allows this problem to be reduced to a nonlinear
+  diffusion equation for the magnetic field, whose dimensionless form involves no
+  parameters other than those introduced by the initial values. In the shape-invariant
+  solution, the magnetic field at each surface density point in the neutral fluid
+  decays as the inverse square root of the elapsed time. Explicit estimates are given,
+  as a function of the initial magnetic to neutral gas pressure in a natural family
+  of cases, for the amount of time that must pass before the shape-invariant solution
+  becomes a good approximation for actual behavior. The results obtained are interpreted
+  physically.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1983ApJ...273..202S
+author: Shu, F. H.
+author_list:
+- family: Shu
+  given: F. H.
+date-added: 2017-08-11 01:43:02 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/161359
+journal: \apj
+keywords: Ambipolar Diffusion, Interstellar Magnetic Fields, Isothermal Layers, Nebulae,
+  Space Plasmas, Lagrange Coordinates, Neutral Gases, Stellar Evolution
+month: October
+pages: 202--213
+papis_id: e466bf232a69082d2c3063e16363dc34
+ref: shu.f.1983
+title: Ambipolar diffusion in self-gravitating isothermal layers
+type: article
+volume: '273'
+year: '1983'

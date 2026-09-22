@@ -1,0 +1,46 @@
+abstract: In this work, we present the mass and magnetic distributions found in a
+  recent adaptive mesh refinement magnetohydrodynamic simulation of supersonic, super-Alfv{\'e}nic,
+  self-gravitating turbulence. Power-law tails are found in both mass density and
+  magnetic field probability density functions, with P(rho) vprop rho-1.6 and P(B)
+  vprop B -2.7. A power-law relationship is also found between magnetic field strength
+  and density, with B vprop rho0.5, throughout the collapsing gas. The mass distribution
+  of gravitationally bound cores is shown to be in excellent agreement with recent
+  observation of prestellar cores. The mass-to-flux distribution of cores is also
+  found to be in excellent agreement with recent Zeeman splitting measurements. We
+  also compare the relationship between velocity dispersion and density to the same
+  cores, and find an increasing relationship between the two, with sigma vprop n 0.25,
+  also in agreement with the observations. We then estimate the potential effects
+  of ambipolar diffusion in our cores and find that due to the weakness of the magnetic
+  field in our simulation, the inclusion of ambipolar diffusion in our simulation
+  will not cause significant alterations of the flow dynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...731...59C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.2402
+author: Collins, D. C. and Padoan, P. and Norman, M. L. and Xu, H.
+author_list:
+- family: Collins
+  given: D. C.
+- family: Padoan
+  given: P.
+- family: Norman
+  given: M. L.
+- family: Xu
+  given: H.
+date-added: 2017-08-11 01:36:34 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/731/1/59
+eid: '59'
+eprint: '1008.2402'
+journal: \apj
+keywords: 'ISM: clouds, ISM: kinematics and dynamics, ISM: magnetic fields, magnetohydrodynamics:
+  MHD'
+month: April
+pages: '59'
+papis_id: fbb174b7338718cf9ea7217340c4edd9
+ref: collins.d.2011
+title: Mass and Magnetic Distributions in Self-gravitating Super-Alfvénic Turbulence
+  with Adaptive Mesh Refinement
+type: article
+volume: '731'
+year: '2011'

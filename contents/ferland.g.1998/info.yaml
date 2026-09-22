@@ -1,0 +1,38 @@
+abstract: CLOUDY is a large-scale spectral synthesis code designed to simulate fully
+  physical conditions within an astronomical plasma and then predict the emitted spectrum.
+  Here we describe version 90 (C90) of the code, paying particular attention to changes
+  in the atomic database and numerical methods that have affected predictions since
+  the last publicly available version, C84. The computational methods and uncertainties
+  are outlined together with the direction future development will take. The code
+  is freely available and is widely used in the analysis and interpretation of emission-line
+  spectra. Web access to the Fortran source for CLOUDY, its documentation Hazy, and
+  an independent electronic form of the atomic database is also described.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998PASP..110..761F
+author: Ferland, G. J. and Korista, K. T. and Verner, D. A. and Ferguson, J. W. and
+  Kingdon, J. B. and Verner, E. M.
+author_list:
+- family: Ferland
+  given: G. J.
+- family: Korista
+  given: K. T.
+- family: Verner
+  given: D. A.
+- family: Ferguson
+  given: J. W.
+- family: Kingdon
+  given: J. B.
+- family: Verner
+  given: E. M.
+date-added: 2017-08-11 07:27:57 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/316190
+journal: \pasp
+month: July
+pages: 761--778
+papis_id: 4e5cf52a412bd24146b4d73a81bbf770
+ref: ferland.g.1998
+title: 'CLOUDY 90: Numerical Simulation of Plasmas and Their Spectra'
+type: article
+volume: '110'
+year: '1998'

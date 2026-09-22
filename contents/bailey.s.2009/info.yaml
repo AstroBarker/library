@@ -1,0 +1,99 @@
+abstract: We present a new method to standardize type Ia supernova (SN Ia) luminosities
+  to \lessapprox{}0.13 mag using flux ratios from a single flux-calibrated spectrum
+  per SN. Using Nearby Supernova Factory spectrophotomery of 58 SNe Ia, we performed
+  an unbiased search for flux ratios that correlate with SN Ia luminosity. After developing
+  the method and selecting the best ratios from a training sample, we verified the
+  results on a separate validation sample and with data from the literature. We identified
+  multiple flux ratios whose correlations with luminosity are stronger than those
+  of light curve shape and color, previously identified spectral feature ratios, or
+  equivalent width measurements. In particular, the flux ratio R642/443 = F(642~nm)
+  / F(443~nm) has a correlation of 0.95 with SN Ia absolute magnitudes. Using this
+  single ratio as a correction factor produces a Hubble diagram with a residual scatter
+  standard deviation of 0.125 $\pm$ 0.011 mag, compared with 0.161 \$\pm\$ 0.015 mag
+  when fit with the SALT2 light curve shape and color parameters x1 and c. The ratio
+  R642/443 is an effective correction factor for both extrinsic dust reddening and
+  instrinsic variations such as those of SN 1991T-like and SN 1999aa-like SNe. When
+  combined with broad-band color measurements, spectral flux ratios can standardize
+  SN Ia magnitudes to ~0.12 mag. These are the first spectral metrics that give robust
+  improvements over the standard normalization methods based upon light curve shape
+  and color, and they provide among the lowest scatter Hubble diagrams ever published.  Table
+  2 is only available in electronic form at  http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...500L..17B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0905.0340
+author: 'Bailey, S. and Aldering, G. and Antilogus, P. and Aragon, C. and Baltay,
+  C. and Bongard, S. and Buton, C. and Childress, M. and Chotard, N. and Copin, Y.
+  and Gangler, E. and Loken, S. and Nugent, P. and Pain, R. and Pecontal, E. and Pereira,
+  R. and Perlmutter, S. and Rabinowitz, D. and Rigaudier, G. and Runge, K. and Scalzo,
+  R. and Smadja, G. and Swift, H. and Tao, C. and Thomas, R. C. and Wu, C. and Nearby
+  Supernova Factory, '
+author_list:
+- family: Bailey
+  given: S.
+- family: Aldering
+  given: G.
+- family: Antilogus
+  given: P.
+- family: Aragon
+  given: C.
+- family: Baltay
+  given: C.
+- family: Bongard
+  given: S.
+- family: Buton
+  given: C.
+- family: Childress
+  given: M.
+- family: Chotard
+  given: N.
+- family: Copin
+  given: Y.
+- family: Gangler
+  given: E.
+- family: Loken
+  given: S.
+- family: Nugent
+  given: P.
+- family: Pain
+  given: R.
+- family: Pecontal
+  given: E.
+- family: Pereira
+  given: R.
+- family: Perlmutter
+  given: S.
+- family: Rabinowitz
+  given: D.
+- family: Rigaudier
+  given: G.
+- family: Runge
+  given: K.
+- family: Scalzo
+  given: R.
+- family: Smadja
+  given: G.
+- family: Swift
+  given: H.
+- family: Tao
+  given: C.
+- family: Thomas
+  given: R. C.
+- family: Wu
+  given: C.
+- family: Nearby Supernova Factory
+  given: ''
+date-added: 2017-08-11 01:11:10 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1051/0004-6361/200911973
+eprint: '0905.0340'
+journal: \aap
+keywords: 'stars: supernovae: general, cosmology: observations'
+month: June
+pages: L17-L20
+papis_id: 70cf7e0352ab01b9584f5b87112b379f
+ref: bailey.s.2009
+title: Using spectral flux ratios to standardize SN Ia luminosities
+type: article
+volume: '500'
+year: '2009'

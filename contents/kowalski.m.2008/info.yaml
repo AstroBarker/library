@@ -1,0 +1,196 @@
+abstract: We present a new compilation of Type Ia supernovae (SNe Ia), a new data
+  set of low-redshift nearby-Hubble-flow SNe, and new analysis procedures to work
+  with these heterogeneous compilations. This "Union" compilation of 414 SNe Ia, which
+  reduces to 307 SNe after selection cuts, includes the recent large samples of SNe
+  Ia from the Supernova Legacy Survey and ESSENCE Survey, the older data sets, as
+  well as the recently extended data set of distant supernovae observed with the Hubble
+  Space Telescope (HST). A single, consistent, and blind analysis procedure is used
+  for all the various SN Ia subsamples, and a new procedure is implemented that consistently
+  weights the heterogeneous data sets and rejects outliers. We present the latest
+  results from this Union compilation and discuss the cosmological constraints from
+  this new compilation and its combination with other cosmological measurements (CMB
+  and BAO). The constraint we obtain from supernovae on the dark energy density is
+  OmegaLambda = 0.713+ 0.027-0.029(stat)+ 0.036-0.039(sys) , for a flat, LambdaCDM
+  universe. Assuming a constant equation of state parameter, w, the combined constraints
+  from SNe, BAO, and CMB give w = - 0.969+ 0.059-0.063(stat)+ 0.063-0.066(sys) . While
+  our results are consistent with a cosmological constant, we obtain only relatively
+  weak constraints on a w that varies with redshift. In particular, the current SN
+  data do not yet significantly constrain w at z > 1. With the addition of our new
+  nearby Hubble-flow SNe Ia, these resulting cosmological constraints are currently
+  the tightest available.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...686..749K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.4142
+author: Kowalski, M. and Rubin, D. and Aldering, G. and Agostinho, R. J. and Amadon,
+  A. and Amanullah, R. and Balland, C. and Barbary, K. and Blanc, G. and Challis,
+  P. J. and Conley, A. and Connolly, N. V. and Covarrubias, R. and Dawson, K. S. and
+  Deustua, S. E. and Ellis, R. and Fabbro, S. and Fadeyev, V. and Fan, X. and Farris,
+  B. and Folatelli, G. and Frye, B. L. and Garavini, G. and Gates, E. L. and Germany,
+  L. and Goldhaber, G. and Goldman, B. and Goobar, A. and Groom, D. E. and Haissinski,
+  J. and Hardin, D. and Hook, I. and Kent, S. and Kim, A. G. and Knop, R. A. and Lidman,
+  C. and Linder, E. V. and Mendez, J. and Meyers, J. and Miller, G. J. and Moniez,
+  M. and Mourão, A. M. and Newberg, H. and Nobili, S. and Nugent, P. E. and Pain,
+  R. and Perdereau, O. and Perlmutter, S. and Phillips, M. M. and Prasad, V. and Quimby,
+  R. and Regnault, N. and Rich, J. and Rubenstein, E. P. and Ruiz-Lapuente, P. and
+  Santos, F. D. and Schaefer, B. E. and Schommer, R. A. and Smith, R. C. and Soderberg,
+  A. M. and Spadafora, A. L. and Strolger, L.-G. and Strovink, M. and Suntzeff, N.
+  B. and Suzuki, N. and Thomas, R. C. and Walton, N. A. and Wang, L. and Wood-Vasey,
+  W. M. and Yun, J. L.
+author_list:
+- family: Kowalski
+  given: M.
+- family: Rubin
+  given: D.
+- family: Aldering
+  given: G.
+- family: Agostinho
+  given: R. J.
+- family: Amadon
+  given: A.
+- family: Amanullah
+  given: R.
+- family: Balland
+  given: C.
+- family: Barbary
+  given: K.
+- family: Blanc
+  given: G.
+- family: Challis
+  given: P. J.
+- family: Conley
+  given: A.
+- family: Connolly
+  given: N. V.
+- family: Covarrubias
+  given: R.
+- family: Dawson
+  given: K. S.
+- family: Deustua
+  given: S. E.
+- family: Ellis
+  given: R.
+- family: Fabbro
+  given: S.
+- family: Fadeyev
+  given: V.
+- family: Fan
+  given: X.
+- family: Farris
+  given: B.
+- family: Folatelli
+  given: G.
+- family: Frye
+  given: B. L.
+- family: Garavini
+  given: G.
+- family: Gates
+  given: E. L.
+- family: Germany
+  given: L.
+- family: Goldhaber
+  given: G.
+- family: Goldman
+  given: B.
+- family: Goobar
+  given: A.
+- family: Groom
+  given: D. E.
+- family: Haissinski
+  given: J.
+- family: Hardin
+  given: D.
+- family: Hook
+  given: I.
+- family: Kent
+  given: S.
+- family: Kim
+  given: A. G.
+- family: Knop
+  given: R. A.
+- family: Lidman
+  given: C.
+- family: Linder
+  given: E. V.
+- family: Mendez
+  given: J.
+- family: Meyers
+  given: J.
+- family: Miller
+  given: G. J.
+- family: Moniez
+  given: M.
+- family: Mourão
+  given: A. M.
+- family: Newberg
+  given: H.
+- family: Nobili
+  given: S.
+- family: Nugent
+  given: P. E.
+- family: Pain
+  given: R.
+- family: Perdereau
+  given: O.
+- family: Perlmutter
+  given: S.
+- family: Phillips
+  given: M. M.
+- family: Prasad
+  given: V.
+- family: Quimby
+  given: R.
+- family: Regnault
+  given: N.
+- family: Rich
+  given: J.
+- family: Rubenstein
+  given: E. P.
+- family: Ruiz-Lapuente
+  given: P.
+- family: Santos
+  given: F. D.
+- family: Schaefer
+  given: B. E.
+- family: Schommer
+  given: R. A.
+- family: Smith
+  given: R. C.
+- family: Soderberg
+  given: A. M.
+- family: Spadafora
+  given: A. L.
+- family: Strolger
+  given: L.-G.
+- family: Strovink
+  given: M.
+- family: Suntzeff
+  given: N. B.
+- family: Suzuki
+  given: N.
+- family: Thomas
+  given: R. C.
+- family: Walton
+  given: N. A.
+- family: Wang
+  given: L.
+- family: Wood-Vasey
+  given: W. M.
+- family: Yun
+  given: J. L.
+date-added: 2017-08-11 01:14:03 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1086/589937
+eid: 749-778
+eprint: '0804.4142'
+journal: \apj
+keywords: 'cosmological parameters, cosmology: observations, supernovae: general'
+month: October
+pages: 749--778
+papis_id: c7dcec431dba0618f980ca433b69c314
+ref: kowalski.m.2008
+title: Improved Cosmological Constraints from New, Old, and Combined Supernova Data
+  Sets
+type: article
+volume: '686'
+year: '2008'

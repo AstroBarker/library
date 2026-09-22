@@ -1,0 +1,54 @@
+abstract: 'Data from the Sloan Digital Sky Survey (~300,000 galaxies) indicate that
+  recent star formation (within the last 1 billion years) is bimodal: half of the
+  stars form from gas with high amounts of metals (solar metallicity) and the other
+  half form with small contribution of elements heavier than helium (~10\%-30\% solar).
+  Theoretical studies of mass loss from the brightest stars derive significantly higher
+  stellar-origin black hole (BH) masses (~30-80 M sun) than previously estimated for
+  sub-solar compositions. We combine these findings to estimate the probability of
+  detecting gravitational waves (GWs) arising from the inspiral of double compact
+  objects. Our results show that a low-metallicity environment significantly boosts
+  the formation of double compact object binaries with at least one BH. In particular,
+  we find the GW detection rate is increased by a factor of 20 if the metallicity
+  is decreased from solar (as in all previous estimates) to a 50-50 mixture of solar
+  and 10\% solar metallicity. The current sensitivity of the two largest instruments
+  to neutron star-neutron star (NS-NS) binary inspirals (VIRGO: ~9 Mpc; LIGO: ~18)
+  is not high enough to ensure a first detection. However, our results indicate that
+  if a future instrument increased the sensitivity to ~50-100 Mpc, a detection of
+  GWs would be expected within the first year of observation. It was previously thought
+  that NS-NS inspirals were the most likely source for GW detection. Our results indicate
+  that BH-BH binaries are ~25 times more likely sources than NS-NS systems and that
+  we are on the cusp of GW detection.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...715L.138B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.0386
+author: Belczynski, K. and Dominik, M. and Bulik, T. and O'Shaughnessy, R. and Fryer,
+  C. and Holz, D. E.
+author_list:
+- family: Belczynski
+  given: K.
+- family: Dominik
+  given: M.
+- family: Bulik
+  given: T.
+- family: O'Shaughnessy
+  given: R.
+- family: Fryer
+  given: C.
+- family: Holz
+  given: D. E.
+date-added: 2017-08-11 03:37:18 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1088/2041-8205/715/2/L138
+eprint: '1004.0386'
+journal: \apjl
+keywords: 'binaries: close, gravitation, stars: evolution, stars: neutron'
+month: June
+pages: L138-L141
+papis_id: 51fb8c2b4acf3a4aea9417661d067aba
+primaryclass: astro-ph.HE
+ref: belczynski.k.2010a
+title: The Effect of Metallicity on the Detection Prospects for Gravitational Waves
+type: article
+volume: '715'
+year: '2010'

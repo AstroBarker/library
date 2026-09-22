@@ -1,0 +1,68 @@
+abstract: 'We study the slow neutron capture process (s-process) in asymptotic giant
+  branch (AGB) stars using three different stellar evolutionary models computed for
+  a 3 Msolar, solar metallicity star. First we investigate the formation and the efficiency
+  of the main neutron source: the 13C(alpha, n)16O reaction that occurs in radiative
+  conditions. A tiny region rich in 13C (the 13C pocket) is created by proton captures
+  on the abundant 12C in the top layers of the He intershell, the zone between the
+  H shell and the He shell. We parametrically vary the number of protons mixed from
+  the envelope. For high local proton-to-12C number ratios, p/12C>~0.3, most of the
+  13C nuclei produced are further converted by proton capture to 14N. Besides, 14N
+  nuclei represent a major neutron poison. We find that a linear relationship exists
+  between the amount of 12C in the He intershell and the maximum value of the time-integrated
+  neutron flux. Then we generate detailed s-process calculations on the basis of stellar
+  evolutionary models constructed with three different codes, all of them self-consistently
+  finding the third dredge-up, although with different efficiency. One of the codes
+  includes a mechanism at each convective boundary that simulates time-dependent hydrodynamic
+  overshoot. This mechanism depends on a free parameter f and results in partial mixing
+  beyond convective boundaries, the most efficient third dredge-up, and the formation
+  of the 13C pocket. For the other two codes, an identical 13C pocket is introduced
+  in the postprocessing nucleosynthesis calculations. The models typically produce
+  enhancements of heavy elements of about 2 orders of magnitude in the He intershell
+  and of up to 1 order of magnitude at the stellar surface, after dilution with the
+  convective envelope, thus generally reproducing spectroscopic observations. The
+  results of the cases without overshoot are remarkably similar, pointing out that
+  the important uncertainty in s-process predictions is the 13C pocket and not the
+  intrinsic differences among different codes when no overshoot mechanism is included.
+  The code including hydrodynamic overshoot at each convective boundary finds that
+  the He intershell convective zone driven by the recurrent thermal instabilities
+  of the He shell (thermal pulses) penetrates the C-O core, producing a He intershell
+  composition near that observed in H-deficient central stars of planetary nebulae.
+  As a result of this intershell dredge-up, the neutron fluxes have a higher efficiency,
+  both during the interpulse periods and within thermal pulses. The s-element distribution
+  is pushed toward the heavier s-process elements, and large abundances of neutron-rich
+  isotopes fed by branching points in the s-process path are produced. Several observational
+  constraints are better matched by the models without overshoot. Our study needs
+  to be extended to different masses and metallicities and in the space of the free
+  overshoot parameter f.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...586.1305L
+arxivurl: http://arxiv.org/abs/astro-ph/0212364
+author: Lugaro, M. and Herwig, F. and Lattanzio, J. C. and Gallino, R. and Straniero,
+  O.
+author_list:
+- family: Lugaro
+  given: M.
+- family: Herwig
+  given: F.
+- family: Lattanzio
+  given: J. C.
+- family: Gallino
+  given: R.
+- family: Straniero
+  given: O.
+date-added: 2017-08-11 04:21:32 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/367887
+eprint: astro-ph/0212364
+journal: \apj
+keywords: 'Nuclear Reactions, Nucleosynthesis, Abundances, Stars: AGB and Post-AGB,
+  Stars: Evolution'
+month: April
+pages: 1305--1319
+papis_id: 0009b76c5bc3104763774fa7688a39c0
+ref: lugaro.m.2003
+title: 's-Process Nucleosynthesis in Asymptotic Giant Branch Stars: A Test for Stellar
+  Evolution'
+type: article
+volume: '586'
+year: '2003'

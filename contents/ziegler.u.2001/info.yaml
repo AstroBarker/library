@@ -1,0 +1,40 @@
+abstract: We study the effect of resistivity and variation of shear rate, q=-dlog
+  Omega /dR, on the magneto-rotational instability in stratified disks. Special attention
+  is paid to dynamo alpha -action and transport properties of the flow. The 3D magnetohydrodynamical
+  simulations are performed in the local shearing-box approximation employing the
+  code NIRVANA. Due to the chosen type of vertical boundary condition a mean azimuthal
+  magnetic field is generated which is related to dynamo alpha -action. The corresponding
+  alpha -parameter is negative (positive) in the northern (southern) disk hemisphere.
+  This result is independent of q ranging between 0.6 and 1.5 and independent of the
+  amount of diffusivity. The magnitude of alpha typically declines with decreasing
+  q. We suggest a natural limit in the vicinity of q=0.6 below which alpha -action
+  may be suppressed completely. Resistivity has a significant influence on the magnetic
+  energy level of the final state. It is reduced for decreasing magnetic Reynolds
+  number, Rem, as one might expect. However, the magneto-rotational instability is
+  able to sustain an angular momentum transport of sufficient amount against diffusion
+  even for the most diffusive case we considered, with Rem=200. The Shakura-Sunyaev
+  parameter in this case is roughly 1/3 of that of the non-resistive model with the
+  dominant contribution provided by the Reynolds stress rather than Maxwell stress.
+  The dynamo alpha -effect is found to vanish for strong dissipation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...378..668Z
+author: Ziegler, U. and Rüdiger, G.
+author_list:
+- family: Ziegler
+  given: U.
+- family: Rüdiger
+  given: G.
+date-added: 2017-08-11 00:09:35 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1051/0004-6361:20011245
+journal: \aap
+keywords: MAGNETIC FIELDS, INSTABILITIES, MHD, TURBULENCE
+month: November
+pages: 668--678
+papis_id: e5efa8e2db3a94f7bc6807fd64265482
+ref: ziegler.u.2001
+title: Shear rate dependence and the effect of resistivity in magneto-rotationally
+  unstable, stratified disks
+type: article
+volume: '378'
+year: '2001'

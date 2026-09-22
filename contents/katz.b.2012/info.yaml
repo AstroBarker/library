@@ -1,0 +1,48 @@
+abstract: Exact bolometric light curves of supernova shock breakouts are derived based
+  on the universal, non-relativistic, planar breakout solutions, assuming spherical
+  symmetry, constant Thomson scattering opacity, kappa, and angular intensity corresponding
+  to the steady-state planar limit. These approximations are accurate for progenitors
+  with a scale height much smaller than the radius. The light curves are insensitive
+  to the density profile and are determined by the progenitor radius R, and the breakout
+  velocity and density, v 0 and rho0, respectively, and kappa. The total breakout
+  energy, E BO, and the maximal ejecta velocity, v max , are shown to be E BO = 8.0piR
+  2kappa-1 cv 0 and v max  = 2.0v 0, respectively, to an accuracy of about 10\%. The
+  calculated light curves are valid up to the time of transition to spherical expansion,
+  t sph \approx{} R/4v 0. Approximate analytic expressions for the light curves are
+  provided for breakouts in which the shock crossing time at breakout, t 0 = c/kapparho0
+  v 2 0, is LtR/c (valid for R < 1014 cm). Modifications of the flux angular intensity
+  distribution and differences in shock arrival times to the surface, Deltat asym,
+  due to moderately asymmetric explosions, affect the early light curve but do not
+  affect v max  and E BO. For 4v 0 Lt c, valid for large (red supergiant) progenitors,
+  Lvpropt -4/3 at max (Deltat asym, R/c) < t < t sph and R may be accurately estimated
+  from R \approx{} 2 \texttimes{} 1013(L/1043 erg s-1)2/5(t/1 hr)8/15.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747..147K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.5276
+author: Katz, B. and Sapir, N. and Waxman, E.
+author_list:
+- family: Katz
+  given: B.
+- family: Sapir
+  given: N.
+- family: Waxman
+  given: E.
+date-added: 2017-08-10 14:26:44 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/747/2/147
+eid: '147'
+eprint: '1103.5276'
+journal: \apj
+keywords: 'radiation mechanisms: non-thermal, shock waves, supernovae: general, X-rays:
+  bursts'
+month: March
+pages: '147'
+papis_id: 753d9350e27bcbafc1d67d3a7332f48a
+primaryclass: astro-ph.HE
+ref: katz.b.2012
+title: Non-relativistic Radiation Mediated Shock Breakouts. II. Bolometric Properties
+  of Supernova Shock Breakout
+type: article
+volume: '747'
+year: '2012'

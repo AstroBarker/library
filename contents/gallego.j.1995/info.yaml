@@ -1,0 +1,42 @@
+abstract: 'The Universidad Complutense de Madrid (UCM) survey is a long-term project
+  aimed at finding and analyzing star-forming galaxies detected by their H alpha emission
+  in Schmidt objective-prism plates. The instrumental setup limits the volume of the
+  universe surveyed to a redshift z <~ 0.045. So far we have discovered several hundred
+  emission-line galaxies (ELGs) undergoing star formation at a wide range of levels.
+  Analyzing a complete sample of ELGs from the UCM survey, we have computed the H
+  alpha luminosity function for the star-forming galaxies in the surveyed volume of
+  the universe. A Schechter function provides a good fit to the H alpha luminosity
+  function with the following parameters: alpha = -1.3 +/- 0.2, L\textasteriskcentered(H
+  alpha ) = 1042.15+/-0.08 ergs s-1, and phi \textasteriskcentered = 10-3.2+/-0.2
+  Mpc-3 for H0 = 50 km s-1 Mpc-1. Integrating over the full range of luminosities,
+  we obtain an H alpha luminosity density of 1039.1+/-0.2 ergs s-1 Mpc-3. Using the
+  H alpha emission as a star formation rate (SFR) estimator, this translates into
+  a SFR density for the local universe of 0.013^{+0.007}\_{-0.005} M\&sun; yr-1 Mpc-3
+  in star-forming galaxies with EW(H alpha + [N II]) > 10 A and z <~ 0.045 for a Scalo
+  initial mass function. This is the first observational determination of this quantity,
+  which will provide a direct test of current galaxy formation and evolution models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...455L...1G
+author: Gallego, J. and Zamorano, J. and Aragon-Salamanca, A. and Rego, M.
+author_list:
+- family: Gallego
+  given: J.
+- family: Zamorano
+  given: J.
+- family: Aragon-Salamanca
+  given: A.
+- family: Rego
+  given: M.
+date-added: 2017-08-11 03:27:58 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/309804
+journal: \apjl
+keywords: 'GALAXIES: LUMINOSITY FUNCTION, MASS FUNCTION, GALAXIES: FUNDAMENTAL PARAMETERS'
+month: December
+pages: L1
+papis_id: 61a5f96b74a24256226556390eb9fd4e
+ref: gallego.j.1995
+title: The Current Star Formation Rate of the Local Universe
+type: article
+volume: '455'
+year: '1995'

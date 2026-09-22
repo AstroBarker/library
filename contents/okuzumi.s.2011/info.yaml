@@ -1,0 +1,44 @@
+abstract: Turbulence driven by magnetorotational instability (MRI) crucially affects
+  the evolution of solid bodies in protoplanetary disks. On the other hand, small
+  dust particles stabilize MRI by capturing ionized gas particles needed for the coupling
+  of the gas and magnetic fields. To provide an empirical basis for modeling the coevolution
+  of dust and MRI, we perform three-dimensional, ohmic-resistive MHD simulations of
+  a vertically stratified shearing box with an MRI-inactive "dead zone" of various
+  sizes and with a net vertical magnetic flux of various strengths. We find that the
+  vertical structure of turbulence is well characterized by the vertical magnetic
+  flux and three critical heights derived from the linear analysis of MRI in a stratified
+  disk. In particular, the turbulent structure depends on the resistivity profile
+  only through the critical heights and is insensitive to the details of the resistivity
+  profile. We discover scaling relations between the amplitudes of various turbulent
+  quantities (velocity dispersion, density fluctuation, vertical diffusion coefficient,
+  and outflow mass flux) and vertically integrated accretion stresses. We also obtain
+  empirical formulae for the integrated accretion stresses as a function of the vertical
+  magnetic flux and the critical heights. These empirical relations allow us to predict
+  the vertical turbulent structure of a protoplanetary disk for a given strength of
+  the magnetic flux and a given resistivity profile.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...742...65O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.4892
+author: Okuzumi, S. and Hirose, S.
+author_list:
+- family: Okuzumi
+  given: S.
+- family: Hirose
+  given: S.
+date-added: 2017-08-10 14:47:20 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/742/2/65
+eid: '65'
+eprint: '1108.4892'
+journal: \apj
+keywords: 'dust, extinction, planets and satellites: formation, protoplanetary disks'
+month: December
+pages: '65'
+papis_id: 87efb41b85e25952053b1966fd85e6cc
+primaryclass: astro-ph.EP
+ref: okuzumi.s.2011
+title: Modeling Magnetorotational Turbulence in Protoplanetary Disks with Dead Zones
+type: article
+volume: '742'
+year: '2011'

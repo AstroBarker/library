@@ -1,0 +1,61 @@
+abstract: 'For the explosion mechanism of Type Ia supernovae (SNe Ia), different scenarios
+  have been suggested. In these, the propagation of the burning front through the
+  exploding white dwarf (WD) star proceeds in different modes, and consequently imprints
+  of the explosion model on the nucleosynthetic yields can be expected. The nucleosynthetic
+  characteristics of various explosion mechanisms are explored based on three two-dimensional
+  explosion simulations representing extreme cases: a pure turbulent deflagration,
+  a delayed detonation following an approximately spherical ignition of the initial
+  deflagration, and a delayed detonation arising from a highly asymmetric deflagration
+  ignition. Apart from this initial condition, the deflagration stage is treated in
+  a parameter-free approach. The detonation is initiated when the turbulent burning
+  enters the distributed burning regime. This occurs at densities around 107 g cm-3---relatively
+  low as compared to existing nucleosynthesis studies for one-dimensional spherically
+  symmetric models. The burning in these multidimensional models is different from
+  that in one-dimensional simulations as the detonation wave propagates both into
+  unburned material in the high-density region near the center of a WD and into the
+  low-density region near the surface. Thus, the resulting yield is a mixture of different
+  explosive burning products, from carbon-burning products at low densities to complete
+  silicon-burning products at the highest densities, as well as electron-capture products
+  synthesized at the deflagration stage. Detailed calculations of the nucleosynthesis
+  in all three models are presented. In contrast to the deflagration model, the delayed
+  detonations produce a characteristic layered structure and the yields largely satisfy
+  constraints from Galactic chemical evolution. In the asymmetric delayed detonation
+  model, the region filled with electron capture species (e.g., 58Ni, 54Fe) is within
+  a shell, showing a large off-set, above the bulk of 56Ni distribution, while species
+  produced by the detonation are distributed more spherically.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...712..624M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.2153
+author: Maeda, K. and Röpke, F. K. and Fink, M. and Hillebrandt, W. and Travaglio,
+  C. and Thielemann, F.-K.
+author_list:
+- family: Maeda
+  given: K.
+- family: Röpke
+  given: F. K.
+- family: Fink
+  given: M.
+- family: Hillebrandt
+  given: W.
+- family: Travaglio
+  given: C.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-11 02:25:04 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/712/1/624
+eprint: '1002.2153'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general'
+month: March
+pages: 624--638
+papis_id: 41c7864bf9a66bc3e10b82a5df20ea0a
+primaryclass: astro-ph.SR
+ref: maeda.k.2010b
+title: Nucleosynthesis in Two-Dimensional Delayed Detonation Models of Type Ia Supernova
+  Explosions
+type: article
+volume: '712'
+year: '2010'

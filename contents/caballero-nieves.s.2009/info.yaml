@@ -1,0 +1,68 @@
+abstract: We present an examination of high-resolution, ultraviolet (UV) spectroscopy
+  from Hubble Space Telescope of the photospheric spectrum of the O-supergiant in
+  the massive X-ray binary HD 226868 = Cyg X-1. We analyzed this and ground-based
+  optical spectra to determine the effective temperature and gravity of the O9.7 Iab
+  supergiant. Using non-LTE, line-blanketed, plane-parallel models from the TLUSTY
+  grid, we obtain T eff = 28.0 $\pm$ 2.5 kK and log g gsim 3.00 \$\pm\$ 0.25, both
+  lower than in previous studies. The optical spectrum is best fit with models that
+  have enriched He and N abundances. We fit the model spectral energy distribution
+  for this temperature and gravity to the UV, optical, and infrared (IR) fluxes to
+  determine the angular size and extinction toward the binary. The angular size then
+  yields relations for the stellar radius and luminosity as a function of distance.
+  By assuming that the supergiant rotates synchronously with the orbit, we can use
+  the radius-distance relation to find mass estimates for both the supergiant and
+  black hole (BH) as a function of the distance and the ratio of stellar to Roche
+  radius. Fits of the orbital light curve yield an additional constraint that limits
+  the solutions in the mass plane. Our results indicate masses of 23+8 -6 M sun for
+  the supergiant and 11+5 -3 M sun for the BH.  Based on observations with the NASA/ESA
+  Hubble Space Telescope obtained at the Space Telescope Science Institute, which
+  is operated by the Association of Universities for Research in Astronomy, Inc.,
+  under NASA contract NAS5-26555. These observations are associated with programs
+  GO-9646 and GO-9840.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...701.1895C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.2422
+author: Caballero-Nieves, S. M. and Gies, D. R. and Bolton, C. T. and Hadrava, P.
+  and Herrero, A. and Hillwig, T. C. and Howell, S. B. and Huang, W. and Kaper, L.
+  and Koubský, P. and McSwain, M. V.
+author_list:
+- family: Caballero-Nieves
+  given: S. M.
+- family: Gies
+  given: D. R.
+- family: Bolton
+  given: C. T.
+- family: Hadrava
+  given: P.
+- family: Herrero
+  given: A.
+- family: Hillwig
+  given: T. C.
+- family: Howell
+  given: S. B.
+- family: Huang
+  given: W.
+- family: Kaper
+  given: L.
+- family: Koubský
+  given: P.
+- family: McSwain
+  given: M. V.
+date-added: 2017-08-11 04:33:46 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/701/2/1895
+eprint: '0907.2422'
+journal: \apj
+keywords: 'binaries: spectroscopic, stars: early-type, stars: individual: HD 226868
+  Cyg X-1, ultraviolet: stars, X-rays: binaries'
+month: August
+pages: 1895--1905
+papis_id: 65c3080f45fcfcf2e6a7d767938b66ae
+primaryclass: astro-ph.SR
+ref: caballero_nieves.s.2009
+title: The Ultraviolet Spectrum and Physical Properties of the Mass Donor Star in
+  HD 226868 = Cygnus X-1
+type: article
+volume: '701'
+year: '2009'

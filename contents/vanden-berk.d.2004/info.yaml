@@ -1,0 +1,76 @@
+abstract: Using a sample of over 25,000 spectroscopically confirmed quasars from the
+  Sloan Digital Sky Survey, we show how quasar variability in the rest-frame optical/UV
+  regime depends on rest-frame time lag, luminosity, rest wavelength, redshift, the
+  presence of radio and X-ray emission, and the presence of broad absorption line
+  systems. Imaging photometry is compared with three-band spectrophotometry obtained
+  at later epochs spanning time lags up to about 2 yr. The large sample size and wide
+  range of parameter values allow the dependence of variability to be isolated as
+  a function of many independent parameters. The time dependence of variability (the
+  structure function) is well fitted by a single power law with an index gamma=0.246+/-0.008,
+  on timescales from days to years. There is an anticorrelation of variability amplitude
+  with rest wavelength-e.g., quasars are about twice as variable at 1000 {\AA} as
+  at 6000 {\AA}-and quasars are systematically bluer when brighter at all redshifts.
+  There is a strong anticorrelation of variability with quasar luminosity-variability
+  amplitude decreases by a factor of about 4 when luminosity increases by a factor
+  of 100. There is also a significant positive correlation of variability amplitude
+  with redshift, indicating evolution of the quasar population or the variability
+  mechanism. We parameterize all of these relationships. Quasars with ROSAT All-Sky
+  Survey X-ray detections are significantly more variable (at optical/UV wavelengths)
+  than those without, and radio-loud quasars are marginally more variable than their
+  radio-quiet counterparts. We find no significant difference in the variability of
+  quasars with and without broad absorption line troughs. Currently, no models of
+  quasar variability address more than a few of these relationships. Models involving
+  multiple discrete events or gravitational microlensing are unlikely by themselves
+  to account for the data. So-called accretion disk instability models are promising,
+  but more quantitative predictions are needed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...601..692V
+arxivurl: http://arxiv.org/abs/astro-ph/0310336
+author: Vanden Berk, D. E. and Wilhite, B. C. and Kron, R. G. and Anderson, S. F.
+  and Brunner, R. J. and Hall, P. B. and Ivezić, Ž. and Richards, G. T. and Schneider,
+  D. P. and York, D. G. and Brinkmann, J. V. and Lamb, D. Q. and Nichol, R. C. and
+  Schlegel, D. J.
+author_list:
+- family: Vanden Berk
+  given: D. E.
+- family: Wilhite
+  given: B. C.
+- family: Kron
+  given: R. G.
+- family: Anderson
+  given: S. F.
+- family: Brunner
+  given: R. J.
+- family: Hall
+  given: P. B.
+- family: Ivezić
+  given: Ž.
+- family: Richards
+  given: G. T.
+- family: Schneider
+  given: D. P.
+- family: York
+  given: D. G.
+- family: Brinkmann
+  given: J. V.
+- family: Lamb
+  given: D. Q.
+- family: Nichol
+  given: R. C.
+- family: Schlegel
+  given: D. J.
+date-added: 2017-08-11 06:20:39 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380563
+eprint: astro-ph/0310336
+journal: \apj
+keywords: 'Galaxies: Active, Galaxies: Quasars: General, Techniques: Photometric'
+month: February
+pages: 692--714
+papis_id: 295a455c047d0069bf0e43bddf072702
+ref: vanden_berk.d.2004
+title: The Ensemble Photometric Variability of ̃25,000 Quasars in the Sloan Digital
+  Sky Survey
+type: article
+volume: '601'
+year: '2004'

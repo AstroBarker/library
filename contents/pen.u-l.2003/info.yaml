@@ -1,0 +1,40 @@
+abstract: We describe a numerical method to solve the magnetohydrodynamic (MHD) equations.
+  The fluid variables are updated along each direction using the flux-conservative,
+  second-order, total variation diminishing (TVD), upwind scheme of Jin \& Xin. The
+  magnetic field is updated separately in two-dimensional advection-constraint steps.
+  The electromotive force (EMF) is computed in the advection step using the TVD scheme,
+  and this same EMF is used immediately in the constraint step in order to preserve
+  \nabla{}\textperiodcentered{}B=0 without the need to store intermediate fluxes.
+  Operator splitting is used to extend the code to three dimensions, and Runge-Kutta
+  is used to get second-order accuracy in time. The advantages of this code are high-resolution
+  per grid cell, second-order accuracy in space and time, enforcement of the \nabla{}\textperiodcentered{}B=0
+  constraint to machine precision, no memory overhead, speed, and simplicity. A three-dimensional
+  FORTRAN implementation less than 400 lines long is made freely available. We also
+  implemented a fully scalable message-passing parallel MPI version. We present tests
+  of the code on MHD waves and shocks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJS..149..447P
+arxivurl: http://arxiv.org/abs/astro-ph/0305088
+author: Pen, U.-L. and Arras, P. and Wong, S.
+author_list:
+- family: Pen
+  given: U.-L.
+- family: Arras
+  given: P.
+- family: Wong
+  given: S.
+date-added: 2017-08-11 03:22:37 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/378771
+eprint: astro-ph/0305088
+journal: \apjs
+keywords: 'Methods: Numerical, Magnetohydrodynamics: MHD'
+month: December
+pages: 447--455
+papis_id: 37993764f0806c9a3fbec007197ae963
+ref: pen.u_l.2003
+title: A Free, Fast, Simple, and Efficient Total Variation Diminishing Magnetohydrodynamic
+  Code
+type: article
+volume: '149'
+year: '2003'

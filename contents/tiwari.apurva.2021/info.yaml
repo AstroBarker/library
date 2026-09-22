@@ -1,0 +1,30 @@
+abstract: A $p$-adaptive discontinuous Galerkin time-domain method is developed to
+  obtain high-order solutions to electromagnetic scattering problems. A novel feature
+  of the proposed method is the use of divergence error to drive the \$p\$-adaptive
+  method. The nature of divergence error is explored and that it is a direct consequence
+  of the act of discretization is established. Its relation with relative truncation
+  error is formed which enables the use of divergence error as an inexpensive proxy
+  to truncation error. Divergence error is used as an indicator to dynamically identify
+  and assign spatial operators of varying accuracy to substantial regions in the computational
+  domain. This results in a reduced computational cost than a comparable discontinuous
+  Galerkin time-domain solution using uniform degree piecewise polynomial bases throughout.
+archiveprefix: arXiv
+author: Tiwari, Apurva and Chatterjee, Avijit
+author_list:
+- family: Tiwari
+  given: Apurva
+- family: Chatterjee
+  given: Avijit
+eprint: '2110.09979'
+file: :tiwari\_2021 - Divergence Error Based $p$ Adaptive Discontinuous Galerkin Solution
+  of Time Domain Maxwell's Equations.pdf:PDF
+groups: Numerical Methods - DG
+keywords: physics.comp-ph
+month: October
+papis_id: 6c513946d7e1430729aef453cfdd589c
+primaryclass: physics.comp-ph
+ref: tiwari.apurva.2021
+title: Divergence error based $p$-adaptive discontinuous Galerkin solution of time-domain
+  Maxwell's equations
+type: article
+year: '2021'

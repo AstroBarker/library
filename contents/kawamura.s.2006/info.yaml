@@ -1,0 +1,249 @@
+abstract: DECi-hertz Interferometer Gravitational wave Observatory (DECIGO) is the
+  future Japanese space gravitational wave antenna. It aims at detecting various kinds
+  of gravitational waves between 1 mHz and 100 Hz frequently enough to open a new
+  window of observation for gravitational wave astronomy. The pre-conceptual design
+  of DECIGO consists of three drag-free satellites, 1000 km apart from each other,
+  whose relative displacements are measured by a Fabry-Perot Michelson interferometer.
+  We plan to launch DECIGO in 2024 after a long and intense development phase, including
+  two pathfinder missions for verification of required technologies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006CQGra..23S.125K
+author: Kawamura, S. and Nakamura, T. and Ando, M. and Seto, N. and Tsubono, K. and
+  Numata, K. and Takahashi, R. and Nagano, S. and Ishikawa, T. and Musha, M. and Ueda,
+  K.-i. and Sato, T. and Hosokawa, M. and Agatsuma, K. and Akutsu, T. and Aoyanagi,
+  K.-s. and Arai, K. and Araya, A. and Asada, H. and Aso, Y. and Chiba, T. and Ebisuzaki,
+  T. and Eriguchi, Y. and Fujimoto, M.-K. and Fukushima, M. and Futamase, T. and Ganzu,
+  K. and Harada, T. and Hashimoto, T. and Hayama, K. and Hikida, W. and Himemoto,
+  Y. and Hirabayashi, H. and Hiramatsu, T. and Ichiki, K. and Ikegami, T. and Inoue,
+  K. T. and Ioka, K. and Ishidoshiro, K. and Itoh, Y. and Kamagasako, S. and Kanda,
+  N. and Kawashima, N. and Kirihara, H. and Kiuchi, K. and Kobayashi, S. and Kohri,
+  K. and Kojima, Y. and Kokeyama, K. and Kozai, Y. and Kudoh, H. and Kunimori, H.
+  and Kuroda, K. and Maeda, K.-i. and Matsuhara, H. and Mino, Y. and Miyakawa, O.
+  and Miyoki, S. and Mizusawa, H. and Morisawa, T. and Mukohyama, S. and Naito, I.
+  and Nakagawa, N. and Nakamura, K. and Nakano, H. and Nakao, K. and Nishizawa, A.
+  and Niwa, Y. and Nozawa, C. and Ohashi, M. and Ohishi, N. and Ohkawa, M. and Okutomi,
+  A. and Oohara, K. and Sago, N. and Saijo, M. and Sakagami, M. and Sakata, S. and
+  Sasaki, M. and Sato, S. and Shibata, M. and Shinkai, H. and Somiya, K. and Sotani,
+  H. and Sugiyama, N. and Tagoshi, H. and Takahashi, T. and Takahashi, H. and Takahashi,
+  R. and Takano, T. and Tanaka, T. and Taniguchi, K. and Taruya, A. and Tashiro, H.
+  and Tokunari, M. and Tsujikawa, S. and Tsunesada, Y. and Yamamoto, K. and Yamazaki,
+  T. and Yokoyama, J. and Yoo, C.-M. and Yoshida, S. and Yoshino, T.
+author_list:
+- family: Kawamura
+  given: S.
+- family: Nakamura
+  given: T.
+- family: Ando
+  given: M.
+- family: Seto
+  given: N.
+- family: Tsubono
+  given: K.
+- family: Numata
+  given: K.
+- family: Takahashi
+  given: R.
+- family: Nagano
+  given: S.
+- family: Ishikawa
+  given: T.
+- family: Musha
+  given: M.
+- family: Ueda
+  given: K.-i.
+- family: Sato
+  given: T.
+- family: Hosokawa
+  given: M.
+- family: Agatsuma
+  given: K.
+- family: Akutsu
+  given: T.
+- family: Aoyanagi
+  given: K.-s.
+- family: Arai
+  given: K.
+- family: Araya
+  given: A.
+- family: Asada
+  given: H.
+- family: Aso
+  given: Y.
+- family: Chiba
+  given: T.
+- family: Ebisuzaki
+  given: T.
+- family: Eriguchi
+  given: Y.
+- family: Fujimoto
+  given: M.-K.
+- family: Fukushima
+  given: M.
+- family: Futamase
+  given: T.
+- family: Ganzu
+  given: K.
+- family: Harada
+  given: T.
+- family: Hashimoto
+  given: T.
+- family: Hayama
+  given: K.
+- family: Hikida
+  given: W.
+- family: Himemoto
+  given: Y.
+- family: Hirabayashi
+  given: H.
+- family: Hiramatsu
+  given: T.
+- family: Ichiki
+  given: K.
+- family: Ikegami
+  given: T.
+- family: Inoue
+  given: K. T.
+- family: Ioka
+  given: K.
+- family: Ishidoshiro
+  given: K.
+- family: Itoh
+  given: Y.
+- family: Kamagasako
+  given: S.
+- family: Kanda
+  given: N.
+- family: Kawashima
+  given: N.
+- family: Kirihara
+  given: H.
+- family: Kiuchi
+  given: K.
+- family: Kobayashi
+  given: S.
+- family: Kohri
+  given: K.
+- family: Kojima
+  given: Y.
+- family: Kokeyama
+  given: K.
+- family: Kozai
+  given: Y.
+- family: Kudoh
+  given: H.
+- family: Kunimori
+  given: H.
+- family: Kuroda
+  given: K.
+- family: Maeda
+  given: K.-i.
+- family: Matsuhara
+  given: H.
+- family: Mino
+  given: Y.
+- family: Miyakawa
+  given: O.
+- family: Miyoki
+  given: S.
+- family: Mizusawa
+  given: H.
+- family: Morisawa
+  given: T.
+- family: Mukohyama
+  given: S.
+- family: Naito
+  given: I.
+- family: Nakagawa
+  given: N.
+- family: Nakamura
+  given: K.
+- family: Nakano
+  given: H.
+- family: Nakao
+  given: K.
+- family: Nishizawa
+  given: A.
+- family: Niwa
+  given: Y.
+- family: Nozawa
+  given: C.
+- family: Ohashi
+  given: M.
+- family: Ohishi
+  given: N.
+- family: Ohkawa
+  given: M.
+- family: Okutomi
+  given: A.
+- family: Oohara
+  given: K.
+- family: Sago
+  given: N.
+- family: Saijo
+  given: M.
+- family: Sakagami
+  given: M.
+- family: Sakata
+  given: S.
+- family: Sasaki
+  given: M.
+- family: Sato
+  given: S.
+- family: Shibata
+  given: M.
+- family: Shinkai
+  given: H.
+- family: Somiya
+  given: K.
+- family: Sotani
+  given: H.
+- family: Sugiyama
+  given: N.
+- family: Tagoshi
+  given: H.
+- family: Takahashi
+  given: T.
+- family: Takahashi
+  given: H.
+- family: Takahashi
+  given: R.
+- family: Takano
+  given: T.
+- family: Tanaka
+  given: T.
+- family: Taniguchi
+  given: K.
+- family: Taruya
+  given: A.
+- family: Tashiro
+  given: H.
+- family: Tokunari
+  given: M.
+- family: Tsujikawa
+  given: S.
+- family: Tsunesada
+  given: Y.
+- family: Yamamoto
+  given: K.
+- family: Yamazaki
+  given: T.
+- family: Yokoyama
+  given: J.
+- family: Yoo
+  given: C.-M.
+- family: Yoshida
+  given: S.
+- family: Yoshino
+  given: T.
+date-added: 2017-08-10 21:34:43 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1088/0264-9381/23/8/S17
+journal: Classical and Quantum Gravity
+month: April
+pages: S125-S131
+papis_id: fe5a319b0648d095746aef0a8c22fdd8
+ref: kawamura.s.2006
+title: The Japanese space gravitational wave antenna\mdashDECIGO
+type: article
+volume: '23'
+year: '2006'

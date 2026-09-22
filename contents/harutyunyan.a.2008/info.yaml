@@ -1,0 +1,68 @@
+abstract: 'Aims: We present the spectra of 36 supernovae (SNe) of various types, obtained
+  by the European Supernova Collaboration. Because of the spectral classification
+  and the phase determination at their discovery the SNe did not warrant further study,
+  and the spectra we present are the only ones available for the respective objects.
+  In this paper we present and discuss this material using a new software for the
+  automated classification of SNe spectra.  Methods: As a validation of the software,
+  we verify the classification and phase estimate reported for these objects in their
+  discovery/classification circulars. For the comparison, the software uses the library
+  of template spectra of Padova-Asiago Supernova Archive (ASA).  Results: For each
+  spectrum of our sample we present a brief, individual discussion, highlighting the
+  main characteristics and possible peculiarities. The comparison with ASA spectra
+  confirms the previous classification of all objects and refines the age estimates.
+  For our software, we determine numerical limits of ``safe'''' spectral classification
+  and the uncertainties of the phase determination.  European Supernova Collaboration,   http://www.mpa-garching.mpg.de/
+  rtn'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...488..383H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.1939
+author: Harutyunyan, A. H. and Pfahler, P. and Pastorello, A. and Taubenberger, S.
+  and Turatto, M. and Cappellaro, E. and Benetti, S. and Elias-Rosa, N. and Navasardyan,
+  H. and Valenti, S. and Stanishev, V. and Patat, F. and Riello, M. and Pignata, G.
+  and Hillebrandt, W.
+author_list:
+- family: Harutyunyan
+  given: A. H.
+- family: Pfahler
+  given: P.
+- family: Pastorello
+  given: A.
+- family: Taubenberger
+  given: S.
+- family: Turatto
+  given: M.
+- family: Cappellaro
+  given: E.
+- family: Benetti
+  given: S.
+- family: Elias-Rosa
+  given: N.
+- family: Navasardyan
+  given: H.
+- family: Valenti
+  given: S.
+- family: Stanishev
+  given: V.
+- family: Patat
+  given: F.
+- family: Riello
+  given: M.
+- family: Pignata
+  given: G.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-11 00:07:01 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:20078859
+eprint: '0804.1939'
+journal: \aap
+keywords: 'supernovae: general, methods: data analysis'
+month: September
+pages: 383--399
+papis_id: aeb7fd4562c27198db865f0fae0a0fa6
+ref: harutyunyan.a.2008
+title: ESC supernova spectroscopy of non-ESC targets
+type: article
+volume: '488'
+year: '2008'

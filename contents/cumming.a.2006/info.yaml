@@ -1,0 +1,49 @@
+abstract: 'Two types of long-duration type I X-ray bursts have been discovered by
+  long-term monitoring observations of accreting neutron stars: superbursts and ``intermediate
+  duration'''' bursts. We investigate the sensitivity of their ignition conditions
+  to the interior thermal properties of the neutron star. First, we compare the observed
+  superburst light curves to cooling models. Our fits require ignition column depths
+  in the range (0.5-3)\texttimes{}1012 g cm-2 and an energy release ~2\texttimes{}1017
+  ergs g-1. The implied carbon fraction is XC>10\%, constraining models of rp-process
+  hydrogen burning. Neutrino emission and inwards conduction of heat lead to a characteristic
+  surface fluence of 1042 ergs, in good agreement with observations. Next, we compare
+  ignition models to observations of superbursts. Consistent with our light-curve
+  fits, carbon fractions XC>~0.2 are needed to avoid stable burning at the lowest
+  rates for which superbursts have been observed. Unstable carbon ignition at the
+  observed depths requires crust temperatures ~6\texttimes{}108 K, which implies that
+  neutrino emission from the interior is inefficient, and the crust has a poor thermal
+  conductivity. In particular, we cannot match observed superburst properties when
+  Cooper pair neutrino emission from the crust is included. We conclude that an extra
+  ingredient, for example additional heating of the accumulating fuel layer, is required
+  to explain the observed properties of superbursts. If Cooper pair emission is less
+  efficient than currently thought, the observed ignition depths for superbursts imply
+  that the crust is a poor conductor, and the core neutrino emission is not more efficient
+  than modified Urca. The observed properties of helium bursts support these conclusions,
+  requiring inefficient crust conductivity and core neutrino emission.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...646..429C
+arxivurl: http://arxiv.org/abs/astro-ph/0508432
+author: Cumming, A. and Macbeth, J. and in 't Zand, J. J. M. and Page, D.
+author_list:
+- family: Cumming
+  given: A.
+- family: Macbeth
+  given: J.
+- family: in 't Zand
+  given: J. J. M.
+- family: Page
+  given: D.
+date-added: 2017-08-11 08:09:21 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/504698
+eprint: astro-ph/0508432
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Neutron, X-Rays: Bursts'
+month: July
+pages: 429--451
+papis_id: f3d38b29a6726ae25148e9a3ee68d868
+ref: cumming.a.2006
+title: Long Type I X-Ray Bursts and Neutron Star Interior Physics
+type: article
+volume: '646'
+year: '2006'

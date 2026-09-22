@@ -1,0 +1,27 @@
+abstract: HSTphot, a photometry package designed to handle the undersampled point-spread
+  functions (PSFs) found in WFPC2 images, is introduced and described, as well as
+  some of the considerations that have to be made in order to obtain accurate PSF-fitting
+  stellar photometry with WFPC2 data. Tests of HSTphot's internal reliability are
+  made using multiple observations of the same field, and tests of external reliability
+  are made by comparisons with DoPHOT reductions of the same data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000PASP..112.1383D
+arxivurl: http://arxiv.org/abs/astro-ph/0006217
+author: Dolphin, A. E.
+author_list:
+- family: Dolphin
+  given: A. E.
+date-added: 2017-08-11 03:12:36 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/316630
+eprint: astro-ph/0006217
+journal: \pasp
+keywords: 'Techniques: Photometric'
+month: October
+pages: 1383--1396
+papis_id: 0dd9086c30b7881e7c908946605089cf
+ref: dolphin.a.2000
+title: WFPC2 Stellar Photometry with HSTPHOT
+type: article
+volume: '112'
+year: '2000'

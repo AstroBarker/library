@@ -1,0 +1,41 @@
+abstract: The collapse of a uniformly rotating, supermassive star (SMS) to a supermassive
+  black hole (SMBH) has been followed recently by means of hydrodynamic simulations
+  in full general relativity. The initial SMS of arbitrary mass M in these simulations
+  rotates uniformly at the mass-shedding limit and is marginally unstable to radial
+  collapse. The final black hole mass and spin have been determined to be Mh/M~0.9
+  and Jh/M2h~0.75. The remaining mass goes into a disk of mass Mdisk/M~0.1. Here we
+  show that these black hole and disk parameters can be calculated analytically from
+  the initial stellar density and angular momentum distribution. The analytic calculation
+  thereby corroborates and provides a simple physical explanation for the computational
+  discovery that SMS collapse inevitably terminates in the simultaneous formation
+  of a SMBH and a rather substantial ambient disk. This disk arises even though the
+  total spin of the progenitor star, J/M2=0.97, is safely below the Kerr limit. The
+  calculation performed here applies to any marginally unstable n=3 polytrope uniformly
+  rotating at the breakup speed, independent of stellar mass or the source of internal
+  pressure. It illustrates how the black hole and disk parameters can be determined
+  for the collapse of other types of stars with different initial density and rotation
+  profiles.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577..904S
+arxivurl: http://arxiv.org/abs/astro-ph/0209251
+author: Shapiro, S. L. and Shibata, M.
+author_list:
+- family: Shapiro
+  given: S. L.
+- family: Shibata
+  given: M.
+date-added: 2017-08-11 03:17:43 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342246
+eprint: astro-ph/0209251
+journal: \apj
+keywords: 'Black Hole Physics, Hydrodynamics, Relativity, Stars: Rotation'
+month: October
+pages: 904--908
+papis_id: 40486bb36a312bc0c27218c701e6be4c
+ref: shapiro.s.2002
+title: 'Collapse of a Rotating Supermassive Star to a Supermassive Black Hole: Analytic
+  Determination of the Black Hole Mass and Spin'
+type: article
+volume: '577'
+year: '2002'

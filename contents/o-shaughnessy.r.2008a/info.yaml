@@ -1,0 +1,47 @@
+abstract: We combine a large database of population synthesis calculations, models
+  for the star formation history of the universe, and a simple selection model for
+  bursts to predict short GRB detection rates, redshift distributions, and host galaxy
+  distributions. We compare our space of possible models with observations of short
+  GRBs (rates and redshifts) and, when assuming short GRBs are produced from NS-NS
+  binaries, the current estimates for NS-NS merger rates from close binary pulsars
+  in the Milky Way. Whether short GRBs are assumed to arise from BH-NS or NS-NS mergers,
+  we conclude that a fraction of models are in agreement with available short GRB
+  and binary pulsar observations. We do not need to introduce artificial models with
+  long delay times. Most commonly, models produce mergers preferentially in spiral
+  galaxies if short GRBs arise from NS-NS mergers alone. On the other hand, typically
+  BH-NS mergers can also occur in elliptical galaxies, in agreement with existing
+  observations. We expect that a higher proportion of short GRBs should occur at moderate
+  to high redshift (e.g., z > 1) than has presently been observed, in agreement with
+  recent observations which suggest a strong selection bias toward successful follow-up
+  of low-redshift short GRBs. Finally, if we add plausible additional assumptions
+  about what BH-NS mergers could produce short GRBs based on the work of Belczynski
+  and coworkers, then we expect only a small fraction of BH-NS models could be consistent
+  with all current available data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...675..566O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.4139
+author: O'Shaughnessy, R. and Belczynski, K. and Kalogera, V.
+author_list:
+- family: O'Shaughnessy
+  given: R.
+- family: Belczynski
+  given: K.
+- family: Kalogera
+  given: V.
+date-added: 2017-08-11 08:20:52 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/526334
+eid: 566-585
+eprint: '0706.4139'
+journal: \apj
+keywords: 'binaries: close, gamma rays: bursts'
+month: March
+pages: 566--585
+papis_id: d1ef2dbd514d7261fdc438f5985e7fff
+ref: o_shaughnessy.r.2008a
+title: 'Short Gamma-Ray Bursts and Binary Mergers in Spiral and Elliptical Galaxies:
+  Redshift Distribution and Hosts'
+type: article
+volume: '675'
+year: '2008'

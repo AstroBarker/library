@@ -1,0 +1,47 @@
+abstract: 'Context: The nature of type Ia supernova progenitors is still unclear.
+  The outstanding characteristic of the single-degenerate scenario is that it contains
+  hydrogen in the binary companion of the exploding white dwarf star, which, if mixed
+  into the ejecta of the supernova in large amounts may lead to conflicts with the
+  observations thus ruling out the scenario.  Aims: We investigate the effect of the
+  impact of type Ia supernova ejecta on a main sequence companion star of the progenitor
+  system. With a series of simulations we investigate how different parameters of
+  this system affect the amount of hydrogen stripped from the companion by the impact.  Methods:
+  The stellar evolution code GARSTEC is used to set up the structure of the companion
+  stars mimicking the effect of a binary evolution phase. The impact itself is simulated
+  with the smoothed particle hydrodynamics code GADGET2.  Results: We reproduce and
+  confirm the results of earlier grid-based hydrodynamical simulation. Parameter studies
+  of the progenitor system are extended to include the results of recent binary evolution
+  studies. The more compact structure of the companion star found here significantly
+  reduces the stripped hydrogen mass.  Conclusions: The low hydrogen masses resulting
+  from a more realistic companion structure are consistent with current observational
+  constraints. Therefore, the single-degenerate scenario remains a valid possibility
+  for type Ia supernova progenitors. These new results are not a numerical effect,
+  but the outcome of different initial conditions.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...489..943P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.3331
+author: Pakmor, R. and Röpke, F. K. and Weiss, A. and Hillebrandt, W.
+author_list:
+- family: Pakmor
+  given: R.
+- family: Röpke
+  given: F. K.
+- family: Weiss
+  given: A.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 20:11:43 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:200810456
+eprint: '0807.3331'
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, binaries: close'
+month: October
+pages: 943--951
+papis_id: b75c7cfee00e70f69fc46e2582878093
+ref: pakmor.r.2008
+title: The impact of type Ia supernovae on main sequence binary companions
+type: article
+volume: '489'
+year: '2008'

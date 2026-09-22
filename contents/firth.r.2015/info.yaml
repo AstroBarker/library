@@ -1,0 +1,69 @@
+abstract: We present an analysis of the early, rising light curves of 18 Type Ia supernovae
+  (SNe Ia) discovered by the Palomar Transient Factory and the La Silla-QUEST variability
+  survey. We fit these early data flux using a simple power law (f(t) = alpha \texttimes{}
+  tn) to determine the time of first light (t0), and hence the rise time (trise) from
+  first light to peak luminosity, and the exponent of the power-law rise (n). We find
+  a mean uncorrected rise time of 18.98 $\pm$ 0.54 d, with individual supernova (SN)
+  rise times ranging from 15.98 to 24.7 d. The exponent n shows significant departures
+  from the simple `fireball model' of n = 2 (or f(t) \propto{} t2) usually assumed
+  in the literature. With a mean value of n = 2.44 \$\pm\$ 0.13, our data also show
+  significant diversity from event to event. This deviation has implications for the
+  distribution of 56Ni throughout the SN ejecta, with a higher index suggesting a
+  lesser degree of 56Ni mixing. The range of n found also confirms that the 56Ni distribution
+  is not standard throughout the population of SNe Ia, in agreement with earlier work
+  measuring such abundances through spectral modelling. We also show that the duration
+  of the very early light curve, before the luminosity has reached half of its maximal
+  value, does not correlate with the light-curve shape or stretch used to standardize
+  SNe Ia in cosmological applications. This has implications for the cosmological
+  fitting of SN Ia light curves.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.446.3895F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1411.1064
+author: Firth, R. E. and Sullivan, M. and Gal-Yam, A. and Howell, D. A. and Maguire,
+  K. and Nugent, P. and Piro, A. L. and Baltay, C. and Feindt, U. and Hadjiyksta,
+  E. and McKinnon, R. and Ofek, E. and Rabinowitz, D. and Walker, E. S.
+author_list:
+- family: Firth
+  given: R. E.
+- family: Sullivan
+  given: M.
+- family: Gal-Yam
+  given: A.
+- family: Howell
+  given: D. A.
+- family: Maguire
+  given: K.
+- family: Nugent
+  given: P.
+- family: Piro
+  given: A. L.
+- family: Baltay
+  given: C.
+- family: Feindt
+  given: U.
+- family: Hadjiyksta
+  given: E.
+- family: McKinnon
+  given: R.
+- family: Ofek
+  given: E.
+- family: Rabinowitz
+  given: D.
+- family: Walker
+  given: E. S.
+date-added: 2017-08-11 07:12:54 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2314
+eprint: '1411.1064'
+journal: \mnras
+keywords: 'supernovae: general'
+month: February
+pages: 3895--3910
+papis_id: 90673e15a0023903371444b55e1c04b9
+primaryclass: astro-ph.HE
+ref: firth.r.2015
+title: The rising light curves of Type Ia supernovae
+type: article
+volume: '446'
+year: '2015'

@@ -1,0 +1,45 @@
+abstract: All previous multidimensional calculations of nova thermonuclear runaways
+  (TNR) were only able to simulate stages for which the relevant timescales were very
+  short (seconds). Therefore, only the last phases of the ignition stage and the runaway
+  itself have been studied in multiple dimensions. Improvements made in the hydro
+  solver, and better computational resources, enable us to substantially extend previous
+  research. We are almost able to resolve scales that are already unstable to the
+  shear Kelvin-Helmholtz (KH) instability, thus improving the credibility of the results
+  concerning undershoot mixing. Evolving the models in two dimensions from various
+  early stages of the one-dimensional (1D) evolution puts our findings about the multidimensional
+  effects on much firmer ground, since we can start our study closer to the stage
+  at which the model is still stable against convection. For very early stages, the
+  conditions of spherical symmetry and a jump in the composition, which are part of
+  our assumptions for the 1D initial model, are legitimate. At early stages, we can
+  also examine the fate of local perturbations related to the convective flow. A major
+  issue for research is the ability of such early perturbations to ignite a flame
+  that engulfs the whole envelope as an advancing burning front. Our limited experience
+  with artificial parametric perturbations, presented here, denies this possibility.
+  A major part of the research is devoted to close examinations of numerical effects
+  that can compete with physical mechanisms. We try to estimate the uncertainty limits
+  on the results, mainly on mixing, due to numerical issues. The timescales considered
+  range from a phase close to the onset of convection, when the temperature at the
+  base of the envelope is about 5\texttimes{}107 K, to the runaway itself.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...665.1321G
+author: Glasner, S. A. and Livne, E. and Truran, J. W.
+author_list:
+- family: Glasner
+  given: S. A.
+- family: Livne
+  given: E.
+- family: Truran
+  given: J. W.
+date-added: 2017-08-11 04:39:53 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1086/519234
+journal: \apj
+keywords: 'Convection, Stars: Novae, Cataclysmic Variables'
+month: August
+pages: 1321--1333
+papis_id: f8692169fa9e5a7efff038ac5ecd027f
+ref: glasner.s.2007
+title: 'Novae: The Evolution from Onset of Convection to the Runaway'
+type: article
+volume: '665'
+year: '2007'

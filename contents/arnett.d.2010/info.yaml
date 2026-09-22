@@ -1,0 +1,51 @@
+abstract: As a preliminary step toward a complete theoretical integration of three-dimensional
+  compressible hydrodynamic simulations into stellar evolution, convection at the
+  surface and sub-surface layers of the Sun is re-examined, from a restricted point
+  of view, in the language of mixing-length theory (MLT). Requiring that MLT use a
+  hydrodynamically realistic dissipation length gives a new constraint on solar models.
+  While the stellar structure which results is similar to that obtained by Yale Rotational
+  Evolution Code (Guenther et al.; Bahcall \& Pinsonneault) and Garching models (Schlattl
+  et al.), the theoretical picture differs. A new quantitative connection is made
+  between macro-turbulence, micro-turbulence, and the convective velocity scale at
+  the photosphere, which has finite values. The "geometric parameter" in MLT is found
+  to correspond more reasonably with the thickness of the superadiabatic region (SAR),
+  as it must for consistency in MLT, and its integrated effect may correspond to that
+  of the strong downward plumes which drive convection (Stein \& Nordlund), and thus
+  has a physical interpretation even in MLT. If we crudely require the thickness of
+  the SAR to be consistent with the "geometric factor" used in MLT, there is no longer
+  a free parameter, at least in principle. Use of three-dimensional simulations of
+  both adiabatic convection and stellar atmospheres will allow the determination of
+  the dissipation length and the geometric parameter (i.e., the entropy jump) more
+  realistically, and with no astronomical calibration. A physically realistic treatment
+  of convection in stellar evolution will require substantial additional modifications
+  beyond MLT, including nonlocal effects of kinetic energy flux, entrainment (the
+  most dramatic difference from MLT found by Meakin \& Arnett), rotation, and magnetic
+  fields.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...710.1619A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.0821
+author: Arnett, D. and Meakin, C. and Young, P. A.
+author_list:
+- family: Arnett
+  given: D.
+- family: Meakin
+  given: C.
+- family: Young
+  given: P. A.
+date-added: 2017-08-10 15:09:23 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1088/0004-637X/710/2/1619
+eprint: '0910.0821'
+journal: \apj
+keywords: 'binaries: eclipsing, convection, hydrodynamics, stars: atmospheres, stars:
+  evolution, Sun: photosphere, white dwarfs'
+month: February
+pages: 1619--1626
+papis_id: dab1c831fa3ea4aff37dbac3117ac1f9
+primaryclass: astro-ph.SR
+ref: arnett.d.2010
+title: Convection Theory and Sub-Photospheric Stratification
+type: article
+volume: '710'
+year: '2010'

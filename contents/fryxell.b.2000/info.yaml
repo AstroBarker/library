@@ -1,0 +1,52 @@
+abstract: We report on the completion of the first version of a new-generation simulation
+  code, FLASH. The FLASH code solves the fully compressible, reactive hydrodynamic
+  equations and allows for the use of adaptive mesh refinement. It also contains state-of-the-art
+  modules for the equations of state and thermonuclear reaction networks. The FLASH
+  code was developed to study the problems of nuclear flashes on the surfaces of neutron
+  stars and white dwarfs, as well as in the interior of white dwarfs. We expect, however,
+  that the FLASH code will be useful for solving a wide variety of other problems.
+  This first version of the code has been subjected to a large variety of test cases
+  and is currently being used for production simulations of X-ray bursts, Rayleigh-Taylor
+  and Richtmyer-Meshkov instabilities, and thermonuclear flame fronts. The FLASH code
+  is portable and already runs on a wide variety of massively parallel machines, including
+  some of the largest machines now extant.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJS..131..273F
+author: Fryxell, B. and Olson, K. and Ricker, P. and Timmes, F. X. and Zingale, M.
+  and Lamb, D. Q. and MacNeice, P. and Rosner, R. and Truran, J. W. and Tufo, H.
+author_list:
+- family: Fryxell
+  given: B.
+- family: Olson
+  given: K.
+- family: Ricker
+  given: P.
+- family: Timmes
+  given: F. X.
+- family: Zingale
+  given: M.
+- family: Lamb
+  given: D. Q.
+- family: MacNeice
+  given: P.
+- family: Rosner
+  given: R.
+- family: Truran
+  given: J. W.
+- family: Tufo
+  given: H.
+date-added: 2017-08-10 17:32:26 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317361
+journal: \apjs
+keywords: 'Equation of State, Hydrodynamics, Methods: Numerical, Nuclear Reactions,
+  Nucleosynthesis, Abundances, Stars: General'
+month: November
+pages: 273--334
+papis_id: 028302e174f58c7a7adfef1ea57a8e2f
+ref: fryxell.b.2000
+title: 'FLASH: An Adaptive Mesh Hydrodynamics Code for Modeling Astrophysical Thermonuclear
+  Flashes'
+type: article
+volume: '131'
+year: '2000'

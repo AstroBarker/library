@@ -1,0 +1,41 @@
+abstract: Some active galactic nuclei, microquasars, and gamma-ray bursts may be powered
+  by the electromagnetic braking of a rapidly rotating black hole. We investigate
+  this possibility via axisymmetric numerical simulations of a black hole surrounded
+  by a magnetized plasma. The plasma is described by the equations of general relativistic
+  magnetohydrodynamics, and the effects of radiation are neglected. The evolution
+  is followed for 2000GM/c3, and the computational domain extends from inside the
+  event horizon to typically 40GM/c2. We compare our results to two analytic steady
+  state models, including the force-free magnetosphere of Blandford \& Znajek. Along
+  the way we present a self-contained rederivation of the Blandford-Znajek model in
+  Kerr-Schild (horizon penetrating) coordinates. We find that (1) low-density polar
+  regions of the numerical models agree well with the Blandford-Znajek model, (2)
+  many of our models have an outward Poynting flux on the horizon in the Kerr-Schild
+  frame, (3) none of our models have a net outward energy flux on the horizon, and
+  (4) one of our models, in which the initial disk has net magnetic flux, shows a
+  net outward angular momentum flux on the horizon. We conclude with a discussion
+  of the limitations of our model, astrophysical implications, and problems to be
+  addressed by future numerical experiments.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...611..977M
+arxivurl: http://arxiv.org/abs/astro-ph/0404512
+author: McKinney, J. C. and Gammie, C. F.
+author_list:
+- family: McKinney
+  given: J. C.
+- family: Gammie
+  given: C. F.
+date-added: 2017-08-10 16:32:29 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/422244
+eprint: astro-ph/0404512
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Galaxies: Active, Hydrodynamics,
+  Turbulence'
+month: August
+pages: 977--995
+papis_id: 8b80be86892e71689cf514d882370672
+ref: mckinney.j.2004
+title: A Measurement of the Electromagnetic Luminosity of a Kerr Black Hole
+type: article
+volume: '611'
+year: '2004'

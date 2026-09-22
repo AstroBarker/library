@@ -1,0 +1,95 @@
+abstract: 'We present spectral and photometric observations of 10 Type Ia supernovae
+  (SNe Ia) in the redshift range 0.16 <= z <= 0.62. The luminosity distances of these
+  objects are determined by methods that employ relations between SN Ia luminosity
+  and light curve shape. Combined with previous data from our High-z Supernova Search
+  Team and recent results by Riess et al., this expanded set of 16 high-redshift supernovae
+  and a set of 34 nearby supernovae are used to place constraints on the following
+  cosmological parameters: the Hubble constant (H\_0), the mass density (Omega\_M),
+  the cosmological constant (i.e., the vacuum energy density, Omega\_Lambda), the
+  deceleration parameter (q\_0), and the dynamical age of the universe (t\_0). The
+  distances of the high-redshift SNe Ia are, on average, 10\%-15\% farther than expected
+  in a low mass density (Omega\_M = 0.2) universe without a cosmological constant.
+  Different light curve fitting methods, SN Ia subsamples, and prior constraints unanimously
+  favor eternally expanding models with positive cosmological constant (i.e., Omega\_Lambda
+  > 0) and a current acceleration of the expansion (i.e., q\_0 < 0). With no prior
+  constraint on mass density other than Omega\_M >= 0, the spectroscopically confirmed
+  SNe Ia are statistically consistent with q\_0 < 0 at the 2.8 sigma and 3.9 sigma
+  confidence levels, and with Omega\_Lambda > 0 at the 3.0 sigma and 4.0 sigma confidence
+  levels, for two different fitting methods, respectively. Fixing a ``minimal''''
+  mass density, Omega\_M = 0.2, results in the weakest detection, Omega\_Lambda >
+  0 at the 3.0 sigma confidence level from one of the two methods. For a flat universe
+  prior (Omega\_M + Omega\_Lambda = 1), the spectroscopically confirmed SNe Ia require
+  Omega\_Lambda > 0 at 7 sigma and 9 sigma formal statistical significance for the
+  two different fitting methods. A universe closed by ordinary matter (i.e., Omega\_M
+  = 1) is formally ruled out at the 7 sigma to 8 sigma confidence level for the two
+  different fitting methods. We estimate the dynamical age of the universe to be 14.2
+  +/- 1.7 Gyr including systematic uncertainties in the current Cepheid distance scale.
+  We estimate the likely effect of several sources of systematic error, including
+  progenitor and metallicity evolution, extinction, sample selection bias, local perturbations
+  in the expansion rate, gravitational lensing, and sample contamination. Presently,
+  none of these effects appear to reconcile the data with Omega\_Lambda = 0 and q\_0
+  >= 0.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998AJ....116.1009R
+arxivurl: http://arxiv.org/abs/astro-ph/9805201
+author: Riess, A. G. and Filippenko, A. V. and Challis, P. and Clocchiatti, A. and
+  Diercks, A. and Garnavich, P. M. and Gilliland, R. L. and Hogan, C. J. and Jha,
+  S. and Kirshner, R. P. and Leibundgut, B. and Phillips, M. M. and Reiss, D. and
+  Schmidt, B. P. and Schommer, R. A. and Smith, R. C. and Spyromilio, J. and Stubbs,
+  C. and Suntzeff, N. B. and Tonry, J.
+author_list:
+- family: Riess
+  given: A. G.
+- family: Filippenko
+  given: A. V.
+- family: Challis
+  given: P.
+- family: Clocchiatti
+  given: A.
+- family: Diercks
+  given: A.
+- family: Garnavich
+  given: P. M.
+- family: Gilliland
+  given: R. L.
+- family: Hogan
+  given: C. J.
+- family: Jha
+  given: S.
+- family: Kirshner
+  given: R. P.
+- family: Leibundgut
+  given: B.
+- family: Phillips
+  given: M. M.
+- family: Reiss
+  given: D.
+- family: Schmidt
+  given: B. P.
+- family: Schommer
+  given: R. A.
+- family: Smith
+  given: R. C.
+- family: Spyromilio
+  given: J.
+- family: Stubbs
+  given: C.
+- family: Suntzeff
+  given: N. B.
+- family: Tonry
+  given: J.
+date-added: 2017-08-10 18:21:47 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/300499
+eprint: astro-ph/9805201
+journal: \aj
+keywords: 'COSMOLOGY: OBSERVATIONS, STARS: SUPERNOVAE: GENERAL'
+month: September
+pages: 1009--1038
+papis_id: 20a1ee02f8cb1b9245f93a2d78e044a8
+ref: riess.a.1998
+title: Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological
+  Constant
+type: article
+volume: '116'
+year: '1998'

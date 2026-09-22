@@ -1,0 +1,50 @@
+abstract: Core convection and dynamo activity deep within rotating A-type stars of
+  2 Msolar are studied with three-dimensional nonlinear simulations. Our modeling
+  considers the inner 30\% by radius of such stars, thus capturing within a spherical
+  domain the convective core and a modest portion of the surrounding radiative envelope.
+  The magnetohydrodynamic (MHD) equations are solved using the anelastic spherical
+  harmonic (ASH) code to examine turbulent flows and magnetic fields, both of which
+  exhibit intricate time dependence. By introducing small seed magnetic fields into
+  our progenitor hydrodynamic models rotating at 1 and 4 times the solar rate, we
+  assess here how the vigorous convection can amplify those fields and sustain them
+  against ohmic decay. Dynamo action is indeed realized, ultimately yielding magnetic
+  fields that possess energy densities comparable to that of the flows. Such magnetism
+  reduces the differential rotation obtained in the progenitors, partly by Maxwell
+  stresses that transport angular momentum poleward and oppose the Reynolds stresses
+  in the latitudinal balance. In contrast, in the radial direction we find that the
+  Maxwell and Reynolds stresses may act together to transport angular momentum. The
+  central columns of slow rotation established in the progenitors are weakened, with
+  the differential rotation waxing and waning in strength as the simulations evolve.
+  We assess the morphology of the flows and magnetic fields, their complex temporal
+  variations, and the manner in which dynamo action is sustained. Differential rotation
+  and helical convection are both found to play roles in giving rise to the magnetic
+  fields. The magnetism is dominated by strong fluctuating fields throughout the core,
+  with the axisymmetric (mean) fields there relatively weak. The fluctuating magnetic
+  fields decrease rapidly with radius in the region of overshooting, and the mean
+  toroidal fields less so due to stretching by rotational shear.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629..461B
+arxivurl: http://arxiv.org/abs/astro-ph/0610072
+author: Brun, A. S. and Browning, M. K. and Toomre, J.
+author_list:
+- family: Brun
+  given: A. S.
+- family: Browning
+  given: M. K.
+- family: Toomre
+  given: J.
+date-added: 2017-08-11 08:00:12 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/430430
+eprint: astro-ph/0610072
+journal: \apj
+keywords: 'Convection, Magnetohydrodynamics: MHD, Stars: Evolution, Stars: Interiors,
+  Stars: Magnetic Fields'
+month: August
+pages: 461--481
+papis_id: 67e0952fdd791e087544cb973a2379ba
+ref: brun.a.2005
+title: 'Simulations of Core Convection in Rotating A-Type Stars: Magnetic Dynamo Action'
+type: article
+volume: '629'
+year: '2005'

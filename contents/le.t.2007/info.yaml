@@ -1,0 +1,42 @@
+abstract: A simple physical model for long-duration gamma-ray bursts (GRBs) is used
+  to fit the redshift (z) and the jet opening angle distributions measured with earlier
+  GRB missions and with Swift. The effect of different sensitivities for GRB triggering
+  is sufficient to explain the difference in the z distributions of the pre-Swift
+  and Swift samples, with mean redshifts of <z>\cong{}1.5 and <z>\cong{}2.7, respectively.
+  Assuming that the emission properties of GRBs do not change with time, we find that
+  the data can only be fitted if the comoving rate density of GRB sources exhibits
+  positive evolution to z>~3-5. The mean intrinsic beaming factor of GRBs is found
+  to range from ~34 to 42, with the Swift average opening half-angle <thetaj>~10deg,
+  compared to the pre-Swift average of <thetaj>~7deg. Within the uniform jet model,
+  the GRB luminosity function is ~L-3.25\textasteriskcentered, as inferred from our
+  best fit to the opening angle distribution. Because of the unlikely detection of
+  several GRBs with z<~0.25, our analysis indicates that low-redshift GRBs represent
+  a different population of GRBs than those detected at higher redshifts. Neglecting
+  possible metallicity effects on GRB host galaxies, we find that ~1 GRB occurs every
+  600,000 yr in a local L\textasteriskcentered spiral galaxy like the Milky Way. The
+  fraction of high-redshift GRBs is estimated at 8\%-12\% and 2.5\%-6\% at z>=5 and
+  z>=7, respectively, assuming continued positive evolution of the GRB rate density
+  to high redshifts.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...661..394L
+arxivurl: http://arxiv.org/abs/astro-ph/0610043
+author: Le, T. and Dermer, C. D.
+author_list:
+- family: Le
+  given: T.
+- family: Dermer
+  given: C. D.
+date-added: 2017-08-10 21:26:43 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/513460
+eprint: astro-ph/0610043
+journal: \apj
+keywords: 'Cosmology: Theory, Gamma Rays: Bursts'
+month: May
+pages: 394--415
+papis_id: f3622a36818224466c99d2c8004daf1d
+ref: le.t.2007
+title: On the Redshift Distribution of Gamma-Ray Bursts in the Swift Era
+type: article
+volume: '661'
+year: '2007'

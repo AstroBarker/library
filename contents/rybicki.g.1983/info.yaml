@@ -1,0 +1,34 @@
+abstract: Radiation emitted by a three-dimensional medium and received by a distant
+  observer is expressed in terms of the specific luminosity, which can be evaluated
+  in terms of escape probability functions for the medium. This approach is simpler
+  in many cases than an integration over the plane of the sky, because it allows any
+  symmetries of the problem to be more fully exploited. Integral theorems are derived
+  involving averaged escape probabilities that generalize a theorem of Irons. Analogous
+  results are presented for a three-dimensional line-emitting region in the Sobolev
+  (or large velocity gradient) limit. To illustrate the theory, results for expanding
+  spherical media and differently rotating thin disks are discussed. Computationally
+  useful results for several related escape probability functions are given.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1983ApJ...274..380R
+author: Rybicki, G. B. and Hummer, D. G.
+author_list:
+- family: Rybicki
+  given: G. B.
+- family: Hummer
+  given: D. G.
+date-added: 2017-08-11 06:31:15 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/161454
+journal: \apj
+keywords: Astronomical Photometry, Celestial Sphere, Luminosity, Radiative Transfer,
+  Absorption Spectra, Emission Spectra, Entire Functions, Line Spectra, Radiant Flux
+  Density, Rotating Disks
+month: November
+pages: 380--398
+papis_id: 2aebebc2d03d08c1e206f752ef5b3cbb
+ref: rybicki.g.1983
+title: The specific luminosity of a three-dimensional medium in terms of the escape
+  probability
+type: article
+volume: '274'
+year: '1983'

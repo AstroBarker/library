@@ -1,0 +1,32 @@
+abstract: Accurate Monte Carlo computations of the X-ray secondary electron heating,
+  ionization, and excitation of H and He gas in interstellar space and in quasar emission-line
+  clouds, are presented. The fraction of energy deposited in each form is sensitive
+  to the background ionization fraction, x = n(H+)/n(Htot), and can affect the temperature,
+  ionization state, and line emissivities at large depths in X-ray photoionized clouds.
+  Analytic fits are provided for these energy fractions over the range 0.0001-1 for
+  primary electron energies up to many keV. In both broad-line and narrow-line clouds,
+  emission lines sensitive to the energy budget and electron density may be strongly
+  affected.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1985ApJ...298..268S
+author: Shull, J. M. and van Steenberg, M. E.
+author_list:
+- family: Shull
+  given: J. M.
+- family: van Steenberg
+  given: M. E.
+date-added: 2017-08-11 05:40:09 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/163605
+journal: \apj
+keywords: Emission Spectra, Galactic Nuclei, Interstellar Gas, Photoionization, Quasars,
+  X Ray Astronomy, Astronomical Models, Computational Astrophysics, Electron Energy,
+  Electron Scattering, Radiant Heating, Secondary Emission
+month: November
+pages: 268--274
+papis_id: 50f4ff60b1337779955f4d7ca778fac5
+ref: shull.j.1985
+title: X-ray secondary heating and ionization in quasar emission-line clouds
+type: article
+volume: '298'
+year: '1985'

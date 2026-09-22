@@ -1,0 +1,87 @@
+abstract: We report the discovery of rising X-ray emission from the binary neutron
+  star merger event GW170817. This is the first detection of X-ray emission from a
+  gravitational-wave (GW) source. Observations acquired with the Chandra X-ray Observatory
+  (CXO) at t\approx{} 2.3 days post-merger reveal no significant emission, with {L}x\lessequivlnt{}
+  3.2\texttimes{} {10}38 {erg} {{{s}}}-1 (isotropic-equivalent). Continued monitoring
+  revealed the presence of an X-ray source that brightened with time, reaching {L}x\approx{}
+  9\texttimes{} {10}38 {erg} {{{s}}}-1 at \approx{} 15.1 days post-merger. We interpret
+  these findings in the context of isotropic and collimated relativistic outflows
+  (both on- and off-axis). We find that the broadband X-ray to radio observations
+  are consistent with emission from a relativistic jet with kinetic energy {E}k\texttildelow{}
+  {10}49-50 {erg}, viewed off-axis with {theta }{obs}\texttildelow{} 20^\circ {--}40^\circ
+  . Our models favor a circumbinary density n\texttildelow{} {10}-4{--}{10}-2 {{cm}}-3,
+  depending on the value of the microphysical parameter {\ensuremath{\epsilon} }B={10}-4{--}{10}-2.
+  A central-engine origin of the X-ray emission is unlikely. Future X-ray observations
+  at t\greaterequivlnt{} 100 days, when the target will be observable again with the
+  CXO, will provide additional constraints to solve the model degeneracies and test
+  our predictions. Our inferences on {theta }{obs} are testable with GW information
+  on GW170817 from advanced LIGO/Virgo on the binary inclination.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJ...848L..20M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.05431
+author: Margutti, R. and Berger, E. and Fong, W. and Guidorzi, C. and Alexander, K.
+  D. and Metzger, B. D. and Blanchard, P. K. and Cowperthwaite, P. S. and Chornock,
+  R. and Eftekhari, T. and Nicholl, M. and Villar, V. A. and Williams, P. K. G. and
+  Annis, J. and Brown, D. A. and Chen, H. and Doctor, Z. and Frieman, J. A. and Holz,
+  D. E. and Sako, M. and Soares-Santos, M.
+author_list:
+- family: Margutti
+  given: R.
+- family: Berger
+  given: E.
+- family: Fong
+  given: W.
+- family: Guidorzi
+  given: C.
+- family: Alexander
+  given: K. D.
+- family: Metzger
+  given: B. D.
+- family: Blanchard
+  given: P. K.
+- family: Cowperthwaite
+  given: P. S.
+- family: Chornock
+  given: R.
+- family: Eftekhari
+  given: T.
+- family: Nicholl
+  given: M.
+- family: Villar
+  given: V. A.
+- family: Williams
+  given: P. K. G.
+- family: Annis
+  given: J.
+- family: Brown
+  given: D. A.
+- family: Chen
+  given: H.
+- family: Doctor
+  given: Z.
+- family: Frieman
+  given: J. A.
+- family: Holz
+  given: D. E.
+- family: Sako
+  given: M.
+- family: Soares-Santos
+  given: M.
+date-added: 2018-08-27 15:17:50 -0400
+date-modified: 2018-08-27 15:17:52 -0400
+doi: 10.3847/2041-8213/aa9057
+eid: L20
+eprint: '1710.05431'
+journal: \apjl
+keywords: 'stars: neutron, gravitational waves, relativistic processes'
+month: October
+pages: L20
+papis_id: d9e3c99f1e371996e43dd0fdea79c65d
+primaryclass: astro-ph.HE
+ref: margutti.r.2017b
+title: The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo
+  GW170817. V. Rising X-Ray Emission from an Off-axis Jet
+type: article
+volume: '848'
+year: '2017'

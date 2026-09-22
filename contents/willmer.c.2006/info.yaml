@@ -1,0 +1,88 @@
+abstract: The evolution of the B-band galaxy luminosity function is measured using
+  a sample of more than 11,000 galaxies with spectroscopic redshifts from the DEEP2
+  Redshift Survey. The rest-frame MB versus U-B color-magnitude diagram of DEEP2 galaxies
+  shows that the color-magnitude bimodality seen in galaxies locally is still present
+  at redshifts z>1. Dividing the sample at the trough of this color bimodality into
+  predominantly red and blue galaxies, we find that the luminosity function of each
+  galaxy color type evolves differently. Blue counts tend to shift to brighter magnitudes
+  at constant number density, while the red counts remain largely constant at a fixed
+  absolute magnitude. Using Schechter functions with fixed faint-end slopes we find
+  that M\textasteriskcenteredB for blue galaxies brightens by ~1.3+/-0.14 mag per
+  unit redshift, with no significant evolution in number density. For red galaxies
+  M\textasteriskcenteredB brightens somewhat less with redshift, while the formal
+  value of phi\textasteriskcentered declines. When the population of blue galaxies
+  is subdivided into two halves using the rest-frame color as the criterion, the measured
+  evolution of both blue subpopulations is very similar.  Based on observations taken
+  at the W. M. Keck Observatory, which is operated jointly by the University of California
+  and the California Institute of Technology.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...647..853W
+arxivurl: http://arxiv.org/abs/astro-ph/0506041
+author: Willmer, C. N. A. and Faber, S. M. and Koo, D. C. and Weiner, B. J. and Newman,
+  J. A. and Coil, A. L. and Connolly, A. J. and Conroy, C. and Cooper, M. C. and Davis,
+  M. and Finkbeiner, D. P. and Gerke, B. F. and Guhathakurta, P. and Harker, J. and
+  Kaiser, N. and Kassin, S. and Konidaris, N. P. and Lin, L. and Luppino, G. and Madgwick,
+  D. S. and Noeske, K. G. and Phillips, A. C. and Yan, R.
+author_list:
+- family: Willmer
+  given: C. N. A.
+- family: Faber
+  given: S. M.
+- family: Koo
+  given: D. C.
+- family: Weiner
+  given: B. J.
+- family: Newman
+  given: J. A.
+- family: Coil
+  given: A. L.
+- family: Connolly
+  given: A. J.
+- family: Conroy
+  given: C.
+- family: Cooper
+  given: M. C.
+- family: Davis
+  given: M.
+- family: Finkbeiner
+  given: D. P.
+- family: Gerke
+  given: B. F.
+- family: Guhathakurta
+  given: P.
+- family: Harker
+  given: J.
+- family: Kaiser
+  given: N.
+- family: Kassin
+  given: S.
+- family: Konidaris
+  given: N. P.
+- family: Lin
+  given: L.
+- family: Luppino
+  given: G.
+- family: Madgwick
+  given: D. S.
+- family: Noeske
+  given: K. G.
+- family: Phillips
+  given: A. C.
+- family: Yan
+  given: R.
+date-added: 2017-08-10 17:11:28 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/505455
+eprint: astro-ph/0506041
+journal: \apj
+keywords: 'Galaxies: Distances and Redshifts, Galaxies: Evolution, Galaxies: Luminosity
+  Function, Mass Function'
+month: August
+pages: 853--873
+papis_id: b2b1dbd47acdec08ff15041f49a398e5
+ref: willmer.c.2006
+title: 'The Deep Evolutionary Exploratory Probe 2 Galaxy Redshift Survey: The Galaxy
+  Luminosity Function to z̃1'
+type: article
+volume: '647'
+year: '2006'

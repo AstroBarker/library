@@ -1,0 +1,55 @@
+abstract: 'Context. During the last decade, the FORS1 instrument of the ESO Very Large
+  Telescope has been extensively used to study stellar magnetism. A number of interesting
+  discoveries of magnetic fields in several classes of stars have been announced,
+  many of which obtained at a ~3sigma level; some of the discoveries are confirmed
+  by measurements obtained with other instruments, some are not.  Aims: We investigate
+  the reasons for the discrepancies between the results obtained with FORS1 and those
+  obtained with other instruments.  Methods: Using the ESO FORS pipeline, we have
+  developed a semi-automatic procedure for magnetic field determination. We have applied
+  this procedure to the full content of circular spectropolarimetric measurements
+  of the FORS1 archive (except for most of the observations obtained in multi-object
+  spectropolarimetric mode). We have devised and applied a number of consistency checks
+  to our field determinations, and we have compared our results to those previously
+  published in the literature.  Results: We find that for high signal-to-noise ratio
+  measurements, photon noise does not account for the full error bars. We discuss
+  how field measurements depend on the specific algorithm adopted for data reduction,
+  and we show that very small instrument flexures, negligible in most of the instrument
+  applications, may be responsible for some spurious field detections in the null
+  profiles. Finally, we find that we are unable to reproduce some results previously
+  published in the literature. Consequently, we do not confirm some important discoveries
+  of magnetic fields obtained with FORS1 and reported in previous publications.  Conclusions:
+  Our revised field measurements show that there is no contradiction between the results
+  obtained with the low-resolution spectropolarimeter FORS1 and those obtained with
+  high-resolution spectropolarimeters. FORS1 is an instrument capable of performing
+  reliable magnetic field measurements, provided that the various sources of uncertainties
+  are properly taken into account.  Table 5 is available in electronic form at http://www.aanda.org'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...538A.129B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.3969
+author: Bagnulo, S. and Landstreet, J. D. and Fossati, L. and Kochukhov, O.
+author_list:
+- family: Bagnulo
+  given: S.
+- family: Landstreet
+  given: J. D.
+- family: Fossati
+  given: L.
+- family: Kochukhov
+  given: O.
+date-added: 2017-08-10 19:31:28 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1051/0004-6361/201118098
+eid: A129
+eprint: '1112.3969'
+journal: \aap
+keywords: 'polarization, techniques: polarimetric, stars: magnetic field'
+month: February
+pages: A129
+papis_id: c5bd28f2e5cf710d79c6a9914dfaef9a
+primaryclass: astro-ph.SR
+ref: bagnulo.s.2012
+title: 'Magnetic field measurements and their uncertainties: the FORS1 legacy'
+type: article
+volume: '538'
+year: '2012'

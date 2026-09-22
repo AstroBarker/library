@@ -1,0 +1,50 @@
+abstract: We use the RASS-SDSS galaxy cluster sample to compare the quality of optical
+  and X-ray luminosities as predictors of other cluster properties such as their masses,
+  temperatures, and velocity dispersions. We use the SDSS spectroscopic data to estimate
+  the velocity dispersions and the virial masses of a subsample of 69 clusters within
+  r500 and r200. The ASCA temperature of the intra-cluster medium, T\_X, is retrieved
+  from the literature for a subsample of 49 clusters. For this subsample we estimate
+  the cluster masses also by using the mass-temperature relation. We show that the
+  optical luminosity, {L\_op}, correlates with the cluster mass much better than the
+  X-ray luminosity, L\_X. L\_op can be used to estimate the cluster mass with an accuracy
+  of 40\% while LX can predict the mass only with a 55\% accuracy. We show that correcting
+  LX for the effect of a cool core at the center of a cluster lowers the scatter of
+  the L\_X-M relation only by 3\%. We find that the scatter observed in the L\_op-LX
+  relation is determined by the scatter of the L\_X-M relation. The mass-to-light
+  ratio in the SDSS i band clearly increases with the cluster mass with a slope 0.2$\pm$.08.
+  The optical and X-ray luminosities correlate in an excellent way with both TX and
+  sigmaV with an orthogonal scatter of 20\% in both relations. Moreover, L\_op and
+  LX can predict variables with the same accuracy both. We conclude that the cluster
+  optical luminosity is a key cluster parameter since it can give important information
+  about fundamental cluster properties such as the mass, the velocity dispersion,
+  and the temperature of the intra-cluster medium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...433..431P
+arxivurl: http://arxiv.org/abs/astro-ph/0411536
+author: Popesso, P. and Biviano, A. and Böhringer, H. and Romaniello, M. and Voges,
+  W.
+author_list:
+- family: Popesso
+  given: P.
+- family: Biviano
+  given: A.
+- family: Böhringer
+  given: H.
+- family: Romaniello
+  given: M.
+- family: Voges
+  given: W.
+date-added: 2017-08-11 05:16:04 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1051/0004-6361:20041915
+eprint: astro-ph/0411536
+journal: \aap
+keywords: 'X-rays: galaxies: clusters, surveys'
+month: April
+pages: 431--445
+papis_id: 0dfc93b6aa4925157212e1d1e9c6e7d1
+ref: popesso.p.2005
+title: RASS-SDSS galaxy cluster survey. III. Scaling relations of galaxy clusters
+type: article
+volume: '433'
+year: '2005'

@@ -1,0 +1,52 @@
+abstract: We consider generically the problem of a gamma-ray burst (GRB) fireball
+  with an additional energy injection, either in the form of a Poynting-flux-dominated
+  outflow or a kinetic-energy-dominated matter shell injected after the burst. Generally,
+  a total injection energy comparable to that of the impulsive energy in the initial
+  fireball is required to make a detectable signature in the afterglow light curves.
+  When this criterion is met in the case of Poynting-flux-dominated injection, this
+  leads to a gradual achromatic bump appearing in the otherwise power-law afterglow
+  light curve. Alternatively, in the case when the injection is kinetic-energy-dominated,
+  the results depend on whether the collision between the rear (injected) and the
+  forward shell is mild or violent. If the relative velocity between the colliding
+  shells does not exceed a critical value defined by their energy ratio, the collision
+  is mild, and the injection may be analogous to the Poynting-flux injection case.
+  Otherwise, the injection is violent, and an additional pair of strong shocks will
+  form at the discontinuity between two colliding shells, so that there are altogether
+  three shock-heated regions from which the emission contributes to the final light
+  curves. We describe the shell-merging process in detail, including collision and
+  relaxation, by taking into account the dynamical evolution and the emission from
+  the various shocks involved. Assuming synchrotron emission, we calculate afterglow
+  light curves in the X-ray, optical, and radio bands for the various cases. The injection
+  signatures due to violent matter-dominated collisions are abrupt and complicated,
+  because of the emission from any of the three emitting regions and depending on
+  the injection parameters and the observed energy bands. This differs from the gradual
+  bump signature found in the Poynting-flux injection case. In both the Poynting-flux-dominated
+  and the kinetic-energy-dominated cases, the energetics of the fireball as well as
+  the absolute afterglow flux level after the injection are boosted with respect to
+  the one without postburst injection. Identifying the different injection signatures
+  from future early afterglow observations may provide diagnostics about the nature
+  of the fireball and of the central engine.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...566..712Z
+arxivurl: http://arxiv.org/abs/astro-ph/0108402
+author: Zhang, B. and Mészáros, P.
+author_list:
+- family: Zhang
+  given: B.
+- family: Mészáros
+  given: P.
+date-added: 2017-08-11 05:00:34 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/338247
+eprint: astro-ph/0108402
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal, Shock Waves, Stars:
+  Magnetic Fields'
+month: February
+pages: 712--722
+papis_id: 3e6789445e4526a23eef349cbc06ca2c
+ref: zhang.b.2002
+title: Gamma-Ray Bursts with Continuous Energy Injection and Their Afterglow Signature
+type: article
+volume: '566'
+year: '2002'

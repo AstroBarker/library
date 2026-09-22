@@ -1,0 +1,42 @@
+abstract: An inhomogeneous model neutron star with a variable density profile of the
+  type sigma0(r)=sigmac[1-(2/3)betar2/R2]exp(-betar2/R2) is considered, where sigmac
+  is the central density, R is the star's radius, and beta is the inhomogeneity parameter
+  in the radial mass distribution. This parameterization adequately reproduces the
+  results of numerical evolutionary calculations of the density profile and enables
+  one to obtain in analytical form the parameters of hydrostatic equilibrium and the
+  eigenmodes of nonradial oscillations of a nonrotating neutron star, modeled by a
+  spherical mass of incompressible, inviscid liquid. It is shown that a characteristic
+  manifestation of the star's inhomogeneity is the presence of a stable dipole f-mode,
+  the lowest one in the spectrum of natural oscillations. The presence of this mode
+  serves as a general and primary criterion that evidently distinguishes all inhomogeneous
+  hydrodynamic models from the homogeneous Kelvin model, in which the quadrupole mode
+  is the lowest stable mode. Estimates obtained for the periods of nonradial pulsations
+  coincide with the periods of micropulses observed in the average pulse profiles
+  of c-pulsars. This suggests that the detected variations in emission intensity in
+  the range of micropulse duration (on the order of 10-4 sec) are associated with
+  nonradial stellar oscillations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996Ap.....39..278P
+author: Podgainyi, D. V. and Bastrukov, S. I. and Molodtsova, I. V. and Papoyan, V.
+  V.
+author_list:
+- family: Podgainyi
+  given: D. V.
+- family: Bastrukov
+  given: S. I.
+- family: Molodtsova
+  given: I. V.
+- family: Papoyan
+  given: V. V.
+date-added: 2017-08-11 05:03:14 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1007/BF02072001
+journal: Astrophysics
+month: July
+pages: 278--288
+papis_id: aa3365af7cea7d22e2ee469350bd9e31
+ref: podgainyi.d.1996
+title: Nonradial oscillations of a neutron star in an inhomogeneous hydrodynamic model
+type: article
+volume: '39'
+year: '1996'

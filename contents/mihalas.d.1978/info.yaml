@@ -1,0 +1,36 @@
+abstract: Differential-equation methods for solving the transfer equation in two-dimensional
+  planar geometries are developed. One method, which uses a Hermitian integration
+  formula on ray segments through grid points, proves to be extremely well suited
+  to velocity-dependent problems. An efficient elimination scheme is developed for
+  which the computing time scales linearly with the number of angles and frequencies;
+  problems with large velocity amplitudes can thus be treated accurately. A very accurate
+  and efficient method for performing a formal solution is also presented. A discussion
+  is given of several examples of periodic media and free-standing slabs, both in
+  static cases and with velocity fields. For the free-standing slabs, two-dimensional
+  transport effects are significant near boundaries, but no important effects were
+  found in any of the periodic cases studied.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1978ApJ...220.1001M
+author: Mihalas, D. and Auer, L. H. and Mihalas, B. R.
+author_list:
+- family: Mihalas
+  given: D.
+- family: Auer
+  given: L. H.
+- family: Mihalas
+  given: B. R.
+date-added: 2017-08-11 00:47:39 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/155988
+journal: \apj
+keywords: Atmospheric Models, Differential Equations, Radiative Transfer, Stellar
+  Atmospheres, Graphs (Charts), Hermitian Polynomial, Mathematical Models, Stellar
+  Structure
+month: March
+pages: 1001--1023
+papis_id: 1f27e89e2ed522b6853ef1b5f8728ef1
+ref: mihalas.d.1978
+title: Two-dimensional radiative transfer. I - Planar geometry
+type: article
+volume: '220'
+year: '1978'

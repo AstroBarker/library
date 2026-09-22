@@ -1,0 +1,54 @@
+abstract: Classical novae (CNe) are the brightest manifestation of mass transfer onto
+  a white dwarf (WD) in a cataclysmic variable (CV). As such, they are probes of the
+  mass transfer rate, M\textperiodcentered{}, and WD mass, MWD, in these interacting
+  binaries. Our calculations of the dependence of the CN ignition mass, Mign, on M\textperiodcentered{}
+  and MWD yields the recurrence times of these explosions. We show that the observed
+  CNe orbital period distribution is consistent with the interrupted magnetic braking
+  evolutionary scenario, in which at orbital periods Porb>3 hr mass transfer is driven
+  by angular momentum loss via a wind from the companion star, and at Porb<3 hr by
+  gravitational radiation. About 50\% of CNe occur in binaries accreting at M\textperiodcentered{}~=10-9
+  Msolar yr-1 with Porb=3-4 hr, with the remaining 50\% split evenly between Porb
+  longer (higher M\textperiodcentered{}) and shorter (lower M\textperiodcentered{})
+  than this. This resolution of the relative contribution to the CN rate from different
+  CVs tells us that 3(9)\texttimes{}105 CVs with WD mass 1.0(0.6) Msolar are needed
+  to produce one CN per year. In addition, one CN per year requires a CV birthrate
+  of 1(2)\texttimes{}10-4 yr-1 and likely ejects mass into the interstellar medium
+  at a rate of M\textperiodcentered{}=3(9)\texttimes{}10-5 Msolar yr-1. Using the
+  K-band-specific CN rate measured in external galaxies, we find a CV birthrate of
+  2(4)\texttimes{}10-4 yr-1 per 1010 Lsolar,K, very similar to the luminosity specific
+  Type Ia supernova rate in elliptical galaxies. Likewise, we predict that there should
+  be 60-180 CVs for every 106 Lsolar,K in an old stellar population. The population
+  of X-ray-identified CVs in the globular cluster 47 Tuc is similar to this number,
+  showing no overabundance relative to the field. The observed CN Porb distribution
+  also contains evidence for a CV population that has no period gap. These are likely
+  systems with a strongly magnetic WD (polars) in which it has been suggested that
+  the field interferes with the wind of the companion, limiting angular momentum losses
+  to those of gravitational radiation and eliminating the period gap. With this reduced
+  M\textperiodcentered{}, polars evolve more slowly than systems that undergo magnetic
+  braking. Using a two-component steady state model of CV evolution, we show that
+  the fraction of CVs that are magnetic (22\%) implies a birthrate of 8\% relative
+  to nonmagnetic CVs, similar to the fraction of strongly magnetic field WDs.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...628..395T
+arxivurl: http://arxiv.org/abs/astro-ph/0503556
+author: Townsley, D. M. and Bildsten, L.
+author_list:
+- family: Townsley
+  given: D. M.
+- family: Bildsten
+  given: L.
+date-added: 2017-08-10 19:48:55 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/430594
+eprint: astro-ph/0503556
+journal: \apj
+keywords: 'Stars: Binaries: Close, Stars: Novae, Cataclysmic Variables, Stars: Statistics,
+  Stars: White Dwarfs'
+month: July
+pages: 395--400
+papis_id: 20402fdfcab61263c415aba7309985e7
+ref: townsley.d.2005
+title: Classical Novae as a Probe of the Cataclysmic Variable Population
+type: article
+volume: '628'
+year: '2005'

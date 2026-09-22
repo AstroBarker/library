@@ -1,0 +1,39 @@
+abstract: We describe a Monte Carlo radiative transport code intended for calculating
+  spectra of hot, optically thin plasmas in full general relativity. The version we
+  describe here is designed to model hot accretion flows in the Kerr metric and therefore
+  incorporates synchrotron emission and absorption, and Compton scattering. The code
+  can be readily generalized, however, to account for other radiative processes and
+  an arbitrary spacetime. We describe a suite of test problems, and demonstrate the
+  expected N -1/2 convergence rate, where N is the number of Monte Carlo samples.
+  Finally, we illustrate the capabilities of the code with a model calculation, a
+  spectrum of the slowly accreting black hole Sgr A\textasteriskcentered based on
+  data provided by a numerical general relativistic MHD model of the accreting plasma.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..184..387D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.0708
+author: Dolence, J. C. and Gammie, C. F. and Mościbrodzka, M. and Leung, P. K.
+author_list:
+- family: Dolence
+  given: J. C.
+- family: Gammie
+  given: C. F.
+- family: Mościbrodzka
+  given: M.
+- family: Leung
+  given: P. K.
+date-added: 2017-08-10 22:23:09 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0067-0049/184/2/387
+eprint: '0909.0708'
+journal: \apjs
+keywords: 'methods: numerical, MHD, radiative transfer'
+month: October
+pages: 387--397
+papis_id: d43e89c68cc02d1409d31c2114ae3f03
+primaryclass: astro-ph.HE
+ref: dolence.j.2009
+title: 'grmonty: A Monte Carlo Code for Relativistic Radiative Transport'
+type: article
+volume: '184'
+year: '2009'

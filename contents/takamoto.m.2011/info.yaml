@@ -1,0 +1,39 @@
+abstract: We present a new numerical method of special relativistic resistive magnetohydrodynamics
+  with scalar resistivity that can treat a range of phenomena, from non-relativistic
+  to relativistic (shock, contact discontinuity, and Alfv{\'e}n wave). The present
+  scheme calculates the numerical flux of fluid by using an approximate Riemann solver
+  and electromagnetic field by using the method of characteristics. Since this scheme
+  uses appropriate characteristic velocities, it is capable of accurately solving
+  problems that cannot be approximated as ideal magnetohydrodynamics and whose characteristic
+  velocity is much lower than the velocity of light. The numerical results show that
+  our scheme can solve the above problems as well as nearly ideal MHD problems. Our
+  new scheme is particularly well suited to systems with initially weak magnetic field
+  and mixed phenomena of relativistic and non-relativistic velocity, for example magnetorotational
+  instability in an accretion disk and super Alfv{\'e}nic turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...735..113T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.5683
+author: Takamoto, M. and Inoue, T.
+author_list:
+- family: Takamoto
+  given: M.
+- family: Inoue
+  given: T.
+date-added: 2017-08-10 16:34:43 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/735/2/113
+eid: '113'
+eprint: '1105.5683'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, methods: numerical, plasmas, relativistic processes'
+month: July
+pages: '113'
+papis_id: 95f509e5510a3cd3223000a5c3b97a68
+primaryclass: astro-ph.HE
+ref: takamoto.m.2011
+title: A New Numerical Scheme for Resistive Relativistic Magnetohydrodynamics Using
+  Method of Characteristics
+type: article
+volume: '735'
+year: '2011'

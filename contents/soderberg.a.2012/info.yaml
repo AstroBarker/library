@@ -1,0 +1,127 @@
+abstract: We report the discovery and detailed monitoring of X-ray emission associated
+  with the Type IIb SN 2011dh using data from the Swift and Chandra satellites, placing
+  it among the best-studied X-ray supernovae (SNe) to date. We further present millimeter
+  and radio data obtained with the Submillimeter Array, the Combined Array for Research
+  in Millimeter-wave Astronomy, and the Expanded Very Large Array during the first
+  three weeks after explosion. Combining these observations with early optical photometry,
+  we show that the panchromatic data set is well described by non-thermal synchrotron
+  emission (radio/mm) with inverse Compton scattering (X-ray) of a thermal population
+  of optical photons. In this scenario, the shock partition fractions deviate from
+  equipartition by a factor, (epsilon e /epsilon B ) ~ 30. We derive the properties
+  of the shock wave and the circumstellar environment and find a time-averaged shock
+  velocity of \overline{v}\approx 0.1c and a progenitor mass-loss rate of \dot{M}\approx
+  6\times 10^{-5}\,M\_{\odot }\ yr^{-1} (for an assumed wind velocity, vw = 1000 km
+  s-1). We show that these properties are consistent with the sub-class of Type IIb
+  SNe characterized by compact progenitors (Type cIIb) and dissimilar from those with
+  extended progenitors (Type eIIb). Furthermore, we consider the early optical emission
+  in the context of a cooling envelope model to estimate a progenitor radius of R
+  \textasteriskcentered \approx{} 1011 cm, in line with the expectations for a Type
+  cIIb SN. Together, these diagnostics are difficult to reconcile with the extended
+  radius of the putative yellow supergiant progenitor star identified in archival
+  Hubble Space Telescope observations, unless the stellar density profile is unusual.
+  Finally, we searched for the high-energy shock breakout pulse using X-ray and gamma-ray
+  observations obtained during the purported explosion date range. Based on the compact
+  radius of the progenitor, we estimate that the shock breakout pulse was detectable
+  with current instruments but likely missed due to their limited temporal/spatial
+  coverage. Future all-sky missions will regularly detect shock breakout emission
+  from compact SN progenitors enabling prompt follow-up observations with sensitive
+  multi-wavelength facilities.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...752...78S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1107.1876
+author: Soderberg, A. M. and Margutti, R. and Zauderer, B. A. and Krauss, M. and Katz,
+  B. and Chomiuk, L. and Dittmann, J. A. and Nakar, E. and Sakamoto, T. and Kawai,
+  N. and Hurley, K. and Barthelmy, S. and Toizumi, T. and Morii, M. and Chevalier,
+  R. A. and Gurwell, M. and Petitpas, G. and Rupen, M. and Alexander, K. D. and Levesque,
+  E. M. and Fransson, C. and Brunthaler, A. and Bietenholz, M. F. and Chugai, N. and
+  Grindlay, J. and Copete, A. and Connaughton, V. and Briggs, M. and Meegan, C. and
+  von Kienlin, A. and Zhang, X. and Rau, A. and Golenetskii, S. and Mazets, E. and
+  Cline, T.
+author_list:
+- family: Soderberg
+  given: A. M.
+- family: Margutti
+  given: R.
+- family: Zauderer
+  given: B. A.
+- family: Krauss
+  given: M.
+- family: Katz
+  given: B.
+- family: Chomiuk
+  given: L.
+- family: Dittmann
+  given: J. A.
+- family: Nakar
+  given: E.
+- family: Sakamoto
+  given: T.
+- family: Kawai
+  given: N.
+- family: Hurley
+  given: K.
+- family: Barthelmy
+  given: S.
+- family: Toizumi
+  given: T.
+- family: Morii
+  given: M.
+- family: Chevalier
+  given: R. A.
+- family: Gurwell
+  given: M.
+- family: Petitpas
+  given: G.
+- family: Rupen
+  given: M.
+- family: Alexander
+  given: K. D.
+- family: Levesque
+  given: E. M.
+- family: Fransson
+  given: C.
+- family: Brunthaler
+  given: A.
+- family: Bietenholz
+  given: M. F.
+- family: Chugai
+  given: N.
+- family: Grindlay
+  given: J.
+- family: Copete
+  given: A.
+- family: Connaughton
+  given: V.
+- family: Briggs
+  given: M.
+- family: Meegan
+  given: C.
+- family: von Kienlin
+  given: A.
+- family: Zhang
+  given: X.
+- family: Rau
+  given: A.
+- family: Golenetskii
+  given: S.
+- family: Mazets
+  given: E.
+- family: Cline
+  given: T.
+date-added: 2017-08-10 21:26:08 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/752/2/78
+eid: '78'
+eprint: '1107.1876'
+journal: \apj
+keywords: 'supernovae: individual: SN 2011dh'
+month: June
+pages: '78'
+papis_id: 4ed3cadab4b1a866f18a28395a95cbc2
+primaryclass: astro-ph.HE
+ref: soderberg.a.2012
+title: Panchromatic Observations of SN 2011dh Point to a Compact Progenitor Star
+type: article
+volume: '752'
+year: '2012'

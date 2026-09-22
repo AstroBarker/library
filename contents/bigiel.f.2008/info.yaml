@@ -1,0 +1,67 @@
+abstract: 'We present a comprehensive analysis of the relationship between star formation
+  rate surface density, SigmaSFR, and gas surface density, Sigmagas, at sub-kpc resolution
+  in a sample of 18 nearby galaxies. We use high-resolution H I data from The H I
+  Nearby Galaxy Survey, CO data from HERACLES and the BIMA Survey of Nearby Galaxies,
+  24 mum data from the Spitzer Space Telescope, and UV data from the Galaxy Evolution
+  Explorer. We target seven spiral galaxies and 11 late-type/dwarf galaxies and investigate
+  how the star formation law differs between the H2 dominated centers of spiral galaxies,
+  their H I dominated outskirts and the H I rich late-type/dwarf galaxies. We find
+  that a Schmidt-type power law with index N = 1.0 $\pm$ 0.2 relates SigmaSFR and
+  SigmaH2 across our sample of spiral galaxies, i.e., that H2 forms stars at a constant
+  efficiency in spirals. The average molecular gas depletion time is ~2 \texttimes{}
+  109 years. The range of SigmaH2 over which we measure this relation is ~3-50 M sun
+  pc-2, significantly lower than in starburst environments. We find the same results
+  when performing a pixel-by-pixel analysis, averaging in radial bins, or when varying
+  the star formation tracer used. We interpret the linear relation and constant depletion
+  time as evidence that stars are forming in giant molecular clouds with approximately
+  uniform properties and that SigmaH2 may be more a measure of the filling fraction
+  of giant molecular clouds than changing conditions in the molecular gas. The relationship
+  between total gas surface density (Sigmagas) and SigmaSFR varies dramatically among
+  and within spiral galaxies. Most galaxies show little or no correlation between
+  SigmaHI and SigmaSFR. As a result, the star formation efficiency (SFE), SigmaSFR/Sigmagas,
+  varies strongly across our sample and within individual galaxies. We show that this
+  variation is systematic and consistent with the SFE being set by local environmental
+  factors: in spirals the SFE is a clear function of radius, while the dwarf galaxies
+  in our sample display SFEs similar to those found in the outer optical disks of
+  the spirals. We attribute the similarity to common environments (low density, low
+  metallicity, H I dominated) and argue that shear (which is typically absent in dwarfs)
+  cannot drive the SFE. In addition to a molecular Schmidt law, the other general
+  feature of our sample is a sharp saturation of H I surface densities at SigmaHI
+  \approx{} 9 M sun pc-2 in both the spiral and dwarf galaxies. In the case of the
+  spirals, we observe gas in excess of this limit to be molecular.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008AJ....136.2846B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.2541
+author: Bigiel, F. and Leroy, A. and Walter, F. and Brinks, E. and de Blok, W. J.
+  G. and Madore, B. and Thornley, M. D.
+author_list:
+- family: Bigiel
+  given: F.
+- family: Leroy
+  given: A.
+- family: Walter
+  given: F.
+- family: Brinks
+  given: E.
+- family: de Blok
+  given: W. J. G.
+- family: Madore
+  given: B.
+- family: Thornley
+  given: M. D.
+date-added: 2017-08-10 21:39:55 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1088/0004-6256/136/6/2846
+eprint: '0810.2541'
+journal: \aj
+keywords: 'galaxies: evolution, galaxies: ISM, radio lines: galaxies, radio lines:
+  ISM'
+month: December
+pages: 2846--2871
+papis_id: 42917a24d457a8b06ee67ef6b193e448
+ref: bigiel.f.2008
+title: The Star Formation Law in Nearby Galaxies on Sub-Kpc Scales
+type: article
+volume: '136'
+year: '2008'

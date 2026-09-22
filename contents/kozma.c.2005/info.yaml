@@ -1,0 +1,59 @@
+abstract: Late time synthetic spectra of type Ia supernovae, based on three-dimensional
+  deflagration models, are presented. We mainly focus on one model, ``c3\_3d\_256\_10s'',
+  for which the hydrodynamics (R{\"o}pke 2005, A\&A, 432, 969) and nucleosynthesis
+  (Travaglio et al. 2004, A\&A, 425, 1029) was calculated up to the homologous phase
+  of the explosion. Other models with different ignition conditions and different
+  resolution are also briefly discussed. The synthetic spectra are compared to observed
+  late time spectra. We find that while the model spectra after 300 to 500 days show
+  a good agreement with the observed Fe II-III features, they also show too strong
+  O I and C I lines compared to the observed late time spectra. The oxygen and carbon
+  emission originates from the low-velocity unburned material in the central regions
+  of these models. To get agreement between the models and observations we find that
+  only a small mass of unburned material may be left in the center after the explosion.
+  This may be a problem for pure deflagration models, although improved initial conditions,
+  as well as higher resolution decrease the discrepancy. The relative intensity from
+  the different ionization stages of iron is sensitive to the density of the emitting
+  iron-rich material. We find that clumping, with the presence of low density regions,
+  is needed to reproduce the observed iron emission, especially in the range between
+  4000 and 6000 {\AA}. Both temperature and ionization depend sensitively on density,
+  abundances and radioactive content. This work therefore illustrates the importance
+  of including the inhomogeneous nature of realistic three-dimensional explosion models.
+  We briefly discuss the implications of the spectral modeling for the nature of the
+  explosion.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...437..983K
+arxivurl: http://arxiv.org/abs/astro-ph/0504317
+author: Kozma, C. and Fransson, C. and Hillebrandt, W. and Travaglio, C. and Sollerman,
+  J. and Reinecke, M. and Röpke, F. K. and Spyromilio, J.
+author_list:
+- family: Kozma
+  given: C.
+- family: Fransson
+  given: C.
+- family: Hillebrandt
+  given: W.
+- family: Travaglio
+  given: C.
+- family: Sollerman
+  given: J.
+- family: Reinecke
+  given: M.
+- family: Röpke
+  given: F. K.
+- family: Spyromilio
+  given: J.
+date-added: 2017-08-10 21:13:39 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1051/0004-6361:20053044
+eprint: astro-ph/0504317
+journal: \aap
+keywords: 'stars: supernovae: general, nuclear reactions, nucleosynthesis, abundances,
+  hydrodynamics, line: formation, line: identification'
+month: July
+pages: 983--995
+papis_id: 67e163d1305984af73a743011ef6dbe5
+ref: kozma.c.2005
+title: Three-dimensional modeling of type Ia supernovae - The power of late time spectra
+type: article
+volume: '437'
+year: '2005'

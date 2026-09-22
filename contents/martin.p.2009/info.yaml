@@ -1,0 +1,54 @@
+abstract: 'Context: The medium-lived 44Ti isotope is synthesised by explosive Si-burning
+  in core-collapse supernovae. It is extremely sensitive to the dynamics of the explosion
+  and therefore can be used to indirectly probe the explosion scenario. The young
+  supernova remnant Cassiopeia A is to date the only source of gamma-ray lines from
+  44Ti decay. The emission flux has been measured by CGRO/COMPTEL, BeppoSAX/PDS and
+  INTEGRAL/IBIS.  Aims: The high-resolution spectrometer SPI on-board the INTEGRAL
+  satellite can provide spectrometric information about the emission. The line profiles
+  reflect the kinematics of the 44Ti in Cassiopeia A and can thus place constraints
+  on its nucleosynthesis and potentially on the associated explosion process.  Methods:
+  Using 4 years of data from INTEGRAL/SPI, we have searched for the gamma-ray signatures
+  from the decay of the 44Ti isotope. The overwhelming instrumental background noise
+  required an accurate modelling and a solid assessment of the systematic errors in
+  the analysis.  Results: Due to the strong variability of the instrumental background
+  noise, it has not been possible to extract the two lines at 67.9 and 78.4 keV. Regarding
+  the high-energy line at 1157.0 keV, no significant signal is seen in the 1140-1170
+  keV band, thereby suggesting that the line signal from Cassiopeia A is broadened
+  by the Doppler effect. From our spectrum, we derive a ~500 km s-1 lower limit at
+  2sigma on the expansion velocity of the 44Ti ejecta.  Conclusions: Our result does
+  not allow us to constrain the location of 44Ti since the velocities involved throughout
+  the remnant, derived from optical and X-ray studies, are all far above our lower
+  limit.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...502..131M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.0898
+author: Martin, P. and Knödlseder, J. and Vink, J. and Decourchelle, A. and Renaud,
+  M.
+author_list:
+- family: Martin
+  given: P.
+- family: Knödlseder
+  given: J.
+- family: Vink
+  given: J.
+- family: Decourchelle
+  given: A.
+- family: Renaud
+  given: M.
+date-added: 2017-08-11 01:06:23 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1051/0004-6361/200809735
+eprint: '1001.0898'
+journal: \aap
+keywords: 'gamma rays: observations, ISM: supernova remnants, ISM: individual objects:
+  Cassiopeia A, nuclear reactions, nucleosynthesis, abundances'
+month: July
+pages: 131--137
+papis_id: 371bdbdba83cb8aad7ca5aa4c376c271
+primaryclass: astro-ph.HE
+ref: martin.p.2009
+title: Constraints on the kinematics of the $^44$Ti ejecta of Cassiopeia A from INTEGRAL/SPI
+type: article
+volume: '502'
+year: '2009'

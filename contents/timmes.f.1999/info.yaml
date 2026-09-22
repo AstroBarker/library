@@ -1,0 +1,47 @@
+abstract: Methods for solving the stiff system of ordinary differential equations
+  that constitute nuclear reaction networks are surveyed. Three semi-implicit time
+  integration algorithms are examined; a traditional first-order-accurate Euler method,
+  a fourth-order-accurate Kaps-Rentrop method, and a variable-order Bader-Deuflhard
+  method. These three integration methods are coupled to eight different linear algebra
+  packages. Four of the linear algebra packages operate on dense matrices (LAPACK,
+  LUDCMP, LEQS, GIFT), three of them are designed for the direct solution of sparse
+  matrices (MA28, UMFPACK, Y12M), and one uses an iterative method for sparse matrices
+  (BiCG). The scaling properties and behavior of the 24 combinations (3 time integration
+  methods times 8 linear algebra packages) are analyzed by running each combination
+  on seven different nuclear reaction networks. These reaction networks range from
+  a hardwired 13 isotope alpha-chain and heavy-ion reaction network, which is suitable
+  for most multidimensional simulations of stellar phenomena, to a 489 isotope reaction
+  network, which is suitable for determining the yields of isotopes lighter than technetium
+  in spherically symmetric models of Type II supernovae. Each of the time integration
+  methods and linear algebra packages are capable of generating accurate results,
+  but the efficiency of the various methods--evaluated across several different machine
+  architectures and compiler options--differ dramatically. If the execution speed
+  of reaction networks that contain less than about 50 isotopes is an overriding concern,
+  then the variable-order Bader-Deuflhard time integration method coupled with routines
+  generated from the GIFT matrix package or LAPACK with vendor-optimized BLAS routines
+  is a good choice. If the amount of storage needed for any reaction network is a
+  concern, then any of the sparse matrix packages will reduce the storage costs by
+  70\%-90\%. When a balance between accuracy, overall efficiency, and ease of use
+  is desirable, then the variable-order Bader-Deuflhard time integration method coupled
+  with the MA28 sparse matrix package is a strong choice.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJS..124..241T
+author: Timmes, F. X.
+author_list:
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-10 17:42:29 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/313257
+journal: \apjs
+keywords: 'HYDRODYNAMICS, METHODS: NUMERICAL, NUCLEAR REACTIONS, NUCLEOSYNTHESIS,
+  ABUNDANCES, STARS: INTERIORS, Hydrodynamics, Methods: Numerical, Nuclear Reactions,
+  Nucleosynthesis, Abundances, Stars: Interiors'
+month: September
+pages: 241--263
+papis_id: d3e06682945096ea4f615e64e9071c88
+ref: timmes.f.1999
+title: Integration of Nuclear Reaction Networks for Stellar Hydrodynamics
+type: article
+volume: '124'
+year: '1999'

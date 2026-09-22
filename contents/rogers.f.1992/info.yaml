@@ -1,0 +1,32 @@
+abstract: New radiative Rosseland mean opacity tables calculated with the OPAL code
+  are presented. Extensive results are given for the recent mixture of Anders-Grevesse
+  (1989) which allow accurate interpolation in temperature, density, hydrogen mass
+  fraction, and metal mass fraction. The range of the constant R and temperature are
+  such as to cover typical stellar conditions from the interior through the envelope
+  and the hotter atmospheres. For comparison purposes, some opacity table for the
+  Ross-Aller and Cox-Tabor metal abundances are presented. Although in many regions
+  the OPAL opacities are similar to previous work, significant differences are reported.
+  For example, factors of 2-3 opacity enhancements are found in stellar envelope conditions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJS...79..507R
+author: Rogers, F. J. and Iglesias, C. A.
+author_list:
+- family: Rogers
+  given: F. J.
+- family: Iglesias
+  given: C. A.
+date-added: 2017-08-10 15:17:08 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/191659
+journal: \apjs
+keywords: Atomic Spectra, Opacity, Radiative Transfer, Stellar Composition, Stellar
+  Envelopes, Stellar Interiors, Abundance, Equations Of State, Metallicity, Stellar
+  Atmospheres
+month: April
+pages: 507--568
+papis_id: f271ff244c6d958bcfe05e16c06b1b9c
+ref: rogers.f.1992
+title: Radiative atomic Rosseland mean opacity tables
+type: article
+volume: '79'
+year: '1992'

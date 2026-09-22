@@ -1,0 +1,44 @@
+abstract: We present a model of thermal X-ray emission from hot spots on the surface
+  of a rotating compact star with an unmagnetized light-element atmosphere. An application
+  to ROSAT, Chandra, and  XMM-Newton X-ray observations of the nearest known rotation-powered
+  millisecond pulsar (MSP) PSR J0437-4715 reveals that the thermal emission from this
+  pulsar is fully consistent with such a model, enabling constraints on important
+  properties of the underlying neutron star. We confirm that the observed thermal
+  X-ray pulsations from J0437-4715 are incompatible with blackbody emission and require
+  the presence of an optically thick, light-element (most likely hydrogen) atmosphere
+  on the neutron star surface. The morphology of the X-ray pulse profile is consistent
+  with a global dipole configuration of the pulsar magnetic field but suggests an
+  off-center magnetic axis, with a displacement of 0.8-3 km from the stellar center.
+  For an assumed mass of 1.4 Msolar, the model restricts the allowed stellar radii
+  to R=6.8-13.8 km (90\% confidence) and R>6.7 km (99.9\% confidence), which is consistent
+  with standard NS equations of state and rules out an ultracompact star smaller than
+  its photon sphere. Deeper spectroscopic and timing observations of this and other
+  nearby radio MSPs with current and future X-ray facilities (Constellation-X and
+  XEUS) can provide further insight into the fundamental properties of neutron stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...670..668B
+arxivurl: http://arxiv.org/abs/astro-ph/0612791
+author: Bogdanov, S. and Rybicki, G. B. and Grindlay, J. E.
+author_list:
+- family: Bogdanov
+  given: S.
+- family: Rybicki
+  given: G. B.
+- family: Grindlay
+  given: J. E.
+date-added: 2017-08-10 22:25:12 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/520793
+eprint: astro-ph/0612791
+journal: \apj
+keywords: 'Gravitation, Stars: Pulsars: General, Stars: Pulsars: Individual: Alphanumeric:
+  PSR J0437-4715, Relativity, Stars: Neutron, X-Rays: Stars'
+month: November
+pages: 668--676
+papis_id: 9461fec2cb7f9813753c5f30ada37269
+ref: bogdanov.s.2007
+title: Constraints on Neutron Star Properties from X-Ray Observations of Millisecond
+  Pulsars
+type: article
+volume: '670'
+year: '2007'

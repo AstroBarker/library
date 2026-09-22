@@ -1,0 +1,65 @@
+abstract: We report on the methodology and first results from the Deep Lens Survey
+  (DLS) transient search. We utilize image subtraction on survey data to yield all
+  sources of optical variability down to 24th magnitude. Images are analyzed immediately
+  after acquisition, at the telescope, and in near-real time, to allow for follow-up
+  in the case of time-critical events. All classes of transients are posted to the
+  World Wide Web upon detection. Our observing strategy allows sensitivity to variability
+  over several decades in timescale. The DLS is the first survey to classify and report
+  all types of photometric and astrometric variability detected, including solar system
+  objects, variable stars, supernovae, and short timescale phenomena. Three unusual
+  optical transient (OT) events were detected, flaring on 1000 s timescales. All three
+  events were seen in the B passband, suggesting blue color indices for the phenomena.
+  One event (OT 20020115) is determined to be from a flaring Galactic dwarf star of
+  spectral type dM4. From the remaining two events, we find an overall rate of eta=1.4
+  events deg-2 day-1 on 1000 s timescales, with a 95\% confidence limit of eta<4.3.
+  One of these events (OT 20010326) originated from a compact precursor in the field
+  of galaxy cluster A1836, and its nature is uncertain. For the second (OT 20030305)
+  we find strong evidence for an extended extragalactic host. A dearth of such events
+  in the R passband yields an upper 95\% confidence limit on short-timescale astronomical
+  variability in the range 19.5<MR<23.4 of etaR<5.2 events deg-2 day-1. We report
+  also on our ensemble of astrometrically variable objects, as well as an example
+  of photometric variability with an undetected precursor.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...611..418B
+arxivurl: http://arxiv.org/abs/astro-ph/0404416
+author: Becker, A. C. and Wittman, D. M. and Boeshaar, P. C. and Clocchiatti, A. and
+  Dell'Antonio, I. P. and Frail, D. A. and Halpern, J. and Margoniner, V. E. and Norman,
+  D. and Tyson, J. A. and Schommer, R. A.
+author_list:
+- family: Becker
+  given: A. C.
+- family: Wittman
+  given: D. M.
+- family: Boeshaar
+  given: P. C.
+- family: Clocchiatti
+  given: A.
+- family: Dell'Antonio
+  given: I. P.
+- family: Frail
+  given: D. A.
+- family: Halpern
+  given: J.
+- family: Margoniner
+  given: V. E.
+- family: Norman
+  given: D.
+- family: Tyson
+  given: J. A.
+- family: Schommer
+  given: R. A.
+date-added: 2017-08-11 01:14:12 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421994
+eprint: astro-ph/0404416
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Minor Planets, Asteroids, Stars: Variables: Other,
+  Stars: Supernovae: General, Surveys'
+month: August
+pages: 418--433
+papis_id: 8bfb1c4c7e79f8a83ab468bf8082bf93
+ref: becker.a.2004
+title: The Deep Lens Survey Transient Search. I. Short Timescale and Astrometric Variability
+type: article
+volume: '611'
+year: '2004'

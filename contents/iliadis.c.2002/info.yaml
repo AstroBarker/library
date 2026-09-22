@@ -1,0 +1,51 @@
+abstract: We investigate the effects of thermonuclear reaction-rate uncertainties
+  on nova nucleosynthesis. One-zone nucleosynthesis calculations have been performed
+  by adopting temperature-density-time profiles of the hottest hydrogen-burning zone
+  (i.e., the region in which most of the nucleosynthesis takes place). We obtain our
+  profiles from seven different, recently published, hydrodynamic nova simulations
+  covering peak temperatures in the range from Tpeak=0.145 to 0.418 GK. For each of
+  these profiles, we individually varied the rates of 175 reactions within their associated
+  errors and analyzed the resulting abundance changes of 142 isotopes in the mass
+  range below A=40. In total, we performed ~7350 nuclear reaction network calculations.
+  We use the most recent thermonuclear reaction-rate evaluations for the mass ranges
+  A=1-20 and 20-40. For the theoretical astrophysicist, our results indicate the extent
+  to which nova nucleosynthesis calculations depend on currently uncertain nuclear
+  physics input, while for the experimental nuclear physicist, our results represent
+  at least a qualitative guide for future measurements at stable and radioactive ion
+  beam facilities. We find that present reaction-rate estimates are reliable for predictions
+  of Li, Be, C, and N abundances in nova nucleosynthesis. However, rate uncertainties
+  of several reactions have to be reduced significantly in order to predict more reliable
+  O, F, Ne, Na, Mg, Al, Si, S, Cl, and Ar abundances. Results are presented in tabular
+  form for each adopted nova simulation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJS..142..105I
+arxivurl: http://arxiv.org/abs/astro-ph/0206020
+author: Iliadis, C. and Champagne, A. and José, J. and Starrfield, S. and Tupper,
+  P.
+author_list:
+- family: Iliadis
+  given: C.
+- family: Champagne
+  given: A.
+- family: José
+  given: J.
+- family: Starrfield
+  given: S.
+- family: Tupper
+  given: P.
+date-added: 2017-08-11 02:13:55 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/341400
+eprint: astro-ph/0206020
+journal: \apjs
+keywords: 'Stars: Novae, Cataclysmic Variables, Nuclear Reactions, Nucleosynthesis,
+  Abundances, Stars: Abundances'
+month: September
+pages: 105--137
+papis_id: 0d245568786702b4f59e324d277d3dfc
+ref: iliadis.c.2002
+title: 'The Effects of Thermonuclear Reaction-Rate Variations on Nova Nucleosynthesis:
+  A Sensitivity Study'
+type: article
+volume: '142'
+year: '2002'

@@ -1,0 +1,41 @@
+abstract: Many models of gamma-ray bursts (GRBs) invoke a central engine consisting
+  of a black hole of a few solar masses accreting matter from a disk at a rate of
+  a fraction to a few solar masses per second. Popham et al. and Narayan et al. have
+  shown that, for M>~0.1Msolar s-1, accretion proceeds via neutrino cooling and neutrinos
+  can carry away a significant amount of energy from the inner regions of the disks.
+  We improve on these calculations by including a simple prescription for neutrino
+  transfer and neutrino opacities in such regions. We find that the flows become optically
+  thick to neutrinos inside a radius R~6RS-40RS for M in the range of 0.1-10 Msolar
+  s-1, where RS is the black hole Schwarzchild radius. Most of the neutrino emission
+  comes from outside this region, and the neutrino luminosity stays roughly constant
+  at a value Lnu~1053 ergs s-1. We show that, for M>~1Msolar s-1, neutrinos are sufficiently
+  trapped that energy advection becomes the dominant cooling mechanism in the flow.
+  These results imply that nunu annihilation in hyperaccreting black holes is an inefficient
+  mechanism for liberating large amounts of energy. Extraction of rotational energy
+  by magnetic processes remains the most viable mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...579..706D
+arxivurl: http://arxiv.org/abs/astro-ph/0207319
+author: Di Matteo, T. and Perna, R. and Narayan, R.
+author_list:
+- family: Di Matteo
+  given: T.
+- family: Perna
+  given: R.
+- family: Narayan
+  given: R.
+date-added: 2017-08-10 18:06:13 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342832
+eprint: astro-ph/0207319
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Gamma Rays: Bursts, Neutrinos,
+  Scattering'
+month: November
+pages: 706--715
+papis_id: 3cc1fdcba17936887bba7ce2bac5364b
+ref: di_matteo.t.2002
+title: Neutrino Trapping and Accretion Models for Gamma-Ray Bursts
+type: article
+volume: '579'
+year: '2002'

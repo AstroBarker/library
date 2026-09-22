@@ -1,0 +1,48 @@
+abstract: The nature of the progenitor systems of Type Ia supernovae is still uncertain.
+  One way to distinguish between the single-degenerate scenario and double-degenerate
+  scenario is to search for the post-impact remnant star. To examine the characteristics
+  of the post-impact remnant star, we have carried out three-dimensional hydrodynamic
+  simulations of supernova impacts on main-sequence-like stars. We explore the evolution
+  of the post-impact remnants using the stellar evolution code MESA. We find that
+  the luminosity and radius of the remnant star dramatically increase just after the
+  impact. After the explosion, post-impact companions continue to expand on a progenitor-dependent
+  timescale of ~102.5-103 years before contracting. It is found that the time evolution
+  of the remnant star is dependent not only on the amount of energy absorbed but also
+  on the depth of the energy deposition. We examine the viability of the candidate
+  star Tycho G as the possible remnant companion in Tycho's supernova by comparing
+  it to the evolved post-impact remnant stars in our simulations. The closest model
+  in our simulations has a similar effective temperature, but the luminosity and radius
+  are twice as large. By examining the angular momentum distribution in our simulations,
+  we find that the surface rotational speed could drop to ~10 km s-1 if the specific
+  angular momentum is conserved during the post-impact evolution, implying that Tycho
+  G cannot be completely ruled out because of its low surface rotation speed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...760...21P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1210.0170
+author: Pan, K.-C. and Ricker, P. M. and Taam, R. E.
+author_list:
+- family: Pan
+  given: K.-C.
+- family: Ricker
+  given: P. M.
+- family: Taam
+  given: R. E.
+date-added: 2017-08-10 20:08:03 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/760/1/21
+eid: '21'
+eprint: '1210.0170'
+journal: \apj
+keywords: 'binaries: close, methods: numerical, stars: evolution, supernovae: general,
+  supernovae: individual: Tycho''s SN'
+month: November
+pages: '21'
+papis_id: c9538d04040a4c7ffe3186fc77e7e83f
+primaryclass: astro-ph.HE
+ref: pan.k_c.2012
+title: Evolution of Post-impact Companion Stars in SN Ia Remnants within the Single-degenerate
+  Scenario
+type: article
+volume: '760'
+year: '2012'

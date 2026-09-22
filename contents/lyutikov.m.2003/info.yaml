@@ -1,0 +1,33 @@
+abstract: 'The dynamics of the steady state Sweet-Parker-type reconnection is analyzed
+  in the relativistic regime when energy density in the inflowing region is dominated
+  by the magnetic field. The structure of the reconnection layer (its thickness and
+  inflow and outflow velocities) depends on the ratio of two large dimensionless parameters
+  of the problem: the magnetization parameter sigma>>1 (the ratio of the magnetic
+  to particle energy densities in the inflowing region) and the Lundquist number S.
+  The inflow velocity may be relativistic (for S<sigma) or nonrelativistic (for S>sigma),
+  while the outflowing plasma is always moving relativistically. For extremely magnetized
+  plasmas with sigma>=S2, the inflow four-velocity becomes of the order of the Alfv{\''e}n
+  four-velocity.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...589..893L
+arxivurl: http://arxiv.org/abs/astro-ph/0210206
+author: Lyutikov, M. and Uzdensky, D.
+author_list:
+- family: Lyutikov
+  given: M.
+- family: Uzdensky
+  given: D.
+date-added: 2017-08-10 19:38:49 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/374808
+eprint: astro-ph/0210206
+journal: \apj
+keywords: Magnetic Fields, Plasmas, Relativity
+month: June
+pages: 893--901
+papis_id: 18cc775bbbb1efcd371d1a3d013955ba
+ref: lyutikov.m.2003
+title: Dynamics of Relativistic Reconnection
+type: article
+volume: '589'
+year: '2003'

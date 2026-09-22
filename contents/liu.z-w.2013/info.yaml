@@ -1,0 +1,65 @@
+abstract: In the version of the single-degenerate scenario of Type Ia supernovae (SNe
+  Ia) studied here, a carbon-oxygen white dwarf explodes close to the Chandrasekhar
+  limit after accreting material from a non-degenerate helium (He) companion star.
+  In the present study, we employ the STELLAR GADGET code to perform three-dimensional
+  hydrodynamical simulations of the interaction of the SN Ia ejecta with the He companion
+  star taking into account its orbital motion and spin. It is found that only 2\%-5\%
+  of the initial companion mass is stripped off from the outer layers of He companion
+  stars due to the supernova (SN) impact. The dependence of the unbound mass (or the
+  kick velocity) on the orbital separation can be fitted to a good approximation by
+  a power law for a given companion model. After the SN impact, the outer layers of
+  a He donor star are significantly enriched with heavy elements from the low-expansion-velocity
+  tail of SN Ia ejecta. The total mass of accumulated SN-ejecta material on the companion
+  surface reaches about >~ 10-3 M \&sun; for different companion models. This enrichment
+  with heavy elements provides a potential way to observationally identify the surviving
+  companion star in SN remnants. Finally, by artificially adjusting the explosion
+  energy of the W7 explosion model, we find that the total accumulation of SN ejecta
+  on the companion surface is also dependent on the explosion energy with a power-law
+  relation to a good approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774...37L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.5579
+author: Liu, Z.-W. and Pakmor, R. and Seitenzahl, I. R. and Hillebrandt, W. and Kromer,
+  M. and Röpke, F. K. and Edelmann, P. and Taubenberger, S. and Maeda, K. and Wang,
+  B. and Han, Z. W.
+author_list:
+- family: Liu
+  given: Z.-W.
+- family: Pakmor
+  given: R.
+- family: Seitenzahl
+  given: I. R.
+- family: Hillebrandt
+  given: W.
+- family: Kromer
+  given: M.
+- family: Röpke
+  given: F. K.
+- family: Edelmann
+  given: P.
+- family: Taubenberger
+  given: S.
+- family: Maeda
+  given: K.
+- family: Wang
+  given: B.
+- family: Han
+  given: Z. W.
+date-added: 2017-08-11 07:15:17 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/1/37
+eid: '37'
+eprint: '1307.5579'
+journal: \apj
+keywords: 'binaries: close, methods: numerical, supernovae: general'
+month: September
+pages: '37'
+papis_id: 07b44f1f92df0b5512a24903e5c397b0
+primaryclass: astro-ph.SR
+ref: liu.z_w.2013
+title: The Impact of Type Ia Supernova Explosions on Helium Companions in the Chandrasekhar-mass
+  Explosion Scenario
+type: article
+volume: '774'
+year: '2013'

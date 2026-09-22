@@ -1,0 +1,35 @@
+abstract: The burst of gravitational radiation emitted during the initial collapse
+  and rebound of a homogeneous uniformly rotating spheroid with internal pressure
+  is analyzed numerically. The surface of the collapsing spheroid is assumed to start
+  at rest from infinity with negligible eccentricity ('zero-energy collapse'). The
+  adopted internal pressure function is constant on self-similar spheroidal surfaces,
+  and its central value is described by a polytropic law with index not exceeding
+  3. The Newtonian equations of motion are integrated numerically to follow the initial
+  collapse and rebound of the configuration for the special case in which the collapse
+  is time-reversal invariant about the moment of maximum compression, and the total
+  energy and frequency spectra of the emitted quadrupole radiation are computed. The
+  results are employed to estimate the (approximately minimum) total energy and frequency
+  distribution of the initial burst of gravitational radiation emitted during the
+  formation of low-mass (not larger than the sun) neutron stars and during the collapse
+  of supermassive gas clouds (about 1 million solar masses).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1977ApJ...214..566S
+author: Shapiro, S. L.
+author_list:
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 05:35:05 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/155282
+journal: \apj
+keywords: Gravitational Collapse, Gravitational Waves, Stellar Evolution, Wave Generation,
+  Energy Dissipation, Equations Of Motion, Internal Pressure, Neutron Stars, Polytropic
+  Processes, Rotating Spheres
+month: June
+pages: 566--575
+papis_id: 2876f064b60efdd77787ed1e6e970312
+ref: shapiro.s.1977
+title: Gravitational radiation from stellar collapse - The initial burst
+type: article
+volume: '214'
+year: '1977'

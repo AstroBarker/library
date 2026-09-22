@@ -1,0 +1,49 @@
+abstract: The orbital separation of compact binary stars will shrink with time owing
+  to the emission of gravitational radiation. This inspiral phase of a binary system's
+  evolution generally will be very long compared to the system's orbital period, but
+  the final coalescence may be dynamical and driven to a large degree by hydrodynamic
+  effects, particularly if there is a critical separation at which the system becomes
+  dynamically unstable toward merger. Indeed, if weakly relativistic systems (such
+  as white dwarf-white dwarf binaries) encounter a point of dynamical instability
+  at some critically close separation, coalescence may be entirely a classical, hydrodynamic
+  process. Therefore, a proper investigation of this stage of binary evolution must
+  include three-dimensional hydrodynamic simulations.  We have constructed equilibrium
+  sequences of synchronously rotating, equal-mass binaries in circular orbit with
+  a single parameter--the binary separation--varying along each sequence. Sequences
+  have been constructed with various polytropic as well as realistic white dwarf and
+  neutron star equations of state. Using a Newtonian, finite-difference hydrodynamics
+  code, we have examined the dynamical stability of individual models along these
+  equilibrium sequences. Our simulations indicate that no points of instability exist
+  on the sequences we analyzed that had relatively soft equations of state (polytropic
+  sequences with polytropic index n = 1.0 and 1.5 and two white dwarf sequences).
+  However, we did identify dynamically unstable binary models on sequences with stiffer
+  equations of state (n = 0.5 polytropic sequence and two neutron star sequences).
+  We thus infer that binary systems with soft equations of state are not driven to
+  merger by a dynamical instability. For the n = 0.5 polytropic sequence, the separation
+  at which a dynamical instability sets in appears to be associated with the minimum
+  energy and angular momentum configuration along the sequence. Our simulations suggest
+  but do not conclusively demonstrate that, in the absence of relativistic effects,
+  this same association may also hold for binary neutron star systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...490..311N
+author: New, K. C. B. and Tohline, J. E.
+author_list:
+- family: New
+  given: K. C. B.
+- family: Tohline
+  given: J. E.
+date-added: 2017-08-10 19:14:30 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304861
+eprint: gr-qc/9703013
+journal: \apj
+keywords: 'Stars: Binaries: Close, Hydrodynamics, Instabilities, Stars: Neutron, Stars:
+  White Dwarfs'
+month: November
+pages: 311--327
+papis_id: 9f8bb60e3637a7bac0d29c10420ddd9f
+ref: new.k.1997
+title: The Relative Stability against Merger of Close, Compact Binaries
+type: article
+volume: '490'
+year: '1997'

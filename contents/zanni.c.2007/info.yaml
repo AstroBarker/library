@@ -1,0 +1,55 @@
+abstract: 'Context: Accretion disks and astrophysical jets are used to model many
+  active astrophysical objects, such as young stars, relativistic stars, and active
+  galactic nuclei. However, existing proposals for how these structures may transfer
+  angular momentum and energy from disks to jets through viscous or magnetic torques
+  do not yet provide a full understanding of the physical mechanisms involved. Thus,
+  global stationary solutions have not explained the stability of these structures;
+  and global numerical simulations that include both the disk and jet physics have
+  so far been limited to relatively short time scales and narrow (and possibly astrophysically
+  unlikely) ranges of viscosity and resistivity parameters that may be crucial to
+  defining the coupling of the inflow-outflow dynamics.   Aims: We present self-consistent,
+  time-dependent simulations of supersonic jets launched from magnetized accretion
+  disks, using high-resolution numerical techniques. In particular we study the effects
+  of the disk''s magnetic resistivity, parametrized through an alpha-prescription,
+  in determining the properties of the inflow-outflow system. Moreover we analyze
+  under which conditions steady state solutions of the type proposed in the self-similar
+  models of Blandford \& Payne can be reached and maintained in a self-consistent
+  nonlinear stage.  Methods: We used the resistive MHD FLASH code with adaptive mesh
+  refinement (AMR), allowing us to follow the evolution of the structure on a long
+  enough time scale to reach steady state. A detailed analysis of the initial configuration
+  state is given.  Results: We obtain the expected solutions within the axisymmetric
+  (2.5 D) limit. Assuming a magnetic field around equipartition with the thermal pressure
+  of the disk, we show how the characteristics of the disk-jet system, such as the
+  ejection efficiency and the energetics, are affected by the anomalous resistivity
+  acting inside the disk.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...469..811Z
+arxivurl: http://arxiv.org/abs/astro-ph/0703064
+author: Zanni, C. and Ferrari, A. and Rosner, R. and Bodo, G. and Massaglia, S.
+author_list:
+- family: Zanni
+  given: C.
+- family: Ferrari
+  given: A.
+- family: Rosner
+  given: R.
+- family: Bodo
+  given: G.
+- family: Massaglia
+  given: S.
+date-added: 2017-08-10 22:59:32 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1051/0004-6361:20066400
+eprint: astro-ph/0703064
+journal: \aap
+keywords: 'accretion, accretion disks, ISM: jets and outflows, galaxies: jets, magnetohydrodynamics
+  (MHD), methods: numerical'
+month: July
+pages: 811--828
+papis_id: a398c40205d566a7d21a4d63d1d97792
+ref: zanni.c.2007
+title: MHD simulations of jet acceleration from Keplerian accretion disks. The effects
+  of disk resistivity
+type: article
+volume: '469'
+year: '2007'

@@ -1,0 +1,48 @@
+abstract: Supernova 1987A focused attention on the critical role of hydrodynamic instabilities
+  in the evolution of supernovae. To test the modeling of these instabilities, we
+  are developing laboratory experiments of hydrodynamic mixing under conditions relevant
+  to supernovae. The target consists of a two-layer planar package composed of 85
+  mum Cu backed by 500 mum CH2, having a single-mode sinusoidal perturbation at the
+  interface, with lambda = 200 mum and eta0 = 20 mum. The Nova Laser is used to generate
+  a 10-15 Mbar [(10-15) \texttimes{} 1012 dyne cm2] shock at the interface, which
+  triggers perturbation growth as a result of the Richtmyer-Meshkov instability, followed
+  by the Rayleigh-Taylor instability as the interface decelerates. This resembles
+  the hydrodynamics of the He-H interface of a Type II supernova at intermediate times,
+  up to a few times 103 s. The experiment is modeled using the hydrodynamics codes
+  HYADES and CALE and the supernova code PROMETHEUS. Results of the experiments and
+  simulations are presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...478L..75K
+author: Kane, J. and Arnett, D. and Remington, B. A. and Glendinning, S. G. and Castor,
+  J. and Wallace, R. and Rubenchik, A. and Fryxell, B. A.
+author_list:
+- family: Kane
+  given: J.
+- family: Arnett
+  given: D.
+- family: Remington
+  given: B. A.
+- family: Glendinning
+  given: S. G.
+- family: Castor
+  given: J.
+- family: Wallace
+  given: R.
+- family: Rubenchik
+  given: A.
+- family: Fryxell
+  given: B. A.
+date-added: 2017-08-11 04:50:07 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/310556
+journal: \apjl
+keywords: 'HYDRODYNAMICS, INSTABILITIES, STARS: SUPERNOVAE: GENERAL, Hydrodynamics,
+  Instabilities, Stars: Supernovae: General'
+month: April
+pages: L75-L78
+papis_id: 7495ebdb31561f34ce943f6765a38e62
+ref: kane.j.1997
+title: Supernova-relevant Hydrodynamic Instability Experiments on the Nova Laser
+type: article
+volume: '478'
+year: '1997'

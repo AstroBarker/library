@@ -1,0 +1,50 @@
+abstract: Over the past 10 years Bayesian methods have rapidly grown more popular
+  in many scientific disciplines as several computationally intensive statistical
+  algorithms have become feasible with increased computer power. In this paper we
+  begin with a general description of the Bayesian paradigm for statistical inference
+  and the various state-of-the-art model-fitting techniques that we employ (e.g.,
+  the Gibbs sampler and the Metropolis-Hastings algorithm). These algorithms are very
+  flexible and can be used to fit models that account for the highly hierarchical
+  structure inherent in the collection of high-quality spectra and thus can keep pace
+  with the accelerating progress of new space telescope designs. The methods we develop,
+  which will soon be available in the Chandra Interactive Analysis of Observations
+  (CIAO) software, explicitly model photon arrivals as a Poisson process and thus
+  have no difficulty with high-resolution low-count X-ray and gamma-ray data. We expect
+  these methods to be useful not only for the recently launched Chandra X-Ray Observatory
+  and XMM but also for new generation telescopes such as Constellation X, GLAST, etc.
+  In the context of two examples (quasar S5 0014+813 and hybrid-chromosphere supergiant
+  star alpha TrA), we illustrate a new highly structured model and how Bayesian posterior
+  sampling can be used to compute estimates, error bars, and credible intervals for
+  the various model parameters. Application of our method to the high-energy tail
+  of the ASCA spectrum of alpha TrA confirms that even at a quiescent state, the coronal
+  plasma on this hybrid-chromosphere star is indeed at high temperatures (>10 MK)
+  that normally characterize flaring plasma on the Sun. We are also able to constrain
+  the coronal metallicity and find that although it is subject to large uncertainties,
+  it is consistent with the photospheric measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...548..224V
+arxivurl: http://arxiv.org/abs/astro-ph/0008170
+author: van Dyk, D. A. and Connors, A. and Kashyap, V. L. and Siemiginowska, A.
+author_list:
+- family: van Dyk
+  given: D. A.
+- family: Connors
+  given: A.
+- family: Kashyap
+  given: V. L.
+- family: Siemiginowska
+  given: A.
+date-added: 2017-08-11 00:28:08 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/318656
+eprint: astro-ph/0008170
+journal: \apj
+keywords: 'Methods: Data Analysis, Methods: Statistical'
+month: February
+pages: 224--243
+papis_id: 3f51662fa7586da0e7966a3c85a0b767
+ref: van_dyk.d.2001
+title: Analysis of Energy Spectra with Low Photon Counts via Bayesian Posterior Simulation
+type: article
+volume: '548'
+year: '2001'

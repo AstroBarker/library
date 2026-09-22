@@ -1,0 +1,48 @@
+abstract: 'Observations of gamma-ray burst afterglows suggest that the correlation
+  length of magnetic field fluctuations downstream of relativistic nonmagnetized collisionless
+  shocks grows with distance from the shock to scales much larger than the plasma
+  skin depth. We argue that this indicates that the plasma properties are described
+  by a self-similar solution and derive constraints on the scaling properties of the
+  solution. For example, we find that the scaling of the characteristic magnetic field
+  amplitude with distance from the shock is B~DsB, with -1<sB<=0 that the spectrum
+  of accelerated particles is dn/dE~E-2/(sB+1) and that the scaling of the magnetic
+  correlation function is <Bi(x)Bj(x+Deltax)>~Deltax2sB (for Deltax>>D). We show that
+  the plasma may be approximated as a combination of two self-similar components:
+  a kinetic component of energetic particles and an MHD-like component representing
+  ``thermal'''' particles. We argue that the latter may be considered as infinitely
+  conducting, in which case sB=0 and the scalings are completely determined (e.g.,
+  dn/dE~E-2 and B~D0, with possible logarithmic corrections). Similar claims apply
+  to nonrelativistic shocks such as in supernova remnants, if the upstream magnetic
+  field can be neglected. Self-similarity has important implications for any model
+  of particle acceleration and/or field generation. For example, we show that the
+  diffusion function in the angle mu of momentum p in diffusive shock acceleration
+  models must satisfy Dmumu(p,D)=D-1D\texttildelow{}mumu(p/D) (where p is the particle
+  momentum) and that a previously suggested model for the generation of large-scale
+  magnetic fields through a hierarchical merger of current filaments should be generalized.
+  A numerical experiment testing our analysis is outlined.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...655..375K
+arxivurl: http://arxiv.org/abs/astro-ph/0607345
+author: Katz, B. and Keshet, U. and Waxman, E.
+author_list:
+- family: Katz
+  given: B.
+- family: Keshet
+  given: U.
+- family: Waxman
+  given: E.
+date-added: 2017-08-11 05:57:36 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/509115
+eprint: astro-ph/0607345
+journal: \apj
+keywords: 'Acceleration of Particles, Gamma Rays: Bursts, Magnetic Fields, Plasmas,
+  Shock Waves, ISM: Supernova Remnants'
+month: January
+pages: 375--390
+papis_id: 96a74dbde2d63a47d718506d5a8496fe
+ref: katz.b.2007
+title: Self-Similar Collisionless Shocks
+type: article
+volume: '655'
+year: '2007'

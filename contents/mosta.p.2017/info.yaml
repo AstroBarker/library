@@ -1,0 +1,50 @@
+abstract: We investigate r-process nucleosynthesis in three-dimensional (3D) general-relativistic
+  magnetohydrodynamic simulations of rapidly rotating strongly magnetized core collapse.
+  The simulations include a microphysical finite-temperature equation of state and
+  a leakage scheme that captures the overall energetics and lepton number exchange
+  due to postbounce neutrino emission and absorption. We track the composition of
+  the ejected material using the nuclear reaction network SkyNet. Our results show
+  that the 3D dynamics of magnetorotational core-collapse supernovae (CCSN) are important
+  for their nucleosynthetic signature. We find that production of r-process material
+  beyond the second peak is reduced by a factor of 100 when the magnetorotational
+  jets produced by the rapidly rotating core undergo a kink instability. Our results
+  indicate that 3D magnetorotationally powered CCSNe are a robust r-process source
+  only if they are obtained by the collapse of cores with unrealistically large precollapse
+  magnetic fields of order $10^{13}$G. Additionally, a comparison simulation that
+  we restrict to axisymmetry, results in overly optimistic r-process production for
+  lower magnetic field strengths.
+adscomment: 10 pages, 9 figures, 2 tables. submitted to ApJ
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv171209370M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.09370
+author: Mösta, P. and Roberts, L. F. and Halevi, G. and Ott, C. D. and Lippuner, J.
+  and Haas, R. and Schnetter, E.
+author_list:
+- family: Mösta
+  given: P.
+- family: Roberts
+  given: L. F.
+- family: Halevi
+  given: G.
+- family: Ott
+  given: C. D.
+- family: Lippuner
+  given: J.
+- family: Haas
+  given: R.
+- family: Schnetter
+  given: E.
+date-added: 2018-03-08 15:44:35 +0000
+date-modified: 2018-03-08 15:44:36 +0000
+eprint: '1712.09370'
+journal: ArXiv e-prints
+keywords: Astrophysics - High Energy Astrophysical Phenomena
+month: December
+papis_id: cc36929982c35d2c1d1448ab8a20b263
+primaryclass: astro-ph.HE
+ref: mosta.p.2017
+title: R-process Nucleosynthesis from Three-Dimensional Magnetorotational Core-Collapse
+  Supernovae
+type: article
+year: '2017'

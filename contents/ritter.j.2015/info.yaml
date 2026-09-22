@@ -1,0 +1,50 @@
+abstract: To constrain the properties of the first stars with the chemical abundance
+  patterns observed in metal-poor stars, one must identify any non-trivial effects
+  that the hydrodynamics of metal dispersal can imprint on the abundances. We use
+  realistic cosmological hydrodynamic simulations to quantify the distribution of
+  metals resulting from one Population III supernova and from a small number of such
+  supernovae exploding in close succession. Overall, supernova ejecta are highly inhomogeneously
+  dispersed throughout the simulations. When the supernova bubbles collapse, quasi-virialized
+  metal-enriched clouds, fed by fallback from the bubbles and by streaming of metal-free
+  gas from the cosmic web, grow in the centres of the dark matter haloes. Partial
+  turbulent homogenization on scales resolved in the simulation is observed only in
+  the densest clouds where the vortical time-scales are short enough to ensure true
+  homogenization on subgrid scales. However, the abundances in the clouds differ from
+  the gross yields of the supernovae. Continuing the simulations until the cloud have
+  gone into gravitational collapse, we predict that the abundances in second-generation
+  stars will be deficient in the innermost mass shells of the supernova (if only one
+  has exploded) or in the ejecta of the latest supernovae (when multiple have exploded).
+  This indicates that hydrodynamics gives rise to biases complicating the identification
+  of nucleosynthetic sources in the chemical abundance spaces of the surviving stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.451.1190R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1408.0319
+author: Ritter, J. S. and Sluder, A. and Safranek-Shrader, C. and Milosavljević, M.
+  and Bromm, V.
+author_list:
+- family: Ritter
+  given: J. S.
+- family: Sluder
+  given: A.
+- family: Safranek-Shrader
+  given: C.
+- family: Milosavljević
+  given: M.
+- family: Bromm
+  given: V.
+date-added: 2017-08-11 07:03:58 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1093/mnras/stv982
+eprint: '1408.0319'
+journal: \mnras
+keywords: 'methods: numerical, stars: abundances, stars: Population II, galaxies:
+  dwarf, galaxies: formation, dark ages, reionization, first stars'
+month: August
+pages: 1190--1198
+papis_id: 890ecb6f529d3c5f02ea4ad26be75f5d
+ref: ritter.j.2015
+title: Metal transport and chemical heterogeneity in early star forming systems
+type: article
+volume: '451'
+year: '2015'

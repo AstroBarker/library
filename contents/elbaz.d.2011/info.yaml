@@ -1,0 +1,175 @@
+abstract: We present the deepest 100 to 500 mum far-infrared observations obtained
+  with the Herschel Space Observatory as part of the GOODS-Herschel key program, and
+  examine the infrared (IR) 3-500 mum spectral energy distributions (SEDs) of galaxies
+  at 0 < z < 2.5, supplemented by a local reference sample from IRAS, ISO, Spitzer,
+  and AKARI data. We determine the projected star formation densities of local galaxies
+  from their radio and mid-IR continuum sizes. We find that the ratio of total IR
+  luminosity to rest-frame 8 mum luminosity, IR8 (\equiv{} LIRtot), follows a Gaussian
+  distribution centered on IR8 = 4 (sigma = 1.6) and defines an IR main sequence for
+  star-forming galaxies independent of redshift and luminosity. Outliers from this
+  main sequence produce a tail skewed toward higher values of IR8. This minority population
+  (<20\%) is shown to consist of starbursts with compact projected star formation
+  densities. IR8 can be used to separate galaxies with normal and extended modes of
+  star formation from compact starbursts with high-IR8, high projected IR surface
+  brightness (SigmaIR > 3 \texttimes{} 1010 L\&sun; kpc-2) and a high specific star
+  formation rate (i.e., starbursts). The rest-frame, UV-2700 {\AA} size of these distant
+  starbursts is typically half that of main sequence galaxies, supporting the correlation
+  between star formation density and starburst activity that is measured for the local
+  sample. Locally, luminous and ultraluminous IR galaxies, (U)LIRGs (LIRtot), are
+  systematically in the starburst mode, whereas most distant (U)LIRGs form stars in
+  the "normal" main sequence mode. This confusion between two modes of star formation
+  is the cause of the so-called "mid-IR excess" population of galaxies found at z
+  > 1.5 by previous studies. Main sequence galaxies have strong polycyclic aromatic
+  hydrocarbon (PAH) emission line features, a broad far-IR bump resulting from a combination
+  of dust temperatures (Tdust ~ 15-50 K), and an effective Tdust ~ 31 K, as derived
+  from the peak wavelength of their infrared SED. Galaxies in the starburst regime
+  instead exhibit weak PAH equivalent widths and a sharper far-IR bump with an effective
+  Tdust ~ 40 K. Finally, we present evidence that the mid-to-far IR emission of X-ray
+  active galactic nuclei (AGN) is predominantly produced by star formation and that
+  candidate dusty AGNs with a power-law emission in the mid-IR systematically occur
+  in compact, dusty starbursts. After correcting for the effect of starbursts on IR8,
+  we identify new candidates for extremely obscured AGNs.  Herschel is an ESA space
+  observatory with science instruments provided by European-led Principal Investigator
+  consortia and with important participation from NASA.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...533A.119E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.2537
+author: Elbaz, D. and Dickinson, M. and Hwang, H. S. and Díaz-Santos, T. and Magdis,
+  G. and Magnelli, B. and Le Borgne, D. and Galliano, F. and Pannella, M. and Chanial,
+  P. and Armus, L. and Charmandaris, V. and Daddi, E. and Aussel, H. and Popesso,
+  P. and Kartaltepe, J. and Altieri, B. and Valtchanov, I. and Coia, D. and Dannerbauer,
+  H. and Dasyra, K. and Leiton, R. and Mazzarella, J. and Alexander, D. M. and Buat,
+  V. and Burgarella, D. and Chary, R.-R. and Gilli, R. and Ivison, R. J. and Juneau,
+  S. and Le Floc'h, E. and Lutz, D. and Morrison, G. E. and Mullaney, J. R. and Murphy,
+  E. and Pope, A. and Scott, D. and Brodwin, M. and Calzetti, D. and Cesarsky, C.
+  and Charlot, S. and Dole, H. and Eisenhardt, P. and Ferguson, H. C. and Förster
+  Schreiber, N. and Frayer, D. and Giavalisco, M. and Huynh, M. and Koekemoer, A.
+  M. and Papovich, C. and Reddy, N. and Surace, C. and Teplitz, H. and Yun, M. S.
+  and Wilson, G.
+author_list:
+- family: Elbaz
+  given: D.
+- family: Dickinson
+  given: M.
+- family: Hwang
+  given: H. S.
+- family: Díaz-Santos
+  given: T.
+- family: Magdis
+  given: G.
+- family: Magnelli
+  given: B.
+- family: Le Borgne
+  given: D.
+- family: Galliano
+  given: F.
+- family: Pannella
+  given: M.
+- family: Chanial
+  given: P.
+- family: Armus
+  given: L.
+- family: Charmandaris
+  given: V.
+- family: Daddi
+  given: E.
+- family: Aussel
+  given: H.
+- family: Popesso
+  given: P.
+- family: Kartaltepe
+  given: J.
+- family: Altieri
+  given: B.
+- family: Valtchanov
+  given: I.
+- family: Coia
+  given: D.
+- family: Dannerbauer
+  given: H.
+- family: Dasyra
+  given: K.
+- family: Leiton
+  given: R.
+- family: Mazzarella
+  given: J.
+- family: Alexander
+  given: D. M.
+- family: Buat
+  given: V.
+- family: Burgarella
+  given: D.
+- family: Chary
+  given: R.-R.
+- family: Gilli
+  given: R.
+- family: Ivison
+  given: R. J.
+- family: Juneau
+  given: S.
+- family: Le Floc'h
+  given: E.
+- family: Lutz
+  given: D.
+- family: Morrison
+  given: G. E.
+- family: Mullaney
+  given: J. R.
+- family: Murphy
+  given: E.
+- family: Pope
+  given: A.
+- family: Scott
+  given: D.
+- family: Brodwin
+  given: M.
+- family: Calzetti
+  given: D.
+- family: Cesarsky
+  given: C.
+- family: Charlot
+  given: S.
+- family: Dole
+  given: H.
+- family: Eisenhardt
+  given: P.
+- family: Ferguson
+  given: H. C.
+- family: Förster Schreiber
+  given: N.
+- family: Frayer
+  given: D.
+- family: Giavalisco
+  given: M.
+- family: Huynh
+  given: M.
+- family: Koekemoer
+  given: A. M.
+- family: Papovich
+  given: C.
+- family: Reddy
+  given: N.
+- family: Surace
+  given: C.
+- family: Teplitz
+  given: H.
+- family: Yun
+  given: M. S.
+- family: Wilson
+  given: G.
+date-added: 2017-08-10 23:52:02 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1051/0004-6361/201117239
+eid: A119
+eprint: '1105.2537'
+journal: \aap
+keywords: 'galaxies: active, infrared: galaxies, galaxies: evolution, galaxies: starburst'
+month: September
+pages: A119
+papis_id: 0e0205e77e51660f1e8ae7e70be478e0
+ref: elbaz.d.2011
+title: 'GOODS-Herschel: an infrared main sequence for star-forming galaxies'
+type: article
+volume: '533'
+year: '2011'

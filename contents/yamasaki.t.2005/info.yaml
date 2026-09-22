@@ -1,0 +1,43 @@
+abstract: In order to infer the effects of rotation on the revival of a stalled shock
+  in supernova explosions, we investigate steady accretion flows with a standing shock.
+  We first obtain a series of solutions for equations describing nonrotating, spherically
+  symmetric flows and confirm the results of preceding papers, that for a given mass
+  accretion rate, there is a critical luminosity of irradiating neutrinos above which
+  there exists no steady solution. Below the critical value, we find two branches
+  of solutions; one is stable and the other is unstable against radial perturbations.
+  With a simple argument based on the Riemann problem, we can identify the critical
+  luminosity as that at which the stalled shock revives. We also obtain a condition
+  satisfied by the flow velocity for the critical luminosity, which can easily be
+  applied to the rotational case. If a collapsing star rotates, the accretion flow
+  is nonspherical as a consequence of centrifugal forces. Flows are accelerated near
+  the rotation axis, whereas they are decelerated near the equatorial plane. As a
+  result, the critical luminosity is lowered; that is, rotation assists the revival
+  of a stalled shock. According to our calculations, the critical luminosity is ~25\%
+  lower for a mass accretion rate of 1 Msolar s-1 and a rotational frequency of 0.1
+  Hz at a radius of 1000 km than that for a spherically symmetric flow with the same
+  mass accretion rate. We find that the condition on the flow velocity at the critical
+  luminosity is first satisfied at the rotation axis. This suggests that shock revival
+  is triggered on the rotation axis and a jetlike explosion ensues.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...623.1000Y
+arxivurl: http://arxiv.org/abs/astro-ph/0412625
+author: Yamasaki, T. and Yamada, S.
+author_list:
+- family: Yamasaki
+  given: T.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 18:16:13 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/428496
+eprint: astro-ph/0412625
+journal: \apj
+keywords: 'Hydrodynamics, Shock Waves, Stars: Rotation, Stars: Supernovae: General'
+month: April
+pages: 1000--1010
+papis_id: 40029cd465128efb8d57bb73c415c52d
+ref: yamasaki.t.2005
+title: Effects of Rotation on the Revival of a Stalled Shock in Supernova Explosions
+type: article
+volume: '623'
+year: '2005'

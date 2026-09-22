@@ -1,0 +1,57 @@
+abstract: Spectroscopic observations of the soft X-ray transient 4U 1543-47 reveal
+  a radial velocity curve with a period of P = 1.123 +/- 0.008 days and a semiamplitude
+  of K2 = 124 +/- 4 km s-1. The resulting mass function is f(M) = 0.22 +/- 0.02 M\&sun;.
+  We classify the secondary star as A2 V, in agreement with previous work, and measure
+  Teff = 9000 +/- 500 K and E(B-V) = 0.50 +/- 0.05 from fits to synthetic spectra.
+  We derive a distance of d = 9.1 +/- 1.1 kpc if the secondary is on the main sequence.
+  We see no emission lines from the accretion disk, and the measured fractions of
+  disk light in the B- and V-bands are 10\% and 21\%, respectively. The V and I light
+  curves exhibit two waves per orbital cycle with amplitudes ~0.08 mag. We model the
+  light curves as ellipsoidal variations in the secondary star and derive extreme
+  inclination limits of 20$\,^{\circ}$ <= i <= 40\$\,^{\circ}\$. The formal 3 sigma
+  limits on the inclination from a simultaneous fit to the V and I light curves are
+  24\$\,^{\circ}\$ <= i <= 36\$\,^{\circ}\$ for a mass ratio Q \equiv{} M1/M2 >= 1.
+  However, there are systematic effects in the data that the model does not account
+  for, so the above constraints should be treated with caution. We argue that the
+  secondary star is still on the main sequence with the mass transfer being driven
+  by expansion due to normal main sequence evolution. If the secondary star has a
+  mass near the main sequence values for early A stars (2.3 <= M2 <= 2.6 M\&sun;),
+  then the best fits for the 3 sigma inclination range (24\$\,^{\circ}\$ <= i <= 36\$\,^{\circ}\$)
+  and the 3 sigma mass function range (0.16 <= f(M) <= 0.28 M\&sun;) imply a primary
+  mass in the range 2.7 <= M1 <= 7.5 M\&sun;. The mass of the compact object in 4U
+  1543-47 is likely to be in excess of ~3 M\&sun;, which is widely regarded as the
+  maximum mass of a stable neutron star. Thus we conclude that 4U 1543-47 most likely
+  contains a black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...499..375O
+arxivurl: http://arxiv.org/abs/astro-ph/9712018
+author: Orosz, J. A. and Jain, R. K. and Bailyn, C. D. and McClintock, J. E. and Remillard,
+  R. A.
+author_list:
+- family: Orosz
+  given: J. A.
+- family: Jain
+  given: R. K.
+- family: Bailyn
+  given: C. D.
+- family: McClintock
+  given: J. E.
+- family: Remillard
+  given: R. A.
+date-added: 2017-08-11 00:40:34 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305620
+eprint: astro-ph/9712018
+journal: \apj
+keywords: 'STARS: BINARIES: SPECTROSCOPIC, BLACK HOLE PHYSICS, X-RAYS: STARS, STARS:
+  INDIVIDUAL ALPHANUMERIC: 4U 1543-47, Stars: Binaries: Spectroscopic, Black Hole
+  Physics, Stars: Individual: Alphanumeric: 4U 1543-47, X-Rays: Stars'
+month: May
+pages: 375--384
+papis_id: 21adf1b3a54f7423ebb8dfed99959f51
+ref: orosz.j.1998
+title: 'Orbital Parameters for the Soft X-Ray Transient 4U 1543-47: Evidence for a
+  Black Hole'
+type: article
+volume: '499'
+year: '1998'

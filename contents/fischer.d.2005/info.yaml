@@ -1,0 +1,46 @@
+abstract: 'We have recently carried out spectral synthesis modeling to determine Teff,
+  logg, vsini, and [Fe/H] for 1040 FGK-type stars on the Keck, Lick, and Anglo-Australian
+  Telescope planet search programs. This is the first time that a single, uniform
+  spectroscopic analysis has been made for every star on a large Doppler planet search
+  survey. We identify a subset of 850 stars that have Doppler observations sufficient
+  to detect uniformly all planets with radial velocity semiamplitudes K>30 m s-1 and
+  orbital periods shorter than 4 yr. From this subset of stars, we determine that
+  fewer than 3\% of stars with -0.5<[Fe/H]<0.0 have Doppler-detected planets. Above
+  solar metallicity, there is a smooth and rapid rise in the fraction of stars with
+  planets. At [Fe/H]>+0.3 dex, 25\% of observed stars have detected gas giant planets.
+  A power-law fit to these data relates the formation probability for gas giant planets
+  to the square of the number of metal atoms. High stellar metallicity also appears
+  to be correlated with the presence of multiple-planet systems and with the total
+  detected planet mass. This data set was examined to better understand the origin
+  of high metallicity in stars with planets. None of the expected fossil signatures
+  of accretion are observed in stars with planets relative to the general sample:
+  (1) metallicity does not appear to increase as the mass of the convective envelopes
+  decreases, (2) subgiants with planets do not show dilution of metallicity, (3) no
+  abundance variations for Na, Si, Ti, or Ni are found as a function of condensation
+  temperature, and (4) no correlations between metallicity and orbital period or eccentricity
+  could be identified. We conclude that stars with extrasolar planets do not have
+  an accretion signature that distinguishes them from other stars; more likely, they
+  are simply born in higher metallicity molecular clouds.  Based on observations obtained
+  at Lick and Keck Observatories, operated by the University of California, and the
+  Anglo-Australian Observatories.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...622.1102F
+author: Fischer, D. A. and Valenti, J.
+author_list:
+- family: Fischer
+  given: D. A.
+- family: Valenti
+  given: J.
+date-added: 2017-08-10 20:45:41 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/428383
+journal: \apj
+keywords: 'Stars: Planetary Systems, Stars: Abundances, Stars: Fundamental Parameters'
+month: April
+pages: 1102--1117
+papis_id: cbbcba14c0fd48e27d8d1c4f03a00df6
+ref: fischer.d.2005
+title: The Planet-Metallicity Correlation
+type: article
+volume: '622'
+year: '2005'

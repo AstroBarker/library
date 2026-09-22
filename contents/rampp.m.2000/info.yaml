@@ -1,0 +1,43 @@
+abstract: We present a spherically symmetric, Newtonian core collapse simulation of
+  a 15 Msolar star with a 1.28 Msolar iron core. The time-, energy-, and angle-dependent
+  transport of electron neutrinos (nue) and antineutrinos (nue) was treated with a
+  new code that iteratively solves the Boltzmann equation and the equations for neutrino
+  number, energy, and momentum to order O(v/c) in the velocity v of the stellar medium.
+  The supernova shock expands to a maximum radius of 350 km instead of only ~240 km
+  as in a comparable calculation with multigroup flux-limited diffusion (MGFLD) by
+  Bruenn, Mezzacappa, \& Dineva. This may be explained by stronger neutrino heating
+  due to the more accurate transport in our model. Nevertheless, after 180 ms of expansion
+  the shock finally recedes to a radius around 250 km (compared to ~170 km in the
+  MGFLD run). The effect of an accurate neutrino transport is helpful but not large
+  enough to cause an explosion of the considered 15 Msolar star. Therefore, postshock
+  convection and/or an enhancement of the core neutrino luminosity by convection or
+  reduced neutrino opacities in the neutron star seem necessary for neutrino-driven
+  explosions of such stars. We find an electron fraction Ye>0.5 in the neutrino-heated
+  matter, which suggests that the overproduction problem of neutron-rich nuclei with
+  mass numbers A~90 in exploding models may be absent when a Boltzmann solver is used
+  for the nue and nue transport.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...539L..33R
+arxivurl: http://arxiv.org/abs/astro-ph/0005438
+author: Rampp, M. and Janka, H.-T.
+author_list:
+- family: Rampp
+  given: M.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:44:40 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/312837
+eprint: astro-ph/0005438
+journal: \apjl
+keywords: 'Elementary Particles, Hydrodynamics, Methods: Numerical, Stars: Supernovae:
+  General'
+month: August
+pages: L33-L36
+papis_id: 8dec322ae2e368b9dbed23e29b44e5c3
+ref: rampp.m.2000
+title: Spherically Symmetric Simulation with Boltzmann Neutrino Transport of Core
+  Collapse and Postbounce Evolution of a 15 M$_solar$ Star
+type: article
+volume: '539'
+year: '2000'

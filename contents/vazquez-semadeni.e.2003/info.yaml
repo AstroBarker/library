@@ -1,0 +1,48 @@
+abstract: We compile a holistic scenario for molecular cloud (MC) evolution and control
+  of the star formation efficiency (SFE) and present a first set of numerical tests
+  of it. A lossy compressible cascade can generate density fluctuations and further
+  turbulence at small scales from large-scale motions, implying that the turbulence
+  in MCs may originate from the compressions that form them. Below a sonic scale lambdas,
+  turbulence cannot induce any further subfragmentation nor can it be a dominant support
+  agent against gravity. Since progressively smaller density peaks contain progressively
+  smaller fractions of the mass, we expect the SFE to decrease with decreasing lambdas,
+  at least when the cloud is globally supported by turbulence. Our numerical experiments
+  confirm this prediction. We also find that the collapsed mass fraction in the simulations
+  always saturates below 100\% efficiency. This may be due to the decreased mean density
+  of the leftover interclump medium, which in real clouds (not confined to a box)
+  should then be more easily dispersed, marking the ``death'' of the cloud. We identify
+  two different functional dependences (``modes'') of the SFE on lambdas, which roughly
+  correspond to globally supported and unsupported cases. Globally supported runs
+  with most of the turbulent energy at the largest scales have similar SFEs to those
+  of unsupported runs, providing numerical evidence of the dual role of turbulence,
+  whereby turbulence, besides providing support, induces collapse at smaller scales
+  through its large-scale modes. We tentatively suggest that these modes may correspond
+  to the clustered and isolated modes of star formation, although here they are seen
+  to form part of a continuum rather than being separate modes. Finally, we compare
+  with previous proposals that the relevant parameter is the energy injection scale.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...585L.131V
+arxivurl: http://arxiv.org/abs/astro-ph/0301546
+author: Vázquez-Semadeni, E. and Ballesteros-Paredes, J. and Klessen, R. S.
+author_list:
+- family: Vázquez-Semadeni
+  given: E.
+- family: Ballesteros-Paredes
+  given: J.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-11 01:27:15 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/374325
+eprint: astro-ph/0301546
+journal: \apjl
+keywords: 'ISM: Clouds, Stars: Formation, Turbulence'
+month: March
+pages: L131-L134
+papis_id: a43acd8bf351046f10b7e1882a3c863a
+ref: vazquez_semadeni.e.2003
+title: 'A Holistic Scenario of Turbulent Molecular Cloud Evolution and Control of
+  the Star Formation Efficiency: First Tests'
+type: article
+volume: '585'
+year: '2003'

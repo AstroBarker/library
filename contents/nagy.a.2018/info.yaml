@@ -1,0 +1,43 @@
+abstract: Supernovae (SNe) are among the most intensely studied objects of modern
+  astrophysics, but due to their complex physical nature, theoretical models are essential
+  to better understand these exploding stars, as well as the properties of the variation
+  of the emitted radiation. One possibility for modeling SNe light curves (LCs) is
+  the construction of a simplified semianalytic model, which can be used for getting
+  order-of magnitude estimates of the SN properties. One of the strongest simplifications
+  in most of these LC models is the assumption of the constant Thomson-scattering
+  opacity that can be determined as the average opacity of the ejecta. Here we present
+  a systematic analysis for estimating the average opacity in different types of core-collapse
+  supernovae that can be used as the constant opacity of the ejecta in simplified
+  semianalytic models. To use these average opacities self-consistently during LC
+  fit, we estimate their values from hydrodynamic simulations. In this analysis, we
+  first generate MESA stellar models with different physical parameters (initial mass,
+  metallicity, and rotation), which determine the mass-loss history of the model star.
+  Then we synthesize SN LCs from these models with the SNEC hydrodynamic code and
+  calculate the Rosseland mean opacity in every mass element. Finally, we compute
+  the average opacities by integrating these Rosseland mean opacities. As a result,
+  we find that the average opacities from our calculations show adequate agreement
+  with the opacities generally used in previous studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...862..143N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1806.07188
+author: Nagy, A. P.
+author_list:
+- family: Nagy
+  given: A. P.
+date-added: 2018-08-27 15:10:49 -0400
+date-modified: 2018-08-27 15:10:50 -0400
+doi: 10.3847/1538-4357/aace56
+eid: '143'
+eprint: '1806.07188'
+journal: \apj
+keywords: 'methods: analytical, opacity, supernovae: general'
+month: August
+pages: '143'
+papis_id: 1211639e1bd2afe537d130e9ada28f68
+primaryclass: astro-ph.HE
+ref: nagy.a.2018
+title: Average Opacity Calculation for Core-collapse Supernovae
+type: article
+volume: '862'
+year: '2018'

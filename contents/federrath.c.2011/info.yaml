@@ -1,0 +1,55 @@
+abstract: Cosmic structure formation is characterized by the complex interplay between
+  gravity, turbulence, and magnetic fields. The processes by which gravitational energy
+  is converted into turbulent and magnetic energies, however, remain poorly understood.
+  Here, we show with high-resolution, adaptive-mesh simulations that MHD turbulence
+  is efficiently driven by extracting energy from the gravitational potential during
+  the collapse of a dense gas cloud. Compressible motions generated during the contraction
+  are converted into solenoidal, turbulent motions, leading to a natural energy ratio
+  of E sol/E tot \approx{} 2/3. We find that the energy injection scale of gravity-driven
+  turbulence is close to the local Jeans scale. If small seeds of the magnetic field
+  are present, they are amplified exponentially fast via the small-scale dynamo process.
+  The magnetic field grows most efficiently on the smallest scales, for which the
+  stretching, twisting, and folding of field lines, and the turbulent vortices are
+  sufficiently resolved. We find that this scale corresponds to about 30 grid cells
+  in the simulations. We thus suggest a new minimum resolution criterion of 30 cells
+  per Jeans length in (magneto)hydrodynamical simulations of self-gravitating gas,
+  in order to resolve turbulence on the Jeans scale, and to capture minimum dynamo
+  amplification of the magnetic field. Due to numerical diffusion, however, any existing
+  simulation today can at best provide lower limits on the physical growth rates.
+  We conclude that a small, initial magnetic field can grow to dynamically important
+  strength on timescales significantly shorter than the free-fall time of the cloud.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...731...62F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1102.0266
+author: Federrath, C. and Sur, S. and Schleicher, D. R. G. and Banerjee, R. and Klessen,
+  R. S.
+author_list:
+- family: Federrath
+  given: C.
+- family: Sur
+  given: S.
+- family: Schleicher
+  given: D. R. G.
+- family: Banerjee
+  given: R.
+- family: Klessen
+  given: R. S.
+date-added: 2017-08-10 15:37:55 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/731/1/62
+eid: '62'
+eprint: '1102.0266'
+journal: \apj
+keywords: 'dynamo, hydrodynamics, ISM: clouds, ISM: kinematics and dynamics, ISM:
+  structure, magnetohydrodynamics: MHD, methods: numerical, turbulence'
+month: April
+pages: '62'
+papis_id: 6300bf491e71e5834ac1486209186f52
+primaryclass: astro-ph.SR
+ref: federrath.c.2011
+title: 'A New Jeans Resolution Criterion for (M)HD Simulations of Self-gravitating
+  Gas: Application to Magnetic Field Amplification by Gravity-driven Turbulence'
+type: article
+volume: '731'
+year: '2011'

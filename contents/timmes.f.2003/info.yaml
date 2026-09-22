@@ -1,0 +1,46 @@
+abstract: We explore the idea that the observed variations in the peak luminosities
+  of Type Ia supernovae (SNe Ia) originate in part from a scatter in metallicity of
+  the main-sequence stars that become white dwarfs. Previous numerical studies have
+  not self-consistently explored metallicities greater than solar. One-dimensional
+  Chandrasekhar mass models of SNe Ia produce most of their 56Ni in a burn to nuclear
+  statistical equilibrium between the mass shells 0.2 and 0.8 Msolar, for which the
+  electron-to-nucleon ratio Ye is constant during the burn. We show analytically that
+  under these conditions, charge and mass conservation constrain the mass of 56Ni
+  produced to depend linearly on the original metallicity of the white dwarf progenitor.
+  Detailed postprocessing of W7-like models confirms this linear dependence. The effect
+  that we have identified is most evident at metallicities larger than solar and is
+  in agreement with previous self-consistent calculations over the metallicity range
+  common to both calculations. The observed scatter in the metallicity (1/3-3 Zsolar)
+  of the solar neighborhood is enough to induce a 25\% variation in the mass of 56Ni
+  ejected by SNe Ia. This is sufficient to vary the peak V-band brightness by \vert{}DeltaMV\vert{}~0.2.
+  This scatter in metallicity is present out to the limiting redshifts of current
+  observations (z<~1). Sedimentation of 22Ne can possibly amplify the variation in
+  56Ni mass to <~50\%. Further numerical studies can determine if other metallicity-induced
+  effects, such as a change in the mass of the 56Ni-producing region, offset or enhance
+  the variation that we identify.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...590L..83T
+arxivurl: http://arxiv.org/abs/astro-ph/0305114
+author: Timmes, F. X. and Brown, E. F. and Truran, J. W.
+author_list:
+- family: Timmes
+  given: F. X.
+- family: Brown
+  given: E. F.
+- family: Truran
+  given: J. W.
+date-added: 2017-08-11 08:05:08 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/376721
+eprint: astro-ph/0305114
+journal: \apjl
+keywords: 'Galaxies: Abundances, Galaxies: Evolution, Nuclear Reactions, Nucleosynthesis,
+  Abundances, Stars: Abundances, Stars: Supernovae: General'
+month: June
+pages: L83-L86
+papis_id: d963b9b2ca9a54a79af7a9922d3e7984
+ref: timmes.f.2003
+title: On Variations in the Peak Luminosity of Type Ia Supernovae
+type: article
+volume: '590'
+year: '2003'

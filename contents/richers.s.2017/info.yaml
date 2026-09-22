@@ -1,0 +1,57 @@
+abstract: The mechanism driving core-collapse supernovae is sensitive to the interplay
+  between matter and neutrino radiation. However, neutrino radiation transport is
+  very difficult to simulate, and several radiation transport methods of varying levels
+  of approximation are available. We carefully compare for the first time in multiple
+  spatial dimensions the discrete ordinates (DO) code of Nagakura, Yamada, and Sumiyoshi
+  and the Monte Carlo (MC) code Sedonu, under the assumptions of a static fluid background,
+  flat spacetime, elastic scattering, and full special relativity. We find remarkably
+  good agreement in all spectral, angular, and fluid interaction quantities, lending
+  confidence to both methods. The DO method excels in determining the heating and
+  cooling rates in the optically thick region. The MC method predicts sharper angular
+  features due to the effectively infinite angular resolution, but struggles to drive
+  down noise in quantities where subtractive cancellation is prevalent, such as the
+  net gain in the protoneutron star and off-diagonal components of the Eddington tensor.
+  We also find that errors in the angular moments of the distribution functions induced
+  by neglecting velocity dependence are subdominant to those from limited momentum-space
+  resolution. We briefly compare directly computed second angular moments to those
+  predicted by popular algebraic two-moment closures, and we find that the errors
+  from the approximate closures are comparable to the difference between the DO and
+  MC methods. Included in this work is an improved Sedonu code, which now implements
+  a fully special relativistic, time-independent version of the grid-agnostic MC random
+  walk approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJ...847..133R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1706.06187
+author: Richers, S. and Nagakura, H. and Ott, C. D. and Dolence, J. and Sumiyoshi,
+  K. and Yamada, S.
+author_list:
+- family: Richers
+  given: S.
+- family: Nagakura
+  given: H.
+- family: Ott
+  given: C. D.
+- family: Dolence
+  given: J.
+- family: Sumiyoshi
+  given: K.
+- family: Yamada
+  given: S.
+date-added: 2018-04-25 23:56:15 +0000
+date-modified: 2018-04-25 23:56:16 +0000
+doi: 10.3847/1538-4357/aa8bb2
+eid: '133'
+eprint: '1706.06187'
+journal: \apj
+keywords: 'neutrinos, radiative transfer, supernovae: general'
+month: October
+pages: '133'
+papis_id: 622edf3cacbeed194aa51a8d35456449
+primaryclass: astro-ph.HE
+ref: richers.s.2017
+title: A Detailed Comparison of Multidimensional Boltzmann Neutrino Transport Methods
+  in Core-collapse Supernovae
+type: article
+volume: '847'
+year: '2017'

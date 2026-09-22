@@ -1,0 +1,50 @@
+abstract: 'Aims: In gamma-ray-bursts (GRBs), ultra-relativistic blast waves are ejected
+  into the circumburst medium. We analyse in unprecedented detail the deceleration
+  of a self-similar Blandford-McKee blast wave from a Lorentz factor 25 to the nonrelativistic
+  Sedov phase. Our goal is to determine the stability properties of its frontal shock.  Methods:
+  We carried out a grid-adaptive relativistic 2D hydro-simulation at extreme resolving
+  power, following the GRB jet during the entire afterglow phase. We investigate the
+  effect of the finite initial jet opening angle on the deceleration of the blast
+  wave, and identify the growth of various instabilities throughout the coasting shock
+  front.  Results: We find that during the relativistic phase, the blast wave is subject
+  to pressure-ram pressure instabilities that ripple and fragment the frontal shock.
+  These instabilities manifest themselves in the ultra-relativistic phase alone, remain
+  in full agreement with causality arguments, and decay slowly to finally disappear
+  in the near-Newtonian phase as the shell Lorentz factor drops below 3. From then
+  on, the compression rate decreases to levels predicted to be stable by a linear
+  analysis of the Sedov phase. Our simulations confirm previous findings that the
+  shell also spreads laterally because a rarefaction wave slowly propagates to the
+  jet axis, inducing a clear shell deformation from its initial spherical shape. The
+  blast front becomes meridionally stratified, with decreasing speed from axis to
+  jet edge. In the wings of the jetted flow, Kelvin-Helmholtz instabilities occur,
+  which are of negligible importance from the energetic viewpoint.  Conclusions: Relativistic
+  blast waves are subject to hydrodynamical instabilities that can significantly affect
+  their deceleration properties. Future work will quantify their effect on the afterglow
+  light curves.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...520L...3M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.1224
+author: Meliani, Z. and Keppens, R.
+author_list:
+- family: Meliani
+  given: Z.
+- family: Keppens
+  given: R.
+date-added: 2017-08-11 01:55:59 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/201015423
+eid: L3
+eprint: '1009.1224'
+journal: \aap
+keywords: 'hydrodynamics, instabilities, relativistic processes, galaxies: jets, gamma-ray
+  burst: general'
+month: September
+pages: L3
+papis_id: e6a1ab37215f98942778bbb99120786e
+primaryclass: astro-ph.HE
+ref: meliani.z.2010
+title: Dynamics and stability of relativistic gamma-ray-bursts blast waves
+type: article
+volume: '520'
+year: '2010'

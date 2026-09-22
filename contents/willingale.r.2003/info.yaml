@@ -1,0 +1,55 @@
+abstract: Further analysis of X-ray spectroscopy results (Willingale et al. \cite{Wil02})
+  recently obtained from the MOS CCD cameras on-board XMM-Newton provides a detailed
+  description of the hot and cool X-ray emitting plasma in Cas A. Measurement of the
+  Doppler broadening of the X-ray emission lines is consistent with the expected ion
+  velocities,  ~ 1500 km s-1 along the line of sight, in the post shock plasma. Assuming
+  a distance of 3.4 kpc, a constant total pressure throughout the remnant and combining
+  the X-ray observations with optical measurements we estimate the total remnant mass
+  as 10 Msun and the total thermal energy as 7\textasteriskcenteredE43 J. We derive
+  the differential mass distribution as a function of ionisation age for the hot and
+  cool X-ray emitting components. This distribution is consistent with a hot component
+  dominated by swept up mass heated by the primary shock and a cool component which
+  are ablated clumpy ejecta material which were and are still being heated by interaction
+  with the preheated swept up material. We calculate a balanced mass and energy budget
+  for the supernova explosion giving a grand total of 1.0\textasteriskcenteredE44
+  J in an ejected mass; approximately  ~ 0.4 Msun of the ejecta were diffuse with
+  an initial rms velocity  ~ 1.5\textasteriskcenteredE4 km s-1 while the remaining  ~
+  1.8 Msun were clumpy with an initial rms velocity of  ~ 2400 km s-1. Using the Doppler
+  velocity measurements of the X-ray spectral lines we can project the mass into spherical
+  coordinates about the remnant. This provides quantitative evidence for mass and
+  energy beaming in the supernova explosion. The mass and energy occupy less than
+  4.5 sr (<40\% of the available solid angle) around the remnant and 64\% of the mass
+  occurs in two jets within 45 degrees of a jet axis. We calculate a swept up mass
+  of 7.9 Msun in the emitting plasma and estimate that the total mass lost from the
+  progenitor prior to the explosion could be as high as  ~ 20 Msun. We suggest that
+  the progenitor was a Wolf-Rayet star that formed a dense nebular shell before the
+  supernova explosion. This shell underwent heating by the primary shock which was
+  energized by the fast diffuse ejecta.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003A\%26A...398.1021W
+arxivurl: http://arxiv.org/abs/astro-ph/0207273
+author: Willingale, R. and Bleeker, J. A. M. and van der Heyden, K. J. and Kaastra,
+  J. S.
+author_list:
+- family: Willingale
+  given: R.
+- family: Bleeker
+  given: J. A. M.
+- family: van der Heyden
+  given: K. J.
+- family: Kaastra
+  given: J. S.
+date-added: 2017-08-11 01:07:16 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1051/0004-6361:20021554
+eprint: astro-ph/0207273
+journal: \aap
+keywords: 'ISM: supernova remnants, X-rays: ISM'
+month: February
+pages: 1021--1028
+papis_id: 2e5f46c4da043e13518b81fc6f7124f9
+ref: willingale.r.2003
+title: The mass and energy budget of Cassiopeia A
+type: article
+volume: '398'
+year: '2003'

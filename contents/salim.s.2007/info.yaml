@@ -1,0 +1,95 @@
+abstract: We measure star formation rates (SFRs) of ~50,000 optically selected galaxies
+  in the local universe (z~0.1)-from gas-rich dwarfs to massive ellipticals. We obtain
+  dust-corrected SFRs by fitting the GALEX (ultraviolet) and SDSS photometry to a
+  library of dust-attenuated population synthesis models. For star-forming galaxies,
+  our UV-based SFRs compare remarkably well with those from SDSS-measured emission
+  lines (Halpha). Deviations from perfect agreement are shown to be due to differences
+  in the dust attenuation estimates. In contrast to Halpha measurements, UV provides
+  reliable SFRs for galaxies with weak Halpha, and where Halpha is contaminated with
+  AGN emission (1/2 of the sample). Using full-SED SFRs, we calibrate a simple prescription
+  that uses GALEX far- and near-UV magnitudes to produce dust-corrected SFRs for normal
+  star-forming galaxies. The specific SFR is considered as a function of stellar mass
+  for (1) star-forming galaxies with no AGNs, (2) those hosting an AGN, and (3) galaxies
+  without Halpha emission. We find that the three have distinct star formation histories,
+  with AGNs lying intermediate between the star-forming and the quiescent galaxies.
+  Star-forming galaxies without an AGN lie on a relatively narrow linear sequence.
+  Remarkably, galaxies hosting a strong AGN appear to represent the massive continuation
+  of this sequence. On the other hand, weak AGNs, while also massive, have lower SFRs,
+  sometimes extending to the realm of quiescent galaxies. We propose an evolutionary
+  sequence for massive galaxies that smoothly connects normal star-forming galaxies
+  to quiescent galaxies via strong and weak AGNs. We confirm that some galaxies with
+  no Halpha show signs of star formation in the UV. We derive a cosmic star formation
+  density at z=0.1 with significantly smaller total error than previous measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..173..267S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.3611
+author: Salim, S. and Rich, R. M. and Charlot, S. and Brinchmann, J. and Johnson,
+  B. D. and Schiminovich, D. and Seibert, M. and Mallery, R. and Heckman, T. M. and
+  Forster, K. and Friedman, P. G. and Martin, D. C. and Morrissey, P. and Neff, S.
+  G. and Small, T. and Wyder, T. K. and Bianchi, L. and Donas, J. and Lee, Y.-W. and
+  Madore, B. F. and Milliard, B. and Szalay, A. S. and Welsh, B. Y. and Yi, S. K.
+author_list:
+- family: Salim
+  given: S.
+- family: Rich
+  given: R. M.
+- family: Charlot
+  given: S.
+- family: Brinchmann
+  given: J.
+- family: Johnson
+  given: B. D.
+- family: Schiminovich
+  given: D.
+- family: Seibert
+  given: M.
+- family: Mallery
+  given: R.
+- family: Heckman
+  given: T. M.
+- family: Forster
+  given: K.
+- family: Friedman
+  given: P. G.
+- family: Martin
+  given: D. C.
+- family: Morrissey
+  given: P.
+- family: Neff
+  given: S. G.
+- family: Small
+  given: T.
+- family: Wyder
+  given: T. K.
+- family: Bianchi
+  given: L.
+- family: Donas
+  given: J.
+- family: Lee
+  given: Y.-W.
+- family: Madore
+  given: B. F.
+- family: Milliard
+  given: B.
+- family: Szalay
+  given: A. S.
+- family: Welsh
+  given: B. Y.
+- family: Yi
+  given: S. K.
+date-added: 2017-08-11 03:27:51 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/519218
+eprint: '0704.3611'
+journal: \apjs
+keywords: 'Galaxies: Active, Galaxies: Evolution, Galaxies: Fundamental Parameters,
+  Surveys, Ultraviolet: Galaxies'
+month: December
+pages: 267--292
+papis_id: 0fd212ed24509128399f78a8547c2f05
+ref: salim.s.2007
+title: UV Star Formation Rates in the Local Universe
+type: article
+volume: '173'
+year: '2007'

@@ -1,0 +1,54 @@
+abstract: We present three-dimensional magnetohydrodynamical simulations of the nonlinear
+  evolution of the magnetorotational instability (Balbus \& Hawley 1991) in an initially
+  isothermal, vertically stratified accretion disk. The simulations are local in the
+  plane of the disk, but are global in the vertical direction in the sense that the
+  computational domain encompasses several scale heights. We find that the instability
+  generates and maintains magnetohydrodynamic turbulence in stratified disks. The
+  properties of the saturated, turbulent state are similar to those reported for nonstratified
+  homogeneous boxes, e.g., the power-law spectral distribution is consistent with
+  Kolmogorov. The angular momentum transport rate is proportional to the magnetic
+  pressure; if the average rate is scaled to the equatorial pressure, as in a standard
+  "alpha-disk" model, the constant of proportionality is alpha \lessequivlnt{} 0.01
+  for most of our simulations. This value may be limited somewhat by the numerical
+  resolution of our simulations. We find buoyancy does not play an important role
+  as a saturation mechanism. The nonlinear evolution of disks that begin with a variety
+  of initial magnetic field geometries and strengths is similar. In particular, models
+  in which the most unstable wavelengths are initially well resolved saturate at and
+  maintain roughly the same magnetic energy density, suggesting dynamo action in the
+  disk.  We use the simulations to study the effect of the instability on the vertical
+  structure of magnetic accretion disks. After saturation, the disk consists of a
+  weakly magnetized core surrounded by a strongly magnetized corona. Changing the
+  vertical boundary conditions does not significantly alter this structure. The vertical
+  flux of magnetic energy is small compared to the local magnetic energy generation
+  and dissipation rates. The disk is stable to Parker and buoyancy modes. Models evolved
+  with an adiabatic equation of state undergo substantial heating due to nonlinear
+  dissipation, resulting in an increase in the scale height of the disk. The vertical
+  structure produced by the instability, particularly the presence of a strongly magnetized
+  corona, may have relevance to the production of MHD winds from disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...463..656S
+author: Stone, J. M. and Hawley, J. F. and Gammie, C. F. and Balbus, S. A.
+author_list:
+- family: Stone
+  given: J. M.
+- family: Hawley
+  given: J. F.
+- family: Gammie
+  given: C. F.
+- family: Balbus
+  given: S. A.
+date-added: 2017-08-10 14:46:55 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/177280
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, INSTABILITIES, MAGNETOHYDRODYNAMICS: MHD, METHODS:
+  NUMERICAL'
+month: June
+pages: '656'
+papis_id: 3fb101352311753fc64c82eb84607b51
+ref: stone.j.1996a
+title: Three-dimensional Magnetohydrodynamical Simulations of Vertically Stratified
+  Accretion Disks
+type: article
+volume: '463'
+year: '1996'

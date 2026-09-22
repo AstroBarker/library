@@ -1,0 +1,37 @@
+abstract: In two-dimensional spectrographs, the optical distortions in the spatial
+  and dispersion directions produce variations in the subpixel sampling of the background
+  spectrum. Using knowledge of the camera distortions and the curvature of the spectral
+  features, one can recover information regarding the background spectrum on wavelength
+  scales much smaller than a pixel. As a result, one can propagate this better sampled
+  background spectrum through inverses of the distortion and rectification transformations
+  and accurately model the background spectrum in two-dimensional spectra for which
+  the distortions have not been removed (i.e., the data have not been rebinned/rectified).
+  The procedure, as outlined in this paper, is extremely insensitive to cosmic rays,
+  hot pixels, etc. Because of this insensitivity to discrepant pixels, sky modeling
+  and subtraction need not be performed as one of the later steps in a reduction pipeline.
+  Sky subtraction can now be performed as one of the earliest tasks, perhaps just
+  after dividing by a flat field. Because subtraction of the background can be performed
+  without having to ``clean'' cosmic rays, such bad pixel values can be trivially
+  identified after removal of the two-dimensional sky background.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003PASP..115..688K
+arxivurl: http://arxiv.org/abs/astro-ph/0303507
+author: Kelson, D. D.
+author_list:
+- family: Kelson
+  given: D. D.
+date-added: 2017-08-11 07:35:42 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/375502
+eprint: astro-ph/0303507
+journal: \pasp
+keywords: 'Methods: Data Analysis, Techniques: Spectroscopic'
+month: June
+pages: 688--699
+papis_id: 3e39a125d69e462f9d737c6674b19e40
+ref: kelson.d.2003
+title: 'Optimal Techniques in Two-dimensional Spectroscopy: Background Subtraction
+  for the 21st Century'
+type: article
+volume: '115'
+year: '2003'

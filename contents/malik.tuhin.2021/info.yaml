@@ -1,0 +1,35 @@
+abstract: We develop a new equation of state (EoS) table involving thermal (anti)kaons,
+  Bose-Einstein condensate of $K^{-}$ mesons and \$\Lambda\$-hyperons for core-collapse
+  supernova and neutron star merger simulations. This EoS table is based on a finite
+  temperature density-dependent relativistic hadron field theory where baryon-baryon
+  interaction is mediated by scalar \$\sigma\$, vector \$\omega\$ and \$\rho\$ mesons,
+  using the parameter set DD2 for nucleons. The repulsive hyperon-hyperon interaction
+  is mediated by an additional strange \$\phi\$ meson. The EoS for the \$K^-\$ condensed
+  matter is also calculated within the framework of relativistic mean field model,
+  whereas the low-density, inhomogeneous matter is calculated in the extended Nuclear
+  Statistical Equilibrium model (NSE). The EoS table is generated for a wide range
+  of values of three parameters - baryon density (\$10^{-12}\$ to \$\sim\$ 1 fm\$^{-3}\$),
+  positive charge fraction(0.01 to 0.60) and temperature(0.1 to 158.48 MeV).
+archiveprefix: arXiv
+author: Malik, Tuhin and Banik, Sarmistha and Bandyopadhyay, Debades
+author_list:
+- family: Malik
+  given: Tuhin
+- family: Banik
+  given: Sarmistha
+- family: Bandyopadhyay
+  given: Debades
+doi: 10.3847/1538-4357/abe860
+eprint: '2104.00775'
+file: :malik2021 - Equation of State Table with Hyperon and Antikaon for Supernova
+  and Neutron Star Merger.pdf:PDF
+journal: The Astrophysical Journal, Volume 910, Number 2, 2021
+keywords: astro-ph.HE, nucl-th
+month: April
+papis_id: b1ba4d03749cfd756ed5673f0c842146
+primaryclass: astro-ph.HE
+ref: malik.tuhin.2021
+title: Equation of State table with hyperon and antikaon for supernova and neutron
+  star merger
+type: article
+year: '2021'

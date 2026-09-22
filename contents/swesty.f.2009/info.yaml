@@ -1,0 +1,49 @@
+abstract: 'It is now generally agreed that multidimensional, multigroup, neutrino-radiation
+  hydrodynamics (RHD) is an indispensable element of any realistic model of stellar-core
+  collapse, core-collapse supernovae, and proto-neutron star instabilities. We have
+  developed a new, two-dimensional, multigroup algorithm that can model neutrino-RHD
+  flows in core-collapse supernovae. Our algorithm uses an approach similar to the
+  ZEUS family of algorithms, originally developed by Stone and Norman. However, this
+  completely new implementation extends that previous work in three significant ways:
+  first, we incorporate multispecies, multigroup RHD in a flux-limited-diffusion approximation.
+  Our approach is capable of modeling pair-coupled neutrino-RHD, and includes effects
+  of Pauli blocking in the collision integrals. Blocking gives rise to nonlinearities
+  in the discretized radiation-transport equations, which we evolve implicitly in
+  time. We employ parallelized Newton-Krylov methods to obtain a solution of these
+  nonlinear, implicit equations. Our second major extension to the ZEUS algorithm
+  is the inclusion of an electron conservation equation that describes the evolution
+  of electron-number density in the hydrodynamic flow. This permits calculating deleptonization
+  of a stellar core. Our third extension modifies the hydrodynamics algorithm to accommodate
+  realistic, complex equations of state, including those having nonconvex behavior.
+  In this paper, we present a description of our complete algorithm, giving sufficient
+  details to allow others to implement, reproduce, and extend our work. Finite-differencing
+  details are presented in appendices. We also discuss implementation of this algorithm
+  on state-of-the-art, parallel-computing architectures. Finally, we present results
+  of verification tests that demonstrate the numerical accuracy of this algorithm
+  on diverse hydrodynamic, gravitational, radiation-transport, and RHD sample problems.
+  We believe our methods to be of general use in a variety of model settings where
+  radiation transport or RHD is important. Extension of this work to three spatial
+  dimensions is straightforward.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..181....1S
+author: Swesty, F. D. and Myra, E. S.
+author_list:
+- family: Swesty
+  given: F. D.
+- family: Myra
+  given: E. S.
+date-added: 2017-08-10 19:41:45 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0067-0049/181/1/1
+journal: \apjs
+keywords: 'hydrodynamics, radiative transfer, methods: numerical, supernovae: general,
+  stars: interiors'
+month: March
+pages: 1--52
+papis_id: d18768137090949d0574491494b8477c
+ref: swesty.f.2009
+title: A Numerical Algorithm for Modeling Multigroup Neutrino-Radiation Hydrodynamics
+  in Two Spatial Dimensions
+type: article
+volume: '181'
+year: '2009'

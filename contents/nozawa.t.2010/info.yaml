@@ -1,0 +1,69 @@
+abstract: The amount and size of dust formed in the ejecta of core-collapse supernovae
+  (CCSNe) and injected into the interstellar medium (ISM) depend on the type of CCSNe
+  through the varying thicknesses of their outer envelopes. Recently Cas A was identified
+  as a Type IIb SN (SN IIb) that is characterized by a small-mass hydrogen envelope.
+  In order to clarify how the amount of dust formed in the ejecta and supplied into
+  the ISM depends on the type of CCSNe, we investigate the formation of dust grains
+  in the ejecta of an SN IIb and their evolution in the shocked gas in the SN remnant
+  (SNR) by considering two sets of density structures (uniform and power-law profiles)
+  for the circumstellar medium (CSM). Based on these calculations, we also simulate
+  the time evolution of thermal emission from the shock-heated dust in the SNR and
+  compare the results with the observations of Cas A SNR. We find that the total mass
+  of dust formed in the ejecta of an SN IIb is as large as 0.167 M sun but the average
+  radius of dust is smaller than 0.01 mum and is significantly different from those
+  in SNe II-P with massive hydrogen envelopes; in the explosion with the small-mass
+  hydrogen envelope, the expanding He core undergoes little deceleration, so that
+  the gas density in the He core is too low for large-sized grains to form. In addition,
+  the low-mass hydrogen envelope of the SN IIb leads to the early arrival of the reverse
+  shock at the dust-forming region. If the CSM is more or less spherical, then the
+  newly formed small grains would be completely destroyed in the relatively dense
+  shocked gas for the CSM hydrogen density of n H>0.1 cm-3 without being injected
+  into the ISM. However, the actual CSM is likely to be non-spherical, so a portion
+  of the dust grains could be ejected into the ISM without being shocked. We demonstrate
+  that the temporal evolution of the spectral energy distribution (SED) by thermal
+  emission from dust is sensitive to the ambient gas density and structure that affects
+  the passage of the reverse shock into the ejecta. Thus, the SED evolution reflects
+  the evolution of dust through erosion by sputtering and stochastic heating. For
+  Cas A, we consider the CSM produced by the steady mass loss of \dot{M} ~= 8 \texttimes{}
+  10^{-5} M sun yr-1 during the supergiant phase. Then we find that the observed infrared
+  SED of Cas A is reasonably reproduced by thermal emission from the newly formed
+  dust of 0.08 M sun, which consists of the 0.008 M sun shock-heated warm dust and
+  0.072 M sun unshocked cold dust.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713..356N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.4145
+author: Nozawa, T. and Kozasa, T. and Tominaga, N. and Maeda, K. and Umeda, H. and
+  Nomoto, K. and Krause, O.
+author_list:
+- family: Nozawa
+  given: T.
+- family: Kozasa
+  given: T.
+- family: Tominaga
+  given: N.
+- family: Maeda
+  given: K.
+- family: Umeda
+  given: H.
+- family: Nomoto
+  given: K.
+- family: Krause
+  given: O.
+date-added: 2017-08-11 01:07:31 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/1/356
+eprint: '0909.4145'
+journal: \apj
+keywords: 'dust, extinction, infrared: ISM, ISM: supernova remnants, shock waves,
+  supernovae: general, supernovae: individual: Cassiopeia A'
+month: April
+pages: 356--373
+papis_id: 0e4adc355e3fe84b8b727c7289506c3c
+primaryclass: astro-ph.SR
+ref: nozawa.t.2010
+title: Formation and Evolution of Dust in Type IIb Supernovae with Application to
+  the Cassiopeia A Supernova Remnant
+type: article
+volume: '713'
+year: '2010'

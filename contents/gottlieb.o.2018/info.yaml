@@ -1,0 +1,51 @@
+abstract: 'The short Gamma-Ray Burst, GRB 170817A, that followed the binary neutron
+  star merger gravitational waves signal, GW170817, is not a usual short gamma-ray
+  burst (sGRB). It is weaker by three orders of magnitude than the weakest sGRB seen
+  before and its spectrum, showing a hard early signal followed by a softer thermal
+  spectrum, is unique. We show, first, that the gamma-rays must have emerged from
+  at least mildly relativistic outflow, implying that a relativistic jet was launched
+  following the merger. We then show that the observations are consistent with the
+  predictions of a mildly relativistic shock breakout: a minute gamma-ray energy as
+  compared with the total energy and a rather smooth light curve with a hard to soft
+  evolution. We present here a novel analytic study and detailed numerical 2D and
+  3D relativistic hydrodynamic and radiation simulations that support the picture
+  in which the observed gamma-rays arose from a shock breakout of a cocoon from the
+  merger''s ejecta . The cocoon can be formed either by a choked jet which does not
+  generate an sGRB (in any direction) or by a successful jet which generates an undetected
+  regular sGRB along the system''s axis pointing away from us. Remarkably, for the
+  choked jet model, the macronova signal produced by the ejecta (which is partially
+  boosted to high velocities by the cocoon''s shock) and the radio that is produced
+  by the interaction of the shocked cocoon material with the surrounding matter agree
+  with the observed ultraviolet/optical/infrared emission and with current radio observations.
+  Finally, we discuss the possibility that the jet propagation within the ejecta may
+  photodissociate some of the heavy elements and may affect the composition of a fraction
+  of ejecta and, in turn, the opacity and the early macronova light.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.479..588G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1710.05896
+author: Gottlieb, O. and Nakar, E. and Piran, T. and Hotokezaka, K.
+author_list:
+- family: Gottlieb
+  given: O.
+- family: Nakar
+  given: E.
+- family: Piran
+  given: T.
+- family: Hotokezaka
+  given: K.
+date-added: 2018-08-27 15:14:27 -0400
+date-modified: 2018-08-27 15:14:29 -0400
+doi: 10.1093/mnras/sty1462
+eprint: '1710.05896'
+journal: \mnras
+keywords: 'gravitational waves, methods: numerical, stars: neutron'
+month: September
+pages: 588--600
+papis_id: 7aaac62ad27ffa72bb1453d1373720b0
+primaryclass: astro-ph.HE
+ref: gottlieb.o.2018
+title: A cocoon shock breakout as the origin of the $γ$-ray emission in GW170817
+type: article
+volume: '479'
+year: '2018'

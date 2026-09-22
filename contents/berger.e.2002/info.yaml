@@ -1,0 +1,41 @@
+abstract: We report the discovery and monitoring of radio emission from the Type Ic
+  supernova SN 2002ap ranging in frequency from 1.43 to 22.5 GHz and in time from
+  4 to 50 days after the SN explosion. As in most other radio SNe, the radio spectrum
+  of SN 2002ap shows evidence for absorption at low frequencies, usually attributed
+  to synchrotron self-absorption (SSA) or free-free absorption. While it is difficult
+  to discriminate between these two processes based on a goodness of fit, the unabsorbed
+  emission in the free-free model requires an unreasonably large ejecta energy. Therefore,
+  on physical grounds we favor the SSA model. In the SSA framework, at about day 2,
+  the shock speed is ~0.3c, the energy in relativistic electrons and magnetic fields
+  is ~1.5\texttimes{}1045 ergs, and the inferred progenitor mass-loss rate is ~5\texttimes{}10-7
+  Msolar yr-1 (assuming a 103 km s-1 wind). These properties are consistent with a
+  model in which the outer, high-velocity SN ejecta interact with the progenitor wind.
+  The amount of relativistic ejecta in this model is small, so the presence of broad
+  lines in the spectrum of a Type Ib/c SN as observed in SN 2002ap is not a reliable
+  indicator of relativistic ejecta and hence gamma-ray emission.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577L...5B
+arxivurl: http://arxiv.org/abs/astro-ph/0206183
+author: Berger, E. and Kulkarni, S. R. and Chevalier, R. A.
+author_list:
+- family: Berger
+  given: E.
+- family: Kulkarni
+  given: S. R.
+- family: Chevalier
+  given: R. A.
+date-added: 2017-08-10 16:55:49 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/344045
+eprint: astro-ph/0206183
+journal: \apjl
+keywords: 'Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal, Radio Continuum:
+  General, Stars: Supernovae: Individual: Alphanumeric: SN 2002ap'
+month: September
+pages: L5-L8
+papis_id: b5361fd822a0586935e3f895962f4315
+ref: berger.e.2002
+title: The Radio Evolution of the Ordinary Type Ic Supernova SN 2002ap
+type: article
+volume: '577'
+year: '2002'

@@ -1,0 +1,62 @@
+abstract: 'We conduct a series of numerical experiments into the nature of three-dimensional
+  (3D) hydrodynamics in the postbounce stalled-shock phase of core-collapse supernovae
+  using 3D general-relativistic hydrodynamic simulations of a 27 M\&sun; progenitor
+  star with a neutrino leakage/heating scheme. We vary the strength of neutrino heating
+  and find three cases of 3D dynamics: (1) neutrino-driven convection, (2) initially
+  neutrino-driven convection and subsequent development of the standing accretion
+  shock instability (SASI), and (3) SASI-dominated evolution. This confirms previous
+  3D results of Hanke et al. and Couch \& Connor. We carry out simulations with resolutions
+  differing by up to a factor of \texttildelow{}4 and demonstrate that low resolution
+  is artificially favorable for explosion in the 3D convection-dominated case since
+  it decreases the efficiency of energy transport to small scales. Low resolution
+  results in higher radial convective fluxes of energy and enthalpy, more fully buoyant
+  mass, and stronger neutrino heating. In the SASI-dominated case, lower resolution
+  damps SASI oscillations. In the convection-dominated case, a quasi-stationary angular
+  kinetic energy spectrum E(l) develops in the heating layer. Like other 3D studies,
+  we find E(l) \propto{}l-1 in the ``inertial range,'''' while theory and local simulations
+  argue for E(l) \propto{} l-5/3. We argue that current 3D simulations do not resolve
+  the inertial range of turbulence and are affected by numerical viscosity up to the
+  energy-containing scale, creating a ``bottleneck'''' that prevents an efficient
+  turbulent cascade.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...808...70A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1409.7078
+author: Abdikamalov, E. and Ott, C. D. and Radice, D. and Roberts, L. F. and Haas,
+  R. and Reisswig, C. and Mösta, P. and Klion, H. and Schnetter, E.
+author_list:
+- family: Abdikamalov
+  given: E.
+- family: Ott
+  given: C. D.
+- family: Radice
+  given: D.
+- family: Roberts
+  given: L. F.
+- family: Haas
+  given: R.
+- family: Reisswig
+  given: C.
+- family: Mösta
+  given: P.
+- family: Klion
+  given: H.
+- family: Schnetter
+  given: E.
+date-added: 2017-08-10 14:06:27 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/0004-637X/808/1/70
+eid: '70'
+eprint: '1409.7078'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: July
+pages: '70'
+papis_id: 532e2730ad22e49f632cd3c0b59ed621
+primaryclass: astro-ph.HE
+ref: abdikamalov.e.2015
+title: Neutrino-driven Turbulent Convection and Standing Accretion Shock Instability
+  in Three-dimensional Core-collapse Supernovae
+type: article
+volume: '808'
+year: '2015'

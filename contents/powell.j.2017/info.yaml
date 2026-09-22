@@ -1,0 +1,41 @@
+abstract: A detection of a core-collapse supernova signal with an advanced LIGO and
+  Virgo gravitational-wave detector network will allow us to measure astrophysical
+  parameters of the source. In real advanced gravitational-wave detector data, there
+  are transient noise artifacts that may mimic a true gravitational-wave signal. In
+  this paper, we outline a procedure implemented in the supernova model evidence extractor
+  (SMEE) that determines if a core-collapse supernova signal candidate is a noise
+  artefact, a rapidly rotating core-collapse supernova signal, or a neutrino explosion
+  mechanism core-collapse supernova signal. Further, we use the latest available three-dimensional
+  gravitational-wave core-collapse supernova simulations, and we outline a new procedure
+  for the rejection of background noise transients when only one detector is operational.
+  We find the minimum signal-to-noise ratio needed to detect all waveforms is reduced
+  when using three-dimensional waveforms as signal models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017PhRvD..96l3013P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1709.00955
+author: Powell, J. and Szczepanczyk, M. and Heng, I. S.
+author_list:
+- family: Powell
+  given: J.
+- family: Szczepanczyk
+  given: M.
+- family: Heng
+  given: I. S.
+date-added: 2018-02-07 15:12:48 +0000
+date-modified: 2018-02-07 15:12:49 +0000
+doi: 10.1103/PhysRevD.96.123013
+eid: '123013'
+eprint: '1709.00955'
+journal: \prd
+month: December
+number: '12'
+pages: '123013'
+papis_id: c8b1958611e526b974c5f6310e83fb0d
+primaryclass: astro-ph.HE
+ref: powell.j.2017
+title: Inferring the core-collapse supernova explosion mechanism with three-dimensional
+  gravitational-wave simulations
+type: article
+volume: '96'
+year: '2017'

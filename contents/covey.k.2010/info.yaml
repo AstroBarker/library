@@ -1,0 +1,63 @@
+abstract: We have investigated the stellar content of Barnard 59 (B59), the most active
+  star-forming core in the Pipe Nebula. Using the SpeX spectrograph on the NASA Infrared
+  Telescope Facility, we obtained moderate resolution, near-infrared (NIR) spectra
+  for 20 candidate young stellar objects (YSOs) in B59 and a representative sample
+  of NIR and mid-IR bright sources distributed throughout the Pipe. Measuring luminosity
+  and temperature sensitive features in these spectra, we identified likely background
+  giant stars and measured each star's spectral type, extinction, and NIR continuum
+  excess. To measure B59's age, we place its candidate YSOs in the Hertzsprung-Russell
+  diagram and compare their location to YSOs in several well-studied star-forming
+  regions, as well as predictions of pre-main-sequence (PMS) evolutionary models.
+  We find that B59 is composed of late-type (K4-M6) low-mass (0.9-0.1 M sun) YSOs
+  whose median stellar age is comparable to, if not slightly older than, that of YSOs
+  within the rho Oph, Taurus, and Chameleon star-forming regions. Deriving absolute
+  age estimates from PMS models computed by D'Antona et al., and accounting only for
+  statistical uncertainties, we measure B59's median stellar age to be 2.6 $\pm$ 0.8
+  Myr. Including potential systematic effects increases the error budget for B59's
+  median (DM98) stellar age to 2.6+4.1 -2.6 Myr. We also find that the relative age
+  orderings implied by PMS evolutionary tracks depend on the range of stellar masses
+  sampled, as model isochrones possess significantly different mass dependences. The
+  maximum likelihood median stellar age we measure for B59, and the region's observed
+  gas properties, suggests that the B59 dense core has been stable against global
+  collapse for roughly six dynamical timescales and is actively forming stars with
+  a star formation efficiency per dynamical time of ~6\%. While the ~150\% uncertainties
+  associated with our age measurement propagate directly into these derived star formation
+  timescales, the maximum likelihood values nonetheless agree well with recent star
+  formation simulations that incorporate various forms of support against collapse,
+  such as subcritical magnetic fields, outflows, and radiative feedback from protostellar
+  heating.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722..971C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.2192
+author: Covey, K. R. and Lada, C. J. and Román-Zúñiga, C. and Muench, A. A. and Forbrich,
+  J. and Ascenso, J.
+author_list:
+- family: Covey
+  given: K. R.
+- family: Lada
+  given: C. J.
+- family: Román-Zúñiga
+  given: C.
+- family: Muench
+  given: A. A.
+- family: Forbrich
+  given: J.
+- family: Ascenso
+  given: J.
+date-added: 2017-08-11 01:22:56 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/2/971
+eprint: '1007.2192'
+journal: \apj
+keywords: 'Hertzsprung-Russell and C-M diagrams, infrared: stars, stars: emission-line,
+  Be, stars: formation, stars: pre-main sequence'
+month: October
+pages: 971--988
+papis_id: d5e9d21dbfad81316b4699535514a9ba
+primaryclass: astro-ph.SR
+ref: covey.k.2010
+title: The Age, Stellar Content, and Star Formation Timescale of the B59 Dense Core
+type: article
+volume: '722'
+year: '2010'

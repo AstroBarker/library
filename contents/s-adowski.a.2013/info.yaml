@@ -1,0 +1,41 @@
+abstract: A numerical scheme is described for including radiation in multidimensional
+  general relativistic conservative fluid dynamics codes. In this method, a covariant
+  form of the M1 closure scheme is used to close the radiation moments, and the radiative
+  source terms are treated semi-implicitly in order to handle both optically thin
+  and optically thick regimes. The scheme has been implemented in a conservative general
+  relativistic radiation hydrodynamics code KORAL. The robustness of the code is demonstrated
+  on a number of test problems, including radiative relativistic shock tubes, static
+  radiation pressure supported atmosphere, shadows, beams of light in curved space-time
+  and radiative Bondi accretion. The advantages of M1 closure relative to other approaches
+  such as the Eddington closure and flux-limited diffusion are discussed, and its
+  limitations are also highlighted.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.429.3533S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1212.5050
+author: S ̧adowski, A. and Narayan, R. and Tchekhovskoy, A. and Zhu, Y.
+author_list:
+- family: S ̧adowski
+  given: A.
+- family: Narayan
+  given: R.
+- family: Tchekhovskoy
+  given: A.
+- family: Zhu
+  given: Y.
+date-added: 2017-08-10 14:27:37 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts632
+eprint: '1212.5050'
+journal: \mnras
+keywords: accretion, accretion discs, radiation transfer
+month: March
+pages: 3533--3550
+papis_id: 78b1885535665accbb6e12a6cf58ff33
+primaryclass: astro-ph.HE
+ref: s_adowski.a.2013
+title: Semi-implicit scheme for treating radiation under M1 closure in general relativistic
+  conservative fluid dynamics codes
+type: article
+volume: '429'
+year: '2013'

@@ -1,0 +1,43 @@
+abstract: We present a general formulation of special relativistic magnetohydrodynamics
+  and derive exact radially self-similar solutions for axisymmetric outflows from
+  strongly magnetized, rotating compact objects. We generalize previous work by including
+  thermal effects and analyze in detail the various forces that guide, accelerate,
+  and collimate the flow. We demonstrate that, under the assumptions of a quasi-steady
+  poloidal magnetic field and of a highly relativistic poloidal velocity, the equations
+  become effectively time independent and the motion can be described as a frozen
+  pulse. We concentrate on trans-Alfv{\'e}nic solutions and consider outflows that
+  are super-Alfv{\'e}nic throughout in the companion paper. Our results are applicable
+  to relativistic jets in gamma-ray burst (GRB) sources, active galactic nuclei, and
+  microquasars, but our discussion focuses on GRBs. We envision the outflows in this
+  case to initially consist of a hot and optically thick mixture of baryons, electron-positron
+  pairs, and photons. We show that the flow is at first accelerated thermally but
+  that the bulk of the acceleration is magnetic, with the asymptotic Lorentz factor
+  corresponding to a rough equipartition between the Poynting and kinetic energy fluxes
+  (i.e., ~50\% of the injected total energy is converted into baryonic kinetic energy).
+  The electromagnetic forces also strongly collimate the flow, giving rise to an asymptotically
+  cylindrical structure.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...596.1080V
+arxivurl: http://arxiv.org/abs/astro-ph/0303482
+author: Vlahakis, N. and Königl, A.
+author_list:
+- family: Vlahakis
+  given: N.
+- family: Königl
+  given: A.
+date-added: 2017-08-10 16:31:46 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/378226
+eprint: astro-ph/0303482
+journal: \apj
+keywords: 'Galaxies: Jets, Gamma Rays: Bursts, ISM: Jets and Outflows, Methods: Analytical,
+  Magnetohydrodynamics: MHD, Relativity'
+month: October
+pages: 1080--1103
+papis_id: 6b278d3ddb0d0ff8382e797a845c386d
+ref: vlahakis.n.2003
+title: Relativistic Magnetohydrodynamics with Application to Gamma-Ray Burst Outflows.
+  I. Theory and Semianalytic Trans-Alfvénic Solutions
+type: article
+volume: '596'
+year: '2003'

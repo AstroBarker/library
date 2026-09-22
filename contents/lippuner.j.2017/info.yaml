@@ -1,0 +1,45 @@
+abstract: Almost all of the elements heavier than hydrogen that are present in our
+  solar system were produced by nuclear burning processes either in the early universe
+  or at some point in the life cycle of stars. In all of these environments, there
+  are dozens to thousands of nuclear species that interact with each other to produce
+  successively heavier elements. In this paper, we present SkyNet, a new general-purpose
+  nuclear reaction network that evolves the abundances of nuclear species under the
+  influence of nuclear reactions. SkyNet can be used to compute the nucleosynthesis
+  evolution in all astrophysical scenarios where nucleosynthesis occurs. SkyNet is
+  free and open source, and aims to be easy to use and flexible. Any list of isotopes
+  can be evolved, and SkyNet supports different types of nuclear reactions. SkyNet
+  is modular so that new or existing physics, like nuclear reactions or equations
+  of state, can easily be added or modified. Here, we present in detail the physics
+  implemented in SkyNet with a focus on a self-consistent transition to and from nuclear
+  statistical equilibrium to non-equilibrium nuclear burning, our implementation of
+  electron screening, and coupling of the network to an equation of state. We also
+  present comprehensive code tests and comparisons with existing nuclear reaction
+  networks. We find that SkyNet agrees with published results and other codes to an
+  accuracy of a few percent. Discrepancies, where they exist, can be traced to differences
+  in the physics implementations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017ApJS..233...18L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1706.06198
+author: Lippuner, J. and Roberts, L. F.
+author_list:
+- family: Lippuner
+  given: J.
+- family: Roberts
+  given: L. F.
+date-added: 2018-06-07 20:01:03 +0000
+date-modified: 2018-06-07 20:01:04 +0000
+doi: 10.3847/1538-4365/aa94cb
+eid: '18'
+eprint: '1706.06198'
+journal: \apjs
+keywords: 'methods: numerical, nuclear reactions, nucleosynthesis, abundances'
+month: December
+pages: '18'
+papis_id: f3eefd0ab979931bd120798cdcbc21ee
+primaryclass: astro-ph.HE
+ref: lippuner.j.2017
+title: 'SkyNet: A Modular Nuclear Reaction Network Library'
+type: article
+volume: '233'
+year: '2017'

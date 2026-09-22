@@ -1,0 +1,69 @@
+abstract: We present detailed optical photometry for 25 Type Ibc supernovae (SNe Ibc)
+  within d \approx{} 150 Mpc obtained with the robotic Palomar 60 inch telescope in
+  2004-2007. This study represents the first uniform, systematic, and statistical
+  sample of multi-band SNe Ibc light curves available to date. We correct the light
+  curves for host galaxy extinction using a new technique based on the photometric
+  color evolution, namely, we show that the (V - R) color of extinction-corrected
+  SNe Ibc at Deltat \approx{} 10 days after V-band maximum is tightly distributed,
+  lang(V - R) V10rang = 0.26 $\pm$ 0.06 mag. Using this technique, we find that SNe
+  Ibc typically suffer from significant host galaxy extinction, langE(B - V)rang \approx{}
+  0.4 mag. A comparison of the extinction-corrected light curves for helium-rich (Type
+  Ib) and helium-poor (Type Ic) SNe reveals that they are statistically indistinguishable,
+  both in luminosity and decline rate. We report peak absolute magnitudes of langMR
+  rang = -17.9 \$\pm\$ 0.9 mag and langMR rang = -18.3 \$\pm\$ 0.6 mag for SNe Ib
+  and Ic, respectively. Focusing on the broad-lined (BL) SNe Ic, we find that they
+  are more luminous than the normal SNe Ibc sample, langMR rang = -19.0 \$\pm\$ 1.1
+  mag, with a probability of only 1.6\% that they are drawn from the same population
+  of explosions. By comparing the peak absolute magnitudes of SNe Ic-BL with those
+  inferred for local engine-driven explosions (GRB-SN 1998bw, XRF-SN 2006aj, and SN
+  2009bb) we find a 25\% probability that relativistic SNe are drawn from the overall
+  SNe Ic-BL population. Finally, we fit analytic models to the light curves to derive
+  typical 56Ni masses of M Ni \approx{} 0.2 and 0.5 M \&sun; for SNe Ibc and SNe Ic-BL,
+  respectively. With reasonable assumptions for the photospheric velocities, we further
+  extract kinetic energy and ejecta mass values of M ej \approx{} 2 M \&sun; and EK
+  \approx{} 1051 erg for SNe Ibc, while for SNe Ic-BL we find higher values, M ej
+  \approx{} 5 M \&sun; and EK \approx{} 1052 erg. We discuss the implications for
+  the progenitors of SNe Ibc and their relation to those of engine-driven explosions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...741...97D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.4959
+author: Drout, M. R. and Soderberg, A. M. and Gal-Yam, A. and Cenko, S. B. and Fox,
+  D. B. and Leonard, D. C. and Sand, D. J. and Moon, D.-S. and Arcavi, I. and Green,
+  Y.
+author_list:
+- family: Drout
+  given: M. R.
+- family: Soderberg
+  given: A. M.
+- family: Gal-Yam
+  given: A.
+- family: Cenko
+  given: S. B.
+- family: Fox
+  given: D. B.
+- family: Leonard
+  given: D. C.
+- family: Sand
+  given: D. J.
+- family: Moon
+  given: D.-S.
+- family: Arcavi
+  given: I.
+- family: Green
+  given: Y.
+date-added: 2017-08-10 16:23:16 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/741/2/97
+eid: '97'
+eprint: '1011.4959'
+journal: \apj
+keywords: 'supernovae: general, gamma-ray burst: general'
+month: November
+pages: '97'
+papis_id: 51b61d9e834fde0456f210b8cabe7e9f
+ref: drout.m.2011
+title: The First Systematic Study of Type Ibc Supernova Multi-band Light Curves
+type: article
+volume: '741'
+year: '2011'

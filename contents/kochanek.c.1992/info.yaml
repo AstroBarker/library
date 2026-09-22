@@ -1,0 +1,31 @@
+abstract: The behavior of a coalescing neutron star system in the final phases before
+  coalescence is described, and the initial conditions appropriate for hydrodynamic
+  simulation of the final coalescence are examined. A language is developed for describing
+  the internal structure of the stars in terms of the Roche-Riemann ellipsoids, which
+  are the generalizations of the Roche solutions which include variable amounts of
+  angular momentum and circulation. The evolution of several binaries are investigated
+  for different initial conditions and viscosities, and the strong dependence of the
+  structure on the amount of viscosity is shown. Results of examinations of the magnitude
+  and source of viscosity showed that the most probable structure of the star is the
+  irrotational Roche-Riemann ellipsoid, rather than the commonly assumed Roche ellipsoid.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...398..234K
+author: Kochanek, C. S.
+author_list:
+- family: Kochanek
+  given: C. S.
+date-added: 2017-08-10 17:51:59 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171851
+journal: \apj
+keywords: Binary Stars, Coalescing, Neutron Stars, Stellar Evolution, Computational
+  Astrophysics, Gravitational Waves, Hydrodynamic Equations, Stellar Interiors, Stellar
+  Models, Viscosity
+month: October
+pages: 234--247
+papis_id: bb6c144035be8e3c65e33532b0ed2105
+ref: kochanek.c.1992
+title: Coalescing binary neutron stars
+type: article
+volume: '398'
+year: '1992'

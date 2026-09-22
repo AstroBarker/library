@@ -1,0 +1,53 @@
+abstract: 'Context. The mass of the neutron star in Vela X-1 has been found to be
+  larger than the canonical 1.5 M\&sun;. This result relies on the assumption that
+  the amplitude of the optical component''s measured radial velocity curve is not
+  seriously affected by the interactions in the system.  Aims: Our aim is to explore
+  the effect on the radial velocity curve caused by surface motions excited by tidal
+  interactions.  Methods: We use a calculation from first principles that involves
+  solving the equations of motion of a Lagrangian grid of surface elements. The velocities
+  on the visible surface of the star are projected along the line-of-sight to the
+  observer to obtain the Doppler shifts which are applied to the local line-profiles,
+  which are then combined to obtain the absorption-line profile in the observer''s
+  reference frame. The centroid of the line-profiles for different orbital phases
+  is then measured and a simulated RV curve constructed. Models are run for the "standard"
+  (v sini = 116 km s-1) and "slow" (56 km s-1) supergiant rotation velocities.  Results:
+  The surface velocity field is complex and includes fast, small-spatial scale structures.
+  It leads to strong variability in the photospheric line profiles which, in turn,
+  causes significant deviations from a Keplerian RV curve. The peak-to-peak amplitudes
+  of model RV curves are in all cases larger than the amplitude of the orbital motion.
+  Keplerian fits to RV curves obtained with the "standard" rotation velocity imply
+  mns >= 1.7 M\&sun;. However, a similar analysis of the "slow" rotational velocity
+  models allows for mns ~ 1.5 M\&sun;. Thus, the stellar rotation plays an important
+  role in determining the characteristics of the perturbed RV curve.  Conclusions:
+  Given the observational uncertainty in GP Vel''s projected rotation velocity and
+  the strong perturbations seen in the published and the model RV curves, we are unable
+  to rule out a small (~1.5 M\&sun;) mass for the neutron star companion.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...539A..84K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.4619
+author: Koenigsberger, G. and Moreno, E. and Harrington, D. M.
+author_list:
+- family: Koenigsberger
+  given: G.
+- family: Moreno
+  given: E.
+- family: Harrington
+  given: D. M.
+date-added: 2017-08-10 23:34:39 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1051/0004-6361/201118397
+eid: A84
+eprint: '1201.4619'
+journal: \aap
+keywords: 'stars: neutron, binaries: spectroscopic, stars: rotation, stars: individual:
+  HD 77581'
+month: March
+pages: A84
+papis_id: 125b3eabf6a64dda0b003dfda9d3d866
+primaryclass: astro-ph.SR
+ref: koenigsberger.g.2012
+title: Tidal effects on the radial velocity curve of HD 77581 (Vela X-1)
+type: article
+volume: '539'
+year: '2012'

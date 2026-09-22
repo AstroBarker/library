@@ -1,0 +1,66 @@
+abstract: 'Context. Transient neutrino sources such as gamma-ray bursts (GRBs) and
+  supernovae (SNe) are hypothesized to emit bursts of high-energy neutrinos on a time-scale
+  of \lessequivlnt{}100 s. While GRB neutrinos would be produced in high relativistic
+  jets, core-collapse SNe might host soft-relativistic jets, which become stalled
+  in the outer layers of the progenitor star leading to an efficient production of
+  high-energy neutrinos.  Aims: To increase the sensitivity to these neutrinos and
+  identify their sources, a low-threshold optical follow-up program for neutrino multiplets
+  detected with the IceCube observatory has been implemented.  Methods: If a neutrino
+  multiplet, i.e. two or more neutrinos from the same direction within 100 s, is found
+  by IceCube a trigger is sent to the Robotic Optical Transient Search Experiment,
+  ROTSE. The 4 ROTSE telescopes immediately start an observation program of the corresponding
+  region of the sky in order to detect an optical counterpart to the neutrino events.  Results:
+  No statistically significant excess in the rate of neutrino multiplets has been
+  observed and furthermore no coincidence with an optical counterpart was found.  Conclusions:
+  The search allows, for the first time, to set stringent limits on current models
+  predicting a high-energy neutrino flux from soft relativistic hadronic jets in core-collapse
+  SNe. We conclude that a sub-population of SNe with typical Lorentz boost factor
+  and jet energy of 10 and 3 \texttimes{} 1051 erg, respectively, does not exceed
+  4.2\% at 90\% confidence.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...539A..60A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.7030
+author: Abbasi, R. and Abdou, Y. and Abu-Zayyad, T. and Ackermann, M. and Adams, J.
+  and Aguilar, J. A. and Ahlers, M. and Allen, M. M. and Altmann, D. and Andeen, K.
+  and al., et
+author_list:
+- family: Abbasi
+  given: R.
+- family: Abdou
+  given: Y.
+- family: Abu-Zayyad
+  given: T.
+- family: Ackermann
+  given: M.
+- family: Adams
+  given: J.
+- family: Aguilar
+  given: J. A.
+- family: Ahlers
+  given: M.
+- family: Allen
+  given: M. M.
+- family: Altmann
+  given: D.
+- family: Andeen
+  given: K.
+- family: al.
+  given: et
+date-added: 2017-08-10 19:21:44 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1051/0004-6361/201118071
+eid: A60
+eprint: '1111.7030'
+journal: \aap
+keywords: 'neutrinos, supernovae: general, gamma-ray burst: general'
+month: March
+pages: A60
+papis_id: bec94b753fafc149fe01f39db1bdfc0c
+primaryclass: astro-ph.HE
+ref: abbasi.r.2012a
+title: Searching for soft relativistic jets in core-collapse supernovae with the IceCube
+  optical follow-up program
+type: article
+volume: '539'
+year: '2012'

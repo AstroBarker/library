@@ -1,0 +1,48 @@
+abstract: Wind models of very massive stars with metallicities in a range from 10-4
+  to 1.0 solar are calculated using a new treatment of radiation-driven winds with
+  depth-dependent radiative force multipliers and a comprehensive list of more than
+  two million spectral lines in non-LTE (NLTE). The models are tested by a comparison
+  with observed stellar wind properties of O stars in the Galaxy and the SMC. Satisfying
+  agreement is found. The calculations yield mass-loss rates, wind velocities, wind
+  momenta, and wind energies as functions of metallicity and can be used to discuss
+  the influence of stellar winds on the evolution of very massive stars in the early
+  universe and on the interstellar medium in the early phases of galaxy formation.
+  It is shown that the normal scaling laws, which predict stellar mass-loss rates
+  and wind momenta to decrease as a power law with metal abundance, break down at
+  a certain threshold. Analytical fit formulae for mass-loss rates are provided as
+  a function of stellar parameters and metallicity. Ionizing fluxes of hot stars depend
+  crucially on the strengths of their stellar winds, which modify the absorption edges
+  of hydrogen and helium (neutral and ionized) and the line blocking in the far-UV.
+  The new wind models are therefore also applied to calculate ionizing fluxes and
+  observable spectra of very massive stars as a function of metallicity using the
+  new hydrodynamic, NLTE line-blanketed flux constant model atmosphere code developed
+  by Pauldrach and coworkers. Numbers of ionizing photons for the crucial ionization
+  stages are given. For a fixed effective temperature, the He II ionizing emergent
+  flux depends very strongly on metallicity but also on stellar luminosity. A strong
+  dependence on metallicity is also found for the C III, Ne II, and O II ionizing
+  photons, whereas the H I and He I ionizing flux is almost independent of metallicity.
+  We also calculate UV spectra for all the models and discuss the behavior of significant
+  line features as a function of metallicity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577..389K
+arxivurl: http://arxiv.org/abs/astro-ph/0205210
+author: Kudritzki, R. P.
+author_list:
+- family: Kudritzki
+  given: R. P.
+date-added: 2017-08-11 04:58:42 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342178
+eprint: astro-ph/0205210
+journal: \apj
+keywords: 'Stars: Atmospheres, Stars: Early-Type, Stars: Fundamental Parameters, Stars:
+  Mass Loss, Stars: Winds, Outflows'
+month: September
+pages: 389--408
+papis_id: e2ac7e1f18541b748f1cc0fc80d5a0a1
+ref: kudritzki.r.2002
+title: Line-driven Winds, Ionizing Fluxes, and Ultraviolet Spectra of Hot Stars at
+  Extremely Low Metallicity. I. Very Massive O Stars
+type: article
+volume: '577'
+year: '2002'

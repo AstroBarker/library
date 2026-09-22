@@ -1,0 +1,32 @@
+abstract: A new low-to-moderate resolution spectrograph has been designed and built
+  for the Cassegrain focus of the Hale 5.08- meter telescope. To maximize efficiency,
+  resolution, and wavelength coverage the light is divided into two spectral regions
+  by a dichroic filter behind the entrance slit, after which there are two completely
+  separate spectrographs. The blue spectrograph operates from 3200 {\AA} to 5200 {\AA}
+  while the red one goes from 5200 {\AA} to 10,000 {\AA}. The red detector is an 800
+  \texttimes{} 800 TI CCD while the blue detector is a 320 \texttimes{} 512 RCA CCD
+  or a Shectrograph image pulse-counting system. A Boksenberg IPCS can also he mounted
+  on the blue camera. The overall efficiency of the Cassegrain telescope, spectrographs,
+  and CCD's combined, ranges from 5\% to 13\% between 3600 {\AA} and 8200 {\AA}. The
+  spectrograph is usable from 3200 {\AA} to 10,400 {\AA}.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1982PASP...94..586O
+author: Oke, J. B. and Gunn, J. E.
+author_list:
+- family: Oke
+  given: J. B.
+- family: Gunn
+  given: J. E.
+date-added: 2017-08-10 16:04:45 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/131027
+journal: \pasp
+month: June
+pages: '586'
+papis_id: 0a0247420451efe07fc9cf72b4464b4d
+ref: oke.j.1982
+title: An Efficient Low Resolution and Moderate Resolution Spectrograph for the Hale
+  Telescope
+type: article
+volume: '94'
+year: '1982'

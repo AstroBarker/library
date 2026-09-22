@@ -1,0 +1,43 @@
+abstract: The monitoring of quiescent emission from neutron star transients with accretion
+  outbursts long enough to significantly heat the neutron star crust has opened a
+  new vista onto the physics of dense matter. In this paper, we construct models of
+  the thermal relaxation of the neutron star crust following the end of a protracted
+  accretion outburst. We confirm the finding of Shternin et al., that the thermal
+  conductivity of the neutron star crust is high, consistent with a low impurity parameter.
+  We describe the basic physics that sets the broken power-law form of the cooling
+  light curve. The initial power-law decay gives a direct measure of the temperature
+  profile, and hence the thermal flux during outburst, in the outer crust. The time
+  of the break, at hundreds of days postoutburst, corresponds to the thermal time
+  where the solid transitions from a classical to quantum crystal, close to neutron
+  drip. We calculate in detail the constraints on the crust parameters of both KS
+  1731-260 and MXB 1659-29 from fitting their cooling light curves. Our fits to the
+  light curves require that the neutrons do not contribute significantly to the heat
+  capacity in the inner crust, and provide evidence in favor of the existence of a
+  neutron superfluid throughout the inner crust. Our fits to both sources indicate
+  an impurity parameter of order unity in the inner crust.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698.1020B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0901.3115
+author: Brown, E. F. and Cumming, A.
+author_list:
+- family: Brown
+  given: E. F.
+- family: Cumming
+  given: A.
+date-added: 2017-08-11 04:17:41 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/2/1020
+eprint: '0901.3115'
+journal: \apj
+keywords: 'dense matter, stars: neutron, X-rays: binaries, X-rays: individual: KS
+  1731{\ndash}260 MXB 1659{\ndash}29 AX J1754.2{\ndash}2754'
+month: June
+pages: 1020--1032
+papis_id: ab5730f9c90a0d95c630b6547ca7a849
+primaryclass: astro-ph.SR
+ref: brown.e.2009
+title: Mapping Crustal Heating with the Cooling Light Curves of Quasi-Persistent Transients
+type: article
+volume: '698'
+year: '2009'

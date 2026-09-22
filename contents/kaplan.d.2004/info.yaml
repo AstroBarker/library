@@ -1,0 +1,67 @@
+abstract: Most astronomers now accept that stars more massive than about 9 Msolar
+  explode as supernovae and leave stellar remnants, either neutron stars or black
+  holes, with neutron stars being more prevalent. Recent modeling of the explosions
+  suggests a significant diversity in the key natal properties-rotation rate, velocity,
+  and magnetic field strength-of the resulting neutron stars that account for the
+  association of active radio pulsars, pulsar wind nebulae, and magnetars with supernova
+  remnants (SNRs). The discovery of a central X-ray source in Cas A, the youngest
+  known Galactic SNR, dramatized the expected diversity. However, less than half of
+  the SNRs within 5 kpc have identified central sources, and only three are identified
+  as the remnants of Type Ia SNe. Here we report a systematic effort to search for
+  compact central sources in the remaining 23 SNRs of this distance limited sample.
+  Our search was inspired, on empirical considerations, by the enigmatic faint X-ray
+  source in Cas A motivated, on theoretical grounds, by the expectation that young
+  neutron stars emit cooling X-ray emission; and made possible by the superb angular
+  resolution offered by the Chandra X-ray mission and the sensitivity of the XMM-Newton
+  mission.  In this first paper we report Chandra observations of four SNRs (G093.3+6.9,
+  G315.4-2.3, G084.2+0.8, and G127.1+0.5). We have undertaken a systematic optical/IR
+  identification program of the X-ray sources detected in the field of each SNR. Foreground
+  (flare stars, active stars) and background (active galactic nuclei) sources have
+  identifiable IR/optical counterparts. In contrast, the counterparts of neutron stars
+  (or black holes) are expected to be very faint. We are able to account for all the
+  well-detected X-ray sources and thus able to state with some confidence that there
+  are no associated central sources down to a level of one-tenth of that of the Cas
+  A central source, LX<~1031ergss-1. We compare our limits with cooling curves for
+  neutron stars and find that any putative neutron stars in these SNRs must be cooling
+  faster than expected for traditional 1.35Msolar neutron stars and that any putative
+  pulsar must have low spin-down luminosities E<~1034ergss-1. However, our limits
+  are unable to constrain the presence or absence of more unusual options, such as
+  relatively more massive neutron stars with M>~1.45Msolar, neutron stars with exotic
+  interiors, or quiescent black holes. In subsequent papers, we will report on the
+  X-ray and optical/IR observations of the remaining members of the 5 kpc sample.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJS..153..269K
+arxivurl: http://arxiv.org/abs/astro-ph/0403313
+author: Kaplan, D. L. and Frail, D. A. and Gaensler, B. M. and Gotthelf, E. V. and
+  Kulkarni, S. R. and Slane, P. O. and Nechita, A.
+author_list:
+- family: Kaplan
+  given: D. L.
+- family: Frail
+  given: D. A.
+- family: Gaensler
+  given: B. M.
+- family: Gotthelf
+  given: E. V.
+- family: Kulkarni
+  given: S. R.
+- family: Slane
+  given: P. O.
+- family: Nechita
+  given: A.
+date-added: 2017-08-10 21:30:28 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421065
+eprint: astro-ph/0403313
+journal: \apjs
+keywords: 'Stars: Pulsars: General, Stars: Neutron, ISM: Supernova Remnants, X-Rays:
+  Stars'
+month: July
+pages: 269--315
+papis_id: 57398f26a13e144b7ce9b5e2ae5d5fc5
+ref: kaplan.d.2004
+title: An X-Ray Search for Compact Central Sources in Supernova Remnants. I. SNRS
+  G093.3+6.9, G315.4-2.3, G084.2+0.8, and G127.1+0.5
+type: article
+volume: '153'
+year: '2004'

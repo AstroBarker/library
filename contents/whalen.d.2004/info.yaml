@@ -1,0 +1,44 @@
+abstract: We simulate the ionization environment of z~20 luminous objects formed within
+  the framework of the current CDM (cold dark matter) cosmology and compute their
+  UV escape fraction. These objects are likely single, very massive stars that are
+  copious UV emitters. We present analytical estimates as well as one-dimensional
+  radiation hydrodynamic calculations of the evolution of these first H II regions
+  in the universe. The initially D-type ionization front (I-front) evolves to become
+  R-type within <~105 yr at a distance of ~1 pc. This ionization front then completely
+  overruns the halo, accelerating an expanding shell of gas outward to velocities
+  in excess of 30 km s-1, about 10 times the escape velocity of the confining dark
+  matter halo. We find that the evolution of the H II region depends only weakly on
+  the assumed stellar ionizing luminosities. Consequently, most of the gas surrounding
+  the first stars will leave the dark halo whether or not the stars produce supernovae.
+  If they form the first massive seed black holes, these are unlikely to accrete within
+  a Hubble time after they formed until they are incorporated into larger dark matter
+  halos that contain more gas. Because these I-fronts exit the halo on timescales
+  much shorter than the stars' main-sequence lifetimes, their host halos have UV escape
+  fractions of >~0.95, fixing an important parameter for theoretical studies of cosmological
+  hydrogen reionization.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...610...14W
+arxivurl: http://arxiv.org/abs/astro-ph/0310283
+author: Whalen, D. and Abel, T. and Norman, M. L.
+author_list:
+- family: Whalen
+  given: D.
+- family: Abel
+  given: T.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 19:01:56 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/421548
+eprint: astro-ph/0310283
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, ISM: H II Regions, Methods:
+  Numerical'
+month: July
+pages: 14--22
+papis_id: 3920978b28b0fbb231bbb562ab08be83
+ref: whalen.d.2004
+title: Radiation Hydrodynamic Evolution of Primordial H II Regions
+type: article
+volume: '610'
+year: '2004'

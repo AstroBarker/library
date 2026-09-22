@@ -1,0 +1,32 @@
+abstract: The deflagration mode of flame propagation in type Ia supernova (SN Ia)
+  models requires a correct description of the interaction of the flame with turbulent
+  motions. It is well-known that turbulent combustion proceeds in different regimes.
+  For most parts of the deflagration in SNe Ia the flamelet regime applies. This has
+  been modeled in previous multi-dimensional simulations. However, at late stages
+  of the explosion, the flame will propagate in the so-called distributed regime.
+  We investigate the effects of this regime on SN Ia models in a first and simplified
+  approach and show that the trend of effects seems capable of curing some problems
+  of current pure deflagration models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...429L..29R
+arxivurl: http://arxiv.org/abs/astro-ph/0411667
+author: Röpke, F. K. and Hillebrandt, W.
+author_list:
+- family: Röpke
+  given: F. K.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:43:35 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1051/0004-6361:200400100
+eprint: astro-ph/0411667
+journal: \aap
+keywords: 'stars: supernovae: general, hydrodynamics, methods: numerical'
+month: January
+pages: L29-L32
+papis_id: 8650924c774cffdd01d3e1e6caf45f96
+ref: ropke.f.2005b
+title: The distributed burning regime in type Ia supernova models
+type: article
+volume: '429'
+year: '2005'

@@ -1,0 +1,55 @@
+abstract: We present an extensive study of the inception of supernova explosions by
+  following the evolution of the cores of two massive stars (15 and 25 Solar mass)
+  in multidimension. Our calculations begin at the onset of core collapse and stop
+  several hundred milliseconds after the bounce, at which time successful explosions
+  of the appropriate magnitude have been obtained. Similar to the classical delayed
+  explosion mechanism of Wilson, the explosion is powered by the heating of the envelope
+  due to neutrinos emitted by the protoneutron star as it radiates the gravitational
+  energy liberated by the collapse. However, as was shown by Herant, Benz, \& Colgate,
+  this heating generates strong convection outside the neutrinosphere, which we demonstrate
+  to be critical to the explosion. By breaking a purely stratified hydrostatic equilibrium,
+  convection moves the nascent supernova away from a delicate radiative equilibrium
+  between neutrino emission and absorption, Thus, unlike what has been observed in
+  one-dimensional calculations, explosions are rendered quite insensitive to the details
+  of the physical input parameters such as neutrino cross sections or nuclear equation
+  of state parameters. As a confirmation, our comparative one-dimensional calculations
+  with identical microphysics, but in which convection cannot occur, lead to dramatic
+  failures. Guided by our numerical results, we have developed a paradigm for the
+  supernova explosion mechanism. We view a supernova as an open cycle thermodynamic
+  engine in which a reservoir of low-entropy matter (the envelope) is thermally coupled
+  and physically connected to a hot bath (the protoneutron star) by a neutrino flux,
+  and by hydrodynamic instabilities. This paradigm does not invoke new or modified
+  physics over previous treatments, but relies on compellingly straightforward thermodynamic
+  arguments. It provides a robust and self-regulated explosion mechanism to power
+  supernovae that is effective under a wide range of physical parameters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...435..339H
+arxivurl: http://arxiv.org/abs/astro-ph/9404024
+author: Herant, M. and Benz, W. and Hix, W. R. and Fryer, C. L. and Colgate, S. A.
+author_list:
+- family: Herant
+  given: M.
+- family: Benz
+  given: W.
+- family: Hix
+  given: W. R.
+- family: Fryer
+  given: C. L.
+- family: Colgate
+  given: S. A.
+date-added: 2017-08-10 14:36:29 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174817
+eprint: astro-ph/9404024
+journal: \apj
+keywords: Carnot Cycle, Convective Heat Transfer, Flow Stability, Hydrodynamics, Massive
+  Stars, Stellar Evolution, Stellar Models, Supernovae, Mathematical Models, Neutron
+  Stars, Stellar Envelopes, Stellar Interiors
+month: November
+pages: 339--361
+papis_id: 4fa766d80e39ef285ee9039e055da631
+ref: herant.m.1994
+title: 'Inside the supernova: A powerful convective engine'
+type: article
+volume: '435'
+year: '1994'

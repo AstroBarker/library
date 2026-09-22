@@ -1,0 +1,60 @@
+abstract: 'The cosmological origin of at least an appreciable fraction of classical
+  gamma-ray bursts (GRBs) is now supported by redshift measurements for a half-dozen
+  faint host galaxies. Still, the nature of the central engine (or engines) that provide
+  the burst energy remains unclear. While many models have been proposed, those currently
+  favored are all based upon the formation of and/or rapid accretion into stellar-mass
+  black holes. Here we discuss a variety of such scenarios and estimate the probability
+  of each. Population synthesis calculations are carried out using a Monte Carlo approach
+  in which the many uncertain parameters intrinsic to such calculations are varied.
+  We estimate the event rate for each class of model as well as the propagation distances
+  for those having significant delay between formation and burst production, i.e.,
+  double neutron star (DNS) mergers and black hole-neutron star (BH/NS) mergers. One
+  conclusion is a 1-2 order of magnitude decrease in the rate of DNS and BH/NS mergers
+  compared to that previously calculated using invalid assumptions about common envelope
+  evolution. Other major uncertainties in the event rates and propagation distances
+  include the history of star formation in the universe, the masses of the galaxies
+  in which merging compact objects are born, and the radii of the hydrogen-stripped
+  cores of massive stars. For reasonable assumptions regarding each, we calculate
+  a daily event rate in the universe for (1) merging neutron stars: ~100 day-1 (2)
+  neutron star-black hole mergers: ~450 day-1 (3) collapsars: ~104 day-1 (4) helium
+  star black hole mergers: ~1000 day-1 and (5) white dwarf-black hole mergers: ~20
+  day-1. The range of uncertainty in these numbers, however, is very large, typically
+  2-3 orders of magnitude. These rates must additionally be multiplied by any relevant
+  beaming factor (fOmega<1) and sampling fraction (if the entire universal set of
+  models is not being observed). Depending upon the mass of the host galaxy, one-half
+  of the DNS mergers will happen within 60 kpc (for a galaxy with a mass comparable
+  to that of the Milky Way) to 5 Mpc (for a galaxy with negligible mass) from the
+  Galactic center. The same numbers characterize BH/NS mergers. Because of the delay
+  time, neutron star and black hole mergers will happen at a redshift 0.5-0.8 times
+  that of the other classes of models. Information is still lacking regarding the
+  hosts of short, hard bursts, but we suggest that they are due to DNS and BH/NS mergers
+  and thus will ultimately be determined to lie outside of galaxies and at a closer
+  mean distance than long complex bursts (which we attribute to collapsars). In the
+  absence of a galactic site, the distance to these bursts may be difficult to determine.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...526..152F
+arxivurl: http://arxiv.org/abs/astro-ph/9904122
+author: Fryer, C. L. and Woosley, S. E. and Hartmann, D. H.
+author_list:
+- family: Fryer
+  given: C. L.
+- family: Woosley
+  given: S. E.
+- family: Hartmann
+  given: D. H.
+date-added: 2017-08-10 22:28:15 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/307992
+eprint: astro-ph/9904122
+journal: \apj
+keywords: 'STARS: BINARIES: CLOSE, BLACK HOLE PHYSICS, GAMMA RAYS: BURSTS, STARS:
+  NEUTRON, Stars: Binaries: Close, Black Hole Physics, Gamma Rays: Bursts, Stars:
+  Neutron'
+month: November
+pages: 152--177
+papis_id: b1df2654fb808aee69eef828ceeab382
+ref: fryer.c.1999
+title: Formation Rates of Black Hole Accretion Disk Gamma-Ray Bursts
+type: article
+volume: '526'
+year: '1999'

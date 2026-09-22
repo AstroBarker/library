@@ -1,0 +1,52 @@
+abstract: Direct collapse of supermassive stars (SMSs) is a possible pathway for generating
+  supermassive black holes in the early universe. It is expected that an SMS could
+  form via very rapid mass accretion with \dot{M}\_\textasteriskcentered\sim 0.1{--}1
+  \,M\_\odot \,yr^{-1} during the gravitational collapse of an atomic-cooling primordial
+  gas cloud. In this paper, we study how stars would evolve under such extreme rapid
+  mass accretion, focusing on the early evolution until the stellar mass reaches 103
+  M \&sun;. To this end, we numerically calculate the detailed interior structure
+  of accreting stars with primordial element abundances. Our results show that for
+  accretion rates higher than 10-2 M \&sun; yr-1, stellar evolution is qualitatively
+  different from that expected at lower rates. While accreting at these high rates,
+  the star always has a radius exceeding 100 R \&sun;, which increases monotonically
+  with the stellar mass. The mass-radius relation for stellar masses exceeding ~100
+  M \&sun; follows the same track with R \textasteriskcenteredvpropM 1/2 \textasteriskcentered
+  in all cases with accretion rates >~ 10-2 M \&sun; yr-1 at a stellar mass of 103
+  M \&sun;, the radius is ~= 7000 R \&sun; (sime 30 AU). With higher accretion rates,
+  the onset of hydrogen burning is shifted toward higher stellar masses. In particular,
+  for accretion rates exceeding \dot{M}\_\textasteriskcentered\gtrsim 0.1 \,M\_\odot
+  \,yr^{-1}, there is no significant hydrogen burning even after 103 M \&sun; have
+  accreted onto the protostar. Such "supergiant" protostars have effective temperatures
+  as low as T eff ~= 5000 K throughout their evolution and because they hardly emit
+  ionizing photons, they do not create an H II region or significantly heat their
+  immediate surroundings. Thus, radiative feedback is unable to hinder the growth
+  of rapidly accreting stars to masses in excess of 103 M \&sun; as long as material
+  is accreted at rates \dot{M}\_\textasteriskcentered\gtrsim 10^{-2} \,M\_\odot \,yr^{-1}.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756...93H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.2613
+author: Hosokawa, T. and Omukai, K. and Yorke, H. W.
+author_list:
+- family: Hosokawa
+  given: T.
+- family: Omukai
+  given: K.
+- family: Yorke
+  given: H. W.
+date-added: 2017-08-10 21:50:39 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/756/1/93
+eid: '93'
+eprint: '1203.2613'
+journal: \apj
+keywords: 'accretion, accretion disks, cosmology: theory, early universe, galaxies:
+  formation, stars: formation'
+month: September
+pages: '93'
+papis_id: 3b8bf489c8c1b3337d0938f16c68dd6e
+ref: hosokawa.t.2012
+title: 'Rapidly Accreting Supergiant Protostars: Embryos of Supermassive Black Holes?'
+type: article
+volume: '756'
+year: '2012'

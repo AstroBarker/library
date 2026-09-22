@@ -1,0 +1,32 @@
+abstract: We present Quokka, a new subcycling-in-time, block-structured adaptive mesh
+  refinement (AMR) radiation hydrodynamics code optimised for graphics processing
+  units (GPUs). Quokka solves the equations of hydrodynamics with the piecewise parabolic
+  method (PPM) in a method-of-lines formulation, and handles radiative transfer via
+  the variable Eddington tensor (VET) radiation moment equations with a local closure.
+  In order to maximise GPU performance, we combine explicit-in-time evolution of the
+  radiation moment equations with the reduced speed-of-light approximation. We show
+  results for a wide range of test problems for hydrodynamics, radiation, and coupled
+  radiation hydrodynamics. On uniform grids in 3D, we achieve a peak of 93 million
+  hydrodynamic updates per second per GPU, and 22 million radiation hydrodynamic updates
+  per second per GPU. For radiation hydrodynamics problems on uniform grids in 3D,
+  our code also scales from 4 GPUs to 256 GPUs with an efficiency of 80 percent. The
+  code is publicly released under an open-source license on GitHub.
+archiveprefix: arXiv
+author: Wibking, Benjamin D. and Krumholz, Mark R.
+author_list:
+- family: Wibking
+  given: Benjamin D.
+- family: Krumholz
+  given: Mark R.
+eprint: '2110.01792'
+file: :wibking\_2021 - Quokka\_ a Code for Two Moment AMR Radiation Hydrodynamics
+  on GPUs.pdf:PDF
+groups: Code/Software
+keywords: astro-ph.IM
+month: October
+papis_id: e2d4f5853801a02f2d1e1e223c8fa936
+primaryclass: astro-ph.IM
+ref: wibking.benjamin.2021
+title: 'Quokka: A code for two-moment AMR radiation hydrodynamics on GPUs'
+type: article
+year: '2021'

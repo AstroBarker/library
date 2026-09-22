@@ -1,0 +1,39 @@
+abstract: Charge transfer loss on the Wide Field Planetary Camera 2 (WFPC2) onboard
+  the Hubble Space Telescope is a primary source of uncertainty in stellar photometry
+  obtained with this camera. This effect, discovered shortly after the camera was
+  installed, has grown over time and can dim stars by several tenths of a magnitude
+  (or even more, in particularly bad cases). The impact of CTE loss on WFPC2 stellar
+  photometry was characterized by several studies between 1998 and 2000, but has received
+  diminished attention since ACS became HST's primary imager. After the failure of
+  ACS in January 2007, WFPC2 once again became the primary imaging instrument on board
+  HST, restoring the importance of ensuring accurate CTE corrections. This paper reexamines
+  the CTE loss of WFPC2, with three significant changes over previous studies. First,
+  the present study considers calibration data obtained through 2007, thus increasing
+  the confidence in the reliability of the CTE corrections when applied to recent
+  observations. Second, the change in CTE loss during readout is accounted for analytically.
+  Finally, a reanalysis of the CTE dependencies on counts, background, and observation
+  date was made. The resulting correction is significantly more accurate than that
+  provided in the WFPC2 Instrument Handbook (Dolphin 2002 and updates through 2004),
+  resulting in photometry that can be enhanced by over 5\% in certain circumstances.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009PASP..121..655D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.3557
+author: Dolphin, A. E.
+author_list:
+- family: Dolphin
+  given: A. E.
+date-added: 2017-08-10 21:19:05 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1086/600028
+eprint: '0906.3557'
+journal: \pasp
+month: June
+pages: '655'
+papis_id: affc4980fd90e94d55eee2752dbee67f
+primaryclass: astro-ph.IM
+ref: dolphin.a.2009
+title: A Revised Characterization of the WFPC2 CTE Loss
+type: article
+volume: '121'
+year: '2009'

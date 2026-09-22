@@ -1,0 +1,38 @@
+abstract: Magnetospheres of many astrophysical objects can be accurately described
+  by the low-inertia (or ``force-free'') limit of MHD. We present a new numerical
+  method for the solution of equations of force-free relativistic MHD based on the
+  finite-difference time-domain approach, with a prescription for handling the spontaneous
+  formation of current sheets. We use this method to study the time-dependent evolution
+  of pulsar magnetospheres in both aligned and oblique magnetic geometries. For the
+  aligned rotator, we confirm the general properties of the time-independent solution
+  of Contopoulos et al. For the oblique rotator, we present the three-dimensional
+  structure of the magnetosphere and compute, for the first time, the spin-down power
+  of pulsars as a function of the inclination of the magnetic axis. We find that the
+  pulsar spin-down luminosity is L~(mu2Omega4\textasteriskcentered/c3) (1+sin2alpha),
+  where mu is the stellar dipole moment, Omega\textasteriskcentered is the rotation
+  frequency, and alpha is the magnetic inclination angle. We also discuss the effects
+  of current sheet resistivity and reconnection on the structure and evolution of
+  the magnetosphere.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...648L..51S
+arxivurl: http://arxiv.org/abs/astro-ph/0603147
+author: Spitkovsky, A.
+author_list:
+- family: Spitkovsky
+  given: A.
+date-added: 2017-08-10 15:46:29 +0000
+date-modified: 2017-12-05 16:37:14 +0000
+doi: 10.1086/507518
+eprint: astro-ph/0603147
+journal: \apjl
+keywords: 'Magnetohydrodynamics: MHD, Stars: Pulsars: General, Stars: Magnetic Fields,
+  Stars: Neutron'
+month: September
+pages: L51-L54
+papis_id: 1b4ba01e433e8cc5b3d6c229e758d26f
+ref: spitkovsky.a.2006
+title: 'Time-dependent Force-free Pulsar Magnetospheres: Axisymmetric and Oblique
+  Rotators'
+type: article
+volume: '648'
+year: '2006'

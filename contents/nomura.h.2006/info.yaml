@@ -1,0 +1,36 @@
+abstract: We have studied dust evolution in a quiescent or turbulent protoplanetary
+  disk by numerically solving a coagulation equation for settling dust particles,
+  using the minimum mass solar nebula model. As a result, if we assume an ideally
+  quiescent disk, the dust particles settle toward the disk midplane to form a gravitationally
+  unstable layer within 2\texttimes{}103 to 4\texttimes{}104 yr at 1-30 AU, which
+  is in good agreement with an analytic calculation by Nakagawa et al., although they
+  did not take the particle size distribution into account explicitly. In an opposite
+  extreme case of a globally turbulent disk, on the other hand, the dust particles
+  fluctuate owing to turbulent motion of the gas and most particles become large enough
+  to move inward very rapidly within 70 to 3\texttimes{}104 yr at 1-30 AU, depending
+  on the strength of the turbulence. Our result suggests that global turbulent motion
+  should cease for planetesimal formation to be possible in protoplanetary disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...640.1099N
+arxivurl: http://arxiv.org/abs/astro-ph/0601013
+author: Nomura, H. and Nakagawa, Y.
+author_list:
+- family: Nomura
+  given: H.
+- family: Nakagawa
+  given: Y.
+date-added: 2017-08-10 14:52:11 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500251
+eprint: astro-ph/0601013
+journal: \apj
+keywords: 'Stars: Planetary Systems: Formation, Stars: Planetary Systems: Protoplanetary
+  Disks'
+month: April
+pages: 1099--1109
+papis_id: dd18517d667b3e8cf3cf6d67c0d5f6f7
+ref: nomura.h.2006
+title: Dust Size Growth and Settling in a Protoplanetary Disk
+type: article
+volume: '640'
+year: '2006'

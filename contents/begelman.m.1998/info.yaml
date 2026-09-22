@@ -1,0 +1,52 @@
+abstract: Astrophysical jets and pulsar-fed supernova remnants (plerions) are expected
+  to develop highly organized magnetic structures dominated by concentric loops of
+  toroidal field, Bphi. It has been argued that such structures could explain the
+  polarization properties of some jets and contribute to their lateral confinement
+  through magnetic tension forces. A concentric toroidal field geometry is also central
+  to the Rees-Gunn model for the Crab Nebula, the archetypal plerion, and leads to
+  the deduction that the Crab pulsar's wind must have a weak magnetic field. Yet this
+  kind of equilibrium between magnetic and gas pressure forces, the ``equilibrium
+  Z-pinch'' of the controlled fusion literature, is well known to be susceptible to
+  disruptive localized instabilities, even when the magnetic field is weak and/or
+  boundary conditions (e.g., a dense external medium) slow or suppress global modes.
+  Thus, the magnetic field structures imputed to the interiors of jets and plerions
+  are unlikely to persist for very long.  To determine the growth rates of Z-pinch
+  instabilities under astrophysical conditions, I derive a dispersion relation that
+  is valid for the relativistic fluids of which jets and plerions may be composed,
+  in the ideal magnetohydrodynamics (MHD) limit. The dominant instabilities are kink
+  (m = 1) and pinch (m = 0) modes. The former generally dominate, destroying the concentric
+  field structure and probably driving the system toward a more chaotic state in which
+  the mean field strength is independent of radius (and in which resistive dissipation
+  of the field may be enhanced). I estimate the timescales over which the field structure
+  is likely to be rearranged and relate these to distances along relativistic jets
+  and radii from the central pulsar in a plerion.  I conclude that the central tenet
+  of the Rees-Gunn model for the Crab Nebula, the existence of a concentric toroidal
+  field well outside the pulsar wind's termination shock, is physically unrealistic.
+  With this assumption gone, there is no dynamical reason to conclude that the magnetic
+  energy flux carried by the pulsar wind is much weaker than the kinetic energy flux.
+  Abandoning the principal conclusion of Rees \& Gunn would resolve a long-standing
+  puzzle in pulsar wind theory.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...493..291B
+arxivurl: http://arxiv.org/abs/astro-ph/9708142
+author: Begelman, M. C.
+author_list:
+- family: Begelman
+  given: M. C.
+date-added: 2017-08-10 16:24:10 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305119
+eprint: astro-ph/9708142
+journal: \apj
+keywords: 'INSTABILITIES, ISM: INDIVIDUAL NAME: CRAB NEBULA, ISM: JETS AND OUTFLOWS,
+  ISM: MAGNETIC FIELDS, MAGNETOHYDRODYNAMICS: MHD, POLARIZATION, STARS: PULSARS: GENERAL,
+  Instabilities, ISM: Jets and Outflows, ISM: Magnetic Fields, Magnetohydrodynamics:
+  MHD, ISM: Individual: Name: Crab Nebula, Polarization, Stars: Pulsars: General'
+month: January
+pages: 291--300
+papis_id: c6c030568b6aabe15cd5cd5fbdfb47ab
+ref: begelman.m.1998
+title: Instability of Toroidal Magnetic Field in Jets and Plerions
+type: article
+volume: '493'
+year: '1998'

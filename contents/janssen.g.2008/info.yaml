@@ -1,0 +1,57 @@
+abstract: 'Context: PSR J1518+4904 is one of only 9 known double neutron star systems.
+  These systems are highly valuable for measuring the masses of neutron stars, measuring
+  the effects of gravity, and testing gravitational theories.  Aims: We determine
+  an improved timing solution for a mildly relativistic double neutron star system,
+  combining data from multiple telescopes. We set better constraints on relativistic
+  parameters and the separate masses of the system, and discuss the evolution of PSR
+  J1518+4904 in the context of other double neutron star systems.  Methods: PSR J1518+4904
+  has been regularly observed for more than 10 years by the European Pulsar Timing
+  Array (EPTA) network using the Westerbork, Jodrell Bank, Effelsberg and Nan{\c c}ay
+  radio telescopes. The data were analysed using the updated timing software tempo2.  Results:
+  We have improved the timing solution for this double neutron star system. The periastron
+  advance has been refined and a significant detection of proper motion is presented.
+  It is not likely that more post-Keplerian parameters, with which the individual
+  neutron star masses and the inclination angle of the system can be determined separately,
+  can be measured in the near future.   Conclusions: Using a combination of the high-quality
+  data sets present in the EPTA collaboration, extended with the original GBT data,
+  we have constrained the masses in the system to mp < 1.17 M\_\&sun; and mc > 1.55
+  M\_\&sun; (95.4\% confidence), and the inclination angle of the orbit to be less
+  than 47 degrees (99\%). From this we derive that the pulsar in this system possibly
+  has one of the lowest neutron star masses measured to date. From evolutionary considerations
+  it seems likely that the companion star, despite its high mass, was formed in an
+  electron-capture supernova.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...490..753J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0808.2292
+author: Janssen, G. H. and Stappers, B. W. and Kramer, M. and Nice, D. J. and Jessner,
+  A. and Cognard, I. and Purver, M. B.
+author_list:
+- family: Janssen
+  given: G. H.
+- family: Stappers
+  given: B. W.
+- family: Kramer
+  given: M.
+- family: Nice
+  given: D. J.
+- family: Jessner
+  given: A.
+- family: Cognard
+  given: I.
+- family: Purver
+  given: M. B.
+date-added: 2017-08-10 22:09:35 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1051/0004-6361:200810076
+eprint: '0808.2292'
+journal: \aap
+keywords: 'stars: neutron, pulsars: general, pulsars: individual: PSR J1518+4904'
+month: November
+pages: 753--761
+papis_id: d5d17fa0f16c4fb665a6c39a9a443a11
+ref: janssen.g.2008
+title: Multi-telescope timing of PSR J1518+4904
+type: article
+volume: '490'
+year: '2008'

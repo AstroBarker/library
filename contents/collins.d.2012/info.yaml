@@ -1,0 +1,61 @@
+abstract: 'We examine the effects of self-gravity and magnetic fields on supersonic
+  turbulence in isothermal molecular clouds with high-resolution simulations and adaptive
+  mesh refinement. These simulations use large root grids (5123) to capture turbulence
+  and four levels of refinement to follow the collapse to high densities, for an effective
+  resolution of 81923. Three Mach 9 simulations are performed, two super-Alfv{\''e}nic
+  and one trans-Alfv{\''e}nic. We find that gravity splits the clouds into two populations,
+  one low-density turbulent state and one high-density collapsing state. The low-density
+  state exhibits properties similar to non-self-gravitating in this regime, and we
+  examine the effects of varied magnetic field strength on statistical properties:
+  the density probability distribution function is approximately lognormal, the velocity
+  power spectral slopes decrease with decreasing mean field strength, the alignment
+  between velocity and magnetic field increases with the field, and the magnetic field
+  probability distribution can be fitted to a stretched exponential. The high-density
+  state is well characterized by self-similar spheres: the density probability distribution
+  is a power law, collapse rate decreases with increasing mean field, density power
+  spectra have positive slopes, P(rho, k)vpropk, thermal-to-magnetic pressure ratios
+  are roughly unity for all mean field strengths, dynamic-to-magnetic pressure ratios
+  are larger than unity for all mean field strengths, the magnetic field distribution
+  follows a power-law distribution. The high Alfv{\''e}n Mach numbers in collapsing
+  regions explain the recent observations of magnetic influence decreasing with density.
+  We also find that the high-density state is typically found in filaments formed
+  by converging flows, consistent with recent Herschel observations. Possible modifications
+  to existing star formation theories are explored. The overall trans-Alfv{\''e}nic
+  nature of star-forming clouds is discussed.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...750...13C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.2594
+author: Collins, D. C. and Kritsuk, A. G. and Padoan, P. and Li, H. and Xu, H. and
+  Ustyugov, S. D. and Norman, M. L.
+author_list:
+- family: Collins
+  given: D. C.
+- family: Kritsuk
+  given: A. G.
+- family: Padoan
+  given: P.
+- family: Li
+  given: H.
+- family: Xu
+  given: H.
+- family: Ustyugov
+  given: S. D.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-11 01:32:21 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/750/1/13
+eid: '13'
+eprint: '1202.2594'
+journal: \apj
+keywords: 'magnetohydrodynamics: MHD, stars: formation'
+month: May
+pages: '13'
+papis_id: 7b759f026fcd52f81e28efb4d25cd7d4
+primaryclass: astro-ph.SR
+ref: collins.d.2012
+title: The Two States of Star-forming Clouds
+type: article
+volume: '750'
+year: '2012'

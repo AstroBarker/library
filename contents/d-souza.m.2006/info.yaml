@@ -1,0 +1,40 @@
+abstract: 'Hydrodynamical simulations of semidetached, polytropic binary stars are
+  presented in an effort to study the onset and stability of dynamical mass transfer
+  events. Initial, synchronously rotating equilibrium models are constructed using
+  a self-consistent field technique and then evolved with an Eulerian hydrodynamics
+  code in a fully self-consistent manner. We describe code improvements introduced
+  over the past few years that permit us to follow dynamical mass transfer events
+  through more than 30 orbits. Mass transfer evolutions are presented for two different
+  initial configurations: a dynamically unstable binary with initial mass ratio (donor/accretor)
+  q0=1.3 that leads to a complete merger in ~10 orbits, and a double-degenerate binary
+  with initial mass ratio q0=0.5 that, after some initial unstable growth of mass
+  transfer, tends to separate as the mass transfer rate levels off.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643..381D
+arxivurl: http://arxiv.org/abs/astro-ph/0512137
+author: D'Souza, M. C. R. and Motl, P. M. and Tohline, J. E. and Frank, J.
+author_list:
+- family: D'Souza
+  given: M. C. R.
+- family: Motl
+  given: P. M.
+- family: Tohline
+  given: J. E.
+- family: Frank
+  given: J.
+date-added: 2017-08-10 19:17:09 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/500384
+eprint: astro-ph/0512137
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Binaries: Close, Hydrodynamics, Instabilities,
+  Methods: Numerical, Stars: White Dwarfs'
+month: May
+pages: 381--401
+papis_id: 933a2e41134310a9d2b4c83ba70fe535
+ref: d_souza.m.2006
+title: Numerical Simulations of the Onset and Stability of Dynamical Mass Transfer
+  in Binaries
+type: article
+volume: '643'
+year: '2006'

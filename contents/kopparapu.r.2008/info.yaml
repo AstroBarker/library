@@ -1,0 +1,52 @@
+abstract: An up-to-date catalog of nearby galaxies considered to be hosts of binary
+  compact objects is provided, with complete information about sky position, distance,
+  extinction-corrected blue luminosity, and error estimates. With our current understanding
+  of binary evolution, rates of formation and coalescence for binary compact objects
+  scale with massive-star formation, and hence the (extinction-corrected) blue luminosity
+  of host galaxies. Coalescence events in binary compact objects are among the most
+  promising gravitational-wave sources for ground-based gravitational-wave detectors
+  such as LIGO. Our catalog and associated error estimates are important for the interpretation
+  of analyses carried out for LIGO, in constraining the rates of compact binary coalescence,
+  given an astrophysical population model for the sources considered. We discuss how
+  the notion of effective distance, created to account for the antenna pattern of
+  a gravitational-wave detector, must be used in conjunction with our catalog. We
+  also note that the catalog provided can be used in other astronomical analysis of
+  populations that scale with galaxy blue luminosity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...675.1459K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.1283
+author: Kopparapu, R. K. and Hanna, C. and Kalogera, V. and O'Shaughnessy, R. and
+  González, G. and Brady, P. R. and Fairhurst, S.
+author_list:
+- family: Kopparapu
+  given: R. K.
+- family: Hanna
+  given: C.
+- family: Kalogera
+  given: V.
+- family: O'Shaughnessy
+  given: R.
+- family: González
+  given: G.
+- family: Brady
+  given: P. R.
+- family: Fairhurst
+  given: S.
+date-added: 2017-08-11 08:20:31 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1086/527348
+eid: 1459-1467
+eprint: '0706.1283'
+journal: \apj
+keywords: 'binaries: close, catalogs, galaxies: luminosity function, mass function,
+  gravitational waves, stars: neutron'
+month: March
+pages: 1459--1467
+papis_id: b5360e7ec02b95e876b0e2e2abdc33f4
+ref: kopparapu.r.2008
+title: Host Galaxies Catalog Used in LIGO Searches for Compact Binary Coalescence
+  Events
+type: article
+volume: '675'
+year: '2008'

@@ -1,0 +1,64 @@
+abstract: The first stars are the key to the formation of primitive galaxies, early
+  cosmological reionization and chemical enrichment, and the origin of supermassive
+  black holes. Unfortunately, in spite of their extreme luminosities, individual Population
+  III (Pop III) stars will likely remain beyond the reach of direct observation for
+  decades to come. However, their properties could be revealed by their supernova
+  explosions, which may soon be detected by a new generation of near-IR (NIR) observatories
+  such as JWST and WFIRST. We present light curves and spectra for Pop III pair-instability
+  supernovae calculated with the Los Alamos radiation hydrodynamics code RAGE. Our
+  numerical simulations account for the interaction of the blast with realistic circumstellar
+  envelopes, the opacity of the envelope, and Lyman absorption by the neutral intergalactic
+  medium at high redshift, all of which are crucial to computing the NIR signatures
+  of the first cosmic explosions. We find that JWST will detect pair-instability supernovae
+  out to z >~ 30, WFIRST will detect them in all-sky surveys out to z ~ 15-20, and
+  LSST and Pan-STARRS will find them at z <~ 7-8. The discovery of these ancient explosions
+  will probe the first stellar populations and reveal the existence of primitive galaxies
+  that might not otherwise have been detected.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...777..110W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.4979
+author: Whalen, D. J. and Even, W. and Frey, L. H. and Smidt, J. and Johnson, J. L.
+  and Lovekin, C. C. and Fryer, C. L. and Stiavelli, M. and Holz, D. E. and Heger,
+  A. and Woosley, S. E. and Hungerford, A. L.
+author_list:
+- family: Whalen
+  given: D. J.
+- family: Even
+  given: W.
+- family: Frey
+  given: L. H.
+- family: Smidt
+  given: J.
+- family: Johnson
+  given: J. L.
+- family: Lovekin
+  given: C. C.
+- family: Fryer
+  given: C. L.
+- family: Stiavelli
+  given: M.
+- family: Holz
+  given: D. E.
+- family: Heger
+  given: A.
+- family: Woosley
+  given: S. E.
+- family: Hungerford
+  given: A. L.
+date-added: 2017-08-10 19:06:14 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1088/0004-637X/777/2/110
+eid: '110'
+eprint: '1211.4979'
+journal: \apj
+keywords: 'early universe, galaxies: high-redshift, hydrodynamics, radiative transfer,
+  shock waves, stars: early-type, supernovae: general'
+month: November
+pages: '110'
+papis_id: 58d5e38893f1ff9d0dcd1778855b36d5
+ref: whalen.d.2013
+title: Finding the First Cosmic Explosions. I. Pair-instability Supernovae
+type: article
+volume: '777'
+year: '2013'

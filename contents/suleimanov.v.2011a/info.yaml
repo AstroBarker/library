@@ -1,0 +1,50 @@
+abstract: 'Aims: X-ray bursting neutron stars in low-mass X-ray binaries constitute
+  an appropriate source class for constraining the masses and radii of neutron stars,
+  but a sufficiently extended set of corresponding model atmospheres is necessary
+  for these investigations.  Methods: We computed such a set of model atmospheres
+  and emergent spectra in a plane-parallel, hydrostatic, and LTE approximation with
+  Compton scattering taken into account.  Results: The models were calculated for
+  six different chemical compositions: pure hydrogen, pure helium, and a solar mix
+  of hydrogen and helium with various heavy element abundances Z = 1,0.3,0.1, and
+  0.01 Z\&sun;. For each chemical composition the models are computed for three values
+  of surface gravity, log g =14.0, 14.3, and 14.6, and for 20 values of the luminosity
+  in units of the Eddington luminosity, L/LEdd, in the range 0.001-0.98. The emergent
+  spectra of all models are redshifted and fitted by a diluted blackbody in the RXTE/PCA
+  3-20 keV energy band, and corresponding values of the color correction (hardness
+  factors) fc are presented.  Conclusions: Theoretical dependences fc-L/LEdd can be
+  fitted to the observed dependence K -1/4-F of the blackbody normalization K on flux
+  during cooling stages of X-ray bursts to determine the Eddington flux and the ratio
+  of the apparent neutron star radius to the source distance. If the distance is known,
+  these parameters can be transformed to the constraints on neutron star mass and
+  radius. Theoretical atmosphere spectra can also be used for direct comparison with
+  the observed X-ray burst spectra.  Tables A.1 and A.2 are only available in electronic
+  form at CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.125.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/527/A139'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...527A.139S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.6147
+author: Suleimanov, V. and Poutanen, J. and Werner, K.
+author_list:
+- family: Suleimanov
+  given: V.
+- family: Poutanen
+  given: J.
+- family: Werner
+  given: K.
+date-added: 2017-08-11 02:48:45 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/201015845
+eid: A139
+eprint: '1009.6147'
+journal: \aap
+keywords: 'radiative transfer, scattering, methods: numerical, stars: neutron, stars:
+  atmospheres, X-rays: stars'
+month: March
+pages: A139
+papis_id: 155ece590849ef644993410fea0c9208
+primaryclass: astro-ph.HE
+ref: suleimanov.v.2011a
+title: 'X-ray bursting neutron star atmosphere models: spectra and color corrections'
+type: article
+volume: '527'
+year: '2011'

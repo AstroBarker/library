@@ -1,0 +1,43 @@
+abstract: 'We have built a code to obtain the exact solutions of Riemann problems
+  in ideal magnetohydrodynamics (MHD) for an arbitrary initial condition. The code
+  can handle not only regular waves but also switch-on/off rarefactions and all types
+  of non-regular shocks: intermediate shocks and switch-on/off shocks. Furthermore,
+  the initial conditions with vanishing normal or transverse magnetic fields can be
+  handled, although the code is partly based on the algorithm proposed by Torrilhon
+  (2002) (Torrilhon, M. 2002 Exact solver and uniqueness condition for Riemann problems
+  of ideal magnetohydrodynamics. Research report 2002-06, Seminar for Applied Mathematics,
+  ETH, Zurich, Switzerland), which cannot deal with all types of non-regular waves
+  nor the initial conditions without normal or transverse magnetic fields. Our solver
+  can find all the solutions for a given Riemann problem, and hence, as demonstrated
+  in this paper, one can investigate the structure of the solution space in detail.
+  Therefore, the solver is a powerful instrument to solve the outstanding problem
+  of existence and uniqueness of solutions of MHD Riemann problems. Moreover, the
+  solver may be applied to numerical MHD schemes like the Godunov scheme in the future.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014JPlPh..80..255T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.2330
+author: 'Takahashi, K. and Yamada, S. and Yamada, '
+author_list:
+- family: Takahashi
+  given: K.
+- family: Yamada
+  given: S.
+- family: Yamada
+  given: ''
+date-added: 2018-09-14 12:01:34 -0400
+date-modified: 2018-09-14 12:01:35 -0400
+doi: 10.1017/S0022377813001268
+eprint: '1310.2330'
+groups: Numerical Methods - General
+journal: Journal of Plasma Physics
+month: April
+pages: 255--287
+papis_id: b58f5a0b135a7dbb9b582ee7afa900ea
+primaryclass: astro-ph.HE
+ref: takahashi.k.2014
+title: Exact Riemann solver for ideal magnetohydrodynamics that can handle all types
+  of intermediate shocks and switch-on/off waves
+type: article
+volume: '80'
+year: '2014'

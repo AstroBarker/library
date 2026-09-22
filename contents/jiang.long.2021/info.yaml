@@ -1,0 +1,37 @@
+abstract: Recent discoveries of double neutron star (DNS) mergers and ultra-stripped
+  supernovae (SNe) raise the questions of their origin and connection. We present
+  the first 1D~model of a DNS progenitor system which is calculated self-consistently
+  until an ultra-stripped iron core collapse. We apply the \texttt{MESA} code starting
+  from a post-common envelope binary consisting of a $1.35\;M_\odot$ NS and a \$3.20\;M\_\odot\$
+  zero-age main-sequence helium star and continue the modelling via Case~BB Roche-lobe
+  overflow until the infall velocity of the collapsing iron core exceeds \$1000\;{\rm
+  km\,s}^{-1}\$. The exploding star has a total mass of \$\sim 1.90\;M\_\odot\$, consisting
+  of a \$\sim 0.29\;M\_\odot\$ He-rich envelope embedding a CO core of \$\sim 1.61\;M\_\odot\$
+  and an iron-rich core of \$\sim 1.50\;M\_\odot\$. The resulting second-born NS has
+  an estimated mass of \$\sim 1.44\;M\_\odot\$ and we discuss the fate of the post-SN
+  system, as well as the mild recycling of the first-born NS. Depending on the initial
+  conditions, this family of systems is anticipated to reproduce the DNS mergers detected
+  by the LIGO-network.
+archiveprefix: arXiv
+author: Jiang, Long and Tauris, Thomas M. and Chen, Wen-Cong and Fuller, Jim
+author_list:
+- family: Jiang
+  given: Long
+- family: Tauris
+  given: Thomas M.
+- family: Chen
+  given: Wen-Cong
+- family: Fuller
+  given: Jim
+doi: 10.3847/2041-8213/ac2cc9
+eprint: '2110.02979'
+file: :http\://arxiv.org/pdf/2110.02979v1:PDF
+journal: Astrophysical Journal Letters (2021) 920, L36
+keywords: astro-ph.SR, astro-ph.HE
+month: October
+papis_id: 65005397b37515b6a0c5d6b17fc53361
+primaryclass: astro-ph.SR
+ref: jiang.long.2021
+title: Novel Model of an Ultra-stripped Supernova Progenitor of a Double Neutron Star
+type: article
+year: '2021'

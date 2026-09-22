@@ -1,0 +1,42 @@
+abstract: We use a 3D relativistic SPH (smoothed particle hydrodynamics) code to study
+  mergers of black hole-neutron star (BH-NS) binary systems with low mass ratios,
+  adopting q \equiv{} MNS/MBHsimeq 0.1 as a representative case. The outcome of such
+  mergers depends sensitively on both the magnitude of the BH spin and its obliquity
+  (i.e., the inclination of the binary orbit with respect to the equatorial plane
+  of the BH). In particular, only systems with sufficiently high BH spin parameter
+  a and sufficiently low orbital inclinations allow any NS matter to escape or to
+  form a long-lived disk outside the BH horizon after disruption. Mergers of binaries
+  with orbital inclinations above ~60$\,^{\circ}$ lead to complete prompt accretion
+  of the entire NS by the BH, even for the case of an extreme Kerr BH. We find that
+  the formation of a significant disk or torus of NS material around the BH always
+  requires a near-maximal BH spin and a low initial inclination of the NS orbit just
+  prior to merger.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...680.1326R
+arxivurl: http://arxiv.org/abs/astro-ph/0703599
+author: Rantsiou, E. and Kobayashi, S. and Laguna, P. and Rasio, F. A.
+author_list:
+- family: Rantsiou
+  given: E.
+- family: Kobayashi
+  given: S.
+- family: Laguna
+  given: P.
+- family: Rasio
+  given: F. A.
+date-added: 2017-08-11 03:40:48 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/587858
+eid: 1326-1349
+eprint: astro-ph/0703599
+journal: \apj
+keywords: 'binaries: close, black hole physics, gamma rays: bursts, relativity, stars:
+  neutron'
+month: June
+pages: 1326--1349
+papis_id: 50a04f95dfb11043c4c21d78ab0b3244
+ref: rantsiou.e.2008
+title: Mergers of Black Hole-Neutron Star Binaries. I. Methods and First Results
+type: article
+volume: '680'
+year: '2008'

@@ -1,0 +1,50 @@
+abstract: 'We present models of photometric evolution of galaxies in which the effects
+  of a dusty interstellar medium have been included with particular care. A chemical
+  evolution code follows the star formation rate, the gas fraction, and the metallicity,
+  basic ingredients for the stellar population synthesis. The latter is performed
+  with a grid of integrated spectra of simple stellar populations (SSP) of different
+  ages and metallicities, in which the effects of dusty envelopes around asymptotic
+  giant branch (AGB) stars are included. The residual fraction of gas in the galaxy
+  is divided into two phases: the star-forming molecular clouds and the diffuse medium.
+  The relative amount is a model parameter. The molecular gas is subdivided into clouds
+  of given mass and radius: it is supposed that each SSP is born within the cloud
+  and progressively escapes it. The emitted spectrum of the star-forming molecular
+  clouds is computed with a radiative transfer code. The diffuse dust emission (cirrus)
+  is derived by describing the galaxy as an axially symmetric system, in which the
+  local dust emissivity is consistently calculated as a function of the local field
+  intensity due to the stellar component. Effects of very small grains, subject to
+  temperature fluctuations, as well as polycyclic aromatic hydrocarbons (PAHs) are
+  included. The model is compared and calibrated with available data of normal and
+  starburst galaxies in the local universe, in particular new broadband and spectroscopic
+  Infrared Space Observatory (ISO) observations. It will be a powerful tool to investigate
+  the star formation, the initial mass function (IMF), supernova rate (SNR) in nearby
+  starbursts and normal galaxies, as well as to predict the evolution of luminosity
+  functions of different types of galaxies at wavelengths covering four decades.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...509..103S
+author: Silva, L. and Granato, G. L. and Bressan, A. and Danese, L.
+author_list:
+- family: Silva
+  given: L.
+- family: Granato
+  given: G. L.
+- family: Bressan
+  given: A.
+- family: Danese
+  given: L.
+date-added: 2017-08-11 05:25:24 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306476
+journal: \apj
+keywords: 'ISM: DUST, EXTINCTION, GALAXIES: ISM, GALAXIES: SPIRAL, GALAXIES: STARBURST,
+  INFRARED: GALAXIES, RADIATIVE TRANSFER, ISM: Dust, Extinction, Galaxies: ISM, Galaxies:
+  Spiral, Galaxies: Starburst, Infrared: Galaxies, Radiative Transfer'
+month: December
+pages: 103--117
+papis_id: b8bc4d53ce0986bf0c1696f3142a3001
+ref: silva.l.1998
+title: Modeling the Effects of Dust on Galactic Spectral Energy Distributions from
+  the Ultraviolet to the Millimeter Band
+type: article
+volume: '509'
+year: '1998'

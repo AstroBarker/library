@@ -1,0 +1,31 @@
+abstract: In this paper we study the two-dimensional version of the Runge-Kutta Local
+  Projection Discontinuous Galerkin (RKDG) methods, already defined and analyzed in
+  the one-dimensional case. These schemes are defined on general triangulations. They
+  can easily handle the boundary conditions, verify maximum principles, and are formally
+  uniformly high-ordrr accurate. Preliminary numerical results showing the performance
+  of the schemes on a variety of initial-boundary value problems are shown.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1990MaCom..54..545C
+author: Cockburn, B. and Hou, S. and Shu, C.-W.
+author_list:
+- family: Cockburn
+  given: B.
+- family: Hou
+  given: S.
+- family: Shu
+  given: C.-W.
+date-added: 2017-08-11 07:00:12 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1090/S0025-5718-1990-1010597-0
+journal: Mathematics of Computation
+keywords: Discontinuous finite elements, local projection, multidimensional conservation
+  laws
+month: April
+pages: 545--581
+papis_id: 0fe8d2fd77b17aec54538636c8c4d40c
+ref: cockburn.b.1990
+title: The Runge-Kutta local projection discontinuous Galerkin finite element method
+  for conservation laws. IV. The multidimensional case
+type: article
+volume: '54'
+year: '1990'

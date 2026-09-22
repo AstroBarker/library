@@ -1,0 +1,105 @@
+abstract: We use the UV-optical color magnitude diagram in combination with spectroscopic
+  and photometric measurements derived from the SDSS spectroscopic sample to measure
+  the distribution of galaxies in the local universe (z<0.25) and their physical properties
+  as a function of specific star formation rate (SFR/M\textasteriskcentered) and stellar
+  mass (M\textasteriskcentered). Throughout this study our emphasis is on the properties
+  of galaxies on and off of a local ``star-forming sequence.'' We discuss how the
+  physical characteristics of galaxies along this sequence are related to scaling
+  relations typically derived for galaxies of different morphological types. We find,
+  among other trends, that our measure of the star formation rate surface density,
+  SigmaSFR, is nearly constant along this sequence. We discuss this result and implications
+  for galaxies at higher redshift. For the first time, we report on measurements of
+  the local UV luminosity function versus galaxy structural parameters, as well as
+  inclination. We also split our sample into disk-dominated and bulge-dominated subsamples
+  using the i-band Sersic index and find that disk-dominated galaxies occupy a very
+  tight locus in SFR/M\textasteriskcentered vs. M\textasteriskcentered space, while
+  bulge-dominated galaxies display a much larger spread of SFR/M\textasteriskcentered
+  at fixed stellar mass. A significant fraction of galaxies with SFR/M\textasteriskcentered
+  and SigmaSFR above those on the ``star-forming sequence'' are bulge-dominated. We
+  can use our derived distribution functions to ask whether a significant fraction
+  of these galaxies may be experiencing a final episode of star formation (possibly
+  induced by a merger or other burst), soon to be quenched, by determining whether
+  this population can explain the growth rate of the non-star-forming galaxies on
+  the ``red sequence.'' We find that this is a plausible scenario for bulge-dominated
+  galaxies near the characteristic transition mass under reasonable assumptions regarding
+  quenching timescales. Similarly, we use this technique to estimate the rate of mergers/starbursts
+  that take galaxies off of the star-forming sequence and show that the implied merger
+  rates are consistent with local measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJS..173..315S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0711.4823
+author: Schiminovich, D. and Wyder, T. K. and Martin, D. C. and Johnson, B. D. and
+  Salim, S. and Seibert, M. and Treyer, M. A. and Budavári, T. and Hoopes, C. and
+  Zamojski, M. and Barlow, T. A. and Forster, K. G. and Friedman, P. G. and Morrissey,
+  P. and Neff, S. G. and Small, T. A. and Bianchi, L. and Donas, J. and Heckman, T.
+  M. and Lee, Y.-W. and Madore, B. F. and Milliard, B. and Rich, R. M. and Szalay,
+  A. S. and Welsh, B. Y. and Yi, S.
+author_list:
+- family: Schiminovich
+  given: D.
+- family: Wyder
+  given: T. K.
+- family: Martin
+  given: D. C.
+- family: Johnson
+  given: B. D.
+- family: Salim
+  given: S.
+- family: Seibert
+  given: M.
+- family: Treyer
+  given: M. A.
+- family: Budavári
+  given: T.
+- family: Hoopes
+  given: C.
+- family: Zamojski
+  given: M.
+- family: Barlow
+  given: T. A.
+- family: Forster
+  given: K. G.
+- family: Friedman
+  given: P. G.
+- family: Morrissey
+  given: P.
+- family: Neff
+  given: S. G.
+- family: Small
+  given: T. A.
+- family: Bianchi
+  given: L.
+- family: Donas
+  given: J.
+- family: Heckman
+  given: T. M.
+- family: Lee
+  given: Y.-W.
+- family: Madore
+  given: B. F.
+- family: Milliard
+  given: B.
+- family: Rich
+  given: R. M.
+- family: Szalay
+  given: A. S.
+- family: Welsh
+  given: B. Y.
+- family: Yi
+  given: S.
+date-added: 2017-08-11 03:30:08 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/524659
+eprint: '0711.4823'
+journal: \apjs
+keywords: 'Galaxies: Evolution, Galaxies: Formation, Surveys, Ultraviolet: Galaxies'
+month: December
+pages: 315--341
+papis_id: 910b6c44a98dd8669cd0f20248a20c35
+ref: schiminovich.d.2007
+title: The UV-Optical Color Magnitude Diagram. II. Physical Properties and Morphological
+  Evolution On and Off of a Star-forming Sequence
+type: article
+volume: '173'
+year: '2007'

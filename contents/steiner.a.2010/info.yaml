@@ -1,0 +1,45 @@
+abstract: 'We determine an empirical dense matter equation of state (EOS) from a heterogeneous
+  data set of six neutron stars: three Type-I X-ray bursters with photospheric radius
+  expansion, studied by {\"O}zel et al., and three transient low-mass X-ray binaries.
+  We critically assess the mass and radius determinations from the X-ray burst sources
+  and show explicitly how systematic uncertainties, such as the photospheric radius
+  at touchdown, affect the most probable masses and radii. We introduce a parameterized
+  EOS and use a Markov chain Monte Carlo algorithm within a Bayesian framework to
+  determine nuclear parameters such as the incompressibility and the density dependence
+  of the bulk symmetry energy. Using this framework we show, for the first time, that
+  these parameters, predicted solely on the basis of astrophysical observations, all
+  lie in ranges expected from nuclear systematics and laboratory experiments. We find
+  significant constraints on the mass-radius relation for neutron stars, and hence
+  on the pressure-density relation of dense matter. The predicted symmetry energy
+  and the EOS near the saturation density are soft, resulting in relatively small
+  neutron star radii around 11-12 km for M = 1.4 M sun. The predicted EOS stiffens
+  at higher densities, however, and our preferred model for X-ray bursts suggests
+  that the neutron star maximum mass is relatively large, 1.9-2.2 M sun. Our results
+  imply that several commonly used equations of state are inconsistent with observations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722...33S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1005.0811
+author: Steiner, A. W. and Lattimer, J. M. and Brown, E. F.
+author_list:
+- family: Steiner
+  given: A. W.
+- family: Lattimer
+  given: J. M.
+- family: Brown
+  given: E. F.
+date-added: 2017-08-10 17:03:25 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/1/33
+eprint: '1005.0811'
+journal: \apj
+keywords: 'dense matter, stars: neutron, X-rays: binaries, X-rays: bursts'
+month: October
+pages: 33--54
+papis_id: 5915240b62c601746b264dff41a1c32b
+primaryclass: astro-ph.HE
+ref: steiner.a.2010
+title: The Equation of State from Observed Masses and Radii of Neutron Stars
+type: article
+volume: '722'
+year: '2010'

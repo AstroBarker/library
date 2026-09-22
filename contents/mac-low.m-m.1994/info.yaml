@@ -1,0 +1,32 @@
+abstract: We use the astrophysical hydrocode ZEUS to compute high-resolution models
+  of the disruption and deceleration of cometary fragments striking Jupiter. We find
+  that simple analytic and semianalytic models work well for kilometer-size impactors.
+  We show that previous numerical models that placed the explosion much deeper in
+  the atmosphere failed to fully resolve important gasdynamical instabilities. These
+  instabilities tear the comet apart, greatly increase its effective cross section,
+  and bring it to an abrupt halt. A 1 km diameter fragment loses over 90\% of its
+  kinetic energy within a single scale height at an atmospheric pressure of order
+  10 bars. For all practical purposes, it explodes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...434L..33M
+author: Mac Low, M.-M. and Zahnle, K.
+author_list:
+- family: Mac Low
+  given: M.-M.
+- family: Zahnle
+  given: K.
+date-added: 2017-08-10 23:51:09 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/187565
+journal: \apjl
+keywords: Computerized Simulation, Explosions, Gas Dynamics, Jupiter Atmosphere, Mathematical
+  Models, Shoemaker-Levy 9 Comet, Atmospheric Pressure, Computational Grids, Energy
+  Transfer, Kinetic Energy, Pressure Effects
+month: October
+pages: L33-L36
+papis_id: dd6ea791ac4622f2ee929fa55e9f56f5
+ref: mac_low.m_m.1994
+title: Explosion of comet Shoemaker-Levy 9 on entry into the Jovian atmosphere
+type: article
+volume: '434'
+year: '1994'

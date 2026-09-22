@@ -1,0 +1,52 @@
+abstract: 'Context: We study turbulent convection during the core helium flash close
+  to its peak by comparing the results of two and three-dimensional hydrodynamic simulations.  Aims:
+  In a previous study we found that the temporal evolution and the properties of the
+  convection inferred from two-dimensional hydrodynamic studies are similar to those
+  predicted by quasi-hydrostatic stellar evolutionary calculations. However, as vorticity
+  is conserved in axisymmetric flows, two-dimensional simulations of convection are
+  characterized by incorrect dominant spatial scales and exaggerated velocities. Here,
+  we present three-dimensional simulations that eliminate the restrictions and flaws
+  of two-dimensional models and that provide a geometrically unbiased insight into
+  the hydrodynamics of the core helium flash. In particular, we study whether the
+  assumptions and predictions of stellar evolutionary calculations based on the mixing-length
+  theory can be confirmed by hydrodynamic simulations.  Methods: We used a multidimensional
+  Eulerian hydrodynamics code based on state-of-the-art numerical techniques to simulate
+  the evolution of the helium core of a 1.25 M\&sun; Pop I star.  Results: Our three-dimensional
+  hydrodynamic simulations of the evolution of a star during the peak of the core
+  helium flash do not show any explosive behavior. The convective flow patterns developing
+  in the three-dimensional models are structurally different from those of the corresponding
+  two-dimensional models, and the typical convective velocities are lower than those
+  found in their two-dimensional counterparts. Three-dimensional models also tend
+  to agree more closely with the predictions of mixing length theory. Our hydrodynamic
+  simulations show the turbulent entrainment that leads to a growth of the convection
+  zone on a dynamic time scale. In contrast to mixing length theory, the outer part
+  of the convection zone is characterized by a subadiabatic temperature gradient.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...501..659M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.4083
+author: Mocák, M. and Müller, E. and Weiss, A. and Kifonidis, K.
+author_list:
+- family: Mocák
+  given: M.
+- family: Müller
+  given: E.
+- family: Weiss
+  given: A.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-10 16:27:11 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1051/0004-6361/200811414
+eprint: '0811.4083'
+journal: \aap
+keywords: 'stars: evolution, hydrodynamics, convection, stars: interiors'
+month: July
+pages: 659--677
+papis_id: 4860b67d1c7202f3cc5f36d9767a215f
+ref: mocak.m.2009
+title: The core helium flash revisited. II. Two and three-dimensional hydrodynamic
+  simulations
+type: article
+volume: '501'
+year: '2009'

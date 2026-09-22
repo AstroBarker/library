@@ -1,0 +1,51 @@
+abstract: 'We obtained four Chandra/ACIS-S observations beginning 2 weeks after the
+  end of the 2000 November outburst of the neutron star (NS) transient Aql X-1. Over
+  the 5 month span in quiescence, the X-ray spectra are consistent with thermal emission
+  from a NS with a pure hydrogen photosphere and R\infty{}=15.9+0.8-2.9 (d/5 kpc)
+  km at the optically implied X-ray column density. We also detect a hard power-law
+  tail during two of the four observations. The intensity of Aql X-1 first decreased
+  by 50\%+/-4\% over 3 months, then increased by 35\%+/-5\% in 1 month, and then remained
+  constant (<6\% change) over the last month. These variations in the first two observations
+  cannot be explained by a change in either the power-law spectral component or the
+  X-ray column density. Presuming a pure hydrogen atmosphere and that R\infty{} is
+  not variable, the long-term changes can only be explained by variations in the NS
+  effective temperature, from kTeff,\infty{}=130+3-5 eV, down to 113+3-4 eV, and finally
+  increasing to 118+9-4 eV for the final two observations. During one of these observations,
+  we observe two phenomena that were previously suggested as indicators of quiescent
+  accretion onto the NS: short-timescale (<104 s) variability (at 32+8-6\% rms) and
+  a possible absorption feature near 0.5 keV. The possible absorption feature can
+  potentially be explained as being due to a time-variable response in the ACIS detector.
+  Even so, such a feature has not been detected previously from a NS and, if confirmed
+  and identified, can be exploited for simultaneous measurements of the photospheric
+  redshift and NS radius.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577..346R
+arxivurl: http://arxiv.org/abs/astro-ph/0204196
+author: Rutledge, R. E. and Bildsten, L. and Brown, E. F. and Pavlov, G. G. and Zavlin,
+  V. E.
+author_list:
+- family: Rutledge
+  given: R. E.
+- family: Bildsten
+  given: L.
+- family: Brown
+  given: E. F.
+- family: Pavlov
+  given: G. G.
+- family: Zavlin
+  given: V. E.
+date-added: 2017-08-11 02:47:37 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/342155
+eprint: astro-ph/0204196
+journal: \apj
+keywords: 'Stars: Atmospheres, Stars: Individual: Constellation Name: Aquila X-1,
+  Stars: Neutron, X-Rays: Binaries'
+month: September
+pages: 346--358
+papis_id: 1a966384dbea4744311c391c735a37b5
+ref: rutledge.r.2002a
+title: Variable Thermal Emission from Aquila X-1 in Quiescence
+type: article
+volume: '577'
+year: '2002'

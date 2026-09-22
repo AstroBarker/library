@@ -1,0 +1,38 @@
+abstract: The composition of gamma-ray burst (GRB) ejecta is still a mystery. The
+  standard model invokes an initially hot "fireball" composed of baryonic matter.
+  Here, we analyze the broadband spectra of GRB 080916C detected by the Fermi satellite.
+  The featureless Band spectrum of all five epochs as well as the detections of gsim10
+  GeV photons in this burst place a strong constraint on the prompt emission radius
+  R gamma, which is typically gsim1015 cm, independent of the details of the emission
+  process. The lack of detection of a thermal component as predicted by the baryonic
+  models strongly suggests that a significant fraction of the outflow energy is initially
+  not in the "fireball" form, but is likely in a Poynting flux entrained with the
+  baryonic matter. The ratio between the Poynting and baryonic fluxes is at least
+  ~(15-20) at the photosphere radius, if the Poynting flux is not directly converted
+  to kinetic energy below the photosphere.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700L..65Z
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0904.2943
+author: Zhang, B. and Pe'er, A.
+author_list:
+- family: Zhang
+  given: B.
+- family: Pe'er
+  given: A.
+date-added: 2017-08-11 05:00:44 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/700/2/L65
+eprint: '0904.2943'
+journal: \apjl
+keywords: 'gamma rays: bursts, gamma rays: observations, gamma rays: theory, plasmas,
+  radiation mechanisms: non-thermal, radiation mechanisms: thermal'
+month: August
+pages: L65-L68
+papis_id: fa5e08a36a23ac2264156681a80e7c81
+primaryclass: astro-ph.HE
+ref: zhang.b.2009
+title: Evidence of an Initially Magnetically Dominated Outflow in GRB 080916C
+type: article
+volume: '700'
+year: '2009'

@@ -1,0 +1,52 @@
+abstract: 'The success of the neutrino mechanism of core-collapse supernovae relies
+  on the supporting action of two hydrodynamic instabilities: neutrino-driven convection
+  and the standing accretion shock instability (SASI). Depending on the structure
+  of the stellar progenitor, each of these instabilities can dominate the evolution
+  of the gain region prior to the onset of explosion, with implications for the ensuing
+  asymmetries. Here we examine the flow dynamics in the neighbourhood of explosion
+  by means of parametric two-dimensional, time-dependent hydrodynamic simulations
+  for which the linear stability properties are well understood. We find that systems
+  for which the convection parameter chi is subcritical (SASI-dominated) develop explosions
+  once large-scale, high-entropy bubbles are able to survive for several SASI oscillation
+  cycles. These long-lived structures are seeded by the SASI during shock expansions.
+  Finite-amplitude initial perturbations do not alter this outcome qualitatively,
+  though they can lead to significant differences in explosion times. Supercritical
+  systems (convection-dominated) also explode by developing large-scale bubbles, though
+  the formation of these structures is due to buoyant activity. Non-exploding systems
+  achieve a quasi-steady state in which the time-averaged flow adjusts itself to be
+  convectively subcritical. We characterize the turbulent flow using a spherical Fourier-Bessel
+  decomposition, identifying the relevant scalings and connecting temporal and spatial
+  components. Finally, we verify the applicability of these principles on the general
+  relativistic, radiation-hydrodynamic simulations of M{\"u}ller, Janka \& Heger,
+  and discuss implications for the three-dimensional case.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.440.2763F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1310.0469
+author: Fernández, R. and Müller, B. and Foglizzo, T. and Janka, H.-T.
+author_list:
+- family: Fernández
+  given: R.
+- family: Müller
+  given: B.
+- family: Foglizzo
+  given: T.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 16:17:37 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1093/mnras/stu408
+eprint: '1310.0469'
+journal: \mnras
+keywords: 'hydrodynamics, instabilities, neutrinos, nuclear reactions, nucleosynthesis,
+  abundances, shock waves, supernovae: general'
+month: May
+pages: 2763--2780
+papis_id: 0b9383b1230d392770cf9b8e21dc5134
+primaryclass: astro-ph.SR
+ref: fernandez.r.2014
+title: Characterizing SASI- and convection-dominated core-collapse supernova explosions
+  in two dimensions
+type: article
+volume: '440'
+year: '2014'

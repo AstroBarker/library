@@ -1,0 +1,51 @@
+abstract: The nature of carbon burning flames in Type Ia supernovae is explored as
+  they interact with Kolmogorov turbulence. One-dimensional calculations using the
+  Linear Eddy Model of Kerstein elucidate three regimes of turbulent burning. In the
+  simplest case, large-scale turbulence folds and deforms thin laminar flamelets to
+  produce a flame brush with a total burning rate given approximately by the speed
+  of turbulent fluctuations on the integral scale, UL , This is the regime where the
+  supernova explosion begins and where most of its pre-detonation burning occurs.
+  As the density declines, turbulence starts to tear the individual flamelets, making
+  broader structures that move faster. For a brief time, these turbulent flamelets
+  are still narrow compared to their spacing and the concept of a flame brush moving
+  with an overall speed of UL remains valid. However, the typical width of the individual
+  flamelets, which is given by the condition that their turnover time equals their
+  burning time, continues to increase as the density declines. Eventually, mixed regions
+  almost as large as the integral scale itself are transiently formed. At that point,
+  a transition to detonation can occur. The conditions for such a transition are explored
+  numerically and it is estimated that the transition will occur for densities near
+  1 \texttimes{} 107 g cm-3, provided the turbulent speed on the integral scale exceeds
+  about 20\% sonic. An example calculation shows the details of a detonation actually
+  developing.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..255W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.3610
+author: Woosley, S. E. and Kerstein, A. R. and Sankaran, V. and Aspden, A. J. and
+  Röpke, F. K.
+author_list:
+- family: Woosley
+  given: S. E.
+- family: Kerstein
+  given: A. R.
+- family: Sankaran
+  given: V.
+- family: Aspden
+  given: A. J.
+- family: Röpke
+  given: F. K.
+date-added: 2017-08-11 02:26:45 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/1/255
+eprint: '0811.3610'
+journal: \apj
+keywords: 'hydrodynamics, shock waves, supernovae: general, turbulence'
+month: October
+pages: 255--273
+papis_id: a00f05897b4e8bf9d3a1f1211e65405e
+ref: woosley.s.2009a
+title: 'Type Ia Supernovae: Calculations of Turbulent Flames Using the Linear Eddy
+  Model'
+type: article
+volume: '704'
+year: '2009'

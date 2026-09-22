@@ -1,0 +1,47 @@
+abstract: The effect of rotation on the explosion of core-collapse supernovae is investigated
+  systematically in three-dimensional simulations. In order to obtain the critical
+  conditions for explosion as a function of mass accretion rate, neutrino luminosity,
+  and specific angular momentum, rigidly rotating matter was injected from the outer
+  boundary with an angular momentum, which is increased every 500 ms. It is found
+  that there is a critical value of the specific angular momentum, above which the
+  standing shock wave revives, for a given combination of mass accretion rate and
+  neutrino luminosity, i.e., an explosion can occur by rotation even if the neutrino
+  luminosity is lower than the critical value for a given mass accretion rate in non-rotational
+  models. The coupling of rotation and hydrodynamical instabilities plays an important
+  role in characterizing the dynamics of shock revival for the range of specific angular
+  momentum that are supposed to be realistic. Contrary to expectations from past studies,
+  the most rapidly expanding direction of the shock wave is not aligned with the rotation
+  axis. Being perpendicular to the rotation axis on average, it can be oriented in
+  various directions. Its dispersion is small when the spiral mode of the standing
+  accretion shock instability (SASI) governs the dynamics, while it is large when
+  neutrino-driven convection is dominant. As a result of the comparison between two-dimensional
+  and three-dimensional rotational models, it is found that m != 0 modes of neutrino-driven
+  convection or SASI are important for shock revival around the critical surface.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...793....5I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.2646
+author: Iwakami, W. and Nagakura, H. and Yamada, S.
+author_list:
+- family: Iwakami
+  given: W.
+- family: Nagakura
+  given: H.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 18:15:55 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/793/1/5
+eid: '5'
+eprint: '1404.2646'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, stars: rotation, supernovae: general'
+month: September
+pages: '5'
+papis_id: d63d760844340b6a57b7e4d4f85499a6
+primaryclass: astro-ph.HE
+ref: iwakami.w.2014
+title: Critical Surface for Explosions of Rotational Core-collapse Supernovae
+type: article
+volume: '793'
+year: '2014'

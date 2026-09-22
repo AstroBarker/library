@@ -1,0 +1,49 @@
+abstract: Kozai-Lidov (KL) oscillations can accelerate compact object mergers via
+  gravitational wave radiation by driving the inner binaries of hierarchical triples
+  to high eccentricities. We perform direct three-body integrations of high-mass-ratio
+  compact object triple systems using FEWBODY including post-Newtonian terms. We find
+  that the inner binary undergoes rapid eccentricity oscillations (REOs) on the time-scale
+  of the outer orbital period which drive it to higher eccentricities than secular
+  theory would otherwise predict, resulting in substantially reduced merger times.
+  For a uniform distribution of tertiary eccentricity (e2), \texttildelow{}40 per
+  cent of systems merge within \texttildelow{}1-2 eccentric KL time-scales whereas
+  secular theory predicts that only \texttildelow{}20 per cent of such systems merge
+  that rapidly. This discrepancy becomes especially pronounced at low e2, with secular
+  theory overpredicting the merger time by many orders of magnitude. We show that
+  a non-negligible fraction of systems have eccentricity >0.8 when they merge, in
+  contrast to predictions from secular theory. Our results are applicable to high-mass-ratio
+  triple systems containing black holes or neutron stars. In objects in which tidal
+  effects are important, such as white dwarfs, stars, and planets, REOs can reduce
+  the tidal circularization time-scale by an order of magnitude and bring the components
+  of the inner binary into closer orbits than would be possible in the secular approximation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.439.1079A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.5682
+author: Antognini, J. M. and Shappee, B. J. and Thompson, T. A. and Amaro-Seoane,
+  P.
+author_list:
+- family: Antognini
+  given: J. M.
+- family: Shappee
+  given: B. J.
+- family: Thompson
+  given: T. A.
+- family: Amaro-Seoane
+  given: P.
+date-added: 2017-08-10 16:12:39 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1093/mnras/stu039
+eprint: '1308.5682'
+journal: \mnras
+keywords: 'binaries: close, stars: kinematics'
+month: March
+pages: 1079--1091
+papis_id: 9612a67242257c198f338c9a286b21e2
+primaryclass: astro-ph.HE
+ref: antognini.j.2014
+title: Rapid eccentricity oscillations and the mergers of compact objects in hierarchical
+  triples
+type: article
+volume: '439'
+year: '2014'

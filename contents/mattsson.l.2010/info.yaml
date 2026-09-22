@@ -1,0 +1,62 @@
+abstract: 'Context. Knowing how the mass loss of carbon-rich AGB stars depends on
+  stellar parameters is crucial for stellar evolution modelling, as well as for the
+  understanding of when and how circumstellar structures emerge around these stars,
+  e.g., dust shells and so-called detached shells of expelled gas.  Aims: The purpose
+  of this paper is to explore the stellar parameter space using a numerical radiation
+  hydrodynamic (RHD) model of carbon-star atmospheres, including a detailed description
+  of dust formation and frequency-dependent radiative transfer, in order to determine
+  how the mass loss of carbon stars changes with stellar parameters.  Methods: We
+  have computed a grid of 900 numeric dynamic model atmospheres (DMAs) using a well-tested
+  computer code. This grid of models covers most of the expected combinations of stellar
+  parameters, which are made up of the stellar temperature, the stellar luminosity,
+  the stellar mass, the abundance of condensible carbon, and the velocity amplitude
+  of the pulsation.  Results: The resultant mass-loss rates and wind speeds are clearly
+  affected by the choice of stellar temperature, mass, luminosity and the abundance
+  of available carbon. In certain parts of the parameter space there is also an inevitable
+  mass-loss threshold, below which a dust-driven wind is not possible. Contrary to
+  some previous studies, we find a strong dependence on the abundance of free carbon,
+  which turns out to be a critical parameter. Furthermore, we have found that the
+  dust grains that form in the atmosphere may grow too large for the commonly used
+  small particle approximation of the dust opacity to be strictly valid. This may
+  have some bearing on the wind properties, although further study of this problem
+  is needed before quantitative conclusions can be drawn.  Conclusions: The wind properties
+  show relatively simple dependences on stellar parameters above the mass-loss threshold,
+  while the threshold itself is of a more complicated nature. Hence, we chose not
+  to derive any simplistic mass-loss formula, but rather provide a mass-loss prescription
+  in the form of an easy-to-use FORTRAN routine (available at http://coolstars.astro.uu.se).
+  Since this mass-loss routine is based on data coming from an essentially self-consistent
+  model of mass loss, it may therefore serve as a better mass-loss prescription for
+  stellar evolution calculations than empirical formulae. Furthermore, we conclude
+  that there are still some issues that need to be investigated, such as the r{\^o}le
+  of grain-sizes.  Tables 3-14 and FORTAN code are only available in electronic form
+  at the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/509/A14'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...509A..14M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.1513
+author: Mattsson, L. and Wahlin, R. and Höfner, S.
+author_list:
+- family: Mattsson
+  given: L.
+- family: Wahlin
+  given: R.
+- family: Höfner
+  given: S.
+date-added: 2017-08-11 04:24:42 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1051/0004-6361/200912084
+eid: A14
+eprint: '0909.1513'
+journal: \aap
+keywords: 'stars: AGB and post-AGB, stars: atmospheres, stars: carbon, circumstellar
+  matter, stars: evolution, stars: mass-loss'
+month: January
+pages: A14
+papis_id: db21d91d2319b2f35c27f1318b92126b
+primaryclass: astro-ph.SR
+ref: mattsson.l.2010
+title: Dust driven mass loss from carbon stars as a function of stellar parameters
+  . I. A grid of solar-metallicity wind models
+type: article
+volume: '509'
+year: '2010'

@@ -1,0 +1,61 @@
+abstract: 'Aims:During the first 40 s after their birth, proto-neutron stars are expected
+  to be subject to at least two types of instability. The first one, the convective
+  instability, is excited in the inner regions, where the entropy gradient produces
+  a Rayleigh-type convection. The second one, the neutron-finger instability, is instead
+  excited in the outer layers where the lepton gradients are large. Both instabilities
+  involve convective motions and hence can trigger dynamo actions that may be responsible
+  for the large magnetic fields in neutron stars and magnetars. However, because they
+  have rather different mean turbulent velocities, they are also likely to give rise
+  to different types of dynamo.  Methods: We have solved the mean-field induction
+  equation in a simplified one-dimensional model of both the convective and the neutron-finger
+  instability zones. Although very idealized, the model includes the nonlinearities
+  introduced by the feedback processes that tend to saturate the growth of the magnetic
+  field (alpha-quenching) and suppress its turbulent diffusion (eta-quenching). The
+  possibility of a dynamo action is studied within a dynamical model of turbulent
+  diffusivity where the boundary of the unstable zone is allowed to move. A large
+  number of numerical simulations have been performed in which the relevant parameters,
+  such as the spin-period, the strength of the differential rotation, the intensity
+  of the initial magnetic field, and the extent of the neutron finger instability
+  zone, have been suitably varied.  Results: We show that the dynamo action can also
+  be operative within a dynamical model of turbulent diffusivity and that the amplification
+  of the magnetic field can still be very effective. Furthermore, we confirm the existence
+  of a critical spin-period, below which the dynamo is always excited independently
+  of the degree of differential rotation, and whose value is related to the size of
+  the neutron-finger instability zone. We provide a relation for the intensity of
+  the final field as a function of the spin of the star and of its differential rotation.  Conclusions:
+  Although they were obtained by using a toy model, we expect that our results are
+  able to capture the qualitative and asymptotic behaviour of a mean-field dynamo
+  action developing in the neutron-finger instability zone. Overall, we find that
+  such a dynamo is very efficient in producing magnetic fields well above equipartition,
+  and thus that it could represent a possible explanation for the large surface magnetic
+  fields observed in neutron stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...479..167N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0711.1498
+author: Naso, L. and Rezzolla, L. and Bonanno, A. and Paternò, L.
+author_list:
+- family: Naso
+  given: L.
+- family: Rezzolla
+  given: L.
+- family: Bonanno
+  given: A.
+- family: Paternò
+  given: L.
+date-added: 2017-08-11 06:40:30 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1051/0004-6361:20078360
+eprint: '0711.1498'
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), stars: neutron, turbulence, instabilities,
+  stars: magnetic fields, stars: rotation'
+month: February
+pages: 167--176
+papis_id: 84f25b7759ff47b9bfd16e133b5d839a
+ref: naso.l.2008
+title: Magnetic field amplification in proto-neutron stars. The role of the neutron-finger
+  instability for dynamo excitation
+type: article
+volume: '479'
+year: '2008'

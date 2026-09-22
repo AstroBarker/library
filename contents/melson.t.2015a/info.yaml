@@ -1,0 +1,49 @@
+abstract: We present the first successful simulation of a neutrino-driven supernova
+  explosion in three dimensions (3D), using the Prometheus-Vertex code with an axis-free
+  Yin-Yang grid and a sophisticated treatment of three-flavor, energy-dependent neutrino
+  transport. The progenitor is a nonrotating, zero-metallicity 9.6 {{M}\&sun; } star
+  with an iron core. While in spherical symmetry outward shock acceleration sets in
+  later than 300 ms after bounce, a successful explosion starts at \texttildelow{}130
+  ms postbounce in two dimensions (2D). The 3D model explodes at about the same time
+  but with faster shock expansion than in 2D and a more quickly increasing and roughly
+  10\% higher explosion energy of >1050 erg. The more favorable explosion conditions
+  in 3D are explained by lower temperatures and thus reduced neutrino emission in
+  the cooling layer below the gain radius. This moves the gain radius inward and leads
+  to a bigger mass in the gain layer, whose larger recombination energy boosts the
+  explosion energy in 3D. These differences are caused by less coherent, less massive,
+  and less rapid convective downdrafts associated with postshock convection in 3D.
+  The less violent impact of these accretion downflows in the cooling layer produces
+  less shock heating and therefore diminishes energy losses by neutrino emission.
+  We thus have, for the first time, identified a reduced mass accretion rate, lower
+  infall velocities, and a smaller surface filling factor of convective downdrafts
+  as consequences of 3D postshock turbulence that facilitate neutrino-driven explosions
+  and strengthen them compared to the 2D case.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...801L..24M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1501.01961
+author: Melson, T. and Janka, H.-T. and Marek, A.
+author_list:
+- family: Melson
+  given: T.
+- family: Janka
+  given: H.-T.
+- family: Marek
+  given: A.
+date-added: 2017-08-10 14:07:22 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/2041-8205/801/2/L24
+eid: L24
+eprint: '1501.01961'
+journal: \apjl
+keywords: 'hydrodynamics, instabilities, neutrinos, supernovae: general'
+month: March
+pages: L24
+papis_id: 1cb06334bc30b6c5d659fd169ce2bca8
+primaryclass: astro-ph.SR
+ref: melson.t.2015a
+title: Neutrino-driven Supernova of a Low-mass Iron-core Progenitor Boosted by Three-dimensional
+  Turbulent Convection
+type: article
+volume: '801'
+year: '2015'

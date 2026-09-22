@@ -1,0 +1,61 @@
+abstract: 'Strong mass loss on the red giant branch (RGB) can result in the formation
+  of extreme horizontal branch (EHB) stars. The EHB stars spend most of their He core
+  and shell-burning phase at high temperatures and produce copious ultraviolet flux.
+  They have very small hydrogen envelopes and occupy a small range in mass. It has
+  been suggested that the "ultraviolet excess phenomenon, seen in elliptical galaxies
+  and spiral bulges, is largely due to the ultraviolet flux from EHB stars and their
+  progeny. The main motivation behind this work is to understand how EHB stars can
+  be produced over a wide range of metallicities without fine-tuning the mass-loss
+  process.  We have computed evolutionary RGB models with mass loss for stars with
+  main-sequence ages between 12.5 and 14.5 Gyr, initial masses less than 1.1 Msun,
+  and metallicities of [Fe/H] = - 2.26, -1.48, -0.78,0.0, and 0.37. We used the Reimers
+  formula to characterize mass loss, but investigated a larger range of the mass-loss
+  efficiency parameter, etaR than is common. We adopted values of etaR from 0 to 1.2
+  for the compositions considered. Sufficiently rapid RGB mass loss causes stars to
+  "peel-off" the giant branch, evolve to high temperatures, and settle on the white
+  dwarf cooling curve. Some such stars have adequate helium core mass to undergo the
+  helium flash, but only later at high temperatures: we call these "hot He-flashers."
+  After helium ignition, the hot-flashers lie at the very blue end of the horizontal
+  branch, forming a "blue hook." The blue-hook stars are a part of the EHB population
+  and evolve into AGB-manqu{\''e} stars. The rest of the peel-off stars form helium
+  white dwarfs, which we call "flashmanqu{\''e}" stars. To understand how the number
+  of EHB stars varies with metallicity in a stellar population we considered how the
+  zero-age horizontal branch (ZAHB) is populated. We assumed the distribution of ZAHB
+  stars to be driven by a distribution in the mass-loss efficiency (parameterized
+  by etaR) rather than by a distribution in mass. Our results show that at low metallicity,
+  EHB stars are produced if etaR is 2-3 times larger than the value producing normal
+  "mid-HB stars." However, the range in etaR producing EHB stars is comparable to
+  that producing mid-HB stars.  Somewhat surprisingly, neither the range nor magnitude
+  of etaR producing EHB stars varies much with metallicity. In contrast, the range
+  of etaR producing mid-HB stars decreases with increasing metallicity. Hence, the
+  HB of populations with solar metallicity and higher, such as those expected in elliptical
+  galaxies and spiral bulges, will be bimodal if the distribution covers a sufficiently
+  large range in etaR.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...466..359D
+arxivurl: http://arxiv.org/abs/astro-ph/9511017
+author: D'Cruz, N. L. and Dorman, B. and Rood, R. T. and O'Connell, R. W.
+author_list:
+- family: D'Cruz
+  given: N. L.
+- family: Dorman
+  given: B.
+- family: Rood
+  given: R. T.
+- family: O'Connell
+  given: R. W.
+date-added: 2017-08-10 20:47:18 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177515
+eprint: astro-ph/9511017
+journal: \apj
+keywords: 'GALAXIES: PHOTOMETRY, STARS: EVOLUTION, STARS: HORIZONTAL-BRANCH, STARS:
+  INTERIORS, STARS: MASS LOSS, ULTRAVIOLET: GALAXIES'
+month: July
+pages: '359'
+papis_id: 76c030edeaebe5b72594ad623c9b7270
+ref: d_cruz.n.1996
+title: The Origin of Extreme Horizontal Branch Stars
+type: article
+volume: '466'
+year: '1996'

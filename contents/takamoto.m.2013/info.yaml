@@ -1,0 +1,38 @@
+abstract: In this paper, we investigate the evolution of plasmoid chains in a Poynting-dominated
+  plasma. We model the relativistic current sheet with a cold background plasma using
+  the relativistic resistive magnetohydrodynamic approximation and solve for its temporal
+  evolution numerically. We perform various calculations using different magnetization
+  parameters of the background plasma and different Lundquist numbers. Numerical results
+  show that the initially induced plasmoid triggers a secondary tearing instability,
+  which gradually fills the current sheet with plasmoids, as has also been observed
+  in the non-relativistic case. We find that plasmoid chains greatly enhance the reconnection
+  rate, which becomes independent of the Lundquist number when the Lundquist number
+  exceeds a critical value. In addition, we show that the distribution of plasmoid
+  size becomes a power law. Since magnetic reconnection is expected to play an important
+  role in various high-energy astrophysical phenomena, our results can be used for
+  explaining the physical mechanisms of those phenomena.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...775...50T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.5677
+author: Takamoto, M.
+author_list:
+- family: Takamoto
+  given: M.
+date-added: 2017-08-10 16:35:06 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/775/1/50
+eid: '50'
+eprint: '1307.5677'
+journal: \apj
+keywords: 'magnetic fields, magnetic reconnection, magnetohydrodynamics: MHD, plasmas,
+  relativistic processes'
+month: September
+pages: '50'
+papis_id: 81df366491ad08a28d110fbbb0a691ed
+primaryclass: astro-ph.HE
+ref: takamoto.m.2013
+title: Evolution of Relativistic Plasmoid Chains in a Poynting-dominated Plasma
+type: article
+volume: '775'
+year: '2013'

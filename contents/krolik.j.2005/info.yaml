@@ -1,0 +1,48 @@
+abstract: This paper continues the analysis of a set of general relativistic three-dimensional
+  MHD simulations of accreting tori in the Kerr metric with different black hole spins.
+  We focus on bound matter inside the initial pressure maximum, where the time-averaged
+  motion of gas is inward and an accretion disk forms. We use the flows of mass, angular
+  momentum, and energy in order to understand dynamics in this region. The sharp reduction
+  in accretion rate with increasing black hole spin reported in the first paper of
+  this series is explained by a strongly spin-dependent outward flux of angular momentum
+  conveyed electromagnetically; when a/M>=0.9, this flux can be comparable to the
+  inward angular momentum flux carried by the matter. In all cases, there is outward
+  electromagnetic angular momentum flux throughout the flow; in other words, contrary
+  to the assertions of traditional accretion disk theory, there is in general no ``stress
+  edge,'' no surface within which the stress is zero. The retardation of accretion
+  in the inner disk by electromagnetic torques also alters the radial distribution
+  of surface density, an effect that may have consequences for observable properties,
+  such as Compton reflection. The net accreted angular momentum is sufficiently depressed
+  by electromagnetic effects that in the most rapidly spinning black holes mass growth
+  can lead to spin-down. Spinning black holes also lose energy by Poynting flux; this
+  rate is also a strongly increasing function of black hole spin, rising to >~10\%
+  of the rest-mass accretion rate at very high spin. As the black hole spins faster,
+  the path of the Poynting flux changes from being predominantly within the accretion
+  disk to being predominantly within the funnel outflow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...622.1008K
+arxivurl: http://arxiv.org/abs/astro-ph/0409231
+author: Krolik, J. H. and Hawley, J. F. and Hirose, S.
+author_list:
+- family: Krolik
+  given: J. H.
+- family: Hawley
+  given: J. F.
+- family: Hirose
+  given: S.
+date-added: 2017-08-11 05:29:19 +0000
+date-modified: 2017-12-05 16:37:21 +0000
+doi: 10.1086/427932
+eprint: astro-ph/0409231
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Instabilities, Magnetohydrodynamics:
+  MHD'
+month: April
+pages: 1008--1023
+papis_id: f0044c3ddacf2851b0c7de71ab122f67
+ref: krolik.j.2005
+title: Magnetically Driven Accretion Flows in the Kerr Metric. IV. Dynamical Properties
+  of the Inner Disk
+type: article
+volume: '622'
+year: '2005'

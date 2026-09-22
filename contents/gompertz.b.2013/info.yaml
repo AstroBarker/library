@@ -1,0 +1,45 @@
+abstract: Extended emission gamma-ray bursts are a subset of the `short' class of
+  burst which exhibit an early time rebrightening of gamma emission in their light
+  curves. This extended emission arises just after the initial emission spike, and
+  can persist for up to hundreds of seconds after trigger. When their light curves
+  are overlaid, our sample of 14 extended emission bursts show a remarkable uniformity
+  in their evolution, strongly suggesting a common central engine powering the emission.
+  One potential central engine capable of this is a highly magnetized, rapidly rotating
+  neutron star, known as a magnetar. Magnetars can be formed by two compact objects
+  coalescing, a scenario which is one of the leading progenitor models for short bursts
+  in general. Assuming that a magnetar is formed, we gain a value for the magnetic
+  field and late-time spin period for nine of the extended emission bursts by fitting
+  the magnetic dipole spin-down model of Zhang and M{\'e}sz{\'a}ros. Assuming that
+  the magnetic field is constant, and the observed energy release during extended
+  emission is entirely due to the spin-down of this magnetar, we then derive the spin
+  period at birth for the sample. We find that all birth spin periods are in good
+  agreement with those predicted for a newly born magnetar.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.431.1745G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1302.3643
+author: Gompertz, B. P. and O'Brien, P. T. and Wynn, G. A. and Rowlinson, A.
+author_list:
+- family: Gompertz
+  given: B. P.
+- family: O'Brien
+  given: P. T.
+- family: Wynn
+  given: G. A.
+- family: Rowlinson
+  given: A.
+date-added: 2017-08-10 18:58:16 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1093/mnras/stt293
+eprint: '1302.3643'
+journal: \mnras
+keywords: 'gamma-ray: burst: general, stars: magnetars'
+month: May
+pages: 1745--1751
+papis_id: 5cfd2739dfa72a1895faaec5a7eddbca
+primaryclass: astro-ph.HE
+ref: gompertz.b.2013
+title: Can magnetar spin-down power extended emission in some short GRBs?
+type: article
+volume: '431'
+year: '2013'

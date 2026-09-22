@@ -1,0 +1,61 @@
+abstract: 'We have examined the properties of shock waves in simulations of large-scale
+  structure formation. Two cosmological scenarios have been considered: a standard
+  cold dark matter model with OmegaM=1 (SCDM), and a cold dark matter model with cosmological
+  constant and OmegaM+OmegaLambda=1 (LambdaCDM) having OmegaLambda=0.55. Large-scale
+  shocks result from accretion onto sheets, filaments, and knots of mass distribution
+  on a scale of the order of ~5 h-1 Mpc in both scenarios. Energetic motions, partly
+  residuals of past accretion processes and partly caused by current asymmetric inflow
+  along filaments, end up generating additional shocks. These extend on a scale of
+  the order of ~1 h-1 Mpc and envelop and penetrate deep inside the clusters. Collisions
+  between substructures inside clusters also form merger shocks. Consequently, the
+  topology of the shocks is very complex and highly connected. During cosmic evolution
+  the comoving shock surface density decreases, reflecting the ongoing structure merger
+  process in both scenarios. Accretion shocks have very high Mach numbers, typically
+  between 10 and a few \texttimes{}103, when photoheating of the preshock gas is not
+  included. The characteristic shock velocity is of the order of vsh(z)=H(z)lambdanl(z),
+  where lambdanl(z) is the wavelength scale of the nonlinear perturbation at the given
+  epoch. However, the Mach number for merger and flow shocks (which occur within clusters)
+  is usually smaller, in the range of ~3-10, corresponding to the fact that the intracluster
+  gas is hot (i.e., already shock heated). Statistical fits of shock velocities around
+  clusters as a function of cluster temperature give power-law functions in accord
+  with those predicted by one-dimensional solutions. On the other hand, a very different
+  result is obtained for the shock radius, reflecting extremely complex shock structures
+  surrounding clusters of galaxies in three-dimensional simulations. The amount of
+  inflowing kinetic energy across the shocks around clusters, which represents the
+  power available for cosmic-ray acceleration, is comparable to the cluster X-ray
+  luminosity emitted from a central region of radius 0.5 h-1 Mpc. Considering their
+  large size and long lifetimes, those shocks are potentially interesting sites for
+  cosmic-ray acceleration, if modest magnetic fields exist within them.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...542..608M
+arxivurl: http://arxiv.org/abs/astro-ph/0005444
+author: Miniati, F. and Ryu, D. and Kang, H. and Jones, T. W. and Cen, R. and Ostriker,
+  J. P.
+author_list:
+- family: Miniati
+  given: F.
+- family: Ryu
+  given: D.
+- family: Kang
+  given: H.
+- family: Jones
+  given: T. W.
+- family: Cen
+  given: R.
+- family: Ostriker
+  given: J. P.
+date-added: 2017-08-11 07:42:18 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317027
+eprint: astro-ph/0005444
+journal: \apj
+keywords: 'Acceleration of Particles, Galaxies: Clusters: General, Cosmology: Large-Scale
+  Structure of Universe, Methods: Numerical, Shock Waves, X-Rays: Galaxies'
+month: October
+pages: 608--621
+papis_id: 172ad03b280fad34c57c52ea02ad8702
+ref: miniati.f.2000
+title: Properties of Cosmic Shock Waves in Large-Scale Structure Formation
+type: article
+volume: '542'
+year: '2000'

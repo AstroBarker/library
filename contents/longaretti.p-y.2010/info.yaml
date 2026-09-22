@@ -1,0 +1,50 @@
+abstract: 'Context. In the recent years, MRI-driven turbulent transport has been found
+  to depend in a significant way on fluid viscosity nu and resistivity eta through
+  the magnetic Prandtl number Pm = nu/eta. In particular, the transport decreases
+  with decreasing Pm; if persistent at very large Reynolds numbers, this trend may
+  lead to question the role of MRI-turbulence in YSO disks, whose Prandtl number is
+  usually very small.  Aims: In this context, the principal objective of the present
+  investigation is to characterize in a refined way the role of dissipation. Another
+  objective is to characterize the effect of linear (channel modes) and quasi-linear
+  (parasitic modes) physics in the behavior of the transport.  Methods: These objectives
+  are addressed with the help of a number of incompressible numerical simulations.
+  The horizontal extent of the box size has been increased in order to capture all
+  relevant (fastest growing) linear and secondary parasitic unstable modes.  Results:
+  The major results are the following: i- the increased accuracy in the computation
+  of transport averages shows that the dependence of transport on physical dissipation
+  exhibits two different regimes: for Pm \lessapprox{} 1, the transport has a power-law
+  dependence on the magnetic Reynolds number rather than on the Prandtl number; for
+  Pm > 1, the data are consistent with a primary dependence on Pm for large enough
+  (\texttildelow{}103) Reynolds numbers. ii- The transport-dissipation correlation
+  is not clearly or simply related to variations of the linear modes growth rates.
+  iii- The existence of the transport-dissipation correlation depends neither on the
+  number of linear modes captured in the simulations, nor on the effect of the parasitic
+  modes on the saturation of the linear modes growth. iv- The transport is usually
+  not dominated by axisymmetric (channel) modes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...516A..51L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1004.1384
+author: Longaretti, P.-Y. and Lesur, G.
+author_list:
+- family: Longaretti
+  given: P.-Y.
+- family: Lesur
+  given: G.
+date-added: 2017-08-11 00:09:05 +0000
+date-modified: 2017-12-05 16:36:50 +0000
+doi: 10.1051/0004-6361/201014093
+eid: A51
+eprint: '1004.1384'
+journal: \aap
+keywords: accretion, accretion disks, turbulence, magnetohydrodynamics (MHD)
+month: June
+pages: A51
+papis_id: ac20619859d7ac4e180fe9735c0302a9
+primaryclass: astro-ph.SR
+ref: longaretti.p_y.2010
+title: 'MRI-driven turbulent transport: the role of dissipation, channel modes and
+  their parasites'
+type: article
+volume: '516'
+year: '2010'

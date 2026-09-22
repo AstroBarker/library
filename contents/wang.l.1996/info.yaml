@@ -1,0 +1,70 @@
+abstract: 'We have used the Faint Object Spectrograph on the Hubble Space Telescope
+  (HST) to observe the spectra of SN 1987A over the wavelength range 2000-8000 A on
+  dates 1862 and 2210 days after the supernova outburst. Even these preCOSTAR observations
+  avoid much of the contamination from the bright stars nearby and provide a very
+  useful set of line strengths and shapes for analysis. The spectrum is formed in
+  an unusual physical setting: cold gas that is excited and ionized by energetic electrons
+  from the radioactive debris of the supernova explosion. The spectra of SN 1987A
+  at this phase are surprisingly similar to those of the nova shells of CP Puppis
+  and T Pyxidis decades after . SN 1987A and the novae are characterized by emission
+  from material with electron temperatures of only a few hundred kelvins and show
+  narrow Balmer continuum emission and strong emission lines from O^+^. The Balmer
+  continuum shape requires the electron temperature in the supernova ejecta to be
+  as low as 500 K on day 1862 and 400 K on day 2210 after outburst. The [O II] lambdalambda3726,
+  3728 doublet is surprisingly strong and is plausibly powered by collisional ionization
+  of neutral oxygen to excited states of O^+^. The line intensity ratio of the [O
+  I] lambdalambda6300, 6364 doublet obtained from Gaussian fits of the line profiles
+  is 1.8 +/- 0.2, contrary to the optically thin limit of 3. This ratio is not due
+  to an optical depth effect but, rather, is an artifact of assuming a Gaussian profile
+  to fit the [O I] lambdalambda6300, 6364 doublet profile. Specifying the line ratio
+  R = F([O I] lambda6300)/F([O I] lambda6364) = 3 is consistent with the data and
+  allows a calculation of the decomposed line profile. All the observed strong lines
+  are found to be blueshifted by a similar amount of 400 km s^-1^. The line profiles
+  are quite similar for lines arising from dIfferent chemical elements. The profiles
+  are all asymmetric, showing redshifted extended tails with velocities up to 10,000
+  km s^-1^ in some strong lines. The blueshift of the line peaks is attributed to
+  dust that condensed from the SN 1987A ejecta that is still distributed in dense
+  opaque clumps. The strongest ultraviolet lines are those of Mg I lambda2852 and
+  Mg II lambdalambda2795,2802. The Mg I lambda2852 line is significantly broader than
+  most lines in the optical, which provides a natural explanation for the size differences
+  in the optical and ultraviolet of the SN 1987A ejecta derived from HST direct images.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...466..998W
+arxivurl: http://arxiv.org/abs/astro-ph/9602157
+author: Wang, L. and Wheeler, J. C. and Kirshner, R. P. and Challis, P. M. and Filippenko,
+  A. V. and Fransson, C. and Panagia, N. and Phillips, M. M. and Suntzeff, N.
+author_list:
+- family: Wang
+  given: L.
+- family: Wheeler
+  given: J. C.
+- family: Kirshner
+  given: R. P.
+- family: Challis
+  given: P. M.
+- family: Filippenko
+  given: A. V.
+- family: Fransson
+  given: C.
+- family: Panagia
+  given: N.
+- family: Phillips
+  given: M. M.
+- family: Suntzeff
+  given: N.
+date-added: 2017-08-10 15:31:43 +0000
+date-modified: 2017-12-05 16:37:45 +0000
+doi: 10.1086/177570
+eprint: astro-ph/9602157
+journal: \apj
+keywords: 'STARS: INDIVIDUAL ALPHANUMERIC: SN 1987A, ISM: SUPERNOVA REMNANTS, ULTRAVIOLET:
+  STARS'
+month: August
+pages: '998'
+papis_id: cb96122533d3928a25dd513311935be8
+ref: wang.l.1996
+title: Hubble Space Telescope Spectroscopic Observations of the Ejecta of SN 1987A
+  at 2000 Days
+type: article
+volume: '466'
+year: '1996'

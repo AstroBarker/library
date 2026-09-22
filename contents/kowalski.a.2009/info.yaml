@@ -1,0 +1,55 @@
+abstract: We present a flare rate analysis of 50,130 M dwarf light curves in Sloan
+  Digital Sky Survey Stripe 82. We identified 271 flares using a customized variability
+  index to search ~2.5 million photometric observations for flux increases in the
+  u and g bands. Every image of a flaring observation was examined by eye and with
+  a point-spread function-matching and image subtraction tool to guard against false
+  positives. Flaring is found to be strongly correlated with the appearance of Halpha
+  in emission in the quiet spectrum. Of the 99 flare stars that have spectra, we classify
+  eight as relatively inactive. The flaring fraction is found to increase strongly
+  in stars with redder colors during quiescence, which can be attributed to the increasing
+  flare visibility and increasing active fraction for redder stars. The flaring fraction
+  is strongly correlated with \vert{}Z\vert{} distance such that most stars that flare
+  are within 300 pc of the Galactic plane. We derive flare u-band luminosities and
+  find that the most luminous flares occur on the earlier-type m dwarfs. Our best
+  estimate of the lower limit on the flaring rate (averaged over Stripe 82) for flares
+  with Deltau >= 0.7 mag on stars with u < 22 is 1.3 flares hr-1 deg-2 but can vary
+  significantly with the line of sight.  Based on observations obtained with the Apache
+  Point Observatory 3.5 m telescope, which is owned and operated by the Astrophysical
+  Research Consortium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009AJ....138..633K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0906.2030
+author: Kowalski, A. F. and Hawley, S. L. and Hilton, E. J. and Becker, A. C. and
+  West, A. A. and Bochanski, J. J. and Sesar, B.
+author_list:
+- family: Kowalski
+  given: A. F.
+- family: Hawley
+  given: S. L.
+- family: Hilton
+  given: E. J.
+- family: Becker
+  given: A. C.
+- family: West
+  given: A. A.
+- family: Bochanski
+  given: J. J.
+- family: Sesar
+  given: B.
+date-added: 2017-08-11 02:41:50 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-6256/138/2/633
+eprint: '0906.2030'
+journal: \aj
+keywords: 'methods: data analysis, stars: activity, stars: flare, stars: late-type'
+month: August
+pages: 633--648
+papis_id: b57b3fa10ad2236fb516f88d1ab76976
+primaryclass: astro-ph.SR
+ref: kowalski.a.2009
+title: 'M Dwarfs in Sloan Digital Sky Survey Stripe 82: Photometric Light Curves and
+  Flare Rate Analysis'
+type: article
+volume: '138'
+year: '2009'

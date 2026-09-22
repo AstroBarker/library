@@ -1,0 +1,406 @@
+abstract: This paper describes the Sixth Data Release of the Sloan Digital Sky Survey.
+  With this data release, the imaging of the northern Galactic cap is now complete.
+  The survey contains images and parameters of roughly 287 million objects over 9583
+  deg2, including scans over a large range of Galactic latitudes and longitudes. The
+  survey also includes 1.27 million spectra of stars, galaxies, quasars, and blank
+  sky (for sky subtraction) selected over 7425 deg2. This release includes much more
+  stellar spectroscopy than was available in previous data releases and also includes
+  detailed estimates of stellar temperatures, gravities, and metallicities. The results
+  of improved photometric calibration are now available, with uncertainties of roughly
+  1\% in g, r, i, and z, and 2\% in u, substantially better than the uncertainties
+  in previous data releases. The spectra in this data release have improved wavelength
+  and flux calibration, especially in the extreme blue and extreme red, leading to
+  the qualitatively better determination of stellar types and radial velocities. The
+  spectrophotometric fluxes are now tied to point-spread function magnitudes of stars
+  rather than fiber magnitudes. This gives more robust results in the presence of
+  seeing variations, but also implies a change in the spectrophotometric scale, which
+  is now brighter by roughly 0.35 mag. Systematic errors in the velocity dispersions
+  of galaxies have been fixed, and the results of two independent codes for determining
+  spectral classifications and redshifts are made available. Additional spectral outputs
+  are made available, including calibrated spectra from individual 15 minute exposures
+  and the sky spectrum subtracted from each exposure. We also quantify a recently
+  recognized underestimation of the brightnesses of galaxies of large angular extent
+  due to poor sky subtraction; the bias can exceed 0.2 mag for galaxies brighter than
+  r = 14 mag.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJS..175..297A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.3413
+author: Adelman-McCarthy, J. K. and Agüeros, M. A. and Allam, S. S. and Allende Prieto,
+  C. and Anderson, K. S. J. and Anderson, S. F. and Annis, J. and Bahcall, N. A. and
+  Bailer-Jones, C. A. L. and Baldry, I. K. and Barentine, J. C. and Bassett, B. A.
+  and Becker, A. C. and Beers, T. C. and Bell, E. F. and Berlind, A. A. and Bernardi,
+  M. and Blanton, M. R. and Bochanski, J. J. and Boroski, W. N. and Brinchmann, J.
+  and Brinkmann, J. and Brunner, R. J. and Budavári, T. and Carliles, S. and Carr,
+  M. A. and Castander, F. J. and Cinabro, D. and Cool, R. J. and Covey, K. R. and
+  Csabai, I. and Cunha, C. E. and Davenport, J. R. A. and Dilday, B. and Doi, M. and
+  Eisenstein, D. J. and Evans, M. L. and Fan, X. and Finkbeiner, D. P. and Friedman,
+  S. D. and Frieman, J. A. and Fukugita, M. and Gänsicke, B. T. and Gates, E. and
+  Gillespie, B. and Glazebrook, K. and Gray, J. and Grebel, E. K. and Gunn, J. E.
+  and Gurbani, V. K. and Hall, P. B. and Harding, P. and Harvanek, M. and Hawley,
+  S. L. and Hayes, J. and Heckman, T. M. and Hendry, J. S. and Hindsley, R. B. and
+  Hirata, C. M. and Hogan, C. J. and Hogg, D. W. and Hyde, J. B. and Ichikawa, S.-i.
+  and Ivezić, Ž. and Jester, S. and Johnson, J. A. and Jorgensen, A. M. and Jurić,
+  M. and Kent, S. M. and Kessler, R. and Kleinman, S. J. and Knapp, G. R. and Kron,
+  R. G. and Krzesinski, J. and Kuropatkin, N. and Lamb, D. Q. and Lampeitl, H. and
+  Lebedeva, S. and Lee, Y. S. and French Leger, R. and Lépine, S. and Lima, M. and
+  Lin, H. and Long, D. C. and Loomis, C. P. and Loveday, J. and Lupton, R. H. and
+  Malanushenko, O. and Malanushenko, V. and Mandelbaum, R. and Margon, B. and Marriner,
+  J. P. and Martínez-Delgado, D. and Matsubara, T. and McGehee, P. M. and McKay, T.
+  A. and Meiksin, A. and Morrison, H. L. and Munn, J. A. and Nakajima, R. and Neilsen
+  Jr., E. H. and Newberg, H. J. and Nichol, R. C. and Nicinski, T. and Nieto-Santisteban,
+  M. and Nitta, A. and Okamura, S. and Owen, R. and Oyaizu, H. and Padmanabhan, N.
+  and Pan, K. and Park, C. and Peoples Jr., J. and Pier, J. R. and Pope, A. C. and
+  Purger, N. and Raddick, M. J. and Re Fiorentin, P. and Richards, G. T. and Richmond,
+  M. W. and Riess, A. G. and Rix, H.-W. and Rockosi, C. M. and Sako, M. and Schlegel,
+  D. J. and Schneider, D. P. and Schreiber, M. R. and Schwope, A. D. and Seljak, U.
+  and Sesar, B. and Sheldon, E. and Shimasaku, K. and Sivarani, T. and Allyn Smith,
+  J. and Snedden, S. A. and Steinmetz, M. and Strauss, M. A. and SubbaRao, M. and
+  Suto, Y. and Szalay, A. S. and Szapudi, I. and Szkody, P. and Tegmark, M. and Thakar,
+  A. R. and Tremonti, C. A. and Tucker, D. L. and Uomoto, A. and Vanden Berk, D. E.
+  and Vandenberg, J. and Vidrih, S. and Vogeley, M. S. and Voges, W. and Vogt, N.
+  P. and Wadadekar, Y. and Weinberg, D. H. and West, A. A. and White, S. D. M. and
+  Wilhite, B. C. and Yanny, B. and Yocum, D. R. and York, D. G. and Zehavi, I. and
+  Zucker, D. B.
+author_list:
+- family: Adelman-McCarthy
+  given: J. K.
+- family: Agüeros
+  given: M. A.
+- family: Allam
+  given: S. S.
+- family: Allende Prieto
+  given: C.
+- family: Anderson
+  given: K. S. J.
+- family: Anderson
+  given: S. F.
+- family: Annis
+  given: J.
+- family: Bahcall
+  given: N. A.
+- family: Bailer-Jones
+  given: C. A. L.
+- family: Baldry
+  given: I. K.
+- family: Barentine
+  given: J. C.
+- family: Bassett
+  given: B. A.
+- family: Becker
+  given: A. C.
+- family: Beers
+  given: T. C.
+- family: Bell
+  given: E. F.
+- family: Berlind
+  given: A. A.
+- family: Bernardi
+  given: M.
+- family: Blanton
+  given: M. R.
+- family: Bochanski
+  given: J. J.
+- family: Boroski
+  given: W. N.
+- family: Brinchmann
+  given: J.
+- family: Brinkmann
+  given: J.
+- family: Brunner
+  given: R. J.
+- family: Budavári
+  given: T.
+- family: Carliles
+  given: S.
+- family: Carr
+  given: M. A.
+- family: Castander
+  given: F. J.
+- family: Cinabro
+  given: D.
+- family: Cool
+  given: R. J.
+- family: Covey
+  given: K. R.
+- family: Csabai
+  given: I.
+- family: Cunha
+  given: C. E.
+- family: Davenport
+  given: J. R. A.
+- family: Dilday
+  given: B.
+- family: Doi
+  given: M.
+- family: Eisenstein
+  given: D. J.
+- family: Evans
+  given: M. L.
+- family: Fan
+  given: X.
+- family: Finkbeiner
+  given: D. P.
+- family: Friedman
+  given: S. D.
+- family: Frieman
+  given: J. A.
+- family: Fukugita
+  given: M.
+- family: Gänsicke
+  given: B. T.
+- family: Gates
+  given: E.
+- family: Gillespie
+  given: B.
+- family: Glazebrook
+  given: K.
+- family: Gray
+  given: J.
+- family: Grebel
+  given: E. K.
+- family: Gunn
+  given: J. E.
+- family: Gurbani
+  given: V. K.
+- family: Hall
+  given: P. B.
+- family: Harding
+  given: P.
+- family: Harvanek
+  given: M.
+- family: Hawley
+  given: S. L.
+- family: Hayes
+  given: J.
+- family: Heckman
+  given: T. M.
+- family: Hendry
+  given: J. S.
+- family: Hindsley
+  given: R. B.
+- family: Hirata
+  given: C. M.
+- family: Hogan
+  given: C. J.
+- family: Hogg
+  given: D. W.
+- family: Hyde
+  given: J. B.
+- family: Ichikawa
+  given: S.-i.
+- family: Ivezić
+  given: Ž.
+- family: Jester
+  given: S.
+- family: Johnson
+  given: J. A.
+- family: Jorgensen
+  given: A. M.
+- family: Jurić
+  given: M.
+- family: Kent
+  given: S. M.
+- family: Kessler
+  given: R.
+- family: Kleinman
+  given: S. J.
+- family: Knapp
+  given: G. R.
+- family: Kron
+  given: R. G.
+- family: Krzesinski
+  given: J.
+- family: Kuropatkin
+  given: N.
+- family: Lamb
+  given: D. Q.
+- family: Lampeitl
+  given: H.
+- family: Lebedeva
+  given: S.
+- family: Lee
+  given: Y. S.
+- family: French Leger
+  given: R.
+- family: Lépine
+  given: S.
+- family: Lima
+  given: M.
+- family: Lin
+  given: H.
+- family: Long
+  given: D. C.
+- family: Loomis
+  given: C. P.
+- family: Loveday
+  given: J.
+- family: Lupton
+  given: R. H.
+- family: Malanushenko
+  given: O.
+- family: Malanushenko
+  given: V.
+- family: Mandelbaum
+  given: R.
+- family: Margon
+  given: B.
+- family: Marriner
+  given: J. P.
+- family: Martínez-Delgado
+  given: D.
+- family: Matsubara
+  given: T.
+- family: McGehee
+  given: P. M.
+- family: McKay
+  given: T. A.
+- family: Meiksin
+  given: A.
+- family: Morrison
+  given: H. L.
+- family: Munn
+  given: J. A.
+- family: Nakajima
+  given: R.
+- family: Neilsen Jr.
+  given: E. H.
+- family: Newberg
+  given: H. J.
+- family: Nichol
+  given: R. C.
+- family: Nicinski
+  given: T.
+- family: Nieto-Santisteban
+  given: M.
+- family: Nitta
+  given: A.
+- family: Okamura
+  given: S.
+- family: Owen
+  given: R.
+- family: Oyaizu
+  given: H.
+- family: Padmanabhan
+  given: N.
+- family: Pan
+  given: K.
+- family: Park
+  given: C.
+- family: Peoples Jr.
+  given: J.
+- family: Pier
+  given: J. R.
+- family: Pope
+  given: A. C.
+- family: Purger
+  given: N.
+- family: Raddick
+  given: M. J.
+- family: Re Fiorentin
+  given: P.
+- family: Richards
+  given: G. T.
+- family: Richmond
+  given: M. W.
+- family: Riess
+  given: A. G.
+- family: Rix
+  given: H.-W.
+- family: Rockosi
+  given: C. M.
+- family: Sako
+  given: M.
+- family: Schlegel
+  given: D. J.
+- family: Schneider
+  given: D. P.
+- family: Schreiber
+  given: M. R.
+- family: Schwope
+  given: A. D.
+- family: Seljak
+  given: U.
+- family: Sesar
+  given: B.
+- family: Sheldon
+  given: E.
+- family: Shimasaku
+  given: K.
+- family: Sivarani
+  given: T.
+- family: Allyn Smith
+  given: J.
+- family: Snedden
+  given: S. A.
+- family: Steinmetz
+  given: M.
+- family: Strauss
+  given: M. A.
+- family: SubbaRao
+  given: M.
+- family: Suto
+  given: Y.
+- family: Szalay
+  given: A. S.
+- family: Szapudi
+  given: I.
+- family: Szkody
+  given: P.
+- family: Tegmark
+  given: M.
+- family: Thakar
+  given: A. R.
+- family: Tremonti
+  given: C. A.
+- family: Tucker
+  given: D. L.
+- family: Uomoto
+  given: A.
+- family: Vanden Berk
+  given: D. E.
+- family: Vandenberg
+  given: J.
+- family: Vidrih
+  given: S.
+- family: Vogeley
+  given: M. S.
+- family: Voges
+  given: W.
+- family: Vogt
+  given: N. P.
+- family: Wadadekar
+  given: Y.
+- family: Weinberg
+  given: D. H.
+- family: West
+  given: A. A.
+- family: White
+  given: S. D. M.
+- family: Wilhite
+  given: B. C.
+- family: Yanny
+  given: B.
+- family: Yocum
+  given: D. R.
+- family: York
+  given: D. G.
+- family: Zehavi
+  given: I.
+- family: Zucker
+  given: D. B.
+date-added: 2017-08-11 06:25:01 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/524984
+eid: 297-313
+eprint: '0707.3413'
+journal: \apjs
+keywords: atlases, catalogs, surveys
+month: April
+pages: 297--313
+papis_id: 1174ba35148d7ae69c5d90acf6a43708
+ref: adelman_mccarthy.j.2008
+title: The Sixth Data Release of the Sloan Digital Sky Survey
+type: article
+volume: '175'
+year: '2008'

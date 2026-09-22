@@ -1,0 +1,58 @@
+abstract: We present an analysis of 16 galaxy clusters, one group, and one galaxy
+  drawn from the Chandra Data Archive. These systems possess prominent X-ray surface
+  brightness depressions associated with cavities or bubbles that were created by
+  interactions between powerful radio sources and the surrounding hot gas. The central
+  galaxies in these systems harbor radio sources with luminosities ranging between
+  ~2\texttimes{}1038 and 7\texttimes{}1044 ergs s-1. The cavities have an average
+  radius of ~10 kpc, and they lie at an average projected distance of ~20 kpc from
+  the central galaxy. The minimum energy associated with the cavities ranges from
+  pV~1055 ergs in galaxies, groups, and poor clusters to pV~1060 ergs in rich clusters.
+  We evaluate the hypothesis that cooling in the hot gas can be quenched by energy
+  injected into the surrounding gas by the rising bubbles. We find that the instantaneous
+  mechanical luminosities required to offset cooling range between 1pV and 20pV per
+  cavity. Nearly half of the systems in this study may have instantaneous mechanical
+  luminosities large enough to balance cooling, at least for a short period of time,
+  if the cavities are filled with a relativistic gas. We find a trend or upper envelope
+  in the distribution of central X-ray luminosity versus instantaneous mechanical
+  luminosity, with the sense that the most powerful cavities are found in the most
+  X-ray-luminous systems. Such a trend would be expected if many of these systems
+  produce bubbles at a rate that scales in proportion to the cooling rate of the surrounding
+  gas. Finally, we use the X-ray cavities to measure the mechanical power of radio
+  sources over six decades of radio luminosity, independently of the radio properties
+  themselves. We find that the ratio of the instantaneous mechanical (kinetic) luminosity
+  to the 1.4 GHz synchrotron luminosity ranges typically between a few and roughly
+  a few thousand for luminous radio sources but can be several thousand for weaker
+  sources. This wide range implies that the 1.4 GHz synchrotron luminosity is an unreliable
+  gauge of the mechanical power of radio sources.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...607..800B
+arxivurl: http://arxiv.org/abs/astro-ph/0402348
+author: Bı̂rzan, L. and Rafferty, D. A. and McNamara, B. R. and Wise, M. W. and Nulsen,
+  P. E. J.
+author_list:
+- family: Bı̂rzan
+  given: L.
+- family: Rafferty
+  given: D. A.
+- family: McNamara
+  given: B. R.
+- family: Wise
+  given: M. W.
+- family: Nulsen
+  given: P. E. J.
+date-added: 2017-08-11 05:13:36 +0000
+date-modified: 2017-12-05 16:37:25 +0000
+doi: 10.1086/383519
+eprint: astro-ph/0402348
+journal: \apj
+keywords: 'Galaxies: Active, Galaxies: Clusters: General, X-Rays: Galaxies, X-Rays:
+  Galaxies: Clusters'
+month: June
+pages: 800--809
+papis_id: 6f46a3819bde93c356b3aeab825addfa
+ref: birzan.l.2004
+title: A Systematic Study of Radio-induced X-Ray Cavities in Clusters, Groups, and
+  Galaxies
+type: article
+volume: '607'
+year: '2004'

@@ -1,0 +1,50 @@
+abstract: 'Seventy-two grids of stellar evolutionary tracks, along with the means
+  to generate isochrones and luminosity/color functions from them, are presented in
+  this investigation. Sixty of them extend (and encompass) the sets of models reported
+  by VandenBerg et al. for 17 [Fe/H] values from -2.31 to -0.30 and alpha-element
+  abundances corresponding to [alpha/Fe]=0.0, 0.3, and 0.6 (at each iron abundance)
+  to the solar metallicity and to sufficiently high masses (up to ~2.2 Msolar) that
+  isochrones may be computed for ages as low as 1 Gyr. The remaining grids contain
+  tracks for masses from 0.4 to 4.0 Msolar and 12 [Fe/H] values between -0.60 and
+  +0.49 (assuming solar metal-to-hydrogen number abundance ratios): in this case,
+  isochrones may be calculated down to ~0.2 Gyr. The extent of convective core overshooting
+  has been modeled using a parameterized version of the Roxburgh criterion, in which
+  the value of the free parameter at a given mass and its dependence on mass have
+  been determined from analyses of binary star data and the observed color-magnitude
+  diagrams for several open clusters. Because the calculations reported herein satisfy
+  many empirical constraints, they should provide useful probes into the properties
+  of both simple and complex stellar populations.  All of the model grids may be obtained
+  from the Canadian Astronomy Data Center (http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/cvo/community/VictoriaReginaModels/).
+  Included in this archive are (1) the interpolation software (FORTRAN 77) to produce
+  isochrones, isochrone probability functions, luminosity functions, and color functions,
+  along with instructions on how to implement and use the software, (2) BVRI (VandenBerg
+  \& Clem 2003) and uvby (Clem et al. 2004) color-temperature relations, and (3) zero-age
+  horizontal branch loci for all of the chemical compositions considered.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..162..375V
+arxivurl: http://arxiv.org/abs/astro-ph/0510784
+author: VandenBerg, D. A. and Bergbusch, P. A. and Dowler, P. D.
+author_list:
+- family: VandenBerg
+  given: D. A.
+- family: Bergbusch
+  given: P. A.
+- family: Dowler
+  given: P. D.
+date-added: 2017-08-10 20:43:56 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/498451
+eprint: astro-ph/0510784
+journal: \apjs
+keywords: 'Convection, Galaxy: Globular Clusters: General, Stars: Hertzsprung-Russell
+  Diagram, Stars: Evolution, Stars: General'
+month: February
+pages: 375--387
+papis_id: a6e9dca22716d6e00e03c34f2e19e42a
+ref: vandenberg.d.2006
+title: 'The Victoria-Regina Stellar Models: Evolutionary Tracks and Isochrones for
+  a Wide Range in Mass and Metallicity that Allow for Empirically Constrained Amounts
+  of Convective Core Overshooting'
+type: article
+volume: '162'
+year: '2006'

@@ -1,0 +1,44 @@
+abstract: We use the relativistic hydrodynamics code Cosmos++ to model the evolution
+  of the radio nebula triggered by the 2004 December 27 giant flare event of SGR 1806-20.
+  We primarily focus on the rebrightening and centroid motion occurring subsequent
+  to day 20 following the flare event. We model this period as a mildly relativistic
+  (gamma~1.07-1.67) jetted outflow expanding into the ISM. We demonstrate that a jet
+  with total energy ~1046 ergs confined to a half opening angle ~20$\,^{\circ}$ fits
+  the key observables of this event, e.g., the flux light curve, emission map centroid
+  position, and aspect ratio. In particular, we find excellent agreement with observations
+  if the rebrightening is due to the jet, moving at 0.5c and inclined ~0\$\,^{\circ}\$-40\$\,^{\circ}\$
+  toward the observer, colliding with a density discontinuity in the ISM at a radius
+  of several times 1016 cm. We also find that a jet with a higher velocity, >~0.7c,
+  and larger inclination, >~70\$\,^{\circ}\$, moving into a uniform ISM can fit the
+  observations in general but tends to miss the details of rebrightening. The latter,
+  uniform ISM model predicts an ISM density more than 100 times lower than that of
+  the former model and thus suggests an independent test that might discriminate between
+  the two. One of the strongest constraints of both models is that the data seem to
+  require a nonuniform jet in order to be well fitted.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...652.1508S
+arxivurl: http://arxiv.org/abs/astro-ph/0610706
+author: Salmonson, J. D. and Fragile, P. C. and Anninos, P.
+author_list:
+- family: Salmonson
+  given: J. D.
+- family: Fragile
+  given: P. C.
+- family: Anninos
+  given: P.
+date-added: 2017-08-11 02:10:41 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/508648
+eprint: astro-ph/0610706
+journal: \apj
+keywords: 'Hydrodynamics, Stars: Pulsars: Individual: Alphanumeric: SGR 1806-20, Relativity,
+  Shock Waves, Stars: Winds, Outflows'
+month: December
+pages: 1508--1522
+papis_id: 86021051a035cd38f6e6007fefd3afd5
+ref: salmonson.j.2006
+title: Numerical Modeling of the Radio Nebula from the 2004 December 27 Giant Flare
+  of SGR 1806-20
+type: article
+volume: '652'
+year: '2006'

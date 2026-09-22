@@ -1,0 +1,40 @@
+abstract: We analyze the structure and stability in plane-parallel geometry of the
+  transition layer (or front) that connects the cold neutral medium and the warm neutral
+  medium. Such fronts appear in recent numerical simulations of a thermally bistable
+  interstellar medium. The front becomes an evaporation or condensation front depending
+  on the surrounding pressure. The stability analysis is performed in both long- and
+  short-wavelength approximations. We find that the plane-parallel evaporation front
+  is unstable under corrugational deformations, whereas the condensation front seems
+  to be stable. The instability is analogous to the Darrieus-Landau instability in
+  combustion fronts. The growth rate of the instability is proportional to the speed
+  of the evaporation flow and the corrugation wavenumber for modes with wavelength
+  much longer than the thickness of the front, and it is suppressed at scales approximately
+  equal to the thickness of the front. The timescale of the instability is smaller
+  than the cooling timescale of the warm neutral medium (~1 Myr) and can be as small
+  as the cooling timescale of the cold neutral medium (~0.01-0.1 Myr). Thus, this
+  instability should be one of the processes that drives interstellar turbulence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...652.1331I
+arxivurl: http://arxiv.org/abs/astro-ph/0604564
+author: Inoue, T. and Inutsuka, S.-i. and Koyama, H.
+author_list:
+- family: Inoue
+  given: T.
+- family: Inutsuka
+  given: S.-i.
+- family: Koyama
+  given: H.
+date-added: 2017-08-10 22:00:49 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1086/508334
+eprint: astro-ph/0604564
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, ISM: Kinematics and Dynamics, Methods: Analytical'
+month: December
+pages: 1331--1338
+papis_id: 91dec2bd1af0eba1e3a31fe6bce5379a
+ref: inoue.t.2006
+title: Structure and Stability of Phase Transition Layers in the Interstellar Medium
+type: article
+volume: '652'
+year: '2006'

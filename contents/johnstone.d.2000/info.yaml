@@ -1,0 +1,51 @@
+abstract: We present results from a survey of the central 700 arcmin2 region of the
+  rho Ophiuchi molecular cloud at 850 mum using the Submillimeter Common-User Bolometer
+  Array (SCUBA) on the James Clerk Maxwell Telescope. Using the clump-finding procedure
+  developed by Williams et al., we identify 55 independent objects and compute size,
+  flux, and degree of central concentration. Comparison with isothermal, pressure-confined,
+  self-gravitating Bonnor-Ebert spheres implies that the clumps have internal temperatures
+  of 10-30 K and surface pressures P/k=106-7 K cm-3, consistent with the expected
+  average pressure in the rho Ophiuchi central region, P/k~2\texttimes{}107 K cm-3.
+  The clump masses span 0.02-6.3 Msolar assuming a dust temperature Td~20 K and a
+  dust emissivity kappa850=0.01 cm2 g-1. The distribution of clump masses is well
+  characterized by a broken power law, N(M)~M-alpha, with alpha=1.0-1.5 for M>0.6
+  Msolar and alpha=0.5 for M<=0.6 Msolar, although significant incompleteness may
+  affect the slope at the lower mass end. This mass function is in general agreement
+  with the rho Ophiuchi clump mass function derived at 1.3 mm by Motte et al. The
+  two-point correlation function of the clump separations is measured and reveals
+  clustering on size scales r<3\texttimes{}104 AU with a radial power-law exponent
+  gamma=0.75.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...545..327J
+author: Johnstone, D. and Wilson, C. D. and Moriarty-Schieven, G. and Joncas, G. and
+  Smith, G. and Gregersen, E. and Fich, M.
+author_list:
+- family: Johnstone
+  given: D.
+- family: Wilson
+  given: C. D.
+- family: Moriarty-Schieven
+  given: G.
+- family: Joncas
+  given: G.
+- family: Smith
+  given: G.
+- family: Gregersen
+  given: E.
+- family: Fich
+  given: M.
+date-added: 2017-08-11 01:25:22 +0000
+date-modified: 2017-12-05 16:37:37 +0000
+doi: 10.1086/317790
+journal: \apj
+keywords: 'Infrared: ISM: Continuum, ISM: individual ({$\rho$} Ophiuchi), ISM: Structure,
+  Stars: Formation, Submillimeter'
+month: December
+pages: 327--339
+papis_id: eb09d3e73d14412a6eb7fd3a5abdc4e1
+ref: johnstone.d.2000
+title: Large-Area Mapping at 850 Microns. II. Analysis of the Clump Distribution in
+  the $h̊o$ Ophiuchi Molecular Cloud
+type: article
+volume: '545'
+year: '2000'

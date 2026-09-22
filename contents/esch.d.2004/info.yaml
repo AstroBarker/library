@@ -1,0 +1,40 @@
+abstract: Image restoration including deconvolution techniques offers a powerful tool
+  to improve resolution in images and to extract information on the multiscale structure
+  stored in astronomical observations. We present a new method for statistical deconvolution,
+  which we call expectation through Markov Chain Monte Carlo (EMC2). This method is
+  designed to remedy several shortfalls of currently used deconvolution and restoration
+  techniques for Poisson data. We use a wavelet-like multiscale representation of
+  the true image to achieve smoothing at all scales of resolution simultaneously,
+  thus capturing detailed features in the image at the same time as larger scale extended
+  features. Thus, this method smooths the image, while maintaining the ability to
+  effectively reconstruct point sources and sharp features in the image. We use a
+  principled, fully Bayesian model-based analysis, which produces extensive information
+  about the uncertainty in the fitted smooth image, allowing assessment of the errors
+  in the resulting reconstruction. Our method also includes automatic fitting of the
+  multiscale smoothing parameters. We show several examples of application of EMC2
+  to both simulated data and a real astronomical X-ray source.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...610.1213E
+author: Esch, D. N. and Connors, A. and Karovska, M. and van Dyk, D. A.
+author_list:
+- family: Esch
+  given: D. N.
+- family: Connors
+  given: A.
+- family: Karovska
+  given: M.
+- family: van Dyk
+  given: D. A.
+date-added: 2017-08-11 00:28:15 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421761
+journal: \apj
+keywords: 'Methods: Data Analysis, Techniques: High Anular Resolution'
+month: August
+pages: 1213--1227
+papis_id: 03cc30bbd099d4b4e2c4b02bad59d322
+ref: esch.d.2004
+title: An Image Restoration Technique with Error Estimates
+type: article
+volume: '610'
+year: '2004'

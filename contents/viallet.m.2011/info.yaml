@@ -1,0 +1,51 @@
+abstract: This paper describes the first steps in the development of a new multi-dimensional
+  time implicit code devoted to the study of hydrodynamical processes in stellar interiors.
+  The code solves the hydrodynamical equations in spherical geometry and is based
+  on the finite volume method. Radiation transport is taken into account within the
+  diffusion approximation. Realistic equation of state and opacities are implemented,
+  allowing study of a wide range of the problems characteristic of stellar interiors.
+  We describe the numerical method and various standard tests performed to validate
+  the method in detail. We present preliminary results devoted to describing stellar
+  convection. We first performed a local simulation of convection in the surface layers
+  of a A-type star model. This simulation tested the ability of the code to address
+  stellar conditions and to validate our results, since they can be compared to similar
+  previous simulations based on explicit codes. We then present a global simulation
+  of turbulent convective motions in a cold giant envelope, covering 80\% in radius
+  of the stellar structure. Although our implicit scheme is unconditionally stable,
+  we show that in practice there is a limitation on the time step that prevents the
+  flow moving over several cells during a time step. Nevertheless, in the cold giant
+  model we reach a hydro CFL number of 100. We also show that we are able to address
+  flows with a wide range of Mach numbers (10-3 \lessequivlnt{} Ms \lessequivlnt{}
+  0.5), which is impossible with an anelastic approach. Our first developments are
+  meant to demonstrate that applying an implicit scheme to a stellar evolution context
+  is perfectly thinkable and to provide useful guidelines for optimising the development
+  of an implicit multi-dimensional hydrodynamical code.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...531A..86V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.1524
+author: Viallet, M. and Baraffe, I. and Walder, R.
+author_list:
+- family: Viallet
+  given: M.
+- family: Baraffe
+  given: I.
+- family: Walder
+  given: R.
+date-added: 2017-08-10 15:08:00 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1051/0004-6361/201016374
+eid: A86
+eprint: '1103.1524'
+journal: \aap
+keywords: 'hydrodynamics, convection, methods: numerical, stars: interiors'
+month: July
+pages: A86
+papis_id: 4a57d2af6d45259d963dad4e25232438
+primaryclass: astro-ph.IM
+ref: viallet.m.2011
+title: 'Towards a new generation of multi-dimensional stellar evolution models: development
+  of an implicit hydrodynamic code'
+type: article
+volume: '531'
+year: '2011'

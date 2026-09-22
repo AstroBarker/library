@@ -1,0 +1,42 @@
+abstract: 'We present the results of a series of radiation MHD simulations of a local
+  patch of an accretion disk, with a fixed vertical gravity profile but with different
+  surface mass densities and a broad range of radiation to gas pressure ratios. Each
+  simulation achieves a thermal equilibrium that lasts for many cooling times. After
+  averaging over times that are long compared to a cooling time, we find that the
+  vertically integrated stress is approximately proportional to the vertically averaged
+  total thermal (gas plus radiation) pressure. We map out---for the first time on
+  the basis of explicit physics---the thermal equilibrium relation between stress
+  and surface density: the stress decreases (increases) with increasing surface mass
+  density when the simulation is radiation (gas) pressure dominated. The dependence
+  of stress on surface mass density in the radiation pressure dominated regime suggests
+  the possibility of a Lightman-Eardley inflow instability, but global simulations
+  or shearing box simulations with much wider radial boxes will be necessary to confirm
+  this and determine its nonlinear behavior.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...704..781H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.1117
+author: Hirose, S. and Blaes, O. and Krolik, J. H.
+author_list:
+- family: Hirose
+  given: S.
+- family: Blaes
+  given: O.
+- family: Krolik
+  given: J. H.
+date-added: 2017-08-10 14:59:24 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/704/1/781
+eprint: '0908.1117'
+journal: \apj
+keywords: 'accretion, accretion disks, instabilities, MHD, X-rays: binaries'
+month: October
+pages: 781--788
+papis_id: 5381f11e3ba24eb78fb571db36481205
+primaryclass: astro-ph.HE
+ref: hirose.s.2009a
+title: Turbulent Stresses in Local Simulations of Radiation-dominated Accretion Disks,
+  and the Possibility of the Lightman-Eardley Instability
+type: article
+volume: '704'
+year: '2009'

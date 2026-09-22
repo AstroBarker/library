@@ -1,0 +1,52 @@
+abstract: A series of 21 moderate-resolution (\texttildelow{}2.4 {\AA}) spectra of
+  the now quiescent Galactic X-ray nova GRO J0422+32, obtained in 1994 November and
+  1995 January with the W. M. Keck 10 m telescope, is used to derive the physical
+  parameters of the binary system. The Halpha emission-line profile exhibits large
+  variations in consecutive half-hour exposures taken in 1994 November, but smaller
+  variations in 1995 January.  Cross-correlation of the 6000-6500 {\AA} spectral region
+  with that of late-type dwarf stars yields reliable absorption-line radial velocities
+  for the secondary star. The orbital period is found to be 0d.21159$\pm$d.00057,
+  with a semiamplitude of 380.6\.5 km s-1; the implied mass function is 1.21\.06 Msun.
+  Inspection of the averaged spectrum of GRO J0422+32 in the rest frame of the secondary
+  star suggests that the secondary is an M2 V star, but the accretion disk contributes
+  30\%-60\% of the light at \texttildelow{}6300 {\AA}.  Fits to the wings of the strong,
+  double-peaked Halpha emission line yield approximate radial velocities for the compact
+  primary; the velocity curve has a semi-amplitude of 41.6\.2 km s-1, but with a phase
+  offset by 253\$\,^{\circ}\$ (rather than 180\$\,^{\circ}\$) from that of the secondary
+  star.  The offset, which is similar to that of several other X-ray novae and many
+  dwarf novae, may be indicative of geometric distortions or additional emission components
+  on the accretion disk; hence, the observed semi-amplitude does not necessarily reflect
+  the true motion of the compact primary. Under the assumption that it does, however,
+  we find q = 0.1093\.0086, the mass ratio of the secondary to the primary.  If the
+  secondary star is a normal M2 dwarf (M = 0.39\.02 M0), as suggested by its spectrum
+  and (independently) by the requirement that it fill its Roche lobe, the mass of
+  the primary is 3.57\.34 Msun, somewhat higher than the theoretical upper limit (\texttildelow{}3.2
+  Msun) for a slowly rotating neutron star with an extremely stiff equation of state,
+  and considerably above the measured masses of neutron stars. We conclude that the
+  compact object is probably a black hole, as suggested by its hard X-ray spectrum
+  during outburst. The derived inclination angle of the system (48\\$\,^{\circ}\$
+  ) is consistent with the apparent absence of eclipses of the accretion disk.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...455..614F
+author: Filippenko, A. V. and Matheson, T. and Ho, L. C.
+author_list:
+- family: Filippenko
+  given: A. V.
+- family: Matheson
+  given: T.
+- family: Ho
+  given: L. C.
+date-added: 2017-08-11 00:42:37 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176609
+journal: \apj
+keywords: 'STARS: BINARIES: CLOSE, BLACK HOLE PHYSICS, X-RAYS: STARS, STARS: INDIVIDUAL
+  ALPHANUMERIC: GRO J0422+32, STARS: NOVAE, CATACLYSMIC VARIABLES'
+month: December
+pages: '614'
+papis_id: 5ddc45e4ce360df939d3a4911fb6d6a6
+ref: filippenko.a.1995
+title: The Mass of the Probable Black Hole in the X-Ray Nova GRO J0422+32
+type: article
+volume: '455'
+year: '1995'

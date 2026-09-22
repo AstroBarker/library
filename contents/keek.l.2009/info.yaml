@@ -1,0 +1,49 @@
+abstract: Hydrogen and/or helium accreted by a neutron star from a binary companion
+  may undergo thermonuclear fusion. Different burning regimes are discerned at different
+  mass accretion rates. Theoretical models predict helium fusion to proceed as a thermonuclear
+  runaway for accretion rates below the Eddington limit and as stable burning above
+  this limit. Observations, however, place the boundary close to 10\% of the Eddington
+  limit. We study the effect of rotationally induced transport processes on the stability
+  of helium burning. For the first time, detailed calculations of thin-shell helium
+  burning on neutron stars are performed using a hydrodynamic stellar evolution code
+  including rotation and rotationally induced magnetic fields. We find that in most
+  cases the instabilities from the magnetic field provide the dominant contribution
+  to the chemical mixing, while Eddington-Sweet circulations become important at high
+  rotation rates. As helium is diffused to greater depths, the stability of the burning
+  is increased, such that the critical accretion rate for stable helium burning is
+  found to be lower. Combined with a higher heat flux from the crust, as suggested
+  by recent studies, turbulent mixing could explain the observed critical accretion
+  rate. Furthermore, close to this boundary we find oscillatory burning, which previous
+  studies have linked to mHz QPOs. In models where we continuously lower the heat
+  flux from the crust, the period of the oscillations increases by up to several tens
+  of percents, similar to the observed frequency drift, suggesting that this drift
+  could be caused by the cooling of deeper layers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...502..871K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0905.4477
+author: Keek, L. and Langer, N. and in't Zand, J. J. M.
+author_list:
+- family: Keek
+  given: L.
+- family: Langer
+  given: N.
+- family: in't Zand
+  given: J. J. M.
+date-added: 2017-08-10 17:47:33 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1051/0004-6361/200911619
+eprint: '0905.4477'
+journal: \aap
+keywords: 'accretion, accretion disks, stars: neutron, stars: rotation, stars: magnetic
+  fields, X-rays: binaries'
+month: August
+pages: 871--881
+papis_id: 4edfcd14d5b205235747ec72dab7d119
+primaryclass: astro-ph.HE
+ref: keek.l.2009
+title: The effect of rotation on the stability of nuclear burning in accreting neutron
+  stars
+type: article
+volume: '502'
+year: '2009'

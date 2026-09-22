@@ -1,0 +1,40 @@
+abstract: The large-scale computer simulation of a system of physical fields governed
+  by partial differential equations requires some means of approximating the mathematical
+  limit of continuity. For example, conservation laws are often treated with a 'finite-volume'
+  approach in which space is partitioned into a large number of small 'cells,' with
+  fluxes through cell faces providing an intuitive discretization modeled on the mathematical
+  definition of the divergence operator. Here we describe and make available Fortran
+  2003 classes furnishing extensible object-oriented implementations of simple meshes
+  and the evolution of generic conserved currents thereon, along with individual 'unit
+  test' programs and larger example problems demonstrating their use. These classes
+  inaugurate the Mathematics division of our developing astrophysics simulation code
+  GENASIS (Gen eral A strophysical Si mulation S ystem), which will be expanded over
+  time to include additional meshing options, mathematical operations, solver types,
+  and solver variations appropriate for many multiphysics applications.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018CoPhC.222..384C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1709.04429
+author: Cardall, C. Y. and Budiardja, R. D.
+author_list:
+- family: Cardall
+  given: C. Y.
+- family: Budiardja
+  given: R. D.
+date-added: 2018-04-25 23:46:24 +0000
+date-modified: 2018-04-25 23:46:25 +0000
+doi: 10.1016/j.cpc.2017.10.004
+eprint: '1709.04429'
+journal: Computer Physics Communications
+keywords: Simulation framework, Object-oriented programming, Fortran 2003, Partial
+  differential equations, Meshing, Conservation laws
+month: January
+pages: 384--412
+papis_id: 0c07bb7b28d1c260fa966845fba0ea9a
+primaryclass: physics.comp-ph
+ref: cardall.c.2018
+title: 'GENASIS Mathematics : Object-oriented manifolds, operations, and solvers for
+  large-scale physics simulations'
+type: article
+volume: '222'
+year: '2018'

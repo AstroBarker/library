@@ -1,0 +1,54 @@
+abstract: The population synthesis of cataclysmic variable binary systems at short
+  orbital periods (<2.75 hr) is investigated. A grid of detailed binary evolutionary
+  sequences has been calculated and included in the simulations to take account of
+  additional angular momentum losses beyond that associated with gravitational radiation
+  and mass loss, due to nova outbursts, from the system. As a specific example, we
+  consider the effect of a circumbinary disk to gain insight into the ingredients
+  necessary to reproduce the observed orbital period distribution. The resulting distributions
+  show that the period minimum lies at about 80 minutes, with the number of systems
+  monotonically increasing with increasing orbital period to a maximum near 90 minutes.
+  There is no evidence for an accumulation of systems at the period minimum, which
+  is a common feature of simulations in which only gravitational radiation losses
+  are considered. The shift of the peak to about 90 minutes is a direct result of
+  the inclusion of systems formed within the period gap. The period distribution is
+  found to be fairly flat for orbital periods ranging from about 85 to 120 minutes.
+  The steepness of the lower edge of the period gap can be reproduced, for example,
+  by an input of systems at periods near 2.25 hr due to a flow of cataclysmic variable
+  binary systems from orbital periods longer than 2.75 hr. The good agreement with
+  the cumulated distribution function of observed systems within the framework of
+  our model indicates that the angular momentum loss by a circumbinary disk or a mechanism
+  that mimics its features, coupled with a weighting factor to account for selection
+  effects in the discovery of such systems and a flow of systems from above the period
+  gap to below the period gap, is an important ingredient for understanding the overall
+  period distribution of cataclysmic variable binary systems.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...635.1263W
+arxivurl: http://arxiv.org/abs/astro-ph/0509355
+author: Willems, B. and Kolb, U. and Sandquist, E. L. and Taam, R. E. and Dubus, G.
+author_list:
+- family: Willems
+  given: B.
+- family: Kolb
+  given: U.
+- family: Sandquist
+  given: E. L.
+- family: Taam
+  given: R. E.
+- family: Dubus
+  given: G.
+date-added: 2017-08-11 00:48:40 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/498010
+eprint: astro-ph/0509355
+journal: \apj
+keywords: 'Stars: Binaries: Close, Methods: Statistical, Stars: Novae, Cataclysmic
+  Variables, Stars: Evolution'
+month: December
+pages: 1263--1280
+papis_id: 29fcc61662ecdea45f4c60060c822080
+ref: willems.b.2005
+title: 'Angular Momentum Losses and the Orbital Period Distribution of Cataclysmic
+  Variables below the Period Gap: Effects of Circumbinary Disks'
+type: article
+volume: '635'
+year: '2005'

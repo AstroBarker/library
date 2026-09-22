@@ -1,0 +1,38 @@
+abstract: We examine the role of the equation of state (EOS) of hot, dense matter
+  in the prompt phase of stellar collapse. In order to achieve this goal, we have
+  carried out radiation hydrodynamic simulations using an adjustable EOS that is consistent
+  with constraints placed on the EOS by neutron star observations, nuclear systematics,
+  and laboratory experiments. Our simulations of stellar collapse show that these
+  constraints restrict the role that the EOS can play in determining the dynamics
+  of shock propagation. We find that certain nuclear force parameters do not substantially
+  affect the dynamics of collapse as strongly as previously believed. In particular,
+  we find that the shock stall radius is practically independent of the compression
+  modulus and symmetry energy when other constraints on the EOS are satisfied. In
+  contrast, the nuclear symmetry energies have more profound effects on the collapse
+  via electron capture, and these effects may be detectable by means of the neutrino
+  signature of a nearby supernova.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...425..195S
+author: Swesty, F. D. and Lattimer, J. M. and Myra, E. S.
+author_list:
+- family: Swesty
+  given: F. D.
+- family: Lattimer
+  given: J. M.
+- family: Myra
+  given: E. S.
+date-added: 2017-08-10 20:03:29 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/173974
+journal: \apj
+keywords: Collapse, Computational Astrophysics, Computerized Simulation, Equations
+  Of State, Hydrodynamics, Shock Wave Propagation, Supernovae, Electron Capture, Free
+  Energy, Helmholtz Equations, Interstellar Matter, Shock Waves, Stellar Models
+month: April
+pages: 195--204
+papis_id: cbc744ff2fd29d210cabc18343465c50
+ref: swesty.f.1994
+title: The role of the equation of state in the 'prompt' phase of type II supernovae
+type: article
+volume: '425'
+year: '1994'

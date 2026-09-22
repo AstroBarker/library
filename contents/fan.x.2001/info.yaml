@@ -1,0 +1,142 @@
+abstract: 'We present the results from a survey of i-dropout objects selected from
+  ~1550 deg2 of multicolor imaging data from the Sloan Digital Sky Survey to search
+  for luminous quasars at z>~5.8. Objects with i\textasteriskcentered-z\textasteriskcentered>2.2
+  and z\textasteriskcentered<20.2 are selected, and follow-up J-band photometry is
+  used to separate L- and T-type cool dwarfs from high-redshift quasars. We describe
+  the discovery of three new quasars, SDSSp J083643.85+005453.3 (z=5.82), J130608.26+035626.3
+  (z=5.99), and J103027.10+052455.0 (z=6.28). The quasar SDSSp J083643.85+005453.3
+  is a radio source with flux of 1.1 mJy at 20 cm. The spectra of all three quasars
+  show strong and broad Lyalpha+N V emission lines and very strong Lyalpha forest
+  absorption, with a mean continuum decrement DA>0.90. The ARC 3.5 m spectrum of SDSSp
+  J103027.10+052455.0 shows that over a range of ~300 {\AA} immediately blueward of
+  the Lyalpha emission, the average transmitted flux is only 0.003+/-0.020 times that
+  of the continuum level, consistent with zero flux over a ~300 {\AA} range of the
+  Lyalpha forest region and suggesting a tentative detection of the complete Gunn-Peterson
+  trough. The existence of strong metal lines in the quasar spectra suggests early
+  metal enrichment in the quasar environment. The three new objects, together with
+  the previously published z=5.8 quasar SDSSp J104433.04-012502.2, form a complete
+  color-selected flux-limited sample at z>~5.8. We estimate the selection function
+  of this sample, taking into account the estimated variations in the quasar spectral
+  energy distribution, as well as observational photometric errors. We find that at
+  z=6, the comoving density of luminous quasars at M1450<-26.8 (H0=50 km s-1 Mpc-1,
+  Omega=1) is 1.1\texttimes{}10-9 Mpc-3. This is a factor of ~2 lower than that at
+  z~5 and is consistent with an extrapolation of the observed quasar evolution at
+  z<5. Using the current sample, we discuss the constraint on the shape of the quasar
+  luminosity function and the implications for the contribution of quasars to the
+  ionizing background at z~6. The luminous quasars discussed in the paper have central
+  black hole masses of several times 109 Msolar by the Eddington argument, with likely
+  dark halo masses on the order of 1013 Msolar. Their observed space density provides
+  a sensitive test of models of quasar and galaxy formation at high redshift. Based
+  on observations obtained with the Sloan Digital Sky Survey and with the Apache Point
+  Observatory 3.5 m telescope, which is owned and operated by the Astrophysical Research
+  Consortium; on observations obtained by staff of the Gemini Observatory, which is
+  operated by the Association of Universities for Research in Astronomy, Inc., under
+  a cooperative agreement with the National Science Foundation (NSF) on behalf of
+  the Gemini partnership: the NSF (United States), the Particle Physics and Astronomy
+  Research Council (United Kingdom), the National Research Council (Canada), CONICYT
+  (Chile), the Australian Research Council (Australia), CNPq (Brazil), and CONICET
+  (Argentina) on observations obtained at the W. M. Keck Observatory, which is operated
+  as a scientific partnership among the California Institute of Technology, the University
+  of California, and the National Aeronautics and Space Administration, made possible
+  by the generous financial support of the W. M. Keck Foundation; on observations
+  obtained at the German-Spanish Astronomical Centre, Calar Alto Observatory, operated
+  by the Max Planck Institute for Astronomy, Heidelberg, jointly with the Spanish
+  National Commission for Astronomy; and on observations obtained at UKIRT, which
+  is operated by the Joint Astronomy Centre on behalf of the UK Particle Physics and
+  Astronomy Research Council.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001AJ....122.2833F
+arxivurl: http://arxiv.org/abs/astro-ph/0108063
+author: Fan, X. and Narayanan, V. K. and Lupton, R. H. and Strauss, M. A. and Knapp,
+  G. R. and Becker, R. H. and White, R. L. and Pentericci, L. and Leggett, S. K. and
+  Haiman, Z. and Gunn, J. E. and Ivezić, Ž. and Schneider, D. P. and Anderson, S.
+  F. and Brinkmann, J. and Bahcall, N. A. and Connolly, A. J. and Csabai, I. and Doi,
+  M. and Fukugita, M. and Geballe, T. and Grebel, E. K. and Harbeck, D. and Hennessy,
+  G. and Lamb, D. Q. and Miknaitis, G. and Munn, J. A. and Nichol, R. and Okamura,
+  S. and Pier, J. R. and Prada, F. and Richards, G. T. and Szalay, A. and York, D.
+  G.
+author_list:
+- family: Fan
+  given: X.
+- family: Narayanan
+  given: V. K.
+- family: Lupton
+  given: R. H.
+- family: Strauss
+  given: M. A.
+- family: Knapp
+  given: G. R.
+- family: Becker
+  given: R. H.
+- family: White
+  given: R. L.
+- family: Pentericci
+  given: L.
+- family: Leggett
+  given: S. K.
+- family: Haiman
+  given: Z.
+- family: Gunn
+  given: J. E.
+- family: Ivezić
+  given: Ž.
+- family: Schneider
+  given: D. P.
+- family: Anderson
+  given: S. F.
+- family: Brinkmann
+  given: J.
+- family: Bahcall
+  given: N. A.
+- family: Connolly
+  given: A. J.
+- family: Csabai
+  given: I.
+- family: Doi
+  given: M.
+- family: Fukugita
+  given: M.
+- family: Geballe
+  given: T.
+- family: Grebel
+  given: E. K.
+- family: Harbeck
+  given: D.
+- family: Hennessy
+  given: G.
+- family: Lamb
+  given: D. Q.
+- family: Miknaitis
+  given: G.
+- family: Munn
+  given: J. A.
+- family: Nichol
+  given: R.
+- family: Okamura
+  given: S.
+- family: Pier
+  given: J. R.
+- family: Prada
+  given: F.
+- family: Richards
+  given: G. T.
+- family: Szalay
+  given: A.
+- family: York
+  given: D. G.
+date-added: 2017-08-10 20:24:50 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/324111
+eprint: astro-ph/0108063
+journal: \aj
+keywords: 'Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines, Galaxies:
+  Quasars: Emission Lines, Galaxies: Quasars: General'
+month: December
+pages: 2833--2849
+papis_id: 11fa1ffe726f42218d4ce54ce8f1f565
+ref: fan.x.2001
+title: A Survey of z.8 Quasars in the Sloan Digital Sky Survey. I. Discovery of Three
+  New Quasars and the Spatial Density of Luminous Quasars at z̃6
+type: article
+volume: '122'
+year: '2001'

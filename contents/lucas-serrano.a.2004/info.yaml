@@ -1,0 +1,46 @@
+abstract: We assess the suitability of a recent high-resolution central scheme developed
+  by \cite{kurganov} for the solution of the relativistic hydrodynamic equations.
+  The novelty of this approach relies on the absence of Riemann solvers in the solution
+  procedure. The computations we present are performed in one and two spatial dimensions
+  in Minkowski spacetime. Standard numerical experiments such as shock tubes and the
+  relativistic flat-faced step test are performed. As an astrophysical application
+  the article includes two-dimensional simulations of the propagation of relativistic
+  jets using both Cartesian and cylindrical coordinates. The simulations reported
+  clearly show the capabilities of the numerical scheme of yielding satisfactory results,
+  with an accuracy comparable to that obtained by the so-called high-resolution shock-capturing
+  schemes based upon Riemann solvers (Godunov-type schemes), even well inside the
+  ultrarelativistic regime. Such a central scheme can be straightforwardly applied
+  to hyperbolic systems of conservation laws for which the characteristic structure
+  is not explicitly known, or in cases where a numerical computation of the exact
+  solution of the Riemann problem is prohibitively expensive. Finally, we present
+  comparisons with results obtained using various Godunov-type schemes as well as
+  with those obtained using other high-resolution central schemes which have recently
+  been reported in the literature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...428..703L
+arxivurl: http://arxiv.org/abs/astro-ph/0407541
+author: Lucas-Serrano, A. and Font, J. A. and Ibáñez, J. M. and Martí, J. M.
+author_list:
+- family: Lucas-Serrano
+  given: A.
+- family: Font
+  given: J. A.
+- family: Ibáñez
+  given: J. M.
+- family: Martí
+  given: J. M.
+date-added: 2017-08-11 02:08:50 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1051/0004-6361:20035731
+eprint: astro-ph/0407541
+journal: \aap
+keywords: 'hydrodynamics, methods: numerical, relativity, shock waves'
+month: December
+pages: 703--715
+papis_id: 4e205fa928a0f450c71c4af0a864b68d
+ref: lucas_serrano.a.2004
+title: Assessment of a high-resolution central scheme for the solution of the relativistic
+  hydrodynamics equations
+type: article
+volume: '428'
+year: '2004'

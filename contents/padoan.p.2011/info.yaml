@@ -1,0 +1,44 @@
+abstract: This work presents a new physical model of the star formation rate (SFR),
+  which is verified with an unprecedented set of large numerical simulations of driven,
+  supersonic, self-gravitating, magneto-hydrodynamic (MHD) turbulence, where collapsing
+  cores are captured with accreting sink particles. The model depends on the relative
+  importance of gravitational, turbulent, magnetic, and thermal energies, expressed
+  through the virial parameter, alphavir, the rms sonic Mach number, M\_S,0, and the
+  ratio of mean gas pressure to mean magnetic pressure, beta0. The SFR is predicted
+  to decrease with increasing alphavir (stronger turbulence relative to gravity),
+  to increase with increasing M\_S,0 (for constant values of alphavir), and to depend
+  weakly on beta0 for values typical of star forming regions (M\_S,0\approx{} 4-20
+  and beta0 \approx{} 1-20). In the unrealistic limit of beta0 --> \infty{}, that
+  is, in the complete absence of a magnetic field, the SFR increases approximately
+  by a factor of three, which shows the importance of magnetic fields in the star
+  formation process, even when they are relatively weak (super-Alfv{\'e}nic turbulence).
+  The star-formation simulations used to test the model result in an approximately
+  constant SFR, after an initial transient phase. The dependence of the SFR on the
+  virial parameter is shown to agree very well with the theoretical predictions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...730...40P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.0248
+author: Padoan, P. and Nordlund, Å.
+author_list:
+- family: Padoan
+  given: P.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-10 15:36:17 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/730/1/40
+eid: '40'
+eprint: '0907.0248'
+journal: \apj
+keywords: 'ISM: kinematics and dynamics, magnetohydrodynamics: MHD, stars: formation,
+  turbulence'
+month: March
+pages: '40'
+papis_id: 00cd44075fff9946f0d922c48443ea9f
+primaryclass: astro-ph.GA
+ref: padoan.p.2011
+title: The Star Formation Rate of Supersonic Magnetohydrodynamic Turbulence
+type: article
+volume: '730'
+year: '2011'

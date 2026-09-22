@@ -1,0 +1,88 @@
+abstract: We have determined the angular diameters of two metal-poor stars, HD 122563
+  and Gmb 1830, using CHARA and Palomar Testbed Interferometer observations. For the
+  giant star HD 122563, we derive an angular diameter theta3D = 0.940 $\pm$ 0.011
+  milliarcseconds (mas) using limb-darkening from 3D convection simulations and for
+  the dwarf star Gmb 1830 (HD 103095) we obtain a 1D limb-darkened angular diameter
+  theta1D = 0.679 \$\pm\$ 0.007 mas. Coupling the angular diameters with photometry
+  yields effective temperatures with precisions better than 55 K (Teff = 4598 \$\pm\$
+  41 K and 4818 \$\pm\$ 54 K - for the giant and the dwarf star, respectively). Including
+  their distances results in very well-determined luminosities and radii (L = 230
+  \$\pm\$ 7 L\&sun;, R = 24.1 \$\pm\$ 1.1 R\&sun; and L = 0.213 \$\pm\$ 0.002 L\&sun;,
+  R = 0.665 \$\pm\$ 0.014 R\&sun;, respectively). We used the CESAM2k stellar structure
+  and evolution code in order to produce models that fit the observational data. We
+  found values of the mixing-length parameter alpha (which describes 1D convection)
+  that depend on the mass of the star. The masses were determined from the models
+  with precisions of <3\% and with the well-measured radii excellent constraints on
+  the surface gravity are obtained (log g = 1.60 \$\pm\$ 0.04, 4.59 \$\pm\$ 0.02 dex,
+  respectively). The very small errors on both log g and Teff provide stringent constraints
+  for spectroscopic analyses given the sensitivity of abundances to both of these
+  values. The precise determination of Teff for the two stars brings into question
+  the photometric scales for metal-poor stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...545A..17C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.5954
+author: Creevey, O. L. and Thévenin, F. and Boyajian, T. S. and Kervella, P. and Chiavassa,
+  A. and Bigot, L. and Mérand, A. and Heiter, U. and Morel, P. and Pichon, B. and
+  Mc Alister, H. A. and ten Brummelaar, T. A. and Collet, R. and van Belle, G. T.
+  and Coudé du Foresto, V. and Farrington, C. and Goldfinger, P. J. and Sturmann,
+  J. and Sturmann, L. and Turner, N.
+author_list:
+- family: Creevey
+  given: O. L.
+- family: Thévenin
+  given: F.
+- family: Boyajian
+  given: T. S.
+- family: Kervella
+  given: P.
+- family: Chiavassa
+  given: A.
+- family: Bigot
+  given: L.
+- family: Mérand
+  given: A.
+- family: Heiter
+  given: U.
+- family: Morel
+  given: P.
+- family: Pichon
+  given: B.
+- family: Mc Alister
+  given: H. A.
+- family: ten Brummelaar
+  given: T. A.
+- family: Collet
+  given: R.
+- family: van Belle
+  given: G. T.
+- family: Coudé du Foresto
+  given: V.
+- family: Farrington
+  given: C.
+- family: Goldfinger
+  given: P. J.
+- family: Sturmann
+  given: J.
+- family: Sturmann
+  given: L.
+- family: Turner
+  given: N.
+date-added: 2017-08-11 07:36:51 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1051/0004-6361/201219651
+eid: A17
+eprint: '1207.5954'
+journal: \aap
+keywords: 'stars: fundamental parameters, stars: individual: HD 122563, stars: low-mass,
+  stars: Population II, Galaxy: halo, stars: individual: HD 103095'
+month: September
+pages: A17
+papis_id: 2d137c29c71af8a910e5f56711cc2ad0
+primaryclass: astro-ph.SR
+ref: creevey.o.2012
+title: Fundamental properties of the Population II fiducial stars <ASTROBJ>HD 122563</ASTROBJ>
+  and <ASTROBJ>Gmb 1830</ASTROBJ> from CHARA interferometric observations
+type: article
+volume: '545'
+year: '2012'

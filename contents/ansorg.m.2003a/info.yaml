@@ -1,0 +1,33 @@
+abstract: In this Letter, we investigate uniformly rotating, homogeneous, and axisymmetric
+  relativistic fluid bodies with a toroidal shape. The corresponding field equations
+  are solved by means of a multidomain spectral method, which yields highly accurate
+  numerical solutions. For a prescribed, sufficiently large ratio of inner to outer
+  coordinate radius, the toroids exhibit a continuous transition to the extreme Kerr
+  black hole. Otherwise, the most relativistic configuration rotates at the mass-shedding
+  limit. For a given mass density, there seems to be no bound to the gravitational
+  mass as one approaches the black hole limit and a radius ratio of unity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...582L..87A
+author: Ansorg, M. and Kleinwächter, A. and Meinel, R.
+author_list:
+- family: Ansorg
+  given: M.
+- family: Kleinwächter
+  given: A.
+- family: Meinel
+  given: R.
+date-added: 2017-08-11 06:13:44 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/367632
+eprint: gr-qc/0211040
+journal: \apjl
+keywords: 'Black Hole Physics, Gravitation, Methods: Numerical, Relativity, Stars:
+  Neutron, Stars: Rotation'
+month: January
+pages: L87-L90
+papis_id: 3db75a8cc394b2e7d92b78a83c53ffbe
+ref: ansorg.m.2003a
+title: Relativistic Dyson Rings and Their Black Hole Limit
+type: article
+volume: '582'
+year: '2003'

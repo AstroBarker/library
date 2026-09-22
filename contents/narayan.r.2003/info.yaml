@@ -1,0 +1,42 @@
+abstract: We present a global linear stability analysis of nuclear fuel accumulating
+  on the surface of an accreting neutron star, and we identify the conditions under
+  which thermonuclear bursts are triggered. The analysis reproduces all the recognized
+  regimes of hydrogen and helium bursts and in addition shows that at high accretion
+  rates, near the limit of stable burning, there is a regime of ``delayed mixed bursts''
+  that is distinct from the more usual ``prompt mixed bursts.'' In delayed mixed bursts,
+  a large fraction of the fuel is burned stably before the burst is triggered. Bursts
+  thus have longer recurrence times but at the same time have somewhat smaller fluences.
+  Therefore, the parameter alpha, which measures the ratio of the energy released
+  via accretion to that generated through nuclear reactions in the burst, is up to
+  an order of magnitude larger than for prompt bursts. This increase in alpha near
+  the threshold of stable burning has been seen in observations. We explore a wide
+  range of mass accretion rates, neutron star radii, and core temperatures and calculate
+  a variety of burst properties. From a preliminary comparison with data, we suggest
+  that bursting neutron stars may have hot cores, with Tcore>~107.5 K, consistent
+  with interior cooling via the modified Urca or similar low-efficiency process, rather
+  than Tcore~107 K, as expected for the direct Urca process. There is also an indication
+  that neutron star radii are somewhat small, <~10 km. Both of these conclusions need
+  to be confirmed by comparing more careful calculations with better data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...599..419N
+arxivurl: http://arxiv.org/abs/astro-ph/0303447
+author: Narayan, R. and Heyl, J. S.
+author_list:
+- family: Narayan
+  given: R.
+- family: Heyl
+  given: J. S.
+date-added: 2017-08-10 17:48:57 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/379211
+eprint: astro-ph/0303447
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Neutron, X-Rays: Binaries, X-Rays: Bursts'
+month: December
+pages: 419--449
+papis_id: 14144c52d749de1b8ffa6f695d59d4d9
+ref: narayan.r.2003
+title: Thermonuclear Stability of Material Accreting onto a Neutron Star
+type: article
+volume: '599'
+year: '2003'

@@ -1,0 +1,69 @@
+abstract: We present first results on the quantitative spectroscopic analysis of the
+  photospheric-phase of type II supernovae (SN). The analyses are based on the model
+  atmosphere code, CMFGEN, of Hillier \& Miller (1998) which solves the radiative
+  transfer and statistical equilibrium equations in expanding outflows under the constraint
+  of radiative equilibrium. A key asset of CMFGEN is its thorough treatment of line-blanketing
+  due to metal species. From its applicability to hot star environments, the main
+  modifications to the source code were to allow a linear velocity law, a power-law
+  density distribution, an adaptive grid to handle the steep H recombination/ionization
+  front occurring in some SN models, and a routine to compute the gray temperature
+  structure in the presence of large velocities. In this first paper we demonstrate
+  the ability of CMFGEN to reproduce, with a high level of accuracy, the UV and optical
+  observations of a sample of well observed type II SN, i.e. SN1987A and SN1999em,
+  at representative stages of their photospheric evolution. Two principal stages of
+  SN are modeled   that where hydrogen is fully ionized, and that in which H is only
+  partially ionized. For models with an effective temperature below ~8000 K, hydrogen
+  recombines and gives rise to a steep ionization front. The effect of varying the
+  location of the outer grid radius on the spectral energy distribution (SED) is investigated.
+  We find that going to 5-6 times the optically-thick base radius is optimal, since
+  above that, the model becomes prohibitively large, while below this, significant
+  differences appear because of the reduced line-blanketing (which persists even far
+  above the photosphere) and the truncation of line-formation regions. To constrain
+  the metallicity and the reddening of SN, the UV spectral region of early-time spectra
+  is essential. We find that the density of the photosphere and effect of line blanketing
+  decline as the spatial scale of the SN increases. The density distribution is found
+  to have a strong impact on the overall flux distribution as well as line profiles.
+  For a given base density, the faster the density drops, the higher the effective
+  temperature of the model. We also find in cool models that the set of Ca ii lines,
+  near 8500 {\AA} is strongly sensitive to the density gradient. They show a weaker
+  and narrower profile for steeper density distributions. Hydrogen Balmer lines are
+  very well reproduced in fully or partially ionized models, but underestimated when
+  hydrogen recombines. A reduced turbulent velocity or a flatter density layout are
+  found to partially, but not fully, cure this persistent problem in studies of type
+  II SN. He i lines observed in early-time spectra are very well reproduced, even
+  for very modest helium enrichments, likely resulting from treatment of important
+  non-LTE effects. At similar early epochs CMFGEN predicts, unambiguously, the presence
+  of N ii lines in the blue-wing of both Hbeta and He I 5875 {\AA}. These lines have
+  been observed but so far have generally been associated with peculiar emission,
+  from locations far above the photosphere, in the strong adjacent lines. Finally,
+  we present a pedagogical investigation on P-Cygni profile formation in type II SN.
+  Halpha is found to form very close to the photosphere and thus presents a significant
+  flux-deficit in the red, made greater by the rapidly declining density distribution.
+  This provides a clear explanation for the noticeable blue-shift of P-Cygni profiles
+  observed in early-time spectra of type II SN. Future studies based on CMFGEN modeling
+  will focus on using type II SN for the calibration of distances in the Universe,
+  as well as on detailed spectroscopic analyses for the determination of progenitor
+  properties.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...437..667D
+arxivurl: http://arxiv.org/abs/astro-ph/0504028
+author: Dessart, L. and Hillier, D. J.
+author_list:
+- family: Dessart
+  given: L.
+- family: Hillier
+  given: D. J.
+date-added: 2017-08-11 02:29:08 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1051/0004-6361:20042525
+eprint: astro-ph/0504028
+journal: \aap
+keywords: 'radiative transfer, stars: atmospheres, stars: supernovae, line: formation'
+month: July
+pages: 667--685
+papis_id: c3cb70bbf064c57841b786f43385b765
+ref: dessart.l.2005
+title: Quantitative spectroscopy of photospheric-phase type II supernovae
+type: article
+volume: '437'
+year: '2005'

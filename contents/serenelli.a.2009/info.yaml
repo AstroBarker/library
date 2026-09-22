@@ -1,0 +1,48 @@
+abstract: We construct updated solar models with different sets of solar abundances,
+  including the most recent determinations by Asplund et al. The latter work predicts
+  a larger (~10\%) solar metallicity compared to previous measurements by the same
+  authors but significantly lower (~25\%) than the recommended value from a decade
+  ago by Grevesse \& Sauval. We compare the results of our models with determinations
+  of the solar structure inferred through helioseismology measurements. The model
+  that uses the most recent solar abundance determinations predicts the base of the
+  solar convective envelope to be located at R CZ = 0.724 R sun and a surface helium
+  mass fraction of Y surf = 0.231. These results are in conflict with helioseismology
+  data (R CZ = 0.713 $\pm$ 0.001 R sun and Y surf = 0.2485 \$\pm\$ 0.0035) at 5sigma
+  and 11sigma levels, respectively. Using the new solar abundances, we calculate the
+  magnitude by which radiative opacities should be modified in order to restore agreement
+  with helioseismology. We find that a maximum change of ~15\% at the base of the
+  convective zone is required with a smooth decrease toward the core, where the change
+  needed is ~5\%. The required change at the base of the convective envelope is about
+  half the value estimated previously. We also present the solar neutrino fluxes predicted
+  by the new models. The most important changes brought about by the new solar abundances
+  are the increase by ~10\% in the predicted 13N and 15O fluxes that arise mostly
+  due to the increase in the C and N abundances in the newly determined solar composition.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...705L.123S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0909.2668
+author: Serenelli, A. M. and Basu, S. and Ferguson, J. W. and Asplund, M.
+author_list:
+- family: Serenelli
+  given: A. M.
+- family: Basu
+  given: S.
+- family: Ferguson
+  given: J. W.
+- family: Asplund
+  given: M.
+date-added: 2017-08-11 04:23:16 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/705/2/L123
+eprint: '0909.2668'
+journal: \apjl
+keywords: 'neutrinos, Sun: abundances, Sun: helioseismology, Sun: interior'
+month: November
+pages: L123-L127
+papis_id: eb0a7d96f8881f3eb5b2e21f48bfb939
+primaryclass: astro-ph.SR
+ref: serenelli.a.2009
+title: 'New Solar Composition: The Problem with Solar Models Revisited'
+type: article
+volume: '705'
+year: '2009'

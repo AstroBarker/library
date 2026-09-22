@@ -1,0 +1,39 @@
+abstract: 'I have assembled a diverse sample of galaxies from the literature with
+  far-ultraviolet (FUV), optical, infrared (IR), and radio luminosities to explore
+  the calibration of radio-derived and IR-derived star formation (SF) rates and the
+  origin of the radio-IR correlation. By comparing the 8-1000 mum IR, which samples
+  dust-reprocessed starlight, with direct stellar FUV emission, I show that the IR
+  traces most of the SF in luminous ~L\textasteriskcentered galaxies but traces only
+  a small fraction of the SF in faint ~0.01L\textasteriskcentered galaxies. If radio
+  emission were a perfect SF rate indicator, this effect would cause easily detectable
+  curvature in the radio-IR correlation. Yet, the radio-IR correlation is nearly linear.
+  This implies that the radio flux from low-luminosity galaxies is substantially suppressed,
+  compared to brighter galaxies. This is naturally interpreted in terms of a decreasing
+  efficiency of nonthermal radio emission in faint galaxies. Thus, the linearity of
+  the radio-IR correlation is a conspiracy: both indicators underestimate the SF rate
+  at low luminosities. SF rate calibrations that take into account this effect are
+  presented, along with estimates of the random and systematic error associated with
+  their use.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...586..794B
+arxivurl: http://arxiv.org/abs/astro-ph/0212121
+author: Bell, E. F.
+author_list:
+- family: Bell
+  given: E. F.
+date-added: 2017-08-11 03:30:18 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/367829
+eprint: astro-ph/0212121
+journal: \apj
+keywords: 'ISM: Cosmic Rays, ISM: Dust, Extinction, Galaxies: General, Infrared: Galaxies,
+  Radio Continuum: Galaxies, Ultraviolet: Galaxies'
+month: April
+pages: 794--813
+papis_id: 584d6c2cda15e8985f646227502a5f3f
+ref: bell.e.2003
+title: 'Estimating Star Formation Rates from Infrared and Radio Luminosities: The
+  Origin of the Radio-Infrared Correlation'
+type: article
+volume: '586'
+year: '2003'

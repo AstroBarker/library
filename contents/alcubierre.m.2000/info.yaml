@@ -1,0 +1,40 @@
+abstract: 'We present a series of test-beds for numerical codes designed to find apparent
+  horizons. We compare three apparent horizon finders that use different numerical
+  methods: one of them in axisymmetry and two which are fully three dimensional. We
+  concentrate first on a toy model that has a simple horizon structure, and then go
+  on to study single and multiple black hole datasets. We use our finders to look
+  for apparent horizons in Brill wave initial data where we discover that some results
+  published previously are not correct. For pure wave and multiple black hole spacetimes,
+  we apply our finders to survey parameter space.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000CQGra..17.2159A
+author: Alcubierre, M. and Brandt, S. and Brügmann, B. and Gundlach, C. and Massó,
+  J. and Seidel, E. and Walker, P.
+author_list:
+- family: Alcubierre
+  given: M.
+- family: Brandt
+  given: S.
+- family: Brügmann
+  given: B.
+- family: Gundlach
+  given: C.
+- family: Massó
+  given: J.
+- family: Seidel
+  given: E.
+- family: Walker
+  given: P.
+date-added: 2017-08-11 06:16:06 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1088/0264-9381/17/11/301
+eprint: gr-qc/9809004
+journal: Classical and Quantum Gravity
+month: June
+pages: 2159--2190
+papis_id: c114a290f8ecdacf65423f200f1b0368
+ref: alcubierre.m.2000
+title: Test-beds and applications for apparent horizon finders in numerical relativity
+type: article
+volume: '17'
+year: '2000'

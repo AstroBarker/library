@@ -1,0 +1,127 @@
+abstract: We present observational constraints on the nature of dark energy using
+  the Supernova Legacy Survey three-year sample (SNLS3) of Guy et al. and Conley et
+  al. We use the 472 Type Ia supernovae (SNe Ia) in this sample, accounting for recently
+  discovered correlations between SN Ia luminosity and host galaxy properties, and
+  include the effects of all identified systematic uncertainties directly in the cosmological
+  fits. Combining the SNLS3 data with the full WMAP7 power spectrum, the Sloan Digital
+  Sky Survey luminous red galaxy power spectrum, and a prior on the Hubble constant
+  H 0 from SHOES, in a flat universe we find Omega m  = 0.269 $\pm$ 0.015 and w =
+  -1.061+0.069 - 0.068 (where the uncertainties include all statistical and SN Ia
+  systematic errors)---a 6.5\% measure of the dark energy equation-of-state parameter
+  w. The statistical and systematic uncertainties are approximately equal, with the
+  systematic uncertainties dominated by the photometric calibration of the SN Ia fluxes---without
+  these calibration effects, systematics contribute only a ~2\% error in w. When relaxing
+  the assumption of flatness, we find Omega m  = 0.271 \$\pm\$ 0.015, Omega k  = -0.002
+  \$\pm\$ 0.006, and w = -1.069+0.091 - 0.092. Parameterizing the time evolution of
+  w as w(a) = w 0 + wa (1 - a) gives w 0 = -0.905 \$\pm\$ 0.196, wa = -0.984+1.094
+  - 1.097 in a flat universe. All of our results are consistent with a flat, w = -1
+  universe. The size of the SNLS3 sample allows various tests to be performed with
+  the SNe segregated according to their light curve and host galaxy properties. We
+  find that the cosmological constraints derived from these different subsamples are
+  consistent. There is evidence that the coefficient, beta, relating SN Ia luminosity
+  and color, varies with host parameters at >4sigma significance (in addition to the
+  known SN luminosity-host relation); however, this has only a small effect on the
+  cosmological results and is currently a subdominant systematic.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...737..102S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.1444
+author: Sullivan, M. and Guy, J. and Conley, A. and Regnault, N. and Astier, P. and
+  Balland, C. and Basa, S. and Carlberg, R. G. and Fouchez, D. and Hardin, D. and
+  Hook, I. M. and Howell, D. A. and Pain, R. and Palanque-Delabrouille, N. and Perrett,
+  K. M. and Pritchet, C. J. and Rich, J. and Ruhlmann-Kleider, V. and Balam, D. and
+  Baumont, S. and Ellis, R. S. and Fabbro, S. and Fakhouri, H. K. and Fourmanoit,
+  N. and González-Gaitán, S. and Graham, M. L. and Hudson, M. J. and Hsiao, E. and
+  Kronborg, T. and Lidman, C. and Mourao, A. M. and Neill, J. D. and Perlmutter, S.
+  and Ripoche, P. and Suzuki, N. and Walker, E. S.
+author_list:
+- family: Sullivan
+  given: M.
+- family: Guy
+  given: J.
+- family: Conley
+  given: A.
+- family: Regnault
+  given: N.
+- family: Astier
+  given: P.
+- family: Balland
+  given: C.
+- family: Basa
+  given: S.
+- family: Carlberg
+  given: R. G.
+- family: Fouchez
+  given: D.
+- family: Hardin
+  given: D.
+- family: Hook
+  given: I. M.
+- family: Howell
+  given: D. A.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Perrett
+  given: K. M.
+- family: Pritchet
+  given: C. J.
+- family: Rich
+  given: J.
+- family: Ruhlmann-Kleider
+  given: V.
+- family: Balam
+  given: D.
+- family: Baumont
+  given: S.
+- family: Ellis
+  given: R. S.
+- family: Fabbro
+  given: S.
+- family: Fakhouri
+  given: H. K.
+- family: Fourmanoit
+  given: N.
+- family: González-Gaitán
+  given: S.
+- family: Graham
+  given: M. L.
+- family: Hudson
+  given: M. J.
+- family: Hsiao
+  given: E.
+- family: Kronborg
+  given: T.
+- family: Lidman
+  given: C.
+- family: Mourao
+  given: A. M.
+- family: Neill
+  given: J. D.
+- family: Perlmutter
+  given: S.
+- family: Ripoche
+  given: P.
+- family: Suzuki
+  given: N.
+- family: Walker
+  given: E. S.
+date-added: 2017-08-10 21:10:06 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1088/0004-637X/737/2/102
+eid: '102'
+eprint: '1104.1444'
+journal: \apj
+keywords: 'cosmological parameters, cosmology: observations, supernovae: general,
+  surveys'
+month: August
+pages: '102'
+papis_id: a489c09287630d8897ceefaab3b14aa5
+primaryclass: astro-ph.CO
+ref: sullivan.m.2011
+title: 'SNLS3: Constraints on Dark Energy Combining the Supernova Legacy Survey Three-year
+  Data with Other Probes'
+type: article
+volume: '737'
+year: '2011'

@@ -1,0 +1,41 @@
+abstract: Nonlinear growth of 2D Rayleigh-Taylor (R-T) instabilities are numerically
+  studied to apply to the mixing in the supernova ejecta. Highly refined calculations
+  of mixing in the realistic model of SN 1987A with a better code and various mesh
+  resolutions are presented. It is shown that mixing width (or the extent of mixing)
+  due to Rayleigh-Taylor instabilities is still too small to account for the observations
+  even with relatively large initial perturbation. The mixing width is found to depend
+  only slightly on the mesh resolution when the initial amplitude is larger than about
+  5 percent of the expansion speed. To clarify the basic properties of the R-T instabilities
+  and the dependence of the mixing width on the initial density structure, initial
+  perturbation, and numerical resolution, highly simplified ideal models of R-T instabilities
+  of compressible gas with an adiabatic constant of 4/3 are considered. It is found
+  that, when the initial amplitude of the velocity perturbation is larger than 1 percent
+  of the sound speed, the mixing width in time depends mainly on the initial amplitudes
+  and the density ratio.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...390..230H
+author: Hachisu, I. and Matsuda, T. and Nomoto, K. and Shigeyama, T.
+author_list:
+- family: Hachisu
+  given: I.
+- family: Matsuda
+  given: T.
+- family: Nomoto
+  given: K.
+- family: Shigeyama
+  given: T.
+date-added: 2017-08-11 01:52:03 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/171274
+journal: \apj
+keywords: Ejecta, Hydrodynamics, Stellar Interiors, Supernova 1987a, Taylor Instability,
+  Computational Astrophysics, Mixing, Scaling Laws
+month: May
+pages: 230--252
+papis_id: d779fb388453d95d61c666129ec27005
+ref: hachisu.i.1992
+title: Mixing in ejecta of supernovae. I - General properties of two-dimensional Rayleigh-Taylor
+  instabilities and mixing width in ejecta of supernovae
+type: article
+volume: '390'
+year: '1992'

@@ -1,0 +1,33 @@
+abstract: The 3 + 1 Einstein equations (including a radiation component in the stress-energy
+  tensor), the 3 + 1 equations for general relativistic hydrodynamics (including the
+  radiation four-force density), and the 3 + 1 general relativistic Boltzmann equation,
+  are all derived for time-dependent, spherically symmetric spacetimes. These equations
+  are then specialized to maximally sliced spacetimes in the isotropic gauge. The
+  implicit finite differencing of the Boltzmann equation and of the radiation contribution
+  to the hydrodynamics equations is described, and a new implicit numerical scheme
+  for the coupled collision term in the Boltzmann equation and the radiation four-force
+  density in the hydrodynamics equations is presented. The results of a code test
+  for this radiation code are given.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1989ApJ...343..853M
+author: Mezzacappa, A. and Matzner, R. A.
+author_list:
+- family: Mezzacappa
+  given: A.
+- family: Matzner
+  given: R. A.
+date-added: 2017-08-10 22:27:32 +0000
+date-modified: 2017-12-05 16:37:50 +0000
+doi: 10.1086/167756
+journal: \apj
+keywords: Computerized Simulation, Gravitational Collapse, Neutrinos, Relativity,
+  Space-Time Functions, Einstein Equations, Hydrodynamic Equations, Time Dependence
+month: August
+pages: 853--873
+papis_id: 56baa5e61d8bcc0606f7d913f76098ab
+ref: mezzacappa.a.1989
+title: Computer simulation of time-dependent, spherically symmetric spacetimes containing
+  radiating fluids - Formalism and code tests
+type: article
+volume: '343'
+year: '1989'

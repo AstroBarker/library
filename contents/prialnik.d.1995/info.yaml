@@ -1,0 +1,50 @@
+abstract: 'According to the nova theory, observed characteristics of novae may be
+  reproduced by varying the values of three basic and independent parameters: the
+  acreting white dwarf''s mass MWD, its temperature TWD, and the mass transfer rate
+  dot M. Calculations performed to date have, however, left wide regions of the parameter
+  space unexplored. We carry out a systematic study involving calculations of evolutionary
+  sequences of nova outbursts through several cycles, for 64 parameter combinations
+  spanning the entire parameter space, assuming CO white dwarfs (WDs). An updated
+  stellar evolution code is used, including an extended nuclear reactions network,
+  new opacities (OPAL), diffusion of all elements and the effect of radiation pressure
+  on mass loss. We find that the entire range of observed nova characteristics can
+  be accounted for, including recurrent and symbiotic novae. Recurrent novae may be
+  obtained on relatively low-mass WDs (approximately 1 solar mass). Accretion at rates
+  dot M greater than or equal to 10(wxp -7) solar mass/yr invariably results in an
+  increase of MWD and may, eventually, lead to a type 1a supernova. For accretion
+  rates dot M less than or equal to 10-9 solar mass/yr, MWD decreases under all circumstances.
+  The overall dependence of nova characteristics on the basic parameters is analyzed.
+  Observed correlations between nova properties, as well as the conspicuous lack of
+  correlation between other properties, are verified by the theoretical results. Among
+  all the observed properties of novae there are three that appear to be independent
+  of each other: the time of decline by 3 magnitudes t3, the heavy element abundance
+  of the ejecta Zej, and their helium content Yej. Our calculations yield t3(MWD,
+  TWD, dot M), Yej(MWD, TWD, dot M) at discrete points over the entire parameter space.
+  By matching observed characteristics of a particular nova with calculated counterparts,
+  it is possible to derive the WDs mass and temperature and the (average) accretion
+  rate as well as additional observable properties. We find an excellent match for
+  the measured expansion velocities, but the calculated ejected masses are generally
+  smaller than those estimated from observations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...445..789P
+author: Prialnik, D. and Kovetz, A.
+author_list:
+- family: Prialnik
+  given: D.
+- family: Kovetz
+  given: A.
+date-added: 2017-08-10 19:47:29 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175741
+journal: \apj
+keywords: Independent Variables, Mass Transfer, Novae, Stellar Evolution, Stellar
+  Mass, Stellar Models, Stellar Temperature, Abundance, Radiation Pressure, Stellar
+  Interiors, Stellar Mass Accretion, Stellar Mass Ejection, White Dwarf Stars
+month: June
+pages: 789--810
+papis_id: f02d4867d00a1d65a1b6b5b33ea54982
+ref: prialnik.d.1995
+title: An extended grid of multicycle nova evolution models
+type: article
+volume: '445'
+year: '1995'

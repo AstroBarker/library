@@ -1,0 +1,83 @@
+abstract: The magnetic field in the local interstellar medium (ISM) provides a key
+  indicator of the galactic environment of the Sun and influences the shape of the
+  heliosphere. We have studied the interstellar magnetic field (ISMF) in the solar
+  vicinity using polarized starlight for stars within 40 pc of the Sun and 90$\,^{\circ}$
+  of the heliosphere nose. In Frisch et al. (Paper I), we developed a method for determining
+  the local ISMF direction by finding the best match to a group of interstellar polarization
+  position angles obtained toward nearby stars, based on the assumption that the polarization
+  is parallel to the ISMF. In this paper, we extend the analysis by utilizing weighted
+  fits to the position angles and by including new observations acquired for this
+  study. We find that the local ISMF is pointed toward the galactic coordinates l,
+  b =47\$\,^{\circ}\$ \$\pm\$ 20\$\,^{\circ}\$, 25\$\,^{\circ}\$ \$\pm\$ 20\$\,^{\circ}\$.
+  This direction is close to the direction of the ISMF that shapes the heliosphere,
+  l, b =33\$\,^{\circ}\$ \$\pm\$ 4\$\,^{\circ}\$, 55\$\,^{\circ}\$ \$\pm\$ 4\$\,^{\circ}\$,
+  as traced by the center of the "Ribbon" of energetic neutral atoms discovered by
+  the Interstellar Boundary Explorer (IBEX) mission. Both the magnetic field direction
+  and the kinematics of the local ISM are consistent with a scenario where the local
+  ISM is a fragment of the Loop I superbubble. A nearby ordered component of the local
+  ISMF has been identified in the region l \approx{}0\$\,^{\circ}\$ --> 80\$\,^{\circ}\$
+  and b \approx{}0\$\,^{\circ}\$ --> 30\$\,^{\circ}\$, where PlanetPol data show a
+  distance-dependent increase of polarization strength. The ordered component extends
+  to within 8 pc of the Sun and implies a weak curvature in the nearby ISMF of ~0fdg25
+  pc-1. This conclusion is conditioned on the small sample of stars available for
+  defining this rotation. Variations from the ordered component suggest a turbulent
+  component of ~23\$\,^{\circ}\$. The ordered component and standard relations between
+  polarization, color excess, and Ho column density predict a reasonable increase
+  of N(H) with distance in the local ISM. The similarity of the ISMF directions traced
+  by the polarizations, the IBEX Ribbon, and pulsars inside the Local Bubble in the
+  third galactic quadrant suggest that the ISMF is relatively uniform over spatial
+  scales of 8-200 pc and is more similar to interarm than spiral-arm magnetic fields.
+  The ISMF direction from the polarization data is also consistent with small-scale
+  spatial asymmetries detected in GeV-TeV cosmic rays with a galactic origin. The
+  peculiar geometrical relation found earlier between the cosmic microwave background
+  dipole moment, the heliosphere nose, and the ISMF direction is supported by this
+  study. The interstellar radiation field at ~975 {\AA} does not appear to play a
+  role in grain alignment for the low-density ISM studied here.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...760..106F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.1273
+author: Frisch, P. C. and Andersson, B.-G. and Berdyugin, A. and Piirola, V. and DeMajistre,
+  R. and Funsten, H. O. and Magalhaes, A. M. and Seriacopi, D. B. and McComas, D.
+  J. and Schwadron, N. A. and Slavin, J. D. and Wiktorowicz, S. J.
+author_list:
+- family: Frisch
+  given: P. C.
+- family: Andersson
+  given: B.-G.
+- family: Berdyugin
+  given: A.
+- family: Piirola
+  given: V.
+- family: DeMajistre
+  given: R.
+- family: Funsten
+  given: H. O.
+- family: Magalhaes
+  given: A. M.
+- family: Seriacopi
+  given: D. B.
+- family: McComas
+  given: D. J.
+- family: Schwadron
+  given: N. A.
+- family: Slavin
+  given: J. D.
+- family: Wiktorowicz
+  given: S. J.
+date-added: 2017-08-11 07:48:32 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/760/2/106
+eid: '106'
+eprint: '1206.1273'
+journal: \apj
+keywords: 'ISM: bubbles, ISM: magnetic fields, local interstellar matter, methods:
+  data analysis, polarization, Sun: heliosphere'
+month: December
+pages: '106'
+papis_id: 67610cbe0f6c299ab6308011fc08aa1e
+ref: frisch.p.2012
+title: The Interstellar Magnetic Field Close to the Sun. II.
+type: article
+volume: '760'
+year: '2012'

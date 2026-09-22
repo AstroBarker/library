@@ -1,0 +1,46 @@
+abstract: 'Context: The collapsar model requires rapidly rotating Wolf-Rayet stars
+  as progenitors of long gamma-ray bursts. However, Galactic Wolf-Rayet stars rapidly
+  lose angular momentum due to their intense stellar winds. Aims: We investigate whether
+  the tidal interaction of a Wolf-Rayet star with a compact object in a binary system
+  can spin up the Wolf-Rayet star enough to produce a collapsar.  Methods: We compute
+  the evolution of close Wolf-Rayet binaries, including tidal angular momentum exchange,
+  differential rotation of the Wolf-Rayet star, internal magnetic fields, stellar
+  wind mass loss, and mass transfer. The Wolf-Rayet companion is approximated as a
+  point mass. We then employ a population synthesis code to infer the occurrence rates
+  of the various relevant binary evolution channels.  Results: We find that the simple
+  scenario - i.e., the Wolf-Rayet star being tidally spun up and producing a collapsar
+  - does not occur at solar metallicity and may only occur with low probability at
+  low metallicity. It is limited by the widening of the binary orbit induced by the
+  strong Wolf-Rayet wind or by the radius evolution of the Wolf-Rayet star that most
+  often leads to a binary merger. The tidal effects enhance the merger rate of Wolf-Rayet
+  stars with black holes such that it becomes comparable to the occurrence rate of
+  long gamma-ray bursts.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...484..831D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.0014
+author: Detmers, R. G. and Langer, N. and Podsiadlowski, P. and Izzard, R. G.
+author_list:
+- family: Detmers
+  given: R. G.
+- family: Langer
+  given: N.
+- family: Podsiadlowski
+  given: P.
+- family: Izzard
+  given: R. G.
+date-added: 2017-08-11 04:03:26 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1051/0004-6361:200809371
+eprint: '0804.0014'
+journal: \aap
+keywords: 'stars: binaries: close, stars: evolution, stars: Wolf-Rayet, gamma rays:
+  bursts'
+month: June
+pages: 831--839
+papis_id: d5613345646d4bcd7f87223a5ef07798
+ref: detmers.r.2008
+title: Gamma-ray bursts from tidally spun-up Wolf-Rayet stars?
+type: article
+volume: '484'
+year: '2008'

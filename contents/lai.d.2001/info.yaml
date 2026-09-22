@@ -1,0 +1,54 @@
+abstract: We study implications for the apparent alignment of the spin axes, proper
+  motion directions, and polarization vectors of the Crab and Vela pulsars. The spin
+  axes are deduced from recent Chandra X-Ray Observatory images that reveal jets and
+  nebular structure having definite symmetry axes. The alignments indicate that these
+  pulsars were born either in isolation or with negligible velocity contributions
+  from binary motions. We examine the effects of rotation and the conditions under
+  which spin-kick alignment is produced for theoretical models of neutron star kicks.
+  If the kick is generated promptly during the formation of the neutron star by asymmetric
+  mass ejection and/or neutrino emission, then the alignment requires that the proto-neutron
+  star possess, by virtue of the precollapse stellar core's spin, an original spin
+  with period Ps much less than the kick timescale taukick, thus spin averaging the
+  kick forces on the star. The kick timescale ranges from 100 ms to 10 s depending
+  on whether the kick is hydrodynamically driven or neutrino-magnetic field driven.
+  For hydrodynamical models, spin-kick alignment further requires the rotation period
+  of an asymmetry pattern at the radius near shock breakout (>~100 km) to be much
+  less than taukick<~100 ms; this is difficult to satisfy unless rotation plays a
+  dynamically important role in the core collapse and explosion (corresponding to
+  Ps<~1 ms). Aligned kick and spin vectors are inherent to the slow process of asymmetric
+  electromagnetic radiation from an off-centered magnetic dipole. We reassess the
+  viability of this electromagnetic rocket effect, correcting a factor of 4 error
+  in Harrison and Tademaru's calculation that increases the size of the effect. To
+  produce a kick velocity of order a few hundred kilometers per second requires that
+  the neutron star be born with Ps~1 ms and that spin-down due to r-mode-driven gravitational
+  radiation be inefficient compared to standard magnetic braking. The electromagnetic
+  rocket operates on a timescale of order 0.3(B/1013 G)-2 yr. The apparent spin-kick
+  alignment in the Crab and Vela pulsars places important new constraints on each
+  of the mechanisms of neutron star kicks that we consider.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...549.1111L
+arxivurl: http://arxiv.org/abs/astro-ph/0007272
+author: Lai, D. and Chernoff, D. F. and Cordes, J. M.
+author_list:
+- family: Lai
+  given: D.
+- family: Chernoff
+  given: D. F.
+- family: Cordes
+  given: J. M.
+date-added: 2017-08-11 04:06:15 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1086/319455
+eprint: astro-ph/0007272
+journal: \apj
+keywords: 'Stars: Pulsars: Individual: Alphanumeric: PSR B0531+21, Stars: Pulsars:
+  Individual: Alphanumeric: PSR B0833-45, Stars: Neutron, Stars: Rotation, Stars:
+  Supernovae: General'
+month: March
+pages: 1111--1118
+papis_id: 356fec8d8ed5b8563e60315d98179661
+ref: lai.d.2001
+title: 'Pulsar Jets: Implications for Neutron Star Kicks and Initial Spins'
+type: article
+volume: '549'
+year: '2001'

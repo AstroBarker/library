@@ -1,0 +1,40 @@
+abstract: 'The energy requirements of gamma-ray bursts have in past been poorly constrained
+  because of three major uncertainties: the distances to bursts, the degree of burst
+  beaming, and the efficiency of gamma-ray production. The first of these has been
+  resolved, with both indirect evidence (the distribution of bursts in flux and position)
+  and direct evidence (redshifted absorption features in the afterglow spectrum of
+  GRB 970508) pointing to cosmological distances. We now wish to address the second
+  uncertainty. Afterglows allow a statistical test of beaming, described in an earlier
+  paper. In this paper, we modify a standard fireball afterglow model to explore the
+  effects of beaming on burst remnant dynamics and afterglow emission. If the burst
+  ejecta are beamed into angle zetam, the burst remnant''s evolution changes qualitatively
+  once its bulk Lorentz factor Gamma<~1/zetam: before this, Gamma declines as a power
+  law of radius, while afterward, it declines exponentially. This change results in
+  a broken power-law light curve whose late-time decay is faster than expected for
+  a purely spherical geometry. These predictions disagree with afterglow observations
+  of GRB 970508. We explored several variations on our model, but none seems to be
+  able to change this result. We therefore suggest that this burst is unlikely to
+  have been highly beamed and that its energy requirements were near those of isotropic
+  models. More recent afterglows may offer the first practical applications for our
+  beamed models.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...525..737R
+arxivurl: http://arxiv.org/abs/astro-ph/9903399
+author: Rhoads, J. E.
+author_list:
+- family: Rhoads
+  given: J. E.
+date-added: 2017-08-11 01:57:59 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307907
+eprint: astro-ph/9903399
+journal: \apj
+keywords: 'GAMMA RAYS: BURSTS, Gamma Rays: Bursts'
+month: November
+pages: 737--749
+papis_id: a7a2058a4ddf059d2b8638ec3ba04fe1
+ref: rhoads.j.1999
+title: The Dynamics and Light Curves of Beamed Gamma-Ray Burst Afterglows
+type: article
+volume: '525'
+year: '1999'

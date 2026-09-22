@@ -1,0 +1,56 @@
+abstract: We compare Newtonian three-flavor multigroup Boltzmann (MGBT) and (Bruenn's)
+  multigroup flux-limited diffusion (MGFLD) neutrino transport in postbounce core-collapse
+  supernova environments. We focus our study on quantities central to the postbounce
+  neutrino heating mechanism for reviving the stalled shock. Stationary-state three-flavor
+  neutrino distributions are developed in thermally and hydrodynamically frozen time
+  slices obtained from core collapse and bounce simulations that implement Lagrangian
+  hydrodynamics and MGFLD neutrino transport. We obtain distributions for time slices
+  at 106 and 233 ms after core bounce for the core of a 15 M\&sun; progenitor, and
+  at 156 ms after core bounce for a 25 M\&sun; progenitor. For both transport methods,
+  the electron neutrino and antineutrino luminosities, rms energies, and mean inverse
+  flux factors, all of which enter the neutrino heating rates, are computed as functions
+  of radius and compared. The net neutrino heating rates are also computed as functions
+  of radius and compared. Notably, we find significant differences in neutrino luminosities
+  and mean inverse flux factors between the two transport methods for both precollapse
+  models and for all three time slices. In each case, the luminosities for each transport
+  method begin to diverge above the neutrinospheres, where the MGBT luminosities become
+  larger than their MGFLD counterparts, finally settling to a constant difference
+  maintained to the edge of the core. We find that the mean inverse flux factors,
+  which describe the degree of forward peaking in the neutrino radiation field, also
+  differ significantly between the two transport methods, with MGBT providing more
+  isotropic radiation fields in the gain region. Most important, for a region above
+  the gain radius we find net heating rates for MGBT that are as much as ~2 times
+  the corresponding MGFLD rates, and we find net cooling rates below the gain radius
+  that are typically ~0.8 times the MGFLD rates. These differences stem from differences
+  in the neutrino luminosities and mean inverse flux factors, which can be as much
+  as 11\% and 24\%, respectively. They are greatest at earlier postbounce times for
+  a given progenitor mass and, for a given postbounce time, greater for greater progenitor
+  mass. We discuss the ramifications that these new results have for the supernova
+  mechanism.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...507..353M
+author: Messer, O. E. B. and Mezzacappa, A. and Bruenn, S. W. and Guidry, M. W.
+author_list:
+- family: Messer
+  given: O. E. B.
+- family: Mezzacappa
+  given: A.
+- family: Bruenn
+  given: S. W.
+- family: Guidry
+  given: M. W.
+date-added: 2017-08-10 18:28:23 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306323
+journal: \apj
+keywords: 'DIFFUSION, STARS: INTERIORS, STARS: SUPERNOVAE: GENERAL, Diffusion, Stars:
+  Interiors, Stars: Supernovae: General'
+month: November
+pages: 353--360
+papis_id: 1ed0a524f5c83e817b2d01bddc941392
+ref: messer.o.1998
+title: A Comparison of Boltzmann and Multigroup Flux-limited Diffusion Neutrino Transport
+  during the Postbounce Shock Reheating Phase in Core-Collapse Supernovae
+type: article
+volume: '507'
+year: '1998'

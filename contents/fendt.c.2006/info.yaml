@@ -1,0 +1,44 @@
+abstract: We investigate the influence of the accretion disk magnetic flux profile
+  on the collimation of jets applying axisymmetric MHD simulations. We use the ZEUS-3D
+  code modified for magnetic diffusivity. Our simulations evolve from an initial configuration
+  in hydrostatic equilibrium in a force-free magnetic field. Considering a power law
+  for the disk poloidal magnetic field profile BP~r-mu and for the disk wind density
+  profile rho~r-murho, we perform a systematic study over a wide range of parameters
+  mu and murho. We find the degree of collimation (quantified by the axial vs. lateral
+  mass flux ratio) decreasing for steepening disk magnetic field profiles. Variation
+  of the total magnetic flux does not affect the collimation degree substantially
+  but changes the timescale of outflow evolution and the terminal jet speed. Our major
+  result is a general relation between the collimation degree and the disk wind magnetization
+  power-law exponent. Highly collimated outflows resulting from a flat disk magnetic
+  field profile tend to be unsteady, producing axially propagating knots. Slightly
+  depending on the disk wind density profile, this behavior sets in for mu<0.4. We
+  also perform simulations with artificially enhanced decay of the toroidal magnetic
+  field component probing the idea of a ``poloidal jet collimation'' previously raised
+  in the literature. These outflows remain weakly collimated and propagate slower.
+  Our large numerical grid (7\texttimes{}14 AU for protostars) allows us to compare
+  our simulations to observationally indicated jet rotation, suggesting a flat disk
+  magnetic field profile, mu~=0.5, in DG Tau. Our general results are applicable to
+  both stellar and extragalactic sources of MHD jets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...651..272F
+arxivurl: http://arxiv.org/abs/astro-ph/0511611
+author: Fendt, C.
+author_list:
+- family: Fendt
+  given: C.
+date-added: 2017-08-10 23:03:38 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/507976
+eprint: astro-ph/0511611
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Galaxies: Jets, ISM: Jets and Outflows, Magnetohydrodynamics:
+  MHD, Stars: Mass Loss, Stars: Pre-Main-Sequence'
+month: November
+pages: 272--287
+papis_id: 0227bfb6d3b883cb6efbe5ff25c10ea0
+ref: fendt.c.2006
+title: 'Collimation of Astrophysical Jets: The Role of the Accretion Disk Magnetic
+  Field Distribution'
+type: article
+volume: '651'
+year: '2006'

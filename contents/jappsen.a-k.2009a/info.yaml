@@ -1,0 +1,57 @@
+abstract: The formation of the first stars out of metal-free gas appears to result
+  in stars at least an order of magnitude more massive than in the present-day case.
+  We here consider what controls the transition from a primordial to a modern initial
+  mass function. It has been proposed that this occurs when effective metal line cooling
+  occurs at a metallicity threshold of Z/Z sun > 10-3.5. We study the influence of
+  low levels of metal enrichment on the cooling and collapse of initially ionized
+  gas in small protogalactic halos using three-dimensional, smoothed particle hydrodynamics
+  simulations with particle splitting. Our initial conditions represent protogalaxies
+  forming within a previously ionized H II region that has not yet had time to cool
+  and recombine. These differ considerably from those used in simulations predicting
+  a metallicity threshold, where the gas was initially cold and only partially ionized.
+  In the centrally condensed potential that we study here, a wide variety of initial
+  conditions for the gas yields a monolithic central collapse. Our models show no
+  fragmentation during collapse to number densities as high as 105 cm-3, for metallicities
+  reaching as high as 10-1 Z sun, far above the threshold suggested by previous work.
+  Rotation allows for the formation of gravitationally stable gas disks over large
+  fractions of the local Hubble time. Turbulence slows the growth of the central density
+  slightly, but both spherically symmetric and turbulent initial conditions collapse
+  and form a single sink particle. We therefore argue that fragmentation at moderate
+  density depends on the initial conditions for star formation more than on the metal
+  abundances present. The actual initial conditions to be considered still need to
+  be determined in detail by observation and modeling of galaxy formation. Metal abundance
+  may still drive fragmentation at very high densities due to dust cooling, perhaps
+  giving an alternative metallicity threshold.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694.1161J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0810.1867
+author: Jappsen, A.-K. and Mac Low, M.-M. and Glover, S. C. O. and Klessen, R. S.
+  and Kitsionas, S.
+author_list:
+- family: Jappsen
+  given: A.-K.
+- family: Mac Low
+  given: M.-M.
+- family: Glover
+  given: S. C. O.
+- family: Klessen
+  given: R. S.
+- family: Kitsionas
+  given: S.
+date-added: 2017-08-11 06:05:07 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1088/0004-637X/694/2/1161
+eprint: '0810.1867'
+journal: \apj
+keywords: 'early universe, equation of state, hydrodynamics, methods: numerical, stars:
+  formation, stars: luminosity function, mass function'
+month: April
+pages: 1161--1170
+papis_id: ef32b9a66fbafb10d04bb47b025ddf74
+ref: jappsen.a_k.2009a
+title: Star Formation at Very Low Metallicity. V. The Greater Importance of Initial
+  Conditions Compared to Metallicity Thresholds
+type: article
+volume: '694'
+year: '2009'

@@ -1,0 +1,50 @@
+abstract: The properties of Galactic molecular clouds tabulated by Solomon et al.
+  (SRBY) are re-examined using the Boston University-FCRAO Galactic Ring Survey of
+  13CO J = 1-0 emission. These new data provide a lower opacity tracer of molecular
+  clouds and improved angular and spectral resolution compared with previous surveys
+  of molecular line emission along the Galactic Plane. We calculate giant molecular
+  cloud (GMC) masses within the SRBY cloud boundaries assuming local thermodynamic
+  equilibrium (LTE) conditions throughout the cloud and a constant H2 to 13CO abundance,
+  while accounting for the variation of the 12C/13C with galactocentric radius. The
+  LTE-derived masses are typically five times smaller than the SRBY virial masses.
+  The corresponding median mass surface density of molecular hydrogen for this sample
+  is 42 M sun pc-2, which is significantly lower than the value derived by SRBY (median
+  206 M sun pc-2) that has been widely adopted by most models of cloud evolution and
+  star formation. This discrepancy arises from both the extrapolation by SRBY of velocity
+  dispersion, size, and CO luminosity to the 1 K antenna temperature isophote that
+  likely overestimates the GMC masses and our assumption of constant 13CO abundance
+  over the projected area of each cloud. Owing to the uncertainty of molecular abundances
+  in the envelopes of clouds, the mass surface density of GMCs could be larger than
+  the values derived from our 13CO measurements. From velocity dispersions derived
+  from the 13CO data, we find that the coefficient of the cloud structure functions,
+  v $\,^{\circ}$ = sigma v /R 1/2, is not constant, as required to satisfy Larson's
+  scaling relationships, but rather systematically varies with the surface density
+  of the cloud as ~Sigma0.5 as expected for clouds in self-gravitational equilibrium.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...699.1092H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.1397
+author: Heyer, M. and Krawczyk, C. and Duval, J. and Jackson, J. M.
+author_list:
+- family: Heyer
+  given: M.
+- family: Krawczyk
+  given: C.
+- family: Duval
+  given: J.
+- family: Jackson
+  given: J. M.
+date-added: 2017-08-10 23:23:14 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/699/2/1092
+eprint: '0809.1397'
+journal: \apj
+keywords: 'ISM: clouds, ISM: kinematics and dynamics'
+month: July
+pages: 1092--1103
+papis_id: 88b91a6f53290b45e837c3b036b675f7
+ref: heyer.m.2009
+title: Re-Examining Larson's Scaling Relationships in Galactic Molecular Clouds
+type: article
+volume: '699'
+year: '2009'

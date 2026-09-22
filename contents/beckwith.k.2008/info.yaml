@@ -1,0 +1,40 @@
+abstract: Because the magnetorotational instability is capable of exponentially amplifying
+  weak pre-existing magnetic fields, it might be hoped that the character of the magnetic
+  field in accretion disks would be independent of the nature of the seed field. However,
+  the divergence-free nature of magnetic fields in highly conducting fluids ensures
+  that their large-scale topology is preserved, no matter how greatly the field intensity
+  is changed. By performing global two- and three-dimensional general relativistic
+  magnetohydrodynamic disk simulations with several different topologies for the initial
+  magnetic field, we explore the degree to which the character of the flows around
+  black holes depends on the initial topology. We find that while the qualitative
+  properties of the accretion flow are nearly independent of field topology, jet launching
+  is very sensitive to it; a sense of vertical field consistent for at least an inner
+  disk inflow time is essential to the support of strong jets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...678.1180B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.3833
+author: Beckwith, K. and Hawley, J. F. and Krolik, J. H.
+author_list:
+- family: Beckwith
+  given: K.
+- family: Hawley
+  given: J. F.
+- family: Krolik
+  given: J. H.
+date-added: 2017-08-10 16:29:58 +0000
+date-modified: 2017-12-05 16:37:02 +0000
+doi: 10.1086/533492
+eid: 1180-1199
+eprint: '0709.3833'
+journal: \apj
+keywords: accretion, accretion disks, black hole physics, magnetic fields, MHD
+month: May
+pages: 1180--1199
+papis_id: e3ee91a345dcb457a09651c5d80dda09
+ref: beckwith.k.2008
+title: 'The Influence of Magnetic Field Geometry on the Evolution of Black Hole Accretion
+  Flows: Similar Disks, Drastically Different Jets'
+type: article
+volume: '678'
+year: '2008'

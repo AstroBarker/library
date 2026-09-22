@@ -1,0 +1,41 @@
+abstract: In interacting binaries, comparison of a donor star's radial response to
+  mass loss (ML) with the response of its Roche radius determines whether ML persists
+  and, if so, determines the timescale and stability of the ensuing evolutionary phase.
+  For giants with deep convective envelopes, the canonical description holds that
+  once mass transfer begins it typically proceeds catastrophically on the dynamical
+  timescale, as the star cannot lose sufficient heat in order to avoid expansion.
+  However, we demonstrate that the local thermal timescale of the envelope's superadiabatic
+  outer surface layer remains comparable to that of ML in most cases of "dynamical"
+  ML. We argue therefore that if ML proceeds on a timescale longer than this, then
+  even a deep convective envelope will not dramatically expand, as the surface layer
+  will have time to relax thermally and reconstitute itself. We demonstrate that in
+  general the polytropic approximation gives much too strict a criterion for stability
+  and discuss the dependence of the donor's response on its radius in addition to
+  its core mass. In general, we find that the effective response of the donor on rapid
+  timescales cannot be determined accurately without detailed evolutionary calculations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...739L..48W
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1108.2752
+author: Woods, T. E. and Ivanova, N.
+author_list:
+- family: Woods
+  given: T. E.
+- family: Ivanova
+  given: N.
+date-added: 2017-08-10 19:33:13 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/2041-8205/739/2/L48
+eid: L48
+eprint: '1108.2752'
+journal: \apjl
+keywords: 'binaries: close, stars: evolution, stars: mass-loss'
+month: October
+pages: L48
+papis_id: dea5730bfd264b7a1992b4ec56fce5da
+primaryclass: astro-ph.SR
+ref: woods.t.2011
+title: Can We Trust Models for Adiabatic Mass Loss?
+type: article
+volume: '739'
+year: '2011'

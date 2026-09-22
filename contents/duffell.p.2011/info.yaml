@@ -1,0 +1,43 @@
+abstract: We have generalized a method for the numerical solution of hyperbolic systems
+  of equations using a dynamic Voronoi tessellation of the computational domain. The
+  Voronoi tessellation is used to generate moving computational meshes for the solution
+  of multidimensional systems of conservation laws in finite-volume form. The mesh-generating
+  points are free to move with arbitrary velocity, with the choice of zero velocity
+  resulting in an Eulerian formulation. Moving the points at the local fluid velocity
+  makes the formulation effectively Lagrangian. We have written the TESS code to solve
+  the equations of compressible hydrodynamics and magnetohydrodynamics for both relativistic
+  and non-relativistic fluids on a dynamic Voronoi mesh. When run in Lagrangian mode,
+  TESS is significantly less diffusive than fixed mesh codes and thus preserves contact
+  discontinuities to high precision while also accurately capturing strong shock waves.
+  TESS is written for Cartesian, spherical, and cylindrical coordinates and is modular
+  so that auxiliary physics solvers are readily integrated into the TESS framework
+  and so that this can be readily adapted to solve general systems of equations. We
+  present results from a series of test problems to demonstrate the performance of
+  TESS and to highlight some of the advantages of the dynamic tessellation method
+  for solving challenging problems in astrophysical fluid dynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..197...15D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.3562
+author: Duffell, P. C. and MacFadyen, A. I.
+author_list:
+- family: Duffell
+  given: P. C.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-10 22:14:44 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0067-0049/197/2/15
+eid: '15'
+eprint: '1104.3562'
+journal: \apjs
+keywords: 'hydrodynamics, methods: numerical'
+month: December
+pages: '15'
+papis_id: 74c95029d266e1144cb8ec3fb07c0ab2
+primaryclass: astro-ph.HE
+ref: duffell.p.2011
+title: 'TESS: A Relativistic Hydrodynamics Code on a Moving Voronoi Mesh'
+type: article
+volume: '197'
+year: '2011'

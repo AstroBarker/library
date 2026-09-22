@@ -1,0 +1,40 @@
+abstract: We propose a model for diffusive shock acceleration (DSA) in which stochastic
+  magnetic fields in the shock precursor are generated through purely fluid mechanisms
+  of a so-called small-scale dynamo. This contrasts with previous DSA models that
+  considered magnetic fields amplified through cosmic ray (CR) streaming instabilities,
+  i.e., either by way of individual particles resonant scattering in the magnetic
+  fields, or by macroscopic electric currents associated with large-scale CR streaming.
+  Instead, in our picture, the solenoidal velocity perturbations that are required
+  for the dynamo to work are produced through the interactions of the pressure gradient
+  of the CR precursor and density perturbations in the inflowing fluid. Our estimates
+  show that this mechanism provides fast growth of magnetic field and is very generic.
+  We argue that for supernovae shocks the mechanism is capable of generating upstream
+  magnetic fields that are sufficiently strong for accelerating CRs up to around 1016
+  eV. No action of any other mechanism is necessary.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...707.1541B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.2806
+author: Beresnyak, A. and Jones, T. W. and Lazarian, A.
+author_list:
+- family: Beresnyak
+  given: A.
+- family: Jones
+  given: T. W.
+- family: Lazarian
+  given: A.
+date-added: 2017-08-10 19:38:57 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/707/2/1541
+eprint: '0908.2806'
+journal: \apj
+keywords: acceleration of particles, cosmic rays, MHD, scattering, shock waves, turbulence
+month: December
+pages: 1541--1549
+papis_id: ff0a99131aa5fcf45b2481dfb0ec1e60
+primaryclass: astro-ph.HE
+ref: beresnyak.a.2009a
+title: Turbulence-Induced Magnetic Fields and Structure of Cosmic Ray Modified Shocks
+type: article
+volume: '707'
+year: '2009'

@@ -1,0 +1,125 @@
+abstract: We combine high-redshift Type Ia supernovae from the first three years of
+  the Supernova Legacy Survey (SNLS) with other supernova (SN) samples, primarily
+  at lower redshifts, to form a high-quality joint sample of 472 SNe (123 low-z, 93
+  SDSS, 242 SNLS, and 14 Hubble Space Telescope). SN data alone require cosmic acceleration
+  at >99.999\% confidence, including systematic effects. For the dark energy equation
+  of state parameter (assumed constant out to at least z = 1.4) in a flat universe,
+  we find w = -0.91+0.16 -0.20(stat)+0.07 -0.14(sys) from SNe only, consistent with
+  a cosmological constant. Our fits include a correction for the recently discovered
+  relationship between host-galaxy mass and SN absolute brightness. We pay particular
+  attention to systematic uncertainties, characterizing them using a systematic covariance
+  matrix that incorporates the redshift dependence of these effects, as well as the
+  shape-luminosity and color-luminosity relationships. Unlike previous work, we include
+  the effects of systematic terms on the empirical light-curve models. The total systematic
+  uncertainty is dominated by calibration terms. We describe how the systematic uncertainties
+  can be reduced with soon to be available improved nearby and intermediate-redshift
+  samples, particularly those calibrated onto USNO/SDSS-like systems.  Based on observations
+  obtained with MegaPrime/MegaCam, a joint project of CFHT and CEA/DAPNIA, at the
+  Canada-France-Hawaii Telescope (CFHT) which is operated by the National Research
+  Council (NRC) of Canada, the Institut National des Sciences de l'Univers of the
+  Centre National de la Recherche Scientifique (CNRS) of France, and the University
+  of Hawaii. This work is based in part on data products produced at the Canadian
+  Astronomy Data Centre as part of the Canada-France-Hawaii Telescope Legacy Survey,
+  a collaborative project of NRC and CNRS.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..192....1C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.1443
+author: Conley, A. and Guy, J. and Sullivan, M. and Regnault, N. and Astier, P. and
+  Balland, C. and Basa, S. and Carlberg, R. G. and Fouchez, D. and Hardin, D. and
+  Hook, I. M. and Howell, D. A. and Pain, R. and Palanque-Delabrouille, N. and Perrett,
+  K. M. and Pritchet, C. J. and Rich, J. and Ruhlmann-Kleider, V. and Balam, D. and
+  Baumont, S. and Ellis, R. S. and Fabbro, S. and Fakhouri, H. K. and Fourmanoit,
+  N. and González-Gaitán, S. and Graham, M. L. and Hudson, M. J. and Hsiao, E. and
+  Kronborg, T. and Lidman, C. and Mourao, A. M. and Neill, J. D. and Perlmutter, S.
+  and Ripoche, P. and Suzuki, N. and Walker, E. S.
+author_list:
+- family: Conley
+  given: A.
+- family: Guy
+  given: J.
+- family: Sullivan
+  given: M.
+- family: Regnault
+  given: N.
+- family: Astier
+  given: P.
+- family: Balland
+  given: C.
+- family: Basa
+  given: S.
+- family: Carlberg
+  given: R. G.
+- family: Fouchez
+  given: D.
+- family: Hardin
+  given: D.
+- family: Hook
+  given: I. M.
+- family: Howell
+  given: D. A.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Perrett
+  given: K. M.
+- family: Pritchet
+  given: C. J.
+- family: Rich
+  given: J.
+- family: Ruhlmann-Kleider
+  given: V.
+- family: Balam
+  given: D.
+- family: Baumont
+  given: S.
+- family: Ellis
+  given: R. S.
+- family: Fabbro
+  given: S.
+- family: Fakhouri
+  given: H. K.
+- family: Fourmanoit
+  given: N.
+- family: González-Gaitán
+  given: S.
+- family: Graham
+  given: M. L.
+- family: Hudson
+  given: M. J.
+- family: Hsiao
+  given: E.
+- family: Kronborg
+  given: T.
+- family: Lidman
+  given: C.
+- family: Mourao
+  given: A. M.
+- family: Neill
+  given: J. D.
+- family: Perlmutter
+  given: S.
+- family: Ripoche
+  given: P.
+- family: Suzuki
+  given: N.
+- family: Walker
+  given: E. S.
+date-added: 2017-08-10 21:15:51 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1088/0067-0049/192/1/1
+eid: '1'
+eprint: '1104.1443'
+journal: \apjs
+keywords: 'cosmological parameters, cosmology: observations, supernovae: general'
+month: January
+pages: '1'
+papis_id: 216c9ab8a86635bfb90d7035825d7300
+primaryclass: astro-ph.CO
+ref: conley.a.2011
+title: Supernova Constraints and Systematic Uncertainties from the First Three Years
+  of the Supernova Legacy Survey
+type: article
+volume: '192'
+year: '2011'

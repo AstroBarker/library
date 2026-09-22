@@ -1,0 +1,56 @@
+abstract: We develop a method for interpreting faint galaxy data which focuses on
+  the integrated light radiated from the galaxy population as a whole. The emission
+  history of the universe at ultraviolet, optical, and near-infrared wavelengths is
+  modeled from the present epoch to z ~ 4 by tracing the evolution with cosmic time
+  of the galaxy luminosity density, as determined from several deep spectroscopic
+  samples and the Hubble Deep Field (HDF) imaging survey. In a q0 = 0.5, h50 = 1 cosmology,
+  the global spectrophotometric properties of field galaxies can be well fitted by
+  a simple stellar evolution model, defined by a time-dependent star formation rate
+  (SFR) per unit comoving volume and a universal initial mass function (IMF) extending
+  from 0.1 to 125 M\&sun;. While a Salpeter IMF with a modest amount of dust reddening
+  or a somewhat steeper mass function, phi(m) ~ m-2.7, can both reproduce the data
+  reasonably well, a Scalo IMF produces too much long-wavelength light and is unable
+  to match the observed mean galaxy colors. In the best-fit models, the global SFR
+  rises sharply, by about an order of magnitude, from a redshift of zero to a peak
+  value at z ~ 1.5 in the range 0.12-0.17 M\&sun; yr-1 Mpc-3, to fall again at higher
+  redshifts. After integrating the inferred star formation rate over cosmic time,
+  we find a stellar mass density at the present epoch of Omegash250>~0.005, hence
+  a mean stellar mass-to-light ratio >~4 in the B-band and >~1 in K, consistent with
+  the values observed in nearby galaxies of various morphological types. The models
+  are able to account for the entire background light recorded in the galaxy counts
+  down to the very faint magnitude levels probed by the HDF. Since only ~20\% of the
+  current stellar content of galaxies is produced at z > 2, a rather low cosmic metallicity
+  is expected at these early times, in good agreement with the observed enrichment
+  history of the damped Lyalpha systems. The biggest uncertainty is represented by
+  the poorly constrained amount of starlight that was absorbed by dust and reradiated
+  in the IR at early epochs. A ``monolithic collapse'' model, where half of the present-day
+  stars formed at z > 2.5 and were shrouded by dust, can be made consistent with the
+  global history of light, but overpredicts the metal mass density at high redshifts
+  as sampled by quasi-stellar object absorbers.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...498..106M
+arxivurl: http://arxiv.org/abs/astro-ph/9708220
+author: Madau, P. and Pozzetti, L. and Dickinson, M.
+author_list:
+- family: Madau
+  given: P.
+- family: Pozzetti
+  given: L.
+- family: Dickinson
+  given: M.
+date-added: 2017-08-10 20:20:22 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/305523
+eprint: astro-ph/9708220
+journal: \apj
+keywords: 'GALAXIES: EVOLUTION, GALAXIES: PHOTOMETRY, COSMOLOGY: THEORY, GALAXIES:
+  STELLAR CONTENT, Cosmology: Theory, Galaxies: Evolution, Galaxies: Photometry, Galaxies:
+  Stellar Content'
+month: May
+pages: 106--116
+papis_id: 4713433b68a3ed2cc4a4ed421bb3764f
+ref: madau.p.1998
+title: The Star Formation History of Field Galaxies
+type: article
+volume: '498'
+year: '1998'

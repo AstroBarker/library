@@ -1,0 +1,48 @@
+abstract: Cosmological shock waves play an important role in hierarchical structure
+  formation by dissipating and thermalizing kinetic energy of gas flows, thereby heating
+  the Universe. Furthermore, identifying shocks in hydrodynamical simulations and
+  measuring their Mach number accurately are critical for calculating the production
+  of non-thermal particle components through diffusive shock acceleration. However,
+  shocks are often significantly broadened in numerical simulations, making it challenging
+  to implement an accurate shock finder. We here introduce a refined methodology for
+  detecting shocks in the moving-mesh code AREPO, and show that results for shock
+  statistics can be sensitive to implementation details. We put special emphasis on
+  filtering against spurious shock detections due to tangential discontinuities and
+  contacts. Both of them are omnipresent in cosmological simulations, for example
+  in the form of shear-induced Kelvin-Helmholtz instabilities and cold fronts. As
+  an initial application of our new implementation, we analyse shock statistics in
+  non-radiative cosmological simulations of dark matter and baryons. We find that
+  the bulk of energy dissipation at redshift zero occurs in shocks with Mach numbers
+  around M\approx{} 2.7. Furthermore, almost 40 per cent of the thermalization is
+  contributed by shocks in the warm hot intergalactic medium, whereas \approx{}60
+  per cent occurs in clusters, groups, and smaller haloes. Compared to previous studies,
+  these findings revise the characterization of the most important shocks towards
+  higher Mach numbers and lower density structures. Our results also suggest that
+  regions with densities above and below deltab = 100 should be roughly equally important
+  for the energetics of cosmic ray acceleration through large-scale structure shocks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.446.3992S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1407.4117
+author: Schaal, K. and Springel, V.
+author_list:
+- family: Schaal
+  given: K.
+- family: Springel
+  given: V.
+date-added: 2017-08-11 07:26:35 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2386
+eprint: '1407.4117'
+journal: \mnras
+keywords: 'hydrodynamics, shock waves, methods: numerical, galaxies: clusters: general,
+  large-scale structure of Universe'
+month: February
+pages: 3992--4007
+papis_id: 1b89b0ba8badfe9b6bc52b1f1a400115
+ref: schaal.k.2015a
+title: Shock finding on a moving mesh - I. Shock statistics in non-radiative cosmological
+  simulations
+type: article
+volume: '446'
+year: '2015'

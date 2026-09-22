@@ -1,0 +1,55 @@
+abstract: We investigate the dynamics of an Alfv{\'e}n surface (where the Alfv{\'e}n
+  speed equals the advection velocity) in the context of core collapse supernovae
+  during the phase of accretion on the proto-neutron star. Such a surface should exist
+  even for weak magnetic fields because the advection velocity decreases to zero at
+  the center of the collapsing core. In this decelerated flow, Alfv{\'e}n waves created
+  by the standing accretion shock instability or convection accumulate and amplify
+  while approaching the Alfv{\'e}n surface. We study this amplification using one-dimensional
+  MHD simulations with explicit physical dissipation (resistivity and viscosity).
+  In the linear regime, the amplification continues until the Alfv{\'e}n wavelength
+  becomes as small as the dissipative scale. A pressure feedback that increases the
+  pressure in the upstream flow is created via a nonlinear coupling. We derive analytic
+  formulae for the maximum amplification and the nonlinear coupling and check them
+  with numerical simulations to very good accuracy. Interestingly, these quantities
+  diverge if the dissipation is decreased to zero, scaling as the square root of the
+  Reynolds number, suggesting large effects in weakly dissipative flows. We also characterize
+  the nonlinear saturation of this amplification when compression effects become important,
+  leading to either a change of the velocity gradient, or a steepening of the Alfv{\'e}n
+  wave. Applying these results to core collapse supernovae shows that the amplification
+  can be fast enough to affect the dynamics if the magnetic field is strong enough
+  for the Alfv{\'e}n surface to lie in the region of strong velocity gradient just
+  above the neutrinosphere. This requires the presence of a strong magnetic field
+  in the progenitor star, which would correspond to the formation of a magnetar under
+  the assumption of magnetic flux conservation. An extrapolation of our analytic formula
+  (taking into account the nonlinear saturation) suggests that the Alfv{\'e}n wave
+  could reach an amplitude of B ~ 1015 G, and that the pressure feedback could significantly
+  contribute to the pressure below the shock.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...729...71G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1006.4697
+author: Guilet, J. and Foglizzo, T. and Fromang, S.
+author_list:
+- family: Guilet
+  given: J.
+- family: Foglizzo
+  given: T.
+- family: Fromang
+  given: S.
+date-added: 2017-08-10 20:14:25 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1088/0004-637X/729/1/71
+eid: '71'
+eprint: '1006.4697'
+journal: \apj
+keywords: 'accretion, accretion disks, magnetic fields, magnetohydrodynamics: MHD,
+  supernovae: general, waves'
+month: March
+pages: '71'
+papis_id: 17e9a47bbf993a26bec910133ace8d9b
+primaryclass: astro-ph.SR
+ref: guilet.j.2011
+title: Dynamics of an Alfvén Surface in Core Collapse Supernovae
+type: article
+volume: '729'
+year: '2011'

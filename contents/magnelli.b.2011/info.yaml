@@ -1,0 +1,67 @@
+abstract: 'Aims: We derive the evolution of the infrared luminosity function (LF)
+  over the last 4/5ths of cosmic time using deep 24 and 70 mum imaging of the GOODS
+  North and South fields.  Methods: We use an extraction technique based on prior
+  source positions at shorter wavelengths to build the 24 and 70 mum source catalogs.
+  The majority (93\%) of the sources have a spectroscopic (39\%) or a photometric
+  redshift (54\%) and, in our redshift range of interest (i.e., 1.3 < z < 2.3) s20\%
+  of the sources have a spectroscopic redshift. To extend our study to lower 70 mum
+  luminosities we perform a stacking analysis and we characterize the observed L24/(1
+  + z) vs. L70/(1 + z) correlation. Using spectral energy distribution (SED) templates
+  which best fit this correlation, we derive the infrared luminosity of individual
+  sources from their 24 and 70 mum luminosities. We then compute the infrared LF at
+  zs1.55 $\pm$ 0.25 and zs2.05 \$\pm\$ 0.25.  Results: We observe the break in the
+  infrared LF up to zs2.3. The redshift evolution of the infrared LF from z = 1.3
+  to z = 2.3 is consistent with a luminosity evolution proportional to (1 + z)1.0
+  \$\pm\$ 0.9 combined with a density evolution proportional to (1 + z)-1.1 \$\pm\$
+  1.5. At zs2, luminous infrared galaxies (LIRGs: 1011L\&sun; < LIR < 1012 L\&sun;)
+  are still the main contributors to the total comoving infrared luminosity density
+  of the Universe. At zs2, LIRGs and ultra-luminous infrared galaxies (ULIRGs: 1012L\&sun;
+  < LIR) account for s49\% and s17\% respectively of the total comoving infrared luminosity
+  density of the Universe. Combined with previous results using the same strategy
+  for galaxies at z < 1.3 and assuming a constant conversion between the infrared
+  luminosity and star-formation rate (SFR) of a galaxy, we study the evolution of
+  the SFR density of the Universe from z = 0 to z = 2.3. We find that the SFR density
+  of the Universe strongly increased with redshift from z = 0 to z = 1.3, but is nearly
+  constant at higher redshift out to z = 2.3. As part of the online material accompanying
+  this article, we present source catalogs at 24 mum and 70 mum for both the GOODS-North
+  and -South fields.  Appendices are only available in electronic form at http://www.aanda.orgFull
+  Tables B1-B4 are only available in electronic form at CDS via anonymous ftp to cdsarc.u-strasbg.fr
+  (130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/528/A35'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A..35M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.2467
+author: Magnelli, B. and Elbaz, D. and Chary, R. R. and Dickinson, M. and Le Borgne,
+  D. and Frayer, D. T. and Willmer, C. N. A.
+author_list:
+- family: Magnelli
+  given: B.
+- family: Elbaz
+  given: D.
+- family: Chary
+  given: R. R.
+- family: Dickinson
+  given: M.
+- family: Le Borgne
+  given: D.
+- family: Frayer
+  given: D. T.
+- family: Willmer
+  given: C. N. A.
+date-added: 2017-08-10 23:55:58 +0000
+date-modified: 2017-12-05 16:36:45 +0000
+doi: 10.1051/0004-6361/200913941
+eid: A35
+eprint: '1101.2467'
+journal: \aap
+keywords: 'Galaxy: evolution, infrared: galaxies, galaxies: starburst, cosmology:
+  observations'
+month: April
+pages: A35
+papis_id: 95056c18bffc445a72e421e8330ae307
+ref: magnelli.b.2011
+title: Evolution of the dusty infrared luminosity function from z = 0 to z = 2.3 using
+  observations from Spitzer
+type: article
+volume: '528'
+year: '2011'

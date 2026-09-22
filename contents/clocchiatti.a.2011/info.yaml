@@ -1,0 +1,47 @@
+abstract: We present multicolor light curves of SN 1998bw which appeared in ESO184-G82
+  in close temporal and spatial association with GRB 980425. The light curves are
+  based on observations conducted at Cerro Tololo Inter-American Observatory (CTIO)
+  and data from the literature. The CTIO photometry reaches ~86 days after the gamma-ray
+  burst (GRB) in U and ~160 days after the GRB in BV(RI) C . The observations in U
+  extend the previously known coverage by about 30 days and determine the slope of
+  the early exponential tail. We calibrate a large set of local standards in common
+  with those of previous studies and use them to transform published observations
+  of the supernova (SN) to our realization of the standard photometric system. We
+  show that the photometry from different sources merges smoothly and we provide a
+  unified set of 300 observations of the SN in five bands. Using the extensive set
+  of spectra in the public domain, we compute extinction and K-corrections and build
+  quasi-bolometric unreddened rest-frame light curves. We provide low-degree piecewise
+  spline fits to these light curves with daily sampling. They reach ~86 rest-frame
+  days after the GRB with U-band coverage and ~498 rest-frame days after the GRB without
+  U.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011AJ....141..163C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.1695
+author: Clocchiatti, A. and Suntzeff, N. B. and Covarrubias, R. and Candia, P.
+author_list:
+- family: Clocchiatti
+  given: A.
+- family: Suntzeff
+  given: N. B.
+- family: Covarrubias
+  given: R.
+- family: Candia
+  given: P.
+date-added: 2017-08-11 03:46:07 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-6256/141/5/163
+eid: '163'
+eprint: '1106.1695'
+journal: \aj
+keywords: 'gamma-ray burst: general, supernovae: general, supernovae: individual:
+  SN 1998bw'
+month: May
+pages: '163'
+papis_id: 3f2990720b21bd204cf10ccc2b0726f5
+primaryclass: astro-ph.HE
+ref: clocchiatti.a.2011
+title: The Ultimate Light Curve of SN 1998bw/GRB 980425
+type: article
+volume: '141'
+year: '2011'

@@ -1,0 +1,48 @@
+abstract: We present the first three-dimensional (3D) simulation of the final minutes
+  of iron core growth in a massive star, up to and including the point of core gravitational
+  instability and collapse. We capture the development of strong convection driven
+  by violent Si burning in the shell surrounding the iron core. This convective burning
+  builds the iron core to its critical mass and collapse ensues, driven by electron
+  capture and photodisintegration. The non-spherical structure and motion generated
+  by 3D convection is substantial at the point of collapse, with convective speeds
+  of several hundreds of km s-1. We examine the impact of such physically realistic
+  3D initial conditions on the core-collapse supernova mechanism using 3D simulations
+  including multispecies neutrino leakage and find that the enhanced post-shock turbulence
+  resulting from 3D progenitor structure aids successful explosions. We conclude that
+  non-spherical progenitor structure should not be ignored, and should have a significant
+  and favorable impact on the likelihood for neutrino-driven explosions. In order
+  to make simulating the 3D collapse of an iron core feasible, we were forced to make
+  approximations to the nuclear network making this effort only a first step toward
+  accurate, self-consistent 3D stellar evolution models of the end states of massive
+  stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015ApJ...808L..21C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1503.02199
+author: Couch, S. M. and Chatzopoulos, E. and Arnett, W. D. and Timmes, F. X.
+author_list:
+- family: Couch
+  given: S. M.
+- family: Chatzopoulos
+  given: E.
+- family: Arnett
+  given: W. D.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-10 14:10:13 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1088/2041-8205/808/1/L21
+eid: L21
+eprint: '1503.02199'
+journal: \apjl
+keywords: 'convection, hydrodynamics, nuclear reactions, nucleosynthesis, abundances,
+  stars: evolution, supernovae: general, turbulence'
+month: July
+pages: L21
+papis_id: f094001b9c06b479ecbd8a4fda6d2291
+primaryclass: astro-ph.HE
+ref: couch.s.2015a
+title: The Three-dimensional Evolution to Core Collapse of a Massive Star
+type: article
+volume: '808'
+year: '2015'

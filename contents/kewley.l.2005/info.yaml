@@ -1,0 +1,57 @@
+abstract: We use 101 galaxies selected from the Nearby Field Galaxy Survey to investigate
+  the effect of aperture size on the star formation rate, metallicity, and reddening
+  determinations for galaxies. Our sample includes galaxies of all Hubble types except
+  ellipticals with global star formation rates (SFRs) ranging from 0.01 to 100 Msolar
+  yr-1, metallicities in the range 7.9<~log(O/H)+12<~9.0, and reddening of 0<~A(V)<~3.3.
+  We compare the SFR, metallicity, and reddening derived from nuclear spectra to those
+  derived from integrated spectra. For apertures capturing <20\% of the B26 light,
+  the differences between nuclear and global metallicity, extinction, and SFR are
+  substantial. Late-type spiral galaxies show the largest systematic difference (~0.14
+  dex), with nuclear metallicities greater than the global metallicities. The Sdm,
+  Im, and Peculiar types have the largest scatter in nuclear/integrated metallicities,
+  indicating a large range in metallicity gradients for these galaxy types, or clumpy
+  metallicity distributions. We find little evidence for systematic differences between
+  nuclear and global extinction estimates for any galaxy type. However, there is significant
+  scatter between the nuclear and integrated extinction estimates for nuclear apertures
+  containing <20\% of the B26 flux. We calculate an ``expected'' SFR using our nuclear
+  spectra and apply the commonly used aperture correction method. The expected SFR
+  overestimates the global value for early-type spirals, with large scatter for all
+  Hubble types, particularly late types. The differences between the expected and
+  global SFRs probably result from the assumption that the distributions of the emission-line
+  gas and the continuum are identical. The largest scatter (error) in the estimated
+  SFR occurs when the aperture captures <20\% of the B26 emission. We discuss the
+  implications of these results for metallicity-luminosity relations and star formation
+  history studies based on fiber spectra. To reduce systematic and random errors from
+  aperture effects, we recommend selecting samples with fibers that capture >20\%
+  of the galaxy light. For the Sloan Digital Sky Survey and the Two-Degree Field Galaxy
+  Redshift Survey, redshifts z>0.04 and 0.06 are required, respectively, to ensure
+  a covering fraction >20\% for galaxy sizes similar to the average size, type, and
+  luminosity observed in our sample. Higher luminosity samples and samples containing
+  many late-type galaxies require a larger minimum redshift to ensure that >20\% of
+  the galaxy light is enclosed by the fiber.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005PASP..117..227K
+arxivurl: http://arxiv.org/abs/astro-ph/0501229
+author: Kewley, L. J. and Jansen, R. A. and Geller, M. J.
+author_list:
+- family: Kewley
+  given: L. J.
+- family: Jansen
+  given: R. A.
+- family: Geller
+  given: M. J.
+date-added: 2017-08-11 03:27:23 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/428303
+eprint: astro-ph/0501229
+journal: \pasp
+keywords: 'Galaxies: Starburst, Galaxies: Abundances, Galaxies: Fundamental Parameters,
+  Galaxies: Spiral, Techniques: Spectroscopic'
+month: March
+pages: 227--244
+papis_id: f937a381c8e5401dfc7784b9b884e6f8
+ref: kewley.l.2005
+title: Aperture Effects on Star Formation Rate, Metallicity, and Reddening
+type: article
+volume: '117'
+year: '2005'

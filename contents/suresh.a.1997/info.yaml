@@ -1,0 +1,29 @@
+abstract: A new class of high-order monotonicity-preserving schemes for the numerical
+  solution of conservation laws is presented. The interface value in these schemes
+  is obtained by limiting a higher-order polynomial reconstruction. The limiting is
+  designed to preserve accuracy near extrema and to work well with Runge-Kutta time
+  stepping. Computational efficiency is enhanced by a simple test that determines
+  whether the limiting procedure is needed. For linear advection in one dimension,
+  these schemes are shown to be monotonicity-preserving and uniformly high-order accurate.
+  Numerical experiments for advection as well as the Euler equations also confirm
+  their high accuracy, good shock resolution, and computational efficiency.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997JCoPh.136...83S
+author: Suresh, A. and Huynh, H. T.
+author_list:
+- family: Suresh
+  given: A.
+- family: Huynh
+  given: H. T.
+date-added: 2017-09-10 11:38:46 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1006/jcph.1997.5745
+journal: Journal of Computational Physics
+month: September
+pages: 83--99
+papis_id: ce0e4aac117d7aa7ea4256c180108523
+ref: suresh.a.1997
+title: Accurate Monotonicity-Preserving Schemes with Runge Kutta Time Stepping
+type: article
+volume: '136'
+year: '1997'

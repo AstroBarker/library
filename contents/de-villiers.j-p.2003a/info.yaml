@@ -1,0 +1,48 @@
+abstract: This paper presents an initial survey of the properties of accretion flows
+  in the Kerr metric from three-dimensional, general relativistic magnetohydrodynamic
+  simulations of accretion tori. We consider three fiducial models of tori around
+  rotating, both prograde and retrograde, and nonrotating black holes; these three
+  fiducial models are also contrasted with axisymmetric simulations and a pseudo-Newtonian
+  simulation with equivalent initial conditions, to delineate the limitations of these
+  approximations. There are both qualitative and quantitative differences in the fiducial
+  models, with many of these effects attributable to the location of the marginally
+  stable orbit, rms(a), both with respect to the initial torus and in absolute terms.
+  In the retrograde model, the initial inner edge of the torus is close to rms, and
+  little angular momentum need be lost to drive accretion, whereas in the prograde
+  case the gas must slowly accrete over a significant distance and shed considerable
+  angular momentum. Evolution is driven by the magnetorotational instability and the
+  nonzero Maxwell stresses produced by the turbulence and results in a redistribution
+  of the specific angular momentum to near-Keplerian values. The magnetic energy remains
+  subthermal within the turbulent disk, but dominates in the final plunging flow into
+  the hole. The Maxwell stress remains nonzero in this plunging flow inside of rms,
+  and the fluid's specific angular momentum continues to drop. The accretion rate
+  into the hole is highly time-variable and is determined by the rate at which gas
+  from the turbulent disk is fed into the plunging flow past rms. The retrograde model,
+  with the largest rms, shows the least variability in accretion rate. While accretion
+  variability is a function of a, the turbulence itself is also intrinsically variable.
+  A magnetized, backflowing corona and an evacuated, magnetized funnel are features
+  of all models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...592.1060D
+arxivurl: http://arxiv.org/abs/astro-ph/0303241
+author: De Villiers, J.-P. and Hawley, J. F.
+author_list:
+- family: De Villiers
+  given: J.-P.
+- family: Hawley
+  given: J. F.
+date-added: 2017-08-11 07:44:44 +0000
+date-modified: 2017-12-05 16:37:28 +0000
+doi: 10.1086/375866
+eprint: astro-ph/0303241
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Instabilities, Magnetohydrodynamics:
+  MHD'
+month: August
+pages: 1060--1077
+papis_id: 064c4ffe715abf079f780e8398785cce
+ref: de_villiers.j_p.2003a
+title: Global General Relativistic Magnetohydrodynamic Simulations of Accretion Tori
+type: article
+volume: '592'
+year: '2003'

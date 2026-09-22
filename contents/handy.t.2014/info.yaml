@@ -1,0 +1,49 @@
+abstract: We study the evolution of the collapsing core of a 15 M \&sun; blue supergiant
+  supernova progenitor from the core bounce until 1.5 s later. We present a sample
+  of hydrodynamic models parameterized to match the explosion energetics of SN 1987A.
+  We find the spatial model dimensionality to be an important contributing factor
+  in the explosion process. Compared to two-dimensional (2D) simulations, our three-dimensional
+  (3D) models require lower neutrino luminosities to produce equally energetic explosions.
+  We estimate that the convective engine in our models is 4\% more efficient in 3D
+  than in 2D. We propose that the greater efficiency of the convective engine found
+  in 3D simulations might be due to the larger surface-to-volume ratio of convective
+  plumes, which aids in distributing energy deposited by neutrinos. We do not find
+  evidence of the standing accretion shock instability or turbulence being a key factor
+  in powering the explosion in our models. Instead, the analysis of the energy transport
+  in the post-shock region reveals characteristics of penetrative convection. The
+  explosion energy decreases dramatically once the resolution is inadequate to capture
+  the morphology of convection on large scales. This shows that the role of dimensionality
+  is secondary to correctly accounting for the basic physics of the explosion. We
+  also analyze information provided by particle tracers embedded in the flow and find
+  that the unbound material has relatively long residency times in 2D models, while
+  in 3D a significant fraction of the explosion energy is carried by particles with
+  relatively short residency times.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...783..125H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1312.3658
+author: Handy, T. and Plewa, T. and Odrzywołek, A.
+author_list:
+- family: Handy
+  given: T.
+- family: Plewa
+  given: T.
+- family: Odrzywołek
+  given: A.
+date-added: 2017-08-10 18:29:58 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/783/2/125
+eid: '125'
+eprint: '1312.3658'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, shock waves, supernovae: general'
+month: March
+pages: '125'
+papis_id: 6f21aaf9c8a94334704d830bbafa3417
+primaryclass: astro-ph.SR
+ref: handy.t.2014
+title: Toward Connecting Core-collapse Supernova Theory with Observations. I. Shock
+  Revival in a 15 M $_&sun;$ Blue Supergiant Progenitor with SN 1987A Energetics
+type: article
+volume: '783'
+year: '2014'

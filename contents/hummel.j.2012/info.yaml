@@ -1,0 +1,48 @@
+abstract: Theoretical models predict that some of the first stars ended their lives
+  as extremely energetic pair-instability supernovae (PISNe). With energies approaching
+  1053 erg, these supernovae are expected to be within the detection limits of the
+  upcoming James Webb Space Telescope (JWST), allowing observational constraints to
+  be placed on the properties of the first stars. We estimate the source density of
+  PISNe using a semi-analytic halo mass function based approach, accounting for the
+  effects of feedback from star formation on the PISN rate using cosmological simulations.
+  We estimate an upper limit of ~0.2 PISNe per JWST field of view at any given time.
+  Feedback can reduce this rate significantly, e.g., lowering it to as little as one
+  PISN per 4000 JWST fields of view for the most pessimistic explosion models. We
+  also find that the main obstacle to observing PISNe from the first stars is their
+  scarcity, not their faintness; exposures longer than a few times 104 s will do little
+  to increase the number of PISNe found. Given this, we suggest a mosaic style search
+  strategy for detecting PISNe from the first stars. Even rather high-redshift PISNe
+  are unlikely to be missed by moderate exposures, and a large number of pointings
+  will be required to ensure a detection.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...755...72H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.5207
+author: Hummel, J. A. and Pawlik, A. H. and Milosavljević, M. and Bromm, V.
+author_list:
+- family: Hummel
+  given: J. A.
+- family: Pawlik
+  given: A. H.
+- family: Milosavljević
+  given: M.
+- family: Bromm
+  given: V.
+date-added: 2017-08-10 19:06:38 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/755/1/72
+eid: '72'
+eprint: '1112.5207'
+journal: \apj
+keywords: 'cosmology: theory, dark ages, reionization, first stars, early universe,
+  galaxies: formation, supernovae: general'
+month: August
+pages: '72'
+papis_id: a6487ea8663d4290020f16cb4f1d0e8c
+primaryclass: astro-ph.CO
+ref: hummel.j.2012
+title: The Source Density and Observability of Pair-instability Supernovae from the
+  First Stars
+type: article
+volume: '755'
+year: '2012'

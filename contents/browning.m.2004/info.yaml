@@ -1,0 +1,46 @@
+abstract: We present the results of three-dimensional simulations of core convection
+  within A-type stars of 2 Msolar, at a range of rotation rates. We consider the inner
+  30\% by radius of such stars, thereby encompassing the convective core and some
+  of the surrounding radiative envelope. We utilize our anelastic spherical harmonic
+  code, which solves the compressible Navier-Stokes equations in the anelastic approximation,
+  to examine highly nonlinear flows that can span multiple scale heights. The cores
+  of these stars are found to rotate differentially, with central cylindrical regions
+  of strikingly slow rotation achieved in our simulations of stars whose convective
+  Rossby number (Roc) is less than unity. Such differential rotation results from
+  the redistribution of angular momentum by the nonlinear convection that strongly
+  senses the overall rotation of the star. Penetrative convective motions extend into
+  the overlying radiative zone, yielding a prolate shape (aligned with the rotation
+  axis) to the central region in which nearly adiabatic stratification is achieved.
+  This is further surrounded by a region of overshooting motions, the extent of which
+  is greater at the equator than at the poles, yielding an overall spherical shape
+  to the domain experiencing at least some convective mixing. We assess the overshooting
+  achieved as the stability of the radiative exterior is varied and the weak circulations
+  that result in that exterior. The convective plumes serve to excite gravity waves
+  in the radiative envelope, ranging from localized ripples of many scales to some
+  remarkable global resonances.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...601..512B
+arxivurl: http://arxiv.org/abs/astro-ph/0310003
+author: Browning, M. K. and Brun, A. S. and Toomre, J.
+author_list:
+- family: Browning
+  given: M. K.
+- family: Brun
+  given: A. S.
+- family: Toomre
+  given: J.
+date-added: 2017-08-10 15:17:48 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1086/380198
+eprint: astro-ph/0310003
+journal: \apj
+keywords: 'Convection, Stars: Interiors, Stars: Rotation'
+month: January
+pages: 512--529
+papis_id: f18893a9076e51485eb7afe676b4cc3d
+ref: browning.m.2004
+title: 'Simulations of Core Convection in Rotating A-Type Stars: Differential Rotation
+  and Overshooting'
+type: article
+volume: '601'
+year: '2004'

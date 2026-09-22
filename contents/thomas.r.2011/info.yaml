@@ -1,0 +1,38 @@
+abstract: We introduce a new computer program, SYNAPPS, for forward-modeling of supernova
+  (SN) spectroscopy data sets. SYNAPPS is a spectrum fitter embedding a highly parameterized
+  synthetic SN spectrum calculation within a parallel asynchronous optimizer. This
+  open-source code is primarily aimed at the problem of systematically interpreting
+  large sets of SN spectroscopy data. While SYNAPPS should be useful to current SN
+  spectroscopy efforts like the Nearby Supernova Factory, Lick Observatory Supernova
+  Search, Palomar Transient Factory, Harvard Center for Astrophysics SN program, and
+  so on, it could also benefit future similar efforts connected to the Dark Energy
+  Survey, Panoramic Survey Telescope and Rapid Response System, or the Large Synoptic
+  Survey Telescope. Smaller programs are also potential users. SYNAPPS illustrates
+  the potential for data-driven discovery enabled by high-performance computing, where
+  complex physical systems are directly constrained by large information-rich sets
+  of scientific observations. Here, we discuss the motivation of our approach, outline
+  the structure of the code, present some example calculations, and describe a few
+  enhancements in terms of physics modeling, optimization, and computing that we will
+  be pursuing for the future.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011PASP..123..237T
+author: Thomas, R. C. and Nugent, P. E. and Meza, J. C.
+author_list:
+- family: Thomas
+  given: R. C.
+- family: Nugent
+  given: P. E.
+- family: Meza
+  given: J. C.
+date-added: 2017-08-10 21:05:43 +0000
+date-modified: 2017-12-05 16:36:46 +0000
+doi: 10.1086/658673
+journal: \pasp
+month: February
+pages: '237'
+papis_id: a396f11af87235414bb75e03882690a1
+ref: thomas.r.2011
+title: 'SYNAPPS: Data-Driven Analysis for Supernova Spectroscopy'
+type: article
+volume: '123'
+year: '2011'

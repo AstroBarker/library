@@ -1,0 +1,42 @@
+abstract: Multi-state HLL-type approximate Riemann solutions of ideal magnetohydrodynamics
+  (MHD) typically assume that the medium within the Riemann fan is incompressible,
+  and thus the slow magnetoacoustic mode cannot be included in their space-time wave
+  configurations for the approximated states. We propose a new strategy to design
+  multi-state HLL-type approximate solutions, allowing for the medium within the Riemann
+  fan to be compressible. In particular, for the complete seven-wave configuration
+  of the MHD Riemann problem, we first estimate the slow magnetoacoustic speeds and
+  a longitudinal flow speed between the slow modes, and then follow the conservation
+  laws and Rankine-Hugoniot jump relations across the fast, Alfvén, and slow waves,
+  to calculate all the intermediate states within the Riemann fan. Moreover, we discuss
+  the solutions when certain wave modes degenerate, ensuring well-posedness and smooth
+  transitions between complete and degenerate wave configurations. Numerical simulations
+  using a Finite Volume (FV) solver show that the proposed approximate Riemann solution
+  is less diffusive than the classic HLLD scheme, particularly for slow mode waves.
+  For example, in a 1D test case with a strong longitudinal magnetic field, the new
+  scheme needs one order of magnitude fewer grid cells compared to the classic HLLD
+  scheme to resolve all wave modes.
+author: Zhang, Fan and Poedts, Stefaan and Lani, Andrea
+author_list:
+- family: Zhang
+  given: Fan
+- family: Poedts
+  given: Stefaan
+- family: Lani
+  given: Andrea
+doc_url: https://arxiv.org/pdf/2609.17049v1
+eprint: 2609.17049v1
+eprintclass: physics.comp-ph
+eprinttype: arxiv
+files:
+- zhang-fan-2026.pdf
+month: 9
+papis_id: 667e3d618e430f972c6667e074cef8b5
+ref: zhang.fan.2026
+tags:
+- riemann
+time-added: 2026-09-17-11:04:36
+title: Adding slow magnetoacoustic mode to the HLL-type multi-state approximate Riemann
+  solution
+type: article
+url: http://arxiv.org/abs/2609.17049v1
+year: 2026

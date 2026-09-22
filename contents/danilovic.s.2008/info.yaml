@@ -1,0 +1,53 @@
+abstract: 'Context: The contrast of granulation is an important quantity characterizing
+  solar surface convection.  Aims: We compare the intensity contrast at 630 nm, observed
+  using the Spectro-Polarimeter (SP) aboard the Hinode satellite, with the 3D radiative
+  MHD simulations of V{\"o}gler \& Sch{\"u}ssler (2007, A\&A, 465, L43).  Methods:
+  A synthetic image from the simulation is degraded using a theoretical point-spread
+  function of the optical system, and by considering other important effects.  Results:
+  The telescope aperture and the obscuration by the secondary mirror and its attachment
+  spider, reduce the simulated contrast from 14.4\% to 8.5\%. A slight effective defocus
+  of the instrument brings the simulated contrast down to 7.5\%, close to the observed
+  value of 7.0\%.  Conclusions: A proper consideration of the effects of the optical
+  system and a slight defocus, lead to sufficient degradation of the synthetic image
+  from the MHD simulation, such that the contrast reaches almost the observed value.
+  The remaining small discrepancy can be ascribed to straylight and slight imperfections
+  of the instrument, which are difficult to model. Hence, Hinode SP data are consistent
+  with a granulation contrast which is predicted by 3D radiation MHD simulations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...484L..17D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0804.4230
+author: Danilovic, S. and Gandorfer, A. and Lagg, A. and Schüssler, M. and Solanki,
+  S. K. and Vögler, A. and Katsukawa, Y. and Tsuneta, S.
+author_list:
+- family: Danilovic
+  given: S.
+- family: Gandorfer
+  given: A.
+- family: Lagg
+  given: A.
+- family: Schüssler
+  given: M.
+- family: Solanki
+  given: S. K.
+- family: Vögler
+  given: A.
+- family: Katsukawa
+  given: Y.
+- family: Tsuneta
+  given: S.
+date-added: 2017-08-11 06:43:47 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1051/0004-6361:200809857
+eprint: '0804.4230'
+journal: \aap
+keywords: 'Sun: granulation, Sun: photosphere'
+month: June
+pages: L17-L20
+papis_id: dd1ce5be85be337cfd2e785316473692
+ref: danilovic.s.2008
+title: 'The intensity contrast of solar granulation: comparing Hinode SP results with
+  MHD simulations'
+type: article
+volume: '484'
+year: '2008'

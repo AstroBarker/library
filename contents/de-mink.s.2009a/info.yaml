@@ -1,0 +1,63 @@
+abstract: 'Models of rotating single stars can successfully account for a wide variety
+  of observed stellar phenomena, such as the surface enhancements of N and He observed
+  in massive main-sequence stars. However, recent observations have questioned the
+  idea that rotational mixing is the main process responsible for the surface enhancements,
+  emphasizing the need for a strong and conclusive test for rotational mixing. We
+  investigate the consequences of rotational mixing for massive main-sequence stars
+  in short-period binaries. In these systems the tides are thought to spin up the
+  stars to rapid rotation, synchronous with their orbital revolution. We use a state-of-the-art
+  stellar evolution code including the effect of rotational mixing, tides, and magnetic
+  fields. We adopt a rotational mixing efficiency that has been calibrated against
+  observations of rotating stars under the assumption that rotational mixing is the
+  main process responsible for the observed surface abundances. We find that the primaries
+  of massive close binaries (M1 \approx{} 20 {M}\&sun;, P\_orb \lessequivlnt{} 3 days)
+  are expected to show significant enhancements in nitrogen (up to 0.6 dex in the
+  Small Magellanic Cloud) for a significant fraction of their core hydrogen-burning
+  lifetime. We propose using such systems to test the concept of rotational mixing.
+  As these short-period binaries often show eclipses, their parameters can be determined
+  with high accuracy. For the primary stars of more massive and very close systems
+  (M1 \approx{} 50 {M}\&sun;, P\_orb\lessequivlnt{} 2 days) we find that centrally
+  produced helium is efficiently mixed throughout the envelope. The star remains blue
+  and compact during the main sequence evolution and stays within its Roche lobe.
+  It is the less massive star, in which the effects of rotational mixing are less
+  pronounced, which fills its Roche lobe first, contrary to what standard binary evolution
+  theory predicts. The primaries will appear as ``Wolf-Rayet stars in disguise'''':
+  core hydrogen-burning stars with strongly enhanced He and N at the surface. We propose
+  that this evolution path provides an alternative channel for the formation of tight
+  Wolf-Rayet binaries with a main-sequence companion and might explain massive black
+  hole binaries such as the intriguing system M33 X-7.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...497..243D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0902.1751
+author: de Mink, S. E. and Cantiello, M. and Langer, N. and Pols, O. R. and Brott,
+  I. and Yoon, S.-C.
+author_list:
+- family: de Mink
+  given: S. E.
+- family: Cantiello
+  given: M.
+- family: Langer
+  given: N.
+- family: Pols
+  given: O. R.
+- family: Brott
+  given: I.
+- family: Yoon
+  given: S.-C.
+date-added: 2017-08-10 19:28:40 +0000
+date-modified: 2017-12-05 16:36:57 +0000
+doi: 10.1051/0004-6361/200811439
+eprint: '0902.1751'
+journal: \aap
+keywords: 'binaries: close, stars: rotation, stars: abundances, Magellanic Clouds,
+  stars: Wolf-Rayet, X-rays: binaries'
+month: April
+pages: 243--253
+papis_id: 441f47bbe167270765cf94e4c450de9a
+primaryclass: astro-ph.SR
+ref: de_mink.s.2009a
+title: Rotational mixing in massive binaries. Detached short-period systems
+type: article
+volume: '497'
+year: '2009'

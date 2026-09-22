@@ -1,0 +1,47 @@
+abstract: In the formation process of black holes, the density and temperature of
+  matter become sufficiently high for quarks and pions to appear. In this study, we
+  numerically investigate stellar core collapse and black hole formation taking into
+  account the equations of state involving quarks and/or pions. In our simulations,
+  we utilize a code that solves the general relativistic hydrodynamics and neutrino
+  transfer equations simultaneously, treating neutrino reactions in detail under spherical
+  symmetry. Initial models with three different masses, namely, 40, 100, and 375 M
+  sun, are adopted. Our results show that quarks and pions shorten the duration of
+  neutrino emission if the collapse bounces before black hole formation. In addition,
+  pions increase the luminosity and average energy of neutrinos before black hole
+  formation. We also find that the hadron-quark phase transition leads to an interesting
+  evolution of temperature. Moreover, the neutrino event number is evaluated for the
+  currently operating neutrino detector, SuperKamiokande, to confirm that it is not
+  only detectable but also affected by the emergence of quarks and pions for Galactic
+  events. While there are some issues, such as hyperons, beyond the scope of this
+  study, this is the first serious attempt to assess the impact of quarks and pions
+  in dynamical simulations of black hole formation and will serve as an important
+  foundation for future studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...721.1284N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.5084
+author: Nakazato, K. and Sumiyoshi, K. and Yamada, S.
+author_list:
+- family: Nakazato
+  given: K.
+- family: Sumiyoshi
+  given: K.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 20:03:23 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/721/2/1284
+eprint: '1001.5084'
+journal: \apj
+keywords: 'black hole physics, dense matter, equation of state, hydrodynamics, methods:
+  numerical, neutrinos'
+month: October
+pages: 1284--1294
+papis_id: 64e9c38f2dd20abc888c440a930434b7
+primaryclass: astro-ph.HE
+ref: nakazato.k.2010
+title: Impact of Quarks and Pions on Dynamics and Neutrino Signal of Black Hole Formation
+  in Non-rotating Stellar Core Collapse
+type: article
+volume: '721'
+year: '2010'

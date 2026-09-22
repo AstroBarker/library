@@ -1,0 +1,61 @@
+abstract: We have performed hydrodynamic simulations of relativistic rotational supernova
+  core collapse in axisymmetry and have computed the gravitational radiation emitted
+  by such an event. The Einstein equations are formulated using the conformally flat
+  metric approximation, and the corresponding hydrodynamic equations are written as
+  a first-order flux-conservative hyperbolic system. Details of the methodology and
+  of the numerical code have been given in an accompanying paper. We have simulated
+  the evolution of 26 models in both Newtonian and relativistic gravity. The initial
+  configurations are differentially rotating relativistic 4 / 3 -polytropes in equilibrium
+  which have a central density of 1010 g cm-3. Collapse is initiated by decreasing
+  the adiabatic index to some prescribed fixed value. The equation of state consists
+  of a polytropic and a thermal part for a more realistic treatment of shock waves.
+  Any microphysics like electron capture and neutrino transport is neglected. Our
+  simulations show that the three different types of rotational supernova core collapse
+  and gravitational waveforms identified in previous Newtonian simulations (regular
+  collapse, multiple bounce collapse, and rapid collapse) are also present in relativistic
+  gravity. However, rotational core collapse with multiple bounces is only possible
+  in a much narrower parameter range in relativistic gravity. The relativistic models
+  cover almost the same range of gravitational wave amplitudes ( 4 x 10-21 <=h{TT}
+  <=3 x 10-20 for a source at a distance of 10 kpc) and frequencies ( 60 Hz <=nu <=1000
+  Hz ) as the corresponding Newtonian ones. Averaged over all models, the total energy
+  radiated in the form of gravitational waves is 8.2 x 10-8 Msun c2 in the relativistic
+  case, and 3.6 x 10-8 Msun c2 in the Newtonian case. For all collapse models that
+  are of the same type in both Newtonian and relativistic gravity, the gravitational
+  wave signal is of lower amplitude. If the collapse type changes, either weaker or
+  stronger signals are found in the relativistic case. For a given model, relativistic
+  gravity can cause a large increase of the characteristic signal frequency of up
+  to a factor of five, which may have important consequences for the signal detection.
+  Our study implies that the prospects for detection of gravitational wave signals
+  from axisymmetric supernova rotational core collapse do not improve when taking
+  into account relativistic gravity. The gravitational wave signals obtained in our
+  study are within the sensitivity range of the first generation laser interferometer
+  detectors if the source is located within the Local Group. An online catalogue containing
+  the gravitational wave signal amplitudes and spectra of all our models is available
+  at the URL http://www.mpa-garching.mpg.de/Hydro/hydro.html.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...393..523D
+arxivurl: http://arxiv.org/abs/astro-ph/0204289
+author: Dimmelmeier, H. and Font, J. A. and Müller, E.
+author_list:
+- family: Dimmelmeier
+  given: H.
+- family: Font
+  given: J. A.
+- family: Müller
+  given: E.
+date-added: 2017-08-10 16:16:51 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1051/0004-6361:20021053
+eprint: astro-ph/0204289
+journal: \aap
+keywords: 'gravitation, gravitational waves, hydrodynamics, stars: neutron, stars:
+  rotation, stars: supernovae: general'
+month: October
+pages: 523--542
+papis_id: 52d440ac6ff1b43746d92fb4450cd9f8
+ref: dimmelmeier.h.2002a
+title: Relativistic simulations of rotational core collapse II. Collapse dynamics
+  and gravitational radiation
+type: article
+volume: '393'
+year: '2002'

@@ -1,0 +1,40 @@
+abstract: 'We present results from axisymmetric, time-dependent hydrodynamic (HD)
+  and magnetohydrodynamic (MHD) simulations of a gaseous envelope collapsing onto
+  a black hole (BH). We consider gas with such small angular momentum that, after
+  an initial transient, the flow in the HD case accretes directly onto a BH without
+  forming a rotationally supported torus. However, in the MHD case, even with a very
+  weak initial magnetic field, the flow settles into a configuration with four components:
+  (1) an equatorial inflow, (2) a bipolar outflow, (3) polar funnel outflow, and (4)
+  polar funnel inflow. We focus our analysis on the second flow component of the MHD
+  flow, which represents a simple yet robust example of a well-organized inflow/outflow
+  solution to the problem of MHD jet formation. The jet is heavy, highly magnetized,
+  and driven by magnetic and centrifugal forces. A significant fraction of the total
+  energy in the jet is carried out by a large-scale magnetic field. We review previous
+  simulations, in which specific angular momentum was higher than that assumed here,
+  and conclude that our bipolar outflow develops for a wide range of the properties
+  of the flow near the equator and near the poles. Future work on such a simple inflow/outflow
+  solution will help to pinpoint the key elements of real jets/outflows as well as
+  help to interpret much more complex simulations aimed at studying jet formation
+  and the collapse of magnetized envelopes.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...629..397P
+arxivurl: http://arxiv.org/abs/astro-ph/0502509
+author: Proga, D.
+author_list:
+- family: Proga
+  given: D.
+date-added: 2017-08-11 06:09:50 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1086/431276
+eprint: astro-ph/0502509
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Methods: Numerical, Magnetohydrodynamics: MHD,
+  Stars: Winds, Outflows'
+month: August
+pages: 397--402
+papis_id: 045e6a05f2c705eb83d591ef022baf28
+ref: proga.d.2005
+title: On Magnetohydrodynamic Jet Production in the Collapsing and Rotating Envelope
+type: article
+volume: '629'
+year: '2005'

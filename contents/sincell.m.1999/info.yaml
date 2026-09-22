@@ -1,0 +1,44 @@
+abstract: We calculate the quasi-stationary structure of a radiating shock wave propagating
+  through a spherically symmetric shell of cold gas by solving the time-dependent
+  equations of radiation hydrodynamics on an implicit adaptive grid. We show that
+  this code successfully resolves the shock wave in both the subcritical and supercritical
+  cases and, for the first time, we have reproduced all the expected features - including
+  the optically thin temperature spike at a supercritical shock front - without invoking
+  analytic jump conditions at the discontinuity. We solve the full moment equations
+  for the radiation flux and energy density, but the shock wave structure can also
+  be reproduced if the radiation flux is assumed to be proportional to the gradient
+  of the energy density (the diffusion approximation), as long as the radiation energy
+  density is determined by the appropriate radiative transfer moment equation. We
+  find that Zel'dovich and Raizer's (1967) analytic solution for the shock wave structure
+  accurately describes a subcritical shock but it underestimates the gas temperature,
+  pressure, and the radiation flux in the gas ahead of a supercritical shock. We argue
+  that this discrepancy is a consequence of neglecting terms which are second order
+  in the minimum inverse shock compression ratio [ eta 1 = (gamma -1)/(gamma +1),
+  where  gamma is the adiabatic index] and the inaccurate treatment of radiative transfer
+  near the discontinuity. In addition, we verify that the maximum temperature of the
+  gas immediately behind the shock is given by  T+ = 4 T1/(gamma +1), where  T1 is
+  the gas temperature far behind the shock.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ShWav...9..391S
+author: Sincell, M. W. and Gehmeyr, M. and Mihalas, D.
+author_list:
+- family: Sincell
+  given: M. W.
+- family: Gehmeyr
+  given: M.
+- family: Mihalas
+  given: D.
+date-added: 2017-08-11 00:47:44 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1007/s001930050169
+journal: Shock Waves
+keywords: Key words:Radiating shock waves, Supercritical shocks, Subcritical shocks,
+  Adaptive grid, Numerical methods
+pages: 391--402
+papis_id: 03526adc2879b3e23b6edbfa32a1482e
+ref: sincell.m.1999
+title: The quasi-stationary structure of radiating shock waves. I. The one-temperature
+  fluid
+type: article
+volume: '9'
+year: '1999'

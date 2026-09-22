@@ -1,0 +1,40 @@
+abstract: 'While it is possible to numerically evolve the relativistic fluid equations
+  using any chosen coordinate mesh, typically there will be computational advantages
+  associated with certain choices. For example, astrophysical flows that are governed
+  by rotation tend to give rise to advection variables that are naturally conserved
+  when a cylindrical mesh is used. On the other hand, Cartesian-like coordinates afford
+  a more straightforward implementation of adaptive mesh refinement and avoid the
+  appearance of coordinate singularities. Here we show how it may be possible to reap
+  the benefits associated with multiple coordinate systems simultaneously in numerical
+  simulations. This could be accomplished by implementing a hybrid numerical scheme:
+  one that evolves a set of state variables adapted to one set of coordinates on a
+  mesh defined by an alternative set of coordinates. We provide a formalism (a generalization
+  of the much-used Valencia formulation) by which this can be done. We suggest that
+  a preferred approach to modeling astrophysical flows that are dominated by rotation
+  involves the evolution of inertial-frame cylindrical momenta (i.e. radial momentum,
+  angular momentum and vertical momentum) and the Jacobi energy on a corotating Cartesian
+  coordinate grid.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010CQGra..27q5002C
+author: Call, J. M. and Tohline, J. E. and Lehner, L.
+author_list:
+- family: Call
+  given: J. M.
+- family: Tohline
+  given: J. E.
+- family: Lehner
+  given: L.
+date-added: 2017-08-10 19:15:34 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0264-9381/27/17/175002
+eid: '175002'
+journal: Classical and Quantum Gravity
+month: September
+number: '17'
+pages: '175002'
+papis_id: 1ca2c9e38eee6d964a89020186382a7f
+ref: call.j.2010
+title: A generalized advection formalism for relativistic fluid simulations
+type: article
+volume: '27'
+year: '2010'

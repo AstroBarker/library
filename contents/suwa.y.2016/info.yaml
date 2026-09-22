@@ -1,0 +1,50 @@
+abstract: 'By performing neutrino-radiation hydrodynamic simulations in spherical
+  symmetry (1D) and axial symmetry (2D) with different progenitor models by Woosley
+  \& Heger from 12 to 100 M\&sun;, we find that all 1D runs fail to produce an explosion
+  and several 2D runs succeed. The difference in the shock evolutions for different
+  progenitors can be interpreted by the difference in their mass accretion histories,
+  which are in turn determined by the density structures of progenitors. The mass
+  accretion history has two phases in the majority of the models: the earlier phase,
+  in which the mass accretion rate is high and rapidly decreasing, and the later phase,
+  with a low and almost constant accretion rate. They are separated by the so-called
+  turning point, the origin of which is a change of the accreting layer. We argue
+  that shock revival will most likely occur around the turning point and hence that
+  its location in the \dot{M}{--}{L}nu  plane will be a good measure for the possibility
+  of shock revival: if the turning point lies above the critical curve and the system
+  stays there for a long time, shock revival will obtain. In addition, we develop
+  a phenomenological model to approximately evaluate the trajectories in the \dot{M}{--}{L}nu  plane,
+  which, after calibrating free parameters by a small number of 1D simulations, reproduces
+  the location of the turning point reasonably well by using the initial density structure
+  of progenitor alone. We suggest the application of the phenomenological model to
+  a large collection of progenitors in order to infer without simulations which ones
+  are more likely to explode.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ApJ...816...43S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1406.6414
+author: Suwa, Y. and Yamada, S. and Takiwaki, T. and Kotake, K.
+author_list:
+- family: Suwa
+  given: Y.
+- family: Yamada
+  given: S.
+- family: Takiwaki
+  given: T.
+- family: Kotake
+  given: K.
+date-added: 2017-08-10 14:07:05 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.3847/0004-637X/816/1/43
+eid: '43'
+eprint: '1406.6414'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: January
+pages: '43'
+papis_id: fe7543be343201a7057b9bf8208f1c0a
+primaryclass: astro-ph.HE
+ref: suwa.y.2016
+title: 'The Criterion of Supernova Explosion Revisited: The Mass Accretion History'
+type: article
+volume: '816'
+year: '2016'

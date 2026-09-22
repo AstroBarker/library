@@ -1,0 +1,51 @@
+abstract: Discretized numerical simulations are a powerful tool for the investigation
+  of nonlinear MHD turbulence in accretion disks. However, confidence in their quantitative
+  predictions requires a demonstration that further refinement of the spatial grid
+  scale would not result in any significant change. This has yet to be accomplished,
+  particularly for global disk simulations. In this paper, we combine data from previously
+  published stratified shearing box simulations and new global disk simulations to
+  calibrate several quantitative diagnostics by which one can estimate progress toward
+  numerical convergence of the magnetic field. Using these diagnostics, we find that
+  the established criterion for an adequate numerical description of linear growth
+  of the magneto-rotational instability (the number of cells across a wavelength of
+  the fastest-growing vertical wavenumber mode) can be extended to a criterion for
+  the adequate description of nonlinear MHD disk turbulence, but the standard required
+  is more stringent. We also find that azimuthal resolution, which has received little
+  attention in previous studies, can significantly affect the evolution of the poloidal
+  magnetic field. We further analyze the comparative resolution requirements of a
+  small sample of initial magnetic field geometries; not surprisingly, more complicated
+  initial field geometries require higher spatial resolution. Otherwise, they tend
+  to evolve to qualitatively similar states if evolved for sufficient time. Applying
+  our quantitative resolution criteria to a sample of previously published global
+  simulations, we find that, with perhaps a single exception, they are significantly
+  underresolved, and therefore underestimate the magnetic turbulence and resulting
+  stress levels throughout the accretion flow.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...738...84H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1103.5987
+author: Hawley, J. F. and Guan, X. and Krolik, J. H.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Guan
+  given: X.
+- family: Krolik
+  given: J. H.
+date-added: 2017-08-10 14:57:22 +0000
+date-modified: 2017-12-05 16:36:42 +0000
+doi: 10.1088/0004-637X/738/1/84
+eid: '84'
+eprint: '1103.5987'
+journal: \apj
+keywords: 'accretion, accretion disks, black hole physics, magnetohydrodynamics: MHD,
+  methods: numerical'
+month: September
+pages: '84'
+papis_id: bb1a65de49a394fb5b67696f7a6244a7
+primaryclass: astro-ph.HE
+ref: hawley.j.2011
+title: 'Assessing Quantitative Results in Accretion Simulations: From Local to Global'
+type: article
+volume: '738'
+year: '2011'

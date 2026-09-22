@@ -1,0 +1,88 @@
+abstract: We present the results of a comprehensive assessment of companions to solar-type
+  stars. A sample of 454 stars, including the Sun, was selected from the Hipparcos
+  catalog with pi>40 mas, sigmapi/pi < 0.05, 0.5 <= B - V <= 1.0 (~F6-K3), and constrained
+  by absolute magnitude and color to exclude evolved stars. These criteria are equivalent
+  to selecting all dwarf and subdwarf stars within 25 pc with V-band flux between
+  0.1 and 10 times that of the Sun, giving us a physical basis for the term "solar-type."
+  New observational aspects of this work include surveys for (1) very close companions
+  with long-baseline interferometry at the Center for High Angular Resolution Astronomy
+  Array, (2) close companions with speckle interferometry, and (3) wide proper-motion
+  companions identified by blinking multi-epoch archival images. In addition, we include
+  the results from extensive radial-velocity monitoring programs and evaluate companion
+  information from various catalogs covering many different techniques. The results
+  presented here include four new common proper-motion companions discovered by blinking
+  archival images. Additionally, the spectroscopic data searched reveal five new stellar
+  companions. Our synthesis of results from many methods and sources results in a
+  thorough evaluation of stellar and brown dwarf companions to nearby Sun-like stars.
+  The overall observed fractions of single, double, triple, and higher-order systems
+  are 56\% $\pm$ 2\%, 33\% \$\pm\$ 2\%, 8\% \$\pm\$ 1\%, and 3\% \$\pm\$ 1\%, respectively,
+  counting all confirmed stellar and brown dwarf companions. If all candidate, i.e.,
+  unconfirmed, companions identified are found to be real, the percentages would change
+  to 54\% \$\pm\$ 2\%, 34\% \$\pm\$ 2\%, 9\% \$\pm\$ 2\%, and 3\% \$\pm\$ 1\%, respectively.
+  Our completeness analysis indicates that only a few undiscovered companions remain
+  in this well-studied sample, implying that the majority (54\% \$\pm\$ 2\%) of solar-type
+  stars are single, in contrast to the results of prior multiplicity studies. Our
+  sample is large enough to enable a check of the multiplicity dependence on various
+  physical parameters by analyzing appropriate subsamples. Bluer, more massive stars
+  are seen as more likely to have companions than redder, less massive ones, consistent
+  with the trend seen over the entire spectral range. Systems with larger interaction
+  cross sections, i.e., those with more than two components or long orbital periods,
+  are preferentially younger, suggesting that companions may be stripped over time
+  by dynamical interactions. We confirm the planet-metallicity correlation (i.e.,
+  higher metallicity stars are more likely to host planets), but are unable to check
+  it for brown dwarfs due to the paucity of such companions, implying that the brown
+  dwarf desert extends over all separation regimes. We find no correlation between
+  stellar companions and metallicity for B - V < 0.625, but among the redder subset,
+  metal-poor stars ([Fe/H] <-0.3) are more likely to have companions with a 2.4sigma
+  significance. The orbital-period distribution of companions is unimodal and roughly
+  log normal with a peak and median of about 300 years. The period-eccentricity relation
+  shows the expected circularization for periods below 12 days, caused by tidal forces
+  over the age of the Galaxy, followed by a roughly flat distribution. The mass-ratio
+  distribution shows a preference for like-mass pairs, which occur more frequently
+  in relatively close pairs. The fraction of planet hosts among single, binary, and
+  multiple systems are statistically indistinguishable, suggesting that planets are
+  as likely to form around single stars as they are around components of binary or
+  multiple systems with sufficiently wide separations. This, along with the preference
+  of long orbital periods among stellar systems, increases the space around stars
+  conducive for planet formation, and perhaps life.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJS..190....1R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.0414
+author: Raghavan, D. and McAlister, H. A. and Henry, T. J. and Latham, D. W. and Marcy,
+  G. W. and Mason, B. D. and Gies, D. R. and White, R. J. and ten Brummelaar, T. A.
+author_list:
+- family: Raghavan
+  given: D.
+- family: McAlister
+  given: H. A.
+- family: Henry
+  given: T. J.
+- family: Latham
+  given: D. W.
+- family: Marcy
+  given: G. W.
+- family: Mason
+  given: B. D.
+- family: Gies
+  given: D. R.
+- family: White
+  given: R. J.
+- family: ten Brummelaar
+  given: T. A.
+date-added: 2017-08-10 16:09:58 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0067-0049/190/1/1
+eprint: '1007.0414'
+journal: \apjs
+keywords: 'binaries: general, planetary systems, stars: solar-type, stars: statistics,
+  surveys'
+month: September
+pages: 1--42
+papis_id: bd7d932b11690b5c644e91740fe8034d
+primaryclass: astro-ph.SR
+ref: raghavan.d.2010
+title: 'A Survey of Stellar Families: Multiplicity of Solar-type Stars'
+type: article
+volume: '190'
+year: '2010'

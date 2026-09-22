@@ -1,0 +1,52 @@
+abstract: Type IIb supernovae (SNe) present a unique opportunity for understanding
+  the progenitors of stripped-envelope SNe because the stellar progenitor of several
+  SNe IIb have been identified in pre-explosion images. In this paper, we use Bayesian
+  inference and a large grid of non-rotating solar-metallicity single and binary stellar
+  models to derive the associated probability distributions of single and binary progenitors
+  of the SN IIb 2016gkg using existing observational constraints. We find that potential
+  binary star progenitors have smaller pre-SN hydrogen-envelope and helium-core masses
+  than potential single-star progenitors typically by 0.1 M \&sun; and 2 M \&sun;,
+  respectively. We find that, a binary companion, if present, is a main-sequence or
+  red-giant star. Apart from this, we do not find strong constraints on the nature
+  of the companion star. We demonstrate that the range of progenitor helium-core mass
+  inferred from observations could help improve constraints on the progenitor. We
+  find that the probability that the progenitor of SN 2016gkg was a binary is 22\%
+  when we use constraints only on the progenitor luminosity and effective temperature.
+  Imposing the range of pre-SN progenitor hydrogen-envelope mass and radius inferred
+  from SN light curves, the probability that the progenitor is a binary increases
+  to 44\%. However, there is no clear preference for a binary progenitor. This is
+  in contrast to binaries being the currently favored formation channel for SNe IIb.
+  Our analysis demonstrates the importance of statistical inference methods to constrain
+  progenitor channels.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018ApJ...852L..17S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1708.04250
+author: Sravan, N. and Marchant, P. and Kalogera, V. and Margutti, R.
+author_list:
+- family: Sravan
+  given: N.
+- family: Marchant
+  given: P.
+- family: Kalogera
+  given: V.
+- family: Margutti
+  given: R.
+date-added: 2018-04-25 23:52:50 +0000
+date-modified: 2018-04-25 23:52:51 +0000
+doi: 10.3847/2041-8213/aaa2f5
+eid: L17
+eprint: '1708.04250'
+journal: \apjl
+keywords: 'binaries: general, stars: massive, supernovae: general, supernovae: individual:
+  SN 2016gkg'
+month: January
+pages: L17
+papis_id: 2df7f7e994a884d7c82d9d671aa4bb76
+primaryclass: astro-ph.SR
+ref: sravan.n.2018
+title: Constraints on the Progenitor System of SN 2016gkg from a Comprehensive Statistical
+  Analysis
+type: article
+volume: '852'
+year: '2018'

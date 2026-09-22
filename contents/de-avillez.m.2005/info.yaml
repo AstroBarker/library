@@ -1,0 +1,62 @@
+abstract: 'In star forming disk galaxies, matter circulation between stars and the
+  interstellar gas, and, in particular the energy input by random and clustered supernova
+  explosions, determine the dynamical and chemical evolution of the ISM, and hence
+  of the galaxy as a whole. Using a 3D MHD code with adaptive mesh refinement developed
+  for this purpose, we have investigated the r{\^o}le of magnetized matter circulation
+  between the gaseous disk and the surrounding galactic halo. Special emphasis has
+  been put on the effect of the magnetic field with respect to the volume and mass
+  fractions of the different ISM "phases", the relative importance of ram, thermal
+  and magnetic pressures, and whether the field can prevent matter transport from
+  the disk into the halo. The simulations were performed on a grid with an area of
+  1 kpc2, centered on the solar circle, extending $\pm$ 10 kpc perpendicular to the
+  galactic disk with a resolution as high as 1.25 pc. The simulations were run for
+  a time scale of 400 Myr, sufficiently long to avoid memory effects of the initial
+  setup, and to allow for a global dynamical equilibrium to be reached in case of
+  a constant energy input rate. The main results of our simulations are: (i) The {T}<=
+  103 K gas is mainly concentrated in shock compressed layers, exhibiting the presence
+  of high density clouds with sizes of a few parsecs and {T}<= 200 K. These structures
+  are formed in regions where several large scale streams of convergent flow (driven
+  by SNe) occur. They have lifetimes of a few free-fall times, are filamentary in
+  structure, tend to be aligned with the local field and are associated with the highest
+  field strengths; (ii) the magnetic field has a high variability and it is largely
+  uncorrelated with the density, suggesting that it is driven by superalfvenic inertial
+  motions; (iii) ram pressure controls the flow for 200<{T}<= 105.5 K. For {T}<= 200
+  K magnetic pressure dominates, while the hot gas ({T}> 105.5 K) in contrast is controlled
+  by the thermal pressure, since magnetic field lines are swept towards the dense
+  compressed walls; (iv) up to 49\% of the mass in the disk is concentrated in the
+  classical thermally unstable regime 200<{T}<= 103.9 K with \texttildelow{} 65\%
+  of the warm neutral medium (WNM) mass enclosed in the 500<= {T}<= 5000 K gas, consistent
+  with recent observations; (v) the volume filling factors of the different temperature
+  regimes depend sensitively on the existence of the duty cycle between the disk and
+  halo, acting as a pressure release mechanism for the hot phase in the disk. We find
+  that in general gas transport into the halo in 3D is not prevented by an initial
+  disk parallel magnetic field, but only delayed initially, for as long as it is needed
+  to punch holes into the thick magnetized gas disk. The mean volume filling factor
+  of the hot phase in the disk is similar in HD and MHD (the latter with a total field
+  strength of 4.4 muG) runs, amounting to \texttildelow{} 17-21\% for the Galactic
+  supernova rate.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...436..585D
+arxivurl: http://arxiv.org/abs/astro-ph/0502327
+author: de Avillez, M. A. and Breitschwerdt, D.
+author_list:
+- family: de Avillez
+  given: M. A.
+- family: Breitschwerdt
+  given: D.
+date-added: 2017-08-11 01:31:33 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1051/0004-6361:20042146
+eprint: astro-ph/0502327
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), galaxies: ISM, ISM: evolution, ISM: bubbles,
+  ISM: supernova remnants, ISM: structure'
+month: June
+pages: 585--600
+papis_id: 2ae590e27264877fc1bf2d89a4bf29d5
+ref: de_avillez.m.2005
+title: 'Global dynamical evolution of the ISM in star forming galaxies. I. High resolution
+  3D simulations: Effect of the magnetic field'
+type: article
+volume: '436'
+year: '2005'

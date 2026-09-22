@@ -1,0 +1,52 @@
+abstract: 'A small subset of thermonuclear X-ray bursts on neutron stars exhibit such
+  a strong photospheric expansion that for a few seconds the photosphere is located
+  at a radius rph \gtrapprox{} 103 km. Such ``superexpansions'''' imply a large and
+  rapid energy release, a feature characteristic of pure He burst models. Previous
+  calculations have shown that during a pure He burst, the freshly synthesized heavy-element
+  ashes of burning can be ejected in a strong radiative wind and produce significant
+  spectral absorption features. We search the burst data catalogs and literature and
+  find 32 superexpansion bursts, 24 of which were detected with BeppoSAX and three
+  with RXTE at high time resolution. We find that these bursts exhibit the following
+  interesting features: (1) At least 31 are from (candidate) ultracompact X-ray binaries
+  in which the neutron star accretes hydrogen-deficient fuel, suggesting that these
+  bursts indeed ignite in a helium-rich layer. (2) In two of the RXTE bursts we detect
+  strong absorption edges during the expansion phase. The edge energies and depths
+  are consistent with the H-like or He-like edge of iron-peak elements with abundances
+  \gtrapprox{}100 times solar, suggesting that we are seeing the exposed ashes of
+  nuclear burning. (3) The superexpansion phase is always followed by a moderate expansion
+  phase during which rph ~ 30 km and the luminosity is near the Eddington limit. (4)
+  The decay time of the bursts, tau\_decay, ranges from short (\approx{}10 s) to intermediate
+  (\gtrapprox{}103 s). However, despite the large range of tau\_decay, the duration
+  of the superexpansion is always a few seconds, independent of taudecay. By contrast,
+  the duration of the moderate expansion is always of order tau\_decay. (5) The photospheric
+  radii rph during the moderate expansion phase are much smaller than steady state
+  wind models predict. We show that this may be further indication that the wind contains
+  highly non-solar abundances of heavy elements.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...520A..81I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.0900
+author: in't Zand, J. J. M. and Weinberg, N. N.
+author_list:
+- family: in't Zand
+  given: J. J. M.
+- family: Weinberg
+  given: N. N.
+date-added: 2017-08-10 17:02:13 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/200913952
+eid: A81
+eprint: '1001.0900'
+journal: \aap
+keywords: 'X-rays: binaries, nuclear reactions, nucleosynthesis, abundances, stars:
+  neutron, radiative transfer, X-rays: general'
+month: September
+pages: A81
+papis_id: 11be6fbd804cf229085121fba389ae4b
+primaryclass: astro-ph.HE
+ref: in_t_zand.j.2010
+title: Evidence of heavy-element ashes in thermonuclear X-ray bursts with photospheric
+  superexpansion
+type: article
+volume: '520'
+year: '2010'

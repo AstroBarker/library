@@ -1,0 +1,50 @@
+abstract: We study the impact of the late-time dynamical evolution of ejecta from
+  core-collapse supernovae on nup-process nucleosynthesis. Our results are based on
+  hydrodynamical simulations of neutrino-driven wind ejecta. Motivated by recent two-dimensional
+  wind simulations, we vary the dynamical evolution during the nup-process and show
+  that final abundances strongly depend on the temperature evolution. When the expansion
+  is very fast, there is not enough time for antineutrino absorption on protons to
+  produce enough neutrons to overcome the beta+-decay waiting points and no heavy
+  elements beyond A = 64 are produced. The wind termination shock or reverse shock
+  dramatically reduces the expansion speed of the ejecta. This extends the period
+  during which matter remains at relatively high temperatures and is exposed to high
+  neutrino fluxes, thus allowing for further (p, gamma) and (n, p) reactions to occur
+  and to synthesize elements beyond iron. We find that the nup-process starts to efficiently
+  produce heavy elements only when the temperature drops below ~3 GK. At higher temperatures,
+  due to the low alpha separation energy of 60Zn (S alpha = 2.7 MeV) the reaction
+  59Cu(p, alpha)56Ni is faster than the reaction 59Cu(p, gamma)60Zn. This results
+  in the closed NiCu cycle that we identify and discuss here for the first time. We
+  also investigate the late phase of the nup-process when the temperatures become
+  too low to maintain proton captures. Depending on the late neutron density, the
+  evolution to stability is dominated by beta+ decays or by (n, gamma) reactions.
+  In the latter case, the matter flow can even reach the neutron-rich side of stability
+  and the isotopic composition of a given element is then dominated by neutron-rich
+  isotopes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...750...18A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1112.4651
+author: Arcones, A. and Fröhlich, C. and Martínez-Pinedo, G.
+author_list:
+- family: Arcones
+  given: A.
+- family: Fröhlich
+  given: C.
+- family: Martínez-Pinedo
+  given: G.
+date-added: 2017-08-10 18:54:25 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/750/1/18
+eid: '18'
+eprint: '1112.4651'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, supernovae: general'
+month: May
+pages: '18'
+papis_id: a021e94971a54c9be6485d2b03368792
+primaryclass: astro-ph.SR
+ref: arcones.a.2012
+title: Impact of Supernova Dynamics on the $ν$p-process
+type: article
+volume: '750'
+year: '2012'

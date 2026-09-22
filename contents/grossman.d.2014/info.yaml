@@ -1,0 +1,50 @@
+abstract: We use 3D hydrodynamic simulations of the long-term evolution of neutron
+  star merger ejecta to predict the light curves of electromagnetic transients that
+  are powered by the decay of freshly produced r-process nuclei. For the dynamic ejecta
+  that are launched by tidal and hydrodynamic interaction, we adopt grey opacities
+  of 10 cm2 g-1, as suggested by recent studies. For our reference case of a 1.3-1.4
+  M\_{\&sun;} merger, we find a broad IR peak 2-4 d after the merger. The peak luminosity
+  is \approx{}2 \texttimes{} 1040 erg s-1 for an average orientation, but increased
+  by up to a factor of 4 for more favourable binary parameters and viewing angles.
+  These signals are rather weak and hardly detectable within the large error box (\texttildelow{}100
+  deg2) of a gravitational wave trigger. A second electromagnetic transient results
+  from neutrino-driven winds. These winds produce `weak' r-process material with 50
+  < A < 130 and abundance patterns that vary substantially between different merger
+  cases. For an adopted opacity of 1 cm2 g-1, the resulting transients peak in the
+  UV/optical about 6 h after the merger with a luminosity of \approx{}1041 erg s-1
+  (for a wind of 0.01 M\_{\&sun;}) These signals are marginally detectable in deep
+  follow-up searches (e.g. using Hypersuprime camera on Subaru). A subsequent detection
+  of the weaker but longer lasting IR signal would allow an identification of the
+  merger event. We briefly discuss the implications of our results to the recent detection
+  of a near infrared (nIR) transient accompanying GRB 130603B.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.439..757G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1307.2943
+author: Grossman, D. and Korobkin, O. and Rosswog, S. and Piran, T.
+author_list:
+- family: Grossman
+  given: D.
+- family: Korobkin
+  given: O.
+- family: Rosswog
+  given: S.
+- family: Piran
+  given: T.
+date-added: 2017-08-10 18:00:58 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1093/mnras/stt2503
+eprint: '1307.2943'
+journal: \mnras
+keywords: 'nuclear reactions, nucleosynthesis, abundances, gamma-ray burst: general,
+  stars: neutron'
+month: March
+pages: 757--770
+papis_id: cc7ff073cb543fe7d8f0e7efc3087ccc
+primaryclass: astro-ph.HE
+ref: grossman.d.2014
+title: The long-term evolution of neutron star merger remnants - II. Radioactively
+  powered transients
+type: article
+volume: '439'
+year: '2014'

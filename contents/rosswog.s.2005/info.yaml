@@ -1,0 +1,45 @@
+abstract: We discuss simulations of the coalescence of black hole-neutron star binary
+  systems with black hole masses between 14 and 20 Msolar. The calculations use a
+  three-dimensional smoothed particle hydrodynamics code, a temperature-dependent,
+  nuclear equation of state, and a multiflavor neutrino scheme. General relativistic
+  effects are mimicked using the Paczynski-Wiita pseudo-potential and gravitational
+  radiation reaction forces. Unlike previous, purely Newtonian calculations, in none
+  of the explored cases does episodic mass transfer occur. The neutron star is always
+  completely disrupted after most of its mass has been transferred directly into the
+  hole. For black hole masses between 14 and 16 Msolar an accretion disk forms; large
+  parts of it, however, are inside the last stable orbit and therefore falling with
+  large radial velocities into the hole. These disks are (opposite to the neutron
+  star merger case) thin and-except for a spiral shock-essentially cold. For higher
+  mass black holes (MBH>=18 Msolar) almost the entire neutron star disappears in the
+  hole without forming an accretion disk. In these cases the surviving material is
+  spun up by tidal torques and ejected as a half-ring of neutron-rich matter. None
+  of the investigated systems is a promising gamma-ray burst (GRB) central engine.
+  We find between 0.01 and 0.2 Msolar of the neutron star to be dynamically ejected.
+  Like in a Type Ia supernova, the radioactive decay of this material powers a light
+  curve with a peak luminosity of a few times 1044 ergs s-1. The maximum is reached
+  about 3 days after the coalescence and is mainly visible in the optical/near-infrared
+  band. The coalescence itself may produce a precursor pulse with a thermal spectrum
+  of ~10 ms duration.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...634.1202R
+arxivurl: http://arxiv.org/abs/astro-ph/0508138
+author: Rosswog, S.
+author_list:
+- family: Rosswog
+  given: S.
+date-added: 2017-08-10 15:53:10 +0000
+date-modified: 2017-12-05 16:37:18 +0000
+doi: 10.1086/497062
+eprint: astro-ph/0508138
+journal: \apj
+keywords: 'Black Hole Physics, Gamma Rays: Bursts, Hydrodynamics, Methods: Numerical,
+  Nuclear Reactions, Nucleosynthesis, Abundances'
+month: December
+pages: 1202--1213
+papis_id: 06f1010763098dd6268accbcbc16b429
+ref: rosswog.s.2005
+title: 'Mergers of Neutron Star-Black Hole Binaries with Small Mass Ratios: Nucleosynthesis,
+  Gamma-Ray Bursts, and Electromagnetic Transients'
+type: article
+volume: '634'
+year: '2005'

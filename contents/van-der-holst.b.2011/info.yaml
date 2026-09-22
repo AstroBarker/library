@@ -1,0 +1,67 @@
+abstract: 'We describe the Center for Radiative Shock Hydrodynamics (CRASH) code,
+  a block-adaptive-mesh code for multi-material radiation hydrodynamics. The implementation
+  solves the radiation diffusion model with a gray or multi-group method and uses
+  a flux-limited diffusion approximation to recover the free-streaming limit. Electrons
+  and ions are allowed to have different temperatures and we include flux-limited
+  electron heat conduction. The radiation hydrodynamic equations are solved in the
+  Eulerian frame by means of a conservative finite-volume discretization in either
+  one-, two-, or three-dimensional slab geometry or in two-dimensional cylindrical
+  symmetry. An operator-split method is used to solve these equations in three substeps:
+  (1) an explicit step of a shock-capturing hydrodynamic solver; (2) a linear advection
+  of the radiation in frequency-logarithm space; and (3) an implicit solution of the
+  stiff radiation diffusion, heat conduction, and energy exchange. We present a suite
+  of verification test problems to demonstrate the accuracy and performance of the
+  algorithms. The applications are for astrophysics and laboratory astrophysics. The
+  CRASH code is an extension of the Block-Adaptive Tree Solarwind Roe Upwind Scheme
+  (BATS-R-US) code with a new radiation transfer and heat conduction library and equation-of-state
+  and multi-group opacity solvers. Both CRASH and BATS-R-US are part of the publicly
+  available Space Weather Modeling Framework.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJS..194...23V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1101.3758
+author: van der Holst, B. and Tóth, G. and Sokolov, I. V. and Powell, K. G. and Holloway,
+  J. P. and Myra, E. S. and Stout, Q. and Adams, M. L. and Morel, J. E. and Karni,
+  S. and Fryxell, B. and Drake, R. P.
+author_list:
+- family: van der Holst
+  given: B.
+- family: Tóth
+  given: G.
+- family: Sokolov
+  given: I. V.
+- family: Powell
+  given: K. G.
+- family: Holloway
+  given: J. P.
+- family: Myra
+  given: E. S.
+- family: Stout
+  given: Q.
+- family: Adams
+  given: M. L.
+- family: Morel
+  given: J. E.
+- family: Karni
+  given: S.
+- family: Fryxell
+  given: B.
+- family: Drake
+  given: R. P.
+date-added: 2017-08-10 19:41:18 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0067-0049/194/2/23
+eid: '23'
+eprint: '1101.3758'
+journal: \apjs
+keywords: 'hydrodynamics, methods: numerical, radiative transfer'
+month: June
+pages: '23'
+papis_id: cafa11c9b12ca4c9f091ae864e9c3463
+primaryclass: astro-ph.SR
+ref: van_der_holst.b.2011
+title: 'CRASH: A Block-adaptive-mesh Code for Radiative Shock Hydrodynamics\mdashImplementation
+  and Verification'
+type: article
+volume: '194'
+year: '2011'

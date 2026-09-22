@@ -1,0 +1,56 @@
+abstract: We propose a robust, quantitative method to compare the synthetic light
+  curves of a Type Ia supernova (SN Ia) explosion model with a large set of observed
+  SNe Ia, and derive a figure of merit for the explosion model's agreement with observations.
+  The synthetic light curves are fit with the data-driven model SALT2 which returns
+  values for stretch, color, and magnitude at peak brightness, as well as a goodness-of-fit
+  parameter. Each fit is performed multiple times with different choices of filter
+  bands and epoch range in order to quantify the systematic uncertainty on the fitted
+  parameters. We use a parametric population model for the distribution of observed
+  SN Ia parameters from large surveys, and extend it to represent red, dim, and bright
+  outliers found in a low-redshift SN Ia data set. We discuss the potential uncertainties
+  of this population model and find it to be reliable given the current uncertainties
+  on cosmological parameters. Using our population model, we assign each set of fitted
+  parameters a likelihood of being observed in nature, and a figure of merit based
+  on this likelihood. We define a second figure of merit based on the quality of the
+  light curve fit, and combine the two measures into an overall figure of merit for
+  each explosion model. We compute figures of merit for a variety of one-, two-, and
+  three-dimensional explosion models and show that our evaluation method allows meaningful
+  inferences across a wide range of light curve quality and fitted parameters.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...773..119D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1303.1168
+author: Diemer, B. and Kessler, R. and Graziani, C. and Jordan IV, G. C. and Lamb,
+  D. Q. and Long, M. and van Rossum, D. R.
+author_list:
+- family: Diemer
+  given: B.
+- family: Kessler
+  given: R.
+- family: Graziani
+  given: C.
+- family: Jordan IV
+  given: G. C.
+- family: Lamb
+  given: D. Q.
+- family: Long
+  given: M.
+- family: van Rossum
+  given: D. R.
+date-added: 2017-08-10 17:35:56 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/773/2/119
+eid: '119'
+eprint: '1303.1168'
+journal: \apj
+keywords: 'supernovae: general'
+month: August
+pages: '119'
+papis_id: 374f42a87914549621f69176b65cae51
+primaryclass: astro-ph.CO
+ref: diemer.b.2013
+title: Comparing the Light Curves of Simulated Type Ia Supernovae with Observations
+  Using Data-driven Models
+type: article
+volume: '773'
+year: '2013'

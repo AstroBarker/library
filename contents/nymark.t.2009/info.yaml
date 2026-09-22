@@ -1,0 +1,40 @@
+abstract: 'Aims: We investigate the effects of radiative shocks on the observed X-ray
+  emission from the type II supernova SN 1993J. To this end, the X-ray emission is
+  modeled as a result of the interaction between the supernova ejecta and a dense
+  circumstellar medium at an age of 8 years. Methods: The circumstances under which
+  the reverse shock is radiative are discussed and the observed X-ray emission is
+  analyzed using the numerical code described in Nymark et al. (2006, A\&A, 449, 171).
+  We argue that the original analysis of the X-ray observations suffered from the
+  lack of self-consistent models for cooling shocks with high density and velocity,
+  leading to questionable conclusions about the temperatures and elemental abundances.
+  We reanalyze the spectra with our numerical model, and discuss the expected spectra
+  for different explosion models for the progenitors.  Results: We find that the spectra
+  of SN 1993J are compatible with a CNO-enriched composition and that the X-ray flux
+  is dominated by the reverse shock.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009A\%26A...494..179N
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0812.2252
+author: Nymark, T. K. and Chandra, P. and Fransson, C.
+author_list:
+- family: Nymark
+  given: T. K.
+- family: Chandra
+  given: P.
+- family: Fransson
+  given: C.
+date-added: 2017-08-11 06:37:37 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1051/0004-6361:200810884
+eprint: '0812.2252'
+journal: \aap
+keywords: 'supernovae: individual: SN 1993J, stars: circumstellar matter, X-rays:
+  stars, hydrodynamics, shock waves, atomic processes'
+month: January
+pages: 179--189
+papis_id: 609dfa75e19262f0449fd03932bc83c8
+ref: nymark.t.2009
+title: Modeling the X-ray emission of SN 1993J
+type: article
+volume: '494'
+year: '2009'

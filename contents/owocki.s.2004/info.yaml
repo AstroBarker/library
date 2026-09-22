@@ -1,0 +1,63 @@
+abstract: We examine radiatively driven mass loss from stars near and above the Eddington
+  limit. Building on the standard CAK theory of driving by scattering in an ensemble
+  of lines with a power-law distribution of opacity, we first show that the formal
+  divergence of such line-driven mass loss as a star approaches the Eddington limit
+  is actually limited by the ``photon tiring'' associated with the work needed to
+  lift material out of the star's gravitational potential. We also examine such tiring
+  in simple continuum-driven models in which a specified outward increase in opacity
+  causes a net outward acceleration above the radius where the generalized Eddington
+  parameter exceeds unity. When the density at this radius implies a mass loss too
+  close to the tiring limit, the overall result is flow stagnation at a finite radius.
+  Since escape of a net steady wind is precluded, such circumstances are expected
+  to lead to extensive variability and spatial structure. After briefly reviewing
+  convective and other instabilities that also can be expected to lead to extensive
+  structure in the envelope and atmosphere of a star near or above the Eddington limit,
+  we investigate how the porosity of such a structured medium can reduce the effective
+  coupling between the matter and radiation. Introducing a new ``porosity-length''
+  formalism, we derive a simple scaling for the reduced effective opacity and use
+  this to derive an associated scaling for the porosity-moderated, continuum-driven
+  mass-loss rate from stars that formally exceed the Eddington limit. For a simple
+  super-Eddington model with a single porosity length that is assumed to be on the
+  order of the gravitational scale height, the overall mass loss is similar to that
+  derived in previous porosity models, given roughly by L\textasteriskcentered/a\textasteriskcenteredc
+  (where L\textasteriskcentered is the stellar luminosity and c and a\textasteriskcentered
+  are the speed of light and the atmospheric sound speed). This is much higher than
+  is typical of line-driven winds but is still only a few percent of the tiring limit.
+  To obtain still stronger mass loss that approaches observationally inferred values
+  near this limit, we draw on an analogy with the power-law distribution of line-opacity
+  in the standard CAK model of line-driven winds and thereby introduce a ``power-law-porosity''
+  model in which the associated structure has a broad range of scales. We show that
+  for power indices alphap<1, the mass-loss rate can be enhanced over the single-scale
+  model by a factor that increases with the Eddington parameter as Gamma-1+1/alphap.
+  For lower alphap (~0.5-0.6) and/or moderately large Gamma (>3-4), such models lead
+  to mass-loss rates that approach the photon-tiring limit. Together with the ability
+  to drive quite fast outflow speeds (of order the surface escape speed), the derived,
+  near-tiring-limited mass loss offers a potential dynamical basis to explain the
+  observationally inferred large mass loss and flow speeds of giant outbursts in eta
+  Carinae and other luminous blue variable stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...616..525O
+arxivurl: http://arxiv.org/abs/astro-ph/0409573
+author: Owocki, S. P. and Gayley, K. G. and Shaviv, N. J.
+author_list:
+- family: Owocki
+  given: S. P.
+- family: Gayley
+  given: K. G.
+- family: Shaviv
+  given: N. J.
+date-added: 2017-08-10 15:17:38 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/424910
+eprint: astro-ph/0409573
+journal: \apj
+keywords: 'Stars: Early-Type, Stars: Mass Loss, Stars: Winds, Outflows'
+month: November
+pages: 525--541
+papis_id: e9afd2704c960872a86ef13da99db616
+ref: owocki.s.2004
+title: A Porosity-Length Formalism for Photon-Tiring-limited Mass Loss from Stars
+  above the Eddington Limit
+type: article
+volume: '616'
+year: '2004'

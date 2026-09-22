@@ -1,0 +1,58 @@
+abstract: 'Aims: We attempt to derive accurate transition probabilities for astrophysically
+  interesting spectral lines of ion{Nb}{ii} and ion{Nb}{iii} and determine the niobium
+  abundance in the Sun and metal-poor stars rich in neutron-capture elements.  Methods:
+  We used the time-resolved laser-induced fluorescence technique to measure radiative
+  lifetimes in ion{Nb}{ii}. Branching fractions were measured from spectra recorded
+  using Fourier transform spectroscopy. The radiative lifetimes and the branching
+  fractions were combined yielding transition probabilities. In addition, we calculated
+  lifetimes and transition probablities in ion{Nb}{ii} and ion{Nb}{iii} using a relativistic
+  Hartree-Fock method that includes core polarization. Abundances of the sun and five
+  metal-poor stars were derived using synthetic spectra calculated with the MOOG code,
+  including hyperfine broadening of the lines.  Results: We present laboratory measurements
+  of 17 radiative lifetimes in ion{Nb}{ii}. By combining these lifetimes with branching
+  fractions for lines depopulating the levels, we derive the transition probabilities
+  of 107 ion{Nb}{ii} lines from 4d35p configuration in the wavelength region 2240-4700
+  {\AA}. For the first time, we present theoretical transition probabilities of 76
+  Nb III transitions with wavelengths in the range 1430-3140 {\AA}. The derived solar
+  photospheric niobium abundance log \ensuremath{\epsilon}\_\&sun; = 1.44 $\pm$ 0.06
+  is in agreement with the meteoritic value. The stellar Nb/Eu abundance ratio determined
+  for five metal-poor stars confirms that the r-process is a dominant production method
+  for the n-capture elements in these stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...511A..16N
+author: Nilsson, H. and Hartman, H. and Engström, L. and Lundberg, H. and Sneden,
+  C. and Fivet, V. and Palmeri, P. and Quinet, P. and Biémont, É.
+author_list:
+- family: Nilsson
+  given: H.
+- family: Hartman
+  given: H.
+- family: Engström
+  given: L.
+- family: Lundberg
+  given: H.
+- family: Sneden
+  given: C.
+- family: Fivet
+  given: V.
+- family: Palmeri
+  given: P.
+- family: Quinet
+  given: P.
+- family: Biémont
+  given: É.
+date-added: 2017-08-11 07:40:15 +0000
+date-modified: 2017-12-05 16:36:52 +0000
+doi: 10.1051/0004-6361/200913574
+eid: A16
+journal: \aap
+keywords: 'atomic data, atomic processes, Sun: abundances, stars: abundances'
+month: February
+pages: A16
+papis_id: af70d35a5c3d455ab1086faab2a556c9
+ref: nilsson.h.2010
+title: Transition probabilities of astrophysical interest in the niobium ions Nb$^+$
+  and Nb\$^2+\$
+type: article
+volume: '511'
+year: '2010'

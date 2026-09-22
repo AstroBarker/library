@@ -1,0 +1,44 @@
+abstract: We present numerical simulations of an isothermal turbulent gas undergoing
+  gravitational collapse, with the aim of testing for ``logatropic'' behavior of the
+  form Pt ~ log rho, where Pt is the turbulent pressure and rho is the density. To
+  this end, we monitor the evolution of the turbulent velocity dispersion sigma as
+  the density increases during collapse. A logatropic behavior would require sigma
+  ~ rho-1/2, a result that is not, however, verified in the simulations. Instead,
+  the velocity dispersion increases with density, implying a polytropic behavior of
+  Pt. This behavior is found both in purely hydrodynamic and in hydromagnetic runs.
+  For purely hydrodynamic and rapidly collapsing magnetic cases, the velocity dispersion
+  increases roughly as sigma ~ rho1/2, implying Pt ~ rho2, where Pt is the turbulent
+  pressure. For slowly collapsing magnetic cases, the behavior is close to sigma ~
+  rho1/4, implying Pt ~ rho3/2. We thus suggest that the logatropic ``equation of
+  state'' may represent only the statistically most probable state of an ensemble
+  of clouds in equilibrium between self-gravity and kinetic support, but does not
+  adequately represent the behavior of the turbulent pressure within a cloud undergoing
+  a dynamic compression as a result of gravitational collapse. Finally, we discuss
+  the importance of the underlying physical model of the clouds (equilibrium versus
+  dynamic) for the results obtained.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...492..596V
+arxivurl: http://arxiv.org/abs/astro-ph/9708148
+author: Vázquez-Semadeni, E. and Cantó, J. and Lizano, S.
+author_list:
+- family: Vázquez-Semadeni
+  given: E.
+- family: Cantó
+  given: J.
+- family: Lizano
+  given: S.
+date-added: 2017-08-10 23:22:41 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305064
+eprint: astro-ph/9708148
+journal: \apj
+keywords: 'ISM: CLOUDS, MAGNETOHYDRODYNAMICS: MHD, METHODS: NUMERICAL, TURBULENCE,
+  ISM: Clouds, Magnetohydrodynamics: MHD, Methods: Numerical, Turbulence'
+month: January
+pages: 596--602
+papis_id: a8de0db39debc77a03a1ad865b144025
+ref: vazquez_semadeni.e.1998
+title: Does Turbulent Pressure Behave as a Logatrope?
+type: article
+volume: '492'
+year: '1998'

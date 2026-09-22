@@ -1,0 +1,67 @@
+abstract: 'Aims:We present global 3D MHD simulations of disks of gas and solids, aiming
+  at developing models that can be used to study various scenarios of planet formation
+  and planet-disk interaction in turbulent accretion disks. A second goal is to demonstrate
+  that Cartesian codes are comparable to cylindrical and spherical ones in handling
+  the magnetohydrodynamics of the disk simulations while offering advantages, such
+  as the absence of a grid singularity, for certain applications, e.g., circumbinary
+  disks and disk-jet simulations.  Methods: We employ the Pencil Code, a 3D high-order
+  finite-difference MHD code using Cartesian coordinates. We solve the equations of
+  ideal MHD with a local isothermal equation of state. Planets and stars are treated
+  as particles evolved with an N-body scheme. Solid boulders are treated as individual
+  superparticles that couple to the gas through a drag force that is linear in the
+  local relative velocity between gas and particle. Results: We find that Cartesian
+  grids are well-suited for accretion disk problems. The disk-in-a-box models based
+  on Cartesian grids presented here develop and sustain MHD turbulence, in good agreement
+  with published results achieved with cylindrical codes. Models without an inner
+  boundary do not show the spurious build-up of magnetic pressure and Reynolds stress
+  seen in the models with boundaries, but the global stresses and alpha viscosities
+  are similar in the two cases. We investigate the dependence of the magnetorotational
+  instability on disk scale height, finding evidence that the turbulence generated
+  by the magnetorotational instability grows with thermal pressure. The turbulent
+  stresses depend on the thermal pressure obeying a power law of 0.24 $\pm$ 0.03,
+  compatible with the value of 0.25 found in shearing box calculations. The ratio
+  of Maxwell to Reynolds stresses decreases with increasing temperature, dropping
+  from 5 to 1 when the sound speed was raised by a factor 4, maintaing the same field
+  strength. We also study the dynamics of solid boulders in the hydromagnetic turbulence,
+  by making use of 106 Lagrangian particles embedded in the Eulerian grid. The effective
+  diffusion provided by the turbulence prevents settling of the solids in a infinitesimally
+  thin layer, forming instead a layer of solids of finite vertical thickness. The
+  measured scale height of this diffusion-supported layer of solids implies turbulent
+  vertical diffusion coefficients with globally averaged Schmidt numbers of 1.0 \$\pm\$
+  0.2 for a model with alpha\approx{}10-3 and 0.78 \$\pm\$ 0.06 for a model with alpha\approx{}10-1.
+  That is, the vertical turbulent diffusion acting on the solids phase is comparable
+  to the turbulent viscosity acting on the gas phase. The average bulk density of
+  solids in the turbulent flow is quite low (rhop = 6.0\texttimes{}10-11 kg m-3),
+  but in the high pressure regions, significant overdensities are observed, where
+  the solid-to-gas ratio reached values as great as 85, corresponding to 4 orders
+  of magnitude higher than the initial interstellar value of 0.01.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...479..883L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.4090
+author: Lyra, W. and Johansen, A. and Klahr, H. and Piskunov, N.
+author_list:
+- family: Lyra
+  given: W.
+- family: Johansen
+  given: A.
+- family: Klahr
+  given: H.
+- family: Piskunov
+  given: N.
+date-added: 2017-08-10 23:50:34 +0000
+date-modified: 2017-12-05 16:37:05 +0000
+doi: 10.1051/0004-6361:20077948
+eprint: '0705.4090'
+journal: \aap
+keywords: 'magnetohydrodynamics (MHD), accretion, accretion disks, instabilities,
+  turbulence, solar system: formation, diffusion'
+month: March
+pages: 883--901
+papis_id: 0cb81bbdf32f3ded78b33d9c8e381ae4
+ref: lyra.w.2008
+title: Global magnetohydrodynamical models of turbulence in protoplanetary disks.
+  I. A cylindrical potential on a Cartesian grid and transport of solids
+type: article
+volume: '479'
+year: '2008'

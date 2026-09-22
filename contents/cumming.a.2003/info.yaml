@@ -1,0 +1,41 @@
+abstract: I present ignition models for type I X-ray bursts and superbursts from the
+  ultracompact binary 4U 1820-30. A pure helium secondary is usually assumed for this
+  system (which has an orbital period ~11 minutes); however, some evolutionary models
+  predict a small amount of hydrogen in the accreted material (mass fraction X~0.1).
+  I show that the presence of hydrogen significantly affects the type I burst recurrence
+  time if X>~0.03 and the CNO mass fraction >~3\texttimes{}10-3. When regularly bursting,
+  the predicted burst properties agree well with observations. The observed 2-4 hr
+  recurrence times are reproduced for a pure He companion if the time-averaged accretion
+  rate is <M>~(7-10)\texttimes{}10-9Msolaryr-1 or a hydrogen-poor companion if <M>~(4-6)\texttimes{}10-9Msolaryr-1.
+  This result provides a new constraint on evolutionary models. The burst energetics
+  are consistent with complete burning and spreading of the accreted fuel over the
+  whole stellar surface. Models with hydrogen predict ~10\% variations in burst fluence
+  with recurrence time, which could perhaps distinguish the different evolutionary
+  scenarios. I use the accretion rates determined by matching the type I burst recurrence
+  times to predict superburst properties. The expected recurrence times are ~1-2 yr
+  for pure He accretion (much less than that found by Strohmayer \& Brown) and ~5-10
+  yr if hydrogen is present. Determination of the superburst recurrence time would
+  strongly constrain the local accretion rate and thermal structure of the neutron
+  star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...595.1077C
+arxivurl: http://arxiv.org/abs/astro-ph/0306245
+author: Cumming, A.
+author_list:
+- family: Cumming
+  given: A.
+date-added: 2017-08-10 17:01:42 +0000
+date-modified: 2017-12-05 16:37:27 +0000
+doi: 10.1086/377446
+eprint: astro-ph/0306245
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Stars: Individual: Alphanumeric: 4U 1820-30,
+  Stars: Neutron, X-Rays: Bursts'
+month: October
+pages: 1077--1085
+papis_id: 53511e0e15ba7407d9a024b2f9dd0b6a
+ref: cumming.a.2003
+title: Models of Type I X-Ray Bursts from 4U 1820-30
+type: article
+volume: '595'
+year: '2003'

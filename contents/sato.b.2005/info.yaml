@@ -1,0 +1,86 @@
+abstract: Doppler measurements from Subaru and Keck have revealed radial velocity
+  variations in the V=8.15, G0 IV star HD 149026 consistent with a Saturn-mass planet
+  in a 2.8766 day orbit. Photometric observations at Fairborn Observatory have detected
+  three complete transit events with depths of 0.003 mag at the predicted times of
+  conjunction. HD 149026 is now the second-brightest star with a transiting extrasolar
+  planet. The mass of the star, based on interpolation of stellar evolutionary models,
+  is 1.3+/-0.1 Msolar together with the Doppler amplitude K1=43.3 m s-1, we derive
+  a planet mass Msini=0.36MJ and orbital radius 0.042 AU. HD 149026 is chromospherically
+  inactive and metal-rich with spectroscopically derived [Fe/H]=+0.36, Teff=6147 K,
+  logg=4.26, and vsini=6.0 km s-1. Based on Teff and the stellar luminosity of 2.72
+  Lsolar, we derive a stellar radius of 1.45 Rsolar. Modeling of the three photometric
+  transits provides an orbital inclination of 85.3d+/-1.0d and (including the uncertainty
+  in the stellar radius) a planet radius of (0.725+/-0.05)RJ. Models for this planet
+  mass and radius suggest the presence of a ~67 M\oplus{} core composed of elements
+  heavier than hydrogen and helium. This substantial planet core would be difficult
+  to construct by gravitational instability.  Based on data collected at the Subaru
+  Telescope, which is operated by the National Astronomical Observatory of Japan.  Based
+  on observations obtained at the W. M. Keck Observatory, which is operated by the
+  University of California and the California Institute of Technology. Keck time has
+  been granted by NOAO and NASA.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...633..465S
+arxivurl: http://arxiv.org/abs/astro-ph/0507009
+author: Sato, B. and Fischer, D. A. and Henry, G. W. and Laughlin, G. and Butler,
+  R. P. and Marcy, G. W. and Vogt, S. S. and Bodenheimer, P. and Ida, S. and Toyota,
+  E. and Wolf, A. and Valenti, J. A. and Boyd, L. J. and Johnson, J. A. and Wright,
+  J. T. and Ammons, M. and Robinson, S. and Strader, J. and McCarthy, C. and Tah,
+  K. L. and Minniti, D.
+author_list:
+- family: Sato
+  given: B.
+- family: Fischer
+  given: D. A.
+- family: Henry
+  given: G. W.
+- family: Laughlin
+  given: G.
+- family: Butler
+  given: R. P.
+- family: Marcy
+  given: G. W.
+- family: Vogt
+  given: S. S.
+- family: Bodenheimer
+  given: P.
+- family: Ida
+  given: S.
+- family: Toyota
+  given: E.
+- family: Wolf
+  given: A.
+- family: Valenti
+  given: J. A.
+- family: Boyd
+  given: L. J.
+- family: Johnson
+  given: J. A.
+- family: Wright
+  given: J. T.
+- family: Ammons
+  given: M.
+- family: Robinson
+  given: S.
+- family: Strader
+  given: J.
+- family: McCarthy
+  given: C.
+- family: Tah
+  given: K. L.
+- family: Minniti
+  given: D.
+date-added: 2017-08-10 20:51:58 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/449306
+eprint: astro-ph/0507009
+journal: \apj
+keywords: 'Stars: Planetary Systems, stars: individual (HD 149026)'
+month: November
+pages: 465--473
+papis_id: 73d41fa39332488f011ff2fa5542e2ff
+ref: sato.b.2005
+title: The N2K Consortium. II. A Transiting Hot Saturn around HD 149026 with a Large
+  Dense Core
+type: article
+volume: '633'
+year: '2005'

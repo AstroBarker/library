@@ -1,0 +1,44 @@
+abstract: Nonspherical mass motions are a generic feature of core-collapse supernovae,
+  and hydrodynamic instabilities play a crucial role in the explosion mechanism. The
+  first successful neutrino-driven explosions could be obtained with self-consistent,
+  first-principles simulations in three spatial dimensions. But three-dimensional
+  (3D) models tend to be less prone to explosion than the corresponding axisymmetric
+  two-dimensional (2D) ones. The reason is that 3D turbulence leads to energy cascading
+  from large to small spatial scales, the inverse of the 2D case, thus disfavoring
+  the growth of buoyant plumes on the largest scales. Unless the inertia to explode
+  simply reflects a lack of sufficient resolution in relevant regions, some important
+  component of robust and sufficiently energetic neutrino-powered explosions may still
+  be missing. Such a deficit could be associated with progenitor properties such as
+  rotation, magnetic fields, or precollapse perturbations, or with microphysics that
+  could cause enhancement of neutrino heating behind the shock. 3D simulations have
+  also revealed new phenomena that are not present in 2D ones, such as spiral modes
+  of the standing accretion shock instability (SASI) and a stunning dipolar lepton-number
+  emission self-sustained asymmetry (LESA). Both impose time- and direction-dependent
+  variations on the detectable neutrino signal. The understanding of these effects
+  and of their consequences is still in its infancy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016ARNPS..66..341J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1602.05576
+author: Janka, H.-T. and Melson, T. and Summa, A.
+author_list:
+- family: Janka
+  given: H.-T.
+- family: Melson
+  given: T.
+- family: Summa
+  given: A.
+date-added: 2017-08-10 14:00:35 +0000
+date-modified: 2017-12-05 16:36:25 +0000
+doi: 10.1146/annurev-nucl-102115-044747
+eprint: '1602.05576'
+journal: Annual Review of Nuclear and Particle Science
+month: October
+pages: 341--375
+papis_id: 4a7a33016d36a5b38669075097403c39
+primaryclass: astro-ph.SR
+ref: janka.h_t.2016
+title: 'Physics of Core-Collapse Supernovae in Three Dimensions: A Sneak Preview'
+type: article
+volume: '66'
+year: '2016'

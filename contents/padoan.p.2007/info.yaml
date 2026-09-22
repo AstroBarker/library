@@ -1,0 +1,48 @@
+abstract: The Padoan and Nordlund model of the stellar initial mass function (IMF)
+  is derived from low-order statistics of supersonic turbulence, neglecting gravity
+  (e.g., gravitational fragmentation, accretion, and merging). In this work, the predictions
+  of that model are tested using the largest numerical experiments of supersonic hydrodynamic
+  (HD) and magnetohydrodynamic (MHD) turbulence to date (~10003 computational zones)
+  and three different codes (Enzo, Zeus, and the Stagger code). The model predicts
+  a power-law distribution for large masses, related to the turbulence-energy power-spectrum
+  slope and the shock-jump conditions. This power-law mass distribution is confirmed
+  by the numerical experiments. The model also predicts a sharp difference between
+  the HD and MHD regimes, which is recovered in the experiments as well, implying
+  that the magnetic field, even below energy equipartition on the large scale, is
+  a crucial component of the process of turbulent fragmentation. These results suggest
+  that the stellar IMF of primordial stars may differ from that in later epochs of
+  star formation, due to differences in both gas temperature and magnetic field strength.
+  In particular, we find that the IMF of primordial stars born in turbulent clouds
+  may be narrowly peaked around a mass of order 10 Msolar, as long as the column density
+  of such clouds is not much in excess of 1022 cm-2.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...661..972P
+arxivurl: http://arxiv.org/abs/astro-ph/0701795
+author: Padoan, P. and Nordlund, Å. and Kritsuk, A. G. and Norman, M. L. and Li, P.
+  S.
+author_list:
+- family: Padoan
+  given: P.
+- family: Nordlund
+  given: Å.
+- family: Kritsuk
+  given: A. G.
+- family: Norman
+  given: M. L.
+- family: Li
+  given: P. S.
+date-added: 2017-08-10 15:42:11 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/516623
+eprint: astro-ph/0701795
+journal: \apj
+keywords: 'ISM: Kinematics and Dynamics, Stars: Formation, Turbulence'
+month: June
+pages: 972--981
+papis_id: c1f93cffcee70113352be110113d297a
+ref: padoan.p.2007
+title: Two Regimes of Turbulent Fragmentation and the Stellar Initial Mass Function
+  from Primordial to Present-Day Star Formation
+type: article
+volume: '661'
+year: '2007'

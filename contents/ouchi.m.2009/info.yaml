@@ -1,0 +1,75 @@
+abstract: We present results of our large area survey for z'-band dropout galaxies
+  at z = 7 in a 1568 arcmin2 sky area covering the SDF and GOODS-N fields. Combining
+  our ultra-deep Subaru/Suprime-Cam z'- and y-band (lambdaeff = 1 mum) images with
+  legacy data of Subaru and Hubble Space Telescope, we have identified 22 bright z-dropout
+  galaxies down to y = 26, one of which has a spectroscopic redshift of z = 6.96 determined
+  from Lyalpha emission. The z = 7 luminosity function yields the best-fit Schechter
+  parameters of phi\textasteriskcentered = 0.69+2.62 -0.55 \texttimes{} 10-3 Mpc-3,
+  M\textasteriskcenteredUV = -20.10 $\pm$ 0.76 mag, and alpha = -1.72 \$\pm\$ 0.65,
+  and indicates a decrease from z = 6 at a >95\% confidence level. This decrease is
+  beyond the cosmic variance in our two fields, which is estimated to be a factor
+  of lsim2. We have found that the cosmic star formation rate density drops from the
+  peak at z = 2-3 to z = 7 roughly by a factor of ~10 but not larger than ~100. A
+  comparison with the reionization models suggests either that the universe could
+  not be totally ionized by only galaxies at z = 7, or more likely that properties
+  of galaxies at z = 7 are different from those at low redshifts having, e.g., a larger
+  escape fraction (gsim0.2), a lower metallicity, and/or a flatter initial mass function.
+  Our SDF z-dropout galaxies appear to form 60 Mpc long filamentary structures, and
+  the z = 6.96 galaxy with Lyalpha emission is located at the center of an overdense
+  region consisting of four UV bright dropout candidates, which might suggest an existence
+  of a well-developed ionized bubble at z = 7.  Based on data obtained with the Subaru
+  Telescope, the NASA/ESA Hubble Space Telescope (HST), and Spitzer Space Telescope.
+  The Subaru Telescope is operated by the National Astronomical Observatory of Japan.
+  HST is operated by the Association of Universities for Research in Astronomy (AURA),
+  Inc., under NASA contract NAS5-26555. The Spitzer Space Telescope is operated by
+  the Jet Propulsion Laboratory, California Institute of Technology under a contract
+  with NASA.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...706.1136O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.3191
+author: Ouchi, M. and Mobasher, B. and Shimasaku, K. and Ferguson, H. C. and Fall,
+  S. M. and Ono, Y. and Kashikawa, N. and Morokuma, T. and Nakajima, K. and Okamura,
+  S. and Dickinson, M. and Giavalisco, M. and Ohta, K.
+author_list:
+- family: Ouchi
+  given: M.
+- family: Mobasher
+  given: B.
+- family: Shimasaku
+  given: K.
+- family: Ferguson
+  given: H. C.
+- family: Fall
+  given: S. M.
+- family: Ono
+  given: Y.
+- family: Kashikawa
+  given: N.
+- family: Morokuma
+  given: T.
+- family: Nakajima
+  given: K.
+- family: Okamura
+  given: S.
+- family: Dickinson
+  given: M.
+- family: Giavalisco
+  given: M.
+- family: Ohta
+  given: K.
+date-added: 2017-08-10 20:21:27 +0000
+date-modified: 2017-12-05 16:36:53 +0000
+doi: 10.1088/0004-637X/706/2/1136
+eprint: '0908.3191'
+journal: \apj
+keywords: 'cosmology: observations, galaxies: formation, galaxies: high-redshift'
+month: December
+pages: 1136--1151
+papis_id: eecc606b0cc26f60efb5e99d1af197c2
+ref: ouchi.m.2009
+title: 'Large Area Survey for z = 7 Galaxies in SDF and GOODS-N: Implications for
+  Galaxy Formation and Cosmic Reionization'
+type: article
+volume: '706'
+year: '2009'

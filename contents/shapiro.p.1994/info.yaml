@@ -1,0 +1,66 @@
+abstract: 'We study the coupled evolution of the intergalactic medium (IGM) and the
+  emerging structure in the universe in the context of the cold dark matter (CDM)
+  model, with a special focus on the consequences of imposing reionization and the
+  Gunn-Peterson constraint as a boundary condition on the model. We have calculated
+  the time-varying density of the IGM by coupling our detailed, numerical calculations
+  of the thermal and ionization balance and radiative transfer in a uniform, spatially
+  averaged IGM of H and He, including the mean opacity of an evolving distribution
+  of gas clumps which correspond to quasar absorption line clouds, to the linearized
+  equations for the growth of density fluctuations in both the gaseous and dark matter
+  components in a CDM universe. We use the linear growth equations to identify the
+  fraction of the gas which must have collapsed out at each epoch, an approach similar
+  in spirit to the so-called Press-Schechter formalism. We identify the IGM density
+  with the uncollapsed baryon fraction. The collapsed fraction is postulated to be
+  a source of energy injection into the IGM, by radiation or bulk hydrodynamical heating
+  (e.g., via shocks) or both, at a rate which is marginally enough to satisfy the
+  Gunn-Peterson constraint at z less than 5. Our results include the following: (1)
+  We find that the IGM in a CDM model must have contained a substantial fraction of
+  the total baryon density of the universe both during and after its reionization
+  epoch. (2) As a result, our previous conclusion that the observed Quasi-Stellar
+  Objects (QSOs) at high redshift are not sufficient to ionize the IGM enough to satisfy
+  the Gunn-Peterson constraint is confirmed. (3) We predict a detectable He II Gunn-Peterson
+  effect at 304(1 + z) A in the spectra of quasars at a range of redshift z greater
+  than or approx. 3, depending on the nature of the sources of IGM reionization. (4)
+  We find, moreover, that a CDM model with high bias parameter b (i.e., b greater
+  than or approx. 2) cannot account for the baryon content of the universe at z approximately
+  3 observed in quasar absorption line gas unless Omega B significantly exceeds the
+  maximum value allowed by big bang nucleocynthesis. (5) For a CDM model with bias
+  parameter within the allowed range of (lower) values, the lower limit to OmegaB
+  imposed by big bang nucleosynthesis (OmegaB h2 greater than or equal to 0.01) combines
+  with our results to yield the minimum IGM density for the CDM fodel. For CDM with
+  b = 1 (Cosmic Background Explorer (COBE) normalization), we find OmegaIGMmin (z
+  approximately 4) approx. equal 0.02-0.03, and OmegaIGMmin(z approximately 0) approx.
+  equal 0.005-0.03, depending upon the nature of the sources of IGM reionization.
+  (6) In general, we find that self-consistent reionization of the IGM by the collapsed
+  baryon fraction has a strong effect on the rate of collapse. (7) As a further example,
+  we show that the feedback effect on the IGM of energy release by the collapsed baryon
+  fraction may explain the slow evolution of the observed comoving QSO number density
+  between z = 5 and z = 2, followed by the sharp decline after z = 2.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...427...25S
+author: Shapiro, P. R. and Giroux, M. L. and Babul, A.
+author_list:
+- family: Shapiro
+  given: P. R.
+- family: Giroux
+  given: M. L.
+- family: Babul
+  given: A.
+date-added: 2017-08-11 06:50:23 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174120
+journal: \apj
+keywords: Applications Of Mathematics, Big Bang Cosmology, Dark Matter, Galaxies,
+  Intergalactic Media, Mathematical Models, Nuclear Fusion, Perturbation, Quasars,
+  Red Shift, Star Formation, Stellar Models, Absorption Spectra, Chemical Evolution,
+  Emissivity, Ionizing Radiation, Line Of Sight, Metallicity, Optical Properties,
+  Radiative Heat Transfer, Thermodynamics
+month: May
+pages: 25--50
+papis_id: 8e2fc90ca049de61aec66805c67849de
+ref: shapiro.p.1994
+title: 'Reionization in a cold dark matter universe: The feedback of galaxy formation
+  on the intergalactic medium'
+type: article
+volume: '427'
+year: '1994'

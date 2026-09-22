@@ -1,0 +1,47 @@
+abstract: We consider height-integrated equations of an advection-dominated accretion
+  flow (ADAF), assuming that there is no mass outflow. We include convection through
+  a mixing-length formalism. We seek self-similar solutions in which the rotational
+  velocity and sound speed scale as R-1/2, where R is the radius, and consider two
+  limiting prescriptions for the transport of angular momentum by convection. In one
+  limit, the transport occurs down the angular velocity gradient, so convection moves
+  angular momentum outward. In the other, the transport is down the specific angular
+  momentum gradient, so convection moves angular momentum inward. We also consider
+  general prescriptions that lie in between the two limits. When convection moves
+  angular momentum outward, we recover the usual self-similar solution for ADAFs in
+  which the mass density scales as rho~R-3/2. When convection moves angular momentum
+  inward, the result depends on the viscosity coefficient alpha. If alpha>alphacrit1~0.05,
+  we once again find the standard ADAF solution. For alpha<alphacrit2~alphacrit1,
+  however, we find a nonaccreting solution in which rho~R-1/2. We refer to this as
+  a ``convective envelope'' solution or a ``convection-dominated accretion flow.''
+  Two-dimensional numerical simulations of ADAFs with values of alpha<~0.03 have been
+  reported by several authors. The simulated ADAFs exhibit convection. By virtue of
+  their axisymmetry, convection in these simulations moves angular momentum inward,
+  as we confirm by computing the Reynolds stress. The simulations give rho~R-1/2,
+  in good agreement with the convective envelope solution. The R-1/2 density profile
+  is not a consequence of mass outflow. The relevance of these axisymmetric low-alpha
+  simulations to real accretion flows is uncertain.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...539..798N
+arxivurl: http://arxiv.org/abs/astro-ph/9912449
+author: Narayan, R. and Igumenshchev, I. V. and Abramowicz, M. A.
+author_list:
+- family: Narayan
+  given: R.
+- family: Igumenshchev
+  given: I. V.
+- family: Abramowicz
+  given: M. A.
+date-added: 2017-08-11 04:46:44 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309268
+eprint: astro-ph/9912449
+journal: \apj
+keywords: Accretion, Accretion Disks, Convection, Hydrodynamics, Turbulence
+month: August
+pages: 798--808
+papis_id: 9a31d334e074e7fa81935bc028de1dd7
+ref: narayan.r.2000
+title: Self-similar Accretion Flows with Convection
+type: article
+volume: '539'
+year: '2000'

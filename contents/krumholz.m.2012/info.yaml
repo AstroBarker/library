@@ -1,0 +1,52 @@
+abstract: The pressure exerted by the radiation of young stars may be an important
+  feedback mechanism that drives turbulence and winds in forming star clusters and
+  the disks of starburst galaxies. However, there is great uncertainty in how efficiently
+  radiation couples to matter in these high optical depth environments. In particular,
+  it is unclear what levels of turbulence the radiation can produce, and whether the
+  infrared radiation trapped by the dust opacity can give rise to heavily mass-loaded
+  winds. In this paper, we report a series of two-dimensional flux-limited diffusion
+  radiation-hydrodynamics calculations performed with the code ORION in which we drive
+  strong radiation fluxes through columns of dusty matter confined by gravity in order
+  to answer these questions. We consider both systems where the radiation flux is
+  sub-Eddington throughout the gas column, and those where it is super-Eddington at
+  the midplane but sub-Eddington in the atmosphere. In the latter, we find that the
+  radiation-matter interaction gives rise to radiation-driven Rayleigh-Taylor instability,
+  which drives supersonic turbulence at a level sufficient to fully explain the turbulence
+  seen in Galactic protocluster gas clouds, and to make a non-trivial contribution
+  to the turbulence observed in starburst galaxy disks. However, the instability also
+  produces a channel structure in which the radiation-matter interaction is reduced
+  compared to time-steady analytic models because the radiation field is not fully
+  trapped. For astrophysical parameters relevant to forming star clusters and starburst
+  galaxies, we find that this effect reduces the net momentum deposition rate in the
+  dusty gas by a factor of ~2-6 compared to simple analytic estimates, and that in
+  steady state the Eddington ratio reaches unity and there are no strong winds. We
+  provide an approximation formula, appropriate for implementation in analytic models
+  and non-radiative simulations, for the force exerted by the infrared radiation field
+  in this regime.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...760..155K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.2926
+author: Krumholz, M. R. and Thompson, T. A.
+author_list:
+- family: Krumholz
+  given: M. R.
+- family: Thompson
+  given: T. A.
+date-added: 2017-08-10 20:07:02 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/760/2/155
+eid: '155'
+eprint: '1203.2926'
+journal: \apj
+keywords: 'galaxies: ISM, galaxies: star clusters: general, hydrodynamics, ISM: jets
+  and outflows, radiative transfer'
+month: December
+pages: '155'
+papis_id: 4330f51903588c076481e0fe245d3734
+ref: krumholz.m.2012
+title: Direct Numerical Simulation of Radiation Pressure-driven Turbulence and Winds
+  in Star Clusters and Galactic Disks
+type: article
+volume: '760'
+year: '2012'

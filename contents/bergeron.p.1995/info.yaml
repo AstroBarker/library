@@ -1,0 +1,58 @@
+abstract: New high signal-to-noise optical spectrophotometry is presented for 22 ZZ
+  Ceti stars. The atmospheric parameters (Teff log g) and the mass are derived for
+  each object using new model atmospheres and synthetic spectra calculated within
+  the mixing-length theory, as well as recent published mass-radius relationships.
+  Various parameterizations of the convective efficiency are explored. The mass distribution
+  obtained from the optical solutions indicate that the so-called ML2 parameterization
+  of the mixing-length theory yields a mean mass of 0.58 Msun, in excellent agreement
+  with that of hotter DA stars (0.59 Msun) whose atmospheres are completely radiative.
+  ML1 and ML3 models, on the other hand, yield mean masses which are, respectively,
+  too high (0.70 Msun) and too low (0.51 Msun). With ML2 models, ZZ Ceti stars are
+  found within a narrow instability strip located in the range 13,650 >= Teff >= 11,960
+  K.  A similar analysis of IUE and HST spectroscopic observations is presented as
+  well. It is first shown that a unique solution for Teff and log g cannot be achieved
+  on the basis of ultraviolet spectroscopy alone, and that one of these parameters
+  needs to be constrained independently. When log g values from the optical analysis
+  are adopted, the analysis of the ultraviolet data requires a parameterization less
+  efficient than ML2. Models calculated with ML2/alpha = 0.6 are shown to provide
+  an excellent internal consistency between ultraviolet and optical temperatures.
+  The corresponding instability strip becomes cooler and narrower (12,460 >= Teff
+  >= 11,160 K) than that inferred from ML2 models. Furthermore, the atmospheric parameters
+  obtained with these models are consistent with the observed photometry, the trigonometric
+  parallax measurements, and the gravitational redshift masses. However, the mean
+  mass of the sample increases to a value \texttildelow{}0.06 Msun larger than that
+  of hotter DA stars. An explanation for this discrepancy is offered in the light
+  of recent nonadiabatic calculations. The overall consistency of our analysis for
+  DA stars outside the ZZ Ceti instability strip is discussed as well.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...449..258B
+author: Bergeron, P. and Wesemael, F. and Lamontagne, R. and Fontaine, G. and Saffer,
+  R. A. and Allard, N. F.
+author_list:
+- family: Bergeron
+  given: P.
+- family: Wesemael
+  given: F.
+- family: Lamontagne
+  given: R.
+- family: Fontaine
+  given: G.
+- family: Saffer
+  given: R. A.
+- family: Allard
+  given: N. F.
+date-added: 2017-08-10 20:43:21 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176053
+journal: \apj
+keywords: 'CONVECTION, STARS: ATMOSPHERES, STARS: OSCILLATIONS, STARS: WHITE DWARFS,
+  ULTRAVIOLET: STARS'
+month: August
+pages: '258'
+papis_id: a08de6b30c0cd2d37320ea26c32a81b5
+ref: bergeron.p.1995
+title: Optical and Ultraviolet Analyses of ZZ Ceti Stars and Study of the Atmospheric
+  Convective Efficiency in DA White Dwarfs
+type: article
+volume: '449'
+year: '1995'

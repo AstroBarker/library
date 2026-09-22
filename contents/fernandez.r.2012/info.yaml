@@ -1,0 +1,41 @@
+abstract: We study the transition to runaway expansion of an initially stalled core-collapse
+  supernova shock. The neutrino luminosity, mass accretion rate, and neutrinospheric
+  radius are all treated as free parameters. In spherical symmetry, this transition
+  is mediated by a global non-adiabatic instability that develops on the advection
+  time and reaches nonlinear amplitude. Here, we perform high-resolution, time-dependent
+  hydrodynamic simulations of stalled supernova shocks with realistic microphysics
+  to analyze this transition. We find that radial instability is a sufficient condition
+  for runaway expansion if the neutrinospheric parameters do not vary with time and
+  if heating by the accretion luminosity is neglected. For a given unstable mode,
+  transition to runaway occurs when fluid in the gain region reaches positive specific
+  energy. We find approximate instability criteria that accurately describe the behavior
+  of the system over a wide region of parameter space. The threshold neutrino luminosities
+  are in general different than the limiting value for a steady-state solution. We
+  hypothesize that multidimensional explosions arise from the excitation of unstable
+  large-scale modes of the turbulent background flow, at threshold luminosities that
+  are lower than in the laminar case.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...749..142F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1111.0665
+author: Fernández, R.
+author_list:
+- family: Fernández
+  given: R.
+date-added: 2017-08-10 18:56:59 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/0004-637X/749/2/142
+eid: '142'
+eprint: '1111.0665'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, shock waves, supernovae: general'
+month: April
+pages: '142'
+papis_id: d022fe19261358796254e384268bbef8
+primaryclass: astro-ph.HE
+ref: fernandez.r.2012
+title: Hydrodynamics of Core-collapse Supernovae at the Transition to Explosion. I.
+  Spherical Symmetry
+type: article
+volume: '749'
+year: '2012'

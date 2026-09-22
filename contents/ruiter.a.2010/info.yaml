@@ -1,0 +1,54 @@
+abstract: Double white dwarfs (WDs) are expected to be a source of confusion-limited
+  noise for the future gravitational wave observatory LISA. In a specific frequency
+  range, this "foreground noise" is predicted to rise above the instrumental noise
+  and hinder the detection of other types of signals, e.g., gravitational waves arising
+  from stellar-mass objects inspiraling into massive black holes. In many previous
+  studies, only detached populations of compact object binaries have been considered
+  in estimating the LISA gravitational wave foreground signal. Here, we investigate
+  the influence of compact object detached and Roche-Lobe overflow (RLOF) Galactic
+  binaries on the shape and strength of the LISA signal. Since >99\% of remnant binaries
+  that have orbital periods within the LISA sensitivity range are WD binaries, we
+  consider only these binaries when calculating the LISA signal. We find that the
+  contribution of RLOF binaries to the foreground noise is negligible at low frequencies,
+  but becomes significant at higher frequencies, pushing the frequency at which the
+  foreground noise drops below the instrumental noise to >6 mHz. We find that it is
+  important to consider the population of mass-transferring binaries in order to obtain
+  an accurate assessment of the foreground noise on the LISA data stream. However,
+  we estimate that there still exists a sizeable number (~11,300) of Galactic double
+  WD binaries that will have a signal-to-noise ratio >5, and thus will be potentially
+  resolvable with LISA. We present the LISA gravitational wave signal from the Galactic
+  population of WD binaries, show the most important formation channels contributing
+  to the LISA disk and bulge populations, and discuss the implications of these new
+  findings.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...717.1006R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.3272
+author: Ruiter, A. J. and Belczynski, K. and Benacquista, M. and Larson, S. L. and
+  Williams, G.
+author_list:
+- family: Ruiter
+  given: A. J.
+- family: Belczynski
+  given: K.
+- family: Benacquista
+  given: M.
+- family: Larson
+  given: S. L.
+- family: Williams
+  given: G.
+date-added: 2017-08-11 03:44:04 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/0004-637X/717/2/1006
+eprint: '0705.3272'
+journal: \apj
+keywords: 'binaries: close, gravitation, gravitational waves, stars: evolution, white
+  dwarfs'
+month: July
+pages: 1006--1021
+papis_id: bc6c655144b236d7148cc9ee8c064a0f
+ref: ruiter.a.2010
+title: 'The LISA Gravitational Wave Foreground: A Study of Double White Dwarfs'
+type: article
+volume: '717'
+year: '2010'

@@ -1,0 +1,40 @@
+abstract: 'Aims:Emergent model spectra of neutron-star atmospheres are widely used
+  to fit the observed soft X-ray spectra of different types of isolated neutron stars.
+  We investigate the effect of Compton scattering on the emergent spectra of hot (T\_eff
+  >= 106 K) isolated neutron stars with weak magnetic fields.  Methods: In order to
+  compute model atmospheres in hydrostatic and radiative equilibrium we solve the
+  radiation transfer equation with the Kompaneets operator. We calculate a set of
+  models with effective temperatures in the range 1-5\texttimes{}106 K, with two values
+  of surface gravity (log~g = 13.9 and 14.3) and different chemical compositions.  Results:
+  Radiation spectra computed with Compton scattering are softer than those computed
+  without Compton scattering at high energies (E> 5 keV) for light-element (H or He)
+  model atmospheres. The Compton effect is more significant in H model atmospheres
+  and models with low surface gravity. The emergent spectra of the hottest (T\_eff
+  >3\texttimes{}106 K) model atmospheres can be described by diluted blackbody spectra
+  with hardness factors ~1.6-1.9. Compton scattering is less important in models with
+  solar abundance of heavy elements.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...466..661S
+arxivurl: http://arxiv.org/abs/astro-ph/0702407
+author: Suleimanov, V. and Werner, K.
+author_list:
+- family: Suleimanov
+  given: V.
+- family: Werner
+  given: K.
+date-added: 2017-08-11 02:48:22 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20066174
+eprint: astro-ph/0702407
+journal: \aap
+keywords: 'radiative transfer, scattering, methods: numerical, stars: neutron, stars:
+  atmospheres, X-rays: stars'
+month: May
+pages: 661--666
+papis_id: 85e6d0fcf51dfc7b20081c3b790c1780
+ref: suleimanov.v.2007
+title: Importance of Compton scattering for radiation spectra of isolated neutron
+  stars with weak magnetic fields
+type: article
+volume: '466'
+year: '2007'

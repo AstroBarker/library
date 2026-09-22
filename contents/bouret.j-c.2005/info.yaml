@@ -1,0 +1,58 @@
+abstract: We have analyzed the far-ultraviolet spectrum of two Galactic O4 stars,
+  the O4If+ supergiant HD 190429A and the O4V((f)) dwarf HD 96715, using archival
+  FUSE and IUE data. We have conducted a quantitative analysis using the two NLTE
+  model atmosphere and wind codes, tlusty and cmfgen, which incorporate a detailed
+  treatment of NLTE metal line blanketing. From the far-UV spectrum, we have derived
+  the stellar and wind parameters and the surface composition of the two stars. The
+  surface of HD 190429A has a composition typical of an evolved O supergiant (nitrogen-rich,
+  carbon and oxygen-poor), while HD 96715 exhibits surface nitrogen enhancement similar
+  to the enrichment found in SMC O dwarfs which has been attributed to rotationally-induced
+  mixing. Following studies of Magellanic Cloud O stars, we find that homogeneous
+  wind models could not match the observed profile of O vlambda1371 and require very
+  low phosphorus abundance to fit the P vlambdalambda1118-1128 resonance lines. We
+  show, on the other hand, that we are able to match the O v and P v lines using clumped
+  wind models. In addition to these lines, we find that N ivlambda1718 is also sensitive
+  to wind clumping. For both stars, we have calculated clumped wind models that match
+  well all these lines from different species and that remain consistent with Halpha
+  data. In particular, we have achieved an excellent match of the P v resonance doublet,
+  indicating that our physical description of clumping is adequate. These fits therefore
+  provide a coherent and thus much stronger evidence of wind clumping in O stars than
+  earlier claims. We show that the success of the clumped wind models in matching
+  these lines results from increased recombination in the clumps, hence from a better
+  description of the wind ionization structure. We find that the wind of these two
+  stars is highly clumped, as expressed by very small volume filling factors, namely
+  f\_\infty{} = 0.04 for HD 190429A and f\_\infty{} = 0.02 for HD 96715. In agreement
+  with our analysis of SMC stars, clumping starts deep in the wind, just above the
+  sonic point. The most crucial consequence of our analysis is that the mass loss
+  rates of O stars need to be revised downward significantly, by a factor of 3 and
+  more. These lower mass loss rates will affect substantially the evolution of massive
+  stars. Accounting for wind clumping is essential when determining the wind properties
+  of O stars. Our study therefore calls for a fundamental revision in our understanding
+  of mass loss and of O-type star stellar winds.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...438..301B
+arxivurl: http://arxiv.org/abs/astro-ph/0412346
+author: Bouret, J.-C. and Lanz, T. and Hillier, D. J.
+author_list:
+- family: Bouret
+  given: J.-C.
+- family: Lanz
+  given: T.
+- family: Hillier
+  given: D. J.
+date-added: 2017-08-11 03:11:20 +0000
+date-modified: 2017-12-05 16:37:20 +0000
+doi: 10.1051/0004-6361:20042531
+eprint: astro-ph/0412346
+journal: \aap
+keywords: 'stars: winds, outflows, stars: atmospheres, stars: early-type, stars: fundamental,
+  parameters, stars: individual: HD 190429A, HD 96715'
+month: July
+pages: 301--316
+papis_id: a0b8e2462d0faa49eed0d47a51466e7a
+ref: bouret.j_c.2005
+title: 'Lower mass loss rates in O-type stars: Spectral signatures of dense clumps
+  in the wind of two Galactic O4 stars'
+type: article
+volume: '438'
+year: '2005'

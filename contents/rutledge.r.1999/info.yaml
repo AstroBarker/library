@@ -1,0 +1,49 @@
+abstract: We reanalyze the available X-ray spectral data of the type I bursting neutron
+  star transients Aql X-1, Cen X-4, and 4U 1608-522 using realistic hydrogen atmosphere
+  models. Previous spectral fits assumed a blackbody spectrum; because the free-free-dominated
+  photospheric opacity decreases with increasing frequency, blackbody spectral fits
+  overestimate the effective temperature and underestimate, by as much as 2 orders
+  of magnitude, the emitting area. Hydrogen atmosphere spectral models, when fit to
+  the available observational data, imply systematically larger emission area radii,
+  consistent with the canonical 10 km radius of a neutron star. This suggests that
+  a substantial fraction of the quiescent luminosity is thermal emission from the
+  surface of the neutron star. The magnitude of the equivalent hydrogen column density
+  toward these systems, however, presents a considerable systematic uncertainty, which
+  can be eliminated only by high signal-to-noise X-ray spectral measurements (e.g.,
+  with AXAF or XMM) that would permit simultaneous determination of the equivalent
+  hydrogen column density, emission area, and thermal temperature.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...514..945R
+arxivurl: http://arxiv.org/abs/astro-ph/9810288
+author: Rutledge, R. E. and Bildsten, L. and Brown, E. F. and Pavlov, G. G. and Zavlin,
+  V. E.
+author_list:
+- family: Rutledge
+  given: R. E.
+- family: Bildsten
+  given: L.
+- family: Brown
+  given: E. F.
+- family: Pavlov
+  given: G. G.
+- family: Zavlin
+  given: V. E.
+date-added: 2017-08-10 22:57:26 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306990
+eprint: astro-ph/9810288
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, STARS: INDIVIDUAL: CONSTELLATION NAME: AQUILA
+  X-1, STARS: INDIVIDUAL: ALPHANUMERIC: 4U 1608-522, STARS: INDIVIDUAL: CONSTELLATION
+  NAME: CENTAURUS X-4, STARS: NEUTRON, Accretion, Accretion Disks, Stars: Individual:
+  Constellation Name: Aquila X-1, Stars: Individual: Alphanumeric: 4U 1608-522, Stars:
+  Individual: Constellation Name: Centaurus X-4, Stars: Neutron'
+month: April
+pages: 945--951
+papis_id: c5bd465f0e1dd3bfebadd1327b8ed24f
+ref: rutledge.r.1999
+title: The Thermal X-Ray Spectra of Centaurus X-4, Aquila X-1 , and 4U 1608-522 in
+  Quiescence
+type: article
+volume: '514'
+year: '1999'

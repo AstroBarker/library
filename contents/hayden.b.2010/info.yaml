@@ -1,0 +1,62 @@
+abstract: From the set of nearly 500 spectroscopically confirmed Type Ia supernovae
+  (SNe) and around 10,000 unconfirmed candidates from SDSS-II, we select a subset
+  of 108 confirmed SNe Ia with well-observed early-time light curves to search for
+  signatures from shock interaction of the SN with a companion star. No evidence for
+  shock emission is seen; however, the cadence and photometric noise could hide a
+  weak shock signal. We simulate shocked light curves using SN Ia templates and a
+  simple Gaussian shock model to emulate the noise properties of the SDSS-II sample
+  and estimate the detectability of the shock interaction signal as a function of
+  shock amplitude, shock width, and shock fraction. We find no direct evidence for
+  shock interaction in the rest-frame B-band, but place an upper limit on the shock
+  amplitude at 9\% of SN peak flux (MB > - 16.6 mag). If the single degenerate channel
+  dominates type Ia progenitors, this result constrains the companion stars to be
+  less than about 6 M sun on the main sequence and strongly disfavors red giant companions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...722.1691H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1008.4797
+author: Hayden, B. T. and Garnavich, P. M. and Kasen, D. and Dilday, B. and Frieman,
+  J. A. and Jha, S. W. and Lampeitl, H. and Nichol, R. C. and Sako, M. and Schneider,
+  D. P. and Smith, M. and Sollerman, J. and Wheeler, J. C.
+author_list:
+- family: Hayden
+  given: B. T.
+- family: Garnavich
+  given: P. M.
+- family: Kasen
+  given: D.
+- family: Dilday
+  given: B.
+- family: Frieman
+  given: J. A.
+- family: Jha
+  given: S. W.
+- family: Lampeitl
+  given: H.
+- family: Nichol
+  given: R. C.
+- family: Sako
+  given: M.
+- family: Schneider
+  given: D. P.
+- family: Smith
+  given: M.
+- family: Sollerman
+  given: J.
+- family: Wheeler
+  given: J. C.
+date-added: 2017-08-10 19:50:48 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1088/0004-637X/722/2/1691
+eprint: '1008.4797'
+journal: \apj
+keywords: 'supernovae: general'
+month: October
+pages: 1691--1698
+papis_id: b3252697ba4a5b711d2faf16ae41136b
+ref: hayden.b.2010
+title: Single or Double Degenerate Progenitors? Searching for Shock Emission in the
+  SDSS-II Type Ia Supernovae
+type: article
+volume: '722'
+year: '2010'

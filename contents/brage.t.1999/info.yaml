@@ -1,0 +1,41 @@
+abstract: We present a theoretical model ion for Hg II, including oscillator strengths
+  and hyperfine structure constants for a large number of transitions and levels.
+  Different computational models have been used, depending on the observability of
+  the lines and their importance in spectral synthesis of stellar atmospheres. For
+  the resonance lines, we use highly systematic, accurate, and fully relativistic
+  multiconfiguration Dirac-Fock methods. These methods are well suited to an accurate
+  treatment of both the relativistic problem and the strong correlation effects in
+  this ion. The predicted gf-values are probably accurate to within a few percent.
+  A larger number of transitions are treated with a more flexible, but less accurate,
+  version of the method. This is based on the idea of crosswise optimization to represent
+  a number of states in the same calculation. The results are used in stellar atmosphere
+  models, assuming local thermodynamic equilibrium (LTE), where a line-by-line investigation
+  is important. A larger set of levels are treated with semiempirical methods, for
+  use in large scale non-LTE calculations. The lower accuracy of these are well-suited
+  to a more statistical treatment of the structure of the ion. We discuss the importance
+  of a correct treatment of core-valence correlation and relativistic effects for
+  predicting accurate oscillator strengths. These tend to reduce their values by as
+  much as a factor of 2 for the resonance line.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...513..524B
+author: Brage, T. and Proffitt, C. and Leckrone, D. S.
+author_list:
+- family: Brage
+  given: T.
+- family: Proffitt
+  given: C.
+- family: Leckrone
+  given: D. S.
+date-added: 2017-08-10 23:08:07 +0000
+date-modified: 2017-12-05 16:37:41 +0000
+doi: 10.1086/306826
+journal: \apj
+keywords: ATOMIC DATA, RELATIVITY, Atomic Data, Relativity
+month: March
+pages: 524--534
+papis_id: f8f7ea6590f4536f1160676fc4d72d0e
+ref: brage.t.1999
+title: Theoretical Oscillator Strengths and Hyperfine Structure in HG II
+type: article
+volume: '513'
+year: '1999'

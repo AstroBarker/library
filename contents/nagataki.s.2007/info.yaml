@@ -1,0 +1,48 @@
+abstract: Two-dimensional MHD simulations are performed using the ZEUS-2D code to
+  investigate the dynamics of a collapsar that generates a GRB jet, taking account
+  of realistic equation of state, neutrino cooling and heating processes, magnetic
+  fields, and gravitational force from the central black hole and self-gravity. It
+  is found that neutrino heating processes are not efficient enough to launch a jet
+  in this study. It is also found that a jet is launched mainly by Bphi fields that
+  are amplified by the winding-up effect. However, since the ratio of total energy
+  relative to the rest-mass energy in the jet is not as high as several hundred, we
+  conclude that the jets seen in this study are not GRB jets. This result suggests
+  that general relativistic effects will be important to generating a GRB jet. Also,
+  the accretion disk with magnetic fields may still play an important role in launching
+  a GRB jet, although a simulation for much longer physical time (~10-100 s) is required
+  to confirm this effect. It is shown that a considerable amount of 56Ni is synthesized
+  in the accretion disk. Thus, there will be a possibility for the accretion disk
+  to supply the sufficient amount of 56Ni required to explain the luminosity of a
+  hypernova. Also, it is shown that neutron-rich matter due to electron captures with
+  high entropy per baryon is ejected along the polar axis. Thus, there will be a possibility
+  that r-process nucleosynthesis occurs at such a region. Finally, many neutrons will
+  be ejected from the jet, which suggests that signals from the neutron decays may
+  be observed as the delayed bump of the light curve of the afterglow or gamma rays.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...659..512N
+arxivurl: http://arxiv.org/abs/astro-ph/0608233
+author: Nagataki, S. and Takahashi, R. and Mizuta, A. and Takiwaki, T.
+author_list:
+- family: Nagataki
+  given: S.
+- family: Takahashi
+  given: R.
+- family: Mizuta
+  given: A.
+- family: Takiwaki
+  given: T.
+date-added: 2017-08-11 02:10:21 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512057
+eprint: astro-ph/0608233
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Black Hole Physics, Gamma Rays: Bursts, Magnetohydrodynamics:
+  MHD, Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Supernovae: General'
+month: April
+pages: 512--529
+papis_id: 2ea120b5f8cb897f6aba8cb53a01a731
+ref: nagataki.s.2007
+title: Numerical Study of Gamma-Ray Burst Jet Formation in Collapsars
+type: article
+volume: '659'
+year: '2007'

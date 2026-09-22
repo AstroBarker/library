@@ -1,0 +1,33 @@
+abstract: We present two- and three-dimensional simulations involving Richtmyer Meshkov
+  and Rayleigh-Taylor instabilities run with the adaptive mesh refinement code, flash.
+  Variations in the rate of mixing layer growth due to dimensionality, perturbation
+  modes, and simulation resolution are explored. These simulations are designed for
+  detailed comparisons with experiments run on the Omega laser to gain understanding
+  of the mixing processes and to prepare for validation of the Flash code.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007Ap\%26SS.307..227H
+author: Hearn, N. C. and Plewa, T. and Drake, R. P. and Kuranz, C.
+author_list:
+- family: Hearn
+  given: N. C.
+- family: Plewa
+  given: T.
+- family: Drake
+  given: R. P.
+- family: Kuranz
+  given: C.
+date-added: 2017-08-11 06:57:15 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1007/s10509-006-9226-5
+journal: \apss
+keywords: Adaptive mesh refinement, Rayleigh-Taylor, Richtmyer-Meshkov, Supernova,
+  Code validation, Omega laser
+month: January
+pages: 227--231
+papis_id: 48453139f31275a639ae410c065ddde0
+ref: hearn.n.2007
+title: Flash Code Simulations of Rayleigh-Taylor and Richtmyer-Meshkov Instabilities
+  in Laser-Driven Experiments
+type: article
+volume: '307'
+year: '2007'

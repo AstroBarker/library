@@ -1,0 +1,61 @@
+abstract: 'We investigate the fundamental properties of core-collapse supernova (SN)
+  progenitors from single stars at solar metallicity. For this purpose, we combine
+  Geneva stellar evolutionary models with initial masses of Mini = 20-120 M\&sun;
+  with atmospheric and wind models using the radiative transfer code CMFGEN. We provide
+  synthetic photometry and high-resolution spectra of hot stars at the pre-SN stage.
+  For models with Mini = 9-20 M\&sun;, we supplement our analysis using publicly available
+  MARCS model atmospheres of RSGs to estimate their synthetic photometry. We employ
+  well-established observational criteria of spectroscopic classification and find
+  that, depending on their initial mass and rotation, massive stars end their lives
+  as red supergiants (RSG), yellow hypergiants (YHG), luminous blue variables (LBV),
+  and Wolf-Rayet (WR) stars of the WN and WO spectral types. For rotating models,
+  we obtained the following types of SN progenitors: WO1-3 (Mini >= 32 M\&sun;), WN10-11
+  (25 < Mini < 32 M\&sun;), LBV (20 <= Mini <= 25 M\&sun;), G1 Ia+ (18 < Mini < 20
+  M\&sun;), and RSGs (9 <= Mini <= 18 M\&sun;). For non-rotating models, we found
+  spectral types WO1-3 (Mini > 40 M\&sun;), WN7-8 (25 < Mini <= 40 M\&sun;), WN11h/LBV
+  (20 < Mini <= 25 M\&sun;), and RSGs (9 <= Mini <= 20 M\&sun;). Our rotating models
+  indicate that SN IIP progenitors are all RSG, SN IIL/b progenitors are 56\% LBVs
+  and 44\% YHGs, SN Ib progenitors are 96\% WN10-11 and 4\% WOs, and SN Ic progenitors
+  are all WO stars. We find that the most massive and luminous SN progenitors are
+  not necessarily the brightest ones in a given filter, since this depends on their
+  luminosity, temperature, wind density, and the way the spectral energy distribution
+  compares to a filter bandpass. We find that SN IIP progenitors (RSGs) are bright
+  in the RIJHKS filters and faint in the UB filters. SN IIL/b progenitors (LBVs and
+  YHGs), and SN Ib progenitors (WNs) are relatively bright in optical/infrared filters,
+  while SN Ic progenitors (WOs) are faint in all optical filters. We argue that SN
+  Ib and Ic progenitors from single stars should be undetectable in the available
+  pre-explosion images with the current magnitude limits, in agreement with observational
+  results.  New evolution models and model spectra are only available at the CDS via
+  anonymous ftp to http://cdsarc.u-strasbg.fr (ftp://130.79.128.5) or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/558/A131'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...558A.131G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1308.4681
+author: Groh, J. H. and Meynet, G. and Georgy, C. and Ekström, S.
+author_list:
+- family: Groh
+  given: J. H.
+- family: Meynet
+  given: G.
+- family: Georgy
+  given: C.
+- family: Ekström
+  given: S.
+date-added: 2017-08-10 19:23:29 +0000
+date-modified: 2017-12-05 16:36:30 +0000
+doi: 10.1051/0004-6361/201321906
+eid: A131
+eprint: '1308.4681'
+journal: \aap
+keywords: 'stars: evolution, supernovae: general, stars: massive, stars: winds, outflows,
+  gamma-ray burst: general, stars: rotation'
+month: October
+pages: A131
+papis_id: 930c4e2bbeb6bdb5126c7b38afffbbac
+primaryclass: astro-ph.SR
+ref: groh.j.2013
+title: 'Fundamental properties of core-collapse supernova and GRB progenitors: predicting
+  the look of massive stars before death'
+type: article
+volume: '558'
+year: '2013'

@@ -1,0 +1,43 @@
+abstract: Gaia is the next astrometry mission of the European Space Agency (ESA),
+  following up on the success of the Hipparcos mission. With a focal plane containing
+  106 CCD detectors, Gaia will survey the entire sky and repeatedly observe the brightest
+  1,000 million objects, down to 20th magnitude, during its 5-year lifetime. Gaia's
+  science data comprises absolute astrometry, broad-band photometry, and low-resolution
+  spectro-photometry. Spectroscopic data with a resolving power of 11,500 will be
+  obtained for the brightest 150 million sources, down to 17th magnitude. The thermo-mechanical
+  stability of the spacecraft, combined with the selection of the L2 Lissajous point
+  of the Sun-Earth/Moon system for operations, allows stellar parallaxes to be measured
+  with standard errors less than 10 micro-arcsecond (muas) for stars brighter than
+  12th magnitude, 25 muas for stars at 15th magnitude, and 300 muas at magnitude 20.
+  Photometric standard errors are in the milli-magnitude regime. The spectroscopic
+  data allows the measurement of radial velocities with errors of 15 km s-1 at magnitude
+  17. Gaia's primary science goal is to unravel the kinematical, dynamical, and chemical
+  structure and evolution of the Milky Way. In addition, Gaia's data will touch many
+  other areas of science, e.g., stellar physics, solar-system bodies, fundamental
+  physics, and exo-planets. The Gaia spacecraft is currently in the qualification
+  and production phase. With a launch in 2013, the final catalogue is expected in
+  2021. The science community in Europe, organised in the Data Processing and Analysis
+  Consortium (DPAC), is responsible for the processing of the data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012Ap\%26SS.341...31D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.3238
+author: de Bruijne, J. H. J.
+author_list:
+- family: de Bruijne
+  given: J. H. J.
+date-added: 2017-08-10 20:43:14 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1007/s10509-012-1019-4
+eprint: '1201.3238'
+journal: \apss
+keywords: Astrometry, Photometry, Spectroscopy, CCD, Telescope, Data reduction, Calibration
+month: September
+pages: 31--41
+papis_id: 0108943115a7b9debeceb0f1aeaab258
+primaryclass: astro-ph.IM
+ref: de_bruijne.j.2012
+title: Science performance of Gaia, ESA's space-astrometry mission
+type: article
+volume: '341'
+year: '2012'

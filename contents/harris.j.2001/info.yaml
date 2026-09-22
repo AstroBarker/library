@@ -1,0 +1,43 @@
+abstract: We present a method to determine the star formation history of a mixed stellar
+  population from its photometry. We perform a chi2 minimization between the observed
+  photometric distribution and a model photometric distribution, based on theoretical
+  isochrones. The initial mass function, distance modulus, interstellar reddening,
+  binary fraction, and photometric errors are incorporated into the model, making
+  it directly comparable to the data. The model is a linear combination of individual
+  synthetic color-magnitude diagrams (CMDs), each of which represents the predicted
+  photometric distribution of a stellar population of a given age and metallicity.
+  While the method is similar to existing synthetic CMD algorithms, we describe several
+  key improvements in our implementation. In particular, we focus on the derivation
+  of accurate error estimates on the star formation history to enable comparisons
+  between such histories, either from different objects or from different regions
+  of a single object. We present extensive tests of the algorithm, using both simulated
+  and actual photometric data. From a preliminary application of the algorithm to
+  a subregion of the Large Magellanic Cloud (LMC), we find that the that the lull
+  in star formation observed among the LMC's cluster population between 3 and 8 Gyr
+  ago is also present in the field population. The method was designed with flexibility
+  and generality in mind, and we make the code available for use by the astronomical
+  community.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJS..136...25H
+arxivurl: http://arxiv.org/abs/astro-ph/0104202
+author: Harris, J. and Zaritsky, D.
+author_list:
+- family: Harris
+  given: J.
+- family: Zaritsky
+  given: D.
+date-added: 2017-08-10 17:28:48 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321792
+eprint: astro-ph/0104202
+journal: \apjs
+keywords: 'Galaxies: Evolution, Galaxies: Stellar Content, Galaxies: Magellanic Clouds,
+  Stars: Evolution, Stars: Formation'
+month: September
+pages: 25--40
+papis_id: 7150ad605d520b53f3cf05c2bbeb34d7
+ref: harris.j.2001
+title: A Method for Determining the Star Formation History of a Mixed Stellar Population
+type: article
+volume: '136'
+year: '2001'

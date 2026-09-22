@@ -1,0 +1,44 @@
+abstract: We study the importance of baryonic physics on predictions of the matter
+  power spectrum as it is relevant for forthcoming weak-lensing surveys. We quantify
+  the impact of baryonic physics using a set of cosmological numerical simulations.
+  Each simulation has the same initial density field, but models a different set of
+  physical processes. We find that baryonic processes significantly alter predictions
+  for the matter power spectrum relative to models that include only gravitational
+  interactions. Our results imply that future weak-lensing experiments such as LSST
+  and SNAP will likely be sensitive to the uncertain physics governing the nonlinear
+  evolution of the baryonic component of the universe if these experiments are primarily
+  limited by statistical uncertainties. In particular, this effect could be important
+  for forecasts of the constraining power of future surveys if information from scales
+  l >~ 1000 is included in the analysis. We find that deviations are caused primarily
+  by the rearrangement of matter within individual dark matter halos relative to the
+  gravity-only case, rather than a large-scale rearrangement of matter. Consequently,
+  we propose a simple model, based on the phenomenological halo model of dark matter
+  clustering, for baryonic effects that can be used to aid in the interpretation of
+  forthcoming weak-lensing data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...672...19R
+arxivurl: http://arxiv.org/abs/astro-ph/0703741
+author: Rudd, D. H. and Zentner, A. R. and Kravtsov, A. V.
+author_list:
+- family: Rudd
+  given: D. H.
+- family: Zentner
+  given: A. R.
+- family: Kravtsov
+  given: A. V.
+date-added: 2017-08-10 21:40:58 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1086/523836
+eid: 19-32
+eprint: astro-ph/0703741
+journal: \apj
+keywords: 'cosmology: theory, galaxies: clusters: general, galaxies: evolution, methods:
+  numerical'
+month: January
+pages: 19--32
+papis_id: 6af01b5d2cb7b09c578217841000619f
+ref: rudd.d.2008
+title: Effects of Baryons and Dissipation on the Matter Power Spectrum
+type: article
+volume: '672'
+year: '2008'

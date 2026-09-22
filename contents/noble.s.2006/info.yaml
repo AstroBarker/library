@@ -1,0 +1,42 @@
+abstract: Conservative numerical schemes for general relativistic magnetohydrodynamics
+  (GRMHD) require a method for transforming between ``conserved'' variables such as
+  momentum and energy density and ``primitive'' variables such as rest-mass density,
+  internal energy, and components of the four-velocity. The forward transformation
+  (primitive to conserved) has a closed-form solution, but the inverse transformation
+  (conserved to primitive) requires the solution of a set of five nonlinear equations.
+  Here we discuss the mathematical properties of the inverse transformation and present
+  six numerical methods for performing the inversion. The first method solves the
+  full set of five nonlinear equations directly using a Newton-Raphson scheme and
+  a guess from the previous time step. The other methods reduce the five nonlinear
+  equations to either one or two nonlinear equations that are solved numerically.
+  Comparisons between the methods are made using a survey over phase space, a two-dimensional
+  explosion problem, and a general relativistic MHD accretion disk simulation. The
+  run time of the methods is also examined. Code implementing the schemes is available
+  with the electronic edition of the article.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...641..626N
+arxivurl: http://arxiv.org/abs/astro-ph/0512420
+author: Noble, S. C. and Gammie, C. F. and McKinney, J. C. and Del Zanna, L.
+author_list:
+- family: Noble
+  given: S. C.
+- family: Gammie
+  given: C. F.
+- family: McKinney
+  given: J. C.
+- family: Del Zanna
+  given: L.
+date-added: 2017-08-10 21:04:13 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/500349
+eprint: astro-ph/0512420
+journal: \apj
+keywords: 'Hydrodynamics, Methods: Numerical, Magnetohydrodynamics: MHD'
+month: April
+pages: 626--637
+papis_id: a618673415f4b7cfcdf42de85ef5f835
+ref: noble.s.2006
+title: Primitive Variable Solvers for Conservative General Relativistic Magnetohydrodynamics
+type: article
+volume: '641'
+year: '2006'

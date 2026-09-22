@@ -1,0 +1,47 @@
+abstract: The majority of massive stars are formed in binary systems. It is hence
+  reasonable to expect that most core-collapse supernovae (CCSNe) take place in binaries
+  and the existence of a companion star may leave some imprints in observed features.
+  Having this in mind, we have conducted two-dimensional hydrodynamical simulations
+  of the collisions of CCSNe ejecta with the companion star in an almost-equal-mass
+  (~10 M \&sun;) binary to find out possible consequences of such events. In particular
+  we pay attention to the amount of mass removed and its dependence on the binary
+  separation. In contrast to the previous surmise, we find that the companion mass
+  is stripped not by momentum transfer but by shock heating. Up to 25\% of the original
+  mass can be removed for the closest separations and the removed mass decreases as
+  M ubvpropa -4.3 with the binary separation a. By performing some experimental computations
+  with artificially modified densities of incident ejecta, we show that if the velocity
+  of ejecta is fixed, the density of incident ejecta is the single important parameter
+  that actually determines the removed mass as Mub \propto rho ej 1.4. On the other
+  hand, another set of simulations with modified velocities of incident ejecta demonstrate
+  that the strength of the forward shock, which heats up the stellar material and
+  causes the mass loss of the companion star, is actually the key parameter for the
+  removed mass.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...792...66H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1404.4297
+author: Hirai, R. and Sawai, H. and Yamada, S.
+author_list:
+- family: Hirai
+  given: R.
+- family: Sawai
+  given: H.
+- family: Yamada
+  given: S.
+date-added: 2017-08-11 07:07:22 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/792/1/66
+eid: '66'
+eprint: '1404.4297'
+journal: \apj
+keywords: 'binaries: close, stars: mass-loss, supernovae: general'
+month: September
+pages: '66'
+papis_id: b640b7e682637ba2057d2554b1ec4938
+primaryclass: astro-ph.HE
+ref: hirai.r.2014
+title: The Outcome of Supernovae in Massive Binaries; Removed Mass, and its Separation
+  Dependence
+type: article
+volume: '792'
+year: '2014'

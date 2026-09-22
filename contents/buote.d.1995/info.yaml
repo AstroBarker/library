@@ -1,0 +1,47 @@
+abstract: We describe and test a method to quantitatively classify clusters of galaxies
+  according to their projected morphologies This method will be subsequently used
+  to place constraints on cosmological parameters (Omega and the power spectrum of
+  primordial fluctuations on scales at or slightly smaller than that of clusters)
+  and to test theories of cluster formation. We specifically address structure that
+  is easily discernible in projection and dynamically important to the cluster. The
+  method is derived from the two-dimensional multipole expansion of the projected
+  gravitational potential and yields dimensionless power ratios as morphological statistics.
+  If the projected mass profile is used to characterize the cluster morphology, the
+  power ratios are directly related to the cluster potential. However, since detailed
+  mass profiles currently exist for only a few clusters, we use the X-ray-emitting
+  gas as an alternative tracer of cluster morphology. In this case, the relation of
+  the power ratios to the potential is qualitatively preserved. We demonstrate the
+  feasibility of the method by analyzing simulated observations of simple models of
+  X-ray clusters using the instrument parameters of the ROSA T PS PC. For illustrative
+  purposes, we apply the method to ROSAT PSPC images of A85, AS 14, Al 750, and A2029.
+  These clusters, which differ substantially in their X-ray morphologies, are easily
+  distinguished by their respective power ratios. We discuss the suitability of this
+  method to address the connection between cluster morphology and cosmology and to
+  assess whether an individual cluster is sufficiently relaxed for analysis of its
+  intrinsic shape using hydrostatic methods. Approximately 50 X-ray observations of
+  Abell clusters with the PSPC will be amenable to morphological analysis using the
+  method of this paper.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...452..522B
+arxivurl: http://arxiv.org/abs/astro-ph/9502002
+author: Buote, D. A. and Tsai, J. C.
+author_list:
+- family: Buote
+  given: D. A.
+- family: Tsai
+  given: J. C.
+date-added: 2017-08-11 05:13:16 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176326
+eprint: astro-ph/9502002
+journal: \apj
+keywords: 'GALAXIES: CLUSTERS: GENERAL, X-RAYS: GALAXIES'
+month: October
+pages: '522'
+papis_id: 3d04b756589221961be9edfef8118e1b
+ref: buote.d.1995
+title: Quantifying the Morphologies and Dynamical Evolution of Galaxy Clusters. I.
+  The Method
+type: article
+volume: '452'
+year: '1995'

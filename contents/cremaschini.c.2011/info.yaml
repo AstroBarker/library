@@ -1,0 +1,45 @@
+abstract: Magnetic fields are a distinctive feature of accretion disc plasmas around
+  compact objects (i.e., black holes and neutron stars) and they play a decisive role
+  in their dynamical evolution. A fundamental theoretical question related with this
+  concerns investigation of the so-called gravitational MHD dynamo effect, responsible
+  for the self-generation of magnetic fields in these systems. Experimental observations
+  and theoretical models, based on fluid MHD descriptions of various types support
+  the conjecture that accretion discs should be characterized by coherent and slowly
+  time-varying magnetic fields with both poloidal and toroidal components. However,
+  the precise origin of these magnetic structures and their interaction with the disc
+  plasmas is currently unclear. The aim of this paper is to address this problem in
+  the context of kinetic theory. The starting point is the investigation of a general
+  class of Vlasov-Maxwell kinetic equilibria for axi-symmetric collisionless magnetized
+  plasmas characterized by temperature anisotropy and mainly toroidal flow velocity.
+  Retaining finite Larmor-radius effects in the calculation of the fluid fields, we
+  show how these configurations are capable of sustaining both toroidal and poloidal
+  current densities. As a result, we suggest the possible existence of a kinetic dynamo
+  effect, which can generate a stationary toroidal magnetic field in the disc even
+  without any net radial accretion flow. The results presented may have important
+  implications for equilibrium solutions and stability analysis of accretion disc
+  dynamics.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011IAUS..274..228C
+author: Cremaschini, C. and Miller, J. C. and Tessarotto, M.
+author_list:
+- family: Cremaschini
+  given: C.
+- family: Miller
+  given: J. C.
+- family: Tessarotto
+  given: M.
+booktitle: Advances in Plasma Astrophysics
+date-added: 2017-08-11 02:12:40 +0000
+date-modified: 2017-12-05 16:36:43 +0000
+doi: 10.1017/S1743921311006995
+editor: '{Bonanno}, A. and {de Gouveia Dal Pino}, E. and {Kosovichev}, A.~G.'
+keywords: kinetic theory, accretion disks, plasmas, magnetic fields
+month: June
+pages: 228--231
+papis_id: 45676fdd22f1fdf57eae46ca1ac8e26e
+ref: cremaschini.c.2011
+series: IAU Symposium
+title: Theory of quasi-stationary kinetic dynamos in magnetized accretion discs
+type: inproceedings
+volume: '274'
+year: '2011'

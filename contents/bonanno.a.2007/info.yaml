@@ -1,0 +1,37 @@
+abstract: We study the stability of compressible cylindrical differentially rotating
+  flows in the presence of the magnetic field and show that compressibility qualitatively
+  alters the stability properties of flows. Apart from the well-known magnetorotational
+  instability that can occur even in the incompressible flow, there exists a new instability
+  caused by compressibility. The necessary condition of the newly found instability
+  can easily be satisfied in various flows in laboratory and astrophysical conditions
+  and reads BsBphiOmega'!=0, where Bs and Bphi are the radial and azimuthal magnetic
+  fields, respectively, and Omega'=dOmega/ds with s being the cylindrical radius.
+  Contrary to the magnetorotational instability that occurs only if Omega decreases
+  with s, the newly found instability operates at any sign of Omega'. The considered
+  instability can arise even in a very strong magnetic field that suppresses the magnetorotational
+  instability.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662..851B
+arxivurl: http://arxiv.org/abs/astro-ph/0703519
+author: Bonanno, A. and Urpin, V.
+author_list:
+- family: Bonanno
+  given: A.
+- family: Urpin
+  given: V.
+date-added: 2017-08-11 04:20:57 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/518231
+eprint: astro-ph/0703519
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Galaxies: Magnetic Fields, Instabilities, Magnetohydrodynamics:
+  MHD'
+month: June
+pages: 851--859
+papis_id: 1c5e61754745b88a96dac35fbb2d7e67
+ref: bonanno.a.2007
+title: Compressibility and Local Instabilities of Differentially Rotating Magnetized
+  Gas
+type: article
+volume: '662'
+year: '2007'

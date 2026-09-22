@@ -1,0 +1,51 @@
+abstract: We present a detailed analysis of archival Hubble Space Telescope data that
+  we use to measure the proper motion of the Crab pulsar, with the primary goal of
+  comparing the direction of its proper motion with the projected axis of its pulsar
+  wind nebula (the projected spin axis of the pulsar). We demonstrate that our measurement,
+  using 47 observations spanning >10 yr, is robust and has an uncertainty of only
+  $\pm$.4 mas yr-1 on each component of the proper motion. However, we then consider
+  the various uncertainties that arise from the need to correct the proper motion
+  that we measure to the local standard of rest at the position of the pulsar and
+  find mualpha = - 11.8 +/- 0.4 +/- 0.5 mas yr -1 and mudelta = + 4.4 +/- 0.4 +/-
+  0.5 mas yr -1 relative to the pulsar's standard of rest, where the two uncertainties
+  are from the measurement and the reference frame, respectively. Comparing this proper
+  motion to the symmetry axis of the pulsar wind nebula, we must consider the unknown
+  velocity of the pulsar's progenitor (assumed to be ~10 km s-1), and hence add an
+  additional uncertainty of \ mas yr-1 to each component of the proper motion. This
+  implies a projected misalignment with the nebular axis of 14\$\,^{\circ}\$+/- 2\$\,^{\circ}\$+/-
+  9\$\,^{\circ}\$, consistent with a broad range of values including perfect alignment.
+  We use our proper motion to derive an independent estimate for the site of the supernova
+  explosion with an accuracy that is 2-3 times better than previous estimates. We
+  conclude that the precision of individual measurements which compare the direction
+  of motion of a neutron star to a fixed axis will often be limited by fundamental
+  uncertainties regarding reference frames and progenitor properties.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...677.1201K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.1142
+author: Kaplan, D. L. and Chatterjee, S. and Gaensler, B. M. and Anderson, J.
+author_list:
+- family: Kaplan
+  given: D. L.
+- family: Chatterjee
+  given: S.
+- family: Gaensler
+  given: B. M.
+- family: Anderson
+  given: J.
+date-added: 2017-08-11 04:06:06 +0000
+date-modified: 2017-12-05 16:37:04 +0000
+doi: 10.1086/529026
+eid: 1201-1215
+eprint: '0801.1142'
+journal: \apj
+keywords: 'astrometry, pulsars: individual: PSR B0531+21 Crab, stars: neutron'
+month: April
+pages: 1201--1215
+papis_id: c03bb2f672622908e6a40247005a224d
+ref: kaplan.d.2008
+title: A Precise Proper Motion for the Crab Pulsar, and the Difficulty of Testing
+  Spin-Kick Alignment for Young Neutron Stars
+type: article
+volume: '677'
+year: '2008'

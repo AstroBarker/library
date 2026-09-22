@@ -1,0 +1,54 @@
+abstract: We present an evolutionary model for starbursts, quasars, and spheroidal
+  galaxies in which mergers between gas-rich galaxies drive nuclear inflows of gas,
+  producing starbursts and feeding the buried growth of supermassive black holes (BHs)
+  until feedback expels gas and renders a briefly visible optical quasar. The quasar
+  lifetime and obscuring column density depend on both the instantaneous and peak
+  quasar luminosity, and we determine this dependence using a large set of galaxy
+  merger simulations varying galaxy properties, orbital geometry, and gas physics.
+  We use these fits to deconvolve observed quasar luminosity functions and obtain
+  the evolution of the formation rate of quasars with peak luminosity, n dot(Lpeak,z).
+  Quasars spend extended periods at luminosities well below peak, so n dot(Lpeak)
+  has a maximum corresponding to the ``break'' in the observed luminosity function.
+  From n dot(Lpeak) and our simulations, we obtain self-consistent hard and soft X-ray
+  and optical luminosity functions and predict many observables at multiple redshifts,
+  including column density distributions of optical and X-ray samples, the luminosity
+  function of broad-line quasars in X-ray samples and broad-line fraction versus luminosity,
+  active BH mass functions, the distribution of Eddington ratios, the mass function
+  of relic BHs and total BH mass density, and the cosmic X-ray background. In every
+  case, our predictions agree well with observed estimates, without invoking ad hoc
+  assumptions about source properties or distributions. We provide a library of Monte
+  Carlo realizations of our models for comparison with observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJS..163....1H
+arxivurl: http://arxiv.org/abs/astro-ph/0506398
+author: Hopkins, P. F. and Hernquist, L. and Cox, T. J. and Di Matteo, T. and Robertson,
+  B. and Springel, V.
+author_list:
+- family: Hopkins
+  given: P. F.
+- family: Hernquist
+  given: L.
+- family: Cox
+  given: T. J.
+- family: Di Matteo
+  given: T.
+- family: Robertson
+  given: B.
+- family: Springel
+  given: V.
+date-added: 2017-08-11 03:27:01 +0000
+date-modified: 2017-12-05 16:37:17 +0000
+doi: 10.1086/499298
+eprint: astro-ph/0506398
+journal: \apjs
+keywords: 'Cosmology: Theory, Galaxies: Active, Galaxies: Evolution, Galaxies: Nuclei,
+  Galaxies: Quasars: General'
+month: March
+pages: 1--49
+papis_id: 0925da5ee2294e7316dc87e33dfdcd64
+ref: hopkins.p.2006
+title: A Unified, Merger-driven Model of the Origin of Starbursts, Quasars, the Cosmic
+  X-Ray Background, Supermassive Black Holes, and Galaxy Spheroids
+type: article
+volume: '163'
+year: '2006'

@@ -1,0 +1,42 @@
+abstract: We perform spherically symmetric general-relativistic simulations of core
+  collapse and the postbounce pre-explosion phase in 32 presupernova stellar models
+  of solar metallicity with zero-age main-sequence masses of 12-120 M \&sun;. Using
+  energy-dependent three-species neutrino transport in the two-moment approximation
+  with an analytic closure, we show that the emitted neutrino luminosities and spectra
+  follow very systematic trends that are correlated with the compactness (~M/R) of
+  the progenitor star's inner regions via the accretion rate in the pre-explosion
+  phase. We find that these qualitative trends depend only weakly on the nuclear equation
+  of state (EOS), but quantitative observational statements will require independent
+  constraints on the EOS and the rotation rate of the core as well as a more complete
+  understanding of neutrino oscillations. We investigate the simulated response of
+  water Cherenkov detectors to the electron antineutrino fluxes from our models and
+  find that the large statistics of a galactic core collapse event may allow robust
+  conclusions on the inner structure of the progenitor star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...762..126O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.1100
+author: O'Connor, E. and Ott, C. D.
+author_list:
+- family: O'Connor
+  given: E.
+- family: Ott
+  given: C. D.
+date-added: 2017-08-10 14:35:33 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1088/0004-637X/762/2/126
+eid: '126'
+eprint: '1207.1100'
+journal: \apj
+keywords: 'equation of state, hydrodynamics, neutrinos, stars: evolution, stars: neutron,
+  supernovae: general'
+month: January
+pages: '126'
+papis_id: 8df4d9920162e2eba87c582a2bf8da99
+primaryclass: astro-ph.HE
+ref: o_connor.e.2013
+title: The Progenitor Dependence of the Pre-explosion Neutrino Emission in Core-collapse
+  Supernovae
+type: article
+volume: '762'
+year: '2013'

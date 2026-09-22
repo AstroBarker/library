@@ -1,0 +1,35 @@
+abstract: We present a multi-domain spectral method to compute initial data of binary
+  systems in general relativity. By utilizing adapted conformal coordinates, the vacuum
+  region exterior to the gravitational sources is divided into two subdomains within
+  which the spectral expansion of the field quantities is carried out. If a component
+  of the binary is a neutron star, a further subdomain covering the star's interior
+  is added. As such, the method can be used to construct arbitrary initial data corresponding
+  to binary black holes, binary neutron stars or mixed binaries. In particular, it
+  is possible to describe a black hole component by the puncture ansatz as well as
+  through an excision technique. First examples are given for binary black hole excision
+  data that fulfil the requirements of the quasi-stationary framework, which combines
+  the conformal thin sandwich formulation of the constraint equations with the isolated
+  horizon conditions for black holes in quasi-equilibrium. These numerical solutions
+  were obtained to extremely high accuracy with moderate computational effort. Moreover,
+  the method proves to be applicable even when tending towards limiting cases such
+  as large mass ratios of the binary components.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24S...1A
+author: Ansorg, M.
+author_list:
+- family: Ansorg
+  given: M.
+date-added: 2017-08-10 20:30:47 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1088/0264-9381/24/12/S01
+eprint: gr-qc/0612081
+journal: Classical and Quantum Gravity
+month: June
+pages: S1-S14
+papis_id: 59d4dc659ef11aa2ba0fc924faed2245
+ref: ansorg.m.2007
+title: A multi-domain spectral method for initial data of arbitrary binaries in general
+  relativity
+type: article
+volume: '24'
+year: '2007'

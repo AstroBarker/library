@@ -1,0 +1,32 @@
+abstract: Gravitational radiation from the nonspherical collapse of a rotating stellar
+  core is calculated using homogeneous ellipsoids. The adiabatic, 'hot' equation of
+  state for dense matter due to Lamb et al. (1978) is employed, together with a realistic
+  hydrodynamical dissipation algorithm. It is found that the large amplitude, homologous
+  density oscillations are effectively damped after the first few core bounces. However,
+  small amplitude, highly eccentric oscillations about the high temperature, equilibrium
+  density persist and can give rise to appreciable amounts of gravitational radiation.
+  The radiation efficiency is calculated as a function of the core angular momentum.
+  A representative gravitational waveform and its Fourier transform are presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1981ApJ...244.1033S
+author: Saenz, R. A. and Shapiro, S. L.
+author_list:
+- family: Saenz
+  given: R. A.
+- family: Shapiro
+  given: S. L.
+date-added: 2017-08-11 05:33:25 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/158774
+journal: \apj
+keywords: Gravitational Collapse, Gravitational Waves, Stellar Oscillations, Ellipsoids,
+  Equations Of State, Fourier Transformation, Vibration Damping
+month: March
+pages: 1033--1038
+papis_id: e02ed560018f898f19cf9ccb5528eead
+ref: saenz.r.1981
+title: Gravitational radiation from stellar core collapse. III - Damped ellipsoidal
+  oscillations
+type: article
+volume: '244'
+year: '1981'

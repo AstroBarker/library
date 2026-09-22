@@ -1,0 +1,47 @@
+abstract: Gamma-ray bursts (GRBs) directed at Earth from within a few kiloparsecs
+  may have damaged the biosphere, primarily through changes in atmospheric chemistry
+  that admit greatly increased solar UV. However, GRBs are highly variable in spectrum
+  and duration. Recent observations indicate that short (~0.1 s) burst GRBs, which
+  have harder spectra, may be sufficiently abundant at low redshift that they may
+  offer an additional significant effect. A much longer timescale is associated with
+  shock breakout luminosity observed in the soft X-ray (~103 s) and UV (~105 s) emission
+  and radioactive decay gamma-ray line radiation emitted during the light-curve phase
+  of supernovae (~107 s). Here, we generalize our atmospheric computations to include
+  a broad range of peak photon energies and investigate the effect of burst duration
+  while holding total fluence and other parameters constant. The results can be used
+  to estimate the probable impact of various kinds of ionizing events (such as short
+  GRBs, X-ray flashes, and supernovae) on the Earth's atmosphere. We find that the
+  ultimate intensity of atmospheric effects varies only slightly with burst duration
+  from 10-1 to 108 s. Therefore, the effect of many astrophysical events causing atmospheric
+  ionization can be approximated without including time development. Detailed modeling
+  requires specification of the season and latitude of the event. Harder photon spectra
+  produce greater atmospheric effects for spectra with peaks up to about 20 MeV because
+  of greater penetration into the stratosphere.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...654..373E
+arxivurl: http://arxiv.org/abs/astro-ph/0604556
+author: Ejzak, L. M. and Melott, A. L. and Medvedev, M. V. and Thomas, B. C.
+author_list:
+- family: Ejzak
+  given: L. M.
+- family: Melott
+  given: A. L.
+- family: Medvedev
+  given: M. V.
+- family: Thomas
+  given: B. C.
+date-added: 2017-08-11 07:50:19 +0000
+date-modified: 2017-12-05 16:37:11 +0000
+doi: 10.1086/509106
+eprint: astro-ph/0604556
+journal: \apj
+keywords: 'Astrobiology, Gamma Rays: Bursts'
+month: January
+pages: 373--384
+papis_id: 040858c55f9b1056c7eb0000b955a9c0
+ref: ejzak.l.2007
+title: Terrestrial Consequences of Spectral and Temporal Variability in Ionizing Photon
+  Events
+type: article
+volume: '654'
+year: '2007'

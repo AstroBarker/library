@@ -1,0 +1,63 @@
+abstract: 'Context. Degenerate ignition of helium in low-mass stars at the end of
+  the red giant branch phase leads to dynamic convection in their helium cores. One-dimensional
+  (1D) stellar modeling of this intrinsically multi-dimensional dynamic event is likely
+  to be inadequate. Previous hydrodynamic simulations imply that the single convection
+  zone in the helium core of metal-rich Pop I stars grows during the flash on a dynamic
+  timescale. This may lead to hydrogen injection into the core and to a double convection
+  zone structure as known from one-dimensional core helium flash simulations of low-mass
+  Pop III stars.  Aims: We perform hydrodynamic simulations of the core helium flash
+  in two and three dimensions to better constrain the nature of these events. To this
+  end we study the hydrodynamics of convection within the helium cores of a 1.25 M\_\&sun;
+  metal-rich Pop I star (Z = 0.02), and, for the first time, a 0.85 M\_\&sun; metal-free
+  Pop III star (Z = 0) near the peak of the flash. These models possess single and
+  double convection zones, respectively.  Methods: We use 1D stellar models of the
+  core helium flash computed with state-of-the-art stellar evolution codes as initial
+  models for our multidimensional hydrodynamic study, and simulate the evolution of
+  these models with the Riemann solver based hydrodynamics code Herakles, which integrates
+  the Euler equations coupled with source terms corresponding to gravity and nuclear
+  burning.  Results: The hydrodynamic simulation of the Pop I model involving a single
+  convection zone covers 27 h of stellar evolution, while the hydrodynamic simulations
+  of a double convection zone, in the Pop III model, span 1.8 h of stellar life. We
+  find differences between the predictions of mixing length theory and our hydrodynamic
+  simulations. The simulation of the single convection zone in the Pop I model shows
+  a strong growth of the size of the convection zone due to turbulent entrainment.
+  We therefore predict that for the Pop I model a hydrogen injection phase (i.e.,
+  hydrogen injection into the helium core) will commence after about 23 days, which
+  should eventually lead to a double convection zone structure known from 1D stellar
+  modeling of low-mass Pop III stars. Our two and three-dimensional hydrodynamic simulations
+  of the double (Pop III) convection zone model show that the velocity field in the
+  convection zones is different from that given by stellar evolutionary calculations.
+  The simulations suggest that the double convection zone decays quickly, the flow
+  eventually being dominated by internal gravity waves. The decay could be an artefact
+  caused by the mapping of the initial stellar model to the numerical grid of our
+  hydrodynamics code.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...520A.114M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1003.3646
+author: Mocák, M. and Campbell, S. W. and Müller, E. and Kifonidis, K.
+author_list:
+- family: Mocák
+  given: M.
+- family: Campbell
+  given: S. W.
+- family: Müller
+  given: E.
+- family: Kifonidis
+  given: K.
+date-added: 2017-08-10 19:40:06 +0000
+date-modified: 2017-12-05 16:36:48 +0000
+doi: 10.1051/0004-6361/201014461
+eid: A114
+eprint: '1003.3646'
+journal: \aap
+keywords: 'stars: evolution, hydrodynamics, convection'
+month: September
+pages: A114
+papis_id: 435d0b2ae44110f96a3fa37e6040bf55
+primaryclass: astro-ph.SR
+ref: mocak.m.2010
+title: The core helium flash revisited. III. From Population I to Population III stars
+type: article
+volume: '520'
+year: '2010'

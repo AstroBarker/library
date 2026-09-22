@@ -1,0 +1,37 @@
+abstract: The nonlinear evolution of the recently identified accretion disk magnetic
+  shear instability is investigated through a series of numerical simulations. Finite-difference
+  computations of the equations of compressible MHD are carried out on an axisymmetric
+  shearing sheet system with periodic boundary conditions designed to approximate
+  a local region within an accretion disk. Initial field configurations that include
+  some net vertical component evolve into a nonlinear, exponentially growing solution
+  with large poloidal velocities and magnetic fields with energies comparable to the
+  thermal energy density. The stability of a purely azimuthal field configuration
+  is examined, and it is found that nonaxisymmetric instability is present, but with
+  a growth time measured in tens of orbital periods. In general, the most rapid growth
+  occurs for very small radial and azimuthal wavenumbers, leading to coherent magnetic
+  field structure in planes parallel to the disk. It is suggested that this instability
+  is a key ingredient for the generation of magnetic fields in disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1992ApJ...400..595H
+author: Hawley, J. F. and Balbus, S. A.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Balbus
+  given: S. A.
+date-added: 2017-08-10 20:07:08 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/172021
+journal: \apj
+keywords: Accretion Disks, Angular Momentum, Magnetic Field Configurations, Magnetohydrodynamic
+  Stability, Nonlinear Evolution Equations, Computer Animation, Finite Difference
+  Theory, Shear Flow
+month: December
+pages: 595--609
+papis_id: 7aafaf4b514ea0812d1f823076ffb899
+ref: hawley.j.1992
+title: A powerful local shear instability in weakly magnetized disks. III - Long-term
+  evolution in a shearing sheet
+type: article
+volume: '400'
+year: '1992'

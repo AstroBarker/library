@@ -1,0 +1,50 @@
+abstract: We investigate the effect of metallicity calibrations, AGN classification,
+  and aperture covering fraction on the local mass-metallicity (M-Z) relation using
+  27,730 star-forming galaxies from the SDSS Data Release 4. We analyze the SDSS M-Z
+  relation with 10 metallicity calibrations, including theoretical and empirical methods.
+  We show that the choice of metallicity calibration has a significant effect on the
+  shape and y-intercept [12 + log (O/H) ] of the M-Z relation. The absolute metallicity
+  scale (y-intercept) varies up to Delta [ log (O/H) ] = 0.7 dex, depending on the
+  calibration used, and the change in shape is substantial. These results indicate
+  that it is critical to use the same metallicity calibration when comparing different
+  luminosity-metallicity or M-Z relations. We present new metallicity conversions
+  that allow metallicities that have been derived using different strong-line calibrations
+  to be converted to the same base calibration. These conversions facilitate comparisons
+  between different samples, particularly comparisons between galaxies at different
+  redshifts for which different suites of emission lines are available. Our new conversions
+  successfully remove the large 0.7 dex discrepancies between the metallicity calibrations,
+  and we reach agreement in the M-Z relation to within 0.03 dex on average. We investigate
+  the effect of AGN classification and aperture covering fraction on the M-Z relation.
+  We find that different AGN classification methods have negligible effect on the
+  SDSS M-Z relation. We compare the SDSS M-Z relation with nuclear and global relations
+  from the NFGS. The turnover of the M-Z relation at M\textasteriskcentered ~ 1010
+  M\&sun; depends on the aperture covering fraction. We find that a lower redshift
+  limit of z < 0.04 is insufficient for avoiding aperture effects in fiber spectra
+  of the highest stellar mass (M\textasteriskcentered > 1010 M\&sun;) galaxies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...681.1183K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0801.1849
+author: Kewley, L. J. and Ellison, S. L.
+author_list:
+- family: Kewley
+  given: L. J.
+- family: Ellison
+  given: S. L.
+date-added: 2017-08-10 17:23:00 +0000
+date-modified: 2017-12-05 16:37:01 +0000
+doi: 10.1086/587500
+eid: 1183-1204
+eprint: '0801.1849'
+journal: \apj
+keywords: 'galaxies: abundances, galaxies: fundamental parameters, galaxies: spiral,
+  galaxies: starburst, techniques: spectroscopic'
+month: July
+pages: 1183--1204
+papis_id: 97f49235202294784cb7fc3a49408af4
+ref: kewley.l.2008
+title: Metallicity Calibrations and the Mass-Metallicity Relation for Star-forming
+  Galaxies
+type: article
+volume: '681'
+year: '2008'

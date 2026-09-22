@@ -1,0 +1,91 @@
+abstract: 'We present a high-resolution (R= 75 000, S/N ~ 500) spectroscopic analysis
+  of the bright (V= 11.7), extreme halo giant CS 31082-001 ([Fe/H] = -2.9), obtained
+  in an ESO-VLT Large Programme dedicated to very metal-poor stars. We find CS 31082-001
+  to be extremely rich in r-process elements, comparable in this respect only to the
+  similarly metal-poor, but carbon-enriched, giant CS 22892-052. As a result of the
+  extreme overabundance of the heaviest r-process elements, and negligible blending
+  from CH and CN molecular lines, a reliable measurement is obtained of the U II line
+  at 386 nm, for the first time in a halo star, along with numerous lines of Th II,
+  as well as lines of 25 other r-process elements. Abundance estimates for a total
+  of 43 elements (44 counting Hydrogen) are reported in CS 31082-001, almost half
+  of the entire periodic table. The main atmospheric parameters of CS 31082-001 are
+  as follows: Teff = 4825 +/- 50 K, log g= 1.5 +/- 0.3 (cgs), [Fe/H] = -2.9 +/- 0.1
+  (in LTE), and microturbulence 1.8 +/- 0.2 km s-1. Carbon and nitrogen are not significantly
+  enhanced relative to iron. As usual in giant stars, Li is depleted by dilution (log
+  (Li/H) = 0.85). The alpha -elements show the usual enhancements with respect to
+  iron, with [O/Fe] = 0.6+/- 0.2 (from [O I] 6300 {\AA}), [Mg/Fe] = 0.45 +/- 0.16,
+  [Si/Fe] = 0.24 +/- 0.1, and [Ca/Fe] = 0.41 +/- 0.08, while [Al/Fe] is near -0.5.
+  The r-process elements show unusual patterns: among the lightest elements (Z ~ 40),
+  Sr and Zr follow the Solar r-element distribution, but Ag is down by 0.8 dex. All
+  elements with 56 <= Z <= 72 follow the Solar r-element pattern, reduced by about
+  1.25 dex. Accordingly, the [r/Fe] enhancement is about +1.7 dex (a factor of 50),
+  very similar to that of CS 22892-052. Pb, in contrast, seems to be below the shifted
+  Solar r-process distribution, possibly indicating an error in the latter, while
+  thorium is more enhanced than the lighter nuclides. In CS 31082-001, log(Th/Eu)
+  is -0.22 +/- 0.07, higher than in the Solar System (-0.46) or in CS 22892-052 (-0.66).
+  If CS 31082-001 and CS 22892-052 have similar ages, as expected for two extreme
+  halo stars, this implies that the production ratios were different by about 0.4
+  dex for the two objects. Conversely, if the Th/Eu production ratio were universal,
+  an age of 15 Gyr for CS 22892-052 would imply a negative age for CS 31082-001. Thus,
+  while a universal production ratio for the r-process elements seems to hold in the
+  interval 56 <= Z <= 72, it breaks down in the actinide region. When available, the
+  U/Th is thus preferable to Th/Eu for radioactive dating, for two reasons: (i) because
+  of its faster decay rate and smaller sensitivity to observational errors, and (ii)
+  because the inital production ratio of the neighboring nuclides 238U and 232Th is
+  more robustly predicted than the 151Eu/232Th ratio. Our current best estimate for
+  the age of CS 31082-001 is 14.0+/- 2.4 Gyr. However, the computed actinide production
+  ratios should be verified by observations of daughter elements such as Pb and Bi
+  in the same star, which are independent of the subsequent history of star formation
+  and nucelosynthesis in the Galaxy. Based on observations of program 165.N-0276(A)
+  obtained with the Very Large Telescope of the European Southern Observatory at Paranal,
+  Chile.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002A\%26A...387..560H
+arxivurl: http://arxiv.org/abs/astro-ph/0203462
+author: Hill, V. and Plez, B. and Cayrel, R. and Beers, T. C. and Nordström, B. and
+  Andersen, J. and Spite, M. and Spite, F. and Barbuy, B. and Bonifacio, P. and Depagne,
+  E. and François, P. and Primas, F.
+author_list:
+- family: Hill
+  given: V.
+- family: Plez
+  given: B.
+- family: Cayrel
+  given: R.
+- family: Beers
+  given: T. C.
+- family: Nordström
+  given: B.
+- family: Andersen
+  given: J.
+- family: Spite
+  given: M.
+- family: Spite
+  given: F.
+- family: Barbuy
+  given: B.
+- family: Bonifacio
+  given: P.
+- family: Depagne
+  given: E.
+- family: François
+  given: P.
+- family: Primas
+  given: F.
+date-added: 2017-08-10 15:51:34 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1051/0004-6361:20020434
+eprint: astro-ph/0203462
+journal: \aap
+keywords: 'Galaxy: evolution, Galaxy: halo, stars: abundances, stars: individual:
+  BPS CS 31082-001 -, nuclear reactions, nucleosynthesis, abundances, cosmology: early
+  Universe'
+month: May
+pages: 560--579
+papis_id: bae76a350c46cdd99c78b28102a9c7a4
+ref: hill.v.2002
+title: First stars. I. The extreme r-element rich, iron-poor halo giant CS 31082-001.
+  Implications for the r-process site(s) and radioactive cosmochronology
+type: article
+volume: '387'
+year: '2002'

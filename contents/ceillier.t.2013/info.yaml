@@ -1,0 +1,47 @@
+abstract: 'Context. Thanks to recent asteroseismic observations, it has been possible
+  to infer the radial differential rotation profile of subgiants and red giants.  Aims:
+  We want to reproduce the observed rotation profile of the early red giant KIC 7341231
+  through modeling and constrain the physical mechanisms responsible for angular momentum
+  transport in stellar interiors.  Methods: We computed models of KIC 7341231 including
+  a treatment of shellular rotation, and we compared the rotation profiles obtained
+  with the one derived from observations. We then modify some modeling parameters
+  in order to quantify their effect on the obtained rotation profile. Moreover, we
+  mimicked a powerful angular momentum transport during the main sequence and studied
+  its effect on the evolution of the rotation profile during the subgiant and red
+  giant phases.  Results: We show that meridional circulation and shear mixing alone
+  produce a rotation profile for KIC 7341231 that is too steep compared to the observed
+  one. An additional mechanism is then needed to increase the internal transport of
+  angular momentum. We find that this undetermined mechanism has to be efficient not
+  only during the main sequence but also during the much quicker subgiant phase. Moreover,
+  we point out the importance of studying the whole rotational history of a star to
+  explain its rotation profile during the red giant evolution.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013A\%26A...555A..54C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1305.5630
+author: Ceillier, T. and Eggenberger, P. and García, R. A. and Mathis, S.
+author_list:
+- family: Ceillier
+  given: T.
+- family: Eggenberger
+  given: P.
+- family: García
+  given: R. A.
+- family: Mathis
+  given: S.
+date-added: 2017-08-10 17:08:44 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1051/0004-6361/201321473
+eid: A54
+eprint: '1305.5630'
+journal: \aap
+keywords: 'stars: rotation, stars: oscillations, stars: evolution'
+month: July
+pages: A54
+papis_id: 24e540b5d636bebd522fca3b8ffa732c
+primaryclass: astro-ph.SR
+ref: ceillier.t.2013
+title: 'Understanding angular momentum transport in red giants: the case of KIC 7341231'
+type: article
+volume: '555'
+year: '2013'

@@ -1,0 +1,56 @@
+abstract: We study the gravitationally confined detonation (GCD) model of Type Ia
+  supernovae (SNe Ia) through the detonation phase and into homologous expansion.
+  In the GCD model, a detonation is triggered by the surface flow due to single-point,
+  off-center flame ignition in carbon-oxygen white dwarfs (WDs). The simulations are
+  unique in terms of the degree to which nonidealized physics is used to treat the
+  reactive flow, including weak reaction rates and a time-dependent treatment of material
+  in nuclear statistical equilibrium (NSE). Careful attention is paid to accurately
+  calculating the final composition of material which is burned to NSE and frozen
+  out in the rapid expansion following the passage of a detonation wave over the high-density
+  core of the WD; and an efficient method for nucleosynthesis postprocessing is developed
+  which obviates the need for costly network calculations along tracer particle thermodynamic
+  trajectories. Observational diagnostics are presented for the explosion models,
+  including abundance stratifications and integrated yields. We find that for all
+  of the ignition conditions studied here a self-regulating process comprised of neutronization
+  and stellar expansion results in final 56Ni masses of ~1.1 M sun. But, more energetic
+  models result in larger total NSE and stable Fe-peak yields. The total yield of
+  intermediate mass elements is ~0.1 M sun and the explosion energies are all around
+  1.5 \texttimes{} 1051 erg. The explosion models are briefly compared to the inferred
+  properties of recent SN Ia observations. The potential for surface detonation models
+  to produce lower-luminosity (lower 56Ni mass) SNe is discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...693.1188M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.4972
+author: Meakin, C. A. and Seitenzahl, I. and Townsley, D. and Jordan IV, G. C. and
+  Truran, J. and Lamb, D.
+author_list:
+- family: Meakin
+  given: C. A.
+- family: Seitenzahl
+  given: I.
+- family: Townsley
+  given: D.
+- family: Jordan IV
+  given: G. C.
+- family: Truran
+  given: J.
+- family: Lamb
+  given: D.
+date-added: 2017-08-10 17:38:00 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/693/2/1188
+eid: 1188-1208
+eprint: '0806.4972'
+journal: \apj
+keywords: 'nuclear reactions, nucleosynthesis, abundances, shock waves, stars: abundances,
+  supernovae: general, white dwarfs'
+month: March
+pages: 1188--1208
+papis_id: 35f95406a20173bec4827ee36aa5ca95
+ref: meakin.c.2009
+title: Study of the Detonation Phase in the Gravitationally Confined Detonation Model
+  of Type Ia Supernovae
+type: article
+volume: '693'
+year: '2009'

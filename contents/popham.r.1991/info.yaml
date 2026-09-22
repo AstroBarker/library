@@ -1,0 +1,36 @@
+abstract: A steady-state thin accretion disk is modeled around a uniformly rotating
+  unmagnetized star in order to investigate whether disk accretion can continue as
+  the accreted angular momentum spins the central star to near breakup. A mapping
+  between the specific angular momentum (SAM) added to the star and the stellar rotation
+  rate (SRR) is obtained. When SRR is somewhat less than the breakup rotation rate
+  of the star, a class of solutions is found where the angular velocity of the disk
+  attains a maximum close to the star and then decreases rapidly in a boundary layer
+  to match SRR. If SRR is near breakup, a second class of solutions is found where
+  the disk angular velocity has no maximum but increases monotonically all the way
+  down to the stellar surface. SAM decreases very rapidly with increasing SRR and
+  even takes on fairly large negative values. The spin-up of an accreting star slows
+  down and eventually stops at a rotation rate near breakup. Beyond this point, the
+  star can continue to accrete any amount of matter without actually breaking up.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1991ApJ...370..604P
+author: Popham, R. and Narayan, R.
+author_list:
+- family: Popham
+  given: R.
+- family: Narayan
+  given: R.
+date-added: 2017-08-10 19:33:05 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/169847
+journal: \apj
+keywords: Accretion Disks, Binary Stars, Stellar Mass Accretion, Stellar Rotation,
+  White Dwarf Stars, Angular Momentum, Boundary Conditions, Hydrodynamics, Numerical
+  Analysis, Radial Velocity, Star Formation, Subsonic Flow, Supersonic Flow
+month: April
+pages: 604--614
+papis_id: 366ab5631c12a017ebeea16a5e54b11f
+ref: popham.r.1991
+title: Does accretion cease when a star approaches breakup?
+type: article
+volume: '370'
+year: '1991'

@@ -1,0 +1,33 @@
+abstract: When constructing high-order schemes for solving hyperbolic conservation
+  laws, the corresponding high-order reconstructions are commonly performed in characteristic
+  spaces to eliminate spurious oscillations as much as possible. For multi-dimensional
+  finite volume (FV) schemes, we need to perform the characteristic decomposition
+  several times in different normal directions of the target cell, which is very time-consuming.
+  In this paper, we propose a rotated characteristic decomposition technique which
+  requires only one-time decomposition for multi-dimensional reconstructions. The
+  rotated direction depends only on the gradient of a specific physical quantity which
+  is cheap to calculate. This technique not only reduces the computational cost remarkably,
+  but also controls spurious oscillations effectively. We take a third-order weighted
+  essentially non-oscillatory finite volume (WENO-FV) scheme for solving the Euler
+  equations as an example to demonstrate the efficiency of the proposed technique.
+archiveprefix: arXiv
+author: Shen, Hua and Parsani, Matteo
+author_list:
+- family: Shen
+  given: Hua
+- family: Parsani
+  given: Matteo
+doi: 10.1007/s10915-021-01602-z
+eprint: '2105.10106'
+file: :shen\_2021 - A Rotated Characteristic Decomposition Technique for High Order
+  Reconstructions in Multi Dimensions.pdf:PDF
+journal: 'Journal of Scientific Computing, Volume 88, Article number: 87 (2021)'
+keywords: math.NA, cs.NA, physics.comp-ph
+month: May
+papis_id: 45a6efe98607e32d714a0ad35ddc4c8b
+primaryclass: math.NA
+ref: shen.hua.2021
+title: A rotated characteristic decomposition technique for high-order reconstructions
+  in multi-dimensions
+type: article
+year: '2021'

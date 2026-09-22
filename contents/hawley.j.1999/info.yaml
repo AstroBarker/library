@@ -1,0 +1,48 @@
+abstract: We employ a variety of numerical simulations in the local shearing box system
+  to investigate in greater depth the local hydrodynamic stability of Keplerian differential
+  rotation. In particular, we explore the relationship of Keplerian shear to the nonlinear
+  instabilities known to exist in simple Cartesian shear. The Coriolis force is the
+  source of linear stabilization in differential rotation. We exploit the formal equivalence
+  of constant angular momentum flows and simple Cartesian shear to examine the transition
+  from stability to nonlinear instability. The manifestation of nonlinear instability
+  in simple shear flows is known to be sensitive to initial perturbation and the amount
+  of viscosity; marginally (linearly) stable differentially rotating flows exhibit
+  this same sensitivity. Keplerian systems, however, are completely stable; stabilizing
+  Coriolis forces easily overwhelm any destabilizing nonlinear effects. If anything,
+  nonlinear effects speed the decay of applied turbulence by producing a rapid cascade
+  of energy to high wavenumbers where dissipation occurs. We test our conclusions
+  with grid-resolution experiments and by comparing the results of codes with very
+  different diffusive properties. The detailed agreement of the decay of nonlinear
+  disturbances found repeatedly in codes with very different diffusive behaviors strongly
+  suggests that Keplerian stability is not a numerical artifact. The properties of
+  hydrodynamic differential rotation are contrasted with magnetohydrodynamic differential
+  rotation. A kinetic stress tensor couples to the outwardly increasing vorticity,
+  which limits turbulence; a magnetic stress couples to the outwardly decreasing shear,
+  which promotes turbulence. Thus magnetohydrodynamic turbulence is uniquely capable
+  of acting as a turbulent angular momentum transport mechanism in disks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...518..394H
+arxivurl: http://arxiv.org/abs/astro-ph/9811057
+author: Hawley, J. F. and Balbus, S. A. and Winters, W. F.
+author_list:
+- family: Hawley
+  given: J. F.
+- family: Balbus
+  given: S. A.
+- family: Winters
+  given: W. F.
+date-added: 2017-08-11 00:08:30 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307282
+eprint: astro-ph/9811057
+journal: \apj
+keywords: 'ACCRETION, ACCRETION DISKS, HYDRODYNAMICS, INSTABILITIES, STARS: PRE-MAIN-SEQUENCE,
+  Accretion, Accretion Disks, Hydrodynamics, Instabilities, Stars: Pre-Main-Sequence'
+month: June
+pages: 394--404
+papis_id: a75a2ccc34c5d2e880cb77e2a6440674
+ref: hawley.j.1999
+title: Local Hydrodynamic Stability of Accretion Disks
+type: article
+volume: '518'
+year: '1999'

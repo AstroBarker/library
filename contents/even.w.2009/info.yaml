@@ -1,0 +1,35 @@
+abstract: We have developed a self-consistent-field (SCF) technique similar to the
+  one described by Hachisu et al. in 1986 that can be used to construct detailed force-balanced
+  models of synchronously rotating, double white dwarf (DWD) binaries that have a
+  wide range of total masses, mass ratios, and separations. In addition to providing
+  a computational tool that can be used to provide quiet initial starts for dynamical
+  studies of the onset of mass transfer in DWD systems, we show that this SCF technique
+  can be used to construct model sequences that mimic the last portion of the detached
+  inspiral phase of DWD binary evolutions, and semi-detached model sequences that
+  mimic a phase of conservative mass transfer.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJS..184..248E
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0908.2116
+author: Even, W. and Tohline, J. E.
+author_list:
+- family: Even
+  given: W.
+- family: Tohline
+  given: J. E.
+date-added: 2017-08-10 19:14:46 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0067-0049/184/2/248
+eprint: '0908.2116'
+journal: \apjs
+keywords: 'binaries: close, hydrodynamics, methods: numerical, supernovae: general,
+  white dwarfs'
+month: October
+pages: 248--263
+papis_id: 28c996b4e4db9a48d5f1209f17be341a
+primaryclass: astro-ph.SR
+ref: even.w.2009
+title: Constructing Synchronously Rotating Double White Dwarf Binaries
+type: article
+volume: '184'
+year: '2009'

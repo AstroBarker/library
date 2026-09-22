@@ -1,0 +1,47 @@
+abstract: We develop a new numerical scheme for ideal magnetohydrodynamic (MHD)         simulations,
+  which is robust against one- and multidimensional         shocks, and is accurate
+  for low Mach number flows and         discontinuities. The scheme belongs to a family
+  of the advection         upstream splitting method employed in computational         aerodynamics,
+  and it splits the inviscid flux in MHD equations         into advection, pressure,
+  and magnetic tension parts, and then         individually evaluates mass, pressure,
+  and magnetic tension         fluxes at the interface of a computational cell. The
+  mass flux         is designed to avoid numerical shock instability in         multidimensions,
+  while preserving contact discontinuity. The         pressure flux possesses a proper
+  scaling for low Mach number         flows, allowing reliable simulations of nearly
+  incompressible         flows. The magnetic tension flux is built to be consistent
+  with         the HLLD approximate Riemann solver to preserve rotational         discontinuity.
+  We demonstrate various benchmark tests to verify         the novel performance of
+  the scheme. Our results indicate that         the scheme must be a promising tool
+  to tackle astrophysical         systems that include both low and high Mach number
+  flows, as         well as magnetic field inhomogeneities.
+archiveprefix: arXiv
+author: Minoshima, Takashi and Kitamura, Keiichi and Miyoshi, Takahiro
+author_list:
+- family: Minoshima
+  given: Takashi
+- family: Kitamura
+  given: Keiichi
+- family: Miyoshi
+  given: Takahiro
+doi: 10.3847/1538-4365/ab8aee
+eid: '12'
+eprint: '2004.08012'
+file: :Minoshima\_2020\_ApJS\_248\_12.pdf:PDF
+groups: Numerical Methods - General
+journal: \apjs
+keywords: Magnetohydrodynamical simulations, Magnetic fields, Shocks, 1966, 994, 2086,
+  Physics - Computational Physics, Astrophysics - Earth and Planetary Astrophysics,
+  Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar
+  and Stellar Astrophysics, Mathematics - Numerical Analysis
+month: May
+number: '1'
+pages: '12'
+papis_id: 61337cdbb97fdf48f7c73a199653ddd3
+primaryclass: physics.comp-ph
+ref: minoshima.takashi.2020
+title: A Multistate Low-dissipation Advection Upstream Splitting Method for Ideal
+  Magnetohydrodynamics
+type: article
+url: https://ui.adsabs.harvard.edu/abs/2020ApJS..248...12M
+volume: '248'
+year: '2020'

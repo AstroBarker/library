@@ -1,0 +1,50 @@
+abstract: A moderately spinning neutron star acquires an oblate shape and a spacetime
+  with a significant quadrupole moment. These two properties affect its apparent surface
+  area for an observer at infinity, as well as the light curve arising from a hot
+  spot on its surface. In this paper, we develop a ray-tracing algorithm to calculate
+  the apparent surface areas of moderately spinning neutron stars making use of the
+  Hartle-Thorne metric. This analytic metric allows us to calculate various observables
+  of the neutron star in a way that depends only on its macroscopic properties and
+  not on the details of its equation of state. We use this algorithm to calculate
+  the changes in the apparent surface area, which could play a role in measurements
+  of neutron-star radii and, therefore, in constraining their equation of state. We
+  show that whether a spinning neutron star appears larger or smaller than its non-rotating
+  counterpart depends primarily on its equatorial radius. For neutron stars with radii
+  ~10 km, the corrections to the Schwarzschild spacetime cause the apparent surface
+  area to increase with spin frequency. In contrast, for neutron stars with radii
+  ~15 km, the oblateness of the star dominates the spacetime corrections and causes
+  the apparent surface area to decrease with increasing spin frequency. In all cases,
+  the change in the apparent geometric surface area for the range of observed spin
+  frequencies is lsim5\% and hence only a small source of error in the measurement
+  of neutron-star radii.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...753..175B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.4389
+author: Bauböck, M. and Psaltis, D. and Özel, F. and Johannsen, T.
+author_list:
+- family: Bauböck
+  given: M.
+- family: Psaltis
+  given: D.
+- family: Özel
+  given: F.
+- family: Johannsen
+  given: T.
+date-added: 2017-08-10 22:21:27 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/753/2/175
+eid: '175'
+eprint: '1110.4389'
+journal: \apj
+keywords: 'gravitation, relativistic processes, stars: neutron, stars: rotation'
+month: July
+pages: '175'
+papis_id: aaac659cc45c2366077cbf0138fb0c4f
+primaryclass: astro-ph.HE
+ref: baubock.m.2012
+title: A Ray-tracing Algorithm for Spinning Compact Object Spacetimes with Arbitrary
+  Quadrupole Moments. II. Neutron Stars
+type: article
+volume: '753'
+year: '2012'

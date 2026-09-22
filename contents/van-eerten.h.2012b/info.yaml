@@ -1,0 +1,47 @@
+abstract: We discuss jet dynamics for narrow and wide gamma-ray burst (GRB) afterglow
+  jets and the observational implications of numerical simulations of relativistic
+  jets in two dimensions. We confirm earlier numerical results that sideways expansion
+  of relativistic jets during the bulk of the afterglow emission phase is logarithmic
+  in time and find that this also applies to narrow jets with half opening angle of
+  0.05 rad. As a result, afterglow jets remain highly nonspherical until after they
+  have become nonrelativistic. Although sideways expansion steepens the afterglow
+  light curve after the jet break, the jet edges becoming visible dominates the jet
+  break, which means that the jet break is sensitive to the observer angle even for
+  narrow jets. Failure to take the observer angle into account can lead to an overestimation
+  of the jet energy by up to a factor of four. This weakens the challenge posed to
+  the magneter energy limit by extreme events such as GRB090926A. Late-time radio
+  calorimetry based on a spherical nonrelativistic outflow model remains relevant
+  when the observer is approximately on-axis and where differences of a few in flux
+  level between the model and the simulation are acceptable. However, this does not
+  imply sphericity of the outflow and therefore does not translate to high observer
+  angles relevant to orphan afterglows. For more accurate calorimetry and in order
+  to model significant late-time features such as the rise of the counterjet, detailed
+  jet simulations remain indispensable.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...751..155V
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1105.2485
+author: van Eerten, H. J. and MacFadyen, A. I.
+author_list:
+- family: van Eerten
+  given: H. J.
+- family: MacFadyen
+  given: A. I.
+date-added: 2017-08-11 07:03:35 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0004-637X/751/2/155
+eid: '155'
+eprint: '1105.2485'
+journal: \apj
+keywords: 'gamma-ray burst: general, hydrodynamics, methods: numerical, relativistic
+  processes, shock waves'
+month: June
+pages: '155'
+papis_id: e50ef18a82adbaa8392e8e90f6da1755
+primaryclass: astro-ph.HE
+ref: van_eerten.h.2012b
+title: Observational Implications of Gamma-Ray Burst Afterglow Jet Simulations and
+  Numerical Light Curve Calculations
+type: article
+volume: '751'
+year: '2012'

@@ -1,0 +1,45 @@
+abstract: This is a sequel to the previous paper, in which we investigated the structure
+  and stability of the spherically symmetric accretion flows through the standing
+  shock wave onto the proto-neutron star in the postbounce phase of the collapse-driven
+  supernova. Following the prescription in the previous paper, we assume that the
+  accretion flow is in a steady state controlled by the neutrino luminosity and mass
+  accretion rate that are kept constant. We obtain steady solutions for a wide range
+  of neutrino luminosities and mass accretion rates. In so doing, as an extension
+  to the previous models, we employ a realistic EOS and neutrino-heating rate. More
+  importantly, we take into account the effect of convection phenomenologically. For
+  each mass accretion rate, we find the critical neutrino luminosity, above which
+  there exists no steady solution. These critical points are supposed to mark the
+  onset of the shock revival. As the neutrino luminosity increases for a given mass
+  accretion rate, there appears a convectively unstable region at some point before
+  the critical value is reached. We introduce a phenomenological energy flux by convection
+  so that the negative entropy gradient should be canceled out. We find that the convection
+  lowers the critical neutrino luminosity substantially, which is in accord with the
+  results of multidimensional numerical simulations done over the years. We also consider
+  the effect of the self-gravity, which was neglected in the previous paper. It is
+  found that the self-gravity is important only when the neutrino luminosity is high.
+  The critical luminosity, however, is little affected if the energy transport by
+  convection is taken into account.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...650..291Y
+arxivurl: http://arxiv.org/abs/astro-ph/0606504
+author: Yamasaki, T. and Yamada, S.
+author_list:
+- family: Yamasaki
+  given: T.
+- family: Yamada
+  given: S.
+date-added: 2017-08-10 18:14:47 +0000
+date-modified: 2017-12-05 16:37:13 +0000
+doi: 10.1086/507067
+eprint: astro-ph/0606504
+journal: \apj
+keywords: 'Hydrodynamics, Shock Waves, Stars: Supernovae: General'
+month: October
+pages: 291--298
+papis_id: 397a2fabdcc9ca8d4985f4dff29b6057
+ref: yamasaki.t.2006
+title: 'Standing Accretion Shocks in the Supernova Core: Effects of Convection and
+  Realistic Equations of State'
+type: article
+volume: '650'
+year: '2006'

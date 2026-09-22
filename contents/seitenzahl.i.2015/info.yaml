@@ -1,0 +1,84 @@
+abstract: 'We show that the X-ray line flux of the Mn Kalpha line at 5.9 keV from
+  the decay of 55Fe is a promising diagnostic to distinguish between Type Ia supernova
+  (SN Ia) explosion models. Using radiation transport calculations, we compute the
+  line flux for two three-dimensional explosion models: a near-Chandrasekhar mass
+  delayed detonation and a violent merger of two (1.1 and 0.9 M\&sun;) white dwarfs.
+  Both models are based on solar metallicity zero-age main-sequence progenitors. Due
+  to explosive nuclear burning at higher density, the delayed-detonation model synthesizes
+  \texttildelow{}3.5 times more radioactive 55Fe than the merger model. As a result,
+  we find that the peak Mn Kalpha line flux of the delayed-detonation model exceeds
+  that of the merger model by a factor of \texttildelow{}4.5. Since in both models
+  the 5.9-keV X-ray flux peaks five to six years after the explosion, a single measurement
+  of the X-ray line emission at this time can place a constraint on the explosion
+  physics that is complementary to those derived from earlier phase optical spectra
+  or light curves. We perform detector simulations of current and future X-ray telescopes
+  to investigate the possibilities of detecting the X-ray line at 5.9 keV. Of the
+  currently existing telescopes, XMM-Newton/pn is the best instrument for close (\lessequivlnt{}1-2
+  Mpc), non-background limited SNe Ia because of its large effective area. Due to
+  its low instrumental background, Chandra/ACIS is currently the best choice for SNe
+  Ia at distances above \texttildelow{}2 Mpc. For the delayed-detonation scenario,
+  a line detection is feasible with Chandra up to \texttildelow{}3 Mpc for an exposure
+  time of 106 s. We find that it should be possible with currently existing X-ray
+  instruments (with exposure times \lessequivlnt{}5 \texttimes{} 105 s) to detect
+  both of our models at sufficiently high S/N to distinguish between them for hypothetical
+  events within the Local Group. The prospects for detection will be better with future
+  missions. For example, the proposed Athena/X-IFU instrument could detect our delayed-detonation
+  model out to a distance of \texttildelow{}5 Mpc. This would make it possible to
+  study future events occurring during its operational life at distances comparable
+  to those of the recent supernovae SN 2011fe (\texttildelow{}6.4 Mpc) and SN 2014J
+  (\texttildelow{}3.5 Mpc).'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.447.1484S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1412.0835
+author: Seitenzahl, I. R. and Summa, A. and Krauß, F. and Sim, S. A. and Diehl, R.
+  and Elsässer, D. and Fink, M. and Hillebrandt, W. and Kromer, M. and Maeda, K. and
+  Mannheim, K. and Pakmor, R. and Röpke, F. K. and Ruiter, A. J. and Wilms, J.
+author_list:
+- family: Seitenzahl
+  given: I. R.
+- family: Summa
+  given: A.
+- family: Krauß
+  given: F.
+- family: Sim
+  given: S. A.
+- family: Diehl
+  given: R.
+- family: Elsässer
+  given: D.
+- family: Fink
+  given: M.
+- family: Hillebrandt
+  given: W.
+- family: Kromer
+  given: M.
+- family: Maeda
+  given: K.
+- family: Mannheim
+  given: K.
+- family: Pakmor
+  given: R.
+- family: Röpke
+  given: F. K.
+- family: Ruiter
+  given: A. J.
+- family: Wilms
+  given: J.
+date-added: 2017-08-11 07:17:18 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2537
+eprint: '1412.0835'
+journal: \mnras
+keywords: 'line: formation, nuclear reactions, nucleosynthesis, abundances, radiative
+  transfer, supernovae: general, white dwarfs, X-rays: general'
+month: February
+pages: 1484--1490
+papis_id: e493a4601558ad609e8cfd338aa27e3f
+primaryclass: astro-ph.HE
+ref: seitenzahl.i.2015
+title: 5.9-keV Mn K-shell X-ray luminosity from the decay of $^55$Fe in Type Ia supernova
+  models
+type: article
+volume: '447'
+year: '2015'

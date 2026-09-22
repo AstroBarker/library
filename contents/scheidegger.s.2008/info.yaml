@@ -1,0 +1,46 @@
+abstract: We present the gravitational wave analyses from rotating (model s15g) and
+  nearly non-rotating (model s15h) 3D MHD core collapse supernova simulations at bounce
+  and during the first couple of ten milliseconds afterwards. The simulations are
+  launched from 15 M\&sun; progenitor models stemming from stellar-evolution calculations.
+  Gravity is implemented by a spherically symmetric effective general relativistic
+  potential. The input physics uses the Lattimer-Swesty equation of state for hot,
+  dense matter and a neutrino parametrisation scheme that is accurate until the first
+  few ms after bounce. The 3D simulations allow us to study features already known
+  from 2D simulations, as well as nonaxisymmetric effects. In agreement with recent
+  results, we find only type I gravitational wave signals at core bounce. In the later
+  stage of the simulations, one of our models (s15g) shows nonaxisymmetric gravitational
+  wave emission caused by a low T/\vert{}W\vert{} dynamical instability, while the
+  other model radiates gravitational waves due to a convective instability in the
+  protoneutron star. The total energy released in gravitational waves within the considered
+  time intervals is 1.52\texttimes{}10-7~M\&sun; (s15g) and 4.72\texttimes{}10-10~M\&sun;
+  (s15h). Both core collapse simulations indicate that corresponding events in our
+  Galaxy would be detectable either by the LIGO or Advanced LIGO detector.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008A\%26A...490..231S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0709.0168
+author: Scheidegger, S. and Fischer, T. and Whitehouse, S. C. and Liebendörfer, M.
+author_list:
+- family: Scheidegger
+  given: S.
+- family: Fischer
+  given: T.
+- family: Whitehouse
+  given: S. C.
+- family: Liebendörfer
+  given: M.
+date-added: 2017-08-10 21:33:57 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1051/0004-6361:20078577
+eprint: '0709.0168'
+journal: \aap
+keywords: 'gravitational waves, supernovae: general, hydrodynamics, neutrinos, stars:
+  rotation, stars: neutron'
+month: October
+pages: 231--241
+papis_id: 24bce1820abe3ade5eb54188b9264950
+ref: scheidegger.s.2008
+title: Gravitational waves from 3D MHD core collapse simulations
+type: article
+volume: '490'
+year: '2008'

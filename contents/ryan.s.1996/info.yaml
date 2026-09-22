@@ -1,0 +1,70 @@
+abstract: 'We have obtained high-resolution spectra of 23 very metal-poor stars and
+  present an abundance analysis for 19 of these for elements between Mg and Eu. The
+  sample comprises roughly equal numbers of dwarfs and giants. All stars have [Fe/H]
+  < -2.5, and 10 have [Fe/H] < -3.0. In addition, for six stars with [Fe/H] < -3.0,
+  we compile equivalent widths from the literature (including our own studies) and
+  recompute abundances. Possible errors in the stellar atmospheric models are discussed
+  in detail. Hyperfine-structure corrections are presented for Mn and Co. We use robust
+  techniques to delineate the main trends in the [X/Fe] versus [Fe/H] plots and compare
+  these with the Galactic chemical evolution computations of Timmes, Woosley, \& Weaver.  The
+  main results are as follows: The lowest abundance we derive for a previously unobserved
+  star is [Fe/H] = -3.57, for CS 22172-002. There are now six stars with [Fe/H] <
+  -3.50 as determined from high-resolution analyses. The alphaelements Mg, Si, Ca,
+  and Ti possess almost uniform overabundances (relative to iron) down to at least
+  [Fe/H] = -4, the current limit of observations. [Mg/Fe] increases slightly at [Fe/H]
+  < -2.5, but the slope is only -0.15 dex dex-1 and may be due to systematic errors.
+  Ti behaves like the other alphaelements, contrary to stellar nucleosynthetic calculations.
+  Stars with [Fe/H] < -2.5 reach a plateau in [M/Fe] -0.8 that extends at least down
+  to [Fe/H] = -4, but Baumueller \& Gehren have advised of the need for +0.5 dex non-LTE
+  corrections in the dwarfs, leading to a revised plateau nearer [Al/Fe] ~= -0.3.
+  This level is qualitatively consistent with an odd-even effect for Mg and Al, and
+  in quantitative agreement with Timmes et al.''s Galactic chemical evolution model.
+  We confirm the underabundance of [Cr/Fe] and [Mn/Fe], and the overabundance of [Co/Fe],
+  in stars with [Fe/H] < -2.5 that was highlighted by MeWilliam et al. In addition,
+  we point to a mild overabundance in [Ni/Fe], though this may be dominated by a few
+  stars that have higher than normal [Ni/Fe] but that do not reflect an overall trend.
+  Like CS 22949-037, discussed by McWilliam et al., CS 22876-032 shows real variations
+  in yields, with Al and Mg produced in their normal ratios to one another but with
+  underabundances in [Si/Fe], [Ca/Fe], and possibly [Sc/Fe]. It is clear from several
+  elements that real star-to-star abundance differences are common at the lowest metallicities.
+  Sr is measured in most of our stars, but Y and Ba are generally strong enough only
+  in the giants. [Sr/Fe] shows a spread greater than 2 dex (i.e., by a factor in excess
+  of 100) at [Fe/H] < -3, greatly exceeding reasonable errors in the measurement This
+  spread exists for both dwarfs and giants. [Ba/Fe] decreases as [Fe/H] falls below
+  -2.0, and it exhibits less scatter than [Sr/Fe]. A small number of stars with [Ba/Fe]
+  > 0 deserve further study. CS 22897-008 has high Sr, Y, and C abundances for its
+  [Fe/H] but normal Ba. This signature may have arisen from the weak s-process in
+  M> 15 Msun stars or by r-processing.  By combining an analytic description of gaseous
+  supernova remnants with supernova yields, we show that enrichment of the interstellar
+  medium is influenced more by supernova physics (explosive energy) than by environmental
+  conditions (cloud density). If supernova iron-peak yields are correlated with explosion
+  energy, we can accommodate the well-defined abundance trends with a chaotic picture
+  for halo formation involving independently evolving clouds, as was envisaged by
+  Searle \& Zinn. We calculate that a typical enrichment in the protohalo will produce
+  [Fe/H] = -2.7. This coincides with larger abundance variations in field stars of
+  lower metallicity and the lower abundance limit for Galactic globular clusters.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...471..254R
+author: Ryan, S. G. and Norris, J. E. and Beers, T. C.
+author_list:
+- family: Ryan
+  given: S. G.
+- family: Norris
+  given: J. E.
+- family: Beers
+  given: T. C.
+date-added: 2017-08-10 18:42:30 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/177967
+journal: \apj
+keywords: 'GALAXY: FORMATION, NUCLEAR REACTIONS, NUCLEOSYNTHESIS, ABUNDANCES, STARS:
+  ABUNDANCES, STARS: POPULATION II, STARS: SUBDWARFS'
+month: November
+pages: '254'
+papis_id: 9cc829f00f6cc350f1c11ddcad09ce5a
+ref: ryan.s.1996
+title: Extremely Metal-poor Stars. II. Elemental Abundances and the Early Chemical
+  Enrichment of the Galaxy
+type: article
+volume: '471'
+year: '1996'

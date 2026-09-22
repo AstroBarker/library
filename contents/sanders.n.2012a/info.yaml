@@ -1,0 +1,140 @@
+abstract: We report on our serendipitous pre-discovery detection and follow-up observations
+  of the broad-lined Type Ic supernova (SN Ic) 2010ay at z = 0.067 imaged by the Pan-STARRS1
+  3pi survey just ~4 days after explosion. The supernova (SN) had a peak luminosity,
+  MR \approx{} -20.2 mag, significantly more luminous than known GRB-SNe and one of
+  the most luminous SNe Ib/c ever discovered. The absorption velocity of SN 2010ay
+  is v Si \approx{} 19 \texttimes{} 103 km s-1 at ~40 days after explosion, 2-5 times
+  higher than other broad-lined SNe and similar to the GRB-SN 2010bh at comparable
+  epochs. Moreover, the velocity declines ~2 times slower than other SNe Ic-BL and
+  GRB-SNe. Assuming that the optical emission is powered by radioactive decay, the
+  peak magnitude implies the synthesis of an unusually large mass of 56Ni, M Ni =
+  0.9 M \&sun;. Applying scaling relations to the light curve, we estimate a total
+  ejecta mass, M ej \approx{} 4.7 M \&sun;, and total kinetic energy, EK \approx{}
+  11 \texttimes{} 1051 erg. The ratio of M Ni to M ej is ~2 times as large for SN
+  2010ay as typical GRB-SNe and may suggest an additional energy reservoir. The metallicity
+  (log (O/H)PP04 + 12 = 8.19) of the explosion site within the host galaxy places
+  SN 2010ay in the low-metallicity regime populated by GRB-SNe, and ~0.5(0.2) dex
+  lower than that typically measured for the host environments of normal (broad-lined)
+  SNe Ic. We constrain any gamma-ray emission with E gamma <~ 6 \texttimes{} 1048
+  erg (25-150 keV), and our deep radio follow-up observations with the Expanded Very
+  Large Array rule out relativistic ejecta with energy E >~ 1048 erg. We therefore
+  rule out the association of a relativistic outflow like those that accompanied SN
+  1998bw and traditional long-duration gamma-ray bursts (GRBs), but we place less-stringent
+  constraints on a weak afterglow like that seen from XRF 060218. If this SN did not
+  harbor a GRB, these observations challenge the importance of progenitor metallicity
+  for the production of relativistic ejecta and suggest that other parameters also
+  play a key role.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756..184S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.2363
+author: Sanders, N. E. and Soderberg, A. M. and Valenti, S. and Foley, R. J. and Chornock,
+  R. and Chomiuk, L. and Berger, E. and Smartt, S. and Hurley, K. and Barthelmy, S.
+  D. and Levesque, E. M. and Narayan, G. and Botticella, M. T. and Briggs, M. S. and
+  Connaughton, V. and Terada, Y. and Gehrels, N. and Golenetskii, S. and Mazets, E.
+  and Cline, T. and von Kienlin, A. and Boynton, W. and Chambers, K. C. and Grav,
+  T. and Heasley, J. N. and Hodapp, K. W. and Jedicke, R. and Kaiser, N. and Kirshner,
+  R. P. and Kudritzki, R.-P. and Luppino, G. A. and Lupton, R. H. and Magnier, E.
+  A. and Monet, D. G. and Morgan, J. S. and Onaka, P. M. and Price, P. A. and Stubbs,
+  C. W. and Tonry, J. L. and Wainscoat, R. J. and Waterson, M. F.
+author_list:
+- family: Sanders
+  given: N. E.
+- family: Soderberg
+  given: A. M.
+- family: Valenti
+  given: S.
+- family: Foley
+  given: R. J.
+- family: Chornock
+  given: R.
+- family: Chomiuk
+  given: L.
+- family: Berger
+  given: E.
+- family: Smartt
+  given: S.
+- family: Hurley
+  given: K.
+- family: Barthelmy
+  given: S. D.
+- family: Levesque
+  given: E. M.
+- family: Narayan
+  given: G.
+- family: Botticella
+  given: M. T.
+- family: Briggs
+  given: M. S.
+- family: Connaughton
+  given: V.
+- family: Terada
+  given: Y.
+- family: Gehrels
+  given: N.
+- family: Golenetskii
+  given: S.
+- family: Mazets
+  given: E.
+- family: Cline
+  given: T.
+- family: von Kienlin
+  given: A.
+- family: Boynton
+  given: W.
+- family: Chambers
+  given: K. C.
+- family: Grav
+  given: T.
+- family: Heasley
+  given: J. N.
+- family: Hodapp
+  given: K. W.
+- family: Jedicke
+  given: R.
+- family: Kaiser
+  given: N.
+- family: Kirshner
+  given: R. P.
+- family: Kudritzki
+  given: R.-P.
+- family: Luppino
+  given: G. A.
+- family: Lupton
+  given: R. H.
+- family: Magnier
+  given: E. A.
+- family: Monet
+  given: D. G.
+- family: Morgan
+  given: J. S.
+- family: Onaka
+  given: P. M.
+- family: Price
+  given: P. A.
+- family: Stubbs
+  given: C. W.
+- family: Tonry
+  given: J. L.
+- family: Wainscoat
+  given: R. J.
+- family: Waterson
+  given: M. F.
+date-added: 2017-08-10 16:56:33 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/756/2/184
+eid: '184'
+eprint: '1110.2363'
+journal: \apj
+keywords: 'gamma-ray burst: general, supernovae: general, supernovae: individual:
+  2010ay'
+month: September
+pages: '184'
+papis_id: 252e59e972d50c946378149bad7216d0
+primaryclass: astro-ph.HE
+ref: sanders.n.2012a
+title: SN 2010ay is a Luminous and Broad-lined Type Ic Supernova within a Low-metallicity
+  Host Galaxy
+type: article
+volume: '756'
+year: '2012'

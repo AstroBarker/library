@@ -1,0 +1,49 @@
+abstract: 'The interstellar medium (ISM) is inhomogeneous, with clouds of various
+  temperatures and densities embedded in a tenuous intercloud medium. Shocks propagating
+  through the ISM can ablate or destroy the clouds, at the same time significantly
+  altering the properties of the intercloud medium. This paper presents a comprehensive
+  numerical study of the simplest case of the interaction between a shock wave and
+  a spherical cloud, in which the shock far from the cloud is steady and planar, and
+  in which radiative losses, thermal conduction, magnetic fields, and gravitational
+  forces are all neglected. As a result, the problem is completely specified by two
+  numbers: the Mach number of the shock, M, and the ratio of the density of the cloud
+  to that of the intercloud medium, Chi. For strong shocks we show that the dependence
+  on M scales out, so the primary independent parameter is Chi. Variations from this
+  simple case are also considered: the potential effect of radiative losses is assessed
+  by calculations in which the ratio of specific heats in the cloud is 1.1 instead
+  of 5/3; the effect of the initial shape of the cloud is studied by using a cylindrical
+  cloud instead of a spherical one; and the role of the initial shock is determined
+  by considering the case of a cloud embedded in a wind. Local adaptive mesh refinement
+  techniques with a second-order, two-fluid, two-dimensional Godunov hydrodynamic
+  scheme are used to address these problems, allowing heretofore unobtainable numerical
+  resolution. Convergence studies to be described in a subsequent paper demonstrate
+  that about 100 zones per cloud radius are needed for accurate results; previous
+  calculations have generally used about a third of this number. The results of the
+  calculations are analyzed in terms of global quantities which provide an overall
+  description of te shocked cloud: the size and shape of the cloud, the mean density,
+  the mean pressure, the mean velocity, the velocity dispersion, and the total circulation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...420..213K
+author: Klein, R. I. and McKee, C. F. and Colella, P.
+author_list:
+- family: Klein
+  given: R. I.
+- family: McKee
+  given: C. F.
+- family: Colella
+  given: P.
+date-added: 2017-08-10 21:58:02 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1086/173554
+journal: \apj
+keywords: Interstellar Matter, Molecular Clouds, Shock Wave Interaction, Supernova
+  Remnants, Computational Grids, Gas Dynamics, Hydrodynamics, Mach Number, Wave Propagation
+month: January
+pages: 213--236
+papis_id: 4c33584e8b73a1f7057377486bc397c2
+ref: klein.r.1994
+title: 'On the hydrodynamic interaction of shock waves with interstellar clouds. 1:
+  Nonradiative shocks in small clouds'
+type: article
+volume: '420'
+year: '1994'

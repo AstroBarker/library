@@ -1,0 +1,44 @@
+abstract: Recently, Hennebelle and Chabrier derived an analytical theory for the mass
+  spectrum of non-self-gravitating clumps associated with overdensities in molecular
+  clouds and for the initial mass function (IMF) of gravitationally bound prestellar
+  cores, as produced by the turbulent collapse of the cloud. In this companion paper,
+  we examine the effects of the nonisothermality of the flow, of the turbulence forcing
+  and of local fluctuation of the velocity dispersion, on the mass function. In particular,
+  we investigate the influence of a polytropic equation of state (eos) and of the
+  effective adiabatic exponent gamma and find that it has a drastic influence on the
+  low-mass part of the IMF. We also consider a barotropic eos (i.e., a piecewise polytropic
+  eos) that mimics the thermal behavior of the molecular gas and compare the prediction
+  of our theory with the results of numerical simulations and with the observationally
+  derived IMF, for cloud parameters which satisfy Larson-type relations. We find that
+  for clouds whose density is, at all scales, almost an order of magnitude larger
+  than the density inferred for the CO clumps in the Galaxy, a good agreement is obtained
+  between the theory and the observed IMF, suggesting that star formation preferentially
+  occurs in high-density environments. We derive an analytical expression for the
+  IMF which generalizes the expression previously obtained for the isothermal case.
+  This easy-to-implement analytical IMF should serve as a template to compare observational
+  or numerical results with the theory.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...702.1428H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.2765
+author: Hennebelle, P. and Chabrier, G.
+author_list:
+- family: Hennebelle
+  given: P.
+- family: Chabrier
+  given: G.
+date-added: 2017-08-11 01:24:59 +0000
+date-modified: 2017-12-05 16:36:54 +0000
+doi: 10.1088/0004-637X/702/2/1428
+eprint: '0907.2765'
+journal: \apj
+keywords: 'ISM: clouds, stars: formation, stars: luminosity function, mass function,
+  turbulence'
+month: September
+pages: 1428--1442
+papis_id: df930f9b57e89ceac61bba63b04f0d27
+ref: hennebelle.p.2009
+title: Analytical Theory for the Initial Mass Function. II. Properties of the Flow
+type: article
+volume: '702'
+year: '2009'

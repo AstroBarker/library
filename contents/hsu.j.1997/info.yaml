@@ -1,0 +1,48 @@
+abstract: An initially static, plane-parallel, radiation pressure supported exponential
+  atmosphere in a strong magnetic field is found to be unstable to the growth of buoyant
+  low-density regions or ``photon bubbles'' in linear stability analysis. Here we
+  present a series of numerical studies of the photon bubbles in such an atmosphere
+  carried out using a quasi-two-dimensional radiation hydrodynamical code. When a
+  single-mode perturbation is applied to the atmosphere, we find that the growth of
+  these bubbles is in good agreement with the linear theory. When the evolution becomes
+  nonlinear, the growth of the photon bubbles is found to be an efficient mechanism
+  of energy transport. The presence of the low-density regions helps to increase the
+  photon diffusion speed by a factor of several, while the buoyancy of the bubbles
+  serves to transport energy via advection. Multimode studies, consisting of a perturbation
+  with the linear combination of two single modes and a random perturbation, suggest
+  that there is a tendency toward merger of the photon bubbles in their transport
+  properties. The small wavenumber modes eventually dominate in radiation pressure,
+  while the large wavenumber modes, although having higher growth rates, also saturate
+  more quickly, and their contribution to the energy transport can be truncated. A
+  grid study and the multimode calculations indicate that the energy transport through
+  the atmosphere is well represented as long as the photon bubble mode with optical
+  depth of ~10 over a wavelength is well resolved.  Possible applications of the photon
+  bubble instability includes the settling layer in the accretion column of a neutron
+  star undergoing super-Eddington accretion. The enhanced energy transport may manifest
+  itself in the emergent spectrum from the accreting pulsars and in the short-time
+  variability in the light curves.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...478..663H
+author: Hsu, J. J. L. and Arons, J. and Klein, R. I.
+author_list:
+- family: Hsu
+  given: J. J. L.
+- family: Arons
+  given: J.
+- family: Klein
+  given: R. I.
+date-added: 2017-08-11 04:14:31 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303801
+journal: \apj
+keywords: 'Hydrodynamics, Radiative Transfer, Stars: Atmospheres, Stars: Magnetic
+  Fields, Stars: Neutron'
+month: March
+pages: 663--677
+papis_id: b9ea166026e8006940e745433b0b9137
+ref: hsu.j.1997
+title: Numerical Studies of Photon Bubble Instability in a Magnetized, Radiation-dominated
+  Atmosphere
+type: article
+volume: '478'
+year: '1997'

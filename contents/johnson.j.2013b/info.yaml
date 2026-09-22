@@ -1,0 +1,53 @@
+abstract: With the first metal enrichment by Population III (Pop III) supernovae (SNe),
+  the formation of the first metal-enriched, Pop II stars becomes possible. In turn,
+  Pop III star formation and early metal enrichment are slowed by the high-energy
+  radiation emitted by Pop II stars. Thus, through the SNe and radiation they produce,
+  Pops II and III co-evolve in the early Universe, one regulated by the other. We
+  present large (4 Mpc)3, high-resolution cosmological simulations in which we self-consistently
+  model early metal enrichment and the stellar radiation responsible for the destruction
+  of the coolants (H2 and HD) required for Pop III star formation. We find that the
+  molecule-dissociating stellar radiation produced both locally and over cosmological
+  distances reduces the Pop III star formation rate at z \greaterequivlnt{} 10 by
+  up to an order of magnitude, to a rate per comoving volume of \lessequivlnt{} 10-
+  4 M\&sun; yr- 1 Mpc- 3, compared to the case in which this radiation is not included.
+  However, we find that the effect of Lyman-Werner (LW) feedback is to enhance the
+  amount of Pop II star formation. We attribute this to the reduced rate at which
+  gas is blown out of dark matter haloes by SNe in the simulation with LW feedback,
+  which results in larger reservoirs for metal-enriched star formation. Even accounting
+  for metal enrichment, molecule-dissociating radiation and the strong suppression
+  of low-mass galaxy formation due to reionization at z \lessequivlnt{} 10, we find
+  that Pop III stars are still formed at a rate of \texttildelow{} 10- 5 M\&sun; yr-
+  1 Mpc- 3 down to z \texttildelow{} 6. This suggests that the majority of primordial
+  pair-instability SNe that may be uncovered in future surveys will be found at z
+  \lessequivlnt{} 10. We also find that the molecule-dissociating radiation emitted
+  from Pop II stars may destroy H2 molecules at a high enough rate to suppress gas
+  cooling and allow for the formation of supermassive primordial stars which collapse
+  to form \texttildelow{} 105 M\&sun; black holes.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428.1857J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.5824
+author: Johnson, J. L. and Dalla Vecchia, C. and Khochfar, S.
+author_list:
+- family: Johnson
+  given: J. L.
+- family: Dalla Vecchia
+  given: C.
+- family: Khochfar
+  given: S.
+date-added: 2017-08-10 21:44:19 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts011
+eprint: '1206.5824'
+journal: \mnras
+keywords: 'molecular processes, galaxies: formation, galaxies: high-redshift, intergalactic
+  medium, cosmology: theory, early Universe'
+month: January
+pages: 1857--1872
+papis_id: c4e52b6d73f9b499a2b641b5c93152eb
+ref: johnson.j.2013b
+title: 'The First Billion Years project: the impact of stellar radiation on the co-evolution
+  of Populations II and III'
+type: article
+volume: '428'
+year: '2013'

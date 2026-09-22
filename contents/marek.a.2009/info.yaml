@@ -1,0 +1,61 @@
+abstract: We present two-dimensional hydrodynamic simulations of stellar core collapse
+  and develop the framework for a detailed analysis of the energetic aspects of neutrino-powered
+  supernova explosions. Our results confirm that the neutrino-heating mechanism remains
+  a viable explanation of the explosion of a wider mass range of supernova progenitors
+  with iron cores, but the explosion sets in later and develops differently than thought
+  so far. The calculations were performed with an energy-dependent treatment of the
+  neutrino transport based on the "ray-by-ray plus" approximation, in which the neutrino
+  number, energy, and momentum equations are closed with a variable Eddington factor
+  obtained by iteratively solving a model Boltzmann equation. We focus here on the
+  evolution of a 15 M sun progenitor and provide evidence that shock revival and an
+  explosion are initiated at about 600 ms after core bounce, powered by neutrino energy
+  deposition. This is significantly later than previously found for an 11.2 M sun
+  star, for which we also present a continuation of the explosion model published
+  by Buras et al. The onset of the blast is fostered in both cases by the standing
+  accretion-shock instability. This instability exhibits highest growth rates for
+  the dipole and quadrupole modes, which lead to large-amplitude bipolar shock oscillations
+  and push the shock to larger radii, thus increasing the time accreted matter is
+  exposed to neutrino heating in the gain layer. As a consequence, also convective
+  overturn behind the shock is strengthened, which otherwise is suppressed or damped
+  because of the small shock stagnation radius. When the explosion sets in, the shock
+  reveals a pronounced global deformation with a dominant dipolar component. In both
+  the 11.2 M sun and 15 M sun explosions long-lasting equatorial downflows supply
+  the gain layer with fresh gas, of which a sizable fraction is heated by neutrinos
+  and leads to the build-up of the explosion energy of the ejecta over possibly hundreds
+  of milliseconds. A "soft" nuclear equation of state that causes a rapid contraction,
+  and a smaller radius of the forming neutron star and thus a fast release of gravitational
+  binding energy, seems to be more favorable for the development of an explosion.
+  Rotation has the opposite effect because in the long run it leads to a more extended
+  and cooler neutron star and thus lower neutrino luminosities and mean energies and
+  overall less neutrino heating. Neutron star g-mode oscillations, although we see
+  their presence, and the acoustic mechanism play no important role in our simulations.
+  While numerical tests show that our code is also well able to follow large-amplitude
+  core g-modes if they are instigated; the amplitude of such oscillations remains
+  small in our supernova runs and the acoustic energy flux injected by the ringing
+  neutron star and by the deceleration of supersonic downflows near the neutron star
+  surface is small compared to the neutrino energy deposition.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...694..664M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.3372
+author: Marek, A. and Janka, H.-T.
+author_list:
+- family: Marek
+  given: A.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:37:43 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/694/1/664
+eprint: '0708.3372'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, supernovae: general'
+month: March
+pages: 664--696
+papis_id: 565706df70cc630c8a1deeb2d78530dd
+ref: marek.a.2009
+title: Delayed Neutrino-Driven Supernova Explosions Aided by the Standing Accretion-Shock
+  Instability
+type: article
+volume: '694'
+year: '2009'

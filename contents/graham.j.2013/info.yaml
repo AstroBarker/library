@@ -1,0 +1,56 @@
+abstract: Recently, it has been suggested that the metallicity aversion of Long-duration
+  Gamma Ray Bursts (LGRBs) is not intrinsic to their formation, but rather a consequence
+  of the anti-correlation between star formation and metallicity seen in the general
+  galaxy population. To investigate this proposal, we compare the metallicity of the
+  hosts of LGRBs, broad-lined Type Ic (Ic-bl) supernovae (SNe), and Type II SNe to
+  each other and to the metallicity distribution of star-forming galaxies using the
+  Sloan Digital Sky Survey (SDSS) to represent galaxies in the local universe and
+  the Team Keck Redshift Survey (TKRS) for galaxies at intermediate redshifts. The
+  differing metallicity distributions of LGRB hosts and the star formation in local
+  galaxies forces us to conclude that the low-metallicity preference of LGRBs is not
+  primarily driven by the anti-correlation between star formation and metallicity,
+  but rather must be overwhelmingly due to the astrophysics of the LGRBs themselves.
+  Three quarters of our LGRB sample are found at metallicities below 12+log(O/H) <
+  8.6, while less than a one-tenth of local star formation is at similarly low metallicities.
+  However, our SN samples are statistically consistent with the metallicity distribution
+  of the general galaxy population. Additionally, we show that the star formation
+  rate distribution of the LGRB and SNe host populations are consistent with the star
+  formation rate distribution of the SDSS galaxy sample. This provides further evidence
+  that the low-metallicity distribution of LGRBs is not caused by the general properties
+  of star-forming galaxies. Using the TKRS population of galaxies, we can exclude
+  the possibility that the LGRB host metallicity aversion is caused by the decrease
+  in galaxy metallicity with redshift, as this effect is clearly much smaller than
+  the observed LGRB host metallicity bias over the redshift span of our sample. The
+  presence of the strong metallicity difference between LGRBs and Type Ic-bl SNe largely
+  eliminates the possibility that the observed LGRB metallicity bias is a byproduct
+  of a difference in the initial mass functions of the galaxy populations. Rather,
+  metallicity below half-solar must be a fundamental component of the evolutionary
+  process that separates LGRBs from the vast majority of Type Ic-bl SNe and from the
+  bulk of local star formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...774..119G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1211.7068
+author: Graham, J. F. and Fruchter, A. S.
+author_list:
+- family: Graham
+  given: J. F.
+- family: Fruchter
+  given: A. S.
+date-added: 2017-08-10 16:53:19 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1088/0004-637X/774/2/119
+eid: '119'
+eprint: '1211.7068'
+journal: \apj
+keywords: 'galaxies: abundances, galaxies: star formation, galaxies: statistics, gamma-ray
+  burst: general, supernovae: general'
+month: September
+pages: '119'
+papis_id: 049c5ad5cc556d134db4681455c6a809
+primaryclass: astro-ph.HE
+ref: graham.j.2013
+title: The Metal Aversion of Long-duration Gamma-Ray Bursts
+type: article
+volume: '774'
+year: '2013'

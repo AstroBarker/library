@@ -1,0 +1,56 @@
+abstract: 'Aims.To investigate the spectroscopic properties of a selected optical
+  photospheric spectra of core collapse supernovae (CCSNe). Special attention is devoted
+  to traces of hydrogen at early phases. The impact on the physics and nature of their
+  progenitors is emphasized. Methods: .The CCSNe-sample spectra are analyzed with
+  the parameterized supernova synthetic spectrum code "SYNOW" adopting some simplifying
+  approximations. Results: .The generated spectra are found to match the observed
+  ones reasonably well, including a list of only 23 candidate ions. Guided by SN Ib
+  1990I, the observed trough near 6300 {\AA} is attributed to Halpha in almost all
+  type Ib events, although in some objects it becomes too weak to be discernible,
+  especially at later phases. Alternative line identifications are discussed. Differences
+  in the way hydrogen manifests its presence within CCSNe are highlighted. In type
+  Ib SNe, the Halpha contrast velocity (i.e. line velocity minus the photospheric
+  velocity) seems to increase with time at early epochs, reaching values as high as
+  8000 km s-1 around 15-20 days after maximum and then remains almost constant. The
+  derived photospheric velocities, indicate a lower velocity for type II SNe 1987A
+  and 1999em as compared to SN Ic 1994I and SN IIb 1993J, while type Ib events display
+  a somewhat larger variation. The scatter, around day 20, is measured to be ~5000
+  km s-1. Following two simple approaches, rough estimates of ejecta and hydrogen
+  masses are given. A mass of hydrogen of approximately 0.02 M\_\&sun; is obtained
+  for SN 1990I, while SNe 1983N and 2000H ejected ~0.008 M\_\&sun; and ~0.08 M\_\&sun;
+  of hydrogen, respectively. SN 1993J has a higher hydrogen mass, ~0.7 M\_\&sun; with
+  a large uncertainty. A low mass and thin hydrogen layer with very high ejection
+  velocities above the helium shell, is thus the most likely scenario for type Ib
+  SNe. Some interesting and curious issues relating to oxygen lines suggest future
+  investigations.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...450..305E
+arxivurl: http://arxiv.org/abs/astro-ph/0512572
+author: Elmhamdi, A. and Danziger, I. J. and Branch, D. and Leibundgut, B. and Baron,
+  E. and Kirshner, R. P.
+author_list:
+- family: Elmhamdi
+  given: A.
+- family: Danziger
+  given: I. J.
+- family: Branch
+  given: D.
+- family: Leibundgut
+  given: B.
+- family: Baron
+  given: E.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-10 23:58:50 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1051/0004-6361:20054366
+eprint: astro-ph/0512572
+journal: \aap
+month: April
+pages: 305--330
+papis_id: a2de1c7a3874873b4cd50f5af40a34b2
+ref: elmhamdi.a.2006
+title: Hydrogen and helium traces in type Ib-c supernovae
+type: article
+volume: '450'
+year: '2006'

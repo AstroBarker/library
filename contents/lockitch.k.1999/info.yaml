@@ -1,0 +1,48 @@
+abstract: Almost none of the r-modes ordinarily found in rotating stars exist, if
+  the star and its perturbations obey the same one-parameter equation of state; and
+  rotating relativistic stars with one-parameter equations of state have no pure r-modes
+  at all, no modes whose limit, for a star with zero angular velocity, is a perturbation
+  with axial parity. Similarly (as we show here), rotating stars of this kind have
+  no pure g-modes, no modes whose spherical limit is a perturbation with polar parity
+  and vanishing perturbed pressure and density. Where have these modes gone? In spherical
+  stars of this kind, r-modes and g-modes form a degenerate zero-frequency subspace.
+  We find that rotation splits the degeneracy to zeroth order in the star's angular
+  velocity Omega, and the resulting modes are generically hybrids, whose limit as
+  Omega-->0 is a stationary current with axial and polar parts. Lindblom \& Ipser
+  have recently found these hybrid modes in an analytic study of the Maclaurin spheroids.
+  Since the hybrid modes have a rotational restoring force, they call them ``rotation
+  modes'' or ``generalized r-modes.'' Because each mode has definite parity, its axial
+  and polar parts have alternating values of l. We show that each mode belongs to
+  one of two classes, axial-led or polar-led, depending on whether the spherical harmonic
+  with lowest value of l that contributes to its velocity field is axial or polar.
+  We numerically compute these modes for slowly rotating polytropes and for Maclaurin
+  spheroids, using a straightforward method that appears to be novel and robust. Timescales
+  for the gravitational-wave driven instability and for viscous damping are computed
+  using assumptions appropriate to neutron stars. The instability to nonaxisymmetric
+  modes is, as expected, dominated by the l=m r-modes with simplest radial dependence,
+  the only modes which retain their axial character in isentropic models; for relativistic
+  isentropic stars, these l=m modes must also be replaced by hybrids of the kind considered
+  here.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...521..764L
+author: Lockitch, K. H. and Friedman, J. L.
+author_list:
+- family: Lockitch
+  given: K. H.
+- family: Friedman
+  given: J. L.
+date-added: 2017-08-11 05:32:44 +0000
+date-modified: 2017-12-05 16:37:40 +0000
+doi: 10.1086/307580
+eprint: gr-qc/9812019
+journal: \apj
+keywords: 'INSTABILITIES, STARS: NEUTRON, STARS: OSCILLATIONS, STARS: ROTATION, Instabilities,
+  Stars: Neutron, Stars: Oscillations, Stars: Rotation'
+month: August
+pages: 764--788
+papis_id: 07aab6be5e795753f10377085c05f8d2
+ref: lockitch.k.1999
+title: Where are the R-Modes of Isentropic Stars?
+type: article
+volume: '521'
+year: '1999'

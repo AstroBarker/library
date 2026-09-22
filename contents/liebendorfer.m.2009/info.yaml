@@ -1,0 +1,51 @@
+abstract: Astrophysical observations originate from matter that interacts with radiation
+  or transported particles. We develop a pragmatic approximation in order to enable
+  multidimensional simulations with basic spectral radiative transfer when the available
+  computational resources are not sufficient to solve the complete Boltzmann transport
+  equation. The distribution function of the transported particles is decomposed into
+  a trapped particle component and a streaming particle component. Their separate
+  evolution equations are coupled by a source term that converts trapped particles
+  into streaming particles. We determine this source term by requiring the correct
+  diffusion limit for the evolution of the trapped particle component. For a smooth
+  transition to the free streaming regime, this "diffusion source" is limited by the
+  matter emissivity. The resulting streaming particle emission rates are integrated
+  over space to obtain the streaming particle flux. Finally, a geometric estimate
+  of the flux factor is used to convert the particle flux to the streaming particle
+  density, which enters the evaluation of streaming particle-matter interactions.
+  The efficiency of the scheme results from the freedom to use different approximations
+  for each particle component. In supernovae, for example, reactions with trapped
+  particles on fast timescales establish equilibria that reduce the number of primitive
+  variables required to evolve the trapped particle component. On the other hand,
+  a stationary-state approximation considerably facilitates the treatment of the streaming
+  particle component. Different approximations may apply in applications to stellar
+  atmospheres, star formation, or cosmological radiative transfer. We compare the
+  isotropic diffusion source approximation with Boltzmann neutrino transport of electron
+  flavor neutrinos in spherically symmetric supernova models and find good agreement.
+  An extension of the scheme to the multidimensional case is also discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...698.1174L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0711.2929
+author: Liebendörfer, M. and Whitehouse, S. C. and Fischer, T.
+author_list:
+- family: Liebendörfer
+  given: M.
+- family: Whitehouse
+  given: S. C.
+- family: Fischer
+  given: T.
+date-added: 2017-08-10 14:41:59 +0000
+date-modified: 2017-12-05 16:36:56 +0000
+doi: 10.1088/0004-637X/698/2/1174
+eprint: '0711.2929'
+journal: \apj
+keywords: 'hydrodynamics, methods: numerical, neutrinos, radiative transfer, supernovae:
+  general'
+month: June
+pages: 1174--1190
+papis_id: b78d019a77b9aeb3947a8541b6c5b0f6
+ref: liebendorfer.m.2009
+title: The Isotropic Diffusion Source Approximation for Supernova Neutrino Transport
+type: article
+volume: '698'
+year: '2009'

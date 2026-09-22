@@ -1,0 +1,40 @@
+abstract: In this paper we present results from a large set of numerical simulations
+  that demonstrate that H2 formation occurs rapidly in turbulent gas. Starting with
+  purely atomic hydrogen, large quantities of molecular hydrogen can be produced on
+  timescales of 1-2 Myr, given turbulent velocity dispersions and magnetic field strengths
+  consistent with observations. Moreover, as our simulations underestimate the effectiveness
+  of H2 self-shielding and dust absorption, we can be confident that the molecular
+  fractions that we compute are strong lower limits on the true values. The formation
+  of large quantities of molecular gas on the timescale required by rapid cloud formation
+  models therefore appears to be entirely plausible. We also investigate the density
+  and temperature distributions of gas in our model clouds. We show that the density
+  probability distribution function is approximately lognormal, with a dispersion
+  that agrees well with the prediction of Padoan and coworkers. The temperature distribution
+  is similar to that of a polytrope, with an effective polytropic index gammaeff~=0.8,
+  although at low gas densities, the scatter of the actual gas temperature around
+  this mean value is considerable, and the polytropic approximation does not capture
+  the full range of behavior of the gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...659.1317G
+arxivurl: http://arxiv.org/abs/astro-ph/0605121
+author: Glover, S. C. O. and Mac Low, M.-M.
+author_list:
+- family: Glover
+  given: S. C. O.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-11 01:23:38 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512227
+eprint: astro-ph/0605121
+journal: \apj
+keywords: 'Astrochemistry, ISM: Clouds, ISM: Molecules, Molecular Processes'
+month: April
+pages: 1317--1337
+papis_id: 77d64c65617af1d06ce40aacc96f869f
+ref: glover.s.2007a
+title: Simulating the Formation of Molecular Clouds. II. Rapid Formation from Turbulent
+  Initial Conditions
+type: article
+volume: '659'
+year: '2007'

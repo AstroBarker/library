@@ -1,0 +1,45 @@
+abstract: "The toolkit for high-order neutrino-radiation hydrodynamics (thornado)
+  is being developed for simulations of core-collapse supernovae (CCSNe) and related
+  problems. Current capabilities in thornado include solvers for the Euler equations
+  {\\^a}\x80\x94 in non-relativistic and special relativistic limits {\\^a}\x80\x94
+  and the two-moment model of neutrino transport. The spatial discretization in thornado
+  is based on the discontinuous Galerkin (DG) method, which is receiving increased
+  attention from the computational astrophysics community. In this paper, we provide
+  an overview of the numerical methods for the Euler equations in thornado, and present
+  some encouraging preliminary numerical results from a set of basic tests in one
+  and two spatial dimensions."
+author: Endeve, Eirik and Buffaloe, Jesse and Dunham, Samuel J and Roberts, Nick and
+  Andrew, Kristopher and Barker, Brandon and Pochik, David and Pulsinelli, Juliana
+  and Mezzacappa, Anthony
+author_list:
+- family: Endeve
+  given: Eirik
+- family: Buffaloe
+  given: Jesse
+- family: Dunham
+  given: Samuel J
+- family: Roberts
+  given: Nick
+- family: Andrew
+  given: Kristopher
+- family: Barker
+  given: Brandon
+- family: Pochik
+  given: David
+- family: Pulsinelli
+  given: Juliana
+- family: Mezzacappa
+  given: Anthony
+doi: 10.1088/1742-6596/1225/1/012014
+groups: Code/Software
+journal: 'Journal of Physics: Conference Series'
+month: may
+pages: '012014'
+papis_id: c38638554826f13b14a17278762a1772
+publisher: '{IOP} Publishing'
+ref: endeve.eirik.2019
+title: 'thornado-hydro: towards discontinuous Galerkin methods for supernova hydrodynamics'
+type: article
+url: https://doi.org/10.1088\%2F1742-6596\%2F1225\%2F1\%2F012014
+volume: '1225'
+year: '2019'

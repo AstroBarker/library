@@ -1,0 +1,35 @@
+abstract: We use time-dependent, axisymmetric, hydrodynamic simulations to study the
+  linear stability of the stalled, spherical accretion shock that arises in the postbounce
+  phase of core-collapse supernovae. We show that this accretion shock is stable to
+  radial modes, with decay rates and oscillation frequencies in close agreement with
+  the linear stability analysis of Houck and Chevalier. For nonspherical perturbations
+  we find that the l=1 mode is always unstable for parameters appropriate to core-collapse
+  supernovae. We also find that the l=2 mode is unstable, but typically has a growth
+  rate smaller than that for l=1. Furthermore, the l=1 mode is the only mode found
+  to transition into a nonlinear stage in our simulations. This result provides a
+  possible explanation for the dominance of an l=1 ``sloshing'' mode seen in many
+  two-dimensional simulations of core-collapse supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...642..401B
+arxivurl: http://arxiv.org/abs/astro-ph/0507181
+author: Blondin, J. M. and Mezzacappa, A.
+author_list:
+- family: Blondin
+  given: J. M.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-08-10 18:38:36 +0000
+date-modified: 2017-12-05 16:37:15 +0000
+doi: 10.1086/500817
+eprint: astro-ph/0507181
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Hydrodynamics, Shock Waves, Stars: Supernovae:
+  General, Turbulence'
+month: May
+pages: 401--409
+papis_id: 785c09ac00cb1b86ebec26c1a60b6182
+ref: blondin.j.2006
+title: The Spherical Accretion Shock Instability in the Linear Regime
+type: article
+volume: '642'
+year: '2006'

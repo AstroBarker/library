@@ -1,0 +1,45 @@
+abstract: 'At least two arguments suggest that the orbits of a large fraction of binary
+  stars and extrasolar planets shrank by 1-2 orders of magnitude after formation:
+  (1) the physical radius of a star shrinks by a large factor from birth to the main
+  sequence, yet many main-sequence stars have companions orbiting only a few stellar
+  radii away, and (2) in current theories of planet formation, the region within ~0.1
+  AU of a protostar is too hot and rarefied for a Jupiter-mass planet to form, yet
+  many ``hot Jupiters'''' are observed at such distances. We investigate orbital shrinkage
+  by the combined effects of secular perturbations from a distant companion star (Kozai
+  oscillations) and tidal friction. We integrate the relevant equations of motion
+  to predict the distribution of orbital elements produced by this process. Binary
+  stars with orbital periods of 0.1-10 days, with a median of ~2 days, are produced
+  from binaries with much longer periods (10 to ~105 days), consistent with observations
+  indicating that most or all short-period binaries have distant companions (tertiaries).
+  We also make two new testable predictions: (1) For periods between 3 and 10 days,
+  the distribution of the mutual inclination between the inner binary and the tertiary
+  orbit should peak strongly near 40$\,^{\circ}$ and 140\$\,^{\circ}\$. (2) Extrasolar
+  planets whose host stars have a distant binary companion may also undergo this process,
+  in which case the orbit of the resulting hot Jupiter will typically be misaligned
+  with the equator of its host star.  This work is dedicated to the late Bohdan Paczynski,
+  who inspired it.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...669.1298F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0705.4285
+author: Fabrycky, D. and Tremaine, S.
+author_list:
+- family: Fabrycky
+  given: D.
+- family: Tremaine
+  given: S.
+date-added: 2017-08-10 16:14:05 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521702
+eprint: '0705.4285'
+journal: \apj
+keywords: 'Stars: Binaries: Close, Celestial Mechanics, Methods: Statistical, Stars:
+  Planetary Systems'
+month: November
+pages: 1298--1315
+papis_id: bcab31bcecf118d30ee4f647943fa14d
+ref: fabrycky.d.2007a
+title: Shrinking Binary and Planetary Orbits by Kozai Cycles with Tidal Friction
+type: article
+volume: '669'
+year: '2007'

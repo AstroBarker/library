@@ -1,0 +1,69 @@
+abstract: We describe the detonation mechanism composing the "pulsationally assisted"
+  gravitationally confined detonation (GCD) model of Type Ia supernovae. This model
+  is analogous to the previous GCD model reported in Jordan et al.; however, the chosen
+  initial conditions produce a substantively different detonation mechanism, resulting
+  from a larger energy release during the deflagration phase. The resulting final
+  kinetic energy and 56Ni yields conform better to observational values than is the
+  case for the "classical" GCD models. In the present class of models, the ignition
+  of a deflagration phase leads to a rising, burning plume of ash. The ash breaks
+  out of the surface of the white dwarf, flows laterally around the star, and converges
+  on the collision region at the antipodal point from where it broke out. The amount
+  of energy released during the deflagration phase is enough to cause the star to
+  rapidly expand, so that when the ash reaches the antipodal point, the surface density
+  is too low to initiate a detonation. Instead, as the ash flows into the collision
+  region (while mixing with surface fuel), the star reaches its maximally expanded
+  state and then contracts. The stellar contraction acts to increase the density of
+  the star, including the density in the collision region. This both raises the temperature
+  and density of the fuel-ash mixture in the collision region and ultimately leads
+  to thermodynamic conditions that are necessary for the Zel'dovich gradient mechanism
+  to produce a detonation. We demonstrate feasibility of this scenario with three
+  three-dimensional (3D), full star simulations of this model using the FLASH code.
+  We characterized the simulations by the energy released during the deflagration
+  phase, which ranged from 38\% to 78\% of the white dwarf's binding energy. We show
+  that the necessary conditions for detonation are achieved in all three of the models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...759...53J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1202.3997
+author: Jordan IV, G. C. and Graziani, C. and Fisher, R. T. and Townsley, D. M. and
+  Meakin, C. and Weide, K. and Reid, L. B. and Norris, J. and Hudson, R. and Lamb,
+  D. Q.
+author_list:
+- family: Jordan IV
+  given: G. C.
+- family: Graziani
+  given: C.
+- family: Fisher
+  given: R. T.
+- family: Townsley
+  given: D. M.
+- family: Meakin
+  given: C.
+- family: Weide
+  given: K.
+- family: Reid
+  given: L. B.
+- family: Norris
+  given: J.
+- family: Hudson
+  given: R.
+- family: Lamb
+  given: D. Q.
+date-added: 2017-08-10 17:33:29 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/759/1/53
+eid: '53'
+eprint: '1202.3997'
+journal: \apj
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general, white dwarfs'
+month: November
+pages: '53'
+papis_id: 5f695c90aa91a77482e81aafc5b37e86
+primaryclass: astro-ph.HE
+ref: jordan_iv.g.2012a
+title: The Detonation Mechanism of the Pulsationally Assisted Gravitationally Confined
+  Detonation Model of Type Ia Supernovae
+type: article
+volume: '759'
+year: '2012'

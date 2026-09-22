@@ -1,0 +1,50 @@
+abstract: Extreme deformation of a stellar surface, such as that produced by rapid
+  rotation, causes the surface temperature and gravity to vary significantly with
+  latitude. Thus, the spectral energy distribution (SED) of a nonspherical star could
+  differ significantly from the SED of a spherical star with the same average temperature
+  and luminosity. Calculation of the SED of a deformed star is often approximated
+  as a composite of several spectra, each produced by a plane-parallel model of given
+  effective temperature and gravity. The weighting of these spectra over the stellar
+  surface, and hence the inferred effective temperature and luminosity, will be dependent
+  on the inclination of the rotation axis of the star with respect to the observer,
+  as well as the temperature and gravity distribution on the stellar surface. Here
+  we calculate the surface conditions of rapidly rotating stars with a two-dimensional
+  stellar structure and evolution code and compare the effective temperature distribution
+  to that predicted by von Zeipel's law. We calculate the composite spectrum for a
+  deformed star by interpolating within a grid of intensity spectra of plane-parallel
+  model atmospheres and integrating over the surface of the star. This allows us to
+  examine the SED for effects of inclination and degree of deformation based on the
+  two-dimensional models. Using this method, we find that the deduced variation of
+  effective temperature with inclination can be as much as 3000 K for an early B star,
+  depending on the details of the underlying model. As a test case for our models,
+  we examine the rapidly rotating star Achernar (alpha Eri, HD 10144). Recent interferometric
+  observations have determined the star to be quite oblate. Combined with the ultraviolet
+  SED measured by the OAO 2 satellite, we are able to make direct comparisons with
+  observations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643..460L
+arxivurl: http://arxiv.org/abs/astro-ph/0602084
+author: Lovekin, C. C. and Deupree, R. G. and Short, C. I.
+author_list:
+- family: Lovekin
+  given: C. C.
+- family: Deupree
+  given: R. G.
+- family: Short
+  given: C. I.
+date-added: 2017-08-11 00:17:36 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/501492
+eprint: astro-ph/0602084
+journal: \apj
+keywords: 'Stars: Atmospheres, Stars: Emission-Line, Be, stars: individual ({$\alpha$}
+  Eridani)'
+month: May
+pages: 460--470
+papis_id: d5b38fe235f0a5ee5f2e33bd504d8a2c
+ref: lovekin.c.2006
+title: Surface Temperature and Synthetic Spectral Energy Distributions for Rotationally
+  Deformed Stars
+type: article
+volume: '643'
+year: '2006'

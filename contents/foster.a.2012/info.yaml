@@ -1,0 +1,39 @@
+abstract: We describe the latest release of AtomDB, version 2.0.2, a database of atomic
+  data and a plasma modeling code with a focus on X-ray astronomy. This release includes
+  several major updates to the fundamental atomic structure and process data held
+  within AtomDB, incorporating new ionization balance data, state-selective recombination
+  data, and updated collisional excitation data for many ions, including the iron
+  L-shell ions from Fe+16 to Fe+23 and all of the hydrogen- and helium-like sequences.
+  We also describe some of the effects that these changes have on calculated emission
+  and diagnostic line ratios, such as changes in the temperature implied by the He-like
+  G-ratios of up to a factor of two.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...756..128F
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1207.0576
+author: Foster, A. R. and Ji, L. and Smith, R. K. and Brickhouse, N. S.
+author_list:
+- family: Foster
+  given: A. R.
+- family: Ji
+  given: L.
+- family: Smith
+  given: R. K.
+- family: Brickhouse
+  given: N. S.
+date-added: 2017-08-10 17:29:34 +0000
+date-modified: 2017-12-05 16:36:36 +0000
+doi: 10.1088/0004-637X/756/2/128
+eid: '128'
+eprint: '1207.0576'
+journal: \apj
+keywords: 'atomic data, atomic processes, X-rays: general'
+month: September
+pages: '128'
+papis_id: 89c0beb5c4e4191929e651835ef1bb2c
+primaryclass: astro-ph.HE
+ref: foster.a.2012
+title: Updated Atomic Data and Calculations for X-Ray Spectroscopy
+type: article
+volume: '756'
+year: '2012'

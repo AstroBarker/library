@@ -1,0 +1,45 @@
+abstract: The standing accretion shock instability (SASI) is commonly believed to
+  be responsible for large amplitude dipolar oscillations of the stalled shock during
+  core collapse, potentially leading to an asymmetric supernovae explosion. The degree
+  of asymmetry depends on the amplitude of SASI, but the nonlinear saturation mechanism
+  has never been elucidated. We investigate the role of parasitic instabilities as
+  a possible cause of nonlinear SASI saturation. As the shock oscillations create
+  both vorticity and entropy gradients, we show that both Kelvin-Helmholtz and Rayleigh-Taylor
+  types of instabilities are able to grow on a SASI mode if its amplitude is large
+  enough. We obtain simple estimates of their growth rates, taking into account the
+  effects of advection and entropy stratification. In the context of the advective-acoustic
+  cycle, we use numerical simulations to demonstrate how the acoustic feedback can
+  be decreased if a parasitic instability distorts the advected structure. The amplitude
+  of the shock deformation is estimated analytically in this scenario. When applied
+  to the set up of Fern{\'a}ndez \& Thompson, this saturation mechanism is able to
+  explain the dramatic decrease of the SASI power when both the nuclear dissociation
+  energy and the cooling rate are varied. Our results open new perspectives for anticipating
+  the effect, on the SASI amplitude, of the physical ingredients involved in the modeling
+  of the collapsing star.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...713.1350G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0910.3953
+author: Guilet, J. and Sato, J. and Foglizzo, T.
+author_list:
+- family: Guilet
+  given: J.
+- family: Sato
+  given: J.
+- family: Foglizzo
+  given: T.
+date-added: 2017-08-10 20:56:51 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/713/2/1350
+eprint: '0910.3953'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, shock waves, supernovae: general'
+month: April
+pages: 1350--1362
+papis_id: f9a89f47dc57bfeda7f5f89170004b68
+primaryclass: astro-ph.SR
+ref: guilet.j.2010
+title: The Saturation of SASI by Parasitic Instabilities
+type: article
+volume: '713'
+year: '2010'

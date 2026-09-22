@@ -1,0 +1,48 @@
+abstract: 'We present two new nonparametric methods for quantifying galaxy morphology:
+  the relative distribution of the galaxy pixel flux values (the Gini coefficient
+  or G) and the second-order moment of the brightest 20\% of the galaxy''s flux (M20).
+  We test the robustness of G and M20 to decreasing signal-to-noise ratio (S/N) and
+  spatial resolution and find that both measures are reliable to within 10\% for images
+  with average S/N per pixel greater than 2 and resolutions better than 1000 and 500
+  pc, respectively. We have measured G and M20, as well as concentration (C), asymmetry
+  (A), and clumpiness (S) in the rest-frame near-ultraviolet/optical wavelengths for
+  148 bright local ``normal'''' Hubble-type galaxies (E-Sd) galaxies, 22 dwarf irregulars,
+  and 73 0.05<z<0.25 ultraluminous infrared galaxies (ULIRGs). We find that most local
+  galaxies follow a tight sequence in G-M20-C, where early types have high G and C
+  and low M20 and late-type spirals have lower G and C and higher M20. The majority
+  of ULIRGs lie above the normal galaxy G-M20 sequence because of their high G and
+  M20 values. Their high Gini coefficients arise from very bright nuclei, while the
+  high second-order moments are produced by multiple nuclei and bright tidal tails.
+  All of these features are signatures of recent and on-going mergers and interactions.
+  We also find that in combination with A and S, G is more effective than C at distinguishing
+  ULIRGs from the ``normal'''' Hubble types. Finally, we measure the morphologies
+  of 491.7<z<3.8 galaxies from HST NICMOS observations of the Hubble Deep Field North.
+  We find that many of the z~2 galaxies possess G and A higher than expected from
+  degraded images of local elliptical and spiral galaxies and have morphologies more
+  like low-redshift ULIRGs.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004AJ....128..163L
+arxivurl: http://arxiv.org/abs/astro-ph/0311352
+author: Lotz, J. M. and Primack, J. and Madau, P.
+author_list:
+- family: Lotz
+  given: J. M.
+- family: Primack
+  given: J.
+- family: Madau
+  given: P.
+date-added: 2017-08-11 07:32:10 +0000
+date-modified: 2017-12-05 16:37:24 +0000
+doi: 10.1086/421849
+eprint: astro-ph/0311352
+journal: \aj
+keywords: 'Galaxies: Fundamental Parameters, Galaxies: High-Redshift, Galaxies: Peculiar,
+  Galaxies: Structure'
+month: July
+pages: 163--182
+papis_id: 8219f6c9d44f474f1043e8dcec59de52
+ref: lotz.j.2004
+title: A New Nonparametric Approach to Galaxy Morphological Classification
+type: article
+volume: '128'
+year: '2004'

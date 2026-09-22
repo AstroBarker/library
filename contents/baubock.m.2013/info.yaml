@@ -1,0 +1,38 @@
+abstract: Neutron stars spinning at moderate rates (~300-600 Hz) become oblate in
+  shape and acquire a nonzero quadrupole moment. In this paper, we calculate the profiles
+  of atomic features from such neutron stars using a ray-tracing algorithm in the
+  Hartle-Thorne approximation. We show that line profiles acquire cores that are much
+  narrower than the widths expected from pure Doppler effects for a large range of
+  observer inclinations. As a result, the effects of both the oblateness and the quadrupole
+  moments of neutron stars need to be taken into account when aiming to measure neutron-star
+  radii from rotationally broadened lines. Moreover, the presence of these narrow
+  cores substantially increases the likelihood of detecting atomic lines from rapidly
+  spinning neutron stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...766...87B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.0768
+author: Bauböck, M. and Psaltis, D. and Özel, F.
+author_list:
+- family: Bauböck
+  given: M.
+- family: Psaltis
+  given: D.
+- family: Özel
+  given: F.
+date-added: 2017-08-10 22:34:13 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/766/2/87
+eid: '87'
+eprint: '1209.0768'
+journal: \apj
+keywords: 'gravitation, relativistic processes, stars: neutron'
+month: April
+pages: '87'
+papis_id: 80c07abc8704b4ead1ab31522e613018
+primaryclass: astro-ph.HE
+ref: baubock.m.2013
+title: Narrow Atomic Features from Rapidly Spinning Neutron Stars
+type: article
+volume: '766'
+year: '2013'

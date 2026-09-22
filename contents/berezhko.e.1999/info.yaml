@@ -1,0 +1,42 @@
+abstract: We present a simple model of nonlinear diffusive shock acceleration (also
+  called first-order Fermi shock acceleration) that determines the shock modification,
+  spectrum, and efficiency of the process in the plane-wave, steady state approximation
+  as a function of an arbitrary injection parameter, eta. The model, which uses a
+  three-power-law form for the accelerated particle spectrum and contains only simple
+  algebraic equations, includes the essential elements of the full nonlinear model
+  and has been tested against Monte Carlo and numerical kinetic shock models. We include
+  both adiabatic and Alfv{\'e}n wave heating of the upstream precursor. The simplicity
+  and ease of calculation make this model useful for studying the basic properties
+  of nonlinear shock acceleration, as well as providing results accurate enough for
+  many astrophysical applications. It is shown that the shock properties depend upon
+  the shock speed u0 with respect to a critical value u\textasteriskcentered0~etap1/4max,
+  which is a function of the injection rate eta and maximum accelerated particle momentum
+  pmax. For u0<u\textasteriskcentered0, acceleration is efficient and the shock is
+  strongly modified by the back pressure of the energetic particles. In this case,
+  the overall compression ratio is given by rtot~1.3M3/4S0 if M2S0>MA0, or by rtot~1.5M3/8A0
+  in the opposite case (MS0 is the sonic Mach number and MA0 is the Alfv{\'e}n Mach
+  number). If u0>u\textasteriskcentered0, the shock, although still strong, becomes
+  almost unmodified and accelerated particle production decreases inversely proportional
+  to u0.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1999ApJ...526..385B
+author: Berezhko, E. G. and Ellison, D. C.
+author_list:
+- family: Berezhko
+  given: E. G.
+- family: Ellison
+  given: D. C.
+date-added: 2017-08-10 19:19:47 +0000
+date-modified: 2017-12-05 16:37:39 +0000
+doi: 10.1086/307993
+journal: \apj
+keywords: 'ACCELERATION OF PARTICLES, ISM: COSMIC RAYS, SHOCK WAVES, Acceleration
+  of Particles, ISM: Cosmic Rays, Shock Waves'
+month: November
+pages: 385--399
+papis_id: 5fdd329ba4bb7345774ce52ef99a9487
+ref: berezhko.e.1999
+title: A Simple Model of Nonlinear Diffusive Shock Acceleration
+type: article
+volume: '526'
+year: '1999'

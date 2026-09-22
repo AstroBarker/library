@@ -1,0 +1,40 @@
+abstract: We analyze Einstein's vacuum field equations in generalized harmonic coordinates
+  on a compact spatial domain with boundaries. We specify a class of boundary conditions,
+  which is constraint-preserving and sufficiently general to include recent proposals
+  for reducing the amount of spurious reflections of gravitational radiation. In particular,
+  our class comprises the boundary conditions recently proposed by Kreiss and Winicour,
+  a geometric modification thereof, the freezing-Psi0 boundary condition and the hierarchy
+  of absorbing boundary conditions introduced by Buchman and Sarbach. Using the recent
+  technique developed by Kreiss and Winicour based on an appropriate reduction to
+  a pseudo-differential first-order system, we prove well posedness of the resulting
+  initial-boundary value problem in the frozen coefficient approximation. In view
+  of the theory of pseudo-differential operators, it is expected that the full nonlinear
+  problem is also well posed. Furthermore, we implement some of our boundary conditions
+  numerically and study their effectiveness in a test problem consisting of a perturbed
+  Schwarzschild black hole.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24.6349R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0707.2797
+author: Ruiz, M. and Rinne, O. and Sarbach, O.
+author_list:
+- family: Ruiz
+  given: M.
+- family: Rinne
+  given: O.
+- family: Sarbach
+  given: O.
+date-added: 2017-08-11 06:13:09 +0000
+date-modified: 2017-12-05 16:37:06 +0000
+doi: 10.1088/0264-9381/24/24/012
+eprint: '0707.2797'
+journal: Classical and Quantum Gravity
+month: December
+pages: 6349--6377
+papis_id: 450006f9d53636e796d7c22fcb845d68
+primaryclass: gr-qc
+ref: ruiz.m.2007
+title: Outer boundary conditions for Einstein's field equations in harmonic coordinates
+type: article
+volume: '24'
+year: '2007'

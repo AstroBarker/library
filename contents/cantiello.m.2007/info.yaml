@@ -1,0 +1,52 @@
+abstract: 'Context: The collapsar model for long gamma-ray bursts requires a rapidly
+  rotating Wolf-Rayet star as progenitor.  Aims: We test the idea of producing rapidly
+  rotating Wolf-Rayet stars in massive close binaries through mass accretion and consecutive
+  quasi-chemically homogeneous evolution - the latter had previously been shown to
+  provide collapsars below a certain metallicity threshold.  Methods: We use a 1D
+  hydrodynamic binary evolution code to simulate the evolution of a 16+15 M\&sun;
+  binary model with an initial orbital period of 5 days and SMC metallicity (Z=0.004).
+  Internal differential rotation, rotationally induced mixing and magnetic fields
+  are included in both components, as well as non-conservative mass and angular momentum
+  transfer, and tidal spin-orbit coupling.  Results: The considered binary system
+  undergoes early Case B mass transfer. The mass donor becomes a helium star and dies
+  as a type Ib/c supernova. The mass gainer is spun-up, and internal magnetic fields
+  efficiently transport accreted angular momentum into the stellar core. The orbital
+  widening prevents subsequent tidal synchronization, and the mass gainer rejuvenates
+  and evolves quasi-chemically homogeneously thereafter. The mass donor explodes 7
+  Myr before the collapse of the mass gainer. Assuming the binary to be broken-up
+  by the supernova kick, the potential gamma-ray burst progenitor would become a runaway
+  star with a space velocity of 27 km s-1, traveling about 200 pc during its remaining
+  lifetime. Conclusions: .The binary channel presented here does not, as such, provide
+  a new physical model for collapsar production, as the resulting stellar models are
+  almost identical to quasi-chemically homogeneously evolving rapidly rotating single
+  stars. However, it may provide a means for massive stars to obtain the required
+  high rotation rates. Moreover, it suggests that a possibly large fraction of long
+  gamma-ray bursts occurs in runaway stars.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007A\%26A...465L..29C
+arxivurl: http://arxiv.org/abs/astro-ph/0702540
+author: Cantiello, M. and Yoon, S.-C. and Langer, N. and Livio, M.
+author_list:
+- family: Cantiello
+  given: M.
+- family: Yoon
+  given: S.-C.
+- family: Langer
+  given: N.
+- family: Livio
+  given: M.
+date-added: 2017-08-11 01:54:19 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1051/0004-6361:20077115
+eprint: astro-ph/0702540
+journal: \aap
+keywords: 'stars: binaries: general, stars: rotation, stars: evolution, stars: mass-loss,
+  supernovae: general, gamma rays: bursts'
+month: April
+pages: L29-L33
+papis_id: 22fb5e233704365c15be36b20e94e552
+ref: cantiello.m.2007
+title: Binary star progenitors of long gamma-ray bursts
+type: article
+volume: '465'
+year: '2007'

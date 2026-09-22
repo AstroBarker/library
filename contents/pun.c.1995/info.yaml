@@ -1,0 +1,73 @@
+abstract: 'Ultraviolet (lambda: 1150-3300 A) observations of SN 1987A with the IUE
+  satellite provide a unique data set. Observations started the day after discovery,
+  1987 February 24 (day 1.6), and a total of 751 spectra were obtained through 1992
+  June 9 (day 1567). The data have been processed to generate a complete catalog of
+  SN 1987A ultraviolet spectra. The data reduction procedure includes careful line-by-line
+  extraction, removing hits and hot pixels, and, most importantly, a scrupulous subtraction
+  of the contribution from stars near SN 1987A within the IUE aperture. In addition
+  to processing the data, we have also extracted light curves, and combined them with
+  the ground-based optical data and HST observations (day 1278 to 2431) to extend
+  the study in both wavelength and time. The data-processing procedures of our IUE
+  study produce results that are consistent with the HST data where they overlap,
+  but not with the IUE study by Sanz Fernandez de Cordoba (1993) because of its incorrect
+  background subtraction. The IUE data are consistent with the ground-based Walraven
+  V BLUW photometry, while we found that flux scale of the Soviet ASTRON satellite
+  spectroscopic data is low by ~15\%. The UV flux plummeted during the earliest days
+  of observations because of the drop in the photospheric temperature and the increase
+  in opacity. However, after reaching a minimum of 0.04\% on day 44, the UV flux increased
+  by 175 times in its contribution to 7\% of the total UVOIR bolometric luminosity
+  at day 800. A revised set of bolometric data has been constructed which includes
+  the contribution of UV from day 1 to day 1352. Studies of the UV colors show that
+  the supernova started to get bluer in UV around the time when dust started to form
+  in the ejecta. Our results are consistent with the possibility that the dust condensed
+  may be metal-rich.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJS...99..223P
+author: Pun, C. S. J. and Kirshner, R. P. and Sonneborn, G. and Challis, P. and Nassiopoulos,
+  G. and Arquilla, R. and Crenshaw, D. M. and Shrader, C. and Teays, T. and Cassatella,
+  A. and Gilmozzi, R. and Talavera, A. and Wamsteker, W. and Fransson, C. and Panagia,
+  N.
+author_list:
+- family: Pun
+  given: C. S. J.
+- family: Kirshner
+  given: R. P.
+- family: Sonneborn
+  given: G.
+- family: Challis
+  given: P.
+- family: Nassiopoulos
+  given: G.
+- family: Arquilla
+  given: R.
+- family: Crenshaw
+  given: D. M.
+- family: Shrader
+  given: C.
+- family: Teays
+  given: T.
+- family: Cassatella
+  given: A.
+- family: Gilmozzi
+  given: R.
+- family: Talavera
+  given: A.
+- family: Wamsteker
+  given: W.
+- family: Fransson
+  given: C.
+- family: Panagia
+  given: N.
+date-added: 2017-08-10 18:28:56 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/192185
+journal: \apjs
+keywords: 'STARS: INDIVIDUAL ALPHANUMERIC: SN 1987A, ULTRAVIOLET: STARS'
+month: July
+pages: '223'
+papis_id: 17de1a14b07edf0ed9776328979138c7
+ref: pun.c.1995
+title: Ultraviolet Observations of SN 1987A with the IUE Satellite
+type: article
+volume: '99'
+year: '1995'

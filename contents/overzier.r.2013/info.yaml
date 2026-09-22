@@ -1,0 +1,71 @@
+abstract: 'Simulations of galaxy evolution aim to capture our current understanding
+  as well as to make predictions for testing by future experiments. Simulations and
+  observations are often compared in an indirect fashion: physical quantities are
+  estimated from the observational data and compared to models. However, many applications
+  can benefit from a more direct approach, where the observing process is also simulated,
+  so that the models are seen fully from the observer''s perspective. To facilitate
+  this, we have developed the Millennium Run Observatory (MRObs), a theoretical virtual
+  observatory which uses virtual telescopes to `observe'' semi-analytic galaxy formation
+  simulations based on the suite of Millennium Run (MR) dark matter simulations. The
+  MRObs produces data that can be processed and analysed using the standard observational
+  software packages developed for real observations. At present, we produce images
+  in 40 filters covering the rest-frame ultraviolet to infrared for two stellar population
+  synthesis models, for three different models of absorption by the intergalactic
+  medium, and in two cosmologies (Wilkinson Microwave Anisotropy Probe year 1 and
+  7). Galaxy distributions for a large number of mock light cones can be `observed''
+  using models of major ground- and space-based telescopes. The data include light
+  cone catalogues linked to structural properties of galaxies, pre-observation model
+  images, mock telescope images and Source Extractor products that can all be traced
+  back to the higher level dark matter, semi-analytic galaxy and light cone catalogues
+  available in the MR data base. Here, we describe our methods and announce a first
+  public release of simulated observations that emulate a large number of extragalactic
+  surveys [e.g. Sloan Digital Sky Survey, Canada-France-Hawaii Telescope Legacy Survey
+  (CFHT-LS), Great Observatories Origins Deep Survey (GOODS), GOODS/Early Release
+  Science (ERS), Cosmic Assembly Near-Infrared Deep Extragalactic Legacy Survey (CANDELS)
+  and Hubble Ultra Deep Field (HUDF)]. The MRObs browser, an online tool, further
+  facilitates exploration of the simulated data. We demonstrate the benefits of a
+  direct approach through a number of example applications: (1) deep galaxy number
+  counts in the CANDELS survey; (2) observed properties of galaxy clusters; (3) structural
+  parameters of galaxies; and (4) identification of dropout galaxies. The MRObs enhances
+  the range of questions that can be asked of semi-analytic models, allowing observers
+  and theorists to work towards each other with virtually complete freedom of where
+  to meet.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.428..778O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.6923
+author: Overzier, R. and Lemson, G. and Angulo, R. E. and Bertin, E. and Blaizot,
+  J. and Henriques, B. M. B. and Marleau, G.-D. and White, S. D. M.
+author_list:
+- family: Overzier
+  given: R.
+- family: Lemson
+  given: G.
+- family: Angulo
+  given: R. E.
+- family: Bertin
+  given: E.
+- family: Blaizot
+  given: J.
+- family: Henriques
+  given: B. M. B.
+- family: Marleau
+  given: G.-D.
+- family: White
+  given: S. D. M.
+date-added: 2017-08-11 07:31:57 +0000
+date-modified: 2017-12-05 16:36:35 +0000
+doi: 10.1093/mnras/sts076
+eprint: '1206.6923'
+journal: \mnras
+keywords: 'astronomical data bases: miscellaneous, galaxies: clusters: general, galaxies:
+  evolution, cosmology: observations, cosmology: theory, large-scale structure of
+  Universe'
+month: January
+pages: 778--803
+papis_id: 6f4ee75e11a70b92dae8b5e65a1ab2b3
+ref: overzier.r.2013
+title: 'The Millennium Run Observatory: first light'
+type: article
+volume: '428'
+year: '2013'

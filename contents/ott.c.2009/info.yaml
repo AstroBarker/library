@@ -1,0 +1,51 @@
+abstract: Core-collapse supernovae are among Nature's most energetic events. They
+  mark the end of massive star evolution and pollute the interstellar medium with
+  the life-enabling ashes of thermonuclear burning. Despite their importance for the
+  evolution of galaxies and life in the universe, the details of the core-collapse
+  supernova explosion mechanism remain in the dark and pose a daunting computational
+  challenge. We outline the multi-dimensional, multi-scale, and multi-physics nature
+  of the core-collapse supernova problem and discuss computational strategies and
+  requirements for its solution. Specifically, we highlight the axisymmetric (2D)
+  radiation-MHD code VULCAN/2D and present results obtained from the first full-2D
+  angle-dependent neutrino radiation-hydrodynamics simulations of the post-core-bounce
+  supernova evolution. We then go on to discuss the new code Zelmani which is based
+  on the open-source HPC Cactus framework and provides a scalable AMR approach for
+  3D fully general-relativistic modeling of stellar collapse, core-collapse supernovae
+  and black hole formation on current and future massively-parallel HPC systems. We
+  show Zelmani's scaling properties to more than 16,000 compute cores and discuss
+  first 3D general-relativistic core-collapse results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009JPhCS.180a2022O
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0907.4043
+author: Ott, C. D. and Schnetter, E. and Burrows, A. and Livne, E. and O'Connor, E.
+  and Löffler, F.
+author_list:
+- family: Ott
+  given: C. D.
+- family: Schnetter
+  given: E.
+- family: Burrows
+  given: A.
+- family: Livne
+  given: E.
+- family: O'Connor
+  given: E.
+- family: Löffler
+  given: F.
+booktitle: Journal of Physics Conference Series
+date-added: 2017-08-10 22:38:16 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/1742-6596/180/1/012022
+eid: '012022'
+eprint: '0907.4043'
+month: July
+pages: '012022'
+papis_id: 0cf44e6241dfbb63c4b115f6ecefbdd6
+primaryclass: astro-ph.HE
+ref: ott.c.2009
+series: Journal of Physics Conference Series
+title: Computational models of stellar collapse and core-collapse supernovae
+type: inproceedings
+volume: '180'
+year: '2009'

@@ -1,0 +1,50 @@
+abstract: Neutron-induced reaction rates, including fission and neutron capture, are
+  calculated in the temperature range 108 <= T(K) <= 1010 within the framework of
+  the statistical model for targets with the atomic number 84 <= Z <= 118 (from Po
+  to Uuo) from the neutron to the proton drip-line. Four sets of rates have been calculated,
+  utilizing - where possible - consistent nuclear data for neutron separation energies
+  and fission barriers from Thomas-Fermi (TF), Extended Thomas-Fermi plus Strutinsky
+  Integral (ETFSI), Finite-Range Droplet Model (FRDM) and Hartree-Fock-Bogolyubov
+  (HFB) predictions. Tables of calculated values as well as analytic seven parameter
+  fits in the standard REACLIB format are supplied. We also discuss the sensitivity
+  of the rates to the input, aiming at a better understanding of the variations introduced
+  by the nuclear input.  Tables 3-18 with these data are only available in electronic
+  form at the CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) or via http://cdsweb.u-strasbg.fr/cgi-bin/qcat?J/A+A/513/A61
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010A\%26A...513A..61P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0911.2181
+author: Panov, I. V. and Korneev, I. Y. and Rauscher, T. and Martínez-Pinedo, G. and
+  Kelić-Heil, A. and Zinner, N. T. and Thielemann, F.-K.
+author_list:
+- family: Panov
+  given: I. V.
+- family: Korneev
+  given: I. Y.
+- family: Rauscher
+  given: T.
+- family: Martínez-Pinedo
+  given: G.
+- family: Kelić-Heil
+  given: A.
+- family: Zinner
+  given: N. T.
+- family: Thielemann
+  given: F.-K.
+date-added: 2017-08-10 22:42:25 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1051/0004-6361/200911967
+eid: A61
+eprint: '0911.2181'
+journal: \aap
+keywords: 'nuclear reactions, nucleosynthesis, abundances, supernovae: general, stars:
+  neutron'
+month: April
+pages: A61
+papis_id: c598138894823860270d1053b027fc77
+primaryclass: astro-ph.SR
+ref: panov.i.2010
+title: Neutron-induced astrophysical reaction rates for translead nuclei
+type: article
+volume: '513'
+year: '2010'

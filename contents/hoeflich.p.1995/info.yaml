@@ -1,0 +1,49 @@
+abstract: We compute optical and infrared light curves of the pulsating class of delayed
+  detonation models for Type Ia supernovae (SN Ia's) using an elaborate treatment
+  of the Local Thermodynamic Equilbrium (LTE) radiation transport, equation of state
+  and ionization balance, expansion opacity including the cooling by CO, Co(+), and
+  SiO, and a Monte Carlo gamma-ray deposition scheme. The models have an amount of
+  Ni-56 in the range from approximately or equal to 0.1 solar mass up to 0.7 solar
+  mass depending on the density at which the transition from a deflagration to a detonation
+  occurs. Models with a large nickel production give light curves comparable to those
+  of typical Type Ia supernovae. Subluminous supernovae can be explained by models
+  with a low nickel production. Multiband light curves are presented in comparison
+  with the normally bright event SN 1992bc and the subluminous events Sn 1991bg and
+  SN 1992bo to establish the principle that the delayed detonation paradigm in Chandrasekhar
+  mass models may give a common explosion mechanism accounting for both normal and
+  subluminous SN Ia's. Secondary IR-maxima are formed in the models of normal SN Ia's
+  as a photospheric effect if the photospheric radius continues to increase well after
+  maximum light. Secondary maxima appear later and stronger in models with moderate
+  expansion velocities and with radioactive material closer to the surface. Model
+  light curves for subluminous SN Ia's tend to show only one 'late' IR-maximum. In
+  some delayed detonation models shell-like envelopes form, which consist of unburned
+  carbon and oxygen. The formation of molecules in these envelopes is addressed. If
+  the model retains a C/O-envelope and is subluminous, strong vibration bands of CO
+  may appear, typically several weeks past maximum light. CO should be very weak or
+  absent in normal Sn Ia's.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1995ApJ...444..831H
+author: Hoeflich, P. and Khokhlov, A. M. and Wheeler, J. C.
+author_list:
+- family: Hoeflich
+  given: P.
+- family: Khokhlov
+  given: A. M.
+- family: Wheeler
+  given: J. C.
+date-added: 2017-08-11 02:25:44 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/175656
+journal: \apj
+keywords: Brightness, Detonation, Light Curve, Molecular Dynamics, Stellar Models,
+  Supernovae, Abundance, Equations Of State, Hydrodynamics, Infrared Astronomy, Monte
+  Carlo Method, Radiative Transfer, Stellar Luminosity
+month: May
+pages: 831--847
+papis_id: 5b1e24c994036c939eda41499d8c79f1
+ref: hoeflich.p.1995
+title: 'Delayed detonation models for normal and subluminous type IA sueprnovae: Absolute
+  brightness, light curves, and molecule formation'
+type: article
+volume: '444'
+year: '1995'

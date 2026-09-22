@@ -1,0 +1,32 @@
+abstract: Diffusion settling of elements heavier then helium in the solar interior
+  is considered using a multi-component hydrodynamic description. The multi-component
+  description includes thermal diffusion in a self-consistent way and introduces corrections
+  due to partial ionization using the mean charge of the elements. The interaction
+  between elements and the radiation field affects the diffusion settling rate. Taking
+  into account partial ionization in the radiative zone appreciably increases the
+  settling rates of elements heavier than neon, especially iron. Interaction with
+  the radiation field opposes the pressure diffusion; this effect is appreciable only
+  for partially ionized heavy ions. The description can also be used to study effects
+  of the next smallest order, and the obtained chemical composition profiles can be
+  applied to the construction of precise solar models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ARep...52..760G
+author: Gorshkov, A. B. and Baturin, V. A.
+author_list:
+- family: Gorshkov
+  given: A. B.
+- family: Baturin
+  given: V. A.
+date-added: 2017-08-11 04:25:34 +0000
+date-modified: 2017-12-05 16:37:00 +0000
+doi: 10.1134/S1063772908090072
+journal: Astronomy Reports
+keywords: 96.60.Jw, 68.43.Jk
+month: September
+pages: 760--771
+papis_id: 3f535ecca67c3b4310101502f6676869
+ref: gorshkov.a.2008
+title: Diffusion settling of heavy elements in the solar interior
+type: article
+volume: '52'
+year: '2008'

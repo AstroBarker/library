@@ -1,0 +1,63 @@
+abstract: 'After studying how line width depends on spatial scale in low-mass star-forming
+  regions, we propose that ``dense cores'''' (Myers \& Benson 1983) represent an inner
+  scale of a self-similar process that characterizes larger scale molecular clouds.  In
+  the process of coming to this conclusion, we define four distinct types of line
+  width-size relation (Deltav~Rai), which have power-law slopes a1, a2, a3, and a4,
+  as follows: Type 1--multitracer, multicloud intercomparison; Type 2--single-tracer,
+  multicloud intercomparison; Type 3--multitracer study of a single cloud; and Type
+  4--single-tracer study of a single cloud. Type 1 studies (of which Larson 1981 is
+  the seminal example) are compendia of Type 3 studies which illustrate the range
+  of variation in the line width-size relation from one region to another.  Using
+  new measurements of the OH and C18O emission emanating from the environs of several
+  of the dense cores studied in NH3 by Barranco \& Goodman (1998; Paper I), we show
+  that line width increases with size outside the cores with a4 ~ 0.2. On scales larger
+  than those traced by C18O or OH, 12CO and 13CO observations indicate that a4 increases
+  to ~0.5 (Heyer \& Schloerb 1997). By contrast, within the half-power contour of
+  the NH3 emission from the cores, line width is virtually constant, with a4 ~ 0.
+  We interpret the correlation between increasing density and decreasing Type 4 power-law
+  slope as a ``transition to coherence.'''' Our data indicate that the radius Rcoh
+  at which the gas becomes coherent (i.e., a4 --> 0) is of order 0.1 pc in regions
+  forming primarily low-mass stars. The value of the nonthermal line width at which
+  ``coherence'''' is established is always less than but still of order of the thermal
+  line width of H2. Thus coherent cores are similar to, but not exactly the same as,
+  isothermal balls of gas.  Two other results bolster our proposal that a transition
+  to coherence takes place at ~0.1 pc. First, the OH, C18O, and NH3 maps show that
+  the dependence of column density on size is much steeper (N ~ R-0.9) inside Rcoh
+  than outside of it (N ~ R-0.2), which implies that the volume filling factor of
+  coherent cores is much larger than in their surroundings. Second, Larson (1995)
+  has recently found a break in the power law characterizing the clustering of stars
+  in Taurus at 0.04 pc, just inside of Rcoh. Larson and we interpret this break in
+  slope as the point at which stellar clustering properties change from being determined
+  by the (fractal) gas distribution (on scales greater than 0.04 pc) to being determined
+  by fragmentation processes within coherent cores (on scales less than 0.04 pc).  We
+  speculate that the transition to coherence takes place when a dissipation threshold
+  for the MHD turbulence that characterizes the larger scale medium is crossed at
+  the critical inner scale Rcoh. We suggest that the most likely explanation for this
+  threshold is the marked decline in the coupling of the magnetic field to gas motions
+  due to a decreased ion/neutral ratio in dense, high filling factor gas.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...504..223G
+author: Goodman, A. A. and Barranco, J. A. and Wilner, D. J. and Heyer, M. H.
+author_list:
+- family: Goodman
+  given: A. A.
+- family: Barranco
+  given: J. A.
+- family: Wilner
+  given: D. J.
+- family: Heyer
+  given: M. H.
+date-added: 2017-08-11 01:31:19 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/306045
+journal: \apj
+keywords: 'ISM: CLOUDS, ISM: KINEMATICS AND DYNAMICS, ISM: STRUCTURE, LINE: PROFILES,
+  ISM: Clouds, ISM: Kinematics and Dynamics, ISM: Structure, Line: Profiles'
+month: September
+pages: 223--246
+papis_id: b9edf86656d3ecb440a0cc40d4429b8c
+ref: goodman.a.1998
+title: Coherence in Dense Cores. II. The Transition to Coherence
+type: article
+volume: '504'
+year: '1998'

@@ -1,0 +1,101 @@
+abstract: We present a measurement of the volumetric Type Ia supernova (SN Ia) rate
+  (SNRIa) as a function of redshift for the first four years of data from the Canada-France-Hawaii
+  Telescope Supernova Legacy Survey (SNLS). This analysis includes 286 spectroscopically
+  confirmed and more than 400 additional photometrically identified SNe Ia within
+  the redshift range 0.1 <= z <= 1.1. The volumetric SNRIa evolution is consistent
+  with a rise to z ~ 1.0 that follows a power law of the form (1+z)alpha, with alpha
+  = 2.11 $\pm$ 0.28. This evolutionary trend in the SNLS rates is slightly shallower
+  than that of the cosmic star formation history (SFH) over the same redshift range.
+  We combine the SNLS rate measurements with those from other surveys that complement
+  the SNLS redshift range, and fit various simple SN Ia delay-time distribution (DTD)
+  models to the combined data. A simple power-law model for the DTD (i.e., vpropt
+  -beta) yields values from beta = 0.98 \$\pm\$ 0.05 to beta = 1.15 \$\pm\$ 0.08 depending
+  on the parameterization of the cosmic SFH. A two-component model, where SNRIa is
+  dependent on stellar mass (M stellar) and star formation rate (SFR) as SNRIa(z)
+  = A \texttimes{} M stellar(z) + B \texttimes{} SFR(z), yields the coefficients A
+  = (1.9 \$\pm\$ 0.1) \texttimes{} 10-14 SNe yr-1 M -1 \&sun; and B = (3.3 \$\pm\$
+  0.2) \texttimes{} 10-4 SNe yr-1 (M \&sun; yr-1)-1. More general two-component models
+  also fit the data well, but single Gaussian or exponential DTDs provide significantly
+  poorer matches. Finally, we split the SNLS sample into two populations by the light-curve
+  width (stretch), and show that the general behavior in the rates of faster-declining
+  SNe Ia (0.8 <= s < 1.0) is similar, within our measurement errors, to that of the
+  slower objects (1.0 <= s < 1.3) out to z ~ 0.8.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012AJ....144...59P
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1206.0665
+author: Perrett, K. and Sullivan, M. and Conley, A. and González-Gaitán, S. and Carlberg,
+  R. and Fouchez, D. and Ripoche, P. and Neill, J. D. and Astier, P. and Balam, D.
+  and Balland, C. and Basa, S. and Guy, J. and Hardin, D. and Hook, I. M. and Howell,
+  D. A. and Pain, R. and Palanque-Delabrouille, N. and Pritchet, C. and Regnault,
+  N. and Rich, J. and Ruhlmann-Kleider, V. and Baumont, S. and Lidman, C. and Perlmutter,
+  S. and Walker, E. S.
+author_list:
+- family: Perrett
+  given: K.
+- family: Sullivan
+  given: M.
+- family: Conley
+  given: A.
+- family: González-Gaitán
+  given: S.
+- family: Carlberg
+  given: R.
+- family: Fouchez
+  given: D.
+- family: Ripoche
+  given: P.
+- family: Neill
+  given: J. D.
+- family: Astier
+  given: P.
+- family: Balam
+  given: D.
+- family: Balland
+  given: C.
+- family: Basa
+  given: S.
+- family: Guy
+  given: J.
+- family: Hardin
+  given: D.
+- family: Hook
+  given: I. M.
+- family: Howell
+  given: D. A.
+- family: Pain
+  given: R.
+- family: Palanque-Delabrouille
+  given: N.
+- family: Pritchet
+  given: C.
+- family: Regnault
+  given: N.
+- family: Rich
+  given: J.
+- family: Ruhlmann-Kleider
+  given: V.
+- family: Baumont
+  given: S.
+- family: Lidman
+  given: C.
+- family: Perlmutter
+  given: S.
+- family: Walker
+  given: E. S.
+date-added: 2017-08-11 07:22:30 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-6256/144/2/59
+eid: '59'
+eprint: '1206.0665'
+journal: \aj
+keywords: 'supernovae: general, surveys'
+month: August
+pages: '59'
+papis_id: 483c8b6b059a662d6958b292574722a6
+ref: perrett.k.2012
+title: Evolution in the Volumetric Type Ia Supernova Rate from the Supernova Legacy
+  Survey
+type: article
+volume: '144'
+year: '2012'

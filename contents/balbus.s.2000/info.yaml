@@ -1,0 +1,46 @@
+abstract: 'The stratification of entropy and the stratification of angular momentum
+  are closely analogous. The analogy has been developed for a number of different
+  problems in the fluid literature, but its consequences for the behavior of turbulent
+  accretion disks are less appreciated. Of particular interest is the behavior of
+  disks in which angular momentum transport is controlled by convection, and heat
+  transport by dynamical turbulence. In both instances we argue that the transport
+  must proceed ``backward'''' relative to the sense one would expect from a simple
+  enhanced diffusion approach. Reversed angular momentum transport has already been
+  seen in numerical simulations; contragradient thermal diffusion should be amenable
+  to numerical verification as well. These arguments also bear on the observed nonlinear
+  local stability of isolated Keplerian disks: locally generated turbulence in such
+  a disk would require simultaneous inward and outward angular momentum transport,
+  which is, of course, impossible. We also describe a diffusive instability that is
+  the entropy analogue to the magnetorotational instability. It affects thermally
+  stratified layers when Coulomb conduction and a weak magnetic field are present.
+  The plasma must be sufficiently dilute that heat is channeled only along field lines.
+  The criterion for convective instability goes from one of upwardly decreasing entropy
+  to one of upwardly decreasing temperature. The instability remains formally viable
+  if radiative heat transport is also present, but the equilibrium is much more unstable
+  if Coulomb transport is dominant. In that case, the maximum growth rate is of the
+  order of the inverse sound crossing time, independent of the thermal conductivity.
+  The indifference of the growth rate to the conduction coefficient, its simple dynamical
+  scaling, and the replacement in the stability criterion of a conserved quantity
+  (entropy) gradient by a free energy (temperature) gradient are properties similar
+  to those exhibited by the magnetorotational instability.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...534..420B
+arxivurl: http://arxiv.org/abs/astro-ph/9906315
+author: Balbus, S. A.
+author_list:
+- family: Balbus
+  given: S. A.
+date-added: 2017-08-11 04:21:06 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/308732
+eprint: astro-ph/9906315
+journal: \apj
+keywords: ACCRETION, ACCRETION DISKS, CONVECTION, HYDRODYNAMICS, INSTABILITIES, TURBULENCE
+month: May
+pages: 420--427
+papis_id: decba8492b8f9d9c98d2c5ae3bd0cd71
+ref: balbus.s.2000
+title: Stability, Instability, and ``Backward'' Transport in Stratified Fluids
+type: article
+volume: '534'
+year: '2000'

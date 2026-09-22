@@ -1,0 +1,56 @@
+abstract: We have conducted spectral and photometric observations of the quiescent
+  optical counterpart of X-ray Nova Ophiuchi 1977 (H1705-250; V2107 Oph) at CTIO.
+  Fifty hours of photometry during 1994 July reveal a typical double-wave modulation
+  of + 0.2 mag with a period of 12.51 + 0.03 hr. The mean brightness was V 21.5. Forty
+  spectra (2000 s exposures) were obtained in 1994 July and 13 similar spectra were
+  obtained in 1993 May. We derived the absorption-line radial velocities using two
+  conventional cross-correlation techniques. Both of them suggest a velocity semiamplitude
+  (K) in excess of 400 km S 1, but only half or less of the spectra could be utilized
+  because the signal-to-noise ratio is so low. Consequently, we devised a new and
+  powerful "restframe search" technique that uses all of the available data. For each
+  of several million binary ephemerides, we summed all of the spectra in a trial restframe
+  of the secondary star, and each restframe spectrum was cross-correlated against
+  a template spectrum with a well-known velocity. We then searched for the set of
+  orbital parameters that produced the strongest cross-correlation value. The results
+  confirmed the photometric period and the best restframe spectrum has a highly significant
+  correlation (r 6) against a broad range of K star templates. The best value for
+  the velocity amplitude is K = 420 + 30 km - 1 The corresponding mass function is
+  f(M) = 4.0 + 0.8 M0. The probability is high that the compact object exceeds the
+  maximum mass ( 3 M0) for a neutron star. Furthermore, this nova is very similar
+  in many respects to the dynamical black hole binaries, A0620-00 and X-ray Nova Muscae
+  1991. We conclude that X-ray Nova Oph 1977 is the sixth confirmed example of an
+  X-ray binary with a black hole primary. The estimated magnitude of the secondary
+  star is V 22.0. This distance to the binary system is 6 kpc, if the companion is
+  a K3 star near the main sequence. Double-peaked Halpha emission suggests low levels
+  of accretion 17 yr after outburst, similar to the behavior seen in A0620 -00. Unusual
+  structure in the Halpha line profile was observed during 1994 July, and its cause
+  remains unexplained. The most straightforward interpretations of the light curves
+  confine the binary inclination angle to the range of 600 80 . In that case, the
+  mass of the black hole primary is 6 + 1 M0, if the companion is a K3 star on the
+  main sequence.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...459..226R
+author: Remillard, R. A. and Orosz, J. A. and McClintock, J. E. and Bailyn, C. D.
+author_list:
+- family: Remillard
+  given: R. A.
+- family: Orosz
+  given: J. A.
+- family: McClintock
+  given: J. E.
+- family: Bailyn
+  given: C. D.
+date-added: 2017-08-11 00:42:42 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/176885
+journal: \apj
+keywords: 'STARS: BINARIES: SPECTROSCOPIC, BLACK HOLE PHYSICS, STARS: NOVAE, CATACLYSMIC
+  VARIABLES, STARS: INDIVIDUAL CONSTELLATION NAME: NOVA OPHIUCHI 1977, X-RAYS: STARS'
+month: March
+pages: '226'
+papis_id: 798796c7a0fbf13c6057a7a4dfab07c4
+ref: remillard.r.1996
+title: Dynamical Evidence for a Black Hole in X-Ray Nova Ophiuchi 1977
+type: article
+volume: '459'
+year: '1996'

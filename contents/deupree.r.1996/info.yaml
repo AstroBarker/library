@@ -1,0 +1,32 @@
+abstract: The possibility of a dynamical core helium flash has been studied with two-dimensional
+  hydrodynamic simulations using three separate turbulence models for the treatment
+  of time-dependent convection. Two of these are simple algebraic eddy viscosity models.
+  The third model involves a separate equation for the turbulent kinetic energy density,
+  which then feeds into an expression for the eddy viscosity.  One of the simple eddy
+  viscosity models is that used by Cole \& Deupree in studies of the core helium flash
+  about fifteen years ago. I find that this model can be made to produce a more quiescent
+  flash than Cole \& Deupree found by substantially reducing the eddy viscosity from
+  their value. When this is done, all three turbulence models produce the same primary
+  result the flash does not produce a hydrodynamic event. However, the traditional
+  assumption of adiabatic convection through the flash evolution is found in all cases
+  to be inadequate, primarily through the extensive heating of the region interior
+  to the convective region.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...471..377D
+author: Deupree, R. G.
+author_list:
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-11 03:53:22 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/177976
+journal: \apj
+keywords: 'CONVECTION, HYDRODYNAMICS, STARS: INTERIORS'
+month: November
+pages: '377'
+papis_id: 42b7044bdddfdd61d5e87280d3577b14
+ref: deupree.r.1996
+title: A Reexamination of the Core Helium Flash
+type: article
+volume: '471'
+year: '1996'

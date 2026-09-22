@@ -1,0 +1,47 @@
+abstract: The explosion of a carbon-oxygen white dwarf as a Type Ia supernova is known
+  to be sensitive to the manner in which the burning is ignited. Studies of the presupernova
+  evolution suggest asymmetric, off-center ignition, and here we explore its consequences
+  in two- (2D) and three-dimensional (3D) simulations. Compared with centrally ignited
+  models, one-sided ignitions initially burn less and release less energy. For the
+  distributions of ignition points studied, ignition within two hemispheres typically
+  leads to the unbinding of the white dwarf, while ignition within a small fraction
+  of one hemisphere does not. We also examine the spreading of the blast over the
+  surface of the white dwarf that occurs as the first plumes of burning erupt from
+  the star. In particular, our studies test whether the collision of strong compressional
+  waves can trigger a detonation on the far side of the star as has been suggested
+  by Plewa and coworkers. The maximum temperature reached in these collisions is sensitive
+  to how much burning and expansion has already gone on, and to the dimensionality
+  of the calculation. Although detonations are sometimes observed in 2D models, none
+  ever happens in the corresponding 3D calculations. Collisions between the expansion
+  fronts of multiple bubbles also seem, in the usual case, unable to ignite a detonation.
+  ``Gravitationally confined detonation'' is therefore not a robust mechanism for
+  the explosion. Detonation may still be possible in these models, however, either
+  following a pulsation or by spontaneous detonation if the turbulent energy is high
+  enough.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...660.1344R
+arxivurl: http://arxiv.org/abs/astro-ph/0609088
+author: Röpke, F. K. and Woosley, S. E. and Hillebrandt, W.
+author_list:
+- family: Röpke
+  given: F. K.
+- family: Woosley
+  given: S. E.
+- family: Hillebrandt
+  given: W.
+date-added: 2017-08-10 15:27:41 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/512769
+eprint: astro-ph/0609088
+journal: \apj
+keywords: 'Hydrodynamics, Instabilities, Methods: Numerical, Stars: Supernovae: General,
+  Turbulence'
+month: May
+pages: 1344--1356
+papis_id: 50f439c24df3f86dd2aafbb828462e45
+ref: ropke.f.2007c
+title: Off-Center Ignition in Type Ia Supernovae. I. Initial Evolution and Implications
+  for Delayed Detonation
+type: article
+volume: '660'
+year: '2007'

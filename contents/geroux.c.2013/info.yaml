@@ -1,0 +1,43 @@
+abstract: We have developed a three-dimensional radiation hydrodynamics code to simulate
+  the interaction of convection and radial pulsation in classical variable stars.
+  One key goal is the ability to carry these simulations to full amplitude in order
+  to compare them with observed light curves. Previous multi-dimensional calculations
+  were prevented from reaching full amplitude because of drift in the radial coordinate
+  system, due to the algorithm defining radial movement of the coordinate system during
+  the pulsation cycle. We have removed this difficulty by defining our radial coordinate
+  flow algorithm to require that the mass in a spherical shell remain constant for
+  every time step throughout the pulsation cycle. We have used our new code to perform
+  two-dimensional (2D) simulations of the interaction of radial pulsation and convection.
+  We have made comparisons between light curves from our 2D convective simulations
+  with observed light curves and find that our 2D simulated light curves are better
+  able to match the observed light curve shape near the red edge of the RR Lyrae instability
+  strip than light curves from previous one-dimensional time-dependent convective
+  models.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...771..113G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1306.0355
+author: Geroux, C. M. and Deupree, R. G.
+author_list:
+- family: Geroux
+  given: C. M.
+- family: Deupree
+  given: R. G.
+date-added: 2017-08-10 18:34:43 +0000
+date-modified: 2017-12-05 16:36:32 +0000
+doi: 10.1088/0004-637X/771/2/113
+eid: '113'
+eprint: '1306.0355'
+journal: \apj
+keywords: 'convection, hydrodynamics, methods: numerical, stars: oscillations, stars:
+  variables: general, stars: variables: RR Lyrae'
+month: July
+pages: '113'
+papis_id: 65c0dcdf8a586e10fa8374d32df85572
+primaryclass: astro-ph.SR
+ref: geroux.c.2013
+title: Radial Stellar Pulsation and Three-dimensional Convection. II. Two-dimensional
+  Convection in Full Amplitude Radial Pulsation
+type: article
+volume: '771'
+year: '2013'

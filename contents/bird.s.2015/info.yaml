@@ -1,0 +1,45 @@
+abstract: We examine the kinematic structure of damped Lyman alpha systems (DLAs)
+  in a series of cosmological hydrodynamic simulations using the AREPO code. We are
+  able to match the distribution of velocity widths of associated low-ionization metal
+  absorbers substantially better than earlier work. Our simulations produce a population
+  of DLAs dominated by haloes with virial velocities around 70 km s-1, consistent
+  with a picture of relatively small, faint objects. In addition, we reproduce the
+  observed correlation between velocity width and metallicity and the equivalent width
+  distribution of Si II. Some discrepancies of moderate statistical significance remain;
+  too many of our spectra show absorption concentrated at the edge of the profile
+  and there are slight differences in the exact shape of the velocity width distribution.
+  We show that the improvement over previous work is mostly due to our strong feedback
+  from star formation and our detailed modelling of the metal ionization state.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.447.1834B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1407.7858
+author: Bird, S. and Haehnelt, M. and Neeleman, M. and Genel, S. and Vogelsberger,
+  M. and Hernquist, L.
+author_list:
+- family: Bird
+  given: S.
+- family: Haehnelt
+  given: M.
+- family: Neeleman
+  given: M.
+- family: Genel
+  given: S.
+- family: Vogelsberger
+  given: M.
+- family: Hernquist
+  given: L.
+date-added: 2017-08-11 07:31:25 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2542
+eprint: '1407.7858'
+journal: \mnras
+keywords: 'galaxies: formation, intergalactic medium, cosmology: theory'
+month: February
+pages: 1834--1846
+papis_id: cbaebecac2bf4ff4fd28e94e0cc10d2f
+ref: bird.s.2015
+title: Reproducing the kinematics of damped Lyman $α$ systems
+type: article
+volume: '447'
+year: '2015'

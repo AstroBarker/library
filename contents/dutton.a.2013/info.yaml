@@ -1,0 +1,54 @@
+abstract: We use the relations between aperture stellar velocity dispersion (sigmaap),
+  stellar mass (MSPS) and galaxy size (Re) for a sample of \texttildelow{}150 000
+  early-type galaxies from Sloan Digital Sky Survey/DR7 to place constraints on the
+  stellar initial mass function (IMF) and dark halo response to galaxy formation.
+  We build lambda cold dark matter-based mass models that reproduce, by construction,
+  the relations between galaxy size, light concentration and stellar mass, and use
+  the spherical Jeans equations to predict sigmaap. Given our model assumptions (including
+  those in the stellar population synthesis models), we find that reproducing the
+  median sigmaap versus MSPS relation is not possible with both a universal IMF and
+  a universal dark halo response. Significant departures from a universal IMF and/or
+  dark halo response are required, but there is a degeneracy between these two solutions.
+  We show that this degeneracy can be broken using the strength of the correlation
+  between residuals of the velocity-mass (Deltalog sigmaap) and size-mass (Deltalog
+  Re) relations. The slope of this correlation, \partial{}VR \equiv{} Deltalog sigmaap/Deltalog
+  Re, varies systematically with galaxy mass from \partial{}VR ~= -0.45 at MSPS \texttildelow{}
+  1010 M\&sun; to \partial{}VR ~= -0.15 at MSPS \texttildelow{} 1011.6 M\&sun;. The
+  virial Fundamental Plane (FP) has \partial{}VR = -1/2, and thus we find that the
+  tilt of the observed FP is mass dependent. Reproducing this tilt requires both a
+  non-universal IMF and a non-universal halo response. Our best model has mass-follows-light
+  at low masses (MSPS \lessequivlnt{} 1011.2 M\&sun;) and unmodified Navarro, Frenk
+  and White haloes at MSPS \texttildelow{} 1011.5 M\&sun;. The stellar masses imply
+  a mass-dependent IMF which is `lighter' than Salpeter at low masses and `heavier'
+  than Salpeter at high masses.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.432.2496D
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1204.2825
+author: Dutton, A. A. and Macciò, A. V. and Mendel, J. T. and Simard, L.
+author_list:
+- family: Dutton
+  given: A. A.
+- family: Macciò
+  given: A. V.
+- family: Mendel
+  given: J. T.
+- family: Simard
+  given: L.
+date-added: 2017-08-10 21:36:55 +0000
+date-modified: 2017-12-05 16:36:31 +0000
+doi: 10.1093/mnras/stt608
+eprint: '1204.2825'
+journal: \mnras
+keywords: 'stars: luminosity function, mass function, galaxies: elliptical and lenticular,
+  cD, galaxies: fundamental parameters, galaxies: haloes, galaxies: kinematics and
+  dynamics, dark matter'
+month: July
+pages: 2496--2511
+papis_id: 9634351138a4e3d343090e1c39d17077
+ref: dutton.a.2013
+title: 'Universal IMF versus dark halo response in early-type galaxies: breaking the
+  degeneracy with the Fundamental Plane'
+type: article
+volume: '432'
+year: '2013'

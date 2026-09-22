@@ -1,0 +1,50 @@
+abstract: Shock waves driven by the release of energy at the center of a cold ideal
+  gas sphere of initial density rho vprop r -omega approach a self-similar behavior,
+  with velocity \dot{R}\propto{} R^delta, as R --> \infty{}. For omega>3 the solutions
+  are second-type solutions, i.e., delta is determined by the requirement that the
+  flow should include a sonic point. No solution satisfying this requirement exists,
+  however, in the 3 <= omega <= omega g (gamma) "gap" (omega g  = 3.26 for adiabatic
+  index gamma = 5/3). We argue that in general second-type solutions should not be
+  required to include a sonic point. Rather, it is sufficient to require the existence
+  of a characteristic line rc (t), such that the energy in the region rc (t) < r <
+  R approaches a constant as R --> \infty{}, and an asymptotic solution given by the
+  self-similar solution at rc (t) < r < R and deviating from it at r < rc may be constructed.
+  The two requirements coincide for omega>omega g  and the latter identifies delta
+  = 0 solutions as the asymptotic solutions for 3 <= omega <= omega g  (as suggested
+  by Gruzinov). In these solutions, rc is a C 0 characteristic. Using numerical solutions
+  of the hydrodynamic equations, it is difficult to check whether the flow indeed
+  approaches a delta = 0 self-similar behavior as R --> \infty{}, due to the slow
+  convergence to self-similarity for omega ~ 3. We show that in this case the flow
+  may be described by a modified self-similar solution, d ln \dot{R}/d ln R=delta
+  with slowly varying delta(R), eta \equiv{} ddelta/dln R Lt 1, and spatial profiles
+  given by a sum of the self-similar solution corresponding to the instantaneous value
+  of delta and a self-similar correction linear in eta. The modified self-similar
+  solutions provide an excellent approximation to numerical solutions obtained for
+  omega ~ 3 at large R, with delta --> 0 (and eta != 0) for 3 <= omega <= omega g
+  .
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...723...10K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1002.3869
+author: Kushnir, D. and Waxman, E.
+author_list:
+- family: Kushnir
+  given: D.
+- family: Waxman
+  given: E.
+date-added: 2017-08-10 17:41:34 +0000
+date-modified: 2017-12-05 16:36:47 +0000
+doi: 10.1088/0004-637X/723/1/10
+eprint: '1002.3869'
+journal: \apj
+keywords: hydrodynamics, shock waves
+month: November
+pages: 10--19
+papis_id: 1c22fc9a8b14721ec96db96ff8f30bc9
+primaryclass: astro-ph.HE
+ref: kushnir.d.2010
+title: 'Closing the Gap in the Solutions of the Strong Explosion Problem: An Expansion
+  of the Family of Second-type Self-similar Solutions'
+type: article
+volume: '723'
+year: '2010'

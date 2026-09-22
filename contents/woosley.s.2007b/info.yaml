@@ -1,0 +1,51 @@
+abstract: The diversity of Type Ia supernova (SN Ia) photometry is explored using
+  a grid of 130 one-dimensional models. It is shown that the observable properties
+  of SNe Ia resulting from Chandrasekhar-mass explosions are chiefly determined by
+  their final composition and some measure of ``mixing'' in the explosion. A grid
+  of final compositions is explored, including essentially all combinations of 56Ni,
+  stable ``iron,'' and intermediate-mass elements that result in an unbound white
+  dwarf. Light curves (and in some cases spectra) are calculated for each model using
+  two different approaches to the radiation transport problem. Within the resulting
+  templates are models that provide good photometric matches to essentially the entire
+  range of observed SNe Ia. On the whole, the grid of models spans a wide range in
+  B-band peak magnitudes and decline rates, and does not obey a Phillips relation.
+  In particular, models with the same mass of 56Ni show large variations in their
+  light-curve decline rates. We identify and quantify the additional physical parameters
+  responsible for this dispersion and consider physically motivated ``cuts'' of the
+  models that agree better with the Phillips relation, discussing why nature may have
+  preferred these solutions. For example, models that produce a constant total mass
+  of burned material of 1.1+/-0.1 Msolar do give a crude Phillips relation, albeit
+  with much scatter. If one further severely mixes the ejecta strongly between the
+  center and 0.8 Msolar (as might be the case in a delayed-detonation scenario) reasonable
+  agreement with the Phillips relation results, although still with considerable spread.
+  We conclude that the supernova models that occur most frequently in nature are highly
+  constrained by the Phillips relation and that a large part of the currently observed
+  scatter in the relation is likely a consequence of the intrinsic diversity of these
+  objects.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...662..487W
+arxivurl: http://arxiv.org/abs/astro-ph/0609562
+author: Woosley, S. E. and Kasen, D. and Blinnikov, S. and Sorokina, E.
+author_list:
+- family: Woosley
+  given: S. E.
+- family: Kasen
+  given: D.
+- family: Blinnikov
+  given: S.
+- family: Sorokina
+  given: E.
+date-added: 2017-08-10 21:32:40 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1086/513732
+eprint: astro-ph/0609562
+journal: \apj
+keywords: 'Cosmology: Miscellaneous, Stars: Supernovae: General'
+month: June
+pages: 487--503
+papis_id: 832402adc8d7f44e45f69d6437e52db2
+ref: woosley.s.2007b
+title: Type Ia Supernova Light Curves
+type: article
+volume: '662'
+year: '2007'

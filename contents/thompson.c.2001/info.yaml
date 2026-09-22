@@ -1,0 +1,64 @@
+abstract: The extraordinary 1998 August 27 giant flare places strong constraints on
+  the physical properties of its source, SGR 1900+14. We make detailed comparisons
+  of the published data with the magnetar model, which identifies the soft gamma repeaters
+  as neutron stars endowed with ~1015 G magnetic fields. The giant flare evolved through
+  three stages, whose radiative mechanisms we address in turn. The extreme peak luminosity
+  L>106LEdd, hard spectrum, and rapid variability of the initial ~0.5 s spike emission
+  all point to an expanding pair fireball with very low baryon contamination. We argue
+  that this energy must have been deposited directly through shearing and reconnection
+  of a magnetar-strength external magnetic field. Low-order torsional oscillations
+  of the star fail to transmit energy rapidly enough to the exterior, if the surface
+  field is much weaker. A triggering mechanism is proposed, whereby a helical distortion
+  of the core magnetic field induces large-scale fracturing in the crust and a twisting
+  deformation of the crust and exterior magnetic field. After the initial spike (whose
+  ~0.4 s duration can be related to the Alfv{\'e}n crossing time of the core), very
+  hot (T<~1 MeV) plasma rich in electron-positron pairs remains confined close to
+  the star on closed magnetic field lines. The envelope of the August 27 flare can
+  be accurately fitted, after ~40 s, by the contracting surface of such a ``trapped
+  fireball.'' The form of this fit gives evidence that the temperature of the trapped
+  pair plasma decreases outward from its center. We quantify the effects of direct
+  neutrino pair emission on the X-ray light curve, thereby deducing a lower bound
+  mumin~1\texttimes{}1032 G cm3 to the magnetic moment of the confining field, comparable
+  to the strongest fields measured in radio pulsars. The radiative flux during the
+  intermediate ~40 s of the burst appears to exceed the trapped fireball fit. The
+  lack of strong rotational modulation and intermediate hardness of this smooth tail
+  are consistent with the emission from an extended pair corona, in which O-mode photons
+  are heated by Compton scattering. This feature could represent residual seismic
+  activity within the star and accounts for ~10\% of the total flare fluence. We consider
+  in detail the critical luminosity, below which a stable balance can be maintained
+  between heating and radiative cooling in a confined, magnetized pair plasma, but
+  above which the confined plasma runs away to a trapped fireball in LTE. The emergence
+  of large-amplitude pulsations at ~40 s probably represents a transition to a pair-depleted
+  photosphere whose main source of opacity is electrons (and ions) ablated from the
+  heated neutron star surface. The best-fit temperature of the blackbody component
+  of the spectrum equilibrates at a value that agrees well with the regulating effect
+  of photon splitting. The remarkable four-peaked substructure within each 5.16 s
+  pulse, as well as the corresponding collimation of the X-ray flux, has a simple
+  explanation based on the strong inequality between the scattering cross sections
+  of the two photon polarization modes. The width of each X-ray ``jet'' is directly
+  related to the amount of matter advected outward by the high cross section ordinary
+  mode.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...561..980T
+arxivurl: http://arxiv.org/abs/astro-ph/0110675
+author: Thompson, C. and Duncan, R. C.
+author_list:
+- family: Thompson
+  given: C.
+- family: Duncan
+  given: R. C.
+date-added: 2017-08-11 01:49:58 +0000
+date-modified: 2017-12-05 16:37:34 +0000
+doi: 10.1086/323256
+eprint: astro-ph/0110675
+journal: \apj
+keywords: 'Gamma Rays: Bursts, Stars: Magnetic Fields, Stars: Neutron, X-Rays: Stars'
+month: November
+pages: 980--1005
+papis_id: 98109a6acc9629d8b8b9676232206d2e
+ref: thompson.c.2001
+title: The Giant Flare of 1998 August 27 from SGR 1900+14. II. Radiative Mechanism
+  and Physical Constraints on the Source
+type: article
+volume: '561'
+year: '2001'

@@ -1,0 +1,50 @@
+abstract: We have investigated the influence of a velocity shear surface on the linear
+  and nonlinear development of the current-driven (CD) kink instability of force-free
+  helical magnetic equilibria in three dimensions. In this study, we follow the temporal
+  development within a periodic computational box and concentrate on flows that are
+  sub-Alfv{\'e}nic on the cylindrical jet's axis. Displacement of the initial force-free
+  helical magnetic field leads to the growth of CD kink instability. We find that
+  helically distorted density structure propagates along the jet with speed and flow
+  structure dependent on the radius of the velocity shear surface relative to the
+  characteristic radius of the helically twisted force-free magnetic field. At small
+  velocity shear surface radius, the plasma flows through the kink with minimal kink
+  propagation speed. The kink propagation speed increases as the velocity shear radius
+  increases and the kink becomes more embedded in the plasma flow. A decreasing magnetic
+  pitch profile and faster flow enhance the influence of velocity shear. Simulations
+  show continuous transverse growth in the nonlinear phase of the instability. The
+  growth rate of the CD kink instability and the nonlinear behavior also depend on
+  the velocity shear surface radius and flow speed, and the magnetic pitch radial
+  profile. Larger velocity shear radius leads to slower linear growth, makes a later
+  transition to the nonlinear stage, and with larger maximum amplitude than that occuring
+  for a static plasma column. However, when the velocity shear radius is much greater
+  than the characteristic radius of the helical magnetic field, linear and nonlinear
+  development can be similar to the development of a static plasma column.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...734...19M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1104.0549
+author: Mizuno, Y. and Hardee, P. E. and Nishikawa, K.-I.
+author_list:
+- family: Mizuno
+  given: Y.
+- family: Hardee
+  given: P. E.
+- family: Nishikawa
+  given: K.-I.
+date-added: 2017-08-10 16:34:03 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1088/0004-637X/734/1/19
+eid: '19'
+eprint: '1104.0549'
+journal: \apj
+keywords: 'galaxies: jets, instabilities, magnetohydrodynamics: MHD, methods: numerical'
+month: June
+pages: '19'
+papis_id: 8834003c2d11ffbec9fa69fe672d736d
+primaryclass: astro-ph.HE
+ref: mizuno.y.2011a
+title: 'Three-dimensional Relativistic Magnetohydrodynamic Simulations of Current-driven
+  Instability with a Sub-Alfvénic Jet: Temporal Properties'
+type: article
+volume: '734'
+year: '2011'

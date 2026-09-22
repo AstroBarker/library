@@ -1,0 +1,56 @@
+abstract: 'Recent observational studies of type Ia supernovae (SNeIa) suggest correlations
+  between the peak brightness of an event and the age of the progenitor stellar population.
+  This trend likely follows from properties of the progenitor white dwarf (WD), such
+  as central density, that follow from properties of the host stellar population.
+  We present a statistically well-controlled, systematic study utilizing a suite of
+  multi-dimensional SNeIa simulations investigating the influence of central density
+  of the progenitor WD on the production of Fe-group material, particularly radioactive
+  56Ni, which powers the light curve. We find that on average, as the progenitor''s
+  central density increases, production of Fe-group material does not change but production
+  of 56Ni decreases. We attribute this result to a higher rate of neutronization at
+  higher density. The central density of the progenitor is determined by the mass
+  of the WD and the cooling time prior to the onset of mass transfer from the companion,
+  as well as the subsequent accretion heating and neutrino losses. The dependence
+  of this density on cooling time, combined with the result of our central density
+  study, offers an explanation for the observed age-luminosity correlation: a longer
+  cooling time raises the central density at ignition thereby producing less 56Ni
+  and thus a dimmer event. While our ensemble of results demonstrates a significant
+  trend, we find considerable variation between realizations, indicating the necessity
+  for averaging over an ensemble of simulations to demonstrate a statistically significant
+  result.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...719L...5K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1007.0910
+author: Krueger, B. K. and Jackson, A. P. and Townsley, D. M. and Calder, A. C. and
+  Brown, E. F. and Timmes, F. X.
+author_list:
+- family: Krueger
+  given: B. K.
+- family: Jackson
+  given: A. P.
+- family: Townsley
+  given: D. M.
+- family: Calder
+  given: A. C.
+- family: Brown
+  given: E. F.
+- family: Timmes
+  given: F. X.
+date-added: 2017-08-11 08:02:37 +0000
+date-modified: 2017-12-05 16:36:49 +0000
+doi: 10.1088/2041-8205/719/1/L5
+eprint: '1007.0910'
+journal: \apjl
+keywords: 'hydrodynamics, nuclear reactions, nucleosynthesis, abundances, supernovae:
+  general, white dwarfs'
+month: August
+pages: L5-L9
+papis_id: 479e225e77ff1ccffc3c439f12304dc7
+primaryclass: astro-ph.SR
+ref: krueger.b.2010
+title: On Variations of the Brightness of Type Ia Supernovae with the Age of the Host
+  Stellar Population
+type: article
+volume: '719'
+year: '2010'

@@ -1,0 +1,47 @@
+abstract: We study the hydrodynamic evolution of massive accretion disks around black
+  holes, formed when a neutron star is disrupted by a black hole in a binary system.
+  The initial conditions are taken from three-dimensional calculations of coalescing
+  binaries. By assuming azimuthal symmetry we are able to follow the time dependence
+  of the disk structure for 0.2 s in cylindrical coordinates (r,z). We use an ideal
+  gas equation of state and assume that all the dissipated energy is radiated away.
+  The disks evolve because of viscous stresses, modeled with an alpha law. We study
+  the disk structure and, in particular, the strong meridional circulations that are
+  established and persist throughout our calculations. These consist of strong outflows
+  along the equatorial plane that reverse direction close to the surface of the disk
+  and converge on the accretor. In the context of gamma-ray bursts (GRBs), we estimate
+  the energy released from the system in neutrinos and through magnetic-dominated
+  mechanisms and find it can be as high as Enu~1052 ergs and EBZ~1051 ergs, respectively,
+  during an estimated accretion timescale of 0.1-0.2 s. The nunu annihilation is likely
+  to produce bursts from only a short, impulsive energy input Lnunu~t-5/2 and so would
+  be unable to account for a large fraction of bursts that show complicated light
+  curves. On the other hand, a gas mass ~0.1-0.25 Msolar survives in the orbiting
+  debris, which enables strong magnetic fields ~1016 G to be anchored in the dense
+  matter long enough to power short duration GRBs. We highlight the effects that the
+  initial disk and black holes masses, viscosity, and binary mass ratio have on the
+  evolution of the disk structure. Finally, we investigate the continuous energy injection
+  that arises as the black hole slowly swallows the rest of the disk and discuss its
+  consequences on the GRB afterglow emission.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...577..893L
+arxivurl: http://arxiv.org/abs/astro-ph/0206011
+author: Lee, W. H. and Ramirez-Ruiz, E.
+author_list:
+- family: Lee
+  given: W. H.
+- family: Ramirez-Ruiz
+  given: E.
+date-added: 2017-08-11 02:10:51 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/342112
+eprint: astro-ph/0206011
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Gamma Rays: Bursts, Hydrodynamics'
+month: October
+pages: 893--903
+papis_id: 51162d9eed3e798d419160ea1c7b7e57
+ref: lee.w.2002
+title: 'Accretion Disks around Black Holes: Dynamical Evolution, Meridional Circulations,
+  and Gamma-Ray Bursts'
+type: article
+volume: '577'
+year: '2002'

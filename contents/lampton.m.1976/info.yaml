@@ -1,0 +1,32 @@
+abstract: 'Two important problems encountered in X-ray astronomy are considered: the
+  assessment of the validity of models, and the determination of values of adjustable
+  parameters which valid models possess. Minimization of the chi-squared statistic
+  is recommended for testing the validity of classes of models. The chi-squared min
+  + 1 error estimation method is evaluated and found to be unsuitable when several
+  parameter ranges are to be derived. The ratio of variances method gives parameter
+  confidence regions which are more variable than necessary.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1976ApJ...208..177L
+author: Lampton, M. and Margon, B. and Bowyer, S.
+author_list:
+- family: Lampton
+  given: M.
+- family: Margon
+  given: B.
+- family: Bowyer
+  given: S.
+date-added: 2017-08-11 00:27:59 +0000
+date-modified: 2017-12-05 16:37:51 +0000
+doi: 10.1086/154592
+journal: \apj
+keywords: Astronomical Models, Statistical Tests, X Ray Astronomy, Classifications,
+  Data Processing, Digital Simulation, Error Analysis, Estimating, Mathematical Models,
+  X Ray Sources
+month: August
+pages: 177--190
+papis_id: 263448874c5916e770161e2d0b64ea2a
+ref: lampton.m.1976
+title: Parameter estimation in X-ray astronomy
+type: article
+volume: '208'
+year: '1976'

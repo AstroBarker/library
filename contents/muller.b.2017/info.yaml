@@ -1,0 +1,50 @@
+abstract: We study the impact of large-scale perturbations from convective shell burning
+  on the core-collapse supernova explosion mechanism using 3D multigroup neutrino
+  hydrodynamics simulations of an 18M\&sun; progenitor. Seed asphericities in the
+  O shell, obtained from a recent 3D model of O shell burning, help trigger a neutrino-driven
+  explosion 330 ms after bounce whereas the shock is not revived in a model based
+  on a spherically symmetric progenitor for at least another 300 ms. We tentatively
+  infer a reduction of the critical luminosity for shock revival by \texttildelow{}
+  20 {per cent} due to pre-collapse perturbations. This indicates that convective
+  seed perturbations play an important role in the explosion mechanism in some progenitors.
+  We follow the evolution of the 18M\&sun; model into the explosion phase for more
+  than 2 s and find that the cycle of accretion and mass ejection is still ongoing
+  at this stage. With a preliminary value of 7.7 \texttimes{} 1050 erg for the diagnostic
+  explosion energy, a baryonic neutron star mass of 1.85M\&sun;, a neutron star kick
+  of \texttildelow{} 600 km s^{-1} and a neutron star spin period of \texttildelow{}
+  20 ms at the end of the simulation, the explosion and remnant properties are slightly
+  atypical, but still lie comfortably within the observed distribution. Although more
+  refined simulations and a larger survey of progenitors are still called for, this
+  suggests that a solution to the problem of shock revival and explosion energies
+  in the ballpark of observations is within reach for neutrino-driven explosions in
+  3D.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017MNRAS.472..491M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1705.00620
+author: Müller, B. and Melson, T. and Heger, A. and Janka, H.-T.
+author_list:
+- family: Müller
+  given: B.
+- family: Melson
+  given: T.
+- family: Heger
+  given: A.
+- family: Janka
+  given: H.-T.
+date-added: 2018-04-25 23:54:50 +0000
+date-modified: 2018-04-25 23:54:51 +0000
+doi: 10.1093/mnras/stx1962
+eprint: '1705.00620'
+journal: \mnras
+keywords: 'convection, hydrodynamics, turbulence, stars: massive, supernovae: general'
+month: November
+pages: 491--513
+papis_id: cd6060702a44230c1f9df65d1953f827
+primaryclass: astro-ph.SR
+ref: muller.b.2017
+title: Supernova simulations from a 3D progenitor model - Impact of perturbations
+  and evolution of explosion properties
+type: article
+volume: '472'
+year: '2017'

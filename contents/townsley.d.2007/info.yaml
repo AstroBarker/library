@@ -1,0 +1,57 @@
+abstract: We develop an improved method for tracking the nuclear flame during the
+  deflagration phase of a Type Ia supernova and apply it in a study of the variation
+  in outcomes expected from the gravitationally confined detonation (GCD) paradigm.
+  A simplified three-stage burning model and a nonstatic ash state are integrated
+  with an artificially thickened advection-diffusion-reaction (ADR) flame front in
+  order to provide an accurate but highly efficient representation of the energy release
+  and electron capture in and after the unresolvable flame. We demonstrate that neither
+  our ADR nor our energy release methods generate significant acoustic noise, as has
+  been a problem with previous ADR-based schemes. We proceed to model aspects of the
+  deflagration, particularly the role of buoyancy of the hot ash, and find that our
+  methods are reasonably well behaved with respect to numerical resolution. We show
+  that if a detonation occurs in material swept up by the material ejected by the
+  first rising bubble but gravitationally confined to the white dwarf (WD) surface
+  (the GCD paradigm), the density structure of the WD at detonation is systematically
+  correlated with the distance of the deflagration ignition point from the center
+  of the star. Coupled to a suitably stochastic ignition process, this correlation
+  may provide a plausible explanation for the variety of nickel masses seen in Type
+  Ia supernovae.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...668.1118T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0706.1094
+author: Townsley, D. M. and Calder, A. C. and Asida, S. M. and Seitenzahl, I. R. and
+  Peng, F. and Vladimirova, N. and Lamb, D. Q. and Truran, J. W.
+author_list:
+- family: Townsley
+  given: D. M.
+- family: Calder
+  given: A. C.
+- family: Asida
+  given: S. M.
+- family: Seitenzahl
+  given: I. R.
+- family: Peng
+  given: F.
+- family: Vladimirova
+  given: N.
+- family: Lamb
+  given: D. Q.
+- family: Truran
+  given: J. W.
+date-added: 2017-08-10 17:32:37 +0000
+date-modified: 2017-12-05 16:37:07 +0000
+doi: 10.1086/521013
+eprint: '0706.1094'
+journal: \apj
+keywords: 'Hydrodynamics, Nuclear Reactions, Nucleosynthesis, Abundances, Stars: Supernovae:
+  General, Stars: White Dwarfs'
+month: October
+pages: 1118--1131
+papis_id: d4f003d79b5ad16ffa9f33671fce36b6
+ref: townsley.d.2007
+title: Flame Evolution During Type Ia Supernovae and the Deflagration Phase in the
+  Gravitationally Confined Detonation Scenario
+type: article
+volume: '668'
+year: '2007'

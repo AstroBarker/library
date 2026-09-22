@@ -1,0 +1,49 @@
+abstract: The common-envelope (CE) phase is an important stage in the evolution of
+  binary stellar populations. The most common way to compute the change in orbital
+  period during a CE is to relate the binding energy of the envelope of the Roche-lobe
+  filling giant to the change in orbital energy. Especially in population-synthesis
+  codes, where the evolution of millions of stars must be computed and detailed evolutionary
+  models are too expensive computationally, simple approximations are made for the
+  envelope binding energy. In this study, we present accurate analytic prescriptions
+  based on detailed stellar-evolution models that provide the envelope binding energy
+  for giants with metallicities between Z = 10-4 and Z = 0.03 and masses between 0.8
+  M \&sun; and 100 M \&sun;, as a function of the metallicity, mass, radius, and evolutionary
+  phase of the star. Our results are also presented in the form of electronic data
+  tables and Fortran routines that use them. We find that the accuracy of our fits
+  is better than 15\% for 90\% of our model data points in all cases, and better than
+  10\% for 90\% of our data points in all cases except the asymptotic giant branches
+  for three of the six metallicities we consider. For very massive stars (M >~ 50
+  M \&sun;), when stars lose more than ~20\% of their initial mass due to stellar
+  winds, our fits do not describe the models as accurately. Our results are more widely
+  applicable---covering wider ranges of metallicity and mass---and are of higher accuracy
+  than those of previous studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011ApJ...743...49L
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1009.5400
+author: Loveridge, A. J. and van der Sluys, M. V. and Kalogera, V.
+author_list:
+- family: Loveridge
+  given: A. J.
+- family: van der Sluys
+  given: M. V.
+- family: Kalogera
+  given: V.
+date-added: 2017-08-10 23:27:03 +0000
+date-modified: 2017-12-05 16:36:41 +0000
+doi: 10.1088/0004-637X/743/1/49
+eid: '49'
+eprint: '1009.5400'
+journal: \apj
+keywords: 'binaries: close, stars: evolution, stars: fundamental parameters, stars:
+  mass-loss'
+month: December
+pages: '49'
+papis_id: 8d0a69a5614743670c5c22d38caff0c4
+primaryclass: astro-ph.SR
+ref: loveridge.a.2011
+title: Analytical Expressions for the Envelope Binding Energy of Giants as a Function
+  of Basic Stellar Parameters
+type: article
+volume: '743'
+year: '2011'

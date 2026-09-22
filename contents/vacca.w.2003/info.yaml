@@ -1,0 +1,38 @@
+abstract: We present a method for correcting near-infrared medium-resolution spectra
+  for telluric absorption. The method makes use of a spectrum of an A0 V star, observed
+  near in time and close in air mass to the target object, and a high-resolution model
+  of Vega, to construct a telluric correction spectrum that is free of stellar absorption
+  features. The technique was designed specifically to perform telluric corrections
+  on spectra obtained with SpeX, a 0.8-5.5 mum medium-resolution cross-dispersed spectrograph
+  at the NASA Infrared Telescope Facility, and uses the fact that for medium resolutions
+  there exist spectral regions uncontaminated by atmospheric absorption lines. However,
+  it is also applicable (in a somewhat modified form) to spectra obtained with other
+  near-infrared spectrographs. An IDL-based code that carries out the procedures is
+  available for downloading via the World Wide Web.  Based on observations obtained
+  with the Infrared Telescope Facility, which is operated by the University of Hawaii
+  under contract to the National Aeronautics and Space Administration.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003PASP..115..389V
+arxivurl: http://arxiv.org/abs/astro-ph/0211255
+author: Vacca, W. D. and Cushing, M. C. and Rayner, J. T.
+author_list:
+- family: Vacca
+  given: W. D.
+- family: Cushing
+  given: M. C.
+- family: Rayner
+  given: J. T.
+date-added: 2017-08-11 05:37:29 +0000
+date-modified: 2017-12-05 16:37:30 +0000
+doi: 10.1086/346193
+eprint: astro-ph/0211255
+journal: \pasp
+keywords: 'Atmospheric Effects, Methods: Data Analysis, Techniques: Spectroscopic'
+month: March
+pages: 389--409
+papis_id: 5fe1a9bf701fa92f2a18d5e18acc02b6
+ref: vacca.w.2003
+title: A Method of Correcting Near-Infrared Spectra for Telluric Absorption
+type: article
+volume: '115'
+year: '2003'

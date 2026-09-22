@@ -1,0 +1,41 @@
+abstract: We present a new N-body and gas dynamics code, called Nyx, for large-scale
+  cosmological simulations. Nyx follows the temporal evolution of a system of discrete
+  dark matter particles gravitationally coupled to an inviscid ideal fluid in an expanding
+  universe. The gas is advanced in an Eulerian framework with block-structured adaptive
+  mesh refinement; a particle-mesh scheme using the same grid hierarchy is used to
+  solve for self-gravity and advance the particles. Computational results demonstrating
+  the validation of Nyx on standard cosmological test problems, and the scaling behavior
+  of Nyx to 50,000 cores, are presented.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013ApJ...765...39A
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1301.4498
+author: Almgren, A. S. and Bell, J. B. and Lijewski, M. J. and Lukić, Z. and Van Andel,
+  E.
+author_list:
+- family: Almgren
+  given: A. S.
+- family: Bell
+  given: J. B.
+- family: Lijewski
+  given: M. J.
+- family: Lukić
+  given: Z.
+- family: Van Andel
+  given: E.
+date-added: 2017-08-10 15:36:39 +0000
+date-modified: 2017-12-05 16:36:33 +0000
+doi: 10.1088/0004-637X/765/1/39
+eid: '39'
+eprint: '1301.4498'
+journal: \apj
+keywords: 'gravitation, hydrodynamics, methods: numerical'
+month: March
+pages: '39'
+papis_id: 8c6183e71fabb56d5592f305574f2517
+primaryclass: astro-ph.IM
+ref: almgren.a.2013
+title: 'Nyx: A Massively Parallel AMR Code for Computational Cosmology'
+type: article
+volume: '765'
+year: '2013'

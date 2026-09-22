@@ -1,0 +1,33 @@
+abstract: This paper introduces a previously unaddressed problem with performing multidimensional
+  numerical MHD characterized by "explosive" growth (within a single time step) of
+  weak magnetic fields to possibly dynamic strengths in the vicinity of strong velocity
+  shear. This problem has been observed to occur in numerical algorithms which rely
+  on the solution of the characteristic equations at the mesh interfaces. The solution
+  to this problem is the subject of this paper and has led to an algorithm fundamentally
+  different from those discussed previously. Specifically, at every point on the mesh,
+  the magnetic induction terms are determined from the characteristic velocities which
+  are evaluated by solving implicitly (in space) the characteristic equations for
+  incompressible MHD (although the algorithm is perfectly suitable for compressible
+  MHD). The implicit treatment of the characteristic equations sets this algorithm
+  apart from previous efforts and is shown to be a necessary condition for multidimensional
+  accuracy. It amounts to replacing the usual directional-split treatment of the induction
+  and transport operators with a planar-split scheme.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...457..291C
+author: Clarke, D. A.
+author_list:
+- family: Clarke
+  given: D. A.
+date-added: 2017-08-10 14:52:17 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/176730
+journal: \apj
+keywords: 'MAGNETOHYDRODYNAMICS: MHD, METHODS: NUMERICAL'
+month: January
+pages: '291'
+papis_id: 02d78ca7e296bf7c0ddbb3dadb81d87b
+ref: clarke.d.1996
+title: A Consistent Method of Characteristics for Multidimensional Magnetohydrodynamics
+type: article
+volume: '457'
+year: '1996'

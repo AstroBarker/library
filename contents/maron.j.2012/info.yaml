@@ -1,0 +1,46 @@
+abstract: We present an algorithm for simulating the equations of ideal magnetohydrodynamics
+  and other systems of differential equations on an unstructured set of points represented
+  by sample particles. Local, third-order, least-squares, polynomial interpolations
+  (Moving Least Squares interpolations) are calculated from the field values of neighboring
+  particles to obtain field values and spatial derivatives at the particle position.
+  Field values and particle positions are advanced in time with a second-order predictor-corrector
+  scheme. The particles move with the fluid, so the time step is not limited by the
+  Eulerian Courant-Friedrichs-Lewy condition. Full spatial adaptivity is implemented
+  to ensure the particles fill the computational volume, which gives the algorithm
+  substantial flexibility and power. A target resolution is specified for each point
+  in space, with particles being added and deleted as needed to meet this target.
+  Particle addition and deletion is based on a local void and clump detection algorithm.
+  Dynamic artificial viscosity fields provide stability to the integration. The resulting
+  algorithm provides a robust solution for modeling flows that require Lagrangian
+  or adaptive discretizations to resolve. This paper derives and documents the Phurbas
+  algorithm as implemented in Phurbas version 1.1. A following paper presents the
+  implementation and test problem results.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJS..200....6M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1110.0835
+author: Maron, J. L. and McNally, C. P. and Mac Low, M.-M.
+author_list:
+- family: Maron
+  given: J. L.
+- family: McNally
+  given: C. P.
+- family: Mac Low
+  given: M.-M.
+date-added: 2017-08-10 23:50:03 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/0067-0049/200/1/6
+eid: '6'
+eprint: '1110.0835'
+journal: \apjs
+keywords: 'hydrodynamics, magnetohydrodynamics: MHD, methods: numerical'
+month: May
+pages: '6'
+papis_id: f5b89b7c18c7a77c238829b37b2bde30
+primaryclass: astro-ph.IM
+ref: maron.j.2012
+title: 'Phurbas: An Adaptive, Lagrangian, Meshless, Magnetohydrodynamics Code. I.
+  Algorithm'
+type: article
+volume: '200'
+year: '2012'

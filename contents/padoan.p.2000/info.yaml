@@ -1,0 +1,34 @@
+abstract: We present calculations of frictional heating by ion-neutral drift in three-dimensional
+  simulations of turbulent, magnetized molecular clouds. We show that ambipolar drift
+  heating is a strong function of position in a turbulent cloud, and its average value
+  can be significantly larger than the average cosmic-ray heating rate. The heating
+  rate per unit volume due to ambipolar drift, HAD=\vert{}JXB\vert{}2/rhoinuin~ B4/(16pi2L2Brhoi
+  nuin), is found to depend on the rms Alfv{\'e}nic Mach number, MA, and on the average
+  field strength, as HAD~M2A<\vert{}B\vert{}>4. This implies that the typical scale
+  of variation of the magnetic field, LB, is inversely proportional to MA, which we
+  also demonstrate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2000ApJ...540..332P
+arxivurl: http://arxiv.org/abs/astro-ph/9910147
+author: Padoan, P. and Zweibel, E. and Nordlund, Å.
+author_list:
+- family: Padoan
+  given: P.
+- family: Zweibel
+  given: E.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-11 03:21:35 +0000
+date-modified: 2017-12-05 16:37:38 +0000
+doi: 10.1086/309299
+eprint: astro-ph/9910147
+journal: \apj
+keywords: 'ISM: Clouds, ISM: Magnetic Fields, ISM: Molecules'
+month: September
+pages: 332--341
+papis_id: be2e60b4e6002987ea45d6da73c8f45c
+ref: padoan.p.2000
+title: Ambipolar Drift Heating in Turbulent Molecular Clouds
+type: article
+volume: '540'
+year: '2000'

@@ -1,0 +1,58 @@
+abstract: The stellar masses, mean ages, metallicities, and star formation histories
+  of galaxies are now commonly estimated via stellar population synthesis (SPS) techniques.
+  SPS relies on stellar evolution calculations from the main sequence to stellar death,
+  stellar spectral libraries, phenomenological dust models, and stellar initial mass
+  functions (IMFs) to translate the evolution of a multimetallicity, multi-age set
+  of stars into a prediction for the time-evolution of the integrated light from that
+  set of stars. Each of these necessary inputs carries significant uncertainties that
+  have until now received little systematic attention. The present work is the first
+  in a series that explores the impact of uncertainties in key phases of stellar evolution
+  and the IMF on the derived physical properties of galaxies and the expected luminosity
+  evolution for a passively evolving set of stars. A Monte Carlo Markov Chain approach
+  is taken to fit near-UV through near-IR photometry of a representative sample of
+  low- and high-redshift galaxies with this new SPS model. Significant results include
+  the following. (1) Including uncertainties in stellar evolution, stellar masses
+  at z ~ 0 carry errors of ~0.3 dex at 95\% CL with little dependence on luminosity
+  or color, while at z ~ 2, the masses of bright red galaxies are uncertain at the
+  ~0.6 dex level. (2) Either current stellar evolution models, current observational
+  stellar libraries, or both, do not adequately characterize the metallicity-dependence
+  of the thermally pulsating AGB phase. (3) Conservative estimates on the uncertainty
+  of the slope of the IMF in the solar neighborhood imply that luminosity evolution
+  per unit redshift is uncertain at the ~0.4 mag level in the K band, which is a substantial
+  source of uncertainty for interpreting the evolution of galaxy populations across
+  time. Any possible evolution in the IMF, as suggested by several independent lines
+  of evidence, will only exacerbate this problem. (4) Assuming a distribution of stellar
+  metallicities within a galaxy, rather than a fixed value as is usually assumed,
+  can yield important differences when considering bands blueward of V, but is not
+  a concern for redder bands. Spectroscopic information may alleviate some of these
+  concerns, though uncertainties in the stellar spectral libraries and the importance
+  of nonsolar abundance ratios have not yet been systematically investigated in the
+  SPS context.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...699..486C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0809.4261
+author: Conroy, C. and Gunn, J. E. and White, M.
+author_list:
+- family: Conroy
+  given: C.
+- family: Gunn
+  given: J. E.
+- family: White
+  given: M.
+date-added: 2017-08-10 14:14:34 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/699/1/486
+eprint: '0809.4261'
+journal: \apj
+keywords: 'galaxies: evolution, galaxies: stellar content, stars: evolution'
+month: July
+pages: 486--506
+papis_id: a555f7bebda4e6c8cd9922eec0abfe47
+ref: conroy.c.2009
+title: The Propagation of Uncertainties in Stellar Population Synthesis Modeling.
+  I. The Relevance of Uncertain Aspects of Stellar Evolution and the Initial Mass
+  Function to the Derived Physical Properties of Galaxies
+type: article
+volume: '699'
+year: '2009'

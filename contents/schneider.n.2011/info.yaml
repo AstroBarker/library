@@ -1,0 +1,65 @@
+abstract: 'Aims: We aim to better understand how the spatial structure of molecular
+  clouds is governed by turbulence. For that, we study the large-scale spatial distribution
+  of low-density molecular gas and search for characteristic length scales.  Methods:
+  We employ a 35 square degrees 13CO 1 --> 0 molecular line survey of Cygnus X and
+  visual extinction (AV) maps of 17 Galactic clouds to analyze the spatial structure
+  with the Delta-variance method. This sample contains a large variety of different
+  molecular cloud types with different star-forming activity.  Results: The Delta-variance
+  spectra obtained from the AV maps show differences between low-mass star-forming
+  (SF) clouds and massive giant molecular clouds (GMC) in terms of shape of the spectrum
+  and its power-law exponent beta. Low-mass SF clouds have a double-peak structure
+  with characteristic size scales around 1 pc (though with a large scatter around
+  this value) and 4 pc. The GMCs show no characteristic scale in the AV-maps, which
+  can partly be ascribed to a distance effect owing to a larger line-of-sight (LOS)
+  confusion. The Delta-variance for Cygnus, determined from the 13CO survey, shows
+  characteristic scales at 4 pc and 40 pc, either reflecting the filament structure
+  and large-scale turbulence forcing or - for the 4 pc scale - the scale below which
+  the 13CO 1 --> 0 line becomes optically thick. Though there are different processes
+  that can introduce characteristic scales, such as geometry, decaying turbulence,
+  the transition scale from supersonic to subsonic turbulence (the sonic scale), line-of-sight
+  effects and energy injection caused by expanding supernova shells, outflows, HII-regions,
+  and although the relative contribution of these effects strongly varies from cloud
+  to cloud, it is remarkable that the resulting turbulent structure of molecular clouds
+  shows similar characteristics.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...529A...1S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1001.2453
+author: Schneider, N. and Bontemps, S. and Simon, R. and Ossenkopf, V. and Federrath,
+  C. and Klessen, R. S. and Motte, F. and André, P. and Stutzki, J. and Brunt, C.
+author_list:
+- family: Schneider
+  given: N.
+- family: Bontemps
+  given: S.
+- family: Simon
+  given: R.
+- family: Ossenkopf
+  given: V.
+- family: Federrath
+  given: C.
+- family: Klessen
+  given: R. S.
+- family: Motte
+  given: F.
+- family: André
+  given: P.
+- family: Stutzki
+  given: J.
+- family: Brunt
+  given: C.
+date-added: 2017-08-11 01:46:24 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/200913884
+eid: A1
+eprint: '1001.2453'
+journal: \aap
+keywords: 'methods: analytical, dust, extinction, ISM: molecules, ISM: structure'
+month: May
+pages: A1
+papis_id: 428a63e6e0a6c366cb51c4debcfaf66b
+ref: schneider.n.2011
+title: The link between molecular cloud structure and turbulence
+type: article
+volume: '529'
+year: '2011'

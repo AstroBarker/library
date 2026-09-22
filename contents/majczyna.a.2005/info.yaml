@@ -1,0 +1,48 @@
+abstract: This paper presents the set of plane-parallel model atmosphere equations
+  for a very hot neutron star (X-ray burst source). The model equations assume both
+  hydrostatic and radiative equilibrium, and the equation of state of an ideal gas
+  in local thermodynamic equilibrium (LTE). The equation of radiative transfer includes
+  terms describing Compton scattering of photons on free electrons in fully relativistic
+  thermal motion, for photon energies approaching me c2. Model equations take into
+  account many bound-free and free-free energy-dependent opacities of hydrogen, helium,
+  and the iron ions, and also a dozen bound-bound opacities for the highest ions of
+  iron. We solve model equations by partial linearisation and the technique of variable
+  Eddington factors. Large grid of H-He-Fe model atmospheres of X-ray burst sources
+  has been computed for 107 <=Teff <=3\texttimes{} 107 K, a wide range of surface
+  gravity, and various iron abundances. We demonstrate that the spectra of X-ray bursters
+  with iron present in the accreting matter differ significantly from pure H-He spectra
+  (published in an earlier paper), and also from blackbody spectra. Comptonized spectra
+  with significant iron abundance are generally closer to blackbody spectra than spectra
+  of H-He atmospheres. The ratio of color to effective temperatures in our grid always
+  remains in the range 1.2 < Tc/Teff < 1.85. The present grid of model atmospheres
+  and theoretical X-ray spectra will be used to determine the effective temperatures,
+  radii and M/R ratios of bursting neutron stars from observational data.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005A\%26A...430..643M
+arxivurl: http://arxiv.org/abs/astro-ph/0412644
+author: Majczyna, A. and Madej, J. and Joss, P. C. and Róża\ŉska, A.
+author_list:
+- family: Majczyna
+  given: A.
+- family: Madej
+  given: J.
+- family: Joss
+  given: P. C.
+- family: Róża\ŉska
+  given: A.
+date-added: 2017-08-11 02:47:28 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1051/0004-6361:20034048
+eprint: astro-ph/0412644
+journal: \aap
+keywords: 'radiative transfer, stars: atmospheres, stars: neutron, X-rays: bursts,
+  stars: magnetic fields, stars: fundamental parameters'
+month: February
+pages: 643--654
+papis_id: 6cf61b1cd4c02eebdca42d3d7c936922
+ref: majczyna.a.2005
+title: Model atmospheres and X-ray spectra of bursting neutron stars. II. Iron rich
+  comptonized spectra
+type: article
+volume: '430'
+year: '2005'

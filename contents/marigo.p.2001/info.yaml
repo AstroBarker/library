@@ -1,0 +1,47 @@
+abstract: 'We present extensive evolutionary models of stars with initial zero-metallicity,
+  covering a large range of initial masses (i.e. 0.7 Msun <= M <= 100 Msun). Calculations
+  are carried out at constant mass, with updated input physics, and applying an overshooting
+  scheme to convective boundaries. The nuclear network includes all the important
+  reactions of the p-p chain, CNO-cycle and alpha -captures, and is solved by means
+  of a suitable semi-implicit method. The evolution is followed up to the thermally
+  pulsing AGB in the case of low- and intermediate-mass stars, or to the onset of
+  carbon burning in massive stars. The main evolutionary features of these models
+  are discussed, also in comparison with models of non-zero metallicity. Among several
+  interesting aspects, particular attention has been paid to describe: i) the first
+  synthesis of 12C inside the stars, that may suddenly trigger the CNO-cycle causing
+  particular evolutionary features; ii) the pollution of the stellar surface by the
+  dredge-up events, that are effective only within particular mass ranges; iii) the
+  mass limits which conventionally define the classes of low-, intermediate-, and
+  high-mass stars on the basis of common evolutionary properties, including the upper
+  mass limit for the achievement of super-Eddington luminosities before C-ignition
+  in the high-mass regime; and iv) the expected pulsational properties of zero-metallicity
+  stars. All relevant information referring to the evolutionary tracks and isochrones
+  is made available in computer-readable format.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001A\%26A...371..152M
+arxivurl: http://arxiv.org/abs/astro-ph/0102253
+author: Marigo, P. and Girardi, L. and Chiosi, C. and Wood, P. R.
+author_list:
+- family: Marigo
+  given: P.
+- family: Girardi
+  given: L.
+- family: Chiosi
+  given: C.
+- family: Wood
+  given: P. R.
+date-added: 2017-08-11 04:58:16 +0000
+date-modified: 2017-12-05 16:37:36 +0000
+doi: 10.1051/0004-6361:20010309
+eprint: astro-ph/0102253
+journal: \aap
+keywords: 'STARS: EVOLUTION, STARS: INTERIORS, STARS: HERTZSPRUNG-RUSSELL (HR) DIAGRAM,
+  STARS: LOW-MASS'
+month: May
+pages: 152--173
+papis_id: da0c2430e9fd347e9c44f33e271c7bd5
+ref: marigo.p.2001
+title: Zero-metallicity stars. I. Evolution at constant mass
+type: article
+volume: '371'
+year: '2001'

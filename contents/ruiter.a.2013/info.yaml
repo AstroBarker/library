@@ -1,0 +1,72 @@
+abstract: 'We investigate the brightness distribution expected for thermonuclear explosions
+  that might result from the ignition of a detonation during the violent merger of
+  white dwarf (WD) binaries. Violent WD mergers are a subclass of the canonical double
+  degenerate scenario where two carbon-oxygen (CO) WDs merge when the larger WD fills
+  its Roche lobe. Determining their brightness distribution is critical for evaluating
+  whether such an explosion model could be responsible for a significant fraction
+  of the observed population of Type Ia supernovae (SNe Ia). We argue that the brightness
+  of an explosion realized via the violent merger model is mainly determined by the
+  mass of 56Ni produced in the detonation of the primary CO WD. To quantify this link,
+  we use a set of sub-Chandrasekhar mass WD detonation models to derive a relationship
+  between primary WD mass (mWD) and expected peak bolometric brightness (Mbol). We
+  use this mWD-Mbol relationship to convert the masses of merging primary WDs from
+  binary population models to a predicted distribution of explosion brightness. We
+  also investigate the sensitivity of our results to assumptions about the conditions
+  required to realize a detonation during violent mergers of WDs. We find a striking
+  similarity between the shape of our theoretical peak-magnitude distribution and
+  that observed for SNe Ia: our model produces a Mbol distribution that roughly covers
+  the range and matches the shape of the one observed for SNe Ia. However, this agreement
+  hinges on a particular phase of mass accretion during binary evolution: the primary
+  WD gains \texttildelow{}0.15-0.35 M\&sun; from a slightly evolved helium star companion.
+  In our standard binary evolution model, such an accretion phase is predicted to
+  occur for about 43 per cent of all binary systems that ultimately give rise to binary
+  CO WD mergers. We also find that with high probability, violent WD mergers involving
+  the most massive primaries ( \greaterequivlnt{} 1.3 M\&sun;, which should produce
+  bright SNe) have delay times \lessequivlnt{} 500 Myr.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013MNRAS.429.1425R
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.0645
+author: Ruiter, A. J. and Sim, S. A. and Pakmor, R. and Kromer, M. and Seitenzahl,
+  I. R. and Belczynski, K. and Fink, M. and Herzog, M. and Hillebrandt, W. and Röpke,
+  F. K. and Taubenberger, S.
+author_list:
+- family: Ruiter
+  given: A. J.
+- family: Sim
+  given: S. A.
+- family: Pakmor
+  given: R.
+- family: Kromer
+  given: M.
+- family: Seitenzahl
+  given: I. R.
+- family: Belczynski
+  given: K.
+- family: Fink
+  given: M.
+- family: Herzog
+  given: M.
+- family: Hillebrandt
+  given: W.
+- family: Röpke
+  given: F. K.
+- family: Taubenberger
+  given: S.
+date-added: 2017-08-11 07:15:56 +0000
+date-modified: 2017-12-05 16:36:34 +0000
+doi: 10.1093/mnras/sts423
+eprint: '1209.0645'
+journal: \mnras
+keywords: 'hydrodynamics, radiative transfer, methods: numerical, binaries: close,
+  supernovae: general, white dwarfs'
+month: February
+pages: 1425--1436
+papis_id: b44e8ec607bfba44c00246dc005a5ba1
+primaryclass: astro-ph.SR
+ref: ruiter.a.2013
+title: On the brightness distribution of Type Ia supernovae from violent white dwarf
+  mergers
+type: article
+volume: '429'
+year: '2013'

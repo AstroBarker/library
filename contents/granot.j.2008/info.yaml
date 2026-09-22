@@ -1,0 +1,54 @@
+abstract: Opacity effects in relativistic sources of high-energy gamma-rays, such
+  as gamma-ray bursts (GRBs) or blazars, can probe the Lorentz factor of the outflow
+  as well as the distance of the emission site from the source and, thus, help constrain
+  the composition of the outflow (protons, pairs, magnetic field) and the emission
+  mechanism. Most previous works consider the opacity in steady state. Here we study
+  time-dependent effects of the opacity to pair production (gamma gamma --> e+e-)
+  in impulsive relativistic sources. We present a simple, yet rich, semianalytic model
+  for the time and energy dependence of the optical depth, taugamma gamma, in which
+  a thin spherical shell expands ultrarelativistically and emits isotropically in
+  its own rest frame over a finite range of radii, R0 <= R<= R0 + Delta R. This is
+  particularly relevant for GRB internal shocks. We find that for impulsive sources
+  (Delta Rlesssim R0), while the instantaneous spectrum has an exponential cutoff
+  above the photon energy \ensuremath{\epsilon}1(T) where taugamma gamma(\ensuremath{\epsilon}1)
+  = 1, the time-integrated spectrum has a power-law high-energy tail above the photon
+  energy \ensuremath{\epsilon}1\textasteriskcentered ~ \ensuremath{\epsilon}1(Delta
+  T) where Delta T is the duration of the emission episode. Furthermore, photons with
+  \ensuremath{\epsilon} > \ensuremath{\epsilon}1\textasteriskcentered should arrive
+  mainly near the onset of the spike or flare corresponding to the short emission
+  episode, since in impulsive sources it takes time to build up the (target) photon
+  field, and thus, taugamma gamma(\ensuremath{\epsilon}) initially increases with
+  time and \ensuremath{\epsilon}1(T) correspondingly decreases with time, so that
+  photons of energy \ensuremath{\epsilon} > \ensuremath{\epsilon}1\textasteriskcentered
+  are able to escape the source mainly very early on while \ensuremath{\epsilon}1(T)
+  > \ensuremath{\epsilon} . As the source approaches a quasi-steady state (Delta Rgg
+  R0), the time-integrated spectrum develops an exponential cutoff, while the power-law
+  tail becomes increasingly suppressed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...677...92G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0708.4228
+author: Granot, J. and Cohen-Tanugi, J. and Silva, E. d. C. e.
+author_list:
+- family: Granot
+  given: J.
+- family: Cohen-Tanugi
+  given: J.
+- family: Silva
+  given: E. d. C. e.
+date-added: 2017-08-11 02:08:03 +0000
+date-modified: 2017-12-05 16:37:04 +0000
+doi: 10.1086/526414
+eid: 92-126
+eprint: '0708.4228'
+journal: \apj
+keywords: 'galaxies: jets, gamma rays: bursts, gamma rays: theory, methods: analytical,
+  relativity'
+month: April
+pages: 92--126
+papis_id: c4bb68ef9f15c9d356bb51aff2c58116
+ref: granot.j.2008
+title: Opacity Buildup in Impulsive Relativistic Sources
+type: article
+volume: '677'
+year: '2008'

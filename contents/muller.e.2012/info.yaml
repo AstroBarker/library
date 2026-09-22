@@ -1,0 +1,62 @@
+abstract: Time-dependent and direction-dependent neutrino and gravitational-wave (GW)
+  signatures are presented for a set of three-dimensional (3D) hydrodynamic models
+  of parametrized, neutrino-driven supernova explosions of non-rotating 15 and 20
+  M\&sun; stars. We employed an approximate treatment of neutrino transport based
+  on a gray spectral description and a ray-by-ray treatment of multi-dimensional effects.
+  Owing to the excision of the high-density core of the proto-neutron star (PNS) and
+  the use of an axis-free (Yin-Yang) overset grid, the models can be followed from
+  the post-bounce accretion phase through the onset of the explosion into more than
+  one second of the early cooling evolution of the PNS without imposing any symmetry
+  restrictions and covering a full sphere. Gravitational waves and neutrino emission
+  exhibit the generic time-dependent features already known from 2D (axi-symmetric)
+  models. Violent non-radial hydrodynamic mass motions in the accretion layer and
+  their interaction with the outer layers of the proto-neutron star together with
+  anisotropic neutrino emission give rise to a GW signal with an amplitude of ~5-20
+  cm in the frequency range of 100-500 Hz. The GW emission from mass motions usually
+  reaches a maximum before the explosion sets in. After the onset of the explosion
+  the GW signal exhibits a low-frequency modulation, in some cases describing a quasi-monotonic
+  growth, associated with the non-spherical expansion of the explosion shock wave
+  and the large-scale anisotropy of the escaping neutrino flow. Variations of the
+  mass-quadrupole moment caused by convective activity inside the nascent neutron
+  star add a high-frequency component to the GW signal during the post-explosion phase.
+  The GW signals exhibit strong variability between the two polarizations, different
+  explosion simulations and different observer directions, and besides common basic
+  features do not possess any template character. The neutrino emission properties
+  (fluxes and effective spectral temperatures) show fluctuations over the neutron
+  star surface on spatial and temporal scales that reflect the different types of
+  non-spherical mass motions in the supernova core, i.e., post-shock overturn flows
+  and proto-neutron star convection. However, because very prominent, quasi-periodic
+  sloshing motions of the shock caused by the standing accretion-shock instability
+  are absent and the emission from different surface areas facing an observer adds
+  up incoherently, the modulation amplitudes of the measurable neutrino luminosities
+  and mean energies are significantly lower than predicted by 2D simulations.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012A\%26A...537A..63M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1106.6301
+author: Müller, E. and Janka, H.-T. and Wongwathanarat, A.
+author_list:
+- family: Müller
+  given: E.
+- family: Janka
+  given: H.-T.
+- family: Wongwathanarat
+  given: A.
+date-added: 2017-08-10 14:32:51 +0000
+date-modified: 2017-12-05 16:36:40 +0000
+doi: 10.1051/0004-6361/201117611
+eid: A63
+eprint: '1106.6301'
+journal: \aap
+keywords: 'stars: neutron, hydrodynamics, neutrinos, stars: massive, supernovae: general,
+  gravitational waves'
+month: January
+pages: A63
+papis_id: 0408bf1c204701706d392b901aa531b9
+primaryclass: astro-ph.SR
+ref: muller.e.2012
+title: Parametrized 3D models of neutrino-driven supernova explosions. Neutrino emission
+  asymmetries and gravitational-wave signals
+type: article
+volume: '537'
+year: '2012'

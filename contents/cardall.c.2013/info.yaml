@@ -1,0 +1,43 @@
+abstract: We present conservative 3+1 general relativistic variable Eddington tensor
+  radiation transport equations, including greater elaboration of the momentum space
+  divergence (that is, the energy derivative term) than in previous work. These equations
+  are intended for use in simulations involving numerical relativity, particularly
+  in the absence of spherical symmetry. The independent variables are the lab frame
+  coordinate basis spacetime position coordinates and the particle energy measured
+  in the comoving frame. With an eye towards astrophysical applications---such as
+  core-collapse supernovae and compact object mergers---in which the fluid includes
+  nuclei and/or nuclear matter at finite temperature, and in which the transported
+  particles are neutrinos, we pay special attention to the consistency of four-momentum
+  and lepton number exchange between neutrinos and the fluid, showing the term-by-term
+  cancellations that must occur for this consistency to be achieved.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2013PhRvD..87j3004C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1209.2151
+author: Cardall, C. Y. and Endeve, E. and Mezzacappa, A.
+author_list:
+- family: Cardall
+  given: C. Y.
+- family: Endeve
+  given: E.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-12-10 21:22:59 +0000
+date-modified: 2017-12-10 21:23:00 +0000
+doi: 10.1103/PhysRevD.87.103004
+eid: '103004'
+eprint: '1209.2151'
+journal: \prd
+keywords: Radiative transfer, scattering, Kinetic theory, Reactive and radiative flows,
+  Supernovae
+month: May
+number: '10'
+pages: '103004'
+papis_id: 148faaa28820e93c2fca9323aaeb9bfc
+primaryclass: astro-ph.HE
+ref: cardall.c.2013
+title: Conservative 3+1 general relativistic variable Eddington tensor radiation transport
+  equations
+type: article
+volume: '87'
+year: '2013'

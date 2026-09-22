@@ -1,0 +1,66 @@
+abstract: The integrated ultraviolet flux arising from QSOs and/or hot, massive stars
+  in metal-producing young galaxies is likely responsible for maintaining the intergalactic
+  diffuse gas and the Lyalpha forest clouds in a highly ionized state. The spectrum
+  and intensity of such UV background have generally been obtained by modeling the
+  reprocessing due to intervening material as a pure photoelectric absorption process.
+  However, owing to the emission from radiative recombinations within the absorbing
+  clouds, a photoionized clumpy medium could contribute substantially to the metagalactic
+  flux. In other words, QSO absorption- line systems are sources, not just sinks of
+  ionizing photons. We present a detailed calculation of the propagation of AGN-like
+  ionizing radiation through the intergalactic space. We model the ionization state
+  of absorbing clouds, and show that the universe will be more opaque above 4 Ry than
+  previously estimated. Singly ionized helium in Lyalpha forest clouds and Lyman-limit
+  systems is found to be very efficient in reprocessing soft X-ray, helium-ionizing
+  photons into ultraviolet, hydrogen-ionizing ones. We demonstrate that a significant
+  fraction of the absorbed primary photons (emitted, e.g., by quasar sources) will
+  be reradiated by the photoionized gas through Lyalpha line emission, two-photon
+  continuum, and recombination continuum radiation. In the light of new data and recent
+  studies, we also reassess the contribution of the QSOs observed in optical surveys
+  to the UV extragalactic background, and find that the stochastic reprocessing of
+  quasar Lyman continuum radiation by hydrogen and helium along the line of sight
+  will significantly affect the amplitude, spectral shape, and fluctuation properties
+  of the metagalactic flux. In a scenario in which QSOs are the primary source of
+  ionizing photons in the universe, the integrated H I Lyalpha emission at z = 0 from
+  photoionized Lyalpha clouds and Lyman limit systems is found to be at a level of
+  less than 5\% of current observational limits on the far-UV extragalactic radiation
+  flux. We show that J\_912\_ increases from ~10^-23^ ergs cm^-2^ s^-1^ Hz^- 1^ sr^-1^
+  at the present epoch to ~5 x 10^-22^ ergs cm^-2^ s^-1^ Hz^-1^ sr^-1^ at z = 2.5.
+  The attenuated direct quasar emission plus recombination radiation from intergalactic
+  gas appear to provide enough hydrogen-ionizing photons to satisfy the proximity
+  effect at large redshift. The He II/H I ratio in the diffuse intergalactic medium
+  and the Lyalpha clouds increases from ~25 at z = 0 to ~45 at z = 2.5, to decrease
+  again below 30 for z >~ 4.5. The spectrum of the ionizing background at high redshift
+  is shown to have a hump at energies below 40.8 eV due to redshift-smeared He Il
+  Lyalpha line and two-photon continuum emission. We propose that observations of
+  low-ionization species such as O II in metal-line absorption systems may be able
+  to test the presence of such a prominent feature in the UV background spectrum.
+  We also note that, if the metagalactic flux is dominated by QSOs, the suggested
+  steep decline of their ionizing emissivity beyond z ~ 4 should produce an increase
+  in the observed rate of incidence of Lyalpha forest clouds at these redshifts relative
+  to an extrapolation from the intermediate-z regime, as observed by Williger et al.
+  (1994).
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...461...20H
+arxivurl: http://arxiv.org/abs/astro-ph/9509093
+author: Haardt, F. and Madau, P.
+author_list:
+- family: Haardt
+  given: F.
+- family: Madau
+  given: P.
+date-added: 2017-08-10 21:37:58 +0000
+date-modified: 2017-12-05 16:37:47 +0000
+doi: 10.1086/177035
+eprint: astro-ph/9509093
+journal: \apj
+keywords: 'COSMOLOGY: THEORY, COSMOLOGY: DIFFUSE RADIATION, GALAXIES: INTERGALACTIC
+  MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES, RADIATIVE TRANSFER'
+month: April
+pages: '20'
+papis_id: ee8dbfba5c317109d75aa500c0158c87
+ref: haardt.f.1996
+title: Radiative Transfer in a Clumpy Universe. II. The Ultraviolet Extragalactic
+  Background
+type: article
+volume: '461'
+year: '1996'

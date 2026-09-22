@@ -1,0 +1,51 @@
+abstract: We present results from dynamical models of core-collapse supernovae in
+  one spatial dimension, employing a newly developed Boltzmann neutrino radiation
+  transport algorithm, coupled to Newtonian Lagrangian hydrodynamics and a consistent
+  high-density nuclear equation of state. The transport method is multigroup, employs
+  the Feautrier technique, uses the tangent-ray approach to resolve angles, is implicit
+  in time, and is second-order accurate in space. We focus on shock breakout and follow
+  the dynamical evolution of the cores of 11, 15, and 20 Msolar progenitors through
+  collapse and the first 250 ms after bounce. The shock breakout burst is the signal
+  event in core-collapse evolution, is the brightest phenomenon in astrophysics, and
+  is largely responsible for the initial debilitation and stagnation of the bounce
+  shock. As such, its detection and characterization could test fundamental aspects
+  of the current collapse/supernova paradigm. We examine the effects on the emergent
+  neutrino spectra, light curves, and mix of species (particularly in the early postbounce
+  epoch) of artificial opacity changes, the number of energy groups, the weak magnetism/recoil
+  corrections, nucleon-nucleon bremsstrahlung, neutrino-electron scattering, and the
+  compressibility of nuclear matter. Furthermore, we present the first high-resolution
+  look at the angular distribution of the neutrino radiation field both in the semitransparent
+  regime and at large radii and explore the accuracy with which our tangent-ray method
+  tracks the free propagation of a pulse of radiation in a near vacuum. Finally, we
+  fold the emergent neutrino spectra with the efficiencies and detection processes
+  for a selection of modern underground neutrino observatories and argue that the
+  prompt electron-neutrino breakout burst from the next galactic supernova is in principle
+  observable and usefully diagnostic of fundamental collapse/supernova behavior. Although
+  we are not in this study focusing on the supernova mechanism per se, our simulations
+  support the theoretical conclusion (already reached by others) that spherical (one-dimensional)
+  supernovae do not explode when good physics and transport methods are employed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2003ApJ...592..434T
+arxivurl: http://arxiv.org/abs/astro-ph/0211194
+author: Thompson, T. A. and Burrows, A. and Pinto, P. A.
+author_list:
+- family: Thompson
+  given: T. A.
+- family: Burrows
+  given: A.
+- family: Pinto
+  given: P. A.
+date-added: 2017-08-10 14:44:21 +0000
+date-modified: 2017-12-05 16:37:29 +0000
+doi: 10.1086/375701
+eprint: astro-ph/0211194
+journal: \apj
+keywords: 'Neutrinos, Radiative Transfer, Stars: Supernovae: General'
+month: July
+pages: 434--456
+papis_id: 7f96565ac7a36cc9245541220536ec23
+ref: thompson.t.2003a
+title: Shock Breakout in Core-Collapse Supernovae and Its Neutrino Signature
+type: article
+volume: '592'
+year: '2003'

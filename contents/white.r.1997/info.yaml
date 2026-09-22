@@ -1,0 +1,43 @@
+abstract: We present a catalog of 138,665 radio sources derived from the initial 1550
+  deg2 of the FIRST survey. The survey parameters are reviewed, and a map depicting
+  the coverage for the first two observing sessions is presented. We then describe
+  in detail our algorithm for radio source detection and parameterization, as well
+  as our procedures for constructing the final catalog. The results of extensive tests
+  for astrometric and photometric accuracy, as well as for uncertainties in source
+  extent and morphological characterization, are presented. Source positions are all
+  good to better than 1", and the flux density scale is accurate to 5\%; our elliptical
+  Gaussian fitting procedure is shown both to provide a high-fidelity representation
+  of source morphology for most objects and to characterize correctly bright sources
+  extended on scales down to ~1/3 the synthesized beam size of 5.4". We use the catalog
+  to construct a log N-log S relation for 20 cm radio sources over four decades of
+  flux density, finding excellent agreement with previous determinations from smaller
+  surveys. As one example of the catalog's utility, we present comparisons with the
+  Guide Star Catalog, the IRAS Faint Source catalog, and the ROSAT WGA catalog, identifying
+  radio counterparts to thousands of the objects. Complete instructions for access
+  to this FIRST catalog and subsequent updates thereto are provided.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...475..479W
+author: White, R. L. and Becker, R. H. and Helfand, D. J. and Gregg, M. D.
+author_list:
+- family: White
+  given: R. L.
+- family: Becker
+  given: R. H.
+- family: Helfand
+  given: D. J.
+- family: Gregg
+  given: M. D.
+date-added: 2017-08-11 06:27:02 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/303564
+journal: \apj
+keywords: 'Astrometry, Catalogs, Galaxies: Statistics, Galaxies: Quasars: General,
+  Radio Continuum: Galaxies, Surveys'
+month: February
+pages: 479--493
+papis_id: f338d41a5dbda2cc4d9e42ca528241cc
+ref: white.r.1997
+title: A Catalog of 1.4 GHz Radio Sources from the FIRST Survey
+type: article
+volume: '475'
+year: '1997'

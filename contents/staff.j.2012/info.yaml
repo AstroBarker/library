@@ -1,0 +1,61 @@
+abstract: A leading formation scenario for R Coronae Borealis (RCB) stars invokes
+  the merger of degenerate He and CO white dwarfs (WDs) in a binary. The observed
+  ratio of 16O/18O for RCB stars is in the range of 0.3-20 much smaller than the solar
+  value of ~500. In this paper, we investigate whether such a low ratio can be obtained
+  in simulations of the merger of a CO and a He WD. We present the results of five
+  three-dimensional hydrodynamic simulations of the merger of a double WD system where
+  the total mass is 0.9 M \&sun; and the initial mass ratio (q) varies between 0.5
+  and 0.99. We identify in simulations with q <~ 0.7 a feature around the merged stars
+  where the temperatures and densities are suitable for forming 18O. However, more
+  16O is being dredged up from the C- and O-rich accretor during the merger than the
+  amount of 18O that is produced. Therefore, on the dynamical timescale over which
+  our hydrodynamics simulation runs, an 16O/18O ratio of ~2000 in the "best" case
+  is found. If the conditions found in the hydrodynamic simulations persist for 106
+  s the oxygen ratio drops to 16 in one case studied, while in a hundred years it
+  drops to ~4 in another case studied, consistent with the observed values in RCB
+  stars. Therefore, the merger of two WDs remains a strong candidate for the formation
+  of these enigmatic stars.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...757...76S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1208.0732
+author: Staff, J. E. and Menon, A. and Herwig, F. and Even, W. and Fryer, C. L. and
+  Motl, P. M. and Geballe, T. and Pignatari, M. and Clayton, G. C. and Tohline, J.
+  E.
+author_list:
+- family: Staff
+  given: J. E.
+- family: Menon
+  given: A.
+- family: Herwig
+  given: F.
+- family: Even
+  given: W.
+- family: Fryer
+  given: C. L.
+- family: Motl
+  given: P. M.
+- family: Geballe
+  given: T.
+- family: Pignatari
+  given: M.
+- family: Clayton
+  given: G. C.
+- family: Tohline
+  given: J. E.
+date-added: 2017-08-10 19:15:09 +0000
+date-modified: 2017-12-05 16:36:37 +0000
+doi: 10.1088/0004-637X/757/1/76
+eid: '76'
+eprint: '1208.0732'
+journal: \apj
+keywords: 'binaries: close, stars: abundances, stars: AGB and post-AGB, white dwarfs'
+month: September
+pages: '76'
+papis_id: 5ac80c585da9fe53f7ae69e87ec80b92
+primaryclass: astro-ph.SR
+ref: staff.j.2012
+title: Do R Coronae Borealis Stars Form from Double White Dwarf Mergers?
+type: article
+volume: '757'
+year: '2012'

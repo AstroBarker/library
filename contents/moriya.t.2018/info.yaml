@@ -1,0 +1,54 @@
+abstract: We introduce the first synthetic light-curve model set of Type IIP supernovae
+  exploded within circumstellar media in which the acceleration of the red supergiant
+  winds is taken into account. Because wind acceleration makes the wind velocities
+  near the progenitors low, the density of the immediate vicinity of the red supergiant
+  supernova progenitors can be higher than that extrapolated by using a constant terminal
+  wind velocity. Therefore, even if the mass-loss rate of the progenitor is relatively
+  low, it can have a dense circumstellar medium at the immediate stellar vicinity
+  and the early light curves of Type IIP supernovae are significantly affected by
+  it. We adopt a simple beta velocity law to formulate the wind acceleration. We provide
+  bolometric and multicolour light curves of Type IIP supernovae exploding within
+  such accelerated winds from the combinations of three progenitors, 12-16 M\&sun;;
+  five beta, 1-5; seven mass-loss rates, 10-5-10-2 M\&sun; yr-1; and four explosion
+  energies, (0.5-2) \texttimes{} 1051 erg. All the light-curve models are available
+  at https://goo.gl/o5phYb. When the circumstellar density is sufficiently high, our
+  models do not show a classical shock breakout as a consequence of the interaction
+  with the dense and optically thick circumstellar media. Instead, they show a delayed
+  `wind breakout', substantially affecting early light curves of Type IIP supernovae.
+  We find that the mass-loss rates of the progenitors need to be 10-3-10-2 M\&sun;
+  yr-1 to explain typical rise times of 5-10 d in Type IIP supernovae assuming a dense
+  circumstellar radius of 1015 cm.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.476.2840M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1802.07752
+author: Moriya, T. J. and Förster, F. and Yoon, S.-C. and Gräfener, G. and Blinnikov,
+  S. I.
+author_list:
+- family: Moriya
+  given: T. J.
+- family: Förster
+  given: F.
+- family: Yoon
+  given: S.-C.
+- family: Gräfener
+  given: G.
+- family: Blinnikov
+  given: S. I.
+date-added: 2018-04-25 23:32:12 +0000
+date-modified: 2018-04-25 23:32:13 +0000
+doi: 10.1093/mnras/sty475
+eprint: '1802.07752'
+journal: \mnras
+keywords: 'stars: evolution, stars: mass-loss, supernovae: general, stars: winds,
+  outflows'
+month: May
+pages: 2840--2851
+papis_id: a437d600e589f03e75f76929ee40951a
+primaryclass: astro-ph.HE
+ref: moriya.t.2018
+title: Type IIP supernova light curves affected by the acceleration of red supergiant
+  winds
+type: article
+volume: '476'
+year: '2018'

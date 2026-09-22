@@ -1,0 +1,48 @@
+abstract: We suggest that large H I holes observed in the interstellar medium (ISM)
+  of galaxies such as the Large Magellanic Cloud (LMC), the Small Magellanic Cloud
+  (SMC), and Holmberg II (Ho II, DDO 50, UGC 4305) can form as the combined result
+  of turbulence coupled with thermal and gravitational instabilities. We investigate
+  this problem with three-dimensional hydrodynamic simulations, taking into account
+  cooling and heating processes and the action of the self-gravity of the gas. We
+  construct an algorithm for radiative transfer to postprocess the simulated data
+  and build emission maps in the 21 cm neutral hydrogen line. With this approach,
+  we are able to reproduce the structure of the shells and holes as observed in regions
+  of the ISM where no stellar activity is detected. In order to quantify the comparison
+  of our synthetic maps to the observations, we calculate the physical scale-autocorrelation
+  length relation (L-Lcr relation) both on the synthetic H I maps and the H I map
+  of Ho II. The L-Lcr relation shows a linear increase of the autocorrelation length
+  with the physical scale up to the scale of energy injection and flattens for larger
+  scales. The comparison of the L-Lcr relation between the observations and the synthetic
+  maps suggests that turbulence is driven in the ISM of Ho II on large scales (~6
+  kpc). The slope of the L-Lcr relation in the linear regime in Ho II is better reproduced
+  by models where turbulence is coupled with a low-efficiency cooling of the gas.
+  These results demonstrate the importance of the interplay between turbulence and
+  the thermodynamics of the gas for structure formation in the ISM. Our analysis can
+  be used to determine the scale on which kinetic energy is injected into the ISM
+  of dwarf irregular galaxies and to derive, in a first approximation, the cooling
+  rate of the gas.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...630..238D
+arxivurl: http://arxiv.org/abs/astro-ph/0402593
+author: Dib, S. and Burkert, A.
+author_list:
+- family: Dib
+  given: S.
+- family: Burkert
+  given: A.
+date-added: 2017-08-11 01:28:49 +0000
+date-modified: 2017-12-05 16:37:19 +0000
+doi: 10.1086/431785
+eprint: astro-ph/0402593
+journal: \apj
+keywords: 'Galaxies: ISM, Instabilities, ISM: Atoms, ISM: Structure, Methods: Numerical,
+  Turbulence'
+month: September
+pages: 238--249
+papis_id: 8f95b848281601f75f185a337cc00213
+ref: dib.s.2005
+title: On the Origin of the H I Holes in the Interstellar Medium of Dwarf Irregular
+  Galaxies
+type: article
+volume: '630'
+year: '2005'

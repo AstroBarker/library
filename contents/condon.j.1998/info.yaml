@@ -1,0 +1,44 @@
+abstract: The NRAO VLA Sky Survey (NVSS) covers the sky north of J2000.0 delta = -40
+  deg (82\% of the celestial sphere) at 1.4 GHz. The principal data products are (1)
+  a set of 2326 4 deg x 4 deg continuum ``cubes'' with three planes containing Stokes
+  I, Q, and U images plus (2) a catalog of almost 2 x 10^6 discrete sources stronger
+  than S ~ 2.5 mJy. The images all have theta = 45" FWHM resolution and nearly uniform
+  sensitivity. Their rms brightness fluctuations are sigma ~ 0.45 mJy beam^-1 ~ 0.14
+  K (Stokes I) and sigma ~ 0.29 mJy beam^-1 ~ 0.09 K (Stokes Q and U). The rms uncertainties
+  in right ascension and declination vary from <~1" for the N ~ 4 x 10^5 sources stronger
+  than 15 mJy to 7" at the survey limit. The NVSS was made as a service to the astronomical
+  community. All data products, user software, and updates are being released via
+  the World Wide Web as soon as they are produced and verified.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998AJ....115.1693C
+author: Condon, J. J. and Cotton, W. D. and Greisen, E. W. and Yin, Q. F. and Perley,
+  R. A. and Taylor, G. B. and Broderick, J. J.
+author_list:
+- family: Condon
+  given: J. J.
+- family: Cotton
+  given: W. D.
+- family: Greisen
+  given: E. W.
+- family: Yin
+  given: Q. F.
+- family: Perley
+  given: R. A.
+- family: Taylor
+  given: G. B.
+- family: Broderick
+  given: J. J.
+date-added: 2017-08-11 05:23:41 +0000
+date-modified: 2017-12-05 16:37:42 +0000
+doi: 10.1086/300337
+journal: \aj
+keywords: 'CATALOGS, METHODS: DATA ANALYSIS, METHODS: OBSERVATIONAL, RADIO CONTINUUM,
+  SURVEYS'
+month: May
+pages: 1693--1716
+papis_id: b127aff269a16713b549006f691bd1cc
+ref: condon.j.1998
+title: The NRAO VLA Sky Survey
+type: article
+volume: '115'
+year: '1998'

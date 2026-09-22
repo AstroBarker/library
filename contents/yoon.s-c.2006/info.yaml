@@ -1,0 +1,42 @@
+abstract: We present grids of massive star evolution models at four different metallicities
+  (Z=0.004, 0.002, 0.001, 0.00001). The effects of rotation on the stellar structure
+  and the transport of angular momentum and chemical elements through the Spruit-Tayler
+  dynamo and rotationally induced instabilities are considered. After discussing uncertainties
+  involved with the adopted physics, we elaborate the final fate of massive stars
+  as a function of initial mass and spin rate, at each considered metallicity. In
+  particular, we investigate for which initial conditions long gamma-ray bursts (GRBs)
+  are expected to be produced in the frame of the collapsar model. Then, using an
+  empirical spin distribution of young massive metal-poor stars and a specified metallicity-dependent
+  history of star-formation, we compute the expected GRB rate as function of metallicity
+  and redshift based on our stellar evolution models. The GRB production in our models
+  is limited to metallicities of Z \lessapprox{} 0.004, with the consequence that
+  about 50\% of all GRBs are predicted to be found at redshifts above z = 4, with
+  most supernovae occurring at redshifts below z~= 2.2. The average GRB/SN ratio predicted
+  by our model is about 1/200 globally, and 1/1250 at low redshift. Future strategies
+  for testing the considered GRB progenitor scenario are briefly discussed.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006A\%26A...460..199Y
+arxivurl: http://arxiv.org/abs/astro-ph/0606637
+author: Yoon, S.-C. and Langer, N. and Norman, C.
+author_list:
+- family: Yoon
+  given: S.-C.
+- family: Langer
+  given: N.
+- family: Norman
+  given: C.
+date-added: 2017-08-10 15:00:39 +0000
+date-modified: 2017-12-05 16:37:12 +0000
+doi: 10.1051/0004-6361:20065912
+eprint: astro-ph/0606637
+journal: \aap
+keywords: 'stars: evolution, stars: rotation, supernovae: general, gamma rays: bursts'
+month: December
+pages: 199--208
+papis_id: 4ce28e26b980baa2031ec96498e382d5
+ref: yoon.s_c.2006
+title: Single star progenitors of long gamma-ray bursts. I. Model grids and redshift
+  dependent GRB rate
+type: article
+volume: '460'
+year: '2006'

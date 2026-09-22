@@ -1,0 +1,45 @@
+abstract: Accurate neutrino transport has been built into spherically symmetric simulations
+  of stellar core collapse and postbounce evolution. The results of such simulations
+  agree that spherically symmetric models with standard microphysical input fail to
+  explode by the delayed, neutrino-driven mechanism. Independent groups implemented
+  fundamentally different numerical methods to tackle the Boltzmann neutrino transport
+  equation. Here we present a direct and detailed comparison of such neutrino radiation-hydrodynamics
+  simulations for two codes, AGILE-BOLTZTRAN of the Oak Ridge-Basel group and VERTEX
+  of the Garching group. The former solves the Boltzmann equation directly by an implicit,
+  general relativistic discrete-angle method on the adaptive grid of a conservative
+  implicit hydrodynamics code with second-order TVD advection. In contrast, the latter
+  couples a variable Eddington factor technique with an explicit, moving-grid, conservative
+  high-order Riemann solver with important relativistic effects treated by an effective
+  gravitational potential. The presented study is meant to test our neutrino radiation-hydrodynamics
+  implementations and to provide a data basis for comparisons and verifications of
+  supernova codes to be developed in the future. Results are discussed for simulations
+  of the core collapse and postbounce evolution of a 13 Msolar star with Newtonian
+  gravity and a 15 Msolar star with relativistic gravity.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2005ApJ...620..840L
+arxivurl: http://arxiv.org/abs/astro-ph/0310662
+author: Liebendörfer, M. and Rampp, M. and Janka, H.-T. and Mezzacappa, A.
+author_list:
+- family: Liebendörfer
+  given: M.
+- family: Rampp
+  given: M.
+- family: Janka
+  given: H.-T.
+- family: Mezzacappa
+  given: A.
+date-added: 2017-08-10 18:16:04 +0000
+date-modified: 2017-12-05 16:37:22 +0000
+doi: 10.1086/427203
+eprint: astro-ph/0310662
+journal: \apj
+keywords: 'Hydrodynamics, Methods: Numerical, Neutrinos, Radiative Transfer, Relativity,
+  Stars: Supernovae: General'
+month: February
+pages: 840--860
+papis_id: 927cd516e8976a7f66bb8d5bb5f643e7
+ref: liebendorfer.m.2005a
+title: 'Supernova Simulations with Boltzmann Neutrino Transport: A Comparison of Methods'
+type: article
+volume: '620'
+year: '2005'

@@ -1,0 +1,28 @@
+abstract: In this paper various aspect of symplectic integrators are reviewed. Symplectic
+  integrators are numerical integration methods for Hamiltonian systems which are
+  designed to conserve the symplectic structure exactly as the original flow. There
+  are explicit symplectic schemes for systems of the formH=T(p)+V(q), and implicit
+  schemes for general Hamiltonian systems. As a general property, symplectic integrators
+  conserve the energy quite well and therefore an artificial damping (excitation)
+  caused by the accumulation of the local truncation error cannot occur. Symplectic
+  integrators have been applied to the Kepler problem, the motion of minor bodies
+  in the solar system and the long-term evolution of outer planets.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1993CeMDA..56...27Y
+author: Yoshida, H.
+author_list:
+- family: Yoshida
+  given: H.
+date-added: 2017-08-10 22:36:43 +0000
+date-modified: 2017-12-05 16:37:49 +0000
+doi: 10.1007/BF00699717
+journal: Celestial Mechanics and Dynamical Astronomy
+keywords: Numerical integration methods, long time evolution, symplectic mapping
+month: March
+pages: 27--43
+papis_id: 0f38d9ccf5c3a7f34cd153df14baf637
+ref: yoshida.h.1993
+title: Recent Progress in the Theory and Application of Symplectic Integrators
+type: article
+volume: '56'
+year: '1993'

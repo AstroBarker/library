@@ -1,0 +1,50 @@
+abstract: 'The magnetohydrodynamic evolution of the interaction region between the
+  inner edge of an accretion disk and the magnetosphere of the central object is studied
+  by means of time-dependent numerical simulations. The simulations assume the disk
+  is adiabatic, is axisymmetric, has nonzero resistivity, and is initially in Keplerian
+  rotation. The magnetosphere is assumed to be initially in magnetostatic equilibrium,
+  corotating with the central star, and threaded by one of three different initial
+  magnetic field topologies: (1) a pure dipole field, which also threads the disk
+  continuously everywhere; (2) a dipole field excluded from the disk by surface currents;
+  and (3) a dipole field continuously threading a disk superposed with a uniform axial
+  magnetic field. A number of exploratory simulations are performed by varying the
+  field strength, the disk density and inner radius, the magnitude of the resistivity,
+  and the stellar rotation rate. These simulations are designed as an initial study
+  of the magnetohydrodynamics of the interaction region.  Generally, we find that
+  rapid evolution of the disk occurs because of angular momentum transport by either
+  the Balbus-Hawley instability or magnetic braking effects. Equatorial accretion
+  results on a dynamical timescale unless the magnetic pressure of the magnetosphere
+  exceeds the ram pressure of the accreting disk plasma; the latter we find to be
+  a highly time-dependent quantity. In the case of a pure dipole magnetospheric field,
+  however, rapid stellar rotation can result in a field geometry that inhibits polar
+  accretion even when ram and magnetic pressures balance. In contrast, we find that
+  polar accretion can occur regardless of the stellar rotation rate when strong global
+  disk magnetic fields combine with stellar magnetic fields to create a favorable
+  net field topology.  Highly time-dependent winds are evident in the evolution of
+  all three field topologies. The winds are generally channeled along field lines
+  that have been opened through reconnection. The speed and variability of the outflows
+  is dependent on the magnetic field strength and accretion topology. Net torque on
+  the star during accretion is measured to be positive, i.e., the star is being spun
+  up.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1997ApJ...489..890M
+author: Miller, K. A. and Stone, J. M.
+author_list:
+- family: Miller
+  given: K. A.
+- family: Stone
+  given: J. M.
+date-added: 2017-08-11 03:05:40 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/304825
+journal: \apj
+keywords: 'Accretion, Accretion Disks, Magnetohydrodynamics: MHD, Stars: Magnetic
+  Fields'
+month: November
+pages: 890--902
+papis_id: b6d8bf90129614bab1fe008d5bc50a2d
+ref: miller.k.1997
+title: Magnetohydrodynamic Simulations of Stellar Magnetosphere-Accretion Disk Interaction
+type: article
+volume: '489'
+year: '1997'

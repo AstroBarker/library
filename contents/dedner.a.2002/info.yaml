@@ -1,0 +1,42 @@
+abstract: In simulations of magnetohydrodynamic (MHD) processes the violation of the
+  divergence constraint causes severe stability problems. In this paper we develop
+  and test a new approach to the stabilization of numerical schemes. Our technique
+  can be easily implemented in any existing code since there is no need to modify
+  the solver for the MHD equations. It is based on a modified system in which the
+  divergence constraint is coupled with the conservation laws by introducing a generalized
+  Lagrange multiplier. We suggest a formulation in which the divergence errors are
+  transported to the domain boundaries with the maximal admissible speed and are damped
+  at the same time. This corrected system is hyperbolic and the density, momentum,
+  magnetic induction, and total energy density are still conserved. In comparison
+  to results obtained without correction or with the standard ``divergence source
+  terms,'' our approach seems to yield more robust schemes with significantly smaller
+  divergence errors.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002JCoPh.175..645D
+author: Dedner, A. and Kemm, F. and Kröner, D. and Munz, C.-D. and Schnitzer, T. and
+  Wesenberg, M.
+author_list:
+- family: Dedner
+  given: A.
+- family: Kemm
+  given: F.
+- family: Kröner
+  given: D.
+- family: Munz
+  given: C.-D.
+- family: Schnitzer
+  given: T.
+- family: Wesenberg
+  given: M.
+date-added: 2017-08-10 13:55:08 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1006/jcph.2001.6961
+journal: Journal of Computational Physics
+month: January
+pages: 645--673
+papis_id: f17fbf3ae7b47ee374798df1676ff3c5
+ref: dedner.a.2002
+title: Hyperbolic Divergence Cleaning for the MHD Equations
+type: article
+volume: '175'
+year: '2002'

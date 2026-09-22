@@ -1,0 +1,46 @@
+abstract: Type IIn and related supernovae show evidence for an interaction with a
+  dense circumstellar medium that produces most of the supernova luminosity. X-ray
+  emission from shock heated gas is crucial for the energetics of the interaction
+  and can provide diagnostics on the shock interaction. Provided that the shock is
+  at an optical depth tau w  <~ c/vs in the wind, where c is the speed of light and
+  vs is the shock velocity, a viscous shock is expected that heats the gas to a high
+  temperature. For tau w  >~ 1, the shock wave is in the cooling regime; inverse Compton
+  cooling dominates bremsstrahlung at higher densities and shock velocities. Although
+  tau w  >~ 1, the optical depth through the emission zone is <~ 1 so that inverse
+  Compton effects do not give rise to significant X-ray emission. The electrons may
+  not reach energy equipartition with the protons at higher shock velocities. As X-rays
+  move out through the cool wind, the higher energy photons are lost to Compton degradation.
+  If bremsstrahlung dominates the cooling and Compton losses are small, the energetic
+  radiation can completely photoionize the preshock gas. However, inverse Compton
+  cooling in the hot region and Compton degradation in the wind reduce the ionizing
+  flux, so that complete photoionization is not obtained and photoabsorption by the
+  wind further reduces the escaping X-ray flux. We conjecture that the combination
+  of these effects led to the low observed X-ray flux from the optically luminous
+  SN 2006gy.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...747L..17C
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1201.5581
+author: Chevalier, R. A. and Irwin, C. M.
+author_list:
+- family: Chevalier
+  given: R. A.
+- family: Irwin
+  given: C. M.
+date-added: 2017-08-10 15:58:45 +0000
+date-modified: 2017-12-05 16:36:39 +0000
+doi: 10.1088/2041-8205/747/1/L17
+eid: L17
+eprint: '1201.5581'
+journal: \apjl
+keywords: 'circumstellar matter, shock waves, supernovae: general, supernovae: individual:
+  SN 2006gy, X-rays: general'
+month: March
+pages: L17
+papis_id: e8d170dacebf599a3f73fa5949097f07
+primaryclass: astro-ph.HE
+ref: chevalier.r.2012a
+title: X-Rays from Supernova Shocks in Dense Mass Loss
+type: article
+volume: '747'
+year: '2012'

@@ -1,0 +1,34 @@
+abstract: 'We present a new spectral-method-based algorithm for finding apparent horizons
+  in three-dimensional space-like hypersurfaces without symmetries. While there are
+  already a wide variety of algorithms for finding apparent horizons, our new algorithm
+  does not suffer from the same weakness as previous spectral apparent horizon finders:
+  namely the monopolar coefficient (ell = 0 in terms of the spherical harmonics decomposition)
+  needed to be determined by a root-finding procedure. Hence, this leads to a much
+  faster and more robust spectral apparent horizon finder. The finder is tested with
+  the Kerr Schild and Brill Lindquist data. Our finder is accurate and as efficient
+  as the currently fastest methods recently developed by Schnetter (2003 Class. Quantum
+  Grav. 20 4719) and Thornburg (2004 Class. Quantum Grav. 21 743). At typical resolutions
+  it takes only 0.5 s to find the apparent horizon of a Kerr Schild black hole with
+  a = 0.9M to the accuracy ~10-5 for the fractional error in the horizon''s location
+  on a 2 GHz processor.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007CQGra..24.2665L
+author: Lin, L.-M. and Novak, J.
+author_list:
+- family: Lin
+  given: L.-M.
+- family: Novak
+  given: J.
+date-added: 2017-08-11 06:11:54 +0000
+date-modified: 2017-12-05 16:37:10 +0000
+doi: 10.1088/0264-9381/24/10/012
+eprint: gr-qc/0702038
+journal: Classical and Quantum Gravity
+month: May
+pages: 2665--2676
+papis_id: bfed60a0d68084ce4a59e1a43b4036ce
+ref: lin.l_m.2007
+title: A new spectral apparent horizon finder for 3D numerical relativity
+type: article
+volume: '24'
+year: '2007'

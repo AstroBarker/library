@@ -1,0 +1,51 @@
+abstract: We present the results of a series of high-resolution, three-dimensional
+  numerical experiments that investigate the nature of turbulent compressible convective
+  motions extending from a convection zone into a stable layer below. In such convection,
+  converging flows in the near-surface cellular convecting network create strong downflowing
+  plumes that can traverse the multiple scale heights of the convection zone. Such
+  structures can continue their downward motions beyond the convecting region, piercing
+  the stable layer, where they are decelerated by buoyancy braking. If these motions
+  mix entropy to an adiabatic state below the convection zone, the process is known
+  as penetration; otherwise it is termed overshooting. We find that in three-dimensional
+  turbulent compressible convection at the parameters studied, motions generally overshoot
+  a significant fraction of the local pressure scale height but do not establish an
+  adiabatic penetrative region, even at the highest P{\'e}clet numbers considered.
+  This is mainly due to the low filling factor of the turbulent plumes. The scaling
+  of the overshooting depth with the relative stability S of the two layers is affected
+  by this lack of true penetration. Only an S-1 dependence is exhibited, reflecting
+  the existence of a thermal adjustment region without a nearly adiabatic penetration
+  zone. Rotation about a vertical axis decreases the depth of overshooting, owing
+  to horizontal mixing induced by the rotation. For rotation about an inclined axis,
+  turbulent rotational alignment of the strong downflow structures decreases the overshooting
+  further at mid-latitudes, but the laminar effects of cellular roll solutions take
+  over at low latitudes. Turbulent penetrative convection is quite distinct from its
+  laminar counterpart and from the equivalent motions in a domain confined by impenetrable
+  horizontal boundaries. Although overshooting would not be so deep in the solar case,
+  the lack of true penetration extending the adiabatic region may explain why helioseismic
+  inferences show little evidence of the expected abrupt change between the convection
+  zone and the radiative interior. These results may also provide insight into how
+  overshooting motions can provide a coupling between the solar convection zone and
+  the tachocline.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...570..825B
+author: Brummell, N. H. and Clune, T. L. and Toomre, J.
+author_list:
+- family: Brummell
+  given: N. H.
+- family: Clune
+  given: T. L.
+- family: Toomre
+  given: J.
+date-added: 2017-08-10 18:30:08 +0000
+date-modified: 2017-12-05 16:37:32 +0000
+doi: 10.1086/339626
+journal: \apj
+keywords: 'Convection, Stars: Interiors, Sun: Interior, Turbulence'
+month: May
+pages: 825--854
+papis_id: 081e46e4452c1f992e7a146a693c393e
+ref: brummell.n.2002
+title: Penetration and Overshooting in Turbulent Compressible Convection
+type: article
+volume: '570'
+year: '2002'

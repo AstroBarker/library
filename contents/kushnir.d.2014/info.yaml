@@ -1,0 +1,47 @@
+abstract: The early phase of the hydrodynamic evolution following the collision of
+  two stars is analyzed. Two strong shocks propagate from the contact surface and
+  move toward the center of each star at a velocity that is a small fraction of the
+  velocity of the approaching stars. The shocked region near the contact surface has
+  a planar symmetry and a uniform pressure. The density vanishes at the (Lagrangian)
+  surface of contact, and the speed of sound diverges there. The temperature, however,
+  reaches a finite value, since as the density vanishes, the finite pressure is radiation
+  dominated. For carbon-oxygen white dwarf (CO WD) collisions, this temperature is
+  too low for any appreciable nuclear burning shortly after the collision, which allows
+  for a significant fraction of the mass to be highly compressed to the density required
+  for efficient 56Ni production in the detonation wave that follows. This property
+  is crucial for the viability of collisions of typical CO WD as progenitors of type
+  Ia supernovae, since otherwise only massive (>0.9 M \&sun;) CO WDs would have led
+  to such explosions (as required by all other progenitor models). The divergence
+  of the speed of sound limits numerical studies of stellar collisions, as it makes
+  convergence tests exceedingly expensive unless dedicated schemes are used. We provide
+  a new one-dimensional Lagrangian numerical scheme to achieve this. A self-similar
+  planar solution is derived for zero-impact parameter collisions between two identical
+  stars, under some simplifying assumptions (including a power-law density profile),
+  which is the planar version of previous piston problems that were studied in cylindrical
+  and spherical symmetries.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...785..124K
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1311.1209
+author: Kushnir, D. and Katz, B.
+author_list:
+- family: Kushnir
+  given: D.
+- family: Katz
+  given: B.
+date-added: 2017-08-10 17:41:23 +0000
+date-modified: 2017-12-05 16:36:28 +0000
+doi: 10.1088/0004-637X/785/2/124
+eid: '124'
+eprint: '1311.1209'
+journal: \apj
+keywords: 'hydrodynamics, shock waves, supernovae: individual: Ia'
+month: April
+pages: '124'
+papis_id: 3176c3ca66ddfe653ad182fb19b0c00f
+primaryclass: astro-ph.HE
+ref: kushnir.d.2014
+title: Early Hydrodynamic Evolution of a Stellar Collision
+type: article
+volume: '785'
+year: '2014'

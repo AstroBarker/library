@@ -1,0 +1,53 @@
+abstract: The recent discoveries of many double neutron star systems and their detection
+  as LIGO-Virgo merger events call for a detailed understanding of their origin. Explosions
+  of ultrastripped stars in binary systems have been shown to play a key role in this
+  context and have also generated interest as a potential explanation for rapidly
+  evolving hydrogen-free transients. Here, we present the first attempt to model such
+  explosions based on binary evolution calculations that follow the mass transfer
+  to the companion to obtain a consistent core-envelope structure as needed for reliable
+  predictions of the supernova transient. We simulate the explosion in 2D and 3D,
+  and confirm the modest explosion energies {\texttildelow{} } 10^{50} erg and small
+  kick velocities reported earlier in 2D models based on bare carbon-oxygen cores.
+  The spin-up of the neutron star by asymmetric accretion is small in 3D with no indication
+  of spin-kick alignment. Simulations up to shock breakout show the mixing of sizeable
+  amounts of iron group material into the helium envelope. In view of recent ideas
+  for a mixing-length treatment (MLT) of Rayleigh-Taylor instabilities in supernovae,
+  we perform a detailed analysis of the mixing, which reveals evidence for buoyancy-drag
+  balance, but otherwise does not support the MLT approximation. The mixing may have
+  implications for the spectroscopic signatures of ultrastripped supernovae that need
+  to be investigated in the future. Our stellar evolution calculation also predicts
+  presupernova mass-loss due to an off-centre silicon deflagration flash, which suggests
+  that supernovae from extremely stripped cores may show signs of interactions with
+  circumstellar material.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.479.3675M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1803.03388
+author: Müller, B. and Gay, D. W. and Heger, A. and Tauris, T. M. and Sim, S. A.
+author_list:
+- family: Müller
+  given: B.
+- family: Gay
+  given: D. W.
+- family: Heger
+  given: A.
+- family: Tauris
+  given: T. M.
+- family: Sim
+  given: S. A.
+date-added: 2018-08-26 20:59:02 -0400
+date-modified: 2018-08-26 20:59:04 -0400
+doi: 10.1093/mnras/sty1683
+eprint: '1803.03388'
+journal: \mnras
+keywords: 'binaries: close, stars: evolution, stars: massive, stars: neutron, supernovae:
+  general'
+month: September
+pages: 3675--3689
+papis_id: ffea7923395f7fe29e4a21980a886b51
+primaryclass: astro-ph.SR
+ref: muller.b.2018
+title: Multidimensional simulations of ultrastripped supernovae to shock breakout
+type: article
+volume: '479'
+year: '2018'

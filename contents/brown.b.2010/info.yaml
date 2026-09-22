@@ -1,0 +1,55 @@
+abstract: When our Sun was young it rotated much more rapidly than now. Observations
+  of young, rapidly rotating stars indicate that many possess substantial magnetic
+  activity and strong axisymmetric magnetic fields. We conduct simulations of dynamo
+  action in rapidly rotating suns with the three-dimensional magnetohydrodynamic anelastic
+  spherical harmonic (ASH) code to explore the complex coupling between rotation,
+  convection, and magnetism. Here, we study dynamo action realized in the bulk of
+  the convection zone for a system rotating at 3 times the current solar rotation
+  rate. We find that substantial organized global-scale magnetic fields are achieved
+  by dynamo action in this system. Striking wreaths of magnetism are built in the
+  midst of the convection zone, coexisting with the turbulent convection. This is
+  a surprise, for it has been widely believed that such magnetic structures should
+  be disrupted by magnetic buoyancy or turbulent pumping. Thus, many solar dynamo
+  theories have suggested that a tachocline of penetration and shear at the base of
+  the convection zone is a crucial ingredient for organized dynamo action, whereas
+  these simulations do not include such tachoclines. We examine how these persistent
+  magnetic wreaths are maintained by dynamo processes and explore whether a classical
+  mean-field alpha-effect explains the regeneration of poloidal field. We find that
+  the global-scale toroidal magnetic fields are maintained by an Omega-effect arising
+  from the differential rotation, while the global-scale poloidal fields arise from
+  turbulent correlations between the convective flows and magnetic fields. These correlations
+  are not well represented by an alpha-effect that is based on the kinetic and magnetic
+  helicities.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2010ApJ...711..424B
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1011.2831
+author: Brown, B. P. and Browning, M. K. and Brun, A. S. and Miesch, M. S. and Toomre,
+  J.
+author_list:
+- family: Brown
+  given: B. P.
+- family: Browning
+  given: M. K.
+- family: Brun
+  given: A. S.
+- family: Miesch
+  given: M. S.
+- family: Toomre
+  given: J.
+date-added: 2017-08-11 03:53:13 +0000
+date-modified: 2017-12-05 16:36:51 +0000
+doi: 10.1088/0004-637X/711/1/424
+eprint: '1011.2831'
+journal: \apj
+keywords: 'convection, magnetohydrodynamics: MHD, stars: interiors, stars: magnetic
+  field, stars: rotation, Sun: interior'
+month: March
+pages: 424--438
+papis_id: 54016e8bd4bd2026f79d102374d613a6
+primaryclass: astro-ph.SR
+ref: brown.b.2010
+title: Persistent Magnetic Wreaths in a Rapidly Rotating Sun
+type: article
+volume: '711'
+year: '2010'

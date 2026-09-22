@@ -1,0 +1,46 @@
+abstract: Active galactic nuclei, X-ray binaries, pulsars and gamma-ray bursts are
+  all believed to be powered by compact objects surrounded by relativistic plasma
+  flows driving phenomena such as accretion, winds and jets. These flows are often
+  accurately modelled by the relativistic magnetohydrodynamic (MHD) approximation.
+  Time-dependent numerical MHD simulations have proven to be especially insightful,
+  but one regime that remains difficult to simulate is when the energy scales (kinetic,
+  thermal, magnetic) within the plasma become disparate. We develop a numerical scheme
+  that significantly improves the accuracy and robustness of the solution in this
+  regime. We use a modified form of the weighted essentially non-oscillatory (WENO)
+  method to construct a finite-volume general relativistic hydrodynamics code called
+  WHAM that converges at fifth order. We avoid (1) field-by-field decomposition by
+  adaptively reducing down to two-point stencils near discontinuities for a more accurate
+  treatment of shocks and (2) excessive reduction to low-order stencils, as in the
+  standard WENO formalism, by maintaining high-order accuracy in smooth monotonic
+  flows. Our scheme performs the proper surface integral of the fluxes, converts cell-averaged
+  conserved quantities to point-conserved quantities before performing the reconstruction
+  step, and correctly averages all source terms. We demonstrate that the scheme is
+  robust in strong shocks, very accurate in smooth flows and maintains accuracy even
+  when the energy scales in the flow are highly disparate.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007MNRAS.379..469T
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0704.2608
+author: Tchekhovskoy, A. and McKinney, J. C. and Narayan, R.
+author_list:
+- family: Tchekhovskoy
+  given: A.
+- family: McKinney
+  given: J. C.
+- family: Narayan
+  given: R.
+date-added: 2017-08-11 19:48:00 +0000
+date-modified: 2017-12-05 16:37:08 +0000
+doi: 10.1111/j.1365-2966.2007.11876.x
+eprint: '0704.2608'
+journal: \mnras
+keywords: 'accretion, accretion discs, black hole physics, hydrodynamics, MHD, methods:
+  numerical, galaxies: jets'
+month: August
+pages: 469--497
+papis_id: 925e27e1037d21968a4969b72c616ab2
+ref: tchekhovskoy.a.2007
+title: 'WHAM: a WENO-based general relativistic numerical scheme - I. Hydrodynamics'
+type: article
+volume: '379'
+year: '2007'

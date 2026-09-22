@@ -1,0 +1,38 @@
+abstract: 'Understanding which stars explode leaving behind neutron stars and which
+  stars collapse forming black holes remains a fundamental astrophysical problem.
+  We derive an analytic explosion condition for spherically symmetric core-collapse
+  supernovae. The derivation starts with the exact governing equations, considers
+  the balance of integral forces, includes the important dimensionless parameters,
+  and includes an explicit set of self-consistent approximations. The force explosion
+  condition is $\tilde{L}_\nu\tau_g - 0.06 \tilde{\kappa} > 0.38$, and only depends
+  upon two dimensionless parameters. The first compares the neutrino power deposited
+  in the gain region with the accretion power, \$\tilde{L}\_\nu \tau\_g = L\_{\nu}
+  \tau\_g R\_{\rm NS}/ ( G \dot{M} M\_{\rm NS})\$. The second, \$\tilde{\kappa} =
+  \kappa \dot{M} / \sqrt{G M\_{\rm NS} R\_{\rm NS}}\$, parameterizes the neutrino
+  optical depth in the accreted matter near the neutron-star surface. Over the years,
+  many have proposed approximate explosion conditions: the critical neutrino-luminosity,
+  ante-sonic, and timescale conditions. We are able to derive these other conditions
+  from the force explosion condition, which unifies them all. Using numerical, steady-state
+  and fully hydrodynamic solutions, we test the explosion condition. The success of
+  these tests is promising in two ways. One, the force explosion condition helps to
+  illuminate the underlying physics of explosions. Two, this condition may be a useful
+  explosion diagnostic for more realistic, three-dimensional radiation hydrodynamic
+  core-collapse simulations.'
+archiveprefix: arXiv
+author: Gogilashvili, Mariam and Murphy, Jeremiah W.
+author_list:
+- family: Gogilashvili
+  given: Mariam
+- family: Murphy
+  given: Jeremiah W.
+eprint: '2110.10173'
+file: :gogilashvili\_2021 - A Force Explosion Condition for Spherically Symmetric
+  Core Collapse Supernovae.pdf:PDF
+keywords: astro-ph.HE, astro-ph.SR
+month: October
+papis_id: e5191bc107a690e189552b29250aa8a6
+primaryclass: astro-ph.HE
+ref: gogilashvili.mariam.2021
+title: A Force Explosion Condition for Spherically Symmetric Core-collapse Supernovae
+type: article
+year: '2021'

@@ -1,0 +1,40 @@
+abstract: A high-quality Keck spectrum of the Halpha line in NGC 4395 reveals symmetric
+  exponential wings, fv~e-v/sigma, with sigma~=500 km s-1. The wings extend out to
+  >~2500 km s-1 from the line core, and down to a flux density of <~10-3 of the peak
+  flux density. Numerical and analytic calculations indicate that exponential wings
+  are expected for optically thin, isotropic, thermal electron scattering. Such scattering
+  produces exponential wings with sigma~=1.1sigmae(lntau-1e)0.45, where sigmae is
+  the electron velocity dispersion, and taue is the electron-scattering optical depth.
+  The Halpha wings in NGC 4395 are well fit by an electron-scattering model with taue=0.34
+  and an electron temperature Te=1.1\texttimes{}104 K. Such conditions are produced
+  in photoionized gas with an ionization parameter U~=0.3, as expected in the broad-line
+  region (BLR). Similar analysis of the [O III] lambda5007 line yields taue<0.01,
+  consistent with the lower ionization in the narrow-line region. If the electron-scattering
+  interpretation is correct, there should be a tight correlation between taue and
+  the ionizing flux on timescales shorter than the BLR dynamical time, or ~1 week
+  for NGC 4395. In contrast, the value of sigma should remain nearly constant on these
+  timescales. Such wings may be discernible in other objects with unusually narrow
+  Balmer lines, and they can provide a useful direct probe of Te and taue in the BLR.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006ApJ...643..112L
+arxivurl: http://arxiv.org/abs/astro-ph/0601688
+author: Laor, A.
+author_list:
+- family: Laor
+  given: A.
+date-added: 2017-08-11 03:49:01 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1086/502798
+eprint: astro-ph/0601688
+journal: \apj
+keywords: 'Galaxies: Active, Galaxies: Individual: NGC Number: NGC 4395, Galaxies:
+  Seyfert, Galaxies: Quasars: Emission Lines'
+month: May
+pages: 112--119
+papis_id: a225944b7398123fe62950c0ce6e7070
+ref: laor.a.2006
+title: Evidence for Line Broadening by Electron Scattering in the Broad-Line Region
+  of NGC 4395
+type: article
+volume: '643'
+year: '2006'

@@ -1,0 +1,55 @@
+abstract: This work investigates the properties of convection in stars with particular
+  emphasis on entrainment across the upper convective boundary (CB). Idealized simulations
+  of turbulent convection in the O-burning shell of a massive star are performed in
+  4pi geometry on 7683 and 15363 grids, driven by a representative heating rate. A
+  heating series is also performed on the 7683 grid. The 15363 simulation exhibits
+  an entrainment rate at the upper CB of 1.33 \texttimes{} 10-6 M\&sun; s-1. The 7683
+  simulation with the same heating rate agrees within 17 per cent. The entrainment
+  rate at the upper CB is found to scale linearly with the driving luminosity and
+  with the cube of the shear velocity at the upper boundary, while the radial rms
+  fluid velocity scales with the cube root of the driving luminosity, as expected.
+  The mixing is analysed in a 1D diffusion framework, resulting in a simple model
+  for CB mixing. The analysis confirms that limiting the MLT mixing length to the
+  distance to the CB in 1D simulations better represents the spherically averaged
+  radial velocity profiles from the 3D simulations and provide an improved determination
+  of the reference diffusion coefficient D0 for the exponential diffusion CB mixing
+  model in 1D. From the 3D simulation data, we adopt as the CB the location of the
+  maximum gradient in the horizontal velocity component which has 2sigma spatial fluctuations
+  of \approx{}0.17HP. The exponentially decaying diffusion CB mixing model with f
+  = 0.03 reproduces the spherically averaged 3D abundance profiles.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017MNRAS.465.2991J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1605.03766
+author: Jones, S. and Andrassy, R. and Sandalski, S. and Davis, A. and Woodward, P.
+  and Herwig, F.
+author_list:
+- family: Jones
+  given: S.
+- family: Andrassy
+  given: R.
+- family: Sandalski
+  given: S.
+- family: Davis
+  given: A.
+- family: Woodward
+  given: P.
+- family: Herwig
+  given: F.
+date-added: 2018-07-20 03:21:39 +0000
+date-modified: 2018-07-20 03:21:40 +0000
+doi: 10.1093/mnras/stw2783
+eprint: '1605.03766'
+journal: \mnras
+keywords: 'convection, hydrodynamics, turbulence, stars: evolution, stars: interior,
+  stars: massive'
+month: March
+pages: 2991--3010
+papis_id: 09510e64f359fcbb728adb0ab4960589
+primaryclass: astro-ph.SR
+ref: jones.s.2017
+title: Idealized hydrodynamic simulations of turbulent oxygen-burning shell convection
+  in 4$π$ geometry
+type: article
+volume: '465'
+year: '2017'

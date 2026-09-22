@@ -1,0 +1,38 @@
+abstract: Euler equations with gravitational source terms are used to model many astrophysical
+  and atmospheric phenomena. This system admits hydrostatic balance where the flux
+  produced by the pressure is exactly canceled by the gravitational source term, and
+  two commonly seen equilibria are the isothermal and polytropic hydrostatic solutions.
+  Exact preservation of these equilibria is desirable as many practical problems are
+  small perturbations of such balance. High order finite difference weighted essentially
+  non-oscillatory (WENO) schemes have been proposed in [22], but only for the isothermal
+  equilibrium state. In this paper, we design high order well-balanced finite volume
+  WENO schemes, which can preserve not only the isothermal equilibrium but also the
+  polytropic hydrostatic balance state exactly, and maintain genuine high order accuracy
+  for general solutions. The well-balanced property is obtained by novel source term
+  reformulation and discretization, combined with well-balanced numerical fluxes.
+  Extensive one- and two-dimensional simulations are performed to verify well-balanced
+  property, high order accuracy, as well as good resolution for smooth and discontinuous
+  solutions.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2016JCoPh.316..145L
+author: Li, G. and Xing, Y.
+author_list:
+- family: Li
+  given: G.
+- family: Xing
+  given: Y.
+date-added: 2018-06-08 17:11:16 +0000
+date-modified: 2018-06-08 17:11:17 +0000
+doi: 10.1016/j.jcp.2016.04.015
+journal: Journal of Computational Physics
+keywords: Finite volume schemes, Euler equations, WENO schemes, Well-balanced property,
+  High order accuracy, Gravitational field
+month: July
+pages: 145--163
+papis_id: 2314fdbdae4fc7a49c66f20e66cdcf6b
+ref: li.g.2016
+title: High order finite volume WENO schemes for the Euler equations under gravitational
+  fields
+type: article
+volume: '316'
+year: '2016'

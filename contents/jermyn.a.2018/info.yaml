@@ -1,0 +1,43 @@
+abstract: We present an approach to turbulence closure based on mixing length theory
+  with three-dimensional fluctuations against a two-dimensional background. This model
+  is intended to be rapidly computable for implementation in stellar evolution software
+  and to capture a wide range of relevant phenomena with just a single free parameter,
+  namely the mixing length. We incorporate magnetic, rotational, baroclinic, and buoyancy
+  effects exactly within the formalism of linear growth theories with non-linear decay.
+  We treat differential rotation effects perturbatively in the corotating frame using
+  a novel controlled approximation, which matches the time evolution of the reference
+  frame to arbitrary order. We then implement this model in an efficient open source
+  code and discuss the resulting turbulent stresses and transport coefficients. We
+  demonstrate that this model exhibits convective, baroclinic, and shear instabilities
+  as well as the magnetorotational instability. It also exhibits non-linear saturation
+  behaviour, and we use this to extract the asymptotic scaling of various transport
+  coefficients in physically interesting limits.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2018MNRAS.476..646J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1803.00579
+author: Jermyn, A. S. and Lesaffre, P. and Tout, C. A. and Chitre, S. M.
+author_list:
+- family: Jermyn
+  given: A. S.
+- family: Lesaffre
+  given: P.
+- family: Tout
+  given: C. A.
+- family: Chitre
+  given: S. M.
+date-added: 2018-03-06 19:58:30 +0000
+date-modified: 2018-03-06 19:58:31 +0000
+doi: 10.1093/mnras/sty255
+eprint: '1803.00579'
+journal: \mnras
+keywords: 'convection, stars: evolution, stars: interiors, stars: rotation'
+month: May
+pages: 646--662
+papis_id: 4617cf3931a9dbcaaee3d54e42d8b3f5
+primaryclass: astro-ph.SR
+ref: jermyn.a.2018
+title: Turbulence closure for mixing length theories
+type: article
+volume: '476'
+year: '2018'

@@ -1,0 +1,68 @@
+abstract: We investigate line formation processes in Type IIb supernovae (SNe) from
+  100 to 500 days post-explosion using spectral synthesis calculations. The modelling
+  identifies the nuclear burning layers and physical mechanisms that produce the major
+  emission lines, and the diagnostic potential of these. We compare the model calculations
+  with data on the three best observed Type IIb SNe to-date - SN 1993J, SN 2008ax,
+  and SN 2011dh. Oxygen nucleosynthesis depends sensitively on the main-sequence mass
+  of the star and modelling of the [O I] lambdalambda6300, 6364 lines constrains the
+  progenitors of these three SNe to the MZAMS = 12-16 M\&sun; range (ejected oxygen
+  masses 0.3-0.9 M\&sun;), with SN 2011dh towards the lower end and SN 1993J towards
+  the upper end of the range. The high ejecta masses from MZAMS \greaterequivlnt{}
+  17 M\&sun; progenitors give rise to brighter nebular phase emission lines than observed.
+  Nucleosynthesis analysis thus supports a scenario of low-to-moderate mass progenitors
+  for Type IIb SNe, and by implication an origin in binary systems. We demonstrate
+  how oxygen and magnesium recombination lines may be combined to diagnose the magnesium
+  mass in the SN ejecta. For SN 2011dh, a magnesium mass of 0.02-0.14 M\&sun; is derived,
+  which gives a Mg/O production ratio consistent with the solar value. Nitrogen left
+  in the He envelope from CNO burning gives strong [N II] lambdalambda6548, 6583 emission
+  lines that dominate over Halpha emission in our models. The hydrogen envelopes of
+  Type IIb SNe are too small and dilute to produce any noticeable Halpha emission
+  or absorption after ~150 days, and nebular phase emission seen around 6550 {\AA}
+  is in many cases likely caused by [N II] lambdalambda6548, 6583. Finally, the influence
+  of radiative transport on the emergent line profiles is investigated. Significant
+  line blocking in the metal core remains for several hundred days, which affects
+  the emergent spectrum. These radiative transfer effects lead to early-time blueshifts
+  of the emission line peaks, which gradually disappear as the optical depths decrease
+  with time. The modelled evolution of this effect matches the observed evolution
+  in SN 2011dh.  Appendices are available in electronic form at http://www.aanda.org
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015A\%26A...573A..12J
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1408.0732
+author: Jerkstrand, A. and Ergon, M. and Smartt, S. J. and Fransson, C. and Sollerman,
+  J. and Taubenberger, S. and Bersten, M. and Spyromilio, J.
+author_list:
+- family: Jerkstrand
+  given: A.
+- family: Ergon
+  given: M.
+- family: Smartt
+  given: S. J.
+- family: Fransson
+  given: C.
+- family: Sollerman
+  given: J.
+- family: Taubenberger
+  given: S.
+- family: Bersten
+  given: M.
+- family: Spyromilio
+  given: J.
+date-added: 2017-08-11 07:10:21 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1051/0004-6361/201423983
+eid: A12
+eprint: '1408.0732'
+journal: \aap
+keywords: 'line: identification, supernovae: individual: SN 2011dh, supernovae: individual:
+  SN 2008ax, radiative transfer, line: formation, supernovae: individual: SN 1993J'
+month: January
+pages: A12
+papis_id: c2c087bb3a8bd3a960bc30dbd90d4b5f
+primaryclass: astro-ph.HE
+ref: jerkstrand.a.2015
+title: Late-time spectral line formation in Type IIb supernovae, with application
+  to SN 1993J, SN 2008ax, and SN 2011dh
+type: article
+volume: '573'
+year: '2015'

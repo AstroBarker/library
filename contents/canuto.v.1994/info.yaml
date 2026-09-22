@@ -1,0 +1,57 @@
+abstract: The Reynolds numbers that characterize geophysical and astrophysical turbulence
+  (Re approximately equals 108 for the planetary boundary layer and Re approximately
+  equals 1014 for the Sun's interior) are too large to allow a direct numerical simulation
+  (DNS) of the fundamental Navier-Stokes and temperature equations. In fact, the spatial
+  number of grid points N approximately Re9/4 exceeds the computational capability
+  of today's supercomputers. Alternative treatments are the ensemble-time average
+  approach, and/or the volume average approach. Since the first method (Reynolds stress
+  approach) is largely analytical, the resulting turbulence equations entail manageable
+  computational requirements and can thus be linked to a stellar evolutionary code
+  or, in the geophysical case, to general circulation models. In the volume average
+  approach, one carries out a large eddy simulation (LES) which resolves numerically
+  the largest scales, while the unresolved scales must be treated theoretically with
+  a subgrid scale model (SGS). Contrary to the ensemble average approach, the LES+SGS
+  approach has considerable computational requirements. Even if this prevents (for
+  the time being) a LES+SGS model to be linked to stellar or geophysical codes, it
+  is still of the greatest relevance as an 'experimental tool' to be used, inter alia,
+  to improve the parameterizations needed in the ensemble average approach. Such a
+  methodology has been successfully adopted in studies of the convective planetary
+  boundary layer. Experienc e with the LES+SGS approach from different fields has
+  shown that its reliability depends on the healthiness of the SGS model for numerical
+  stability as well as for physical completeness. At present, the most widely used
+  SGS model, the Smagorinsky model, accounts for the effect of the shear induced by
+  the large resolved scales on the unresolved scales but does not account for the
+  effects of buoyancy, anisotropy, rotation, and stable stratification. The latter
+  phenomenon, which affects both geophysical and astrophysical turbulence (e.g., oceanic
+  structure and convective overshooting in stars), has been singularly difficult to
+  account for in turbulence modeling. For example, the widely used model of Deardorff
+  has not been confirmed by recent LES results. As of today, there is no SGS model
+  capable of incorporating buoyancy, rotation, shear, anistropy, and stable stratification
+  (gravity waves). In this paper, we construct such a model which we call CM (complete
+  model). We also present a hierarchy of simpler algebraic models (called AM) of varying
+  complexity. Finally, we present a set of models which are simplified even further
+  (called SM), the simplest of which is the Smagorinsky-Lilly model. The incorporation
+  of these models into the presently available LES codes should begin with the SM,
+  to be followed by the AM and finally by the CM.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1994ApJ...428..729C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2017-08-10 15:34:54 +0000
+date-modified: 2017-12-05 16:37:48 +0000
+doi: 10.1086/174281
+journal: \apj
+keywords: Astronomical Models, Buoyancy, Convective Flow, Energy Dissipation, Gravitational
+  Waves, Rotation, Vorticity, Algebra, Computerized Simulation, Navier-Stokes Equation,
+  Numerical Analysis, Reynolds Stress, Solutions
+month: June
+pages: 729--752
+papis_id: 8b397eab05d4502a0cd6971fa7240bd6
+ref: canuto.v.1994
+title: 'Large Eddy simulation of turbulence: A subgrid scale model including shear,
+  vorticity, rotation, and buoyancy'
+type: article
+volume: '428'
+year: '1994'

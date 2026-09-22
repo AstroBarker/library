@@ -1,0 +1,59 @@
+abstract: Detailed stellar evolution calculations have been performed to quantify
+  the influence of the main-sequence mass MMS and the metallicity Z of the progenitor
+  on the structure of the exploding white dwarf (WD), which are thought to be the
+  progenitors of Type Ia supernovae (SNe Ia). In particular, we study the effects
+  of progenitors on the brightness-decline relation M(DeltaM15), which is a cornerstone
+  for the use of SNe Ia as cosmological yardsticks. Both the typical MMS and Z can
+  be expected to change as we go back in time. We consider the entire range of potential
+  progenitors with 1.5-7 Msolar and metallicities between Z=0.02 and 1\texttimes{}10-10.
+  Our study is based on the delayed detonation scenario with specific parameters that
+  give a good account of typical light curves and spectra. Based on the structures
+  for the WD, detailed model calculations have been performed for the hydrodynamical
+  explosion, nucleosynthesis, and light curves. The main-sequence mass has been identified
+  as the decisive factor to change the energetics of the explosion and, consequently,
+  dominates the variations in the rise-time-decline relation of light curves. MMS
+  has little effect on the color index B-V. For similar decline rates DeltaM15, the
+  flux at maximum brightness relative to the flux on the radioactive tail decreases
+  systematically with MMS by about 0.2m. This change goes along with a reduction of
+  the photospheric expansion velocity vph by about 2000 km s-1. A change in the central
+  density of the exploding WD has similar effects but produces the opposite dependency
+  between the brightness-to-tail ratio and vph and therefore can be separated. The
+  metallicity alters the isotopic composition of the outer layers of the ejecta. Selective
+  line blanketing at short wavelengths decreases with Z and changes systematically
+  the intrinsic color index B-V by up to -0.06m, and it alters the fluxes in the U
+  band and the UV. The change in B-V is critical if extinction corrections are applied.
+  The offset in the calibration of M(DeltaM15) is not monotonic in Z and, in general,
+  remains <=0.07m. We use our results and recent observations to constrain the progenitors
+  and to discuss evolutionary effects of SNe Ia with redshift. The narrow spread in
+  the fiducial rise-time-decline relation in local SNe Ia restricts the range of main-sequence
+  masses to a factor of 2. The upper limit of 1 day for the difference between the
+  local and distance sample supports the need for a positive cosmological constant.
+  The size of evolutionary effects is small (DeltaM~0.2m) but is absolutely critical
+  for the reconstruction of the cosmological equation of state.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2001ApJ...557..279D
+arxivurl: http://arxiv.org/abs/astro-ph/0104257
+author: Domínguez, I. and Höflich, P. and Straniero, O.
+author_list:
+- family: Domínguez
+  given: I.
+- family: Höflich
+  given: P.
+- family: Straniero
+  given: O.
+date-added: 2017-08-11 04:31:02 +0000
+date-modified: 2017-12-05 16:37:35 +0000
+doi: 10.1086/321661
+eprint: astro-ph/0104257
+journal: \apj
+keywords: 'Cosmology: Cosmological Parameters, Cosmology: Distance Scale, Stars: Supernovae:
+  General'
+month: August
+pages: 279--291
+papis_id: 209a22eea825bcae5145d3978a3e190f
+ref: dominguez.i.2001
+title: Constraints on the Progenitors of Type Ia Supernovae and Implications for the
+  Cosmological Equation of State
+type: article
+volume: '557'
+year: '2001'

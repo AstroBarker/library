@@ -1,0 +1,46 @@
+abstract: The first generation of stars is thought to have formed in low-mass halos
+  with Tvir<104 K where H2 cooling is paramount. However, the efficiency of H2 formation
+  and cooling in these halos may have been severely limited by feedback processes.
+  In this paper we investigate the radiative cooling and collapse of halos with virial
+  temperatures Tvir>104 K, i.e., those that can cool in the absence of H2 via neutral
+  atomic lines. The evolution of these halos differs from their less massive counterparts.
+  Efficient atomic line radiation allows rapid cooling to ~8000 K; subsequently the
+  gas can contract nearly isothermally at this temperature. In the absence of H2 molecules,
+  the gas would likely settle into a locally stable disk, and only disks with unusually
+  low spin would be unstable. However, we find that the initial atomic line cooling
+  leaves a large, out-of-equilibrium residual free electron fraction. This allows
+  the molecular fraction to build up to a universal value of xH2~10-3, almost independently
+  of initial density and temperature. We show that this is a nonequilibrium freeze-out
+  value that can be understood in terms of timescale arguments. Unlike in less massive
+  halos, H2 formation and cooling is largely impervious to feedback from external
+  UV fields, due to the high initial densities achieved by atomic cooling. The newly
+  formed molecules cool the gas further to ~100 K and allow the gas to fragment on
+  scales of a few times 100 Msolar. We investigate the importance of various feedback
+  effects such as H2 photodissociation from internal UV fields and radiation pressure
+  due to Lyalpha photon trapping, which are likely to regulate the efficiency of star
+  formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...569..558O
+arxivurl: http://arxiv.org/abs/astro-ph/0108071
+author: Oh, S. P. and Haiman, Z.
+author_list:
+- family: Oh
+  given: S. P.
+- family: Haiman
+  given: Z.
+date-added: 2017-08-11 05:43:19 +0000
+date-modified: 2017-12-05 16:37:33 +0000
+doi: 10.1086/339393
+eprint: astro-ph/0108071
+journal: \apj
+keywords: 'Cosmology: Theory, Cosmology: Early Universe, Galaxies: Formation, Molecular
+  Processes'
+month: April
+pages: 558--572
+papis_id: f5aa3b004bbb887354febb6c2531d1e1
+ref: oh.s.2002
+title: 'Second-Generation Objects in the Universe: Radiative Cooling and Collapse
+  of Halos with Virial Temperatures above 10$^4$ K'
+type: article
+volume: '569'
+year: '2002'

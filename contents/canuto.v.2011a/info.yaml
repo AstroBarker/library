@@ -1,0 +1,39 @@
+abstract: 'In Papers I-II, we derived the expressions for the turbulent diffusivities
+  of momentum, temperature T, and mean molecular weight mu. Since the scalar T-mu
+  fields are active tracers (by influencing the density and thus the velocity field),
+  whereas passive tracers such as 7Li are carried along by the flow without influencing
+  it, it would be unjustified to use the diffusivities of the T-mu fields to represent
+  the diffusivity of passive tracers. In this paper, we present the first derivation
+  of a passive tracer diffusivity. Some key results are: a) In the general 3D case,
+  the passive tracer diffusivity is a tensor given in algebraic form; b) the diffusivity
+  tensor depends on shear, vorticity, T, and mu-gradients, thus including double diffusion
+  and differential rotation; c) in the 1D version of the model, the passive tracer
+  diffusivity is a scalar denoted by Kc; d) in doubly stable regimes, \nabla{}mu >
+  0, \nabla{} - \nabla{}ad < 0, Kc is nearly the same as those of the T-mu fields;
+  e) in semi-convection regimes, \nabla{}mu > 0, \nabla{} - \nabla{}ad > 0, Kc is
+  larger than that of the mu-field; f) in salt fingers regimes \nabla{}mu < 0,\nabla{}
+  - \nabla{}ad < 0, Kc is smaller than that of the mu-field; and finally, g) in the
+  only case we know of a direct measurement of a passive tracer diffusivity, the oceanographic
+  North Atlantic Tracer Release Experiment (NATRE), the model reproduces the data
+  quite closely.  This work is dedicated to Aura Sofia Canuto.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2011A\%26A...528A..78C
+author: Canuto, V. M.
+author_list:
+- family: Canuto
+  given: V. M.
+date-added: 2017-08-10 16:25:57 +0000
+date-modified: 2017-12-05 16:36:44 +0000
+doi: 10.1051/0004-6361/201015372
+eid: A78
+journal: \aap
+keywords: 'diffusion, instabilities, turbulence, stars: interiors, convection, methods:
+  analytical'
+month: April
+pages: A78
+papis_id: 27a97294902a01870b202ba792f99a4b
+ref: canuto.v.2011a
+title: Stellar mixing. III. The case of a passive tracer
+type: article
+volume: '528'
+year: '2011'

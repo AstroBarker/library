@@ -1,0 +1,36 @@
+abstract: We use a Monte Carlo binary synthesis code to model the formation and evolution
+  of neutron star systems including high-mass X-ray binaries, low-mass X-ray binaries,
+  double neutron star systems, and radio pulsars. Our focus is on the signature imprinted
+  on such systems due to natal kicks to neutron stars over and above that imparted
+  by orbital motions. The code incorporates the effect of the galactic potential (including
+  rotation) on the velocities of these systems. A comparison between our models and
+  the observations leads us to infer mean natal kicks >~400-500 km s-1. Moreover,
+  to be consistent with all the data, we require a bimodal kick distribution with
+  one peak in the distribution near 0 km s-1 and the other above 600 km s-1.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1998ApJ...496..333F
+arxivurl: http://arxiv.org/abs/astro-ph/9710333
+author: Fryer, C. and Burrows, A. and Benz, W.
+author_list:
+- family: Fryer
+  given: C.
+- family: Burrows
+  given: A.
+- family: Benz
+  given: W.
+date-added: 2017-08-11 01:52:40 +0000
+date-modified: 2017-12-05 16:37:43 +0000
+doi: 10.1086/305348
+eprint: astro-ph/9710333
+journal: \apj
+keywords: 'STARS: BINARIES: CLOSE, STARS: KINEMATICS, STARS: NEUTRON, STARS: SUPERNOVAE:
+  GENERAL, Stars: Binaries: Close, Stars: Kinematics, Stars: Neutron, Stars: Supernovae:
+  General'
+month: March
+pages: 333--351
+papis_id: 31c8001fd7bf1dfaea509bf122ccc73d
+ref: fryer.c.1998a
+title: Population Syntheses for Neutron Star Systems with Intrinsic Kicks
+type: article
+volume: '496'
+year: '1998'

@@ -1,0 +1,42 @@
+abstract: We review the theory of electron-conduction opacity, a fundamental ingredient
+  in the computation of low-mass stellar models; shortcomings and limitations of the
+  existing calculations used in stellar evolution are discussed. We then present new
+  determinations of the electron-conduction opacity in stellar conditions for an arbitrary
+  chemical composition that improve over previous works and, most importantly, cover
+  the whole parameter space relevant to stellar evolution models (i.e., both the regime
+  of partial and high electron degeneracy). A detailed comparison with the currently
+  used tabulations is also performed. The impact of our new opacities on the evolution
+  of low-mass stars is assessed by computing stellar models along both the H- and
+  He-burning evolutionary phases, as well as main sequence models of very low-mass
+  stars and white dwarf cooling tracks.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2007ApJ...661.1094C
+arxivurl: http://arxiv.org/abs/astro-ph/0703011
+author: Cassisi, S. and Potekhin, A. Y. and Pietrinferni, A. and Catelan, M. and Salaris,
+  M.
+author_list:
+- family: Cassisi
+  given: S.
+- family: Potekhin
+  given: A. Y.
+- family: Pietrinferni
+  given: A.
+- family: Catelan
+  given: M.
+- family: Salaris
+  given: M.
+date-added: 2017-08-10 20:49:38 +0000
+date-modified: 2017-12-05 16:37:09 +0000
+doi: 10.1086/516819
+eprint: astro-ph/0703011
+journal: \apj
+keywords: 'Conduction, Stars: Evolution, Stars: Horizontal-Branch, Stars: Interiors,
+  Stars: White Dwarfs'
+month: June
+pages: 1094--1104
+papis_id: 70b5a2ecaadfb2af21269df1ebdb3b14
+ref: cassisi.s.2007
+title: 'Updated Electron-Conduction Opacities: The Impact on Low-Mass Stellar Models'
+type: article
+volume: '661'
+year: '2007'

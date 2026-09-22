@@ -1,0 +1,39 @@
+abstract: The architecture of Exascale computing facilities, which involves millions
+  of heterogeneous processing units, will deeply impact on scientific applications.
+  Future astrophysical HPC applications must be designed to make such computing systems
+  exploitable. The ExaNeSt H2020 EU-funded project aims to design and develop an exascale
+  ready prototype based on low-energy-consumption ARM64 cores and FPGA accelerators.
+  We participate to the design of the platform and to the validation of the prototype
+  with cosmological N-body and hydrodynamical codes suited to perform large-scale,
+  high-resolution numerical simulations of cosmic structures formation and evolution.
+  We discuss our activities on astrophysical applications to take advantage of the
+  underlying architecture.
+adscomment: submitted to ASP
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2017arXiv171200252G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1712.00252
+author: Goz, D. and Tornatore, L. and Taffoni, G. and Murante, G.
+author_list:
+- family: Goz
+  given: D.
+- family: Tornatore
+  given: L.
+- family: Taffoni
+  given: G.
+- family: Murante
+  given: G.
+date-added: 2017-12-05 16:55:54 +0000
+date-modified: 2017-12-05 16:55:54 +0000
+eprint: '1712.00252'
+journal: ArXiv e-prints
+keywords: Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics
+  - Astrophysics of Galaxies, Computer Science - Distributed, Parallel, and Cluster
+  Computing, Computer Science - Software Engineering
+month: December
+papis_id: f0a5ea78cfca9bd44772c892a7213cb0
+primaryclass: astro-ph.IM
+ref: goz.d.2017
+title: Cosmological Simulations in Exascale Era
+type: article
+year: '2017'

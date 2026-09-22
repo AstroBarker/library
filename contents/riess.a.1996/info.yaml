@@ -1,0 +1,43 @@
+abstract: We present an empirical method that uses multicolor light-curve shapes (MLCSs)
+  to estimate the luminosity, distance, and total line-of-sight extinction of Type
+  Ia supernovae (SNe Ia). The empirical correlation between the MLCSs and the luminosity
+  is derived from a "training set" of nine SN Ia light curves with independent distance
+  and reddening estimates. We find that intrinsically dim SN Ia's are redder and have
+  faster light curves than the bright ones, which are slow and blue. By 35 days after
+  maximum, the intrinsic color variations become negligible. A formal treatment of
+  extinction employing Bayes's theorem is used to estimate the best value and its
+  uncertainty. Applying the MLCS method to both light curves and to color curves provides
+  enough information to determine which supernovae are dim because they are distant,
+  which are intrinsically dim, and which are dim because of extinction by dust. The
+  precision of the MLCS distances is examined by constructing a Hubble diagram with
+  an independent set of 20 SN Ia's. The dispersion of 0.12 mag indicates a typical
+  distance accuracy of 5\% for a single object, and the intercept yields a Hubble
+  constant on the Sandage et al. Cepheid distance scale of H\_0\_ = 64 +/- 3 (statistical)
+  km s^-1^ Mpc^-1^ (+/-6 total error). The slope of 0.2010 +/- 0.0035 mag over the
+  distance interval 32.2 < mu < 38.3 yields the most precise confirmation of the linearity
+  of the Hubble law.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/1996ApJ...473...88R
+arxivurl: http://arxiv.org/abs/astro-ph/9604143
+author: Riess, A. G. and Press, W. H. and Kirshner, R. P.
+author_list:
+- family: Riess
+  given: A. G.
+- family: Press
+  given: W. H.
+- family: Kirshner
+  given: R. P.
+date-added: 2017-08-10 18:18:40 +0000
+date-modified: 2017-12-05 16:37:44 +0000
+doi: 10.1086/178129
+eprint: astro-ph/9604143
+journal: \apj
+keywords: 'COSMOLOGY: DISTANCE SCALE, ISM: DUST, EXTINCTION, STARS: SUPERNOVAE: GENERAL'
+month: December
+pages: '88'
+papis_id: 8c0589c4d366aef48c93543fcb67c97a
+ref: riess.a.1996
+title: 'A Precise Distance Indicator: Type IA Supernova Multicolor Light-Curve Shapes'
+type: article
+volume: '473'
+year: '1996'

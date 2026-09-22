@@ -1,0 +1,52 @@
+abstract: We report the results of the first self-consistent three-dimensional adaptive
+  mesh refinement magnetohydrodynamical simulations of Population III star formation
+  including the Biermann battery effect. We find that the Population III stellar cores
+  formed including this effect are both qualitatively and quantitatively similar to
+  those from hydrodynamics-only (non-MHD) cosmological simulations. We observe peak
+  magnetic fields of simeq 10-9 G in the center of our star-forming halo at z simeq
+  17.55 at a baryon density of nB ~ 1010 cm-3. The magnetic fields created by the
+  Biermann battery effect are predominantly formed early in the evolution of the primordial
+  halo at low density and large spatial scales, and then grow through compression
+  and by shear flows. The fields seen in this calculation are never large enough to
+  be dynamically important (with beta >= 1015 at all times before the termination
+  of our calculation), and should be considered the minimum possible fields in existence
+  during Population III star formation. The lack of magnetic support lends credibility
+  to assumptions made in previous calculations regarding the lack of importance of
+  magnetic fields in Population III star formation. In addition, these magnetic fields
+  may be seed fields for the stellar dynamo or the magnetorotational instability at
+  higher densities and smaller spatial scales.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2008ApJ...688L..57X
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0807.2647
+author: Xu, H. and O'Shea, B. W. and Collins, D. C. and Norman, M. L. and Li, H. and
+  Li, S.
+author_list:
+- family: Xu
+  given: H.
+- family: O'Shea
+  given: B. W.
+- family: Collins
+  given: D. C.
+- family: Norman
+  given: M. L.
+- family: Li
+  given: H.
+- family: Li
+  given: S.
+date-added: 2017-08-11 07:41:23 +0000
+date-modified: 2017-12-05 16:36:59 +0000
+doi: 10.1086/595617
+eid: L57
+eprint: '0807.2647'
+journal: \apjl
+keywords: 'cosmology: theory, galaxies: high-redshift, MHD, stars: formation'
+month: December
+pages: L57
+papis_id: b36af6c7823ecc37dcdd30292cfb82fe
+ref: xu.h.2008
+title: The Biermann Battery in Cosmological MHD Simulations of Population III Star
+  Formation
+type: article
+volume: '688'
+year: '2008'

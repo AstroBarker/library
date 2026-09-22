@@ -1,0 +1,99 @@
+abstract: We introduce the Virgo Consortium's Evolution and Assembly of GaLaxies and
+  their Environments (EAGLE) project, a suite of hydrodynamical simulations that follow
+  the formation of galaxies and supermassive black holes in cosmologically representative
+  volumes of a standard Lambda cold dark matter universe. We discuss the limitations
+  of such simulations in light of their finite resolution and poorly constrained subgrid
+  physics, and how these affect their predictive power. One major improvement is our
+  treatment of feedback from massive stars and active galactic nuclei (AGN) in which
+  thermal energy is injected into the gas without the need to turn off cooling or
+  decouple hydrodynamical forces, allowing winds to develop without predetermined
+  speed or mass loading factors. Because the feedback efficiencies cannot be predicted
+  from first principles, we calibrate them to the present-day galaxy stellar mass
+  function and the amplitude of the galaxy-central black hole mass relation, also
+  taking galaxy sizes into account. The observed galaxy stellar mass function is reproduced
+  to \lessequivlnt{} 0.2 dex over the full resolved mass range, 108 < M\textasteriskcentered/M\&sun;
+  \lessequivlnt{} 1011, a level of agreement close to that attained by semi-analytic
+  models, and unprecedented for hydrodynamical simulations. We compare our results
+  to a representative set of low-redshift observables not considered in the calibration,
+  and find good agreement with the observed galaxy specific star formation rates,
+  passive fractions, Tully-Fisher relation, total stellar luminosities of galaxy clusters,
+  and column density distributions of intergalactic C IV and O VI. While the mass-metallicity
+  relations for gas and stars are consistent with observations for M\textasteriskcentered
+  \greaterequivlnt{} 109 M\&sun; (M\textasteriskcentered \greaterequivlnt{} 1010 M\&sun;
+  at intermediate resolution), they are insufficiently steep at lower masses. For
+  the reference model, the gas fractions and temperatures are too high for clusters
+  of galaxies, but for galaxy groups these discrepancies can be resolved by adopting
+  a higher heating temperature in the subgrid prescription for AGN feedback. The EAGLE
+  simulation suite, which also includes physics variations and higher resolution zoomed-in
+  volumes described elsewhere, constitutes a valuable new resource for studies of
+  galaxy formation.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2015MNRAS.446..521S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1407.7040
+author: Schaye, J. and Crain, R. A. and Bower, R. G. and Furlong, M. and Schaller,
+  M. and Theuns, T. and Dalla Vecchia, C. and Frenk, C. S. and McCarthy, I. G. and
+  Helly, J. C. and Jenkins, A. and Rosas-Guevara, Y. M. and White, S. D. M. and Baes,
+  M. and Booth, C. M. and Camps, P. and Navarro, J. F. and Qu, Y. and Rahmati, A.
+  and Sawala, T. and Thomas, P. A. and Trayford, J.
+author_list:
+- family: Schaye
+  given: J.
+- family: Crain
+  given: R. A.
+- family: Bower
+  given: R. G.
+- family: Furlong
+  given: M.
+- family: Schaller
+  given: M.
+- family: Theuns
+  given: T.
+- family: Dalla Vecchia
+  given: C.
+- family: Frenk
+  given: C. S.
+- family: McCarthy
+  given: I. G.
+- family: Helly
+  given: J. C.
+- family: Jenkins
+  given: A.
+- family: Rosas-Guevara
+  given: Y. M.
+- family: White
+  given: S. D. M.
+- family: Baes
+  given: M.
+- family: Booth
+  given: C. M.
+- family: Camps
+  given: P.
+- family: Navarro
+  given: J. F.
+- family: Qu
+  given: Y.
+- family: Rahmati
+  given: A.
+- family: Sawala
+  given: T.
+- family: Thomas
+  given: P. A.
+- family: Trayford
+  given: J.
+date-added: 2017-08-11 07:25:23 +0000
+date-modified: 2017-12-05 16:36:26 +0000
+doi: 10.1093/mnras/stu2058
+eprint: '1407.7040'
+journal: \mnras
+keywords: 'methods: numerical, galaxies: evolution, galaxies: formation, cosmology:
+  theory'
+month: January
+pages: 521--554
+papis_id: a77efb8b967a4fa9ef9653976a67d8ca
+ref: schaye.j.2015
+title: 'The EAGLE project: simulating the evolution and assembly of galaxies and their
+  environments'
+type: article
+volume: '446'
+year: '2015'

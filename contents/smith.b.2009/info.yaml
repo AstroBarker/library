@@ -1,0 +1,56 @@
+abstract: 'Simulations of the formation of Population III (Pop III) stars suggest
+  that they were much more massive than the Pop II and Pop I stars observed today.
+  This is due to the collapse dynamics of metal-free gas, which is regulated by the
+  radiative cooling of molecular hydrogen. We study how the collapse of gas clouds
+  is altered by the addition of metals to the star-forming environment by performing
+  a series of simulations of pre-enriched star formation at various metallicities.
+  To make a clean comparison with metal-free star formation, we use initial conditions
+  identical to a Pop III star formation simulation, with low ionization and no external
+  radiation other than the cosmic microwave background (CMB). For metallicities below
+  the critical metallicity, Z cr, collapse proceeds similar to the metal-free case,
+  and only massive objects form. For metallicities well above Z cr, efficient cooling
+  rapidly lowers the gas temperature to the temperature of the CMB. The gas is unable
+  to radiatively cool below the CMB temperature, and becomes thermally stable. For
+  high metallicities, Z gsim 10-2.5 Z sun, this occurs early in the evolution of the
+  gas cloud, when the density is still relatively low. The resulting cloud cores show
+  little or no fragmentation, and would most likely form massive stars. If the metallicity
+  is not vastly above Z cr, the cloud cools efficiently but does not reach the CMB
+  temperature, and fragmentation into multiple objects occurs. We conclude that there
+  were three distinct modes of star formation at high redshift (z gsim 4): a "primordial"
+  mode, producing massive stars (10s to 100s of M sun) at very low metallicities (Z
+  lsim 10-3.75 Z sun); a CMB-regulated mode, producing moderate mass (10s of M sun)
+  stars at high metallicities (Z gsim 10-2.5 Z sun at redshift z~ 15-20); and a low-mass
+  (a few M sun) mode existing between these two metallicities. As the universe ages
+  and the CMB temperature decreases, the range of the low-mass mode extends to higher
+  metallicities, eventually becoming the only mode of star formation.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...691..441S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0806.1653
+author: Smith, B. D. and Turk, M. J. and Sigurdsson, S. and O'Shea, B. W. and Norman,
+  M. L.
+author_list:
+- family: Smith
+  given: B. D.
+- family: Turk
+  given: M. J.
+- family: Sigurdsson
+  given: S.
+- family: O'Shea
+  given: B. W.
+- family: Norman
+  given: M. L.
+date-added: 2017-08-10 19:03:31 +0000
+date-modified: 2017-12-05 16:36:58 +0000
+doi: 10.1088/0004-637X/691/1/441
+eprint: '0806.1653'
+journal: \apj
+keywords: 'early universe, stars: formation'
+month: January
+pages: 441--451
+papis_id: 6a85eb9a5fb2ce35d0a9a6ebf438ccb8
+ref: smith.b.2009
+title: Three Modes of Metal-Enriched Star Formation in the Early Universe
+type: article
+volume: '691'
+year: '2009'

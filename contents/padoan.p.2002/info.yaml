@@ -1,0 +1,46 @@
+abstract: The morphology and kinematics of molecular clouds (MCs) are best explained
+  as the consequence of supersonic turbulence. Supersonic turbulence fragments MCs
+  into dense sheets, filaments, and cores and large low-density ``voids,'' via the
+  action of highly radiative shocks. We refer to this process as turbulent fragmentation.
+  In this work we derive the mass distribution of gravitationally unstable cores generated
+  by the process of turbulent fragmentation. The mass distribution above 1 Msolar
+  depends primarily on the power spectrum of the turbulent flow and on the jump conditions
+  for isothermal shocks in a magnetized gas. For a power spectrum index beta=1.74,
+  consistent with Larson's velocity dispersion-size relation as well as with new numerical
+  and analytic results on supersonic turbulence, we obtain a power-law mass distribution
+  of dense cores with a slope equal to 3/(4-beta)=1.33, consistent with the slope
+  of the stellar initial mass function (IMF). Below 1 Msolar, the mass distribution
+  flattens and turns around at a fraction of 1 Msolar, as observed for the stellar
+  IMF in a number of stellar clusters, because only the densest cores are gravitationally
+  unstable. The mass distribution at low masses is determined by the probability distribution
+  of the gas density, which is known to be approximately lognormal for an isothermal
+  turbulent gas. The intermittent nature of the turbulent density distribution is
+  thus responsible for the existence of a significant number of small collapsing cores,
+  even of substellar mass. Since turbulent fragmentation is unavoidable in supersonically
+  turbulent molecular clouds, and given the success of the present model in predicting
+  the observed shape of the stellar IMF, we conclude that turbulent fragmentation
+  is essential to the origin of the stellar IMF.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2002ApJ...576..870P
+arxivurl: http://arxiv.org/abs/astro-ph/0011465
+author: Padoan, P. and Nordlund, Å.
+author_list:
+- family: Padoan
+  given: P.
+- family: Nordlund
+  given: Å.
+date-added: 2017-08-11 01:27:55 +0000
+date-modified: 2017-12-05 16:37:31 +0000
+doi: 10.1086/341790
+eprint: astro-ph/0011465
+journal: \apj
+keywords: 'ISM: Kinematics and Dynamics, Stars: Formation, Stars: Luminosity Function,
+  Mass Function, Turbulence'
+month: September
+pages: 870--879
+papis_id: b37fb696c44c6f35359ddb275f0d9036
+ref: padoan.p.2002
+title: The Stellar Initial Mass Function from Turbulent Fragmentation
+type: article
+volume: '576'
+year: '2002'

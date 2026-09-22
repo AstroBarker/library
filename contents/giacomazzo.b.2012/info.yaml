@@ -1,0 +1,48 @@
+abstract: Coalescing supermassive black hole binaries are produced by the mergers
+  of galaxies and are the most powerful sources of gravitational waves accessible
+  to space-based gravitational observatories. Some such mergers may occur in the presence
+  of matter and magnetic fields and hence generate an electromagnetic counterpart.
+  In this Letter, we present the first general relativistic simulations of magnetized
+  plasma around merging supermassive black holes using the general relativistic magnetohydrodynamic
+  code Whisky. By considering different magnetic field strengths, going from non-magnetically
+  dominated to magnetically dominated regimes, we explore how magnetic fields affect
+  the dynamics of the plasma and the possible emission of electromagnetic signals.
+  In particular, we observe a total amplification of the magnetic field of ~2 orders
+  of magnitude, which is driven by the accretion onto the binary and that leads to
+  much stronger electromagnetic signals, more than a factor of 104 larger than comparable
+  calculations done in the force-free regime where such amplifications are not possible.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2012ApJ...752L..15G
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1203.6108
+author: Giacomazzo, B. and Baker, J. G. and Miller, M. C. and Reynolds, C. S. and
+  van Meter, J. R.
+author_list:
+- family: Giacomazzo
+  given: B.
+- family: Baker
+  given: J. G.
+- family: Miller
+  given: M. C.
+- family: Reynolds
+  given: C. S.
+- family: van Meter
+  given: J. R.
+date-added: 2017-08-10 21:03:41 +0000
+date-modified: 2017-12-05 16:36:38 +0000
+doi: 10.1088/2041-8205/752/1/L15
+eid: L15
+eprint: '1203.6108'
+journal: \apjl
+keywords: 'accretion, accretion disks, black hole physics, gravitational waves, magnetohydrodynamics:
+  MHD, methods: numerical'
+month: June
+pages: L15
+papis_id: 64303e23505768786d7ece0e0d758d4f
+primaryclass: astro-ph.HE
+ref: giacomazzo.b.2012
+title: General Relativistic Simulations of Magnetized Plasmas around Merging Supermassive
+  Black Holes
+type: article
+volume: '752'
+year: '2012'

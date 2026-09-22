@@ -1,0 +1,49 @@
+abstract: Considering six general relativistic, two-dimensional (2D) supernova (SN)
+  explosion models of progenitor stars between 8.1 and 27 M \&sun;, we systematically
+  analyze the properties of the neutrino emission from core collapse and bounce to
+  the post-explosion phase. The models were computed with the VERTEX-COCONUT code,
+  using three-flavor, energy-dependent neutrino transport in the ray-by-ray-plus approximation.
+  Our results confirm the close similarity of the mean energies, langErang, of \bar{\nu
+  }\_e and heavy-lepton neutrinos and even their crossing during the accretion phase
+  for stars with M >~ 10 M \&sun; as observed in previous 1D and 2D simulations with
+  state-of-the-art neutrino transport. We establish a roughly linear scaling of \langle
+  E\_{\bar{\nu }\_e}\rangle with the proto-neutron star (PNS) mass, which holds in
+  time as well as for different progenitors. Convection inside the PNS affects the
+  neutrino emission on the 10\%-20\% level, and accretion continuing beyond the onset
+  of the explosion prevents the abrupt drop of the neutrino luminosities seen in artificially
+  exploded 1D models. We demonstrate that a wavelet-based time-frequency analysis
+  of SN neutrino signals in IceCube will offer sensitive diagnostics for the SN core
+  dynamics up to at least ~10 kpc distance. Strong, narrow-band signal modulations
+  indicate quasi-periodic shock sloshing motions due to the standing accretion shock
+  instability (SASI), and the frequency evolution of such "SASI neutrino chirps" reveals
+  shock expansion or contraction. The onset of the explosion is accompanied by a shift
+  of the modulation frequency below 40-50 Hz, and post-explosion, episodic accretion
+  downflows will be signaled by activity intervals stretching over an extended frequency
+  range in the wavelet spectrogram.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014ApJ...788...82M
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1402.3415
+author: Müller, B. and Janka, H.-T.
+author_list:
+- family: Müller
+  given: B.
+- family: Janka
+  given: H.-T.
+date-added: 2017-08-10 14:30:58 +0000
+date-modified: 2017-12-05 16:36:27 +0000
+doi: 10.1088/0004-637X/788/1/82
+eid: '82'
+eprint: '1402.3415'
+journal: \apj
+keywords: 'hydrodynamics, neutrinos, radiative transfer, supernovae: general'
+month: June
+pages: '82'
+papis_id: b0280c6193cf596fe3e6ad0f0de7f6d7
+primaryclass: astro-ph.SR
+ref: muller.b.2014
+title: A New Multi-dimensional General Relativistic Neutrino Hydrodynamics Code for
+  Core-collapse Supernovae. IV. The Neutrino Signal
+type: article
+volume: '788'
+year: '2014'

@@ -1,0 +1,43 @@
+abstract: The ultrastrong magnetic field of magnetars modifies the neutrino cross-section
+  due to the parity violation of the weak interaction and can induce asymmetric propagation
+  of neutrinos. Such an anisotropic neutrino radiation transfers not only the linear
+  momentum of a neutron star but also the angular momentum, if a strong toroidal field
+  is embedded inside the stellar interior. As such, the hidden toroidal field implied
+  by recent observations potentially affects the rotational spin evolution of new-born
+  magnetars. We analytically solve the transport equation for neutrinos and evaluate
+  the degree of anisotropy that causes the magnetar to spin-up or spin-down during
+  the early neutrino cooling phase. Supposing that after the neutrino cooling phase
+  the dominant process causing the magnetar spin-down is the canonical magnetic dipole
+  radiation, we compare the solution with the observed present rotational periods
+  of anomalous X-ray pulsars 1E 1841-045 and 1E 2259+586, whose poloidal (dipole)
+  fields are \texttildelow{}1015 and 1014 G, respectively. Combining with the supernova
+  remnant age associated with these magnetars, the present evaluation implies a rough
+  constraint of global (average) toroidal field strength at Bphi \lessequivlnt{} 1015
+  G.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014MNRAS.443.3586S
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1407.4653
+author: Suwa, Y. and Enoto, T.
+author_list:
+- family: Suwa
+  given: Y.
+- family: Enoto
+  given: T.
+date-added: 2018-07-17 10:06:19 +0000
+date-modified: 2018-07-17 10:06:21 +0000
+doi: 10.1093/mnras/stu1442
+eprint: '1407.4653'
+journal: \mnras
+keywords: 'magnetic fields, neutrinos, radiative transfer, stars: magnetars, pulsars:
+  general'
+month: October
+pages: 3586--3593
+papis_id: 22440b07db8ad4277e9e4a65e43fb06f
+primaryclass: astro-ph.HE
+ref: suwa.y.2014
+title: 'Anisotropic neutrino effect on magnetar spin: constraint on inner toroidal
+  field'
+type: article
+volume: '443'
+year: '2014'

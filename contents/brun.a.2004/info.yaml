@@ -1,0 +1,55 @@
+abstract: The operation of the solar global dynamo appears to involve many dynamical
+  elements, including the generation of fields by the intense turbulence of the deep
+  convection zone, the transport of these fields into the tachocline region near the
+  base of the convection zone, the storage and amplification of toroidal fields in
+  the tachocline by differential rotation, and the destabilization and emergence of
+  such fields due to magnetic buoyancy. Self-consistent magnetohydrodynamic (MHD)
+  simulations that realistically incorporate all of these processes are not yet computationally
+  feasible, although some elements can now be studied with reasonable fidelity. Here
+  we consider the manner in which turbulent compressible convection within the bulk
+  of the solar convection zone can generate large-scale magnetic fields through dynamo
+  action. We accomplish this through a series of three-dimensional numerical simulations
+  of MHD convection within rotating spherical shells using our anelastic spherical
+  harmonic (ASH) code on massively parallel supercomputers. Since differential rotation
+  is a key ingredient in all dynamo models, we also examine here the nature of the
+  rotation profiles that can be sustained within the deep convection zone as strong
+  magnetic fields are built and maintained. We find that the convection is able to
+  maintain a solar-like angular velocity profile despite the influence of Maxwell
+  stresses, which tend to oppose Reynolds stresses and thus reduce the latitudinal
+  angular velocity contrast throughout the convection zone. The dynamo-generated magnetic
+  fields exhibit a complex structure and evolution, with radial fields concentrated
+  in downflow lanes and toroidal fields organized into twisted ribbons that are extended
+  in longitude and achieve field strengths of up to 5000 G. The flows and fields exhibit
+  substantial kinetic and magnetic helicity although systematic hemispherical patterns
+  are only apparent in the former. Fluctuating fields dominate the magnetic energy
+  and account for most of the back-reaction on the flow via Lorentz forces. Mean fields
+  are relatively weak and do not exhibit systematic latitudinal propagation or periodic
+  polarity reversals as in the Sun. This may be attributed to the absence of a tachocline,
+  i.e., a penetrative boundary layer between the convection zone and the deeper radiative
+  interior possessing strong rotational shear. The influence of such a layer will
+  await subsequent studies.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004ApJ...614.1073B
+arxivurl: http://arxiv.org/abs/astro-ph/0610073
+author: Brun, A. S. and Miesch, M. S. and Toomre, J.
+author_list:
+- family: Brun
+  given: A. S.
+- family: Miesch
+  given: M. S.
+- family: Toomre
+  given: J.
+date-added: 2017-08-11 06:12:07 +0000
+date-modified: 2017-12-05 16:37:23 +0000
+doi: 10.1086/423835
+eprint: astro-ph/0610073
+journal: \apj
+keywords: 'Convection, Magnetohydrodynamics: MHD, Sun: Magnetic Fields, Turbulence'
+month: October
+pages: 1073--1098
+papis_id: de12abac5f19568f3d07a16114236efa
+ref: brun.a.2004
+title: Global-Scale Turbulent Convection and Magnetic Dynamo Action in the Solar Envelope
+type: article
+volume: '614'
+year: '2004'

@@ -1,0 +1,53 @@
+abstract: Radiative shocks (RS) occur in astrophysical systems and in high-energy
+  density laboratory experiments. Aided by three dimensionless parameters, we propose
+  a classification of RS into four types, integrating previous work that has focused
+  independently on optical depth and on Mach number. Specific terms, such as a cooling
+  function, a radiative flux, or radiative energy and pressure must be added to the
+  Euler equations in order to model these various kinds of shocks. We examine how
+  these terms correspond to the radiative classification regimes. In astrophysics,
+  observed RS arise generally in optically thin material. Thus, radiation escapes
+  without interaction with the surrounding gas, except perhaps to ionize it, and the
+  energy loss in such shocks can be modeled by a cooling function Lambda. In this
+  case only the post-shock region is structured by the radiation cooling. We found
+  the analytical solution for hydrodynamic equations including Lambda \propto{} rho  \ensuremath{\epsilon}  P
+  zeta x  theta  for arbitrary values of \ensuremath{\epsilon}, zeta, theta. This
+  is a completely new result. An application of this calculation for the accretion
+  shock in cataclysmic variables of polar type is given in astrophysical terms. We
+  also draw a parallel between RS experiments performed using the LULI2000 laser facility,
+  in France and the Omega laser Facility, in USA. RS developed in these laboratories
+  are more or less optically thick. These high-Mach number RS present a radiative
+  precursor.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009Ap\%26SS.322...77M
+author: Michaut, C. and Falize, E. and Cavet, C. and Bouquet, S. and Koenig, M. and
+  Vinci, T. and Reighard, A. and Drake, R. P.
+author_list:
+- family: Michaut
+  given: C.
+- family: Falize
+  given: E.
+- family: Cavet
+  given: C.
+- family: Bouquet
+  given: S.
+- family: Koenig
+  given: M.
+- family: Vinci
+  given: T.
+- family: Reighard
+  given: A.
+- family: Drake
+  given: R. P.
+date-added: 2017-08-11 06:40:35 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1007/s10509-008-9966-5
+journal: \apss
+keywords: Radiative shocks, High-power lasers, Cooling function
+month: August
+pages: 77--84
+papis_id: 5da56ca77247c6ece9afb86b664bc45f
+ref: michaut.c.2009
+title: Classification of and recent research involving radiative shocks
+type: article
+volume: '322'
+year: '2009'

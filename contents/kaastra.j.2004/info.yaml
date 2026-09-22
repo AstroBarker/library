@@ -1,0 +1,67 @@
+abstract: We present spatially resolved X-ray spectra taken with the EPIC cameras
+  of XMM-Newton of a sample of 17 cooling clusters and three non-cooling clusters
+  for comparison. The deprojected spectra are analyzed with a multi-temperature model,
+  independent of any a priori assumptions about the physics behind the cooling and
+  heating mechanisms. All cooling clusters show a central decrement of the average
+  temperature, most of them of a factor of \texttildelow{} 2. Three clusters (S{\'e}rsic
+  159-3, MKW 3s and Hydra A) only show a weak temperature decrement, while two others
+  (A 399 and A 2052) have a very strong temperature decrement. All cooling clusters
+  show a weak pressure gradient in the core. More important, at each radius within
+  the cooling region the gas is not isothermal. The differential emission measure
+  distribution shows a strong peak near the maximum (ambient) temperature, with a
+  steep decline towards lower temperatures, approximately proportional to T3, or alternatively
+  a cut-off at about a quarter to half of the maximum temperature. In general, we
+  find a poor correlation between radio flux of the central galaxy and the temperature
+  decrement of the cooling flow. This is interpreted as evidence that except for a
+  few cases (like the Hydra A cluster) heating by a central AGN is not the most common
+  cause of weak cooling flows. We investigate the role of heat conduction by electrons
+  and find that the theoretically predicted conductivity rates are not high enough
+  to balance radiation losses. The differential emission measure distribution has
+  remarkable similarities with the predictions from coronal magnetic loop models.
+  Also the physical processes involved (radiative cooling, thermal conduction along
+  the loops, gravity) are similar for clusters loops and coronal loops. If coronal
+  loop models apply to clusters, we find that a few hundred loops per scale height
+  should be present. The typical loop sizes deduced from the observed emission measure
+  distribution are consistent with the characteristic magnetic field sizes deduced
+  from Faraday rotation measurements.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2004A\%26A...413..415K
+arxivurl: http://arxiv.org/abs/astro-ph/0309763
+author: Kaastra, J. S. and Tamura, T. and Peterson, J. R. and Bleeker, J. A. M. and
+  Ferrigno, C. and Kahn, S. M. and Paerels, F. B. S. and Piffaretti, R. and Branduardi-Raymont,
+  G. and Böhringer, H.
+author_list:
+- family: Kaastra
+  given: J. S.
+- family: Tamura
+  given: T.
+- family: Peterson
+  given: J. R.
+- family: Bleeker
+  given: J. A. M.
+- family: Ferrigno
+  given: C.
+- family: Kahn
+  given: S. M.
+- family: Paerels
+  given: F. B. S.
+- family: Piffaretti
+  given: R.
+- family: Branduardi-Raymont
+  given: G.
+- family: Böhringer
+  given: H.
+date-added: 2017-08-11 04:02:08 +0000
+date-modified: 2017-12-05 16:37:26 +0000
+doi: 10.1051/0004-6361:20031512
+eprint: astro-ph/0309763
+journal: \aap
+keywords: 'galaxies: clusters: general, cooling flows, X-rays: galaxies: clusters'
+month: January
+pages: 415--439
+papis_id: 9470cc0946f0be208ac17beb6804d628
+ref: kaastra.j.2004
+title: Spatially resolved X-ray spectroscopy of cooling clusters of galaxies
+type: article
+volume: '413'
+year: '2004'

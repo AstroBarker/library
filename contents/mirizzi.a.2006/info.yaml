@@ -1,0 +1,43 @@
+abstract: A model-independent experimental signature for flavour oscillations in the
+  neutrino signal from the next Galactic supernova (SN) would be the observation of
+  Earth matter effects. We calculate the probability for observing a Galactic SN shadowed
+  by the Earth as a function of the detector's geographic latitude. This probability
+  depends only mildly on details of the Galactic SN distribution. A location at the
+  North Pole would be optimal with a shadowing probability of about 60\%, but a far-northern
+  location such as Pyh{\"a}salmi in Finland, the proposed site for a large-volume
+  scintillator detector, is almost equivalent (58\%). We also consider several pairs
+  of detector locations and calculate the probability that only one of them is shadowed,
+  allowing a comparison between a shadowed and a direct signal. For the South Pole
+  combined with Kamioka, this probability is almost 75\%; for the South Pole combined
+  with Pyh{\"a}salmi, it is almost 90\%. One particular scenario consists of a large-volume
+  scintillator detector located in Pyh{\"a}salmi to measure the geo-neutrino flux
+  in a continental location and another such detector in Hawaii to measure it in an
+  oceanic location. The probability that only one of them is shadowed exceeds 50\%,
+  whereas the probability that at least one is shadowed is about 80\%. We provide
+  an online tool to calculate different shadowing probabilities for the one- and two-detector
+  cases.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2006JCAP...05..012M
+arxivurl: http://arxiv.org/abs/astro-ph/0604300
+author: Mirizzi, A. and Raffelt, G. G. and Serpico, P. D.
+author_list:
+- family: Mirizzi
+  given: A.
+- family: Raffelt
+  given: G. G.
+- family: Serpico
+  given: P. D.
+date-added: 2017-08-11 00:27:06 +0000
+date-modified: 2017-12-05 16:37:16 +0000
+doi: 10.1088/1475-7516/2006/05/012
+eid: '012'
+eprint: astro-ph/0604300
+journal: \jcap
+month: May
+pages: '012'
+papis_id: 9df191b8a5442c4eda16966bb37e30a4
+ref: mirizzi.a.2006
+title: 'Earth matter effects in supernova neutrinos: optimal detector locations'
+type: article
+volume: '5'
+year: '2006'

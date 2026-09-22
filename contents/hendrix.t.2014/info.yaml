@@ -1,0 +1,52 @@
+abstract: 'Context. Dust is present in a large variety of astrophysical fluids, ranging
+  from tori around supermassive black holes to molecular clouds, protoplanetary discs,
+  and cometary outflows. In many such fluids, shearing flows are present, which can
+  lead to the formation of Kelvin-Helmholtz instabilities (KHI) and may change the
+  properties and structures of the fluid through processes such as mixing and clumping
+  of dust.  Aims: We study the effects of dust on the KHI by performing numerical
+  hydrodynamical dust+gas simulations. We investigate how the presence of dust changes
+  the growth rates of the KHI in 2D and 3D and how the KHI redistributes and clumps
+  dust. We investigate if similarities can be found between the structures in 3D KHI
+  and those seen in observations of molecular clouds.  Methods: We perform numerical
+  multifluid hydrodynamical simulations in addition to the gas a number of dust fluids.
+  Each dust fluid represents a portion of the particle size-distribution. We study
+  how dust-to-gas mass density ratios between 0.01 and 1 alter the growth rate in
+  the linear phase of the KHI. We do this for a wide range of perturbation wavelengths,
+  and compare these values to the analytical gas-only growth rates. As the formation
+  of high-density dust structures is of interest in many astrophysical environments,
+  we scale our simulations with physical quantities that are similar to values in
+  molecular clouds.  Results: Large differences in dynamics are seen for different
+  grain sizes. We demonstrate that high dust-to-gas ratios significantly reduce the
+  growth rate of the KHI, especially for short wavelengths. We compare the dynamics
+  in 2D and 3D simulations, where the latter demonstrates additional full 3D instabilities
+  during the non-linear phase, leading to increased dust densities. We compare the
+  structures formed by the KHI in 3D simulations with those in molecular clouds and
+  see how the column density distribution of the simulation shares similarities with
+  log-normal distributions with power-law tails sometimes seen in observations of
+  molecular clouds.'
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2014A\%26A...562A.114H
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/1401.6774
+author: Hendrix, T. and Keppens, R.
+author_list:
+- family: Hendrix
+  given: T.
+- family: Keppens
+  given: R.
+date-added: 2017-08-11 07:00:05 +0000
+date-modified: 2017-12-05 16:36:29 +0000
+doi: 10.1051/0004-6361/201322322
+eid: A114
+eprint: '1401.6774'
+journal: \aap
+keywords: 'instabilities, hydrodynamics, ISM: clouds, dust, extinction, ISM: kinematics
+  and dynamics'
+month: February
+pages: A114
+papis_id: 81ab9ca6802c4ed09edc9381bfcdb336
+ref: hendrix.t.2014
+title: Effect of dust on Kelvin-Helmholtz instabilities
+type: article
+volume: '562'
+year: '2014'

@@ -1,0 +1,46 @@
+abstract: We study the effects of rotation on standing accretion shock instability
+  (SASI) by performing three-dimensional hydrodynamics simulations. Taking into account
+  a realistic equation of state and neutrino heating/cooling, we prepare a spherically
+  symmetric and steady accretion flow through a standing shock wave onto a proto-neutron
+  star (PNS). When the SASI enters the nonlinear phase, we impose uniform rotation
+  on the flow advecting from the outer boundary of the iron core, whose specific angular
+  momentum is assumed to agree with recent stellar evolution models. Using spherical
+  harmonics in space and Fourier decompositions in time, we perform mode analysis
+  of the nonspherical deformed shock wave to observe rotational effects on the SASI
+  in the nonlinear phase. We find that rotation imposed on the axisymmetric flow does
+  not make any spiral modes and hardly affects sloshing modes, except for steady l
+  = 2, m = 0 modes. In contrast, rotation imposed on the nonaxisymmetric flow increases
+  the amplitude of spiral modes so that some spiral flows accreting on the PNS are
+  more clearly formed inside the shock wave than without rotation. The amplitudes
+  of spiral modes increase significantly with rotation in the progressive direction.
+adsnote: Provided by the SAO/NASA Astrophysics Data System
+adsurl: http://adsabs.harvard.edu/abs/2009ApJ...700..232I
+archiveprefix: arXiv
+arxivurl: http://arxiv.org/abs/0811.0651
+author: Iwakami, W. and Kotake, K. and Ohnishi, N. and Yamada, S. and Sawada, K.
+author_list:
+- family: Iwakami
+  given: W.
+- family: Kotake
+  given: K.
+- family: Ohnishi
+  given: N.
+- family: Yamada
+  given: S.
+- family: Sawada
+  given: K.
+date-added: 2017-08-10 14:46:28 +0000
+date-modified: 2017-12-05 16:36:55 +0000
+doi: 10.1088/0004-637X/700/1/232
+eprint: '0811.0651'
+journal: \apj
+keywords: 'hydrodynamics, instabilities, neutrinos, supernovae: general'
+month: July
+pages: 232--242
+papis_id: df7003939d638d8e0b1636a814385c6e
+ref: iwakami.w.2009
+title: Effects of Rotation on Standing Accretion Shock Instability in Nonlinear Phase
+  for Core-Collapse Supernovae
+type: article
+volume: '700'
+year: '2009'
