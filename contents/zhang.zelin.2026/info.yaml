@@ -1,0 +1,37 @@
+abstract: Polarized black-hole images carry information about both the magnetized
+  plasma and the curved spacetime through which the radiation propagates. We present
+  KPolaris, an open-source GPU-accelerated general-relativistic polarized radiative-transfer
+  code built on the Kokkos framework. It supports analytic plasma models and GRMHD
+  simulation data, with both fast-light and slow-light radiative transfer. The code
+  also provides diagnostics that connect image structure to the emitting plasma and
+  to propagation effects along the rays. These include emissivity-weighted plasma
+  maps, emission contributions from selected regions, selected-ray histories, and
+  sensitivities of the Stokes parameters to plasma parameters. Numerical convergence
+  tests and comparisons with an independent radiative-transfer code assess the accuracy
+  of the calculations. GPU acceleration reduces the computational cost of image generation,
+  facilitating multi-frequency and time-dependent studies of polarized black-hole
+  images.
+author: Zhang, Zelin and Chen, Bin
+author_list:
+- family: Zhang
+  given: Zelin
+- family: Chen
+  given: Bin
+doc_url: https://arxiv.org/pdf/2609.26298v1
+eprint: 2609.26298v1
+eprintclass: astro-ph.HE
+eprinttype: arxiv
+files:
+- zhang.zelin.2026.pdf
+month: 9
+papis_id: 24c1d8b075dfda220fa8923931f7bf2b
+ref: zhang.zelin.2026
+tags:
+- transport
+- gr
+- code
+time-added: 2026-09-23-08:08:40
+title: 'KPolaris: GPU-accelerated Polarized Radiative Transfer in General Relativity'
+type: article
+url: http://arxiv.org/abs/2609.26298v1
+year: 2026

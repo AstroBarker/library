@@ -1,0 +1,50 @@
+abstract: We establish a fully discrete weak-to-strong (W2S) multi-entropy stability
+  theory for arbitrarily high-order finite-volume and discontinuous Galerkin (DG)
+  approximations of the ideal compressible magnetohydrodynamics (MHD) equations on
+  general polytopal meshes, whereby a single numerical update simultaneously satisfies
+  discrete entropy inequalities for any prescribed finite family of convex Harten
+  entropy pairs. Because physical entropies are defined only for positive density
+  and pressure, the central analytical difficulty lies in reconciling discrete entropy
+  stability with positivity preservation, the magnetic divergence constraint, and
+  the nonconservative Godunov--Powell coupling.   Building upon the provably positivity-preserving
+  MHD framework of Wu and Shu, we develop a weak multi-entropy analysis of the common
+  cell-average evolution of finite-volume and DG methods. Through convex decomposition
+  and relative entropy, we establish two sufficient criteria for this weak stability
+  general polytopal meshes. Compatible magnetic corrections and locally divergence-free
+  approximations cooperatively offset the nonconservative Godunov--Powell coupling
+  and provide the discrete cancellations essential to both positivity-preservation
+  and entropy stability. A W2S lifting then unifies positivity and entropy limiting
+  into a single cellwise scaling limiter, achieving strong multi-entropy stability
+  while strictly preserving cell averages and the locally divergence-free magnetic
+  field. High-order temporal accuracy follows from variable-step strong-stability-preserving
+  multistep methods. Numerical experiments confirm the theoretical findings and demonstrate
+  computational robustness. This framework provides a rigorous, fully discrete foundation
+  for unifying physical admissibility, magnetic divergence control, and multi-entropy
+  stability in high-order MHD approximations.
+author: Cao, Huihui and Wu, Kailiang and Yuan, Caiyou
+author_list:
+- family: Cao
+  given: Huihui
+- family: Wu
+  given: Kailiang
+- family: Yuan
+  given: Caiyou
+doc_url: https://arxiv.org/pdf/2609.26791v1
+eprint: 2609.26791v1
+eprintclass: math.NA
+eprinttype: arxiv
+files:
+- cao.huihui.2026.pdf
+month: 9
+papis_id: 9612970482b67560f8c189e2b16657a4
+ref: cao.huihui.2026
+tags:
+- dg
+- entropy-stable
+- mhd
+time-added: 2026-09-23-08:07:44
+title: 'Fully Discrete Multi-Entropy Stability of High-Order Schemes for Compressible
+  MHD: A Weak-to-Strong Framework'
+type: article
+url: http://arxiv.org/abs/2609.26791v1
+year: 2026
